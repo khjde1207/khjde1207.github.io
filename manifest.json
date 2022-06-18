@@ -1,12 +1,12 @@
 {
-    "name": "test",
-    "short_name": "test",
+    "name": "OpenTextViewer",
+    "short_name": "OpenTextViewer",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "description": "OpenTextViewer",
+    "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
         {
