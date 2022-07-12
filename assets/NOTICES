@@ -2452,7 +2452,6 @@ SOFTWARE.
 
 --------------------------------------------------------------------------------
 badges
-webdriver
 
                                  Apache License
                            Version 2.0, January 2004
@@ -6170,7 +6169,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 convert
 crypto
 source_gen
-vm_service
 
 Copyright 2015, the Dart project authors.
 
@@ -13808,7 +13806,6 @@ pedantic
 platform
 process
 stream_transform
-sync_http
 term_glyph
 
 Copyright 2017, the Dart project authors. All rights reserved.
