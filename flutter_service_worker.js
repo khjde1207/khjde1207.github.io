@@ -3,14 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "9d9a0950370dcf52dd58dea0eb5c4138",
+  "main.dart.js": "06309a13f02b5d137872244d85257126",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
 "adview.html": "32a302b207fafdc939ca916ce9c1e75e",
-"index.html": "3cee4415908e48ca13a80d1c196ef783",
-"/": "3cee4415908e48ca13a80d1c196ef783",
+"index.html": "029e02471a655ac87a8b3a5dd69c3236",
+"/": "029e02471a655ac87a8b3a5dd69c3236",
 "splash/splash.js": "c6a271349a0cd249bdb6d3c4d12f5dcf",
 "splash/img/light-1x.png": "abe8ca769626501d142ee3ba1fd64221",
 "splash/img/dark-4x.png": "0c4f51f40fda1c4b9fa7ca9074f94071",
@@ -84,7 +84,7 @@ const RESOURCES = {
 "assets/FontManifest.json": "b768c3a87a4af36c970d2d0d10faf816",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
-"version.json": "6c1562bf4e3266f7ff6541acbe0e172a",
+"version.json": "3742c8855f4ea2f7637c66fe70ff40e8",
 "favicon.png": "25693b8fd9b3b2d2bcf7fb818bd50a31"
 };
 
