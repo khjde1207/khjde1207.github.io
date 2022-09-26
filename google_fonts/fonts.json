@@ -15,6 +15,9 @@
         ],
         "volume": 2145492,
         "imagepath": [
+            "AbhayaLibre-Bold_en.png",
+            "AbhayaLibre-Medium_en.png",
+            "AbhayaLibre-Regular_en.png",
             "AbhayaLibre-SemiBold_en.png"
         ]
     },
@@ -51,6 +54,10 @@
         ],
         "volume": 425676,
         "imagepath": [
+            "AdventPro-Bold_en.png",
+            "AdventPro-Light_en.png",
+            "AdventPro-Medium_en.png",
+            "AdventPro-Regular_en.png",
             "AdventPro-SemiBold_en.png"
         ]
     },
@@ -148,6 +155,7 @@
         ],
         "volume": 183308,
         "imagepath": [
+            "Alef-Bold_en.png",
             "Alef-Regular_en.png"
         ]
     },
@@ -188,6 +196,10 @@
         ],
         "volume": 1324580,
         "imagepath": [
+            "AlegreyaSans-Black_en.png",
+            "AlegreyaSans-Bold_en.png",
+            "AlegreyaSans-Light_en.png",
+            "AlegreyaSans-Medium_en.png",
             "AlegreyaSans-Regular_en.png"
         ]
     },
@@ -210,6 +222,10 @@
         ],
         "volume": 1341116,
         "imagepath": [
+            "AlegreyaSansSC-Black_en.png",
+            "AlegreyaSansSC-Bold_en.png",
+            "AlegreyaSansSC-Light_en.png",
+            "AlegreyaSansSC-Medium_en.png",
             "AlegreyaSansSC-Regular_en.png"
         ]
     },
@@ -231,6 +247,9 @@
         ],
         "volume": 1529496,
         "imagepath": [
+            "AlegreyaSC-Black_en.png",
+            "AlegreyaSC-Bold_en.png",
+            "AlegreyaSC-Medium_en.png",
             "AlegreyaSC-Regular_en.png"
         ]
     },
@@ -345,6 +364,8 @@
         ],
         "volume": 458976,
         "imagepath": [
+            "Almarai-Bold_en.png",
+            "Almarai-Light_en.png",
             "Almarai-Regular_en.png"
         ]
     },
@@ -431,6 +452,7 @@
         ],
         "volume": 307804,
         "imagepath": [
+            "AmaticSC-Bold_en.png",
             "AmaticSC-Regular_en.png"
         ]
     },
@@ -449,6 +471,8 @@
         ],
         "volume": 583700,
         "imagepath": [
+            "Amiko-Bold_en.png",
+            "Amiko-Regular_en.png",
             "Amiko-SemiBold_en.png"
         ]
     },
@@ -466,6 +490,7 @@
         ],
         "volume": 1103048,
         "imagepath": [
+            "Amiri-Bold_en.png",
             "Amiri-Regular_en.png"
         ]
     },
@@ -514,6 +539,7 @@
         ],
         "volume": 436788,
         "imagepath": [
+            "Amita-Bold_en.png",
             "Amita-Regular_en.png"
         ]
     },
@@ -564,6 +590,7 @@
         ],
         "volume": 1350836,
         "imagepath": [
+            "Andika-Bold_en.png",
             "Andika-Regular_en.png"
         ]
     },
@@ -581,6 +608,7 @@
         ],
         "volume": 474280,
         "imagepath": [
+            "AndikaNewBasic-Bold_en.png",
             "AndikaNewBasic-Regular_en.png"
         ]
     },
@@ -775,6 +803,7 @@
         ],
         "volume": 311716,
         "imagepath": [
+            "AnonymousPro-Bold_en.png",
             "AnonymousPro-Regular_en.png"
         ]
     },
@@ -873,6 +902,7 @@
         ],
         "volume": 234548,
         "imagepath": [
+            "ArefRuqaa-Bold_en.png",
             "ArefRuqaa-Regular_en.png"
         ]
     },
@@ -890,6 +920,7 @@
         ],
         "volume": 1199072,
         "imagepath": [
+            "ArefRuqaaInk-Bold_en.png",
             "ArefRuqaaInk-Regular_en.png"
         ]
     },
@@ -946,6 +977,10 @@
         ],
         "volume": 604588,
         "imagepath": [
+            "ArimaMadurai-Black_en.png",
+            "ArimaMadurai-Bold_en.png",
+            "ArimaMadurai-Light_en.png",
+            "ArimaMadurai-Medium_en.png",
             "ArimaMadurai-Regular_en.png"
         ]
     },
@@ -980,6 +1015,7 @@
         ],
         "volume": 394484,
         "imagepath": [
+            "Arsenal-Bold_en.png",
             "Arsenal-Regular_en.png"
         ]
     },
@@ -997,6 +1033,7 @@
         ],
         "volume": 368536,
         "imagepath": [
+            "Arya-Bold_en.png",
             "Arya-Regular_en.png"
         ]
     },
@@ -1032,6 +1069,9 @@
         ],
         "volume": 435608,
         "imagepath": [
+            "AsapCondensed-Bold_en.png",
+            "AsapCondensed-Medium_en.png",
+            "AsapCondensed-Regular_en.png",
             "AsapCondensed-SemiBold_en.png"
         ]
     },
@@ -1085,6 +1125,10 @@
         ],
         "volume": 918148,
         "imagepath": [
+            "Athiti-Bold_en.png",
+            "Athiti-Light_en.png",
+            "Athiti-Medium_en.png",
+            "Athiti-Regular_en.png",
             "Athiti-SemiBold_en.png"
         ]
     },
@@ -1105,6 +1149,10 @@
         ],
         "volume": 1096448,
         "imagepath": [
+            "Atma-Bold_en.png",
+            "Atma-Light_en.png",
+            "Atma-Medium_en.png",
+            "Atma-Regular_en.png",
             "Atma-SemiBold_en.png"
         ]
     },
@@ -1175,6 +1223,10 @@
         ],
         "volume": 410768,
         "imagepath": [
+            "BaiJamjuree-Bold_en.png",
+            "BaiJamjuree-Light_en.png",
+            "BaiJamjuree-Medium_en.png",
+            "BaiJamjuree-Regular_en.png",
             "BaiJamjuree-SemiBold_en.png"
         ]
     },
@@ -1394,6 +1446,7 @@
         ],
         "volume": 751812,
         "imagepath": [
+            "BalsamiqSans-Bold_en.png",
             "BalsamiqSans-Regular_en.png"
         ]
     },
@@ -1431,6 +1484,11 @@
         ],
         "volume": 638424,
         "imagepath": [
+            "Barlow-Black_en.png",
+            "Barlow-Bold_en.png",
+            "Barlow-Light_en.png",
+            "Barlow-Medium_en.png",
+            "Barlow-Regular_en.png",
             "Barlow-SemiBold_en.png"
         ]
     },
@@ -1452,6 +1510,11 @@
         ],
         "volume": 638004,
         "imagepath": [
+            "BarlowCondensed-Black_en.png",
+            "BarlowCondensed-Bold_en.png",
+            "BarlowCondensed-Light_en.png",
+            "BarlowCondensed-Medium_en.png",
+            "BarlowCondensed-Regular_en.png",
             "BarlowCondensed-SemiBold_en.png"
         ]
     },
@@ -1473,6 +1536,11 @@
         ],
         "volume": 650796,
         "imagepath": [
+            "BarlowSemiCondensed-Black_en.png",
+            "BarlowSemiCondensed-Bold_en.png",
+            "BarlowSemiCondensed-Light_en.png",
+            "BarlowSemiCondensed-Medium_en.png",
+            "BarlowSemiCondensed-Regular_en.png",
             "BarlowSemiCondensed-SemiBold_en.png"
         ]
     },
@@ -1508,6 +1576,9 @@
         ],
         "volume": 432792,
         "imagepath": [
+            "Battambang-Black_en.png",
+            "Battambang-Bold_en.png",
+            "Battambang-Light_en.png",
             "Battambang-Regular_en.png"
         ]
     },
@@ -1575,6 +1646,8 @@
         ],
         "volume": 587412,
         "imagepath": [
+            "Bellota-Bold_en.png",
+            "Bellota-Light_en.png",
             "Bellota-Regular_en.png"
         ]
     },
@@ -1594,6 +1667,8 @@
         ],
         "volume": 582004,
         "imagepath": [
+            "BellotaText-Bold_en.png",
+            "BellotaText-Light_en.png",
             "BellotaText-Regular_en.png"
         ]
     },
@@ -1646,6 +1721,10 @@
         ],
         "volume": 438424,
         "imagepath": [
+            "BeVietnam-Bold_en.png",
+            "BeVietnam-Light_en.png",
+            "BeVietnam-Medium_en.png",
+            "BeVietnam-Regular_en.png",
             "BeVietnam-SemiBold_en.png"
         ]
     },
@@ -1667,6 +1746,11 @@
         ],
         "volume": 825348,
         "imagepath": [
+            "BeVietnamPro-Black_en.png",
+            "BeVietnamPro-Bold_en.png",
+            "BeVietnamPro-Light_en.png",
+            "BeVietnamPro-Medium_en.png",
+            "BeVietnamPro-Regular_en.png",
             "BeVietnamPro-SemiBold_en.png"
         ]
     },
@@ -1844,6 +1928,7 @@
         ],
         "volume": 649116,
         "imagepath": [
+            "BirthstoneBounce-Medium_en.png",
             "BirthstoneBounce-Regular_en.png"
         ]
     },
@@ -1864,6 +1949,10 @@
         ],
         "volume": 896896,
         "imagepath": [
+            "Biryani-Black_en.png",
+            "Biryani-Bold_en.png",
+            "Biryani-Light_en.png",
+            "Biryani-Regular_en.png",
             "Biryani-SemiBold_en.png"
         ]
     },
@@ -1899,6 +1988,8 @@
         ],
         "volume": 9305504,
         "imagepath": [
+            "BIZUDGothic-Bold_en.png",
+            "BIZUDGothic-Bold_jp.png",
             "BIZUDGothic-Regular_en.png",
             "BIZUDGothic-Regular_jp.png"
         ]
@@ -1936,6 +2027,8 @@
         ],
         "volume": 9310280,
         "imagepath": [
+            "BIZUDPGothic-Bold_en.png",
+            "BIZUDPGothic-Bold_jp.png",
             "BIZUDPGothic-Regular_en.png",
             "BIZUDPGothic-Regular_jp.png"
         ]
@@ -2087,6 +2180,7 @@
         ],
         "volume": 797944,
         "imagepath": [
+            "BonaNova-Bold_en.png",
             "BonaNova-Regular_en.png"
         ]
     },
@@ -2268,6 +2362,9 @@
         ],
         "volume": 394844,
         "imagepath": [
+            "CabinCondensed-Bold_en.png",
+            "CabinCondensed-Medium_en.png",
+            "CabinCondensed-Regular_en.png",
             "CabinCondensed-SemiBold_en.png"
         ]
     },
@@ -2333,6 +2430,7 @@
         ],
         "volume": 456012,
         "imagepath": [
+            "Cambay-Bold_en.png",
             "Cambay-Regular_en.png"
         ]
     },
@@ -2383,6 +2481,7 @@
         ],
         "volume": 748788,
         "imagepath": [
+            "Cardo-Bold_en.png",
             "Cardo-Regular_en.png"
         ]
     },
@@ -2416,6 +2515,7 @@
         ],
         "volume": 938032,
         "imagepath": [
+            "Caudex-Bold_en.png",
             "Caudex-Regular_en.png"
         ]
     },
@@ -2453,6 +2553,10 @@
         ],
         "volume": 393012,
         "imagepath": [
+            "ChakraPetch-Bold_en.png",
+            "ChakraPetch-Light_en.png",
+            "ChakraPetch-Medium_en.png",
+            "ChakraPetch-Regular_en.png",
             "ChakraPetch-SemiBold_en.png"
         ]
     },
@@ -2487,6 +2591,7 @@
         ],
         "volume": 1491388,
         "imagepath": [
+            "CharisSIL-Bold_en.png",
             "CharisSIL-Regular_en.png"
         ]
     },
@@ -2505,6 +2610,7 @@
         ],
         "volume": 277264,
         "imagepath": [
+            "Charm-Bold_en.png",
             "Charm-Regular_en.png"
         ]
     },
@@ -2523,6 +2629,7 @@
         ],
         "volume": 235028,
         "imagepath": [
+            "Charmonman-Bold_en.png",
             "Charmonman-Regular_en.png"
         ]
     },
@@ -2541,6 +2648,8 @@
         ],
         "volume": 1005088,
         "imagepath": [
+            "Chathura-Bold_en.png",
+            "Chathura-Light_en.png",
             "Chathura-Regular_en.png"
         ]
     },
@@ -2744,6 +2853,7 @@
         ],
         "volume": 619384,
         "imagepath": [
+            "Content-Bold_en.png",
             "Content-Regular_en.png"
         ]
     },
@@ -2761,6 +2871,7 @@
         ],
         "volume": 437708,
         "imagepath": [
+            "Corinthia-Bold_en.png",
             "Corinthia-Regular_en.png"
         ]
     },
@@ -2799,6 +2910,10 @@
         ],
         "volume": 3934572,
         "imagepath": [
+            "CormorantGaramond-Bold_en.png",
+            "CormorantGaramond-Light_en.png",
+            "CormorantGaramond-Medium_en.png",
+            "CormorantGaramond-Regular_en.png",
             "CormorantGaramond-SemiBold_en.png"
         ]
     },
@@ -2820,6 +2935,10 @@
         ],
         "volume": 3847656,
         "imagepath": [
+            "CormorantInfant-Bold_en.png",
+            "CormorantInfant-Light_en.png",
+            "CormorantInfant-Medium_en.png",
+            "CormorantInfant-Regular_en.png",
             "CormorantInfant-SemiBold_en.png"
         ]
     },
@@ -2841,6 +2960,10 @@
         ],
         "volume": 3816832,
         "imagepath": [
+            "CormorantSC-Bold_en.png",
+            "CormorantSC-Light_en.png",
+            "CormorantSC-Medium_en.png",
+            "CormorantSC-Regular_en.png",
             "CormorantSC-SemiBold_en.png"
         ]
     },
@@ -2862,6 +2985,10 @@
         ],
         "volume": 3818076,
         "imagepath": [
+            "CormorantUnicase-Bold_en.png",
+            "CormorantUnicase-Light_en.png",
+            "CormorantUnicase-Medium_en.png",
+            "CormorantUnicase-Regular_en.png",
             "CormorantUnicase-SemiBold_en.png"
         ]
     },
@@ -2882,6 +3009,10 @@
         ],
         "volume": 1116584,
         "imagepath": [
+            "CormorantUpright-Bold_en.png",
+            "CormorantUpright-Light_en.png",
+            "CormorantUpright-Medium_en.png",
+            "CormorantUpright-Regular_en.png",
             "CormorantUpright-SemiBold_en.png"
         ]
     },
@@ -2916,6 +3047,8 @@
         ],
         "volume": 331172,
         "imagepath": [
+            "CrimsonText-Bold_en.png",
+            "CrimsonText-Regular_en.png",
             "CrimsonText-SemiBold_en.png"
         ]
     },
@@ -3002,6 +3135,11 @@
         ],
         "volume": 480328,
         "imagepath": [
+            "DarkerGrotesque-Black_en.png",
+            "DarkerGrotesque-Bold_en.png",
+            "DarkerGrotesque-Light_en.png",
+            "DarkerGrotesque-Medium_en.png",
+            "DarkerGrotesque-Regular_en.png",
             "DarkerGrotesque-SemiBold_en.png"
         ]
     },
@@ -3038,6 +3176,8 @@
         ],
         "volume": 336408,
         "imagepath": [
+            "DavidLibre-Bold_en.png",
+            "DavidLibre-Medium_en.png",
             "DavidLibre-Regular_en.png"
         ]
     },
@@ -3106,6 +3246,7 @@
         ],
         "volume": 133652,
         "imagepath": [
+            "Dhyana-Bold_en.png",
             "Dhyana-Regular_en.png"
         ]
     },
@@ -3175,6 +3316,10 @@
         ],
         "volume": 13324196,
         "imagepath": [
+            "Dongle-Bold_en.png",
+            "Dongle-Bold_ko.png",
+            "Dongle-Light_en.png",
+            "Dongle-Light_ko.png",
             "Dongle-Regular_en.png",
             "Dongle-Regular_ko.png"
         ]
@@ -3297,6 +3442,10 @@
         ],
         "volume": 2086896,
         "imagepath": [
+            "EkMukta-Bold_en.png",
+            "EkMukta-Light_en.png",
+            "EkMukta-Medium_en.png",
+            "EkMukta-Regular_en.png",
             "EkMukta-SemiBold_en.png"
         ]
     },
@@ -3351,6 +3500,11 @@
         ],
         "volume": 1011284,
         "imagepath": [
+            "EncodeSansCondensed-Black_en.png",
+            "EncodeSansCondensed-Bold_en.png",
+            "EncodeSansCondensed-Light_en.png",
+            "EncodeSansCondensed-Medium_en.png",
+            "EncodeSansCondensed-Regular_en.png",
             "EncodeSansCondensed-SemiBold_en.png"
         ]
     },
@@ -3372,6 +3526,11 @@
         ],
         "volume": 1011692,
         "imagepath": [
+            "EncodeSansExpanded-Black_en.png",
+            "EncodeSansExpanded-Bold_en.png",
+            "EncodeSansExpanded-Light_en.png",
+            "EncodeSansExpanded-Medium_en.png",
+            "EncodeSansExpanded-Regular_en.png",
             "EncodeSansExpanded-SemiBold_en.png"
         ]
     },
@@ -3409,6 +3568,11 @@
         ],
         "volume": 1015320,
         "imagepath": [
+            "EncodeSansSemiCondensed-Black_en.png",
+            "EncodeSansSemiCondensed-Bold_en.png",
+            "EncodeSansSemiCondensed-Light_en.png",
+            "EncodeSansSemiCondensed-Medium_en.png",
+            "EncodeSansSemiCondensed-Regular_en.png",
             "EncodeSansSemiCondensed-SemiBold_en.png"
         ]
     },
@@ -3430,6 +3594,11 @@
         ],
         "volume": 1018136,
         "imagepath": [
+            "EncodeSansSemiExpanded-Black_en.png",
+            "EncodeSansSemiExpanded-Bold_en.png",
+            "EncodeSansSemiExpanded-Light_en.png",
+            "EncodeSansSemiExpanded-Medium_en.png",
+            "EncodeSansSemiExpanded-Regular_en.png",
             "EncodeSansSemiExpanded-SemiBold_en.png"
         ]
     },
@@ -3549,6 +3718,10 @@
         ],
         "volume": 440408,
         "imagepath": [
+            "Fahkwang-Bold_en.png",
+            "Fahkwang-Light_en.png",
+            "Fahkwang-Medium_en.png",
+            "Fahkwang-Regular_en.png",
             "Fahkwang-SemiBold_en.png"
         ]
     },
@@ -3682,6 +3855,8 @@
         ],
         "volume": 554512,
         "imagepath": [
+            "FiraMono-Bold_en.png",
+            "FiraMono-Medium_en.png",
             "FiraMono-Regular_en.png"
         ]
     },
@@ -3705,6 +3880,11 @@
         ],
         "volume": 2849856,
         "imagepath": [
+            "FiraSans-Black_en.png",
+            "FiraSans-Bold_en.png",
+            "FiraSans-Light_en.png",
+            "FiraSans-Medium_en.png",
+            "FiraSans-Regular_en.png",
             "FiraSans-SemiBold_en.png"
         ]
     },
@@ -3728,6 +3908,11 @@
         ],
         "volume": 2860984,
         "imagepath": [
+            "FiraSansCondensed-Black_en.png",
+            "FiraSansCondensed-Bold_en.png",
+            "FiraSansCondensed-Light_en.png",
+            "FiraSansCondensed-Medium_en.png",
+            "FiraSansCondensed-Regular_en.png",
             "FiraSansCondensed-SemiBold_en.png"
         ]
     },
@@ -3751,6 +3936,11 @@
         ],
         "volume": 2859932,
         "imagepath": [
+            "FiraSansExtraCondensed-Black_en.png",
+            "FiraSansExtraCondensed-Bold_en.png",
+            "FiraSansExtraCondensed-Light_en.png",
+            "FiraSansExtraCondensed-Medium_en.png",
+            "FiraSansExtraCondensed-Regular_en.png",
             "FiraSansExtraCondensed-SemiBold_en.png"
         ]
     },
@@ -3870,6 +4060,10 @@
         ],
         "volume": 460600,
         "imagepath": [
+            "FrankRuhlLibre-Black_en.png",
+            "FrankRuhlLibre-Bold_en.png",
+            "FrankRuhlLibre-Light_en.png",
+            "FrankRuhlLibre-Medium_en.png",
             "FrankRuhlLibre-Regular_en.png"
         ]
     },
@@ -3967,6 +4161,7 @@
         ],
         "volume": 288840,
         "imagepath": [
+            "FuzzyBubbles-Bold_en.png",
             "FuzzyBubbles-Regular_en.png"
         ]
     },
@@ -4000,6 +4195,10 @@
         ],
         "volume": 9341484,
         "imagepath": [
+            "Gaegu-Bold_en.png",
+            "Gaegu-Bold_ko.png",
+            "Gaegu-Light_en.png",
+            "Gaegu-Light_ko.png",
             "Gaegu-Regular_en.png",
             "Gaegu-Regular_ko.png"
         ]
@@ -4051,6 +4250,7 @@
         ],
         "volume": 326712,
         "imagepath": [
+            "Gayathri-Bold_en.png",
             "Gayathri-Regular_en.png"
         ]
     },
@@ -4070,6 +4270,9 @@
         ],
         "volume": 490844,
         "imagepath": [
+            "Gelasio-Bold_en.png",
+            "Gelasio-Medium_en.png",
+            "Gelasio-Regular_en.png",
             "Gelasio-SemiBold_en.png"
         ]
     },
@@ -4122,6 +4325,7 @@
         ],
         "volume": 1653804,
         "imagepath": [
+            "GentiumBookPlus-Bold_en.png",
             "GentiumBookPlus-Regular_en.png"
         ]
     },
@@ -4141,6 +4345,7 @@
         ],
         "volume": 1647860,
         "imagepath": [
+            "GentiumPlus-Bold_en.png",
             "GentiumPlus-Regular_en.png"
         ]
     },
@@ -4188,6 +4393,7 @@
         ],
         "volume": 804780,
         "imagepath": [
+            "GFSNeohellenic_en.png",
             "GFSNeohellenicBold_en.png"
         ]
     },
@@ -4237,6 +4443,7 @@
         ],
         "volume": 542436,
         "imagepath": [
+            "Glegoo-Bold_en.png",
             "Glegoo-Regular_en.png"
         ]
     },
@@ -4286,6 +4493,7 @@
         ],
         "volume": 155936,
         "imagepath": [
+            "Goldman-Bold_en.png",
             "Goldman-Regular_en.png"
         ]
     },
@@ -4308,6 +4516,12 @@
         ],
         "volume": 9169392,
         "imagepath": [
+            "GothicA1-Bold_en.png",
+            "GothicA1-Bold_ko.png",
+            "GothicA1-Light_en.png",
+            "GothicA1-Light_ko.png",
+            "GothicA1-Medium_en.png",
+            "GothicA1-Medium_ko.png",
             "GothicA1-Regular_en.png",
             "GothicA1-Regular_ko.png"
         ]
@@ -4344,6 +4558,8 @@
         ],
         "volume": 16612008,
         "imagepath": [
+            "GowunBatang-Bold_en.png",
+            "GowunBatang-Bold_ko.png",
             "GowunBatang-Regular_en.png",
             "GowunBatang-Regular_ko.png"
         ]
@@ -4448,6 +4664,11 @@
         ],
         "volume": 608848,
         "imagepath": [
+            "Grenze-Black_en.png",
+            "Grenze-Bold_en.png",
+            "Grenze-Light_en.png",
+            "Grenze-Medium_en.png",
+            "Grenze-Regular_en.png",
             "Grenze-SemiBold_en.png"
         ]
     },
@@ -4545,6 +4766,7 @@
         ],
         "volume": 327976,
         "imagepath": [
+            "Gwendolyn-Bold_en.png",
             "Gwendolyn-Regular_en.png"
         ]
     },
@@ -4601,6 +4823,10 @@
         ],
         "volume": 1474760,
         "imagepath": [
+            "Halant-Bold_en.png",
+            "Halant-Light_en.png",
+            "Halant-Medium_en.png",
+            "Halant-Regular_en.png",
             "Halant-SemiBold_en.png"
         ]
     },
@@ -4641,6 +4867,9 @@
         ],
         "volume": 422616,
         "imagepath": [
+            "Hanuman-Black_en.png",
+            "Hanuman-Bold_en.png",
+            "Hanuman-Light_en.png",
             "Hanuman-Regular_en.png"
         ]
     },
@@ -4658,6 +4887,7 @@
         ],
         "volume": 1604280,
         "imagepath": [
+            "Harmattan-Bold_en.png",
             "Harmattan-Regular_en.png"
         ]
     },
@@ -4746,6 +4976,10 @@
         ],
         "volume": 1432860,
         "imagepath": [
+            "Hind-Bold_en.png",
+            "Hind-Light_en.png",
+            "Hind-Medium_en.png",
+            "Hind-Regular_en.png",
             "Hind-SemiBold_en.png"
         ]
     },
@@ -4766,6 +5000,10 @@
         ],
         "volume": 755452,
         "imagepath": [
+            "HindColombo-Bold_en.png",
+            "HindColombo-Light_en.png",
+            "HindColombo-Medium_en.png",
+            "HindColombo-Regular_en.png",
             "HindColombo-SemiBold_en.png"
         ]
     },
@@ -4786,6 +5024,10 @@
         ],
         "volume": 1618868,
         "imagepath": [
+            "HindGuntur-Bold_en.png",
+            "HindGuntur-Light_en.png",
+            "HindGuntur-Medium_en.png",
+            "HindGuntur-Regular_en.png",
             "HindGuntur-SemiBold_en.png"
         ]
     },
@@ -4806,6 +5048,10 @@
         ],
         "volume": 241444,
         "imagepath": [
+            "HindJalandhar-Bold_en.png",
+            "HindJalandhar-Light_en.png",
+            "HindJalandhar-Medium_en.png",
+            "HindJalandhar-Regular_en.png",
             "HindJalandhar-SemiBold_en.png"
         ]
     },
@@ -4826,6 +5072,10 @@
         ],
         "volume": 313272,
         "imagepath": [
+            "HindKochi-Bold_en.png",
+            "HindKochi-Light_en.png",
+            "HindKochi-Medium_en.png",
+            "HindKochi-Regular_en.png",
             "HindKochi-SemiBold_en.png"
         ]
     },
@@ -4846,6 +5096,10 @@
         ],
         "volume": 684240,
         "imagepath": [
+            "HindMadurai-Bold_en.png",
+            "HindMadurai-Light_en.png",
+            "HindMadurai-Medium_en.png",
+            "HindMadurai-Regular_en.png",
             "HindMadurai-SemiBold_en.png"
         ]
     },
@@ -4866,6 +5120,10 @@
         ],
         "volume": 654564,
         "imagepath": [
+            "HindMysuru-Bold_en.png",
+            "HindMysuru-Light_en.png",
+            "HindMysuru-Medium_en.png",
+            "HindMysuru-Regular_en.png",
             "HindMysuru-SemiBold_en.png"
         ]
     },
@@ -4886,6 +5144,10 @@
         ],
         "volume": 1336312,
         "imagepath": [
+            "HindSiliguri-Bold_en.png",
+            "HindSiliguri-Light_en.png",
+            "HindSiliguri-Medium_en.png",
+            "HindSiliguri-Regular_en.png",
             "HindSiliguri-SemiBold_en.png"
         ]
     },
@@ -4906,6 +5168,10 @@
         ],
         "volume": 1226228,
         "imagepath": [
+            "HindVadodara-Bold_en.png",
+            "HindVadodara-Light_en.png",
+            "HindVadodara-Medium_en.png",
+            "HindVadodara-Regular_en.png",
             "HindVadodara-SemiBold_en.png"
         ]
     },
@@ -4959,6 +5225,10 @@
         ],
         "volume": 564628,
         "imagepath": [
+            "IBMPlexMono-Bold_en.png",
+            "IBMPlexMono-Light_en.png",
+            "IBMPlexMono-Medium_en.png",
+            "IBMPlexMono-Regular_en.png",
             "IBMPlexMono-SemiBold_en.png"
         ]
     },
@@ -4981,6 +5251,10 @@
         ],
         "volume": 904356,
         "imagepath": [
+            "IBMPlexSans-Bold_en.png",
+            "IBMPlexSans-Light_en.png",
+            "IBMPlexSans-Medium_en.png",
+            "IBMPlexSans-Regular_en.png",
             "IBMPlexSans-SemiBold_en.png"
         ]
     },
@@ -5001,6 +5275,10 @@
         ],
         "volume": 1205824,
         "imagepath": [
+            "IBMPlexSansArabic-Bold_en.png",
+            "IBMPlexSansArabic-Light_en.png",
+            "IBMPlexSansArabic-Medium_en.png",
+            "IBMPlexSansArabic-Regular_en.png",
             "IBMPlexSansArabic-SemiBold_en.png"
         ]
     },
@@ -5021,6 +5299,10 @@
         ],
         "volume": 558216,
         "imagepath": [
+            "IBMPlexSansCondensed-Bold_en.png",
+            "IBMPlexSansCondensed-Light_en.png",
+            "IBMPlexSansCondensed-Medium_en.png",
+            "IBMPlexSansCondensed-Regular_en.png",
             "IBMPlexSansCondensed-SemiBold_en.png"
         ]
     },
@@ -5041,6 +5323,10 @@
         ],
         "volume": 1744508,
         "imagepath": [
+            "IBMPlexSansDevanagari-Bold_en.png",
+            "IBMPlexSansDevanagari-Light_en.png",
+            "IBMPlexSansDevanagari-Medium_en.png",
+            "IBMPlexSansDevanagari-Regular_en.png",
             "IBMPlexSansDevanagari-SemiBold_en.png"
         ]
     },
@@ -5061,6 +5347,10 @@
         ],
         "volume": 484540,
         "imagepath": [
+            "IBMPlexSansHebrew-Bold_en.png",
+            "IBMPlexSansHebrew-Light_en.png",
+            "IBMPlexSansHebrew-Medium_en.png",
+            "IBMPlexSansHebrew-Regular_en.png",
             "IBMPlexSansHebrew-SemiBold_en.png"
         ]
     },
@@ -5081,6 +5371,12 @@
         ],
         "volume": 9582228,
         "imagepath": [
+            "IBMPlexSansJP-Bold_en.png",
+            "IBMPlexSansJP-Bold_jp.png",
+            "IBMPlexSansJP-Light_en.png",
+            "IBMPlexSansJP-Light_jp.png",
+            "IBMPlexSansJP-Medium_en.png",
+            "IBMPlexSansJP-Medium_jp.png",
             "IBMPlexSansJP-Regular_en.png",
             "IBMPlexSansJP-Regular_jp.png"
         ]
@@ -5101,6 +5397,12 @@
         ],
         "volume": 11343288,
         "imagepath": [
+            "IBMPlexSansKR-Bold_en.png",
+            "IBMPlexSansKR-Bold_ko.png",
+            "IBMPlexSansKR-Light_en.png",
+            "IBMPlexSansKR-Light_ko.png",
+            "IBMPlexSansKR-Medium_en.png",
+            "IBMPlexSansKR-Medium_ko.png",
             "IBMPlexSansKR-Regular_en.png",
             "IBMPlexSansKR-Regular_ko.png"
         ]
@@ -5122,6 +5424,10 @@
         ],
         "volume": 583724,
         "imagepath": [
+            "IBMPlexSansThai-Bold_en.png",
+            "IBMPlexSansThai-Light_en.png",
+            "IBMPlexSansThai-Medium_en.png",
+            "IBMPlexSansThai-Regular_en.png",
             "IBMPlexSansThai-SemiBold_en.png"
         ]
     },
@@ -5142,6 +5448,10 @@
         ],
         "volume": 625584,
         "imagepath": [
+            "IBMPlexSansThaiLooped-Bold_en.png",
+            "IBMPlexSansThaiLooped-Light_en.png",
+            "IBMPlexSansThaiLooped-Medium_en.png",
+            "IBMPlexSansThaiLooped-Regular_en.png",
             "IBMPlexSansThaiLooped-SemiBold_en.png"
         ]
     },
@@ -5163,6 +5473,10 @@
         ],
         "volume": 818248,
         "imagepath": [
+            "IBMPlexSerif-Bold_en.png",
+            "IBMPlexSerif-Light_en.png",
+            "IBMPlexSerif-Medium_en.png",
+            "IBMPlexSerif-Regular_en.png",
             "IBMPlexSerif-SemiBold_en.png"
         ]
     },
@@ -5264,6 +5578,11 @@
         ],
         "volume": 2382568,
         "imagepath": [
+            "InknutAntiqua-Black_en.png",
+            "InknutAntiqua-Bold_en.png",
+            "InknutAntiqua-Light_en.png",
+            "InknutAntiqua-Medium_en.png",
+            "InknutAntiqua-Regular_en.png",
             "InknutAntiqua-SemiBold_en.png"
         ]
     },
@@ -5349,6 +5668,7 @@
         ],
         "volume": 539832,
         "imagepath": [
+            "IstokWeb-Bold_en.png",
             "IstokWeb-Regular_en.png"
         ]
     },
@@ -5399,6 +5719,7 @@
         ],
         "volume": 928964,
         "imagepath": [
+            "Jaldi-Bold_en.png",
             "Jaldi-Regular_en.png"
         ]
     },
@@ -5498,6 +5819,7 @@
         ],
         "volume": 416348,
         "imagepath": [
+            "Judson-Bold_en.png",
             "Judson-Regular_en.png"
         ]
     },
@@ -5538,6 +5860,10 @@
         ],
         "volume": 482164,
         "imagepath": [
+            "K2D-Bold_en.png",
+            "K2D-Light_en.png",
+            "K2D-Medium_en.png",
+            "K2D-Regular_en.png",
             "K2D-SemiBold_en.png"
         ]
     },
@@ -5555,6 +5881,7 @@
         ],
         "volume": 491312,
         "imagepath": [
+            "Kadwa-Bold_en.png",
             "Kadwa-Regular_en.png"
         ]
     },
@@ -5574,6 +5901,10 @@
         ],
         "volume": 13087820,
         "imagepath": [
+            "KaiseiDecol-Bold_en.png",
+            "KaiseiDecol-Bold_jp.png",
+            "KaiseiDecol-Medium_en.png",
+            "KaiseiDecol-Medium_jp.png",
             "KaiseiDecol-Regular_en.png",
             "KaiseiDecol-Regular_jp.png"
         ]
@@ -5594,6 +5925,10 @@
         ],
         "volume": 13290484,
         "imagepath": [
+            "KaiseiHarunoUmi-Bold_en.png",
+            "KaiseiHarunoUmi-Bold_jp.png",
+            "KaiseiHarunoUmi-Medium_en.png",
+            "KaiseiHarunoUmi-Medium_jp.png",
             "KaiseiHarunoUmi-Regular_en.png",
             "KaiseiHarunoUmi-Regular_jp.png"
         ]
@@ -5614,6 +5949,10 @@
         ],
         "volume": 13088492,
         "imagepath": [
+            "KaiseiOpti-Bold_en.png",
+            "KaiseiOpti-Bold_jp.png",
+            "KaiseiOpti-Medium_en.png",
+            "KaiseiOpti-Medium_jp.png",
             "KaiseiOpti-Regular_en.png",
             "KaiseiOpti-Regular_jp.png"
         ]
@@ -5634,6 +5973,10 @@
         ],
         "volume": 13315376,
         "imagepath": [
+            "KaiseiTokumin-Bold_en.png",
+            "KaiseiTokumin-Bold_jp.png",
+            "KaiseiTokumin-Medium_en.png",
+            "KaiseiTokumin-Medium_jp.png",
             "KaiseiTokumin-Regular_en.png",
             "KaiseiTokumin-Regular_jp.png"
         ]
@@ -5653,6 +5996,8 @@
         ],
         "volume": 1325768,
         "imagepath": [
+            "Kalam-Bold_en.png",
+            "Kalam-Light_en.png",
             "Kalam-Regular_en.png"
         ]
     },
@@ -5675,6 +6020,11 @@
         ],
         "volume": 1046948,
         "imagepath": [
+            "Kanit-Black_en.png",
+            "Kanit-Bold_en.png",
+            "Kanit-Light_en.png",
+            "Kanit-Medium_en.png",
+            "Kanit-Regular_en.png",
             "Kanit-SemiBold_en.png"
         ]
     },
@@ -5692,6 +6042,8 @@
         ],
         "volume": 105852,
         "imagepath": [
+            "Kantumruy-Bold_en.png",
+            "Kantumruy-Light_en.png",
             "Kantumruy-Regular_en.png"
         ]
     },
@@ -5743,6 +6095,8 @@
         ],
         "volume": 151988,
         "imagepath": [
+            "Karantina-Bold_en.png",
+            "Karantina-Light_en.png",
             "Karantina-Regular_en.png"
         ]
     },
@@ -5763,6 +6117,7 @@
         ],
         "volume": 218504,
         "imagepath": [
+            "KarlaTamilInclined-Bold_en.png",
             "KarlaTamilInclined-Regular_en.png"
         ]
     },
@@ -5783,6 +6138,7 @@
         ],
         "volume": 287664,
         "imagepath": [
+            "KarlaTamilUpright-Bold_en.png",
             "KarlaTamilUpright-Regular_en.png"
         ]
     },
@@ -5803,6 +6159,10 @@
         ],
         "volume": 1673408,
         "imagepath": [
+            "Karma-Bold_en.png",
+            "Karma-Light_en.png",
+            "Karma-Medium_en.png",
+            "Karma-Regular_en.png",
             "Karma-SemiBold_en.png"
         ]
     },
@@ -5902,6 +6262,10 @@
         ],
         "volume": 1623816,
         "imagepath": [
+            "Khand-Bold_en.png",
+            "Khand-Light_en.png",
+            "Khand-Medium_en.png",
+            "Khand-Regular_en.png",
             "Khand-SemiBold_en.png"
         ]
     },
@@ -5936,6 +6300,9 @@
         ],
         "volume": 634304,
         "imagepath": [
+            "Khula-Bold_en.png",
+            "Khula-Light_en.png",
+            "Khula-Regular_en.png",
             "Khula-SemiBold_en.png"
         ]
     },
@@ -5988,6 +6355,10 @@
         ],
         "volume": 15171868,
         "imagepath": [
+            "KiwiMaru-Light_en.png",
+            "KiwiMaru-Light_jp.png",
+            "KiwiMaru-Medium_en.png",
+            "KiwiMaru-Medium_jp.png",
             "KiwiMaru-Regular_en.png",
             "KiwiMaru-Regular_jp.png"
         ]
@@ -6028,6 +6399,10 @@
         ],
         "volume": 504840,
         "imagepath": [
+            "Kodchasan-Bold_en.png",
+            "Kodchasan-Light_en.png",
+            "Kodchasan-Medium_en.png",
+            "Kodchasan-Regular_en.png",
             "Kodchasan-SemiBold_en.png"
         ]
     },
@@ -6049,6 +6424,10 @@
         ],
         "volume": 478260,
         "imagepath": [
+            "KoHo-Bold_en.png",
+            "KoHo-Light_en.png",
+            "KoHo-Medium_en.png",
+            "KoHo-Regular_en.png",
             "KoHo-SemiBold_en.png"
         ]
     },
@@ -6068,6 +6447,9 @@
         ],
         "volume": 644796,
         "imagepath": [
+            "KohSantepheap-Black_en.png",
+            "KohSantepheap-Bold_en.png",
+            "KohSantepheap-Light_en.png",
             "KohSantepheap-Regular_en.png"
         ]
     },
@@ -6121,6 +6503,10 @@
         ],
         "volume": 449144,
         "imagepath": [
+            "Krub-Bold_en.png",
+            "Krub-Light_en.png",
+            "Krub-Medium_en.png",
+            "Krub-Regular_en.png",
             "Krub-SemiBold_en.png"
         ]
     },
@@ -6191,6 +6577,10 @@
         ],
         "volume": 1749748,
         "imagepath": [
+            "Laila-Bold_en.png",
+            "Laila-Light_en.png",
+            "Laila-Medium_en.png",
+            "Laila-Regular_en.png",
             "Laila-SemiBold_en.png"
         ]
     },
@@ -6260,6 +6650,10 @@
         ],
         "volume": 849460,
         "imagepath": [
+            "Lateef-Bold_en.png",
+            "Lateef-Light_en.png",
+            "Lateef-Medium_en.png",
+            "Lateef-Regular_en.png",
             "Lateef-SemiBold_en.png"
         ]
     },
@@ -6283,6 +6677,11 @@
         ],
         "volume": 3926688,
         "imagepath": [
+            "Lato-Black_en.png",
+            "Lato-Bold_en.png",
+            "Lato-Light_en.png",
+            "Lato-Medium_en.png",
+            "Lato-Regular_en.png",
             "Lato-SemiBold_en.png"
         ]
     },
@@ -6595,6 +6994,11 @@
         ],
         "volume": 629516,
         "imagepath": [
+            "Livvic-Black_en.png",
+            "Livvic-Bold_en.png",
+            "Livvic-Light_en.png",
+            "Livvic-Medium_en.png",
+            "Livvic-Regular_en.png",
             "Livvic-SemiBold_en.png"
         ]
     },
@@ -6766,6 +7170,11 @@
         ],
         "volume": 240768,
         "imagepath": [
+            "Mada-Black_en.png",
+            "Mada-Bold_en.png",
+            "Mada-Light_en.png",
+            "Mada-Medium_en.png",
+            "Mada-Regular_en.png",
             "Mada-SemiBold_en.png"
         ]
     },
@@ -6787,6 +7196,10 @@
         ],
         "volume": 998140,
         "imagepath": [
+            "Maitree-Bold_en.png",
+            "Maitree-Light_en.png",
+            "Maitree-Medium_en.png",
+            "Maitree-Regular_en.png",
             "Maitree-SemiBold_en.png"
         ]
     },
@@ -6824,6 +7237,10 @@
         ],
         "volume": 563524,
         "imagepath": [
+            "Mali-Bold_en.png",
+            "Mali-Light_en.png",
+            "Mali-Medium_en.png",
+            "Mali-Regular_en.png",
             "Mali-SemiBold_en.png"
         ]
     },
@@ -6873,6 +7290,7 @@
         ],
         "volume": 302920,
         "imagepath": [
+            "Manjari-Bold_en.png",
             "Manjari-Regular_en.png"
         ]
     },
@@ -6975,6 +7393,11 @@
         ],
         "volume": 1014140,
         "imagepath": [
+            "Martel-Bold_en.png",
+            "Martel-DemiBold_en.png",
+            "Martel-Heavy_en.png",
+            "Martel-Light_en.png",
+            "Martel-Regular_en.png",
             "Martel-UltraLight_en.png"
         ]
     },
@@ -6995,6 +7418,10 @@
         ],
         "volume": 763800,
         "imagepath": [
+            "MartelSans-Black_en.png",
+            "MartelSans-Bold_en.png",
+            "MartelSans-Light_en.png",
+            "MartelSans-Regular_en.png",
             "MartelSans-SemiBold_en.png"
         ]
     },
@@ -7095,6 +7522,9 @@
         ],
         "volume": 609224,
         "imagepath": [
+            "Merriweather-Black_en.png",
+            "Merriweather-Bold_en.png",
+            "Merriweather-Light_en.png",
             "Merriweather-Regular_en.png"
         ]
     },
@@ -7176,6 +7606,7 @@
         ],
         "volume": 303844,
         "imagepath": [
+            "Mina-Bold_en.png",
             "Mina-Regular_en.png"
         ]
     },
@@ -7193,6 +7624,7 @@
         ],
         "volume": 149404,
         "imagepath": [
+            "MiriamLibre-Bold_en.png",
             "MiriamLibre-Regular_en.png"
         ]
     },
@@ -7212,6 +7644,9 @@
         ],
         "volume": 709412,
         "imagepath": [
+            "Mirza-Bold_en.png",
+            "Mirza-Medium_en.png",
+            "Mirza-Regular_en.png",
             "Mirza-SemiBold_en.png"
         ]
     },
@@ -7233,6 +7668,10 @@
         ],
         "volume": 1105840,
         "imagepath": [
+            "Mitr-Bold_en.png",
+            "Mitr-Light_en.png",
+            "Mitr-Medium_en.png",
+            "Mitr-Regular_en.png",
             "Mitr-SemiBold_en.png"
         ]
     },
@@ -7300,6 +7739,7 @@
         ],
         "volume": 318872,
         "imagepath": [
+            "Monda-Bold_en.png",
             "Monda-Regular_en.png"
         ]
     },
@@ -7388,6 +7828,11 @@
         ],
         "volume": 1290036,
         "imagepath": [
+            "MontserratAlternates-Black_en.png",
+            "MontserratAlternates-Bold_en.png",
+            "MontserratAlternates-Light_en.png",
+            "MontserratAlternates-Medium_en.png",
+            "MontserratAlternates-Regular_en.png",
             "MontserratAlternates-SemiBold_en.png"
         ]
     },
@@ -7512,6 +7957,14 @@
         ],
         "volume": 8825664,
         "imagepath": [
+            "MPLUS1p-Black_en.png",
+            "MPLUS1p-Black_jp.png",
+            "MPLUS1p-Bold_en.png",
+            "MPLUS1p-Bold_jp.png",
+            "MPLUS1p-Light_en.png",
+            "MPLUS1p-Light_jp.png",
+            "MPLUS1p-Medium_en.png",
+            "MPLUS1p-Medium_jp.png",
             "MPLUS1p-Regular_en.png",
             "MPLUS1p-Regular_jp.png"
         ]
@@ -7583,6 +8036,10 @@
         ],
         "volume": 2086748,
         "imagepath": [
+            "Mukta-Bold_en.png",
+            "Mukta-Light_en.png",
+            "Mukta-Medium_en.png",
+            "Mukta-Regular_en.png",
             "Mukta-SemiBold_en.png"
         ]
     },
@@ -7603,6 +8060,10 @@
         ],
         "volume": 1054240,
         "imagepath": [
+            "MuktaMahee-Bold_en.png",
+            "MuktaMahee-Light_en.png",
+            "MuktaMahee-Medium_en.png",
+            "MuktaMahee-Regular_en.png",
             "MuktaMahee-SemiBold_en.png"
         ]
     },
@@ -7623,6 +8084,10 @@
         ],
         "volume": 1218124,
         "imagepath": [
+            "MuktaMalar-Bold_en.png",
+            "MuktaMalar-Light_en.png",
+            "MuktaMalar-Medium_en.png",
+            "MuktaMalar-Regular_en.png",
             "MuktaMalar-SemiBold_en.png"
         ]
     },
@@ -7643,6 +8108,10 @@
         ],
         "volume": 2358652,
         "imagepath": [
+            "MuktaVaani-Bold_en.png",
+            "MuktaVaani-Light_en.png",
+            "MuktaVaani-Medium_en.png",
+            "MuktaVaani-Regular_en.png",
             "MuktaVaani-SemiBold_en.png"
         ]
     },
@@ -7745,6 +8214,8 @@
         ],
         "volume": 4128612,
         "imagepath": [
+            "NanumGothic-Bold_en.png",
+            "NanumGothic-Bold_ko.png",
             "NanumGothic-Regular_en.png",
             "NanumGothic-Regular_ko.png"
         ]
@@ -7762,6 +8233,8 @@
         ],
         "volume": 4562164,
         "imagepath": [
+            "NanumGothicCoding-Bold_en.png",
+            "NanumGothicCoding-Bold_ko.png",
             "NanumGothicCoding-Regular_en.png",
             "NanumGothicCoding-Regular_ko.png"
         ]
@@ -7780,6 +8253,8 @@
         ],
         "volume": 6133088,
         "imagepath": [
+            "NanumMyeongjo-Bold_en.png",
+            "NanumMyeongjo-Bold_ko.png",
             "NanumMyeongjo-Regular_en.png",
             "NanumMyeongjo-Regular_ko.png"
         ]
@@ -7899,6 +8374,10 @@
         ],
         "volume": 489052,
         "imagepath": [
+            "Niramit-Bold_en.png",
+            "Niramit-Light_en.png",
+            "Niramit-Medium_en.png",
+            "Niramit-Regular_en.png",
             "Niramit-SemiBold_en.png"
         ]
     },
@@ -7918,6 +8397,9 @@
         ],
         "volume": 234184,
         "imagepath": [
+            "Nokora-Black_en.png",
+            "Nokora-Bold_en.png",
+            "Nokora-Light_en.png",
             "Nokora-Regular_en.png"
         ]
     },
@@ -7935,6 +8417,7 @@
         ],
         "volume": 228532,
         "imagepath": [
+            "NoticiaText-Bold_en.png",
             "NoticiaText-Regular_en.png"
         ]
     },
@@ -8038,6 +8521,11 @@
         ],
         "volume": 3361384,
         "imagepath": [
+            "NotoSans-Black_en.png",
+            "NotoSans-Bold_en.png",
+            "NotoSans-Light_en.png",
+            "NotoSans-Medium_en.png",
+            "NotoSans-Regular_en.png",
             "NotoSans-SemiBold_en.png"
         ]
     },
@@ -8215,6 +8703,11 @@
         ],
         "volume": 1320256,
         "imagepath": [
+            "NotoSansDevanagariUI-Black_en.png",
+            "NotoSansDevanagariUI-Bold_en.png",
+            "NotoSansDevanagariUI-Light_en.png",
+            "NotoSansDevanagariUI-Medium_en.png",
+            "NotoSansDevanagariUI-Regular_en.png",
             "NotoSansDevanagariUI-SemiBold_en.png"
         ]
     },
@@ -8317,6 +8810,11 @@
         ],
         "volume": 1218472,
         "imagepath": [
+            "NotoSansGujaratiUI-Black_en.png",
+            "NotoSansGujaratiUI-Bold_en.png",
+            "NotoSansGujaratiUI-Light_en.png",
+            "NotoSansGujaratiUI-Medium_en.png",
+            "NotoSansGujaratiUI-Regular_en.png",
             "NotoSansGujaratiUI-SemiBold_en.png"
         ]
     },
@@ -8557,6 +9055,11 @@
         ],
         "volume": 1220952,
         "imagepath": [
+            "NotoSansMyanmarUI-Black_en.png",
+            "NotoSansMyanmarUI-Bold_en.png",
+            "NotoSansMyanmarUI-Light_en.png",
+            "NotoSansMyanmarUI-Medium_en.png",
+            "NotoSansMyanmarUI-Regular_en.png",
             "NotoSansMyanmarUI-SemiBold_en.png"
         ]
     },
@@ -8605,6 +9108,8 @@
         ],
         "volume": 280344,
         "imagepath": [
+            "NotoSansOriyaUI-Black_en.png",
+            "NotoSansOriyaUI-Bold_en.png",
             "NotoSansOriyaUI-Regular_en.png"
         ]
     },
@@ -8781,6 +9286,11 @@
         ],
         "volume": 629284,
         "imagepath": [
+            "NotoSansThaiLooped-Black_en.png",
+            "NotoSansThaiLooped-Bold_en.png",
+            "NotoSansThaiLooped-Light_en.png",
+            "NotoSansThaiLooped-Medium_en.png",
+            "NotoSansThaiLooped-Regular_en.png",
             "NotoSansThaiLooped-SemiBold_en.png"
         ]
     },
@@ -8830,6 +9340,7 @@
         ],
         "volume": 778896,
         "imagepath": [
+            "NotoSerif-Bold_en.png",
             "NotoSerif-Regular_en.png"
         ]
     },
@@ -9092,6 +9603,11 @@
         ],
         "volume": 1528384,
         "imagepath": [
+            "NotoSerifMyanmar-Black_en.png",
+            "NotoSerifMyanmar-Bold_en.png",
+            "NotoSerifMyanmar-Light_en.png",
+            "NotoSerifMyanmar-Medium_en.png",
+            "NotoSerifMyanmar-Regular_en.png",
             "NotoSerifMyanmar-SemiBold_en.png"
         ]
     },
@@ -9288,6 +9804,10 @@
         ],
         "volume": 709456,
         "imagepath": [
+            "NunitoSans-Black_en.png",
+            "NunitoSans-Bold_en.png",
+            "NunitoSans-Light_en.png",
+            "NunitoSans-Regular_en.png",
             "NunitoSans-SemiBold_en.png"
         ]
     },
@@ -9357,6 +9877,7 @@
         ],
         "volume": 516796,
         "imagepath": [
+            "OldStandard-Bold_en.png",
             "OldStandard-Regular_en.png"
         ]
     },
@@ -9542,6 +10063,7 @@
         ],
         "volume": 998164,
         "imagepath": [
+            "Padauk-Bold_en.png",
             "Padauk-Regular_en.png"
         ]
     },
@@ -9562,6 +10084,10 @@
         ],
         "volume": 2476592,
         "imagepath": [
+            "Palanquin-Bold_en.png",
+            "Palanquin-Light_en.png",
+            "Palanquin-Medium_en.png",
+            "Palanquin-Regular_en.png",
             "Palanquin-SemiBold_en.png"
         ]
     },
@@ -9581,6 +10107,9 @@
         ],
         "volume": 2047012,
         "imagepath": [
+            "PalanquinDark-Bold_en.png",
+            "PalanquinDark-Medium_en.png",
+            "PalanquinDark-Regular_en.png",
             "PalanquinDark-SemiBold_en.png"
         ]
     },
@@ -9779,6 +10308,7 @@
         ],
         "volume": 197384,
         "imagepath": [
+            "Phetsarath-Bold_en.png",
             "Phetsarath-Regular_en.png"
         ]
     },
@@ -9797,6 +10327,7 @@
         ],
         "volume": 229152,
         "imagepath": [
+            "Philosopher-Bold_en.png",
             "Philosopher-Regular_en.png"
         ]
     },
@@ -9850,6 +10381,7 @@
         ],
         "volume": 409724,
         "imagepath": [
+            "Play-Bold_en.png",
             "Play-Regular_en.png"
         ]
     },
@@ -9902,6 +10434,8 @@
         ],
         "volume": 608752,
         "imagepath": [
+            "PlayfairDisplaySC-Black_en.png",
+            "PlayfairDisplaySC-Bold_en.png",
             "PlayfairDisplaySC-Regular_en.png"
         ]
     },
@@ -10005,6 +10539,10 @@
         ],
         "volume": 1900796,
         "imagepath": [
+            "PostNoBillsColombo-Bold_en.png",
+            "PostNoBillsColombo-Light_en.png",
+            "PostNoBillsColombo-Medium_en.png",
+            "PostNoBillsColombo-Regular_en.png",
             "PostNoBillsColombo-SemiBold_en.png"
         ]
     },
@@ -10025,6 +10563,10 @@
         ],
         "volume": 811648,
         "imagepath": [
+            "PostNoBillsJaffna-Bold_en.png",
+            "PostNoBillsJaffna-Light_en.png",
+            "PostNoBillsJaffna-Medium_en.png",
+            "PostNoBillsJaffna-Regular_en.png",
             "PostNoBillsJaffna-SemiBold_en.png"
         ]
     },
@@ -10060,6 +10602,7 @@
         ],
         "volume": 797576,
         "imagepath": [
+            "PragatiNarrow-Bold_en.png",
             "PragatiNarrow-Regular_en.png"
         ]
     },
@@ -10147,6 +10690,10 @@
         ],
         "volume": 1092472,
         "imagepath": [
+            "Pridi-Bold_en.png",
+            "Pridi-Light_en.png",
+            "Pridi-Medium_en.png",
+            "Pridi-Regular_en.png",
             "Pridi-SemiBold_en.png"
         ]
     },
@@ -10169,6 +10716,11 @@
         ],
         "volume": 1037848,
         "imagepath": [
+            "Prompt-Black_en.png",
+            "Prompt-Bold_en.png",
+            "Prompt-Light_en.png",
+            "Prompt-Medium_en.png",
+            "Prompt-Regular_en.png",
             "Prompt-SemiBold_en.png"
         ]
     },
@@ -10218,6 +10770,7 @@
         ],
         "volume": 913200,
         "imagepath": [
+            "PT_Sans-Web-Bold_en.png",
             "PT_Sans-Web-Regular_en.png"
         ]
     },
@@ -10235,6 +10788,7 @@
         ],
         "volume": 785972,
         "imagepath": [
+            "PT_Sans-Caption-Web-Bold_en.png",
             "PT_Sans-Caption-Web-Regular_en.png"
         ]
     },
@@ -10252,6 +10806,7 @@
         ],
         "volume": 883932,
         "imagepath": [
+            "PT_Sans-Narrow-Web-Bold_en.png",
             "PT_Sans-Narrow-Web-Regular_en.png"
         ]
     },
@@ -10269,6 +10824,7 @@
         ],
         "volume": 699044,
         "imagepath": [
+            "PT_Serif-Web-Bold_en.png",
             "PT_Serif-Web-Regular_en.png"
         ]
     },
@@ -10398,6 +10954,7 @@
         ],
         "volume": 387152,
         "imagepath": [
+            "QwitcherGrypen-Bold_en.png",
             "QwitcherGrypen-Regular_en.png"
         ]
     },
@@ -10434,6 +10991,10 @@
         ],
         "volume": 1937156,
         "imagepath": [
+            "Rajdhani-Bold_en.png",
+            "Rajdhani-Light_en.png",
+            "Rajdhani-Medium_en.png",
+            "Rajdhani-Regular_en.png",
             "Rajdhani-SemiBold_en.png"
         ]
     },
@@ -10534,6 +11095,7 @@
         ],
         "volume": 246416,
         "imagepath": [
+            "Ranga-Bold_en.png",
             "Ranga-Regular_en.png"
         ]
     },
@@ -10835,6 +11397,8 @@
         ],
         "volume": 228784,
         "imagepath": [
+            "Rowdies-Bold_en.png",
+            "Rowdies-Light_en.png",
             "Rowdies-Regular_en.png"
         ]
     },
@@ -11236,6 +11800,7 @@
         ],
         "volume": 528792,
         "imagepath": [
+            "Sahitya-Bold_en.png",
             "Sahitya-Regular_en.png"
         ]
     },
@@ -11273,6 +11838,11 @@
         ],
         "volume": 575688,
         "imagepath": [
+            "SairaCondensed-Black_en.png",
+            "SairaCondensed-Bold_en.png",
+            "SairaCondensed-Light_en.png",
+            "SairaCondensed-Medium_en.png",
+            "SairaCondensed-Regular_en.png",
             "SairaCondensed-SemiBold_en.png"
         ]
     },
@@ -11294,6 +11864,11 @@
         ],
         "volume": 574932,
         "imagepath": [
+            "SairaExtraCondensed-Black_en.png",
+            "SairaExtraCondensed-Bold_en.png",
+            "SairaExtraCondensed-Light_en.png",
+            "SairaExtraCondensed-Medium_en.png",
+            "SairaExtraCondensed-Regular_en.png",
             "SairaExtraCondensed-SemiBold_en.png"
         ]
     },
@@ -11315,6 +11890,11 @@
         ],
         "volume": 576024,
         "imagepath": [
+            "SairaSemiCondensed-Black_en.png",
+            "SairaSemiCondensed-Bold_en.png",
+            "SairaSemiCondensed-Light_en.png",
+            "SairaSemiCondensed-Medium_en.png",
+            "SairaSemiCondensed-Regular_en.png",
             "SairaSemiCondensed-SemiBold_en.png"
         ]
     },
@@ -11349,6 +11929,8 @@
         ],
         "volume": 134156,
         "imagepath": [
+            "Sansation-Bold_en.png",
+            "Sansation-Light_en.png",
             "Sansation-Regular_en.png"
         ]
     },
@@ -11386,6 +11968,10 @@
         ],
         "volume": 450956,
         "imagepath": [
+            "Sarabun-Bold_en.png",
+            "Sarabun-Light_en.png",
+            "Sarabun-Medium_en.png",
+            "Sarabun-Regular_en.png",
             "Sarabun-SemiBold_en.png"
         ]
     },
@@ -11403,6 +11989,7 @@
         ],
         "volume": 480664,
         "imagepath": [
+            "Sarala-Bold_en.png",
             "Sarala-Regular_en.png"
         ]
     },
@@ -11423,6 +12010,10 @@
         ],
         "volume": 1467188,
         "imagepath": [
+            "Sarpanch-Black_en.png",
+            "Sarpanch-Bold_en.png",
+            "Sarpanch-Medium_en.png",
+            "Sarpanch-Regular_en.png",
             "Sarpanch-SemiBold_en.png"
         ]
     },
@@ -11473,6 +12064,7 @@
         ],
         "volume": 182156,
         "imagepath": [
+            "Scada-Bold_en.png",
             "Scada-Regular_en.png"
         ]
     },
@@ -11490,6 +12082,7 @@
         ],
         "volume": 1048168,
         "imagepath": [
+            "Scheherazade-Bold_en.png",
             "Scheherazade-Regular_en.png"
         ]
     },
@@ -11507,6 +12100,7 @@
         ],
         "volume": 1947668,
         "imagepath": [
+            "ScheherazadeNew-Bold_en.png",
             "ScheherazadeNew-Regular_en.png"
         ]
     },
@@ -11657,6 +12251,10 @@
         ],
         "volume": 25919920,
         "imagepath": [
+            "ShipporiMincho-Bold_en.png",
+            "ShipporiMincho-Bold_jp.png",
+            "ShipporiMincho-Medium_en.png",
+            "ShipporiMincho-Medium_jp.png",
             "ShipporiMincho-Regular_en.png",
             "ShipporiMincho-Regular_jp.png"
         ]
@@ -11803,6 +12401,7 @@
         ],
         "volume": 405848,
         "imagepath": [
+            "Sitara-Bold_en.png",
             "Sitara-Regular_en.png"
         ]
     },
@@ -11958,6 +12557,10 @@
         ],
         "volume": 1267396,
         "imagepath": [
+            "SourceSansPro-Black_en.png",
+            "SourceSansPro-Bold_en.png",
+            "SourceSansPro-Light_en.png",
+            "SourceSansPro-Regular_en.png",
             "SourceSansPro-SemiBold_en.png"
         ]
     },
@@ -11998,6 +12601,10 @@
         ],
         "volume": 1163532,
         "imagepath": [
+            "SourceSerifPro-Black_en.png",
+            "SourceSerifPro-Bold_en.png",
+            "SourceSerifPro-Light_en.png",
+            "SourceSerifPro-Regular_en.png",
             "SourceSerifPro-SemiBold_en.png"
         ]
     },
@@ -12031,6 +12638,7 @@
         ],
         "volume": 181988,
         "imagepath": [
+            "SpaceMono-Bold_en.png",
             "SpaceMono-Regular_en.png"
         ]
     },
@@ -12052,6 +12660,10 @@
         ],
         "volume": 1433860,
         "imagepath": [
+            "Spectral-Bold_en.png",
+            "Spectral-Light_en.png",
+            "Spectral-Medium_en.png",
+            "Spectral-Regular_en.png",
             "Spectral-SemiBold_en.png"
         ]
     },
@@ -12073,6 +12685,10 @@
         ],
         "volume": 1434028,
         "imagepath": [
+            "SpectralSC-Bold_en.png",
+            "SpectralSC-Light_en.png",
+            "SpectralSC-Medium_en.png",
+            "SpectralSC-Regular_en.png",
             "SpectralSC-SemiBold_en.png"
         ]
     },
@@ -12156,6 +12772,7 @@
         ],
         "volume": 204428,
         "imagepath": [
+            "Srisakdi-Bold_en.png",
             "Srisakdi-Regular_en.png"
         ]
     },
@@ -12323,6 +12940,7 @@
         ],
         "volume": 435428,
         "imagepath": [
+            "Sumana-Bold_en.png",
             "Sumana-Regular_en.png"
         ]
     },
@@ -12340,6 +12958,10 @@
         ],
         "volume": 2275168,
         "imagepath": [
+            "Sunflower-Bold_en.png",
+            "Sunflower-Bold_ko.png",
+            "Sunflower-Light_en.png",
+            "Sunflower-Light_ko.png",
             "Sunflower-Medium_en.png",
             "Sunflower-Medium_ko.png"
         ]
@@ -12358,6 +12980,7 @@
         ],
         "volume": 289244,
         "imagepath": [
+            "Sura-Bold_en.png",
             "Sura-Regular_en.png"
         ]
     },
@@ -12409,6 +13032,9 @@
         ],
         "volume": 402312,
         "imagepath": [
+            "Suwannaphum-Black_en.png",
+            "Suwannaphum-Bold_en.png",
+            "Suwannaphum-Light_en.png",
             "Suwannaphum-Regular_en.png"
         ]
     },
@@ -12443,6 +13069,7 @@
         ],
         "volume": 577384,
         "imagepath": [
+            "TaiHeritagePro-Bold_en.png",
             "TaiHeritagePro-Regular_en.png"
         ]
     },
@@ -12463,6 +13090,10 @@
         ],
         "volume": 303524,
         "imagepath": [
+            "Tajawal-Black_en.png",
+            "Tajawal-Bold_en.png",
+            "Tajawal-Light_en.png",
+            "Tajawal-Medium_en.png",
             "Tajawal-Regular_en.png"
         ]
     },
@@ -12517,6 +13148,11 @@
         ],
         "volume": 1323868,
         "imagepath": [
+            "Taviraj-Black_en.png",
+            "Taviraj-Bold_en.png",
+            "Taviraj-Light_en.png",
+            "Taviraj-Medium_en.png",
+            "Taviraj-Regular_en.png",
             "Taviraj-SemiBold_en.png"
         ]
     },
@@ -12537,6 +13173,10 @@
         ],
         "volume": 1546140,
         "imagepath": [
+            "Teko-Bold_en.png",
+            "Teko-Light_en.png",
+            "Teko-Medium_en.png",
+            "Teko-Regular_en.png",
             "Teko-SemiBold_en.png"
         ]
     },
@@ -12602,6 +13242,9 @@
         ],
         "volume": 510196,
         "imagepath": [
+            "Thabit-Bold_en.png",
+            "Thabit-BoldOblique_en.png",
+            "Thabit-Oblique_en.png",
             "Thabit_en.png"
         ]
     },
@@ -12620,6 +13263,7 @@
         ],
         "volume": 191028,
         "imagepath": [
+            "Thasadith-Bold_en.png",
             "Thasadith-Regular_en.png"
         ]
     },
@@ -12637,6 +13281,7 @@
         ],
         "volume": 316596,
         "imagepath": [
+            "TheNautigal-Bold_en.png",
             "TheNautigal-Regular_en.png"
         ]
     },
@@ -12656,6 +13301,9 @@
         ],
         "volume": 1263668,
         "imagepath": [
+            "Tillana-Bold_en.png",
+            "Tillana-Medium_en.png",
+            "Tillana-Regular_en.png",
             "Tillana-SemiBold_en.png"
         ]
     },
@@ -12856,6 +13504,11 @@
         ],
         "volume": 1187980,
         "imagepath": [
+            "Trirong-Black_en.png",
+            "Trirong-Bold_en.png",
+            "Trirong-Light_en.png",
+            "Trirong-Medium_en.png",
+            "Trirong-Regular_en.png",
             "Trirong-SemiBold_en.png"
         ]
     },
@@ -12908,6 +13561,14 @@
         ],
         "volume": 545984,
         "imagepath": [
+            "TsukimiRounded-Bold_en.png",
+            "TsukimiRounded-Bold_jp.png",
+            "TsukimiRounded-Light_en.png",
+            "TsukimiRounded-Light_jp.png",
+            "TsukimiRounded-Medium_en.png",
+            "TsukimiRounded-Medium_jp.png",
+            "TsukimiRounded-Regular_en.png",
+            "TsukimiRounded-Regular_jp.png",
             "TsukimiRounded-SemiBold_en.png",
             "TsukimiRounded-SemiBold_jp.png"
         ]
@@ -12927,6 +13588,7 @@
         ],
         "volume": 312240,
         "imagepath": [
+            "Tuffy-Bold_en.png",
             "Tuffy-Regular_en.png"
         ]
     },
@@ -13074,6 +13736,9 @@
         ],
         "volume": 668388,
         "imagepath": [
+            "VesperLibre-Bold_en.png",
+            "VesperLibre-Heavy_en.png",
+            "VesperLibre-Medium_en.png",
             "VesperLibre-Regular_en.png"
         ]
     },
@@ -13145,6 +13810,9 @@
         ],
         "volume": 812232,
         "imagepath": [
+            "VollkornSC-Black_en.png",
+            "VollkornSC-Bold_en.png",
+            "VollkornSC-Regular_en.png",
             "VollkornSC-SemiBold_en.png"
         ]
     },
@@ -13242,6 +13910,7 @@
         ],
         "volume": 543848,
         "imagepath": [
+            "WindSong-Medium_en.png",
             "WindSong-Regular_en.png"
         ]
     },
@@ -13310,6 +13979,10 @@
         ],
         "volume": 2243676,
         "imagepath": [
+            "YaldeviColombo-Bold_en.png",
+            "YaldeviColombo-Light_en.png",
+            "YaldeviColombo-Medium_en.png",
+            "YaldeviColombo-Regular_en.png",
             "YaldeviColombo-SemiBold_en.png"
         ]
     },
@@ -13347,6 +14020,10 @@
         ],
         "volume": 786288,
         "imagepath": [
+            "Yantramanav-Black_en.png",
+            "Yantramanav-Bold_en.png",
+            "Yantramanav-Light_en.png",
+            "Yantramanav-Medium_en.png",
             "Yantramanav-Regular_en.png"
         ]
     },
@@ -13659,6 +14336,14 @@
         ],
         "volume": 11525924,
         "imagepath": [
+            "ZenKakuGothicAntique-Black_en.png",
+            "ZenKakuGothicAntique-Black_jp.png",
+            "ZenKakuGothicAntique-Bold_en.png",
+            "ZenKakuGothicAntique-Bold_jp.png",
+            "ZenKakuGothicAntique-Light_en.png",
+            "ZenKakuGothicAntique-Light_jp.png",
+            "ZenKakuGothicAntique-Medium_en.png",
+            "ZenKakuGothicAntique-Medium_jp.png",
             "ZenKakuGothicAntique-Regular_en.png",
             "ZenKakuGothicAntique-Regular_jp.png"
         ]
@@ -13681,6 +14366,14 @@
         ],
         "volume": 11484468,
         "imagepath": [
+            "ZenKakuGothicNew-Black_en.png",
+            "ZenKakuGothicNew-Black_jp.png",
+            "ZenKakuGothicNew-Bold_en.png",
+            "ZenKakuGothicNew-Bold_jp.png",
+            "ZenKakuGothicNew-Light_en.png",
+            "ZenKakuGothicNew-Light_jp.png",
+            "ZenKakuGothicNew-Medium_en.png",
+            "ZenKakuGothicNew-Medium_jp.png",
             "ZenKakuGothicNew-Regular_en.png",
             "ZenKakuGothicNew-Regular_jp.png"
         ]
@@ -13723,6 +14416,14 @@
         ],
         "volume": 18856412,
         "imagepath": [
+            "ZenMaruGothic-Black_en.png",
+            "ZenMaruGothic-Black_jp.png",
+            "ZenMaruGothic-Bold_en.png",
+            "ZenMaruGothic-Bold_jp.png",
+            "ZenMaruGothic-Light_en.png",
+            "ZenMaruGothic-Light_jp.png",
+            "ZenMaruGothic-Medium_en.png",
+            "ZenMaruGothic-Medium_jp.png",
             "ZenMaruGothic-Regular_en.png",
             "ZenMaruGothic-Regular_jp.png"
         ]
@@ -13745,6 +14446,12 @@
         ],
         "volume": 21798156,
         "imagepath": [
+            "ZenOldMincho-Black_en.png",
+            "ZenOldMincho-Black_jp.png",
+            "ZenOldMincho-Bold_en.png",
+            "ZenOldMincho-Bold_jp.png",
+            "ZenOldMincho-Medium_en.png",
+            "ZenOldMincho-Medium_jp.png",
             "ZenOldMincho-Regular_en.png",
             "ZenOldMincho-Regular_jp.png"
         ]

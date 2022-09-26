@@ -201,6 +201,10 @@
         ],
         "volume": 15517584,
         "imagepath": [
+            "KoPubWorld DotumB_en.png",
+            "KoPubWorld DotumB_ko.png",
+            "KoPubWorld DotumL_en.png",
+            "KoPubWorld DotumL_ko.png",
             "KoPubWorld DotumM_en.png",
             "KoPubWorld DotumM_ko.png"
         ]
@@ -220,6 +224,10 @@
         ],
         "volume": 36650112,
         "imagepath": [
+            "KoPubWorld BatangB_en.png",
+            "KoPubWorld BatangB_ko.png",
+            "KoPubWorld BatangL_en.png",
+            "KoPubWorld BatangL_ko.png",
             "KoPubWorld BatangM_en.png",
             "KoPubWorld BatangM_ko.png"
         ]
@@ -239,6 +247,10 @@
         ],
         "volume": 2871708,
         "imagepath": [
+            "LH B_en.png",
+            "LH B_ko.png",
+            "LH L_en.png",
+            "LH L_ko.png",
             "LH M_en.png",
             "LH M_ko.png"
         ]
@@ -361,6 +373,12 @@
         ],
         "volume": 7256760,
         "imagepath": [
+            "NanumGothic_en.png",
+            "NanumGothic_ko.png",
+            "NanumGothicB_en.png",
+            "NanumGothicB_ko.png",
+            "NanumGothicEB_en.png",
+            "NanumGothicEB_ko.png",
             "NanumGothicL_en.png",
             "NanumGothicL_ko.png"
         ]
@@ -380,6 +398,10 @@
         ],
         "volume": 6141996,
         "imagepath": [
+            "NanumMyeongjo_en.png",
+            "NanumMyeongjo_ko.png",
+            "NanumMyeongjoB_en.png",
+            "NanumMyeongjoB_ko.png",
             "NanumMyeongjoEB_en.png",
             "NanumMyeongjoEB_ko.png"
         ]
@@ -517,6 +539,8 @@
         ],
         "volume": 7370648,
         "imagepath": [
+            "경기천년바탕B_en.png",
+            "경기천년바탕B_ko.png",
             "경기천년바탕R_en.png",
             "경기천년바탕R_ko.png"
         ]
@@ -536,6 +560,10 @@
         ],
         "volume": 3265872,
         "imagepath": [
+            "경기천년제목B_en.png",
+            "경기천년제목B_ko.png",
+            "경기천년제목L_en.png",
+            "경기천년제목L_ko.png",
             "경기천년제목M_en.png",
             "경기천년제목M_ko.png"
         ]
@@ -606,6 +634,10 @@
         ],
         "volume": 8729732,
         "imagepath": [
+            "국립박물관문화재단클래식B_en.png",
+            "국립박물관문화재단클래식B_ko.png",
+            "국립박물관문화재단클래식L_en.png",
+            "국립박물관문화재단클래식L_ko.png",
             "국립박물관문화재단클래식M_en.png",
             "국립박물관문화재단클래식M_ko.png"
         ]
@@ -625,6 +657,10 @@
         ],
         "volume": 4973048,
         "imagepath": [
+            "KimjungchulGothicB_en.png",
+            "KimjungchulGothicB_ko.png",
+            "KimjungchulGothicL_en.png",
+            "KimjungchulGothicL_ko.png",
             "KimjungchulGothicR_en.png",
             "KimjungchulGothicR_ko.png"
         ]
@@ -694,6 +730,8 @@
         ],
         "volume": 5418820,
         "imagepath": [
+            "GimhaeGayaB_en.png",
+            "GimhaeGayaB_ko.png",
             "GimhaeGayaR_en.png",
             "GimhaeGayaR_ko.png"
         ]
@@ -713,6 +751,10 @@
         ],
         "volume": 5815588,
         "imagepath": [
+            "DalseoDarlingL_en.png",
+            "DalseoDarlingL_ko.png",
+            "DalseoHealingB_en.png",
+            "DalseoHealingB_ko.png",
             "DalseoHealingM_en.png",
             "DalseoHealingM_ko.png"
         ]
@@ -751,6 +793,14 @@
         ],
         "volume": 3372440,
         "imagepath": [
+            "MaruBuriB_en.png",
+            "MaruBuriB_ko.png",
+            "MaruBuriEL_en.png",
+            "MaruBuriEL_ko.png",
+            "MaruBuriL_en.png",
+            "MaruBuriL_ko.png",
+            "MaruBuriR_en.png",
+            "MaruBuriR_ko.png",
             "MaruBuriSB_en.png",
             "MaruBuriSB_ko.png"
         ]
@@ -769,6 +819,8 @@
         ],
         "volume": 1595596,
         "imagepath": [
+            "문화재돌봄체 B_en.png",
+            "문화재돌봄체 B_ko.png",
             "문화재돌봄체 R_en.png",
             "문화재돌봄체 R_ko.png"
         ]
@@ -924,6 +976,10 @@
         ],
         "volume": 2803968,
         "imagepath": [
+            "빛고을광주B_en.png",
+            "빛고을광주B_ko.png",
+            "빛고을광주L_en.png",
+            "빛고을광주L_ko.png",
             "빛고을광주M_en.png",
             "빛고을광주M_ko.png"
         ]
@@ -1013,6 +1069,14 @@
         ],
         "volume": 20931308,
         "imagepath": [
+            "서울남산 장체B_en.png",
+            "서울남산 장체B_ko.png",
+            "서울남산 장체BL_en.png",
+            "서울남산 장체BL_ko.png",
+            "서울남산 장체EB_en.png",
+            "서울남산 장체EB_ko.png",
+            "서울남산 장체L_en.png",
+            "서울남산 장체L_ko.png",
             "서울남산 장체M_en.png",
             "서울남산 장체M_ko.png"
         ]
@@ -1034,6 +1098,14 @@
         ],
         "volume": 20669936,
         "imagepath": [
+            "SeoulNamsanB_en.png",
+            "SeoulNamsanB_ko.png",
+            "SeoulNamsanEB_en.png",
+            "SeoulNamsanEB_ko.png",
+            "SeoulNamsanL_en.png",
+            "SeoulNamsanL_ko.png",
+            "SeoulNamsanM_en.png",
+            "SeoulNamsanM_ko.png",
             "SeoulNamsanvert_en.png",
             "SeoulNamsanvert_ko.png"
         ]
@@ -1055,6 +1127,14 @@
         ],
         "volume": 37070448,
         "imagepath": [
+            "서울한강 장체B_en.png",
+            "서울한강 장체B_ko.png",
+            "서울한강 장체BL_en.png",
+            "서울한강 장체BL_ko.png",
+            "서울한강 장체EB_en.png",
+            "서울한강 장체EB_ko.png",
+            "서울한강 장체L_en.png",
+            "서울한강 장체L_ko.png",
             "서울한강 장체M_en.png",
             "서울한강 장체M_ko.png"
         ]
@@ -1075,6 +1155,12 @@
         ],
         "volume": 29959140,
         "imagepath": [
+            "SeoulHangangB_en.png",
+            "SeoulHangangB_ko.png",
+            "SeoulHangangEB_en.png",
+            "SeoulHangangEB_ko.png",
+            "SeoulHangangL_en.png",
+            "SeoulHangangL_ko.png",
             "SeoulHangangM_en.png",
             "SeoulHangangM_ko.png"
         ]
@@ -1093,6 +1179,8 @@
         ],
         "volume": 2336784,
         "imagepath": [
+            "솔뫼 김대건L_en.png",
+            "솔뫼 김대건L_ko.png",
             "솔뫼 김대건M_en.png",
             "솔뫼 김대건M_ko.png"
         ]
@@ -1146,6 +1234,10 @@
         ],
         "volume": 25919900,
         "imagepath": [
+            "SunBatangB_en.png",
+            "SunBatangB_ko.png",
+            "SunBatangL_en.png",
+            "SunBatangL_ko.png",
             "SunBatangM_en.png",
             "SunBatangM_ko.png"
         ]
@@ -1164,6 +1256,8 @@
         ],
         "volume": 6535452,
         "imagepath": [
+            "SuncheonB_en.png",
+            "SuncheonB_ko.png",
             "SuncheonR_en.png",
             "SuncheonR_ko.png"
         ]
@@ -1182,6 +1276,8 @@
         ],
         "volume": 59372804,
         "imagepath": [
+            "Spoqa Han SansB_en.png",
+            "Spoqa Han SansB_ko.png",
             "Spoqa Han SansR_en.png",
             "Spoqa Han SansR_ko.png"
         ]
@@ -1201,6 +1297,10 @@
         ],
         "volume": 2543076,
         "imagepath": [
+            "이순신돋움체B_en.png",
+            "이순신돋움체B_ko.png",
+            "이순신돋움체L_en.png",
+            "이순신돋움체L_ko.png",
             "이순신돋움체M_en.png",
             "이순신돋움체M_ko.png"
         ]
@@ -1219,6 +1319,8 @@
         ],
         "volume": 6152528,
         "imagepath": [
+            "이순신B_en.png",
+            "이순신B_ko.png",
             "이순신R_en.png",
             "이순신R_ko.png"
         ]
@@ -1272,6 +1374,10 @@
         ],
         "volume": 5994856,
         "imagepath": [
+            "yangpyeongB_en.png",
+            "yangpyeongB_ko.png",
+            "yangpyeongL_en.png",
+            "yangpyeongL_ko.png",
             "yangpyeongM_en.png",
             "yangpyeongM_ko.png"
         ]
@@ -1307,6 +1413,8 @@
         ],
         "volume": 13049136,
         "imagepath": [
+            "WandocleanseaB_en.png",
+            "WandocleanseaB_ko.png",
             "WandocleanseaR_en.png",
             "WandocleanseaR_ko.png"
         ]
@@ -1325,6 +1433,8 @@
         ],
         "volume": 6007392,
         "imagepath": [
+            "WandohopeB_en.png",
+            "WandohopeB_ko.png",
             "WandohopeR_en.png",
             "WandohopeR_ko.png"
         ]
@@ -1462,6 +1572,8 @@
         ],
         "volume": 1643212,
         "imagepath": [
+            "중나좋체L_en.png",
+            "중나좋체L_ko.png",
             "중나좋체M_en.png",
             "중나좋체M_ko.png"
         ]
@@ -1497,6 +1609,8 @@
         ],
         "volume": 2243008,
         "imagepath": [
+            "충북대학교B_en.png",
+            "충북대학교B_ko.png",
             "충북대학교R_en.png",
             "충북대학교R_ko.png"
         ]
@@ -1702,6 +1816,8 @@
         ],
         "volume": 3737632,
         "imagepath": [
+            "OSeongandHanEumB_en.png",
+            "OSeongandHanEumB_ko.png",
             "OSeongandHanEumR_en.png",
             "OSeongandHanEumR_ko.png"
         ]
@@ -1720,6 +1836,8 @@
         ],
         "volume": 1934420,
         "imagepath": [
+            "한국기계연구원L_en.png",
+            "한국기계연구원L_ko.png",
             "한국기계연구원b_en.png",
             "한국기계연구원b_ko.png"
         ]
@@ -1806,6 +1924,8 @@
         ],
         "volume": 909028,
         "imagepath": [
+            "KHNPHDotfB_en.png",
+            "KHNPHDotfB_ko.png",
             "KHNPHDotfR_en.png",
             "KHNPHDotfR_ko.png"
         ]
@@ -1859,6 +1979,10 @@
         ],
         "volume": 8165744,
         "imagepath": [
+            "행복고흥B_en.png",
+            "행복고흥B_ko.png",
+            "행복고흥L_en.png",
+            "행복고흥L_ko.png",
             "행복고흥M_en.png",
             "행복고흥M_ko.png"
         ]
@@ -1877,6 +2001,8 @@
         ],
         "volume": 9624784,
         "imagepath": [
+            "환경B_en.png",
+            "환경B_ko.png",
             "환경R_en.png",
             "환경R_ko.png"
         ]
