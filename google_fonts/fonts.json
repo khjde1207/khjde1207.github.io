@@ -6109,11 +6109,7 @@
         "filepath700": "KarlaTamilInclined-Bold.ttf",
         "filepath400": "KarlaTamilInclined-Regular.ttf",
         "lang": [
-            "t",
-            "a",
-            "m",
-            "i",
-            "l"
+            "tamil"
         ],
         "volume": 218504,
         "imagepath": [
@@ -6130,11 +6126,7 @@
         "filepath700": "KarlaTamilUpright-Bold.ttf",
         "filepath400": "KarlaTamilUpright-Regular.ttf",
         "lang": [
-            "t",
-            "a",
-            "m",
-            "i",
-            "l"
+            "tamil"
         ],
         "volume": 287664,
         "imagepath": [
@@ -7027,13 +7019,7 @@
         "license": "OFL",
         "filepath400": "Lohit-Bengali.ttf",
         "lang": [
-            "b",
-            "e",
-            "n",
-            "g",
-            "a",
-            "l",
-            "i"
+            "bengali"
         ],
         "volume": 139460,
         "imagepath": [
@@ -10302,9 +10288,7 @@
         "filepath700": "Phetsarath-Bold.ttf",
         "filepath400": "Phetsarath-Regular.ttf",
         "lang": [
-            "l",
-            "a",
-            "o"
+            "lao"
         ],
         "volume": 197384,
         "imagepath": [
@@ -12128,11 +12112,7 @@
         "license": "OFL",
         "filepath400": "Sedan-Regular.ttf",
         "lang": [
-            "l",
-            "a",
-            "t",
-            "i",
-            "n"
+            "latin"
         ],
         "volume": 37072,
         "imagepath": [
