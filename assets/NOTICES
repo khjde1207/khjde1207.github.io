@@ -496,6 +496,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 _flutterfire_internals
+cloud_firestore
 cloud_firestore_platform_interface
 
 Copyright 2017, the Chromium project authors. All rights reserved.
