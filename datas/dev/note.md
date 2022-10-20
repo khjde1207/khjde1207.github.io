@@ -1,41 +1,58 @@
-5.8.6 (2022 10 18)
-1. 뷰어 부분 로직 새로 작성. 
-  - 새로 작성 함으로써 성능개선을 하였습니다. 
+5.8.7 (2022 10 20)
 
-2. 스크롤 속도 기능을 제거 하였습니다. 
-  - 뷰어 성능이 업데이트 됨에 따라 속도를 따로 조정하지 않더라도 빠르게 스크롤 할수 있게 되었습니다. 
+1. 풀스크린 시 스크롤 위치 조정.
+2. TTS 재생중에 스크롤시 출력되는 버튼 크기를 조절 하였습니다. 
+  - 이제 이 버튼을 TTS 스크롤 버튼 이라고 하겠습니다.  
+3. TTS 스크롤 버튼에 애니매이션을 추가 하였습니다.
+4. TTS 설정에 -> 스크롤 버튼에 아이콘만 표시 기능을 추가 했습니다. 
+  - 기본적으로 글자 설명이 같이 표시 됩니다. 
+5. TTS 스크롤 버튼순서를 변경하였습니다. 
+6. 히스토리 클릭시 해당 파일을 열거나 해당 위치로 이동 하는 기능을 추가 했습니다. 
+7. 히스토리 목록에서 파일을 바로 열거나 위치를 열 수 있도록 기능을 추가 하였습니다. 
+8. 위치 이동 시 % 입력 으로 위치 이동 안되던 버그 수정. 
+9. 파일 열기 전에 뷰어 스크롤 위치 초기화 
+10. TTS 재생시 가끔 무한 루프에 빠지던 버그 수정. 
 
-3. tts 재생중에 뷰어를 스크롤 하면 TTS 위치로 이동할 지, 현재 위치에서 TTS 를 재생 할 지 선택 할수 있도록 기능을 추가 하였습니다. 
-  - 구현을 위해 좌표 계산을 두개로 나눠놓았습니다. TTS 재생시에는 TTS 좌표를 디비에 우선 저장하도록 하였습니다. 
-  - 이기능은 생소한 기능입니다. 해당 기능에 대해 추가적인 아이디어나 버그가 있으면 카톡이나 텔레그램 단톡방에 오셔서 알려주시기 바랍니다. 
-  - 버튼의 투명도는 재생 버튼 투명도와 같은 투명도를 사용합니다. 
-  - TTS 정지시 무조건 TTS 재생 위치로 이동 합니다. 
+10. 단일 이미지 파일도 OCR 처리되도록 수정. 
+  - 이기능은 OCR 키워드 보정, 쪽수제거, 개행정리 등 OCR  기능 을 디테일하게 테스트 하려고 만든 페이지 입니다. 
+  - 우선 간단하게 저장 기능 만 제작 하였습니다.
+    추후 기능 정리 하면서 개선 해보도록 하겠습니다. 
+---
 
-4. 내서재 이미지 크기가 디바이스에 따라 가변적으로 설정 되도록 수정. 
+1. Adjust the scroll position in full screen.
+2. Adjusted the size of the button that is output when scrolling during TTS playback.
+  - We will now refer to this button as the TTS scroll button.
+3. Added animation to the TTS scroll button.
+4. Added a function to display only icons on the scroll button -> TTS settings.
+  - By default, text descriptions are displayed together.
+5. The order of the TTS scroll buttons has been changed.
+6. Added a function to open the file or move to the location when you click the history.
+7. A function has been added so that you can directly open a file or open a location in the history list.
+8. Fixed a bug where the position could not be moved with % input when moving the position.
+9. Reset viewer scroll position before opening file
+10. Fixed a bug that sometimes fell into an infinite loop when playing TTS.
 
-5. OCR 키워드 보정 기능을 설정부분으로 이동 시켰습니다. 
-  
-6. 튜토리얼 화면 에서 TTS 사용체크시 일부 디바이스를 위해 백그라운드 작동 활성화 창을 띄우도록 수정 하였습니다. 
-
-8. 책갈피 로직 수정.
-  - 뷰어 로직 수정 하면서 터치 좌표 계산을 새로제작 하였습니다. 기능은 기존과 같습니다. 
+10. Modified so that single image files are also OCR processed.
+  - This function is a page created to test the OCR function in detail, such as OCR keyword correction, page number removal, and new line arrangement.
+  - First of all, only the save function was created.
+    We will try to improve it by organizing the functions later.
 
 ---
 
-5.8.5 (2022 10 18)
-1. New viewer part logic.
-2. Removed scroll speed function.
-3. A function has been added so that if you scroll the viewer while playing tts, you can select whether to move to the TTS position or play TTS from the current position.
-4. My library image size is modified to be set variably depending on the device.
-5. The OCR keyword correction function has been moved to the setting section.
-6. When checking the use of TTS on the tutorial screen, the background operation activation window is displayed for some devices.
+1. フルスクリーン時のスクロール位置の調整。
+2. TTS再生中にスクロール時に出力されるボタンのサイズを調整しました。
+  - 今、このボタンをTTSスクロールボタンといいます。
+3. TTSスクロールボタンにアニメーションを追加しました。
+4. TTS設定に->スクロールボタンにアイコンのみ表示機能を追加しました。
+  - デフォルトでは、文字の説明が一緒に表示されます。
+5. TTSスクロールボタンの順番を変更しました。
+6. 履歴をクリックしたときにそのファイルを開くか、その場所に移動する機能を追加しました。
+7. 履歴リストからファイルをすぐに開いたり、場所を開いたりする機能を追加しました。
+8. 位置移動時に % 入力に位置移動しなかったバグ修正。
+9. ファイルを開く前にビューアのスクロール位置を初期化する
+10. TTS再生時に時々無限ループに陥るバグ修正。
 
----
-
-5.8.5 (2022 10 18)
-1. Viewer部分ロジックの新規作成。
-2. スクロール速度機能を削除しました。
-3. tts再生中にビューアをスクロールすると、TTS位置に移動するか、現在位置でTTSを再生するかを選択できるように機能を追加しました。
-4. 書き込んだ画像サイズがデバイスに応じて可変に設定されるように修正。
-5. OCRキーワード補正機能を設定部分に移動しました。
-6. チュートリアル画面でTTS使用チェック時に一部のデバイスに対してバックグラウンド動作を有効にするウィンドウを表示するように修正しました。
+10. 単一の画像ファイルもOCR処理するように修正。
+  - この機能は、OCRキーワード補正、ページ削除、改行整理などOCR機能をディテールにテストしようとしたページです。
+  - まず簡単に保存機能のみ製作しました。
+    今後機能整理しながら改善してみましょう。
