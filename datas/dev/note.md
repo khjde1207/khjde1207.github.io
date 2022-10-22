@@ -1,58 +1,35 @@
-5.8.7 (2022 10 20)
-
-1. 풀스크린 시 스크롤 위치 조정.
-2. TTS 재생중에 스크롤시 출력되는 버튼 크기를 조절 하였습니다. 
-  - 이제 이 버튼을 TTS 스크롤 버튼 이라고 하겠습니다.  
-3. TTS 스크롤 버튼에 애니매이션을 추가 하였습니다.
-4. TTS 설정에 -> 스크롤 버튼에 아이콘만 표시 기능을 추가 했습니다. 
-  - 기본적으로 글자 설명이 같이 표시 됩니다. 
-5. TTS 스크롤 버튼순서를 변경하였습니다. 
-6. 히스토리 클릭시 해당 파일을 열거나 해당 위치로 이동 하는 기능을 추가 했습니다. 
-7. 히스토리 목록에서 파일을 바로 열거나 위치를 열 수 있도록 기능을 추가 하였습니다. 
-8. 위치 이동 시 % 입력 으로 위치 이동 안되던 버그 수정. 
-9. 파일 열기 전에 뷰어 스크롤 위치 초기화 
-10. TTS 재생시 가끔 무한 루프에 빠지던 버그 수정. 
-
-10. 단일 이미지 파일도 OCR 처리되도록 수정. 
-  - 이기능은 OCR 키워드 보정, 쪽수제거, 개행정리 등 OCR  기능 을 디테일하게 테스트 하려고 만든 페이지 입니다. 
-  - 우선 간단하게 저장 기능 만 제작 하였습니다.
-    추후 기능 정리 하면서 개선 해보도록 하겠습니다. 
+5.8.9 (2022 10 23)
+1. 자동 동기화 기능을 제거 하고 수동으로 동기화 하도록 수정 하였습니다. 
+2. 동기화기 백업, 복구 를 선택 할 수 있도록 수정 하였습니다. 
+3. OCR 교정 기능을 텍스트 일괄 수정 으로 변경 하여 일반 텍스트 파일을 일괄수정 하도록 하였습니다.
+  - OCR 은 시간이 오래 걸리다 보니 변환된 파일을 수정 하는 것이 더 효율적이라 판단 하였습니다.  
+  - 일괄 수정 기능은 글자수 상관 없이 20 페이지를 소모 하도록 하였습니다. 
+4. 도움말 기능을 추가 하였습니다. 어플의 기능이 많다 보니 OCR 같이 특수 기능을 모르시는 분들이 많아 추가 하였습니다.
+5. 몇몇 폰트가 어플을 실행 할때 마다 복제되는 버그를 수정 하였습니다. 
+6. 배경 이미지 필터 기능을 삭제 하였습니다. 
+  - 기존엔 용량때문에 몇없는 이미지로 어두운 느낌이나 밝은 느낌을 주기위해 넣었지만, 이제 배경 이미지 다운로더로 이미지를 받아 사용 할 수 있으니 제거 하였습니다. 
+7. 글꼴 그림자 기능을 추가 했습니다. 
+8. TTS 속도 범위는 0~ 500 으로 변경 하였습니다. 
+  - 저는 1.75 속도를 사용합니다. 
+  - 두번째 소숫점 까지 사용 하기 위해 100 단위로 변경 하였습니다. 
 ---
 
-1. Adjust the scroll position in full screen.
-2. Adjusted the size of the button that is output when scrolling during TTS playback.
-  - We will now refer to this button as the TTS scroll button.
-3. Added animation to the TTS scroll button.
-4. Added a function to display only icons on the scroll button -> TTS settings.
-  - By default, text descriptions are displayed together.
-5. The order of the TTS scroll buttons has been changed.
-6. Added a function to open the file or move to the location when you click the history.
-7. A function has been added so that you can directly open a file or open a location in the history list.
-8. Fixed a bug where the position could not be moved with % input when moving the position.
-9. Reset viewer scroll position before opening file
-10. Fixed a bug that sometimes fell into an infinite loop when playing TTS.
-
-10. Modified so that single image files are also OCR processed.
-  - This function is a page created to test the OCR function in detail, such as OCR keyword correction, page number removal, and new line arrangement.
-  - First of all, only the save function was created.
-    We will try to improve it by organizing the functions later.
+1. Removed the automatic synchronization function and modified it to synchronize manually.
+2. Synchronizer Backup, Restore has been modified to be selectable.
+3. Changed the OCR proofing function to Batch Text Edit to edit plain text files in batches.
+4. Added help function. Since there are many functions of the application, there are many people who do not know special functions such as OCR, so I added it.
+5. Fixed a bug where some fonts were duplicated every time the application was run.
+6. The background image filter function has been deleted.
+7. Added font shadow function.
+8. TTS speed range has been changed from 0 to 500.
 
 ---
 
-1. フルスクリーン時のスクロール位置の調整。
-2. TTS再生中にスクロール時に出力されるボタンのサイズを調整しました。
-  - 今、このボタンをTTSスクロールボタンといいます。
-3. TTSスクロールボタンにアニメーションを追加しました。
-4. TTS設定に->スクロールボタンにアイコンのみ表示機能を追加しました。
-  - デフォルトでは、文字の説明が一緒に表示されます。
-5. TTSスクロールボタンの順番を変更しました。
-6. 履歴をクリックしたときにそのファイルを開くか、その場所に移動する機能を追加しました。
-7. 履歴リストからファイルをすぐに開いたり、場所を開いたりする機能を追加しました。
-8. 位置移動時に % 入力に位置移動しなかったバグ修正。
-9. ファイルを開く前にビューアのスクロール位置を初期化する
-10. TTS再生時に時々無限ループに陥るバグ修正。
-
-10. 単一の画像ファイルもOCR処理するように修正。
-  - この機能は、OCRキーワード補正、ページ削除、改行整理などOCR機能をディテールにテストしようとしたページです。
-  - まず簡単に保存機能のみ製作しました。
-    今後機能整理しながら改善してみましょう。
+1. 自動同期機能を削除し、手動で同期するように修正しました。
+2. 同期機のバックアップ、リカバリを選択できるように修正しました。
+3. OCR校正機能をテキスト一括修正に変更し、プレーンテキストファイルを一括修正するようにしました。
+4. ヘルプ機能を追加しました。 アプリの機能が多いので、OCRのような特殊機能を知らない方が多く追加しました。
+5. 一部のフォントがアプリケーションを実行するたびに複製されるバグを修正しました。
+6.背景画像フィルタ機能を削除しました。
+7. フォントシャドウ機能を追加しました。
+8. TTS速度範囲は0〜500に変更しました。
