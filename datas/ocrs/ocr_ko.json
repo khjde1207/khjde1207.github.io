@@ -316,5 +316,12 @@
         "to": "갇히고",
         "expr": false,
         "cmd": ""
+    },
+    {
+        "form": "불잠",
+        "to": "붙잡",
+        "expr": false,
+        "cmd": ""
     }
+   
 ]
