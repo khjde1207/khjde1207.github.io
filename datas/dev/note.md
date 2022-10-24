@@ -1,35 +1,30 @@
-5.8.9 (2022 10 23)
-1. 자동 동기화 기능을 제거 하고 수동으로 동기화 하도록 수정 하였습니다. 
-2. 동기화기 백업, 복구 를 선택 할 수 있도록 수정 하였습니다. 
-3. OCR 교정 기능을 텍스트 일괄 수정 으로 변경 하여 일반 텍스트 파일을 일괄수정 하도록 하였습니다.
-  - OCR 은 시간이 오래 걸리다 보니 변환된 파일을 수정 하는 것이 더 효율적이라 판단 하였습니다.  
-  - 일괄 수정 기능은 글자수 상관 없이 20 페이지를 소모 하도록 하였습니다. 
-4. 도움말 기능을 추가 하였습니다. 어플의 기능이 많다 보니 OCR 같이 특수 기능을 모르시는 분들이 많아 추가 하였습니다.
-5. 몇몇 폰트가 어플을 실행 할때 마다 복제되는 버그를 수정 하였습니다. 
-6. 배경 이미지 필터 기능을 삭제 하였습니다. 
-  - 기존엔 용량때문에 몇없는 이미지로 어두운 느낌이나 밝은 느낌을 주기위해 넣었지만, 이제 배경 이미지 다운로더로 이미지를 받아 사용 할 수 있으니 제거 하였습니다. 
-7. 글꼴 그림자 기능을 추가 했습니다. 
-8. TTS 속도 범위는 0~ 500 으로 변경 하였습니다. 
-  - 저는 1.75 속도를 사용합니다. 
-  - 두번째 소숫점 까지 사용 하기 위해 100 단위로 변경 하였습니다. 
----
-
-1. Removed the automatic synchronization function and modified it to synchronize manually.
-2. Synchronizer Backup, Restore has been modified to be selectable.
-3. Changed the OCR proofing function to Batch Text Edit to edit plain text files in batches.
-4. Added help function. Since there are many functions of the application, there are many people who do not know special functions such as OCR, so I added it.
-5. Fixed a bug where some fonts were duplicated every time the application was run.
-6. The background image filter function has been deleted.
-7. Added font shadow function.
-8. TTS speed range has been changed from 0 to 500.
+5.9.0 (2022 10 24)
+1. 동기화 묻는 팝업의 UI 를 수정 하였습니다.
+2. TTS 필터 / 텍스트 일괄 수정 순서 이동시 어플 오류 나는 현상 수정. 
+3. 백업 / 복구시 필터는 복구 안되던 버그 수정. 
+4. 동기화시 서버와 파일명이 다를 경우 히스토리 위치만 업데이트 하도록 수정. 
+5. 동기화시 서버와 파일명이 다를 경우 복구 버튼 배경색을 어둠게 하였습니다.
+6. 내서재 드래그시 자동으로 상하 스크롤 되도록 수정. 
+7. 일괄 선택 기능을 하단으로 이동 시켰습니다. 
 
 ---
 
-1. 自動同期機能を削除し、手動で同期するように修正しました。
-2. 同期機のバックアップ、リカバリを選択できるように修正しました。
-3. OCR校正機能をテキスト一括修正に変更し、プレーンテキストファイルを一括修正するようにしました。
-4. ヘルプ機能を追加しました。 アプリの機能が多いので、OCRのような特殊機能を知らない方が多く追加しました。
-5. 一部のフォントがアプリケーションを実行するたびに複製されるバグを修正しました。
-6.背景画像フィルタ機能を削除しました。
-7. フォントシャドウ機能を追加しました。
-8. TTS速度範囲は0〜500に変更しました。
+5.9.0 (2022 10 24)
+1. The UI of the pop-up asking for synchronization has been modified.
+2. TTS filter / text batch editing Fixed the phenomenon that an application error occurs when moving the order.
+3. Fixed a bug that filters could not be restored during backup/restore.
+4. When synchronizing, if the server and the file name are different, only the history location is updated.
+5. If the server and file name are different during synchronization, the background color of the recovery button is darkened.
+6. Fixed to automatically scroll up and down when dragging my library.
+7. Moved the batch selection function to the bottom.
+
+---
+
+5.9.0 (2022 10 24)
+1. 同期を求めるポップアップのUIを修正しました。
+2. TTSフィルタ/テキストバッチ修正順序を移動するときのアプリエラー私は現象を修正。
+3. バックアップ/リカバリ時にフィルタはリカバリできなかったバグ修正。
+4. 同期時にサーバーとファイル名が異なる場合、履歴位置のみを更新するように修正。
+5. 同期時にサーバーとファイル名が異なる場合、回復ボタンの背景色を暗くしました。
+6. 内在材ドラッグ時に自動的に上下スクロールするように修正。
+7. 一括選択機能を下に移動しました。
