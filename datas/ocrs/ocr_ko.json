@@ -322,6 +322,34 @@
         "to": "붙잡",
         "expr": false,
         "cmd": ""
+    },
+    {
+        "form": "아십지만",
+        "to": "아쉽지만",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": " 족각 ",
+        "to": " 즉각 ",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "급실거립",
+        "to": "굽실거립",
+        "expr": false,
+        "cmd": ""
+    },{
+        "form": "부지 화보",
+        "to": "부지 확보",
+        "expr": false,
+        "cmd": ""
+    },{
+        "form": "나하진말고",
+        "to": "나빠하진말고",
+        "expr": false,
+        "cmd": ""
     }
    
 ]
