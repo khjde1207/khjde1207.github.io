@@ -350,6 +350,37 @@
         "to": "나빠하진말고",
         "expr": false,
         "cmd": ""
+    },{
+        "form": "접이 나기",
+        "to": "겁이 나기",
+        "expr": false,
+        "cmd": ""
+    },{
+        "form": "아납니다",
+        "to": "아닙니다",
+        "expr": false,
+        "cmd": ""
+    },{
+        "form": "열어붙어",
+        "to": "얼어붙어",
+        "expr": false,
+        "cmd": ""
+    },{
+        "form": "필 먹고",
+        "to": "뭘 먹고",
+        "expr": false,
+        "cmd": ""
+    },{
+        "form": "화보해서",
+        "to": "확보해서",
+        "expr": false,
+        "cmd": ""
+    },{
+        "form": "젤끔질끔",
+        "to": "찔끔찔끔",
+        "expr": false,
+        "cmd": ""
     }
+
    
 ]
