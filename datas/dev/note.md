@@ -1,4 +1,4 @@
-5.9.1 (2022 10 28)
+5.9.2 (2022 11 01)
 1. 텍스트 일괄 수정 부분에 힌트 문구 추가. 
 2. epub 변환시 순서 오류 수정.
 3. 백업 기능이 자동 으로 작동 되도록 수정 하였습니다. 
@@ -12,10 +12,10 @@
   - 패치 이후에도 빈화면이 나올 경우 제보 바랍니다.
 6. 자잘한 버그 나 오타 수정. 
   - 기능 추가 하면서 발견되는 자잘한 버그를 수정 하였습니다.
-
+7. 더블탭 기능 사용 여부를 판단하여 터치 이벤트 딜레이 시간 최소화.
 ---
 
-5.9.1 (2022 10 28)
+5.9.2 (2022 11 01)
 1. Added hint text to text batch editing.
 2. Fix order error when converting epub.
 3. The backup function has been modified to work automatically.
@@ -29,9 +29,10 @@
    - If a blank screen appears after the patch, please report it.
 6. Fixed minor bugs and typos.
    - Fixed minor bugs found while adding features.
+7. Minimize touch event delay time by judging whether to use the double tap function.
 ---
 
-5.9.1 (2022 10 28)
+5.9.2 (2022 11 01)
 1. テキストのバッチ修正部分にヒントフレーズを追加します。
 2. epub変換時の順序エラーの修正。
 3. バックアップ機能が自動的に動作するように修正しました。
@@ -45,3 +46,4 @@
    - パッチ後も空画面が出る場合は情報提供してください。
 6. 細かいバグや誤字修正。
    - 機能追加しながら発見される細かいバグを修正しました。
+7.ダブルタップ機能を使用するかどうかを判断することで、タッチイベントの遅延時間を最小限に抑えます。
