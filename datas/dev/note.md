@@ -1,4 +1,4 @@
-5.9.7 (2022 11 03)
+5.9.8 (2022 11 03)
 1. 히스토리 에서 파일 삭제 기능 추가. 
 2. 스크롤 속도 설정 기능 추가.
 3. 빠른 스크롤 기능 사용 여부 옵션 추가.
@@ -12,7 +12,7 @@
 
 ---
 
-5.9.7 (2022 11 03)
+5.9.8 (2022 11 03)
 1. Added function to delete files from history.
 2. Added scroll speed setting function.
 3. Added option to enable or disable fast scrolling.
@@ -24,7 +24,7 @@
    - We can provide tts separately for each language.
 ---
 
-5.9.7 (2022 11 03)
+5.9.8 (2022 11 03)
 1. 履歴からファイル削除機能を追加。
 2. スクロール速度設定機能を追加。
 3.クイックスクロール機能を使用するかどうかオプションを追加します。
