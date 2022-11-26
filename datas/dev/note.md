@@ -1,39 +1,42 @@
-5.9.9 (2022 11 21)
-1. TTS 음성 설정 기능을 추가 하였습니다. 
-2. euc-kr 디코딩 라이브러리 추가. 모든 디코딩이 실패 하면 euc-kr 로 시도합니다. 
-3. 히스토리 에서 파일삭제/히스토리삭제 기능을 추가 하였습니다. 
-4. 처음 파일 오픈시 스크롤 이 부자연 스러운 버그 수정 하였습니다. 
-5. 드래그로 파일 삭제시 화면이 회색으로 깜빡이던 버그 수정 하였습니다. 
-6. 개행 정리시 홀따옴표는 개행 안하도록 수정 하였습니다. 
-7. 백업 / 복구 시 병렬처리를 하여 속도를 개선 하였습니다. 
-8. 위치 백업시 북마크도 백업/복구 되도록 수정 하였습니다. 
-9. 파일 합치기 시 원본 파일 지우는 버튼 추가. 
-10. TTS 재생시 한글자씩 건너 뛰던 버그 수정. 
+6.0.2 (2022 11 27)
+1. 다국어 지원을 위해 어플명을 영어로 통일 하였습니다. 
+  - 오픈텍뷰 를 번역기로 돌리니 번역이 제대로 되지 않았습니다. 
+  - 어플의 특징을 뽑아서 TTS Text Viewer 로 수정 하였습니다.
+2. 앱 아이콘을 변경 하였습니다. 책위에 재생버튼을 올려 보았습니다. 
+  - 하나만 올리니까 뭔가 허전해서 하나 더 겹쳐 놓았습니다. 
+3. 내서재 파일 크기 기준으로 정렬 할 수 있도록 기능을 추가 하였습니다. 
+4. 처음실행시 나오는 help 아이콘 제거/ 인트로 제거.
+  - 버튼 보이기/숨기기 시 가끔 에러나는 현상이 있어서 제거 하였습니다. 
+  - 추후 영상 형태로 가이드를 작성하고 영상을 보여주는 방식으로 해야 할듯 합니다. 
+5. 다중 선택시 zip 파일은 테두리가 여러개 나오던 버그 수정. 
+6. TTS 자동 종료 팝업 UI 를 기존 슬라이드 형태에서 드래그 형태로 변경 하였습니다. 
+
 
 ---
 
-5.9.9 (21 11 2022)
-1. Added TTS voice setting function.
-2. Added euc-kr decoding library. If all decoding fails, try euc-kr.
-3. Added file deletion/history deletion function in History.
-4. Fixed a bug where scrolling was unnatural when opening a file for the first time.
-5. Fixed a bug where the screen blinked in gray when deleting files by dragging.
-6. Fixed single quotation marks so that newlines are not used when arranging newlines.
-7. Improved speed by performing parallel processing during backup/recovery.
-8. When backing up the location, bookmarks have been modified to be backed up/restored.
-9. Added a button to delete the original file when merging files.
-10. Fixed a bug that skipped one character at a time when playing TTS.
-
+6.0.2 (27 Nov 2022)
+1. For multilingual support, the application name has been unified in English.
+  - When I turned OpenTechView into a translator, the translation did not work properly.
+  - The characteristics of the application were extracted and modified with TTS Text Viewer.
+2. The app icon has been changed. I put a play button on the book.
+  - After uploading only one, something was missing, so I layered another one.
+3. A function has been added to allow sorting by file size in My Library.
+4. Removal of the help icon that appears when running for the first time / Removal of intro.
+  - There was an error that sometimes occurred when showing/hiding the button, so it was removed.
+  - I think we should write a guide in the form of a video later and do it in a way that shows the video.
+5. Fixed a bug where multiple borders appeared in the zip file when multiple selections were made.
+6. The TTS automatic termination pop-up UI has been changed from the existing slide type to the drag type.
 ---
 
-5.9.9 (2022 11 21)
-1. TTS音声設定機能を追加しました。
-2. euc-krデコードライブラリの追加。 すべてのデコードが失敗した場合は、euc-krで試してください。
-3. 履歴からファイル削除/履歴削除機能を追加しました。
-4. 初めてファイルオープン時のスクロールが不自然なバグを修正しました。
-5. ドラッグでファイル削除時に画面が灰色に点滅していたバグを修正しました。
-6. 改行整理時、一重引用符は改行しないように修正しました。
-7. バックアップ/リカバリ時並列処理をして速度を改善しました。
-8. 位置バックアップ時のブックマークもバックアップ/回復するように修正しました。
-9.ファイルをまとめるときに元のファイルを消去するボタンを追加します。
-10. TTSを再生するときに1文字ずつスキップしたバグを修正しました。
+6.0.2 (2022 11 27)
+1. 多言語支援のためにアプリ名を英語で統一しました。
+  - オープンテキストを翻訳機に回すと翻訳が正しくできませんでした。
+  - アプリの特徴を抜いてTTS Text Viewerに修正しました。
+2. アプリのアイコンを変更しました。机に再生ボタンを載せてみました。
+  - 一つだけ上げるから何か虚戦してもう一つ重ねてしまいました。
+3. 書き込んだファイルサイズで並べ替える機能を追加しました。
+4. 最初の実行時に出てくるヘルプアイコンの削除/イントロ削除。
+  - ボタンの表示/非表示時に時々エラーになる現象があり、削除しました。
+  - 後の映像の形でガイドを作成し、映像を見せる方法でやるべきです。
+5. 複数選択時のzipファイルは、境界線が複数出ていたバグ修正。
+6. TTS自動終了ポップアップUIを既存のスライド形式からドラッグ形式に変更しました。
