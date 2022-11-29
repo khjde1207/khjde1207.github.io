@@ -1,3 +1,9 @@
+6.0.4 (2022 11 29)
+1. TTS 자동 종료 타이머를 기존 1분 단위 설정 에서 1분, 5분, 10분, 20분 단위로 설정 할 수 있도록 기능을 추가 하였습니다. 
+
+6.0.3 (2022 11 29)
+1. 파일명정렬/파일크기 정렬 로직에 오류가 있어서 수정 하였습니다.
+
 6.0.2 (2022 11 27)
 1. 다국어 지원을 위해 어플명을 영어로 통일 하였습니다. 
   - 오픈텍뷰 를 번역기로 돌리니 번역이 제대로 되지 않았습니다. 
@@ -11,8 +17,13 @@
 5. 다중 선택시 zip 파일은 테두리가 여러개 나오던 버그 수정. 
 6. TTS 자동 종료 팝업 UI 를 기존 슬라이드 형태에서 드래그 형태로 변경 하였습니다. 
 
-
 ---
+
+6.0.4 (29 Nov 2022)
+1. A function has been added to set the TTS automatic shutdown timer in units of 1 minute, 5 minutes, 10 minutes, and 20 minutes instead of the existing 1 minute unit setting.
+
+6.0.3 (29 Nov 2022)
+1. There was an error in the file name sorting/file size sorting logic, so it was corrected.
 
 6.0.2 (27 Nov 2022)
 1. For multilingual support, the application name has been unified in English.
@@ -26,7 +37,14 @@
   - I think we should write a guide in the form of a video later and do it in a way that shows the video.
 5. Fixed a bug where multiple borders appeared in the zip file when multiple selections were made.
 6. The TTS automatic termination pop-up UI has been changed from the existing slide type to the drag type.
+
 ---
+
+6.0.4 (2022 11 29)
+1. TTS自動シャットダウンタイマーを既存の1分単位設定で1分、5分、10分、20分単位に設定できるように機能を追加しました。
+
+6.0.3 (2022 11 29)
+1. ファイル名整列/ファイルサイズの整列ロジックに誤りがあって修正しました。
 
 6.0.2 (2022 11 27)
 1. 多言語支援のためにアプリ名を英語で統一しました。
