@@ -1,3 +1,6 @@
+6.0.6 (2022 12 01)
+1. 다른 이름으로 저장 광고/주의사항 문구 제거.
+
 6.0.4 (2022 11 29)
 1. TTS 자동 종료 타이머를 기존 1분 단위 설정 에서 1분, 5분, 10분, 20분 단위로 설정 할 수 있도록 기능을 추가 하였습니다. 
 
@@ -19,6 +22,9 @@
 
 ---
 
+6.0.6 (2022 12 01)
+1. Remove Save As advertisement/disclaimer.
+
 6.0.4 (29 Nov 2022)
 1. A function has been added to set the TTS automatic shutdown timer in units of 1 minute, 5 minutes, 10 minutes, and 20 minutes instead of the existing 1 minute unit setting.
 
@@ -39,6 +45,9 @@
 6. The TTS automatic termination pop-up UI has been changed from the existing slide type to the drag type.
 
 ---
+
+6.0.6 (2022 12 01)
+1.別名で保存広告/注意フレーズを削除します。
 
 6.0.4 (2022 11 29)
 1. TTS自動シャットダウンタイマーを既存の1分単位設定で1分、5分、10分、20分単位に設定できるように機能を追加しました。
