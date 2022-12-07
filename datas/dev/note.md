@@ -1,3 +1,5 @@
+6.1.0 (2022 12 07)
+1. 좌우 드래그로 페이지 넘김 기능 을 활성/비활성 할 수 있도록 옵션을 추가 하였습니다. 
 
 6.0.9 (2022 12 06)
 1. epub -> txt 변환시 문장 사이에 들어가는 각주(숫자) 를 제거 하도록 수정 하였습니다. 
@@ -12,6 +14,11 @@
 1. 파일명정렬/파일크기 정렬 로직에 오류가 있어서 수정 하였습니다.
 
 ---
+
+6.1.0 (2022 12 07)
+1. An option has been added to activate/deactivate the page turning function by dragging left and right.
+
+
 6.0.9 (06 Dec 2022)
 1. Modified to remove footnotes (numbers) between sentences when converting epub -> txt.
 
@@ -26,6 +33,10 @@
 
 
 ---
+
+6.1.0 (2022 12 07)
+1. 左右のドラッグでページめくり機能を有効/無効にするオプションを追加しました。
+
 6.0.9 (2022 12 06)
 1. epub -> txt 変換時に文の間に入る脚注（数字）を削除するように修正しました。
 
