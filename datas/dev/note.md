@@ -1,50 +1,48 @@
+6.1.1 (2022 12 08)
+1. 내새재 파일 전체 선택 기능을 추가 하였습니다. 
+2. 수치 설정 을 키패드도 이용해 설정 할 수 있도록 기능을 추가 하였습니다.  
+3. 편집 기능을 추가 하였습니다. 
+  - 편집 기능은 설정 -> UI 설정에서 활성/비활성 할 수 있습니다. 
+  - 글자수가 너무 많으니 편집기로 열때도 오래 걸리고 편집할때도 렉이 심해서 실사용이 불가능 할 정도 였습니다. 
+  - 편집 기능은 위와같은 속도이슈 때문에 현재 보고 있는 위치에서 -50 ~ + 1500 자 를 편집할수 있도록 하였습니다. (개행 기준으로 자르다 보니 더 적거나 많을 수 있습니다.)
+  - 1500천자 넘어가면 편집기 열때 0.1 초 정도 딜레이 생기는게 느껴져서 1500 자로 타협했습니다. 
+  - 편집 완료시 내서재에 있는 파일도 같이 수정 됩니다. 
+
+4. 편집 기능 추가로 인해 빈 텍스트 파일 추가 할 수 있도록 기능을 추가 하였습니다. 
+5. 다른이름으로 저장시 저장되는 동안 짧은 광고를 재생 하도록 하였습니다. 
+6. 뷰어배너 광고 제거시 광고 가 없을 경우 1시간동안 뷰어 광고 제거를 하도록 수정 하였습니다. 
+
 6.1.0 (2022 12 07)
 1. 좌우 드래그로 페이지 넘김 기능 을 활성/비활성 할 수 있도록 옵션을 추가 하였습니다. 
 
-6.0.9 (2022 12 06)
-1. epub -> txt 변환시 문장 사이에 들어가는 각주(숫자) 를 제거 하도록 수정 하였습니다. 
-
-6.0.6 (2022 12 01)
-1. 다른 이름으로 저장 광고/주의사항 문구 제거.
-
-6.0.4 (2022 11 29)
-1. TTS 자동 종료 타이머를 기존 1분 단위 설정 에서 1분, 5분, 10분, 20분 단위로 설정 할 수 있도록 기능을 추가 하였습니다. 
-
-6.0.3 (2022 11 29)
-1. 파일명정렬/파일크기 정렬 로직에 오류가 있어서 수정 하였습니다.
 
 ---
+6.1.1 (2022 12 08)
+1. Added a function to select all nested material files.
+2. A function has been added so that numerical settings can be set using the keypad as well.
+3. Added editing function.
+   - Editing function can be enabled/disabled in Settings -> UI Settings.
+
+
+4. Added a function to add an empty text file due to the addition of the editing function.
+5. When saving under a different name, a short advertisement is played while saving.
+6. When removing viewer banner ads, if there are no ads, it has been modified to remove viewer ads for 1 hour.
 
 6.1.0 (2022 12 07)
 1. An option has been added to activate/deactivate the page turning function by dragging left and right.
 
 
-6.0.9 (06 Dec 2022)
-1. Modified to remove footnotes (numbers) between sentences when converting epub -> txt.
-
-6.0.6 (2022 12 01)
-1. Remove Save As advertisement/disclaimer.
-
-6.0.4 (29 Nov 2022)
-1. A function has been added to set the TTS automatic shutdown timer in units of 1 minute, 5 minutes, 10 minutes, and 20 minutes instead of the existing 1 minute unit setting.
-
-6.0.3 (29 Nov 2022)
-1. There was an error in the file name sorting/file size sorting logic, so it was corrected.
-
 
 ---
 
+6.1.1 (2022 12 08)
+1. 内新材ファイル全選択機能を追加しました。
+2. 数値設定 をキーパッドも利用して設定できるように機能を追加しました。
+3. 編集機能を追加しました。
+  - 編集機能は設定 - > UI設定で有効/無効にすることができます。
+4. 編集機能の追加により、空のテキストファイルを追加できるように機能を追加しました。
+5. 別名で保存時に保存されている間に短い広告を再生するようにしました。
+6. ビューアバナー広告の削除時に広告がない場合、1時間の間ビューア広告を削除するように修正しました。
+
 6.1.0 (2022 12 07)
 1. 左右のドラッグでページめくり機能を有効/無効にするオプションを追加しました。
-
-6.0.9 (2022 12 06)
-1. epub -> txt 変換時に文の間に入る脚注（数字）を削除するように修正しました。
-
-6.0.6 (2022 12 01)
-1.別名で保存広告/注意フレーズを削除します。
-
-6.0.4 (2022 11 29)
-1. TTS自動シャットダウンタイマーを既存の1分単位設定で1分、5分、10分、20分単位に設定できるように機能を追加しました。
-
-6.0.3 (2022 11 29)
-1. ファイル名整列/ファイルサイズの整列ロジックに誤りがあって修正しました。
