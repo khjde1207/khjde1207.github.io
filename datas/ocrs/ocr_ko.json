@@ -380,8 +380,77 @@
         "to": "찔끔찔끔",
         "expr": false,
         "cmd": ""
+    },
+    {
+        "form": "눈치기 느린",
+        "expr": false,
+        "bcustom": false,
+        "cmd": "",
+        "to": "눈치가 느린",
+        "lang": ""
+    },
+    {
+        "form": "못하다기",
+        "expr": false,
+        "bcustom": false,
+        "cmd": "",
+        "to": "못하다가",
+        "lang": ""
+    },
+    {
+        "form": " 것가락",
+        "expr": false,
+        "bcustom": false,
+        "cmd": "",
+        "to": " 젓가락",
+        "lang": ""
+    },
+    {
+        "form": "반아야",
+        "expr": false,
+        "bcustom": false,
+        "to": "받아야",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": " 전다.",
+        "expr": false,
+        "bcustom": false,
+        "cmd": "",
+        "to": " 쩐다.",
+        "lang": ""
+    },
+    {
+        "form": "결끄럽긴",
+        "bcustom": false,
+        "expr": false,
+        "to": "껄끄럽긴",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "인기 전다",
+        "bcustom": false,
+        "expr": false,
+        "cmd": "",
+        "to": "인기 쩐다",
+        "lang": ""
+    },
+    {
+        "form": "그했을",
+        "bcustom": false,
+        "expr": false,
+        "cmd": "",
+        "to": "그랬을",
+        "lang": ""
+    },
+    {
+        "form": "반히 쳐",
+        "bcustom": false,
+        "expr": false,
+        "to": "빤히 쳐",
+        "cmd": "",
+        "lang": ""
     }
-
-
-   
 ]
