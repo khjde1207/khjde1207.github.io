@@ -1,5 +1,5 @@
 6.1.1 (2022 12 08)
-1. 내새재 파일 전체 선택 기능을 추가 하였습니다. 
+1. 내서재 파일 전체 선택 기능을 추가 하였습니다. 
 2. 수치 설정 을 키패드도 이용해 설정 할 수 있도록 기능을 추가 하였습니다.  
 3. 편집 기능을 추가 하였습니다. 
   - 편집 기능은 설정 -> UI 설정에서 활성/비활성 할 수 있습니다. 
@@ -18,7 +18,7 @@
 
 ---
 6.1.1 (2022 12 08)
-1. Added a function to select all nested material files.
+1. Added a function to select all files in my library.
 2. A function has been added so that numerical settings can be set using the keypad as well.
 3. Added editing function.
    - Editing function can be enabled/disabled in Settings -> UI Settings.
@@ -36,7 +36,7 @@
 ---
 
 6.1.1 (2022 12 08)
-1. 内新材ファイル全選択機能を追加しました。
+1. 書き出しファイル全体選択機能を追加しました。
 2. 数値設定 をキーパッドも利用して設定できるように機能を追加しました。
 3. 編集機能を追加しました。
   - 編集機能は設定 - > UI設定で有効/無効にすることができます。
