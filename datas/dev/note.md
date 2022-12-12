@@ -1,3 +1,6 @@
+6.1.3 (2022 12 12)
+1. 뷰어 페이지 편집 아이콘이 풀스크린 상태에서도 표시 되던 버그 수정. 
+
 6.1.1 (2022 12 08)
 1. 내서재 파일 전체 선택 기능을 추가 하였습니다. 
 2. 수치 설정 을 키패드도 이용해 설정 할 수 있도록 기능을 추가 하였습니다.  
@@ -17,6 +20,11 @@
 
 
 ---
+
+6.1.3 (2022 12 12)
+1. Fixed a bug where the viewer page edit icon was displayed even in full screen mode.
+
+
 6.1.1 (2022 12 08)
 1. Added a function to select all files in my library.
 2. A function has been added so that numerical settings can be set using the keypad as well.
@@ -34,6 +42,9 @@
 
 
 ---
+
+6.1.3 (2022 12 12)
+1. ビューアページ編集アイコンがフルスクリーン状態でも表示されていたバグ修正。
 
 6.1.1 (2022 12 08)
 1. 書き出しファイル全体選択機能を追加しました。
