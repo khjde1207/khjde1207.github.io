@@ -452,5 +452,29 @@
         "to": "빤히 쳐",
         "cmd": "",
         "lang": ""
+    },
+    {
+        "form": "베테링랑",
+        "bcustom": false,
+        "expr": false,
+        "to": "베테랑",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "핑장히",
+        "expr": false,
+        "bcustom": false,
+        "cmd": "",
+        "to": "굉장히",
+        "lang": ""
+    },
+    {
+        "form": "밀했다",
+        "bcustom": false,
+        "expr": false,
+        "cmd": "",
+        "to": "말했다",
+        "lang": ""
     }
 ]
