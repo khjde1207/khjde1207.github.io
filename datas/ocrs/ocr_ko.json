@@ -476,5 +476,12 @@
         "cmd": "",
         "to": "말했다",
         "lang": ""
+    },
+    {
+        "name": "※ filter",
+        "expr": true,
+        "filter": "※ \\.+※",
+        "to": "",
+        "enable": false
     }
 ]

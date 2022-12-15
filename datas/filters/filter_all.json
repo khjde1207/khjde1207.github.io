@@ -84,5 +84,12 @@
         "filter": "~{1,}", 
         "to": "", 
         "enable": true
+    },
+    {
+      "name": "※ filter",
+      "expr": true,
+      "filter": "※ \\.+※",
+      "to": "",
+      "enable": false
     }
 ]
