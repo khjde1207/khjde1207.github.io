@@ -1,3 +1,10 @@
+6.1.6 (2022 12 15)
+1. 백업/복구시 드라이브 로그인이 안되어 있을경우 무한 로딩 걸리는 버그 수정. 
+2. TTS 재생시 문서의 첫번째 줄을 읽을때는 하이라이트 표시가 안되던 버그 수정.
+3. 어플이 백그라운드 에 있을경우 배너 광고 로딩을 중지 하여 배터리 소모 / 인터넷 사용량을 줄여 보았습니다. 
+  - 실제 배터리절약에 얼마나 효과가 있을지는 모르겠습니다.
+  - 배터리 소모 부분은 지속적으로 개선을 하도록 하겠습니다. 
+
 6.1.5 (2022 12 13)
 1. 자동 백업 시 가끔 오류나서 백업 안되던 현상 일부 수정.
 2. 백업/복구 엔진 버전 업데이트 
@@ -16,6 +23,9 @@
 * 이번 패치는 불편한 부분위주로 수정 하였습니다. 
 
 ---
+6.1.6 (2022 12 15)
+1. Fixed a bug that caused infinite loading if the drive was not logged in during backup/recovery.
+2. Fixed a bug where the highlight was not displayed when reading the first line of a document during TTS playback.
 
 6.1.5 (2022 12 13)
 1. Some corrections to the phenomenon that backup was not possible due to occasional errors during automatic backup.
@@ -37,6 +47,10 @@
 
 
 ---
+6.1.6 (2022 12 15)
+1. バックアップ/復旧時にドライブにログインできない場合に無限のロードがかかるバグを修正。
+2. TTS再生時に文書の最初の行を読むときにハイライト表示ができなかったバグ修正。
+
 
 6.1.5 (2022 12 13)
 1. 自動バックアップ時に時折エラーが発生したためバックアップできなかった現象 一部修正。

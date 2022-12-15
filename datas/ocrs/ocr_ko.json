@@ -478,10 +478,11 @@
         "lang": ""
     },
     {
-        "name": "※ filter",
+        "form": "※ \\.+※",
+        "bcustom": false,
         "expr": true,
-        "filter": "※ \\.+※",
+        "cmd": "",
         "to": "",
-        "enable": false
+        "lang": ""
     }
 ]
