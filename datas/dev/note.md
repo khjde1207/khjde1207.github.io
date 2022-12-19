@@ -1,70 +1,51 @@
-6.1.6 (2022 12 15)
-1. 백업/복구시 드라이브 로그인이 안되어 있을경우 무한 로딩 걸리는 버그 수정. 
-2. TTS 재생시 문서의 첫번째 줄을 읽을때는 하이라이트 표시가 안되던 버그 수정.
-3. 어플이 백그라운드 에 있을경우 배너 광고 로딩을 중지 하여 배터리 소모 / 인터넷 사용량을 줄여 보았습니다. 
-  - 실제 배터리절약에 얼마나 효과가 있을지는 모르겠습니다.
-  - 배터리 소모 부분은 지속적으로 개선을 하도록 하겠습니다. 
+6.1.8 (2022 12 19)
+1. 반복 재생기능 을 추가 하였습니다. 
+  - TTS 설정에서 활성화 해주셔야 합니다.  
+  - 설정 -> UI 설정 에서 길게눌러 특수 기능 사용 을 체크 해 주시면 구간 반복을 설정 할 수 있습니다. 
+  - 학습용도로 사용할 수 있게 해달라는 요청이 있어서 해당 기능을 추가 하였습니다. 
 
-6.1.5 (2022 12 13)
-1. 자동 백업 시 가끔 오류나서 백업 안되던 현상 일부 수정.
-2. 백업/복구 엔진 버전 업데이트 
-3. 위치 이동, 설정 등 입력필드에 기본값을 빈값으로 두고. 힌트로 현재 값을 보여지도록 수정 하였습니다. 
-4. 히스토리에 처음 보여지는 방식을 리스트로 변경 하였습니다. 
-  - 캘린더 형태는 뭔가 정리되어 보이긴 하지만, 리스트 형태가 더 편한것 같습니다. 
-5. 텍스트 일괄수정 다운로드 버튼에 미적용 갯수를 표기하도록 수정.
-  - 현재는 한국어만 있습니다. 타국가의 언어는 제보 하기를 사용하여 알려 주세요. 
-  - ocr 처리이후 일괄수정 기능을 사용 하시면 좀더 깜끔한 결과물을 확인 할 수 있습니다. 
-6. 내서재 일괄 삭제 이후 일괄선택이 해제 되도록 수정. 
-7. 내서재 일괄선택 -> 폴더 아이콘을 눌러 폴더 로 합친 이후 일괄 선택이 해제 되도록 수정. 
-8. 뷰어 페이지에 위치이동 아이콘을 추가 하였습니다.
-  - 퍼센트눌러도 같은 위치이동을 할 수 있지만 직관적이지 않아 추가로 배치 하였습니다.  
-  - 아이콘은 설정에서 숨길 수 있습니다. 
- 
-* 이번 패치는 불편한 부분위주로 수정 하였습니다. 
+2. 편집 기능에 카메라 버튼을 추가 하였습니다. 
+  - 학습용으로 사용하는 사용자를 위해서 추가 하였습니다. 
+  - 참고서나 메모한 글귀를 직접 타이핑 하는건 상당히 힘든일이라 판단 했습니다. 
+  - 인쇄한 글귀는 잘 인식 되지만 필기한 경우 인식률이 생각보다 좋지 못합니다.
+  - 카메라를 통해 텍스트를 추출하고 편집 해보시기 바랍니다. 
+  - 카메라를 통한 추출은 추출된 글자수 기준으로 페이지가 소모 됩니다. (50 글자당 1페이지, 최소 5페이지 를 소모 합니다.)
+  - 기능 추가가 필요할 경우 문의하기를 통해 제안해 주세요. 
+
+3. 파일 열때 가끔 어플이 멈추는 현상 수정. 
 
 ---
-6.1.6 (2022 12 15)
-1. Fixed a bug that caused infinite loading if the drive was not logged in during backup/recovery.
-2. Fixed a bug where the highlight was not displayed when reading the first line of a document during TTS playback.
+6.1.8 (2022 12 19)
+1. Repeat playback function has been added.
+   - You need to enable it in TTS settings.
+   - In Settings -> UI Settings, if you check Use long press to use special function, you can set section repeat.
+   - There was a request to be able to use it for learning purposes, so we added that function.
 
-6.1.5 (2022 12 13)
-1. Some corrections to the phenomenon that backup was not possible due to occasional errors during automatic backup.
-2. Backup/recovery engine version update
-3. Leave the default value empty in the input fields such as position movement and setting. It has been modified to show the current value as a hint.
-4. Changed the way it is first shown in the history to a list.
-   - The calendar form looks organized, but I think the list form is more convenient.
-5. Edited to display the number of unapplied text batch edit download buttons.
-   - Currently, only Korean is available. For other languages, please use the report box to let us know.
-   - If you use the batch editing function after ocr processing, you can see a clearer result.
-6. Modified so that batch selection is canceled after batch deletion of My Library.
-7. Batch selection of my library -> Modified so that batch selection is canceled after clicking the folder icon to combine them into a folder.
-8. A location movement icon has been added to the viewer page.
-   - You can move the same position by pressing the percentage, but it is not intuitive, so it is placed additionally.
-   - The icon can be hidden in settings.
- 
-* This patch has been modified mainly for inconvenient parts.
+2. A camera button has been added to the editing function.
+   - Added for users who use it for learning.
+   - It was judged that it was quite difficult to directly type in reference books or memos.
+   - The printed text is well recognized, but the recognition rate in handwriting is not as good as expected.
+   - Please extract and edit the text through the camera.
+   - Extraction through the camera consumes pages based on the number of characters extracted. (1 page per 50 characters, consumes at least 5 pages.)
+   - If you need to add a function, please make a suggestion through Contact Us.
+
+3. Fixed the phenomenon that the app sometimes stops when opening a file.
 
 
 
 ---
-6.1.6 (2022 12 15)
-1. バックアップ/復旧時にドライブにログインできない場合に無限のロードがかかるバグを修正。
-2. TTS再生時に文書の最初の行を読むときにハイライト表示ができなかったバグ修正。
+6.1.8 (2022 12 19)
+1. 繰り返し再生機能を追加しました。
+   - TTS設定で有効にしてください。
+   - 設定 - > UI設定で長押しして特殊機能の使用をチェックしていただければ、区間繰り返しを設定できます。
+   - 学習用途に使用できるようにするよう要請があり、該当機能を追加しました。
 
+2. 編集機能にカメラボタンを追加しました。
+   - 学習用に使用するユーザーのために追加しました。
+   - 参考書やメモした文字を直接入力するのは結構大変だと判断しました。
+   - 印刷した文字はよく認識されますが、手書きした場合、認識率が思ったよりも良くありません。
+   - カメラからテキストを抽出して編集してください。
+   - カメラによる抽出は抽出された文字数基準でページが消費されます。 （50文字あたり1ページ、少なくとも5ページを消費します。）
+   - 機能追加が必要な場合はお問い合わせを通じてご提案ください。
 
-6.1.5 (2022 12 13)
-1. 自動バックアップ時に時折エラーが発生したためバックアップできなかった現象 一部修正。
-2. バックアップ/回復エンジンバージョンの更新
-3. 位置の移動、設定など、入力フィールドにデフォルト値を空白のままにします。 ヒントとして現在の値を表示するように修正しました。
-4. 履歴に初めて見られる方法をリストに変更しました。
-   - カレンダーの形は何か整理されて見えますが、リストの形がより楽なようです。
-5. テキスト一括修正 ダウンロードボタンに未適用本数を表記するように修正。
-   - 現在は韓国語のみです。 他国の言語は情報提供を使って教えてください。
-   - ocr処理後に一括修正機能を使用すると、よりスムーズな結果を確認できます。
-6. 内在財一括削除後に一括選択が解除されるように修正。
-7. 内在在一括選択 -> フォルダアイコンを押してフォルダに合わせた後、一括選択が解除されるように修正。
-8. ビューアページに位置移動アイコンを追加しました。
-   - パーセント押しても同じ位置移動ができますが直感的ではなく追加で配置しました。
-   - アイコンは設定から隠すことができます。
- 
-*今回のパッチは不便な部分中心に修正しました。
+3.ファイルを開くときに時々アプリがハングする現象を修正しました。
