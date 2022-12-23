@@ -1,3 +1,10 @@
+6.3.20 (2022 12 23)
+1. 테마 변경시 글자색도 같이 변경 하도록 수정. 
+2. 테마 변경시 그림자 효과 비활성화 되도록 수정. 
+3. 백업/복구 쪽에 버그 테스트 하려고 추가했던 버튼 을 실수로 남겨 놓았습니다. 해당 버튼을 제거 하였습니다.
+4. 백업/복구 프로필 쪽에 클릭하여 새로고침 문구 추가. 
+5. epub 변환시 자동개행 처리 안하도록 수정 하였습니다. 
+
 6.1.9 (2022 12 19)
 1. 반복 재생기능 을 추가 하였습니다. 
   - TTS 설정에서 활성화 해주셔야 합니다.  
@@ -17,6 +24,14 @@
 4. 백업 복구시 북마크가 누락 되던 버그 수정. 
 
 ---
+
+6.3.20 (2022 12 23)
+1. Modified to change the text color as well when changing the theme.
+2. Modified to disable the shadow effect when changing the theme.
+3. I accidentally left the button added for bug testing on the backup/restore side. That button has been removed.
+4. Add a refresh phrase by clicking on the backup/recovery profile side.
+5. When converting epub, it has been modified so that it does not process automatic newline.
+
 6.1.8 (2022 12 19)
 1. Repeat playback function has been added.
    - You need to enable it in TTS settings.
@@ -36,6 +51,13 @@
 4. Fixed a bug where bookmarks were missing during backup recovery.
 
 ---
+6.3.20 (2022 12 23)
+1. テーマ変更時の文字色も同様に変更するように修正。
+2. テーマ変更時に影効果が無効になるように修正。
+3. バックアップ/回復側にバグテストしようと追加したボタンを誤って残しました。 対応するボタンを削除しました。
+4. バックアップ/回復プロファイルの側をクリックして、リフレッシュフレーズを追加します。
+5. epub変換時に自動改行処理しないように修正しました。
+
 6.1.8 (2022 12 19)
 1. 繰り返し再生機能を追加しました。
    - TTS設定で有効にしてください。
