@@ -484,5 +484,173 @@
         "cmd": "",
         "to": "",
         "lang": ""
+    },
+    {
+        "form": "잡김",
+        "expr": true,
+        "bcustom": false,
+        "to": "잠김",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "당혔했던",
+        "bcustom": false,
+        "expr": false,
+        "to": "당했었던",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "점증",
+        "bcustom": false,
+        "expr": false,
+        "cmd": "",
+        "to": "검증",
+        "lang": ""
+    },
+    {
+        "form": "S00",
+        "expr": true,
+        "bcustom": false,
+        "to": "500",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "멸떨어진",
+        "expr": false,
+        "bcustom": false,
+        "cmd": "",
+        "to": "덜떨어진",
+        "lang": ""
+    },
+    {
+        "form": "보죠좌석",
+        "expr": false,
+        "bcustom": false,
+        "to": "보조좌석",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "뒤었단다",
+        "bcustom": false,
+        "expr": false,
+        "cmd": "",
+        "to": "튀었단다",
+        "lang": ""
+    },
+    {
+        "form": "다을",
+        "expr": true,
+        "bcustom": false,
+        "to": "다음",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "다을",
+        "expr": true,
+        "bcustom": false,
+        "cmd": "",
+        "to": "다음",
+        "lang": ""
+    },
+    {
+        "form": "잡김",
+        "bcustom": false,
+        "expr": true,
+        "to": "잠김",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "듭니까",
+        "expr": false,
+        "bcustom": false,
+        "to": "습니까",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "사랍",
+        "bcustom": false,
+        "expr": false,
+        "to": "사람",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "밀바닥",
+        "expr": false,
+        "bcustom": false,
+        "to": "밑바닥",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "제크인",
+        "bcustom": false,
+        "expr": false,
+        "to": "체크인",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "과견",
+        "bcustom": false,
+        "expr": false,
+        "to": "파견",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "당혔했던",
+        "expr": false,
+        "bcustom": false,
+        "to": "당했었던",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "전두복",
+        "expr": false,
+        "bcustom": false,
+        "to": "전투복",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "있였다",
+        "bcustom": false,
+        "expr": true,
+        "to": "있었다",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "보협",
+        "bcustom": false,
+        "expr": true,
+        "cmd": "",
+        "to": "보험",
+        "lang": ""
+    },
+    {
+        "form": "딸어",
+        "bcustom": false,
+        "expr": false,
+        "to": "말어",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "S백만",
+        "bcustom": false,
+        "expr": true,
+        "to": "5백만",
+        "cmd": "",
+        "lang": ""
     }
 ]

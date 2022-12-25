@@ -60,6 +60,11 @@
         "filter": "_",
         "to": "",
         "expr": false
+    },
+    {
+        "filter":"\\?{1,}*",
+        "enable":true,
+        "name":"여러 물음표 필터",
+        "expr":true,"to":"?"
     }
-    
 ]
