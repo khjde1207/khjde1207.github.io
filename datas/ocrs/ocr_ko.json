@@ -652,5 +652,29 @@
         "to": "5백만",
         "cmd": "",
         "lang": ""
+    },
+    {
+        "form": "밀바닥",
+        "bcustom": false,
+        "expr": false,
+        "cmd": "",
+        "to": "밑바닥",
+        "lang": ""
+    },
+    {
+        "form": "너회를",
+        "bcustom": false,
+        "expr": false,
+        "cmd": "",
+        "to": "너희를",
+        "lang": ""
+    },
+    {
+        "form": "점근",
+        "bcustom": false,
+        "expr": false,
+        "to": "접근",
+        "cmd": "",
+        "lang": ""
     }
 ]
