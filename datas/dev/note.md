@@ -1,3 +1,7 @@
+6.3.0 (2022 12 30)
+- 두페이지 보기 모드에서 북마크 크가지 좌측 페이지만 추가 되던 버그 수정하였습니다.
+- 뷰어 쪽에 일괄 수정 기능을 추가하였습니다. 
+
 6.2.9 (2022 12 29)
 - 페이지 이동 로직 수정. 
   * 마지막 페이지 에서 다음 페이지로 이동할경우 이전 페이지 로 이동하던 버그 수정. 
@@ -16,6 +20,10 @@
 
 ---
 
+6.3.0 (2022 12 30)
+- Fixed a bug where only the left page of the bookmark was added in the two-page view mode.
+- Added batch editing function to the viewer side.
+
 6.2.9 (2022 12 29)
 - Modified page movement logic.
    * Fixed a bug that moved to the previous page when moving from the last page to the next page.
@@ -32,6 +40,10 @@
 - Batch edit text -> Added edit completion button to text input field.
 
 ---
+6.3.0 (2022 12 30)
+- 2ページ表示モードでブックマークの大きな左ページのみが追加されたバグを修正しました。
+- ビューア側に一括修正機能を追加しました。
+
 
 6.2.9 (2022 12 29)
 - ページ移動ロジックの修正。
