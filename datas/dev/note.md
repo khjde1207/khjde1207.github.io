@@ -1,61 +1,39 @@
-6.3.0 (2022 12 30)
-- 두페이지 보기 모드에서 북마크 추가 기능이 좌측 페이지만 추가 되던 버그 수정하였습니다.
-- 뷰어 쪽에 일괄 수정 기능을 추가하였습니다. 
-
-6.2.9 (2022 12 29)
-- 페이지 이동 로직 수정. 
-  * 마지막 페이지 에서 다음 페이지로 이동할경우 이전 페이지 로 이동하던 버그 수정. 
-
-- 페이지가 처음이나 마지막 으로 갔을때 이전/다음 파일 을 열도록 기능을 추가 하였습니다. 
-  * 이전 다음 파일의 기준은 내서재 에 있는 파일 정렬기준을 따르게 됩니다. 
-  * 어플이 백그라운드 에서 작동시에는 동작하지만 종료된 상태에서는 다음 파일을 열 수 없습니다. 
-  * 설정에서 사용 설정을 해주시기 바랍니다. 
-
-- 텍스트 일괄 수정시 수정 되는 파일이 현재 보고 있는 파일인 경우 수정후 수정된 파일을 다시 열도록 수정 하였습니다. 
-
-- 파일 이름 변경시 히스토리 이름이 변경 안되던 버그를 수정 하였습니다.
-- 파일 이름 변경시 현재 열려있는 파일이면 열려있는 정보의 이름도 같이 변경 하도록 수정 하였습니다.
-- 텍스트 일괄수정 -> 텍스트 입력 필드에 편집 완료 버튼을 추가 했습니다. 
-
+6.3.1 (2022 12 31)
+- 광고 게재 위치가 하단일 경우 17 시간 뷰어 배너 광고 제거가 안되던 버그를 수정하였습니다. 
+- 블루투스 이어폰 제거시 TTS 정지 하는 로직 을 추가 하였습니다. 
+  * 기존에도 해당 기능이 있었지만 안되는 경우도 있어서 몇가지 방법을 추가로 도입 해 보았습니다. 
+- tts 일시 정지 기능 수정 하였습니다. 
+- tts 초기화 로직을 일부 수정 하였습니다. 
+- tts 재생시 이어폰 버튼 클릭 로직을 일부 수정하였습니다. 
+- 하이라이트 영역을 글자 크기보다 약간 크게 표시하도록 수정 하였습니다. 
+- 북마크 하이라이트 색상을 설정 가능하도록 기능을 추가 하였습니다.   
+- 추가 기능/버그을 익명으로 제보 할수 있도록 (설정 - 도움말) 부분에 설문조사 기능을 추가 하였습니다. 
+- 버그나 추가 요구사항을 실시간 으로 제보 할수 있도록 텔레그램 채널을 도움말 메뉴에 추가 하였습니다.  
 
 ---
 
-6.3.0 (2022 12 30)
-- Fixed a bug where only the left page of the bookmark was added in the two-page view mode.
-- Added batch editing function to the viewer side.
-
-6.2.9 (2022 12 29)
-- Modified page movement logic.
-   * Fixed a bug that moved to the previous page when moving from the last page to the next page.
-
-- Added a function to open the previous/next file when the page is first or last.
-   * Previous Next File standards follow the file sorting standards in My Library.
-   * It works when the application is running in the background, but the following files cannot be opened when it is closed.
-   * Please enable it in the settings.
-
-- When editing text in bulk, if the file being edited is the file you are currently viewing, it has been modified to reopen the modified file after editing.
-
-- Fixed a bug where the history name did not change when changing the file name.
-- When changing the file name, if the file is currently open, the name of the open information is also modified.
-- Batch edit text -> Added edit completion button to text input field.
+6.3.1 (2022 12 31)
+- Fixed a bug where the 17 hour viewer banner ad could not be removed when the ad placement was at the bottom.
+- Added logic to stop TTS when Bluetooth earphone is removed.
+   * There was a corresponding function in the past, but there were cases where it did not work, so I introduced some additional methods.
+- tts pause function has been modified.
+- Some of the tts initialization logic has been modified.
+- Partially modified earphone button click logic when playing tts.
+- The highlight area has been modified to be slightly larger than the text size.
+- Added a function to set the bookmark highlight color.
+- A survey function has been added to the (Settings - Help) section so that additional features/bugs can be reported anonymously.
+- Added a Telegram channel to the Help menu to report bugs or additional requests in real time.
 
 ---
-6.3.0 (2022 12 30)
-- 2ページ表示モードでブックマークの大きな左ページのみが追加されたバグを修正しました。
-- ビューア側に一括修正機能を追加しました。
 
-
-6.2.9 (2022 12 29)
-- ページ移動ロジックの修正。
-   *最後のページから次のページに移動した場合、前のページに移動したバグを修正しました。
-
-- ページが最初または最後に行ったときに前/次のファイルを開く機能を追加しました。
-   *前の次のファイルの基準は、文書内のファイルソート基準に従います。
-   *アプリがバックグラウンドで動作しているときは動作しますが、終了した状態では次のファイルを開くことができません。
-   *設定で使用設定をしてください。
-
-- テキスト一括修正時に修正されるファイルが現在見ているファイルの場合、修正後に修正されたファイルを再度開くように修正しました。
-
-- ファイル名変更時に履歴名が変更できなかったバグを修正しました。
-- ファイル名変更時に現在開いているファイルであれば、開いている情報の名前も同様に変更するように修正しました。
-- テキスト一括修正 -> テキスト入力フィールドに編集完了ボタンを追加しました。
+6.3.1 (2022 12 31)
+- 広告プレースメントが下部の場合、17時間ビューアバナー広告の削除ができなかったバグを修正しました。
+- Bluetoothイヤホンの取り外し時にTTS停止するロジックを追加しました。
+   * 既存にも該当機能があったができない場合もあり、いくつかの方法を追加で導入してみました。
+- tts一時停止機能を修正しました。
+- tts初期化ロジックを一部修正しました。
+- tts再生時のイヤホンボタンクリックロジックを一部修正しました。
+- ハイライト領域を文字サイズよりやや大きく表示するように修正しました。
+- ブックマークのハイライトカラーを設定可能にする機能を追加しました。
+- 追加機能/バグを匿名で情報提供できるように（設定 - ヘルプ）部分にアンケート調査機能を追加しました。
+- バグや追加要件をリアルタイムで情報提供できるように、テレグラムチャンネルをヘルプメニューに追加しました。
