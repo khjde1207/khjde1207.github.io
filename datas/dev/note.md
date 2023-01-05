@@ -1,5 +1,5 @@
 6.3.3 (2022 1 5)
-- 일부 텍스트 형식은 과도한 개행이 정리되지 안던 현상 을 수정 하였습니다. .  
+- 일부 텍스트 파일의 개행이 정리가 되지 안던 현상 을 수정 하였습니다. 
 - 필터, 일괄 수정 리스트에 검색 기능을 추가 했습니다. 
  * 검색시 해당 문구 기준으로 최대한 비슷한 위치로 스크롤 됩니다. 
 - 히스토리에 기간 필터기능을 추가 하였습니다. 
@@ -15,7 +15,7 @@
 ---
 
 6.3.3 (2022 1 5)
-- Some text formats have corrected the phenomenon that excessive newlines were not organized. .
+- Fixed a problem where newlines in some text files were not organized.
 - A search function has been added to the filter and batch edit list.
   * When searching, it scrolls to the most similar position based on the phrase.
 - A period filter function has been added to the history.
@@ -31,7 +31,7 @@
 ---
 
 6.3.3 (2022 1 5)
-- 一部のテキスト形式は、過度の改行が整理されなかった現象を修正しました。 。
+- 一部テキストファイルの改行が整理にならなかった現象を修正しました。
 - フィルタ、一括修正リストに検索機能を追加しました。
   *検索すると、そのフレーズに基づいてできるだけ近い位置までスクロールします。
 - 履歴に期間フィルタ機能を追加しました。
