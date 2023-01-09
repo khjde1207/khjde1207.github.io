@@ -67,5 +67,19 @@
         "name":"여러 물음표 필터",
         "expr":true,
         "to":"?"
-    }    
+    },
+    {
+        "filter": "&{1,1}",
+        "enable": true,
+        "name": "엔퍼센트",
+        "expr": true,
+        "to": " 엔 "
+    },
+    {
+        "filter": "(lv\\.)|(LV\\.)|(LV {0,}:)|(lv {0,}:)",
+        "enable": true,
+        "name": "레벨",
+        "expr": true,
+        "to": "레벨"
+    } 
 ]
