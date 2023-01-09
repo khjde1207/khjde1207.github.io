@@ -1,4 +1,4 @@
-6.3.7 (2022 01 09)
+6.3.8 (2022 01 10)
 - epub 텍스트 추출시 광고를 제거 하였습니다. 
 
 - epub 텍스트 추출시 150 페이지 미만의 epub 파일은 소모되는 페이지가 3배로 증가 하였습니다.   
@@ -19,7 +19,7 @@
 
 ---
 
-6.3.7 (2022 01 09)
+6.3.8 (2022 01 10)
 - Removed ads when extracting epub text.
 
 - When extracting epub text, epub files with less than 150 pages consume three times the number of pages.
@@ -38,7 +38,7 @@
 
 ---
 
-6.3.7 (2022 01 09)
+6.3.8 (2022 01 10)
 - epubテキスト抽出時に広告を削除しました。
 
 - epubテキスト抽出時に150ページ未満のepubファイルは、消費されるページが3倍に増加しました。
