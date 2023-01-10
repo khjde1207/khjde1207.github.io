@@ -12,8 +12,6 @@
  * 디바이스에 링크를 연결 할 경우 어플을 실행하거나 홈으로 나갔다 돌아올 경우 동기화를 자동으로 시도 합니다. 
  * 파일명이 같으면서 링크된 디바이스의 위치가 더 클 경우 자동으로 해당 위치로 이동합니다. 
 
-- TTS 설정 - 미디어 버튼 기능을 수정 해 보았습니다. 
-  * 이 옵션은 미디어 버튼사용이 가능한 장치에서만 활성화 됩니다. 
 
 
 
@@ -33,8 +31,6 @@
   * If you connect the link to the device, synchronization is automatically attempted when you run the app or go home and return.
   * If the file name is the same and the location of the linked device is larger, it automatically moves to that location.
 
-- TTS settings - Tried to modify the media button function.
-   * This option is only active on devices that can use the media button.
 
 ---
 
@@ -52,5 +48,3 @@
   *デバイスにリンクを接続する場合は、アプリを実行するか、ホームに出て帰ってきた場合、同期を自動的に試みます。
   *ファイル名が同じでリンクされたデバイスの場所が大きい場合は、自動的にその場所に移動します。
 
-- TTS設定 - メディアボタン機能を修正してみました。
-   *このオプションは、メディアボタンを使用できるデバイスでのみ有効になります。
