@@ -1,3 +1,11 @@
+6.4.3 (2022 01 11)
+
+- [페이지 넘길시 마지막 줄 유지] 기능을 추가 하였습니다. 
+- TTS 설정에서 영어로 출력되는 부분을 최대한 여러 국가의 언어로 처리 보여주도록 수정 해 보았습니다. 
+- 위치 자동백업 최소 주기를 2분으로 변경하였습니다. 
+ * 무제한 데이터 요금제 일 경우에만 30 분 미만으로 설정 하시기 바랍니다. 
+- tts 재생속도가 57,58 로 설정 안되던 버그 를 수정 하였습니다. 
+
 6.3.8 (2022 01 10)
 - epub 텍스트 추출시 광고를 제거 하였습니다. 
 
@@ -12,10 +20,15 @@
  * 디바이스에 링크를 연결 할 경우 어플을 실행하거나 홈으로 나갔다 돌아올 경우 동기화를 자동으로 시도 합니다. 
  * 파일명이 같으면서 링크된 디바이스의 위치가 더 클 경우 자동으로 해당 위치로 이동합니다. 
 
-
-
-
 ---
+
+6.4.3 (2022 01 11)
+
+- [Keep the last line when turning pages] function has been added.
+- In the TTS setting, I tried to modify the part that is output in English to be processed in as many languages as possible.
+- Changed the minimum period for location automatic backup to 2 minutes.
+  * Please set it to less than 30 minutes only for unlimited data plans.
+- Fixed a bug where the tts playback speed was not set to 57,58.
 
 6.3.8 (2022 01 10)
 - Removed ads when extracting epub text.
@@ -33,6 +46,14 @@
 
 
 ---
+
+6.4.3 (2022 01 11)
+
+- [ページめくり時の最後の行を維持]機能を追加しました。
+- TTS設定で英語で出力される部分をできるだけ多くの国の言語で処理表示するように修正してみました。
+- 位置自動バックアップ最小周期を2分に変更しました。
+  ※無制限のデータプランの場合のみ30分未満に設定してください。
+- tts再生速度が57,58に設定できなかったバグを修正しました。
 
 6.3.8 (2022 01 10)
 - epubテキスト抽出時に広告を削除しました。
