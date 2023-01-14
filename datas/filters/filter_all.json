@@ -89,12 +89,6 @@
         "filter": "※ \\.+※",
         "to": "",
         "enable": false
-    },
-    {
-        "filter": "-{2,}",
-        "enable": true,
-        "name": "filter ----",
-        "expr": true,
-        "to": ""
     }
+   
 ]
