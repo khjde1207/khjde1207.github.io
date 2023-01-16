@@ -1,57 +1,64 @@
-6.4.4 (2022 01 12)
-- 배너광고 데이터 사용량을 최소화 하였습니다. 
-- 설정-백업/복구 란에 예상 데이터 사용량을 추가 하였습니다. 
-  * 표시된 데이터 사용량은 실제 사용량보다 적을 수 있습니다. 
-  * 백업 기준으로만 측정 합니다.
+6.4.7 (2022 01 14)
+- 편집 이후 엔터나 좌표값들이 전체적으로 문제가 발생하여 해당 부분을 수정 하였습니다.
+- 출석 체크 기능을 추가 하였습니다. 
+  * 출석 체크시 500 페이지를 획득 합니다. 
+- 히스토리가 수백, 수천 단위가 넘어갈 경우 복구에 실패하던 버그 수정. 
+- 메모에 여러줄을 추가 할 수 있도록 수정 하였습니다. 
+- 백업/복구시 무한 로딩 현상을 해결하기 위해 로직 수정을 수정 하였습니다. 
+- 동기화시 여러 문제로 실패할 경우 팝업으로 실패한 원인을 띄우도록 하였습니다. 
+- 내서재 스크롤시 상단 기능 버튼이 고정 되도록 수정 하였습니다. 
+- TTS 설정 하단에 [TTS 재생시 최종 수정된 문장 표시] 기능을 추가 하였습니다. 
+ * 이기능을 사용하면TTS 재생중 실제 필터된 결과물을 확인 할 수 있습니다. 
+ * TTS 내용이 이상할 경우 이 기능을 활성화 해서 확인 할 수 있습니다. 
 
-- 데이터 사용량을 줄이기 위해 광고 로직 전면 검토 / 수정 하였습니다. 
+- [TTS 문장 검사기] 기능을 추가 하였습니다.
+  * 이기능은 언어 설정이 한국어 일경우에만 옵션이 보이게 됩니다. 
+  * 이기능은 개발자 주관적인 판단으로만 제작 된 기능 입니다. 
+  * 검사시 50 페이지를 소모 합니다. 
+  * 검사 조건은 아래와 같습니다. 
 
-- 이번 패치에서는 데이터 사용량을 최소화 하였습니다.  
+1. 문장 끝이 [순간.] [때.] [뿐.] [니까.] 와 같은 문구가 얼마나 자주 등장 하는가?
 
-6.4.3 (2022 01 11)
+2. 문장 끝이 [다.] 로 끝나지 않는 경우가 얼마나 많은가?
+  * 따옴표 같은 특수 살왕 제외 
 
-- [페이지 넘길시 마지막 줄 유지] 기능을 추가 하였습니다. 
-- TTS 설정에서 영어로 출력되는 부분을 최대한 여러 국가의 언어로 처리 보여주도록 수정 해 보았습니다. 
-- 위치 자동백업 최소 주기를 2분으로 변경하였습니다. 
- * 무제한 데이터 요금제 일 경우에만 30 분 미만으로 설정 하시기 바랍니다. 
-- tts 재생속도가 57,58 로 설정 안되던 버그 를 수정 하였습니다. 
+3. 문장끝에 ?! , !? 와같이 한글에선 사용되지 않는 특수문자 집합이 얼마나 많은가? 
+
+4. 감정 묘사를 특수 문자로 사용하는 횟수가 얼마나 되는가?(느낌표나 물음표가 여러개인 경우)
+  예 : [맞아! -> 맞아!!!!!!!!], [진짜? -> 진짜??????] 
+
+5. [...고(며) ...하다.] [면서 ... 면서 ... ] [동시에.... ]  했다. 같이 어휘를 얼마나 자주 쓰는 가.
+  * 이런 문장을 너무 남발 하는 경우 문장이 상당히 어색해 지는 것 같습니다. 
+
+위 패턴 출현 횟수 / 가중치에 따른 종합 점수가 같이 출력 됩니다. 
+
+종합 점수 / [순간.] [그때.] [뿐.] [니까.]  출현 횟수를 메모에 자동으로 기입 할 수 있습니다. 
+---
+
+6.4.7 (2022 01 14)
+- After editing, there was a problem with the enter or coordinate values as a whole, so the corresponding part was corrected.
+- Added attendance check function.
+   * Acquire 500 pages when checking attendance.
+- Fixed a bug where recovery failed when the history exceeds hundreds or thousands of units.
+- Modified to add multiple lines to a memo.
+- Modified the logic to solve the infinite loading phenomenon during backup/recovery.
+- When synchronization fails due to various problems, the cause of the failure is displayed in a pop-up.
+- Fixed the top function button to be fixed when scrolling through my library.
+- Added [Display the last modified sentence when playing TTS] at the bottom of the TTS setting.
+  * By using this function, you can check the actual filtered result during TTS playback.
+  * If the TTS content is strange, you can check it by activating this function.
 
 ---
 
-6.4.4 (2022 01 12)
-- Banner advertisement data usage has been minimized.
-- Estimated data usage has been added to Settings-Backup/Recovery.
-   * Data usage displayed may be less than actual usage.
-   * Measured on a backup basis only.
-
-- We reviewed/modified the entire advertising logic to reduce data usage.
-
-- In this patch, data usage has been minimized.
-
-6.4.3 (2022 01 11)
-
-- [Keep the last line when turning pages] function has been added.
-- In the TTS setting, I tried to modify the part that is output in English to be processed in as many languages as possible.
-- Changed the minimum period for location automatic backup to 2 minutes.
-  * Please set it to less than 30 minutes only for unlimited data plans.
-- Fixed a bug where the tts playback speed was not set to 57,58.
-
----
-
-6.4.4 (2022 01 12)
-- バナー広告データの使用量を最小化しました。
-- 設定 - バックアップ/回復欄に予想データ使用量を追加しました。
-   * 表示されるデータ使用量は実際の使用量より少ない場合があります。
-   *バックアップ基準でのみ測定します。
-
-- データ使用量を削減するため、広告ロジックの正面レビュー/修正を行いました。
-
-- 今回のパッチではデータ使用量を最小化しました。
-
-6.4.3 (2022 01 11)
-
-- [ページめくり時の最後の行を維持]機能を追加しました。
-- TTS設定で英語で出力される部分をできるだけ多くの国の言語で処理表示するように修正してみました。
-- 位置自動バックアップ最小周期を2分に変更しました。
-  ※無制限のデータプランの場合のみ30分未満に設定してください。
-- tts再生速度が57,58に設定できなかったバグを修正しました。
+6.4.7 (2022 01 14)
+- 編集後、エンターや座標値が全体的に問題が発生し、その部分を修正しました。
+- 出席チェック機能を追加しました。
+   *出席チェック時に500ページを獲得します。
+- 履歴が数百、数千単位を超えた場合、回復に失敗したバグ修正。
+- メモに複数行を追加できるように修正しました。
+- バックアップ/回復時の無限ローディング現象を解決するためにロジック修正を修正しました。
+- 同期時に複数の問題で失敗した場合、ポップアップで失敗した原因を浮かべるようにしました。
+- 耐書材スクロール時に上部機能ボタンが固定されるように修正しました。
+- TTS設定の下部に[TTS再生時に最終修正された文章表示]機能を追加しました。
+  *この機能を使用すると、TTSの再生中に実際にフィルタ処理された結果を確認できます。
+  * TTSの内容がおかしい場合は、この機能を有効にして確認できます。
