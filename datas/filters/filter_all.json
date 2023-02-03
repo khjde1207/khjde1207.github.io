@@ -79,8 +79,8 @@
     {
         "name": "~",
         "expr": true,
-        "filter": "~{1,}",
-        "to": "",
+        "filter": "(~)[^(\\d+)]",
+        "to": " ",
         "enable": true
     },
     {
@@ -90,5 +90,4 @@
         "to": "",
         "enable": false
     }
-   
 ]
