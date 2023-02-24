@@ -89,5 +89,12 @@
         "filter": "※ \\.+※",
         "to": "",
         "enable": false
+    },
+    {
+        "name": "★",
+        "expr": true,
+        "filter": "★",
+        "to": " ",
+        "enable": true
     }
 ]
