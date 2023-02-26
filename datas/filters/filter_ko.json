@@ -83,5 +83,20 @@
         "expr": true,
         "to": "레벨",
         "locale": "ko-KR"
+    },
+    {
+        "filter": "상태.",
+        "enable": true,
+        "name": "상태.",
+        "expr": false,
+        "to": "상태였다.",
+        "locale": "ko-KR"
+    },
+    {
+        "filter": "때문에.\\n",
+        "enable": true,
+        "name": "때문에.",
+        "expr": true,
+        "to": "때문이다."
     }
 ]

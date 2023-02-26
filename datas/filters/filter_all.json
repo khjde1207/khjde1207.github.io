@@ -103,5 +103,19 @@
         "filter": "◯",
         "to": "",
         "enable": true
+    },
+    {
+        "name": "→",
+        "expr": false,
+        "filter": "→",
+        "to": "",
+        "enable": true
+    },
+    {
+        "name": "▶",
+        "expr": false,
+        "filter": "▶",
+        "to": "",
+        "enable": true
     }
 ]
