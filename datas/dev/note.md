@@ -15,7 +15,7 @@
 - A function has been added to express the progress with an alarm when executing special tasks such as saving PDF, EPUB, OCR, TTS files.
 ---
 
-6.7.5 (2022 02 27)
+6.7.7 (2022 02 27)
 - TTSファイル保存時にそれぞれ保存された12個のファイルをmp3ファイル一つにまとめるように修正しました。
 - TTSファイル保存時にファイル名を[ファイル名]_[開始%]〜[終了%].mp3で保存するように修正しました。
 - TTSファイル保存時に引き続き抽出できるように引き続き抽出するかどうかを尋ねるポップアップウィンドウを追加しました。
