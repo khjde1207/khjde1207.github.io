@@ -117,5 +117,41 @@
         "filter": "▶",
         "to": "",
         "enable": true
+    },
+    {
+        "name": "●",
+        "expr": false,
+        "filter": "●",
+        "to": "",
+        "enable": true
+    },
+    {
+        "name": "*",
+        "expr": false,
+        "filter": "*",
+        "to": "",
+        "enable": true
+    },
+    {
+        "name": "upper case 4 (1) attention to order",
+        "expr": true,
+        "filter": "([A-Z])([A-Z])([A-Z])([A-Z])",
+        "to": "$1.$2.$3.$4",
+        "enable": true
+        
+    },
+    {
+        "name": "upper case 3 (2) attention to order",
+        "expr": true,
+        "filter": "([A-Z])([A-Z])([A-Z])",
+        "to": "$1.$2.$3",
+        "enable": true
+    },
+    {
+        "name": "upper case 2 (3) attention to order",
+        "expr": true,
+        "filter": "([A-Z])([A-Z])",
+        "to": "$1.$2",
+        "enable": true
     }
 ]
