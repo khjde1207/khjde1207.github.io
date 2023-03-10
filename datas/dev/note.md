@@ -1,3 +1,6 @@
+6.8.8 (2022 03 10)
+- 빈 파일 오픈시 오류 나는 현상 긴급 수정 하였습니다. 
+
 6.8.7 (2022 03 10)
 - 뷰어 글자 계산 오류를 일부 수정 하였습니다. 
 - 풀스크린 전환시 렉이 발생하는 버그를 수정 하였습니다. 
@@ -30,6 +33,8 @@
 
 
 ---
+6.8.8 (2022 03 10)
+- Emergency fix for an error when opening an empty file.
 6.8.7 (2022 03 10)
 - Some viewer character calculation errors have been corrected.
 -Fixed a bug that causes lag when switching to full screen.
@@ -60,6 +65,8 @@
 - The bookmark design has been modified.
 
 ---
+6.8.8 (2022 03 10)
+- 空のファイルオープン時のエラー私は現象緊急修正しました。
 6.8.7 (2022 03 10)
 - ビューアの文字計算エラーを一部修正しました。
 - フルスクリーン切り替え時にレックが発生するバグを修正しました。
