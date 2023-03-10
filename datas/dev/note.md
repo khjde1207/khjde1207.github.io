@@ -1,3 +1,10 @@
+6.8.7 (2022 03 10)
+- 뷰어 글자 계산 오류를 일부 수정 하였습니다. 
+- 풀스크린 전환시 렉이 발생하는 버그를 수정 하였습니다. 
+- 설정 - 키설정 - 레이아웃 설정시 드래그 안되던 버그를 수정 하였습니다. 
+- 특수작업 짧은광고 표출 여부를 추가 하였습니다. 
+- 개행정리 광고를 제거하였습니다. 
+
 6.8.5 (2022 03 08)
 - 뷰어 에러 수정
   * 간혹 종료되는 현상이 접수되어 의심 되는 부분을 일부 수정 하였습니다. 
@@ -23,6 +30,13 @@
 
 
 ---
+6.8.7 (2022 03 10)
+- Some viewer character calculation errors have been corrected.
+-Fixed a bug that causes lag when switching to full screen.
+- Settings - Key Settings - Fixed a bug that could not be dragged when setting the layout.
+- Added whether or not to display short advertisements for special tasks.
+- New line cleanup advertisement has been removed.
+
 6.8.5 (03 08 2022)
 - Fixed viewer error
    * Occasionally shutting down has been received and some of the suspicious parts have been corrected.
@@ -46,6 +60,13 @@
 - The bookmark design has been modified.
 
 ---
+6.8.7 (2022 03 10)
+- ビューアの文字計算エラーを一部修正しました。
+- フルスクリーン切り替え時にレックが発生するバグを修正しました。
+- 設定 - キー設定 - レイアウト設定時にドラッグできなかったバグを修正しました。
+- 特殊作業短い広告表示の可否を追加しました。
+- 改行整理広告を削除しました。
+
 6.8.5 (2022 03 08)
 - ビューアエラーを修正
    ・時々終了する現象が受け付けられ、疑われる部分を一部修正しました。
