@@ -1,21 +1,16 @@
-6.8.8 (2022 03 10)
-- 빈 파일 오픈시 오류 나는 현상 긴급 수정 하였습니다. 
+6.8.9 (2022 03 13)
+- 메모리 사용량을 최적화 하였습니다. 
+- 위치 이동 UI 를 조금 변경 하였습니다. 
+- 내부적으로 문자 처리 방식을 변경하여 속도를 개선하였습니다. 
+- 백업 복구 로직을 수정 하였습니다. 
+- 어플 실행이후 2초 후에 백업을 시도 합니다. 
+  * 원래 있었던 기능인데 언제부터 인지 해당 로직을 지운것 같습니다. 
 
-6.8.7 (2022 03 10)
-- 뷰어 글자 계산 오류를 일부 수정 하였습니다. 
-- 풀스크린 전환시 렉이 발생하는 버그를 수정 하였습니다. 
-- 설정 - 키설정 - 레이아웃 설정시 드래그 안되던 버그를 수정 하였습니다. 
-- 특수작업 짧은광고 표출 여부를 추가 하였습니다. 
-- 개행정리 광고를 제거하였습니다. 
+web 버전 구글 로그인 을 3월 31까지 변경하라고메일이 여러차례 와서 수정하였습니다. 
+web 버전은 아래와 같은 현상이 발생합니다. 
 
-6.8.5 (2022 03 08)
-- 뷰어 에러 수정
-  * 간혹 종료되는 현상이 접수되어 의심 되는 부분을 일부 수정 하였습니다. 
-- TTS 위치 계산식도 같이 수정 하였습니다. 
-- 전체화면 진입 이후 북마크 팝업 위치가 이상하게 표시되던 버그 수정
-- 위치이동시 이동될 위치의 문자 일부를 화면에 표시하도록 수정 하였습니다. 
-- 번역 기능 끄고 북마크 복사 시 ":" 문자가 복사 되던 버그 수정. 
-- 히스토리 북마크 버그 수정. 
+1. 접속시 우측 상단에 로그인 중 메세지가 표시됩니다.(로그인)
+2. 매번 사이트 접속시 팝업창이 열리며 로그인 중이라고 표시 됩니다. (구글 드라이브 연동 권한 요청)
 
 
 6.8.3 (2022 03 07)
@@ -33,23 +28,20 @@
 
 
 ---
-6.8.8 (2022 03 10)
-- Emergency fix for an error when opening an empty file.
-6.8.7 (2022 03 10)
-- Some viewer character calculation errors have been corrected.
--Fixed a bug that causes lag when switching to full screen.
-- Settings - Key Settings - Fixed a bug that could not be dragged when setting the layout.
-- Added whether or not to display short advertisements for special tasks.
-- New line cleanup advertisement has been removed.
+6.8.9 (2022 03 13)
+- Optimized memory usage.
+- Changed the location movement UI a little.
+- Improved speed by changing the text processing method internally.
+- Modified the backup recovery logic.
+- Try backing up 2 seconds after running the application.
+   * It was originally a function, but it seems that the logic has been deleted since when.
 
-6.8.5 (03 08 2022)
-- Fixed viewer error
-   * Occasionally shutting down has been received and some of the suspicious parts have been corrected.
-- The TTS location calculation formula has also been modified.
-- Fixed a bug where the location of the bookmark pop-up was displayed strangely after entering the full screen
-- Modified to display some of the text at the location to be moved on the screen when moving.
-- Fixed a bug where ":" characters were copied when copying a bookmark with the translation function turned off.
-- Fixed history bookmark bug.
+I received several emails asking me to change the web version Google login by March 31st, so I modified it.
+The web version has the following phenomenon.
+
+1. When connecting, a message while logging in is displayed in the upper right corner. (Login)
+2. Every time you access the site, a pop-up window will open and indicate that you are logging in. (Request permission to link Google Drive)
+
 
 6.8.3 (2022 03 07)
 - Added translation function.
@@ -65,23 +57,19 @@
 - The bookmark design has been modified.
 
 ---
-6.8.8 (2022 03 10)
-- 空のファイルオープン時のエラー私は現象緊急修正しました。
-6.8.7 (2022 03 10)
-- ビューアの文字計算エラーを一部修正しました。
-- フルスクリーン切り替え時にレックが発生するバグを修正しました。
-- 設定 - キー設定 - レイアウト設定時にドラッグできなかったバグを修正しました。
-- 特殊作業短い広告表示の可否を追加しました。
-- 改行整理広告を削除しました。
+6.8.9 (2022 03 13)
+- メモリ使用量を最適化しました。
+- 位置移動UIを少し変更しました。
+- 内部的に文字処理方式を変更して速度を改善しました。
+- バックアップ回復ロジックを修正しました。
+- アプリの実行後2秒後にバックアップを試みます。
+   * 元々あった機能なのに、いつからなのか該当ロジックを消したようです。
 
-6.8.5 (2022 03 08)
-- ビューアエラーを修正
-   ・時々終了する現象が受け付けられ、疑われる部分を一部修正しました。
-- TTS位置計算式も同様に修正しました。
-- 全画面進入以後ブックマークポップアップ位置が不思議に表示されたバグ修正
-- 位置移動時に移動される位置の文字の一部を画面に表示するように修正しました。
-- 翻訳機能をオフにし、ブックマークコピー時に「：」文字がコピーされていたバグ修正。
-- 履歴ブックマークのバグ修正。
+webバージョンGoogleログインを3月31まで変更するようにメールが何度も来て修正しました。
+web版は以下のような現象が発生します。
+
+1. 接続時に右上にログイン中のメッセージが表示されます。 (ログイン)
+2. 毎回サイトにアクセスするとポップアップウィンドウが開き、ログイン中と表示されます。 (Googleドライブ連携権限のリクエスト)
 
 6.8.3 (2022 03 07)
 - 翻訳機能を追加しました。
