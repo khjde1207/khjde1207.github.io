@@ -1,3 +1,7 @@
+6.9.1 (2022 03 17)
+- 문장 자르는 기준을 직접 입력 할 수 있도록 기능을 추가 하였습니다.
+- 파일 오픈시 간혹 내용이 안보이던 버그를 긴급 수정 하였습니다.
+
 6.9.0 (2022 03 16)
 - 문장 자르는 기준을 설정 할 수 있도록 기능을 추가 하였습니다. 
   * TTS 설정에서 문장 기준을 엔터, 콤마 등 으로 설정 할 수 있습니다. 
@@ -23,6 +27,10 @@ web 버전은 아래와 같은 현상이 발생합니다.
 2. 매번 사이트 접속시 팝업창이 열리며 로그인 중이라고 표시 됩니다. (구글 드라이브 연동 권한 요청)
 
 ---
+6.9.1 (2022 03 17)
+- A function has been added so that you can directly enter the criterion for cutting sentences.
+- Urgently fixed a bug where the content was sometimes not visible when opening a file.
+
 6.9.0 (2022 03 16)
 - A function has been added to set the criterion for cutting sentences.
    * In TTS settings, you can set the sentence standard to enter, comma, etc.
@@ -51,6 +59,9 @@ The web version has the following phenomenon.
 
 
 ---
+6.9.1 (2022 03 17)
+- 文章トリミング基準を直接入力できるように機能を追加しました。
+- ファイルオープン時、たまに内容が見えなかったバグを緊急修正しました。
 
 6.9.0 (2022 03 16)
 - 文章トリミング基準を設定できるように機能を追加しました。
