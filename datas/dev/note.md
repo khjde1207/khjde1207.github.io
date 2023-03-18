@@ -1,4 +1,8 @@
-6.9.3 (2022 03 18)
+6.9.5 (2022 03 19)
+- 북마크 삭제해도 화면에 북마크 표시가 남아 있던 버그 수정. 
+- 두페이지 화면에서 북마크 위치 계산 오류 수정. 
+- 북마크/번역 팝업 에 상태 정보를 추가 하였습니다. 
+- 북마크 추가시 빈공간을 누를경우 내생각 으로 상태가 변경 됩니다. 
 - 화면 끄기 옵션이 작동 하지 않던 버그를 수정 하였습니다. 
 
 6.9.2 (2022 03 18)
@@ -30,6 +34,14 @@ web 버전은 아래와 같은 현상이 발생합니다.
 2. 매번 사이트 접속시 팝업창이 열리며 로그인 중이라고 표시 됩니다. (구글 드라이브 연동 권한 요청)
 
 ---
+6.9.5 (2022 03 19)
+- Fixed a bug where the bookmark mark remained on the screen even after deleting the bookmark.
+- Fixed an error in calculating the location of bookmarks on the two-page screen.
+- Status information has been added to the bookmark/translation pop-up.
+- If you press the empty space when adding a bookmark, the status is changed to My Thoughts.
+- Fixed a bug where the screen off option did not work.
+
+
 6.9.3 (2022 03 18)
 - Fixed a bug where the screen off option did not work.
 
@@ -65,7 +77,12 @@ The web version has the following phenomenon.
 
 
 ---
-6.9.3 (2022 03 18)
+
+6.9.5 (2022 03 19)
+- ブックマーク削除しても画面にブックマーク表示が残っていたバグ修正。
+- 2ページの画面でブックマーク位置の計算エラーを修正。
+- ブックマーク/翻訳ポップアップにステータス情報を追加しました。
+- ブックマーク追加時に空スペースを押すと内思考に状態が変更されます。
 - 画面オフオプションが動作しなかったバグを修正しました。
 
 6.9.2 (2022 03 18)
