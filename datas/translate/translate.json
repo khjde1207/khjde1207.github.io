@@ -2,6 +2,7 @@
     {
         "name" : "google translate",
         "url" : "https://translate.google.co.kr/?sl={form}&tl={to}&text={contents}",
+        "scroll" : 0,
         "lang" : [
             {"Galician" : "gl"},
             {"Guarani" : "gn"},
@@ -141,6 +142,7 @@
     {
         "name" : "baidu translate",
         "url" : "https://fanyi.baidu.com/#{form}/{to}/{contents}",
+        "scroll" : 0,
         "lang" : [
             { "Chinese":"zh"},
             { "Japanese":"jp"},
@@ -235,6 +237,7 @@
     {
         "name" : "naver papago translate",
         "url" : "https://papago.naver.com/?sk={form}&tk={to}&st={contents}",
+        "scroll" : 0,
         "lang" : [
             {"German": "de"},
             {"English": "en"},
@@ -256,6 +259,7 @@
     {
         "name" : "deepl translate",
         "url" : "https://www.deepl.com/{to}/translator#{form}/{to}/{contents}",
+        "scroll" : 0,
         "lang" : [
             {"greek" : "el"},
             {"Dutch" : "nl"},
