@@ -184,12 +184,12 @@
             {"Greek" : "Greek"},
             {"Hungarian" : "Hungarian"},
             {"Italion" : "Italion"},
-            {"Indonesian" : "Autodetect"},
+           
             {"Japanese" : "Japanese"},
-            {"Korean" : "Autodetect"},
+            
             {"Latvian" : "Latvian"},
             {"Lithuanian" : "Lithuanian"},
-            {"Norwegian":"Autodetect"},
+           
             {"Polish" : "Polish"},
             {"Portugese" : "Portugese"},
             {"Romanian" : "Romanian"},
@@ -197,9 +197,8 @@
             {"Slovak" : "Slovak"},
             {"Slovenian" : "Slovenian"},
             {"Spanish" : "Spanish"},
-            {"Swedish" : "Swedish"},
-            {"Ukrainian" : "Autodetect"},
-            {"Turkish" : "Autodetect"}
+            {"Swedish" : "Swedish"}
+           
         ]
     },
     {
