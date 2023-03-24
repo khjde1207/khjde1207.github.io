@@ -157,6 +157,51 @@
         ]
     },
     {
+        "name" : "deepl translate",
+        "icon" : "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACK0lEQVR4AcVXA6xcQRS9/+E7qm3t3le7Qf1m5teMG9UNatsMa0Z1G9UNa9u2beNOPZvs5Hey8/9JznruOaN774IR6ndK85CPJD74xZHyM8gJuChaucivkui3GN6i77oAQBLYgF85rEkiO3+J6XjQC8IGkDBUbF7ERb6AAn/RCyv86gd8DUSySoKE+T6LIRTspQxqyDcesqmAjTKN99mE5ucDOyWT481ykBUGfBPUrOlDPLhR1lkT4I4b8HbJkTCg17NMTbhR3gniwUfeL+5AFB3hH9Bnu0wMSA1QoAbtH3cgXUP1t2yU4Sr0NzLgIlv45xA1auQBwQ1YC/ruvF0DCsVhH/kKev3YRb4MIqywPFQ/x7Fndgzo+ZI4FEo1SoXqIr8XiIEpVXhFMlnbC/g+uwaU7eFXZO5QglEWtG9A5WklWDmRQp99ygkDdzwU23/UikCEsbFsGnjnRcUkmed/LfcnyV9m9li4hvwKBW8ixXxkfVKrhKUBxjo+im70+X37eSDCs5SsGRH1PGTHzBKRQSr2kVVVf8tWmaZio2LkIl8slxwIyZXDSqZ9QmxNUSGzGpVM3VUjbiS+NhGXY6VGdhuSawnsBW7rGxJ9S/bKfkumQxAW95GvlI3mf4qvl2MhUfCR1YktMFpW5vXBApLkXpLAPfsGdKgSZngBH0tC7+0b0CAFWTn5ByQ3DCiQNYJET+aagd99oo+iO4k/tG9Ah0pN87rI58i2DLKB7wE6BfrmPsSHAAAAAElFTkSuQmCC",
+        "url" : "",
+        "sampleUrl" : "",
+        "type": "simplytranslate",
+        "engine" : "deepl",
+        "urls" : [
+            "https://simplytranslate.org/",
+            "https://simplytranslate.pussthecat.org/",
+            "https://simplytranslate.esmailelbob.xyz/"
+        ],
+        "scroll" : 0,
+        "lang" : [
+            {"Autodetect" : "Autodetect"},
+            {"Bulgarian" : "Bulgarian"},
+            {"Chinese" : "Chinese"},
+            {"Czech" : "Czech"},
+            {"Danish" : "Danish"},
+            {"Dutch" : "Dutch"},
+            {"English" : "English"},
+            {"Estonian" : "Estonian"},
+            {"Finnish" : "Finnish"},
+            {"French" : "French"},
+            {"German" : "German"},
+            {"Greek" : "Greek"},
+            {"Hungarian" : "Hungarian"},
+            {"Italion" : "Italion"},
+           
+            {"Japanese" : "Japanese"},
+            
+            {"Latvian" : "Latvian"},
+            {"Lithuanian" : "Lithuanian"},
+           
+            {"Polish" : "Polish"},
+            {"Portugese" : "Portugese"},
+            {"Romanian" : "Romanian"},
+            {"Russian" : "Russian"},
+            {"Slovak" : "Slovak"},
+            {"Slovenian" : "Slovenian"},
+            {"Spanish" : "Spanish"},
+            {"Swedish" : "Swedish"}
+           
+        ]
+    },
+    {
         "name" : "ICIBA translate",
         "icon" : "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABF1BMVEUAtt4AteABtN8AtOEAr+EBs+qJ1rG45aWDzpElu9XJ6Z3/+Yr/6CzG0i8AsuIAquVKxMbs85X/94H13i7/1QC8zjZpz+nE7PXs+Py56PRZyed51b352xr92ALO00H///+p4vEBrOOFwJb/6Wv13F769co8w+UAr/CwoEj/mADwqQb56owAruJ/1OuoolL4+OnY8vb64Vfy+/b730Bmx+qpnk749dQAqvQBpuaW4fqe1+tWzfiv7f8Aoen/4gDXtjFVf55hhZ/EqrBGmMD3TTT/SCf0mYz/hmypoK8ApfT2phfzTjfzi3vuvLf8urSlsskAo+j/oABEp9j1khzlLxfmbF1+qsn4gwX0IQF0nYagjlSeUFeOgJIXyrHIAAABl0lEQVR4AYSQBWKDQBAAz+rtRXGuS9w27vn/w7o41DL4MMgduwu/Qxn8ETORwqRSD1IkTlTJAqbE49Oz5EIStYLJRD28vL69f2gt6Zu0r5AGjWar3elaynZc1/V8SoqIaeIheGuHxnx6kBLpkjjo9QdD0zVmRLf8sU+Zp2rBZDqbG9NdAPiICnEJYPd01jCl9GQVB2YNS9JEL4INnaQUQXcLO4mJwzEAwzxAVGkwgA2dY4wEGPfSU6wFmetRwHuYwno9TIM92UaPwMYBXNXopTDaJsfkJ0/gNWLd6G0gopMURu6cBPSXEOnLpSEdAH3pNVKKIJ0IN7p6QNwaOYweSQLCOrgQs7kBROQbja9C5doAYQCAgihD0KfDWizurj8Eh/3XiLtee48kyQ64bhmKpZgtd8rEdUt2wJoXREnMkiRRToWkbAtA5mDNH1StSScIwyRLYGWAt1XVqVM11/MDtAAfqr10/5YDIAfRyOdIAAUIo3uvh//Mfg5g7cLXu5cRcEANPrvvr9cfaAAsy7r24hqw0IpbaBEkqzCaVHkijNIAAAAASUVORK5CYII=",
         "url" : "",
@@ -398,45 +443,6 @@
             {"Swedish":"Swedish"},
             {"Turkish":"Turkish"},
             {"Ukrainian":"Ukrainian"}
-        ]
-    },
-    {
-        "name" : "deepl translate",
-        "icon" : "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACK0lEQVR4AcVXA6xcQRS9/+E7qm3t3le7Qf1m5teMG9UNatsMa0Z1G9UNa9u2beNOPZvs5Hey8/9JznruOaN774IR6ndK85CPJD74xZHyM8gJuChaucivkui3GN6i77oAQBLYgF85rEkiO3+J6XjQC8IGkDBUbF7ERb6AAn/RCyv86gd8DUSySoKE+T6LIRTspQxqyDcesqmAjTKN99mE5ucDOyWT481ykBUGfBPUrOlDPLhR1lkT4I4b8HbJkTCg17NMTbhR3gniwUfeL+5AFB3hH9Bnu0wMSA1QoAbtH3cgXUP1t2yU4Sr0NzLgIlv45xA1auQBwQ1YC/ruvF0DCsVhH/kKev3YRb4MIqywPFQ/x7Fndgzo+ZI4FEo1SoXqIr8XiIEpVXhFMlnbC/g+uwaU7eFXZO5QglEWtG9A5WklWDmRQp99ygkDdzwU23/UikCEsbFsGnjnRcUkmed/LfcnyV9m9li4hvwKBW8ixXxkfVKrhKUBxjo+im70+X37eSDCs5SsGRH1PGTHzBKRQSr2kVVVf8tWmaZio2LkIl8slxwIyZXDSqZ9QmxNUSGzGpVM3VUjbiS+NhGXY6VGdhuSawnsBW7rGxJ9S/bKfkumQxAW95GvlI3mf4qvl2MhUfCR1YktMFpW5vXBApLkXpLAPfsGdKgSZngBH0tC7+0b0CAFWTn5ByQ3DCiQNYJET+aagd99oo+iO4k/tG9Ah0pN87rI58i2DLKB7wE6BfrmPsSHAAAAAElFTkSuQmCC",
-        "url" : "https://www.deepl.com/{to}/translator#{from}/{to}/{contents}",
-        "sampleUrl" : "https://www.deepl.com/en/translator#ko/en/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20TTS%20TextViewer%20%EC%9E%85%EB%8B%88%EB%8B%A4.",
-        "type": "webpage",
-        "scroll" : 0,
-        "lang" : [
-            {"Greek" : "el"},
-            {"Dutch" : "nl"},
-            {"Norwegian" : "nb"},
-            {"Danish" : "da"},
-            {"German" : "de"},
-            {"Latvian" : "lv"},
-            {"Russian" : "ru"},
-            {"Romanian" : "ro"},
-            {"Lithuanian" : "lt"},
-            {"Bulgarian" : "bg"},
-            {"Swedish" : "sv"},
-            {"Spanish" : "es"},
-            {"Slovak" : "sk"},
-            {"Slovenian" : "sl"},
-            {"Estonian" : "et"},
-            {"English" : "en"},
-            {"Ukrainian" : "uk"},
-            {"Italian" : "it"},
-            {"Indonesian" : "id"},
-            {"Japanese" : "ja"},
-            {"Chinese" : "zh"},
-            {"Czech" : "cs"},
-            {"Turkish" : "tr"},
-            {"Portuguese" : "pt"},
-            {"Polish" : "pl"},
-            {"French" : "fr"},
-            {"Finnish" : "fi"},
-            {"Korean" : "ko"},
-            {"Hungarian" : "hu"}
         ]
     },
     {
