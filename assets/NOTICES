@@ -5821,7 +5821,6 @@ camera_platform_interface
 camera_web
 cross_file
 flutter_lints
-flutter_markdown
 flutter_plugin_android_lifecycle
 google_identity_services_web
 google_sign_in
