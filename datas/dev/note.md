@@ -1,6 +1,9 @@
 6.9.9 (2022 03 27)
 
 - TTS 설정에서 문장 구분 기호를 최대 10 글자 까지 넣을 수 있도록 수정 하였습니다.
+- epub 변환 로직 일부 수정.
+- 뷰어 에서 페이지 이동시 좌표계산에 오류가 생기는 현상 수정.
+- 내서재 오류 수정.
 
   6.9.7 (2022 03 26)
 
@@ -22,6 +25,9 @@
 6.9.9 (27 Mar 2022)
 
 - In the TTS setting, it has been modified so that sentence delimiters can be entered up to 10 characters.
+- Fixed some epub conversion logic.
+- Corrected a phenomenon in which an error occurred in coordinate calculation when moving a page in the viewer.
+- Fixed errors in my library.
 
   6.9.7 (2022 03 26)
 
@@ -43,6 +49,9 @@
 6.9.9 (2022 03 27)
 
 - TTS 設定で文区切り記号を最大 10 文字まで入れられるように修正しました。
+- epub 変換ロジックのいくつかの修正。
+- ビューアでページ移動時に座標計算にエラーが生じる現象を修正。
+- 内訳エラーを修正。
 
   6.9.7 (2022 03 26)
 
