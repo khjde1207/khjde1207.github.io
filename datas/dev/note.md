@@ -1,4 +1,4 @@
-6.9.8 (2022 03 27)
+6.9.9 (2022 03 27)
 
 - TTS 설정에서 문장 구분 기호를 최대 10 글자 까지 넣을 수 있도록 수정 하였습니다.
 
@@ -19,7 +19,7 @@
 
 ---
 
-6.9.8 (27 Mar 2022)
+6.9.9 (27 Mar 2022)
 
 - In the TTS setting, it has been modified so that sentence delimiters can be entered up to 10 characters.
 
@@ -40,7 +40,7 @@
 
 ---
 
-6.9.8 (2022 03 27)
+6.9.9 (2022 03 27)
 
 - TTS 設定で文区切り記号を最大 10 文字まで入れられるように修正しました。
 
