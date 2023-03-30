@@ -153,5 +153,12 @@
         "filter": "([A-Z])([A-Z])",
         "to": "$1.$2",
         "enable": true
+    },
+    {
+        "name":"Filter <, >",
+        "expr":true,
+        "filter":"\\<(.+)\\>",
+        "to":"$1",
+        "enable":true
     }
 ]
