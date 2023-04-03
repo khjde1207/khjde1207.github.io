@@ -160,5 +160,12 @@
         "filter":"\\<(.+)\\>",
         "to":"$1",
         "enable":true
+    },
+    {
+        "name":"Filter ...",
+        "expr":true,
+        "filter":"\\.{2,}|\\…{1,}",
+        "to":"",
+        "enable":true
     }
 ]
