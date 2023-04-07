@@ -676,5 +676,13 @@
         "to": "접근",
         "cmd": "",
         "lang": ""
+    },
+    {
+        "form":"쫏",
+        "bcustom":false,
+        "expr":false,
+        "to":"쫓",
+        "cmd":"",
+        "lang":""
     }
 ]
