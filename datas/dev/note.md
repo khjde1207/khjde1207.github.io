@@ -1,3 +1,11 @@
+7.0.4 (2022 04 13)
+
+```
+- 디렉터리 이동시 이동된 파일이 남아 있는 버그 수정 하였습니다.
+- 편집시 에러나던 버그 수정 하였습니다.
+- 특수기능 사용시 알림창에 진행상황 표시하는 기능을 추가 하였습니다.
+```
+
 7.0.2 (2022 04 12)
 
 ```
@@ -62,6 +70,14 @@
 
 ---
 
+7.0.4 (13 Apr 2022)
+
+```
+- Fixed a bug where moved files remain when moving directories.
+- Fixed a bug that caused an error during editing.
+- Added a function to display the progress in the notification window when using special functions.
+```
+
 7.0.2 (2022 04 12)
 
 ```
@@ -125,6 +141,14 @@ Update says:
 - The number of books read in the history has been modified to be displayed based on the currently viewed period.
 
 ---
+
+7.0.4 (2022 04 13)
+
+```
+- ディレクトリ移動時に移動されたファイルが残っているバグを修正しました。
+- 編集時にエラーになっていたバグを修正しました。
+- 特殊機能使用時の通知ウィンドウに進行状況表示する機能を追加しました。
+```
 
 7.0.2 (2022 04 12)
 
