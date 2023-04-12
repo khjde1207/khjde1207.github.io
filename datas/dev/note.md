@@ -1,3 +1,10 @@
+7.0.2 (2022 04 12)
+
+```
+- 필터 사용여부 체크 안되는 버그 긴급 수정.
+- 볼륨조절 안되는 버그 긴급 수정
+```
+
 7.0.1 (2022 04 12)
 
 업데이트 내용 :
@@ -55,6 +62,13 @@
 
 ---
 
+7.0.2 (2022 04 12)
+
+```
+- Urgent fix for a bug that can't check whether a filter is used or not.
+- Urgent fix for volume control bug
+```
+
 7.0.1 (2022 04 12)
 
 Update says:
@@ -111,6 +125,13 @@ Update says:
 - The number of books read in the history has been modified to be displayed based on the currently viewed period.
 
 ---
+
+7.0.2 (2022 04 12)
+
+```
+- フィルタを使用するかどうかチェックしないバグ緊急修正。
+- 音量調節できないバグ緊急修正
+```
 
 7.0.1 (2022 04 12)
 
