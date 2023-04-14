@@ -1,3 +1,12 @@
+7.0.6 (2022 04 14)
+
+```
+- 내서재에서 상위 폴더를 지울 수 있던 문제 긴급 수정
+- 전체화면 이후 내서재나 설정으로 이동시 하단 메뉴가 사라져서 뷰어로 복귀 할수 없던 버그 수정.
+```
+
+---
+
 7.0.4 (2022 04 13)
 
 ```
@@ -6,12 +15,16 @@
 - 특수기능 사용시 알림창에 진행상황 표시하는 기능을 추가 하였습니다.
 ```
 
+---
+
 7.0.2 (2022 04 12)
 
 ```
 - 필터 사용여부 체크 안되는 버그 긴급 수정.
 - 볼륨조절 안되는 버그 긴급 수정
 ```
+
+---
 
 7.0.1 (2022 04 12)
 
@@ -67,6 +80,15 @@
 - 색상 설정에 필터 기능을 추가 하였습니다.
 
 - 히스토리 읽은 권수를 현재 조회된 기간을 기준으로 보여지도록 수정 하였습니다.
+
+---
+
+7.0.6 (14 Apr 2022)
+
+```
+- Urgent fix for deleting parent folders in My Library
+- Fixed a bug that could not return to the viewer because the bottom menu disappeared when moving to My Library or Settings after full screen.
+```
 
 ---
 
@@ -139,6 +161,15 @@ Update says:
 - A filter function has been added to the color settings.
 
 - The number of books read in the history has been modified to be displayed based on the currently viewed period.
+
+---
+
+7.0.6 (2022 04 14)
+
+```
+- 内書で上位フォルダを消去できる問題緊急修正
+- 全体画面以降、内書財や設定に移動すると下段メニューが消えてビューアに復帰できなかったバグ修正。
+```
 
 ---
 
