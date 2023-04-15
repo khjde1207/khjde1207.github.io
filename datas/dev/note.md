@@ -1,3 +1,9 @@
+7.0.7 (2022 04 15)
+
+```
+- 언어 선택 옵션을 추가 하였습니다.
+```
+
 7.0.6 (2022 04 14)
 
 ```
@@ -83,6 +89,12 @@
 
 ---
 
+7.0.7 (15 Apr 2022)
+
+```
+- Added language selection option.
+```
+
 7.0.6 (14 Apr 2022)
 
 ```
@@ -163,6 +175,12 @@ Update says:
 - The number of books read in the history has been modified to be displayed based on the currently viewed period.
 
 ---
+
+7.0.7 (2022 04 15)
+
+```
+- 言語選択オプションを追加しました。
+```
 
 7.0.6 (2022 04 14)
 
