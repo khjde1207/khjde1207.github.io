@@ -1,8 +1,22 @@
+7.1.1 (2022 04 17)
+
+```
+- 파일을 상위폴더로 이동 시킬 수 없던 버그 수정.
+- 설정 메뉴 투명도 조절
+- 두페이지 보기 에서 끝까지 도달 했을 경우 우측 페이지에 이전 내용이 보이던 버그 수정.
+- 한페이지 / 두페이지 보기 전환이 제대로 안되던 버그 수정.
+- 화면 방향 고정 안되는 버그 수정.
+```
+
+---
+
 7.0.9 (2022 04 15)
 
 ```
 - 언어 선택 옵션을 추가 하였습니다.
 ```
+
+---
 
 7.0.6 (2022 04 14)
 
@@ -89,11 +103,25 @@
 
 ---
 
+7.1.1 (2022 04 17)
+
+```
+- Fixed a bug where files could not be moved to the upper folder.
+- Adjust the transparency of the setting menu
+- Fixed a bug where the previous content was displayed on the right page when reaching the end in the two-page view.
+- Fixed a bug where switching between one-page / two-page view did not work properly.
+-Fixed a bug where the screen orientation could not be fixed.
+```
+
+---
+
 7.0.9 (15 Apr 2022)
 
 ```
 - Added language selection option.
 ```
+
+---
 
 7.0.6 (14 Apr 2022)
 
@@ -176,11 +204,25 @@ Update says:
 
 ---
 
+7.1.1 (2022 04 17)
+
+```
+- ファイルを親フォルダに移動できなかったバグ修正。
+- 設定メニューの透明度調整
+- 2ページ表示で最後まで到達した場合、右ページに以前の内容が見られたバグ修正。
+- 1ページ/2ページの表示切り替えが正しくできなかったバグ修正。
+- 画面方向に固定されていないバグ修正。
+```
+
+---
+
 7.0.9 (2022 04 15)
 
 ```
 - 言語選択オプションを追加しました。
 ```
+
+---
 
 7.0.6 (2022 04 14)
 
