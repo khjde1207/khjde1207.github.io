@@ -1,3 +1,15 @@
+7.1.3 (2022 04 21)
+
+```
+- 파일 오픈시 전체 경로를 기억하도록 하여 중복 파일이 있더라도 열어놓은 파일에 편집결과가 저장 되도록 수정.
+
+- 파일 메모란에 메모가 중복으로 나오던 버그 수정.
+
+- 기타 오류 / 버그 수정.
+```
+
+---
+
 7.1.2 (2022 04 19)
 
 ```
@@ -27,21 +39,14 @@
 
 ---
 
-7.0.6 (2022 04 14)
+7.1.3 (21 Apr 2022)
 
 ```
-- 내서재에서 상위 폴더를 지울 수 있던 문제 긴급 수정
-- 전체화면 이후 내서재나 설정으로 이동시 하단 메뉴가 사라져서 뷰어로 복귀 할수 없던 버그 수정.
-```
+- Modified to remember the full path when opening a file so that the edited result is saved in the opened file even if there are duplicate files.
 
----
+- Fixed a bug where duplicate memos appeared in the file memo field.
 
-7.0.4 (2022 04 13)
-
-```
-- 디렉터리 이동시 이동된 파일이 남아 있는 버그 수정 하였습니다.
-- 편집시 에러나던 버그 수정 하였습니다.
-- 특수기능 사용시 알림창에 진행상황 표시하는 기능을 추가 하였습니다.
+- Other errors/bug fixes.
 ```
 
 ---
@@ -75,21 +80,14 @@
 
 ---
 
-7.0.6 (14 Apr 2022)
+7.1.3 (2022 04 21)
 
 ```
-- Urgent fix for deleting parent folders in My Library
-- Fixed a bug that could not return to the viewer because the bottom menu disappeared when moving to My Library or Settings after full screen.
-```
+- ファイルオープン時にフルパスを記憶するようにして重複ファイルがあっても開いたファイルに編集結果が保存されるように修正。
 
----
+- ファイルメモ欄にメモが重複して出ていたバグ修正。
 
-7.0.4 (13 Apr 2022)
-
-```
-- Fixed a bug where moved files remain when moving directories.
-- Fixed a bug that caused an error during editing.
-- Added a function to display the progress in the notification window when using special functions.
+- その他のエラー/バグ修正。
 ```
 
 ---
@@ -122,20 +120,3 @@
 ```
 
 ---
-
-7.0.6 (2022 04 14)
-
-```
-- 内書で上位フォルダを消去できる問題緊急修正
-- 全体画面以降、内書財や設定に移動すると下段メニューが消えてビューアに復帰できなかったバグ修正。
-```
-
----
-
-7.0.4 (2022 04 13)
-
-```
-- ディレクトリ移動時に移動されたファイルが残っているバグを修正しました。
-- 編集時にエラーになっていたバグを修正しました。
-- 特殊機能使用時の通知ウィンドウに進行状況表示する機能を追加しました。
-```
