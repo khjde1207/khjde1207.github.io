@@ -1,0 +1,290 @@
+{
+  "영어(미국)": {
+    "key": "en",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug fixing the vertical line horizontally hidden in the background image.\n\n-Settings -Modified to display language code on the right in the language settings.\n\n-When the filter/ batch modification was added, the bug that was added to the top, not the bottom, was modified.\n\n-The user manual (wiki) has been translated into 72 languages.\n\n-The QNA has been removed.\n\n-The structure has been changed so that the developer note is also expressed in 72 languages."
+  },
+  "한국어": {
+    "key": "ko",
+    "devnote": "7.1.7 (2023 05 06)\n\n- 세로줄 가로줄이 배경 이미지에 가려지는 버그 수정.\n\n- 설정 - 언어 설정에서 우측에 언어코드가 표시 되도록 수정 하였습니다.\n\n- 필터/ 일괄수정 추가시 하단이 아닌 상단으로 추가 되던 버그를 수정 하였습니다. \n\n- 사용자 메뉴얼 (wiki) 을 72 개국 언어로 번역 하였습니다. \n\n- QNA 를 제거 하였습니다.\n\n- 개발자노트 도 72 개국 언어로 표시 되도록 구조를 변경 하였습니다."
+  },
+  "갈리시아어": {
+    "key": "gl",
+    "devnote": "7.1.7 (2023 05 06)\n\n-BUG Fixando a liña vertical oculta horizontalmente na imaxe de fondo.\n\n-Settings -modificado para mostrar o código da linguaxe á dereita na configuración do idioma.\n\n-Cando se engadiu a modificación do filtro/ lote, modificouse o erro que se engadiu á parte superior, non á parte inferior.\n\n-O manual de usuario (Wiki) traduciuse en 72 idiomas.\n\n-A eliminouse o QNA.\n\n-A estrutura cambiouse de xeito que a nota do desenvolvedor tamén se expresa en 72 idiomas."
+  },
+  "구자라트어": {
+    "key": "gu",
+    "devnote": "7.1.7 (2023 05 06)\n\n-ગ્રાઉન્ડ ઇમેજમાં vert ભી રેખાને આડા છુપાયેલ ફિક્સિંગ.\n\n-સેટિંગ્સ -ભાષા સેટિંગ્સમાં જમણી બાજુએ ભાષા કોડ પ્રદર્શિત કરવા માટે મોડિફાઇડ.\n\n-જ્યારે ફિલ્ટર/ બેચ ફેરફાર ઉમેરવામાં આવ્યો, ત્યારે બગ જે ટોચ પર ઉમેરવામાં આવ્યો, તળિયે નહીં, તેમાં ફેરફાર કરવામાં આવ્યો.\n\n-અમેર મેન્યુઅલ (વિકી) નો 72 ભાષાઓમાં અનુવાદ કરવામાં આવ્યો છે.\n\nક્યુએનએ દૂર કરવામાં આવી છે.\n\n-માળખું બદલવામાં આવ્યું છે જેથી વિકાસકર્તાની નોંધ પણ 72 ભાષાઓમાં વ્યક્ત થાય."
+  },
+  "그리스어": {
+    "key": "el",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Το καθορισμό της κατακόρυφης γραμμής οριζόντια κρυμμένη στην εικόνα του φόντου.\n\n-Settings -Τροποποιήθηκε για να εμφανίσει τον κωδικό γλώσσας στα δεξιά στις ρυθμίσεις της γλώσσας.\n\n-Όταν προστέθηκε η τροποποίηση φίλτρου/ παρτίδας, το σφάλμα που προστέθηκε στην κορυφή, όχι το κάτω μέρος, τροποποιήθηκε.\n\n-Το Εγχειρίδιο Χρήσης (Wiki) έχει μεταφραστεί σε 72 γλώσσες.\n\n-Το QNA έχει αφαιρεθεί.\n\n-Η δομή έχει αλλάξει έτσι ώστε το σημείωμα του προγραμματιστή να εκφράζεται επίσης σε 72 γλώσσες."
+  },
+  "네덜란드어": {
+    "key": "nl",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug de verticale lijn horizontaal verborgen in het achtergrondafbeelding bevestigen.\n\n-Settings -gemodificeerd om taalcode rechts weer te geven in de taalinstellingen.\n\n-Wanneer de filter/ batch -modificatie werd toegevoegd, werd de bug die aan de bovenkant werd toegevoegd, niet tot de bodem, gewijzigd.\n\n-De gebruikershandleiding (Wiki) is vertaald in 72 talen.\n\n-De QNA is verwijderd.\n\n-De structuur is gewijzigd zodat de ontwikkelaarsnota ook wordt uitgedrukt in 72 talen."
+  },
+  "네팔어": {
+    "key": "ne",
+    "devnote": ".1.1.7 (2023 0 06 06)\n\n-बगलाई ठाडो रेखा फिक्सिंग गर्दै पृष्ठभूमिमा पृष्ठभूमि छविमा लुकाइएको छ।\n\nभाषा सेटिंग्समा दायाँ भाषाको भाषा कोड प्रदर्शन गर्न -setttates।\n\n- फिल्टर / ब्याच परिमार्जन संशोधन थपिएको थियो, बग माथि थपिएको थियो, तल, परिमार्जन परिमार्जन गरिएको थियो।\n\n- प्रयोगकर्ता म्यानुअल (विकी) लाई 722 भाषाहरूमा अनुवाद गरिएको छ।\n\n- Qa हीना हटाइएको छ।\n\n- यो संरचना परिवर्तन गरिएको छ ताकि विकासकर्तालाई नोट पनि 722 भाषाहरूमा पनि व्यक्त गरिएको छ।"
+  },
+  "노르웨이어": {
+    "key": "no",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug som fikser den vertikale linjen horisontalt skjult i bakgrunnsbildet.\n\n-Settings -modifisert for å vise språkkode til høyre i språkinnstillingene.\n\n-Når filter/ batch -modifisering ble lagt til, ble feilen som ble lagt til toppen, ikke bunnen, endret.\n\n-Brukerhåndboken (wiki) er oversatt til 72 språk.\n\n-QNA er fjernet.\n\n-Strukturen er endret slik at utviklernotatet også kommer til uttrykk på 72 språk."
+  },
+  "덴마크어": {
+    "key": "da",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug, der fastgør den lodrette linje vandret skjult i baggrundsbilledet.\n\n-Fætninger -modificeret for at vise sprogkode til højre i sprogindstillingerne.\n\n-Når filter/ batch -modifikationen blev tilsat, blev fejlen, der blev tilsat til toppen, ikke bunden, modificeret.\n\n-Brugervejledningen (Wiki) er blevet oversat til 72 sprog.\n\n-QNA er blevet fjernet.\n\n-Strukturen er blevet ændret, så udviklernotatet også udtrykkes på 72 sprog."
+  },
+  "독일어": {
+    "key": "de",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug -Behebung der vertikalen Linie im Hintergrundbild horizontal versteckt.\n\n-Settings -modifiziert, um den Sprachcode rechts in den Spracheinstellungen anzuzeigen.\n\n-Wenn die Filter-/ Stapel -Modifikation hinzugefügt wurde, wurde der Fehler, der nach oben und nicht nach unten hinzugefügt wurde, geändert.\n\n-Das Benutzerhandbuch (WIKI) wurde in 72 Sprachen übersetzt.\n\n-Die QNA wurde entfernt.\n\n-Die Struktur wurde so geändert, dass die Entwicklernote auch in 72 Sprachen ausgedrückt wird."
+  },
+  "라오어": {
+    "key": "lo",
+    "devnote": "7.1.7 (2023 05 05 06)\n\n-bug ແກ້ໄຂສາຍຕັ້ງຕາມແນວຕັ້ງທີ່ເຊື່ອງໄວ້ໃນພື້ນຫລັງຂອງຮູບພາບ.\n\n-SetTings ໄດ້ຮັບການປ່ຽນແປງເພື່ອສະແດງລະຫັດພາສາຢູ່ເບື້ອງຂວາໃນການຕັ້ງຄ່າພາສາ.\n\nເມື່ອມີການກັ່ນຕອງການກັ່ນຕອງ / ຊຸດໄດ້ຖືກເພີ່ມ, ຂໍ້ບົກຜ່ອງທີ່ຖືກເພີ່ມໃສ່ດ້ານເທິງ, ບໍ່ແມ່ນດ້ານລຸ່ມ, ຖືກດັດແກ້.\n\n- ຄູ່ມືຜູ້ໃຊ້ (ວິກິພີເດຍ) ໄດ້ຖືກແປເປັນ 72 ພາສາ.\n\n- qna ໄດ້ຖືກໂຍກຍ້າຍອອກ.\n\n- ໂຄງສ້າງດັ່ງກ່າວໄດ້ຖືກປ່ຽນແປງເພື່ອໃຫ້ບັນທຶກນັກພັດທະນາໄດ້ຖືກສະແດງອອກເປັນ 72 ພາສາ."
+  },
+  "라트비아어": {
+    "key": "lv",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug fona attēlā horizontāli paslēpta vertikālā līnija.\n\n-Settings -modificēts, lai parādītu valodas kodu labajā pusē valodas iestatījumos.\n\n-Kad tika pievienota filtra/ partijas modifikācija, tika modificēta kļūda, kas tika pievienota augšpusē, nevis apakšā.\n\n-Lietotāja rokasgrāmata (Wiki) ir tulkota 72 valodās.\n\n-QNA ir noņemta.\n\n-struktūra ir mainīta tā, lai izstrādātāja piezīme būtu izteikta arī 72 valodās."
+  },
+  "러시아어": {
+    "key": "ru",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Буг исправление вертикальной линии горизонтально скрыта в фоновом изображении.\n\n-Settings -Модифицирован для отображения языкового кода справа в настройках языка.\n\n-Когда была добавлена ​​модификация фильтра/ партии, была изменена ошибка, которая была добавлена ​​в верхнюю часть, а не внизу, была изменена.\n\n-Руководство пользователя (вики) было переведено на 72 языка.\n\n-QNA был удален.\n\n-Структура была изменена таким образом, чтобы нота разработчика также выражена на 72 языках."
+  },
+  "루마니아어": {
+    "key": "ro",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug Fixarea liniei verticale ascunse orizontal în imaginea de fundal.\n\n-Settings -Modificat pentru a afișa codul limbajului din dreapta în setările limbii.\n\n-Când s -a adăugat modificarea filtrului/ lotului, a fost modificată eroarea care a fost adăugată în partea de sus, nu în partea de jos.\n\n-Manualul de utilizare (Wiki) a fost tradus în 72 de limbi.\n\n-The QNA a fost eliminat.\n\n-Tuctura a fost schimbată astfel încât nota de dezvoltator să fie exprimată și în 72 de limbi."
+  },
+  "리투아니아어": {
+    "key": "lt",
+    "devnote": "7.1.7 (2023 05 06)\n\n-BUG fono vaizde horizontaliai paslėpta vertikalioji linija.\n\n-Settingos -Modifikuota, kad kalbos kodas būtų rodomas dešinėje kalbų nustatymuose.\n\n-Kai buvo pridėtas filtro/ partijos modifikavimas, klaida, kuri buvo pridėta prie viršaus, o ne apačioje, buvo modifikuota.\n\n-Vartotojo vadovas (WIKI) buvo išverstas į 72 kalbas.\n\n-KNA buvo pašalinta.\n\n-Struktūra buvo pakeista taip, kad kūrėjo pastaba taip pat būtų išreikšta 72 kalbomis."
+  },
+  "마라티어": {
+    "key": "mr",
+    "devnote": "7.1.7 (2023 05 06)\n\n-बग पार्श्वभूमी प्रतिमेमध्ये आडव्या रेषा क्षैतिजपणे लपवून ठेवत आहे.\n\n-सेटिंग्ज -भाषेच्या सेटिंग्जमध्ये उजवीकडे भाषा कोड प्रदर्शित करण्यासाठी मॉडिफाइड.\n\n-जेव्हा फिल्टर/ बॅचमध्ये बदल जोडला गेला, तेव्हा वरच्या बाजूस जोडलेला बग, तळाशी नाही, सुधारित केला गेला.\n\n-वापरकर्ता मॅन्युअल (विकी) चे अनुवाद 72 भाषांमध्ये केले गेले आहे.\n\n-क्यूएनए काढला गेला आहे.\n\n-रचना बदलली गेली आहे जेणेकरून विकसकाची नोट देखील 72 भाषांमध्ये व्यक्त होईल."
+  },
+  "마케도니아어": {
+    "key": "mk",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Бачка фиксирање на вертикалната линија хоризонтално скриена на сликата во позадина.\n\n-Сети -модифицирани за прикажување на јазичен код од десно во поставките на јазикот.\n\n-Кога е додадена модификацијата на филтерот/ серијата, грешката што беше додадена на врвот, а не на дното, беше изменета.\n\n-Напскиот прирачник за корисникот (Вики) е преведен на 72 јазици.\n\n-На QNA е отстранета.\n\n-Структурата е променета така што белешката за инвеститорот е изразена и на 72 јазици."
+  },
+  "말라얄람어": {
+    "key": "ml",
+    "devnote": "7.1.7 (2023 05 06)\n\nപശ്ചാത്തല ചിത്രത്തിൽ തിരശ്ചീനമായി മറച്ചുവെക്കുന്ന ലംബ വരി ശരിയാക്കുന്നു.\n\nഭാഷാ ക്രമീകരണങ്ങളിൽ വലതുവശത്ത് ഭാഷാ കോഡ് പ്രദർശിപ്പിക്കാൻ പരിഹസിച്ചത്.\n\n-എന്നാൽ ഫിൽട്ടർ / ബാച്ച് പരിഷ്ക്കരണം ചേർത്തത്, മുകളിൽ ചേർത്ത ബഗ്, അടിയിലല്ല, പരിഷ്ക്കരിച്ചു.\n\nഉപയോക്തൃ മാനുവൽ (വിക്കി) 72 ഭാഷകളിലേക്ക് വിവർത്തനം ചെയ്തിട്ടുണ്ട്.\n\nQna നീക്കംചെയ്തു.\n\n72 ഭാഷകളിൽ ഡെവലപ്പർ കുറിപ്പ് പ്രകടിപ്പിക്കുന്നതിനായി ഘടന മാറ്റി."
+  },
+  "말레이어": {
+    "key": "ms",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug membetulkan garis menegak yang tersembunyi secara mendatar dalam imej latar belakang.\n\n-Settings -Modified untuk memaparkan kod bahasa di sebelah kanan dalam tetapan bahasa.\n\n-When pengubahsuaian penapis/ batch ditambah, pepijat yang ditambah ke bahagian atas, bukan bahagian bawah, diubahsuai.\n\n-The Pengguna Manual (Wiki) telah diterjemahkan ke dalam 72 bahasa.\n\n-The QNA telah dikeluarkan.\n\n-Struktur telah diubah supaya nota pemaju juga dinyatakan dalam 72 bahasa."
+  },
+  "몽골어": {
+    "key": "mn",
+    "devnote": "7.1.7 (2023 05 06 06)\n\n-Бүхгийн хэвтээ шугамыг хэвтээ байдлаар нуугдсан босоо шугамыг засах.\n\n-Сурганы тохиргоог хэлний тохиргоонд компьютерийн кодыг харуулахын тулд.\n\n-Бүх шүүлтүүр / багцын өөрчлөлтийг хэзээ нэмсэн, дээд хэсэгт нь нэмж оруулсан алдааг дээшлүүлсэн алдаанууд.\n\n-Энэийн гарын авлага (Wiki) -ийг 72 хэл рүү орчуулав.\n\n-Энэ qna хасагдсан.\n\n-Ботор бүтэц өөрчлөгдсөн тул хөгжүүлэгчийн тэмдэглэгээг 72 хэлээр илэрхийлнэ."
+  },
+  "바스크어": {
+    "key": "eu",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Begi bat lerro bertikala horizontalki ezkutatuta atzeko planoaren irudian.\n\n-Settings -Modifikatutako hizkuntza kodea eskuineko hizkuntzaren ezarpenetan bistaratzeko.\n\n-Zenbat iragazkia / lotearen aldapena gehitu zenean, goiko aldean gehitu zen akatsa, ez behealdea, aldatu da.\n\n-Erabiltako erabiltzailearen eskuliburua (Wiki) 72 hizkuntzatara itzuli da.\n\n-Hna kendu da.\n\n-Gogorra aldatu da garatzailearen oharra 72 hizkuntzatan ere adierazi da."
+  },
+  "버마어": {
+    "key": "my",
+    "devnote": "7.1.7 (2023 05 06)\n\n-back image တွင်အလျားလိုက်ဒေါင်လိုက်မျဉ်းကိုအလျားလိုက်ဝှက်ထားသောဒေါင်လိုက်မျဉ်းကိုပြင်ဆင်ခြင်း။\n\n-Settings ဘာသာစကားချိန်ညှိချက်များတွင်ညာဘက်ရှိဘာသာစကားကုဒ်ကိုပြသရန်။\n\n- Filter / Batch Modifictify ထည့်သွင်းထားသည့်အနေဖြင့်ထိပ်တွင်ထည့်သွင်းထားသောအမှားသည်အောက်ခြေတွင်မပါ 0 င်သော bug ကိုပြုပြင်မွမ်းမံခဲ့သည်။\n\n- အသုံးပြုသူလက်စွဲ (ဝီကီ) ကိုဘာသာစကား 72 ဘာသာသို့ပြန်ဆိုထားသည်။\n\n- QNa ကိုဖယ်ရှားလိုက်ပြီ။\n\nDeveloper Note ကိုလည်းဘာသာစကား 72 ဘာသာဖြင့်ထုတ်ဖော်ပြောဆိုနိုင်အောင်ဖွဲ့စည်းပုံကိုပြောင်းလဲလိုက်သည်။"
+  },
+  "베트남어": {
+    "key": "vi",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug sửa đường thẳng đứng ẩn theo hình ảnh nền.\n\n-SinSiting -Modified để hiển thị mã ngôn ngữ ở bên phải trong cài đặt ngôn ngữ.\n\n-Khi sửa đổi bộ lọc/ lô đã được thêm vào, lỗi được thêm vào trên cùng, không phải phía dưới, đã được sửa đổi.\n\n-Hướng dẫn sử dụng (Wiki) đã được dịch sang 72 ngôn ngữ.\n\n-Ch QNA đã được gỡ bỏ.\n\n-Cấu trúc đã được thay đổi để ghi chú của nhà phát triển cũng được thể hiện bằng 72 ngôn ngữ."
+  },
+  "벨라루스어": {
+    "key": "be",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Буг, фіксуючы вертыкальную лінію гарызантальна, схаваную ў фонавым малюнку.\n\n-Сэттынг -мадыфікаваны для адлюстравання мовы код справа ў наладах мовы.\n\n-Калі мадыфікацыю фільтра/ партыі, была дададзеная, была зменена памылка, якая была дададзена ўверсе, а не ўнізе.\n\n-Кіраўніцтва карыстальніка (Wiki) было перакладзена на 72 мовы.\n\n-На QNA была выдаленая.\n\n-Структура была зменена так, што нататка распрацоўніка таксама выражана на 72 мовах."
+  },
+  "벵골어": {
+    "key": "bn",
+    "devnote": "7.1.7 (2023 05 06)\n\n-বগটি ব্যাকগ্রাউন্ড চিত্রটিতে অনুভূমিকভাবে লুকানো উল্লম্ব রেখাটি ফিক্সিং করুন।\n\n-সেটেটিং -ভাষার সেটিংসে ডানদিকে ভাষা কোড প্রদর্শন করতে সংশোধিত।\n\n-যখন ফিল্টার/ ব্যাচ পরিবর্তনটি যুক্ত করা হয়েছিল, নীচে নয়, শীর্ষে যুক্ত করা বাগটি সংশোধন করা হয়েছিল।\n\n-ব্যবহারকারী ম্যানুয়াল (উইকি) 72 টি ভাষায় অনুবাদ করা হয়েছে।\n\n-কিউএনএ সরানো হয়েছে।\n\n-কাঠামোটি পরিবর্তন করা হয়েছে যাতে বিকাশকারী নোটটি 72 টি ভাষায়ও প্রকাশ করা হয়।"
+  },
+  "불가리아어": {
+    "key": "bg",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug фиксира вертикалната линия хоризонтално скрита във фоновото изображение.\n\n-Одифицирани -Модифицирани за показване на езиков код вдясно в езиковите настройки.\n\n-Когато се добави модификацията на филтъра/ партидата, грешката, която се добавя в горната част, а не до дъното, се модифицира.\n\n-Ръководството за потребителя (Wiki) е преведено на 72 езика.\n\n-QNA е отстранена.\n\n-Корудът е променен, така че бележката на разработчика да бъде изразена и на 72 езика."
+  },
+  "세르비아어": {
+    "key": "sr",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Бако причвршћивање вертикалне линије хоризонтално скривено у позадинској слици.\n\n-Стици -Модификоване за приказивање језичког кода са десне стране у језичким подешавањима.\n\n-Када је додата модификација филтера / серије, модификована је грешка која је додата у врх, а не на дно.\n\n- Кориснички приручник (вики) је преведен на 72 језика.\n\n- КНА је уклоњена.\n\n- Структура је измењена тако да се на белешницама програмера такође изражава на 72 језика."
+  },
+  "스와힐리어": {
+    "key": "sw",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug Kurekebisha mstari wa wima uliofichwa kwa usawa kwenye picha ya nyuma.\n\n-Settings -Modized kuonyesha nambari ya lugha upande wa kulia katika mipangilio ya lugha.\n\n-Wakati muundo wa kichujio/ batch uliongezwa, mdudu ambao uliongezwa juu, sio chini, ulibadilishwa.\n\n-Mongo wa Mtumiaji (Wiki) umetafsiriwa kwa lugha 72.\n\n-M QNA imeondolewa.\n\nMuundo umebadilishwa ili noti ya msanidi programu pia imeonyeshwa kwa lugha 72."
+  },
+  "스웨덴어": {
+    "key": "sv",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug fixar den vertikala linjen horisontellt dold i bakgrundsbilden.\n\n-Settings -Modifierad för att visa språkkod till höger i språkinställningarna.\n\n-När filter/ batchmodifiering tillsattes, modifierades felet som tillsattes till toppen, inte botten,.\n\n-A Användarhandboken (Wiki) har översatts till 72 språk.\n\n-QNA har tagits bort.\n\n-Strukturen har ändrats så att utvecklarnoten också uttrycks på 72 språk."
+  },
+  "스페인어": {
+    "key": "es",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug fijando la línea vertical horizontalmente oculta en la imagen de fondo.\n\n-Settings -modified para mostrar el código de idioma a la derecha en la configuración del idioma.\n\n-Cuando se agregó la modificación del filtro/ lote, se modificó el error que se agregó a la parte superior, no en la parte inferior.\n\n-El manual del usuario (wiki) se ha traducido a 72 idiomas.\n\n-El QNA ha sido eliminado.\n\n-La estructura se ha cambiado para que la nota del desarrollador también se exprese en 72 idiomas."
+  },
+  "슬로바키아어": {
+    "key": "sk",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug Upevnenie vertikálnej čiary vodorovne skryté v obrázku na pozadí.\n\n-Settings -modifikované na zobrazenie jazykového kódu vpravo v nastaveniach jazyka.\n\n-Kedy bola pridaná modifikácia filtra/ dávky, bola upravená chyba, ktorá bola pridaná na vrchol, nie spodnú časť, bola upravená.\n\n-Používateľská príručka (Wiki) bola preložená do 72 jazykov.\n\n-QNA bola odstránená.\n\n-Štruktúra sa zmenila tak, aby sa vývojová poznámka vyjadrila aj v 72 jazykoch."
+  },
+  "슬로베니아어": {
+    "key": "sl",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug pritrditev navpične črte vodoravno skrita na sliki ozadja.\n\n-Settings -Dodificiran za prikaz jezikovne kode na desni v jezikovnih nastavitvah.\n\n-Ko je bila dodana sprememba filtra/ šarže, je bila napaka, ki je bila dodana na vrh, ne dno, spremenjena.\n\n-Uporabniški priročnik (Wiki) je bil preveden v 72 jezikov.\n\n-Qna je bila odstranjena.\n\n-Struktura je bila spremenjena tako, da je nota za razvijalce izražena tudi v 72 jezikih."
+  },
+  "싱할라어": {
+    "key": "si",
+    "devnote": "7.1.7 (2023 06 06)\n\nපසුබිම් රූපයේ තිරස් අතට සැඟවී ඇති සිරස් රේඛාව සවි කිරීම අවහිර කිරීම.\n\nභාෂා සැකසුම් තුළ ඇති භාෂා කේතය පෙන්වීම සඳහා -සෙට්\n\nපෙරණය / කණ්ඩායම් වෙනස් කිරීම එකතු කළ විට, ඉහළට එකතු කරන ලද දෝෂය පතුලේ නොව වෙනස් කරන ලදි.\n\nපරිශීලක අත්පොත (විකී) භාෂා 72 කට පරිවර්තනය කර ඇත.\n\nQNA QNA ඉවත් කර ඇත.\n\nව්යුහය වෙනස් කර ඇති අතර එමඟින් සංවර්ධක සටහන භාෂා 72 කින් ද ප්රකාශ වේ."
+  },
+  "아랍어": {
+    "key": "ar",
+    "devnote": "7.1.7 (2023 05 06)\n\n-إصلاح الخط العمودي مخفي أفقيا في صورة الخلفية.\n\n-النتجد -المعدلة لعرض رمز اللغة على اليمين في إعدادات اللغة.\n\n-عندما تمت إضافة تعديل المرشح/ الدُفعة ، تم تعديل الأخطاء التي تمت إضافتها إلى الجزء العلوي ، وليس القاع.\n\n-تم ترجمة دليل المستخدم (Wiki) إلى 72 لغة.\n\n-تمت إزالة QNA.\n\n-تم تغيير الهيكل بحيث يتم التعبير عن مذكرة المطور أيضًا بـ 72 لغة."
+  },
+  "아르메니아어": {
+    "key": "hy",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Բուգագրեք ֆոնային պատկերում հորիզոնական ուղղահայաց գիծը շտկելը:\n\n-Առաջարկվել է լեզվի կոդերի վրա լեզվական ծածկագիրը ցուցադրելու համար:\n\n- Երբ ավելացվեց ֆիլտրի / խմբաքանակի փոփոխությունը, այն վրիպակը, որը ավելացվեց գագաթին, ոչ թե ներքեւը, փոփոխվեց:\n\n- Օգտագործողի ձեռնարկը (Wiki) թարգմանվել է 72 լեզուներով:\n\n- QNA- ն հեռացվել է:\n\n- Կառուցվածքը փոխվել է այնպես, որ մշակողի նոտան արտահայտվի նաեւ 72 լեզուներով:"
+  },
+  "아이슬란드어": {
+    "key": "is",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Búðu að laga lóðrétta línuna lárétt falin í bakgrunnsmyndinni.\n\n-Settings -breytt til að birta tungumálakóða til hægri í tungumálastillingunum.\n\n-Þegar síu/ lotubreytingunni var bætt við var galla sem var bætt við toppinn, ekki botninn, breytt.\n\n-Notendahandbókin (wiki) hefur verið þýdd á 72 tungumál.\n\n-S. QNA hefur verið fjarlægt.\n\n-Uppbyggingunni hefur verið breytt þannig að verktaki er einnig tjáð á 72 tungumálum."
+  },
+  "아제르바이잔어": {
+    "key": "az",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug fon şəklində gizlənmiş şaquli xətti düzəltmək.\n\n-Settings - Dil parametrlərində sağdakı dil kodunu göstərmək üçün.\n\nFiltr / toplu modifikasiya əlavə edildikdə, altına deyil, yuxarıya əlavə edilmiş səhv dəyişdirildi.\n\n- İstifadəçi Təlimatı (Wiki) 72 dilə tərcümə edilmişdir.\n\n-N QNA çıxarıldı.\n\n-Bu quruluş dəyişdirildi ki, geliştirici qeydinin də 72 dildə də ifadə olunduğu üçün dəyişdirildi."
+  },
+  "아프리칸스어": {
+    "key": "af",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug wat die vertikale lyn horisontaal in die agtergrondbeeld versteek het.\n\n-Settings -Gemodifiseer om taalkode regs in die taalinstellings te vertoon.\n\n-Toe die filter/ groepmodifikasie bygevoeg is, is die fout wat aan die bokant gevoeg is, nie die onderkant nie, verander.\n\n-Die gebruikershandleiding (Wiki) is in 72 tale vertaal.\n\n-Die QNA is verwyder.\n\n-Die struktuur is verander sodat die ontwikkelaarnoot ook in 72 tale uitgedruk word."
+  },
+  "알바니아어": {
+    "key": "sq",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug Fiksimi i vijës vertikale të fshehur horizontale të fshehur në imazhin e sfondit.\n\n-Settings -modifikuar për të shfaqur kodin e gjuhës në të djathtë në cilësimet e gjuhës.\n\n-Kur u shtua modifikimi i filtrit/ serisë, u shtua gabimi që u shtua në majë, jo në fund, u modifikua.\n\n-Manuali i përdoruesit (wiki) është përkthyer në 72 gjuhë.\n\n-KNA është hequr.\n\n-Struktura është ndryshuar në mënyrë që shënimi i zhvilluesit të shprehet gjithashtu në 72 gjuhë."
+  },
+  "암하라어": {
+    "key": "am",
+    "devnote": "7.1.7 (2023 05 06)\n\nበጀርባ ምስሉ ውስጥ በአግድም የተዘበራረቀውን ቀጥ ያለ መስመር ያስተካክሉ.\n\n- በቋንቋ ቅንብሮች ውስጥ በቀኝ በኩል የቋንቋ ኮድ ለማሳየት ነው.\n\n- የማጣሪያ / የቦታ ማሻሻያ ከተጨመረ, ከላይ የታከለው ሳንካ ከላይ ሳይሆን ተሻሽሏል.\n\n- የተጠቃሚው መመሪያ (ዊኪ) ወደ 72 ቋንቋዎች ተተርጉሟል.\n\n- ኪና ተወግ has ል.\n\nየገንቢ ማስታወሻው በ 72 ቋንቋዎችም እንደተገለፀ መዋቅር ተለው has ል."
+  },
+  "에스토니아어": {
+    "key": "et",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Vertikaalse joone kinnitamine horisontaalselt peidetud taustpildile.\n\n-SETTINGS -MODITILISED KEELE KOODE kuvamiseks keeleseadetes paremal.\n\n-Kui lisati filtri/ partii modifikatsiooni, muudeti ülaosale lisatud viga, mitte põhja.\n\n-Kasutusjuhend (wiki) on tõlgitud 72 keelde.\n\n-QNA on eemaldatud.\n\n-Konstruktsiooni on muudetud nii, et arendaja nooti väljendatakse ka 72 keeles."
+  },
+  "우르두어": {
+    "key": "ur",
+    "devnote": "7.1.7 (2023 05 06)\n\n-پس منظر کی شبیہہ میں افقی طور پر پوشیدہ عمودی لائن کو ٹھیک کرنا۔\n\nترتیبات -زبان کی ترتیبات میں دائیں طرف زبان کا کوڈ ظاہر کرنے کے لئے ترمیم شدہ۔\n\nجب فلٹر/ بیچ میں ترمیم کو شامل کیا گیا تو ، وہ بگ جو اوپر میں شامل کیا گیا تھا ، نیچے نہیں ، اس میں ترمیم کی گئی تھی۔\n\nصارف دستی (وکی) کو 72 زبانوں میں ترجمہ کیا گیا ہے۔\n\n-QNA کو ہٹا دیا گیا ہے۔\n\n-ڈھانچے کو تبدیل کردیا گیا ہے تاکہ ڈویلپر نوٹ کو 72 زبانوں میں بھی ظاہر کیا جائے۔"
+  },
+  "우크라이나어": {
+    "key": "uk",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Уг -кріплення вертикальної лінії горизонтально прихованою на фоновому зображенні.\n\n-Settings -Modified для відображення мови коду праворуч у налаштуваннях мови.\n\n-Коли додавали модифікацію фільтра/ партії, помилка, яка була додана вгорі, а не внизу, була модифікована.\n\n-Посібник користувача (WIKI) перекладено на 72 мови.\n\n-Витороба QNA була видалена.\n\n-Т структура була змінена так, що нота розробника також виражена на 72 мовах."
+  },
+  "이탈리아어": {
+    "key": "it",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug fissando la linea verticale nascosta orizzontalmente nell'immagine di sfondo.\n\n-Settings -Modified per visualizzare il codice di lingua a destra nelle impostazioni della lingua.\n\n-Quando la modifica del filtro/ batch è stata aggiunta, il bug che è stato aggiunto in alto, non il fondo, è stato modificato.\n\n-Il Manuale dell'utente (Wiki) è stato tradotto in 72 lingue.\n\n-Il QNA è stato rimosso.\n\n-La struttura è stata modificata in modo che la nota sviluppatore sia espressa anche in 72 lingue."
+  },
+  "인도네시아어": {
+    "key": "id",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug memperbaiki garis vertikal yang disembunyikan secara horizontal di gambar latar belakang.\n\n-Settings -modified untuk menampilkan kode bahasa di sebelah kanan dalam pengaturan bahasa.\n\n-Ketika modifikasi filter/ batch ditambahkan, bug yang ditambahkan ke atas, bukan bagian bawah, telah dimodifikasi.\n\n-Panduan Pengguna (Wiki) telah diterjemahkan ke dalam 72 bahasa.\n\n-The QNA telah dihapus.\n\n-Struktur telah diubah sehingga catatan pengembang juga dinyatakan dalam 72 bahasa."
+  },
+  "일본어": {
+    "key": "ja",
+    "devnote": "7.1.7（2023 05 06）\n\n-Bug背景画像に垂直線を水平に隠します。\n\n-Settings-言語設定の右側に言語コードを表示するように修正されました。\n\n - フィルター/バッチの変更が追加された場合、下部ではなく上部に追加されたバグが変更されました。\n\n - ユーザーマニュアル（WIKI）は72の言語に翻訳されています。\n\n -  QNAが除去されました。\n\n - 開発者ノートも72の言語で表現されるように構造が変更されました。"
+  },
+  "조지아어": {
+    "key": "ka",
+    "devnote": "7.1.7 (2023 05 06)\n\n-ბუჩქი ვერტიკალური ხაზის ჰორიზონტალურად დამალულ ფონის სურათში.\n\n-გვარად, -მოდიფიცირებულია ენის კოდის გამოსახატავად ენის პარამეტრებში.\n\n-როდესაც დაემატა ფილტრის/ სურათების მოდიფიკაცია, შეცვლილია შეცდომა, რომელიც დაემატა ზედა, არა ბოლოში, შეიცვალა.\n\n-მომხმარებლის სახელმძღვანელო (ვიკი) ითარგმნა 72 ენაზე.\n\n-QNA ამოღებულია.\n\n-სტრუქტურა შეიცვალა ისე, რომ დეველოპერის შენიშვნა ასევე გამოიხატება 72 ენაზე."
+  },
+  "줄루어": {
+    "key": "zu",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug ilungisa umugqa oqondile ocashile ngokuqondile esithombeni sangemuva.\n\n-Settings -Modified Display ukubonisa ikhodi yolimi ngakwesokudla kuzilungiselelo zolimi.\n\n-Kwangezwa ukuthi ukuguqulwa kwe-Filt / Batch, i-bug eyengezwe phezulu, hhayi phansi, iguqulwe.\n\n-Umbhalo womsebenzisi (i-Wiki) uhunyushelwe ezilimini ezingama-72.\n\n-I-QNA isusiwe.\n\n-Isakhiwo siguquliwe ukuze inothi likanjiniyela liphinde livezwe ngezilimi ezingama-72."
+  },
+  "중국어(간체)": {
+    "key": "zh-CN",
+    "devnote": "7.1.7（2023 05 06）\n\n - 将隐藏在背景图像中的水平固定垂直线固定。\n\n-settings-修改以在语言设置中的右侧显示语言代码。\n\n - 当添加过滤器/批处理时，将添加到顶部而不是底部的错误进行了修改。\n\n - 用户手册（Wiki）已翻译成72种语言。\n\n -  QNA已被删除。\n\n - 结构已更改，因此开发人员的音符也以72种语言表示。"
+  },
+  "중국어(번체)": {
+    "key": "zh-TW",
+    "devnote": "7.1.7（2023 05 06）\n\n - 將隱藏在背景圖像中的水平固定垂直線固定。\n\n-settings-修改以在語言設置中的右側顯示語言代碼。\n\n - 當添加過濾器/批處理時，將添加到頂部而不是底部的錯誤進行了修改。\n\n - 用戶手冊（Wiki）已翻譯成72種語言。\n\n -  QNA已被刪除。\n\n - 結構已更改，因此開發人員的音符也以72種語言表示。"
+  },
+  "중국어(홍콩)": {
+    "key": "zh-HK",
+    "devnote": "7.1.7（2023 05 06）\n\n - 將隱藏在背景圖像中的水平固定垂直線固定。\n\n-settings-修改以在語言設置中的右側顯示語言代碼。\n\n - 當添加過濾器/批處理時，將添加到頂部而不是底部的錯誤進行了修改。\n\n - 用戶手冊（Wiki）已翻譯成72種語言。\n\n -  QNA已被刪除。\n\n - 結構已更改，因此開發人員的音符也以72種語言表示。"
+  },
+  "체코어": {
+    "key": "cs",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug Upevnění svislé čáry vodorovně skryté na obrázku na pozadí.\n\n-Settings -Modified pro zobrazení jazykového kódu vpravo v nastavení jazyka.\n\n-Když byla přidána modifikace filtru/ dávky, byla upravena chyba, která byla přidána na vrchol, nikoli dole.\n\n-Uživatelská příručka (wiki) byla přeložena do 72 jazyků.\n\n-QNA byla odstraněna.\n\n-Struktura byla změněna tak, že poznámka pro vývojáře je také vyjádřena v 72 jazycích."
+  },
+  "카자흐어": {
+    "key": "kk",
+    "devnote": "7.1.7 (2023 05 06)\n\n- Үнік сызықты фондық суретте көлденеңінен түзетіңіз.\n\n-Сетнитингтер - тілдік кодты тілдік кодты тіл параметрлерінде көрсету үшін моментиленген.\n\n- Сүзгі / Пакеттік модификация қосылған кезде, төменгі жағынан емес, жоғарғы жағына қосылған қате өзгертілген.\n\n- Пайдаланушы нұсқаулығы (вики) 72 тілге аударылған.\n\n- QNA алынып тасталды.\n\n- Құрылым әзірлеуші ​​жазбасы 72 тілде көрсетілгендей, құрылым өзгертілді."
+  },
+  "카탈로니아어": {
+    "key": "ca",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug Fixació de la línia vertical amagada horitzontalment a la imatge de fons.\n\n-Settings -modificades per mostrar el codi d'idioma a la dreta a la configuració de l'idioma.\n\n-Quan la modificació del filtre/ lot es va afegir, es va modificar l'error que es va afegir a la part superior, no a la part inferior.\n\n-El manual d'usuari (wiki) s'ha traduït en 72 idiomes.\n\n-La QNA s’ha eliminat.\n\n-La estructura s'ha canviat de manera que la nota del desenvolupador també s'expressa en 72 idiomes."
+  },
+  "칸나다어": {
+    "key": "kn",
+    "devnote": "7.1.7 (2023 05 06)\n\n-ಬಗ್ ಲಂಬ ರೇಖೆಯನ್ನು ಹಿನ್ನೆಲೆ ಚಿತ್ರದಲ್ಲಿ ಅಡ್ಡಲಾಗಿ ಮರೆಮಾಡಲಾಗಿದೆ.\n\n-ಸೆಟ್ಟಿಂಗ್‌ಗಳು -ಭಾಷಾ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಬಲಭಾಗದಲ್ಲಿ ಭಾಷಾ ಕೋಡ್ ಅನ್ನು ಪ್ರದರ್ಶಿಸಲು ಮಾಡಲ್ಪಟ್ಟಿದೆ.\n\n-ಫಿಲ್ಟರ್/ ಬ್ಯಾಚ್ ಮಾರ್ಪಾಡು ಸೇರಿಸಿದಾಗ, ಕೆಳಭಾಗದಲ್ಲಿ ಅಲ್ಲ, ಮೇಲಕ್ಕೆ ಸೇರಿಸಲಾದ ದೋಷವನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n\n-ಎಚ್ ಬಳಕೆದಾರರ ಕೈಪಿಡಿ (ವಿಕಿ) ಅನ್ನು 72 ಭಾಷೆಗಳಿಗೆ ಅನುವಾದಿಸಲಾಗಿದೆ.\n\n-ಕ್ನಾ ಅನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ.\n\nರಚನೆಯನ್ನು ಬದಲಾಯಿಸಲಾಗಿದೆ ಆದ್ದರಿಂದ ಡೆವಲಪರ್ ಟಿಪ್ಪಣಿಯನ್ನು 72 ಭಾಷೆಗಳಲ್ಲಿ ಸಹ ವ್ಯಕ್ತಪಡಿಸಲಾಗುತ್ತದೆ."
+  },
+  "크로아티아어 –": {
+    "key": "hr",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug fiksirajući okomitu liniju vodoravno skrivenu na pozadinskoj slici.\n\n-Tittings -Modificirano za prikaz jezičnog koda s desne strane u jezičnim postavkama.\n\n-Kad je dodana modifikacija filtra/ serije, bug koji je dodan na vrh, a ne dno, modificiran je.\n\n-Korisnički priručnik (Wiki) preveden je na 72 jezika.\n\n-QNA je uklonjena.\n\n-Struktura je promijenjena tako da je napomena za programere također izražena na 72 jezika."
+  },
+  "크메르어": {
+    "key": "km",
+    "devnote": "7.1.7 (2023 05 06)\n\n- បញ្ចូលការជួសជុលបន្ទាត់បញ្ឈរលាក់នៅក្នុងរូបភាពផ្ទៃខាងក្រោយ។\n\n-Settings -Modified ដើម្បីបង្ហាញលេខកូដភាសានៅខាងស្តាំក្នុងការកំណត់ភាសា។\n\nនៅពេលដែលការប្តូរបាច់ / បាច់ត្រូវបានបន្ថែមកំហុសដែលត្រូវបានបន្ថែមទៅខាងលើមិនមែនបាតទេត្រូវបានកែប្រែ។\n\nសៀវភៅណែនាំអ្នកប្រើ (វីគី) ត្រូវបានបកប្រែជា 72 ភាសា។\n\n- QNE ត្រូវបានយកចេញ។\n\nរចនាសម្ព័នត្រូវបានផ្លាស់ប្តូរដូច្នេះកំណត់ត្រាអ្នកអភិវឌ្ឍន៍ក៏ត្រូវបានបង្ហាញជា 72 ភាសាផងដែរ។"
+  },
+  "키르기스어": {
+    "key": "ky",
+    "devnote": "7.1.7 (2023 05 06)\n\n- тик сызыкты фонддун горизонталдуу түрдө чагылдырат.\n\n- тилдин жөндөөлөрүндө тилдеги оң кодун көрсөтүүгө багытталган.\n\n- Чыпка / партияны модификациялоо кошулгандыктан, ылдый жакка кошулган мүчүлүштүккө кошулган мүчүлүштүктөр өзгөртүлдү.\n\n- Колдонуучунун колдонмосу (WIKI) 72 тилге которулган.\n\n- qna алынып салынды.\n\n- түзүм өзгөрүлдү, ошондуктан иштеп чыгуучу белгилер дагы 72 тилде да айтылат."
+  },
+  "타밀어": {
+    "key": "ta",
+    "devnote": "7.1.7 (2023 05 06)\n\nபின்னணி படத்தில் கிடைமட்டமாக மறைக்கப்பட்ட செங்குத்து கோட்டை சரிசெய்தல்.\n\n-செட்டிங்ஸ் -மொழி அமைப்புகளில் மொழிக் குறியீட்டைக் காண்பிக்க மாற்றியமைக்கப்பட்டது.\n\nவடிகட்டி/ தொகுதி மாற்றம் சேர்க்கப்பட்டபோது, ​​மேலே சேர்க்கப்பட்ட பிழை, கீழே அல்ல, மாற்றப்பட்டது.\n\nபயனர் கையேடு (விக்கி) 72 மொழிகளில் மொழிபெயர்க்கப்பட்டுள்ளது.\n\nகியூஎன்ஏ அகற்றப்பட்டது.\n\nடெவலப்பர் குறிப்பு 72 மொழிகளிலும் வெளிப்படுத்தப்படும் வகையில் கட்டமைப்பு மாற்றப்பட்டுள்ளது."
+  },
+  "태국어": {
+    "key": "th",
+    "devnote": "7.1.7 (2023 05 06)\n\n-bug แก้ไขเส้นแนวตั้งที่ซ่อนอยู่ในแนวนอนในภาพพื้นหลัง\n\n-Settings -Modified เพื่อแสดงรหัสภาษาทางด้านขวาในการตั้งค่าภาษา\n\n-เมื่อเพิ่มการปรับเปลี่ยนตัวกรอง/ แบทช์ข้อผิดพลาดที่เพิ่มเข้ามาในด้านบนไม่ใช่ด้านล่างถูกแก้ไข\n\n-คู่มือผู้ใช้ (Wiki) ได้รับการแปลเป็น 72 ภาษา\n\n-QNA ถูกลบออก\n\n-โครงสร้างมีการเปลี่ยนแปลงเพื่อให้นักพัฒนาโน้ตแสดงใน 72 ภาษา"
+  },
+  "터키어": {
+    "key": "tr",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug Dikey çizginin arka plan görüntüsünde yatay olarak gizlenmesi.\n\n-Settings -Dil ayarlarında sağdaki dil kodunu görüntülemek için yöntemli.\n\n-Filtre/ parti modifikasyonu eklendiğinde, alt değil, üste eklenen hata değiştirildi.\n\n-Kullanım Kılavuzu (wiki) 72 dile çevrilmiştir.\n\n-QNA kaldırıldı.\n\n-Yapı, geliştirici notunun da 72 dilde ifade edileceği şekilde değiştirilmiştir."
+  },
+  "텔루구어": {
+    "key": "te",
+    "devnote": "7.1.7 (2023 05 06)\n\n-బగ్ నేపథ్య చిత్రంలో అడ్డంగా దాచిన నిలువు రేఖను పరిష్కరించడం.\n\n-సెట్టింగ్స్ -భాషా సెట్టింగులలో కుడి వైపున భాషా కోడ్‌ను ప్రదర్శించడానికి మార్పు.\n\n-ఫిల్టర్/ బ్యాచ్ సవరణ జోడించబడినప్పుడు, పైభాగంలో చేర్చబడిన బగ్, దిగువ కాదు, సవరించబడింది.\n\n-యూజర్ మాన్యువల్ (వికీ) 72 భాషలలోకి అనువదించబడింది.\n\n-QNA తొలగించబడింది.\n\n-ఇది 72 భాషలలో డెవలపర్ నోట్ కూడా వ్యక్తీకరించడానికి నిర్మాణం మార్చబడింది."
+  },
+  "펀잡어": {
+    "key": "pa",
+    "devnote": "7.1.7 (2023 05 06)\n\n-ਬੈਕਗ੍ਰਾਉਂਡ ਚਿੱਤਰ ਵਿੱਚ ਲੰਬਕਾਰੀ ਰੇਖਾ ਨੂੰ ਖਿਤਿਜੀ ਤੌਰ ਤੇ ਫਿਕਸ ਕਰਨ ਲਈ.\n\n-ਇਸਿੰਗ ਭਾਸ਼ਾ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਸੱਜੇ ਪਾਸੇ ਭਾਸ਼ਾ ਕੋਡ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਲਈ ਆਯੋਜਿਤ.\n\n-ਜਦੋਂ ਫਿਲਟਰ / ਬੈਚ ਸੋਧ ਸ਼ਾਮਲ ਕੀਤੀ ਗਈ, ਉਹ ਬੱਗ ਜੋ ਕਿ ਨਾਲ ਜੋੜਿਆ ਗਿਆ ਜੋੜਿਆ ਗਿਆ ਬੱਗ ਜੋੜ ਦਿੱਤਾ ਗਿਆ, \"ਤਲ ਨੂੰ ਸੋਧਿਆ ਗਿਆ.\n\nIservice ਯੂਜ਼ਰ ਮੈਨੂਅਲ (ਵਿੱਕੀ) ਦਾ 72 ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਅਨੁਵਾਦ ਕੀਤਾ ਗਿਆ ਹੈ.\n\nQ ਜੇਨਾ ਨੂੰ ਹਟਾ ਦਿੱਤਾ ਗਿਆ ਹੈ.\n\nStructure ਾਂਚਾ ਬਦਲਿਆ ਗਿਆ ਹੈ ਤਾਂ ਕਿ ਵਿਕਾਸ ਪੱਤਰ ਨੂੰ 72 ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਵੀ ਪ੍ਰਗਟ ਕੀਤਾ ਗਿਆ ਹੈ."
+  },
+  "페르시아어": {
+    "key": "fa",
+    "devnote": "7.1.7 (2023 05 06)\n\n-رفع خط عمودی به صورت افقی در تصویر پس زمینه پنهان است.\n\n-Settings -Medified برای نمایش کد زبان در سمت راست در تنظیمات زبان.\n\n-هنگامی که اصلاح فیلتر/ دسته ای اضافه شد ، اشکالی که به قسمت بالا اضافه شد ، نه پایین ، اصلاح شد.\n\n-کتابچه راهنمای کاربر (ویکی) به 72 زبان ترجمه شده است.\n\nqNA برداشته شده است.\n\nساختار تغییر یافته است به طوری که یادداشت توسعه دهنده نیز به 72 زبان بیان شده است."
+  },
+  "포르투갈어(브라질)": {
+    "key": "pt",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug Fixando a linha vertical oculta horizontalmente na imagem em segundo plano.\n\n-Settings -Modificados para exibir o código da linguagem à direita nas configurações de idioma.\n\n-Quando a modificação do filtro/ lote foi adicionada, o bug adicionado à parte superior, e não na parte inferior, foi modificado.\n\n-O manual do usuário (wiki) foi traduzido em 72 idiomas.\n\n-O QNA foi removido.\n\n-A estrutura foi alterada para que a nota do desenvolvedor também seja expressa em 72 idiomas."
+  },
+  "폴란드어": {
+    "key": "pl",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug mocowanie linii pionowej w poziomie ukrytym na obrazie tła.\n\n-Settings -Modified, aby wyświetlić kod języka po prawej stronie w ustawieniach języka.\n\n-Po dodaniu modyfikacji filtra/ partii błąd dodany do góry, a nie dolnej, został zmodyfikowany.\n\n-Instrukcja obsługi (Wiki) została przetłumaczona na 72 języki.\n\n-QNA została usunięta.\n\n-Struktura została zmieniona, aby nota programisty została również wyrażona w 72 językach."
+  },
+  "프랑스어": {
+    "key": "fr",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug fixant la ligne verticale cachée horizontalement dans l'image d'arrière-plan.\n\n-Settings-modifié pour afficher le code de la langue à droite dans les paramètres de la langue.\n\n-Lorsque la modification du filtre / lot a été ajoutée, le bug qui a été ajouté en haut, et non le bas, a été modifié.\n\n-Le manuel d'utilisation (Wiki) a été traduit en 72 langues.\n\n-Le QNA a été supprimé.\n\n-La structure a été modifiée de sorte que la note du développeur est également exprimée en 72 langues."
+  },
+  "핀란드어": {
+    "key": "fi",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug pystysuuntaisen viivan kiinnittäminen vaakasuoraan piilotettu taustakuvaan.\n\n-Settings -Modifioitu kielikielikoodin näyttämiseksi kielen asetuksissa.\n\n-Kun suodattimen/ erän modifikaatio lisättiin, ylhäälle lisätty virhe, ei alaosaan, muokattiin.\n\n-Käyttöohje (wiki) on käännetty 72 kielelle.\n\n-QNA on poistettu.\n\n-Rakenne on muutettu siten, että kehittäjän huomautus ilmaistaan ​​myös 72 kielellä."
+  },
+  "필리핀어": {
+    "key": "fil",
+    "devnote": "7.1.7 (2023 05 06)\n\n-Bug pag -aayos ng vertical line nang pahalang na nakatago sa imahe ng background.\n\n-Settings -modified upang ipakita ang code ng wika sa kanan sa mga setting ng wika.\n\n-Kapag ang pagbabago ng filter/ batch ay idinagdag, ang bug na idinagdag sa tuktok, hindi sa ilalim, ay nabago.\n\n-Ang Manwal ng Gumagamit (Wiki) ay isinalin sa 72 wika.\n\n-Ang QNA ay tinanggal.\n\n-Ang istraktura ay nabago upang ang tala ng developer ay ipinahayag din sa 72 wika."
+  },
+  "헝가리어": {
+    "key": "hu",
+    "devnote": "7.1.7 (2023 05 06)\n\n-A háttérképben vízszintesen rejtett függőleges vonal rögzítése.\n\n-Settings -A nyelvi kód megjelenítéséhez a nyelvi beállítások jobb oldalán történő megjelenítése.\n\n-Ha a szűrő/ tétel módosítását hozzáadtuk, a tetejére hozzáadott hibát, nem pedig az alját módosították.\n\n-A felhasználói kézikönyv (Wiki) 72 nyelvre fordult.\n\n-A QNA -t eltávolították.\n\n-A szerkezet megváltozott úgy, hogy a fejlesztői megjegyzés 72 nyelven is kifejezhető legyen."
+  },
+  "히브리어": {
+    "key": "iw",
+    "devnote": "7.1.7 (2023 05 06)\n\n-שקעים את הקו האנכי מוסתר אופקית בתמונת הרקע.\n\n-הגדרות -שינוי כדי להציג קוד שפה מימין בהגדרות השפה.\n\nכאשר נוספה שינוי המסנן/ אצווה, באג שנוסף לראש, ולא בתחתית, שונה.\n\n-הנהלת המשתמש (Wiki) תורגמה ל 72 שפות.\n\n-QNA הוסר.\n\nהמבנה השתנה כך שתו המפתח מתבטא גם ב 72 שפות."
+  },
+  "힌디어": {
+    "key": "hi",
+    "devnote": "7.1.7 (2023 05 06)\n\n-बग वर्टिकल लाइन को क्षैतिज रूप से पृष्ठभूमि की छवि में छिपा हुआ।\n\n-सेटिंग्स -लैंग्वेज सेटिंग्स में दाईं ओर भाषा कोड प्रदर्शित करने के लिए।\n\n-जब फ़िल्टर/ बैच संशोधन को जोड़ा गया था, बग जो शीर्ष पर जोड़ा गया था, नीचे नहीं, संशोधित किया गया था।\n\n-जिन उपयोगकर्ता मैनुअल (विकी) का 72 भाषाओं में अनुवाद किया गया है।\n\n-उनस क्यूएनए को हटा दिया गया है।\n\n-कम संरचना को बदल दिया गया है ताकि डेवलपर नोट भी 72 भाषाओं में व्यक्त किया जाए।"
+  }
+}
