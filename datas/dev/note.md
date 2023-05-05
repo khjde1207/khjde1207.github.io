@@ -1,3 +1,15 @@
+7.1.4 (2023 04 24)
+
+```
+- 히스토리 페이지 에서 폴더내 파일을 못찾는 버그 수정.
+
+- 특수문자가 있는 경우 간혹 문자계산 오류로 화면에 텍스트가 안나오던 버그 수정.
+
+- epub 변환로직 수정.
+```
+
+---
+
 7.1.3 (2023 04 21)
 
 ```
@@ -44,6 +56,18 @@
 
 ---
 
+7.1.4 (24 Apr 2023)
+
+```
+- Fixed a bug where files in a folder could not be found on the history page.
+
+- Fixed a bug where text was not displayed on the screen due to a character calculation error when there were special characters.
+
+- Modified epub conversion logic.
+```
+
+---
+
 7.1.3 (21 Apr 2023)
 
 ```
@@ -81,6 +105,18 @@
 
 ```
 - Added language selection option.
+```
+
+---
+
+7.1.4 (2023 04 24)
+
+```
+- 履歴ページでフォルダ内のファイルが見つからないバグを修正しました。
+
+- 特殊文字がある場合、時には文字計算エラーで画面にテキストが出なかったバグ修正。
+
+- epub変換ロジック修正。
 ```
 
 ---
