@@ -14,20 +14,6 @@
         "enable": false
     },
     {
-        "name": "Filter ....!!!",
-        "expr": true,
-        "filter": "\\.{1,}!{1,}",
-        "to": "",
-        "enable": true
-    },
-    {
-        "name": "Filter ----!!!!",
-        "expr": true,
-        "filter": "-{1,}!{1,}",
-        "to": "",
-        "enable": true
-    },
-    {
         "name": "filter ----",
         "expr": true,
         "filter": "-{2,}",
@@ -174,6 +160,20 @@
         "filter":"\\<(.+)\\>",
         "to":"$1",
         "enable":true
+    },
+    {
+        "name": "Filter ....!!!",
+        "expr": true,
+        "filter": "\\.{1,}!{1,}",
+        "to": "",
+        "enable": true
+    },
+    {
+        "name": "Filter ----!!!!",
+        "expr": true,
+        "filter": "\\-{1,}!{1,}",
+        "to": "",
+        "enable": true
     }
    
 ]
