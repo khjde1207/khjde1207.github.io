@@ -31,7 +31,7 @@ const RESOURCES = {
 "assets/NOTICES": "49237e28a898a84cc13d53726662784b",
 "sql-wasm.js": "ae7f97c3e8695a30c1ecb294affa311b",
 "manifest.json": "7f41d21389974baf32b35f4b6765c877",
-"main.dart.js": "492e0935c077068e2cdffa058b885633",
+"main.dart.js": "1b97905e7c7f91b27733546bdd808932",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
@@ -56,8 +56,8 @@ const RESOURCES = {
 "splash/img/light-1x.png": "da3192864900969498da7adb007bec4a",
 "splash/img/light-4x.png": "e726e6ac2fb3ca26e8b7bef12ae09248",
 "splash/style.css": "78eb41694f0471d01d193d193496f4c8",
-"index.html": "e3a476f41ba4c700e3dca912a8e94144",
-"/": "e3a476f41ba4c700e3dca912a8e94144",
+"index.html": "12aea4886f2f199e9dd44b4891b82b96",
+"/": "12aea4886f2f199e9dd44b4891b82b96",
 "adview.html": "f45f548e065f81a742e03074eecc1436",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5"
 };
