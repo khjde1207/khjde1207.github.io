@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.1.9 (2023 05 22)\n\n-When modifications, multiple lines of text have been modified.\n\n-The deleted database that is not used.\n\n-We has updated multiple functions such as camera, editing, and OCR.\n\n-Fixed the open source license.\n\n-The viewer has added a function to specify the new criteria.\n\n7.1.8 (2023 05 14)\n\n-Fixed the phenomenon where the setting screen opens slowly.\n\n-Fixed the location moving error modification.\n\n-When editing, the bug was modified that was not stored in a specific situation.\n\n-Fixed an error that occurred in a specific situation."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fixed a phenomenon in which my book file disappeared.\n\n7.1.9 (2023 05 22)\n\n-When modifications, multiple lines of text have been modified.\n\n-The deleted database that is not used.\n\n-We has updated multiple functions such as camera, editing, and OCR.\n\n-Fixed the open source license.\n\n-The viewer has added a function to specify the new criteria."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.1.9 (2023 05 22)\n\n- 일괄수정 시 여러줄의 텍스트의 경우 적용 안되던 버그를 수정 하였습니다.\n\n- 사용하지 않는 데이터베이스를 삭제 했습니다.\n\n- 카메라, 편집, OCR 등 여러 기능을 업데이트 하였습니다.\n\n- 오픈소스 라이선스 를 수정하였습니다.\n\n- 뷰어에서 개행기준을 지정 할 수 있도록 기능을 추가 하였습니다.\n\n7.1.8 (2023 05 14)\n\n- 설정 화면이 느리게 열리는 현상 수정 하였습니다.\n\n- 위치이동 오류 수정를 수정 하였습니다.\n\n- 편집시 특정 상황에서 저장 안되던 버그 수정하였습니다.\n\n- 히스토리 특정 상황에서 발생 하는 오류를 수정 하였습니다."
+    "devnote": "7.2.0 (2023 05 30)\n\n- 가끔 내서재 파일이 사라지는 현상을 수정 하였습니다.\n\n7.1.9 (2023 05 22)\n\n- 일괄수정 시 여러줄의 텍스트의 경우 적용 안되던 버그를 수정 하였습니다.\n\n- 사용하지 않는 데이터베이스를 삭제 했습니다.\n\n- 카메라, 편집, OCR 등 여러 기능을 업데이트 하였습니다.\n\n- 오픈소스 라이선스 를 수정하였습니다.\n\n- 뷰어에서 개행기준을 지정 할 수 있도록 기능을 추가 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Cando modificacións, modificáronse múltiples liñas de texto.\n\n-A base de datos eliminada que non se usa.\n\n-Cualificar múltiples funcións como cámara, edición e OCR.\n\n-Fixou a licenza de código aberto.\n\n-O espectador engadiu unha función para especificar os novos criterios.\n\n7.1.8 (2023 05 14)\n\n-Fixou o fenómeno onde se abre a pantalla de configuración lentamente.\n\n-Dixou a modificación do erro en movemento da localización.\n\n-Cando edición, modificouse o erro que non se almacenou nunha situación específica.\n\n-Fixou un erro que se produciu nunha situación específica."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fixou un fenómeno no que desapareceu o meu ficheiro de libro.\n\n7.1.9 (2023 05 22)\n\n-Cando modificacións, modificáronse múltiples liñas de texto.\n\n-A base de datos eliminada que non se usa.\n\n-Cualificar múltiples funcións como cámara, edición e OCR.\n\n-Fixou a licenza de código aberto.\n\n-O espectador engadiu unha función para especificar os novos criterios."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.1.9 (2023 05 22)\n\n-આમાં ફેરફાર, ટેક્સ્ટની બહુવિધ લાઇનોમાં ફેરફાર કરવામાં આવ્યા છે.\n\n-કા deleted ી નાખેલ ડેટાબેઝ જેનો ઉપયોગ થતો નથી.\n\n-અમે કેમેરા, સંપાદન અને ઓસીઆર જેવા બહુવિધ કાર્યોને અપડેટ કર્યા છે.\n\nખુલ્લા સ્રોત લાઇસન્સને ફિક્સ કર્યું.\n\n-અને નવા માપદંડને સ્પષ્ટ કરવા માટે એક કાર્ય ઉમેર્યું છે.\n\n7.1.8 (2023 05 14)\n\n-ઘટનાને ફિક્સ કરી જ્યાં સેટિંગ સ્ક્રીન ધીરે ધીરે ખુલે છે.\n\n-સ્થાન ખસેડવાની ભૂલ ફેરફારને ફિક્સ કરી.\n\n-આ સંપાદન કરતી વખતે, બગમાં ફેરફાર કરવામાં આવ્યો હતો જે કોઈ ચોક્કસ પરિસ્થિતિમાં સંગ્રહિત ન હતો.\n\nકોઈ ચોક્કસ પરિસ્થિતિમાં બનેલી ભૂલને ફિક્સ કરી."
+    "devnote": "7.2.0 (2023 05 30)\n\nએક ઘટના ફિક્સ કરી જેમાં મારી બુક ફાઇલ અદૃશ્ય થઈ ગઈ.\n\n7.1.9 (2023 05 22)\n\n-આમાં ફેરફાર, ટેક્સ્ટની બહુવિધ લાઇનોમાં ફેરફાર કરવામાં આવ્યા છે.\n\n-કા deleted ી નાખેલ ડેટાબેઝ જેનો ઉપયોગ થતો નથી.\n\n-અમે કેમેરા, સંપાદન અને ઓસીઆર જેવા બહુવિધ કાર્યોને અપડેટ કર્યા છે.\n\nખુલ્લા સ્રોત લાઇસન્સને ફિક્સ કર્યું.\n\n-અને નવા માપદંડને સ્પષ્ટ કરવા માટે એક કાર્ય ઉમેર્યું છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Πώς τροποποιήθηκε οι τροποποιήσεις, έχουν τροποποιηθεί πολλαπλές γραμμές κειμένου.\n\n-Η διαγραμμένη βάση δεδομένων που δεν χρησιμοποιείται.\n\n-Δενήθηκαν πολλαπλές λειτουργίες όπως η κάμερα, η επεξεργασία και το OCR.\n\n-Επίξτε την άδεια ανοικτού κώδικα.\n\n-Το θεατή έχει προσθέσει μια λειτουργία για να καθορίσει τα νέα κριτήρια.\n\n7.1.8 (2023 05 14)\n\n-Επάρη το φαινόμενο όπου η οθόνη ρύθμισης ανοίγει αργά.\n\n-Επάρη της τροποποίησης σφαλμάτων κινούμενης θέσης.\n\n-Πώς επεξεργάζεται, το σφάλμα τροποποιήθηκε που δεν αποθηκεύτηκε σε μια συγκεκριμένη κατάσταση.\n\n-Επάρθηκε ένα σφάλμα που προέκυψε σε μια συγκεκριμένη κατάσταση."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Το επενδύσει ένα φαινόμενο στο οποίο εξαφανίστηκε το αρχείο βιβλίου μου.\n\n7.1.9 (2023 05 22)\n\n-Πώς τροποποιήθηκε οι τροποποιήσεις, έχουν τροποποιηθεί πολλαπλές γραμμές κειμένου.\n\n-Η διαγραμμένη βάση δεδομένων που δεν χρησιμοποιείται.\n\n-Δενήθηκαν πολλαπλές λειτουργίες όπως η κάμερα, η επεξεργασία και το OCR.\n\n-Επίξτε την άδεια ανοικτού κώδικα.\n\n-Το θεατή έχει προσθέσει μια λειτουργία για να καθορίσει τα νέα κριτήρια."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Wanneer wijzigingen zijn, zijn meerdere tekstlijnen gewijzigd.\n\n-De verwijderde database die niet wordt gebruikt.\n\n-We heeft meerdere functies bijgewerkt, zoals camera, bewerking en OCR.\n\n-Fixed de open source licentie.\n\n-De kijker heeft een functie toegevoegd om de nieuwe criteria op te geven.\n\n7.1.8 (2023 05 14)\n\n-Fixed het fenomeen waarbij het instellingsscherm langzaam opent.\n\n-Fixed de locatie bewegende foutaanpassing.\n\n-Als bewerking werd de bug aangepast die niet in een specifieke situatie werd opgeslagen.\n\n-Fixed een fout die plaatsvond in een specifieke situatie."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fixed een fenomeen waarin mijn boekbestand verdween.\n\n7.1.9 (2023 05 22)\n\n-Wanneer wijzigingen zijn, zijn meerdere tekstlijnen gewijzigd.\n\n-De verwijderde database die niet wordt gebruikt.\n\n-We heeft meerdere functies bijgewerkt, zoals camera, bewerking en OCR.\n\n-Fixed de open source licentie.\n\n-De kijker heeft een functie toegevoegd om de nieuwe criteria op te geven."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": ".1.1.9 (2023 0 22 22 22)\n\n-जब निर्देशनहरू, पाठका बहु लाइनहरू परिमार्जन गरिएको छ।\n\n- मेटाइएको डाटाबेस जुन प्रयोग गरिएको छैन।\n\n- हामी बहुवता अपडेट गर्दछ जस्तै क्यामेरा, सम्पादन, र Ocr।\n\nखुला स्रोत इजाजतपत्र।\n\n- दर्शकले नयाँ मापदण्ड निर्दिष्ट गर्न एक कार्य थपेको छ।\n\n.1.1.8 (2023 051)\n\n-फिक्स पोन्टोमेनन जहाँ सेटिंग स्क्रीनले बिस्तारै खोल्दछ।\n\n-Fixed स्थान चलिरहेको त्रुटि परिमार्जन।\n\n- सम्पादन गर्दै, बग परिमार्जन गरिएको थियो कि एक विशेष स्थितिमा भण्डारण गरिएको थिएन।\n\n- एक त्रुटि देखा पर्यो जुन एक विशेष स्थितिमा देखा पर्यो।"
+    "devnote": ".2.2.0 (2023 050)\n\n-फिक्स एक घटना मा एक घटना मा मेरो पुस्तक फाईल हरायो।\n\n.1.1.9 (2023 0 22 22 22)\n\n-जब निर्देशनहरू, पाठका बहु लाइनहरू परिमार्जन गरिएको छ।\n\n- मेटाइएको डाटाबेस जुन प्रयोग गरिएको छैन।\n\n- हामी बहुवता अपडेट गर्दछ जस्तै क्यामेरा, सम्पादन, र Ocr।\n\nखुला स्रोत इजाजतपत्र।\n\n- दर्शकले नयाँ मापदण्ड निर्दिष्ट गर्न एक कार्य थपेको छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Når modifikasjoner, er flere tekstlinjer blitt endret.\n\n-Tid den slettede databasen som ikke brukes.\n\n-Vi har oppdatert flere funksjoner som kamera, redigering og OCR.\n\n-Fikset open source -lisensen.\n\n-Viseren har lagt til en funksjon for å spesifisere de nye kriteriene.\n\n7.1.8 (2023 05 14)\n\n-Fikset fenomenet der innstillingsskjermen åpnes sakte.\n\n-Fikserte plassering av flytting av feil.\n\n-Når redigering ble feilen endret som ikke ble lagret i en spesifikk situasjon.\n\n-Fikserte en feil som oppstod i en spesifikk situasjon."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fikset et fenomen der bokfilen min forsvant.\n\n7.1.9 (2023 05 22)\n\n-Når modifikasjoner, er flere tekstlinjer blitt endret.\n\n-Tid den slettede databasen som ikke brukes.\n\n-Vi har oppdatert flere funksjoner som kamera, redigering og OCR.\n\n-Fikset open source -lisensen.\n\n-Viseren har lagt til en funksjon for å spesifisere de nye kriteriene."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Når ændringer er flere tekstlinjer blevet ændret.\n\n-Den slettede database, der ikke bruges.\n\n-Vi har opdateret flere funktioner såsom kamera, redigering og OCR.\n\n-Fikset open source -licensen.\n\n-Visningen har tilføjet en funktion til at specificere de nye kriterier.\n\n7.1.8 (2023 05 14)\n\n-Fast fænomenet, hvor indstillingsskærmen åbnes langsomt.\n\n-Fikset placeringens bevægelsesfejlmodifikation.\n\n-Når redigering, blev fejlen ændret, der ikke blev gemt i en bestemt situation.\n\n-Fast en fejl, der opstod i en bestemt situation."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fikset et fænomen, hvor min bogfil forsvandt.\n\n7.1.9 (2023 05 22)\n\n-Når ændringer er flere tekstlinjer blevet ændret.\n\n-Den slettede database, der ikke bruges.\n\n-Vi har opdateret flere funktioner såsom kamera, redigering og OCR.\n\n-Fikset open source -licensen.\n\n-Visningen har tilføjet en funktion til at specificere de nye kriterier."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Wenn Modifikationen wurden mehrere Textzeilen geändert.\n\n-Die gelöschte Datenbank, die nicht verwendet wird.\n\n-Wir hat mehrere Funktionen wie Kamera, Bearbeitung und OCR aktualisiert.\n\n-Fixte die Open Source -Lizenz.\n\n-Der Betrachter hat eine Funktion hinzugefügt, um die neuen Kriterien anzugeben.\n\n7.1.8 (2023 05 14)\n\n-Fixte das Phänomen, bei dem sich der Einstellungsbildschirm langsam öffnet.\n\n-Fixte die Änderung des Standortbewegungsfehlers.\n\n-Wenn der Fehler geändert wurde, wurde nicht in einer bestimmten Situation gespeichert.\n\n-Fixte einen Fehler, der in einer bestimmten Situation auftrat."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fixte ein Phänomen, bei dem meine Buchdatei verschwunden ist.\n\n7.1.9 (2023 05 22)\n\n-Wenn Modifikationen wurden mehrere Textzeilen geändert.\n\n-Die gelöschte Datenbank, die nicht verwendet wird.\n\n-Wir hat mehrere Funktionen wie Kamera, Bearbeitung und OCR aktualisiert.\n\n-Fixte die Open Source -Lizenz.\n\n-Der Betrachter hat eine Funktion hinzugefügt, um die neuen Kriterien anzugeben."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.1.9 (2023 05 22 22)\n\n- ເມື່ອມີການດັດແປງ, ຫລາຍສາຍຂອງຂໍ້ຄວາມໄດ້ຖືກດັດແກ້.\n\n- ຖານຂໍ້ມູນທີ່ຖືກລຶບແລ້ວທີ່ບໍ່ໄດ້ຖືກນໍາໃຊ້.\n\nພວກເຮົາໄດ້ປັບປຸງທຸກໆຫນ້າທີ່ເຊັ່ນ: ກ້ອງຖ່າຍຮູບ, ການດັດແກ້, ແລະ OCR.\n\n-Fixed ໃບອະນຸຍາດແຫຼ່ງເປີດ.\n\n-the viewer ໄດ້ເພີ່ມຫນ້າທີ່ເພື່ອກໍານົດມາດຖານໃຫມ່.\n\n7.1.8 (2023 05 145)\n\n-Fixed ປະກົດການທີ່ຫນ້າຈໍການຕັ້ງຄ່າເປີດຊ້າໆ.\n\n-Fixed ສະຖານທີ່ການເຄື່ອນຍ້າຍຂໍ້ຜິດພາດໃນການດັດແກ້ຂໍ້ຜິດພາດ.\n\nເມື່ອການດັດແກ້, ການດັດແກ້ຂໍ້ບົກພ່ອງໄດ້ຖືກດັດແກ້ທີ່ບໍ່ໄດ້ເກັບໄວ້ໃນສະຖານະການສະເພາະ.\n\n-Fixed ຂໍ້ຜິດພາດທີ່ເກີດຂື້ນໃນສະຖານະການສະເພາະ."
+    "devnote": "7.2.0 (2023 05 05 30)\n\n-Fixed ປະກົດການທີ່ເອກະສານປື້ມຂອງຂ້ອຍຫາຍໄປ.\n\n7.1.9 (2023 05 22 22)\n\n- ເມື່ອມີການດັດແປງ, ຫລາຍສາຍຂອງຂໍ້ຄວາມໄດ້ຖືກດັດແກ້.\n\n- ຖານຂໍ້ມູນທີ່ຖືກລຶບແລ້ວທີ່ບໍ່ໄດ້ຖືກນໍາໃຊ້.\n\nພວກເຮົາໄດ້ປັບປຸງທຸກໆຫນ້າທີ່ເຊັ່ນ: ກ້ອງຖ່າຍຮູບ, ການດັດແກ້, ແລະ OCR.\n\n-Fixed ໃບອະນຸຍາດແຫຼ່ງເປີດ.\n\n-the viewer ໄດ້ເພີ່ມຫນ້າທີ່ເພື່ອກໍານົດມາດຖານໃຫມ່."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Kad modifikācijas ir modificētas vairākas teksta līnijas.\n\n-Dzēstā datu bāze, kas netiek izmantota.\n\n-Mēs esam atjauninājuši vairākas funkcijas, piemēram, kameru, rediģēšanu un OCR.\n\n-Pievēroja atvērtā koda licenci.\n\n-Vām skatītājs ir pievienojis funkciju, lai norādītu jauno kritēriju.\n\n7.1.8 (2023 05 14)\n\n-Piefiksēja parādību, kur iestatīšanas ekrāns lēnām tiek atvērts.\n\n-Piefiksēja atrašanās vietas kustības kļūdas modifikāciju.\n\n-Kad rediģējot, kļūda tika modificēta, kas netika glabāta noteiktā situācijā.\n\n-Pievēroja kļūdu, kas radusies noteiktā situācijā."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fiksēja parādību, kurā pazuda mans grāmatas fails.\n\n7.1.9 (2023 05 22)\n\n-Kad modifikācijas ir modificētas vairākas teksta līnijas.\n\n-Dzēstā datu bāze, kas netiek izmantota.\n\n-Mēs esam atjauninājuši vairākas funkcijas, piemēram, kameru, rediģēšanu un OCR.\n\n-Pievēroja atvērtā koda licenci.\n\n-Vām skatītājs ir pievienojis funkciju, lai norādītu jauno kritēriju."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Когда модификации были изменены несколько строк текста.\n\n-Удаленная база данных, которая не используется.\n\n-Му обновили несколько функций, таких как камера, редактирование и OCR.\n\n-Посновал лицензию с открытым исходным кодом.\n\n-О. Просмотрщик добавил функцию для указания новых критериев.\n\n7.1.8 (2023 05 14)\n\n-Посмешивал феномен, где настройка экрана открывается медленно.\n\n-Посмешал изменение ошибки перемещения местоположения.\n\n-Когда редактирование была изменена ошибка, которая не хранилась в определенной ситуации.\n\n-Посновал ошибку, которая произошла в определенной ситуации."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Посновал явление, в котором исчезла моя книга.\n\n7.1.9 (2023 05 22)\n\n-Когда модификации были изменены несколько строк текста.\n\n-Удаленная база данных, которая не используется.\n\n-Му обновили несколько функций, таких как камера, редактирование и OCR.\n\n-Посновал лицензию с открытым исходным кодом.\n\n-О. Просмотрщик добавил функцию для указания новых критериев."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Când modificări, au fost modificate mai multe linii de text.\n\n-Dada de date ștersă care nu este utilizată.\n\n-M am actualizat mai multe funcții, cum ar fi camera, editarea și OCR.\n\n-Fixat licența open source.\n\n-Persorul a adăugat o funcție pentru a specifica noile criterii.\n\n7.1.8 (2023 05 14)\n\n-Fixat fenomenul în care ecranul de setare se deschide lent.\n\n-Fixat modificarea erorii de mutare a locației.\n\n-Când editarea, eroarea a fost modificată care nu a fost păstrată într -o situație specifică.\n\n-Fixat o eroare care a apărut într -o situație specifică."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Pixat un fenomen în care a dispărut fișierul meu de carte.\n\n7.1.9 (2023 05 22)\n\n-Când modificări, au fost modificate mai multe linii de text.\n\n-Dada de date ștersă care nu este utilizată.\n\n-M am actualizat mai multe funcții, cum ar fi camera, editarea și OCR.\n\n-Fixat licența open source.\n\n-Persorul a adăugat o funcție pentru a specifica noile criterii."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Kai modifikacijos buvo modifikuotos kelios teksto eilutės.\n\n-Ištrinta duomenų bazė, kuri nenaudojama.\n\n-Mes atnaujinome kelias funkcijas, tokias kaip fotoaparatas, redagavimas ir OCR.\n\n-Fixed atvirojo kodo licencija.\n\n-Žiūrovas pridėjo funkciją, kad nurodytų naujus kriterijus.\n\n7.1.8 (2023 05 14)\n\n-Fixed fenomenas, kur nustatymo ekranas atsidaro lėtai.\n\n-Fixed vietos judėjimo klaidos modifikavimas.\n\n-Kai redagavimas buvo modifikuotas klaida, kuri nebuvo saugoma konkrečioje situacijoje.\n\n-Fixed klaida, įvykusioje konkrečioje situacijoje."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fixed fenomenas, kuriame dingo mano knygos failas.\n\n7.1.9 (2023 05 22)\n\n-Kai modifikacijos buvo modifikuotos kelios teksto eilutės.\n\n-Ištrinta duomenų bazė, kuri nenaudojama.\n\n-Mes atnaujinome kelias funkcijas, tokias kaip fotoaparatas, redagavimas ir OCR.\n\n-Fixed atvirojo kodo licencija.\n\n-Žiūrovas pridėjo funkciją, kad nurodytų naujus kriterijus."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.1.9 (2023 05 22)\n\n-आपल्या बदलांमुळे, मजकूराच्या एकाधिक ओळी सुधारित केल्या आहेत.\n\n-हटविलेला डेटाबेस जो वापरला जात नाही.\n\n-आपल्या कॅमेरा, संपादन आणि ओसीआर सारख्या एकाधिक कार्ये अद्यतनित केल्या आहेत.\n\n-मुक्त स्त्रोत परवाना.\n\n-नवीन निकष निर्दिष्ट करण्यासाठी दर्शकाने एक फंक्शन जोडले आहे.\n\n7.1.8 (2023 05 14)\n\n-सेटिंग स्क्रीन हळू हळू उघडते अशी घटना घडविली.\n\n-स्थान हलविणारी त्रुटी सुधारित करा.\n\n-आपण संपादन केल्यावर, बग सुधारित केला गेला जो विशिष्ट परिस्थितीत साठविला गेला नाही.\n\n-फिक्सने विशिष्ट परिस्थितीत उद्भवणारी त्रुटी."
+    "devnote": "7.2.0 (2023 05 30)\n\n-फिक्सने एक इंद्रियगोचर ज्यामध्ये माझे पुस्तक फाईल अदृश्य झाली.\n\n7.1.9 (2023 05 22)\n\n-आपल्या बदलांमुळे, मजकूराच्या एकाधिक ओळी सुधारित केल्या आहेत.\n\n-हटविलेला डेटाबेस जो वापरला जात नाही.\n\n-आपल्या कॅमेरा, संपादन आणि ओसीआर सारख्या एकाधिक कार्ये अद्यतनित केल्या आहेत.\n\n-मुक्त स्त्रोत परवाना.\n\n-नवीन निकष निर्दिष्ट करण्यासाठी दर्शकाने एक फंक्शन जोडले आहे."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Кога модификации, повеќе линии на текст се изменети.\n\n-Ти избришаната база на податоци што не се користи.\n\n-На ажуриравме повеќе функции како што се камера, уредување и OCR.\n\n-Се ја утврди лиценцата со отворен извор.\n\n-Покажувачот додаде функција за да ги наведе новите критериуми.\n\n7.1.8 (2023 05 14)\n\n-Секуваше феноменот каде што екранот за поставување полека се отвора.\n\n-Сетираше модификација на грешка во локацијата.\n\n-Кога уредување, грешката беше изменета што не беше зачувана во одредена ситуација.\n\n-Сексна грешка што се случи во одредена ситуација."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Секуваше феномен во кој исчезна мојата датотека за книги.\n\n7.1.9 (2023 05 22)\n\n-Кога модификации, повеќе линии на текст се изменети.\n\n-Ти избришаната база на податоци што не се користи.\n\n-На ажуриравме повеќе функции како што се камера, уредување и OCR.\n\n-Се ја утврди лиценцата со отворен извор.\n\n-Покажувачот додаде функција за да ги наведе новите критериуми."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.1.9 (2023 05 22)\n\nപരിഷ്ക്കരണങ്ങൾ, ഒന്നിലധികം വരികൾ പരിഷ്ക്കരിച്ചു.\n\nഉപയോഗിക്കാത്ത ഇല്ലാതാക്കിയ ഡാറ്റാബേസ്.\n\n-ഇ ക്യാമറ, എഡിറ്റിംഗ്, ഒസിആർ തുടങ്ങിയ ഒന്നിലധികം പ്രവർത്തനങ്ങൾ ഞങ്ങൾ അപ്ഡേറ്റുചെയ്തു.\n\nഓപ്പൺ സോഴ്സ് ലൈസൻസ് ഫയൽ ചെയ്തു.\n\nപുതിയ മാനദണ്ഡങ്ങൾ വ്യക്തമാക്കാൻ വ്യൂവർ ഒരു ഫംഗ്ഷൻ ചേർത്തു.\n\n7.1.8 (2023 05 14)\n\nസജ്ജീകരിക്കുന്ന സ്ക്രീൻ പതുക്കെ തുറക്കുന്ന പ്രതിഭാസങ്ങൾ ഫയൽ ചെയ്തു.\n\nലൊക്കേഷൻ നീക്കുന്ന പിശക് പരിഷ്ക്കരണം.\n\nഎഡിറ്റിംഗ് ചെയ്തപ്പോൾ, ഒരു പ്രത്യേക സാഹചര്യത്തിൽ സംഭരിക്കാത്ത ബഗ് പരിഷ്ക്കരിച്ചു.\n\nഒരു പ്രത്യേക സാഹചര്യത്തിൽ സംഭവിച്ച ഒരു പിശക് ഫയൽ ചെയ്തു."
+    "devnote": "7.2.0 (2023 05 30)\n\nഎന്റെ പുസ്തക ഫയൽ അപ്രത്യക്ഷമായ ഒരു പ്രതിഭാസത്തെ പരിഹസിച്ചു.\n\n7.1.9 (2023 05 22)\n\nപരിഷ്ക്കരണങ്ങൾ, ഒന്നിലധികം വരികൾ പരിഷ്ക്കരിച്ചു.\n\nഉപയോഗിക്കാത്ത ഇല്ലാതാക്കിയ ഡാറ്റാബേസ്.\n\n-ഇ ക്യാമറ, എഡിറ്റിംഗ്, ഒസിആർ തുടങ്ങിയ ഒന്നിലധികം പ്രവർത്തനങ്ങൾ ഞങ്ങൾ അപ്ഡേറ്റുചെയ്തു.\n\nഓപ്പൺ സോഴ്സ് ലൈസൻസ് ഫയൽ ചെയ്തു.\n\nപുതിയ മാനദണ്ഡങ്ങൾ വ്യക്തമാക്കാൻ വ്യൂവർ ഒരു ഫംഗ്ഷൻ ചേർത്തു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.1.9 (2023 05 22)\n\n-When pengubahsuaian, pelbagai baris teks telah diubahsuai.\n\n-Pangkalan data yang dipadam yang tidak digunakan.\n\n-Kami telah mengemas kini pelbagai fungsi seperti kamera, penyuntingan, dan OCR.\n\n-Mixed lesen sumber terbuka.\n\n-The Viewer telah menambah fungsi untuk menentukan kriteria baru.\n\n7.1.8 (2023 05 14)\n\n-Mixed fenomena di mana skrin tetapan dibuka perlahan -lahan.\n\n-Mixed lokasi bergerak ralat pengubahsuaian.\n\n-Apabila penyuntingan, pepijat diubahsuai yang tidak disimpan dalam situasi tertentu.\n\n-Bentuk kesilapan yang berlaku dalam situasi tertentu."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Mixed fenomena di mana fail buku saya hilang.\n\n7.1.9 (2023 05 22)\n\n-When pengubahsuaian, pelbagai baris teks telah diubahsuai.\n\n-Pangkalan data yang dipadam yang tidak digunakan.\n\n-Kami telah mengemas kini pelbagai fungsi seperti kamera, penyuntingan, dan OCR.\n\n-Mixed lesen sumber terbuka.\n\n-The Viewer telah menambah fungsi untuk menentukan kriteria baru."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Ажилтай, олон тооны текстийг өөрчилсөн.\n\n-Энэ ашиглагдаагүй мэдээллийн санг устгасан.\n\n-Бид нь камер, засварлах, ocr гэх мэт олон функцийг шинэчилсэн.\n\n-Бүргийн эх сурвалжийн лицензийг гаргаж ирэв.\n\n-Энэ Viewer нь шинэ шалгуурыг тодорхойлох функцийг нэмэв.\n\n7.1.8 (2023 05 14 14)\n\n-Бүх үзэгдлийн дэлгэц нь аажмаар нээгдэхгүй үзэгдлийг үзэв.\n\n-Ажил хөдлөхөд шилжих алдааны өөрчлөлтийг оруулна уу.\n\n-Амьдрал засах үед алдааг тодорхой нөхцөл байдалд хадгалаагүй болсон.\n\nТухайн нөхцөл байдалд гарсан алдааг ашигласан."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Миний номын файл алга болсон гэж үзсэн үзэгдлээ.\n\n7.1.9 (2023 05 22)\n\n-Ажилтай, олон тооны текстийг өөрчилсөн.\n\n-Энэ ашиглагдаагүй мэдээллийн санг устгасан.\n\n-Бид нь камер, засварлах, ocr гэх мэт олон функцийг шинэчилсэн.\n\n-Бүргийн эх сурвалжийн лицензийг гаргаж ирэв.\n\n-Энэ Viewer нь шинэ шалгуурыг тодорхойлох функцийг нэмэв."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Beste aldaketak, testu-lerro anitz aldatu dira.\n\n-Ez erabiltzen ez den datu-basea ezabatua.\n\n-Ez da funtzio anitz eguneratu ditu kamera, edizioa eta OCR.\n\n-Ez iturburu irekiko lizentzia.\n\n-Litarteak funtzio bat gehitu du irizpide berriak zehazteko.\n\n7.1.8 (2023 05 14)\n\n- Ezarpen pantaila poliki irekitzen den fenomenoa.\n\n-Produkzioa mugitzen den akatsak aldatzea.\n\n-Nire edizioan, akatsa egoera jakin batean gorde ez zena aldatu zen.\n\n- egoera jakin batean gertatu den akats bat egin zuen."
+    "devnote": "7.2.0 (2023 05 30)\n\n- Nire liburu fitxategia desagertu zen fenomeno bat.\n\n7.1.9 (2023 05 22)\n\n-Beste aldaketak, testu-lerro anitz aldatu dira.\n\n-Ez erabiltzen ez den datu-basea ezabatua.\n\n-Ez da funtzio anitz eguneratu ditu kamera, edizioa eta OCR.\n\n-Ez iturburu irekiko lizentzia.\n\n-Litarteak funtzio bat gehitu du irizpide berriak zehazteko."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.1.9 (2023 05 22)\n\n- ပြုပြင်မွမ်းမံမှုများ, စာသားအမျိုးမျိုးကိုပြုပြင်မွမ်းမံခဲ့သည်။\n\n- မသုံးသောဖျက်ထားသောဒေတာဘေ့စ်။\n\n- ကျွန်ုပ်တို့သည်ကင်မရာ, တည်းဖြတ်ခြင်းနှင့် OCR တို့ကဲ့သို့သောလုပ်ဆောင်မှုများစွာကိုအသစ်ပြောင်းသည်။\n\nပွင့်လင်းသောအရင်းအမြစ်လိုင်စင် - ။\n\n- ကြည့်ရှုသူသည်စံသတ်မှတ်ချက်အသစ်များကိုသတ်မှတ်ရန်လုပ်ဆောင်ချက်တစ်ခုထည့်သွင်းထားသည်။\n\n7.1.8 (2023 05 05 14)\n\n- setting ကိုမျက်နှာပြင်ဖြည်းဖြည်းဖွင့်လှစ်ထားသည့်ဖြစ်ရပ်ဆန်းကိုဖယ်ရှားပါ။\n\n- တည်နေရာရွေ့လျားအမှားပြုပြင်ခြင်းကိုရွေ့လျား။\n\n- တည်းဖြတ်ခြင်း, အမှားအယွင်းကိုတိကျစွာအခြေအနေတွင်မသိမ်းဆည်းထားပါ။\n\n- သတ်သတ်မှတ်မှတ်အခြေအနေတစ်ခုတွင်ဖြစ်ပွားခဲ့သောအမှားတစ်ခု။"
+    "devnote": "72.0 (2023 05 30)\n\n- ကျွန်ုပ်၏စာအုပ်ဖိုင်ပျောက်ကွယ်သွားသည့်ဖြစ်ရပ်တစ်ခုကိုဖယ်ရှားခဲ့သည်။\n\n7.1.9 (2023 05 22)\n\n- ပြုပြင်မွမ်းမံမှုများ, စာသားအမျိုးမျိုးကိုပြုပြင်မွမ်းမံခဲ့သည်။\n\n- မသုံးသောဖျက်ထားသောဒေတာဘေ့စ်။\n\n- ကျွန်ုပ်တို့သည်ကင်မရာ, တည်းဖြတ်ခြင်းနှင့် OCR တို့ကဲ့သို့သောလုပ်ဆောင်မှုများစွာကိုအသစ်ပြောင်းသည်။\n\nပွင့်လင်းသောအရင်းအမြစ်လိုင်စင် - ။\n\n- ကြည့်ရှုသူသည်စံသတ်မှတ်ချက်အသစ်များကိုသတ်မှတ်ရန်လုပ်ဆောင်ချက်တစ်ခုထည့်သွင်းထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Khi sửa đổi, nhiều dòng văn bản đã được sửa đổi.\n\n-Cơ sở dữ liệu đã bị xóa không được sử dụng.\n\n-Chúng tôi đã cập nhật nhiều chức năng như camera, chỉnh sửa và OCR.\n\n-Fixed giấy phép nguồn mở.\n\n-Trình xem đã thêm một chức năng để chỉ định các tiêu chí mới.\n\n7.1.8 (2023 05 14)\n\n-Fixed hiện tượng trong đó màn hình cài đặt mở từ từ.\n\n-Fix đã sửa đổi lỗi di chuyển vị trí.\n\n-Khi chỉnh sửa, lỗi đã được sửa đổi không được lưu trữ trong một tình huống cụ thể.\n\n-Fix đã xảy ra một lỗi xảy ra trong một tình huống cụ thể."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fixed một hiện tượng trong đó tập tin cuốn sách của tôi biến mất.\n\n7.1.9 (2023 05 22)\n\n-Khi sửa đổi, nhiều dòng văn bản đã được sửa đổi.\n\n-Cơ sở dữ liệu đã bị xóa không được sử dụng.\n\n-Chúng tôi đã cập nhật nhiều chức năng như camera, chỉnh sửa và OCR.\n\n-Fixed giấy phép nguồn mở.\n\n-Trình xem đã thêm một chức năng để chỉ định các tiêu chí mới."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Калі мадыфікацыі, некалькі радкоў тэксту былі зменены.\n\n-Выдаленая база дадзеных, якая не выкарыстоўваецца.\n\n-Мы абнавілі некалькі функцый, такіх як камера, рэдагаванне і OCR.\n\n-Фікс ліцэнзія з адкрытым зыходным кодам.\n\n-Глядач дадаў функцыю для вызначэння новых крытэрыяў.\n\n7.1.8 (2023 05 14)\n\n-Пісеў з'ява, дзе экран налады адкрываецца павольна.\n\n-Песс змяненне размяшчэння памылак.\n\n-Калі рэдагаванне, памылка была зменена, якая не захоўвалася ў пэўнай сітуацыі.\n\n-Пігнуў памылку, якая адбылася ў пэўнай сітуацыі."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Калегуе з'ява, у якой зніклі мой кніжны файл.\n\n7.1.9 (2023 05 22)\n\n-Калі мадыфікацыі, некалькі радкоў тэксту былі зменены.\n\n-Выдаленая база дадзеных, якая не выкарыстоўваецца.\n\n-Мы абнавілі некалькі функцый, такіх як камера, рэдагаванне і OCR.\n\n-Фікс ліцэнзія з адкрытым зыходным кодам.\n\n-Глядач дадаў функцыю для вызначэння новых крытэрыяў."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.1.9 (2023 05 22)\n\n-যখন পরিবর্তনগুলি, পাঠ্যের একাধিক লাইন সংশোধন করা হয়েছে।\n\n-মুছে ফেলা ডাটাবেস যা ব্যবহৃত হয় না।\n\n-আমরা একাধিক ফাংশন যেমন ক্যামেরা, সম্পাদনা এবং ওসিআর আপডেট করেছি।\n\n-ওপেন সোর্স লাইসেন্স ফিক্স করা।\n\n-নতুন মানদণ্ড নির্দিষ্ট করতে দর্শক একটি ফাংশন যুক্ত করেছে।\n\n7.1.8 (2023 05 14)\n\n-সেটিং স্ক্রিনটি আস্তে আস্তে খোলে যেখানে ঘটনাটি ফিক্স করা হয়েছে।\n\n-অবস্থান চলমান ত্রুটি পরিবর্তনটি ফিক্স করা।\n\n-সম্পাদনা করার সময়, বাগটি সংশোধন করা হয়েছিল যা নির্দিষ্ট পরিস্থিতিতে সংরক্ষণ করা হয়নি।\n\n-একটি নির্দিষ্ট পরিস্থিতিতে ঘটেছিল এমন একটি ত্রুটি ফিক্স করা হয়েছে।"
+    "devnote": "7.2.0 (2023 05 30)\n\n-আমার বইয়ের ফাইলটি অদৃশ্য হয়ে গেছে এমন একটি ঘটনাটি ফিক্সড করেছে।\n\n7.1.9 (2023 05 22)\n\n-যখন পরিবর্তনগুলি, পাঠ্যের একাধিক লাইন সংশোধন করা হয়েছে।\n\n-মুছে ফেলা ডাটাবেস যা ব্যবহৃত হয় না।\n\n-আমরা একাধিক ফাংশন যেমন ক্যামেরা, সম্পাদনা এবং ওসিআর আপডেট করেছি।\n\n-ওপেন সোর্স লাইসেন্স ফিক্স করা।\n\n-নতুন মানদণ্ড নির্দিষ্ট করতে দর্শক একটি ফাংশন যুক্ত করেছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Когато модификации са модифицирани множество реда на текст.\n\n-Тягната база данни, която не се използва.\n\n-Повидехме множество функции като камера, редактиране и OCR.\n\n-Фиксира лиценза с отворен код.\n\n-Не зрителят е добавил функция, за да определи новите критерии.\n\n7.1.8 (2023 05 14)\n\n-Фексира феномена, при който екрана за настройка се отваря бавно.\n\n-Фексира измененията за преместване на местоположението Промяна на грешката.\n\n-Когато редактиране, грешката беше модифицирана, която не се съхранява в конкретна ситуация.\n\n-Фезирана грешка, възникнала в конкретна ситуация."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Фиксира феномен, в който книжният ми файл изчезна.\n\n7.1.9 (2023 05 22)\n\n-Когато модификации са модифицирани множество реда на текст.\n\n-Тягната база данни, която не се използва.\n\n-Повидехме множество функции като камера, редактиране и OCR.\n\n-Фиксира лиценза с отворен код.\n\n-Не зрителят е добавил функция, за да определи новите критерии."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Када модификације су модификоване више линија текста.\n\n- Избрисана база података која се не користи.\n\n-Све је ажурирала више функција као што су камера, уређивање и ОЦР.\n\n-Прећи је лиценцу отвореног кода.\n\n-Невер је додао функцију да одреди нове критеријуме.\n\n7.1.8 (2023 05 14)\n\n-Прегледала је феномен где се екран за подешавање отвара полако.\n\n-Прећи је да се локација покретне модификације грешке.\n\n-Када уређивање, грешка је модификована која није смештена у одређеној ситуацији.\n\n-Прегледала је грешка која се догодила у одређеној ситуацији."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Престила је феномен у коме је моја књига књига нестала.\n\n7.1.9 (2023 05 22)\n\n-Када модификације су модификоване више линија текста.\n\n- Избрисана база података која се не користи.\n\n-Све је ажурирала више функција као што су камера, уређивање и ОЦР.\n\n-Прећи је лиценцу отвореног кода.\n\n-Невер је додао функцију да одреди нове критеријуме."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Wakati marekebisho, mistari mingi ya maandishi imebadilishwa.\n\n-Tatabase iliyofutwa ambayo haitumiki.\n\n-Tumesasisha kazi nyingi kama kamera, uhariri, na OCR.\n\n-Kuongeza leseni ya chanzo wazi.\n\n-Mtazamaji ameongeza kazi ya kutaja vigezo vipya.\n\n7.1.8 (2023 05 14)\n\n-Kuongeza jambo ambalo skrini ya kuweka inafungua polepole.\n\n-Fixed eneo la kusonga makosa ya eneo.\n\n-Wakati uhariri, mdudu ulibadilishwa ambao haukuhifadhiwa katika hali fulani.\n\n-Kuongeza kosa ambalo lilitokea katika hali fulani."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fixed jambo ambalo faili yangu ya kitabu ilipotea.\n\n7.1.9 (2023 05 22)\n\n-Wakati marekebisho, mistari mingi ya maandishi imebadilishwa.\n\n-Tatabase iliyofutwa ambayo haitumiki.\n\n-Tumesasisha kazi nyingi kama kamera, uhariri, na OCR.\n\n-Kuongeza leseni ya chanzo wazi.\n\n-Mtazamaji ameongeza kazi ya kutaja vigezo vipya."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.1.9 (2023 05 22)\n\n-När modifieringar har flera textlinjer modifierats.\n\n-Deleted databas som inte används.\n\n-Vi har uppdaterat flera funktioner som kamera, redigering och OCR.\n\n-Fixed öppen källkodslicens.\n\n-Vetare har lagt till en funktion för att specificera de nya kriterierna.\n\n7.1.8 (2023 05 14)\n\n-Fixade fenomenet där inställningsskärmen öppnas långsamt.\n\n-Fixerade platsen för att flytta fel i platsen.\n\n-När redigering modifierades felet som inte lagrades i en specifik situation.\n\n-Fixade ett fel som inträffade i en specifik situation."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fixade ett fenomen där min bokfil försvann.\n\n7.1.9 (2023 05 22)\n\n-När modifieringar har flera textlinjer modifierats.\n\n-Deleted databas som inte används.\n\n-Vi har uppdaterat flera funktioner som kamera, redigering och OCR.\n\n-Fixed öppen källkodslicens.\n\n-Vetare har lagt till en funktion för att specificera de nya kriterierna."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Cuando modificaciones, se han modificado varias líneas de texto.\n\n-La base de datos eliminada que no se usa.\n\n-Se ha actualizado múltiples funciones como cámara, edición y OCR.\n\n-Fijo la licencia de código abierto.\n\n-El espectador ha agregado una función para especificar los nuevos criterios.\n\n7.1.8 (2023 05 14)\n\n-Dié el fenómeno donde la pantalla de ajuste se abre lentamente.\n\n-Fijo la modificación de error de movimiento de ubicación.\n\n-Cuando edición, el error se modificó que no se almacenó en una situación específica.\n\n-Dié un error que ocurrió en una situación específica."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Dié un fenómeno en el que desapareció mi archivo de libro.\n\n7.1.9 (2023 05 22)\n\n-Cuando modificaciones, se han modificado varias líneas de texto.\n\n-La base de datos eliminada que no se usa.\n\n-Se ha actualizado múltiples funciones como cámara, edición y OCR.\n\n-Fijo la licencia de código abierto.\n\n-El espectador ha agregado una función para especificar los nuevos criterios."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Kedy boli modifikácie upravené viac riadkov textu.\n\n-Vymazaná databáza, ktorá sa nepoužíva.\n\n-Aktualizovali sme viac funkcií, ako sú fotoaparát, úpravy a OCR.\n\n-Val licenciu s otvoreným zdrojom.\n\n-Vieier pridal funkciu na určenie nových kritérií.\n\n7.1.8 (2023 05 14)\n\n-Val fenomén, kde sa obrazovka nastavenia pomaly otvára.\n\n-Polote sa modifikácia chýb s pohybom polohy.\n\n-Keď bola úpravy, chyba bola upravená, ktorá nebola uložená v konkrétnej situácii.\n\n-stanovila chybu, ktorá sa vyskytla v konkrétnej situácii."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fenomén, v ktorom zmizol môj súbor knihy.\n\n7.1.9 (2023 05 22)\n\n-Kedy boli modifikácie upravené viac riadkov textu.\n\n-Vymazaná databáza, ktorá sa nepoužíva.\n\n-Aktualizovali sme viac funkcií, ako sú fotoaparát, úpravy a OCR.\n\n-Val licenciu s otvoreným zdrojom.\n\n-Vieier pridal funkciu na určenie nových kritérií."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Ko so spremembe, je bilo spremenjenih več vrstic besedila.\n\n-Zabrizana baza podatkov, ki se ne uporablja.\n\n-Preduciramo več funkcij, kot so kamera, urejanje in OCR.\n\n-Piksirano licenco odprtokodbe.\n\n-Gledalec je dodal funkcijo za določitev novih meril.\n\n7.1.8 (2023 05 14)\n\n-Piksiramo pojav, kjer se nastavitveni zaslon počasi odpre.\n\n-Piksirano spremembo napake v lokaciji.\n\n-Ne urejanje je bil hrošč spremenjen, ki ni bil shranjen v določeni situaciji.\n\n-Piksna napaka, ki se je zgodila v določeni situaciji."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Piksna pojav, v katerem je izginila moja knjiga.\n\n7.1.9 (2023 05 22)\n\n-Ko so spremembe, je bilo spremenjenih več vrstic besedila.\n\n-Zabrizana baza podatkov, ki se ne uporablja.\n\n-Preduciramo več funkcij, kot so kamera, urejanje in OCR.\n\n-Piksirano licenco odprtokodbe.\n\n-Gledalec je dodal funkcijo za določitev novih meril."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.1.1.9 (2023 05 22)\n\nවෙනස් කිරීම්, පෙළ විවිධ පෙළ වෙනස් කර ඇත.\n\nභාවිතා නොකරන මකාදැමූ දත්ත සමුදාය.\n\n-අපි කැමරාව, සංස්කරණය කිරීම සහ OCR වැනි බහු කාර්යයන් යාවත්කාලීන කර ඇත.\n\nවිවෘත මූලාශ්ර බලපත්රය අනුගමනය කළේය.\n\nනව නිර්ණායක නියම කිරීම සඳහා නරඹන්නාට ශ්රිතයක් එක් කර තිබේ.\n\n7.1.8 (2023 04 14)\n\nසැකසුම් තිරය සෙමින් විවෘත වන සංසිද්ධිය අනුගමනය කළේය.\n\nස්ථාන චලනය කිරීමේ දෝෂ වෙනස් කිරීම.\n\nසංස්කරණය කිරීම, දෝෂය වෙනස් කරන ලද්දේ නිශ්චිත තත්වයක ගබඩා කර නොමැති බවයි.\n\nනිශ්චිත තත්වයකදී සිදු වූ දෝෂයක් අනුගමනය කරන්න."
+    "devnote": "7.2.0 (2023 05 30)\n\nමගේ පොත් ගොනුව අතුරුදහන් වූ සංසිද්ධියක් අනුගමනය කළේය.\n\n7.1.1.9 (2023 05 22)\n\nවෙනස් කිරීම්, පෙළ විවිධ පෙළ වෙනස් කර ඇත.\n\nභාවිතා නොකරන මකාදැමූ දත්ත සමුදාය.\n\n-අපි කැමරාව, සංස්කරණය කිරීම සහ OCR වැනි බහු කාර්යයන් යාවත්කාලීන කර ඇත.\n\nවිවෘත මූලාශ්ර බලපත්රය අනුගමනය කළේය.\n\nනව නිර්ණායක නියම කිරීම සඳහා නරඹන්නාට ශ්රිතයක් එක් කර තිබේ."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.1.9 (2023 05 22)\n\n-عندما تم تعديل التعديلات ، تم تعديل خطوط نصية متعددة.\n\n-قاعدة البيانات المحذوفة غير المستخدمة.\n\n-قمنا بتحديث وظائف متعددة مثل الكاميرا والتحرير و OCR.\n\n-خز رخصة المصدر المفتوح.\n\n-أضاف المشاهد وظيفة لتحديد المعايير الجديدة.\n\n7.1.8 (2023 05 14)\n\n-خز الظاهرة حيث تفتح شاشة الإعداد ببطء.\n\n-زخل الموقع الذي يتحرك تعديل الخطأ.\n\n-عند التحرير ، تم تعديل الخطأ الذي لم يتم تخزينه في موقف محدد.\n\n-زخل خطأ حدث في موقف محدد."
+    "devnote": "7.2.0 (2023 05 30)\n\n-زخل ظاهرة اختفت فيها ملف كتابي.\n\n7.1.9 (2023 05 22)\n\n-عندما تم تعديل التعديلات ، تم تعديل خطوط نصية متعددة.\n\n-قاعدة البيانات المحذوفة غير المستخدمة.\n\n-قمنا بتحديث وظائف متعددة مثل الكاميرا والتحرير و OCR.\n\n-خز رخصة المصدر المفتوح.\n\n-أضاف المشاهد وظيفة لتحديد المعايير الجديدة."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Երբ փոփոխություններ, տեքստի բազմաթիվ տողեր փոփոխվել են:\n\n- ջնջված տվյալների բազան, որը չի օգտագործվում:\n\n-Մենք թարմացրել ենք բազմաթիվ գործառույթներ, ինչպիսիք են խցիկը, խմբագրումը եւ OCR- ն:\n\n-Կատարել է բաց կոդով լիցենզիան:\n\n-Առաջին նոր չափանիշները նշելու գործառույթ է ավելացրել:\n\n7.1.8 (2023 05 14)\n\n-Միքսեց այն երեւույթը, որտեղ պարամետրերը դանդաղ են բացվում:\n\n- Տեղադրվել է գտնվելու վայրը շարժվող սխալի փոփոխությունը:\n\n-Երբ խմբագրում, սխալը ձեւափոխվեց, որը չի պահվում որոշակի իրավիճակում:\n\n-Միքսված սխալ, որը տեղի է ունեցել որոշակի իրավիճակում:"
+    "devnote": "7.2.0 (2023 05 30)\n\n-Կատարել մի երեւույթ, որում իմ գրքի ֆայլը անհետացավ:\n\n7.1.9 (2023 05 22)\n\n-Երբ փոփոխություններ, տեքստի բազմաթիվ տողեր փոփոխվել են:\n\n- ջնջված տվյալների բազան, որը չի օգտագործվում:\n\n-Մենք թարմացրել ենք բազմաթիվ գործառույթներ, ինչպիսիք են խցիկը, խմբագրումը եւ OCR- ն:\n\n-Կատարել է բաց կոդով լիցենզիան:\n\n-Առաջին նոր չափանիշները նշելու գործառույթ է ավելացրել:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.1.9 (2023 05 22)\n\n-HVendur breytingar hefur verið breytt mörgum línum af texta.\n\n-Einn sem eytt er gagnagrunninum sem ekki er notaður.\n\n-Við höfum uppfært margar aðgerðir eins og myndavél, klippingu og OCR.\n\n-Fixed Open Source leyfið.\n\n-Áhorfandinn hefur bætt við aðgerð til að tilgreina nýju viðmiðin.\n\n7.1.8 (2023 05 14)\n\n-Fixaði fyrirbæri þar sem stillingarskjárinn opnast hægt.\n\n-Skaði staðsetningu hreyfanlegra villubreytingar.\n\n-Þegar klippingu var breytt var galla breytt sem var ekki geymd í ákveðnum aðstæðum.\n\n-Fixaði villu sem átti sér stað í ákveðnum aðstæðum."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fixaði fyrirbæri þar sem bókaskráin mín hvarf.\n\n7.1.9 (2023 05 22)\n\n-HVendur breytingar hefur verið breytt mörgum línum af texta.\n\n-Einn sem eytt er gagnagrunninum sem ekki er notaður.\n\n-Við höfum uppfært margar aðgerðir eins og myndavél, klippingu og OCR.\n\n-Fixed Open Source leyfið.\n\n-Áhorfandinn hefur bætt við aðgerð til að tilgreina nýju viðmiðin."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Həyat, mətn xətti dəyişdirilər.\n\nİstifadə edilməyən silinmiş verilənlər bazası.\n\n-Biz kamera, redaktə və OCR kimi birdən çox funksiyanı yeniləyib.\n\nAçıq mənbə lisenziyasını düzəldildi.\n\n- Görüntü yeni meyarları təyin etmək üçün bir funksiya əlavə etdi.\n\n7.1.8 (2023 05 14)\n\nParametrlər ekranının yavaş-yavaş açıldığı fenomen.\n\nYerin hərəkət səhv modifikasiyasını düzəldildi.\n\n-Düzəlişlər, səhv bir vəziyyətdə saxlanılmayan səhv dəyişdirildi.\n\nMüəyyən bir vəziyyətdə meydana gələn bir səhv."
+    "devnote": "7.2.0 (2023 05 30)\n\nKitab sənədimin itməsi ilə bir fenomen.\n\n7.1.9 (2023 05 22)\n\n-Həyat, mətn xətti dəyişdirilər.\n\nİstifadə edilməyən silinmiş verilənlər bazası.\n\n-Biz kamera, redaktə və OCR kimi birdən çox funksiyanı yeniləyib.\n\nAçıq mənbə lisenziyasını düzəldildi.\n\n- Görüntü yeni meyarları təyin etmək üçün bir funksiya əlavə etdi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Wan aanpassings, is verskeie reëls van die teks gewysig.\n\n-Die geskrap databasis wat nie gebruik word nie.\n\n-Ons het verskeie funksies soos kamera, redigering en OCR opgedateer.\n\n-Fix die open source -lisensie.\n\n-Die kyker het 'n funksie bygevoeg om die nuwe kriteria te spesifiseer.\n\n7.1.8 (2023 05 14)\n\n-Fix die verskynsel waar die instellingsskerm stadig oopmaak.\n\n-Fix die ligging van die liggingsbeweging.\n\n-Wanneer die redigering geredigeer is, is die fout verander wat nie in 'n spesifieke situasie geberg is nie.\n\n-Vas 'n fout wat in 'n spesifieke situasie voorgekom het."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fixed 'n verskynsel waarin my boeklêer verdwyn het.\n\n7.1.9 (2023 05 22)\n\n-Wan aanpassings, is verskeie reëls van die teks gewysig.\n\n-Die geskrap databasis wat nie gebruik word nie.\n\n-Ons het verskeie funksies soos kamera, redigering en OCR opgedateer.\n\n-Fix die open source -lisensie.\n\n-Die kyker het 'n funksie bygevoeg om die nuwe kriteria te spesifiseer."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Kur modifikimet, linja të shumta të tekstit janë modifikuar.\n\n-Në bazën e të dhënave të fshirë që nuk përdoret.\n\n-Ne kemi azhurnuar funksione të shumta si kamera, redaktimi dhe OCR.\n\n-Fixed licencën e burimit të hapur.\n\n-Shakja e shikuesit ka shtuar një funksion për të specifikuar kriteret e reja.\n\n7.1.8 (2023 05 14)\n\n-Fixed fenomenin ku ekrani i vendosjes hapet ngadalë.\n\n-Fixed Modifikimin e Gabimit të Lëvizjes së Vendndodhjes.\n\n-Kur redaktimi, gabimi u modifikua që nuk u ruajt në një situatë specifike.\n\n-Fixed një gabim që ndodhi në një situatë specifike."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fixed një fenomen në të cilin u zhduk skedari im i librit.\n\n7.1.9 (2023 05 22)\n\n-Kur modifikimet, linja të shumta të tekstit janë modifikuar.\n\n-Në bazën e të dhënave të fshirë që nuk përdoret.\n\n-Ne kemi azhurnuar funksione të shumta si kamera, redaktimi dhe OCR.\n\n-Fixed licencën e burimit të hapur.\n\n-Shakja e shikuesit ka shtuar një funksion për të specifikuar kriteret e reja."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.1.9 (2023 05 22)\n\n- ማሻሻያዎችን በማሻሻያዎች, በርካታ የጽሑፍ መስመሮች ተስተካክለዋል.\n\n- የማይገለጽ የመረጃ ቋት.\n\n- እኛ እንደ ካሜራ, አርት editing ት እና OCR ያሉ በርካታ ተግባራቶችን ዘምኗል.\n\n- ክፍት የሆነ ምንጭ ፍቃድ አሳይቷል.\n\n- ተመልካች አዲሶቹን መስፈርቶች ለመግለጽ ተግባር አክሏል.\n\n7.1.8 (2023 05 14)\n\nቅንብሮች ማያ ገጽ በቀስታ የሚከፈተበትን ክስተት የተዘበራረቀ.\n\n- የአካባቢውን ተጓዳኝ የስህተት ማሻሻያ\n\n-ርት ማርትዕ, ሳንካው በአንድ የተወሰነ ሁኔታ ውስጥ ያልተከማቸ ነበር.\n\n- በአንድ የተወሰነ ሁኔታ ውስጥ የተከሰተ ስህተት ተሰማ."
+    "devnote": "7.2.0 (2023 05 30)\n\n- የእኔ መጽሐፍ ፋይል የጠፋበትን ክስተት አሳይቷል.\n\n7.1.9 (2023 05 22)\n\n- ማሻሻያዎችን በማሻሻያዎች, በርካታ የጽሑፍ መስመሮች ተስተካክለዋል.\n\n- የማይገለጽ የመረጃ ቋት.\n\n- እኛ እንደ ካሜራ, አርት editing ት እና OCR ያሉ በርካታ ተግባራቶችን ዘምኗል.\n\n- ክፍት የሆነ ምንጭ ፍቃድ አሳይቷል.\n\n- ተመልካች አዲሶቹን መስፈርቶች ለመግለጽ ተግባር አክሏል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Kui modifikatsioonid on muudetud mitut tekstirida.\n\n-kustutatud andmebaas, mida ei kasutata.\n\n-Me on värskendanud mitut funktsiooni, näiteks kaamera, redigeerimine ja OCR.\n\n-Fixitud avatud lähtekoodiga litsents.\n\n-Vaataja on lisanud funktsiooni uute kriteeriumide täpsustamiseks.\n\n7.1.8 (2023 05 14)\n\n-Fixitud nähtus, kus seadistusekraan avaneb aeglaselt.\n\n-Fixitud asukoha liikumisvea muutmine.\n\n-Kui redigeerides muudeti seda viga, mida konkreetses olukorras ei salvestatud.\n\n-Fixis vea, mis leidis aset konkreetses olukorras."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fixitud nähtus, milles minu raamatufail kadus.\n\n7.1.9 (2023 05 22)\n\n-Kui modifikatsioonid on muudetud mitut tekstirida.\n\n-kustutatud andmebaas, mida ei kasutata.\n\n-Me on värskendanud mitut funktsiooni, näiteks kaamera, redigeerimine ja OCR.\n\n-Fixitud avatud lähtekoodiga litsents.\n\n-Vaataja on lisanud funktsiooni uute kriteeriumide täpsustamiseks."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.1.9 (2023 05 22)\n\nجب ترمیمات ، متن کی متعدد لائنوں میں ترمیم کی گئی ہے۔\n\n-حذف شدہ ڈیٹا بیس جو استعمال نہیں ہوتا ہے۔\n\nہم نے متعدد افعال کو اپ ڈیٹ کیا ہے جیسے کیمرا ، ایڈیٹنگ ، اور او سی آر۔\n\nاوپن سورس لائسنس کا فکسڈ۔\n\n-ناظرین نے نئے معیار کی وضاحت کے لئے ایک فنکشن شامل کیا ہے۔\n\n7.1.8 (2023 05 14)\n\n-اس رجحان کو فکسڈ کیا جہاں ترتیب کی اسکرین آہستہ آہستہ کھلتی ہے۔\n\n-محل وقوع میں منتقل ہونے والی غلطی میں ترمیم کی گئی۔\n\nجب ترمیم کرنے سے ، بگ میں ترمیم کی گئی تھی جو کسی خاص صورتحال میں محفوظ نہیں تھی۔\n\nایک خاص صورتحال میں پیش آنے والی ایک غلطی کو فکس کیا۔"
+    "devnote": "7.2.0 (2023 05 30)\n\nایک ایسے رجحان کو تیار کیا جس میں میری کتاب کی فائل غائب ہوگئی۔\n\n7.1.9 (2023 05 22)\n\nجب ترمیمات ، متن کی متعدد لائنوں میں ترمیم کی گئی ہے۔\n\n-حذف شدہ ڈیٹا بیس جو استعمال نہیں ہوتا ہے۔\n\nہم نے متعدد افعال کو اپ ڈیٹ کیا ہے جیسے کیمرا ، ایڈیٹنگ ، اور او سی آر۔\n\nاوپن سورس لائسنس کا فکسڈ۔\n\n-ناظرین نے نئے معیار کی وضاحت کے لئے ایک فنکشن شامل کیا ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Коли модифікації, декілька рядків тексту були змінені.\n\n-Терована база даних, яка не використовується.\n\n-Ми оновили кілька функцій, таких як камера, редагування та OCR.\n\n-Приксили ліцензію з відкритим кодом.\n\n-Теутор додав функцію для визначення нових критеріїв.\n\n7.1.8 (2023 05 14)\n\n-Прикував явище, де екран налаштування відкривається повільно.\n\n-Приксили модифікацію помилки переміщення місця розташування.\n\n-Коли редагування, помилка була модифікована, яка не зберігалася в конкретній ситуації.\n\n-Прикано помилку, яка сталася в певній ситуації."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Приксили явище, в якому зникнув мій файл книги.\n\n7.1.9 (2023 05 22)\n\n-Коли модифікації, декілька рядків тексту були змінені.\n\n-Терована база даних, яка не використовується.\n\n-Ми оновили кілька функцій, таких як камера, редагування та OCR.\n\n-Приксили ліцензію з відкритим кодом.\n\n-Теутор додав функцію для визначення нових критеріїв."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Quando modifiche, sono state modificate più righe di testo.\n\n-Il database eliminato che non viene utilizzato.\n\n-Con abbiamo aggiornato più funzioni come fotocamera, editing e OCR.\n\n-Fadeva la licenza open source.\n\n-Le visualizzatore ha aggiunto una funzione per specificare i nuovi criteri.\n\n7.1.8 (2023 05 14)\n\n-Fadeva il fenomeno in cui la schermata di impostazione si apre lentamente.\n\n-Fadere la modifica dell'errore di spostamento della posizione.\n\n-Quando editing, il bug è stato modificato che non è stato archiviato in una situazione specifica.\n\n-Fadeva un errore avvenuto in una situazione specifica."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fadeva un fenomeno in cui il mio file di libro è scomparso.\n\n7.1.9 (2023 05 22)\n\n-Quando modifiche, sono state modificate più righe di testo.\n\n-Il database eliminato che non viene utilizzato.\n\n-Con abbiamo aggiornato più funzioni come fotocamera, editing e OCR.\n\n-Fadeva la licenza open source.\n\n-Le visualizzatore ha aggiunto una funzione per specificare i nuovi criteri."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Ketika modifikasi, beberapa baris teks telah dimodifikasi.\n\n-Base yang dihapus yang tidak digunakan.\n\n-Kami telah memperbarui beberapa fungsi seperti kamera, pengeditan, dan OCR.\n\n-Bixed lisensi open source.\n\n-Sembaga telah menambahkan fungsi untuk menentukan kriteria baru.\n\n7.1.8 (2023 05 14)\n\n-Bixed fenomena di mana layar pengaturan terbuka perlahan.\n\n-Bixed Lokasi Modifikasi Kesalahan Pindah.\n\n-Ketika pengeditan, bug dimodifikasi yang tidak disimpan dalam situasi tertentu.\n\n-Bixed kesalahan yang terjadi dalam situasi tertentu."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Bixed fenomena di mana file buku saya menghilang.\n\n7.1.9 (2023 05 22)\n\n-Ketika modifikasi, beberapa baris teks telah dimodifikasi.\n\n-Base yang dihapus yang tidak digunakan.\n\n-Kami telah memperbarui beberapa fungsi seperti kamera, pengeditan, dan OCR.\n\n-Bixed lisensi open source.\n\n-Sembaga telah menambahkan fungsi untuk menentukan kriteria baru."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.1.9（2023 05 22）\n\n - 変更の場合、複数のテキストが変更されています。\n\n - 使用されていない削除されたデータベース。\n\n - カメラ、編集、OCRなどの複数の機能を更新しました。\n\n - オープンソースライセンスを固定しました。\n\n - 視聴者は、新しい基準を指定する関数を追加しました。\n\n7.1.8（2023 05 14）\n\n - 設定画面がゆっくりと開く現象を固定しました。\n\n - 場所の移動エラー変更を修正しました。\n\n - 編集すると、特定の状況に保存されていないバグが変更されました。\n\n - 特定の状況で発生したエラーを固定しました。"
+    "devnote": "7.2.0（2023 05 30）\n\n - 本のファイルが消えた現象を固定しました。\n\n7.1.9（2023 05 22）\n\n - 変更の場合、複数のテキストが変更されています。\n\n - 使用されていない削除されたデータベース。\n\n - カメラ、編集、OCRなどの複数の機能を更新しました。\n\n - オープンソースライセンスを固定しました。\n\n - 視聴者は、新しい基準を指定する関数を追加しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.1.9 (2023 05 22)\n\n-როდესაც მოდიფიკაციები შეიცვალა, ტექსტის მრავალი სტრიქონი შეიცვალა.\n\n-წაშლილი მონაცემთა ბაზა, რომელიც არ გამოიყენება.\n\n-ჩვენ განვაახლეთ მრავალი ფუნქცია, როგორიცაა კამერა, რედაქტირება და OCR.\n\n-შეადგინა ღია წყაროს ლიცენზია.\n\n-მაყურებელმა დაამატა ფუნქცია ახალი კრიტერიუმების დასადგენად.\n\n7.1.8 (2023 05 14)\n\n-შეადგინა ფენომენი, სადაც პარამეტრების ეკრანი ნელა იხსნება.\n\n-შეადგინა ადგილმდებარეობის გადაადგილების შეცდომის მოდიფიკაცია.\n\n-როდესაც რედაქტირება მოხდა, შეცდომა შეიცვალა, რომელიც არ იყო შენახული კონკრეტულ სიტუაციაში.\n\n-დაფიქსირდა შეცდომა, რომელიც მოხდა კონკრეტულ სიტუაციაში."
+    "devnote": "7.2.0 (2023 05 30)\n\n-შეაფასა ფენომენი, რომელშიც ჩემი წიგნის ფაილი გაქრა.\n\n7.1.9 (2023 05 22)\n\n-როდესაც მოდიფიკაციები შეიცვალა, ტექსტის მრავალი სტრიქონი შეიცვალა.\n\n-წაშლილი მონაცემთა ბაზა, რომელიც არ გამოიყენება.\n\n-ჩვენ განვაახლეთ მრავალი ფუნქცია, როგორიცაა კამერა, რედაქტირება და OCR.\n\n-შეადგინა ღია წყაროს ლიცენზია.\n\n-მაყურებელმა დაამატა ფუნქცია ახალი კრიტერიუმების დასადგენად."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Ukuguqulwa kabusha, imigqa eminingi yombhalo iguquliwe.\n\n-I-database esusiwe engasetshenziswa.\n\n-Sivuselele imisebenzi eminingi efana nekhamera, ukuhlela, ne-OCR.\n\n-Kufihle ilayisense elivulekile lomthombo.\n\n-Ubukeli ungeze umsebenzi ukucacisa inqubo entsha.\n\n7.1.8 (2023 05 14)\n\n-I-fixed the phenomenon lapho isikrini sokusetha sivula khona kancane.\n\n-Ukulungiselela ukuguqulwa kwephutha kwendawo.\n\n-Ukuhlelwa kabusha, i-bug yashintshwa eyayingagcinwanga esimweni esithile.\n\n-Kufikelwa yiphutha elenzeke esimweni esithile."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Kufihle umkhathi lapho ifayela lami lencwadi lanyamalala.\n\n7.1.9 (2023 05 22)\n\n-Ukuguqulwa kabusha, imigqa eminingi yombhalo iguquliwe.\n\n-I-database esusiwe engasetshenziswa.\n\n-Sivuselele imisebenzi eminingi efana nekhamera, ukuhlela, ne-OCR.\n\n-Kufihle ilayisense elivulekile lomthombo.\n\n-Ubukeli ungeze umsebenzi ukucacisa inqubo entsha."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.1.9（2023 05 22）\n\n - 修改后，已经修改了多行文本。\n\n - 未使用的删除数据库。\n\n - 我们更新了多个功能，例如相机，编辑和OCR。\n\n - 修正开源许可证。\n\n - 查看器添加了一个函数来指定新标准。\n\n7.1.8（2023 05 14）\n\n - 修正了设置屏幕缓慢打开的现象。\n\n - 修正位置移动错误修改。\n\n - 编辑时，对该错误进行了修改，该错误未存储在特定情况下。\n\n - 修正在特定情况下发生的错误。"
+    "devnote": "7.2.0（2023 05 30）\n\n - 修正了我的书文件消失的现象。\n\n7.1.9（2023 05 22）\n\n - 修改后，已经修改了多行文本。\n\n - 未使用的删除数据库。\n\n - 我们更新了多个功能，例如相机，编辑和OCR。\n\n - 修正开源许可证。\n\n - 查看器添加了一个函数来指定新标准。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.1.9（2023 05 22）\n\n - 修改後，已經修改了多行文本。\n\n - 未使用的刪除數據庫。\n\n - 我們更新了多個功能，例如相機，編輯和OCR。\n\n - 修正開源許可證。\n\n - 查看器添加了一個函數來指定新標準。\n\n7.1.8（2023 05 14）\n\n - 修正了設置屏幕緩慢打開的現象。\n\n - 修正位置移動錯誤修改。\n\n - 編輯時，對該錯誤進行了修改，該錯誤未存儲在特定情況下。\n\n - 修正在特定情況下發生的錯誤。"
+    "devnote": "7.2.0（2023 05 30）\n\n - 修正了我的書文件消失的現象。\n\n7.1.9（2023 05 22）\n\n - 修改後，已經修改了多行文本。\n\n - 未使用的刪除數據庫。\n\n - 我們更新了多個功能，例如相機，編輯和OCR。\n\n - 修正開源許可證。\n\n - 查看器添加了一個函數來指定新標準。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.1.9（2023 05 22）\n\n - 修改後，已經修改了多行文本。\n\n - 未使用的刪除數據庫。\n\n - 我們更新了多個功能，例如相機，編輯和OCR。\n\n - 修正開源許可證。\n\n - 查看器添加了一個函數來指定新標準。\n\n7.1.8（2023 05 14）\n\n - 修正了設置屏幕緩慢打開的現象。\n\n - 修正位置移動錯誤修改。\n\n - 編輯時，對該錯誤進行了修改，該錯誤未存儲在特定情況下。\n\n - 修正在特定情況下發生的錯誤。"
+    "devnote": "7.2.0（2023 05 30）\n\n - 修正了我的書文件消失的現象。\n\n7.1.9（2023 05 22）\n\n - 修改後，已經修改了多行文本。\n\n - 未使用的刪除數據庫。\n\n - 我們更新了多個功能，例如相機，編輯和OCR。\n\n - 修正開源許可證。\n\n - 查看器添加了一個函數來指定新標準。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Když modifikace, bylo upraveno více řádků textu.\n\n-Odstraněná databáze, která se nepoužívá.\n\n-Aktualizovali jsme více funkcí, jako je kamera, úpravy a OCR.\n\n-Pixed licence s otevřeným zdrojovým kódem.\n\n-Prohlížeč přidal funkci pro specifikaci nových kritérií.\n\n7.1.8 (2023 05 14)\n\n-Fenomén, kde se obrazovka nastavení otevírá pomalu.\n\n-Pixed Umístění Modifikace chyby přesunu.\n\n-Při úpravách byla chyba upravena, která nebyla uložena v konkrétní situaci.\n\n-Pixoval chybu, ke které došlo v konkrétní situaci."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Pixoval jev, ve kterém můj soubor knihy zmizel.\n\n7.1.9 (2023 05 22)\n\n-Když modifikace, bylo upraveno více řádků textu.\n\n-Odstraněná databáze, která se nepoužívá.\n\n-Aktualizovali jsme více funkcí, jako je kamera, úpravy a OCR.\n\n-Pixed licence s otevřeným zdrojovým kódem.\n\n-Prohlížeč přidal funkci pro specifikaci nových kritérií."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.1.9 (2023 05 22)\n\n- Айналмалар, мәтіннің бірнеше жолдары өзгертілген.\n\n- пайдаланылмаған жойылған мәліметтер базасы.\n\n- Біз камера, редакциялау және OCR сияқты бірнеше функцияларды жаңарттық.\n\n- ашық бастапқы лицензияны қолданды.\n\n- Көрермендер жаңа критерийлерді көрсету үшін функция қосады.\n\n7.1.8 (2023 05 14)\n\n- Параметрлер экраны баяу ашылатын құбылысты өткізді.\n\n- Қате өзгертілген орынды өзгертіңіз.\n\n- Өңдеу кезінде қате өзгертілген, ол белгілі бір жағдайда сақталмаған.\n\n- белгілі бір жағдайда болған қате жіберді."
+    "devnote": "7.2.0 (2023 05 30)\n\n- Менің кітап файлым жоғалып кеткен құбылыс болды.\n\n7.1.9 (2023 05 22)\n\n- Айналмалар, мәтіннің бірнеше жолдары өзгертілген.\n\n- пайдаланылмаған жойылған мәліметтер базасы.\n\n- Біз камера, редакциялау және OCR сияқты бірнеше функцияларды жаңарттық.\n\n- ашық бастапқы лицензияны қолданды.\n\n- Көрермендер жаңа критерийлерді көрсету үшін функция қосады."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Quan modificacions, s'han modificat diverses línies de text.\n\n-La base de dades suprimida que no s’utilitza.\n\n-Er hem actualitzat múltiples funcions com ara càmera, edició i OCR.\n\n-Fixia la llicència de codi obert.\n\n-El espectador ha afegit una funció per especificar els nous criteris.\n\n7.1.8 (2023 05 14)\n\n-Prit el fenomen on la pantalla de configuració s’obre lentament.\n\n-Fixed la ubicació de la modificació de l'error de moure.\n\n-Quan edició, l'error es va modificar que no es va emmagatzemar en una situació específica.\n\n-Fixà un error que es va produir en una situació específica."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fixà un fenomen en el qual va desaparèixer el meu fitxer.\n\n7.1.9 (2023 05 22)\n\n-Quan modificacions, s'han modificat diverses línies de text.\n\n-La base de dades suprimida que no s’utilitza.\n\n-Er hem actualitzat múltiples funcions com ara càmera, edició i OCR.\n\n-Fixia la llicència de codi obert.\n\n-El espectador ha afegit una funció per especificar els nous criteris."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.1.9 (2023 05 22)\n\n-ಮಾರ್ಪಾಡುಗಳು, ಪಠ್ಯದ ಅನೇಕ ಸಾಲುಗಳನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n\nಬಳಸಲಾಗದ ಅಳಿಸಲಾದ ಡೇಟಾಬೇಸ್.\n\n-ನಾವು ಕ್ಯಾಮೆರಾ, ಎಡಿಟಿಂಗ್ ಮತ್ತು ಒಸಿಆರ್ ನಂತಹ ಅನೇಕ ಕಾರ್ಯಗಳನ್ನು ನವೀಕರಿಸಿದ್ದೇವೆ.\n\n-ಪಿಕ್ಸ್ಡ್ ಓಪನ್ ಸೋರ್ಸ್ ಪರವಾನಗಿ.\n\nಹೊಸ ಮಾನದಂಡಗಳನ್ನು ನಿರ್ದಿಷ್ಟಪಡಿಸಲು ವೀಕ್ಷಕರು ಒಂದು ಕಾರ್ಯವನ್ನು ಸೇರಿಸಿದ್ದಾರೆ.\n\n7.1.8 (2023 05 14)\n\nಸೆಟ್ಟಿಂಗ್ ಪರದೆಯು ನಿಧಾನವಾಗಿ ತೆರೆಯುವ ವಿದ್ಯಮಾನವನ್ನು ಫಿಕ್ಸ್ ಮಾಡಲಾಗಿದೆ.\n\nಸ್ಥಳ ಚಲಿಸುವ ದೋಷ ಮಾರ್ಪಾಡುಗಳನ್ನು ಹೊಂದಿಸಲಾಗಿದೆ.\n\n-ಸಂಪಾದನೆಯಾದಾಗ, ನಿರ್ದಿಷ್ಟ ಪರಿಸ್ಥಿತಿಯಲ್ಲಿ ಸಂಗ್ರಹಿಸದ ದೋಷವನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n\n-ನಿರ್ದಿಷ್ಟ ಪರಿಸ್ಥಿತಿಯಲ್ಲಿ ಸಂಭವಿಸಿದ ದೋಷವನ್ನು ನಿವಾರಿಸಲಾಗಿದೆ."
+    "devnote": "7.2.0 (2023 05 30)\n\n-ನನ್ನ ಪುಸ್ತಕ ಫೈಲ್ ಕಣ್ಮರೆಯಾದ ಒಂದು ವಿದ್ಯಮಾನವನ್ನು ಅನುಭವಿಸಿದೆ.\n\n7.1.9 (2023 05 22)\n\n-ಮಾರ್ಪಾಡುಗಳು, ಪಠ್ಯದ ಅನೇಕ ಸಾಲುಗಳನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n\nಬಳಸಲಾಗದ ಅಳಿಸಲಾದ ಡೇಟಾಬೇಸ್.\n\n-ನಾವು ಕ್ಯಾಮೆರಾ, ಎಡಿಟಿಂಗ್ ಮತ್ತು ಒಸಿಆರ್ ನಂತಹ ಅನೇಕ ಕಾರ್ಯಗಳನ್ನು ನವೀಕರಿಸಿದ್ದೇವೆ.\n\n-ಪಿಕ್ಸ್ಡ್ ಓಪನ್ ಸೋರ್ಸ್ ಪರವಾನಗಿ.\n\nಹೊಸ ಮಾನದಂಡಗಳನ್ನು ನಿರ್ದಿಷ್ಟಪಡಿಸಲು ವೀಕ್ಷಕರು ಒಂದು ಕಾರ್ಯವನ್ನು ಸೇರಿಸಿದ್ದಾರೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.1.9 (2023. 05 22)\n\n-Kada je modifikacije modificirano više redaka teksta.\n\n-Izbrisana baza podataka koja se ne koristi.\n\n-Ažurirali smo više funkcija poput kamere, uređivanja i OCR -a.\n\n-Piksirao licencu otvorenog koda.\n\n-Pregledavač je dodao funkciju za određivanje novih kriterija.\n\n7.1.8 (2023. 05 14)\n\n-Piksirao je fenomen gdje se zaslon za postavljanje polako otvara.\n\n-Piksirao je izmjenu pogreške pomicanja lokacije.\n\n-Kada uređivanje, greška je modificirana koja nije bila pohranjena u određenoj situaciji.\n\n-Piksirao pogrešku koja se dogodila u određenoj situaciji."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Piksirao fenomen u kojem je nestala moja datoteka knjiga.\n\n7.1.9 (2023. 05 22)\n\n-Kada je modifikacije modificirano više redaka teksta.\n\n-Izbrisana baza podataka koja se ne koristi.\n\n-Ažurirali smo više funkcija poput kamere, uređivanja i OCR -a.\n\n-Piksirao licencu otvorenog koda.\n\n-Pregledavač je dodao funkciju za određivanje novih kriterija."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.1.9 (2023 05 22)\n\nនៅពេលកែប្រែការកែប្រែ, បន្ទាត់ជាច្រើននៃអត្ថបទត្រូវបានកែប្រែ។\n\n- មូលដ្ឋានទិន្នន័យដែលបានលុបដែលមិនត្រូវបានប្រើ។\n\nយើងបានធ្វើបច្ចុប្បន្នភាពមុខងារជាច្រើនដូចជាកាមេរ៉ាការកែសម្រួលនិង OCR ។\n\n-Fixed អាជ្ញាប័ណ្ណប្រភពកូដចំហ។\n\nអ្នកមើលបានបន្ថែមមុខងារមួយដើម្បីបញ្ជាក់ពីលក្ខណៈវិនិច្ឆ័យថ្មី។\n\n7.1.8 (2023 05 14)\n\n-Fixed បាតុភូតដែលអេក្រង់កំណត់បើកយឺត ៗ ។\n\n-Fixed ការផ្លាស់ប្តូរកំហុសក្នុងការផ្លាស់ប្តូរទីតាំង។\n\nនៅពេលកែសម្រួលប្រាក់នោះកំហុសត្រូវបានកែប្រែដែលមិនត្រូវបានរក្សាទុកក្នុងស្ថានភាពជាក់លាក់មួយ។\n\n-Fixed កំហុសមួយដែលបានកើតឡើងក្នុងស្ថានភាពជាក់លាក់មួយ។"
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fixed បាតុភូតដែលឯកសាររបស់ខ្ញុំបានបាត់។\n\n7.1.9 (2023 05 22)\n\nនៅពេលកែប្រែការកែប្រែ, បន្ទាត់ជាច្រើននៃអត្ថបទត្រូវបានកែប្រែ។\n\n- មូលដ្ឋានទិន្នន័យដែលបានលុបដែលមិនត្រូវបានប្រើ។\n\nយើងបានធ្វើបច្ចុប្បន្នភាពមុខងារជាច្រើនដូចជាកាមេរ៉ាការកែសម្រួលនិង OCR ។\n\n-Fixed អាជ្ញាប័ណ្ណប្រភពកូដចំហ។\n\nអ្នកមើលបានបន្ថែមមុខងារមួយដើម្បីបញ្ជាក់ពីលក្ខណៈវិនិច្ឆ័យថ្មី។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.1.9 (2023 05 22)\n\n- өзгөртүүлөр, тексттин бир нече линиялары өзгөртүлдү.\n\n- колдонулбаган жок кылынган маалыматтар базасы.\n\n-Бирок, мисалы, камера, редакциялоо жана OCR сыяктуу бир нече функцияларды жаңырткан.\n\nАчык булак лицензиясы.\n\n- Көрүүчү жаңы критерийлерди көрсөтүү үчүн функцияны кошту.\n\n7.1.8 (2023 05 14)\n\n- орнотулган көрүнүш жай акырындык менен ачылат.\n\n- Жайгашкан жерди жылдыруу үчүн ката модификациялоо.\n\n- Түзөтүү, ката белгилүү бир жагдайда сакталган эмес, мүчүлүштүктөрдү өзгөртүлгөн.\n\n- белгилүү бир кырдаалда пайда болгон ката кетти."
+    "devnote": "7.2.0 (2023 05 30)\n\n- Менин китеп файлым жоголуп кеткен феноменон.\n\n7.1.9 (2023 05 22)\n\n- өзгөртүүлөр, тексттин бир нече линиялары өзгөртүлдү.\n\n- колдонулбаган жок кылынган маалыматтар базасы.\n\n-Бирок, мисалы, камера, редакциялоо жана OCR сыяктуу бир нече функцияларды жаңырткан.\n\nАчык булак лицензиясы.\n\n- Көрүүчү жаңы критерийлерди көрсөтүү үчүн функцияны кошту."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.1.9 (2023 05 22)\n\nமாற்றங்கள் போது, ​​உரையின் பல கோடுகள் மாற்றியமைக்கப்பட்டுள்ளன.\n\nபயன்படுத்தப்படாத நீக்கப்பட்ட தரவுத்தளம்.\n\nகேமரா, எடிட்டிங் மற்றும் OCR போன்ற பல செயல்பாடுகளை நாங்கள் புதுப்பித்துள்ளோம்.\n\nதிறந்த மூல உரிமத்தை சரிசெய்யவும்.\n\nபுதிய அளவுகோல்களைக் குறிப்பிட பார்வையாளர் ஒரு செயல்பாட்டைச் சேர்த்துள்ளார்.\n\n7.1.8 (2023 05 14)\n\nஅமைப்புத் திரை மெதுவாகத் திறக்கும் நிகழ்வை சரிசெய்யவும்.\n\nஇருப்பிடத்தை நகர்த்தும் பிழை மாற்றத்தை சரிசெய்யவும்.\n\n-எடிட்டிங் செய்யும் போது, ​​ஒரு குறிப்பிட்ட சூழ்நிலையில் சேமிக்கப்படாத பிழை மாற்றப்பட்டது.\n\nஒரு குறிப்பிட்ட சூழ்நிலையில் ஏற்பட்ட பிழையை சரிசெய்யவும்."
+    "devnote": "7.2.0 (2023 05 30)\n\nஎனது புத்தகக் கோப்பு மறைந்த ஒரு நிகழ்வை சரிசெய்தது.\n\n7.1.9 (2023 05 22)\n\nமாற்றங்கள் போது, ​​உரையின் பல கோடுகள் மாற்றியமைக்கப்பட்டுள்ளன.\n\nபயன்படுத்தப்படாத நீக்கப்பட்ட தரவுத்தளம்.\n\nகேமரா, எடிட்டிங் மற்றும் OCR போன்ற பல செயல்பாடுகளை நாங்கள் புதுப்பித்துள்ளோம்.\n\nதிறந்த மூல உரிமத்தை சரிசெய்யவும்.\n\nபுதிய அளவுகோல்களைக் குறிப்பிட பார்வையாளர் ஒரு செயல்பாட்டைச் சேர்த்துள்ளார்."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.1.9 (2023 05 22)\n\n-เมื่อมีการดัดแปลงข้อความหลายบรรทัดได้รับการแก้ไข\n\n-ฐานข้อมูลที่ถูกลบซึ่งไม่ได้ใช้\n\n-เราได้อัปเดตฟังก์ชั่นหลายอย่างเช่นกล้องการแก้ไขและ OCR\n\n-แก้ไขใบอนุญาตโอเพ่นซอร์ส\n\n-ผู้ชมได้เพิ่มฟังก์ชั่นเพื่อระบุเกณฑ์ใหม่\n\n7.1.8 (2023 05 14)\n\n-แก้ไขปรากฏการณ์ที่หน้าจอการตั้งค่าเปิดช้า\n\n-แก้ไขข้อผิดพลาดในการย้ายตำแหน่ง\n\n-เมื่อแก้ไขข้อผิดพลาดจะถูกแก้ไขซึ่งไม่ได้เก็บไว้ในสถานการณ์เฉพาะ\n\n-แก้ไขข้อผิดพลาดที่เกิดขึ้นในสถานการณ์เฉพาะ"
+    "devnote": "7.2.0 (2023 05 30)\n\n-แก้ไขปรากฏการณ์ที่ไฟล์หนังสือของฉันหายไป\n\n7.1.9 (2023 05 22)\n\n-เมื่อมีการดัดแปลงข้อความหลายบรรทัดได้รับการแก้ไข\n\n-ฐานข้อมูลที่ถูกลบซึ่งไม่ได้ใช้\n\n-เราได้อัปเดตฟังก์ชั่นหลายอย่างเช่นกล้องการแก้ไขและ OCR\n\n-แก้ไขใบอนุญาตโอเพ่นซอร์ส\n\n-ผู้ชมได้เพิ่มฟังก์ชั่นเพื่อระบุเกณฑ์ใหม่"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Değişikliklerde, birden çok metin satırı değiştirildi.\n\n-Kullanılmayan silinen veritabanı.\n\n-Kamera, düzenleme ve OCR gibi birden fazla işlevi güncelledik.\n\n-açık kaynak lisansına sabitlendi.\n\n-İzleyici yeni kriterleri belirtmek için bir işlev ekledi.\n\n7.1.8 (2023 05 14)\n\n-Ayar ekranının yavaşça açıldığı fenomeni sabitledi.\n\n-Konum taşıma hata değişikliğini sabitledi.\n\n-Düzenleme yaparken, belirli bir durumda saklanmayan hata değiştirildi.\n\n-Belirli bir durumda meydana gelen bir hatayı karıştırdı."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Kitap dosyamın kaybolduğu bir fenomen.\n\n7.1.9 (2023 05 22)\n\n-Değişikliklerde, birden çok metin satırı değiştirildi.\n\n-Kullanılmayan silinen veritabanı.\n\n-Kamera, düzenleme ve OCR gibi birden fazla işlevi güncelledik.\n\n-açık kaynak lisansına sabitlendi.\n\n-İzleyici yeni kriterleri belirtmek için bir işlev ekledi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.1.9 (2023 05 22)\n\n-మార్పులు చేసినప్పుడు, టెక్స్ట్ యొక్క బహుళ పంక్తులు సవరించబడ్డాయి.\n\n-ఉపయోగించని తొలగించిన డేటాబేస్.\n\n-మేము కెమెరా, ఎడిటింగ్ మరియు OCR వంటి బహుళ విధులను నవీకరించాము.\n\n-ఒక ఓపెన్ సోర్స్ లైసెన్స్‌ను ఫిక్స్ చేసింది.\n\n-ఒక కొత్త ప్రమాణాలను పేర్కొనడానికి వీక్షకుడు ఒక ఫంక్షన్‌ను జోడించారు.\n\n7.1.8 (2023 05 14)\n\nసెట్టింగ్ స్క్రీన్ నెమ్మదిగా తెరిచే దృగ్విషయాన్ని ఫిక్స్ చేసింది.\n\n-ఒక స్థాన కదిలే లోపం సవరణను ఫిక్స్ చేసింది.\n\n-ఎడిటింగ్ అయినప్పుడు, బగ్ సవరించబడింది, అది ఒక నిర్దిష్ట పరిస్థితిలో నిల్వ చేయబడలేదు.\n\n-ఒక నిర్దిష్ట పరిస్థితిలో సంభవించిన లోపాన్ని ఫిక్స్ చేసింది."
+    "devnote": "7.2.0 (2023 05 30)\n\n-నా పుస్తక ఫైల్ అదృశ్యమైన ఒక దృగ్విషయాన్ని రూపొందించింది.\n\n7.1.9 (2023 05 22)\n\n-మార్పులు చేసినప్పుడు, టెక్స్ట్ యొక్క బహుళ పంక్తులు సవరించబడ్డాయి.\n\n-ఉపయోగించని తొలగించిన డేటాబేస్.\n\n-మేము కెమెరా, ఎడిటింగ్ మరియు OCR వంటి బహుళ విధులను నవీకరించాము.\n\n-ఒక ఓపెన్ సోర్స్ లైసెన్స్‌ను ఫిక్స్ చేసింది.\n\n-ఒక కొత్త ప్రమాణాలను పేర్కొనడానికి వీక్షకుడు ఒక ఫంక్షన్‌ను జోడించారు."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.1.9 (2023 05 22)\n\n-ਜੁਏ ਗਏ ਸੋਧ, ਟੈਕਸਟ ਦੀਆਂ ਕਈ ਲਾਈਨਾਂ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ.\n\n-ਪਰੇਡ ਡੇਟਾਬੇਸ ਜੋ ਕਿ ਵਰਤਿਆ ਨਹੀਂ ਗਿਆ ਹੈ.\n\n-ਅਸਈ ਨੇ ਕਈ ਫੰਕਸ਼ਨਾਂ ਨੂੰ ਅਪਡੇਟ ਕੀਤੇ, ਸੰਪਾਦਕ ਅਤੇ ਓਸੀਆਰ ਵਰਗੇ ਅਪਡੇਟ ਕੀਤੇ ਹਨ.\n\nਓਪਨ ਸੋਰਸ ਲਾਇਸੈਂਸ\n\n-ਇਹ ਦਰਸ਼ਕ ਨੇ ਨਵੇਂ ਮਾਪਦੰਡ ਨਿਰਧਾਰਤ ਕਰਨ ਲਈ ਇੱਕ ਫੰਕਸ਼ਨ ਜੋੜਿਆ ਹੈ.\n\n7.1.8 (2023 05 14)\n\nਵਰਤਾਰੇ ਨੂੰ ਫਿਕਸ ਕਰ ਦਿੱਤਾ ਜਿੱਥੇ ਸੈਟਿੰਗ ਦੀ ਸਕਰੀਨ ਹੌਲੀ ਹੌਲੀ ਖੁੱਲ੍ਹਦੀ ਹੈ.\n\nਸਥਾਨ ਭੇਜਣ ਵਿੱਚ ਚੱਲ ਰਹੀ ਗਲਤੀ ਸੋਧ.\n\n-ਜਦੋਂ ਸੰਪਾਦਿਤ ਕਰਨਾ, ਬੱਗ ਨੂੰ ਸੰਸ਼ੋਧਿਤ ਕੀਤਾ ਗਿਆ ਸੀ ਜੋ ਕਿਸੇ ਖਾਸ ਸਥਿਤੀ ਵਿੱਚ ਸਟੋਰ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਸੀ.\n\nਇੱਕ ਖਾਸ ਸਥਿਤੀ ਵਿੱਚ ਵਾਪਰਿਆ ਇੱਕ ਗਲਤੀ."
+    "devnote": "7.2.0 (2023 05 30)\n\nਇੱਕ ਵਰਤਾਰੇ ਨਾਲ, ਜਿਸ ਵਿੱਚ ਮੇਰੀ ਕਿਤਾਬ ਦੀ ਫਾਈਲ ਗਾਇਬ ਹੋ ਗਈ.\n\n7.1.9 (2023 05 22)\n\n-ਜੁਏ ਗਏ ਸੋਧ, ਟੈਕਸਟ ਦੀਆਂ ਕਈ ਲਾਈਨਾਂ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ.\n\n-ਪਰੇਡ ਡੇਟਾਬੇਸ ਜੋ ਕਿ ਵਰਤਿਆ ਨਹੀਂ ਗਿਆ ਹੈ.\n\n-ਅਸਈ ਨੇ ਕਈ ਫੰਕਸ਼ਨਾਂ ਨੂੰ ਅਪਡੇਟ ਕੀਤੇ, ਸੰਪਾਦਕ ਅਤੇ ਓਸੀਆਰ ਵਰਗੇ ਅਪਡੇਟ ਕੀਤੇ ਹਨ.\n\nਓਪਨ ਸੋਰਸ ਲਾਇਸੈਂਸ\n\n-ਇਹ ਦਰਸ਼ਕ ਨੇ ਨਵੇਂ ਮਾਪਦੰਡ ਨਿਰਧਾਰਤ ਕਰਨ ਲਈ ਇੱਕ ਫੰਕਸ਼ਨ ਜੋੜਿਆ ਹੈ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.1.9 (2023 05 22)\n\n-هنگامی که اصلاحات ، چندین خط متن اصلاح شده است.\n\n-بانک اطلاعاتی حذف شده که استفاده نمی شود.\n\n-ما عملکردهای مختلفی مانند دوربین ، ویرایش و OCR را به روز کرده ایم.\n\nمجوز منبع باز را تنظیم کنید.\n\n-بیننده تابعی را برای مشخص کردن معیارهای جدید اضافه کرده است.\n\n7.1.8 (2023 05 14)\n\n-پدیده ای را که صفحه تنظیم به آرامی باز می شود ، تنظیم کرد.\n\n-براسیون اصلاح خطای حرکت مکان.\n\n-با ویرایش ، این اشکال اصلاح شد که در یک وضعیت خاص ذخیره نشده است.\n\nخطایی را که در یک وضعیت خاص رخ داده است ، ایجاد کرد."
+    "devnote": "7.2.0 (2023 05 30)\n\n-پدیده ای را که در آن پرونده کتاب من ناپدید شد ، ایجاد کرد.\n\n7.1.9 (2023 05 22)\n\n-هنگامی که اصلاحات ، چندین خط متن اصلاح شده است.\n\n-بانک اطلاعاتی حذف شده که استفاده نمی شود.\n\n-ما عملکردهای مختلفی مانند دوربین ، ویرایش و OCR را به روز کرده ایم.\n\nمجوز منبع باز را تنظیم کنید.\n\n-بیننده تابعی را برای مشخص کردن معیارهای جدید اضافه کرده است."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Quando modificações, várias linhas de texto foram modificadas.\n\n-O banco de dados excluído que não é usado.\n\n-Exemos atualizamos várias funções, como câmera, edição e OCR.\n\n-Fixou a licença de código aberto.\n\n-O espectador adicionou uma função para especificar os novos critérios.\n\n7.1.8 (2023 05 14)\n\n-Fixado o fenômeno onde a tela de configuração se abre lentamente.\n\n-Fixou a modificação do erro em movimento do local.\n\n-Quando edição, o bug foi modificado que não foi armazenado em uma situação específica.\n\n-Fixou um erro que ocorreu em uma situação específica."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fixado um fenômeno no qual meu arquivo de livro desapareceu.\n\n7.1.9 (2023 05 22)\n\n-Quando modificações, várias linhas de texto foram modificadas.\n\n-O banco de dados excluído que não é usado.\n\n-Exemos atualizamos várias funções, como câmera, edição e OCR.\n\n-Fixou a licença de código aberto.\n\n-O espectador adicionou uma função para especificar os novos critérios."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Po modyfikacji modyfikowano wiele wierszy tekstu.\n\n-Usunięta baza danych, która nie jest używana.\n\n-Zaktualizowaliśmy wiele funkcji, takich jak aparat, edycja i OCR.\n\n-Udostępniono licencję open source.\n\n-Przeglądarka dodała funkcję, aby określić nowe kryteria.\n\n7.1.8 (2023 05 14)\n\n-Udostępniono zjawisko, w którym ekran ustawienia otwiera się powoli.\n\n-Fiksował modyfikację błędu ruchu lokalizacji.\n\n-Po edycji błąd został zmodyfikowany, który nie był przechowywany w określonej sytuacji.\n\n-Wydał błąd, który wystąpił w określonej sytuacji."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Udostępniałem zjawisko, w którym zniknął mój plik książki.\n\n7.1.9 (2023 05 22)\n\n-Po modyfikacji modyfikowano wiele wierszy tekstu.\n\n-Usunięta baza danych, która nie jest używana.\n\n-Zaktualizowaliśmy wiele funkcji, takich jak aparat, edycja i OCR.\n\n-Udostępniono licencję open source.\n\n-Przeglądarka dodała funkcję, aby określić nowe kryteria."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Lors des modifications, plusieurs lignes de texte ont été modifiées.\n\n-La base de données supprimée qui n'est pas utilisée.\n\n-Nous avons mis à jour plusieurs fonctions telles que la caméra, l'édition et l'OCR.\n\n-Fixé la licence open source.\n\n-Le visionneuse a ajouté une fonction pour spécifier les nouveaux critères.\n\n7.1.8 (2023 05 14)\n\n-Fixé le phénomène où l'écran de réglage s'ouvre lentement.\n\n-Fixé la modification des erreurs de déplacement de l'emplacement.\n\n-Lors de l'édition, le bogue a été modifié qui n'a pas été stocké dans une situation spécifique.\n\n-Fixé une erreur qui s'est produite dans une situation spécifique."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Pection d'un phénomène dans lequel mon fichier de livre a disparu.\n\n7.1.9 (2023 05 22)\n\n-Lors des modifications, plusieurs lignes de texte ont été modifiées.\n\n-La base de données supprimée qui n'est pas utilisée.\n\n-Nous avons mis à jour plusieurs fonctions telles que la caméra, l'édition et l'OCR.\n\n-Fixé la licence open source.\n\n-Le visionneuse a ajouté une fonction pour spécifier les nouveaux critères."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Kun modifikaatiot, useita tekstin rivejä on muokattu.\n\n-Poistettu tietokanta, jota ei käytetä.\n\n-Me on päivittänyt useita toimintoja, kuten kamera, muokkaus ja OCR.\n\n-Kortti avoimen lähdekoodin lisenssi.\n\n-Katsoja on lisännyt toiminnon uusien kriteerien määrittämiseksi.\n\n7.1.8 (2023 05 14)\n\n-Kiinnittiin ilmiö, jossa asetusnäyttö avautuu hitaasti.\n\n-Kortti sijainnin siirtäminen virheenmuutos.\n\n-Kun muokattiin virhettä, jota ei tallennettu erityiseen tilanteeseen.\n\n-Kierretty virhe, joka tapahtui tietyssä tilanteessa."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Kirjastani ilmiö, jossa kirjatiedostoni katosi.\n\n7.1.9 (2023 05 22)\n\n-Kun modifikaatiot, useita tekstin rivejä on muokattu.\n\n-Poistettu tietokanta, jota ei käytetä.\n\n-Me on päivittänyt useita toimintoja, kuten kamera, muokkaus ja OCR.\n\n-Kortti avoimen lähdekoodin lisenssi.\n\n-Katsoja on lisännyt toiminnon uusien kriteerien määrittämiseksi."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.1.9 (2023 05 22)\n\n-Kapag ang mga pagbabago, maraming linya ng teksto ang nabago.\n\n-Ang tinanggal na database na hindi ginagamit.\n\n-Na -update namin ang maraming mga pag -andar tulad ng camera, pag -edit, at OCR.\n\n-Pagtataya ang bukas na lisensya ng mapagkukunan.\n\n-Ang manonood ay nagdagdag ng isang function upang tukuyin ang bagong pamantayan.\n\n7.1.8 (2023 05 14)\n\n-Fixed ang kababalaghan kung saan mabagal ang pagbubukas ng setting ng screen.\n\n-Pagtapos ang pagbabago ng lokasyon ng paglipat ng error.\n\n-Kapag pag -edit, binago ang bug na hindi nakaimbak sa isang tiyak na sitwasyon.\n\n-Fixed isang error na naganap sa isang tiyak na sitwasyon."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fixed isang kababalaghan kung saan nawala ang file ng aking libro.\n\n7.1.9 (2023 05 22)\n\n-Kapag ang mga pagbabago, maraming linya ng teksto ang nabago.\n\n-Ang tinanggal na database na hindi ginagamit.\n\n-Na -update namin ang maraming mga pag -andar tulad ng camera, pag -edit, at OCR.\n\n-Pagtataya ang bukas na lisensya ng mapagkukunan.\n\n-Ang manonood ay nagdagdag ng isang function upang tukuyin ang bagong pamantayan."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.1.9 (2023 05 22)\n\n-A módosítások során a szöveg több sorát módosították.\n\n-A nem használt törölt adatbázis.\n\n-Több funkciót frissítettünk, mint például a kamera, a szerkesztés és az OCR.\n\n-A nyílt forráskódú licenc rögzítése.\n\n-A néző hozzáadott egy függvényt az új kritériumok meghatározásához.\n\n7.1.8 (2023 05 14)\n\n-Megkapcsolta azt a jelenséget, ahol a beállítási képernyő lassan nyílik meg.\n\n-A hely mozgó hibamódolásának rögzítése.\n\n-A szerkesztés során a hibát módosították, amelyet egy adott helyzetben nem tároltak.\n\n-egy meghatározott helyzetben bekövetkezett hibát rögzítettek."
+    "devnote": "7.2.0 (2023 05 30)\n\n-Fixelt egy olyan jelenséget, amelyben a könyvfájl eltűnt.\n\n7.1.9 (2023 05 22)\n\n-A módosítások során a szöveg több sorát módosították.\n\n-A nem használt törölt adatbázis.\n\n-Több funkciót frissítettünk, mint például a kamera, a szerkesztés és az OCR.\n\n-A nyílt forráskódú licenc rögzítése.\n\n-A néző hozzáadott egy függvényt az új kritériumok meghatározásához."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.1.9 (2023 05 22)\n\nכאשר שינויים, שורות טקסט מרובות שונו.\n\n-מאגר המידע שנמחק שלא נעשה בו שימוש.\n\nעדכנו פונקציות מרובות כמו מצלמה, עריכה ו- OCR.\n\n-קבע את רישיון הקוד הפתוח.\n\nהצופה הוסיף פונקציה לציון הקריטריונים החדשים.\n\n7.1.8 (2023 05 14)\n\n-קבע את התופעה בה מסך ההגדרה נפתח לאט.\n\n-שיער את שינוי השגיאה במיקום העברת שגיאה.\n\nכאשר עריכה, באג שונה שלא היה מאוחסן במצב ספציפי.\n\n-שיער שגיאה שהתרחשה במצב ספציפי."
+    "devnote": "7.2.0 (2023 05 30)\n\n-הקבע תופעה בה נעלמת קובץ הספרים שלי.\n\n7.1.9 (2023 05 22)\n\nכאשר שינויים, שורות טקסט מרובות שונו.\n\n-מאגר המידע שנמחק שלא נעשה בו שימוש.\n\nעדכנו פונקציות מרובות כמו מצלמה, עריכה ו- OCR.\n\n-קבע את רישיון הקוד הפתוח.\n\nהצופה הוסיף פונקציה לציון הקריטריונים החדשים."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.1.9 (2023 05 22)\n\n-जब संशोधन, पाठ की कई पंक्तियों को संशोधित किया गया है।\n\nहटाए गए डेटाबेस का उपयोग नहीं किया जाता है।\n\n-हम ने कैमरा, एडिटिंग और ओसीआर जैसे कई कार्यों को अपडेट किया है।\n\n-जब ओपन सोर्स लाइसेंस।\n\n-क्या दर्शक ने नए मानदंडों को निर्दिष्ट करने के लिए एक फ़ंक्शन जोड़ा है।\n\n7.1.8 (2023 05 14)\n\n-एक घटना को पूरा करें जहां सेटिंग स्क्रीन धीरे -धीरे खुलती है।\n\n-इस स्थान पर चलती त्रुटि संशोधन।\n\n-जब संपादन, बग को संशोधित किया गया था जो एक विशिष्ट स्थिति में संग्रहीत नहीं किया गया था।\n\nएक विशिष्ट स्थिति में होने वाली त्रुटि को पूरा किया।"
+    "devnote": "7.2.0 (2023 05 30)\n\n-एक एक घटना है जिसमें मेरी पुस्तक फ़ाइल गायब हो गई है।\n\n7.1.9 (2023 05 22)\n\n-जब संशोधन, पाठ की कई पंक्तियों को संशोधित किया गया है।\n\nहटाए गए डेटाबेस का उपयोग नहीं किया जाता है।\n\n-हम ने कैमरा, एडिटिंग और ओसीआर जैसे कई कार्यों को अपडेट किया है।\n\n-जब ओपन सोर्स लाइसेंस।\n\n-क्या दर्शक ने नए मानदंडों को निर्दिष्ट करने के लिए एक फ़ंक्शन जोड़ा है।"
   }
 }
