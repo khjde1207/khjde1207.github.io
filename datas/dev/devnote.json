@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fixed a phenomenon in which my book file disappeared.\n\n7.1.9 (2023 05 22)\n\n-When modifications, multiple lines of text have been modified.\n\n-The deleted database that is not used.\n\n-We has updated multiple functions such as camera, editing, and OCR.\n\n-Fixed the open source license.\n\n-The viewer has added a function to specify the new criteria."
+    "devnote": "7.2.1 (2023 06 01)\n\n-The histories tap bookmark error has been modified.\n-Fixed the bookmark contents / memo to copy.\n-When dragging to the folder after multiple selection, the selected file is modified to move together."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.2.0 (2023 05 30)\n\n- 가끔 내서재 파일이 사라지는 현상을 수정 하였습니다.\n\n7.1.9 (2023 05 22)\n\n- 일괄수정 시 여러줄의 텍스트의 경우 적용 안되던 버그를 수정 하였습니다.\n\n- 사용하지 않는 데이터베이스를 삭제 했습니다.\n\n- 카메라, 편집, OCR 등 여러 기능을 업데이트 하였습니다.\n\n- 오픈소스 라이선스 를 수정하였습니다.\n\n- 뷰어에서 개행기준을 지정 할 수 있도록 기능을 추가 하였습니다."
+    "devnote": "7.2.1 (2023 06 01)\n\n- 히스토리탭 북마크 오류 수정 하였습니다.\n- 북마크 내용 / 메모를 길게 눌러 복사 할 수 있도록 수정 하였습니다.\n- 다중선택 이후 폴더로 드래그 할 경우 선택된 파일도 같이 이동 되도록 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fixou un fenómeno no que desapareceu o meu ficheiro de libro.\n\n7.1.9 (2023 05 22)\n\n-Cando modificacións, modificáronse múltiples liñas de texto.\n\n-A base de datos eliminada que non se usa.\n\n-Cualificar múltiples funcións como cámara, edición e OCR.\n\n-Fixou a licenza de código aberto.\n\n-O espectador engadiu unha función para especificar os novos criterios."
+    "devnote": "7.2.1 (2023 06 01)\n\n-O erro de marcador de TAP Histories Modificouse.\n-Axizou o contido / nota do marcador para copiar.\n-Cando arrastrando ao cartafol despois da selección múltiple, o ficheiro seleccionado modifícase para moverse."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.2.0 (2023 05 30)\n\nએક ઘટના ફિક્સ કરી જેમાં મારી બુક ફાઇલ અદૃશ્ય થઈ ગઈ.\n\n7.1.9 (2023 05 22)\n\n-આમાં ફેરફાર, ટેક્સ્ટની બહુવિધ લાઇનોમાં ફેરફાર કરવામાં આવ્યા છે.\n\n-કા deleted ી નાખેલ ડેટાબેઝ જેનો ઉપયોગ થતો નથી.\n\n-અમે કેમેરા, સંપાદન અને ઓસીઆર જેવા બહુવિધ કાર્યોને અપડેટ કર્યા છે.\n\nખુલ્લા સ્રોત લાઇસન્સને ફિક્સ કર્યું.\n\n-અને નવા માપદંડને સ્પષ્ટ કરવા માટે એક કાર્ય ઉમેર્યું છે."
+    "devnote": "7.2.1 (2023 06 01)\n\n-હિસ્ટ્રીઝ ટેપ બુકમાર્ક ભૂલમાં ફેરફાર કરવામાં આવ્યા છે.\nક copy પિ કરવા માટે બુકમાર્ક સમાવિષ્ટો / મેમોને ફિક્સ કરી.\nબહુવિધ પસંદગી પછી ફોલ્ડર પર ખેંચીને, પસંદ કરેલી ફાઇલને એકસાથે ખસેડવા માટે સંશોધિત કરવામાં આવે છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Το επενδύσει ένα φαινόμενο στο οποίο εξαφανίστηκε το αρχείο βιβλίου μου.\n\n7.1.9 (2023 05 22)\n\n-Πώς τροποποιήθηκε οι τροποποιήσεις, έχουν τροποποιηθεί πολλαπλές γραμμές κειμένου.\n\n-Η διαγραμμένη βάση δεδομένων που δεν χρησιμοποιείται.\n\n-Δενήθηκαν πολλαπλές λειτουργίες όπως η κάμερα, η επεξεργασία και το OCR.\n\n-Επίξτε την άδεια ανοικτού κώδικα.\n\n-Το θεατή έχει προσθέσει μια λειτουργία για να καθορίσει τα νέα κριτήρια."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Το Ιστορίες TAP Σφάλμα σελιδοδείκτη έχει τροποποιηθεί.\n-Επάρη τα περιεχόμενα του σελιδοδείκτη / σημείωμα για να αντιγράψετε.\n-Επαιρέστε το φάκελο μετά από πολλαπλή επιλογή, το επιλεγμένο αρχείο τροποποιείται για να μετακινηθεί μαζί."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fixed een fenomeen waarin mijn boekbestand verdween.\n\n7.1.9 (2023 05 22)\n\n-Wanneer wijzigingen zijn, zijn meerdere tekstlijnen gewijzigd.\n\n-De verwijderde database die niet wordt gebruikt.\n\n-We heeft meerdere functies bijgewerkt, zoals camera, bewerking en OCR.\n\n-Fixed de open source licentie.\n\n-De kijker heeft een functie toegevoegd om de nieuwe criteria op te geven."
+    "devnote": "7.2.1 (2023 06 01)\n\n-De geschiedenissen Tik op Bookmark -fout is gewijzigd.\n-Fixed het bladwijzerinhoud / memo om te kopiëren.\n-Wanneer het na meerdere selectie naar de map sleept, wordt het geselecteerde bestand gewijzigd om samen te bewegen."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": ".2.2.0 (2023 050)\n\n-फिक्स एक घटना मा एक घटना मा मेरो पुस्तक फाईल हरायो।\n\n.1.1.9 (2023 0 22 22 22)\n\n-जब निर्देशनहरू, पाठका बहु लाइनहरू परिमार्जन गरिएको छ।\n\n- मेटाइएको डाटाबेस जुन प्रयोग गरिएको छैन।\n\n- हामी बहुवता अपडेट गर्दछ जस्तै क्यामेरा, सम्पादन, र Ocr।\n\nखुला स्रोत इजाजतपत्र।\n\n- दर्शकले नयाँ मापदण्ड निर्दिष्ट गर्न एक कार्य थपेको छ।"
+    "devnote": ".2.2.1 (2023 06 0 0)\n\n- ईतिहासहरू बुकमार्क त्रुटि परिमार्जन गरिएको छ।\n-FICK COMKIN CATTINT COXITITED / प्रतिलिपि गर्न मेमो।\n- बहु चयन पछि फोल्डरलाई फोल्डरमा तान्दै, चयनित फाइल एकसाथ सार्न परिमार्जन गरिएको छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fikset et fenomen der bokfilen min forsvant.\n\n7.1.9 (2023 05 22)\n\n-Når modifikasjoner, er flere tekstlinjer blitt endret.\n\n-Tid den slettede databasen som ikke brukes.\n\n-Vi har oppdatert flere funksjoner som kamera, redigering og OCR.\n\n-Fikset open source -lisensen.\n\n-Viseren har lagt til en funksjon for å spesifisere de nye kriteriene."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Historien Tap Bookmark -feilen er endret.\n-Fikset bokmerket innhold / notat å kopiere.\n-Når å dra til mappen etter flere valg, blir den valgte filen endret for å bevege seg sammen."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fikset et fænomen, hvor min bogfil forsvandt.\n\n7.1.9 (2023 05 22)\n\n-Når ændringer er flere tekstlinjer blevet ændret.\n\n-Den slettede database, der ikke bruges.\n\n-Vi har opdateret flere funktioner såsom kamera, redigering og OCR.\n\n-Fikset open source -licensen.\n\n-Visningen har tilføjet en funktion til at specificere de nye kriterier."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Historierne Tap Bookmark -fejl er blevet ændret.\n-Fikset bogmærkeindholdet / memoet for at kopiere.\n-Når trækker til mappen efter flere valg, ændres den valgte fil til at flytte sammen."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fixte ein Phänomen, bei dem meine Buchdatei verschwunden ist.\n\n7.1.9 (2023 05 22)\n\n-Wenn Modifikationen wurden mehrere Textzeilen geändert.\n\n-Die gelöschte Datenbank, die nicht verwendet wird.\n\n-Wir hat mehrere Funktionen wie Kamera, Bearbeitung und OCR aktualisiert.\n\n-Fixte die Open Source -Lizenz.\n\n-Der Betrachter hat eine Funktion hinzugefügt, um die neuen Kriterien anzugeben."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Die Histories Tippen Sie auf Lesezeichenfehler wurden geändert.\n-Fixte das Lesezeichen -Inhalt / das Memo, um zu kopieren.\n-Wenn nach mehreren Auswahl in den Ordner zieht, wird die ausgewählte Datei so geändert, dass sie sich zusammen verschieben."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.2.0 (2023 05 05 30)\n\n-Fixed ປະກົດການທີ່ເອກະສານປື້ມຂອງຂ້ອຍຫາຍໄປ.\n\n7.1.9 (2023 05 22 22)\n\n- ເມື່ອມີການດັດແປງ, ຫລາຍສາຍຂອງຂໍ້ຄວາມໄດ້ຖືກດັດແກ້.\n\n- ຖານຂໍ້ມູນທີ່ຖືກລຶບແລ້ວທີ່ບໍ່ໄດ້ຖືກນໍາໃຊ້.\n\nພວກເຮົາໄດ້ປັບປຸງທຸກໆຫນ້າທີ່ເຊັ່ນ: ກ້ອງຖ່າຍຮູບ, ການດັດແກ້, ແລະ OCR.\n\n-Fixed ໃບອະນຸຍາດແຫຼ່ງເປີດ.\n\n-the viewer ໄດ້ເພີ່ມຫນ້າທີ່ເພື່ອກໍານົດມາດຖານໃຫມ່."
+    "devnote": "7.2.1 (2023 06 01)\n\n-the ປະຫວັດສາດ Tap Bookmark Earthmark ໄດ້ຖືກດັດແກ້ແລ້ວ.\n-Fixed ເນື້ອໃນປື້ມບັນທຶກ / ບົດບັນທຶກທີ່ຈະສໍາເນົາ.\n- ການລາກເຂົ້າໄປໃນໂຟນເດີພາຍຫຼັງການເລືອກຫຼາຍຄັ້ງ, ເອກະສານທີ່ເລືອກໄດ້ຖືກດັດແປງເພື່ອຍ້າຍໄປນໍາກັນ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fiksēja parādību, kurā pazuda mans grāmatas fails.\n\n7.1.9 (2023 05 22)\n\n-Kad modifikācijas ir modificētas vairākas teksta līnijas.\n\n-Dzēstā datu bāze, kas netiek izmantota.\n\n-Mēs esam atjauninājuši vairākas funkcijas, piemēram, kameru, rediģēšanu un OCR.\n\n-Pievēroja atvērtā koda licenci.\n\n-Vām skatītājs ir pievienojis funkciju, lai norādītu jauno kritēriju."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Vēstures pieskaras grāmatzīmju kļūda ir modificēta.\n-Pieņemts grāmatzīmju saturs / memo, lai kopētu.\n-Kadot uz mapi pēc vairākas izvēles, atlasītais fails tiek modificēts, lai pārvietotos kopā."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Посновал явление, в котором исчезла моя книга.\n\n7.1.9 (2023 05 22)\n\n-Когда модификации были изменены несколько строк текста.\n\n-Удаленная база данных, которая не используется.\n\n-Му обновили несколько функций, таких как камера, редактирование и OCR.\n\n-Посновал лицензию с открытым исходным кодом.\n\n-О. Просмотрщик добавил функцию для указания новых критериев."
+    "devnote": "7.2.1 (2023 06 01)\n\n-История нажимает ошибку закладки, была изменена.\n-Посновал содержимое закладки / меморандум для копирования.\n-В при перетаске в папку после нескольких выборов выбранный файл изменяется для перемещения вместе."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Pixat un fenomen în care a dispărut fișierul meu de carte.\n\n7.1.9 (2023 05 22)\n\n-Când modificări, au fost modificate mai multe linii de text.\n\n-Dada de date ștersă care nu este utilizată.\n\n-M am actualizat mai multe funcții, cum ar fi camera, editarea și OCR.\n\n-Fixat licența open source.\n\n-Persorul a adăugat o funcție pentru a specifica noile criterii."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Eroarea de marcaj TOP a fost modificată.\n-Fixat conținutul / memoriul de marcaj pentru a copia.\n-Când trageți în folder după mai multe selecții, fișierul selectat este modificat pentru a se deplasa împreună."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fixed fenomenas, kuriame dingo mano knygos failas.\n\n7.1.9 (2023 05 22)\n\n-Kai modifikacijos buvo modifikuotos kelios teksto eilutės.\n\n-Ištrinta duomenų bazė, kuri nenaudojama.\n\n-Mes atnaujinome kelias funkcijas, tokias kaip fotoaparatas, redagavimas ir OCR.\n\n-Fixed atvirojo kodo licencija.\n\n-Žiūrovas pridėjo funkciją, kad nurodytų naujus kriterijus."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Historijos TAP žymės klaida buvo modifikuota.\n-Akikizavo žymės turinį / memorandumą, kurį norite kopijuoti.\n-Kai po kelių pasirinkimo tempiant į aplanką, pasirinktas failas yra modifikuotas, kad judėtų kartu."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.2.0 (2023 05 30)\n\n-फिक्सने एक इंद्रियगोचर ज्यामध्ये माझे पुस्तक फाईल अदृश्य झाली.\n\n7.1.9 (2023 05 22)\n\n-आपल्या बदलांमुळे, मजकूराच्या एकाधिक ओळी सुधारित केल्या आहेत.\n\n-हटविलेला डेटाबेस जो वापरला जात नाही.\n\n-आपल्या कॅमेरा, संपादन आणि ओसीआर सारख्या एकाधिक कार्ये अद्यतनित केल्या आहेत.\n\n-मुक्त स्त्रोत परवाना.\n\n-नवीन निकष निर्दिष्ट करण्यासाठी दर्शकाने एक फंक्शन जोडले आहे."
+    "devnote": "7.2.1 (2023 06 01)\n\n-इतिहास टॅप बुकमार्क त्रुटी सुधारित केली गेली आहे.\n-कॉपी करण्यासाठी बुकमार्क सामग्री / मेमो फिक्स केले.\n-एकाधिक निवडीनंतर फोल्डरवर ड्रॅग करताना, निवडलेली फाइल एकत्र जाण्यासाठी सुधारित केली जाते."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Секуваше феномен во кој исчезна мојата датотека за книги.\n\n7.1.9 (2023 05 22)\n\n-Кога модификации, повеќе линии на текст се изменети.\n\n-Ти избришаната база на податоци што не се користи.\n\n-На ажуриравме повеќе функции како што се камера, уредување и OCR.\n\n-Се ја утврди лиценцата со отворен извор.\n\n-Покажувачот додаде функција за да ги наведе новите критериуми."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Историите на историјата Грешката во обележувачот е изменета.\n-Секуваше содржината на обележувачот / меморандумот за копирање.\n-Кога влечење во папката по повеќекратна селекција, избраната датотека е изменета за да се движи заедно."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.2.0 (2023 05 30)\n\nഎന്റെ പുസ്തക ഫയൽ അപ്രത്യക്ഷമായ ഒരു പ്രതിഭാസത്തെ പരിഹസിച്ചു.\n\n7.1.9 (2023 05 22)\n\nപരിഷ്ക്കരണങ്ങൾ, ഒന്നിലധികം വരികൾ പരിഷ്ക്കരിച്ചു.\n\nഉപയോഗിക്കാത്ത ഇല്ലാതാക്കിയ ഡാറ്റാബേസ്.\n\n-ഇ ക്യാമറ, എഡിറ്റിംഗ്, ഒസിആർ തുടങ്ങിയ ഒന്നിലധികം പ്രവർത്തനങ്ങൾ ഞങ്ങൾ അപ്ഡേറ്റുചെയ്തു.\n\nഓപ്പൺ സോഴ്സ് ലൈസൻസ് ഫയൽ ചെയ്തു.\n\nപുതിയ മാനദണ്ഡങ്ങൾ വ്യക്തമാക്കാൻ വ്യൂവർ ഒരു ഫംഗ്ഷൻ ചേർത്തു."
+    "devnote": "7.2.1 (2023 06 01)\n\nചരിത്രങ്ങൾ ബുക്ക്മാർക്ക് പിശക് പരിഷ്ക്കരിച്ചു.\nബുക്ക്മാർക്ക് ഉള്ളടക്കങ്ങൾ / മെമ്മോ പകർത്താൻ ഫയൽ ചെയ്തു.\nഒന്നിലധികം തിരഞ്ഞെടുക്കലിന് ശേഷം ഫോൾഡറിലേക്ക് വലിച്ചിടുമ്പോൾ, തിരഞ്ഞെടുത്ത ഫയൽ ഒരുമിച്ച് നീങ്ങുന്നതിന് പരിഷ്ക്കരിക്കുന്നു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Mixed fenomena di mana fail buku saya hilang.\n\n7.1.9 (2023 05 22)\n\n-When pengubahsuaian, pelbagai baris teks telah diubahsuai.\n\n-Pangkalan data yang dipadam yang tidak digunakan.\n\n-Kami telah mengemas kini pelbagai fungsi seperti kamera, penyuntingan, dan OCR.\n\n-Mixed lesen sumber terbuka.\n\n-The Viewer telah menambah fungsi untuk menentukan kriteria baru."
+    "devnote": "7.2.1 (2023 06 01)\n\n-The History Tap Bookmark Ralat telah diubahsuai.\n-Mixed kandungan / memo penanda buku untuk disalin.\n-Ketika menyeret ke folder selepas pemilihan berganda, fail yang dipilih diubahsuai untuk bergerak bersama."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Миний номын файл алга болсон гэж үзсэн үзэгдлээ.\n\n7.1.9 (2023 05 22)\n\n-Ажилтай, олон тооны текстийг өөрчилсөн.\n\n-Энэ ашиглагдаагүй мэдээллийн санг устгасан.\n\n-Бид нь камер, засварлах, ocr гэх мэт олон функцийг шинэчилсэн.\n\n-Бүргийн эх сурвалжийн лицензийг гаргаж ирэв.\n\n-Энэ Viewer нь шинэ шалгуурыг тодорхойлох функцийг нэмэв."
+    "devnote": "7.2.1. (2023 06 01))\n\n-Энэ нь хавчуургын алдааг товшино уу.\n-Готогийн агуулга / тэмдэглэлийг хуулахын тулд.\n-Нэг сонголт хийсний дараа хавтас руу чирэх үед сонгосон файлыг хамтдаа шилжүүлэхээр өөрчилсөн болно."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.2.0 (2023 05 30)\n\n- Nire liburu fitxategia desagertu zen fenomeno bat.\n\n7.1.9 (2023 05 22)\n\n-Beste aldaketak, testu-lerro anitz aldatu dira.\n\n-Ez erabiltzen ez den datu-basea ezabatua.\n\n-Ez da funtzio anitz eguneratu ditu kamera, edizioa eta OCR.\n\n-Ez iturburu irekiko lizentzia.\n\n-Litarteak funtzio bat gehitu du irizpide berriak zehazteko."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Hestoriak Punteatu Bookmark errorea aldatu da.\n-Produzitu laster-markaren edukia / memoriak kopiatzeko.\n-Egunean, hautatutako fitxategiaren ondoren karpetara arrastatzean, hautatutako fitxategia aldatzen da elkarrekin mugitzeko."
   },
   "버마어": {
     "key": "my",
-    "devnote": "72.0 (2023 05 30)\n\n- ကျွန်ုပ်၏စာအုပ်ဖိုင်ပျောက်ကွယ်သွားသည့်ဖြစ်ရပ်တစ်ခုကိုဖယ်ရှားခဲ့သည်။\n\n7.1.9 (2023 05 22)\n\n- ပြုပြင်မွမ်းမံမှုများ, စာသားအမျိုးမျိုးကိုပြုပြင်မွမ်းမံခဲ့သည်။\n\n- မသုံးသောဖျက်ထားသောဒေတာဘေ့စ်။\n\n- ကျွန်ုပ်တို့သည်ကင်မရာ, တည်းဖြတ်ခြင်းနှင့် OCR တို့ကဲ့သို့သောလုပ်ဆောင်မှုများစွာကိုအသစ်ပြောင်းသည်။\n\nပွင့်လင်းသောအရင်းအမြစ်လိုင်စင် - ။\n\n- ကြည့်ရှုသူသည်စံသတ်မှတ်ချက်အသစ်များကိုသတ်မှတ်ရန်လုပ်ဆောင်ချက်တစ်ခုထည့်သွင်းထားသည်။"
+    "devnote": "7.2.1 (2023 06 01 01)\n\n- သမိုင်းကြောင်းကိုအသာပုတ် bookmark အမှားကိုနှိပ်ပါ။\nbookmark ပါသောမာတိကာ / မှတ်စုတိုကိုကူးယူရန်။\nရွေးချယ်မှုမျိုးစုံပြီးနောက်ဖိုလ်ဒါကိုဆွဲငင်သောအခါရွေးချယ်ထားသောဖိုင်ကိုအတူတကွလုပ်ဆောင်ရန်ပြင်ဆင်ထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fixed một hiện tượng trong đó tập tin cuốn sách của tôi biến mất.\n\n7.1.9 (2023 05 22)\n\n-Khi sửa đổi, nhiều dòng văn bản đã được sửa đổi.\n\n-Cơ sở dữ liệu đã bị xóa không được sử dụng.\n\n-Chúng tôi đã cập nhật nhiều chức năng như camera, chỉnh sửa và OCR.\n\n-Fixed giấy phép nguồn mở.\n\n-Trình xem đã thêm một chức năng để chỉ định các tiêu chí mới."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Các Lịch sử TAP Lỗi đánh dấu đã được sửa đổi.\n-Fix đã đánh dấu nội dung / bản ghi nhớ để sao chép.\n-Khi kéo vào thư mục sau nhiều lựa chọn, tệp đã chọn được sửa đổi để di chuyển cùng nhau."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Калегуе з'ява, у якой зніклі мой кніжны файл.\n\n7.1.9 (2023 05 22)\n\n-Калі мадыфікацыі, некалькі радкоў тэксту былі зменены.\n\n-Выдаленая база дадзеных, якая не выкарыстоўваецца.\n\n-Мы абнавілі некалькі функцый, такіх як камера, рэдагаванне і OCR.\n\n-Фікс ліцэнзія з адкрытым зыходным кодам.\n\n-Глядач дадаў функцыю для вызначэння новых крытэрыяў."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Гісторыя Tap Tap Bookmark была зменена.\n-Фокс змесціва / памятка для капіявання.\n-Калі перацягнуўшыся ў тэчку пасля множнага выбару, выбраны файл мадыфікуецца для перамяшчэння разам."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.2.0 (2023 05 30)\n\n-আমার বইয়ের ফাইলটি অদৃশ্য হয়ে গেছে এমন একটি ঘটনাটি ফিক্সড করেছে।\n\n7.1.9 (2023 05 22)\n\n-যখন পরিবর্তনগুলি, পাঠ্যের একাধিক লাইন সংশোধন করা হয়েছে।\n\n-মুছে ফেলা ডাটাবেস যা ব্যবহৃত হয় না।\n\n-আমরা একাধিক ফাংশন যেমন ক্যামেরা, সম্পাদনা এবং ওসিআর আপডেট করেছি।\n\n-ওপেন সোর্স লাইসেন্স ফিক্স করা।\n\n-নতুন মানদণ্ড নির্দিষ্ট করতে দর্শক একটি ফাংশন যুক্ত করেছে।"
+    "devnote": "7.2.1 (2023 06 01)\n\n-ইতিহাসের ট্যাপ বুকমার্ক ত্রুটিটি সংশোধন করা হয়েছে।\nঅনুলিপি করতে বুকমার্ক সামগ্রী / মেমো ফিক্স করেছেন।\n-একাধিক নির্বাচনের পরে ফোল্ডারে টেনে নিয়ে যাওয়ার পরে, নির্বাচিত ফাইলটি একসাথে যাওয়ার জন্য সংশোধন করা হয়।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Фиксира феномен, в който книжният ми файл изчезна.\n\n7.1.9 (2023 05 22)\n\n-Когато модификации са модифицирани множество реда на текст.\n\n-Тягната база данни, която не се използва.\n\n-Повидехме множество функции като камера, редактиране и OCR.\n\n-Фиксира лиценза с отворен код.\n\n-Не зрителят е добавил функция, за да определи новите критерии."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Несториите Tap Tap Bookmark е модифицирана.\n-Фезирани съдържанието / бележката за копиране на отметката.\n-Когато се плъзгате в папката След множество селекции, избраният файл е модифициран, за да се премести заедно."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Престила је феномен у коме је моја књига књига нестала.\n\n7.1.9 (2023 05 22)\n\n-Када модификације су модификоване више линија текста.\n\n- Избрисана база података која се не користи.\n\n-Све је ажурирала више функција као што су камера, уређивање и ОЦР.\n\n-Прећи је лиценцу отвореног кода.\n\n-Невер је додао функцију да одреди нове критеријуме."
+    "devnote": "7.2.1 (2023 06.)\n\n- Историја додирните Грешка Боокмарк је модификована.\n-Причила је садржај обележивача / меморандума за копирање.\n-Када превлачење до мапе након вишеструке селекције, одабрана датотека је модификована да се креће заједно."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fixed jambo ambalo faili yangu ya kitabu ilipotea.\n\n7.1.9 (2023 05 22)\n\n-Wakati marekebisho, mistari mingi ya maandishi imebadilishwa.\n\n-Tatabase iliyofutwa ambayo haitumiki.\n\n-Tumesasisha kazi nyingi kama kamera, uhariri, na OCR.\n\n-Kuongeza leseni ya chanzo wazi.\n\n-Mtazamaji ameongeza kazi ya kutaja vigezo vipya."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Kuorodhesha Historia ya Historia ya Historia imebadilishwa.\n-Kuweka alama za Alamisho / Memo ili kunakili.\n-Wakati wa kuvuta kwenye folda baada ya uteuzi mwingi, faili iliyochaguliwa hubadilishwa ili kusonga pamoja."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fixade ett fenomen där min bokfil försvann.\n\n7.1.9 (2023 05 22)\n\n-När modifieringar har flera textlinjer modifierats.\n\n-Deleted databas som inte används.\n\n-Vi har uppdaterat flera funktioner som kamera, redigering och OCR.\n\n-Fixed öppen källkodslicens.\n\n-Vetare har lagt till en funktion för att specificera de nya kriterierna."
+    "devnote": "7.2.1 (2023 06 01)\n\n-HISTORS TAP -bokmärkesfel har modifierats.\n-Fixade bokmärkesinnehåll / memo för att kopiera.\n-När när de drar till mappen efter flera val, ändras den valda filen för att flytta tillsammans."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Dié un fenómeno en el que desapareció mi archivo de libro.\n\n7.1.9 (2023 05 22)\n\n-Cuando modificaciones, se han modificado varias líneas de texto.\n\n-La base de datos eliminada que no se usa.\n\n-Se ha actualizado múltiples funciones como cámara, edición y OCR.\n\n-Fijo la licencia de código abierto.\n\n-El espectador ha agregado una función para especificar los nuevos criterios."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Los historias El error de marcador de toque ha sido modificado.\n-Dije el contenido / memorando de marcador para copiar.\n-Cuando arrastrando a la carpeta después de la selección múltiple, el archivo seleccionado se modifica para moverse juntos."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fenomén, v ktorom zmizol môj súbor knihy.\n\n7.1.9 (2023 05 22)\n\n-Kedy boli modifikácie upravené viac riadkov textu.\n\n-Vymazaná databáza, ktorá sa nepoužíva.\n\n-Aktualizovali sme viac funkcií, ako sú fotoaparát, úpravy a OCR.\n\n-Val licenciu s otvoreným zdrojom.\n\n-Vieier pridal funkciu na určenie nových kritérií."
+    "devnote": "7.2.1 (2023 06 01)\n\n-História Klepnutím na záložku bola upravená.\n-Val obsah záložky / poznámka na kopírovanie.\n-Keď sa po viacerých výberoch presunie do priečinka, vybraný súbor sa upraví tak, aby sa pohyboval spolu."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Piksna pojav, v katerem je izginila moja knjiga.\n\n7.1.9 (2023 05 22)\n\n-Ko so spremembe, je bilo spremenjenih več vrstic besedila.\n\n-Zabrizana baza podatkov, ki se ne uporablja.\n\n-Preduciramo več funkcij, kot so kamera, urejanje in OCR.\n\n-Piksirano licenco odprtokodbe.\n\n-Gledalec je dodal funkcijo za določitev novih meril."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Zgodovina je bila spremenjena napaka za zaznamek.\n-Piksirano vsebino zaznamkov / opombe za kopiranje.\n-Ko se po večkratni izbiri vlečete v mapo, se izbrana datoteka spremeni, da se premika skupaj."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.2.0 (2023 05 30)\n\nමගේ පොත් ගොනුව අතුරුදහන් වූ සංසිද්ධියක් අනුගමනය කළේය.\n\n7.1.1.9 (2023 05 22)\n\nවෙනස් කිරීම්, පෙළ විවිධ පෙළ වෙනස් කර ඇත.\n\nභාවිතා නොකරන මකාදැමූ දත්ත සමුදාය.\n\n-අපි කැමරාව, සංස්කරණය කිරීම සහ OCR වැනි බහු කාර්යයන් යාවත්කාලීන කර ඇත.\n\nවිවෘත මූලාශ්ර බලපත්රය අනුගමනය කළේය.\n\nනව නිර්ණායක නියම කිරීම සඳහා නරඹන්නාට ශ්රිතයක් එක් කර තිබේ."
+    "devnote": "7.2.1 (2023 06 01)\n\nඉතිහාසයේ පිටු සලකුණු දෝෂය වෙනස් කර ඇත.\nපිටපත් කිරීම සඳහා පිටු සලකුණු අන්තර්ගතය / සංදේශය තෝරන්න.\nබහු තේරීමෙන් පසු ෆෝල්ඩරයට ඇදගෙන යන විට, තෝරාගත් ගොනුව එකට ගමන් කිරීම සඳහා වෙනස් කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.2.0 (2023 05 30)\n\n-زخل ظاهرة اختفت فيها ملف كتابي.\n\n7.1.9 (2023 05 22)\n\n-عندما تم تعديل التعديلات ، تم تعديل خطوط نصية متعددة.\n\n-قاعدة البيانات المحذوفة غير المستخدمة.\n\n-قمنا بتحديث وظائف متعددة مثل الكاميرا والتحرير و OCR.\n\n-خز رخصة المصدر المفتوح.\n\n-أضاف المشاهد وظيفة لتحديد المعايير الجديدة."
+    "devnote": "7.2.1 (2023 06 01)\n\n-تم تعديل تاريخ التواريخ التي تم وضعها في إشارة مرجعية.\n-خز محتويات الإشارة المرجعية / مذكرة لنسخها.\n-عند السحب إلى المجلد بعد التحديد المتعدد ، يتم تعديل الملف المحدد للتحرك معًا."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Կատարել մի երեւույթ, որում իմ գրքի ֆայլը անհետացավ:\n\n7.1.9 (2023 05 22)\n\n-Երբ փոփոխություններ, տեքստի բազմաթիվ տողեր փոփոխվել են:\n\n- ջնջված տվյալների բազան, որը չի օգտագործվում:\n\n-Մենք թարմացրել ենք բազմաթիվ գործառույթներ, ինչպիսիք են խցիկը, խմբագրումը եւ OCR- ն:\n\n-Կատարել է բաց կոդով լիցենզիան:\n\n-Առաջին նոր չափանիշները նշելու գործառույթ է ավելացրել:"
+    "devnote": "7.2.1 (2023 06 01)\n\n- Պատմությունները Հպեք էջանիշի սխալը փոփոխվել է:\n- Պատճենելու համար.\n- Երբ մի քանի ընտրությունից հետո քաշեք թղթապանակը, ընտրված ֆայլը փոփոխվում է միասին տեղափոխվելու համար:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fixaði fyrirbæri þar sem bókaskráin mín hvarf.\n\n7.1.9 (2023 05 22)\n\n-HVendur breytingar hefur verið breytt mörgum línum af texta.\n\n-Einn sem eytt er gagnagrunninum sem ekki er notaður.\n\n-Við höfum uppfært margar aðgerðir eins og myndavél, klippingu og OCR.\n\n-Fixed Open Source leyfið.\n\n-Áhorfandinn hefur bætt við aðgerð til að tilgreina nýju viðmiðin."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Sögunni Tap Bókamerkisvilla hefur verið breytt.\n-Fixaði bókamerkið innihald / minnisblað til að afrita.\n-Hver þegar hann dregur í möppuna eftir margvíslegt val er valin skrá breytt til að færa sig saman."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.2.0 (2023 05 30)\n\nKitab sənədimin itməsi ilə bir fenomen.\n\n7.1.9 (2023 05 22)\n\n-Həyat, mətn xətti dəyişdirilər.\n\nİstifadə edilməyən silinmiş verilənlər bazası.\n\n-Biz kamera, redaktə və OCR kimi birdən çox funksiyanı yeniləyib.\n\nAçıq mənbə lisenziyasını düzəldildi.\n\n- Görüntü yeni meyarları təyin etmək üçün bir funksiya əlavə etdi."
+    "devnote": "7.2.1 (2023 06 01)\n\n- Tarixçilərə vurun Bookmark səhvi dəyişdirildi.\nKopyalamaq üçün əlfəcin məzmunu / memo.\nBirdən çox seçimdən sonra qovluğa sürükləndikdə, seçilmiş fayl birlikdə hərəkət etmək üçün dəyişdirilir."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fixed 'n verskynsel waarin my boeklêer verdwyn het.\n\n7.1.9 (2023 05 22)\n\n-Wan aanpassings, is verskeie reëls van die teks gewysig.\n\n-Die geskrap databasis wat nie gebruik word nie.\n\n-Ons het verskeie funksies soos kamera, redigering en OCR opgedateer.\n\n-Fix die open source -lisensie.\n\n-Die kyker het 'n funksie bygevoeg om die nuwe kriteria te spesifiseer."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Die geskiedenis Tik op die boekmerkfout is verander.\n-Fix die boekmerkinhoud / memo om te kopieer.\n-Wanneer die geselekteerde lêer na die lêergids gesleep word, word die geselekteerde lêer aangepas om saam te beweeg."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fixed një fenomen në të cilin u zhduk skedari im i librit.\n\n7.1.9 (2023 05 22)\n\n-Kur modifikimet, linja të shumta të tekstit janë modifikuar.\n\n-Në bazën e të dhënave të fshirë që nuk përdoret.\n\n-Ne kemi azhurnuar funksione të shumta si kamera, redaktimi dhe OCR.\n\n-Fixed licencën e burimit të hapur.\n\n-Shakja e shikuesit ka shtuar një funksion për të specifikuar kriteret e reja."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Korjimi i Historive Takoni Gabimi i Bookmark -ut është modifikuar.\n-Fixoi përmbajtjen / memorandumin e faqerojtës për të kopjuar.\n-Kur zvarrë në dosje Pas zgjedhjes së shumëfishtë, skedari i zgjedhur modifikohet për të lëvizur së bashku."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.2.0 (2023 05 30)\n\n- የእኔ መጽሐፍ ፋይል የጠፋበትን ክስተት አሳይቷል.\n\n7.1.9 (2023 05 22)\n\n- ማሻሻያዎችን በማሻሻያዎች, በርካታ የጽሑፍ መስመሮች ተስተካክለዋል.\n\n- የማይገለጽ የመረጃ ቋት.\n\n- እኛ እንደ ካሜራ, አርት editing ት እና OCR ያሉ በርካታ ተግባራቶችን ዘምኗል.\n\n- ክፍት የሆነ ምንጭ ፍቃድ አሳይቷል.\n\n- ተመልካች አዲሶቹን መስፈርቶች ለመግለጽ ተግባር አክሏል."
+    "devnote": "7.2.1 (2023 06 01)\n\n- ታሪኮች መታ ማድረግ የዕልባት ስሕተት ስህተት ተስተካክሏል.\n- የዕልባት ይዘቶች / ማስታወሻዎች ለመቅዳት.\n- ከበርካታ ምርጫ በኋላ ወደ አቃፊው መጎትት, የተመረጠው ፋይል አብረው እንዲንቀሳቀስ ተሻሽሏል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fixitud nähtus, milles minu raamatufail kadus.\n\n7.1.9 (2023 05 22)\n\n-Kui modifikatsioonid on muudetud mitut tekstirida.\n\n-kustutatud andmebaas, mida ei kasutata.\n\n-Me on värskendanud mitut funktsiooni, näiteks kaamera, redigeerimine ja OCR.\n\n-Fixitud avatud lähtekoodiga litsents.\n\n-Vaataja on lisanud funktsiooni uute kriteeriumide täpsustamiseks."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Ajalugu Tap Bookar Bearicki viga on muudetud.\n-Fixitud järjehoidja sisu / memo kopeerimiseks.\n-Kui pärast mitme valikut kausta lohistades, muudetakse valitud faili koos liikumiseks."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.2.0 (2023 05 30)\n\nایک ایسے رجحان کو تیار کیا جس میں میری کتاب کی فائل غائب ہوگئی۔\n\n7.1.9 (2023 05 22)\n\nجب ترمیمات ، متن کی متعدد لائنوں میں ترمیم کی گئی ہے۔\n\n-حذف شدہ ڈیٹا بیس جو استعمال نہیں ہوتا ہے۔\n\nہم نے متعدد افعال کو اپ ڈیٹ کیا ہے جیسے کیمرا ، ایڈیٹنگ ، اور او سی آر۔\n\nاوپن سورس لائسنس کا فکسڈ۔\n\n-ناظرین نے نئے معیار کی وضاحت کے لئے ایک فنکشن شامل کیا ہے۔"
+    "devnote": "7.2.1 (2023 06 01)\n\n-ہسٹری ٹیپ بک مارک کی غلطی میں ترمیم کی گئی ہے۔\nکاپی کرنے کے لئے بُک مارک کے مندرجات / میمو کو فکسڈ کریں۔\nجب ایک سے زیادہ انتخاب کے بعد فولڈر میں گھسیٹتے ہوئے ، منتخب فائل کو ایک ساتھ منتقل کرنے کے لئے تبدیل کیا جاتا ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Приксили явище, в якому зникнув мій файл книги.\n\n7.1.9 (2023 05 22)\n\n-Коли модифікації, декілька рядків тексту були змінені.\n\n-Терована база даних, яка не використовується.\n\n-Ми оновили кілька функцій, таких як камера, редагування та OCR.\n\n-Приксили ліцензію з відкритим кодом.\n\n-Теутор додав функцію для визначення нових критеріїв."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Торічна помилка Tap Tap Flodmark була модифікована.\n-Прикано вміст закладки / доповідь для копіювання.\n-Коли перетягування в папку Після декількох виборів вибраний файл змінюється для переміщення разом."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fadeva un fenomeno in cui il mio file di libro è scomparso.\n\n7.1.9 (2023 05 22)\n\n-Quando modifiche, sono state modificate più righe di testo.\n\n-Il database eliminato che non viene utilizzato.\n\n-Con abbiamo aggiornato più funzioni come fotocamera, editing e OCR.\n\n-Fadeva la licenza open source.\n\n-Le visualizzatore ha aggiunto una funzione per specificare i nuovi criteri."
+    "devnote": "7.2.1 (2023 06 01)\n\n-La storie TAP TAP BREIL MERCHIO è stato modificato.\n-Faded il contenuto / memo del segnalibro da copiare.\n-Quando trascinando nella cartella dopo la selezione multipla, il file selezionato viene modificato per muoversi insieme."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Bixed fenomena di mana file buku saya menghilang.\n\n7.1.9 (2023 05 22)\n\n-Ketika modifikasi, beberapa baris teks telah dimodifikasi.\n\n-Base yang dihapus yang tidak digunakan.\n\n-Kami telah memperbarui beberapa fungsi seperti kamera, pengeditan, dan OCR.\n\n-Bixed lisensi open source.\n\n-Sembaga telah menambahkan fungsi untuk menentukan kriteria baru."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Histories tap kesalahan bookmark telah dimodifikasi.\n-Bixed konten / memo bookmark untuk disalin.\n-Ketika menyeret ke folder setelah beberapa pilihan, file yang dipilih dimodifikasi untuk bergerak bersama."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.2.0（2023 05 30）\n\n - 本のファイルが消えた現象を固定しました。\n\n7.1.9（2023 05 22）\n\n - 変更の場合、複数のテキストが変更されています。\n\n - 使用されていない削除されたデータベース。\n\n - カメラ、編集、OCRなどの複数の機能を更新しました。\n\n - オープンソースライセンスを固定しました。\n\n - 視聴者は、新しい基準を指定する関数を追加しました。"
+    "devnote": "7.2.1（2023 06 01）\n\n - 履歴タップブックマークエラーが変更されました。\n - コピーするためにブックマークの内容 /メモを固定しました。\n - 複数の選択後にフォルダーにドラッグすると、選択したファイルが変更されて一緒に移動します。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.2.0 (2023 05 30)\n\n-შეაფასა ფენომენი, რომელშიც ჩემი წიგნის ფაილი გაქრა.\n\n7.1.9 (2023 05 22)\n\n-როდესაც მოდიფიკაციები შეიცვალა, ტექსტის მრავალი სტრიქონი შეიცვალა.\n\n-წაშლილი მონაცემთა ბაზა, რომელიც არ გამოიყენება.\n\n-ჩვენ განვაახლეთ მრავალი ფუნქცია, როგორიცაა კამერა, რედაქტირება და OCR.\n\n-შეადგინა ღია წყაროს ლიცენზია.\n\n-მაყურებელმა დაამატა ფუნქცია ახალი კრიტერიუმების დასადგენად."
+    "devnote": "7.2.1 (2023 06 01)\n\n-შეიცვალა ისტორიების ონკანის სანიშნეების შეცდომა.\n-დაასახელეთ სანიშნე შინაარსი / მემორანდუმი კოპირებისთვის.\n-როდესაც მრავალჯერადი შერჩევის შემდეგ საქაღალდეში გადაიტანეთ, შერჩეული ფაილი შეცვლილია ერთად გადაადგილების მიზნით."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Kufihle umkhathi lapho ifayela lami lencwadi lanyamalala.\n\n7.1.9 (2023 05 22)\n\n-Ukuguqulwa kabusha, imigqa eminingi yombhalo iguquliwe.\n\n-I-database esusiwe engasetshenziswa.\n\n-Sivuselele imisebenzi eminingi efana nekhamera, ukuhlela, ne-OCR.\n\n-Kufihle ilayisense elivulekile lomthombo.\n\n-Ubukeli ungeze umsebenzi ukucacisa inqubo entsha."
+    "devnote": "7.2.1 (2023 06 01)\n\n-I-Eze-Emthobikhombisa Iphutha le-Bookmark Iphutha liguquliwe.\n-Ukunamathisela okuqukethwe kwe-bookmark / memo ukukopisha.\n-Kuhudula kufolda ngemuva kokukhethwa okuningi, ifayela elikhethiwe lishintshwa ukuze lihambisane ndawonye."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.2.0（2023 05 30）\n\n - 修正了我的书文件消失的现象。\n\n7.1.9（2023 05 22）\n\n - 修改后，已经修改了多行文本。\n\n - 未使用的删除数据库。\n\n - 我们更新了多个功能，例如相机，编辑和OCR。\n\n - 修正开源许可证。\n\n - 查看器添加了一个函数来指定新标准。"
+    "devnote": "7.2.1（2023 06 01）\n\n - 历史点击书签错误已修改。\n - 将书签内容 /备忘录固定为复制。\n - 在多次选择后将其拖动到文件夹时，将修改选定的文件以一起移动。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.2.0（2023 05 30）\n\n - 修正了我的書文件消失的現象。\n\n7.1.9（2023 05 22）\n\n - 修改後，已經修改了多行文本。\n\n - 未使用的刪除數據庫。\n\n - 我們更新了多個功能，例如相機，編輯和OCR。\n\n - 修正開源許可證。\n\n - 查看器添加了一個函數來指定新標準。"
+    "devnote": "7.2.1（2023 06 01）\n\n - 歷史點擊書籤錯誤已修改。\n - 將書籤內容 /備忘錄固定為複制。\n - 在多次選擇後將其拖動到文件夾時，將修改選定的文件以一起移動。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.2.0（2023 05 30）\n\n - 修正了我的書文件消失的現象。\n\n7.1.9（2023 05 22）\n\n - 修改後，已經修改了多行文本。\n\n - 未使用的刪除數據庫。\n\n - 我們更新了多個功能，例如相機，編輯和OCR。\n\n - 修正開源許可證。\n\n - 查看器添加了一個函數來指定新標準。"
+    "devnote": "7.2.1（2023 06 01）\n\n - 歷史點擊書籤錯誤已修改。\n - 將書籤內容 /備忘錄固定為複制。\n - 在多次選擇後將其拖動到文件夾時，將修改選定的文件以一起移動。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Pixoval jev, ve kterém můj soubor knihy zmizel.\n\n7.1.9 (2023 05 22)\n\n-Když modifikace, bylo upraveno více řádků textu.\n\n-Odstraněná databáze, která se nepoužívá.\n\n-Aktualizovali jsme více funkcí, jako je kamera, úpravy a OCR.\n\n-Pixed licence s otevřeným zdrojovým kódem.\n\n-Prohlížeč přidal funkci pro specifikaci nových kritérií."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Historie Klepnutím na záložku byla upravena.\n-Pixoval obsah / poznámku záložky pro kopírování.\n-Při přetažení do složky po vícenásobném výběru je vybraný soubor upraven tak, aby se pohyboval dohromady."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.2.0 (2023 05 30)\n\n- Менің кітап файлым жоғалып кеткен құбылыс болды.\n\n7.1.9 (2023 05 22)\n\n- Айналмалар, мәтіннің бірнеше жолдары өзгертілген.\n\n- пайдаланылмаған жойылған мәліметтер базасы.\n\n- Біз камера, редакциялау және OCR сияқты бірнеше функцияларды жаңарттық.\n\n- ашық бастапқы лицензияны қолданды.\n\n- Көрермендер жаңа критерийлерді көрсету үшін функция қосады."
+    "devnote": "7.2.1 (2023 06 01)\n\nТарих түріндегі бетбелгі түймесін түрлендірілген қате өзгертілді.\n- Көшіру үшін бетбелгі мазмұны / Memo-ны қолданыңыз.\n- Бірнеше таңдаудан кейін қалтаға апарған кезде таңдалған файл бірге жылжу үшін өзгертіледі."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fixà un fenomen en el qual va desaparèixer el meu fitxer.\n\n7.1.9 (2023 05 22)\n\n-Quan modificacions, s'han modificat diverses línies de text.\n\n-La base de dades suprimida que no s’utilitza.\n\n-Er hem actualitzat múltiples funcions com ara càmera, edició i OCR.\n\n-Fixia la llicència de codi obert.\n\n-El espectador ha afegit una funció per especificar els nous criteris."
+    "devnote": "7.2.1 (2023 06 01)\n\n-El històries TAP S'ha modificat l'error de marcador.\n-Fixeu el contingut / nota del marcador per copiar.\n-Quan arrossegant a la carpeta després de diverses seleccions, el fitxer seleccionat es modifica per moure's junts."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.2.0 (2023 05 30)\n\n-ನನ್ನ ಪುಸ್ತಕ ಫೈಲ್ ಕಣ್ಮರೆಯಾದ ಒಂದು ವಿದ್ಯಮಾನವನ್ನು ಅನುಭವಿಸಿದೆ.\n\n7.1.9 (2023 05 22)\n\n-ಮಾರ್ಪಾಡುಗಳು, ಪಠ್ಯದ ಅನೇಕ ಸಾಲುಗಳನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n\nಬಳಸಲಾಗದ ಅಳಿಸಲಾದ ಡೇಟಾಬೇಸ್.\n\n-ನಾವು ಕ್ಯಾಮೆರಾ, ಎಡಿಟಿಂಗ್ ಮತ್ತು ಒಸಿಆರ್ ನಂತಹ ಅನೇಕ ಕಾರ್ಯಗಳನ್ನು ನವೀಕರಿಸಿದ್ದೇವೆ.\n\n-ಪಿಕ್ಸ್ಡ್ ಓಪನ್ ಸೋರ್ಸ್ ಪರವಾನಗಿ.\n\nಹೊಸ ಮಾನದಂಡಗಳನ್ನು ನಿರ್ದಿಷ್ಟಪಡಿಸಲು ವೀಕ್ಷಕರು ಒಂದು ಕಾರ್ಯವನ್ನು ಸೇರಿಸಿದ್ದಾರೆ."
+    "devnote": "7.2.1 (2023 06 01)\n\n-ಹಿಸ್ಟೀಸ್ ಟ್ಯಾಪ್ ಬುಕ್‌ಮಾರ್ಕ್ ದೋಷವನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\nನಕಲಿಸಲು ಬುಕ್‌ಮಾರ್ಕ್ ವಿಷಯಗಳು / ಮೆಮೋವನ್ನು ಫಿಕ್ಸ್ ಮಾಡಲಾಗಿದೆ.\nಬಹು ಆಯ್ಕೆಯ ನಂತರ ಫೋಲ್ಡರ್‌ಗೆ ಎಳೆಯುವಾಗ, ಆಯ್ದ ಫೈಲ್ ಅನ್ನು ಒಟ್ಟಿಗೆ ಚಲಿಸಲು ಮಾರ್ಪಡಿಸಲಾಗುತ್ತದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Piksirao fenomen u kojem je nestala moja datoteka knjiga.\n\n7.1.9 (2023. 05 22)\n\n-Kada je modifikacije modificirano više redaka teksta.\n\n-Izbrisana baza podataka koja se ne koristi.\n\n-Ažurirali smo više funkcija poput kamere, uređivanja i OCR -a.\n\n-Piksirao licencu otvorenog koda.\n\n-Pregledavač je dodao funkciju za određivanje novih kriterija."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Sories Pogreška oznaka označila je.\n-Piksirao sadržaj oznake / memorandum za kopiranje.\n-Kada povlačenje u mapu nakon višestrukog odabira, odabrana datoteka se mijenja kako bi se kretala zajedno."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fixed បាតុភូតដែលឯកសាររបស់ខ្ញុំបានបាត់។\n\n7.1.9 (2023 05 22)\n\nនៅពេលកែប្រែការកែប្រែ, បន្ទាត់ជាច្រើននៃអត្ថបទត្រូវបានកែប្រែ។\n\n- មូលដ្ឋានទិន្នន័យដែលបានលុបដែលមិនត្រូវបានប្រើ។\n\nយើងបានធ្វើបច្ចុប្បន្នភាពមុខងារជាច្រើនដូចជាកាមេរ៉ាការកែសម្រួលនិង OCR ។\n\n-Fixed អាជ្ញាប័ណ្ណប្រភពកូដចំហ។\n\nអ្នកមើលបានបន្ថែមមុខងារមួយដើម្បីបញ្ជាក់ពីលក្ខណៈវិនិច្ឆ័យថ្មី។"
+    "devnote": "7.2.1 (2023 06 01)\n\nប្រវត្តិរូបកំហុសម៉ាស៊ីនចំណាំត្រូវបានកែប្រែ។\n-Fixed មាតិកាចំណាំ / អនុសរណៈដើម្បីចម្លង។\nនៅពេលអូសទៅថតបន្ទាប់ពីជម្រើសច្រើនឯកសារដែលបានជ្រើសរើសត្រូវបានកែប្រែដើម្បីផ្លាស់ទីជាមួយគ្នា។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.2.0 (2023 05 30)\n\n- Менин китеп файлым жоголуп кеткен феноменон.\n\n7.1.9 (2023 05 22)\n\n- өзгөртүүлөр, тексттин бир нече линиялары өзгөртүлдү.\n\n- колдонулбаган жок кылынган маалыматтар базасы.\n\n-Бирок, мисалы, камера, редакциялоо жана OCR сыяктуу бир нече функцияларды жаңырткан.\n\nАчык булак лицензиясы.\n\n- Көрүүчү жаңы критерийлерди көрсөтүү үчүн функцияны кошту."
+    "devnote": "7.2.1 (2023 06 01)\n\n- Тарых тарыхы кыстарма катасы өзгөртүлдү.\nНускадагы кыстарма мазмунун / эскертүүгө шилтеме берди.\n- Бир нече тандоодон кийин папкага сүйрөп, тандалган файл бирге жылып кетүүгө өзгөртүлдү."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.2.0 (2023 05 30)\n\nஎனது புத்தகக் கோப்பு மறைந்த ஒரு நிகழ்வை சரிசெய்தது.\n\n7.1.9 (2023 05 22)\n\nமாற்றங்கள் போது, ​​உரையின் பல கோடுகள் மாற்றியமைக்கப்பட்டுள்ளன.\n\nபயன்படுத்தப்படாத நீக்கப்பட்ட தரவுத்தளம்.\n\nகேமரா, எடிட்டிங் மற்றும் OCR போன்ற பல செயல்பாடுகளை நாங்கள் புதுப்பித்துள்ளோம்.\n\nதிறந்த மூல உரிமத்தை சரிசெய்யவும்.\n\nபுதிய அளவுகோல்களைக் குறிப்பிட பார்வையாளர் ஒரு செயல்பாட்டைச் சேர்த்துள்ளார்."
+    "devnote": "7.2.1 (2023 06 01)\n\n-வரலாறுகள் தட்டல் புக்மார்க் பிழை மாற்றியமைக்கப்பட்டுள்ளது.\nநகலெடுக்க புக்மார்க்கு உள்ளடக்கங்கள் / மெமோவை சரிசெய்யவும்.\nபல தேர்வுகளுக்குப் பிறகு கோப்புறைக்கு இழுக்கும்போது, ​​தேர்ந்தெடுக்கப்பட்ட கோப்பு ஒன்றாக நகர்த்த மாற்றப்படுகிறது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.2.0 (2023 05 30)\n\n-แก้ไขปรากฏการณ์ที่ไฟล์หนังสือของฉันหายไป\n\n7.1.9 (2023 05 22)\n\n-เมื่อมีการดัดแปลงข้อความหลายบรรทัดได้รับการแก้ไข\n\n-ฐานข้อมูลที่ถูกลบซึ่งไม่ได้ใช้\n\n-เราได้อัปเดตฟังก์ชั่นหลายอย่างเช่นกล้องการแก้ไขและ OCR\n\n-แก้ไขใบอนุญาตโอเพ่นซอร์ส\n\n-ผู้ชมได้เพิ่มฟังก์ชั่นเพื่อระบุเกณฑ์ใหม่"
+    "devnote": "7.2.1 (2023 06 01)\n\n-มีการแก้ไขข้อผิดพลาดในการทำบุ๊กมาร์กประวัติ\n-แก้ไขเนื้อหาบุ๊คมาร์ค / บันทึกเพื่อคัดลอก\n-เมื่อลากไปยังโฟลเดอร์หลังจากการเลือกหลายรายการไฟล์ที่เลือกจะถูกแก้ไขเพื่อย้ายไปด้วยกัน"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Kitap dosyamın kaybolduğu bir fenomen.\n\n7.1.9 (2023 05 22)\n\n-Değişikliklerde, birden çok metin satırı değiştirildi.\n\n-Kullanılmayan silinen veritabanı.\n\n-Kamera, düzenleme ve OCR gibi birden fazla işlevi güncelledik.\n\n-açık kaynak lisansına sabitlendi.\n\n-İzleyici yeni kriterleri belirtmek için bir işlev ekledi."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Boalmark hatası Tap Tap hatası değiştirildi.\n-Kopyalamak için yer imleri içeriğini / notunu sabitledi.\n-Bir çoklu seçimden sonra klasöre sürüklerken, seçilen dosya birlikte hareket edecek şekilde değiştirilir."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.2.0 (2023 05 30)\n\n-నా పుస్తక ఫైల్ అదృశ్యమైన ఒక దృగ్విషయాన్ని రూపొందించింది.\n\n7.1.9 (2023 05 22)\n\n-మార్పులు చేసినప్పుడు, టెక్స్ట్ యొక్క బహుళ పంక్తులు సవరించబడ్డాయి.\n\n-ఉపయోగించని తొలగించిన డేటాబేస్.\n\n-మేము కెమెరా, ఎడిటింగ్ మరియు OCR వంటి బహుళ విధులను నవీకరించాము.\n\n-ఒక ఓపెన్ సోర్స్ లైసెన్స్‌ను ఫిక్స్ చేసింది.\n\n-ఒక కొత్త ప్రమాణాలను పేర్కొనడానికి వీక్షకుడు ఒక ఫంక్షన్‌ను జోడించారు."
+    "devnote": "7.2.1 (2023 06 01)\n\n-చరిత్రలు ట్యాప్ బుక్‌మార్క్ లోపం సవరించబడింది.\nకాపీ చేయడానికి బుక్‌మార్క్ విషయాలు / మెమోను ఫిక్స్ చేసింది.\nబహుళ ఎంపిక తర్వాత ఫోల్డర్‌కు లాగడం, ఎంచుకున్న ఫైల్ కలిసి కదలడానికి సవరించబడుతుంది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.2.0 (2023 05 30)\n\nਇੱਕ ਵਰਤਾਰੇ ਨਾਲ, ਜਿਸ ਵਿੱਚ ਮੇਰੀ ਕਿਤਾਬ ਦੀ ਫਾਈਲ ਗਾਇਬ ਹੋ ਗਈ.\n\n7.1.9 (2023 05 22)\n\n-ਜੁਏ ਗਏ ਸੋਧ, ਟੈਕਸਟ ਦੀਆਂ ਕਈ ਲਾਈਨਾਂ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ.\n\n-ਪਰੇਡ ਡੇਟਾਬੇਸ ਜੋ ਕਿ ਵਰਤਿਆ ਨਹੀਂ ਗਿਆ ਹੈ.\n\n-ਅਸਈ ਨੇ ਕਈ ਫੰਕਸ਼ਨਾਂ ਨੂੰ ਅਪਡੇਟ ਕੀਤੇ, ਸੰਪਾਦਕ ਅਤੇ ਓਸੀਆਰ ਵਰਗੇ ਅਪਡੇਟ ਕੀਤੇ ਹਨ.\n\nਓਪਨ ਸੋਰਸ ਲਾਇਸੈਂਸ\n\n-ਇਹ ਦਰਸ਼ਕ ਨੇ ਨਵੇਂ ਮਾਪਦੰਡ ਨਿਰਧਾਰਤ ਕਰਨ ਲਈ ਇੱਕ ਫੰਕਸ਼ਨ ਜੋੜਿਆ ਹੈ."
+    "devnote": "7.2.1 (2023 06 01)\n\n-ਇਹ ਹਿਸਟਰੀਸ ਟੈਪ ਬੁੱਕਮਾਰਕ ਗਲਤੀ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ.\nਕਾਪੀ ਕਰਨ ਲਈ ਬੁੱਕਮਾਰਕ ਸਮੱਗਰੀ / ਮੀਮੋ ਨੂੰ ਜੋੜਿਆ.\n-ਜਾਲ ਮਲਟੀਪਲ ਚੋਣ ਤੋਂ ਬਾਅਦ ਫੋਲਡਰ 'ਤੇ ਖਿੱਚਣਾ, ਚੁਣੀ ਫਾਈਲ ਨੂੰ ਇਕੱਠੇ ਜਾਣ ਲਈ ਸੋਧਿਆ ਗਿਆ ਹੈ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.2.0 (2023 05 30)\n\n-پدیده ای را که در آن پرونده کتاب من ناپدید شد ، ایجاد کرد.\n\n7.1.9 (2023 05 22)\n\n-هنگامی که اصلاحات ، چندین خط متن اصلاح شده است.\n\n-بانک اطلاعاتی حذف شده که استفاده نمی شود.\n\n-ما عملکردهای مختلفی مانند دوربین ، ویرایش و OCR را به روز کرده ایم.\n\nمجوز منبع باز را تنظیم کنید.\n\n-بیننده تابعی را برای مشخص کردن معیارهای جدید اضافه کرده است."
+    "devnote": "7.2.1 (2023 06 01)\n\n-خطای روی نشانک روی تاریخ اصلاح شده است.\n-باکس محتویات / یادداشت برای کپی کردن.\n-پس از انتخاب چندگانه ، پس از انتخاب چندگانه ، پرونده انتخاب شده برای جابجایی با هم اصلاح می شود."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fixado um fenômeno no qual meu arquivo de livro desapareceu.\n\n7.1.9 (2023 05 22)\n\n-Quando modificações, várias linhas de texto foram modificadas.\n\n-O banco de dados excluído que não é usado.\n\n-Exemos atualizamos várias funções, como câmera, edição e OCR.\n\n-Fixou a licença de código aberto.\n\n-O espectador adicionou uma função para especificar os novos critérios."
+    "devnote": "7.2.1 (2023 06 01)\n\n-As Histórias Tap Tap marcador Erro foi modificado.\n-Fixou o conteúdo / memorando de marcador para copiar.\n-Quando arrastando para a pasta após seleção múltipla, o arquivo selecionado é modificado para se mover juntos."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Udostępniałem zjawisko, w którym zniknął mój plik książki.\n\n7.1.9 (2023 05 22)\n\n-Po modyfikacji modyfikowano wiele wierszy tekstu.\n\n-Usunięta baza danych, która nie jest używana.\n\n-Zaktualizowaliśmy wiele funkcji, takich jak aparat, edycja i OCR.\n\n-Udostępniono licencję open source.\n\n-Przeglądarka dodała funkcję, aby określić nowe kryteria."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Historie Błąd zakładek został zmodyfikowany.\n-Fixsed Blaokmark Treść / notatkę do kopiowania.\n-Po przeciąganiu się do folderu po wielokrotnym wyborze wybrany plik jest modyfikowany, aby poruszać się razem."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Pection d'un phénomène dans lequel mon fichier de livre a disparu.\n\n7.1.9 (2023 05 22)\n\n-Lors des modifications, plusieurs lignes de texte ont été modifiées.\n\n-La base de données supprimée qui n'est pas utilisée.\n\n-Nous avons mis à jour plusieurs fonctions telles que la caméra, l'édition et l'OCR.\n\n-Fixé la licence open source.\n\n-Le visionneuse a ajouté une fonction pour spécifier les nouveaux critères."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Les histoires de la billetterie des histoires ont été modifiées.\n-Fixé le contenu des signets / mémo à copier.\n-Lorsque glisser vers le dossier après plusieurs sélections, le fichier sélectionné est modifié pour se déplacer ensemble."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Kirjastani ilmiö, jossa kirjatiedostoni katosi.\n\n7.1.9 (2023 05 22)\n\n-Kun modifikaatiot, useita tekstin rivejä on muokattu.\n\n-Poistettu tietokanta, jota ei käytetä.\n\n-Me on päivittänyt useita toimintoja, kuten kamera, muokkaus ja OCR.\n\n-Kortti avoimen lähdekoodin lisenssi.\n\n-Katsoja on lisännyt toiminnon uusien kriteerien määrittämiseksi."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Historiat napauttavat kirjanmerkkvirhettä on muokattu.\n-Kirjan kirjanmerkkin sisällön / muistion yhdistäminen.\n-Kun, joka vetää kansioon useita valinnan jälkeen, valittua tiedostoa muokataan liikkumaan yhdessä."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fixed isang kababalaghan kung saan nawala ang file ng aking libro.\n\n7.1.9 (2023 05 22)\n\n-Kapag ang mga pagbabago, maraming linya ng teksto ang nabago.\n\n-Ang tinanggal na database na hindi ginagamit.\n\n-Na -update namin ang maraming mga pag -andar tulad ng camera, pag -edit, at OCR.\n\n-Pagtataya ang bukas na lisensya ng mapagkukunan.\n\n-Ang manonood ay nagdagdag ng isang function upang tukuyin ang bagong pamantayan."
+    "devnote": "7.2.1 (2023 06 01)\n\n-Ang mga kasaysayan ng error sa bookmark ay nabago.\n-Pagtapos ang mga nilalaman / memo ng bookmark upang kopyahin.\n-Kapag ang pag -drag sa folder pagkatapos ng maraming pagpili, ang napiling file ay binago upang magkasama."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.2.0 (2023 05 30)\n\n-Fixelt egy olyan jelenséget, amelyben a könyvfájl eltűnt.\n\n7.1.9 (2023 05 22)\n\n-A módosítások során a szöveg több sorát módosították.\n\n-A nem használt törölt adatbázis.\n\n-Több funkciót frissítettünk, mint például a kamera, a szerkesztés és az OCR.\n\n-A nyílt forráskódú licenc rögzítése.\n\n-A néző hozzáadott egy függvényt az új kritériumok meghatározásához."
+    "devnote": "7.2.1 (2023 06 01)\n\n-A történetek a könyvjelző hibát módosították.\n-A másoláshoz rögzítették a könyvjelző tartalmát / feljegyzését.\n-Ha többszörös kiválasztás után a mappába húzva, a kiválasztott fájl módosul, hogy együtt mozogjon."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.2.0 (2023 05 30)\n\n-הקבע תופעה בה נעלמת קובץ הספרים שלי.\n\n7.1.9 (2023 05 22)\n\nכאשר שינויים, שורות טקסט מרובות שונו.\n\n-מאגר המידע שנמחק שלא נעשה בו שימוש.\n\nעדכנו פונקציות מרובות כמו מצלמה, עריכה ו- OCR.\n\n-קבע את רישיון הקוד הפתוח.\n\nהצופה הוסיף פונקציה לציון הקריטריונים החדשים."
+    "devnote": "7.2.1 (2023 06 01)\n\n-שגיאת הסימניות של ההיסטוריה שונתה.\n-קבע את התוכן / תזכיר הסימניות להעתקה.\n-שגרירה לתיקיה לאחר בחירה מרובה, הקובץ שנבחר משתנה כדי לנוע יחד."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.2.0 (2023 05 30)\n\n-एक एक घटना है जिसमें मेरी पुस्तक फ़ाइल गायब हो गई है।\n\n7.1.9 (2023 05 22)\n\n-जब संशोधन, पाठ की कई पंक्तियों को संशोधित किया गया है।\n\nहटाए गए डेटाबेस का उपयोग नहीं किया जाता है।\n\n-हम ने कैमरा, एडिटिंग और ओसीआर जैसे कई कार्यों को अपडेट किया है।\n\n-जब ओपन सोर्स लाइसेंस।\n\n-क्या दर्शक ने नए मानदंडों को निर्दिष्ट करने के लिए एक फ़ंक्शन जोड़ा है।"
+    "devnote": "7.2.1 (2023 06 01)\n\n-हम इतिहास टैप बुकमार्क त्रुटि को संशोधित किया गया है।\nकॉपी करने के लिए बुकमार्क सामग्री / मेमो को बदल दिया।\n-जब कई चयन के बाद फ़ोल्डर में घसीटते हैं, तो चयनित फ़ाइल को एक साथ स्थानांतरित करने के लिए संशोधित किया जाता है।"
   }
 }
