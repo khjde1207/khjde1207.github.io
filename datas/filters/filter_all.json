@@ -183,7 +183,7 @@
         "enable": true
     },
     {
-        "name":"Filter words/sentences repeated 3 or more times",
+        "name":"Word filtering that repeats more than 3 times",
         "expr":true,
         "filter":"(((\\S{1,}..))\\2{3,})",
         "to":"",

@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.2.2 (2023 06 03)\n\n-In addition of page animation options.\n-If you do not press the check icon exactly when you write a memo, fixed the problem that could not be stored.\n-Fixed a problem that could not be erased.\n-Fixed the phenomenon when the settings opened slowly and the language change.\n-TTS related libraries have been updated."
+    "devnote": "7.2.3 (2023 06 07)\n\n-When the Filter was added, the bug was added to the top.\n-Fixed the phenomenon of bugs when the file was opened."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.2.2 (2023 06 03)\n\n- 페이지 넘김 애니메이션 옵션을 추가 했습니다. \n- 메모 작성시 정확히 체크 아이콘을 누르지 못하면 저장 안되던 문제 를 수정 하였습니다.\n- 메모를 지우지 못하던 문제를 수정 하였습니다.\n- 설정이 느리게 열리는 현상 및 언어 변경시 렉걸리는 현상을 수정하였습니다..\n- TTS 관련 라이브러리 를 업데이트 하였습니다."
+    "devnote": "7.2.3 (2023 06 07)\n\n- filter 추가시 맨 위에 추가 되던 버그 수정하였습니다. \n- 파일오픈시 간혹 버그가 생기던 현상을 수정하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.2.2 (2023 06 03)\n\n-Enstación de opcións de animación de páxinas.\n-Se non preme a icona de comprobación exactamente cando escribe unha nota, solucionou o problema que non se podería almacenar.\n-Fixou un problema que non se puido borrar.\n-Dixou o fenómeno cando a configuración se abriu lentamente e o cambio da lingua.\nActualizáronse as bibliotecas relacionadas cos TTS."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Cando se engadiu o filtro, o erro engadiuse á parte superior.\n-Dixou o fenómeno de erros cando se abriu o ficheiro."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.2.2 (2023 06 03)\n\nપૃષ્ઠ એનિમેશન વિકલ્પોનો ઉમેરો.\n-જો જ્યારે તમે કોઈ મેમો લખો છો ત્યારે તમે ચેક આયકનને બરાબર દબાવતા નથી, તો તે સમસ્યાને ઠીક કરી નથી કે જે સંગ્રહિત કરી શકાતી નથી.\n-એક સમસ્યા ફિક્સ કરી કે જે ભૂંસી શકાય નહીં.\nજ્યારે સેટિંગ્સ ધીરે ધીરે ખુલી અને ભાષા બદલાતી વખતે ઘટનાને ફિક્સ કરી.\n-ટીટીએસ સંબંધિત લાઇબ્રેરીઓ અપડેટ કરવામાં આવી છે."
+    "devnote": "7.2.3 (2023 06 07)\n\n-જ્યારે ફિલ્ટર ઉમેરવામાં આવ્યું, ત્યારે ભૂલ ટોચ પર ઉમેરવામાં આવી.\nજ્યારે ફાઇલ ખોલવામાં આવી ત્યારે ભૂલોની ઘટનાને ફિક્સ કરી."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.2.2 (2023 06 03)\n\n-Προσθήκη επιλογών κινούμενων σχεδίων σελίδας.\n-Αν δεν πατήσετε το εικονίδιο ελέγχου ακριβώς όταν γράφετε ένα σημείωμα, διορθώστε το πρόβλημα που δεν θα μπορούσε να αποθηκευτεί.\n-Επάρη ένα πρόβλημα που δεν μπορούσε να διαγραφεί.\n-Επάρη το φαινόμενο όταν οι ρυθμίσεις άνοιξαν αργά και η αλλαγή της γλώσσας.\n-Οι βιβλιοθήκες που σχετίζονται με τις ΤΕΤ έχουν ενημερωθεί."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Όταν προστέθηκε το φίλτρο, το σφάλμα προστέθηκε στην κορυφή.\n-Επάρη το φαινόμενο των σφαλμάτων όταν άνοιξε το αρχείο."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.2.2 (2023 06 03)\n\n-In toevoeging van pagina -animatie -opties.\n-Als u niet op het controlepictogram drukt wanneer u een memo schrijft, lost het probleem op dat niet kon worden opgeslagen.\n-bond een probleem op dat niet kon worden gewist.\n-Fixed het fenomeen toen de instellingen langzaam openden en de taalverandering.\n-TTS -gerelateerde bibliotheken zijn bijgewerkt."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Toen het filter werd toegevoegd, werd de bug aan de top toegevoegd.\n-Fixed het fenomeen van bugs toen het bestand werd geopend."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": ".2.2.2 (2023 06 06 0))\n\n- पृष्ठ एनिमेसन विकल्पहरूको थप।\n- यदि तपाइँ एक मेमो लेख्दा समस्या समाधान हुँदा चेक आइकन थिच्नुभयो, जुन भण्डार गर्न नसकिने समस्या समाधान भयो।\nएक समस्याको समस्याले पत्ता लगाईयो जुन मेटाउन सकिदैन।\n-Fixeoned जब सेटिंग्स बिस्तारै र भाषा परिवर्तन भयो।\n-Tts सम्बन्धित पुस्तकालयहरू अपडेट गरिएको छ।"
+    "devnote": ".2.2..3 (2023 06 06 0))\n\n- जब फिल्टर थपिएको थियो, बगलाई माथि थपिएको थियो।\nफाईल खोल्दा बगहरूको घटना घटाउन।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.2.2 (2023 06 03)\n\n-I tillegg av sideanimasjonsalternativer.\n-Hvis du ikke trykker på sjekkikonet nøyaktig når du skriver et notat, løste problemet som ikke kunne lagres.\n-Fikseres et problem som ikke kunne slettes.\n-Fikset fenomenet når innstillingene åpnet sakte og språkendringen.\n-TTS relaterte biblioteker er oppdatert."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Når filteret ble lagt til, ble feilen lagt til toppen.\n-Fikserte fenomenet feil da filen ble åpnet."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.2.2 (2023 06 03)\n\n-I tilføjelse af sideanimationsindstillinger.\n-Hvis du ikke trykker på checkikonet nøjagtigt, når du skriver et memo, skal du løse problemet, der ikke kunne gemmes.\n-Fikset et problem, der ikke kunne slettes.\n-Fast fænomenet, da indstillingerne åbnede langsomt og sprogskiftet.\n-TTS -relaterede biblioteker er blevet opdateret."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Når filteret blev tilføjet, blev fejlen tilsat til toppen.\n-Fastt fænomenet bugs, da filen blev åbnet."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.2.2 (2023 06 03)\n\n-Hinzufügen von Seitenanimationsoptionen.\n-Wenn Sie das Schecksymbol nicht genau drücken, wenn Sie ein Memo schreiben, behoben das Problem, das nicht gespeichert werden konnte.\n-Fixte ein Problem, das nicht gelöscht werden konnte.\n-Fixte das Phänomen, als sich die Einstellungen langsam öffneten und sich die Sprachänderung veränderte.\n-TTS -verwandte Bibliotheken wurden aktualisiert."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Wenn der Filter hinzugefügt wurde, wurde der Fehler nach oben hinzugefügt.\n-Fixte das Phänomen von Fehler, als die Datei geöffnet wurde."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.2.2 (2023 06 03)\n\n-in ເພີ່ມຕົວເລືອກພາບເຄື່ອນໄຫວຂອງຫນ້າເຈ້ຍ.\n- ຖ້າທ່ານບໍ່ກົດປຸ່ມ Check Check ຢ່າງແນ່ນອນເມື່ອທ່ານຂຽນບົດບັນທຶກ, ແກ້ໄຂບັນຫາທີ່ບໍ່ສາມາດເກັບໄດ້ໄດ້.\n-Fixed ບັນຫາທີ່ບໍ່ສາມາດລົບລ້າງໄດ້.\n-Fixed ປະກົດການໃນເວລາທີ່ການຕັ້ງຄ່າໄດ້ເປີດໃຫ້ຊ້າແລະການປ່ຽນແປງພາສາ.\nບັນດາຫ້ອງສະຫມຸດທີ່ກ່ຽວຂ້ອງໄດ້ຖືກປັບປຸງແລ້ວ."
+    "devnote": "7.2.3 (2023 06 07)\n\nໃນເມື່ອການກັ່ນຕອງໄດ້ຖືກເພີ່ມ, ຂໍ້ບົກພ່ອງໄດ້ຖືກເພີ່ມໃສ່ດ້ານເທິງ.\n-Fixed ປະກົດການຂອງຂໍ້ບົກພ່ອງໃນເວລາທີ່ໄຟລ໌ໄດ້ຖືກເປີດ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.2.2 (2023 06 03)\n\n-Pieplešu animācijas opcijas.\n-Ja, rakstot piezīmi, precīzi nospiežat čeku ikonu, novērš problēmu, kuru nevarēja saglabāt.\n-Pievēroja problēmu, kuru nevarēja izdzēst.\n-Piefiksēja parādību, kad iestatījumi tika atvērti lēnām un mainās valoda.\n-TTS saistītās bibliotēkas ir atjauninātas."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Kad pievienots filtrs, kļūda tika pievienota augšpusē.\n-Pievēroja kļūdu fenomenu, kad tika atvērts fails."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.2.2 (2023 06 03)\n\n-В добавлении параметров анимации страниц.\n-Если вы не нажимаете значок проверки точно, когда пишете записку, исправила проблему, которая не может быть сохранена.\n-Посновал проблему, которую нельзя было стерто.\n-Посновал явление, когда настройки открываются медленно, а язык изменяется.\n-Tts связанные библиотеки были обновлены."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Когда был добавлен фильтр, ошибка была добавлена ​​на вершину.\n-Посновал феномен ошибок, когда файл был открыт."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.2.2 (2023 06 03)\n\n-Du adăugarea opțiunilor de animație a paginilor.\n-Dacă nu apăsați pictograma de verificare exact când scrieți o memorare, rezolvați problema care nu a putut fi stocată.\n-Pixa o problemă care nu a putut fi ștersă.\n-Fixat fenomenul când setările s -au deschis lent și limbajul se schimbă.\n-Bibliotecile legate de TTS au fost actualizate."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Când s -a adăugat filtrul, bug -ul a fost adăugat în partea de sus.\n-Fixat fenomenul bug -urilor când a fost deschis fișierul."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.2.2 (2023 06 03)\n\n-pridedant puslapio animacijos parinktis.\n-Jei tiksliai nespauskite patikrinimo piktogramos, kai rašote memorandumą, išsprendėte problemą, kurios nebuvo galima saugoti.\n-Fixed problema, kurios nebuvo galima ištrinti.\n-Fixed fenomenas, kai nustatymai lėtai atsidarė ir keičiasi kalba.\n-TTS susijusios bibliotekos buvo atnaujintos."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Kai filtras buvo pridėtas, klaida buvo pridėta prie viršaus.\n-Fiksavo klaidų reiškinį, kai failas buvo atidarytas."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.2.2 (2023 06 03)\n\n-पृष्ठ अ‍ॅनिमेशन पर्यायांच्या व्यतिरिक्त.\n-आपल्या मेमो लिहिताना आपण चेक आयकॉन दाबत नसल्यास, संग्रहित करता येणार नाही अशा समस्येचे निराकरण केले.\n-एक समस्या तयार केली जाऊ शकत नाही.\nसेटिंग्ज हळूहळू उघडल्या आणि भाषा बदलतात तेव्हा इंद्रियगोचर फिक्स केले.\n-टीटीएस संबंधित लायब्ररी अद्यतनित केल्या आहेत."
+    "devnote": "7.2.3 (2023 06 07)\n\n-जेव्हा फिल्टर जोडला गेला, तेव्हा बग शीर्षस्थानी जोडला गेला.\n-फाईल उघडली तेव्हा बग्सची घटना तयार केली."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.2.2 (2023 06 03)\n\n-Во додавање на опции за анимација на страници.\n-Ако не ја притиснете иконата за проверка точно кога ќе напишете меморандум, го поправите проблемот што не може да се чува.\n-Семи проблем што не може да се избрише.\n-Секуваше феноменот кога поставките се отворија полека и јазикот се менува.\n-Бо библиотеките поврзани со TTS се ажурирани."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Кога е додаден филтерот, грешката е додадена на врвот.\n-Секуваше феноменот на грешки кога датотеката е отворена."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.2.2 (2023 06 03)\n\nപേജ് ആനിമേഷൻ ഓപ്ഷനുകൾ നൽകി.\n-നിങ്ങൾ ഒരു മെമ്മോ എഴുതുമ്പോൾ നിങ്ങൾ കൃത്യമായി ചെക്ക് ഐക്കൺ അമർത്തുന്നില്ലെങ്കിൽ, സംഭരിക്കാൻ കഴിയാത്ത പ്രശ്നം പരിഹരിച്ചു.\nമായ്ക്കാനാവാത്ത ഒരു പ്രശ്നം പരിഹരിച്ചു.\nക്രമീകരണങ്ങൾ സാവധാനത്തിലും ഭാഷാ മാറ്റത്തിലും തുറന്നപ്പോൾ പ്രതിഭാസങ്ങൾ ഫയൽ ചെയ്തു.\n-റ്റുകൾ ബന്ധപ്പെട്ട ലൈബ്രറികൾ അപ്ഡേറ്റുചെയ്തു."
+    "devnote": "7.2.3 (2023 06 07)\n\n-ഇത് ഫിൽട്ടർ ചേർത്തപ്പോൾ ബഗ് മുകളിലേക്ക് ചേർത്തു.\nഫയൽ തുറക്കുമ്പോൾ ബഗുകളുടെ പ്രതിഭാസങ്ങൾ ഫയൽ ചെയ്തു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.2.2 (2023 06 03)\n\n-Dalam penambahan pilihan animasi halaman.\n-Jika anda tidak tekan ikon semak tepat apabila anda menulis memo, menetapkan masalah yang tidak dapat disimpan.\n-Mixed masalah yang tidak dapat dipadamkan.\n-Mixed fenomena apabila tetapan dibuka perlahan -lahan dan perubahan bahasa.\n-TTS Perpustakaan yang berkaitan telah dikemas kini."
+    "devnote": "7.2.3 (2023 06 07)\n\n-When penapis telah ditambah, pepijat itu ditambah ke bahagian atas.\n-Mixed fenomena pepijat apabila fail dibuka."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.2.2 (2023 06 03)\n\n-Энэ Хуудасны хөдөлгөөнт сонголтуудаас гадна.\n-Хэрэв та SMO-г бичихдээ чекийн дүрсийг яг дарахгүй, хадгалах боломжгүй асуудлыг шийднэ.\n-Бүх асуудлыг арилгаж чадаагүй асуудлыг шийдсэн.\n-ХЭДЭЭЛЛИЙГ ХЭРЭГЛЭХГҮЙ, ХУВИЙН ХУВИЙН ХУВЬЦААГҮЙ БОЛОМЖТОЙ.\n-Тэдтэй холбоотой сангууд шинэчлэгдсэн."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Бүх шүүлтүүр нэмж оруулсан бол алдааг дээд хэсэгт нэмэв.\n-Би файл нээгдсэн үед алдаа гарав."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.2.2 (2023 06 03)\n\n-Ikusi orriaren animazio aukerak gehituz.\n-Erantz doazela ez duzula kontrolatzen nota bat idazten duzunean, konpondu ezin daitekeen arazoa konpondu.\n- ezabatu ezin izan den arazo bat.\n-Phenomenoa ezarpenak poliki-poliki eta hizkuntza aldatzeko irekitakoan.\n-Eskin erlazionatutako liburutegiak eguneratu dira."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Gograilua gehitu zenean, akatsa gehitu zitzaion goiko aldean.\n-Piloa ireki zenean akatsak fenomenoa aipatu zuen."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.2.2 (2023 06 03)\n\nPage Animation Options များအပြင်။\n- သင်မှတ်စုတိုရေးသည့်အခါ check icon ကိုအတိအကျမနှိပ်ပါကသိမ်းဆည်းထားသောပြ problem နာကိုသင်သတ်မှတ်သည်။\n- ဖျက်လို့မရတဲ့ပြ a နာတစ်ခု။\nsettings ကိုဖြည်းဖြည်းဖွင့်ပြီးဘာသာစကားပြောင်းလဲမှုကိုဖွင့်သောအခါဖြစ်စဉ်ကိုဖယ်ရှားပေးသည်။\n-tts ဆက်စပ်စာကြည့်တိုက်များမွမ်းမံထားသည်။"
+    "devnote": "72.3 (2023 06 07)\n\n- filter ကိုထည့်သွင်းထားသည့်အတွက် bug ကိုထိပ်တွင်ထည့်သွင်းခဲ့သည်။\nဖိုင်ကိုဖွင့်သောအခါ bug များဖြစ်စဉ်ကိုဖွင့်ထားခဲ့သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.2.2 (2023 06 03)\n\n-Trong bổ sung các tùy chọn hoạt hình trang.\n-Nếu bạn không nhấn biểu tượng kiểm tra chính xác khi bạn viết một bản ghi nhớ, đã khắc phục sự cố không thể lưu trữ.\n-Fixed một vấn đề không thể xóa được.\n-Fix đã xảy ra hiện tượng khi các cài đặt mở chậm và ngôn ngữ thay đổi.\n-Các thư viện liên quan đã được cập nhật."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Khi bộ lọc đã được thêm vào, lỗi đã được thêm vào đầu.\n-Fix đã xảy ra hiện tượng lỗi khi tệp được mở."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.2.2 (2023 06 03)\n\n-У даданне варыянтаў анімацыі старонкі.\n-Калі вы не націснеце на значок праверкі дакладна, калі вы пішаце памятку, выправілі праблему, якую нельга захаваць.\n-Пісела праблему, якую нельга было сцёрта.\n-Калегуе феномен, калі налады адкрываліся павольна і змяняюцца мова.\n-TTS, звязаныя з бібліятэкамі, былі абноўлены."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Калі фільтр быў дададзены, памылка была дададзена ўверсе.\n-Пес у феномене памылак, калі файл быў адкрыты."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.2.2 (2023 06 03)\n\nপৃষ্ঠা অ্যানিমেশন বিকল্পগুলির সংযোজন।\n-আপনি যদি কোনও মেমো লেখেন ঠিক তখনই আপনি চেক আইকনটি টিপেন না, এমন সমস্যাটি স্থির করুন যা সংরক্ষণ করা যায় না।\n-এমন একটি সমস্যা তৈরি করা হয়েছে যা মুছে ফেলা যায় না।\n-সেটিংস ধীরে ধীরে খোলা এবং ভাষা পরিবর্তিত হলে ঘটনাটি ফিক্স করে।\n-Tts সম্পর্কিত গ্রন্থাগারগুলি আপডেট করা হয়েছে।"
+    "devnote": "7.2.3 (2023 06 07)\n\n-ফিল্টারটি যুক্ত করা হলে, বাগটি শীর্ষে যুক্ত করা হয়েছিল।\nফাইলটি খোলার সময় বাগের ঘটনাটি ফিক্স করে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.2.2 (2023 06 03)\n\n-В добавяне на опции за анимация на страници.\n-Ако не натискате иконата за проверка точно, когато напишете бележка, отстрани проблема, който не може да се съхранява.\n-Фиксира проблем, който не може да бъде изтрит.\n-Фиксираха явлението, когато настройките се отвориха бавно и езикът се променя.\n-TTS, свързани с библиотеките, са актуализирани."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Когато е добавен филтърът, грешката се добавя в горната част.\n-Фексира феномена на бъгове при отваряне на файла."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.2.2 (2023 06 03)\n\n-У додавању опција анимације странице.\n-Ако не притиснете икону Провера тачно када напишете белешку, решите проблем који се не може чувати.\n-Прећи се проблем који се није могао избрисати.\n-Причила је феномен када се подешавања отворе полако и промене језика.\n-ТТ су повезане библиотеке у којима се ажурирају."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Када је додат филтер, грешка је додата у врһ.\n-Прегледало је феномен грешака када је датотека отворена."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.2.2 (2023 06 03)\n\n-Kuongezewa chaguzi za uhuishaji wa ukurasa.\n-Kama usibonyeza ikoni ya kuangalia haswa unapoandika memo, fasta shida ambayo haikuweza kuhifadhiwa.\n-Kuongeza shida ambayo haikuweza kufutwa.\n-Kuongeza jambo wakati mipangilio ilifunguliwa polepole na mabadiliko ya lugha.\nMaktaba zinazohusiana -TTS zimesasishwa."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Wakati kichujio kiliongezwa, mdudu uliongezwa juu.\n-Kuhakikisha jambo la mende wakati faili ilifunguliwa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.2.2 (2023 06 03)\n\n-För tillägg av sidanimeringsalternativ.\n-Om du inte trycker på kontrollikonen exakt när du skriver ett memo, fixa problemet som inte kunde lagras.\n-Fixerade ett problem som inte kunde raderas.\n-Fixade fenomenet när inställningarna öppnades långsamt och språkförändringen.\n-TTS -relaterade bibliotek har uppdaterats."
+    "devnote": "7.2.3 (2023 06 07)\n\n-När filtret lades till, lades felet till toppen.\n-Fixade fenomenet buggar när filen öppnades."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.2.2 (2023 06 03)\n\n-En adición de opciones de animación de página.\n-Si no presiona el icono de verificación exactamente cuando escribe una nota, solucionó el problema que no podía almacenarse.\n-Fijo un problema que no se pudo borrar.\n-Dié el fenómeno cuando la configuración se abrió lentamente y el idioma cambia.\n-Las bibliotecas relacionadas con TTTS se han actualizado."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Cuando se agregó el filtro, el error se agregó a la parte superior.\n-Fijo el fenómeno de los errores cuando se abrió el archivo."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.2.2 (2023 06 03)\n\n-Pridanie možností animácie stránky.\n-Ak nestlačíte ikonu kontroly presne pri písaní poznámky, vyriešite problém, ktorý sa nedal uložiť.\n-Vyplýva problém, ktorý sa nedal vymazať.\n-Fenomén stanovil, keď sa nastavenia otvorili pomaly a zmenili sa jazyk.\nKnižnice súvisiace s TTS boli aktualizované."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Keď bol filter pridaný, chyba bola pridaná na vrchol.\n-Po otvorení súboru si vytvorí fenomén chýb."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.2.2 (2023 06 03)\n\n-Sed dodate možnosti animacije strani.\n-Če ne pritisnete ikone za preverjanje natančno, ko napišete opombo, odpravite težavo, ki je ni bilo mogoče shraniti.\n-Piksna težava, ki je ni bilo mogoče izbrisati.\n-Piksiramo pojav, ko so se nastavitve počasi odprle in se jezik spremeni.\n-TTS, povezane knjižnice, so posodobljene."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Ko smo dodali filter, je bil hrošč dodan na vrh.\n-Piksirani pojav napak, ko je bila datoteka odprta."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.2.2 (2023 06 03)\n\nපිටුව සජීවිකරණ විකල්ප එකතු කිරීම.\n-ඔබ චෙක්පත් අයිකනය ඔබ සංදේශයක් ලියන විට හරියටම, ගබඩා කළ නොහැකි ගැටලුව විසඳා ගන්න.\nමකා දැමිය නොහැකි ගැටලුවක් අනුගමනය කළේය.\nසැකසුම් සෙමින් විවෘත වූ විට සංසිද්ධිය ප්රොනොමිනික්ස් සහ භාෂා වෙනස් වේ.\n-Tts ආශ්රිත පුස්තකාල යාවත්කාලීන කර ඇත."
+    "devnote": "7.2.3 (2023 06 07)\n\nපෙරණය එකතු කළ විට, දෝෂය ඉහළට එකතු කරන ලදී.\nගොනුව විවෘත කළ විට දෝෂ සංසිද්ධිය."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.2.2 (2023 06 03)\n\n-إضافة خيارات الرسوم المتحركة للصفحة.\n-إذا لم تضغط على أيقونة التحقق بالضبط عند كتابة مذكرة ، فستصل إلى المشكلة التي لا يمكن تخزينها.\n-زخل مشكلة لا يمكن محوها.\n-خز الظاهرة عندما فتحت الإعدادات ببطء وتتغير اللغة.\n-تم تحديث المكتبات ذات الصلة."
+    "devnote": "7.2.3 (2023 06 07)\n\n-عندما تمت إضافة المرشح ، تمت إضافة الخطأ إلى الأعلى.\n-خز ظاهرة الحشرات عند فتح الملف."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.2.2 (2023 06 03)\n\n- Էջի անիմացիոն ընտրանքների ավելացում:\n-Եթե դուք չեք սեղմում ստուգման պատկերակը հենց այն ժամանակ, երբ հուշագիր եք գրել, շտկեք այն խնդիրը, որը հնարավոր չէ պահել:\n-Միքսեց մի խնդիր, որը չէր կարող ջնջվել:\n-Մազեկված երեւույթը, երբ պարամետրերը դանդաղ են բացվել, եւ լեզուն փոխվում է:\n- Թարմացվել են առնչվող գրադարանները:"
+    "devnote": "7.2.3 (2023 06 07)\n\n- Երբ ավելացվեց ֆիլտրը, վրիպակը ավելացվեց գագաթին:\n- Ֆայլը բացվելիս ֆայլի բացվելուց հետո պարզել է սխալների երեւույթը:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.2.2 (2023 06 03)\n\n-S í viðbót við valkosti á blaðsíðu.\n-Ef þú ýtir ekki á athugunartáknið nákvæmlega þegar þú skrifar minnisblað, lagaðir vandamálið sem ekki var hægt að geyma.\n-Fixaði vandamál sem ekki var hægt að eyða.\n-Fixaði fyrirbæri þegar stillingarnar opnuðu hægt og tungumálið breytist.\n-Tts tengdar bókasöfn hafa verið uppfærð."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Höfðu síu bætt við var galla bætt við toppinn.\n-Fixaði fyrirbæri galla þegar skráin var opnuð."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.2.2 (2023 06 03)\n\n- səhifə animasiya seçimlərinin əlavə edilməsi.\n-Həmdə bir memoranı yazdığınız zaman yoxlama nişanını basmırsınız, saxlanıla bilməyən problemi həll etdi.\n-Hər bir problemi silmək olmaz.\nParametrlər yavaş-yavaş açıldıqda və dil dəyişikliyi olduqda fenomen.\n-TT ilə əlaqəli kitabxanalar yeniləndi."
+    "devnote": "7.2.3 (2023 06 07)\n\n- filtrin əlavə edildikdə, səhv yuxarıya əlavə edildi.\nFayl açıldıqda səhvlərin fenomenini düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.2.2 (2023 06 03)\n\n-In toevoeging van bladsy -animasie -opsies.\n-As u nie op die tjek -ikoon druk as u 'n memo skryf nie, het u die probleem opgelos wat nie gestoor kon word nie.\n-Fix 'n probleem wat nie uitgewis kon word nie.\n-Fix die verskynsel toe die instellings stadig oopgaan en die taal verander.\n-TTS -verwante biblioteke is opgedateer."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Toe die filter bygevoeg word, is die fout bo -op gevoeg.\n-Fix die verskynsel van foute toe die lêer oopgemaak is."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.2.2 (2023 06 03)\n\n-Në shtimin e opsioneve të animacionit të faqeve.\n-Nëse nuk shtypni ikonën e kontrollit saktësisht kur shkruani një memorandum, rregulloni problemin që nuk mund të ruhet.\n-Fixoi një problem që nuk mund të fshihej.\n-Fixoi fenomenin kur cilësimet u hapën ngadalë dhe ndryshimi i gjuhës.\n-Bibliotekat e lidhura me TTT janë azhurnuar."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Kur u shtua filtri, bug u shtua në majë.\n-Fixed fenomenin e defekteve kur u hap skedari."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.2.2 (2023 06 03)\n\n- የገጽ እነማ አማራጮች ተጨማሪ.\n- የቼክ አዶን አዶን ካልተጫኑ በትክክል ሜሞ ሲጽፉ ሊከማች የማይችል ችግሩን ያስተካክላል.\n- ሊጠፋ የማይችል ችግርን አስገኝቷል.\nቅንብሮች በቀስታ እና የቋንቋ ለውጥ ሲከፈቱ ክስተቱን አድጓል.\n- ተዛማጅነት ያላቸው ቤተመጽሐፍቶች ዘምነዋል."
+    "devnote": "7.2.3 (2023 06 07)\n\n- ማጣሪያው ከተጨመረ ሳንካው ወደ ላይ ተጨምሯል.\nፋይሉ ሲከፈት የሳንካዎች ክስተት"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.2.2 (2023 06 03)\n\n-Lehe animatsiooni valikute lisamisel.\n-Kui te ei vajuta memo kirjutamisel kontrollikooni täpselt, parandas probleem, mida ei olnud võimalik salvestada.\n-Fixitud probleem, mida ei olnud võimalik kustutada.\n-Fixed nähtus, kui sätted aeglaselt avanesid ja keele muutus.\n-TTS -iga seotud raamatukogud on värskendatud."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Kui filter lisati, lisati viga ülaossa.\n-Fixitud vigade nähtus, kui fail avati."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.2.2 (2023 06 03)\n\nصفحہ حرکت پذیری کے اختیارات کے اضافے میں۔\nاگر آپ کسی میمو کو لکھتے ہیں تو چیک آئیکن کو بالکل نہیں دباتے ہیں تو ، اس مسئلے کو طے کیا جاتا ہے جسے ذخیرہ نہیں کیا جاسکتا ہے۔\nایک ایسی پریشانی کا فکسڈ جس کو مٹا نہیں سکتا تھا۔\nجب ترتیبات آہستہ آہستہ کھل گئیں اور زبان میں تبدیلی آتی ہے تو اس رجحان کو فکس کیا۔\n-TTS سے متعلق لائبریریوں کو اپ ڈیٹ کردیا گیا ہے۔"
+    "devnote": "7.2.3 (2023 06 07)\n\nجب فلٹر شامل کیا گیا تو ، بگ کو اوپر میں شامل کیا گیا۔\nجب فائل کھولی گئی تو کیڑے کے رجحان کو فکسڈ کیا گیا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.2.2 (2023 06 03)\n\n-П додавання параметрів анімації сторінки.\n-Якщо ви не натискаєте значок перевірки саме під час запису доповіді, виправляйте проблему, яку не вдалося зберегти.\n-Прикано проблему, яку не вдалося стерти.\n-Прикував явище, коли налаштування відкривалися повільно і змінюється мовою.\n-TTS, пов’язані з бібліотеками, оновлено."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Коли фільтр додавали, помилку додавали до вершини.\n-Приксили явище помилок, коли файл був відкритий."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.2.2 (2023 06 03)\n\n-Na aggiunta di opzioni di animazione della pagina.\n-Se non premi l'icona di controllo esattamente quando scrivi un promemoria, risolto il problema che non poteva essere archiviato.\n-Fadeva un problema che non poteva essere cancellato.\n-Fadeva il fenomeno quando le impostazioni si aprirono lentamente e il linguaggio cambia.\n-TTS Le librerie correlate sono state aggiornate."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Quando il filtro è stato aggiunto, il bug è stato aggiunto in alto.\n-Fadeva il fenomeno dei bug quando il file è stato aperto."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.2.2 (2023 06 03)\n\n-T dalam penambahan opsi animasi halaman.\n-Jika Anda tidak menekan ikon cek tepat saat Anda menulis memo, memperbaiki masalah yang tidak dapat disimpan.\n-Bixed masalah yang tidak bisa dihapus.\n-Bixed fenomena ketika pengaturan dibuka perlahan dan bahasa berubah.\n-TTS Pustaka Terkait telah diperbarui."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Ketika filter ditambahkan, bug ditambahkan ke atas.\n-Bixed fenomena bug saat file dibuka."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.2.2（2023 06 03）\n\n - ページアニメーションオプションの追加。\n - メモを書くときにチェックアイコンを正確に押しない場合は、保存できない問題を修正しました。\n - 消去できない問題を固定しました。\n - 設定がゆっくりと開かれ、言語が変化したときに現象を固定しました。\n-tts関連ライブラリが更新されました。"
+    "devnote": "7.2.3（2023 06 07）\n\n - フィルターが追加されたとき、バグが上部に追加されました。\n - ファイルが開いたときにバグの現象を固定しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.2.2 (2023 06 03)\n\n-გვერდის ანიმაციის პარამეტრების დამატებით.\n-თუ თქვენ არ დააჭირეთ ჩეკის ხატს ზუსტად როდესაც წერთ მემორანდუმს, დააფიქსირეთ ის პრობლემა, რომლის შენახვა შეუძლებელია.\n-შეაფასა პრობლემა, რომლის წაშლა შეუძლებელია.\n-შეაფასა ფენომენი, როდესაც პარამეტრები ნელა გაიხსნა და ენა იცვლება.\nგანახლებულია -TTS– სთან დაკავშირებული ბიბლიოთეკები."
+    "devnote": "7.2.3 (2023 06 07)\n\n-როდესაც ფილტრს დაემატა, ზემოდან დაემატა შეცდომა.\n-შეადგინა შეცდომების ფენომენი, როდესაც ფაილი გაიხსნა."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.2.2 (2023 06 03)\n\n-Ingezelelwa kwezinketho zekhasi le-animation.\n-Uma ungacindezeli isithonjana sesheke ngqo lapho ubhala i-memo, uhlele inkinga ebingagcinwa.\n-Kwenza inkinga engasuswa.\n--Fixed the phenomenon lapho izilungiselelo zivulwa kancane kanti nolimi luguquka.\nImitapo yolwazi ehlobene ne -TTS ibuyekeziwe."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Kwangezwa isihlungi, i-bug yengezwe phezulu.\n--I-fixed the phenomenon yezimbungulu lapho kuvulwa ifayili."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.2.2（2023 06 03）\n\n - 添加页面动画选项。\n - 如果您在编写备忘录时不要精确按检查图标，请修复无法存储的问题。\n - 固定一个无法消除的问题。\n - 当设置缓慢打开并且语言变化时，将现象固定在现象中。\n与TTS相关的库已更新。"
+    "devnote": "7.2.3（2023 06 07）\n\n - 添加过滤器时，添加到顶部。\n - 文件打开时，错误的现象。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.2.2（2023 06 03）\n\n - 添加頁面動畫選項。\n - 如果您在編寫備忘錄時不要精確按檢查圖標，請修復無法存儲的問題。\n - 固定一個無法消除的問題。\n - 當設置緩慢打開並且語言變化時，將現象固定在現像中。\n與TTS相關的庫已更新。"
+    "devnote": "7.2.3（2023 06 07）\n\n - 添加過濾器時，添加到頂部。\n - 將文件打開時，錯誤的現象。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.2.2（2023 06 03）\n\n - 添加頁面動畫選項。\n - 如果您在編寫備忘錄時不要精確按檢查圖標，請修復無法存儲的問題。\n - 固定一個無法消除的問題。\n - 當設置緩慢打開並且語言變化時，將現象固定在現像中。\n與TTS相關的庫已更新。"
+    "devnote": "7.2.3（2023 06 07）\n\n - 添加過濾器時，添加到頂部。\n - 將文件打開時，錯誤的現象。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.2.2 (2023 06 03)\n\n-Při přidání možností animace stránky.\n-Po -li, když píšete memorandu, neopravíte problém, který nemohl být uložen.\n-Pixed problém, který nemohl být vymazán.\n-Poté, co se nastavení otevřela pomalu a změna jazyka se změnila.\n-TTS související knihovny byly aktualizovány."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Když byl filtr přidán, byla chyba přidána na vrchol.\n-Po otevření souboru je fenomén chyb."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.2.2 (2023 06 03)\n\n- Парақ анимация нұсқаларын қосу.\n- Егер сіз тексеру белгішесін дәл баспасаңыз, жадыны жазған кезде, сақталмайтын мәселені шешіңіз.\n- өшіре алмайтын проблеманы көрсетті.\n- Параметрлер баяу ашылған кезде және тіл өзгерген кезде құбылысты қолданыңыз.\n-Ттц қатысты кітапханалар жаңартылды."
+    "devnote": "7.2.3 (2023 06 07)\n\n- Сүзгі қосылған кезде қате жоғарыға қосылды.\n- Файл ашылған кезде қателер құбылысын көрсетті."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.2.2 (2023 06 03)\n\n-En addició d’opcions d’animació de pàgines.\n-Si no premeu la icona de comprovació exactament quan escriviu una nota, heu solucionat el problema que no es podia emmagatzemar.\n-Prí va plantejar un problema que no es podia esborrar.\n-Prí el fenomen quan la configuració es va obrir lentament i el llenguatge va canviar.\n-L’han actualitzat les biblioteques relacionades amb TTTS."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Quan afegit el filtre, es va afegir l'error a la part superior.\n-Prit el fenomen dels errors quan es va obrir el fitxer."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.2.2 (2023 06 03)\n\nಪುಟ ಅನಿಮೇಷನ್ ಆಯ್ಕೆಗಳ ಸೇರ್ಪಡೆಯಲ್ಲಿ.\n-ನೀವು ಮೆಮೋ ಬರೆಯುವಾಗ ನೀವು ಚೆಕ್ ಐಕಾನ್ ಅನ್ನು ನಿಖರವಾಗಿ ಒತ್ತದಿದ್ದರೆ, ಸಂಗ್ರಹಿಸಲಾಗದ ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸಿ.\n-ಅಳಿಸಲಾಗದ ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\nಸೆಟ್ಟಿಂಗ್‌ಗಳು ನಿಧಾನವಾಗಿ ತೆರೆದಾಗ ಮತ್ತು ಭಾಷಾ ಬದಲಾದಾಗ ಈ ವಿದ್ಯಮಾನವನ್ನು ಜೋಡಿಸಲಾಗಿದೆ.\n-ಟಿಟಿಎಸ್ ಸಂಬಂಧಿತ ಗ್ರಂಥಾಲಯಗಳನ್ನು ನವೀಕರಿಸಲಾಗಿದೆ."
+    "devnote": "7.2.3 (2023 06 07)\n\n-ಫಿಲ್ಟರ್ ಅನ್ನು ಸೇರಿಸಿದಾಗ, ದೋಷವನ್ನು ಮೇಲಕ್ಕೆ ಸೇರಿಸಲಾಗಿದೆ.\nಫೈಲ್ ತೆರೆದಾಗ ದೋಷಗಳ ವಿದ್ಯಮಾನವನ್ನು ಜೋಡಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.2.2 (2023 06 03)\n\n-U dodavanju mogućnosti animacije stranice.\n-Ako ne pritisnite ikonu za provjeru točno kada napišete dopis, riješio je problem koji se nije mogao pohraniti.\n-Piksirao problem koji se nije mogao izbrisati.\n-Piksirao je fenomen kada su se postavke polako otvorile i jezik se mijenja.\n-Ažurirane su biblioteke povezane."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Kada je dodan filter, bug je dodan na vrh.\n-Piksirao je fenomen grešaka kada je datoteka otvorena."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.2.2 (2023 06 03)\n\n- បន្ថែមការបន្ថែមនៃជម្រើសចលនាទំព័រ។\n- ប្រសិនបើអ្នកមិនចុចរូបតំណាងធីកឱ្យបានច្បាស់នៅពេលអ្នកសរសេរអនុសរណៈបានជួសជុលបញ្ហាដែលមិនអាចរក្សាទុកបាន។\n-Fixed បញ្ហាដែលមិនអាចលុបបាន។\n-Fixed បាតុភូតនៅពេលការកំណត់បានបើកយឺត ៗ ហើយផ្លាស់ប្តូរភាសា។\nបណ្ណាល័យដែលទាក់ទងនឹង -tts ត្រូវបានធ្វើបច្ចុប្បន្នភាព។"
+    "devnote": "7.2.3 (2023 06 07)\n\nនៅពេលដែលតម្រងត្រូវបានបន្ថែមកំហុសត្រូវបានបន្ថែមទៅខាងលើ។\n-Fixed បាតុភូតនៃកំហុសនៅពេលឯកសារត្រូវបានបើក។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.2.2 (2023 03 03)\n\n-Сиздин анимация жолдору кошуу.\n-Эгер сиз эскертме жазып жатканда, текшерүү сөлөкөтүн баспайсыз.\n-Fixed көйгөйдү тазалоо мүмкүн эмес.\nЖөндөөлөр жай ачылганда жана тилдин өзгөрүшүн ачканда кубулушту.\n-Ттеттер менен байланышкан китепканалар жаңыртылды."
+    "devnote": "7.2.3 (2023 06 09)\n\n- Чыпка кошулду, мүчүлүштүктүн үстүнө кошулду.\n- Файл ачылганда мүчүлүштүктөрдүн кубулушун аныктады."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.2.2 (2023 06 03)\n\nபக்க அனிமேஷன் விருப்பங்களைச் சேர்ப்பதில்.\nநீங்கள் ஒரு மெமோவை எழுதும்போது காசோலை ஐகானை அழுத்தவில்லை என்றால், சேமிக்க முடியாத சிக்கலை சரிசெய்தது.\nஅழிக்க முடியாத ஒரு சிக்கலை சரிசெய்தது.\nஅமைப்புகள் மெதுவாக திறக்கப்பட்டு மொழி மாறும்போது நிகழ்வை சரிசெய்தது.\n-TTS தொடர்பான நூலகங்கள் புதுப்பிக்கப்பட்டுள்ளன."
+    "devnote": "7.2.3 (2023 06 07)\n\nவடிகட்டி சேர்க்கப்பட்டபோது, ​​பிழை மேலே சேர்க்கப்பட்டது.\nகோப்பு திறக்கப்பட்டபோது பிழைகள் நிகழ்வை சரிசெய்யவும்."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.2.2 (2023 06 03)\n\n-ในการเพิ่มตัวเลือกแอนิเมชั่นหน้า\n-หากคุณไม่กดไอคอนตรวจสอบอย่างแน่นอนเมื่อคุณเขียนบันทึกช่วยแก้ไขปัญหาที่ไม่สามารถเก็บไว้ได้\n-แก้ไขปัญหาที่ไม่สามารถลบได้\n-แก้ไขปรากฏการณ์เมื่อการตั้งค่าเปิดช้าและการเปลี่ยนแปลงภาษา\n-TTS ห้องสมุดที่เกี่ยวข้องได้รับการอัปเดตแล้ว"
+    "devnote": "7.2.3 (2023 06 07)\n\n-เมื่อเพิ่มตัวกรองจะเพิ่มข้อผิดพลาดไปด้านบน\n-แก้ไขปรากฏการณ์ของข้อบกพร่องเมื่อเปิดไฟล์"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.2.2 (2023 06 03)\n\n-Sayfa animasyon seçeneklerinin eklenmesinde.\n-Bir not yazarken tam olarak kontrol simgesine basmazsanız, saklanamayan sorunu düzeltti.\n-Silinemeyen bir sorunu karıştırdı.\n-Ayarlar yavaş açıldığında ve dil değiştiğinde fenomeni karıştırdı.\n-TTS ile ilgili kütüphaneler güncellendi."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Filtre eklendiğinde, hata üste eklendi.\n-Dosya açıldığında hataların fenomenini karıştırdı."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.2.2 (2023 06 03)\n\n-పేజీ యానిమేషన్ ఎంపికల చేరికలో.\n-మీరు చెక్ ఐకాన్ నొక్కకపోతే మీరు మెమో వ్రాసేటప్పుడు, నిల్వ చేయలేని సమస్యను పరిష్కరించండి.\n-ఒక సమస్యను తొలగించలేము.\nసెట్టింగులు నెమ్మదిగా తెరిచినప్పుడు మరియు భాష మారినప్పుడు దృగ్విషయాన్ని ఫిక్స్ చేసింది.\n-TTS సంబంధిత లైబ్రరీలు నవీకరించబడ్డాయి."
+    "devnote": "7.2.3 (2023 06 07)\n\n-వడపోత జోడించినప్పుడు, బగ్‌ను పైకి చేర్చారు.\nఫైల్ తెరిచినప్పుడు దోషాల దృగ్విషయాన్ని ఫిక్స్ చేసింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.2.2 (2023 06 03)\n\n-ਪੇਜ ਐਨੀਮੇਸ਼ਨ ਚੋਣਾਂ ਤੋਂ ਇਲਾਵਾ.\n-ਜੇ ਜੇ ਤੁਸੀਂ ਮੈਮੋ ਨੂੰ ਲਿਖਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਬਿਲਕੁਲ ਚੈੱਕ ਆਈਕਾਨ ਨੂੰ ਬਿਲਕੁਲ ਨਹੀਂ ਦਬਾਉਂਦੇ, ਸਮੱਸਿਆ ਨੂੰ ਹੱਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ.\n-ਫਿਕਸ ਇੱਕ ਸਮੱਸਿਆ ਹੈ, ਜੋ ਕਿ ਮਿਟਾਈ ਨਹੀਂ ਜਾ ਸਕਦੀ.\nਵਰਤਾਰੇ ਨੇ ਵਰਤਾਇਆ ਜਦੋਂ ਸੈਟਿੰਗਾਂ ਹੌਲੀ ਹੌਲੀ ਅਤੇ ਭਾਸ਼ਾ ਬਦਲ ਜਾਂਦੀਆਂ ਹਨ.\n-ਟੀਟਸ ਨਾਲ ਸਬੰਧਤ ਲਾਇਬ੍ਰੇਰੀਆਂ ਅਪਡੇਟ ਕੀਤੀਆਂ ਗਈਆਂ ਹਨ."
+    "devnote": "7.2.3 (2023 06 07)\n\n-ਜਦੋਂ ਫਿਲਟਰ ਜੋੜਿਆ ਗਿਆ, ਬੱਗ ਨੂੰ ਸਿਖਰ ਤੇ ਜੋੜਿਆ ਗਿਆ.\nਜਦੋਂ ਫਾਈਲ ਖੁੱਲ੍ਹ ਗਈ ਤਾਂ ਬੱਗਾਂ ਦੇ ਵਰਤਾਰੇ ਨੂੰ ਜੋੜਿਆ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.2.2 (2023 06 03)\n\n-در افزودن گزینه های انیمیشن صفحه.\nاگر دقیقاً هنگام نوشتن یادداشت ، نماد چک را فشار ندهید ، مشکلی را که قابل ذخیره نیست ، برطرف کنید.\n-مشکلی را ایجاد کرد که قابل پاک کردن نیست.\nوقتی تنظیمات به آرامی باز شد و زبان تغییر کرد ، پدیده را تنظیم کرد.\nکتابخانه های مرتبط با آن به روز شده اند."
+    "devnote": "7.2.3 (2023 06 07)\n\n-با وقتی فیلتر اضافه شد ، اشکال به قسمت بالا اضافه شد.\nهنگام باز شدن پرونده ، پدیده اشکالات را تنظیم کرد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.2.2 (2023 06 03)\n\n-A adição de opções de animação de página.\n-Se você não pressionar o ícone de verificação exatamente ao escrever um memorando, corrigiu o problema que não pôde ser armazenado.\n-Fixou um problema que não pôde ser apagado.\n-Fixou o fenômeno quando as configurações se abriram lentamente e a mudança de idioma.\n-TTS bibliotecas relacionadas foram atualizadas."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Quando o filtro foi adicionado, o bug foi adicionado à parte superior.\n-Fixado o fenômeno dos bugs quando o arquivo foi aberto."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.2.2 (2023 06 03)\n\n-W dodaniu opcji animacji strony.\n-I jeśli nie naciskasz ikony sprawdzania dokładnie podczas pisania notatki naprawiono problem, którego nie można zapisać.\n-Wydał problem, którego nie można usunąć.\n-Udostępniałem zjawisko, gdy ustawienia otworzyły się powoli i zmieniają się język.\n-Tts Powiązane biblioteki zostały zaktualizowane."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Po dodaniu filtra błąd został dodany na górę.\n-Udostępniałem zjawisko błędów po otwarciu pliku."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.2.2 (2023 06 03)\n\n-En ajout d'options d'animation de page.\n-Si vous n'appuyez pas sur l'icône de vérification exactement lorsque vous écrivez un mémo, résolvez le problème qui n'a pas pu être stocké.\n-Axer un problème qui ne pouvait pas être effacé.\n-Fixé le phénomène lorsque les paramètres se sont ouverts lentement et que la langue change.\nLes bibliothèques connexes -TT ont été mises à jour."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Quand le filtre a été ajouté, le bogue a été ajouté au sommet.\n-Axer le phénomène des bogues lors de l'ouverture du fichier."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.2.2 (2023 06 03)\n\n-Sivun animaatiovaihtoehtojen lisäämisessä.\n-Jos et paina tarkistuskuvaketta tarkalleen, kun kirjoitat muistion, korjaa ongelma, jota ei voitu tallentaa.\n-Kiinni ongelman, jota ei voitu poistaa.\n-Kiinnittiin ilmiö, kun asetukset avautuivat hitaasti ja kieli muuttuu.\n-TTS -liittyvät kirjastot on päivitetty."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Kun suodatin lisättiin, vika lisättiin yläosaan.\n-Silmittiin virheiden ilmiö, kun tiedosto avattiin."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.2.2 (2023 06 03)\n\n-Sa pagdaragdag ng mga pagpipilian sa animation ng pahina.\n-Kung hindi mo pindutin ang icon ng tseke nang eksakto kapag sumulat ka ng isang memo, naayos ang problema na hindi maiimbak.\n-Fixed isang problema na hindi mabubura.\n-Nagpalagay ang kababalaghan nang mabagal ang pagbukas ng mga setting at pagbabago ng wika.\n-TTTS Kaugnay na mga aklatan ay na -update."
+    "devnote": "7.2.3 (2023 06 07)\n\n-Kapag ang filter ay idinagdag, ang bug ay idinagdag sa tuktok.\n-Fixed ang kababalaghan ng mga bug nang mabuksan ang file."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.2.2 (2023 06 03)\n\n-A Page animációs beállítások hozzáadásában.\n-Ha nem nyomja meg pontosan az ellenőrző ikont, amikor egy emlékeztetőt ír, rögzítette a nem tárolás nélküli problémát.\n-Megfelelő probléma, amelyet nem lehetett törölni.\n-A jelenség rögzítette, amikor a beállítások lassan megnyíltak, és a nyelv megváltozik.\n-TTS kapcsolódó könyvtárak frissültek."
+    "devnote": "7.2.3 (2023 06 07)\n\n-A szűrő hozzáadásakor a hibát a tetejére adták.\n-A fájl megnyitásakor rögzítve a hibák jelenségét."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.2.2 (2023 06 03)\n\n-בנוסף לאפשרויות אנימציית עמודים.\nאם אתה לא לוחץ על סמל הסימון בדיוק מתי אתה כותב תזכיר, תיקן את הבעיה שלא ניתן היה לאחסן.\n-קבע בעיה שלא ניתן היה למחוק.\n-קבע את התופעה כאשר ההגדרות נפתחו לאט והשפה משתנה.\nספריות הקשורות ל- TTS עודכנו."
+    "devnote": "7.2.3 (2023 06 07)\n\n-כאשר התווסף המסנן, החיידק התווסף לראש.\n-הקבע את תופעת באגים עם פתיחת הקובץ."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.2.2 (2023 06 03)\n\nपेज एनीमेशन विकल्पों के अलावा।\n-अगर आप एक मेमो लिखते समय चेक आइकन को ठीक से नहीं दबाएं, तो उस समस्या को ठीक करें जिसे संग्रहीत नहीं किया जा सकता है।\n-एक समस्या को मिटा दिया गया।\nजब सेटिंग्स धीरे -धीरे खुल गईं और भाषा बदल गई तो घटना को बदल दिया।\n-TTs संबंधित पुस्तकालयों को अपडेट किया गया है।"
+    "devnote": "7.2.3 (2023 06 07)\n\nजब फ़िल्टर जोड़ा गया, तो बग को शीर्ष पर जोड़ा गया।\nफ़ाइल खोले जाने पर बग की घटना को बदल दिया।"
   }
 }
