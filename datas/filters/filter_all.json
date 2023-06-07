@@ -181,5 +181,12 @@
         "filter": "\\[|\\]",
         "to": "",
         "enable": true
+    },
+    {
+        "name":"Filter words/sentences repeated 3 or more times",
+        "expr":true,
+        "filter":"(((\\S{1,}..))\\2{3,})",
+        "to":"",
+        "enable":true
     }
 ]
