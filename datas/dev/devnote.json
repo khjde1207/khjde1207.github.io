@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Increased the application speed.\n-In addition, the search function was added when choosing a language.\n-The removal of the SimplyTranslate that is not currently operated and added a new site. (Please remove the site from the translation settings and receive it again.)\n\n7.2.3 (2023 06 07)\n\n-When the Filter was added, the bug was added to the top.\n-Fixed the phenomenon of bugs when the file was opened."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fixes the phenomenon initialized when the tap is moved.\n-Fall 5 seconds after the conversion work was completed, the notification was modified to be removed."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.2.4 (2023 06 08)\n\n- 어플 실행 속도를 개선하였습니다. \n- 언어선택시 검색 기능을 추가하였습니다. \n- 현재 운영되지 않는 번역사이트(simplytranslate)를 제거 하고 신규 사이트를 추가 하였습니다. (번역 설정에서 사이트를 제거 하고 다시 받으시기 바랍니다.)\n\n7.2.3 (2023 06 07)\n\n- filter 추가시 맨 위에 추가 되던 버그 수정하였습니다. \n- 파일오픈시 간혹 버그가 생기던 현상을 수정하였습니다."
+    "devnote": "7.2.5 (2023 06 10)\n\n- 탭 이동시 내서재, 히스토리, 설정 스크롤 위치가 초기화 되던 현상 수정. \n- 변환작업 처리 완료후 5초뒤에 알림이 제거 되도록 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Estáculase a velocidade da aplicación.\n-Entición, engadiuse a función de busca á hora de escoller un idioma.\n-A eliminación do simplementetranslato que non se opera actualmente e engadiu un novo sitio. (Elimina o sitio da configuración da tradución e recibilo de novo.)\n\n7.2.3 (2023 06 07)\n\n-Cando se engadiu o filtro, o erro engadiuse á parte superior.\n-Dixou o fenómeno de erros cando se abriu o ficheiro."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fixes o fenómeno inicializado cando se move a billa.\n-Callar 5 segundos despois de completar o traballo de conversión, a notificación modificouse para ser eliminada."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.2.4 (2023 06 08)\n\nએપ્લિકેશનની ગતિમાં વધારો.\nઆ ઉપરાંત, ભાષા પસંદ કરતી વખતે શોધ કાર્ય ઉમેરવામાં આવ્યું હતું.\n-હાલમાં ચલાવવામાં આવતી નથી અને નવી સાઇટ ઉમેરવામાં આવતી સિમ્પલટ્રાન્સલેટને દૂર કરવી. (કૃપા કરીને અનુવાદ સેટિંગ્સમાંથી સાઇટને દૂર કરો અને તેને ફરીથી પ્રાપ્ત કરો.)\n\n7.2.3 (2023 06 07)\n\n-જ્યારે ફિલ્ટર ઉમેરવામાં આવ્યું, ત્યારે ભૂલ ટોચ પર ઉમેરવામાં આવી.\nજ્યારે ફાઇલ ખોલવામાં આવી ત્યારે ભૂલોની ઘટનાને ફિક્સ કરી."
+    "devnote": "7.2.5 (2023 06 10)\n\n-પિક્સને ફિક્સ કરે છે જ્યારે નળ ખસેડવામાં આવે છે ત્યારે શરૂઆત થઈ છે.\n-રૂપાંતર કાર્ય પૂર્ણ થયા પછી 5 સેકંડ પછી, સૂચનાને દૂર કરવા માટે સંશોધિત કરવામાં આવી."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.2.4 (2023 06 08)\n\n-αυξήθηκε η ταχύτητα της εφαρμογής.\n-Ση προσθήκη, η λειτουργία αναζήτησης προστέθηκε κατά την επιλογή μιας γλώσσας.\n-Η απομάκρυνση του SimplyTranslate που δεν λειτουργεί επί του παρόντος και πρόσθεσε έναν νέο ιστότοπο. (Αφαιρέστε τον ιστότοπο από τις ρυθμίσεις μετάφρασης και λάβετε ξανά.)\n\n7.2.3 (2023 06 07)\n\n-Όταν προστέθηκε το φίλτρο, το σφάλμα προστέθηκε στην κορυφή.\n-Επάρη το φαινόμενο των σφαλμάτων όταν άνοιξε το αρχείο."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Επεδιάζει το φαινόμενο που αρχικοποιείται όταν μετακινείται η βρύση.\n-Το Πτώση 5 δευτερόλεπτα μετά την ολοκλήρωση των εργασιών μετατροπής, η ειδοποίηση τροποποιήθηκε για να καταργηθεί."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Verhoogde de toepassingssnelheid.\n-In toevoeging werd de zoekfunctie toegevoegd bij het kiezen van een taal.\n-De verwijdering van de eenvoudig translate die momenteel niet wordt bediend en een nieuwe site toegevoegd. (Verwijder de site uit de vertaalinstellingen en ontvang deze opnieuw.)\n\n7.2.3 (2023 06 07)\n\n-Toen het filter werd toegevoegd, werd de bug aan de top toegevoegd.\n-Fixed het fenomeen van bugs toen het bestand werd geopend."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fixes Het fenomeen geïnitialiseerd wanneer de kraan wordt verplaatst.\n-Fall 5 seconden nadat het conversiewerk was voltooid, werd de melding gewijzigd om te worden verwijderd."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": ".2.2..4 (2023 06 0 06)\n\n- अनुप्रयोग गति को गति।\n-INE जे होस्, एक भाषा छनौट गर्दा खोजी प्रकार्य थपिएको थियो।\n- हिमालन्स को हटाउने र एक नयाँ साइट थपेको छैन। (कृपया अनुवाद सेटिंग्सबाट साइट हटाउनुहोस् र यसलाई फेरि प्राप्त गर्नुहोस्।)\n\n.2.2..3 (2023 06 06 0))\n\n- जब फिल्टर थपिएको थियो, बगलाई माथि थपिएको थियो।\nफाईल खोल्दा बगहरूको घटना घटाउन।"
+    "devnote": ".2.2..5 (2023 06 066 10)\n\n-Fixes घटनाहरू जब ट्याप सार्दछ।\n- रूपान्तरण कार्य सम्पन्न भए पछि seconds सेकेन्ड पछि, सूचना हटाउन परिमार्जन गरिएको थियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Økte applikasjonshastigheten.\n-I tillegg ble søkefunksjonen lagt til når du valgte et språk.\n-Fjerningen av SimplyTranslate som for øyeblikket ikke drives og la til et nytt nettsted. (Fjern nettstedet fra oversettelsesinnstillingene og motta det igjen.)\n\n7.2.3 (2023 06 07)\n\n-Når filteret ble lagt til, ble feilen lagt til toppen.\n-Fikserte fenomenet feil da filen ble åpnet."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fikser Fenomenet initialisert når springen flyttes.\n-Fall 5 sekunder etter at konverteringsarbeidet ble fullført, ble varslingen endret for å bli fjernet."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Øget applikationshastigheden.\n-I tillæg blev søgefunktionen tilføjet, når man valgte et sprog.\n-Fjernelsen af ​​det blottranslat, der ikke i øjeblikket er betjent og tilføjet et nyt sted. (Fjern webstedet fra oversættelsesindstillingerne og modtag det igen.)\n\n7.2.3 (2023 06 07)\n\n-Når filteret blev tilføjet, blev fejlen tilsat til toppen.\n-Fastt fænomenet bugs, da filen blev åbnet."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fikser fænomenet initialiserede, når hanen flyttes.\n-Fall 5 sekunder Efter at konverteringsarbejdet var afsluttet, blev meddelelsen ændret til at blive fjernet."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Verstärkt die Anwendungsgeschwindigkeit.\n-Bei der Auswahl einer Sprache wurde die Suchfunktion hinzugefügt.\n-Die Entfernung der Simplanslate, die derzeit nicht betrieben wird, und eine neue Website hinzugefügt. (Bitte entfernen Sie die Site aus den Übersetzungseinstellungen und empfangen Sie sie erneut.)\n\n7.2.3 (2023 06 07)\n\n-Wenn der Filter hinzugefügt wurde, wurde der Fehler nach oben hinzugefügt.\n-Fixte das Phänomen von Fehler, als die Datei geöffnet wurde."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fixes Das Phänomen, das initialisiert wurde, wenn der TAP bewegt wird.\n-Unfall 5 Sekunden nach Abschluss der Umwandlungsarbeiten wurde die Benachrichtigung so geändert, dass sie entfernt werden."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Increased ຄວາມໄວຂອງການສະຫມັກ.\n-in ນອກຈາກນັ້ນ, ຫນ້າທີ່ການຄົ້ນຫາໄດ້ຖືກເພີ່ມເຂົ້າໃນເວລາທີ່ເລືອກພາສາ.\n- ການກໍາຈັດຂອງ simpleranslate ທີ່ບໍ່ໄດ້ດໍາເນີນງານແລະເພີ່ມເວັບໄຊທ໌ໃຫມ່. (ກະລຸນາເອົາສະຖານທີ່ອອກຈາກການຕັ້ງຄ່າການແປແລະຮັບເອົາອີກເທື່ອຫນຶ່ງ.)\n\n7.2.3 (2023 06 07)\n\nໃນເມື່ອການກັ່ນຕອງໄດ້ຖືກເພີ່ມ, ຂໍ້ບົກພ່ອງໄດ້ຖືກເພີ່ມໃສ່ດ້ານເທິງ.\n-Fixed ປະກົດການຂອງຂໍ້ບົກພ່ອງໃນເວລາທີ່ໄຟລ໌ໄດ້ຖືກເປີດ."
+    "devnote": "7.2.5 (2023 06 106)\n\n-Fixes ປະກົດການທີ່ເລີ່ມຕົ້ນເມື່ອຖືກຍ້າຍ.\n-fall 5 ວິນາທີຫຼັງຈາກວຽກງານການປ່ຽນໃຈເຫລື້ອມໃສໄດ້ສໍາເລັດແລ້ວ, ການແຈ້ງເຕືອນໄດ້ຖືກດັດແກ້ທີ່ຈະຖືກລຶບອອກ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Virzīja lietojumprogrammas ātrumu.\n-Turklāt, izvēloties valodu, tika pievienota meklēšanas funkcija.\n-SimplyTranslate noņemšana, kas pašlaik netiek darbināta, un pievienoja jaunu vietni. (Lūdzu, noņemiet vietni no tulkošanas iestatījumiem un saņemiet to vēlreiz.)\n\n7.2.3 (2023 06 07)\n\n-Kad pievienots filtrs, kļūda tika pievienota augšpusē.\n-Pievēroja kļūdu parādību, kad tika atvērts fails."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Pievēro parādību, kas inicializēta, kad tiek pārvietots krāns.\n-Fall 5 sekundes pēc konvertēšanas darba pabeigšanas paziņojums tika modificēts, lai to noņemtu."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Вогнута скорость применения.\n-В добавления, функция поиска была добавлена ​​при выборе языка.\n-Удаление простого перехода, которое в настоящее время не эксплуатируется, и добавило новый сайт. (Пожалуйста, удалите сайт из настройки перевода и получите его снова.)\n\n7.2.3 (2023 06 07)\n\n-Когда был добавлен фильтр, ошибка была добавлена ​​на вершину.\n-Посновал феномен ошибок, когда файл был открыт."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Ficies Явление инициализировалось при перемещении крана.\n-Fall 5 секунд после завершения конверсии, уведомление было изменено для удаления."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Creați viteza aplicației.\n-În plus, funcția de căutare a fost adăugată atunci când alegeți o limbă.\n-Soluția SimplyTranslate care nu este operată în prezent și a adăugat un nou site. (Vă rugăm să eliminați site -ul din setările de traducere și să îl primiți din nou.)\n\n7.2.3 (2023 06 07)\n\n-Când s -a adăugat filtrul, bug -ul a fost adăugat în partea de sus.\n-Fixat fenomenul bug -urilor când a fost deschis fișierul."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fixează fenomenul inițializat la mutare.\n-Fort 5 secunde de la finalizarea lucrărilor de conversie, notificarea a fost modificată pentru a fi eliminată."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.2.4 (2023 06 08)\n\n-padidėjo taikymo greitis.\n-Papildoma paieškos funkcija buvo pridėta renkantis kalbą.\n-Pašalinimas „Simplytranslate“, kuris šiuo metu nėra valdomas, ir pridėjo naują svetainę. (Išimkite svetainę iš vertimo nustatymų ir vėl ją gaukite.)\n\n7.2.3 (2023 06 07)\n\n-Kai filtras buvo pridėtas, klaida buvo pridėta prie viršaus.\n-Fiksavo klaidų reiškinį, kai failas buvo atidarytas."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fiksai fenomenas yra inicializuotas, kai čiaupas perkeliamas.\n-Praėjus 5 sekundėms po konvertavimo darbų, pranešimas buvo pakeistas pašalinti."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.2.4 (2023 06 08)\n\n-अनुप्रयोगाची गती वाढविली.\n-याव्यतिरिक्त, भाषा निवडताना शोध कार्य जोडले गेले.\n-सध्या ऑपरेट केलेले नसलेले सिम्पलट्रान्सलेट काढून टाकणे आणि नवीन साइट जोडली. (कृपया भाषांतर सेटिंग्जमधून साइट काढा आणि पुन्हा प्राप्त करा.)\n\n7.2.3 (2023 06 07)\n\n-जेव्हा फिल्टर जोडला गेला, तेव्हा बग शीर्षस्थानी जोडला गेला.\n-फाईल उघडली तेव्हा बग्सची घटना तयार केली."
+    "devnote": "7.2.5 (2023 06 10)\n\nटॅप हलविला जातो तेव्हा इंद्रियगोचर प्रारंभ केला.\n-रूपांतरण कार्य पूर्ण झाल्यानंतर 5 सेकंदानंतर, अधिसूचना काढण्यासाठी सुधारित केली गेली."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Накри ја зголемената брзина на апликација.\n-Во додавање, функцијата за пребарување е додадена при изборот на јазик.\n-Отстранувањето на едноставно Транслтот што во моментов не е управувано и додаде нова страница. (Ве молиме, извадете ја страницата од поставките за превод и повторно добијте ја.)\n\n7.2.3 (2023 06 07)\n\n-Кога е додаден филтерот, грешката е додадена на врвот.\n-Секуваше феноменот на грешки кога датотеката е отворена."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Фиксираат феноменот иницијализиран кога чешмата е преместена.\n-Дана 5 секунди по завршувањето на работата за конверзија, известувањето беше изменето за да се отстрани."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.2.4 (2023 06 08)\n\nആപ്ലിക്കേഷൻ വേഗത.\nഒരു ഭാഷ തിരഞ്ഞെടുക്കുമ്പോൾ, തിരയൽ പ്രവർത്തനം ചേർത്തു.\nനിലവിൽ പ്രവർത്തിക്കാത്ത ലളിതമായി നീക്കംചെയ്ത് ഒരു പുതിയ സൈറ്റ് ചേർത്തു. (വിവർത്തന ക്രമീകരണങ്ങളിൽ നിന്ന് സൈറ്റ് നീക്കം ചെയ്ത് വീണ്ടും സ്വീകരിക്കുക.)\n\n7.2.3 (2023 06 07)\n\n-ഇത് ഫിൽട്ടർ ചേർത്തപ്പോൾ ബഗ് മുകളിലേക്ക് ചേർത്തു.\nഫയൽ തുറക്കുമ്പോൾ ബഗുകളുടെ പ്രതിഭാസങ്ങൾ ഫയൽ ചെയ്തു."
+    "devnote": "7.2.5 (2023 06 10)\n\nടാപ്പ് നീക്കുമ്പോൾ സമാരംഭിച്ച പ്രതിഭാസങ്ങൾ ഫിക്സീക്സ് ചെയ്യുന്നു.\nപരിവർത്തന ജോലികൾ പൂർത്തിയായ ശേഷം 5 സെക്കൻഡ്, അറിയിപ്പ് നീക്കംചെയ്യേണ്ടത് പരിഷ്ക്കരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Semaya kelajuan aplikasi.\n-Inda tambahan, fungsi carian telah ditambah apabila memilih bahasa.\n-Penyingkiran SimplyTranslate yang tidak dikendalikan sekarang dan menambah tapak baru. (Sila keluarkan laman web dari tetapan terjemahan dan terima lagi.)\n\n7.2.3 (2023 06 07)\n\n-When penapis telah ditambah, pepijat itu ditambah ke bahagian atas.\n-Mixed fenomena pepijat apabila fail dibuka."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Membuat fenomena yang diasaskan apabila paip dipindahkan.\n-Fall 5 saat selepas kerja penukaran selesai, pemberitahuan itu diubah suai untuk dikeluarkan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.2.4. (2023 06 06)\n\n-Ажил өргөдлийн хурдыг тайлсан.\n-Нэмжээр хэл, Хэлийг сонгохдоо хайлтын функцийг нэмж оруулсан.\n-Бүх, одоо ажиллаж байгаа бөгөөд шинэ сайт нэмэгдсэн estranslanslate-ийг арилгах. (Сайтыг орчуулгын тохиргооноос салгаад дахин хүлээн ав.)\n\n7.2.3 (2023 06 07)\n\n-Бүх шүүлтүүр нэмж оруулсан бол алдааг дээд хэсэгт нэмэв.\n-Би файл нээгдсэн үед алдаа гарав."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Бүд нь нүүж ирэхэд үзэгдэл анх удаа эхлэв.\n- Хөрвүүлэлтийн ажлыг дуусгасны дараа 5 секундын дараа мэдэгдлийг арилгахын тулд мэдэгдлийг өөрчилсөн."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Errapenaren abiadura zuzendu.\n-Gai gainera, bilaketa funtzioa gehitu da hizkuntza aukeratzerakoan.\n-Gaur egun funtzionatzen ez duen eta gune berri bat gehitu ez den sinpletasuna kentzea. (Mesedez, kendu gunea itzulpen-ezarpenetatik eta jaso berriro.)\n\n7.2.3 (2023 06 07)\n\n-Gograilua gehitu zenean, akatsa gehitu zitzaion goiko aldean.\n-Piloa ireki zenean akatsak fenomenoa aipatu zuen."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Ez da fenomenoa hasieran hasieran txorrota mugitzen denean.\n-Lehen bihurketa lana amaitu ondoren 5 segundo lehenago, jakinarazpena aldatu egin da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "72.4.4 (2023 06 08)\n\n- လျှောက်လွှာအမြန်နှုန်း။\nဘာသာစကားတစ်ခုရွေးချယ်ရာတွင်ရှာဖွေမှုလုပ်ဆောင်ချက်ကိုထည့်သွင်းထားသည်။\n- 0 က်ဘ်ဆိုက်အသစ်တစ်ခုကိုမဖွင့်နိုင်သည့်ရိုးရှင်းသောအရာများကိုဖယ်ရှားခြင်း။ (ကျေးဇူးပြု. စာမျက်နှာကိုဘာသာပြန်ချိန်ညှိချက်များမှဖယ်ရှားပြီးထပ်မံလက်ခံပါ။ )\n\n72.3 (2023 06 07)\n\n- filter ကိုထည့်သွင်းထားသည့်အတွက် bug ကိုထိပ်တွင်ထည့်သွင်းခဲ့သည်။\nဖိုင်ကိုဖွင့်သောအခါ bug များဖြစ်စဉ်ကိုဖွင့်ထားခဲ့သည်။"
+    "devnote": "7.2.5 (2023 06 10)\n\n-fixes ဖြစ်စဉ်ကိုထိပုတ်ပါကအစွန်အဖျားပြောင်းရွှေ့သောအခါ။\n(5) စက္ကန့်ခွဲခြင်းလုပ်ငန်းပြီးဆုံးပြီးနောက် 5 စက္ကန့်မျှမကအကြောင်းကြားစာကိုဖယ်ရှားရန်ပြင်ဆင်ထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Tăng tốc độ ứng dụng.\n-Ngoài ra, chức năng tìm kiếm đã được thêm vào khi chọn ngôn ngữ.\n-Việc loại bỏ SimplyTranslate hiện không được vận hành và thêm một trang web mới. (Vui lòng xóa trang web khỏi cài đặt dịch và nhận lại.)\n\n7.2.3 (2023 06 07)\n\n-Khi bộ lọc đã được thêm vào, lỗi đã được thêm vào đầu.\n-Fix đã xảy ra hiện tượng lỗi khi tệp được mở."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fixes hiện tượng được khởi tạo khi vòi được di chuyển.\n-Fall 5 giây Sau khi công việc chuyển đổi được hoàn thành, thông báo đã được sửa đổi để được xóa."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Зачыніць хуткасць прыкладання.\n-У дадатак да выбару мовы была дададзена функцыя пошуку.\n-Выдаленне SimplyTranslate, які ў цяперашні час не працуе, і дадаецца новы сайт. (Калі ласка, выдаліце ​​сайт з налад перакладу і атрымайце яго зноў.)\n\n7.2.3 (2023 06 07)\n\n-Калі фільтр быў дададзены, памылка была дададзена ўверсе.\n-Пісеў феномен памылак, калі файл быў адкрыты."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Фокс феномен ініцыялізаваны пры перамяшчэнні крана.\n-Палі праз 5 секунд пасля завяршэння працы па пераўтварэнні, апавяшчэнне было зменена для выдалення."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.2.4 (2023 06 08)\n\n-অ্যাপ্লিকেশনটির গতি বাড়িয়ে তুলেছে।\n-এর মধ্যে, কোনও ভাষা বেছে নেওয়ার সময় অনুসন্ধান ফাংশনটি যুক্ত করা হয়েছিল।\n-বর্তমানে পরিচালিত নয় এবং একটি নতুন সাইট যুক্ত করা হয়নি এমন সরল ট্রান্সলেট অপসারণ। (দয়া করে অনুবাদ সেটিংস থেকে সাইটটি সরান এবং এটি আবার গ্রহণ করুন))\n\n7.2.3 (2023 06 07)\n\n-ফিল্টারটি যুক্ত করা হলে, বাগটি শীর্ষে যুক্ত করা হয়েছিল।\nফাইলটি খোলার সময় বাগের ঘটনাটি ফিক্স করে।"
+    "devnote": "7.2.5 (2023 06 10)\n\n-ট্যাপটি সরানো হলে ঘটনাটি শুরু হয়েছিল।\nরূপান্তর কাজ শেষ হওয়ার পরে 5 সেকেন্ডের সময়, বিজ্ঞপ্তিটি সরানোর জন্য সংশোধন করা হয়েছিল।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Просиля скоростта на приложението.\n-В допълнение, функцията за търсене беше добавена при избора на език.\n-Не премахване на простото преобразуване, което в момента не се управлява и добави нов сайт. (Моля, премахнете сайта от настройките на превода и го получете отново.)\n\n7.2.3 (2023 06 07)\n\n-Когато е добавен филтърът, грешката се добавя в горната част.\n-Фексира феномена на бъгове при отваряне на файла."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Фексира явлението инициализирано при преместване на крана.\n-Полезнете 5 секунди след приключване на работата по конверсия, известието беше модифицирано за премахване."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Упростање брзине апликације.\n-У додавању је додата функција за претрагу када бирате језик.\n- Уклањање једноставног система који тренутно не управља и додаје нову локацију. (Молимо уклоните веб локацију из поставки превод и примите га поново.)\n\n7.2.3 (2023 06 07)\n\n-Када је додат филтер, грешка је додата у врһ.\n-Прегледало је феномен грешака када је датотека отворена."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Фикес феномен иницијализиран када се славина помера.\n- 5 секунди након завршетка радова конверзије, обавештење је модификовано да се уклони."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Kutoa kasi ya maombi.\n-Kuongeza, kazi ya utaftaji iliongezwa wakati wa kuchagua lugha.\n-Uondoaji wa SimplyTranslate ambayo haifanyi kazi kwa sasa na kuongeza tovuti mpya. (Tafadhali ondoa Tovuti kutoka kwa mipangilio ya tafsiri na uipokea tena.)\n\n7.2.3 (2023 06 07)\n\n-Wakati kichujio kiliongezwa, mdudu uliongezwa juu.\n-Kuhakikisha jambo la mende wakati faili ilifunguliwa."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fixes jambo lilianzishwa wakati bomba linahamishwa.\n-Alls sekunde 5 baada ya kazi ya ubadilishaji kukamilika, arifa ilibadilishwa ili kuondolewa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Tillstånd appliceringshastigheten.\n-För tillägget tillkom sökfunktionen när du valde ett språk.\n-Bortet av den enkelt översättningen som för närvarande inte drivs och lägger till en ny webbplats. (Ta bort webbplatsen från översättningsinställningarna och ta emot den igen.)\n\n7.2.3 (2023 06 07)\n\n-När filtret lades till, lades felet till toppen.\n-Fixade fenomenet buggar när filen öppnades."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fixer fenomenet initialiseras när kranen flyttas.\n-Fall 5 sekunder efter att konverteringsarbetet avslutades ändrades meddelandet för att tas bort."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Acié la velocidad de la aplicación.\n-En además, se agregó la función de búsqueda al elegir un idioma.\n-La eliminación del SimplyTranslate que no está operado actualmente y agregó un nuevo sitio. (Elimine el sitio de la configuración de traducción y recibalo nuevamente).\n\n7.2.3 (2023 06 07)\n\n-Cuando se agregó el filtro, el error se agregó a la parte superior.\n-Fijo el fenómeno de los errores cuando se abrió el archivo."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Dije el fenómeno inicializado cuando se mueve el grifo.\n-Fall 5 segundos Después de que se completó el trabajo de conversión, la notificación se modificó para ser eliminada."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Zastúpila rýchlosť aplikácie.\n-Okrem toho bola pri výbere jazyka pridaná funkcia vyhľadávania.\n-Odstránenie SimplyTranslate, ktorý nie je v súčasnosti prevádzkovaný a pridal novú stránku. (Odstráňte stránku z nastavení prekladu a prijímajte ju znova.)\n\n7.2.3 (2023 06 07)\n\n-Keď bol filter pridaný, chyba bola pridaná na vrchol.\n-Po otvorení súboru si vytvorte jav chýb."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fenomén inicializovaný, keď sa kohútik presunie.\n-Fall 5 sekúnd Po dokončení konverzných prác bolo oznámenie upravené tak, aby bolo odstránené."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Prešil hitrost uporabe.\n-Dod dodat je bila funkcija iskanja dodana pri izbiri jezika.\n-Odstranjevanje preprosto transtranslata, ki trenutno ne deluje, in dodala novo spletno mesto. (Spletno mesto odstranite iz nastavitev prevoda in ga ponovno prejmite.)\n\n7.2.3 (2023 06 07)\n\n-Ko smo dodali filter, je bil hrošč dodan na vrh.\n-Piksna pojav hroščev, ko je bila datoteka odprta."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fixs Fenomen inicializiran, ko se pipa premakne.\n-5 sekund po zaključku pretvorbenega dela je bilo obvestilo spremenjeno, da se odstrani."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.2.4 (2023 06 08)\n\nයෙදුම් වේගය ලබා දී ඇත.\nභාෂාවක් තෝරාගැනීමේදී සෙවුම් කාර්යය එකතු කරන ලදි.\nදැනට ක්රියාත්මක නොවන හුදකලා කාලාතුරයි ඉවත් කර නව වෙබ් අඩවියක් එක් කරන ලදි. (කරුණාකර පරිවර්තන සැකසුම් වලින් වෙබ් අඩවිය ඉවත් කර නැවත එය ලබා ගන්න.)\n\n7.2.3 (2023 06 07)\n\nපෙරණය එකතු කළ විට, දෝෂය ඉහළට එකතු කරන ලදී.\nගොනුව විවෘත කළ විට දෝෂ සංසිද්ධිය."
+    "devnote": "7.2.5 (2023 06 10)\n\nටැප් එක චලනය වන විට සංසිද්ධිය ආරම්භ කරන ලදි.\nසංයෝජන කටයුතු අවසන් වී තත්පර 5 කට පසුව තත්පර 5 කට පසුව, දැනුම්දීම ඉවත් කිරීම සඳහා වෙනස් කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.2.4 (2023 06 08)\n\n-استندت سرعة التطبيق.\nإضافة إلى ذلك ، تمت إضافة وظيفة البحث عند اختيار لغة.\n-إزالة SimplyTranslate التي لم يتم تشغيلها حاليًا وإضافة موقع جديد. (يرجى إزالة الموقع من إعدادات الترجمة واستلامه مرة أخرى.)\n\n7.2.3 (2023 06 07)\n\n-عندما تمت إضافة المرشح ، تمت إضافة الخطأ إلى الأعلى.\n-خز ظاهرة الحشرات عند فتح الملف."
+    "devnote": "7.2.5 (2023 06 10)\n\n-خام الظاهرة التي تمت تهيئتها عند نقل الصنبور.\n-سقوط بعد 5 ثوانٍ من اكتمال أعمال التحويل ، تم تعديل الإشعار لإزالته."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Առաջարկեք հայտի արագությունը:\n- Լրացուցիչ, որոնման գործառույթը ավելացվեց լեզու ընտրելիս:\n- Պարզապես հեռացնելը, որը ներկայումս չի գործում եւ ավելացրեց նոր կայք: (Խնդրում ենք տեղադրել կայքը թարգմանության պարամետրերից եւ կրկին ստանալ այն):\n\n7.2.3 (2023 06 07)\n\n- Երբ ավելացվեց ֆիլտրը, վրիպակը ավելացվեց գագաթին:\n- Ֆայլը բացվելիս ֆայլի բացվելուց հետո պարզել է սխալների երեւույթը:"
+    "devnote": "7.2.5 (2023 06 10)\n\n-Կատարում է այն ֆենոմենը, որը նախաձեռնում է, երբ ծորակը տեղափոխվում է:\n- Փոխակերպման աշխատանքներն ավարտվելուց 5 վայրկյան հետո ծանուցումը փոփոխվել է, հանվելու համար:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Ensað forritshraða.\n-S viðbót var leitaraðgerðinni bætt við þegar valið var tungumál.\n-FRÆÐILEGT á einfaldlega Translate sem er ekki rekið eins og er og bætti við nýjum síðu. (Vinsamlegast fjarlægðu síðuna af þýðingarstillingunum og fáðu hana aftur.)\n\n7.2.3 (2023 06 07)\n\n-Þegar síunni var bætt við var galla bætt við toppinn.\n-Fixaði fyrirbæri galla þegar skráin var opnuð."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Bixar fyrirbæri frumstillt þegar kraninn er færður.\n-Fall 5 sekúndum eftir að umbreytingarvinnunni var lokið var tilkynningunni breytt til að fjarlægja."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.2.4 (2023 06 08)\n\nTətbiq sürətini idarə edir.\n-Hər bir dil seçərkən axtarış funksiyası əlavə edildi.\n- Hal-hazırda fəaliyyət göstərməyən və yeni bir sayt əlavə etməyən SillyTranslate'in çıxarılması. (Zəhmət olmasa saytdan tərcümə parametrlərindən çıxarın və yenidən alın.)\n\n7.2.3 (2023 06 07)\n\n- filtrin əlavə edildikdə, səhv yuxarıya əlavə edildi.\nFayl açıldıqda səhvlərin fenomenini düzəldildi."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fiksenon tapan nə vaxt başladılan fenomen başlandı.\nDönüşüm işinin tamamlandıqdan 5 saniyə sonra 5 saniyə sonra bildiriş çıxarıldığı dəyişdirildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.2.4 (2023 06 08)\n\n-het die toepassingsnelheid verhoog.\n-Daarbenewens is die soekfunksie bygevoeg by die keuse van 'n taal.\n-Die verwydering van die Simply Translate wat nie tans bedryf word nie en 'n nuwe webwerf bygevoeg het. (Verwyder die webwerf van die vertaalinstellings en ontvang dit weer.)\n\n7.2.3 (2023 06 07)\n\n-Toe die filter bygevoeg word, is die fout bo -op gevoeg.\n-Fix die verskynsel van foute toe die lêer oopgemaak is."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fix die verskynsel geïnitialiseer wanneer die kraan geskuif word.\n-Val 5 sekondes nadat die omskakelingswerk voltooi is, is die kennisgewing verander om verwyder te word."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Kërkuar shpejtësinë e aplikimit.\n-Në shtesë, funksioni i kërkimit u shtua kur zgjedh një gjuhë.\n-Ketrimi i SimplanTranslate që aktualisht nuk operohet dhe shtohet një sit i ri. (Ju lutemi hiqni faqen nga cilësimet e përkthimit dhe merrni përsëri.)\n\n7.2.3 (2023 06 07)\n\n-Kur u shtua filtri, bug u shtua në krye.\n-Fixed fenomenin e defekteve kur u hap skedari."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fixes fenomeni inicializohet kur zhvendoset çezma.\n-Më 5 sekonda Pas përfundimit të punës së konvertimit, njoftimi u modifikua për t'u hequr."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.2.4 (2023 06 08)\n\n- የትግበራውን ፍጥነት አነሳ.\nበተጨማሪ, ቋንቋ ሲመርጡ የፍለጋ ተግባሩ ታክሏል.\n- በአሁኑ ጊዜ ያልቀጠረው በቀላሉ የሚሠራ እና አዲስ ጣቢያን አክሏል. (እባክዎ ጣቢያውን ከትርጉም ቅንብሮች ውስጥ ያስወግዱ እና እንደገና ይቀበሉት.)\n\n7.2.3 (2023 06 07)\n\n- ማጣሪያው ከተጨመረ ሳንካው ወደ ላይ ተጨምሯል.\nፋይሉ ሲከፈት የሳንካዎች ክስተት"
+    "devnote": "7.2.5 (2023 06 10)\n\n- ፊንሰን መታጠቡ ሲንቀሳቀስ የተተነተነ የአውሮፕላን ክስተቶች.\n- የወላጅ ሥራው ከተጠናቀቀ ከ 5 ሰከንዶች በኋላ 5 ሰከንዶች ለማወገዱ ተሻሽሏል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Kuistas rakenduse kiirus.\n-Lisaks lisati keele valimisel otsingufunktsioon.\n-Lihtsa tõlkimise eemaldamine, mida praegu ei kasutata, ja lisatakse uut saiti. (Eemaldage sait tõlkeseadetest ja võtke see uuesti vastu.)\n\n7.2.3 (2023 06 07)\n\n-Kui filter lisati, lisati viga ülaossa.\n-Fixitud vigade nähtus, kui fail avati."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fiksib nähtust, mis on lähtestatud kraani teisaldamisel.\n-Liigutage 5 sekundit pärast ümberarvestustöö lõppu, teade muudeti eemaldamiseks."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.2.4 (2023 06 08)\n\nدرخواست کی رفتار میں داخل ہوا۔\nاس کے علاوہ ، کسی زبان کا انتخاب کرتے وقت سرچ فنکشن شامل کیا گیا۔\n-سیدھے ٹرانسلیٹ کو ہٹانا جو فی الحال چلایا نہیں گیا ہے اور ایک نئی سائٹ کو شامل کیا گیا ہے۔ (براہ کرم ترجمہ کی ترتیبات سے سائٹ کو ہٹا دیں اور اسے دوبارہ وصول کریں۔)\n\n7.2.3 (2023 06 07)\n\nجب فلٹر شامل کیا گیا تو ، بگ کو اوپر میں شامل کیا گیا۔\nجب فائل کھولی گئی تو کیڑے کے رجحان کو فکسڈ کیا گیا۔"
+    "devnote": "7.2.5 (2023 06 10)\n\nجب نل کو منتقل کیا جاتا ہے تو اس کے آغاز کے رجحان کو شروع کیا جاتا ہے۔\nتبادلوں کا کام مکمل ہونے کے 5 سیکنڈ بعد ، نوٹیفکیشن کو ختم کرنے کے لئے ترمیم کی گئی۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Висловіть швидкість програми.\n-І, додавши, при виборі мови додавали функцію пошуку.\n-Видалення SimplyTranslate, який наразі не працює, і додає нового сайту. (Будь ласка, видаліть сайт з налаштувань перекладу та отримайте його ще раз.)\n\n7.2.3 (2023 06 07)\n\n-Коли фільтр додавали, помилку додавали до вершини.\n-Приксили явище помилок, коли файл був відкритий."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Прикає феномен, ініціалізований при переміщенні крана.\n-Прости через 5 секунд після завершення конверсії, повідомлення було змінено для видалення."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Aumento della velocità dell'applicazione.\n-Na inoltre, la funzione di ricerca è stata aggiunta quando si sceglie una lingua.\n-La rimozione del semplice traduttore che non è attualmente gestito e ha aggiunto un nuovo sito. (Rimuovere il sito dalle impostazioni di traduzione e riceverlo di nuovo.)\n\n7.2.3 (2023 06 07)\n\n-Quando il filtro è stato aggiunto, il bug è stato aggiunto in alto.\n-Fadeva il fenomeno dei bug quando il file è stato aperto."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fade il fenomeno inizializzato quando il rubinetto viene spostato.\n-Fall 5 secondi dopo il completamento del lavoro di conversione, la notifica è stata modificata per essere rimossa."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Mengserakan kecepatan aplikasi.\n-Selain itu, fungsi pencarian ditambahkan saat memilih bahasa.\n-Penghapusan SimplyTrantslate yang saat ini tidak dioperasikan dan menambahkan situs baru. (Harap hapus situs dari pengaturan terjemahan dan terima lagi.)\n\n7.2.3 (2023 06 07)\n\n-Ketika filter ditambahkan, bug ditambahkan ke atas.\n-Bixed fenomena bug saat file dibuka."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fix Fenomena diinisialisasi saat keran dipindahkan.\n-Setur 5 detik setelah pekerjaan konversi selesai, pemberitahuan dimodifikasi untuk dihapus."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.2.4（2023 06 08）\n\n - アプリケーションの速度を増やしました。\n - 加えて、言語を選択するときに検索機能が追加されました。\n - 現在操作されておらず、新しいサイトを追加している単純翻訳の除去。 （翻訳設定からサイトを削除して、もう一度受け取ってください。）\n\n7.2.3（2023 06 07）\n\n - フィルターが追加されたとき、バグが上部に追加されました。\n - ファイルが開いたときにバグの現象を固定しました。"
+    "devnote": "7.2.5（2023 06 10）\n\n - タップが移動されたときに初期化された現象を固定します。\n - 変換作業が完了してから5秒後、通知が変更され、削除されました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.2.4 (2023 06 08)\n\n-შეადგინა განაცხადის სიჩქარე.\n-გარდა ამისა, ძებნის ფუნქცია დაემატა ენის არჩევისას.\n-SimplyTranslate- ის ამოღება, რომელიც ამჟამად არ მუშაობს და დაამატა ახალი საიტი. (გთხოვთ, ამოიღოთ საიტი თარგმანის პარამეტრებიდან და კვლავ მიიღოთ იგი.)\n\n7.2.3 (2023 06 07)\n\n-როდესაც ფილტრს დაემატა, ზემოდან დაემატა შეცდომა.\n-შეადგინა შეცდომების ფენომენი, როდესაც ფაილი გაიხსნა."
+    "devnote": "7.2.5 (2023 06 10)\n\n-ფენომენის ინიციალიზაცია, როდესაც ონკანი გადაადგილდება.\n-გადაქცევის სამუშაოების დასრულებიდან 5 წამის განმავლობაში, შეტყობინება შეიცვალა ამოღების მიზნით."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Isethi\n-Ngokungezelelwa, umsebenzi wokusesha wengezwe lapho ukhetha ulimi.\n-Ukususwa kwe-Talltranslate okungasebenzi njengamanje futhi kungezwe isayithi elisha. (Sicela ususe isiza kuzilungiselelo zokuhumusha bese uyithola futhi.)\n\n7.2.3 (2023 06 07)\n\n-Kwangezwa isihlungi, i-bug yengezwe phezulu.\n--I-fixed the phenomenon yezimbungulu lapho kuvulwa ifayili."
+    "devnote": "7.2.5 (2023 06 10)\n\n-I-fixes the the the the the the the the the thepha ihanjiswa.\n-Faka imizuzwana emi-5 ngemuva kokuqedwa emsebenzini wokuguqulwa, isaziso sashintshwa ukuze sisuswe."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.2.4（2023 06 08）\n\n - 申请速度。\n - 此外，选择语言时添加了搜索功能。\n - 删除当前尚未操作并添加新站点的简单翻译。 （请从翻译设置中删除站点并再次接收。）\n\n7.2.3（2023 06 07）\n\n - 添加过滤器时，将错误添加到顶部。\n - 将文件打开时，将错误的现象固定在错误中。"
+    "devnote": "7.2.5（2023 06 10）\n\n - 将水龙头移动时初始化的现象。\n - 转换工作完成后5秒钟，对通知进行了修改以删除。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.2.4（2023 06 08）\n\n - 申請速度。\n - 此外，選擇語言時添加了搜索功能。\n - 刪除當前尚未操作並添加新站點的簡單翻譯。 （請從翻譯設置中刪除站點並再次接收。）\n\n7.2.3（2023 06 07）\n\n - 添加過濾器時，將錯誤添加到頂部。\n - 將文件打開時，將錯誤的現象固定在錯誤中。"
+    "devnote": "7.2.5（2023 06 10）\n\n - 將水龍頭移動時初始化的現象。\n - 轉換工作完成後5秒鐘，對通知進行了修改以刪除。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.2.4（2023 06 08）\n\n - 申請速度。\n - 此外，選擇語言時添加了搜索功能。\n - 刪除當前尚未操作並添加新站點的簡單翻譯。 （請從翻譯設置中刪除站點並再次接收。）\n\n7.2.3（2023 06 07）\n\n - 添加過濾器時，將錯誤添加到頂部。\n - 將文件打開時，將錯誤的現象固定在錯誤中。"
+    "devnote": "7.2.5（2023 06 10）\n\n - 將水龍頭移動時初始化的現象。\n - 轉換工作完成後5秒鐘，對通知進行了修改以刪除。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Zvýšené rychlosti aplikace.\n-Navíc byla při výběru jazyka přidána funkce vyhledávání.\n-Odstranění jednoduchého přenosu, který není v současné době provozován a přidán nový web. (Odstraňte web z nastavení překladu a přijetí jej znovu.)\n\n7.2.3 (2023 06 07)\n\n-Když byl filtr přidán, byla chyba přidána na vrchol.\n-Po otevření souboru je fenomén chyb."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Pixs jev inicializovaný při přesunu kop.\n-Pomát 5 sekund Po dokončení konverzních prací bylo oznámení upraveno tak, aby bylo odstraněno."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.2.4 (2023 06 08)\n\n- Қолданбаның жылдамдығын анықтады.\n- Сонымен қатар, іздеу функциясы тілді таңдағанда қосылды.\n- Қазіргі уақытта жұмыс істемейтін және жаңа сайт қосылмаған жайлықтарды алып тастау. (Сайтты аударма параметрлерінен алып, қайтадан аласыз.)\n\n7.2.3 (2023 06 07)\n\n- Сүзгі қосылған кезде қате жоғарыға қосылды.\n- Файл ашылған кезде қателер құбылысын көрсетті."
+    "devnote": "7.2.5 (2023 06 10)\n\n- Феноменді ағын аныжайды, ол кран жылжытылған кезде басталады.\n- Конверсиялық жұмыс аяқталғаннан кейін 5 секундтан кейін хабарлама алынып тасталсын."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Creia la velocitat de l'aplicació.\n-En a més, es va afegir la funció de cerca a l’hora d’escollir un idioma.\n-La eliminació de la simplytranslate que actualment no està operada i afegeix un lloc nou. (Elimineu el lloc de la configuració de traducció i el torneu a rebre.)\n\n7.2.3 (2023 06 07)\n\n-Quan el filtre es va afegir, l'error es va afegir a la part superior.\n-Prit el fenomen dels errors quan es va obrir el fitxer."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Les fixen el fenomen inicialitzat quan es mou l’aixeta.\n-Falls 5 segons després de la finalització del treball de conversió, es va modificar la notificació per eliminar -la."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.2.4 (2023 06 08)\n\nಅಪ್ಲಿಕೇಶನ್ ವೇಗವನ್ನು ಹೆಚ್ಚಿಸಲಾಗಿದೆ.\n-ಆದರೆ, ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡುವಾಗ ಹುಡುಕಾಟ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\nಪ್ರಸ್ತುತ ಕಾರ್ಯನಿರ್ವಹಿಸದ ಸರಳವಾಗಿ ಬದಲಾದ ಮತ್ತು ಹೊಸ ಸೈಟ್ ಅನ್ನು ಸೇರಿಸಲಾಗಿದೆ. (ದಯವಿಟ್ಟು ಅನುವಾದ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಂದ ಸೈಟ್ ಅನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ಅದನ್ನು ಮತ್ತೆ ಸ್ವೀಕರಿಸಿ.)\n\n7.2.3 (2023 06 07)\n\n-ಫಿಲ್ಟರ್ ಅನ್ನು ಸೇರಿಸಿದಾಗ, ದೋಷವನ್ನು ಮೇಲಕ್ಕೆ ಸೇರಿಸಲಾಗಿದೆ.\nಫೈಲ್ ತೆರೆದಾಗ ದೋಷಗಳ ವಿದ್ಯಮಾನವನ್ನು ಜೋಡಿಸಲಾಗಿದೆ."
+    "devnote": "7.2.5 (2023 06 10)\n\nಟ್ಯಾಪ್ ಸರಿದಾಗ ಈ ವಿದ್ಯಮಾನವನ್ನು ಪ್ರಾರಂಭಿಸಲಾಗುತ್ತದೆ.\nಪರಿವರ್ತನೆ ಕೆಲಸ ಪೂರ್ಣಗೊಂಡ 5 ಸೆಕೆಂಡುಗಳ ನಂತರ, ಅಧಿಸೂಚನೆಯನ್ನು ತೆಗೆದುಹಾಕಲು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Usporučali brzinu primjene.\n-Osim toga, funkcija pretraživanja dodana je pri odabiru jezika.\n-Uklanjanje SimplyTranslata koji se trenutno ne upravlja i dodaje novo mjesto. (Uklonite web mjesto iz postavki prijevoda i primite ga ponovo.)\n\n7.2.3 (2023 06 07)\n\n-Kada je dodan filter, bug je dodan na vrh.\n-Piksirao fenomen grešaka kada je datoteka otvorena."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Prežava fenomen inicijalizirana kada se slavina pomakne.\n-Pod 5 sekundi nakon završetka radova na pretvorbi, obavijest je izmijenjena da bude uklonjena."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.2.4 (2023 06 08)\n\n-increled ល្បឿននៃពាក្យសុំ។\n- បន្ថែមមុខងារស្វែងរកត្រូវបានបន្ថែមនៅពេលជ្រើសរើសភាសា។\nការដកយកចេញនៃការបកស្រាយដែលមិនដំណើរការហើយបច្ចុប្បន្ននេះហើយបានបន្ថែមតំបន់ថ្មីមួយ។ (សូមលុបគេហទំព័រចេញពីការកំណត់ការបកប្រែហើយទទួលវាម្តងទៀត។ )\n\n7.2.3 (2023 06 07)\n\nនៅពេលដែលតម្រងត្រូវបានបន្ថែមកំហុសត្រូវបានបន្ថែមទៅខាងលើ។\n-Fixed បាតុភូតនៃកំហុសនៅពេលឯកសារត្រូវបានបើក។"
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fixes បាតុភូតដែលបានចាប់ផ្តើមនៅពេលដែលម៉ាស៊ីនត្រូវបានផ្លាស់ប្តូរ។\n- 5 វិនាទីបន្ទាប់ពីការងារបំលែងត្រូវបានបញ្ចប់ការជូនដំណឹងត្រូវបានកែប្រែដើម្បីដកចេញ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.24 (2023 06 08)\n\n- өтүнмөнүн ылдамдыгын алуу.\n-Ин кошуп, тилди тандоодо издөө функциясы кошулду.\n- Учурда иштебей турган жана жаңы сайтты кошпогула. (Котормо жөндөөлөрүнөн сайтты алып салыңыз жана аны кайрадан алыңыз.)\n\n7.2.3 (2023 06 09)\n\n- Чыпка кошулду, мүчүлүштүктүн үстүнө кошулду.\n- Файл ачылганда мүчүлүштүктөрдүн кубулушун аныктады."
+    "devnote": "7.25 (2023 06 10)\n\n-Фиксес кран көчүп кеткенде башталган фенменттер башталды.\nАйландыруу иши аяктагандан кийин 5 секунддан 5 секунддан кийин, кабарлоо алынып салынат деп өзгөртүлдү."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.2.4 (2023 06 08)\n\nபயன்பாட்டு வேகத்தை அதிகரித்தது.\nகூடுதலாக, ஒரு மொழியைத் தேர்ந்தெடுக்கும்போது தேடல் செயல்பாடு சேர்க்கப்பட்டது.\nதற்போது இயக்கப்படாத மற்றும் புதிய தளத்தைச் சேர்த்துள்ள சிம்பிள் டிரான்ஸ்லேட்டை அகற்றுதல். (தயவுசெய்து மொழிபெயர்ப்பு அமைப்புகளிலிருந்து தளத்தை அகற்றி மீண்டும் பெறவும்.)\n\n7.2.3 (2023 06 07)\n\nவடிகட்டி சேர்க்கப்பட்டபோது, ​​பிழை மேலே சேர்க்கப்பட்டது.\nகோப்பு திறக்கப்பட்டபோது பிழைகள் நிகழ்வை சரிசெய்யவும்."
+    "devnote": "7.2.5 (2023 06 10)\n\nகுழாய் நகர்த்தப்படும்போது துவக்கப்பட்ட நிகழ்வு தொடங்குகிறது.\nமாற்று பணிகள் முடிந்த 5 வினாடிகள் கழித்து, அறிவிப்பு அகற்றப்படுவதற்கு மாற்றப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.2.4 (2023 06 08)\n\n-เพิ่มความเร็วแอปพลิเคชัน\n-นอกจากนี้ยังมีการเพิ่มฟังก์ชั่นการค้นหาเมื่อเลือกภาษา\n-การกำจัดของง่ายๆที่ไม่ได้ดำเนินการในปัจจุบันและเพิ่มไซต์ใหม่ (โปรดลบไซต์ออกจากการตั้งค่าการแปลและรับอีกครั้ง)\n\n7.2.3 (2023 06 07)\n\n-เมื่อเพิ่มตัวกรองจะเพิ่มข้อผิดพลาดไปด้านบน\n-แก้ไขปรากฏการณ์ของข้อบกพร่องเมื่อเปิดไฟล์"
+    "devnote": "7.2.5 (2023 06 10)\n\n-แก้ไขปรากฏการณ์เริ่มต้นเมื่อย้ายก๊อกน้ำ\n-Fall 5 วินาทีหลังจากงานแปลงเสร็จสิ้นการแจ้งเตือนจะถูกลบออกเพื่อลบออก"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Uygulama hızını artırdı.\n-Ek olarak, bir dil seçerken arama işlevi eklendi.\n-Şu anda çalıştırılmayan ve yeni bir site eklemeyen SimplyTranslate'in kaldırılması. (Lütfen siteyi çeviri ayarlarından kaldırın ve tekrar alın.)\n\n7.2.3 (2023 06 07)\n\n-Filtre eklendiğinde, hata üste eklendi.\n-Dosya açıldığında hataların fenomenini karıştırdı."
+    "devnote": "7.2.5 (2023 06 10)\n\n-TAP hareket ettirildiğinde başlatılan fenomeni bulur.\n-Dönüşüm çalışması tamamlandıktan 5 saniye sonra, bildirim kaldırılacak şekilde değiştirildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.2.4 (2023 06 08)\n\n-ఆవి అప్లికేషన్ వేగాన్ని మెరుగుపరిచింది.\n-అదనంగా, భాషను ఎన్నుకునేటప్పుడు శోధన ఫంక్షన్ జోడించబడింది.\n-ఒక ట్రాన్స్లేట్ యొక్క తొలగింపు ప్రస్తుతం ఆపరేట్ చేయబడలేదు మరియు క్రొత్త సైట్‌ను జోడించింది. (దయచేసి అనువాద సెట్టింగుల నుండి సైట్‌ను తీసివేసి, దాన్ని మళ్లీ స్వీకరించండి.)\n\n7.2.3 (2023 06 07)\n\n-వడపోత జోడించినప్పుడు, బగ్ పైకి జోడించబడింది.\nఫైల్ తెరిచినప్పుడు దోషాల దృగ్విషయాన్ని ఫిక్స్ చేసింది."
+    "devnote": "7.2.5 (2023 06 10)\n\n-ట్యాప్ తరలించినప్పుడు ప్రారంభించిన దృగ్విషయాన్ని fixes చేస్తుంది.\n-మార్పిడి పని పూర్తయిన 5 సెకన్ల తరువాత, నోటిఫికేషన్ తొలగించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.2.4 (2023 06 08)\n\nਐਪਲੀਕੇਸ਼ਨ ਦੀ ਗਤੀ ਨੂੰ ਪ੍ਰਭਾਵਤ ਕਰੋ.\nਇਸ ਤੋਂ ਇਲਾਵਾ, ਕਿਸੇ ਭਾਸ਼ਾ ਦੀ ਚੋਣ ਕਰਨ ਵੇਲੇ ਖੋਜ ਕਾਰਜ ਜੋੜਿਆ ਗਿਆ.\n-ਜਿਕ ਇਸ ਸਮੇਂ ਸੰਚਾਲਿਤ ਨਹੀਂ ਹੈ ਜਾਂ ਆ org ਟਟਰਨ ਟ੍ਰਾਂਸਲੇਟ ਦਾ ਹਟਾਉਣਾ ਨਹੀਂ ਹੈ. (ਕਿਰਪਾ ਕਰਕੇ ਸਾਈਟ ਨੂੰ ਅਨੁਵਾਦ ਸੈਟਿੰਗਾਂ ਤੋਂ ਹਟਾਓ ਅਤੇ ਦੁਬਾਰਾ ਪ੍ਰਾਪਤ ਕਰੋ.)\n\n7.2.3 (2023 06 07)\n\n-ਜਦੋਂ ਫਿਲਟਰ ਜੋੜਿਆ ਗਿਆ, ਬੱਗ ਨੂੰ ਸਿਖਰ ਤੇ ਜੋੜਿਆ ਗਿਆ.\nਜਦੋਂ ਫਾਈਲ ਖੁੱਲ੍ਹ ਗਈ ਤਾਂ ਬੱਗਾਂ ਦੇ ਵਰਤਾਰੇ ਨੂੰ ਜੋੜਿਆ."
+    "devnote": "7.2.5 (2023 06 10)\n\nਜਦੋਂ ਟੈਪ ਨੂੰ ਭੇਜਿਆ ਜਾਵੇ ਤਾਂ ਵਰਤਮਾਨ ਦੀ ਸ਼ੁਰੂਆਤ\nਕਦਮ ਪੂਰਾ ਹੋਣ ਦੇ ਕੰਮ ਪੂਰਾ ਹੋਣ ਤੋਂ 5 ਸਕਿੰਟ ਬਾਅਦ, ਨੋਟੀਫਿਕੇਸ਼ਨ ਨੂੰ ਹਟਾਉਣ ਲਈ ਸੋਧਿਆ ਗਿਆ ਸੀ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.2.4 (2023 06 08)\n\n-سرعت برنامه را افزایش داد.\nعلاوه بر این ، عملکرد جستجو هنگام انتخاب یک زبان اضافه شد.\n-حذف SimplyTranslate که در حال حاضر اداره نمی شود و یک سایت جدید اضافه می شود. (لطفاً سایت را از تنظیمات ترجمه حذف کرده و دوباره دریافت کنید.)\n\n7.2.3 (2023 06 07)\n\n-با وقتی فیلتر اضافه شد ، اشکال به قسمت بالا اضافه شد.\nهنگام باز شدن پرونده ، پدیده اشکالات را تنظیم کرد."
+    "devnote": "7.2.5 (2023 06 10)\n\n-فیکس پدیده ای که هنگام جابجایی شیر اولیه انجام می شود.\n5 ثانیه پس از اتمام کار تبدیل ، اعلان اصلاح شد تا حذف شود."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Concheu a velocidade do aplicativo.\n-A adição, a função de pesquisa foi adicionada ao escolher um idioma.\n-A remoção do simplesmente translate que não é operado no momento e adicionou um novo site. (Remova o site das configurações de tradução e receba -o novamente.)\n\n7.2.3 (2023 06 07)\n\n-Quando o filtro foi adicionado, o bug foi adicionado à parte superior.\n-Fixou o fenômeno dos bugs quando o arquivo foi aberto."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fixos O fenômeno inicializado quando a torneira é movida.\n-Queda 5 segundos após a conclusão do trabalho de conversão, a notificação foi modificada para ser removida."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.2.4 (2023 06 08)\n\n-PRZECIŁ SPESNY.\n-Dodatkowo funkcja wyszukiwania została dodana przy wyborze języka.\n-Usunięcie Simplytranslate, które nie jest obecnie obsługiwane i dodało nowej witryny. (Prosimy o usunięcie witryny z ustawień tłumaczenia i odbieraj ją ponownie.)\n\n7.2.3 (2023 06 07)\n\n-Po dodaniu filtra błąd został dodany na górę.\n-Udostępniałem zjawisko błędów po otwarciu pliku."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fixes zjawisko zainicjowane po przesuwaniu kranu.\n-Wadna 5 sekund po zakończeniu prac konwersji powiadomienie zostało zmodyfikowane do usunięcia."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Ir augmenté la vitesse d'application.\n-En plus, la fonction de recherche a été ajoutée lors du choix d'une langue.\n-L'élimination du tout simplement transformé qui n'est pas utilisé et ajoutait un nouveau site. (Veuillez supprimer le site des paramètres de traduction et le recevoir à nouveau.)\n\n7.2.3 (2023 06 07)\n\n-Quand le filtre a été ajouté, le bogue a été ajouté au sommet.\n-Axer le phénomène des bogues lors de l'ouverture du fichier."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fix le phénomène initialisé lorsque le robinet est déplacé.\n-Chat 5 secondes après la fin des travaux de conversion, la notification a été modifiée pour être supprimée."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.2.4 (2023 06 08)\n\n-lisäsi hakemuksen nopeutta.\n-Lisäksi hakutoiminto lisättiin valittaessa kieltä.\n-SimplyTranslainin poistaminen, jota ei tällä hetkellä käytetä, ja lisäsi uuden sivuston. (Poista sivusto käännösasetuksista ja vastaanota se uudelleen.)\n\n7.2.3 (2023 06 07)\n\n-Kun suodatin lisättiin, virhe lisättiin yläosaan.\n-Kirjastettiin virheiden ilmiön, kun tiedosto avattiin."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Korjaus ilmiö alustetaan, kun hana siirretään.\n-Polun 5 sekuntia muuntamistyön valmistumisen jälkeen ilmoitusta muutettiin poistettavaksi."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.2.4 (2023 06 08)\n\n-Nagsasagawa ng bilis ng application.\n-Sa karagdagan, ang pag -andar ng paghahanap ay idinagdag kapag pumipili ng isang wika.\n-Ang pag -alis ng simplengTranslate na hindi kasalukuyang pinatatakbo at nagdagdag ng isang bagong site. (Mangyaring alisin ang site mula sa mga setting ng pagsasalin at tanggapin ito muli.)\n\n7.2.3 (2023 06 07)\n\n-Kapag ang filter ay idinagdag, ang bug ay idinagdag sa tuktok.\n-Fixed ang kababalaghan ng mga bug nang mabuksan ang file."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Pagtataya ang hindi pangkaraniwang bagay kapag inilipat ang gripo.\n-Fall 5 segundo Matapos makumpleto ang trabaho sa conversion, binago ang abiso upang alisin."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.2.4 (2023 06 08)\n\n-A felvonja az alkalmazás sebességét.\n-Ezenkívül a nyelv kiválasztásakor a keresési funkciót adták hozzá.\n-A jelenleg nem üzemeltetett és új webhelyet ad hozzá a SimplyTranslate eltávolítása. (Kérjük, távolítsa el a webhelyet a fordítási beállításokból, és kapja meg újra.)\n\n7.2.3 (2023 06 07)\n\n-A szűrő hozzáadásakor a hibát a tetejére adták.\n-A fájl megnyitásakor rögzítve a hibák jelenségét."
+    "devnote": "7.2.5 (2023 06 10)\n\n-Fixes A jelenség inicializálva a csap mozgatásakor.\n-5 másodperccel a konverziós munka befejezése után az értesítést módosították, hogy eltávolítsák."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.2.4 (2023 06 08)\n\n-גילה את מהירות היישום.\nבנוסף, פונקציית החיפוש נוספה בבחירת שפה.\n-הסרת ה- SimplyTranslate שלא מופעלת כעת ומוסיפה אתר חדש. (אנא הסר את האתר מהגדרות התרגום וקבל אותו שוב.)\n\n7.2.3 (2023 06 07)\n\n-כאשר התווסף המסנן, החיידק התווסף לראש.\n-הקבע את תופעת באגים עם פתיחת הקובץ."
+    "devnote": "7.2.5 (2023 06 10)\n\n-מיקסים את התופעה שאותה כאשר מועבר הברז.\n-נפלו 5 שניות לאחר סיום עבודות ההמרה, ההודעה שונתה להסרה."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.2.4 (2023 06 08)\n\nआवेदन की गति को बढ़ाया।\n-एक भाषा चुनते समय, खोज फ़ंक्शन को जोड़ा गया था।\n-इस साइल्पट्रांसलेट को हटाने के लिए जो वर्तमान में संचालित नहीं है और एक नई साइट को जोड़ा गया है। (कृपया अनुवाद सेटिंग्स से साइट को हटा दें और इसे फिर से प्राप्त करें।)\n\n7.2.3 (2023 06 07)\n\nजब फ़िल्टर जोड़ा गया, तो बग को शीर्ष पर जोड़ा गया।\nफ़ाइल खोले जाने पर बग की घटना को बदल दिया।"
+    "devnote": "7.2.5 (2023 06 10)\n\nनल को स्थानांतरित करने पर आरमेनन की घटना को -फिक्स किया जाता है।\nरूपांतरण कार्य पूरा होने के 5 सेकंड बाद, अधिसूचना को हटाने के लिए संशोधित किया गया था।"
   }
 }
