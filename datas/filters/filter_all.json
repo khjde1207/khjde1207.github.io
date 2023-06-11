@@ -189,4 +189,11 @@
         "to":"",
         "enable":true
     }
+    {
+        "name":"filter ○",
+        "expr": false,
+        "filter":"○",
+        "to":"",
+        "enable":true
+    }
 ]
