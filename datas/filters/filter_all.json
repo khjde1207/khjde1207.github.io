@@ -188,7 +188,7 @@
         "filter":"(((\\S{1,}..))\\2{3,})",
         "to":"",
         "enable":true
-    }
+    },
     {
         "name":"filter ○",
         "expr": false,
