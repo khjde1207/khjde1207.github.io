@@ -195,5 +195,12 @@
         "filter":"○",
         "to":"",
         "enable":true
+    },
+    {
+        "name":"filter (......) Parenthesis",
+        "expr": true,
+        "filter":"\\(.+?\\)",
+        "to":"",
+        "enable":true
     }
 ]
