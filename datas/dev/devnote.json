@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fixes the phenomenon initialized when the tap is moved.\n-Fall 5 seconds after the conversion work was completed, the notification was modified to be removed."
+    "devnote": "7.2.8 (2023 06 13)\n\n- bug fix"
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.2.5 (2023 06 10)\n\n- 탭 이동시 내서재, 히스토리, 설정 스크롤 위치가 초기화 되던 현상 수정. \n- 변환작업 처리 완료후 5초뒤에 알림이 제거 되도록 수정 하였습니다."
+    "devnote": "7.2.8 (2023 06 13)\n\n- 버그수정"
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fixes o fenómeno inicializado cando se move a billa.\n-Callar 5 segundos despois de completar o traballo de conversión, a notificación modificouse para ser eliminada."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Corrección de erros"
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.2.5 (2023 06 10)\n\n-પિક્સને ફિક્સ કરે છે જ્યારે નળ ખસેડવામાં આવે છે ત્યારે શરૂઆત થઈ છે.\n-રૂપાંતર કાર્ય પૂર્ણ થયા પછી 5 સેકંડ પછી, સૂચનાને દૂર કરવા માટે સંશોધિત કરવામાં આવી."
+    "devnote": "7.2.8 (2023 06 13)\n\n- બગ ફિક્સ"
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Επεδιάζει το φαινόμενο που αρχικοποιείται όταν μετακινείται η βρύση.\n-Το Πτώση 5 δευτερόλεπτα μετά την ολοκλήρωση των εργασιών μετατροπής, η ειδοποίηση τροποποιήθηκε για να καταργηθεί."
+    "devnote": "7.2.8 (2023 06 13)\n\n- επιδιόρθωση σφαλμάτων"
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fixes Het fenomeen geïnitialiseerd wanneer de kraan wordt verplaatst.\n-Fall 5 seconden nadat het conversiewerk was voltooid, werd de melding gewijzigd om te worden verwijderd."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Bugfix"
   },
   "네팔어": {
     "key": "ne",
-    "devnote": ".2.2..5 (2023 06 066 10)\n\n-Fixes घटनाहरू जब ट्याप सार्दछ।\n- रूपान्तरण कार्य सम्पन्न भए पछि seconds सेकेन्ड पछि, सूचना हटाउन परिमार्जन गरिएको थियो।"
+    "devnote": ".2.2..8 (2023 06) 1 13)\n\n- बग फिक्स"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fikser Fenomenet initialisert når springen flyttes.\n-Fall 5 sekunder etter at konverteringsarbeidet ble fullført, ble varslingen endret for å bli fjernet."
+    "devnote": "7.2.8 (2023 06 13)\n\n- feilretting"
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fikser fænomenet initialiserede, når hanen flyttes.\n-Fall 5 sekunder Efter at konverteringsarbejdet var afsluttet, blev meddelelsen ændret til at blive fjernet."
+    "devnote": "7.2.8 (2023 06 13)\n\n- fejlrettelse"
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fixes Das Phänomen, das initialisiert wurde, wenn der TAP bewegt wird.\n-Unfall 5 Sekunden nach Abschluss der Umwandlungsarbeiten wurde die Benachrichtigung so geändert, dass sie entfernt werden."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Bug-Fix"
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.2.5 (2023 06 106)\n\n-Fixes ປະກົດການທີ່ເລີ່ມຕົ້ນເມື່ອຖືກຍ້າຍ.\n-fall 5 ວິນາທີຫຼັງຈາກວຽກງານການປ່ຽນໃຈເຫລື້ອມໃສໄດ້ສໍາເລັດແລ້ວ, ການແຈ້ງເຕືອນໄດ້ຖືກດັດແກ້ທີ່ຈະຖືກລຶບອອກ."
+    "devnote": "7.2.8 (2023 06 13)\n\n- ແກ້ໄຂຂໍ້ບົກພ່ອງ"
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Pievēro parādību, kas inicializēta, kad tiek pārvietots krāns.\n-Fall 5 sekundes pēc konvertēšanas darba pabeigšanas paziņojums tika modificēts, lai to noņemtu."
+    "devnote": "7.2.8 (2023 06 13)\n\n- kļūdas labojums"
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Ficies Явление инициализировалось при перемещении крана.\n-Fall 5 секунд после завершения конверсии, уведомление было изменено для удаления."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Исправлена ​​ошибка"
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fixează fenomenul inițializat la mutare.\n-Fort 5 secunde de la finalizarea lucrărilor de conversie, notificarea a fost modificată pentru a fi eliminată."
+    "devnote": "7.2.8 (2023 06 13)\n\n- rezolvarea unei erori"
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fiksai fenomenas yra inicializuotas, kai čiaupas perkeliamas.\n-Praėjus 5 sekundėms po konvertavimo darbų, pranešimas buvo pakeistas pašalinti."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Klaidos ištaisymas"
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.2.5 (2023 06 10)\n\nटॅप हलविला जातो तेव्हा इंद्रियगोचर प्रारंभ केला.\n-रूपांतरण कार्य पूर्ण झाल्यानंतर 5 सेकंदानंतर, अधिसूचना काढण्यासाठी सुधारित केली गेली."
+    "devnote": "7.2.8 (2023 06 13)\n\n- चूक दुरुस्ती"
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Фиксираат феноменот иницијализиран кога чешмата е преместена.\n-Дана 5 секунди по завршувањето на работата за конверзија, известувањето беше изменето за да се отстрани."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Поправете грешки"
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.2.5 (2023 06 10)\n\nടാപ്പ് നീക്കുമ്പോൾ സമാരംഭിച്ച പ്രതിഭാസങ്ങൾ ഫിക്സീക്സ് ചെയ്യുന്നു.\nപരിവർത്തന ജോലികൾ പൂർത്തിയായ ശേഷം 5 സെക്കൻഡ്, അറിയിപ്പ് നീക്കംചെയ്യേണ്ടത് പരിഷ്ക്കരിച്ചു."
+    "devnote": "7.2.8 (2023 06 13)\n\n- ബഗ് പരിഹരിക്കുക"
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Membuat fenomena yang diasaskan apabila paip dipindahkan.\n-Fall 5 saat selepas kerja penukaran selesai, pemberitahuan itu diubah suai untuk dikeluarkan."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Pembetulan pepijat"
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Бүд нь нүүж ирэхэд үзэгдэл анх удаа эхлэв.\n- Хөрвүүлэлтийн ажлыг дуусгасны дараа 5 секундын дараа мэдэгдлийг арилгахын тулд мэдэгдлийг өөрчилсөн."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Алдаа засах"
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Ez da fenomenoa hasieran hasieran txorrota mugitzen denean.\n-Lehen bihurketa lana amaitu ondoren 5 segundo lehenago, jakinarazpena aldatu egin da."
+    "devnote": "7.2.8 (2023 06 13)\n\n- akats konponketa"
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.2.5 (2023 06 10)\n\n-fixes ဖြစ်စဉ်ကိုထိပုတ်ပါကအစွန်အဖျားပြောင်းရွှေ့သောအခါ။\n(5) စက္ကန့်ခွဲခြင်းလုပ်ငန်းပြီးဆုံးပြီးနောက် 5 စက္ကန့်မျှမကအကြောင်းကြားစာကိုဖယ်ရှားရန်ပြင်ဆင်ထားသည်။"
+    "devnote": "7.2.8 (2023 06 13)\n\n- bug fix"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fixes hiện tượng được khởi tạo khi vòi được di chuyển.\n-Fall 5 giây Sau khi công việc chuyển đổi được hoàn thành, thông báo đã được sửa đổi để được xóa."
+    "devnote": "7.2.8 (2023 06 13)\n\n- vá lỗi"
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Фокс феномен ініцыялізаваны пры перамяшчэнні крана.\n-Палі праз 5 секунд пасля завяршэння працы па пераўтварэнні, апавяшчэнне было зменена для выдалення."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Выпраўленне памылак"
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.2.5 (2023 06 10)\n\n-ট্যাপটি সরানো হলে ঘটনাটি শুরু হয়েছিল।\nরূপান্তর কাজ শেষ হওয়ার পরে 5 সেকেন্ডের সময়, বিজ্ঞপ্তিটি সরানোর জন্য সংশোধন করা হয়েছিল।"
+    "devnote": "7.2.8 (2023 06 13)\n\n- বাগ ফিক্স"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Фексира явлението инициализирано при преместване на крана.\n-Полезнете 5 секунди след приключване на работата по конверсия, известието беше модифицирано за премахване."
+    "devnote": "7.2.8 (2023 06 13)\n\n- поправка на бъг"
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Фикес феномен иницијализиран када се славина помера.\n- 5 секунди након завршетка радова конверзије, обавештење је модификовано да се уклони."
+    "devnote": "7.2.8 (2023 06 13)\n\n- поправљање грешака"
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fixes jambo lilianzishwa wakati bomba linahamishwa.\n-Alls sekunde 5 baada ya kazi ya ubadilishaji kukamilika, arifa ilibadilishwa ili kuondolewa."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Kurekebisha mdudu"
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fixer fenomenet initialiseras när kranen flyttas.\n-Fall 5 sekunder efter att konverteringsarbetet avslutades ändrades meddelandet för att tas bort."
+    "devnote": "7.2.8 (2023 06 13)\n\n- buggfix"
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Dije el fenómeno inicializado cuando se mueve el grifo.\n-Fall 5 segundos Después de que se completó el trabajo de conversión, la notificación se modificó para ser eliminada."
+    "devnote": "7.2.8 (2023 06 13)\n\n- arreglo del fallo"
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fenomén inicializovaný, keď sa kohútik presunie.\n-Fall 5 sekúnd Po dokončení konverzných prác bolo oznámenie upravené tak, aby bolo odstránené."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Oprava chýb"
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fixs Fenomen inicializiran, ko se pipa premakne.\n-5 sekund po zaključku pretvorbenega dela je bilo obvestilo spremenjeno, da se odstrani."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Odpravljanje napak"
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.2.5 (2023 06 10)\n\nටැප් එක චලනය වන විට සංසිද්ධිය ආරම්භ කරන ලදි.\nසංයෝජන කටයුතු අවසන් වී තත්පර 5 කට පසුව තත්පර 5 කට පසුව, දැනුම්දීම ඉවත් කිරීම සඳහා වෙනස් කරන ලදී."
+    "devnote": "7.2.8 (2023 06 13)\n\n- දෝෂ නිවැරදි කිරීම"
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.2.5 (2023 06 10)\n\n-خام الظاهرة التي تمت تهيئتها عند نقل الصنبور.\n-سقوط بعد 5 ثوانٍ من اكتمال أعمال التحويل ، تم تعديل الإشعار لإزالته."
+    "devnote": "7.2.8 (2023 06 13)\n\n- إصلاح الخلل"
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Կատարում է այն ֆենոմենը, որը նախաձեռնում է, երբ ծորակը տեղափոխվում է:\n- Փոխակերպման աշխատանքներն ավարտվելուց 5 վայրկյան հետո ծանուցումը փոփոխվել է, հանվելու համար:"
+    "devnote": "7.2.8 (2023 06 13)\n\n- Սխալների շտկում"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Bixar fyrirbæri frumstillt þegar kraninn er færður.\n-Fall 5 sekúndum eftir að umbreytingarvinnunni var lokið var tilkynningunni breytt til að fjarlægja."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Bug Fix"
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fiksenon tapan nə vaxt başladılan fenomen başlandı.\nDönüşüm işinin tamamlandıqdan 5 saniyə sonra 5 saniyə sonra bildiriş çıxarıldığı dəyişdirildi."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Hata düzeltme"
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fix die verskynsel geïnitialiseer wanneer die kraan geskuif word.\n-Val 5 sekondes nadat die omskakelingswerk voltooi is, is die kennisgewing verander om verwyder te word."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Bug fix"
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fixes fenomeni inicializohet kur zhvendoset çezma.\n-Më 5 sekonda Pas përfundimit të punës së konvertimit, njoftimi u modifikua për t'u hequr."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Fix Bug"
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.2.5 (2023 06 10)\n\n- ፊንሰን መታጠቡ ሲንቀሳቀስ የተተነተነ የአውሮፕላን ክስተቶች.\n- የወላጅ ሥራው ከተጠናቀቀ ከ 5 ሰከንዶች በኋላ 5 ሰከንዶች ለማወገዱ ተሻሽሏል."
+    "devnote": "7.2.8 (2023 06 13)\n\n- የሳንካ ጥገና"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fiksib nähtust, mis on lähtestatud kraani teisaldamisel.\n-Liigutage 5 sekundit pärast ümberarvestustöö lõppu, teade muudeti eemaldamiseks."
+    "devnote": "7.2.8 (2023 06 13)\n\n- veaparandus"
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.2.5 (2023 06 10)\n\nجب نل کو منتقل کیا جاتا ہے تو اس کے آغاز کے رجحان کو شروع کیا جاتا ہے۔\nتبادلوں کا کام مکمل ہونے کے 5 سیکنڈ بعد ، نوٹیفکیشن کو ختم کرنے کے لئے ترمیم کی گئی۔"
+    "devnote": "7.2.8 (2023 06 13)\n\n- بگ فکس"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Прикає феномен, ініціалізований при переміщенні крана.\n-Прости через 5 секунд після завершення конверсії, повідомлення було змінено для видалення."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Виправлення помилок"
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fade il fenomeno inizializzato quando il rubinetto viene spostato.\n-Fall 5 secondi dopo il completamento del lavoro di conversione, la notifica è stata modificata per essere rimossa."
+    "devnote": "7.2.8 (2023 06 13)\n\n- risoluzione del problema"
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fix Fenomena diinisialisasi saat keran dipindahkan.\n-Setur 5 detik setelah pekerjaan konversi selesai, pemberitahuan dimodifikasi untuk dihapus."
+    "devnote": "7.2.8 (2023 06 13)\n\n- perbaikan bug"
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.2.5（2023 06 10）\n\n - タップが移動されたときに初期化された現象を固定します。\n - 変換作業が完了してから5秒後、通知が変更され、削除されました。"
+    "devnote": "7.2.8（2023 06 13）\n\n- バグ修正"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.2.5 (2023 06 10)\n\n-ფენომენის ინიციალიზაცია, როდესაც ონკანი გადაადგილდება.\n-გადაქცევის სამუშაოების დასრულებიდან 5 წამის განმავლობაში, შეტყობინება შეიცვალა ამოღების მიზნით."
+    "devnote": "7.2.8 (2023 06 13)\n\n- შეცდომის გასწორება"
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.2.5 (2023 06 10)\n\n-I-fixes the the the the the the the the the thepha ihanjiswa.\n-Faka imizuzwana emi-5 ngemuva kokuqedwa emsebenzini wokuguqulwa, isaziso sashintshwa ukuze sisuswe."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Ukulungiswa kwe-bug"
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.2.5（2023 06 10）\n\n - 将水龙头移动时初始化的现象。\n - 转换工作完成后5秒钟，对通知进行了修改以删除。"
+    "devnote": "7.2.8（2023 06 13）\n\n - 错误修复"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.2.5（2023 06 10）\n\n - 將水龍頭移動時初始化的現象。\n - 轉換工作完成後5秒鐘，對通知進行了修改以刪除。"
+    "devnote": "7.2.8（2023 06 13）\n\n - 錯誤修復"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.2.5（2023 06 10）\n\n - 將水龍頭移動時初始化的現象。\n - 轉換工作完成後5秒鐘，對通知進行了修改以刪除。"
+    "devnote": "7.2.8（2023 06 13）\n\n - 錯誤修復"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Pixs jev inicializovaný při přesunu kop.\n-Pomát 5 sekund Po dokončení konverzních prací bylo oznámení upraveno tak, aby bylo odstraněno."
+    "devnote": "7.2.8 (2023 06 13)\n\n- oprava chyby"
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.2.5 (2023 06 10)\n\n- Феноменді ағын аныжайды, ол кран жылжытылған кезде басталады.\n- Конверсиялық жұмыс аяқталғаннан кейін 5 секундтан кейін хабарлама алынып тасталсын."
+    "devnote": "7.2.8 (2023 06 13)\n\n- қате түзету"
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Les fixen el fenomen inicialitzat quan es mou l’aixeta.\n-Falls 5 segons després de la finalització del treball de conversió, es va modificar la notificació per eliminar -la."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Solució d'errors"
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.2.5 (2023 06 10)\n\nಟ್ಯಾಪ್ ಸರಿದಾಗ ಈ ವಿದ್ಯಮಾನವನ್ನು ಪ್ರಾರಂಭಿಸಲಾಗುತ್ತದೆ.\nಪರಿವರ್ತನೆ ಕೆಲಸ ಪೂರ್ಣಗೊಂಡ 5 ಸೆಕೆಂಡುಗಳ ನಂತರ, ಅಧಿಸೂಚನೆಯನ್ನು ತೆಗೆದುಹಾಕಲು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
+    "devnote": "7.2.8 (2023 06 13)\n\n- ದೋಷವನ್ನು ನಿವಾರಿಸಲು"
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Prežava fenomen inicijalizirana kada se slavina pomakne.\n-Pod 5 sekundi nakon završetka radova na pretvorbi, obavijest je izmijenjena da bude uklonjena."
+    "devnote": "7.2.8 (2023. 06. 13)\n\n- Popravak pogrešaka"
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fixes បាតុភូតដែលបានចាប់ផ្តើមនៅពេលដែលម៉ាស៊ីនត្រូវបានផ្លាស់ប្តូរ។\n- 5 វិនាទីបន្ទាប់ពីការងារបំលែងត្រូវបានបញ្ចប់ការជូនដំណឹងត្រូវបានកែប្រែដើម្បីដកចេញ។"
+    "devnote": "7.2.8 (2023 06 13)\n\n- ជួសជុល​កំហុស"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.25 (2023 06 10)\n\n-Фиксес кран көчүп кеткенде башталган фенменттер башталды.\nАйландыруу иши аяктагандан кийин 5 секунддан 5 секунддан кийин, кабарлоо алынып салынат деп өзгөртүлдү."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Bug Fix"
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.2.5 (2023 06 10)\n\nகுழாய் நகர்த்தப்படும்போது துவக்கப்பட்ட நிகழ்வு தொடங்குகிறது.\nமாற்று பணிகள் முடிந்த 5 வினாடிகள் கழித்து, அறிவிப்பு அகற்றப்படுவதற்கு மாற்றப்பட்டது."
+    "devnote": "7.2.8 (2023 06 13)\n\n- குறைபாடு திருத்தம்"
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.2.5 (2023 06 10)\n\n-แก้ไขปรากฏการณ์เริ่มต้นเมื่อย้ายก๊อกน้ำ\n-Fall 5 วินาทีหลังจากงานแปลงเสร็จสิ้นการแจ้งเตือนจะถูกลบออกเพื่อลบออก"
+    "devnote": "7.2.8 (2023 06 13)\n\n- แก้ไขข้อบกพร่อง"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.2.5 (2023 06 10)\n\n-TAP hareket ettirildiğinde başlatılan fenomeni bulur.\n-Dönüşüm çalışması tamamlandıktan 5 saniye sonra, bildirim kaldırılacak şekilde değiştirildi."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Hata düzeltmesi"
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.2.5 (2023 06 10)\n\n-ట్యాప్ తరలించినప్పుడు ప్రారంభించిన దృగ్విషయాన్ని fixes చేస్తుంది.\n-మార్పిడి పని పూర్తయిన 5 సెకన్ల తరువాత, నోటిఫికేషన్ తొలగించబడింది."
+    "devnote": "7.2.8 (2023 06 13)\n\n- తప్పిదాన్ని పరిష్కరించు"
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.2.5 (2023 06 10)\n\nਜਦੋਂ ਟੈਪ ਨੂੰ ਭੇਜਿਆ ਜਾਵੇ ਤਾਂ ਵਰਤਮਾਨ ਦੀ ਸ਼ੁਰੂਆਤ\nਕਦਮ ਪੂਰਾ ਹੋਣ ਦੇ ਕੰਮ ਪੂਰਾ ਹੋਣ ਤੋਂ 5 ਸਕਿੰਟ ਬਾਅਦ, ਨੋਟੀਫਿਕੇਸ਼ਨ ਨੂੰ ਹਟਾਉਣ ਲਈ ਸੋਧਿਆ ਗਿਆ ਸੀ."
+    "devnote": "7.2.8 (2023 06 13)\n\n- ਬੱਗ ਫਿਕਸ"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.2.5 (2023 06 10)\n\n-فیکس پدیده ای که هنگام جابجایی شیر اولیه انجام می شود.\n5 ثانیه پس از اتمام کار تبدیل ، اعلان اصلاح شد تا حذف شود."
+    "devnote": "7.2.8 (2023 06 13)\n\n- رفع اشکال"
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fixos O fenômeno inicializado quando a torneira é movida.\n-Queda 5 segundos após a conclusão do trabalho de conversão, a notificação foi modificada para ser removida."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Correção de bug"
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fixes zjawisko zainicjowane po przesuwaniu kranu.\n-Wadna 5 sekund po zakończeniu prac konwersji powiadomienie zostało zmodyfikowane do usunięcia."
+    "devnote": "7.2.8 (2023 06 13)\n\n- naprawa błędów"
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fix le phénomène initialisé lorsque le robinet est déplacé.\n-Chat 5 secondes après la fin des travaux de conversion, la notification a été modifiée pour être supprimée."
+    "devnote": "7.2.8 (2023 06 13)\n\n- correction d'un bug"
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Korjaus ilmiö alustetaan, kun hana siirretään.\n-Polun 5 sekuntia muuntamistyön valmistumisen jälkeen ilmoitusta muutettiin poistettavaksi."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Bugin korjaus"
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Pagtataya ang hindi pangkaraniwang bagay kapag inilipat ang gripo.\n-Fall 5 segundo Matapos makumpleto ang trabaho sa conversion, binago ang abiso upang alisin."
+    "devnote": "7.2.8 (2023 06 13)\n\n- Pag -aayos ng Bug"
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.2.5 (2023 06 10)\n\n-Fixes A jelenség inicializálva a csap mozgatásakor.\n-5 másodperccel a konverziós munka befejezése után az értesítést módosították, hogy eltávolítsák."
+    "devnote": "7.2.8 (2023 06 13)\n\n- hibajavítás"
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.2.5 (2023 06 10)\n\n-מיקסים את התופעה שאותה כאשר מועבר הברז.\n-נפלו 5 שניות לאחר סיום עבודות ההמרה, ההודעה שונתה להסרה."
+    "devnote": "7.2.8 (2023 06 13)\n\n- תיקון באגים"
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.2.5 (2023 06 10)\n\nनल को स्थानांतरित करने पर आरमेनन की घटना को -फिक्स किया जाता है।\nरूपांतरण कार्य पूरा होने के 5 सेकंड बाद, अधिसूचना को हटाने के लिए संशोधित किया गया था।"
+    "devnote": "7.2.8 (2023 06 13)\n\n- कीड़ा जंजाल"
   }
 }
