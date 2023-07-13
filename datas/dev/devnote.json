@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.3.3 (2023 06 30)\n\n- performance improvement"
+    "devnote": "7.3.4 (13 Jul 2023)\n\n- The touch area function has been modified.\n- Modified synchronization logic.\n- When playing TTS, a function has been added so that it can be read in page units instead of line units.\n- Modified to display the cover image in the case of my library compressed file or epub."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.3.3 (2023 06 30)\n\n- 성능 개선"
+    "devnote": "7.3.4 (2023 07 13)\n\n- 터치영역 기능을 수정 하였습니다.\n- 동기화 로직을 수정 하였습니다. \n- TTS 재생시 라인 단위가 아니니 페이지 단위로 읽을수 있도록 기능을 추가 하였습니다. \n- 내서재 압축파일이나 epub 일경우 커버 이미지를 표시 하도록 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Mellora do rendemento"
+    "devnote": "7.3.4 (13 de xullo de 2023)\n\n- Modificouse a función da área táctil.\n- Lóxica de sincronización modificada.\n- Ao reproducir TTS, engadiuse unha función para que se poida ler nas unidades de páxina en vez de unidades de liña.\n- Modificado para amosar a imaxe de portada no caso do ficheiro comprimido da miña biblioteca ou epub."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.3.3 (2023 06 30)\n\n- કામગીરી સુધારણા"
+    "devnote": "7.3.4 (13 જુલાઈ 2023)\n\n- ટચ એરિયા ફંક્શનમાં ફેરફાર કરવામાં આવ્યા છે.\n- સુધારેલ સિંક્રોનાઇઝેશન તર્ક.\n- ટીટીએસ રમતી વખતે, ફંક્શન ઉમેરવામાં આવ્યું છે જેથી તે લાઇન એકમોને બદલે પૃષ્ઠ એકમોમાં વાંચી શકાય.\n- મારી લાઇબ્રેરી કોમ્પ્રેસ્ડ ફાઇલ અથવા ઇપબના કિસ્સામાં કવર ઇમેજ પ્રદર્શિત કરવા માટે સંશોધિત."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.3.3 (2023 06 30)\n\n- βελτίωση απόδοσης"
+    "devnote": "7.3.4 (13 Ιουλ 2023)\n\n- Η λειτουργία της περιοχής αφής έχει τροποποιηθεί.\n- Τροποποιημένη λογική συγχρονισμού.\n- Όταν παίζετε TTS, έχει προστεθεί μια λειτουργία έτσι ώστε να μπορεί να διαβαστεί σε μονάδες σελίδας αντί για μονάδες γραμμής.\n- Τροποποιήθηκε για την εμφάνιση της εικόνας του καλύμματος στην περίπτωση του συμπιεσμένου αρχείου ή του EPUB της βιβλιοθήκης μου."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.3.3 (2023 06 30)\n\n- prestatieverbetering"
+    "devnote": "7.3.4 (13 jul 2023)\n\n- De functie Touch Area is gewijzigd.\n- Gemodificeerde synchronisatielogica.\n- Bij het spelen van TTS is een functie toegevoegd zodat deze kan worden gelezen in pagina -eenheden in plaats van lijneenheden.\n- aangepast om de omslagafbeelding weer te geven in het geval van mijn gecomprimeerde bibliotheekbestand of EPUB."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "7.3.3 (2023 06 30)\n\n- प्रदर्शन सुधार"
+    "devnote": ".3..3..4 (1 jul जुल 2023)\n\n- टच क्षेत्र प्रकार्य परिमार्जन गरिएको छ।\n- परिमार्जित समक्रमण लंचाकरण तर्क।\n- TTS खेल्दा, एक प्रकार्य थपिएको छ कि यो लाइन एकाइहरूको सट्टा पृष्ठ एकाइहरूमा पढ्न सकिन्छ।\n- मेरो पुस्तकालय कम्प्रेस गरिएको फाईल वा Epub को मामला मा कभर छवि प्रदर्शन गर्न परिमार्जित।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.3.3 (2023 06 30)\n\n- ytelsesforbedring"
+    "devnote": "7.3.4 (13. jul 2023)\n\n- Berøringsområdefunksjonen er endret.\n- Modifisert synkroniseringslogikk.\n- Når du spiller TTS, er en funksjon lagt til slik at den kan leses i sideenheter i stedet for linjeenheter.\n- Endret for å vise omslagsbildet når det gjelder min komprimerte fil med biblioteket."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Forbedring af præstationer"
+    "devnote": "7.3.4 (13. juli 2023)\n\n- Funktionen Touch Area er blevet ændret.\n- Ændret synkroniseringslogik.\n- Når du spiller TTS, er der tilføjet en funktion, så den kan læses i sideenheder i stedet for linieenheder.\n- Ændret til at vise forsidebilledet i tilfælde af mit bibliotek komprimerede fil eller epub."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Leistungsverbesserung"
+    "devnote": "7.3.4 (13. Juli 2023)\n\n- Die Funktionsbereichsfunktion wurde geändert.\n- Modifizierte Synchronisationslogik.\n- Beim Spielen von TTS wurde eine Funktion hinzugefügt, damit sie in Seiteneinheiten anstelle von Zeileneinheiten gelesen werden kann.\n- Modifiziert, um das Titelbild im Fall meiner Bibliothekskomprimierungsdatei oder meiner EPUB anzuzeigen."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.3.3 (2023 06 30)\n\n- ການປັບປຸງການປະຕິບັດ"
+    "devnote": "7.3.4 (13 Jul 2023)\n\n- ຫນ້າທີ່ຂອງພື້ນທີ່ສໍາຜັດໄດ້ຖືກດັດແກ້ແລ້ວ.\n- ເຫດຜົນ synchronization ທີ່ຖືກດັດແກ້.\n- ເມື່ອຫຼີ້ນ TTS, ຫນ້າທີ່ໄດ້ຖືກເພີ່ມເພື່ອໃຫ້ມັນສາມາດອ່ານໄດ້ໃນຫົວຫນ່ວຍຫນ້າແທນຫນ່ວຍບໍລິການເສັ້ນ.\n- ດັດແກ້ເພື່ອສະແດງຮູບພາບປົກໃນກໍລະນີຂອງແຟ້ມເອກະສານທີ່ທ່ານມັກຫຼື EPUB ທີ່ບີບອັດ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Performances uzlabošana"
+    "devnote": "7.3.4 (2023. gada 13. jūlijs)\n\n- Spēcīga funkcija skārienjūtība ir modificēta.\n- Modificēta sinhronizācijas loģika.\n- Spēlējot TTS, ir pievienota funkcija, lai to varētu lasīt lapu vienībās, nevis līnijas vienībās.\n- modificēts, lai parādītu vāka attēlu manas bibliotēkas saspiestā faila vai epub gadījumā."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.3.3 (2023 06 30)\n\n- улучшение производительности"
+    "devnote": "7.3.4 (13 июля 2023 г.)\n\n- Функция области сенсорной области была изменена.\n- Модифицированная логика синхронизации.\n- При воспроизведении TTS была добавлена ​​функция, чтобы ее можно было прочитать в единицах страниц вместо линейных единиц.\n- Модифицировано для отображения изображения обложки в случае моей библиотеки сжатого файла или epub."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.3.3 (2023 06 30)\n\n- îmbunătățirea performanței"
+    "devnote": "7.3.4 (13 iul 2023)\n\n- Funcția de zonă tactilă a fost modificată.\n- Logică de sincronizare modificată.\n- Când jucați TTS, a fost adăugată o funcție, astfel încât să poată fi citită în unități de pagină în loc de unități de linie.\n- Modificat pentru a afișa imaginea de copertă în cazul fișierului sau EPUB comprimat al bibliotecii mele."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Našumo tobulinimas"
+    "devnote": "7.3.4 (2023 m. Liepos 13 d.)\n\n- Jutiklinės srities funkcija buvo modifikuota.\n- Modifikuota sinchronizacijos logika.\n- Kai žaidžiant TTS, buvo pridėta funkcija, kad ją būtų galima perskaityti puslapių vienetuose, o ne linijų vienetuose.\n- Modifikuotas, kad viršelio vaizdas būtų rodomas mano bibliotekos suspausto failo ar EPUB atveju."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.3.3 (2023 06 30)\n\n- कामगिरी सुधार"
+    "devnote": "7.3.4 (13 जुलै 2023)\n\n- टच एरिया फंक्शन सुधारित केले गेले आहे.\n- सुधारित सिंक्रोनाइझेशन लॉजिक.\n- टीटीएस खेळताना, एक फंक्शन जोडले गेले आहे जेणेकरून ते लाइन युनिटऐवजी पृष्ठ युनिट्समध्ये वाचले जाऊ शकते.\n- माझ्या लायब्ररी संकुचित फाइल किंवा EPUB च्या बाबतीत कव्हर प्रतिमा प्रदर्शित करण्यासाठी सुधारित."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Подобрување на перформансите"
+    "devnote": "7.3.4 (13 јули 2023 година)\n\n- Функцијата на областа на допир е изменета.\n- Изменета логика на синхронизација.\n- Кога играте TTS, додадена е функција за да може да се прочита во единиците на страниците наместо во единиците на линијата.\n- Изменето за да се прикаже сликата на насловната страница во случај на компресирана датотека или EPUB на мојата библиотека."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.3.3 (2023 06 30)\n\n- പ്രകടന മെച്ചപ്പെടുത്തൽ"
+    "devnote": "7.3.4 (13 ജൂലൈ 2023)\n\n- ടച്ച് ഏരിയ പ്രവർത്തനം പരിഷ്ക്കരിച്ചു.\n- പരിഷ്ക്കരിച്ച സമന്വയ ലോഗ്.\n- ടിടിഎസ് കളിക്കുമ്പോൾ, ലൈൻ യൂണിറ്റുകൾക്ക് പകരം പേജ് യൂണിറ്റുകളിൽ വായിക്കാൻ കഴിയുന്ന ഒരു ഫംഗ്ഷൻ ചേർത്തു.\n- എന്റെ ലൈബ്രറി കംപ്രസ്സുചെയ്ത ഫയലിന്റെയോ EPUB- യുടെയോ സാഹചര്യത്തിൽ കവർ ഇമേജ് പ്രദർശിപ്പിക്കുന്നതിന് പരിഷ്ക്കരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Peningkatan prestasi"
+    "devnote": "7.3.4 (13 Jul 2023)\n\n- Fungsi kawasan sentuh telah diubah suai.\n- Logik Penyegerakan Modified.\n- Apabila bermain TTS, fungsi telah ditambah supaya ia dapat dibaca dalam unit halaman dan bukannya unit baris.\n- Diubahsuai untuk memaparkan imej penutup dalam kes fail termampat perpustakaan saya atau EPUB."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.3.3 (2023 06 30)\n\n- гүйцэтгэлийг сайжруулах"
+    "devnote": "7.3.4 (13 Жул 2023)\n\n- Хүрэх бүсийн функцийг өөрчилсөн.\n- Өөрчлөгдсөн синхрончлолын логик.\n- TTS тоглож байхдаа функц нь шугамын нэгжийн оронд хуудасны хэсгээс унших боломжтой.\n- Номын сангийн шахсан файл эсвэл EPUB-ийн хувьд хавтасны зургийг харуулахаар өөрчлөгдсөн."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Errendimenduaren hobekuntza"
+    "devnote": "7.3.4 (2023 uzt. 13)\n\n- Ukipen eremuaren funtzioa aldatu da.\n- Aldatutako sinkronizazio logika.\n- TTS erreproduzitzerakoan, funtzio bat gehitu da lerro unitateen ordez orrialde unitateetan irakurri ahal izateko.\n- Aldatuta, estalduraren irudia bistaratzeko nire liburutegiko fitxategia edo epub konprimituaren kasuan."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.3.3 (2023 06 30)\n\n- စွမ်းဆောင်ရည်တိုးတက်မှု"
+    "devnote": "7.3.4 (13 ဇူလိုဇူ 2023)\n\n- touch area ရိယာ function ကိုပြုပြင်ပြီးပြီ။\n- ပြုပြင်ထားသောထပ်တူပြုခြင်းယုတ္တိဗေဒ။\n- TTS ကိုကစားသည့်အခါ၎င်းသည်လိုင်းယူနစ်များအစားစာမျက်နှာယူနစ်များတွင်ဖတ်ရှုနိုင်ရန် function ကိုထည့်သွင်းထားသည်။\n- ကျွန်ုပ်၏စာကြည့်တိုက် compressed file or Epub ၏အမှု၌ cover image ကိုပြသရန်ပြင်ဆင်ရန်ပြင်ဆင်ရန်ပြင်ဆင်ထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Cải thiện hiệu suất"
+    "devnote": "7.3.4 (13 tháng 7 năm 2023)\n\n- Hàm khu vực cảm ứng đã được sửa đổi.\n- Logic đồng bộ hóa sửa đổi.\n- Khi chơi TTS, một hàm đã được thêm vào để có thể đọc trong các đơn vị trang thay vì các đơn vị dòng.\n- Được sửa đổi để hiển thị hình ảnh bìa trong trường hợp tệp hoặc epub được nén thư viện của tôi."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Павышэнне прадукцыйнасці"
+    "devnote": "7.3.4 (13 ліпеня 2023 г.)\n\n- Функцыя вобласці сэнсарнай вобласці была зменена.\n- Мадыфікаваная логіка сінхранізацыі.\n- Пры прайграванні TTS была дададзена функцыя, каб яе можна было прачытаць у блоках старонак замест лінейных блокаў.\n- Зменена для адлюстравання вокладкі ў выпадку з маім сціснутым файлам або EPUB бібліятэкі."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.3.3 (2023 06 30)\n\n- কর্মক্ষমতা বৃদ্ধি"
+    "devnote": "7.3.4 (13 জুলাই 2023)\n\n- টাচ এরিয়া ফাংশনটি সংশোধন করা হয়েছে।\n- পরিবর্তিত সিঙ্ক্রোনাইজেশন লজিক।\n- টিটিএস বাজানোর সময়, একটি ফাংশন যুক্ত করা হয়েছে যাতে এটি লাইন ইউনিটের পরিবর্তে পৃষ্ঠা ইউনিটে পড়া যায়।\n- আমার লাইব্রেরি সংকুচিত ফাইল বা ইপাবের ক্ষেত্রে কভার চিত্রটি প্রদর্শন করতে সংশোধিত।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.3.3 (2023 06 30)\n\n- подобряване на представянето"
+    "devnote": "7.3.4 (13 юли 2023 г.)\n\n- Функцията на зоната на допир е модифицирана.\n- Модифицирана логика на синхронизация.\n- При възпроизвеждане на TTS е добавена функция, така че да може да се чете в единици на страници вместо линейни единици.\n- Модифициран, за да показва изображението на капака в случай на компресиран файл или EPUB на библиотеката ми."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.3.3 (2023 06 30)\n\n- побољшање перформанси"
+    "devnote": "7.3.4 (13. јул 2023)\n\n- Функција додирног подручја је модификована.\n- модификована логика синхронизације.\n- Када играте ТТС, додата је функција тако да се може прочитати у јединицама страница уместо линија линија.\n- Модификовано да прикажете насловницу у случају мојих библиотека компримованих датотека или епуб."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Uboreshaji wa utendaji"
+    "devnote": "7.3.4 (13 Jul 2023)\n\n- Kazi ya eneo la kugusa imebadilishwa.\n- Mantiki ya maingiliano ya maingiliano.\n- Wakati wa kucheza TTS, kazi imeongezwa ili iweze kusomwa katika vitengo vya ukurasa badala ya vitengo vya mstari.\n- Ilirekebishwa kuonyesha picha ya kifuniko katika kesi ya maktaba yangu iliyoshinikizwa au epub."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Prestationsförbättring"
+    "devnote": "7.3.4 (13 juli 2023)\n\n- Touch Area -funktionen har modifierats.\n- Modifierad synkroniseringslogik.\n- När du spelar TTS har en funktion lagt till så att den kan läsas i sidenheter istället för linjenheter.\n- Modifierad för att visa omslagsbilden i fallet med min bibliotek komprimerad fil eller EPUB."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.3.3 (2023 06 30)\n\n- mejora del rendimiento"
+    "devnote": "7.3.4 (13 de julio de 2023)\n\n- La función de área táctil ha sido modificada.\n- Lógica de sincronización modificada.\n- Al reproducir TTS, se ha agregado una función para que pueda leerse en las unidades de página en lugar de las unidades de línea.\n- Modificado para mostrar la imagen de portada en el caso de mi archivo comprimido o EPUB de la biblioteca."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.3.3 (2023 06 30)\n\n- zlepšenie výkonu"
+    "devnote": "7.3.4 (13. júla 2023)\n\n- Funkcia dotykovej oblasti bola upravená.\n- modifikovaná logika synchronizácie.\n- Pri prehrávaní TTS bola pridaná funkcia, aby sa mohla čítať v jednotkách stránky namiesto riadkových jednotiek.\n- Upravené tak, aby sa zobrazil obrazový obrázok v prípade komprimovaného súboru alebo EPUB knižnice."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Izboljšanje uspešnosti"
+    "devnote": "7.3.4 (13. julij 2023)\n\n- Funkcija območja na dotik je spremenjena.\n- Spremenjena logika sinhronizacije.\n- Pri igranju TTS je bila dodana funkcija, tako da jo je mogoče brati v enotah strani namesto v linijskih enotah.\n- Spremenjeno tako, da prikaže naslovnico v primeru stisnjene datoteke ali epub knjižnice."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.3.3 (2023 06 30)\n\n- කාර්ය සාධනය වැඩිදියුණු කිරීම"
+    "devnote": "7.3.4 (13 ජුලි 2023)\n\n- ස්පර්ශක ප්රදේශ ශ්රිතය වෙනස් කර ඇත.\n- නවීකරණය කරන ලද සමමුහුර්ත කිරීමේ තර්කනය.\n- TTS වාදනය කරන විට, රේඛීය ඒකක වෙනුවට පිටු ඒකකවල කියවිය හැකි වන පරිදි ශ්රිතයක් එකතු කර ඇත.\n- මගේ පුස්තකාල සම්පීඩිත ගොනුව හෝ එපබ්ගේ සිද්ධියේදී ආවරණ රූපය පෙන්වීමට වෙනස් කරන ලදි."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.3.3 (2023 06 30)\n\n- تحسين الأداء"
+    "devnote": "7.3.4 (13 يوليو 2023)\n\n- تم تعديل وظيفة منطقة اللمس.\n- منطق المزامنة المعدلة.\n- عند تشغيل TTS ، تمت إضافة وظيفة بحيث يمكن قراءتها في وحدات الصفحة بدلاً من وحدات الخط.\n- تم تعديل صورة الغلاف في حالة ملف مكتبة أو epub المضغوط."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.3.3 (2023 06 30)\n\n- կատարողականի բարելավում"
+    "devnote": "7.3.4 (13 հուլիսի 2023)\n\n- Հպման տարածքի գործառույթը փոփոխվել է:\n- Փոփոխված համաժամացման տրամաբանություն:\n- TTS խաղալիս գործառույթ է ավելացվել, որպեսզի այն հնարավոր լինի կարդալ էջերի միավորների փոխարեն:\n- Փոփոխված է ծածկույթի պատկերը ցուցադրելու համար իմ գրադարանի սեղմված ֆայլի կամ EPUB- ի դեպքում:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Árangursbætur"
+    "devnote": "7.3.4 (13. júlí 2023)\n\n- Aðgerðinni á snertiflokknum hefur verið breytt.\n- Breytt samstillingar rökfræði.\n- Þegar þú spilar TTS hefur aðgerð verið bætt við svo hægt sé að lesa það í blaðsíðum í stað línueininga.\n- Breytt til að birta forsíðu myndarinnar þegar um er að ræða þjappaða skrá eða epub bókasafnið mitt."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Performans yaxşılaşdırılması"
+    "devnote": "7.3.4 (13 iyul 2023)\n\n- Toxunma sahəsi funksiyası dəyişdirildi.\n- Dəyişdirilmiş sinxronizasiya məntiqi.\n- TTS oynayarkən, xətt bölmələri əvəzinə səhifə vahidlərində oxuya bilməsi üçün bir funksiya əlavə edildi.\n- Kitabxanamızdakı sıxılmış fayl və ya epub vəziyyətində örtük görüntüsünü göstərmək üçün dəyişdirilmişdir."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Prestasieverbetering"
+    "devnote": "7.3.4 (13 Jul 2023)\n\n- Die aanraakarea -funksie is verander.\n- Gewysigde sinchronisasie -logika.\n- As u TTS speel, is 'n funksie bygevoeg sodat dit in bladsy -eenhede gelees kan word in plaas van lyneenhede.\n- Gewysig om die voorbladfoto te vertoon in die geval van my biblioteek saamgeperste lêer of epub."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Përmirësimi i performancës"
+    "devnote": "7.3.4 (13 korrik 2023)\n\n- Funksioni i zonës së prekjes është modifikuar.\n- Logjika e modifikuar e sinkronizimit.\n- Kur luani TTS, është shtuar një funksion në mënyrë që të mund të lexohet në njësitë e faqeve në vend të njësive të linjës.\n- Modifikuar për të shfaqur imazhin e mbulesës në rastin e skedarit tim të kompresuar ose EPUB të bibliotekës."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.3.3 (2023 06 30)\n\n- አፈፃፀም ማሻሻያ"
+    "devnote": "7.3.4 (13 ጁላይ 2023)\n\n- የመንካቱ አከባቢ ተግባር ተሻሽሏል.\n- የተስተካከለ ማመሳሰል አመክንዮአዊ.\n- TTS ን መጫወት ከቀጥታ ክፍሎች ይልቅ በገጽ ክፍሎች ውስጥ ሊነበብ እንዲችል ተግባር ታክሏል.\n- የሽፋን ምስሉን በተሳካ ሁኔታ በተጨናነቀ ፋይል ወይም ኤ.ፒ.ፒ. ውስጥ የሽፋን ምስል ለማሳየት ተሻሽሏል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.3.3 (2023 06 30)\n\n- jõudluse parandamine"
+    "devnote": "7.3.4 (13. juuli 2023)\n\n- Puutepiirkonna funktsiooni on muudetud.\n- modifitseeritud sünkroniseerimisloogika.\n- TTS -i mängimisel on lisatud funktsioon, nii et seda saaks rea üksuste asemel lugeda.\n- Muudetud kaanepildi kuvamiseks minu teegi tihendatud faili või epubi korral."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.3.3 (2023 06 30)\n\n- کارکردگی میں بہتری"
+    "devnote": "7.3.4 (13 جولائی 2023)\n\n- ٹچ ایریا فنکشن میں ترمیم کی گئی ہے۔\n- ترمیم شدہ مطابقت پذیری منطق۔\n- جب ٹی ٹی ایس چلاتے ہو تو ، ایک فنکشن شامل کیا گیا ہے تاکہ اسے لائن یونٹوں کے بجائے پیج یونٹوں میں پڑھا جاسکے۔\n- میری لائبریری کمپریسڈ فائل یا ای پی یو بی کی صورت میں کور امیج کو ظاہر کرنے کے لئے ترمیم کی گئی۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Поліпшення продуктивності"
+    "devnote": "7.3.4 (13 липня 2023)\n\n- Функція області дотику була модифікована.\n- Модифікована логіка синхронізації.\n- Під час відтворення TTS була додана функція, щоб її можна було прочитати в одиницях сторінки замість лінійних одиниць.\n- Модифіковано для відображення зображення кришки у випадку мого стисненого файлу або EPUB."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Miglioramento delle prestazioni"
+    "devnote": "7.3.4 (13 lug 2023)\n\n- La funzione dell'area touch è stata modificata.\n- Logica di sincronizzazione modificata.\n- Durante la riproduzione di TTS, è stata aggiunta una funzione in modo che possa essere letta in unità di pagina anziché in unità di linea.\n- Modificato per visualizzare l'immagine di copertina nel caso del file compresso della mia libreria o EPUB."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.3.3 (2023 06 30)\n\n- peningkatan performa"
+    "devnote": "7.3.4 (13 Jul 2023)\n\n- Fungsi area sentuh telah dimodifikasi.\n- Logika sinkronisasi yang dimodifikasi.\n- Saat bermain TTS, suatu fungsi telah ditambahkan sehingga dapat dibaca di unit halaman alih -alih unit baris.\n- Dimodifikasi untuk menampilkan gambar sampul dalam kasus file terkompresi atau epub perpustakaan saya."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.3.3（2023 06 30\n\n - パフォーマンスの改善"
+    "devnote": "7.3.4（2023年7月13日）\n\n - タッチエリア機能が変更されました。\n - 変更された同期ロジック。\n-TTSを再生するとき、ラインユニットの代わりにページユニットで読み取ることができるように機能が追加されています。\n - ライブラリの圧縮ファイルまたはepubの場合、カバー画像を表示するように変更されました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.3.3 (2023 06 30)\n\n- შესრულების გაუმჯობესება"
+    "devnote": "7.3.4 (2023 წლის 13 ივლისი)\n\n- შეიცვალა შეხების არეალის ფუნქცია.\n- მოდიფიცირებული სინქრონიზაციის ლოგიკა.\n- TTS– ის თამაშისას, დაემატა ფუნქცია ისე, რომ მისი წაკითხვა ხაზის ერთეულების ნაცვლად.\n- შეცვლილია საფარის გამოსახულების ჩვენება ჩემი ბიბლიოთეკის შეკუმშული ფაილის ან EPUB შემთხვევაში."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Ukuthuthukiswa kokusebenza"
+    "devnote": "7.3.4 (13 Jul 2023)\n\n- Umsebenzi wendawo yokuthinta uguquliwe.\n- I-Modified Synchronization Logic.\n- Lapho udlala ama-TTS, kufakwe umsebenzi ukuze kufundwe kumayunithi ekhasi esikhundleni samayunithi omugqa.\n- Iguqulwe ukukhombisa isithombe sekhava esimweni se-Library Yami ecindezelwe ifayela noma i-EPUB."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.3.3（2023 06 30\n\n- 性能改进"
+    "devnote": "7.3.4（2023年7月13日）\n\n - 触摸区域功能已修改。\n - 修改的同步逻辑。\n - 播放TTS时，已经添加了一个函数，以便可以在页面单元而不是线路单元中读取它。\n - 修改以在我的库压缩文件或epub的情况下显示封面图像。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.3.3（2023 06 30\n\n- 性能改進"
+    "devnote": "7.3.4（2023年7月13日）\n\n - 觸摸區域功能已修改。\n - 修改的同步邏輯。\n - 播放TTS時，已經添加了一個函數，以便可以在頁面單元而不是線路單元中讀取它。\n - 修改以在我的庫壓縮文件或epub的情況下顯示封面圖像。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.3.3（2023 06 30\n\n- 性能改進"
+    "devnote": "7.3.4（2023年7月13日）\n\n - 觸摸區域功能已修改。\n - 修改的同步邏輯。\n - 播放TTS時，已經添加了一個函數，以便可以在頁面單元而不是線路單元中讀取它。\n - 修改以在我的庫壓縮文件或epub的情況下顯示封面圖像。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.3.3 (2023 06 30)\n\n- zlepšení výkonu"
+    "devnote": "7.3.4 (13. července 2023)\n\n- Funkce dotykové oblasti byla upravena.\n- Modifikovaná logika synchronizace.\n- Při přehrávání TTS byla přidána funkce tak, aby byla namísto řádkových jednotek přečtena na stránkách.\n- Upraveno tak, aby zobrazovalo krycí obrázek v případě mé knihovny komprimovaného souboru nebo EPUB."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.3.3 (2023 06 30)\n\n- өнімділікті арттыру"
+    "devnote": "7.3.4 (13 шілде 2023)\n\n- Сенсорлық аймақ функциясы өзгертілген.\n- синхрондау логикасы өзгертілген.\n- TTS ойнатқан кезде, функцияны жол бірліктерінің орнына оқуға болатындай етіп қосылды.\n- Менің кітапханамның сығылған файлы немесе EPUB жағдайында мұқаба кескінін көрсету үшін өзгертілген."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Millora del rendiment"
+    "devnote": "7.3.4 (13 de juliol de 2023)\n\n- La funció de l’àrea tàctil s’ha modificat.\n- Lògica de sincronització modificada.\n- Quan es reprodueix TTS, s'ha afegit una funció de manera que es pugui llegir a les unitats de pàgines en lloc de les unitats de línia.\n- Modificat per mostrar la imatge de portada en el cas del fitxer comprimit o epub de la biblioteca."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.3.3 (2023 06 30)\n\n- ಕಾರ್ಯಕ್ಷಮತೆ ಸುಧಾರಣೆ"
+    "devnote": "7.3.4 (13 ಜುಲೈ 2023)\n\n- ಟಚ್ ಏರಿಯಾ ಕಾರ್ಯವನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಮಾರ್ಪಡಿಸಿದ ಸಿಂಕ್ರೊನೈಸೇಶನ್ ತರ್ಕ.\n- ಟಿಟಿಎಸ್ ಆಡುವಾಗ, ಒಂದು ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ ಇದರಿಂದ ಅದನ್ನು ಲೈನ್ ಘಟಕಗಳ ಬದಲಿಗೆ ಪುಟ ಘಟಕಗಳಲ್ಲಿ ಓದಬಹುದು.\n- ನನ್ನ ಲೈಬ್ರರಿ ಸಂಕುಚಿತ ಫೈಲ್ ಅಥವಾ ಇಪಬ್‌ನ ಸಂದರ್ಭದಲ್ಲಿ ಕವರ್ ಇಮೇಜ್ ಅನ್ನು ಪ್ರದರ್ಶಿಸಲು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.3.3 (2023. 30 22)\n\n- Poboljšanje performansi"
+    "devnote": "7.3.4 (13. srpnja 2023.)\n\n- Izmijenjena je funkcija područja dodira.\n- Modificirana logika sinkronizacije.\n- Prilikom reprodukcije TTS -a dodana je funkcija tako da se može pročitati u jedinicama stranica umjesto linijskih jedinica.\n- Izmijenjeno za prikaz naslovne slike u slučaju moje komprimirane datoteke ili EPUB moje biblioteke."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.3.3 (2023 06 30)\n\n- ការកែលម្អការអនុវត្ត"
+    "devnote": "7.3.4 (13 កក្កដា 2023)\n\nមុខងារទូចតំបន់ត្រូវបានកែប្រែ។\nតក្កវិជ្ជាដែលបានកែប្រែបានកែប្រែ។\n- នៅពេលលេង TTS មុខងារត្រូវបានបន្ថែមដូច្នេះវាអាចត្រូវបានអានក្នុងទំព័រយូនីតជំនួសឱ្យខ្សែបន្ទាត់។\n- កែប្រែដើម្បីបង្ហាញរូបភាពគម្របក្នុងករណីបណ្ណាល័យរបស់ខ្ញុំបានបង្រួមឯកសារឬអេភីអេ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.3.3 (2023 06 30)\n\n- аткаруунун жакшырышы"
+    "devnote": "7.3.4 (13 июл 2023)\n\n- тийүү чөйрөсүнүн функциясы өзгөртүлдү.\n- өзгөртүлгөн синхронизация логикасы.\n- TTS ойноп жатканда, бирдиктүү бирдиктердин ордуна баракчасындагы беттик бирдиктерди окууга болот.\n- Менин китепканамдын кысылган файлы же epub иши үчүн мукабанын сүрөтүн көрсөтүү үчүн өзгөртүлдү."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.3.3 (2023 06 30)\n\n- செயல்திறன் மேம்பாட்டு"
+    "devnote": "7.3.4 (13 ஜூலை 2023)\n\n- தொடு பகுதி செயல்பாடு மாற்றப்பட்டுள்ளது.\n- மாற்றியமைக்கப்பட்ட ஒத்திசைவு தர்க்கம்.\n- TTS ஐ விளையாடும்போது, ​​ஒரு செயல்பாடு சேர்க்கப்பட்டுள்ளது, இதனால் வரி அலகுகளுக்கு பதிலாக பக்க அலகுகளில் படிக்க முடியும்.\n- எனது நூலக சுருக்கப்பட்ட கோப்பு அல்லது எபப் விஷயத்தில் கவர் படத்தைக் காண்பிக்க மாற்றப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.3.3 (2023 06 30)\n\n- การปรับปรุงประสิทธิภาพ"
+    "devnote": "7.3.4 (13 ก.ค. 2023)\n\n- ฟังก์ชั่นพื้นที่สัมผัสได้รับการแก้ไขแล้ว\n- ตรรกะการซิงโครไนซ์ที่แก้ไขแล้ว\n- เมื่อเล่น TTS จะมีการเพิ่มฟังก์ชั่นเพื่อให้สามารถอ่านได้ในหน่วยหน้าแทนหน่วยบรรทัด\n- แก้ไขเพื่อแสดงภาพหน้าปกในกรณีของไฟล์บีบอัดไลบรารีของฉันหรือ epub"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.3.3 (2023 06 30)\n\n- performans iyileştirme"
+    "devnote": "7.3.4 (13 Tem 2023)\n\n- Dokunmatik alan işlevi değiştirildi.\n- Değiştirilmiş senkronizasyon mantığı.\n- TTS oynarken, hat birimleri yerine sayfa birimlerinde okunabilmesi için bir işlev eklenmiştir.\n- Kütüphane sıkıştırılmış dosyam veya epub durumunda kapak görüntüsünü görüntülemek için değiştirildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.3.3 (2023 06 30)\n\n- పనితీరు మెరుగుదల"
+    "devnote": "7.3.4 (13 జూలై 2023)\n\n- టచ్ ఏరియా ఫంక్షన్ సవరించబడింది.\n- సవరించిన సమకాలీకరణ లాజిక్.\n- TTS ఆడుతున్నప్పుడు, ఒక ఫంక్షన్ జోడించబడింది, తద్వారా ఇది లైన్ యూనిట్లకు బదులుగా పేజీ యూనిట్లలో చదవవచ్చు.\n- నా లైబ్రరీ కంప్రెస్డ్ ఫైల్ లేదా ఎపబ్ విషయంలో కవర్ చిత్రాన్ని ప్రదర్శించడానికి సవరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.3.3 (2023 06 30)\n\n- ਪ੍ਰਦਰਸ਼ਨ ਸੁਧਾਰ"
+    "devnote": "7.3.4 (13 ਜੁਲਾਈ 2023)\n\n- ਟੱਚ ਏਰੀਆ ਫੰਕਸ਼ਨ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ.\n- ਸੋਧਿਆ ਸਮਕਾਲੀ ਤਰਕ.\n- ਜਦੋਂ ਟੀਟੀਐਸ ਖੇਡਣ ਵੇਲੇ, ਇੱਕ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤੀ ਗਈ ਤਾਂ ਜੋ ਇਹ ਲਾਈਨ ਇਕਾਈਆਂ ਦੀ ਬਜਾਏ ਪੇਜ ਇਕਾਈਆਂ ਵਿੱਚ ਪੜ੍ਹਿਆ ਜਾ ਸਕੇ.\n- ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ ਸੰਕੁਚਿਤ ਫਾਈਲ ਜਾਂ ਈਪੀਬ ਦੇ ਮਾਮਲੇ ਵਿਚ ਕਵਰ ਈਮੇਜ਼ ਨੂੰ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਲਈ ਸੋਧਿਆ ਗਿਆ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.3.3 (2023 06 30)\n\n- ارتقای کارایی"
+    "devnote": "7.3.4 (13 ژوئیه 2023)\n\n- عملکرد منطقه لمسی اصلاح شده است.\n- منطق هماهنگ سازی اصلاح شده.\n- هنگام پخش TTS ، عملکردی اضافه شده است تا بتواند به جای واحدهای خط در واحدهای صفحه خوانده شود.\n- اصلاح شده برای نمایش تصویر جلد در مورد پرونده فشرده شده کتابخانه من یا EPUB."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Melhoria de desempenho"
+    "devnote": "7.3.4 (13 de julho de 2023)\n\n- A função da área de toque foi modificada.\n- Lógica de sincronização modificada.\n- Ao reproduzir TTS, uma função foi adicionada para que possa ser lida nas unidades de página em vez de unidades de linha.\n- Modificado para exibir a imagem da capa no caso do meu arquivo ou EPUB compactado da minha biblioteca."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.3.3 (2023 06 30)\n\n- poprawa wydajności"
+    "devnote": "7.3.4 (13 lipca 2023)\n\n- Funkcja obszaru dotykowego została zmodyfikowana.\n- Zmodyfikowana logika synchronizacji.\n- Podczas gry TTS dodano funkcję, aby można ją było odczytać w jednostkach stron zamiast jednostek linii.\n- Zmodyfikowany w celu wyświetlenia obrazu okładki w przypadku mojej biblioteki skompresowanego pliku lub epub."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.3.3 (2023 06 30)\n\n- amélioration des performances"
+    "devnote": "7.3.4 (13 juillet 2023)\n\n- La fonction de surface tactile a été modifiée.\n- Logique de synchronisation modifiée.\n- Lors de la lecture de TTS, une fonction a été ajoutée afin qu'elle puisse être lue dans des unités de page au lieu d'unités de ligne.\n- Modifié pour afficher l'image de couverture dans le cas de mon fichier ou de mon ePub compressé de bibliothèque."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.3.3 (2023 06 30)\n\n- suorituskyvyn parantaminen"
+    "devnote": "7.3.4 (13. heinäkuuta 2023)\n\n- Kosketusalueen toimintoa on muokattu.\n- Muokattu synkronointilogiikka.\n- TTS: n pelatessa toiminto on lisätty siten, että se voidaan lukea sivuyksiköissä linjayksiköiden sijasta.\n- Muokattu kannen kuvan näyttämiseksi kirjaston pakatun tiedoston tai ePubin tapauksessa."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.3.3 (2023 06 30)\n\n- Pagpapabuti ng pagganap"
+    "devnote": "7.3.4 (13 Hul 2023)\n\n- Ang pag -andar ng touch area ay nabago.\n- Binagong lohika ng pag -synchronise.\n- Kapag naglalaro ng TTS, ang isang function ay naidagdag upang mabasa ito sa mga yunit ng pahina sa halip na mga yunit ng linya.\n- Binago upang ipakita ang imahe ng takip sa kaso ng aking library na naka -compress na file o epub."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.3.3 (2023 06 30)\n\n- teljesítmény fejlődés"
+    "devnote": "7.3.4 (2023. július 13.)\n\n- Az érintési terület funkciót módosították.\n- Módosított szinkronizálási logika.\n- A TTS lejátszásakor egy függvényt adtak hozzá, hogy a vonalegységek helyett az oldalakban olvashassák.\n- Módosítva a borítókép megjelenítéséhez a könyvtár tömörített fájlja vagy az EPUB esetén."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.3.3 (2023 06 30)\n\n- שיפור ביצועים"
+    "devnote": "7.3.4 (13 ביולי 2023)\n\n- פונקציית אזור המגע שונתה.\n- היגיון סנכרון שונה.\n- בעת משחק TTS, נוספה פונקציה כך שניתן לקרוא אותה ביחידות עמודים במקום יחידות קו.\n- שונה כדי להציג את תמונת הכריכה במקרה של הקובץ או ה- EPUB הדחוס של הספרייה שלי."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.3.3 (2023 06 30)\n\n- प्रदर्शन में सुधार"
+    "devnote": "7.3.4 (13 जुलाई 2023)\n\n- टच एरिया फ़ंक्शन को संशोधित किया गया है।\n- संशोधित सिंक्रनाइज़ेशन लॉजिक।\n- टीटीएस खेलते समय, एक फ़ंक्शन जोड़ा गया है ताकि इसे लाइन इकाइयों के बजाय पेज यूनिट में पढ़ा जा सके।\n- मेरी लाइब्रेरी संपीड़ित फ़ाइल या EPUB के मामले में कवर छवि प्रदर्शित करने के लिए संशोधित।"
   }
 }
