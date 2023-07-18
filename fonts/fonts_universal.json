@@ -1,0 +1,2027 @@
+[
+    {
+        "filepath400": "60sSTRIPE.otf",
+        "imagepath": [
+            "60sSTRIPE_universal_en.png",
+            "60sSTRIPE_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "60sSTRIPE",
+        "name_kr": "60‘S스트라이프체",
+        "rootPath": "fonts/60‘S스트라이프체",
+        "source": " greenegg",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288263&menuNo=200023",
+        "volume": 65252
+    },
+    {
+        "filepath400": "62570체.ttf",
+        "imagepath": [
+            "62570체_universal_en.png",
+            "62570체_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "62570체",
+        "name_kr": "62570체",
+        "rootPath": "fonts/62570체",
+        "source": " 서울보훈청",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288429&menuNo=200026",
+        "volume": 836124
+    },
+    {
+        "filepath400": "ACC어린이가을담은체.otf",
+        "imagepath": [
+            "ACC어린이가을담은체_universal_en.png",
+            "ACC어린이가을담은체_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "ACC어린이가을담은체",
+        "name_kr": "ACC어린이가을담은체",
+        "rootPath": "fonts/ACC어린이가을담은체",
+        "source": " 국립아시아문화전당",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13302261&menuNo=200023",
+        "volume": 9282172
+    },
+    {
+        "filepath400": "ACC어린이하늘맑은체.otf",
+        "imagepath": [
+            "ACC어린이하늘맑은체_universal_en.png",
+            "ACC어린이하늘맑은체_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "ACC어린이하늘맑은체",
+        "name_kr": "ACC어린이하늘맑은체",
+        "rootPath": "fonts/ACC어린이하늘맑은체",
+        "source": " 국립아시아문화전당",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13302263&menuNo=200023",
+        "volume": 7877340
+    },
+    {
+        "filepath400": "KCC-Ahnjunggeun.otf",
+        "imagepath": [
+            "KCC-Ahnjunggeun_universal_en.png",
+            "KCC-Ahnjunggeun_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "KCC-Ahnjunggeun",
+        "name_kr": "KCC 안중근체",
+        "rootPath": "fonts/KCC_안중근체",
+        "source": " 한국저작권위원회",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13214025&menuNo=200026",
+        "volume": 610228
+    },
+    {
+        "filepath400": "KCC-Kimhwanki.otf",
+        "imagepath": [
+            "KCC-Kimhwanki_universal_en.png",
+            "KCC-Kimhwanki_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "KCC-Kimhwanki",
+        "name_kr": "KCC김환기체",
+        "rootPath": "fonts/KCC김환기체",
+        "source": " 한국저작권위원회",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13300207&menuNo=200023",
+        "volume": 1912204
+    },
+    {
+        "filepath400": "KCC김훈체.otf",
+        "imagepath": [
+            "KCC김훈체_universal_en.png",
+            "KCC김훈체_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "KCC김훈체",
+        "name_kr": "KCC김훈체",
+        "rootPath": "fonts/KCC김훈체",
+        "source": " 한국저작권위원회",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13072021&menuNo=200026",
+        "volume": 880456
+    },
+    {
+        "filepath400": "KCCDodamdodam.otf",
+        "imagepath": [
+            "KCCDodamdodam_universal_en.png",
+            "KCCDodamdodam_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "KCCDodamdodam",
+        "name_kr": "KCC도담도담체",
+        "rootPath": "fonts/KCC도담도담체",
+        "source": " 한국저작권위원회",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13209184&menuNo=200023",
+        "volume": 1081820
+    },
+    {
+        "filepath400": "KCC-Murukmuruk.otf",
+        "imagepath": [
+            "KCC-Murukmuruk_universal_en.png",
+            "KCC-Murukmuruk_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "KCC-Murukmuruk",
+        "name_kr": "KCC무럭무럭체",
+        "rootPath": "fonts/KCC무럭무럭체",
+        "source": " 한국저작권위원회",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13262151&menuNo=200023",
+        "volume": 1212852
+    },
+    {
+        "filepath400": "KCC-Imkwontaek.otf",
+        "imagepath": [
+            "KCC-Imkwontaek_universal_en.png",
+            "KCC-Imkwontaek_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "KCC-Imkwontaek",
+        "name_kr": "KCC임권택체",
+        "rootPath": "fonts/KCC임권택체",
+        "source": " 한국저작권위원회",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13285735&menuNo=200023",
+        "volume": 4495624
+    },
+    {
+        "filepath400": "KCC-Chassam.otf",
+        "imagepath": [
+            "KCC-Chassam_universal_en.png",
+            "KCC-Chassam_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "KCC-Chassam",
+        "name_kr": "KCC차쌤체",
+        "rootPath": "fonts/KCC차쌤체",
+        "source": " 한국저작권위원회",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13285736&menuNo=200026",
+        "volume": 1221376
+    },
+    {
+        "filepath300": "KoPubWorld DotumL.ttf",
+        "filepath500": "KoPubWorld DotumM.ttf",
+        "filepath700": "KoPubWorld DotumB.ttf",
+        "imagepath": [
+            "KoPubWorld DotumB_universal_en.png",
+            "KoPubWorld DotumB_universal_ko.png",
+            "KoPubWorld DotumL_universal_en.png",
+            "KoPubWorld DotumL_universal_ko.png",
+            "KoPubWorld DotumM_universal_en.png",
+            "KoPubWorld DotumM_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "KoPubWorld Dotum",
+        "name_kr": "Kopub World 돋움체",
+        "rootPath": "fonts/Kopub_World_돋움체",
+        "source": " 문화체육관광부",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=419038&menuNo=200026",
+        "volume": 15517584
+    },
+    {
+        "filepath300": "KoPubWorld BatangL.ttf",
+        "filepath500": "KoPubWorld BatangM.ttf",
+        "filepath700": "KoPubWorld BatangB.ttf",
+        "imagepath": [
+            "KoPubWorld BatangB_universal_en.png",
+            "KoPubWorld BatangB_universal_ko.png",
+            "KoPubWorld BatangL_universal_en.png",
+            "KoPubWorld BatangL_universal_ko.png",
+            "KoPubWorld BatangM_universal_en.png",
+            "KoPubWorld BatangM_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "KoPubWorld Batang",
+        "name_kr": "Kopub World 바탕체",
+        "rootPath": "fonts/Kopub_World_바탕체",
+        "source": " 문화체육관광부",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13287213&menuNo=200023",
+        "volume": 36650112
+    },
+    {
+        "filepath300": "LH L.ttf",
+        "filepath500": "LH M.ttf",
+        "filepath700": "LH B.ttf",
+        "imagepath": [
+            "LH B_universal_en.png",
+            "LH B_universal_ko.png",
+            "LH L_universal_en.png",
+            "LH L_universal_ko.png",
+            "LH M_universal_en.png",
+            "LH M_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "LH",
+        "name_kr": "LH체",
+        "rootPath": "fonts/LH체",
+        "source": " 한국토지주택공사",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288396&menuNo=200023",
+        "volume": 2871708
+    },
+    {
+        "filepath400": "MapoFlowerIsland.otf",
+        "imagepath": [
+            "MapoFlowerIsland_universal_en.png",
+            "MapoFlowerIsland_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "MapoFlowerIsland",
+        "name_kr": "Mapo꽃섬",
+        "rootPath": "fonts/Mapo꽃섬",
+        "source": " 서울시 마포구",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288398&menuNo=200023",
+        "volume": 1133252
+    },
+    {
+        "filepath400": "MapoDPP.otf",
+        "imagepath": [
+            "MapoDPP_universal_en.png",
+            "MapoDPP_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "MapoDPP",
+        "name_kr": "Mapo당안리발전소",
+        "rootPath": "fonts/Mapo당안리발전소",
+        "source": " 서울시 마포구",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288399&menuNo=200026",
+        "volume": 413524
+    },
+    {
+        "filepath400": "MapoMaponaru.otf",
+        "imagepath": [
+            "MapoMaponaru_universal_en.png",
+            "MapoMaponaru_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "MapoMaponaru",
+        "name_kr": "Mapo마포나루",
+        "rootPath": "fonts/Mapo마포나루",
+        "source": " 서울시 마포구",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288401&menuNo=200026",
+        "volume": 477412
+    },
+    {
+        "filepath400": "MapoBackpacking.otf",
+        "imagepath": [
+            "MapoBackpacking_universal_en.png",
+            "MapoBackpacking_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "MapoBackpacking",
+        "name_kr": "Mapo배낭여행",
+        "rootPath": "fonts/Mapo배낭여행",
+        "source": " 서울시 마포구",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288402&menuNo=200023",
+        "volume": 783972
+    },
+    {
+        "filepath400": "MapoAgape.otf",
+        "imagepath": [
+            "MapoAgape_universal_en.png",
+            "MapoAgape_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "MapoAgape",
+        "name_kr": "Mapo애민",
+        "rootPath": "fonts/Mapo애민",
+        "source": " 서울시 마포구",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288403&menuNo=200023",
+        "volume": 1215264
+    },
+    {
+        "filepath400": "MapoPeacefull.otf",
+        "imagepath": [
+            "MapoPeacefull_universal_en.png",
+            "MapoPeacefull_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "MapoPeacefull",
+        "name_kr": "Mapo한아름",
+        "rootPath": "fonts/Mapo한아름",
+        "source": " 서울시 마포구",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288404&menuNo=200026",
+        "volume": 725036
+    },
+    {
+        "filepath300": "NanumGothicL.otf",
+        "filepath400": "NanumGothic.otf",
+        "filepath700": "NanumGothicB.otf",
+        "filepath800": "NanumGothicEB.otf",
+        "imagepath": [
+            "NanumGothic_universal_en.png",
+            "NanumGothic_universal_ko.png",
+            "NanumGothicB_universal_en.png",
+            "NanumGothicB_universal_ko.png",
+            "NanumGothicEB_universal_en.png",
+            "NanumGothicEB_universal_ko.png",
+            "NanumGothicL_universal_en.png",
+            "NanumGothicL_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "naver",
+        "name": "NanumGothic",
+        "name_kr": "NanumGothic",
+        "rootPath": "fonts/NanumGothic",
+        "source": "naver",
+        "sourceurl": "https://hangeul.naver.com/",
+        "volume": 7256760
+    },
+    {
+        "filepath400": "NanumMyeongjo.otf",
+        "filepath700": "NanumMyeongjoB.otf",
+        "filepath800": "NanumMyeongjoEB.otf",
+        "imagepath": [
+            "NanumMyeongjo_universal_en.png",
+            "NanumMyeongjo_universal_ko.png",
+            "NanumMyeongjoB_universal_en.png",
+            "NanumMyeongjoB_universal_ko.png",
+            "NanumMyeongjoEB_universal_en.png",
+            "NanumMyeongjoEB_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "naver",
+        "name": "NanumMyeongjo",
+        "name_kr": "NanumMyeongjo",
+        "rootPath": "fonts/NanumMyeongjo",
+        "source": "naver",
+        "sourceurl": "https://hangeul.naver.com/",
+        "volume": 6141996
+    },
+    {
+        "filepath400": "NanumPen.otf",
+        "imagepath": [
+            "NanumPen_universal_en.png",
+            "NanumPen_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "naver",
+        "name": "NanumPen",
+        "name_kr": "NanumPen",
+        "rootPath": "fonts/NanumPen",
+        "source": "naver",
+        "sourceurl": "https://hangeul.naver.com/",
+        "volume": 1780792
+    },
+    {
+        "filepath400": "RIDIBatang.otf",
+        "imagepath": [
+            "RIDIBatang_universal_en.png",
+            "RIDIBatang_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "RIDI",
+        "name": "RIDIBatang",
+        "name_kr": "RIDIBatang",
+        "rootPath": "fonts/RIDIBatang",
+        "source": "RIDI",
+        "sourceurl": "https://ridicorp.com/ridibatang/",
+        "volume": 1453448
+    },
+    {
+        "filepath400": "Tlab신영복체.otf",
+        "imagepath": [
+            "Tlab신영복체_universal_en.png",
+            "Tlab신영복체_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "Tlab신영복체",
+        "name_kr": "Tlab신영복체",
+        "rootPath": "fonts/Tlab신영복체",
+        "source": " 박윤정앤타이포랩",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13111063&menuNo=200133",
+        "volume": 2775620
+    },
+    {
+        "filepath400": "Ghanachocolate.otf",
+        "imagepath": [
+            "Ghanachocolate_universal_en.png",
+            "Ghanachocolate_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "Ghanachocolate",
+        "name_kr": "가나초콜릿체",
+        "rootPath": "fonts/가나초콜릿체",
+        "source": " 롯데제과",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13262104&menuNo=200026",
+        "volume": 643080
+    },
+    {
+        "filepath400": "gabia_napjakBlock.otf",
+        "imagepath": [
+            "gabia_napjakBlock_universal_en.png",
+            "gabia_napjakBlock_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "gabia_napjakBlock",
+        "name_kr": "가비아 납작블럭체",
+        "rootPath": "fonts/가비아_납작블럭체",
+        "source": " 가비아",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288264&menuNo=200023",
+        "volume": 1301708
+    },
+    {
+        "filepath400": "gabia_bombaram.otf",
+        "imagepath": [
+            "gabia_bombaram_universal_en.png",
+            "gabia_bombaram_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "gabia_bombaram",
+        "name_kr": "가비아 봄바람체",
+        "rootPath": "fonts/가비아_봄바람체",
+        "source": " 가비아",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288265&menuNo=200026",
+        "volume": 546548
+    },
+    {
+        "filepath400": "gabia_solmee.otf",
+        "imagepath": [
+            "gabia_solmee_universal_en.png",
+            "gabia_solmee_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "gabia_solmee",
+        "name_kr": "가비아 솔미체",
+        "rootPath": "fonts/가비아_솔미체",
+        "source": " 가비아",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288266&menuNo=200023",
+        "volume": 643600
+    },
+    {
+        "filepath400": "경기천년바탕R.otf",
+        "filepath700": "경기천년바탕B.otf",
+        "imagepath": [
+            "경기천년바탕B_universal_en.png",
+            "경기천년바탕B_universal_ko.png",
+            "경기천년바탕R_universal_en.png",
+            "경기천년바탕R_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "경기천년바탕",
+        "name_kr": "경기천년바탕체",
+        "rootPath": "fonts/경기천년바탕체",
+        "source": " 경기도",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288410&menuNo=200023",
+        "volume": 7370648
+    },
+    {
+        "filepath300": "경기천년제목L.otf",
+        "filepath500": "경기천년제목M.otf",
+        "filepath700": "경기천년제목B.otf",
+        "imagepath": [
+            "경기천년제목B_universal_en.png",
+            "경기천년제목B_universal_ko.png",
+            "경기천년제목L_universal_en.png",
+            "경기천년제목L_universal_ko.png",
+            "경기천년제목M_universal_en.png",
+            "경기천년제목M_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "경기천년제목",
+        "name_kr": "경기천년제목체",
+        "rootPath": "fonts/경기천년제목체",
+        "source": " 경기도",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288414&menuNo=200023",
+        "volume": 3265872
+    },
+    {
+        "filepath400": "Goyang.otf",
+        "imagepath": [
+            "Goyang_universal_en.png",
+            "Goyang_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "Goyang",
+        "name_kr": "고양체",
+        "rootPath": "fonts/고양체",
+        "source": " 고양시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288416&menuNo=200023",
+        "volume": 1939408
+    },
+    {
+        "filepath400": "KNPSKkomi.otf",
+        "imagepath": [
+            "KNPSKkomi_universal_en.png",
+            "KNPSKkomi_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "KNPSKkomi",
+        "name_kr": "국립공원 꼬미",
+        "rootPath": "fonts/국립공원_꼬미",
+        "source": " 국립공원공단",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288476&menuNo=200026",
+        "volume": 890544
+    },
+    {
+        "filepath400": "KNPSBandali.otf",
+        "imagepath": [
+            "KNPSBandali_universal_en.png",
+            "KNPSBandali_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "KNPSBandali",
+        "name_kr": "국립공원 반달이",
+        "rootPath": "fonts/국립공원_반달이",
+        "source": " 국립공원공단",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288477&menuNo=200023",
+        "volume": 1119940
+    },
+    {
+        "filepath300": "국립박물관문화재단클래식L.otf",
+        "filepath500": "국립박물관문화재단클래식M.otf",
+        "filepath700": "국립박물관문화재단클래식B.otf",
+        "imagepath": [
+            "국립박물관문화재단클래식B_universal_en.png",
+            "국립박물관문화재단클래식B_universal_ko.png",
+            "국립박물관문화재단클래식L_universal_en.png",
+            "국립박물관문화재단클래식L_universal_ko.png",
+            "국립박물관문화재단클래식M_universal_en.png",
+            "국립박물관문화재단클래식M_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "국립박물관문화재단클래식",
+        "name_kr": "국립박물관문화재단클래식체",
+        "rootPath": "fonts/국립박물관문화재단클래식체",
+        "source": " 국립박물관문화재단",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288405&menuNo=200026",
+        "volume": 8729732
+    },
+    {
+        "filepath300": "KimjungchulGothicL.otf",
+        "filepath400": "KimjungchulGothicR.otf",
+        "filepath700": "KimjungchulGothicB.otf",
+        "imagepath": [
+            "KimjungchulGothicB_universal_en.png",
+            "KimjungchulGothicB_universal_ko.png",
+            "KimjungchulGothicL_universal_en.png",
+            "KimjungchulGothicL_universal_ko.png",
+            "KimjungchulGothicR_universal_en.png",
+            "KimjungchulGothicR_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "KimjungchulGothic",
+        "name_kr": "김정철_고딕체",
+        "rootPath": "fonts/김정철_고딕체",
+        "source": " (주)정림건축종합건축사무소",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13304541&menuNo=200026",
+        "volume": 4973048
+    },
+    {
+        "filepath400": "김포평화고딕체R.ttf",
+        "imagepath": [
+            "김포평화고딕체R_universal_en.png",
+            "김포평화고딕체R_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "김포평화고딕체R",
+        "name_kr": "김포평화고딕체",
+        "rootPath": "fonts/김포평화고딕체",
+        "source": " 김포시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288425&menuNo=200026",
+        "volume": 1598140
+    },
+    {
+        "filepath400": "김포평화바탕체.ttf",
+        "imagepath": [
+            "김포평화바탕체_universal_en.png",
+            "김포평화바탕체_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "김포평화바탕체",
+        "name_kr": "김포평화바탕체",
+        "rootPath": "fonts/김포평화바탕체",
+        "source": " 김포시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288422&menuNo=200026",
+        "volume": 3103608
+    },
+    {
+        "filepath400": "김포평화제목체.ttf",
+        "imagepath": [
+            "김포평화제목체_universal_en.png",
+            "김포평화제목체_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "김포평화제목체",
+        "name_kr": "김포평화제목체",
+        "rootPath": "fonts/김포평화제목체",
+        "source": " 김포시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288423&menuNo=200023",
+        "volume": 1865320
+    },
+    {
+        "filepath400": "GimhaeGayaR.otf",
+        "filepath700": "GimhaeGayaB.otf",
+        "imagepath": [
+            "GimhaeGayaB_universal_en.png",
+            "GimhaeGayaB_universal_ko.png",
+            "GimhaeGayaR_universal_en.png",
+            "GimhaeGayaR_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "GimhaeGaya",
+        "name_kr": "김해가야체",
+        "rootPath": "fonts/김해가야체",
+        "source": " 김해시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288370&menuNo=200026",
+        "volume": 5418820
+    },
+    {
+        "filepath300": "DalseoDarlingL.ttf",
+        "filepath500": "DalseoHealingM.ttf",
+        "filepath700": "DalseoHealingB.ttf",
+        "imagepath": [
+            "DalseoDarlingL_universal_en.png",
+            "DalseoDarlingL_universal_ko.png",
+            "DalseoHealingB_universal_en.png",
+            "DalseoHealingB_universal_ko.png",
+            "DalseoHealingM_universal_en.png",
+            "DalseoHealingM_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "DalseoDarlingL",
+        "name_kr": "달서달링체",
+        "rootPath": "fonts/달서달링체",
+        "source": " 대구광역시 달서구",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13304359&menuNo=200023",
+        "volume": 5815588
+    },
+    {
+        "filepath400": "Delta Universe.otf",
+        "imagepath": [
+            "Delta Universe_universal_en.png",
+            "Delta Universe_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "Delta Universe",
+        "name_kr": "델타유니버스체",
+        "rootPath": "fonts/델타유니버스체",
+        "source": " greenegg",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288248&menuNo=200023",
+        "volume": 9408
+    },
+    {
+        "filepath200": "MaruBuriEL.otf",
+        "filepath300": "MaruBuriL.otf",
+        "filepath400": "MaruBuriR.otf",
+        "filepath600": "MaruBuriSB.otf",
+        "filepath700": "MaruBuriB.otf",
+        "imagepath": [
+            "MaruBuriB_universal_en.png",
+            "MaruBuriB_universal_ko.png",
+            "MaruBuriEL_universal_en.png",
+            "MaruBuriEL_universal_ko.png",
+            "MaruBuriL_universal_en.png",
+            "MaruBuriL_universal_ko.png",
+            "MaruBuriR_universal_en.png",
+            "MaruBuriR_universal_ko.png",
+            "MaruBuriSB_universal_en.png",
+            "MaruBuriSB_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "naver",
+        "name": "MaruBuri",
+        "name_kr": "MaruBuri",
+        "rootPath": "fonts/마루부리",
+        "source": "naver",
+        "sourceurl": "https://hangeul.naver.com/",
+        "volume": 3372440
+    },
+    {
+        "filepath400": "문화재돌봄체 R.ttf",
+        "filepath700": "문화재돌봄체 B.ttf",
+        "imagepath": [
+            "문화재돌봄체 B_universal_en.png",
+            "문화재돌봄체 B_universal_ko.png",
+            "문화재돌봄체 R_universal_en.png",
+            "문화재돌봄체 R_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "문화재돌봄체",
+        "name_kr": "문화재돌봄체",
+        "rootPath": "fonts/문화재돌봄체",
+        "source": " 문화재청",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288427&menuNo=200026",
+        "volume": 1595596
+    },
+    {
+        "filepath400": "Pak_Yong_jun.otf",
+        "imagepath": [
+            "Pak_Yong_jun_universal_en.png",
+            "Pak_Yong_jun_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "Pak_Yong_jun",
+        "name_kr": "박용준투사회보체",
+        "rootPath": "fonts/박용준투사회보체",
+        "source": " (사)지역공공정책플랫폼광주로",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13304318&menuNo=200023",
+        "volume": 8195876
+    },
+    {
+        "filepath400": "BMKIRANGHAERANG.otf",
+        "imagepath": [
+            "BMKIRANGHAERANG_universal_en.png",
+            "BMKIRANGHAERANG_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "BMKIRANGHAERANG",
+        "name_kr": "배달의 민족 기랑해랑체",
+        "rootPath": "fonts/배달의_민족_기랑해랑체",
+        "source": " ㈜우아한형제들",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288262&menuNo=200023",
+        "volume": 1935880
+    },
+    {
+        "filepath400": "BMDOHYEON.otf",
+        "imagepath": [
+            "BMDOHYEON_universal_en.png",
+            "BMDOHYEON_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "BMDOHYEON",
+        "name_kr": "배달의 민족 도현체",
+        "rootPath": "fonts/배달의_민족_도현체",
+        "source": " ㈜우아한형제들",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288249&menuNo=200023",
+        "volume": 651836
+    },
+    {
+        "filepath400": "BMEULJIRO.otf",
+        "imagepath": [
+            "BMEULJIRO_universal_en.png",
+            "BMEULJIRO_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "BMEULJIRO",
+        "name_kr": "배달의 민족 을지로체",
+        "rootPath": "fonts/배달의_민족_을지로체",
+        "source": " ㈜우아한형제들",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288251&menuNo=200023",
+        "volume": 997704
+    },
+    {
+        "filepath400": "BMJUA.otf",
+        "imagepath": [
+            "BMJUA_universal_en.png",
+            "BMJUA_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "BMJUA",
+        "name_kr": "배달의 민족 주아체",
+        "rootPath": "fonts/배달의_민족_주아체",
+        "source": " ㈜우아한형제들",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288252&menuNo=200023",
+        "volume": 1302452
+    },
+    {
+        "filepath400": "BMHANNA_11yrs.otf",
+        "imagepath": [
+            "BMHANNA_11yrs_universal_en.png",
+            "BMHANNA_11yrs_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "BMHANNA_11yrs",
+        "name_kr": "배달의 민족 한나는 열한살체",
+        "rootPath": "fonts/배달의_민족_한나는_열한살체",
+        "source": " ㈜우아한형제들",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288261&menuNo=200023",
+        "volume": 638132
+    },
+    {
+        "filepath400": "BOKEH.otf",
+        "imagepath": [
+            "BOKEH_universal_en.png",
+            "BOKEH_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "BOKEH",
+        "name_kr": "보케체",
+        "rootPath": "fonts/보케체",
+        "source": " greenegg",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288253&menuNo=200023",
+        "volume": 50112
+    },
+    {
+        "filepath400": "BusanFont_Provisional.ttf",
+        "imagepath": [
+            "BusanFont_Provisional_universal_en.png",
+            "BusanFont_Provisional_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "BusanFont_Provisional",
+        "name_kr": "부산체",
+        "rootPath": "fonts/부산체",
+        "source": " 부산시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288428&menuNo=200026",
+        "volume": 1811404
+    },
+    {
+        "filepath300": "빛고을광주L.ttf",
+        "filepath500": "빛고을광주M.ttf",
+        "filepath700": "빛고을광주B.ttf",
+        "imagepath": [
+            "빛고을광주B_universal_en.png",
+            "빛고을광주B_universal_ko.png",
+            "빛고을광주L_universal_en.png",
+            "빛고을광주L_universal_ko.png",
+            "빛고을광주M_universal_en.png",
+            "빛고을광주M_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "빛고을광주",
+        "name_kr": "빛고을광주체",
+        "rootPath": "fonts/빛고을광주체",
+        "source": " 광주광역시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288419&menuNo=200023",
+        "volume": 2803968
+    },
+    {
+        "filepath400": "SANGJU Gyeongcheon Island.otf",
+        "imagepath": [
+            "SANGJU Gyeongcheon Island_universal_en.png",
+            "SANGJU Gyeongcheon Island_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "SANGJU Gyeongcheon Island",
+        "name_kr": "상주경천섬체",
+        "rootPath": "fonts/상주경천섬체",
+        "source": " 상주시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13289686&menuNo=200023",
+        "volume": 3255048
+    },
+    {
+        "filepath400": "SANGJU Gotgam.otf",
+        "imagepath": [
+            "SANGJU Gotgam_universal_en.png",
+            "SANGJU Gotgam_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "SANGJU Gotgam",
+        "name_kr": "상주곶감체",
+        "rootPath": "fonts/상주곶감체",
+        "source": " 상주시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13289687&menuNo=200023",
+        "volume": 2630592
+    },
+    {
+        "filepath400": "SANGJU Dajungdagam.otf",
+        "imagepath": [
+            "SANGJU Dajungdagam_universal_en.png",
+            "SANGJU Dajungdagam_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "SANGJU Dajungdagam",
+        "name_kr": "상주다정다감체",
+        "rootPath": "fonts/상주다정다감체",
+        "source": " 상주시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13289688&menuNo=200026",
+        "volume": 2408992
+    },
+    {
+        "filepath400": "SANGJU Haerye.otf",
+        "imagepath": [
+            "SANGJU Haerye_universal_en.png",
+            "SANGJU Haerye_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "SANGJU Haerye",
+        "name_kr": "상주해례본체",
+        "rootPath": "fonts/상주해례본체",
+        "source": " 상주시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13289689&menuNo=200026",
+        "volume": 1150036
+    },
+    {
+        "filepath300": "서울남산 장체L.ttf",
+        "filepath500": "서울남산 장체M.ttf",
+        "filepath700": "서울남산 장체B.ttf",
+        "filepath800": "서울남산 장체EB.ttf",
+        "filepath900": "서울남산 장체BL.ttf",
+        "imagepath": [
+            "서울남산 장체B_universal_en.png",
+            "서울남산 장체B_universal_ko.png",
+            "서울남산 장체BL_universal_en.png",
+            "서울남산 장체BL_universal_ko.png",
+            "서울남산 장체EB_universal_en.png",
+            "서울남산 장체EB_universal_ko.png",
+            "서울남산 장체L_universal_en.png",
+            "서울남산 장체L_universal_ko.png",
+            "서울남산 장체M_universal_en.png",
+            "서울남산 장체M_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "서울남산 장체",
+        "name_kr": "서울남산 장체",
+        "rootPath": "fonts/서울남산 장체",
+        "source": " 서울시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288441&menuNo=200023",
+        "volume": 20931308
+    },
+    {
+        "filepath300": "SeoulNamsanL.ttf",
+        "filepath400": "SeoulNamsanvert.ttf",
+        "filepath500": "SeoulNamsanM.ttf",
+        "filepath700": "SeoulNamsanB.ttf",
+        "filepath800": "SeoulNamsanEB.ttf",
+        "imagepath": [
+            "SeoulNamsanB_universal_en.png",
+            "SeoulNamsanB_universal_ko.png",
+            "SeoulNamsanEB_universal_en.png",
+            "SeoulNamsanEB_universal_ko.png",
+            "SeoulNamsanL_universal_en.png",
+            "SeoulNamsanL_universal_ko.png",
+            "SeoulNamsanM_universal_en.png",
+            "SeoulNamsanM_universal_ko.png",
+            "SeoulNamsanvert_universal_en.png",
+            "SeoulNamsanvert_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "SeoulNamsan",
+        "name_kr": "서울남산체",
+        "rootPath": "fonts/서울남산체",
+        "source": " 서울시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288441&menuNo=200023",
+        "volume": 20669936
+    },
+    {
+        "filepath300": "서울한강 장체L.ttf",
+        "filepath500": "서울한강 장체M.ttf",
+        "filepath700": "서울한강 장체B.ttf",
+        "filepath800": "서울한강 장체EB.ttf",
+        "filepath900": "서울한강 장체BL.ttf",
+        "imagepath": [
+            "서울한강 장체B_universal_en.png",
+            "서울한강 장체B_universal_ko.png",
+            "서울한강 장체BL_universal_en.png",
+            "서울한강 장체BL_universal_ko.png",
+            "서울한강 장체EB_universal_en.png",
+            "서울한강 장체EB_universal_ko.png",
+            "서울한강 장체L_universal_en.png",
+            "서울한강 장체L_universal_ko.png",
+            "서울한강 장체M_universal_en.png",
+            "서울한강 장체M_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "서울한강 장체",
+        "name_kr": "서울한강 장체",
+        "rootPath": "fonts/서울한강 장체",
+        "source": " 서울시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288432&menuNo=200023",
+        "volume": 37070448
+    },
+    {
+        "filepath300": "SeoulHangangL.ttf",
+        "filepath500": "SeoulHangangM.ttf",
+        "filepath700": "SeoulHangangB.ttf",
+        "filepath800": "SeoulHangangEB.ttf",
+        "imagepath": [
+            "SeoulHangangB_universal_en.png",
+            "SeoulHangangB_universal_ko.png",
+            "SeoulHangangEB_universal_en.png",
+            "SeoulHangangEB_universal_ko.png",
+            "SeoulHangangL_universal_en.png",
+            "SeoulHangangL_universal_ko.png",
+            "SeoulHangangM_universal_en.png",
+            "SeoulHangangM_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "SeoulHangang",
+        "name_kr": "서울한강체",
+        "rootPath": "fonts/서울한강체",
+        "source": " 서울시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288432&menuNo=200023",
+        "volume": 29959140
+    },
+    {
+        "filepath300": "솔뫼 김대건L.otf",
+        "filepath500": "솔뫼 김대건M.otf",
+        "imagepath": [
+            "솔뫼 김대건L_universal_en.png",
+            "솔뫼 김대건L_universal_ko.png",
+            "솔뫼 김대건M_universal_en.png",
+            "솔뫼 김대건M_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "솔뫼 김대건L",
+        "name_kr": "솔뫼 김대건체",
+        "rootPath": "fonts/솔뫼_김대건체",
+        "source": " 써밋디자인",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288333&menuNo=200023",
+        "volume": 2336784
+    },
+    {
+        "filepath400": "SuseongDotum.ttf",
+        "imagepath": [
+            "SuseongDotum_universal_en.png",
+            "SuseongDotum_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "SuseongDotum",
+        "name_kr": "수성돋음체",
+        "rootPath": "fonts/수성돋음체",
+        "source": " 대구광역시 수성구",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13304311&menuNo=200023",
+        "volume": 1812552
+    },
+    {
+        "filepath400": "SuseongHyejeong.ttf",
+        "imagepath": [
+            "SuseongHyejeong_universal_en.png",
+            "SuseongHyejeong_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "SuseongHyejeong",
+        "name_kr": "수성혜정체",
+        "rootPath": "fonts/수성혜정체",
+        "source": " 대구광역시 수성구",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13304309&menuNo=200023",
+        "volume": 5367232
+    },
+    {
+        "filepath300": "SunBatangL.otf",
+        "filepath500": "SunBatangM.otf",
+        "filepath700": "SunBatangB.otf",
+        "imagepath": [
+            "SunBatangB_universal_en.png",
+            "SunBatangB_universal_ko.png",
+            "SunBatangL_universal_en.png",
+            "SunBatangL_universal_ko.png",
+            "SunBatangM_universal_en.png",
+            "SunBatangM_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "SunBatang",
+        "name_kr": "순바탕체",
+        "rootPath": "fonts/순바탕체",
+        "source": " 한국출판문화산업진흥원",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288468&menuNo=200023",
+        "volume": 25919900
+    },
+    {
+        "filepath400": "SuncheonR.ttf",
+        "filepath700": "SuncheonB.ttf",
+        "imagepath": [
+            "SuncheonB_universal_en.png",
+            "SuncheonB_universal_ko.png",
+            "SuncheonR_universal_en.png",
+            "SuncheonR_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "Suncheon",
+        "name_kr": "순천체",
+        "rootPath": "fonts/순천체",
+        "source": " 순천시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288373&menuNo=200023",
+        "volume": 6535452
+    },
+    {
+        "filepath400": "Spoqa Han SansR.ttf",
+        "filepath700": "Spoqa Han SansB.ttf",
+        "imagepath": [
+            "Spoqa Han SansB_universal_en.png",
+            "Spoqa Han SansB_universal_ko.png",
+            "Spoqa Han SansR_universal_en.png",
+            "Spoqa Han SansR_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "Spoqa Han Sans",
+        "name_kr": "스포카 한 산스",
+        "rootPath": "fonts/스포카_한_산스",
+        "source": " ㈜스포카",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288254&menuNo=200026",
+        "volume": 59372804
+    },
+    {
+        "filepath300": "이순신돋움체L.ttf",
+        "filepath500": "이순신돋움체M.ttf",
+        "filepath700": "이순신돋움체B.ttf",
+        "imagepath": [
+            "이순신돋움체B_universal_en.png",
+            "이순신돋움체B_universal_ko.png",
+            "이순신돋움체L_universal_en.png",
+            "이순신돋움체L_universal_ko.png",
+            "이순신돋움체M_universal_en.png",
+            "이순신돋움체M_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "이순신돋움체",
+        "name_kr": "아산이순신돋움체",
+        "rootPath": "fonts/아산이순신돋움체",
+        "source": " 아산시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288451&menuNo=200026",
+        "volume": 2543076
+    },
+    {
+        "filepath400": "이순신R.ttf",
+        "filepath700": "이순신B.ttf",
+        "imagepath": [
+            "이순신B_universal_en.png",
+            "이순신B_universal_ko.png",
+            "이순신R_universal_en.png",
+            "이순신R_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "이순신",
+        "name_kr": "아산이순신체",
+        "rootPath": "fonts/아산이순신체",
+        "source": " 아산시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288449&menuNo=200023",
+        "volume": 6152528
+    },
+    {
+        "filepath400": "FOUREYES.otf",
+        "imagepath": [
+            "FOUREYES_universal_en.png",
+            "FOUREYES_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "FOUREYES",
+        "name_kr": "안경잡이체",
+        "rootPath": "fonts/안경잡이체",
+        "source": " greenegg",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288256&menuNo=200023",
+        "volume": 581052
+    },
+    {
+        "filepath400": "Wolyeonggyo.otf",
+        "imagepath": [
+            "Wolyeonggyo_universal_en.png",
+            "Wolyeonggyo_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "Wolyeonggyo",
+        "name_kr": "안동월영교체",
+        "rootPath": "fonts/안동월영교체",
+        "source": " 안동시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288376&menuNo=200023",
+        "volume": 393172
+    },
+    {
+        "filepath300": "yangpyeongL.ttf",
+        "filepath500": "yangpyeongM.ttf",
+        "filepath700": "yangpyeongB.ttf",
+        "imagepath": [
+            "yangpyeongB_universal_en.png",
+            "yangpyeongB_universal_ko.png",
+            "yangpyeongL_universal_en.png",
+            "yangpyeongL_universal_ko.png",
+            "yangpyeongM_universal_en.png",
+            "yangpyeongM_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "yangpyeong",
+        "name_kr": "양평군체",
+        "rootPath": "fonts/양평군체",
+        "source": " 양평군",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288377&menuNo=200023",
+        "volume": 5994856
+    },
+    {
+        "filepath400": "영양군 음식디미방체.otf",
+        "imagepath": [
+            "영양군 음식디미방체_universal_en.png",
+            "영양군 음식디미방체_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "영양군 음식디미방체",
+        "name_kr": "영양군음식디미방체",
+        "rootPath": "fonts/영양군음식디미방체",
+        "source": " 영양군",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288454&menuNo=200023",
+        "volume": 2658296
+    },
+    {
+        "filepath400": "WandocleanseaR.ttf",
+        "filepath700": "WandocleanseaB.ttf",
+        "imagepath": [
+            "WandocleanseaB_universal_en.png",
+            "WandocleanseaB_universal_ko.png",
+            "WandocleanseaR_universal_en.png",
+            "WandocleanseaR_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "Wandocleansea",
+        "name_kr": "완도청정바다체",
+        "rootPath": "fonts/완도청정바다체",
+        "source": " 완도군",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288380&menuNo=200023",
+        "volume": 13049136
+    },
+    {
+        "filepath400": "WandohopeR.ttf",
+        "filepath700": "WandohopeB.ttf",
+        "imagepath": [
+            "WandohopeB_universal_en.png",
+            "WandohopeB_universal_ko.png",
+            "WandohopeR_universal_en.png",
+            "WandohopeR_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "Wandohope",
+        "name_kr": "완도희망체",
+        "rootPath": "fonts/완도희망체",
+        "source": " 완도군",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288382&menuNo=200023",
+        "volume": 6007392
+    },
+    {
+        "filepath400": "유앤피플 고딕.otf",
+        "imagepath": [
+            "유앤피플 고딕_universal_en.png",
+            "유앤피플 고딕_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "유앤피플 고딕",
+        "name_kr": "유앤피플 고딕체",
+        "rootPath": "fonts/유앤피플_고딕체",
+        "source": " ㈜유앤피플",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13210384&menuNo=200023",
+        "volume": 520432
+    },
+    {
+        "filepath400": "전주완판본 순.otf",
+        "imagepath": [
+            "전주완판본 순_universal_en.png",
+            "전주완판본 순_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "전주완판본 순",
+        "name_kr": "전주완판본체순",
+        "rootPath": "fonts/전주완판본체순",
+        "source": " 전주시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288461&menuNo=200023",
+        "volume": 3297544
+    },
+    {
+        "filepath400": "JSArirangPPURI.otf",
+        "imagepath": [
+            "JSArirangPPURI_universal_en.png",
+            "JSArirangPPURI_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "JSArirangPPURI",
+        "name_kr": "정선아리랑뿌리체",
+        "rootPath": "fonts/정선아리랑뿌리체",
+        "source": " 정선군",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288384&menuNo=200023",
+        "volume": 2488640
+    },
+    {
+        "filepath400": "JSArirang.otf",
+        "imagepath": [
+            "JSArirang_universal_en.png",
+            "JSArirang_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "JSArirang",
+        "name_kr": "정선아리랑체",
+        "rootPath": "fonts/정선아리랑체",
+        "source": " 정선군",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288386&menuNo=200026",
+        "volume": 2335288
+    },
+    {
+        "filepath400": "JSArirangHON.otf",
+        "imagepath": [
+            "JSArirangHON_universal_en.png",
+            "JSArirangHON_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "JSArirangHON",
+        "name_kr": "정선아리랑혼체",
+        "rootPath": "fonts/정선아리랑혼체",
+        "source": " 정선군",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288385&menuNo=200023",
+        "volume": 2670716
+    },
+    {
+        "filepath400": "JejuGothicOTF.otf",
+        "imagepath": [
+            "JejuGothicOTF_universal_en.png",
+            "JejuGothicOTF_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "JejuGothicOTF",
+        "name_kr": "제주고딕체",
+        "rootPath": "fonts/제주고딕체",
+        "source": " 제주특별자치도",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=419035&menuNo=200026",
+        "volume": 1975028
+    },
+    {
+        "filepath400": "JejuHallasan.otf",
+        "imagepath": [
+            "JejuHallasan_universal_en.png",
+            "JejuHallasan_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "JejuHallasan",
+        "name_kr": "제주한라산체",
+        "rootPath": "fonts/제주한라산체",
+        "source": " 제주특별자치도",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13287189&menuNo=200023",
+        "volume": 5579876
+    },
+    {
+        "filepath300": "중나좋체L.otf",
+        "filepath500": "중나좋체M.otf",
+        "imagepath": [
+            "중나좋체L_universal_en.png",
+            "중나좋체L_universal_ko.png",
+            "중나좋체M_universal_en.png",
+            "중나좋체M_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "중나좋체L",
+        "name_kr": "중나좋체",
+        "rootPath": "fonts/중나좋체",
+        "source": " (주)중고나라",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13262134&menuNo=200023",
+        "volume": 1643212
+    },
+    {
+        "filepath400": "창원단감아삭체.otf",
+        "imagepath": [
+            "창원단감아삭체_universal_en.png",
+            "창원단감아삭체_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "창원단감아삭체",
+        "name_kr": "창원단감아삭체",
+        "rootPath": "fonts/창원단감아삭체",
+        "source": " 창원시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288462&menuNo=200023",
+        "volume": 495268
+    },
+    {
+        "filepath400": "충북대학교R.ttf",
+        "filepath700": "충북대학교B.ttf",
+        "imagepath": [
+            "충북대학교B_universal_en.png",
+            "충북대학교B_universal_ko.png",
+            "충북대학교R_universal_en.png",
+            "충북대학교R_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "충북대학교",
+        "name_kr": "충북대70주년체",
+        "rootPath": "fonts/충북대70주년체",
+        "source": " 충북대학교",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13302265&menuNo=200023",
+        "volume": 2243008
+    },
+    {
+        "filepath400": "충북대직지체.ttf",
+        "imagepath": [
+            "충북대직지체_universal_en.png",
+            "충북대직지체_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "충북대직지체",
+        "name_kr": "충북대직지체",
+        "rootPath": "fonts/충북대직지체",
+        "source": " 충북대학교",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13302267&menuNo=200026",
+        "volume": 1962724
+    },
+    {
+        "filepath400": "Chilgok_Kaj.otf",
+        "imagepath": [
+            "Chilgok_Kaj_universal_en.png",
+            "Chilgok_Kaj_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "Chilgok_Kaj",
+        "name_kr": "칠곡할매서체(권안자할머니)",
+        "rootPath": "fonts/칠곡할매서체(권안자할머니)",
+        "source": " 칠곡군",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288463&menuNo=200026",
+        "volume": 9516356
+    },
+    {
+        "filepath400": "Chilgok_kyb.otf",
+        "imagepath": [
+            "Chilgok_kyb_universal_en.png",
+            "Chilgok_kyb_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "Chilgok_kyb",
+        "name_kr": "칠곡할매서체(김영분할머니)",
+        "rootPath": "fonts/칠곡할매서체(김영분할머니)",
+        "source": " 칠곡군",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288464&menuNo=200023",
+        "volume": 10421540
+    },
+    {
+        "filepath400": "Chilgok_Cye.otf",
+        "imagepath": [
+            "Chilgok_Cye_universal_en.png",
+            "Chilgok_Cye_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "Chilgok_Cye",
+        "name_kr": "칠곡할매서체(추유물할머니)",
+        "rootPath": "fonts/칠곡할매서체(추유물할머니)",
+        "source": " 칠곡군",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288467&menuNo=200023",
+        "volume": 11754732
+    },
+    {
+        "filepath400": "KOTRA_GOTHIC.otf",
+        "imagepath": [
+            "KOTRA_GOTHIC_universal_en.png",
+            "KOTRA_GOTHIC_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "KOTRA_GOTHIC",
+        "name_kr": "코트라 고딕체",
+        "rootPath": "fonts/코트라_고딕체",
+        "source": " KOTRA",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13302256&menuNo=200023",
+        "volume": 720100
+    },
+    {
+        "filepath400": "KOTRA LEAP.otf",
+        "imagepath": [
+            "KOTRA LEAP_universal_en.png",
+            "KOTRA LEAP_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "KOTRA LEAP",
+        "name_kr": "코트라 도약체",
+        "rootPath": "fonts/코트라_도약체",
+        "source": " KOTRA",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13302257&menuNo=200023",
+        "volume": 1390160
+    },
+    {
+        "filepath400": "KOTRA_BOLD.otf",
+        "imagepath": [
+            "KOTRA_BOLD_universal_en.png",
+            "KOTRA_BOLD_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "KOTRA_BOLD",
+        "name_kr": "코트라 볼드체",
+        "rootPath": "fonts/코트라_볼드체",
+        "source": " KOTRA",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13302258&menuNo=200023",
+        "volume": 614984
+    },
+    {
+        "filepath400": "KOTRA_SONGEULSSI.otf",
+        "imagepath": [
+            "KOTRA_SONGEULSSI_universal_en.png",
+            "KOTRA_SONGEULSSI_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "KOTRA_SONGEULSSI",
+        "name_kr": "코트라 손글씨체",
+        "rootPath": "fonts/코트라_손글씨체",
+        "source": " KOTRA",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13302260&menuNo=200023",
+        "volume": 1379636
+    },
+    {
+        "filepath400": "KOTRA HOPE.otf",
+        "imagepath": [
+            "KOTRA HOPE_universal_en.png",
+            "KOTRA HOPE_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "KOTRA HOPE",
+        "name_kr": "코트라 희망체",
+        "rootPath": "fonts/코트라_희망체",
+        "source": " KOTRA",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13302259&menuNo=200023",
+        "volume": 3078172
+    },
+    {
+        "filepath400": "CROOKED.otf",
+        "imagepath": [
+            "CROOKED_universal_en.png",
+            "CROOKED_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "CROOKED",
+        "name_kr": "크룩트체",
+        "rootPath": "fonts/크룩트체",
+        "source": " greenegg",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288258&menuNo=200023",
+        "volume": 12872
+    },
+    {
+        "filepath400": "MAKGEOLLI.ttf",
+        "imagepath": [
+            "MAKGEOLLI_universal_en.png",
+            "MAKGEOLLI_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "MAKGEOLLI",
+        "name_kr": "포천막걸리체",
+        "rootPath": "fonts/포천막걸리체",
+        "source": " 포천시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288372&menuNo=200023",
+        "volume": 6483212
+    },
+    {
+        "filepath400": "OSeongandHanEumR.ttf",
+        "filepath700": "OSeongandHanEumB.ttf",
+        "imagepath": [
+            "OSeongandHanEumB_universal_en.png",
+            "OSeongandHanEumB_universal_ko.png",
+            "OSeongandHanEumR_universal_en.png",
+            "OSeongandHanEumR_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "OSeongandHanEum",
+        "name_kr": "포천오성과한음체",
+        "rootPath": "fonts/포천오성과한음체",
+        "source": " 포천시",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288378&menuNo=200023",
+        "volume": 3737632
+    },
+    {
+        "filepath300": "한국기계연구원L.ttf",
+        "filepath400": "한국기계연구원b.ttf",
+        "imagepath": [
+            "한국기계연구원L_universal_en.png",
+            "한국기계연구원L_universal_ko.png",
+            "한국기계연구원b_universal_en.png",
+            "한국기계연구원b_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "한국기계연구원L",
+        "name_kr": "한국기계연구원",
+        "rootPath": "fonts/한국기계연구원",
+        "source": " 한국기계연구원",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13304496&menuNo=200023",
+        "volume": 1934420
+    },
+    {
+        "filepath400": "Jaemin_v2.otf",
+        "imagepath": [
+            "Jaemin_v2_universal_en.png",
+            "Jaemin_v2_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "Jaemin_v2",
+        "name_kr": "한글재민체 2",
+        "rootPath": "fonts/한글재민체_2.0",
+        "source": " ,박재갑",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288473&menuNo=200026",
+        "volume": 3262732
+    },
+    {
+        "filepath400": "Jaemin3R.otf",
+        "imagepath": [
+            "Jaemin3R_universal_en.png",
+            "Jaemin3R_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "Jaemin3R",
+        "name_kr": "한글재민체 3",
+        "rootPath": "fonts/한글재민체_3.0",
+        "source": " ,박재갑",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13304319&menuNo=200023",
+        "volume": 8034640
+    },
+    {
+        "filepath400": "BMHANNAAir.otf",
+        "imagepath": [
+            "BMHANNAAir_universal_en.png",
+            "BMHANNAAir_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "BMHANNAAir",
+        "name_kr": "한나 Air",
+        "rootPath": "fonts/한나_Air",
+        "source": " ㈜우아한형제들",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288267&menuNo=200023",
+        "volume": 438408
+    },
+    {
+        "filepath400": "BMHANNAPro.ttf",
+        "imagepath": [
+            "BMHANNAPro_universal_en.png",
+            "BMHANNAPro_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "BMHANNAPro",
+        "name_kr": "한나 Pro",
+        "rootPath": "fonts/한나_Pro",
+        "source": " ㈜우아한형제들",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288268&menuNo=200026",
+        "volume": 1063060
+    },
+    {
+        "filepath400": "KHNPHDotfR.otf",
+        "filepath700": "KHNPHDotfB.otf",
+        "imagepath": [
+            "KHNPHDotfB_universal_en.png",
+            "KHNPHDotfB_universal_ko.png",
+            "KHNPHDotfR_universal_en.png",
+            "KHNPHDotfR_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "KHNPHDotf",
+        "name_kr": "한돋음체",
+        "rootPath": "fonts/한돋음체",
+        "source": " 한국수력원자력",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288390&menuNo=200023",
+        "volume": 909028
+    },
+    {
+        "filepath400": "KHNPHUotfR.otf",
+        "imagepath": [
+            "KHNPHUotfR_universal_en.png",
+            "KHNPHUotfR_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "KHNPHUotfR",
+        "name_kr": "한울림체",
+        "rootPath": "fonts/한울림체",
+        "source": " 한국수력원자력",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288392&menuNo=200023",
+        "volume": 2780280
+    },
+    {
+        "filepath400": "해남체.ttf",
+        "imagepath": [
+            "해남체_universal_en.png",
+            "해남체_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "해남체",
+        "name_kr": "해남체",
+        "rootPath": "fonts/해남체",
+        "source": " 전라남도 해남군",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288455&menuNo=200026",
+        "volume": 1429504
+    },
+    {
+        "filepath300": "행복고흥L.otf",
+        "filepath500": "행복고흥M.otf",
+        "filepath700": "행복고흥B.otf",
+        "imagepath": [
+            "행복고흥B_universal_en.png",
+            "행복고흥B_universal_ko.png",
+            "행복고흥L_universal_en.png",
+            "행복고흥L_universal_ko.png",
+            "행복고흥M_universal_en.png",
+            "행복고흥M_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "행복고흥",
+        "name_kr": "행복고흥체",
+        "rootPath": "fonts/행복고흥체",
+        "source": " 고흥군",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288393&menuNo=200023",
+        "volume": 8165744
+    },
+    {
+        "filepath400": "환경R.otf",
+        "filepath700": "환경B.otf",
+        "imagepath": [
+            "환경B_universal_en.png",
+            "환경B_universal_ko.png",
+            "환경R_universal_en.png",
+            "환경R_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "환경",
+        "name_kr": "환경체R",
+        "rootPath": "fonts/환경체",
+        "source": " 한국환경공단",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288471&menuNo=200023",
+        "volume": 9624784
+    },
+    {
+        "filepath400": "Hoengseong Hanu.otf",
+        "imagepath": [
+            "Hoengseong Hanu_universal_en.png",
+            "Hoengseong Hanu_universal_ko.png"
+        ],
+        "lang": [
+            "korean"
+        ],
+        "license": "공유마당 저작권 위원회",
+        "name": "Hoengseong Hanu",
+        "name_kr": "횡성한우체",
+        "rootPath": "fonts/횡성한우체",
+        "source": " 횡성군",
+        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13302264&menuNo=200026",
+        "volume": 2737608
+    }
+]
