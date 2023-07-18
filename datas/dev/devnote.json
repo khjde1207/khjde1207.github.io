@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.3.6 (16 Jul 2023)\n\n-Fixed a problem where memory leaks occurred little by little when processing compressed files.\n- Added a sorting function based on the library extension.\n- Fixed the phenomenon that the touch area setting screen did not have an error.\n- Added native ads to Settings / History page."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Urgently fixed a bug that did not open the setting screen with a shortcut key."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.3.6 (2023 07 16)\n\n- 압축파일 처리시 메모리 누수가 조금씩 생기던 문제를 수정 하였습니다. \n- 내서재 확장자 기준 정렬 기능을 추가 하였습니다. \n- 터치 영역설정 화면이 오류 나던 현상을 수정 하였습니다.\n- 설정 / 히스토리 페이지에 네이티브 광고를 추가 하였습니다."
+    "devnote": "7.3.7 (2023 07 18)\n\n- 단축키로 설정화면 안열리던 버그 긴급 수정하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.3.6 (16 de xullo de 2023)\n\n-Fixou un problema onde as fugas de memoria se produciron pouco a pouco ao procesar ficheiros comprimidos.\n- Engadiu unha función de ordenación baseada na extensión da biblioteca.\n- Fixouse o fenómeno de que a pantalla de configuración da área táctil non tiña un erro.\n- Engadiuse anuncios nativos á páxina de configuración / historia."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Corrixiu con urxencia un erro que non abriu a pantalla de configuración cunha tecla de atallo."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.3.6 (16 જુલાઈ 2023)\n\nસંકુચિત ફાઇલો પર પ્રક્રિયા કરતી વખતે મેમરી લિક થોડી ઓછી થતી સમસ્યાને ફિક્સ કરી.\n- લાઇબ્રેરી એક્સ્ટેંશનના આધારે સ sort ર્ટિંગ ફંક્શન ઉમેર્યું.\n- ટચ એરિયા સેટિંગ સ્ક્રીનને ભૂલ ન હતી તે ઘટનાને સુધારેલ છે.\n- સેટિંગ્સ / ઇતિહાસ પૃષ્ઠમાં મૂળ જાહેરાતો ઉમેર્યા."
+    "devnote": "7.3.7 (2023 07 18)\n\n- તાત્કાલિક ભૂલને ઠીક કરી કે જે શ shortc ર્ટકટ કી સાથે સેટિંગ સ્ક્રીનને ખોલી ન હતી."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.3.6 (16 Ιουλ 2023)\n\n-Επίθεται ένα πρόβλημα όπου οι διαρροές μνήμης εμφανίστηκαν σιγά -σιγά κατά την επεξεργασία συμπιεσμένων αρχείων.\n- Προστέθηκε μια λειτουργία ταξινόμησης που βασίζεται στην επέκταση της βιβλιοθήκης.\n- Διορθώθηκε το φαινόμενο ότι η οθόνη ρύθμισης της περιοχής αφής δεν είχε σφάλμα.\n- Προστέθηκαν εγγενείς διαφημίσεις στη σελίδα Ρυθμίσεις / Ιστορικό."
+    "devnote": "7.3.7 (2023 07 18)\n\n- επειγόντως καθορίστηκε ένα σφάλμα που δεν άνοιξε την οθόνη ρύθμισης με ένα πλήκτρο συντόμευσης."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.3.6 (16 juli 2023)\n\n-Bericht een probleem waarbij geheugenlekken beetje bij beetje plaatsvonden bij het verwerken van gecomprimeerde bestanden.\n- Een sorteerfunctie toegevoegd op basis van de bibliotheekverlenging.\n- Het fenomeen opgelost dat het instellingsscherm van het aanraakgebied geen fout had.\n- Native advertenties toegevoegd aan instellingen / geschiedenispagina."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Dringend een bug opgelost die het instellingsscherm niet heeft geopend met een snelkoets."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "3.3.6 (1 jul जुल 2023)\n\n- एक समस्यामा एक समस्या भयो जहाँ संकुचित फाइलहरूको संशोधन गर्दा मेमोरी चुहावट थोरै भयो।\n- लाइब्रेरी विस्तारमा आधारित क्रमबद्ध प्रकार्य थपियो।\n- बयानकटन निर्धारित गर्दछ कि टच क्षेत्र सेटिंग स्क्रिनसँग त्रुटि थिएन।\n- सेटिंग्स / ईतिहास पृष्ठमा नेटिभ विज्ञापनहरू थपियो।"
+    "devnote": ".3..3..7 (2023 07 1))\n\n- तत्काल एक बग तय गरिएको छ जुन सर्टकट कुञ्जीको साथ सेटिंग स्क्रीन खोल्दैन।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.3.6 (16. jul 2023)\n\n-Fikser et problem der minnelekkasjer oppstod litt etter litt når du behandler komprimerte filer.\n- Lagt til en sorteringsfunksjon basert på bibliotekutvidelsen.\n- Fikset fenomenet at skjermbildet for innstilling av berøringsområder ikke hadde en feil.\n- Lagt til innfødte annonser til innstillinger / historieside."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Hast fikset en feil som ikke åpnet innstillingsskjermen med en snarvei."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.3.6 (16. juli 2023)\n\n-Fikset et problem, hvor hukommelseslækager forekom lidt efter lidt, når du behandlede komprimerede filer.\n- Tilføjet en sorteringsfunktion baseret på bibliotekets udvidelse.\n- Rettet det fænomen, som skærmbilledet for berøringsområde ikke havde en fejl.\n- Tilføjede indfødte annoncer til siden Indstillinger / History."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Retter hurtigt en fejl, der ikke åbnede indstillingsskærmen med en genvejstast."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.3.6 (16. Juli 2023)\n\n-Fixte ein Problem, bei dem Speicherlecks nach und nach bei der Verarbeitung komprimierter Dateien auftraten.\n- Eine Sortierfunktion basierend auf der Bibliothekserweiterung hinzugefügt.\n- Das Phänomen wurde behoben, dass der Bildschirm \"Berührungsbereich Einstellungen\" keinen Fehler hatte.\n- Native Anzeigen für die Einstellungen / Verlaufsseiten hinzugefügt."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Dringend einen Fehler behoben, der den Einstellungsbildschirm nicht mit einer Abkürzungstaste geöffnet hat."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.3.6 (16 Jul 2023)\n\n-Fixed ບັນຫາທີ່ການຮົ່ວໄຫລຂອງຄວາມຊົງຈໍາທີ່ເກີດຂື້ນເລັກຫນ້ອຍໃນເວລາທີ່ການປຸງແຕ່ງເອກະສານທີ່ຖືກບີບອັດ.\n- ເພີ່ມຟັງຊັນການຈັດຮຽງໂດຍອີງໃສ່ການຂະຫຍາຍຫ້ອງສະຫມຸດ.\n- ແກ້ໄຂປະກົດການທີ່ຫນ້າຈໍການຕັ້ງຄ່າບໍລິເວນທີ່ມີຄວາມຜິດພາດບໍ່ມີຂໍ້ຜິດພາດ.\n- ເພີ່ມໂຄສະນາພື້ນເມືອງໃນການຕັ້ງຄ່າ / ຫນ້າປະຫວັດສາດ."
+    "devnote": "7.3.7 (2023 07 ວັນທີ 18)\n\n- ແກ້ໄຂຢ່າງຮີບດ່ວນວ່າຂໍ້ບົກພ່ອງທີ່ບໍ່ໄດ້ເປີດຫນ້າຈໍການຕັ້ງຄ່າດ້ວຍລະຫັດລັດ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.3.6 (2023. gada 16. jūlijs)\n\n-Pareiza problēma, kad apstrādājot saspiestos failus, pamazām notika atmiņas noplūdes.\n- Pievienota šķirošanas funkcija, pamatojoties uz bibliotēkas paplašinājumu.\n- Fiksēta parādība, ka skārienekrāna iestatīšanas ekrānam nebija kļūdas.\n- Pievienotas vietējās reklāmas iestatījumiem / vēstures lapai."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Steidzami novērsa kļūdu, kas neatvēra iestatījuma ekrānu ar saīsnes atslēgu."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.3.6 (16 июля 2023 г.)\n\n-Посмешал проблему, когда утечки памяти немного происходили немного при обработке сжатых файлов.\n- Добавлена ​​функция сортировки на основе расширения библиотеки.\n- Исправлено явление о том, что на экране настройки области сенсорной области не было ошибки.\n- Добавлены нативные объявления на страницу настройки / историю."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Срочно исправил ошибку, которая не открыла экран «Настройки» с помощью ярлыка."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.3.6 (16 iul 2023)\n\n-Pixa o problemă în care scurgerile de memorie au apărut puțin câte puțin la procesarea fișierelor comprimate.\n- S -a adăugat o funcție de sortare bazată pe extensia bibliotecii.\n- S -a rezolvat fenomenul potrivit căruia ecranul de setare a zonei de atingere nu a avut o eroare.\n- Adăugați reclame native la pagina Setări / Istoric."
+    "devnote": "7.3.7 (2023 07 18)\n\n- S -a rezolvat urgent o eroare care nu a deschis ecranul de setare cu o cheie de scurtătură."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.3.6 (2023 m. Liepos 16 d.)\n\n-Fiksavo problemą, kai atminties nutekėjimas po truputį įvyko apdorojant suspaustus failus.\n- Pridėjo rūšiavimo funkciją, pagrįstą bibliotekos plėtiniu.\n- Ištaisytas reiškinys, kad jutiklinio ploto nustatymo ekranas neturėjo klaidos.\n- Pridėti vietinius skelbimus į „Nustatymai“ / „Istorijos“ puslapis."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Skubiai ištaisyta klaida, kuri neatidarė nustatymo ekrano su nuorodos klavišu."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.3.6 (16 जुलै 2023)\n\n-एक समस्या तयार केली जिथे कॉम्प्रेस केलेल्या फायलींवर प्रक्रिया करताना मेमरी गळती थोड्या वेळाने उद्भवली.\n- लायब्ररीच्या विस्तारावर आधारित सॉर्टिंग फंक्शन जोडले.\n- टच एरिया सेटिंग स्क्रीनमध्ये त्रुटी नसल्याची घटना निश्चित केली.\n- सेटिंग्ज / इतिहास पृष्ठावर मूळ जाहिराती जोडल्या."
+    "devnote": "7.3.7 (2023 07 18)\n\n- शॉर्टकट कीसह सेटिंग स्क्रीन उघडत नाही अशा बगला तातडीने निश्चित केले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.3.6 (16 јули 2023 година)\n\n-Сетираше проблем кога протекувањето на меморијата се случи малку по малку при обработка на компресирани датотеки.\n- Додадено функција за сортирање заснована на продолжението на библиотеката.\n- Поправи го феноменот дека екранот за поставување на областа на допир немаше грешка.\n- Додадени домашни реклами на страницата за поставки / историја."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Итно поправи грешка што не го отвори екранот за поставување со клуч за кратенки."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.3.6 (16 ജൂലൈ 2023)\n\nകംപ്രസ് ചെയ്ത ഫയലുകൾ പ്രോസസ്സ് ചെയ്യുമ്പോൾ മെമ്മറി ചോർച്ചകൾ കുറച്ചുകൂടെ സംഭവിച്ച ഒരു പ്രശ്നം.\n- ലൈബ്രറി വിപുലീകരണത്തെ അടിസ്ഥാനമാക്കി ഒരു സോർട്ടിംഗ് ഫംഗ്ഷൻ ചേർത്തു.\n- ടച്ച് ഏരിയ ക്രമീകരണ സ്ക്രീനിന് ഒരു പിശക് ഇല്ലെന്ന് പ്രതിഭാസത്തെ പരിഹരിച്ചു.\n- ക്രമീകരണങ്ങൾ / ചരിത്ര പേജിലേക്ക് നേറ്റീവ് പരസ്യങ്ങൾ ചേർത്തു."
+    "devnote": "7.3.7 (2023 07 18)\n\n- ഒരു കുറുക്കുവഴി കീ ഉപയോഗിച്ച് ക്രമീകരണ സ്ക്രീൻ തുറക്കാത്ത ഒരു ബഗ് അടിയന്തിരമായി പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.3.6 (16 Jul 2023)\n\n-Mixed masalah di mana kebocoran memori berlaku sedikit demi sedikit apabila memproses fail termampat.\n- Menambah fungsi penyortiran berdasarkan lanjutan perpustakaan.\n- Memperbaiki fenomena bahawa skrin tetapan kawasan sentuhan tidak mempunyai ralat.\n- Menambah iklan asli ke halaman Tetapan / Sejarah."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Segera menetapkan pepijat yang tidak membuka skrin tetapan dengan kunci pintasan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.3.6 (16 jul 2023)\n\n-Хэрэглэгч файлуудыг боловсруулсан файлууд боловсруулах үед бага зэрэг алдагдалд өртсөн асуудлыг бага зэрэг тохиолдсон.\n- Номын сангийн өргөтгөл дээр үндэслэн эрэмбэлэх функцийг нэмсэн.\n- Феноменоныг мэдрэгчтэй бүсийн дэлгэцийн дэлгэцэнд алдаа гараагүй гэж үзсэн.\n- Тохиргоо / түүхийн хуудас руу уугуул зарыг нэмсэн."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Богино товчлол бүхий дэлгэцийн дэлгэцийг нээгээгүй алдааг яаралтай засч залруулна."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.3.6 (2023ko uztailak 16)\n\n-Produktu bat, memoria-ihesak apurka-apurka gertatu zirenean, konprimitutako fitxategiak prozesatzean.\n- Liburutegiaren luzapenean oinarritutako ordenazio funtzioa gehitu da.\n- Touch Area ezarpen pantailak ez zuen akatsik izan.\n- Ezarpenak / Historia orrian jatorrizko iragarkiak gehitu."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Premiazkoa ez da kargu pantaila ireki ez duen akatsa."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.3.6 (16 ဇူလို 6 2023)\n\ncompressed files များပြုပြင်သည့်အခါမှတ်ဉာဏ်ပေါက်ကြားမှုများအနည်းငယ်သာဖြစ်ပွားသောပြ a နာတစ်ခုဖြစ်သည့်ပြ a နာတစ်ခု။\n- စာကြည့်တိုက်တိုးချဲ့မှုကို အခြေခံ. sorting function ကိုဆက်ပြောသည်။\n- touch area ရိယာ setting screen တွင်အမှားမရှိသေးသောဖြစ်ရပ်ဆန်းကိုဖြေရှင်းခဲ့သည်။\n- ချိန်ညှိချက်များ / သမိုင်းစာမျက်နှာသို့ဇာတိကြော်ငြာများကိုထည့်သွင်းလိုက်သည်။"
+    "devnote": "72.7 (2023 07 18)\n\n- Setting မျက်နှာပြင်ကိုဖြတ်လမ်းတစ်ခုဖြင့်မဖွင့်သည့် bug တစ်ခုကိုအရေးတကြီးပြင်ဆင်ထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.3.6 (16 tháng 7 năm 2023)\n\n-Đã xảy ra một vấn đề trong đó rò rỉ bộ nhớ xảy ra từng chút một khi xử lý các tệp nén.\n- Đã thêm một chức năng sắp xếp dựa trên tiện ích mở rộng thư viện.\n- Đã sửa hiện tượng màn hình cài đặt khu vực cảm ứng không có lỗi.\n- Đã thêm quảng cáo gốc vào trang Cài đặt / Lịch sử."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Đã sửa lỗi một lỗi không mở màn hình cài đặt bằng phím tắt."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.3.6 (16 ліпеня 2023 г.)\n\n-Песнея праблема, калі ўцечка памяці адбывалася крыху па апрацоўцы сціснутых файлаў.\n- Дададзена функцыя сартавання на аснове пашырэння бібліятэкі.\n- Выпраўлена з'ява, што экран налады сэнсарнай вобласці не меў памылкі.\n- Дададзена родныя аб'явы да старонкі налад / гісторыі."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Тэрмінова зафіксаваны памылка, якая не адкрыла экран налады з дапамогай ярлыка."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.3.6 (16 জুলাই 2023)\n\n-সংকুচিত ফাইলগুলি প্রক্রিয়াজাত করার সময় মেমরি ফাঁস হওয়া যেখানে মেমরি ফাঁস হয়ে যায় সেখানে একটি সমস্যা তৈরি করা হয়।\n- লাইব্রেরি এক্সটেনশনের উপর ভিত্তি করে একটি বাছাই ফাংশন যুক্ত করা হয়েছে।\n- এই ঘটনাটি স্থির করে যে টাচ এরিয়া সেটিং স্ক্রিনটির কোনও ত্রুটি নেই।\n- সেটিংস / ইতিহাস পৃষ্ঠায় নেটিভ বিজ্ঞাপন যুক্ত করা হয়েছে।"
+    "devnote": "7.3.7 (2023 07 18)\n\n- জরুরিভাবে একটি বাগ ঠিক করেছে যা শর্টকাট কী দিয়ে সেটিং স্ক্রিনটি খুলেনি।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.3.6 (16 юли 2023 г.)\n\n-Покусира проблем, при който течовете на памет са възникнали малко по малко при обработката на компресирани файлове.\n- Добавена е функция за сортиране въз основа на разширението на библиотеката.\n- Фиксирано явлението, че екрана за настройка на зоната на допир няма грешка.\n- Добавени местни реклами към настройките / страницата на историята."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Спешно фиксира грешка, която не отвори екрана за настройка с клавиш за бърз достъп."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.3.6 (16. јул 2023)\n\n-Прећи се проблем у којем су се процури меморије мало догодили мало по мало приликом обраде компримованих датотека.\n- додала је функцију сортирања на основу проширења библиотеке.\n- Поправљен је феномен који екран за подешавање додирног подручја није имао грешку.\n- додао је нативе огласе на страницу подешавања / историје."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Хитно је поправио грешку која није отворила екран подешавања кључем пречице."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.3.6 (16 Jul 2023)\n\n-Kuongeza shida ambapo uvujaji wa kumbukumbu ulitokea kidogo wakati wa kusindika faili zilizoshinikwa.\n- Aliongeza kazi ya kuchagua kulingana na ugani wa maktaba.\n- Zisizohamishika jambo ambalo skrini ya kuweka eneo la kugusa haikuwa na kosa.\n- Aliongeza matangazo ya asili kwa mipangilio / ukurasa wa historia."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Zilizowekwa kwa haraka mdudu ambao haukufungua skrini ya kuweka na kitufe cha njia ya mkato."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.3.6 (16 juli 2023)\n\n-Fixade ett problem där minnesläckor inträffade lite efter lite vid bearbetning av komprimerade filer.\n- Lade till en sorteringsfunktion baserad på biblioteksförlängningen.\n- Fixade fenomenet att skärmen för beröringsområdet inte hade något fel.\n- Lade till ursprungliga annonser på inställningar / historiksida."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Fixt fixat ett fel som inte öppnade inställningsskärmen med en genvägsnyckel."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.3.6 (16 de julio de 2023)\n\n-Fijo un problema en el que las filtraciones de memoria ocurrieron poco a poco al procesar archivos comprimidos.\n- Se agregó una función de clasificación basada en la extensión de la biblioteca.\n- Se corrigió el fenómeno de que la pantalla de configuración del área táctil no tenía un error.\n- Se agregaron anuncios nativos a la página Configuración / Historial."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Se corrigió urgentemente un error que no abrió la pantalla de configuración con una tecla de acceso directo."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.3.6 (16. júla 2023)\n\n-Pri spracovaní komprimovaných súborov sa vyskytol problém s únikom pamäte, keď sa pri spracovaní komprimovaných súborov vyskytla úniky pamäte.\n- Pridaná funkcia triedenia na základe rozšírenia knižnice.\n- Opravil jav, ktorý obrazovka nastavenia dotykovej oblasti nemala chyba.\n- Pridané natívne reklamy na stránku nastavení / histórie."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Naliehavo opravená chyba, ktorá neotvorila obrazovku nastavenia pomocou skratky."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.3.6 (16. julija 2023)\n\n-Piksna težava, pri kateri se je pri obdelavi stisnjenih datotek malo pomnilnika pojavilo malo po malo.\n- Dodana funkcija razvrščanja na podlagi razširitve knjižnice.\n- Popravil je pojav, da zaslon nastavitve na dotik ni imel napake.\n- Na strani nastavitve / zgodovine dodane domače oglase."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Nujno je popravil napako, ki ni odprla nastavitvenega zaslona s ključem za bližnjico."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.3.6 (16 ජුලි 2023)\n\nසම්පීඩිත ලිපිගොනු සැකසීමේදී හෝල් කාන්දුවීම් ටිකක් ඇති වූ විට එය අඩු ගැටළුවක්.\n- පුස්තකාල ව්යාප්තිය මත පදනම්ව වර්ග කිරීමේ කාර්යයක් එක් කරන ලදි.\n- ස්පර්ශක ප්රදේශ සැකසීමේ තිරයට දෝෂයක් නොතිබූ සංසිද්ධිය සවි කර ඇත.\n- සැකසීම් / ඉතිහාසය පිටුවට ස්වදේශීය දැන්වීම් එකතු කරන ලදි."
+    "devnote": "7.3.7 (2023 07 18)\n\n- කෙටිමං යතුරක් සහිත සැකසුම් තිරය විවෘත නොකළ දෝෂයක් හදිසියේ සවි කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.3.6 (16 يوليو 2023)\n\n-زخل مشكلة حيث حدثت تسريبات الذاكرة شيئًا فشيئًا عند معالجة الملفات المضغوطة.\n- أضيفت وظيفة الفرز بناءً على امتداد المكتبة.\n- تم إصلاح الظاهرة التي لم يكن لدى شاشة إعداد منطقة اللمس خطأ.\n- إضافة الإعلانات الأصلية إلى إعدادات الإعدادات / السجل."
+    "devnote": "7.3.7 (2023 07 18)\n\n- تم إصلاح الخلل بشكل عاجل لم يفتح شاشة الإعداد باستخدام مفتاح اختصار."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.3.6 (16 հուլիսի 2023)\n\n-Միքսեց մի խնդիր, որտեղ սեղմված ֆայլերը մշակելիս քիչ ժամանակ տեւել են հիշողության արտահոսքերը:\n- Գրադարանի երկարացման հիման վրա ավելացրեց տեսակավորման գործառույթ:\n- Հաստատեց այն երեւույթը, որ հպման տարածքի տեղադրման էկրանը սխալ չի ունեցել:\n- Ավելացված է բնիկ գովազդներ պարամետրերի / պատմության էջում:"
+    "devnote": "7.3.7 (2023 07 18)\n\n- Շտապ ֆիքսված մի վրիպակ, որը չի բացել դարավոր էկրանը դյուրանցման ստեղնով:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.3.6 (16. júlí 2023)\n\n-Fixed vandamál þar sem minni leka kom smám saman við vinnslu þjappaðar skrár.\n- Bætti við flokkunaraðgerð byggð á bókasafnsframlengingunni.\n- Lagaði fyrirbæri sem skjár snertissvæðisins var ekki með villu.\n- Bætti innfæddum auglýsingum við stillingar / sögu síðu."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Bráðlega lagaði villu sem opnaði ekki stillingarskjáinn með flýtilyklinum."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.3.6 (16 iyul 2023)\n\nSıxılmış faylları emal edərkən yaddaş sızdıqları bir az meydana gəldiyi bir problem yaratdı.\n- Kitabxana uzadılmasına əsaslanan bir çeşidləmə funksiyası əlavə edildi.\n- Toxunma sahəsinin parametrləri ekranının səhv etmədiyi fenomeni düzəldildi.\n- Parametrlər / tarix səhifəsinə doğma reklam əlavə edildi."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Təcrübəli bir düymə ilə parametr ekranı açmayan bir səhv düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.3.6 (16 Jul 2023)\n\n-Fixed 'n Probleem waar geheuelekkasies min vir min voorgekom het by die verwerking van saamgeperste lêers.\n- 'n Sorteerfunksie bygevoeg op grond van die biblioteekuitbreiding.\n- Die verskynsel het vasgestel dat die aanraakarea -instellingskerm nie 'n fout gehad het nie.\n- Inheemse advertensies bygevoeg op die instellings / geskiedenisbladsy."
+    "devnote": "7.3.7 (2023 07 18)\n\n- het dringend 'n fout opgelos wat nie die instellingsskerm met 'n kortpadsleutel oopgemaak het nie."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.3.6 (16 korrik 2023)\n\n-Fixed një problem ku rrjedhjet e kujtesës ndodhën pak nga pak kur përpunojnë skedarët e kompresuar.\n- Shtuar një funksion klasifikimi bazuar në shtrirjen e bibliotekës.\n- Fiksoi fenomenin që ekrani i vendosjes së zonës së prekjes nuk kishte një gabim.\n- Shtuar reklama vendase në faqet e cilësimeve / historisë."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Fiksoi urgjentisht një gabim që nuk e hapi ekranin e cilësimit me një çelës të shkurtoreve."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.3.6 (16 ጁላይ 2023)\n\n- የታሸጉ ፋይሎችን በሚተካበት ጊዜ የማስታወሻ ደብተሮች በትንሽ በትንሹ በትንሽ በትንሽ በትንሽ በትንሽ በትንሹ የተከሰተ ችግር ነበር.\n- በቤተ መፃህፍት ቅጥያ መሠረት የመደርደር ተግባር አክሏል.\n- የመነካካሻ አካባቢ ቅንጅት ማያ ገጽ ስህተት የሌለውን ክስተት ተጠግኗል.\n- የአገር ተወላጅ ማስታወቂያዎችን በቅንብሮች / የታሪክ ገጽ የታተሙ."
+    "devnote": "7.3.7 (2023 07 18)\n\n- አቋማዊ ቁልፍን ከአሮጌ ቁልፍ ጋር የማይከፈት ሳንካ በአስቸኳይ ተጠግ."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.3.6 (16. juuli 2023)\n\n-Fixitud probleem, kus mälulekked esinesid tihendatud failide töötlemisel vähehaaval.\n- lisas teegi laiendi põhjal sortimisfunktsiooni.\n- Parandatud nähtus, et puutepiirkonna seadistamise ekraanil ei olnud tõrge.\n- Lisatud kohalikud reklaamid seadetele / ajaloolehele."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Parandas kiiresti viga, mis ei avanud otsetee klahviga seadistusekraani."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.3.6 (16 جولائی 2023)\n\nایک ایسی پریشانی کا فکسڈ کیا گیا جہاں کمپریسڈ فائلوں پر کارروائی کرتے وقت میموری لیک تھوڑا سا تھوڑا سا ہوا۔\n- لائبریری کی توسیع پر مبنی ایک چھانٹ رہا فنکشن شامل کیا۔\n- اس رجحان کو طے کیا کہ ٹچ ایریا سیٹنگ اسکرین میں کوئی غلطی نہیں ہے۔\n- ترتیبات / تاریخ کے صفحے میں مقامی اشتہارات شامل کیے گئے۔"
+    "devnote": "7.3.7 (2023 07 18)\n\n- فوری طور پر ایک بگ طے کیا جس نے شارٹ کٹ کلید کے ساتھ ترتیب کی اسکرین کو نہیں کھولا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.3.6 (16 липня 2023)\n\n-Прикаджував проблему, коли витоки пам'яті відбувалися невеликою при обробці стиснених файлів.\n- Додано функцію сортування на основі розширення бібліотеки.\n- Виправлено явище, що на екрані налаштування області дотику не було помилки.\n- Додано рідну рекламу на сторінку налаштувань / історії."
+    "devnote": "7.3.7 (2023 07 18)\n\n- терміново виправив помилку, яка не відкрила екран налаштування за допомогою клавіші ярлика."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.3.6 (16 lug 2023)\n\n-Fadeva un problema in cui le perdite di memoria si sono verificate a poco a poco durante l'elaborazione di file compressi.\n- Aggiunta una funzione di ordinamento basata sull'estensione della libreria.\n- Risolto il fenomeno che la schermata di impostazione dell'area del touch non aveva un errore.\n- Aggiunti annunci nativi alla pagina Impostazioni / cronologia."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Risolto urgentemente un bug che non ha aperto la schermata di impostazione con un tasto di scelta rapida."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.3.6 (16 Jul 2023)\n\n-Bixed masalah di mana kebocoran memori terjadi sedikit demi sedikit saat memproses file terkompresi.\n- Menambahkan fungsi penyortiran berdasarkan ekstensi perpustakaan.\n- Memperbaiki fenomena bahwa layar pengaturan area sentuh tidak memiliki kesalahan.\n- Menambahkan iklan asli ke halaman Pengaturan / Sejarah."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Segera perbaiki bug yang tidak membuka layar pengaturan dengan kunci pintasan."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.3.6（2023年7月16日）\n\n - 圧縮ファイルを処理するときにメモリリークが少しずつ発生した問題を修正しました。\n - ライブラリの拡張機能に基づいてソート機能を追加しました。\n - タッチエリア設定画面にエラーがないことを現象を修正しました。\n - 設定 /履歴ページにネイティブ広告を追加しました。"
+    "devnote": "7.3.7（2023 07 18）\n\n - ショートカットキーで設定画面を開かなかったバグを緊急に修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.3.6 (2023 წლის 16 ივლისი)\n\n-შეაფასა პრობლემა, სადაც მეხსიერების გაჟონვა მოხდა ცოტათი, შეკუმშული ფაილების დამუშავებისას.\n- დაამატა დახარისხების ფუნქცია ბიბლიოთეკის გაფართოების საფუძველზე.\n- დააფიქსირა ის ფენომენი, რომ შეხების არეალის პარამეტრის ეკრანს შეცდომა არ ჰქონდა.\n- დაამატა მშობლიური რეკლამები პარამეტრების / ისტორიის გვერდზე."
+    "devnote": "7.3.7 (2023 07 18)\n\n- სასწრაფოდ დააფიქსირა შეცდომა, რომელმაც არ გახსნა პარამეტრის ეკრანი მალსახმობის ღილაკით."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.3.6 (16 Jul 2023)\n\n-Ukuthola inkinga lapho ukuvuza inkumbulo khona kwenzeka khona kancane lapho kucubungula amafayela acindezelwe.\n- Kungezwe umsebenzi wokuhlunga osuselwa ekunwetshisweni komtapo wezincwadi.\n- Ukulungiswa kwento yesikrini sokusetha kwendawo yokuthinta kwakungesona iphutha.\n- Izikhangiso zendabuko ezingeziwe kukhasi / Ikhasi lomlando."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Kulungiswe ngokuphuthumayo isiphazamisi esingavuli isikrini sokusetha ngenkinobho enqamulelayo."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.3.6（2023年7月16日）\n\n - 修正一个问题，即在处理压缩文件时，内存泄漏一点一点地发生。\n - 基于库扩展名添加了一个排序功能。\n - 修复了触摸区域设置屏幕没有错误的现象。\n - 在设置 /历史页面中添加了本机广告。"
+    "devnote": "7.3.7（2023 07 18）\n\n - 紧急修复了没有使用快捷键打开设置屏幕的错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.3.6（2023年7月16日）\n\n - 修正一個問題，即在處理壓縮文件時，內存洩漏一點一點地發生。\n - 基於庫擴展名添加了一個排序功能。\n - 修復了觸摸區域設置屏幕沒有錯誤的現象。\n - 在設置 /歷史頁面中添加了本機廣告。"
+    "devnote": "7.3.7（2023 07 18）\n\n - 緊急修復了沒有使用快捷鍵打開設置屏幕的錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.3.6（2023年7月16日）\n\n - 修正一個問題，即在處理壓縮文件時，內存洩漏一點一點地發生。\n - 基於庫擴展名添加了一個排序功能。\n - 修復了觸摸區域設置屏幕沒有錯誤的現象。\n - 在設置 /歷史頁面中添加了本機廣告。"
+    "devnote": "7.3.7（2023 07 18）\n\n - 緊急修復了沒有使用快捷鍵打開設置屏幕的錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.3.6 (16. července 2023)\n\n-Při zpracování komprimovaných souborů došlo k problému, kde se úniky paměti vyskytly po kousku.\n- Přidána funkce třídění na základě rozšíření knihovny.\n- Opraven jev, že obrazovka nastavení dotykové oblasti neměla chybu.\n- Přidáno nativní reklamy na stránku Nastavení / historie."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Naléhavě opravena chyba, která neotevřela obrazovku nastavení pomocí klávesy zkratky."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.3.6 (16 шілде 2023)\n\n- Сығылған файлдарды өңдеу кезінде жадтың ағып кетуі аз болғанда.\n- Кітапхана кеңейтімі негізінде сұрыптау функциясы қосылды.\n- Сенсорлық аймақты орнату экранында қате пайда болған құбылысты бекітіңіз.\n- Параметрлер / Тарих бетіне жергілікті жарнамалар қосылды."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Шелтеліп, параметрлер экранын төте жолмен ашпаған қате."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.3.6 (16 de juliol de 2023)\n\n-Prí un problema on les fuites de memòria es van produir a poc a poc quan es processen fitxers comprimits.\n- S'ha afegit una funció d'ordenació basada en l'extensió de la biblioteca.\n- S'ha corregit el fenomen que la pantalla de configuració de l'àrea tàctil no va tenir cap error.\n- S'ha afegit anuncis natius a la pàgina de configuració / història."
+    "devnote": "7.3.7 (2023 07 18)\n\n- S'ha corregit urgentment un error que no va obrir la pantalla de configuració amb una tecla de drecera."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.3.6 (16 ಜುಲೈ 2023)\n\nಸಂಕುಚಿತ ಫೈಲ್‌ಗಳನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸುವಾಗ ಮೆಮೊರಿ ಸೋರಿಕೆಗಳು ಸ್ವಲ್ಪವೇ ಸಂಭವಿಸಿದ ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ಗ್ರಂಥಾಲಯ ವಿಸ್ತರಣೆಯ ಆಧಾರದ ಮೇಲೆ ವಿಂಗಡಿಸುವ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಟಚ್ ಏರಿಯಾ ಸೆಟ್ಟಿಂಗ್ ಪರದೆಯಲ್ಲಿ ದೋಷವಿಲ್ಲ ಎಂಬ ವಿದ್ಯಮಾನವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ಸೆಟ್ಟಿಂಗ್‌ಗಳು / ಇತಿಹಾಸ ಪುಟಕ್ಕೆ ಸ್ಥಳೀಯ ಜಾಹೀರಾತುಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ."
+    "devnote": "7.3.7 (2023 07 18)\n\n- ಶಾರ್ಟ್‌ಕಟ್ ಕೀಲಿಯೊಂದಿಗೆ ಸೆಟ್ಟಿಂಗ್ ಪರದೆಯನ್ನು ತೆರೆಯದ ದೋಷವನ್ನು ತುರ್ತಾಗಿ ಸರಿಪಡಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.3.6 (16. srpnja 2023.)\n\n-Potvrdio je problem u kojem se propuštanje memorije događalo malo po malo prilikom obrade komprimiranih datoteka.\n- Dodana je funkcija sortiranja na temelju proširenja knjižnice.\n- Popravljen je fenomen da zaslon za postavljanje dodirnog područja nije imao pogrešku.\n- Dodani izvorni oglasi na postavke / stranicu povijesti."
+    "devnote": "7.3.7 (2023. 07 18)\n\n- Hitno je ispravljena greška koja nije otvorila zaslon za postavljanje tipkom prečaca."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.3.6 (16 កក្កដា 2023)\n\n-Fixed បញ្ហាដែលជាកន្លែងដែលការលេចធ្លាយនៃការលេចធ្លាយរបស់លេចធ្លាយបន្តិចនៅពេលដំណើរការឯកសារដែលបានបង្រួម។\n- បានបន្ថែមមុខងារតម្រៀបដែលមានមូលដ្ឋានលើផ្នែកបន្ថែមបណ្ណាល័យ។\n- ជួសជុលបាតុភូតដែលអេក្រង់កំណត់តំបន់ប៉ះមិនមានកំហុសទេ។\n- បន្ថែមការផ្សាយពាណិជ្ជកម្មដើមទៅការកំណត់ / ទំព័រប្រវត្តិសាស្ត្រ។"
+    "devnote": "7.3.7 (2023 07 18)\n\n- ជួសជុលកំហុសជាបន្ទាន់ដែលមិនបានបើកអេក្រង់កំណត់ដោយប្រើគ្រាប់ចុចផ្លូវកាត់។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.3.6 (16 июл 2023)\n\n- Кысылган файлдарды иштеп чыгууда эс тутумунун агып кетиши мүмкүн болгон көйгөй.\n- китепкананын кеңейтүүсүнө негизделген сорттоо функциясын кошту.\n- Феномендин баскычы орнотуу экранында ката болгон жок.\n- Native Ads Жөндөөлөргө / Тарых баракчасына кошулган."
+    "devnote": "7.3.7 (2027 07 18)\n\n- Тез арада орнотулган экранды кыска жол ачкыч менен ачкан катын оңдолду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.3.6 (16 ஜூலை 2023)\n\nசுருக்கப்பட்ட கோப்புகளை செயலாக்கும்போது நினைவக கசிவுகள் சிறிது சிறிதாக நிகழ்ந்தன.\n- நூலக நீட்டிப்பின் அடிப்படையில் ஒரு வரிசையாக்க செயல்பாட்டைச் சேர்த்தது.\n- டச் பகுதி அமைக்கும் திரையில் பிழை இல்லை என்ற நிகழ்வு சரி செய்யப்பட்டது.\n- அமைப்புகள் / வரலாறு பக்கத்தில் சொந்த விளம்பரங்களைச் சேர்த்தது."
+    "devnote": "7.3.7 (2023 07 18)\n\n- குறுக்குவழி விசையுடன் அமைப்புத் திரையைத் திறக்காத ஒரு பிழையை அவசரமாக சரி செய்தது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.3.6 (16 ก.ค. 2023)\n\n-แก้ไขปัญหาที่หน่วยความจำรั่วเกิดขึ้นทีละน้อยเมื่อประมวลผลไฟล์ที่ถูกบีบอัด\n- เพิ่มฟังก์ชั่นการเรียงลำดับตามส่วนขยายของไลบรารี\n- แก้ไขปรากฏการณ์ที่หน้าจอการตั้งค่าพื้นที่สัมผัสไม่มีข้อผิดพลาด\n- เพิ่มโฆษณาดั้งเดิมในหน้าการตั้งค่า / ประวัติ"
+    "devnote": "7.3.7 (2023 07 18)\n\n- แก้ไขข้อผิดพลาดอย่างเร่งด่วนที่ไม่ได้เปิดหน้าจอการตั้งค่าด้วยคีย์ทางลัด"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.3.6 (16 Tem 2023)\n\n-Sıkıştırılmış dosyalar işlenirken bellek sızıntılarının az yavaş meydana geldiği bir sorunla sonuçlandı.\n- Kütüphane uzantısına dayalı bir sıralama işlevi eklendi.\n- Dokunmatik alanı ayar ekranının bir hatası olmadığı fenomeni düzeltildi.\n- Ayarlara / geçmiş sayfasına yerel reklamlar eklendi."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Acilen ayar ekranını bir kısayol anahtarıyla açmayan bir hatayı düzeltti."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.3.6 (16 జూలై 2023)\n\nసంపీడన ఫైళ్ళను ప్రాసెస్ చేసేటప్పుడు మెమరీ లీక్‌లు కొద్దిగా సంభవించిన సమస్యను ఫిక్స్ చేసింది.\n- లైబ్రరీ పొడిగింపు ఆధారంగా సార్టింగ్ ఫంక్షన్‌ను జోడించారు.\n- టచ్ ఏరియా సెట్టింగ్ స్క్రీన్‌కు లోపం లేదని దృగ్విషయం పరిష్కరించబడింది.\n- సెట్టింగులు / చరిత్ర పేజీకి స్థానిక ప్రకటనలను జోడించారు."
+    "devnote": "7.3.7 (2023 07 18)\n\n- సత్వరమార్గం కీతో సెట్టింగ్ స్క్రీన్‌ను తెరవని బగ్‌ను అత్యవసరంగా పరిష్కరించారు."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.3.6 (16 ਜੁਲਾਈ 2023)\n\nਸੰਬੰਧਿਤ ਇੱਕ ਸਮੱਸਿਆ - ਸੰਕੁਚਿਤ ਫਾਈਲਾਂ ਦੀ ਪ੍ਰਕਿਰਿਆ ਕਰਨ ਵੇਲੇ ਮੈਮੋਰੀ ਲੀਕ ਥੋੜੀ ਜਿਹੀ ਹੁੰਦੀ ਹੈ.\n- ਲਾਇਬ੍ਰੇਰੀ ਐਕਸਟੈਂਸ਼ਨ ਦੇ ਅਧਾਰ ਤੇ ਇੱਕ ਕ੍ਰਮਬੱਧ ਕਾਰਜ ਕਾਰਜ ਜੋੜਿਆ.\n- ਟੱਚ ਏਰੀਆ ਸੈਟਿੰਗ ਸਕ੍ਰੀਨ ਨੂੰ ਫਿਕਸਡ ਕਰੋ, ਜੋ ਕਿ ਵਰਤਾਰੇ ਨੂੰ ਨਿਸ਼ਚਤ ਕੀਤਾ ਗਿਆ ਸੀ.\n- ਸੈਟਿੰਗਾਂ / ਇਤਿਹਾਸ ਪੇਜ ਤੇ ਨੇਸੀ ਵਿਗਿਆਪਨ ਸ਼ਾਮਲ ਕੀਤੇ."
+    "devnote": "7.3.7 (2023 07 18)\n\n- ਤੁਰੰਤ ਇੱਕ ਬੱਗ ਹੱਲ ਕੀਤਾ ਗਿਆ ਜੋ ਸ਼ਾਰਟਕੱਟ ਕੁੰਜੀ ਦੇ ਨਾਲ ਸੈਟਿੰਗ ਸਕ੍ਰੀਨ ਨੂੰ ਨਹੀਂ ਖੋਲ੍ਹਿਆ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.3.6 (16 ژوئیه 2023)\n\n-مشکلی ایجاد کرد که در آن نشت حافظه هنگام پردازش پرونده های فشرده شده اندک بود.\n- یک عملکرد مرتب سازی بر اساس پسوند کتابخانه اضافه کرد.\n- این پدیده را ثابت کرد که صفحه تنظیم منطقه لمسی خطایی ندارد.\n- تبلیغات بومی به صفحه تنظیمات / تاریخچه اضافه شده است."
+    "devnote": "7.3.7 (2023 07 18)\n\n- فوراً اشکالی را برطرف کرد که صفحه تنظیم را با کلید میانبر باز نکرد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.3.6 (16 de julho de 2023)\n\n-Fixou um problema em que os vazamentos de memória ocorreram pouco a pouco ao processar arquivos compactados.\n- Adicionado uma função de classificação com base na extensão da biblioteca.\n- Corrigido o fenômeno de que a tela de configuração da área de toque não teve um erro.\n- Adicionado anúncios nativos à página Configurações / histórico."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Corrigido urgentemente um bug que não abriu a tela de configuração com uma tecla de atalho."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.3.6 (16 lipca 2023)\n\n-Udostępniono problem, w którym wycieki pamięci występowały stopniowo podczas przetwarzania kompresowanych plików.\n- Dodano funkcję sortowania na podstawie rozszerzenia biblioteki.\n- Naprawiono zjawisko, że ekran ustawienia obszaru dotykowego nie miał błędu.\n- Dodano rodzime reklamy do strony ustawień / historii."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Pilnie naprawiał błąd, który nie otworzył ekranu ustawienia za pomocą klawisza skrótów."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.3.6 (16 juillet 2023)\n\n-Pection d'un problème où les fuites de mémoire se sont peu produites lors du traitement des fichiers compressés.\n- Ajout d'une fonction de tri basée sur l'extension de la bibliothèque.\n- Correction du phénomène que l'écran de réglage de la zone tactile n'avait pas d'erreur.\n- Ajout de la page des annonces natives aux paramètres / histoires."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Correction d'un bug d'urgence qui n'a pas ouvert l'écran de réglage avec une touche de raccourci."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.3.6 (16. heinäkuuta 2023)\n\n-Korjattu ongelma, jossa muistivuodot tapahtuivat vähitellen käsitellessään pakattuja tiedostoja.\n- Lisätty lajittelutoiminto kirjaston laajennuksen perusteella.\n- Korjattu ilmiö, että kosketusalueen asetusnäytöllä ei ollut virhettä.\n- Lisätty alkuperäiset mainokset asetuksiin / historiasivulle."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Korjattu kiireellisesti virhe, joka ei avannut asetusnäyttöä pikanäppäimellä."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.3.6 (16 Hul 2023)\n\n-Pagtapos ng isang problema kung saan ang mga pagtagas ng memorya ay naganap nang kaunti kapag pinoproseso ang mga naka -compress na file.\n- Nagdagdag ng isang pag -uuri ng pag -uuri batay sa extension ng library.\n- Naayos ang kababalaghan na ang screen ng setting ng lugar ng touch ay walang error.\n- Idinagdag ang mga katutubong ad sa pahina ng Mga Setting / Kasaysayan."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Agarang naayos ang isang bug na hindi binuksan ang setting ng screen na may isang shortcut key."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.3.6 (2023. július 16.)\n\n-Kiválasztott olyan probléma, ahol a memória szivárgása apránként kevéssé történt a tömörített fájlok feldolgozásakor.\n- Hozzáadott egy rendezési funkciót a könyvtár kiterjesztése alapján.\n- Javítva azt a jelenséget, hogy az érintési terület beállítási képernyőjén nem volt hiba.\n- Natív hirdetések hozzáadása a beállításokhoz / előzmények oldalhoz."
+    "devnote": "7.3.7 (2023 07 18)\n\n- Sürgősen javítson meg egy hibát, amely nem nyitotta meg a beállítási képernyőt egy parancsikon gomb segítségével."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.3.6 (16 ביולי 2023)\n\n-קבע בעיה בה דליפות זיכרון התרחשו לאט לאט בעת עיבוד קבצים דחוסים.\n- הוסיף פונקציית מיון על בסיס סיומת הספרייה.\n- תוקן את התופעה שלסך ההגדרה של אזור המגע לא הייתה שגיאה.\n- נוסף מודעות מקוריות לדף הגדרות / היסטוריה."
+    "devnote": "7.3.7 (2023 07 18)\n\n- תיקן בדחיפות באג שלא פתח את מסך ההגדרה עם מקש קיצור דרך."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.3.6 (16 जुलाई 2023)\n\n-एक एक समस्या है जहां मेमोरी लीक संपीड़ित फ़ाइलों को संसाधित करते समय बहुत कम हो जाती है।\n- लाइब्रेरी एक्सटेंशन के आधार पर एक सॉर्टिंग फ़ंक्शन जोड़ा गया।\n- इस घटना को तय किया कि टच एरिया सेटिंग स्क्रीन में कोई त्रुटि नहीं थी।\n- सेटिंग्स / इतिहास पृष्ठ में देशी विज्ञापन जोड़े गए।"
+    "devnote": "7.3.7 (2023 07 18)\n\n- तत्काल एक बग तय किया जो शॉर्टकट कुंजी के साथ सेटिंग स्क्रीन नहीं खोला।"
   }
 }
