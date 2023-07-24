@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Urgently fixed a bug that did not open the setting screen with a shortcut key.\n- Urgently fixed a bug that did not keep the last line."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Fixed crash error.\n- bug fix"
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.3.8 (2023 07 18)\n\n- 단축키로 설정화면 안열리던 버그 긴급 수정하였습니다.\n- 마지막줄 유지 안되던 버그를 긴급 수정 하였습니다."
+    "devnote": "7.3.9 (2023 07 25)\n\n- 비정상 종료 오류 수정. \n- 버그 수정"
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Corrixiu con urxencia un erro que non abriu a pantalla de configuración cunha tecla de atallo.\n- Corrixiu con urxencia un erro que non mantivo a última liña."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Erro de fallo fixo.\n- Corrección de erros"
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.3.8 (2023 07 18)\n\n- તાત્કાલિક ભૂલને ઠીક કરી કે જે શ shortc ર્ટકટ કી સાથે સેટિંગ સ્ક્રીનને ખોલી ન હતી.\n- તાત્કાલિક ભૂલને ઠીક કરી કે જે છેલ્લી લીટી રાખતી નથી."
+    "devnote": "7.3.9 (2023 07 25)\n\n- સ્થિર ક્રેશ ભૂલ.\n- બગ ફિક્સ"
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.3.8 (2023 07 18)\n\n- επειγόντως καθορίστηκε ένα σφάλμα που δεν άνοιξε την οθόνη ρύθμισης με ένα πλήκτρο συντόμευσης.\n- επειγόντως καθόρισε ένα σφάλμα που δεν κρατούσε την τελευταία γραμμή."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Σταθερό σφάλμα σύγκρουσης.\n- επιδιόρθωση σφαλμάτων"
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Dringend een bug opgelost die het instellingsscherm niet heeft geopend met een snelkoets.\n- Dringend een bug opgelost die de laatste regel niet heeft behouden."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Vaste crashfout.\n- Bugfix"
   },
   "네팔어": {
     "key": "ne",
-    "devnote": ".3..3..8 (2023 07 1))\n\n- तत्काल एक बग तय गरिएको छ जुन सर्टकट कुञ्जीको साथ सेटिंग स्क्रीन खोल्दैन।\n- तत्काल एक बग तय गर्नुहोस् जुन अन्तिम रेखा राख्दैनथ्यो।"
+    "devnote": ".3..3.9 (2023 07 2 25)\n\n- स्थिर क्र्यास त्रुटि।\n- बग फिक्स"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Hast fikset en feil som ikke åpnet innstillingsskjermen med en snarvei.\n- Hast fikset en feil som ikke holdt den siste linjen."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Fast krasjfeil.\n- feilretting"
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Retter hurtigt en fejl, der ikke åbnede indstillingsskærmen med en genvejstast.\n- Retter hurtigt en fejl, der ikke holdt den sidste linje."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Fejl på fast nedbrud.\n- fejlrettelse"
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Dringend einen Fehler behoben, der den Einstellungsbildschirm nicht mit einer Abkürzungstaste geöffnet hat.\n- Dringend einen Fehler behoben, der die letzte Zeile nicht behielt."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Crash -Fehler behoben.\n- Bug-Fix"
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.3.8 (2023 07 ວັນທີ 18)\n\n- ແກ້ໄຂຢ່າງຮີບດ່ວນວ່າຂໍ້ບົກພ່ອງທີ່ບໍ່ໄດ້ເປີດຫນ້າຈໍການຕັ້ງຄ່າດ້ວຍລະຫັດລັດ.\n- ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ບໍ່ໄດ້ຮັກສາເສັ້ນສຸດທ້າຍຢ່າງຮີບດ່ວນ."
+    "devnote": "7.3.9 (2023 07 257 25)\n\n- ຄວາມຜິດພາດຂອງອຸປະຕິເຫດຄົງທີ່.\n- ແກ້ໄຂຂໍ້ບົກພ່ອງ"
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Steidzami novērsa kļūdu, kas neatvēra iestatījuma ekrānu ar saīsnes atslēgu.\n- steidzami novērsa kļūdu, kas neturēja pēdējo rindu."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Fiksēta avārijas kļūda.\n- kļūdas labojums"
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Срочно исправил ошибку, которая не открыла экран «Настройки» с помощью ярлыка.\n- Срочно исправил ошибку, которая не сохранила последнюю строку."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Исправлена ​​ошибка сбоя.\n- Исправлена ​​ошибка"
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.3.8 (2023 07 18)\n\n- S -a rezolvat urgent o eroare care nu a deschis ecranul de setare cu o cheie de scurtătură.\n- A rezolvat urgent o eroare care nu a păstrat ultima linie."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Eroare de prăbușire fixă.\n- rezolvarea unei erori"
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Skubiai ištaisyta klaida, kuri neatidarė nustatymo ekrano su nuorodos klavišu.\n- Skubiai ištaisyta klaida, kuri nelaikė paskutinės eilutės."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Ištaisyta avarijos klaida.\n- Klaidos ištaisymas"
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.3.8 (2023 07 18)\n\n- शॉर्टकट कीसह सेटिंग स्क्रीन उघडत नाही अशा बगला तातडीने निश्चित केले.\n- तातडीने एक बग निश्चित केला ज्याने शेवटची ओळ ठेवली नाही."
+    "devnote": "7.3.9 (2023 07 25)\n\n- निश्चित क्रॅश त्रुटी.\n- चूक दुरुस्ती"
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Итно поправи грешка што не го отвори екранот за поставување со клуч за кратенки.\n- Итно поправи грешка што не ја задржа последната линија."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Фиксна грешка во несреќата.\n- Поправете грешки"
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.3.8 (2023 07 18)\n\n- ഒരു കുറുക്കുവഴി കീ ഉപയോഗിച്ച് ക്രമീകരണ സ്ക്രീൻ തുറക്കാത്ത ഒരു ബഗ് അടിയന്തിരമായി പരിഹരിച്ചു.\n- അവസാന വരി സൂക്ഷിക്കാത്ത ഒരു ബഗ് അടിയന്തിരമായി പരിഹരിച്ചു."
+    "devnote": "7.3.9 (2023 07 25)\n\n- നിശ്ചിത ക്രാഷ് പിശക്.\n- ബഗ് പരിഹരിക്കുക"
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Segera menetapkan pepijat yang tidak membuka skrin tetapan dengan kunci pintasan.\n- Segera menetapkan pepijat yang tidak menyimpan baris terakhir."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Kesalahan kemalangan tetap.\n- Pembetulan pepijat"
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Богино товчлол бүхий дэлгэцийн дэлгэцийг нээгээгүй алдааг яаралтай засч залруулна.\n- Сүүлийн мөрийг хадгалаагүй алдааг яаралтай засч залруулна уу."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Ослын алдаа гарсан алдаа.\n- Алдаа засах"
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Premiazkoa ez da kargu pantaila ireki ez duen akatsa.\n- Premiazkoa azken lerroa mantendu ez zuen akats bat konpondu da."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Krisiaren akats finkoa.\n- akats konponketa"
   },
   "버마어": {
     "key": "my",
-    "devnote": "72.8 (2023 07 18)\n\n- Setting မျက်နှာပြင်ကိုဖြတ်လမ်းတစ်ခုဖြင့်မဖွင့်သည့် bug တစ်ခုကိုအရေးတကြီးပြင်ဆင်ထားသည်။\n- ပြီးခဲ့သည့်လိုင်းကိုမစောင့်ရှောက်သော bug ကိုအရေးတကြီးပြင်ဆင်ထားသည်။"
+    "devnote": "72.9 (2023 07 25)\n\n- fixed crash အမှား။\n- bug fix"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Đã sửa lỗi một lỗi không mở màn hình cài đặt bằng phím tắt.\n- Đã sửa lỗi một lỗi không giữ dòng cuối cùng."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Đã sửa lỗi sự cố.\n- vá lỗi"
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Тэрмінова зафіксаваны памылка, якая не адкрыла экран налады з дапамогай ярлыка.\n- тэрмінова выправіў памылку, якая не захоўвала апошні радок."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Выпраўленая памылка збою.\n- Выпраўленне памылак"
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.3.8 (2023 07 18)\n\n- জরুরিভাবে একটি বাগ ঠিক করেছে যা শর্টকাট কী দিয়ে সেটিং স্ক্রিনটি খুলেনি।\n- জরুরিভাবে একটি বাগ ঠিক করেছে যা শেষ লাইনটি রাখে না।"
+    "devnote": "7.3.9 (2023 07 25)\n\n- স্থির ক্র্যাশ ত্রুটি।\n- বাগ ফিক্স"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Спешно фиксира грешка, която не отвори екрана за настройка с клавиш за бърз достъп.\n- Спешно поправи грешка, която не запази последния ред."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Фиксирана грешка в срива.\n- поправка на бъг"
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Хитно је поправио грешку која није отворила екран подешавања кључем пречице.\n- Хитно је поправио бубу која није задржала задњи ред."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Грешка у фиксном паду.\n- поправљање грешака"
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Zilizowekwa kwa haraka mdudu ambao haukufungua skrini ya kuweka na kitufe cha njia ya mkato.\n- Zilizowekwa haraka mdudu ambao haukuweka mstari wa mwisho."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Kosa la ajali ya kudumu.\n- Kurekebisha mdudu"
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Fixt fixat ett fel som inte öppnade inställningsskärmen med en genvägsnyckel.\n- Fixt fixat ett fel som inte höll den sista raden."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Felfel.\n- buggfix"
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Se corrigió urgentemente un error que no abrió la pantalla de configuración con una tecla de acceso directo.\n- Se corrigió urgentemente un error que no mantenía la última línea."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Se corrigió el error de bloqueo.\n- arreglo del fallo"
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Naliehavo opravená chyba, ktorá neotvorila obrazovku nastavenia pomocou skratky.\n- Naliehavo opravila chybu, ktorá si nedržala posledný riadok."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Opravená chyba havárie.\n- Oprava chýb"
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Nujno je popravil napako, ki ni odprla nastavitvenega zaslona s ključem za bližnjico.\n- Nujno je določil napako, ki ni obdržala zadnje vrstice."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Odpravljena napaka strmoglavljenja.\n- popravljanje napak"
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.3.8 (2023 07 18)\n\n- කෙටිමං යතුරක් සහිත සැකසුම් තිරය විවෘත නොකළ දෝෂයක් හදිසියේ සවි කර ඇත.\n- අවසාන රේඛාව තබා නොගත් දෝෂයක් හදිසියේ සවි කර ඇත."
+    "devnote": "7.3.9 (2023 07 25)\n\n- ස්ථාවර බිඳ වැටීමේ දෝෂයකි.\n- දෝෂ නිවැරදි කිරීම"
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.3.8 (2023 07 18)\n\n- تم إصلاح الخلل بشكل عاجل لم يفتح شاشة الإعداد باستخدام مفتاح اختصار.\n- تم إصلاح الخلل بشكل عاجل لم يحتفظ بالسطر الأخير."
+    "devnote": "7.3.9 (2023 07 25)\n\n- خطأ تحطم ثابت.\n- إصلاح الخلل"
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Շտապ ֆիքսված մի վրիպակ, որը չի բացել դարավոր էկրանը դյուրանցման ստեղնով:\n- Շտապ ֆիքսված մի վրիպակ, որը չի պահել վերջին տողը:"
+    "devnote": "7.3.9 (2023 07 25)\n\n- ֆիքսված վթարի սխալ:\n- Սխալների շտկում"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Bráðlega lagaði villu sem opnaði ekki stillingarskjáinn með flýtilyklinum.\n- Bráðlega lagaði villu sem hélt ekki síðustu línunni."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Fast hrunvilla.\n- Bug Fix"
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Təcrübəli bir düymə ilə parametr ekranı açmayan bir səhv düzəldildi.\n- Təcili olaraq son sətri saxlamayan bir səhv düzəldildi."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Sabit qəza xətası.\n- Hata düzeltme"
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.3.8 (2023 07 18)\n\n- het dringend 'n fout opgelos wat nie die instellingsskerm met 'n kortpadsleutel oopgemaak het nie.\n- het dringend 'n fout opgelos wat nie die laaste reël behou het nie."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Vaste ongelukfout.\n- Bug fix"
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Fiksoi urgjentisht një gabim që nuk e hapi ekranin e cilësimit me një çelës të shkurtoreve.\n- Fiksoi urgjentisht një gabim që nuk e mbajti rreshtin e fundit."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Gabim i fiksuar i përplasjes.\n- Fix Bug"
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.3.8 (2023 07 18)\n\n- አቋማዊ ቁልፍን ከአሮጌ ቁልፍ ጋር የማይከፈት ሳንካ በአስቸኳይ ተጠግ.\n- የመጨረሻውን መስመር ያልጠበቀውን ሳንካ በአስቸኳይ ተጠግን."
+    "devnote": "7.3.9 (2023 07 25)\n\n- ቋሚ የስድብ ስህተት.\n- የሳንካ ጥገና"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Parandas kiiresti viga, mis ei avanud otsetee klahviga seadistusekraani.\n- Kiiresti parandas viga, mis ei hoidnud viimast rida."
+    "devnote": "7.3.9 (2023 07 25)\n\n- fikseeritud krahhi viga.\n- veaparandus"
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.3.8 (2023 07 18)\n\n- فوری طور پر ایک بگ طے کیا جس نے شارٹ کٹ کلید کے ساتھ ترتیب کی اسکرین کو نہیں کھولا۔\n- فوری طور پر ایک بگ طے کیا جس نے آخری سطر کو نہیں رکھا۔"
+    "devnote": "7.3.9 (2023 07 25)\n\n- فکسڈ کریش کی خرابی۔\n- بگ فکس"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.3.8 (2023 07 18)\n\n- терміново виправив помилку, яка не відкрила екран налаштування за допомогою клавіші ярлика.\n- терміново виправив помилку, яка не дотримувалася останнього рядка."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Виправлена ​​помилка збої.\n- Виправлення помилок"
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Risolto urgentemente un bug che non ha aperto la schermata di impostazione con un tasto di scelta rapida.\n- Risolto urgentemente un bug che non ha mantenuto l'ultima riga."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Risolto l'errore di crash.\n- risoluzione del problema"
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Segera perbaiki bug yang tidak membuka layar pengaturan dengan kunci pintasan.\n- Segera perbaiki bug yang tidak menyimpan baris terakhir."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Memperbaiki kesalahan crash.\n- perbaikan bug"
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.3.8（2023 07 18）\n\n - ショートカットキーで設定画面を開かなかったバグを緊急に修正しました。\n - 最後のラインを保持しなかったバグを緊急に修正しました。"
+    "devnote": "7.3.9（2023 07 25）\n\n - クラッシュエラーを修正しました。\n- バグ修正"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.3.8 (2023 07 18)\n\n- სასწრაფოდ დააფიქსირა შეცდომა, რომელმაც არ გახსნა პარამეტრის ეკრანი მალსახმობის ღილაკით.\n- სასწრაფოდ დააფიქსირა შეცდომა, რომელიც არ შეინარჩუნა ბოლო ხაზი."
+    "devnote": "7.3.9 (2023 07 25)\n\n- დაფიქსირებული ავარიის შეცდომა.\n- შეცდომის გასწორება"
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Kulungiswe ngokuphuthumayo isiphazamisi esingavuli isikrini sokusetha ngenkinobho enqamulelayo.\n- Kulungiswe ngokuphuthumayo iphutha elingagcinanga umugqa wokugcina."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Iphutha lokuphahlazeka elimisiwe.\n- Ukulungiswa kwe-bug"
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.3.8（2023 07 18）\n\n - 紧急修复了没有使用快捷键打开设置屏幕的错误。\n - 紧急修复了没有保留最后一行的错误。"
+    "devnote": "7.3.9（2023 07 25）\n\n - 修复了崩溃错误。\n - 错误修复"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.3.8（2023 07 18）\n\n - 緊急修復了沒有使用快捷鍵打開設置屏幕的錯誤。\n - 緊急修復了沒有保留最後一行的錯誤。"
+    "devnote": "7.3.9（2023 07 25）\n\n - 修復了崩潰錯誤。\n - 錯誤修復"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.3.8（2023 07 18）\n\n - 緊急修復了沒有使用快捷鍵打開設置屏幕的錯誤。\n - 緊急修復了沒有保留最後一行的錯誤。"
+    "devnote": "7.3.9（2023 07 25）\n\n - 修復了崩潰錯誤。\n - 錯誤修復"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Naléhavě opravena chyba, která neotevřela obrazovku nastavení pomocí klávesy zkratky.\n- Naléhavě opravena chyba, která neudržovala poslední řádek."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Opravená chyba havárie.\n- oprava chyby"
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Шелтеліп, параметрлер экранын төте жолмен ашпаған қате.\n- соңғы жолды сақтамаған қатені жедел түзету."
+    "devnote": "7.3.9 (2023 07 25)\n\n- бекітілген апаттық қателік.\n- қате түзету"
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.3.8 (2023 07 18)\n\n- S'ha corregit urgentment un error que no va obrir la pantalla de configuració amb una tecla de drecera.\n- S'ha corregit urgentment un error que no va mantenir l'última línia."
+    "devnote": "7.3.9 (2023 07 25)\n\n- S'ha corregit un error de xoc.\n- Solució d'errors"
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.3.8 (2023 07 18)\n\n- ಶಾರ್ಟ್‌ಕಟ್ ಕೀಲಿಯೊಂದಿಗೆ ಸೆಟ್ಟಿಂಗ್ ಪರದೆಯನ್ನು ತೆರೆಯದ ದೋಷವನ್ನು ತುರ್ತಾಗಿ ಸರಿಪಡಿಸಲಾಗಿದೆ.\n- ಕೊನೆಯ ಸಾಲನ್ನು ಇಟ್ಟುಕೊಳ್ಳದ ದೋಷವನ್ನು ತುರ್ತಾಗಿ ಸರಿಪಡಿಸಲಾಗಿದೆ."
+    "devnote": "7.3.9 (2023 07 25)\n\n- ಸ್ಥಿರ ಕ್ರ್ಯಾಶ್ ದೋಷ.\n- ದೋಷವನ್ನು ನಿವಾರಿಸಲು"
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.3.8 (2023. 07 18)\n\n- Hitno je ispravljena greška koja nije otvorila zaslon za postavljanje tipkom prečaca.\n- Hitno je ispravljena greška koja nije zadržala posljednji redak."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Popravljena pogreška u sudaru.\n- Popravak pogrešaka"
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.3.8 (2023 07 18)\n\n- ជួសជុលកំហុសជាបន្ទាន់ដែលមិនបានបើកអេក្រង់កំណត់ដោយប្រើគ្រាប់ចុចផ្លូវកាត់។\n- ជួសជុលកំហុសជាបន្ទាន់ដែលមិនបានរក្សាខ្សែចុងក្រោយ។"
+    "devnote": "7.3.9 (2023 07 25)\n\n- កំហុសគាំងថេរ។\n- ជួសជុល​កំហុស"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.3.8 (2027 07 18)\n\n- Тез арада орнотулган экранды кыска жол ачкыч менен ачкан катын оңдолду.\n- Тез арада акыркы сапты сактабаган мүчүлүштүктү бекемдейт."
+    "devnote": "7.3.9 (2027 07 25)\n\n- Кырсык катасы.\n- Bug Fix"
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.3.8 (2023 07 18)\n\n- குறுக்குவழி விசையுடன் அமைப்புத் திரையைத் திறக்காத ஒரு பிழையை அவசரமாக சரி செய்தது.\n- கடைசி வரியை வைத்திருக்காத ஒரு பிழை அவசரமாக சரி செய்யப்பட்டது."
+    "devnote": "7.3.9 (2023 07 25)\n\n- நிலையான செயலிழப்பு பிழை.\n- குறைபாடு திருத்தம்"
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.3.8 (2023 07 18)\n\n- แก้ไขข้อผิดพลาดอย่างเร่งด่วนที่ไม่ได้เปิดหน้าจอการตั้งค่าด้วยคีย์ทางลัด\n- แก้ไขข้อผิดพลาดอย่างเร่งด่วนที่ไม่ได้เก็บบรรทัดสุดท้าย"
+    "devnote": "7.3.9 (2023 07 25)\n\n- แก้ไขข้อผิดพลาดข้อผิดพลาด\n- แก้ไขข้อบกพร่อง"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Acilen ayar ekranını bir kısayol anahtarıyla açmayan bir hatayı düzeltti.\n- Son satırı tutmayan bir hatayı acilen düzeltti."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Sabit çarpışma hatası.\n- Hata düzeltmesi"
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.3.8 (2023 07 18)\n\n- సత్వరమార్గం కీతో సెట్టింగ్ స్క్రీన్‌ను తెరవని బగ్‌ను అత్యవసరంగా పరిష్కరించారు.\n- చివరి పంక్తిని ఉంచని బగ్‌ను అత్యవసరంగా పరిష్కరించారు."
+    "devnote": "7.3.9 (2023 07 25)\n\n- స్థిర క్రాష్ లోపం.\n- తప్పిదాన్ని పరిష్కరించు"
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.3.8 (2023 07 18)\n\n- ਤੁਰੰਤ ਇੱਕ ਬੱਗ ਹੱਲ ਕੀਤਾ ਗਿਆ ਜੋ ਸ਼ਾਰਟਕੱਟ ਕੁੰਜੀ ਦੇ ਨਾਲ ਸੈਟਿੰਗ ਸਕ੍ਰੀਨ ਨੂੰ ਨਹੀਂ ਖੋਲ੍ਹਿਆ.\n- ਤੁਰੰਤ ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਜੋ ਆਖਰੀ ਲਾਈਨ ਨਹੀਂ ਰੱਖਦਾ."
+    "devnote": "7.3.9 (2023 07 25)\n\n- ਸਥਿਰ ਕਰੈਸ਼ ਗਲਤੀ.\n- ਬੱਗ ਫਿਕਸ"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.3.8 (2023 07 18)\n\n- فوراً اشکالی را برطرف کرد که صفحه تنظیم را با کلید میانبر باز نکرد.\n- فوری اشکالی را که آخرین خط را حفظ نکرد ، برطرف کرد."
+    "devnote": "7.3.9 (2023 07 25)\n\n- خطای تصادف ثابت.\n- رفع اشکال"
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Corrigido urgentemente um bug que não abriu a tela de configuração com uma tecla de atalho.\n- Corrigido urgentemente um bug que não manteve a última linha."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Erro corrigido de falha.\n- Correção de bug"
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Pilnie naprawiał błąd, który nie otworzył ekranu ustawienia za pomocą klawisza skrótów.\n- Pilnie naprawiał błąd, który nie zachował ostatniej linii."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Naprawiono błąd awarii.\n- naprawa błędów"
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Correction d'un bug d'urgence qui n'a pas ouvert l'écran de réglage avec une touche de raccourci.\n- Correction d'un bug urgent qui n'a pas conservé la dernière ligne."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Correction d'une erreur de crash.\n- correction d'un bug"
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Korjattu kiireellisesti virhe, joka ei avannut asetusnäyttöä pikanäppäimellä.\n- Korjattu kiireellisesti virhe, joka ei pitänyt viimeistä riviä."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Korjattu kaatumisvirhe.\n- Bugin korjaus"
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Agarang naayos ang isang bug na hindi binuksan ang setting ng screen na may isang shortcut key.\n- Agarang naayos ang isang bug na hindi pinapanatili ang huling linya."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Nakapirming error sa pag -crash.\n- Pag -aayos ng Bug"
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.3.8 (2023 07 18)\n\n- Sürgősen javítson meg egy hibát, amely nem nyitotta meg a beállítási képernyőt egy parancsikon gomb segítségével.\n- Sürgősen javítson egy hibát, amely nem tartotta meg az utolsó sort."
+    "devnote": "7.3.9 (2023 07 25)\n\n- Rögzített ütközési hiba.\n- hibajavítás"
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.3.8 (2023 07 18)\n\n- תיקן בדחיפות באג שלא פתח את מסך ההגדרה עם מקש קיצור דרך.\n- תוקן בדחיפות באג שלא שמר על השורה האחרונה."
+    "devnote": "7.3.9 (2023 07 25)\n\n- שגיאת התרסקות קבועה.\n- תיקון באגים"
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.3.8 (2023 07 18)\n\n- तत्काल एक बग तय किया जो शॉर्टकट कुंजी के साथ सेटिंग स्क्रीन नहीं खोला।\n- तत्काल एक बग तय किया जो अंतिम पंक्ति नहीं रखता था।"
+    "devnote": "7.3.9 (2023 07 25)\n\n- फिक्स्ड क्रैश त्रुटि।\n- कीड़ा जंजाल"
   }
 }
