@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.4.1 (2023 08 09)\n\n- Modified the location movement UI. \n- Changed the maximum number of pages from 30,000 to 60,000.\n- Modified to display the year, month, and day in the history.\n- Added font source.\n- The height of the location movement, search, and bookmark functions has been fixed.\n- Fixed several errors."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Modified the location movement UI. \n- Changed the maximum number of pages from 30,000 to 60,000.\n- Modified to display the year, month, and day in the history.\n- Added font source.\n- The height of the location movement, search, and bookmark functions has been fixed.\n- Fixed several errors."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.4.0 (2023 08 08)\n\n- 위치이동 UI 를 수정 하였습니다. \n- 최대 보유 페이지 수를 3만 에서 6만으로 변경 하였습니다. \n- 히스토리에 년,월,일 을  표시하도록 수정 하였습니다.\n- 폰트 출처 를 추가 하였습니다.  \n- 위치이동, 검색 , 북마크 기능의 높이를 고정 하였습니다. \n- 여러 오류를 수정 하였습니다."
+    "devnote": "7.4.2 (2023 08 09)\n\n- 위치이동 UI 를 수정 하였습니다. \n- 최대 보유 페이지 수를 3만 에서 6만으로 변경 하였습니다. \n- 히스토리에 년,월,일 을  표시하도록 수정 하였습니다.\n- 폰트 출처 를 추가 하였습니다.  \n- 위치이동, 검색 , 북마크 기능의 높이를 고정 하였습니다. \n- 여러 오류를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Cambiou o número máximo de páxinas de 30.000 a 60.000.\n- Modificado para mostrar o ano, o mes e o día da historia.\n- Fonte de letra engadida.\n- Fixouse a altura do movemento de localización, a busca e as funcións de marcadores.\n- Fixouse varios erros."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Cambiou o número máximo de páxinas de 30.000 a 60.000.\n- Modificado para mostrar o ano, o mes e o día da historia.\n- Fonte de letra engadida.\n- Fixouse a altura do movemento de localización, a busca e as funcións de marcadores.\n- Fixouse varios erros."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.4.0 (2023 08 08)\n\n- મહત્તમ પૃષ્ઠોને 30,000 થી 60,000 માં બદલ્યા.\n- ઇતિહાસમાં વર્ષ, મહિનો અને દિવસ પ્રદર્શિત કરવા માટે સંશોધિત.\n- ફ ont ન્ટ સ્રોત ઉમેર્યું.\n- સ્થાન ચળવળ, શોધ અને બુકમાર્ક કાર્યોની height ંચાઇ નિશ્ચિત કરવામાં આવી છે.\n- ઘણી ભૂલો નિશ્ચિત."
+    "devnote": "7.4.2 (2023 08 09)\n\n- મહત્તમ પૃષ્ઠોને 30,000 થી 60,000 માં બદલ્યા.\n- ઇતિહાસમાં વર્ષ, મહિનો અને દિવસ પ્રદર્શિત કરવા માટે સંશોધિત.\n- ફ ont ન્ટ સ્રોત ઉમેર્યું.\n- સ્થાન ચળવળ, શોધ અને બુકમાર્ક કાર્યોની height ંચાઇ નિશ્ચિત કરવામાં આવી છે.\n- ઘણી ભૂલો નિશ્ચિત."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.4.0 (2023 08 08)\n\n- άλλαξε τον μέγιστο αριθμό σελίδων από 30.000 σε 60.000.\n- Τροποποιήθηκε για την εμφάνιση του έτους, του μήνα και της ημέρας στην ιστορία.\n- Προστέθηκε πηγή γραμματοσειράς.\n- Το ύψος της κίνησης, η αναζήτηση και οι λειτουργίες σελιδοδεικτών έχουν καθοριστεί.\n- Διορθώθηκε διάφορα σφάλματα."
+    "devnote": "7.4.2 (2023 08 09)\n\n- άλλαξε τον μέγιστο αριθμό σελίδων από 30.000 σε 60.000.\n- Τροποποιήθηκε για την εμφάνιση του έτους, του μήνα και της ημέρας στην ιστορία.\n- Προστέθηκε πηγή γραμματοσειράς.\n- Το ύψος της κίνησης, η αναζήτηση και οι λειτουργίες σελιδοδεικτών έχουν καθοριστεί.\n- Διορθώθηκε διάφορα σφάλματα."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Het maximale aantal pagina's gewijzigd van 30.000 tot 60.000.\n- aangepast om het jaar, de maand en de dag in de geschiedenis weer te geven.\n- Lettertype -bron toegevoegd.\n- De hoogte van de locatiebeweging-, zoek- en bladwijzerfuncties is opgelost.\n- Verschillende fouten opgelost."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Het maximale aantal pagina's gewijzigd van 30.000 tot 60.000.\n- aangepast om het jaar, de maand en de dag in de geschiedenis weer te geven.\n- Lettertype -bron toegevoegd.\n- De hoogte van de locatiebeweging-, zoek- en bladwijzerfuncties is opgelost.\n- Verschillende fouten opgelost."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": ".4..4.0 (2023 08 08 08)\n\n-, 0000,000 देखि, 0000,000 सम्म पृष्ठको अधिकतम संख्या परिवर्तन भयो।\n- इतिहासमा वर्ष, महिना, र दिन प्रदर्शन गर्न परिमार्जन गरियो।\n- फन्ट स्रोत थपियो।\n- स्थान आन्दोलनको उचाई, खोज, र बुकमार्क कार्यहरू स्थिर गरिएको छ।\n- धेरै त्रुटिहरू तय गरियो।"
+    "devnote": "7.4.2 (2023 08 09)\n\n-, 0000,000 देखि, 0000,000 सम्म पृष्ठको अधिकतम संख्या परिवर्तन भयो।\n- इतिहासमा वर्ष, महिना, र दिन प्रदर्शन गर्न परिमार्जन गरियो।\n- फन्ट स्रोत थपियो।\n- स्थान आन्दोलनको उचाई, खोज, र बुकमार्क कार्यहरू स्थिर गरिएको छ।\n- धेरै त्रुटिहरू तय गरियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Endret maksimalt antall sider fra 30 000 til 60 000.\n- Endret for å vise år, måned og dag i historien.\n- Lagt til fontkilde.\n- Høyden på lokasjonsbevegelsen, søk og bokmerkefunksjonene er fikset.\n- Fikset flere feil."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Endret maksimalt antall sider fra 30 000 til 60 000.\n- Endret for å vise år, måned og dag i historien.\n- Lagt til fontkilde.\n- Høyden på lokasjonsbevegelsen, søk og bokmerkefunksjonene er fikset.\n- Fikset flere feil."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Ændrede det maksimale antal sider fra 30.000 til 60.000.\n- Ændret til at vise året, måneden og dagen i historien.\n- Tilføjet fontkilde.\n- Højden på placeringsbevægelsen, søgning og bogmærkefunktioner er fastlagt.\n- Rettet flere fejl."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Ændrede det maksimale antal sider fra 30.000 til 60.000.\n- Ændret til at vise året, måneden og dagen i historien.\n- Tilføjet fontkilde.\n- Højden på placeringsbevægelsen, søgning og bogmærkefunktioner er fastlagt.\n- Rettet flere fejl."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Die maximale Anzahl von Seiten von 30.000 auf 60.000 geändert.\n- Modifiziert, um das Jahr, den Monat und den Tag in der Geschichte anzuzeigen.\n- Schriftart Quelle hinzugefügt.\n- Die Höhe der Standortbewegungs-, Suche und Lesezeichenfunktionen wurde festgelegt.\n- Mehrere Fehler behoben."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Die maximale Anzahl von Seiten von 30.000 auf 60.000 geändert.\n- Modifiziert, um das Jahr, den Monat und den Tag in der Geschichte anzuzeigen.\n- Schriftart Quelle hinzugefügt.\n- Die Höhe der Standortbewegungs-, Suche und Lesezeichenfunktionen wurde festgelegt.\n- Mehrere Fehler behoben."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.4.0 (2023 08 08)\n\n- ປ່ຽນຈໍານວນຫນ້າສູງສຸດຈາກ 30,000 ຫາ 60,000.\n- ດັດແກ້ເພື່ອສະແດງປີ, ເດືອນ, ແລະມື້ໃນປະຫວັດສາດ.\n- ແຫຼ່ງຕົວອັກສອນເພີ່ມ.\n- ລະດັບຄວາມສູງຂອງການເຄື່ອນໄຫວສະຖານທີ່, ຄົ້ນຫາ, ແລະຫນ້າທີ່ Bookmark ໄດ້ຖືກແກ້ໄຂແລ້ວ.\n- ແກ້ໄຂຂໍ້ຜິດພາດຫຼາຍຢ່າງ."
+    "devnote": "7.4.2 (2023 08 09)\n\n- ປ່ຽນຈໍານວນຫນ້າສູງສຸດຈາກ 30,000 ຫາ 60,000.\n- ດັດແກ້ເພື່ອສະແດງປີ, ເດືອນ, ແລະມື້ໃນປະຫວັດສາດ.\n- ແຫຼ່ງຕົວອັກສອນເພີ່ມ.\n- ລະດັບຄວາມສູງຂອງການເຄື່ອນໄຫວສະຖານທີ່, ຄົ້ນຫາ, ແລະຫນ້າທີ່ Bookmark ໄດ້ຖືກແກ້ໄຂແລ້ວ.\n- ແກ້ໄຂຂໍ້ຜິດພາດຫຼາຍຢ່າງ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Mainīja maksimālo lappušu skaitu no 30 000 līdz 60 000.\n- Modificēts, lai parādītu gadu, mēnesi un dienu vēsturē.\n- pievienots fonta avots.\n- Ir noteikts atrašanās vietas kustības, meklēšanas un grāmatzīmju funkciju augstums.\n- Fiksētas vairākas kļūdas."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Mainīja maksimālo lappušu skaitu no 30 000 līdz 60 000.\n- Modificēts, lai parādītu gadu, mēnesi un dienu vēsturē.\n- pievienots fonta avots.\n- Ir noteikts atrašanās vietas kustības, meklēšanas un grāmatzīmju funkciju augstums.\n- Fiksētas vairākas kļūdas."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Изменил максимальное количество страниц с 30 000 до 60 000.\n- Модифицировано, чтобы показать год, месяц и день в истории.\n- Добавлен источник шрифта.\n- Высота функций движения, поиска и закладок была исправлена.\n- Исправлены несколько ошибок."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Изменил максимальное количество страниц с 30 000 до 60 000.\n- Модифицировано, чтобы показать год, месяц и день в истории.\n- Добавлен источник шрифта.\n- Высота функций движения, поиска и закладок была исправлена.\n- Исправлены несколько ошибок."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.4.0 (2023 08 08)\n\n- a modificat numărul maxim de pagini de la 30.000 la 60.000.\n- Modificat pentru a afișa anul, luna și ziua din istorie.\n- Sursa de font adăugată.\n- Înălțimea funcțiilor de mișcare a locației, căutare și marcaj a fost fixată.\n- S -a rezolvat mai multe erori."
+    "devnote": "7.4.2 (2023 08 09)\n\n- a modificat numărul maxim de pagini de la 30.000 la 60.000.\n- Modificat pentru a afișa anul, luna și ziua din istorie.\n- Sursa de font adăugată.\n- Înălțimea funcțiilor de mișcare a locației, căutare și marcaj a fost fixată.\n- S -a rezolvat mai multe erori."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Pakeitė maksimalų puslapių skaičių nuo 30 000 iki 60 000.\n- Modifikuota, kad būtų rodomi metai, mėnuo ir diena istorijoje.\n- Pridėtas šrifto šaltinis.\n- Ištaisyta vietos judėjimo, paieškos ir žymių funkcijų aukštis.\n- Ištaisytas keletą klaidų."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Pakeitė maksimalų puslapių skaičių nuo 30 000 iki 60 000.\n- Modifikuota, kad būtų rodomi metai, mėnuo ir diena istorijoje.\n- Pridėtas šrifto šaltinis.\n- Ištaisyta vietos judėjimo, paieškos ir žymių funkcijų aukštis.\n- Ištaisytas keletą klaidų."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.4.0 (2023 08 08)\n\n- पृष्ठांची जास्तीत जास्त संख्या 30,000 वरून 60,000 पर्यंत बदलली.\n- इतिहासातील वर्ष, महिना आणि दिवस प्रदर्शित करण्यासाठी सुधारित.\n- फॉन्ट स्त्रोत जोडला.\n- स्थान हालचाली, शोध आणि बुकमार्क फंक्शन्सची उंची निश्चित केली गेली आहे.\n- अनेक त्रुटी निश्चित केल्या."
+    "devnote": "7.4.2 (2023 08 09)\n\n- पृष्ठांची जास्तीत जास्त संख्या 30,000 वरून 60,000 पर्यंत बदलली.\n- इतिहासातील वर्ष, महिना आणि दिवस प्रदर्शित करण्यासाठी सुधारित.\n- फॉन्ट स्त्रोत जोडला.\n- स्थान हालचाली, शोध आणि बुकमार्क फंक्शन्सची उंची निश्चित केली गेली आहे.\n- अनेक त्रुटी निश्चित केल्या."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.4.0 (2023 08 08)\n\n- го смени максималниот број на страници од 30.000 на 60,000.\n- Изменето за прикажување на годината, месецот и денот во историјата.\n- Додаден извор на фонт.\n- Висината на функциите за движење, пребарување и обележувачи е фиксна.\n- Поправи неколку грешки."
+    "devnote": "7.4.2 (2023 08 09)\n\n- го смени максималниот број на страници од 30.000 на 60,000.\n- Изменето за прикажување на годината, месецот и денот во историјата.\n- Додаден извор на фонт.\n- Висината на функциите за движење, пребарување и обележувачи е фиксна.\n- Поправи неколку грешки."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.4.0 (2023 08 08)\n\n- 30,000 മുതൽ 60,000 വരെ പേജുകൾ മാറ്റി.\n- ചരിത്രത്തിലെ വർഷം, മാസം, ദിവസം എന്നിവ പ്രദർശിപ്പിക്കുന്നതിന് പരിഷ്ക്കരിച്ചു.\n- ഫോണ്ട് ഉറവിടം ചേർത്തു.\n- ലൊക്കേഷൻ മൂവ്മെന്റ്, തിരയൽ, ബുക്ക്മാർക്ക് പ്രവർത്തനങ്ങൾ എന്നിവയുടെ ഉയരം പരിഹരിച്ചു.\n- നിരവധി പിശകുകൾ പരിഹരിച്ചു."
+    "devnote": "7.4.2 (2023 08 09)\n\n- 30,000 മുതൽ 60,000 വരെ പേജുകൾ മാറ്റി.\n- ചരിത്രത്തിലെ വർഷം, മാസം, ദിവസം എന്നിവ പ്രദർശിപ്പിക്കുന്നതിന് പരിഷ്ക്കരിച്ചു.\n- ഫോണ്ട് ഉറവിടം ചേർത്തു.\n- ലൊക്കേഷൻ മൂവ്മെന്റ്, തിരയൽ, ബുക്ക്മാർക്ക് പ്രവർത്തനങ്ങൾ എന്നിവയുടെ ഉയരം പരിഹരിച്ചു.\n- നിരവധി പിശകുകൾ പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Mengubah bilangan maksimum halaman dari 30,000 hingga 60,000.\n- Diubahsuai untuk memaparkan tahun, bulan, dan hari dalam sejarah.\n- Menambah sumber fon.\n- Ketinggian pergerakan lokasi, carian, dan penanda buku telah ditetapkan.\n- Memperbaiki beberapa kesilapan."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Mengubah bilangan maksimum halaman dari 30,000 hingga 60,000.\n- Diubahsuai untuk memaparkan tahun, bulan, dan hari dalam sejarah.\n- Menambah sumber fon.\n- Ketinggian pergerakan lokasi, carian, dan penanda buku telah ditetapkan.\n- Memperbaiki beberapa kesilapan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.4.0 (2023 08 08)\n\n- 30,000-аас 60,000-аас 60,000 хуудасны дээд хэмжээг өөрчилсөн.\n- Жил, сар, сар, түүхэн дэх өдөр.\n- Фонтын эх сурвалжийг нэмсэн.\n- Байршлын хөдөлгөөний өндөр, Хайлт, Хайлтын функцийг зассан байна.\n- хэд хэдэн алдааг зассан."
+    "devnote": "7.4.2 (2023 08 09)\n\n- 30,000-аас 60,000-аас 60,000 хуудасны дээд хэмжээг өөрчилсөн.\n- Жил, сар, сар, түүхэн дэх өдөр.\n- Фонтын эх сурвалжийг нэмсэн.\n- Байршлын хөдөлгөөний өндөр, Хайлт, Хайлтын функцийг зассан байна.\n- хэд хэдэн алдааг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.4.0 (2023 08 08)\n\n- 30.000tik 60.000 bitarteko orrialde kopurua aldatu da.\n- Historian urtea, hilabetea eta eguna erakusteko aldatua.\n- Gehitutako letra-iturria.\n- Kokapenaren mugimenduaren, bilaketa eta laster-markaren funtzioak konpondu dira.\n- Hainbat akats konpondu ditu."
+    "devnote": "7.4.2 (2023 08 09)\n\n- 30.000tik 60.000 bitarteko orrialde kopurua aldatu da.\n- Historian urtea, hilabetea eta eguna erakusteko aldatua.\n- Gehitutako letra-iturria.\n- Kokapenaren mugimenduaren, bilaketa eta laster-markaren funtzioak konpondu dira.\n- Hainbat akats konpondu ditu."
   },
   "버마어": {
     "key": "my",
-    "devnote": "72.0 (2023 08 08)\n\n- စာမျက်နှာ 30,000 မှ 60000 မှစာမျက်နှာများအများဆုံးအရေအတွက်ကိုပြောင်းလဲခဲ့သည်။\n- သမိုင်းတွင်တစ်နှစ်, လနှင့်နေ့ကိုပြသရန်ပြင်ဆင်ထားသည်။\n- ထည့်သွင်းဖောင့်အရင်းအမြစ်။\n- တည်နေရာလှုပ်ရှားမှုအမြင့်, ရှာဖွေခြင်းနှင့် bookmark လုပ်ဆောင်ချက်များကိုပြင်ဆင်ခြင်းကိုပြင်ဆင်ထားသည်။\n- အမှားအယွင်းများစွာကိုသတ်မှတ်သည်။"
+    "devnote": "7.4.2 (2023 08 09)\n\n- စာမျက်နှာ 30,000 မှ 60000 မှစာမျက်နှာများအများဆုံးအရေအတွက်ကိုပြောင်းလဲခဲ့သည်။\n- သမိုင်းတွင်တစ်နှစ်, လနှင့်နေ့ကိုပြသရန်ပြင်ဆင်ထားသည်။\n- ထည့်သွင်းဖောင့်အရင်းအမြစ်။\n- တည်နေရာလှုပ်ရှားမှုအမြင့်, ရှာဖွေခြင်းနှင့် bookmark လုပ်ဆောင်ချက်များကိုပြင်ဆင်ခြင်းကိုပြင်ဆင်ထားသည်။\n- အမှားအယွင်းများစွာကိုသတ်မှတ်သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Thay đổi số lượng trang tối đa từ 30.000 đến 60.000.\n- Sửa đổi để hiển thị năm, tháng và ngày trong lịch sử.\n- Đã thêm nguồn phông chữ.\n- Chiều cao của chuyển động vị trí, tìm kiếm và các chức năng đánh dấu đã được sửa chữa.\n- Đã sửa một số lỗi."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Thay đổi số lượng trang tối đa từ 30.000 đến 60.000.\n- Sửa đổi để hiển thị năm, tháng và ngày trong lịch sử.\n- Đã thêm nguồn phông chữ.\n- Chiều cao của chuyển động vị trí, tìm kiếm và các chức năng đánh dấu đã được sửa chữa.\n- Đã sửa một số lỗi."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Змяніла максімальную колькасць старонак з 30 000 да 60 000.\n- Мадыфікавана для адлюстравання года, месяца і дня ў гісторыі.\n- Дададзены крыніца шрыфта.\n- Вышыня функцый руху, пошуку, пошуку і закладкі была зафіксавана.\n- Выпраўлена некалькі памылак."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Змяніла максімальную колькасць старонак з 30 000 да 60 000.\n- Мадыфікавана для адлюстравання года, месяца і дня ў гісторыі.\n- Дададзены крыніца шрыфта.\n- Вышыня функцый руху, пошуку, пошуку і закладкі была зафіксавана.\n- Выпраўлена некалькі памылак."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.4.0 (2023 08 08)\n\n- 30,000 থেকে 60,000 থেকে সর্বাধিক পৃষ্ঠাগুলি পরিবর্তন করেছে।\n- ইতিহাসে বছর, মাস এবং দিন প্রদর্শন করতে পরিবর্তিত।\n- যুক্ত ফন্ট উত্স।\n- অবস্থান আন্দোলন, অনুসন্ধান এবং বুকমার্ক ফাংশনগুলির উচ্চতা স্থির করা হয়েছে।\n- বেশ কয়েকটি ত্রুটি স্থির করে।"
+    "devnote": "7.4.2 (2023 08 09)\n\n- 30,000 থেকে 60,000 থেকে সর্বাধিক পৃষ্ঠাগুলি পরিবর্তন করেছে।\n- ইতিহাসে বছর, মাস এবং দিন প্রদর্শন করতে পরিবর্তিত।\n- যুক্ত ফন্ট উত্স।\n- অবস্থান আন্দোলন, অনুসন্ধান এবং বুকমার্ক ফাংশনগুলির উচ্চতা স্থির করা হয়েছে।\n- বেশ কয়েকটি ত্রুটি স্থির করে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Промени максималния брой страници от 30 000 на 60 000.\n- Модифициран за показване на годината, месец и ден в историята.\n- Добавен източник на шрифтове.\n- Функциите на височината на движението, търсенето и отметките са фиксирани.\n- Фиксирани няколко грешки."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Промени максималния брой страници от 30 000 на 60 000.\n- Модифициран за показване на годината, месец и ден в историята.\n- Добавен източник на шрифтове.\n- Функциите на височината на движението, търсенето и отметките са фиксирани.\n- Фиксирани няколко грешки."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Променио је максимални број страница са 30.000 на 60.000.\n- Модификовано да би се приказала у години, месец и дан у историји.\n- Додан извор фонта.\n- Поправљена је висина покрета Покрета, претраге и обележивача.\n- Поправљено је неколико грешака."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Променио је максимални број страница са 30.000 на 60.000.\n- Модификовано да би се приказала у години, месец и дан у историји.\n- Додан извор фонта.\n- Поправљена је висина покрета Покрета, претраге и обележивача.\n- Поправљено је неколико грешака."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Ilibadilisha idadi kubwa ya kurasa kutoka 30,000 hadi 60,000.\n- Iliyorekebishwa kuonyesha mwaka, mwezi, na siku katika historia.\n- Chanzo cha font kilichoongezwa.\n- Urefu wa harakati za eneo, utaftaji, na kazi za alamisho zimerekebishwa.\n- Zisizohamishika makosa kadhaa."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Ilibadilisha idadi kubwa ya kurasa kutoka 30,000 hadi 60,000.\n- Iliyorekebishwa kuonyesha mwaka, mwezi, na siku katika historia.\n- Chanzo cha font kilichoongezwa.\n- Urefu wa harakati za eneo, utaftaji, na kazi za alamisho zimerekebishwa.\n- Zisizohamishika makosa kadhaa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Ändrade det maximala antalet sidor från 30 000 till 60 000.\n- Modifierad för att visa år, månad och dag i historien.\n- Tillagd teckensnittskälla.\n- Höjden på platsens rörelse, sökning och bokmärkesfunktioner har fixats.\n- Fixade flera fel."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Ändrade det maximala antalet sidor från 30 000 till 60 000.\n- Modifierad för att visa år, månad och dag i historien.\n- Tillagd teckensnittskälla.\n- Höjden på platsens rörelse, sökning och bokmärkesfunktioner har fixats.\n- Fixade flera fel."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Cambió el número máximo de páginas de 30,000 a 60,000.\n- Modificado para mostrar el año, el mes y el día en la historia.\n- Fuente de fuente agregada.\n- Se ha solucionado la altura de las funciones de movimiento, búsqueda y marcador de ubicación.\n- Se corrigieron varios errores."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Cambió el número máximo de páginas de 30,000 a 60,000.\n- Modificado para mostrar el año, el mes y el día en la historia.\n- Fuente de fuente agregada.\n- Se ha solucionado la altura de las funciones de movimiento, búsqueda y marcador de ubicación.\n- Se corrigieron varios errores."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Zmenil maximálny počet strán z 30 000 na 60 000.\n- upravené tak, aby sa zobrazoval rok, mesiac a deň v histórii.\n- Pridaný zdroj písma.\n- Výška funkcií pohybu polohy, vyhľadávania a záložiek bola opravená.\n- Opravené niekoľko chýb."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Zmenil maximálny počet strán z 30 000 na 60 000.\n- upravené tak, aby sa zobrazoval rok, mesiac a deň v histórii.\n- Pridaný zdroj písma.\n- Výška funkcií pohybu polohy, vyhľadávania a záložiek bola opravená.\n- Opravené niekoľko chýb."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Spremenil je največje število strani s 30.000 na 60.000.\n- Spremenjeno tako, da prikaže leto, mesec in dan v zgodovini.\n- Dodan vir pisave.\n- Odpravljena je višina gibanja lokacije, iskanja in zaznamkov.\n- Odpravljeno več napak."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Spremenil je največje število strani s 30.000 na 60.000.\n- Spremenjeno tako, da prikaže leto, mesec in dan v zgodovini.\n- Dodan vir pisave.\n- Odpravljena je višina gibanja lokacije, iskanja in zaznamkov.\n- Odpravljeno več napak."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.4.0 (2023 08 08)\n\n- උපරිම පිටු 30,000 සිට 60,000 දක්වා වෙනස් කරන ලදි.\n- ඉතිහාසයේ වර්ෂය, මාසය සහ දිවා ප්රදර්ශනය කිරීම සඳහා වෙනස් කරන ලදි.\n- අකුරු ප්රභවයක් එක් කරන ලදි.\n- ස්ථාන ව්යාපාරය, සෙවීම සහ පොත් සලකුණු කරන ලද කාර්යයන්හි උස සවි කර ඇත.\n- දෝෂ කිහිපයක් සවි කර ඇත."
+    "devnote": "7.4.2 (2023 08 09)\n\n- උපරිම පිටු 30,000 සිට 60,000 දක්වා වෙනස් කරන ලදි.\n- ඉතිහාසයේ වර්ෂය, මාසය සහ දිවා ප්රදර්ශනය කිරීම සඳහා වෙනස් කරන ලදි.\n- අකුරු ප්රභවයක් එක් කරන ලදි.\n- ස්ථාන ව්යාපාරය, සෙවීම සහ පොත් සලකුණු කරන ලද කාර්යයන්හි උස සවි කර ඇත.\n- දෝෂ කිහිපයක් සවි කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.4.0 (2023 08 08)\n\n- غيرت الحد الأقصى لعدد الصفحات من 30،000 إلى 60،000.\n- تم تعديله لعرض السنة والشهر واليوم في التاريخ.\n- أضاف مصدر الخط.\n- تم إصلاح ارتفاع حركة الموقع ، والبحث ، ووظائف الإشارة المرجعية.\n- إصلاح عدة أخطاء."
+    "devnote": "7.4.2 (2023 08 09)\n\n- غيرت الحد الأقصى لعدد الصفحات من 30،000 إلى 60،000.\n- تم تعديله لعرض السنة والشهر واليوم في التاريخ.\n- أضاف مصدر الخط.\n- تم إصلاح ارتفاع حركة الموقع ، والبحث ، ووظائف الإشارة المرجعية.\n- إصلاح عدة أخطاء."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.4.0 (2023 08 08)\n\n- 30,000-ից 60,000 էջերի առավելագույն քանակը փոխեց:\n- Պատմության տարին, ամիսը եւ օրը ցուցադրելու համար փոփոխված է:\n- Ավելացված տառատեսակի աղբյուր:\n- Տեղադրության շարժման, որոնման եւ էջանիշի գործառույթների բարձրությունը սահմանվել է:\n- Հաստատեց մի քանի սխալներ:"
+    "devnote": "7.4.2 (2023 08 09)\n\n- 30,000-ից 60,000 էջերի առավելագույն քանակը փոխեց:\n- Պատմության տարին, ամիսը եւ օրը ցուցադրելու համար փոփոխված է:\n- Ավելացված տառատեսակի աղբյուր:\n- Տեղադրության շարժման, որոնման եւ էջանիշի գործառույթների բարձրությունը սահմանվել է:\n- Հաստատեց մի քանի սխալներ:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Breytti hámarksfjölda blaðsíðna úr 30.000 í 60.000.\n- Breytt til að sýna árið, mánuð og dag í sögu.\n- Bætt við leturgjafa.\n- Hæð staðsetningarhreyfingar, leitar og bókamerkjaaðgerðir hefur verið lagað.\n- Lagaði nokkrar villur."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Breytti hámarksfjölda blaðsíðna úr 30.000 í 60.000.\n- Breytt til að sýna árið, mánuð og dag í sögu.\n- Bætt við leturgjafa.\n- Hæð staðsetningarhreyfingar, leitar og bókamerkjaaðgerðir hefur verið lagað.\n- Lagaði nokkrar villur."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Səhifələrin maksimum sayını 30.000 ilə 60.000 arasında dəyişdi.\n- Tarixdə il, ay və gününü göstərmək üçün dəyişdirilmişdir.\n- Şrift mənbəyi əlavə edildi.\n- Yer hərəkətinin, axtarış və əlfəcin funksiyalarının hündürlüyü sabitləndi.\n- Bir neçə səhv düzəldildi."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Səhifələrin maksimum sayını 30.000 ilə 60.000 arasında dəyişdi.\n- Tarixdə il, ay və gününü göstərmək üçün dəyişdirilmişdir.\n- Şrift mənbəyi əlavə edildi.\n- Yer hərəkətinin, axtarış və əlfəcin funksiyalarının hündürlüyü sabitləndi.\n- Bir neçə səhv düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Die maksimum aantal bladsye van 30.000 na 60.000 verander.\n- Gewysig om die jaar, maand en dag in die geskiedenis te vertoon.\n- Font Source bygevoeg.\n- Die hoogte van die liggingsbeweging, soek- en boekmerkfunksies is reggestel.\n- Verskeie foute opgelos."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Die maksimum aantal bladsye van 30.000 na 60.000 verander.\n- Gewysig om die jaar, maand en dag in die geskiedenis te vertoon.\n- Font Source bygevoeg.\n- Die hoogte van die liggingsbeweging, soek- en boekmerkfunksies is reggestel.\n- Verskeie foute opgelos."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Ndryshuar numrin maksimal të faqeve nga 30,000 në 60,000.\n- Modifikuar për të shfaqur vitin, muajin dhe ditën në histori.\n- Shtuar burimin e shkronjave.\n- Lartësia e funksioneve të lëvizjes së vendndodhjes, kërkimit dhe faqerojtësve është fiksuar.\n- Fiksuar disa gabime."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Ndryshuar numrin maksimal të faqeve nga 30,000 në 60,000.\n- Modifikuar për të shfaqur vitin, muajin dhe ditën në histori.\n- Shtuar burimin e shkronjave.\n- Lartësia e funksioneve të lëvizjes së vendndodhjes, kërkimit dhe faqerojtësve është fiksuar.\n- Fiksuar disa gabime."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.4.0 (2023 08 08)\n\n- ከፍተኛውን ገጾች ከ 30,000 እስከ 60,000 ያዙሩ.\n- በታሪክ ውስጥ ዓመቱን, ወር እና ቀን ለማሳየት ተሻሽሏል.\n- የታተመ የቅርጸ-ቁምፊ ምንጭ.\n- የአካባቢው እንቅስቃሴ, ፍለጋ እና የዕልባት ተግባራት ቁመት ተስተካክለዋል.\n- በርካታ ስህተቶችን ተጠግኗል."
+    "devnote": "7.4.2 (2023 08 09)\n\n- ከፍተኛውን ገጾች ከ 30,000 እስከ 60,000 ያዙሩ.\n- በታሪክ ውስጥ ዓመቱን, ወር እና ቀን ለማሳየት ተሻሽሏል.\n- የታተመ የቅርጸ-ቁምፊ ምንጭ.\n- የአካባቢው እንቅስቃሴ, ፍለጋ እና የዕልባት ተግባራት ቁመት ተስተካክለዋል.\n- በርካታ ስህተቶችን ተጠግኗል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.4.0 (2023 08 08)\n\n- muutis lehtede maksimaalset arvu 30 000 -lt 60 000 -le.\n- Muudetud aja ajaloos, kuu ja päeva kuvamiseks.\n- lisatud fondi allikas.\n- Asukoha liikumise, otsingu- ja järjehoidjate funktsioonide kõrgus on parandatud.\n- Parandatud mitu viga."
+    "devnote": "7.4.2 (2023 08 09)\n\n- muutis lehtede maksimaalset arvu 30 000 -lt 60 000 -le.\n- Muudetud aja ajaloos, kuu ja päeva kuvamiseks.\n- lisatud fondi allikas.\n- Asukoha liikumise, otsingu- ja järjehoidjate funktsioonide kõrgus on parandatud.\n- Parandatud mitu viga."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.4.0 (2023 08 08)\n\n- صفحات کی زیادہ سے زیادہ تعداد کو 30،000 سے 60،000 میں تبدیل کردیا۔\n- تاریخ میں سال ، مہینہ اور دن کو ظاہر کرنے کے لئے ترمیم کی گئی۔\n- فونٹ ماخذ شامل کیا گیا۔\n- مقام کی نقل و حرکت ، تلاش ، اور بک مارک افعال کی اونچائی طے کی گئی ہے۔\n- متعدد غلطیاں طے کی گئیں۔"
+    "devnote": "7.4.2 (2023 08 09)\n\n- صفحات کی زیادہ سے زیادہ تعداد کو 30،000 سے 60،000 میں تبدیل کردیا۔\n- تاریخ میں سال ، مہینہ اور دن کو ظاہر کرنے کے لئے ترمیم کی گئی۔\n- فونٹ ماخذ شامل کیا گیا۔\n- مقام کی نقل و حرکت ، تلاش ، اور بک مارک افعال کی اونچائی طے کی گئی ہے۔\n- متعدد غلطیاں طے کی گئیں۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.4.0 (2023 08 08)\n\n- змінив максимальну кількість сторінок від 30 000 до 60 000.\n- Змінено для відображення року, місяця та дня в історії.\n- Додано джерело шрифту.\n- Висота функцій руху, пошуку та закладок була зафіксована.\n- Виправлено кілька помилок."
+    "devnote": "7.4.2 (2023 08 09)\n\n- змінив максимальну кількість сторінок від 30 000 до 60 000.\n- Змінено для відображення року, місяця та дня в історії.\n- Додано джерело шрифту.\n- Висота функцій руху, пошуку та закладок була зафіксована.\n- Виправлено кілька помилок."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.4.0 (2023 08 08)\n\n- ha cambiato il numero massimo di pagine da 30.000 a 60.000.\n- Modificato per visualizzare l'anno, il mese e il giorno della storia.\n- Aggiunta fonte di carattere.\n- L'altezza delle funzioni di movimento, ricerca e segnalibri è stata fissata.\n- Risolto diversi errori."
+    "devnote": "7.4.2 (2023 08 09)\n\n- ha cambiato il numero massimo di pagine da 30.000 a 60.000.\n- Modificato per visualizzare l'anno, il mese e il giorno della storia.\n- Aggiunta fonte di carattere.\n- L'altezza delle funzioni di movimento, ricerca e segnalibri è stata fissata.\n- Risolto diversi errori."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Mengubah jumlah maksimum halaman dari 30.000 menjadi 60.000.\n- Dimodifikasi untuk menampilkan tahun, bulan, dan hari dalam sejarah.\n- Menambahkan sumber font.\n- Ketinggian Gerakan Lokasi, Pencarian, dan Fungsi Bookmark telah diperbaiki.\n- Memperbaiki beberapa kesalahan."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Mengubah jumlah maksimum halaman dari 30.000 menjadi 60.000.\n- Dimodifikasi untuk menampilkan tahun, bulan, dan hari dalam sejarah.\n- Menambahkan sumber font.\n- Ketinggian Gerakan Lokasi, Pencarian, dan Fungsi Bookmark telah diperbaiki.\n- Memperbaiki beberapa kesalahan."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.4.0（2023 08 08）\n\n - ページの最大数を30,000から60,000に変更しました。\n - 歴史の年、月、日を表示するように変更されました。\n - フォントソースを追加しました。\n - ロケーションの動き、検索、ブックマーク機能の高さが修正されました。\n - いくつかのエラーを修正しました。"
+    "devnote": "7.4.2（2023 08 09）\n\n - ページの最大数を30,000から60,000に変更しました。\n - 歴史の年、月、日を表示するように変更されました。\n - フォントソースを追加しました。\n - ロケーションの動き、検索、ブックマーク機能の高さが修正されました。\n - いくつかのエラーを修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.4.0 (2023 08 08)\n\n- შეიცვალა გვერდების მაქსიმალური რაოდენობა 30,000 -დან 60,000 -მდე.\n- შეცვლილია ისტორიაში წელი, თვე და დღე.\n- დაამატა შრიფტის წყარო.\n- ადგილმდებარეობის მოძრაობის, ძიების და სანიშნეების ფუნქციების სიმაღლე დაფიქსირდა.\n- დაფიქსირდა რამდენიმე შეცდომა."
+    "devnote": "7.4.2 (2023 08 09)\n\n- შეიცვალა გვერდების მაქსიმალური რაოდენობა 30,000 -დან 60,000 -მდე.\n- შეცვლილია ისტორიაში წელი, თვე და დღე.\n- დაამატა შრიფტის წყარო.\n- ადგილმდებარეობის მოძრაობის, ძიების და სანიშნეების ფუნქციების სიმაღლე დაფიქსირდა.\n- დაფიქსირდა რამდენიმე შეცდომა."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Ishintshe inani eliphezulu lamakhasi asuka ku-30,000 abe ngu-60,000.\n- Kuguqulwe ukukhombisa unyaka, inyanga, nosuku emlandweni.\n- Ifonti yomthombo wefonti.\n- Ukuphakama kokunyakaza kwendawo, ukusesha, kanye nemisebenzi yebhukumaka ilungisiwe.\n- Kulungiswe amaphutha amaningana."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Ishintshe inani eliphezulu lamakhasi asuka ku-30,000 abe ngu-60,000.\n- Kuguqulwe ukukhombisa unyaka, inyanga, nosuku emlandweni.\n- Ifonti yomthombo wefonti.\n- Ukuphakama kokunyakaza kwendawo, ukusesha, kanye nemisebenzi yebhukumaka ilungisiwe.\n- Kulungiswe amaphutha amaningana."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.4.0（2023 08 08）\n\n - 将最大页面数从30,000更改为60,000。\n - 经过修改以显示历史上的年度，月份和日期。\n - 添加了字体源。\n - 位置运动，搜索和书签功能的高度已固定。\n - 修复了几个错误。"
+    "devnote": "7.4.2（2023 08 09）\n\n - 将最大页面数从30,000更改为60,000。\n - 经过修改以显示历史上的年度，月份和日期。\n - 添加了字体源。\n - 位置运动，搜索和书签功能的高度已固定。\n - 修复了几个错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.4.0（2023 08 08）\n\n - 將最大頁面數從30,000更改為60,000。\n - 經過修改以顯示歷史上的年度，月份和日期。\n - 添加了字體源。\n - 位置運動，搜索和書籤功能的高度已固定。\n - 修復了幾個錯誤。"
+    "devnote": "7.4.2（2023 08 09）\n\n - 將最大頁面數從30,000更改為60,000。\n - 經過修改以顯示歷史上的年度，月份和日期。\n - 添加了字體源。\n - 位置運動，搜索和書籤功能的高度已固定。\n - 修復了幾個錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.4.0（2023 08 08）\n\n - 將最大頁面數從30,000更改為60,000。\n - 經過修改以顯示歷史上的年度，月份和日期。\n - 添加了字體源。\n - 位置運動，搜索和書籤功能的高度已固定。\n - 修復了幾個錯誤。"
+    "devnote": "7.4.2（2023 08 09）\n\n - 將最大頁面數從30,000更改為60,000。\n - 經過修改以顯示歷史上的年度，月份和日期。\n - 添加了字體源。\n - 位置運動，搜索和書籤功能的高度已固定。\n - 修復了幾個錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Změnil maximální počet stránek z 30 000 na 60 000.\n- Upraveno tak, aby zobrazovalo rok, měsíc a den v historii.\n- Přidán zdroj písma.\n- Výška funkcí pohybu polohy, vyhledávání a záložky byla stanovena.\n- Opraveno několik chyb."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Změnil maximální počet stránek z 30 000 na 60 000.\n- Upraveno tak, aby zobrazovalo rok, měsíc a den v historii.\n- Přidán zdroj písma.\n- Výška funkcí pohybu polohy, vyhledávání a záložky byla stanovena.\n- Opraveno několik chyb."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.4.0 (2023 08 08)\n\n- 30 000-нан 60 000-ға дейінгі беттердің ең көп саны өзгерді.\n- тарихта жыл, ай және күнді көрсету үшін өзгертілген.\n- Қосылған қаріп көзі.\n- Орын қозғалысының, іздеу және бетбелгі функцияларының биіктігі бекітілді.\n- бірнеше қателіктер."
+    "devnote": "7.4.2 (2023 08 09)\n\n- 30 000-нан 60 000-ға дейінгі беттердің ең көп саны өзгерді.\n- тарихта жыл, ай және күнді көрсету үшін өзгертілген.\n- Қосылған қаріп көзі.\n- Орын қозғалысының, іздеу және бетбелгі функцияларының биіктігі бекітілді.\n- бірнеше қателіктер."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Va canviar el nombre màxim de pàgines de 30.000 a 60.000.\n- Modificat per mostrar l'any, mes i dia de la història.\n- S'ha afegit font de tipus de lletra.\n- S'ha solucionat l'alçada del moviment de la ubicació, la cerca i el marcador.\n- S'ha corregit diversos errors."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Va canviar el nombre màxim de pàgines de 30.000 a 60.000.\n- Modificat per mostrar l'any, mes i dia de la història.\n- S'ha afegit font de tipus de lletra.\n- S'ha solucionat l'alçada del moviment de la ubicació, la cerca i el marcador.\n- S'ha corregit diversos errors."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.4.0 (2023 08 08)\n\n- ಗರಿಷ್ಠ ಸಂಖ್ಯೆಯ ಪುಟಗಳನ್ನು 30,000 ರಿಂದ 60,000 ಕ್ಕೆ ಬದಲಾಯಿಸಲಾಗಿದೆ.\n- ಇತಿಹಾಸದಲ್ಲಿ ವರ್ಷ, ತಿಂಗಳು ಮತ್ತು ದಿನವನ್ನು ಪ್ರದರ್ಶಿಸಲು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಫಾಂಟ್ ಮೂಲವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಸ್ಥಳ ಚಲನೆ, ಹುಡುಕಾಟ ಮತ್ತು ಬುಕ್‌ಮಾರ್ಕ್ ಕಾರ್ಯಗಳ ಎತ್ತರವನ್ನು ನಿಗದಿಪಡಿಸಲಾಗಿದೆ.\n- ಹಲವಾರು ದೋಷಗಳನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "7.4.2 (2023 08 09)\n\n- ಗರಿಷ್ಠ ಸಂಖ್ಯೆಯ ಪುಟಗಳನ್ನು 30,000 ರಿಂದ 60,000 ಕ್ಕೆ ಬದಲಾಯಿಸಲಾಗಿದೆ.\n- ಇತಿಹಾಸದಲ್ಲಿ ವರ್ಷ, ತಿಂಗಳು ಮತ್ತು ದಿನವನ್ನು ಪ್ರದರ್ಶಿಸಲು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಫಾಂಟ್ ಮೂಲವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಸ್ಥಳ ಚಲನೆ, ಹುಡುಕಾಟ ಮತ್ತು ಬುಕ್‌ಮಾರ್ಕ್ ಕಾರ್ಯಗಳ ಎತ್ತರವನ್ನು ನಿಗದಿಪಡಿಸಲಾಗಿದೆ.\n- ಹಲವಾರು ದೋಷಗಳನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Promijenio je maksimalni broj stranica sa 30.000 na 60.000.\n- Izmijenjeno za prikaz godine, mjeseca i dana u povijesti.\n- Dodan izvor fonta.\n- Visina funkcije kretanja, pretraživanja i oznake je fiksirana.\n- Popravljeno nekoliko pogrešaka."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Promijenio je maksimalni broj stranica sa 30.000 na 60.000.\n- Izmijenjeno za prikaz godine, mjeseca i dana u povijesti.\n- Dodan izvor fonta.\n- Visina funkcije kretanja, pretraživanja i oznake je fiksirana.\n- Popravljeno nekoliko pogrešaka."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.4.0 (2023 08 08)\n\n- បានផ្លាស់ប្តូរចំនួនទំព័រអតិបរមាពី 30.000 ទៅ 60.000 ។\n- កែប្រែដើម្បីបង្ហាញពីឆ្នាំខែខែនិងថ្ងៃក្នុងប្រវត្តិសាស្ត្រ។\n- បានបន្ថែមប្រភពពុម្ពអក្សរ។\n- កម្ពស់នៃចលនាទីតាំងការស្វែងរកនិងមុខងារចំណាំត្រូវបានជួសជុល។\n- ជួសជុលកំហុសជាច្រើន។"
+    "devnote": "7.4.2 (2023 08 09)\n\n- បានផ្លាស់ប្តូរចំនួនទំព័រអតិបរមាពី 30.000 ទៅ 60.000 ។\n- កែប្រែដើម្បីបង្ហាញពីឆ្នាំខែខែនិងថ្ងៃក្នុងប្រវត្តិសាស្ត្រ។\n- បានបន្ថែមប្រភពពុម្ពអក្សរ។\n- កម្ពស់នៃចលនាទីតាំងការស្វែងរកនិងមុខងារចំណាំត្រូវបានជួសជុល។\n- ជួសជុលកំហុសជាច្រើន។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.4.0 (2023 08 08)\n\n- 30,000ден 60,000 барактардын максималдуу санын өзгөрттү.\n- тарыхта жыл, ай жана күндү көрсөтүү үчүн өзгөртүлгөн.\n- Ариптагы булагы кошулган.\n- жайгашкан жердин кыймылынын, издөө жана кыстарма функциялары бекитилген.\n- бир нече каталарды белгиледи."
+    "devnote": "7.4.2 (2023 08 09)\n\n- 30,000ден 60,000 барактардын максималдуу санын өзгөрттү.\n- тарыхта жыл, ай жана күндү көрсөтүү үчүн өзгөртүлгөн.\n- Ариптагы булагы кошулган.\n- жайгашкан жердин кыймылынын, издөө жана кыстарма функциялары бекитилген.\n- бир нече каталарды белгиледи."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.4.0 (2023 08 08)\n\n- அதிகபட்ச பக்கங்களின் எண்ணிக்கையை 30,000 முதல் 60,000 வரை மாற்றியது.\n- வரலாற்றில் ஆண்டு, மாதம் மற்றும் நாள் ஆகியவற்றைக் காண்பிக்க மாற்றப்பட்டது.\n- எழுத்துரு மூலத்தை சேர்க்கப்பட்டது.\n- இருப்பிட இயக்கம், தேடல் மற்றும் புக்மார்க்கு செயல்பாடுகளின் உயரம் சரி செய்யப்பட்டது.\n- பல பிழைகள் சரி செய்யப்பட்டன."
+    "devnote": "7.4.2 (2023 08 09)\n\n- அதிகபட்ச பக்கங்களின் எண்ணிக்கையை 30,000 முதல் 60,000 வரை மாற்றியது.\n- வரலாற்றில் ஆண்டு, மாதம் மற்றும் நாள் ஆகியவற்றைக் காண்பிக்க மாற்றப்பட்டது.\n- எழுத்துரு மூலத்தை சேர்க்கப்பட்டது.\n- இருப்பிட இயக்கம், தேடல் மற்றும் புக்மார்க்கு செயல்பாடுகளின் உயரம் சரி செய்யப்பட்டது.\n- பல பிழைகள் சரி செய்யப்பட்டன."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.4.0 (2023 08 08)\n\n- เปลี่ยนจำนวนหน้าสูงสุดจาก 30,000 เป็น 60,000\n- แก้ไขเพื่อแสดงปีเดือนและวันในประวัติศาสตร์\n- เพิ่มแหล่งที่มาของตัวอักษร\n- ความสูงของการเคลื่อนไหวตำแหน่งการค้นหาและฟังก์ชั่นบุ๊คมาร์คได้รับการแก้ไขแล้ว\n- แก้ไขข้อผิดพลาดหลายประการ"
+    "devnote": "7.4.2 (2023 08 09)\n\n- เปลี่ยนจำนวนหน้าสูงสุดจาก 30,000 เป็น 60,000\n- แก้ไขเพื่อแสดงปีเดือนและวันในประวัติศาสตร์\n- เพิ่มแหล่งที่มาของตัวอักษร\n- ความสูงของการเคลื่อนไหวตำแหน่งการค้นหาและฟังก์ชั่นบุ๊คมาร์คได้รับการแก้ไขแล้ว\n- แก้ไขข้อผิดพลาดหลายประการ"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Maksimum sayfa sayısını 30.000'den 60.000'e değiştirdi.\n- Tarihte yıl, ay ve günü gösterecek şekilde değiştirildi.\n- Yazı tipi kaynağı eklendi.\n- Konum hareketinin, arama ve yer işareti işlevlerinin yüksekliği düzeltildi.\n- Birkaç hata düzeltildi."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Maksimum sayfa sayısını 30.000'den 60.000'e değiştirdi.\n- Tarihte yıl, ay ve günü gösterecek şekilde değiştirildi.\n- Yazı tipi kaynağı eklendi.\n- Konum hareketinin, arama ve yer işareti işlevlerinin yüksekliği düzeltildi.\n- Birkaç hata düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.4.0 (2023 08 08)\n\n- గరిష్ట సంఖ్యలో పేజీలను 30,000 నుండి 60,000 కు మార్చారు.\n- చరిత్రలో సంవత్సరం, నెల మరియు రోజును ప్రదర్శించడానికి సవరించబడింది.\n- ఫాంట్ మూలం జోడించబడింది.\n- స్థాన కదలిక, శోధన మరియు బుక్‌మార్క్ ఫంక్షన్ల ఎత్తు పరిష్కరించబడింది.\n- అనేక లోపాలు పరిష్కరించబడ్డాయి."
+    "devnote": "7.4.2 (2023 08 09)\n\n- గరిష్ట సంఖ్యలో పేజీలను 30,000 నుండి 60,000 కు మార్చారు.\n- చరిత్రలో సంవత్సరం, నెల మరియు రోజును ప్రదర్శించడానికి సవరించబడింది.\n- ఫాంట్ మూలం జోడించబడింది.\n- స్థాన కదలిక, శోధన మరియు బుక్‌మార్క్ ఫంక్షన్ల ఎత్తు పరిష్కరించబడింది.\n- అనేక లోపాలు పరిష్కరించబడ్డాయి."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.4.0 (2023 08 08)\n\n- 30,000 ਤੋਂ 60,000 ਦੇ ਪੰਨਿਆਂ ਦੀ ਵੱਧ ਤੋਂ ਵੱਧ ਗਿਣਤੀ ਬਦਲੇ.\n- ਇਤਿਹਾਸ ਵਿਚ ਸਾਲ, ਮਹੀਨਾ ਅਤੇ ਦਿਨ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਲਈ ਸੋਧਿਆ ਗਿਆ.\n- ਫੋਂਟ ਸਰੋਤ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ.\n- ਸਥਿਤੀ ਦੀ ਲਹਿਰ, ਖੋਜ ਅਤੇ ਬੁੱਕਮਾਰਕ ਫੰਕਸ਼ਨਾਂ ਦੀ ਉਚਾਈ ਨਿਰਧਾਰਤ ਕੀਤੀ ਗਈ ਹੈ.\n- ਕਈ ਗਲਤੀਆਂ ਹੱਲ ਕੀਤੀਆਂ."
+    "devnote": "7.4.2 (2023 08 09)\n\n- 30,000 ਤੋਂ 60,000 ਦੇ ਪੰਨਿਆਂ ਦੀ ਵੱਧ ਤੋਂ ਵੱਧ ਗਿਣਤੀ ਬਦਲੇ.\n- ਇਤਿਹਾਸ ਵਿਚ ਸਾਲ, ਮਹੀਨਾ ਅਤੇ ਦਿਨ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਲਈ ਸੋਧਿਆ ਗਿਆ.\n- ਫੋਂਟ ਸਰੋਤ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ.\n- ਸਥਿਤੀ ਦੀ ਲਹਿਰ, ਖੋਜ ਅਤੇ ਬੁੱਕਮਾਰਕ ਫੰਕਸ਼ਨਾਂ ਦੀ ਉਚਾਈ ਨਿਰਧਾਰਤ ਕੀਤੀ ਗਈ ਹੈ.\n- ਕਈ ਗਲਤੀਆਂ ਹੱਲ ਕੀਤੀਆਂ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.4.0 (2023 08 08)\n\n- حداکثر تعداد صفحات را از 30،000 به 60،000 تغییر داد.\n- اصلاح شده برای نمایش سال ، ماه و روز در تاریخ.\n- منبع فونت اضافه شده.\n- ارتفاع عملکرد مکان ، جستجو و توابع نشانک ثابت شده است.\n- چندین خطا برطرف شده است."
+    "devnote": "7.4.2 (2023 08 09)\n\n- حداکثر تعداد صفحات را از 30،000 به 60،000 تغییر داد.\n- اصلاح شده برای نمایش سال ، ماه و روز در تاریخ.\n- منبع فونت اضافه شده.\n- ارتفاع عملکرد مکان ، جستجو و توابع نشانک ثابت شده است.\n- چندین خطا برطرف شده است."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Mudou o número máximo de páginas de 30.000 para 60.000.\n- Modificado para exibir o ano, mês e dia da história.\n- Adicionada fonte de fonte.\n- A altura do movimento de localização, busca e funções de favoritos foi corrigida.\n- Corrigido vários erros."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Mudou o número máximo de páginas de 30.000 para 60.000.\n- Modificado para exibir o ano, mês e dia da história.\n- Adicionada fonte de fonte.\n- A altura do movimento de localização, busca e funções de favoritos foi corrigida.\n- Corrigido vários erros."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Zmieniono maksymalną liczbę stron z 30 000 na 60 000.\n- Zmodyfikowany, aby wyświetlić rok, miesiąc i dzień w historii.\n- Dodano źródło czcionki.\n- Wysokość funkcji ruchu, wyszukiwania i zakładek została ustalona.\n- Naprawiono kilka błędów."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Zmieniono maksymalną liczbę stron z 30 000 na 60 000.\n- Zmodyfikowany, aby wyświetlić rok, miesiąc i dzień w historii.\n- Dodano źródło czcionki.\n- Wysokość funkcji ruchu, wyszukiwania i zakładek została ustalona.\n- Naprawiono kilka błędów."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.4.0 (2023 08 08)\n\n- a modifié le nombre maximum de pages de 30 000 à 60 000.\n- Modifié pour afficher l'année, le mois et le jour de l'histoire.\n- Source de police ajoutée.\n- La hauteur des fonctions de mouvement, de recherche et de signet de localisation a été fixée.\n- Correction de plusieurs erreurs."
+    "devnote": "7.4.2 (2023 08 09)\n\n- a modifié le nombre maximum de pages de 30 000 à 60 000.\n- Modifié pour afficher l'année, le mois et le jour de l'histoire.\n- Source de police ajoutée.\n- La hauteur des fonctions de mouvement, de recherche et de signet de localisation a été fixée.\n- Correction de plusieurs erreurs."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Vaihtanut sivujen enimmäismäärän 30 000: sta 60 000: een.\n- Muokattu osoittamaan vuosi, kuukausi ja päivä historiassa.\n- Lisätty kirjasinlähde.\n- Sijainnin liikkeen, haku- ja kirjanmerkkitoimintojen korkeus on korjattu.\n- Korjattu useita virheitä."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Vaihtanut sivujen enimmäismäärän 30 000: sta 60 000: een.\n- Muokattu osoittamaan vuosi, kuukausi ja päivä historiassa.\n- Lisätty kirjasinlähde.\n- Sijainnin liikkeen, haku- ja kirjanmerkkitoimintojen korkeus on korjattu.\n- Korjattu useita virheitä."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Binago ang maximum na bilang ng mga pahina mula 30,000 hanggang 60,000.\n- Binago upang ipakita ang taon, buwan, at araw sa kasaysayan.\n- Idinagdag ang mapagkukunan ng font.\n- Ang taas ng paggalaw ng lokasyon, paghahanap, at mga function ng bookmark ay naayos na.\n- Naayos ang ilang mga pagkakamali."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Binago ang maximum na bilang ng mga pahina mula 30,000 hanggang 60,000.\n- Binago upang ipakita ang taon, buwan, at araw sa kasaysayan.\n- Idinagdag ang mapagkukunan ng font.\n- Ang taas ng paggalaw ng lokasyon, paghahanap, at mga function ng bookmark ay naayos na.\n- Naayos ang ilang mga pagkakamali."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.4.0 (2023 08 08)\n\n- Az oldalak maximális számát 30 000 -ről 60 000 -re változtatta meg.\n- A történelem évének, hónapjának és napjának megjelenítésére módosítva.\n- Hozzáadott betűtípus -forrás.\n- A helymeghatározás, a keresés és a könyvjelző funkciók magassága rögzített.\n- Javítva több hibát."
+    "devnote": "7.4.2 (2023 08 09)\n\n- Az oldalak maximális számát 30 000 -ről 60 000 -re változtatta meg.\n- A történelem évének, hónapjának és napjának megjelenítésére módosítva.\n- Hozzáadott betűtípus -forrás.\n- A helymeghatározás, a keresés és a könyvjelző funkciók magassága rögzített.\n- Javítva több hibát."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.4.0 (2023 08 08)\n\n- שינה את המספר המרבי של העמודים מ- 30,000 ל- 60,000.\n- שונה להצגת השנה, החודש והיום בהיסטוריה.\n- נוסף מקור גופן.\n- גובה פונקציות התנועה, החיפוש והסימניה של המיקום תוקן.\n- תיקן מספר שגיאות."
+    "devnote": "7.4.2 (2023 08 09)\n\n- שינה את המספר המרבי של העמודים מ- 30,000 ל- 60,000.\n- שונה להצגת השנה, החודש והיום בהיסטוריה.\n- נוסף מקור גופן.\n- גובה פונקציות התנועה, החיפוש והסימניה של המיקום תוקן.\n- תיקן מספר שגיאות."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.4.0 (2023 08 08)\n\n- पृष्ठों की अधिकतम संख्या को 30,000 से 60,000 कर दिया।\n- इतिहास में वर्ष, महीने और दिन प्रदर्शित करने के लिए संशोधित।\n- जोड़ा फ़ॉन्ट स्रोत।\n- स्थान आंदोलन, खोज और बुकमार्क कार्यों की ऊंचाई तय की गई है।\n- कई त्रुटियां फिक्स्ड।"
+    "devnote": "7.4.2 (2023 08 09)\n\n- पृष्ठों की अधिकतम संख्या को 30,000 से 60,000 कर दिया।\n- इतिहास में वर्ष, महीने और दिन प्रदर्शित करने के लिए संशोधित।\n- जोड़ा फ़ॉन्ट स्रोत।\n- स्थान आंदोलन, खोज और बुकमार्क कार्यों की ऊंचाई तय की गई है।\n- कई त्रुटियां फिक्स्ड।"
   }
 }
