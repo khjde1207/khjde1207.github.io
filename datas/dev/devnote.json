@@ -1,79 +1,79 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Improved performance"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Improved performance"
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.4.4 (2023 08 12)\n\n- 뷰어 성능을 개선 하였습니다. \n속도 체감은 크게 안되겠지만 발열 부분이 개선 되었을 것으로 기대합니다."
+    "devnote": "7.4.6 (2023 08 12)\n\n- 뷰어 성능을 개선 하였습니다. \n속도 체감은 크게 안되겠지만 발열 부분이 개선 되었을 것으로 기대합니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Mellor rendemento"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Mellor rendemento"
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.4.4 (2023 08 12)\n\n- સુધારેલ કામગીરી"
+    "devnote": "7.4.6 (2023 08 12)\n\n- સુધારેલ કામગીરી"
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Βελτιωμένη απόδοση"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Βελτιωμένη απόδοση"
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Verbeterde prestatie"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Verbeterde prestatie"
   },
   "네팔어": {
     "key": "ne",
-    "devnote": ".4..4..3..3 (2023 08 08)\n\n- सुधारिएको प्रदर्शन"
+    "devnote": "7.4.6 (2023 08 12)\n\n- सुधारिएको प्रदर्शन"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Forbedret ytelse"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Forbedret ytelse"
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Forbedret ydelse"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Forbedret ydelse"
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Verbesserte Leistung"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Verbesserte Leistung"
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.4.4 (2023 08 12)\n\n- ການປັບປຸງການປະຕິບັດງານ"
+    "devnote": "7.4.6 (2023 08 12)\n\n- ການປັບປຸງການປະຕິບັດງານ"
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Uzlabota veiktspēja"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Uzlabota veiktspēja"
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Улучшенная производительность"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Улучшенная производительность"
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Performanta imbunatatita"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Performanta imbunatatita"
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Patobulintas našumas"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Patobulintas našumas"
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.4.4 (2023 08 12)\n\n- सुधारित कामगिरी"
+    "devnote": "7.4.6 (2023 08 12)\n\n- सुधारित कामगिरी"
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Подобрени перформанси"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Подобрени перформанси"
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.4.4 (2023 08 12)\n\n- മെച്ചപ്പെട്ട പ്രകടനം"
+    "devnote": "7.4.6 (2023 08 12)\n\n- മെച്ചപ്പെട്ട പ്രകടനം"
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Prestasi yang bertambah baik"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Prestasi yang bertambah baik"
   },
   "몽골어": {
     "key": "mn",
@@ -81,7 +81,7 @@
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Errendimendua hobetzea"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Errendimendua hobetzea"
   },
   "버마어": {
     "key": "my",
@@ -89,95 +89,95 @@
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Cải thiện hiệu suất"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Cải thiện hiệu suất"
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Палепшаная прадукцыйнасць"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Палепшаная прадукцыйнасць"
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.4.4 (2023 08 12)\n\n- উন্নত কর্মক্ষমতা"
+    "devnote": "7.4.6 (2023 08 12)\n\n- উন্নত কর্মক্ষমতা"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Подобрена производителност"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Подобрена производителност"
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Побољшане перформансе"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Побољшане перформансе"
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Utendaji ulioboreshwa"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Utendaji ulioboreshwa"
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Förbättrad prestanda"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Förbättrad prestanda"
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Desempeño mejorado"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Desempeño mejorado"
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Vylepšený výkon"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Vylepšený výkon"
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Izboljšana zmogljivost"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Izboljšana zmogljivost"
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.4.4 (2023 08 12)\n\n- වැඩි දියුණු කළ කාර්ය සාධනය"
+    "devnote": "7.4.6 (2023 08 12)\n\n- වැඩි දියුණු කළ කාර්ය සාධනය"
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.4.4 (2023 08 12)\n\n- تحسين الأداء"
+    "devnote": "7.4.6 (2023 08 12)\n\n- تحسين الأداء"
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.4.4 (2023 08 12)\n\n- բարելավված կատարում"
+    "devnote": "7.4.6 (2023 08 12)\n\n- բարելավված կատարում"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Bætt árangur"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Bætt árangur"
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Təkmilləşdirilmiş performans"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Təkmilləşdirilmiş performans"
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Verbeterde prestasie"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Verbeterde prestasie"
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Performanca e përmirësuar"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Performanca e përmirësuar"
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.4.4 (2023 08 12)\n\n- የተሻሻለ አፈፃፀም"
+    "devnote": "7.4.6 (2023 08 12)\n\n- የተሻሻለ አፈፃፀም"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.4.4 (2023 08 12)\n\n- täiustatud jõudlus"
+    "devnote": "7.4.6 (2023 08 12)\n\n- täiustatud jõudlus"
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.4.4 (2023 08 12)\n\n- بہتر کارکردگی"
+    "devnote": "7.4.6 (2023 08 12)\n\n- بہتر کارکردگی"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Поліпшена продуктивність"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Поліпшена продуктивність"
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Prestazione migliorata"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Prestazione migliorata"
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.4.4 (2023 08 12)\n\n- kinerja yang lebih baik"
+    "devnote": "7.4.6 (2023 08 12)\n\n- kinerja yang lebih baik"
   },
   "일본어": {
     "key": "ja",
@@ -185,11 +185,11 @@
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.4.4 (2023 08 12)\n\n- გაუმჯობესებული შესრულება"
+    "devnote": "7.4.6 (2023 08 12)\n\n- გაუმჯობესებული შესრულება"
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Ukusebenza okuthuthukile"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Ukusebenza okuthuthukile"
   },
   "중국어(간체)": {
     "key": "zh-CN",
@@ -205,86 +205,86 @@
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Zlepšený výkon"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Zlepšený výkon"
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.4.4 (2023 08 12)\n\n- жақсартылған өнімділік"
+    "devnote": "7.4.6 (2023 08 12)\n\n- жақсартылған өнімділік"
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Rendiment millorat"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Rendiment millorat"
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.4.4 (2023 08 12)\n\n- ಸುಧಾರಿತ ಕಾರ್ಯಕ್ಷಮತೆ"
+    "devnote": "7.4.6 (2023 08 12)\n\n- ಸುಧಾರಿತ ಕಾರ್ಯಕ್ಷಮತೆ"
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Poboljšane performanse"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Poboljšane performanse"
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.4.4 (2023 08 12)\n\n- ធ្វើឱ្យប្រសើរឡើងនូវការអនុវត្ត"
+    "devnote": "7.4.6 (2023 08 12)\n\n- ធ្វើឱ្យប្រសើរឡើងនូវការអនុវត្ត"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.4.4 (2023 08 12)\n\n- өркүндөтүү"
+    "devnote": "7.4.6 (2023 08 12)\n\n- өркүндөтүү"
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.4.4 (2023 08 12)\n\n- மேம்பட்ட செயல்திறன்"
+    "devnote": "7.4.6 (2023 08 12)\n\n- மேம்பட்ட செயல்திறன்"
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.4.4 (2023 08 12)\n\n- ปรับปรุงประสิทธิภาพ"
+    "devnote": "7.4.6 (2023 08 12)\n\n- ปรับปรุงประสิทธิภาพ"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Geliştirilmiş Performans"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Geliştirilmiş Performans"
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.4.4 (2023 08 12)\n\n- మెరుగైన పనితీరు"
+    "devnote": "7.4.6 (2023 08 12)\n\n- మెరుగైన పనితీరు"
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.4.4 (2023 08 12)\n\n- ਪ੍ਰਦਰਸ਼ਨ ਵਿੱਚ ਸੁਧਾਰ"
+    "devnote": "7.4.6 (2023 08 12)\n\n- ਪ੍ਰਦਰਸ਼ਨ ਵਿੱਚ ਸੁਧਾਰ"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.4.4 (2023 08 12)\n\n- عملکرد بهبود یافته"
+    "devnote": "7.4.6 (2023 08 12)\n\n- عملکرد بهبود یافته"
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Performance melhorada"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Performance melhorada"
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Poprawiona wydajność"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Poprawiona wydajność"
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Performance améliorée"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Performance améliorée"
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Parannettu suorituskyky"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Parannettu suorituskyky"
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Pinahusay na pagganap"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Pinahusay na pagganap"
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.4.4 (2023 08 12)\n\n- Jobb teljesítmény"
+    "devnote": "7.4.6 (2023 08 12)\n\n- Jobb teljesítmény"
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.4.4 (2023 08 12)\n\n- ביצועים משופרים"
+    "devnote": "7.4.6 (2023 08 12)\n\n- ביצועים משופרים"
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.4.4 (2023 08 12)\n\n- बेहतर प्रदर्शन"
+    "devnote": "7.4.6 (2023 08 12)\n\n- बेहतर प्रदर्शन"
   }
 }
