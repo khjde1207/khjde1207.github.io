@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Improved performance"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Added image enlargement function when touching zip, epub file image."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.4.6 (2023 08 12)\n\n- 뷰어 성능을 개선 하였습니다. \n속도 체감은 크게 안되겠지만 발열 부분이 개선 되었을 것으로 기대합니다."
+    "devnote": "7.4.7 (2023 08 16)\n\n- zip, epub 파일 이미지 터치시 이미지 크게 보기 기능을 추가 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Mellor rendemento"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Engadiuse a función de ampliación da imaxe ao tocar con cremalleira, a imaxe do ficheiro EPUB."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.4.6 (2023 08 12)\n\n- સુધારેલ કામગીરી"
+    "devnote": "7.4.7 (2023 08 16)\n\n- ઝિપ, ઇપબ ફાઇલ ઇમેજને સ્પર્શ કરતી વખતે છબી વૃદ્ધિ કાર્ય ઉમેર્યું."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Βελτιωμένη απόδοση"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Προστέθηκε λειτουργία διεύρυνσης εικόνας όταν αγγίζετε το φερμουάρ, την εικόνα αρχείου EPUB."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Verbeterde prestatie"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Image -vergrotingsfunctie toegevoegd bij het aanraken van zip, EPUB -bestandsafbeelding."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "7.4.6 (2023 08 12)\n\n- सुधारिएको प्रदर्शन"
+    "devnote": "7.4.7 (2023 08 16)\n\n- zip, EPUB फाईल छवि छु गर्दा छवि विस्तारित कार्य थपियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Forbedret ytelse"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Lagt til bildeforstørrelsesfunksjon når du berører ZIP, EPUB -filbilde."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Forbedret ydelse"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Tilføjet billedudvidelsesfunktion Når du rører ved lynlås, Epub -filbillede."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Verbesserte Leistung"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Die Funktionsvergrößerungsfunktion beim Berühren von Reißverschluss, EPUB -Dateibild hinzugefügt."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.4.6 (2023 08 12)\n\n- ການປັບປຸງການປະຕິບັດງານ"
+    "devnote": "7.4.7 (2023 08 16)\n\n- ໄດ້ເພີ່ມຫນ້າທີ່ການຂະຫຍາຍຮູບພາບເມື່ອສໍາຜັດກັບ zip, EPUB File Image."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Uzlabota veiktspēja"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Pievienota attēla paplašināšanas funkcija, pieskaroties ZIP, EPUB faila attēlam."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Улучшенная производительность"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Добавлена ​​функция увеличения изображения при прикосновении к изображению файла Zip, EPUB."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Performanta imbunatatita"
+    "devnote": "7.4.7 (2023 08 16)\n\n- S -a adăugat funcție de mărire a imaginii atunci când atingeți imaginea de fișier EPUB, EPUB."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Patobulintas našumas"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Pridėta vaizdo padidėjimo funkcija liečiant „Zip“, „Epub“ failo vaizdą."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.4.6 (2023 08 12)\n\n- सुधारित कामगिरी"
+    "devnote": "7.4.7 (2023 08 16)\n\n- झिप, ईपीयूबी फाइल प्रतिमेला स्पर्श करताना प्रतिमा विस्तार कार्य जोडले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Подобрени перформанси"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Додадена функција за зголемување на сликата при допирање на ZIP, EPUB -датотека."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.4.6 (2023 08 12)\n\n- മെച്ചപ്പെട്ട പ്രകടനം"
+    "devnote": "7.4.7 (2023 08 16)\n\n- സിപ്പ് സ്പർശിക്കുമ്പോൾ ഇമേജ് വിപുലീകരണ പ്രവർത്തനം ചേർത്തു, എപ്യൂബ് ഫയൽ ഇമേജ്."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Prestasi yang bertambah baik"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Menambah fungsi pembesaran imej apabila menyentuh zip, imej fail EPUB."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.4.3 (2023 08. 08 11)\n\n- сайжруулсан гүйцэтгэл"
+    "devnote": "7.4.7 (2023 08 16)\n\n- ZIP, EPUB файлын зураг дээр хүрэх үед зургийн томруулах функцийг нэмсэн."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Errendimendua hobetzea"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Gehitutako irudiaren handitze funtzioa ZIP, EPUB fitxategiaren irudia ukitzean."
   },
   "버마어": {
     "key": "my",
-    "devnote": "72.4.3 (2023 08 11 11)\n\n- စွမ်းဆောင်ရည်တိုးတက်လာသောစွမ်းဆောင်ရည်"
+    "devnote": "72.7 (2023 08 16)\n\n- zip ဖိုင်အမျိုးအစားကိုထိမိသောအခါပုံချဲ့ခြင်း function ကိုထည့်သွင်းပါ။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Cải thiện hiệu suất"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Đã thêm chức năng mở rộng hình ảnh khi chạm vào zip, hình ảnh tệp EPUB."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Палепшаная прадукцыйнасць"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Дададзена функцыя павелічэння малюнка пры дакрананні да zip, выявы файла Epub."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.4.6 (2023 08 12)\n\n- উন্নত কর্মক্ষমতা"
+    "devnote": "7.4.7 (2023 08 16)\n\n- জিপ, ইপুব ফাইল চিত্র স্পর্শ করার সময় চিত্র বৃদ্ধি ফাংশন যুক্ত করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Подобрена производителност"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Добавена функция за разширяване на изображението при докосване на цип, изображение на файла на EPUB."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Побољшане перформансе"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Додата функција проширења слике када додирнете ЗИП, слика датотека еПуб."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Utendaji ulioboreshwa"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Kuongeza kazi ya ukuzaji wa picha wakati wa kugusa zip, picha ya faili ya epub."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Förbättrad prestanda"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Tillagd bildförstoringsfunktion vid beröring av zip, EPUB -filbild."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Desempeño mejorado"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Se agregó la función de ampliación de imágenes al tocar la imagen del archivo ZIP, EPUB."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Vylepšený výkon"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Pridaná funkcia zväčšenia obrázka pri dotýkaní sa obrázka súboru ZIP, EPUB."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Izboljšana zmogljivost"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Dodana funkcija povečanja slike Pri dotiku slike datoteke EPUB."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.4.6 (2023 08 12)\n\n- වැඩි දියුණු කළ කාර්ය සාධනය"
+    "devnote": "7.4.7 (2023 08 16)\n\n- සිප්, ඊපීබ් ගොනු රූපය ස්පර්ශ කරන විට රූප විශාල කිරීමේ ක්රියාකාරිත්වය එක් කරන ලදි."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.4.6 (2023 08 12)\n\n- تحسين الأداء"
+    "devnote": "7.4.7 (2023 08 16)\n\n- إضافة وظيفة تكبير الصورة عند لمس zip ، صورة ملف epub."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.4.6 (2023 08 12)\n\n- բարելավված կատարում"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Ավելացված է պատկերի ընդլայնման գործառույթ, երբ դիպչում է ZIP, EPUB ֆայլի պատկերին:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Bætt árangur"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Bætt við stækkunaraðgerð þegar þú snertir ZIP, Epub File mynd."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Təkmilləşdirilmiş performans"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Zip, epub fayl şəklinə toxunarkən görüntü genişləndirmə funksiyası əlavə edildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Verbeterde prestasie"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Funksie vir beeldvergroting bygevoeg wanneer u aan die zip, epub -lêerbeeld raak."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Performanca e përmirësuar"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Shtuar funksionin e zgjerimit të imazhit kur prekni zip, imazhin e skedarit EPUB."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.4.6 (2023 08 12)\n\n- የተሻሻለ አፈፃፀም"
+    "devnote": "7.4.7 (2023 08 16)\n\n- ዚፕ, popub ፋይል ምስል በሚነካበት ጊዜ የምስል ፋርማጌነት ተግባር ታክሏል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.4.6 (2023 08 12)\n\n- täiustatud jõudlus"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Lisatud pildi suurendamise funktsioon ZIP -i, EPUB -faili pildi puudutamisel."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.4.6 (2023 08 12)\n\n- بہتر کارکردگی"
+    "devnote": "7.4.7 (2023 08 16)\n\n- زپ ، ایپب فائل امیج کو چھوتے وقت تصویری توسیع کا فنکشن شامل کیا گیا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Поліпшена продуктивність"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Додано функцію збільшення зображення при дотику до ZIP, зображення файлу EPUB."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Prestazione migliorata"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Aggiunta funzione di ingrandimento dell'immagine quando si tocca Zip, immagine del file EPUB."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.4.6 (2023 08 12)\n\n- kinerja yang lebih baik"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Menambahkan fungsi pembesaran gambar saat menyentuh zip, gambar file epub."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.4.3（2023 08 11）\n\n- パフォーマンスを向上させた"
+    "devnote": "7.4.7（2023 08 16）\n\n -  zip、epubファイルの画像に触れるときに画像拡大機能を追加しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.4.6 (2023 08 12)\n\n- გაუმჯობესებული შესრულება"
+    "devnote": "7.4.7 (2023 08 16)\n\n- დაამატეთ გამოსახულების გაფართოების ფუნქცია zip, epub ფაილის სურათის შეხებისას."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Ukusebenza okuthuthukile"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Umsebenzi owengeziwe we-Image Enwerment umsebenzi lapho uthinta i-zip, isithombe sefayela le-ePub."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.4.3（2023 08 11）\n\n - 提高性能"
+    "devnote": "7.4.7（2023 08 16）\n\n - 添加图像放大功能时，触摸zip，epub文件图像。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.4.3（2023 08 11）\n\n - 提高性能"
+    "devnote": "7.4.7（2023 08 16）\n\n - 添加圖像放大功能時，觸摸zip，epub文件圖像。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.4.3（2023 08 11）\n\n - 提高性能"
+    "devnote": "7.4.7（2023 08 16）\n\n - 添加圖像放大功能時，觸摸zip，epub文件圖像。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Zlepšený výkon"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Přidána funkce zvětšení obrazu při dotyku zipu, obrazu souboru epub."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.4.6 (2023 08 12)\n\n- жақсартылған өнімділік"
+    "devnote": "7.4.7 (2023 08 16)\n\n- zip, epub файлының кескіні жанасу кезінде кескінді үлкейту функциясы қосылды."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Rendiment millorat"
+    "devnote": "7.4.7 (2023 08 16)\n\n- S'ha afegit la funció d'ampliació d'imatges en tocar la imatge ZIP, la imatge del fitxer EPUB."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.4.6 (2023 08 12)\n\n- ಸುಧಾರಿತ ಕಾರ್ಯಕ್ಷಮತೆ"
+    "devnote": "7.4.7 (2023 08 16)\n\n- ಜಿಪ್, ಇಪಬ್ ಫೈಲ್ ಇಮೇಜ್ ಅನ್ನು ಸ್ಪರ್ಶಿಸುವಾಗ ಇಮೇಜ್ ಹಿಗ್ಗುವಿಕೆ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Poboljšane performanse"
+    "devnote": "7.4.7 (2023. 08 16)\n\n- Dodana funkcija povećanja slike pri dodirivanju zip, epub datoteke."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.4.6 (2023 08 12)\n\n- ធ្វើឱ្យប្រសើរឡើងនូវការអនុវត្ត"
+    "devnote": "7.4.7 (2023 08 16)\n\n- បន្ថែមមុខងារពង្រីករូបភាពនៅពេលប៉ះហ្ស៊ីប, រូបភាពឯកសារអេភីអេ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.4.6 (2023 08 12)\n\n- өркүндөтүү"
+    "devnote": "7.47 (2023 08 16)\n\n- ZIP, EPUB файл сүрөтүн тийгизгенде, сүрөттү кеңейтүү функциясы."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.4.6 (2023 08 12)\n\n- மேம்பட்ட செயல்திறன்"
+    "devnote": "7.4.7 (2023 08 16)\n\n- ஜிப், எபப் கோப்பு படத்தைத் தொடும்போது பட விரிவாக்க செயல்பாடு சேர்க்கப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.4.6 (2023 08 12)\n\n- ปรับปรุงประสิทธิภาพ"
+    "devnote": "7.4.7 (2023 08 16)\n\n- เพิ่มฟังก์ชั่นการขยายภาพเมื่อสัมผัสซิปภาพไฟล์ epub"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Geliştirilmiş Performans"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Zip'e dokunurken görüntü büyütme işlevi eklendi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.4.6 (2023 08 12)\n\n- మెరుగైన పనితీరు"
+    "devnote": "7.4.7 (2023 08 16)\n\n- జిప్, ఎపబ్ ఫైల్ ఇమేజ్‌ను తాకినప్పుడు ఇమేజ్ విస్తరణ ఫంక్షన్ జోడించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.4.6 (2023 08 12)\n\n- ਪ੍ਰਦਰਸ਼ਨ ਵਿੱਚ ਸੁਧਾਰ"
+    "devnote": "7.4.7 (2023 08 16)\n\n- ਜ਼ਿਪ, ਏਪੀਬ ਫਾਈਲ ਚਿੱਤਰ ਨੂੰ ਛੂਹਣ ਵੇਲੇ ਚਿੱਤਰਾਂ ਦਾ ਵਾਧਾ ਕਾਰਜ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.4.6 (2023 08 12)\n\n- عملکرد بهبود یافته"
+    "devnote": "7.4.7 (2023 08 16)\n\n- عملکرد بزرگنمایی تصویر هنگام لمس ZIP ، تصویر فایل EPUB اضافه شده است."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Performance melhorada"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Adicionada função de aumento da imagem ao tocar na imagem do arquivo zip, ePUB."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Poprawiona wydajność"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Dodano funkcję powiększenia obrazu podczas dotykania ZIP, obraz pliku Epub."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Performance améliorée"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Ajout de la fonction d'agrandissement de l'image Lorsque vous touchez l'image de fichier ZIP, ePub."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Parannettu suorituskyky"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Lisätty kuvan suurenemistoiminto, kun kosketat zip, epub -tiedostokuva."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Pinahusay na pagganap"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Idinagdag ang pag -andar ng pagpapalaki ng imahe kapag hinawakan ang zip, imahe ng file ng epub."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.4.6 (2023 08 12)\n\n- Jobb teljesítmény"
+    "devnote": "7.4.7 (2023 08 16)\n\n- Hozzáadott kép -bővítési funkció, amikor megérinti a ZIP, EPUB fájlképet."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.4.6 (2023 08 12)\n\n- ביצועים משופרים"
+    "devnote": "7.4.7 (2023 08 16)\n\n- הוספת פונקציית הגדלת תמונה בעת נגיעה ב- zip, תמונת קובץ EPUB."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.4.6 (2023 08 12)\n\n- बेहतर प्रदर्शन"
+    "devnote": "7.4.7 (2023 08 16)\n\n- ज़िप, EPUB फ़ाइल छवि को छूते समय छवि इज़ाफ़ा फ़ंक्शन जोड़ा गया।"
   }
 }
