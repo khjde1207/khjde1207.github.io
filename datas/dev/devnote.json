@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.5.1 (2023 09 04)\n\n- My library logic has been modified.\n- I added a shadow to my library file to give it a three-dimensional effect.\n- TTS delay function has been added.\n- An X button has been added to the My Library search box.\n- A cover image display function has been added to the top of My Library."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Abnormal behavior has been corrected.\n- Fixed the pop-up image not appearing when the My Library image is disabled.\n- The background color has been raised above the background image.\n- A transparency setting function has been added to the background color.\n   * If the background image is too bright, you can adjust the background color to make it darker.\n- Fixed a bug where font shadows were not displayed."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.5.1 (2023 09 04)\n\n- 드래그로 설정 열기 기능을 비활성화 할 수 있도록 기능을 추가했습니다.\n- 내서재 로직을 수정 하였습니다. \n- 내서재 파일 에 그림자를 추가 하여 입체감을 주었습니다. \n- TTS 딜레이 기능을 추가 하였습니다. \n- 내서재 검색란에 X 버튼을 추가 하였습니다. \n- 내서재 상단에 커버 이미지 표시 기능을 추가 하였습니다."
+    "devnote": "7.5.2 (2023 09 07)\n\n- 비정상 동작을 수정 하였습니다. \n- 내서재 이미지 비활성화시 팝업도 이미지가 안나오게 수정 하였습니다. \n- 배경색이 배경 이미지 위로 올라오도록 하였습니다. \n- 배경색에 투명도 설정 기능을 추가 하였습니다. \n  * 배경 이미지가 너무 밝은 경우 배경색을 조절하여 어둡게 할 수 있습니다.\n- 글꼴 그림자 표기가 안되던 버그를 수정 하였습니다. \n- tts 문장 검사에서 (...며...다) 를 (...고, ...다) 로 변경 하였습니다. \n  * (...고, ...다) 의 가중치를 1 로 설정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Modificouse a miña lóxica da biblioteca.\n- Engadín unha sombra ao meu ficheiro da biblioteca para darlle un efecto tridimensional.\n- Engadiuse a función de atraso TTS.\n- Engadiuse un botón X á caixa de busca da miña biblioteca.\n- Engadiuse unha función de visualización de imaxe de portada á parte superior da miña biblioteca."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Corrixiuse un comportamento anormal.\n- Fixouse a imaxe emerxente que non aparece cando a imaxe da miña biblioteca está desactivada.\n- A cor de fondo elevouse por encima da imaxe de fondo.\n- Engadiuse unha función de configuración de transparencia á cor de fondo.\n   * Se a imaxe de fondo é demasiado brillante, pode axustar a cor de fondo para facelo máis escuro.\n- Fixouse un erro onde non se amosaron as sombras de letra."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.5.1 (2023 09 04)\n\n- મારા લાઇબ્રેરી તર્કમાં ફેરફાર કરવામાં આવ્યા છે.\n- મેં તેને ત્રિ-પરિમાણીય અસર આપવા માટે મારી લાઇબ્રેરી ફાઇલમાં એક પડછાયો ઉમેર્યો.\n- ટીટીએસ વિલંબ કાર્ય ઉમેરવામાં આવ્યું છે.\n- માય લાઇબ્રેરી સર્ચ બ to ક્સમાં એક એક્સ બટન ઉમેરવામાં આવ્યું છે.\n- કવર ઇમેજ ડિસ્પ્લે ફંક્શન મારી લાઇબ્રેરીની ટોચ પર ઉમેરવામાં આવ્યું છે."
+    "devnote": "7.5.2 (2023 09 07)\n\n- અસામાન્ય વર્તન સુધારવામાં આવ્યું છે.\n- જ્યારે મારી લાઇબ્રેરી છબી અક્ષમ હોય ત્યારે પ pop પ-અપ છબી દેખાતી નથી.\n- પૃષ્ઠભૂમિ રંગ પૃષ્ઠભૂમિ છબીની ઉપર ઉભા કરવામાં આવ્યા છે.\n- પૃષ્ઠભૂમિ રંગમાં પારદર્શિતા સેટિંગ ફંક્શન ઉમેરવામાં આવ્યું છે.\n   * જો પૃષ્ઠભૂમિ છબી ખૂબ તેજસ્વી છે, તો તમે તેને ઘાટા બનાવવા માટે પૃષ્ઠભૂમિ રંગને સમાયોજિત કરી શકો છો.\n- ભૂલને સ્થિર કરો જ્યાં ફ ont ન્ટ પડછાયાઓ પ્રદર્શિત થયા ન હતા."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Η λογική της βιβλιοθήκης μου έχει τροποποιηθεί.\n- Πρόσθεσα μια σκιά στο αρχείο της βιβλιοθήκης μου για να του δώσω ένα τρισδιάστατο αποτέλεσμα.\n- Η λειτουργία καθυστέρησης TTS έχει προστεθεί.\n- Ένα κουμπί X έχει προστεθεί στο πλαίσιο αναζήτησης βιβλιοθήκης μου.\n- Έχει προστεθεί μια λειτουργία εμφάνισης εικόνας κάλυψης στην κορυφή της βιβλιοθήκης μου."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Η μη φυσιολογική συμπεριφορά έχει διορθωθεί.\n- Διορθώθηκε η αναδυόμενη εικόνα που δεν εμφανίζεται όταν η εικόνα της βιβλιοθήκης μου είναι απενεργοποιημένη.\n- Το χρώμα του φόντου έχει αυξηθεί πάνω από την εικόνα φόντου.\n- Η λειτουργία ρύθμισης διαφάνειας έχει προστεθεί στο χρώμα του φόντου.\n   * Εάν η εικόνα φόντου είναι πολύ φωτεινή, μπορείτε να ρυθμίσετε το χρώμα φόντου για να το κάνετε πιο σκούρο.\n- Διορθώθηκε ένα σφάλμα όπου δεν εμφανίστηκαν σκιές γραμματοσειρών."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Mijn bibliotheeklogica is gewijzigd.\n- Ik heb een schaduw toegevoegd aan mijn bibliotheekbestand om het een driedimensionaal effect te geven.\n- TTS -vertragingsfunctie is toegevoegd.\n- Een X -knop is toegevoegd aan het zoekvak van mijn bibliotheek.\n- Er is een coverafbeeldingsweergave -functie toegevoegd aan de bovenkant van mijn bibliotheek."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Abnormaal gedrag is gecorrigeerd.\n- Opgelost de pop-upafbeelding die niet verschijnt wanneer de mijn bibliotheekafbeelding is uitgeschakeld.\n- De achtergrondkleur is boven het achtergrondafbeelding verhoogd.\n- Een functie voor het instellen van transparantie is toegevoegd aan de achtergrondkleur.\n   * Als de achtergrondafbeelding te helder is, kunt u de achtergrondkleur aanpassen om deze donkerder te maken.\n- Een bug opgelost waar lettertype schaduwen niet werden weergegeven."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "7.5.1 (2023 09 04)\n\n- मेरो पुस्तकालय लोकुक परिमार्जन गरिएको छ।\n- मैले मेरो पुस्तकालय फाइलमा छाया थपें ​​यो तीन-आयामी प्रभाव दिन।\n- TTS ढिलाइ प्रकार्य थपिएको छ।\n- एक X बटन मेरो पुस्तकालय खोज बक्समा थपिएको छ।\n- एक कभर छवि प्रदर्शन प्रकार्य मेरो पुस्तकालय को शीर्षमा थपियो।"
+    "devnote": ".5..5.2 (2023 09 0 0))\n\n- असामान्य व्यवहार सच्याइएको छ।\n- जब मेरो पुस्तकालयको छवि असक्षम पारिएको बेला पप अप छवि देखा पर्दैन।\n- पृष्ठभूमि र color पृष्ठभूमि छवि माथि उठाइएको थियो।\n- एक पारदर्शिता सेटिंग प्रकार्य पृष्ठभूमि रंगमा थपिएको छ।\n   * यदि पृष्ठभूमि छवि धेरै उज्ज्वल छ भने, तपाइँ यसलाई कालो रंग परिवर्तन गर्न सक्नुहुनेछ यो गाढा बनाउन।\n- फन्ट छायाँहरू प्रदर्शन गरिएको बग फिक्स गरियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Biblioteklogikken min er endret.\n- Jeg la en skygge til bibliotekfilen min for å gi den en tredimensjonal effekt.\n- TTS forsinkelsesfunksjon er lagt til.\n- En X -knapp er lagt til i bibliotekets søkeboks.\n- En dekselbilde -visningsfunksjon er lagt til på toppen av biblioteket mitt."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Unormal atferd er blitt korrigert.\n- Fikset popup-bildet som ikke vises når bibliotekbildet mitt er deaktivert.\n- Bakgrunnsfargen er hevet over bakgrunnsbildet.\n- En gjennomsiktighetsinnstillingsfunksjon er lagt til bakgrunnsfargen.\n   * Hvis bakgrunnsbildet er for lyst, kan du justere bakgrunnsfargen for å gjøre det mørkere.\n- Fikset en feil der fontskygger ikke ble vist."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Min bibliotekslogik er blevet ændret.\n- Jeg føjede en skygge til min biblioteksfil for at give den en tredimensionel effekt.\n- TTS -forsinkelsesfunktion er tilføjet.\n- Der er føjet en X -knap til My Library -søgefeltet.\n- Der er tilføjet en coverbillede -displayfunktion til toppen af ​​mit bibliotek."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Unormal opførsel er korrigeret.\n- Rettet pop-up-billedet vises ikke, når My Library-billedet er deaktiveret.\n- Baggrundsfarven er hævet over baggrundsbilledet.\n- En gennemsigtighedsindstillingsfunktion er føjet til baggrundsfarven.\n   * Hvis baggrundsbilledet er for lyst, kan du justere baggrundsfarven for at gøre det mørkere.\n- Rettet en fejl, hvor skriftskygger ikke blev vist."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Meine Bibliothekslogik wurde geändert.\n- Ich habe meiner Bibliotheksdatei einen Schatten hinzugefügt, um ihm einen dreidimensionalen Effekt zu verleihen.\n- TTS -Verzögerungsfunktion wurde hinzugefügt.\n- In das Suchfeld meiner Bibliothek wurde eine X -Schaltfläche hinzugefügt.\n- Eine Deckbildanzeigefunktion wurde an die Spitze meiner Bibliothek hinzugefügt."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Abnormales Verhalten wurde korrigiert.\n- Das Pop-up-Bild wurde nicht angezeigt, das nicht angezeigt wird, wenn das My Library-Bild deaktiviert ist.\n- Die Hintergrundfarbe wurde über dem Hintergrundbild angehoben.\n- Der Hintergrundfarbe wurde eine Transparenzeinstellungsfunktion hinzugefügt.\n   * Wenn das Hintergrundbild zu hell ist, können Sie die Hintergrundfarbe einstellen, um sie dunkler zu machen.\n- Ein Fehler behoben, bei dem Schriftschatten nicht angezeigt wurden."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.5.1 (2023 09 04)\n\n- ເຫດຜົນຫ້ອງສະຫມຸດຂອງຂ້ອຍໄດ້ຖືກດັດແກ້ແລ້ວ.\n- ຂ້ອຍໄດ້ເພີ່ມເງົາເຂົ້າໃນເອກະສານຫ້ອງສະຫມຸດຂອງຂ້ອຍເພື່ອໃຫ້ມັນມີຜົນກະທົບສາມມິຕິ.\n- ຟັງຊັນ TNS DESSCE ໄດ້ຖືກເພີ່ມເຂົ້າແລ້ວ.\n- ປຸ່ມ X ໄດ້ຖືກເພີ່ມເຂົ້າໃນຫ້ອງຄົ້ນຫາຫໍສະມຸດຂອງຂ້ອຍ.\n- ຫນ້າທີ່ການສະແດງຮູບພາບການປົກຫຸ້ມຂອງຫນ້າຈໍໄດ້ຖືກເພີ່ມເຂົ້າໃນຊັ້ນເທິງຂອງຫໍສະມຸດຂອງຂ້ອຍ."
+    "devnote": "7.5.2 (2023 09 09)\n\n- ພຶດຕິກໍາທີ່ຜິດປົກກະຕິໄດ້ຖືກແກ້ໄຂແລ້ວ.\n- ແກ້ໄຂຮູບພາບທີ່ບໍ່ໄດ້ຮັບການປະກົດຕົວເມື່ອຮູບພາບຫໍສະຫມຸດຂອງຂ້ອຍຖືກປິດໃຊ້ງານ.\n- ສີພື້ນຫລັງໄດ້ຖືກຍົກຂຶ້ນມາຂ້າງເທິງຮູບພາບພື້ນຫລັງ.\n- ຫນ້າທີ່ການຕັ້ງຄວາມໂປ່ງໃສໄດ້ຖືກເພີ່ມເຂົ້າໃນພື້ນຫລັງສີ.\n   * ຖ້າຮູບພາບພື້ນຫລັງແມ່ນສົດໃສເກີນໄປ, ທ່ານສາມາດປັບສີພື້ນຫລັງເພື່ອເຮັດໃຫ້ມັນເຂັ້ມ.\n- ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ຮູບເງົາທີ່ບໍ່ໄດ້ສະແດງ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Mana bibliotēkas loģika ir modificēta.\n- Es savam bibliotēkas failam pievienoju ēnu, lai tai būtu trīsdimensiju efekts.\n- ir pievienota TTS kavēšanās funkcija.\n- Manai bibliotēkas meklēšanas lodziņam ir pievienota X poga.\n- Manas bibliotēkas augšdaļā ir pievienota vāka attēla displeja funkcija."
+    "devnote": "7.5.2 (2023 09 07)\n\n- patoloģiska uzvedība ir labota.\n- Fiksēts uznirstošais attēls, kas neparādās, kad ir atspējots mana bibliotēkas attēls.\n- Virs fona attēla ir pacelta fona krāsa.\n- Fona krāsai ir pievienota caurspīdīguma iestatīšanas funkcija.\n   * Ja fona attēls ir pārāk spilgts, varat pielāgot fona krāsu, lai tā būtu tumšāka.\n- Fiksēta kļūda, kurā netika parādītas fontu ēnas."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Моя логика библиотеки была изменена.\n- Я добавил тень в файл библиотеки, чтобы дать ему трехмерный эффект.\n- Функция задержки TTS была добавлена.\n- Кнопка x была добавлена ​​в поле поиска в моей библиотеке.\n- Функция отображения изображения обложки была добавлена ​​в верхнюю часть моей библиотеки."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Аномальное поведение было исправлено.\n- Исправлено всплывающее изображение, не отображаемое, когда изображение моей библиотеки отключено.\n- Цвет фона был поднят над фоновым изображением.\n- Функция настройки прозрачности была добавлена ​​в цвет фона.\n   * Если фоновое изображение слишком яркое, вы можете отрегулировать цвет фона, чтобы сделать его темнее.\n- Исправлена ​​ошибка, где тени шрифтов не отображались."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Logica bibliotecii mele a fost modificată.\n- Am adăugat o umbră în fișierul meu de bibliotecă pentru a-i da un efect tridimensional.\n- a fost adăugată funcția de întârziere TTS.\n- Un buton X a fost adăugat la caseta de căutare a bibliotecii mele.\n- O funcție de afișare a imaginii de copertă a fost adăugată în partea de sus a bibliotecii mele."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Comportamentul anormal a fost corectat.\n- S-a rezolvat imaginea pop-up care nu apare atunci când imaginea bibliotecii mele este dezactivată.\n- Culoarea de fundal a fost ridicată deasupra imaginii de fundal.\n- La culoarea fundalului a fost adăugată o funcție de setare a transparenței.\n   * Dacă imaginea de fundal este prea luminoasă, puteți regla culoarea de fundal pentru a o face mai întunecată.\n- S -a rezolvat o eroare în care nu au fost afișate umbre de fonturi."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Mano bibliotekos logika buvo pakeista.\n- Pridėjau šešėlį į savo bibliotekos failą, kad suteikčiau jam trijų matmenų efektą.\n- Pridėta TTS delsos funkcija.\n- Į „My Library“ paieškos laukelį pridėtas X mygtukas.\n- Mano bibliotekos viršuje buvo pridėta viršelio vaizdo ekrano funkcija."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Nenormalus elgesys buvo ištaisytas.\n- Ištaisytas iššokantis vaizdas, nepasirodantis, kai mano bibliotekos vaizdas yra išjungtas.\n- Fono spalva buvo pakelta virš fono vaizdo.\n- Į fono spalvą pridėta skaidrumo nustatymo funkcija.\n   * Jei fono vaizdas yra per ryškus, galite sureguliuoti fono spalvą, kad ji taptų tamsesnė.\n- Ištaisyta klaida, kurioje nebuvo rodomi šriftų šešėliai."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.5.1 (2023 09 04)\n\n- माझे लायब्ररी लॉजिक सुधारित केले गेले आहे.\n- मी माझ्या लायब्ररीच्या फाईलमध्ये एक त्रिमितीय प्रभाव देण्यासाठी एक छाया जोडली.\n- टीटीएस विलंब कार्य जोडले गेले आहे.\n- माझ्या लायब्ररीच्या शोध बॉक्समध्ये एक्स बटण जोडले गेले आहे.\n- माझ्या लायब्ररीच्या शीर्षस्थानी एक कव्हर इमेज डिस्प्ले फंक्शन जोडले गेले आहे."
+    "devnote": "7.5.2 (2023 09 07)\n\n- असामान्य वर्तन दुरुस्त केले गेले आहे.\n- माझी लायब्ररी प्रतिमा अक्षम केली जाते तेव्हा पॉप-अप प्रतिमा दिसून येत नाही.\n- पार्श्वभूमी रंग पार्श्वभूमीच्या प्रतिमेच्या वर वाढविला गेला आहे.\n- पार्श्वभूमी रंगात एक पारदर्शकता सेटिंग फंक्शन जोडले गेले आहे.\n   * जर पार्श्वभूमी प्रतिमा खूपच चमकदार असेल तर आपण त्यास गडद करण्यासाठी पार्श्वभूमी रंग समायोजित करू शकता.\n- फॉन्ट सावली दर्शविल्या गेलेल्या बगचे निराकरण केले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Мојата библиотека логика е изменета.\n- Додадов сенка на мојата библиотека датотека за да му дадам тродимензионален ефект.\n- Додадена е функција за одложување на ТТС.\n- Копче X е додадено во полето за пребарување на мојата библиотека.\n- Додадена е функција за прикажување на слика на сликата на горниот дел од мојата библиотека."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Корегирано е абнормално однесување.\n- Поправена поп-ап сликата што не се појавува кога сликата на мојата библиотека е оневозможена.\n- Бојата на позадината е подигната над сликата во позадина.\n- Функција за поставување на транспарентност е додадена во бојата на позадината.\n   * Ако сликата во позадина е премногу светла, можете да ја прилагодите бојата на позадината за да ја направите потемна.\n- Поправи грешка каде што не беа прикажани сенки за фонт."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.5.1 (2023 09 04)\n\n- എന്റെ ലൈബ്രറി ലോജിക് പരിഷ്ക്കരിച്ചു.\n- ത്രിമാന പ്രഭാവം നൽകുന്നതിന് ഞാൻ എന്റെ ലൈബ്രറി ഫയലിലേക്ക് ഒരു നിഴൽ ചേർത്തു.\n- ടിടിഎസ് കാലതാമസം പ്രവർത്തനം ചേർത്തു.\n- എന്റെ ലൈബ്രറി തിരയൽ ബോക്സിൽ ഒരു എക്സ് ബട്ടൺ ചേർത്തു.\n- ഒരു കവർ ഇമേജ് ഡിസ്പ്ലേ ഫംഗ്ഷൻ എന്റെ ലൈബ്രറിയുടെ മുകളിൽ ചേർത്തു."
+    "devnote": "7.5.2 (2023 09 07)\n\n- അസാധാരണമായ പെരുമാറ്റം ശരിയാക്കി.\n- എന്റെ ലൈബ്രറി ഇമേജ് അപ്രാപ്തമാക്കുമ്പോൾ പോപ്പ്-അപ്പ് ഇമേജ് പരിഹരിച്ചു.\n- പശ്ചാത്തല ചിത്രത്തിന് മുകളിൽ പശ്ചാത്തല നിറം ഉയർത്തി.\n- പശ്ചാത്തല വർണ്ണത്തിൽ ഒരു സുതാര്യത ക്രമീകരണ പ്രവർത്തനം ചേർത്തു.\n   * പശ്ചാത്തല ചിത്രം വളരെ തെളിച്ചമുള്ളതാണെങ്കിൽ, അത് ഇരുണ്ടതാക്കുന്നതിന് പശ്ചാത്തല നിറം ക്രമീകരിക്കാൻ കഴിയും.\n- ഫോണ്ട് നിഴലുകൾ പ്രദർശിപ്പിക്കാത്ത ഒരു ബഗ് പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Logik perpustakaan saya telah diubah suai.\n- Saya menambah bayang-bayang ke fail perpustakaan saya untuk memberikan kesan tiga dimensi.\n- Fungsi kelewatan TTS telah ditambah.\n- Butang X telah ditambah ke kotak carian perpustakaan saya.\n- Fungsi paparan imej penutup telah ditambah ke bahagian atas perpustakaan saya."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Tingkah laku yang tidak normal telah diperbetulkan.\n- Memperbaiki imej pop timbul tidak muncul apabila imej perpustakaan saya dilumpuhkan.\n- Warna latar belakang telah dibangkitkan di atas imej latar belakang.\n- Fungsi penetapan ketelusan telah ditambah kepada warna latar belakang.\n   * Jika imej latar belakang terlalu terang, anda boleh menyesuaikan warna latar belakang untuk menjadikannya lebih gelap.\n- Memperbaiki bug di mana bayang -bayang fon tidak dipaparkan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.5.1 (2023 09 09 04)\n\n- Миний номын сангийн логик өөрчлөгдсөн байна.\n- Би энэ номын сангийн файлд сүүдэр нэмэв. Үүнийг гурван хэмжээст нөлөө үзүүлнэ.\n- TTS-ийн хойшлуулах функц нэмэгдсэн.\n- x товчлуур нь миний номын сангийн хайлтын талбарт нэмэгдсэн.\n- Хавтасны дэлгэцийн дэлгэцийн функцийг миний номын сангийн дээд хэсэгт нэмсэн."
+    "devnote": "7.5.2.2 (2023 09 07)\n\n- хэвийн бус зан үйлийг зассан.\n- Миний номын сангийн зураг идэвхгүй болсон үед гарч ирэхгүй гарч ирэх зураг дээр гарч ирнэ.\n- арын дэвсгэр өнгийг арын дэвсгэр дээр дээшлүүлсэн.\n- Ил тод байдлын тохиргооны функцийг арын өнгөнд нэмэв.\n   * Хэрэв дэвсгэр зураг хэтэрхий гэрэл гэгээтэй бол та үүнийг бараан болгохын тулд арын өнгийг тохируулж болно.\n- Үсгийн сүүдэр гарч ирээгүй алдааг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Nire liburutegiko logika aldatu da.\n- Itzal bat gehitu diot nire liburutegiko fitxategira hiru dimentsiotako efektua emateko.\n- TTS atzerapen funtzioa gehitu da.\n- X botoia gehitu da nire liburutegiko bilaketa-koadroan.\n- Estalduraren irudiaren bistaratze funtzioa gehitu da liburutegiaren goiko aldean."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Jokabide anormala zuzendu da.\n- Nire liburutegiaren irudia desgaituta dagoenean agertzen ez den pop-up irudia konpondu da.\n- Atzeko planoaren kolorea atzeko planoaren irudiaren gainetik planteatu da.\n- Gardentasun ezarpen funtzioa gehitu da atzeko planoaren kolorean.\n   * Atzeko planoaren irudia distiratsua bada, atzeko planoaren kolorea doitu dezakezu ilunagoa izan dadin.\n- Letra-itzalak bistaratu ez ziren akats bat konpondu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.5.1 (2023 09 04)\n\n- ကျွန်ုပ်၏စာကြည့်တိုက်ယုတ္တိဗေဒကိုပြုပြင်ထားသည်။\n- ငါကသုံးဖက်မြင်အကျိုးသက်ရောက်မှုပေးရန်ငါ့စာကြည့်တိုက်ဖိုင်ကိုငါ့စာကြည့်တိုက်ဖိုင်ကိုအရိပ်ထည့်သွင်းခဲ့သည်။\n- TTS နှောင့်နှေးခြင်းလုပ်ဆောင်ချက်ကိုထည့်သွင်းထားသည်။\n- X ခလုတ်ကိုကျွန်ုပ်၏စာကြည့်တိုက်ရှာဖွေရေးအကွက်ထဲသို့ထည့်ပြီးပါပြီ။\n- အဖုံးပုံကို display function ကိုကျွန်ုပ်၏စာကြည့်တိုက်၏ထိပ်တွင်ထည့်သွင်းထားသည်။"
+    "devnote": "7.5.2 (2023 09 07)\n\n- ပုံမှန်မဟုတ်သောအပြုအမူများကိုတည့်မတ်ပေးထားသည်။\n- ကျွန်ုပ်၏စာကြည့်တိုက်ပုံကိုပိတ်ထားသည့်အခါပေါ်လာသော pop-up image မပေါ်ပါ။\n- နောက်ခံအရောင်နောက်ခံပုံအထက်တွင်ဖော်ပြထားသည်။\n- Transparency Setting function ကိုနောက်ခံအရောင်တွင်ထည့်သွင်းထားသည်။\n   * နောက်ခံပုံသည်အလွန်တောက်ပပါကနောက်ခံအရောင်ကိုသင်မှောင်မိုက်စေရန်ညှိနိုင်သည်။\n- ဖောင့်အရိပ်များကိုမပြသော bug တစ်ခု fixed ။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Logic thư viện của tôi đã được sửa đổi.\n- Tôi đã thêm một cái bóng vào tệp thư viện của mình để cung cấp cho nó hiệu ứng ba chiều.\n- Hàm độ trễ TTS đã được thêm vào.\n- Nút X đã được thêm vào hộp tìm kiếm thư viện của tôi.\n- Một chức năng hiển thị hình ảnh bìa đã được thêm vào đầu thư viện của tôi."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Hành vi bất thường đã được sửa chữa.\n- Đã sửa hình ảnh bật lên không xuất hiện khi hình ảnh thư viện của tôi bị tắt.\n- Màu nền đã được nâng lên trên hình nền.\n- Một hàm cài đặt trong suốt đã được thêm vào màu nền.\n   * Nếu hình nền quá sáng, bạn có thể điều chỉnh màu nền để làm cho nó tối hơn.\n- Đã sửa lỗi trong đó bóng phông không được hiển thị."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Мая логіка бібліятэкі была зменена.\n- Я дадаў цень у свой файл бібліятэкі, каб даць яму трохмерны эфект.\n- Была дададзена функцыя затрымкі TTS.\n- Кнопка X была дададзена ў поле пошуку маёй бібліятэкі.\n- Уверсе маёй бібліятэкі дададзена функцыя дысплея выявы вокладкі."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Паталагічнае паводзіны было выпраўлена.\n- Выпраўлена ўсплываючы малюнак, які не з'яўляецца, калі выява маёй бібліятэкі адключана.\n- Над фонавым малюнкам быў узняты колер фону.\n- У колер фону дадаецца функцыя налады празрыстасці.\n   * Калі фонавы малюнак занадта яркі, вы можаце наладзіць колер фону, каб зрабіць яго цямнейшым.\n- Выпраўлена памылка, дзе не адлюстроўваліся цені шрыфта."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.5.1 (2023 09 04)\n\n- আমার লাইব্রেরির যুক্তি সংশোধন করা হয়েছে।\n- আমি আমার লাইব্রেরি ফাইলটিতে একটি ত্রি-মাত্রিক প্রভাব দেওয়ার জন্য একটি ছায়া যুক্ত করেছি।\n- টিটিএস বিলম্ব ফাংশন যুক্ত করা হয়েছে।\n- আমার লাইব্রেরি অনুসন্ধান বাক্সে একটি এক্স বোতাম যুক্ত করা হয়েছে।\n- আমার লাইব্রেরির শীর্ষে একটি কভার ইমেজ ডিসপ্লে ফাংশন যুক্ত করা হয়েছে।"
+    "devnote": "7.5.2 (2023 09 07)\n\n- অস্বাভাবিক আচরণ সংশোধন করা হয়েছে।\n- আমার লাইব্রেরির চিত্রটি অক্ষম থাকলে পপ-আপ চিত্রটি উপস্থিত না হয়ে স্থির করে।\n- পটভূমির রঙটি ব্যাকগ্রাউন্ড চিত্রের উপরে উত্থাপিত হয়েছে।\n- পটভূমির রঙে একটি স্বচ্ছতা সেটিং ফাংশন যুক্ত করা হয়েছে।\n   * যদি ব্যাকগ্রাউন্ড চিত্রটি খুব উজ্জ্বল হয় তবে আপনি পটভূমির রঙটিকে আরও গা er ় করতে সামঞ্জস্য করতে পারেন।\n- একটি বাগ ঠিক করা হয়েছে যেখানে ফন্টের ছায়া প্রদর্শিত হয়নি।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Моята библиотечна логика е модифицирана.\n- Добавих сянка към моя библиотечен файл, за да му дам триизмерен ефект.\n- Добавена е функция за забавяне на TTS.\n- Към полето за търсене на библиотеката ми е добавен X.\n- Функцията за показване на изображението е добавена в горната част на моята библиотека."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Анормалното поведение е коригирано.\n- Фиксирано изскачащото изображение не се появява, когато изображението на моята библиотека е деактивирано.\n- Цветът на фона е повдигнат над фоновото изображение.\n- Функцията за настройка на прозрачността е добавена към цвета на фона.\n   * Ако фоновото изображение е твърде ярко, можете да регулирате цвета на фона, за да го направите по -тъмен.\n- Фиксирана грешка, при която сенките на шрифта не се показват."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Моја библиотека логика је модификована.\n- Додао сам сенку у своју библиотечку датотеку да бих га дао тродимензионални ефекат.\n- Додана је функција кашњења ТТС-а.\n- дугме Кс је додато у поље за претрагу библиотеке.\n- Функција дисплеја слике је додата у врх моје библиотеке."
+    "devnote": "7.5.2 (2023 09 07)\n\n- ненормално понашање је исправљено.\n- Поправљена скочна искачка слика која се не појављује када је слика моје библиотеке онемогућена.\n- Боја позадине је постављена изнад позадинске слике.\n- Функција подешавања транспарентности је додата у боју позадине.\n   * Ако је позадинска слика превише светла, можете подесити боју позадине да бисте је унели тамнија.\n- Поправљена је грешка у којој нису приказане сенке фонта."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Mantiki yangu ya maktaba imebadilishwa.\n- Niliongeza kivuli kwenye faili yangu ya maktaba ili kuipatia athari ya pande tatu.\n- Kazi ya kuchelewesha ya TTS imeongezwa.\n- Kitufe cha X kimeongezwa kwenye sanduku la utaftaji wa maktaba yangu.\n- Kazi ya kuonyesha picha ya kifuniko imeongezwa juu ya maktaba yangu."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Tabia isiyo ya kawaida imerekebishwa.\n- Zisizohamishika picha ya pop-up haionekani wakati picha ya maktaba yangu imezimwa.\n- Rangi ya nyuma imeinuliwa juu ya picha ya nyuma.\n- Kazi ya mpangilio wa uwazi imeongezwa kwa rangi ya nyuma.\n   * Ikiwa picha ya nyuma ni mkali sana, unaweza kurekebisha rangi ya nyuma ili kuifanya iwe nyeusi.\n- Zisizohamishika mdudu ambapo vivuli vya font hazikuonyeshwa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Min bibliotekslogik har modifierats.\n- Jag lade till en skugga till min biblioteksfil för att ge den en tredimensionell effekt.\n- TTS -fördröjningsfunktion har lagts till.\n- En X -knapp har lagts till i My Library -sökrutan.\n- En cover -bildskärmsfunktion har lagts till till toppen av mitt bibliotek."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Onormalt beteende har korrigerats.\n- Fixade popup-bilden som inte visas när min biblioteksbild är inaktiverad.\n- Bakgrundsfärgen har höjts över bakgrundsbilden.\n- En funktionsinställningsfunktion har lagts till i bakgrundsfärgen.\n   * Om bakgrundsbilden är för ljus kan du justera bakgrundsfärgen för att göra den mörkare.\n- Fixade ett fel där teckensnittsskuggor inte visades."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.5.1 (2023 09 04)\n\n- La lógica de mi biblioteca ha sido modificada.\n- Agregué una sombra a mi archivo de biblioteca para darle un efecto tridimensional.\n- Se ha agregado la función de retraso TTS.\n- Se ha agregado un botón X al cuadro de búsqueda de mi biblioteca.\n- Se ha agregado una función de visualización de imagen de portada a la parte superior de mi biblioteca."
+    "devnote": "7.5.2 (2023 09 07)\n\n- El comportamiento anormal ha sido corregido.\n- Se corrigió la imagen emergente que no aparece cuando la imagen de mi biblioteca está deshabilitada.\n- El color de fondo se ha elevado sobre la imagen de fondo.\n- Se ha agregado una función de configuración de transparencia al color de fondo.\n   * Si la imagen de fondo es demasiado brillante, puede ajustar el color de fondo para que sea más oscuro.\n- Se corrigió un error donde no se mostraban las sombras de fuente."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Moja logika knižnice bola upravená.\n- Pridal som tieň do súboru knižnice, aby som mu dal trojrozmerný efekt.\n- bola pridaná funkcia oneskorenia TTS.\n- Do vyhľadávacieho poľa mojej knižnice bolo pridané tlačidlo X.\n- Do hornej časti mojej knižnice bola pridaná funkcia zobrazenia obrazu krytu."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Abnormálne správanie bolo opravené.\n- Opravený kontextový obrázok, ktorý sa nezobrazí, keď je obrázok mojej knižnice zakázaný.\n- Farba pozadia bola zdvihnutá nad obrázok pozadia.\n- Do farby pozadia bola pridaná funkcia nastavenia transparentnosti.\n   * Ak je obrázok na pozadí príliš jasný, môžete upraviť farbu pozadia tak, aby bola tmavšia.\n- Opravená chyba, kde sa nezobrazili tiene písma."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Moja logika knjižnice je bila spremenjena.\n- V datoteko knjižnice sem dodal senco, da ji dam tridimenzionalni učinek.\n- Dodana je funkcija zakasnitve TTS.\n- V polje za iskanje knjižnice je bil dodan gumb X.\n- Na vrh moje knjižnice je bila dodana funkcija prikazane slike."
+    "devnote": "7.5.2 (2023 09 07)\n\n- nenormalno vedenje je popravljeno.\n- Odpravljena je pojavna slika, ki se ne pojavi, ko je slika moje knjižnice onemogočena.\n- Barva ozadja je bila dvignjena nad sliko ozadja.\n- V barvo ozadja je bila dodana funkcija nastavitve preglednosti.\n   * Če je slika ozadja preveč svetla, lahko prilagodite barvo ozadja, da bo temnejša.\n- Odpravljeno napako, kjer sence pisave niso bile prikazane."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.5.1 (2023 09 04)\n\n- මගේ පුස්තකාල තර්කනය වෙනස් කර ඇත.\n- මම මගේ පුස්තකාල ගොනුව ත්රිමාන බලපෑමක් ලබා දීම සඳහා සෙවනැල්ලක් එක් කළෙමි.\n- tts ප්රමාද ශ්රිතය එකතු කර ඇත.\n- මගේ පුස්තකාල සෙවුම් කොටුවට X බොත්තමක් එකතු කර ඇත.\n- ආවරණ රූප දර්ශන ශ්රිතයක් මගේ පුස්තකාලයේ ඉහළට එකතු කර ඇත."
+    "devnote": "7.5.2 (2023 09 07)\n\n- අසාමාන්ය හැසිරීම නිවැරදි කර ඇත.\n- මගේ පුස්තකාලයේ රූපය අක්රීය වූ විට උත්පතන රූපය නොපෙන්වයි.\n- පසුබිම් වර්ණය පසුබිම් රූපයට ඉහළින් ඔසවා ඇත.\n- පසුබිම් වර්ණයට විනිවිදභාවි සැකසුම් කිරීමේ කාර්යයක් එකතු කර ඇත.\n   * පසුබිම් රූපය ඉතා දීප්තිමත් නම්, ඔබට පසුබිම් වර්ණය අඳුරු කිරීම සඳහා සකස් කළ හැකිය.\n- අකුරු සෙවනැලි නොපෙන්වූ දෝෂයක් සවි කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.5.1 (2023 09 04)\n\n- تم تعديل منطق مكتبتي.\n- أضفت ظلًا إلى ملف المكتبة الخاص بي لمنحه تأثيرًا ثلاثي الأبعاد.\n- تمت إضافة وظيفة تأخير TTS.\n- تمت إضافة زر X إلى مربع بحث المكتبة الخاص بي.\n- تمت إضافة وظيفة عرض صورة الغلاف إلى الجزء العلوي من مكتبتي."
+    "devnote": "7.5.2 (2023 09 07)\n\n- تم تصحيح السلوك غير الطبيعي.\n- إصلاح الصورة المنبثقة لا تظهر عند تعطيل صورة المكتبة الخاصة بي.\n- تم رفع لون الخلفية فوق صورة الخلفية.\n- تمت إضافة وظيفة إعداد الشفافية إلى لون الخلفية.\n   * إذا كانت صورة الخلفية مشرقة جدًا ، فيمكنك ضبط لون الخلفية لجعله أغمق.\n- إصلاح خلل حيث لم يتم عرض ظلال الخط."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Իմ գրադարանի տրամաբանությունը փոփոխվել է:\n- Ես ստվեր եմ ավելացրել իմ գրադարանային ֆայլին `եռաչափ ազդեցություն տալու համար:\n- ավելացվել է TTS հետաձգման գործառույթը:\n- Իմ գրադարանի որոնման վանդակում ավելացվել է X կոճակ:\n- Իմ գրադարանի վերեւում ավելացվել է ծածկույթի պատկերների ցուցադրման գործառույթ:"
+    "devnote": "7.5.2 (2023 09 07)\n\n- Աննորմալ պահվածքը շտկվել է:\n- Fix նջված է թռուցիկ պատկերը, որը չի երեւում, երբ իմ գրադարանի պատկերն անջատված է:\n- ֆոնային գույնը բարձրացվել է ֆոնային պատկերի վերեւում:\n- Ֆոնային գույնի վրա ավելացվել է թափանցիկության կարգաբերման գործառույթ:\n   * Եթե ֆոնային պատկերը չափազանց պայծառ է, ապա այն կարող եք կարգավորել ֆոնի գույնը `այն ավելի մութ դարձնելու համար:\n- Fix նջեց մի սխալ, որտեղ տառատեսակի ստվերները չեն ցուցադրվել:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Röksemdafærslunni minni hefur verið breytt.\n- Ég bætti skugga við bókasafnsskrána mína til að gefa henni þrívíddaráhrif.\n- Seinkun TTS hefur verið bætt við.\n- X hnappur hefur verið bætt við leitarreitinn minn bókasafnið.\n- Aðgerð með forsíðu myndar hefur verið bætt við efst á bókasafninu mínu."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Óeðlileg hegðun hefur verið leiðrétt.\n- Lagaði sprettiglugginn sem birtist ekki þegar mynd bókasafnsins mín er óvirk.\n- Bakgrunnsliturinn hefur verið hækkaður fyrir ofan bakgrunnsmyndina.\n- Gagnsæisaðgerð hefur verið bætt við bakgrunnslitinn.\n   * Ef bakgrunnsmyndin er of björt geturðu stillt bakgrunnslitinn til að gera það dekkri.\n- Lagaði villu þar sem leturskuggar voru ekki sýndir."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Kitabxana məntiqim dəyişdirildi.\n- Üç ölçülü bir effekt vermək üçün kitabxana sənədimə bir kölgə əlavə etdim.\n- TTS gecikmə funksiyası əlavə edildi.\n- Kitabxana axtarış qutusuna bir X düyməsi əlavə edildi.\n- Kitabxanamın yuxarı hissəsinə bir örtük görüntü ekran funksiyası əlavə edildi."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Anormal davranış düzəldildi.\n- Kitabxana görüntüsüm əlil olduqda görünməyən pop-up görüntüsünü düzəldin.\n- Fon rəngi arxa görüntünün üstündə qaldırıldı.\n- Şəffaflıq parametrləri funksiyası fon rənginə əlavə edildi.\n   * Fon görüntüsü çox parlaqdırsa, onu qaranlıq etmək üçün fon rəngini tənzimləyə bilərsiniz.\n- Şrift kölgələrinin görünmədiyi bir səhv düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.5.1 (2023 09 04)\n\n- My biblioteeklogika is verander.\n- Ek het 'n skaduwee by my biblioteeklêer gevoeg om dit 'n driedimensionele effek te gee.\n- TTS -vertragingsfunksie is bygevoeg.\n- 'n X -knoppie is bygevoeg by die My Library -soekkassie.\n- 'n Dekfunksie -vertoonfunksie is aan die bokant van my biblioteek gevoeg."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Abnormale gedrag is reggestel.\n- Die pop-up-beeld het reggestel wat nie verskyn as die my biblioteekafbeelding gedeaktiveer is nie.\n- Die agtergrondkleur is bo die agtergrondprent opgelig.\n- 'n Deursigtigheidsinstellingsfunksie is by die agtergrondkleur gevoeg.\n   * As die agtergrondprent te helder is, kan u die agtergrondkleur aanpas om dit donkerder te maak.\n- 'n fout reggestel waar lettertipe skaduwees nie vertoon is nie."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Logjika ime e bibliotekës është modifikuar.\n- Unë shtova një hije në skedarin tim të bibliotekës për t'i dhënë asaj një efekt tre-dimensionale.\n- Funksioni i vonesës TTS është shtuar.\n- Një buton X është shtuar në kutinë e kërkimit të bibliotekës time.\n- Një funksion i ekranit të imazhit të mbuluar është shtuar në krye të bibliotekës sime."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Sjellja jonormale është korrigjuar.\n- Fiksoi imazhin që shfaqet që nuk shfaqet kur imazhi im i bibliotekës është i çaktivizuar.\n- Ngjyra e sfondit është ngritur mbi imazhin e sfondit.\n- Një funksion i përcaktimit të transparencës është shtuar në ngjyrën e sfondit.\n   * Nëse imazhi i sfondit është shumë i ndritshëm, mund të rregulloni ngjyrën e sfondit për ta bërë atë më të errët.\n- Fiksuar një gabim ku nuk u shfaqën hijet e shkronjave."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.5.1 (2023 09 04)\n\n- የእኔ የቤተ-መጽሐፍት አመክንዮ ተሻሽሏል.\n- ባለሶስት-ልኬት ውጤት ለመስጠት ለቤተ-መጻህፍት ፋይል ጥላን አክሬያለሁ.\n- የ TTS መዘግየት ተግባር ታክሏል.\n- የ x አዝራር በጄምስ ፍለጋ ሳጥንዎ ውስጥ ታክሏል.\n- የሽፋን ምስል ማሳያ ተግባር ወደ ቤተመጽሐፍቴ አናት ላይ ተጨምሯል."
+    "devnote": "7.5.2 (2023 09 07)\n\n- ያልተለመደ ባህሪ ተስተካክሏል.\n- የቤተ መፃህፍት ምስል ተሰናክሏል በሚሆንበት ጊዜ ብቅ-ባይ ምስሉን አይመለከትም.\n- ከበስተጀርባ ምስሉ በላይ የጀርባ ቀለም ተነስቷል.\n- ግልፅነት የጽሑፍ ማቀናበር ተግባር ወደ ዳራ ቀለም ተጨምሯል.\n   * የበስተጀርባው ምስሉ በጣም ብሩህ ከሆነ, ጨለማውን ለማፍራት የጀርባ ቀለም ማስተካከል ይችላሉ.\n- የቃላት ጥላዎች ያልታዩበት ሳንካን ተጠግኗል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Minu raamatukogu loogikat on muudetud.\n- Lisasin oma raamatukogu faili varju, et anda sellele kolmemõõtmeline efekt.\n- TTS viivitusfunktsioon on lisatud.\n- Minu teegi otsingukasti on lisatud X -nupp.\n- Minu teegi ülaossa on lisatud kaanepildi kuvamise funktsioon."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Ebanormaalne käitumine on parandatud.\n- Parandatud hüpikpilt ei ilmu, kui minu teegi pilt on keelatud.\n- Taustvärv on tõstetud taustpildi kohal.\n- Taustavärvile on lisatud läbipaistvuse seadistamise funktsioon.\n   * Kui taustpilt on liiga hele, saate taustvärvi reguleerida, et see oleks tumedam.\n- Parandatud viga, kus fondi varjusid ei kuvatud."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.5.1 (2023 09 04)\n\n- میری لائبریری منطق میں ترمیم کی گئی ہے۔\n- میں نے اپنی لائبریری فائل میں ایک سایہ شامل کیا تاکہ اسے تین جہتی اثر دیا جاسکے۔\n- ٹی ٹی ایس میں تاخیر کا فنکشن شامل کیا گیا ہے۔\n- میرے لائبریری سرچ باکس میں ایک ایکس بٹن شامل کیا گیا ہے۔\n- میری لائبریری کے اوپری حصے میں ایک کور امیج ڈسپلے فنکشن شامل کیا گیا ہے۔"
+    "devnote": "7.5.2 (2023 09 07)\n\n- غیر معمولی سلوک کو درست کیا گیا ہے۔\n- جب میری لائبریری کی تصویر غیر فعال ہو تو پاپ اپ امیج کو ظاہر نہیں کیا گیا۔\n- پس منظر کا رنگ پس منظر کی شبیہہ کے اوپر اٹھایا گیا ہے۔\n- پس منظر کے رنگ میں شفافیت کی ترتیب کا فنکشن شامل کیا گیا ہے۔\n   * اگر پس منظر کی شبیہہ بہت روشن ہے تو ، آپ اس کو سیاہ کرنے کے لئے پس منظر کا رنگ ایڈجسٹ کرسکتے ہیں۔\n- ایک بگ طے کیا جہاں فونٹ کے سائے ظاہر نہیں ہوئے تھے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Моя логіка бібліотеки модифікована.\n- Я додав тінь до свого бібліотечного файлу, щоб надати йому тривимірний ефект.\n- Додано функцію затримки TTS.\n- до вікна пошуку моєї бібліотеки додано кнопку X.\n- Функція відображення обкладинки додається до вершини моєї бібліотеки."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Ненормальна поведінка була виправлена.\n- Виправлено спливаюче зображення, яке не з’являється, коли зображення моєї бібліотеки вимкнено.\n- Колір фону був піднятий над фоновим зображенням.\n- Функція налаштування прозорості додана до кольору фону.\n   * Якщо фонове зображення занадто яскраве, ви можете відрегулювати колір фону, щоб зробити його темнішим.\n- Виправлена ​​помилка, де тіні шрифтів не відображалися."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.5.1 (2023 09 04)\n\n- La logica della mia libreria è stata modificata.\n- Ho aggiunto un'ombra al mio file della libreria per dargli un effetto tridimensionale.\n- È stata aggiunta la funzione di ritardo di TTS.\n- Un pulsante X è stato aggiunto alla casella di ricerca della mia libreria.\n- Una funzione di visualizzazione dell'immagine di copertina è stata aggiunta nella parte superiore della mia libreria."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Il comportamento anormale è stato corretto.\n- Risolto l'immagine pop-up che non appare quando l'immagine della mia libreria è disabilitata.\n- Il colore di sfondo è stato sollevato sopra l'immagine di sfondo.\n- Una funzione di impostazione di trasparenza è stata aggiunta al colore di sfondo.\n   * Se l'immagine di sfondo è troppo luminosa, è possibile regolare il colore di sfondo per renderlo più scuro.\n- Risolto un bug in cui le ombre del carattere non venivano visualizzate."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Logika perpustakaan saya telah dimodifikasi.\n- Saya menambahkan bayangan ke file perpustakaan saya untuk memberikan efek tiga dimensi.\n- Fungsi penundaan TTS telah ditambahkan.\n- Tombol X telah ditambahkan ke kotak pencarian perpustakaan saya.\n- Fungsi tampilan gambar penutup telah ditambahkan ke bagian atas perpustakaan saya."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Perilaku abnormal telah diperbaiki.\n- Memperbaiki gambar pop-up yang tidak muncul saat gambar perpustakaan saya dinonaktifkan.\n- Warna latar belakang telah dinaikkan di atas gambar latar belakang.\n- Fungsi pengaturan transparansi telah ditambahkan ke warna latar belakang.\n   * Jika gambar latar belakang terlalu cerah, Anda dapat menyesuaikan warna latar belakang untuk membuatnya lebih gelap.\n- Memperbaiki bug di mana bayangan font tidak ditampilkan."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.5.1（2023 09 04）\n\n - 私のライブラリロジックが変更されました。\n-3次元の効果を与えるために、ライブラリファイルに影を追加しました。\n-TTS遅延機能が追加されました。\n-Xボタンが私のライブラリ検索ボックスに追加されました。\n - カバー画像表示機能がライブラリの上部に追加されました。"
+    "devnote": "7.5.2（2023 09 07）\n\n - 異常な挙動が修正されました。\n - 私のライブラリイメージが無効になっているときに表示されないポップアップ画像を修正しました。\n - 背景の色は背景画像の上に上げられています。\n - 背景色に透明性設定関数が追加されました。\n   *背景画像が明るすぎる場合、背景色を調整して暗くすることができます。\n - フォントシャドウが表示されないバグを修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.5.1 (2023 09 04)\n\n- შეიცვალა ჩემი ბიბლიოთეკის ლოგიკა.\n- მე დავამატე ჩრდილი ჩემს ბიბლიოთეკის ფაილში, რომ მას სამგანზომილებიანი ეფექტი მივცე.\n- დაემატა TTS დაგვიანების ფუნქცია.\n- X ღილაკს დაემატა ჩემი ბიბლიოთეკის საძიებო ყუთში.\n- ჩემი ბიბლიოთეკის ზედა ნაწილში დაემატა საფარის გამოსახულების ჩვენების ფუნქცია."
+    "devnote": "7.5.2 (2023 09 07)\n\n- გამოსწორდა არანორმალური ქცევა.\n- დაფიქსირდა pop-up სურათი, რომელიც არ ჩანს, როდესაც ჩემი ბიბლიოთეკის სურათი გამორთულია.\n- ფონის ფერი გაიზარდა ფონის სურათის ზემოთ.\n- გამჭვირვალეობის პარამეტრის ფუნქცია დაემატა ფონის ფერს.\n   * თუ ფონის სურათი ძალიან ნათელია, შეგიძლიათ შეცვალოთ ფონის ფერი, რომ ის მუქი გახადოთ.\n- დააფიქსირა შეცდომა, სადაც შრიფტის ჩრდილები არ იყო ნაჩვენები."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.5.1 (2023 09 04)\n\n- I-Library Logic yami iguquliwe.\n- Ngingeze isithunzi efayilini lami lomtapo wezincwadi ukuze ngilinikeze umphumela onezici ezintathu.\n- Umsebenzi wokulibaziseka kwe-TTS ungeziwe.\n- Inkinobho ye-X yengezwe ebhokisini lami lokusesha umtapo wami.\n- Umsebenzi wokubonisa wesithombe wesembozo ungezwe phezulu kwelabhulali yami."
+    "devnote": "7.5.2 (2023 07 07)\n\n- Ukuziphatha okungajwayelekile kulungisiwe.\n- Kulungiswe isithombe se-pop-up esingaveli lapho isithombe se-sabrary yami sikhutshaziwe.\n- Umbala wangemuva uphakanyiswe ngenhla kwesithombe sangemuva.\n- Umsebenzi wokusetha ukuvela kokunye uyengezelwe ngombala wangemuva.\n   * Uma isithombe sangemuva sikhanya kakhulu, ungaguqula umbala wangemuva ukuwenza ube mnyama.\n- Ukulungiswa kwesiphazamiso lapho amathunzi wefonti engakhonjiswanga."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.5.1（2023 09 04）\n\n - 我的库逻辑已修改。\n - 我在库文件中添加了阴影，以使其具有三维效果。\n-TTS延迟功能已添加。\n -  X按钮已添加到我的库搜索框中。\n - 封面图像显示功能已添加到我的库顶部。"
+    "devnote": "7.5.2（2023 09 07）\n\n - 纠正了异常行为。\n - 修复了当我的库映像被禁用时未出现的弹出映像。\n - 背景颜色已在背景图像上方提出。\n - 透明设置功能已添加到背景颜色中。\n   *如果背景图像太亮，则可以调整背景颜色以使其更暗。\n - 修复了未显示字体阴影的错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.5.1（2023 09 04）\n\n - 我的庫邏輯已修改。\n - 我在庫文件中添加了陰影，以使其具有三維效果。\n-TTS延遲功能已添加。\n -  X按鈕已添加到我的庫搜索框中。\n - 封面圖像顯示功能已添加到我的庫頂部。"
+    "devnote": "7.5.2（2023 09 07）\n\n - 糾正了異常行為。\n - 修復了當我的庫映像被禁用時未出現的彈出映像。\n - 背景顏色已在背景圖像上方提出。\n - 透明設置功能已添加到背景顏色中。\n   *如果背景圖像太亮，則可以調整背景顏色以使其更暗。\n - 修復了未顯示字體陰影的錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.5.1（2023 09 04）\n\n - 我的庫邏輯已修改。\n - 我在庫文件中添加了陰影，以使其具有三維效果。\n-TTS延遲功能已添加。\n -  X按鈕已添加到我的庫搜索框中。\n - 封面圖像顯示功能已添加到我的庫頂部。"
+    "devnote": "7.5.2（2023 09 07）\n\n - 糾正了異常行為。\n - 修復了當我的庫映像被禁用時未出現的彈出映像。\n - 背景顏色已在背景圖像上方提出。\n - 透明設置功能已添加到背景顏色中。\n   *如果背景圖像太亮，則可以調整背景顏色以使其更暗。\n - 修復了未顯示字體陰影的錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Logika mé knihovny byla upravena.\n- Do souboru knihovny jsem přidal stín, abych mu dal trojrozměrný účinek.\n- Byla přidána funkce zpoždění TTS.\n- Do vyhledávacího pole mé knihovny bylo přidáno tlačítko X.\n- Do horní části mé knihovny byla přidána funkce zobrazení obrázku krycího obrazu."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Abnormální chování bylo opraveno.\n- Opraven vyskakovací obrázek, který se neobjeví, když je obrázek mé knihovny deaktivován.\n- Barva pozadí byla zvýšena nad obrázkem na pozadí.\n- K barvě pozadí byla přidána funkce nastavení transparentnosti.\n   * Pokud je obrázek na pozadí příliš jasný, můžete upravit barvu pozadí tak, aby byla tmavší.\n- Opravena chyba, kde nebyly zobrazeny stíny písma."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Менің кітапханамның логикасы өзгертілді.\n- Мен кітапхана файлыма көлеңке қосып, оған үш өлшемді әсер беру үшін қостым.\n- TTS кешіктіріп бастау функциясы қосылды.\n- Менің кітапханамды іздеу жолағына x түймесі қосылды.\n- Менің кітапханамның жоғарғы жағына мұқаба кескіні дисплейі қосылды."
+    "devnote": "7.5.2 (2023 09 07)\n\n- қалыптан тыс мінез-құлық түзетілді.\n- Менің кітапханам кескіні өшірілген кезде қалқымалы кескін пайда болмайды.\n- Фондық түс фондық кескіннің үстінде өсті.\n- Firstrency Setting функциясы фондық түске қосылды.\n   * Егер фондық сурет тым ашық болса, оны күңгірт ету үшін өң түсін реттеуге болады.\n- Қаріптің көлеңкелері көрсетілмеген қатені түзетіңіз."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.5.1 (2023 09 04)\n\n- La meva lògica de la biblioteca s'ha modificat.\n- He afegit una ombra al meu fitxer de biblioteca per donar-li un efecte tridimensional.\n- S'ha afegit la funció de retard TTS.\n- S'ha afegit un botó X al quadre de cerca de la meva biblioteca.\n- S'ha afegit una funció de visualització d'imatges de portada a la part superior de la meva biblioteca."
+    "devnote": "7.5.2 (2023 09 07)\n\n- S'ha corregit un comportament anormal.\n- S'ha corregit la imatge emergent que no apareix quan la imatge de la meva biblioteca està desactivada.\n- El color de fons s'ha plantejat per sobre de la imatge de fons.\n- S'ha afegit una funció de configuració de transparència al color de fons.\n   * Si la imatge de fons és massa brillant, podeu ajustar el color de fons per fer -lo més fosc.\n- S'ha corregit un error on no es mostraven les ombres de tipus de lletra."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.5.1 (2023 09 04)\n\n- ನನ್ನ ಲೈಬ್ರರಿ ತರ್ಕವನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ನನ್ನ ಲೈಬ್ರರಿ ಫೈಲ್‌ಗೆ ಮೂರು ಆಯಾಮದ ಪರಿಣಾಮವನ್ನು ನೀಡಲು ನಾನು ನೆರಳು ಸೇರಿಸಿದೆ.\n- ಟಿಟಿಎಸ್ ವಿಳಂಬ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ನನ್ನ ಲೈಬ್ರರಿ ಹುಡುಕಾಟ ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ ಎಕ್ಸ್ ಬಟನ್ ಸೇರಿಸಲಾಗಿದೆ.\n- ನನ್ನ ಲೈಬ್ರರಿಯ ಮೇಲ್ಭಾಗಕ್ಕೆ ಕವರ್ ಇಮೇಜ್ ಪ್ರದರ್ಶನ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ."
+    "devnote": "7.5.2 (2023 09 07)\n\n- ಅಸಹಜ ನಡವಳಿಕೆಯನ್ನು ಸರಿಪಡಿಸಲಾಗಿದೆ.\n- ನನ್ನ ಲೈಬ್ರರಿ ಚಿತ್ರವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದಾಗ ಪಾಪ್-ಅಪ್ ಚಿತ್ರ ಕಾಣಿಸುವುದಿಲ್ಲ.\n- ಹಿನ್ನೆಲೆ ಬಣ್ಣವನ್ನು ಹಿನ್ನೆಲೆ ಚಿತ್ರದ ಮೇಲೆ ಬೆಳೆಸಲಾಗಿದೆ.\n- ಹಿನ್ನೆಲೆ ಬಣ್ಣಕ್ಕೆ ಪಾರದರ್ಶಕತೆ ಸೆಟ್ಟಿಂಗ್ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n   * ಹಿನ್ನೆಲೆ ಚಿತ್ರವು ತುಂಬಾ ಪ್ರಕಾಶಮಾನವಾಗಿದ್ದರೆ, ಹಿನ್ನೆಲೆ ಬಣ್ಣವನ್ನು ಗಾ er ವಾಗಿಸಲು ನೀವು ಹೊಂದಿಸಬಹುದು.\n- ಫಾಂಟ್ ನೆರಳುಗಳನ್ನು ಪ್ರದರ್ಶಿಸದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Moja je bibliotečka logika izmijenjena.\n- Dodao sam sjenu u svoju bibliotečku datoteku kako bih joj dao trodimenzionalni učinak.\n- Dodana je funkcija kašnjenja TTS -a.\n- U okvir za pretraživanje My Library dodan je gumb X.\n- U vrh moje knjižnice dodana je funkcija prikaza naslovne slike."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Ispravljeno je nenormalno ponašanje.\n- Popravljena je skočna slika koja se ne pojavljuje kada je slika moje biblioteke onemogućena.\n- Boja pozadine podignuta je iznad pozadinske slike.\n- U boju pozadine dodana je funkcija postavljanja transparentnosti.\n   * Ako je pozadinska slika previše svijetla, možete prilagoditi boju pozadine kako biste je učinili tamnijom.\n- Ispravljena je greška u kojoj nisu bile prikazane sjene fontova."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.5.1 (2023 09 04)\n\n- តក្កវិជ្ជាបណ្ណាល័យរបស់ខ្ញុំត្រូវបានកែប្រែ។\n- ខ្ញុំបានបន្ថែមស្រមោលមួយទៅឯកសារបណ្ណាល័យរបស់ខ្ញុំដើម្បីផ្តល់ឱ្យវានូវបែបផែនបីវិមាត្រ។\nមុខងារពន្យារពេល TTS ត្រូវបានបន្ថែម។\nប៊ូតុង X ត្រូវបានបន្ថែមទៅប្រអប់ស្វែងរកបណ្ណាល័យរបស់ខ្ញុំ។\nមុខងារបង្ហាញរូបភាពគម្របត្រូវបានបន្ថែមទៅផ្នែកខាងលើនៃបណ្ណាល័យរបស់ខ្ញុំ។"
+    "devnote": "7.5.2 (2023 09 07)\n\n- អាកប្បកិរិយាមិនធម្មតាត្រូវបានកែដំរូវ។\n- ជួសជុលរូបភាពលេចចេញមកមិនលេចចេញទេនៅពេលដែលរូបភាពបណ្ណាល័យរបស់ខ្ញុំត្រូវបានបិទ។\n- ពណ៌ផ្ទៃខាងក្រោយត្រូវបានលើកឡើងនៅខាងលើរូបភាពផ្ទៃខាងក្រោយ។\nមុខងារកំណត់តម្លាភាពត្រូវបានបន្ថែមទៅពណ៌ផ្ទៃខាងក្រោយ។\n   * ប្រសិនបើរូបភាពផ្ទៃខាងក្រោយភ្លឺពេកអ្នកអាចលៃតម្រូវពណ៌ផ្ទៃខាងក្រោយដើម្បីធ្វើឱ្យវាងងឹតកាន់តែខ្មៅ។\n- ជួសជុលកំហុសដែលស្រមោលពុម្ពអក្សរមិនត្រូវបានបង្ហាញ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.5.1 (2023 09 09)\n\n- Менин китепканам логикасы өзгөртүлдү.\n- Мен аны үч өлчөмдүү эффектти берүү үчүн менин китепканам файлыма көлөкө коштум.\n- TTS кечигүү функциясы кошулду.\n- Менин китепкананын Издөө кутусуна X баскычы кошулду.\n- Менин китепканамдын башына мукабанын сүрөтүн дисплей функциясы кошулду."
+    "devnote": "7.5.2 (2023 09 09)\n\n- анормалдуу жүрүм-турум оңдолгон.\n- Менин китепкананын сүрөтү өчүрүлгөндө, калкып чыккан сүрөттү оңдолбойт.\n- фон түсү фон сүрөтүнөн жогору көтөрүлдү.\n- ачык-айкындык коюу функциясы фон түсүнө кошулган.\n   * Эгерде фон сүрөтү өтө эле жарык болсо, анда сиз аны караңгы кылуу үчүн фон түсүн жөнгө салсаңыз болот.\n- Арип көлөкө көрүнбөгөн мүчүлүштүгүн белгиледи."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.5.1 (2023 09 04)\n\n- எனது நூலக தர்க்கம் மாற்றியமைக்கப்பட்டுள்ளது.\n- முப்பரிமாண விளைவைக் கொடுக்க எனது நூலகக் கோப்பில் ஒரு நிழலைச் சேர்த்தேன்.\n- TTS தாமத செயல்பாடு சேர்க்கப்பட்டுள்ளது.\n- எனது நூலக தேடல் பெட்டியில் ஒரு எக்ஸ் பொத்தான் சேர்க்கப்பட்டுள்ளது.\n- எனது நூலகத்தின் மேற்புறத்தில் ஒரு கவர் பட காட்சி செயல்பாடு சேர்க்கப்பட்டுள்ளது."
+    "devnote": "7.5.2 (2023 09 07)\n\n- அசாதாரண நடத்தை சரி செய்யப்பட்டுள்ளது.\n- எனது நூலக படம் முடக்கப்பட்டிருக்கும் போது தோன்றாத பாப்-அப் படம் சரி செய்யப்பட்டது.\n- பின்னணி வண்ணம் பின்னணி படத்திற்கு மேலே உயர்த்தப்பட்டுள்ளது.\n- பின்னணி நிறத்தில் ஒரு வெளிப்படைத்தன்மை அமைப்பு செயல்பாடு சேர்க்கப்பட்டுள்ளது.\n   * பின்னணி படம் மிகவும் பிரகாசமாக இருந்தால், பின்னணி நிறத்தை இருட்டாக மாற்றலாம்.\n- எழுத்துரு நிழல்கள் காட்டப்படாத ஒரு பிழை சரி செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.5.1 (2023 09 04)\n\n- ตรรกะของห้องสมุดของฉันได้รับการแก้ไขแล้ว\n- ฉันเพิ่มเงาลงในไฟล์ไลบรารีของฉันเพื่อให้ได้เอฟเฟกต์สามมิติ\n- เพิ่มฟังก์ชั่นการหน่วงเวลา TTS แล้ว\n- มีการเพิ่มปุ่ม X ลงในช่องค้นหาห้องสมุดของฉัน\n- มีการเพิ่มฟังก์ชั่นการแสดงภาพหน้าปกที่ด้านบนของไลบรารีของฉัน"
+    "devnote": "7.5.2 (2023 09 07)\n\n- พฤติกรรมที่ผิดปกติได้รับการแก้ไข\n- แก้ไขภาพป๊อปอัพที่ไม่ปรากฏขึ้นเมื่อภาพห้องสมุดของฉันถูกปิดใช้งาน\n- สีพื้นหลังได้รับการยกขึ้นเหนือภาพพื้นหลัง\n- มีการเพิ่มฟังก์ชั่นการตั้งค่าความโปร่งใสลงในสีพื้นหลัง\n   * หากภาพพื้นหลังสว่างเกินไปคุณสามารถปรับสีพื้นหลังเพื่อให้เข้มขึ้น\n- แก้ไขข้อผิดพลาดที่ไม่แสดงเงาตัวอักษร"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Kütüphane mantığım değiştirildi.\n- Kütüphane dosyama üç boyutlu bir etki vermek için bir gölge ekledim.\n- TTS gecikme işlevi eklendi.\n- Kütüphane arama kutusuna bir x düğmesi eklendi.\n- Kütüphanemin üstüne bir kapak görüntüsü görüntüleme işlevi eklendi."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Anormal davranış düzeltildi.\n- Kütüphane resmim devre dışı bırakıldığında açılır görüntü görünmüyor.\n- Arka plan rengi arka plan görüntüsünün üzerine yükseltildi.\n- Arka plan rengine bir şeffaflık ayar fonksiyonu eklendi.\n   * Arka plan görüntüsü çok parlaksa, arka plan rengini daha koyu hale getirmek için ayarlayabilirsiniz.\n- Yazı tipi gölgelerinin görüntülenmediği bir hata düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.5.1 (2023 09 04)\n\n- నా లైబ్రరీ లాజిక్ సవరించబడింది.\n- నా లైబ్రరీ ఫైల్‌కు త్రిమితీయ ప్రభావాన్ని ఇవ్వడానికి నేను నీడను జోడించాను.\n- TTS ఆలస్యం ఫంక్షన్ జోడించబడింది.\n- నా లైబ్రరీ శోధన పెట్టెకు X బటన్ జోడించబడింది.\n- కవర్ ఇమేజ్ డిస్ప్లే ఫంక్షన్ నా లైబ్రరీ పైభాగంలో జోడించబడింది."
+    "devnote": "7.5.2 (2023 09 07)\n\n- అసాధారణ ప్రవర్తన సరిదిద్దబడింది.\n- నా లైబ్రరీ చిత్రం నిలిపివేయబడినప్పుడు పాప్-అప్ చిత్రం కనిపించలేదు.\n- నేపథ్య రంగు నేపథ్య చిత్రం పైన పెంచబడింది.\n- పారదర్శకత సెట్టింగ్ ఫంక్షన్ నేపథ్య రంగుకు జోడించబడింది.\n   * నేపథ్య చిత్రం చాలా ప్రకాశవంతంగా ఉంటే, మీరు నేపథ్య రంగును ముదురు రంగులోకి మార్చవచ్చు.\n- ఫాంట్ నీడలు ప్రదర్శించబడని బగ్ పరిష్కరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.5.1 (2023 09 04)\n\n- ਮੇਰੇ ਲਾਇਬ੍ਰੇਰੀ ਤਰਕ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ.\n- ਮੈਂ ਇਸ ਨੂੰ ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ ਫਾਈਲ ਵਿੱਚ ਤਿੰਨ-ਅਯਾਮੀ ਪ੍ਰਭਾਵ ਦੇਣ ਲਈ ਇੱਕ ਪਰਛਾਵਾਂ ਸ਼ਾਮਲ ਕੀਤਾ.\n- ਟੀ ਟੀ ਦੇਰੀ ਕਾਰਜ ਨੂੰ ਜੋੜਿਆ ਗਿਆ ਹੈ.\n- ਇੱਕ ਐਕਸ ਬਟਨ ਨੂੰ ਮੇਰੇ ਲਾਇਬ੍ਰੇਰੀ ਸਰਚ ਬਾਕਸ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ ਹੈ.\n- ਇੱਕ ਕਵਰ ਇਮੇਜ ਡਿਸਪਲੇਅ ਫੰਕਸ਼ਨ ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ ਦੇ ਸਿਖਰ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ ਹੈ."
+    "devnote": "7.5.2 (2023 09 07)\n\n- ਅਸਧਾਰਨ ਵਿਵਹਾਰ ਨੂੰ ਸਹੀ ਕੀਤਾ ਗਿਆ ਹੈ.\n- ਆਡੀਓ ਅਪ ਚਿੱਤਰ ਨੂੰ ਪ੍ਰਦਰਸ਼ਿਤ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ ਜਦੋਂ ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ ਦੀ ਤਸਵੀਰ ਅਸਮਰਥਿਤ ਹੁੰਦੀ ਹੈ.\n- ਬੈਕਗ੍ਰਾਉਂਡ ਚਿੱਤਰ ਦੇ ਉੱਪਰ ਬੈਕਗ੍ਰਾਉਂਡ ਰੰਗ ਉਭਾਰਿਆ ਗਿਆ ਹੈ.\n- ਇੱਕ ਪਾਰਦਰਸ਼ਕਰਤਾ ਦੇ ਸਮੂਹ ਵਿੱਚ ਬੈਕਗ੍ਰਾਉਂਡ ਰੰਗ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ ਹੈ.\n   * ਜੇ ਬੈਕਗਰਾ .ਂਡ ਚਿੱਤਰ ਬਹੁਤ ਚਮਕਦਾਰ ਹੈ, ਤਾਂ ਤੁਸੀਂ ਇਸ ਨੂੰ ਗੂੜ੍ਹਾ ਬਣਾਉਣ ਲਈ ਬੈਕਗਰਾ .ਂਡ ਰੰਗ ਨੂੰ ਵਿਵਸਥਿਤ ਕਰ ਸਕਦੇ ਹੋ.\n- ਇੱਕ ਬੱਗ ਫਨਜ਼ ਬੱਗ ਫਨਜ਼ ਫਨਜ਼ ਵਿੱਚ ਨਹੀਂ ਵੇਖਾਇਆ ਗਿਆ ਸੀ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.5.1 (2023 09 04)\n\n- منطق کتابخانه من اصلاح شده است.\n- من سایه ای را به پرونده کتابخانه خود اضافه کردم تا اثر سه بعدی به آن بدهم.\n- عملکرد تأخیر TTS اضافه شده است.\n- یک دکمه X به کادر جستجوی کتابخانه من اضافه شده است.\n- یک تابع نمایشگر تصویر جلد به بالای کتابخانه من اضافه شده است."
+    "devnote": "7.5.2 (2023 09 07)\n\n- رفتار غیر طبیعی اصلاح شده است.\n- هنگامی که تصویر کتابخانه من غیرفعال است ، تصویر پاپ آپ ظاهر نمی شود.\n- رنگ پس زمینه در بالای تصویر پس زمینه مطرح شده است.\n- یک عملکرد تنظیم شفافیت به رنگ پس زمینه اضافه شده است.\n   * اگر تصویر پس زمینه خیلی روشن است ، می توانید رنگ پس زمینه را تنظیم کنید تا آن را تیره تر کنید.\n- اشکالی را برطرف کرد که سایه های قلم نمایش داده نشده است."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Minha lógica da biblioteca foi modificada.\n- Adicionei uma sombra ao meu arquivo de biblioteca para fornecer um efeito tridimensional.\n- A função de atraso TTS foi adicionada.\n- Um botão X foi adicionado à caixa de pesquisa da minha biblioteca.\n- Uma função de exibição da imagem da capa foi adicionada ao topo da minha biblioteca."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Comportamento anormal foi corrigido.\n- Corrigido a imagem pop-up não aparecendo quando a imagem da minha biblioteca está desativada.\n- A cor do fundo foi levantada acima da imagem de fundo.\n- Uma função de configuração de transparência foi adicionada à cor de fundo.\n   * Se a imagem de fundo estiver muito brilhante, você poderá ajustar a cor do fundo para torná -la mais escura.\n- Corrigido um bug em que as sombras não foram exibidas."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Moja logika biblioteki została zmodyfikowana.\n- Dodałem cień do mojego pliku biblioteki, aby nadać mu trójwymiarowy efekt.\n- Dodano funkcję opóźnienia TTS.\n- Do pola wyszukiwania biblioteki dodano przycisk X.\n- Na górze mojej biblioteki dodano funkcję wyświetlania obrazu okładki."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Nieprawidłowe zachowanie zostało poprawione.\n- Naprawiono wyskakujący obraz, który nie pojawia się, gdy obraz mojej biblioteki jest wyłączony.\n- Kolor tła został podniesiony nad obrazem tła.\n- Do koloru tła dodano funkcję ustawienia przezroczystości.\n   * Jeśli obraz tła jest zbyt jasny, możesz dostosować kolor tła, aby był ciemniejszy.\n- Naprawiono błąd, w którym nie wyświetlano cieni czcionek."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Ma logique de bibliothèque a été modifiée.\n- J'ai ajouté une ombre à mon fichier de bibliothèque pour lui donner un effet tridimensionnel.\n- La fonction de retard TTS a été ajoutée.\n- Un bouton X a été ajouté à la zone de recherche de ma bibliothèque.\n- Une fonction d'affichage d'image de couverture a été ajoutée en haut de ma bibliothèque."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Un comportement anormal a été corrigé.\n- Correction de l'image contextuelle n'apparaissant pas lorsque l'image de ma bibliothèque est désactivée.\n- La couleur d'arrière-plan a été soulevée au-dessus de l'image d'arrière-plan.\n- Une fonction de réglage de transparence a été ajoutée à la couleur d'arrière-plan.\n   * Si l'image d'arrière-plan est trop lumineuse, vous pouvez ajuster la couleur d'arrière-plan pour la rendre plus foncée.\n- Correction d'un bug où les ombres de police n'étaient pas affichées."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Kirjastologiikkaani on muokattu.\n- Lisäsin varjon kirjastotiedostoon, jotta se antoi sille kolmiulotteisen vaikutuksen.\n- TTS -viivetoiminto on lisätty.\n- X -painike on lisätty My Library -hakukenttään.\n- Kirjaston yläosaan on lisätty kannen kuvanäyttötoiminto."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Epänormaali käyttäytyminen on korjattu.\n- Korjattu ponnahdusikkunan kuva, joka ei ilmesty, kun My Library-kuva on poistettu käytöstä.\n- Taustaväri on nostettu taustakuvan yläpuolelle.\n- Läpinäkyvyyden asetustoiminto on lisätty taustaväriin.\n   * Jos taustakuva on liian kirkas, voit säätää taustaväriä tehdäksesi siitä tummemman.\n- Korjattu virhe, jossa fontvarjoja ei näytetty."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.5.1 (2023 09 04)\n\n- Ang aking lohika sa library ay nabago.\n- Nagdagdag ako ng anino sa aking file ng aklatan upang bigyan ito ng isang three-dimensional na epekto.\n- Ang pag -andar ng pagkaantala ng TTS ay naidagdag.\n- Ang isang pindutan ng X ay naidagdag sa kahon ng paghahanap ng My Library.\n- Ang isang function ng display ng imahe ng takip ay naidagdag sa tuktok ng aking library."
+    "devnote": "7.5.2 (2023 09 07)\n\n- Ang hindi normal na pag -uugali ay naitama.\n- Naayos ang imahe ng pop-up na hindi lilitaw kapag hindi pinagana ang imahe ng aking library.\n- Ang kulay ng background ay naitaas sa itaas ng imahe ng background.\n- Ang isang function ng setting ng transparency ay naidagdag sa kulay ng background.\n   * Kung ang imahe ng background ay masyadong maliwanag, maaari mong ayusin ang kulay ng background upang gawin itong mas madidilim.\n- Nakapirming isang bug kung saan ang mga anino ng font ay hindi ipinapakita."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.5.1 (2023 09 04)\n\n- A könyvtári logikám módosult.\n- Hozzáadtam egy árnyékot a könyvtári fájlomhoz, hogy háromdimenziós hatást kapjak.\n- A TTS késleltetési funkció hozzáadódott.\n- Egy X gombot adtak hozzá a könyvtári keresési dobozhoz.\n- A könyvtár tetejéhez hozzáadódott a borító képkijelző funkciója."
+    "devnote": "7.5.2 (2023 09 07)\n\n- A rendellenes viselkedést kijavították.\n- Javítva a felbukkanó képet, amely nem jelenik meg, amikor a könyvtári kép le van tiltva.\n- A háttér színét a háttérkép fölé emelték.\n- A háttér színéhez átlátszósági beállítási funkciót adtak hozzá.\n   * Ha a háttérkép túl fényes, akkor a háttér színét beállíthatja, hogy sötétebbé váljon.\n- Javítva egy hibát, ahol a betűtípus -árnyékok nem jelennek meg."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.5.1 (2023 09 04)\n\n- ההיגיון בספריה שלי שונה.\n- הוספתי צל לקובץ הספרייה שלי כדי לתת לו אפקט תלת ממדי.\n- פונקציית עיכוב TTS נוספה.\n- כפתור X נוסף לתיבת החיפוש בספריה שלי.\n- פונקציית תצוגת תמונת כיסוי נוספה לראש הספרייה שלי."
+    "devnote": "7.5.2 (2023 09 07)\n\n- התנהגות לא תקינה תוקנה.\n- תיקן את התמונה המוקפצת שלא מופיעה כאשר תמונת הספרייה שלי מושבתת.\n- צבע הרקע הועלה מעל תמונת הרקע.\n- פונקציית הגדרת שקיפות נוספה לצבע הרקע.\n   * אם תמונת הרקע בהירה מדי, אתה יכול להתאים את צבע הרקע כדי להפוך אותו לכהה יותר.\n- תוקן באג בו לא הוצגו צלליות גופן."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.5.1 (2023 09 04)\n\n- मेरे लाइब्रेरी लॉजिक को संशोधित किया गया है।\n- मैंने इसे तीन-आयामी प्रभाव देने के लिए अपनी लाइब्रेरी फ़ाइल में एक छाया जोड़ा।\n- टीटीएस देरी समारोह जोड़ा गया है।\n- एक एक्स बटन को माई लाइब्रेरी सर्च बॉक्स में जोड़ा गया है।\n- मेरे लाइब्रेरी के शीर्ष पर एक कवर इमेज डिस्प्ले फ़ंक्शन जोड़ा गया है।"
+    "devnote": "7.5.2 (2023 09 07)\n\n- असामान्य व्यवहार को ठीक किया गया है।\n- जब मेरी लाइब्रेरी छवि अक्षम हो जाती है, तो पॉप-अप छवि दिखाई नहीं दे रही है।\n- पृष्ठभूमि का रंग पृष्ठभूमि की छवि के ऊपर उठाया गया है।\n- एक पारदर्शिता सेटिंग फ़ंक्शन को पृष्ठभूमि के रंग में जोड़ा गया है।\n   * यदि पृष्ठभूमि की छवि बहुत उज्ज्वल है, तो आप इसे गहरा बनाने के लिए पृष्ठभूमि के रंग को समायोजित कर सकते हैं।\n- एक बग फिक्स्ड जहां फ़ॉन्ट छाया प्रदर्शित नहीं की गई थी।"
   }
 }
