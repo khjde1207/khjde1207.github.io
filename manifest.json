@@ -1,11 +1,11 @@
 {
-    "name": "TTS Text Viewer",
-    "short_name": "TTS Text Viewer",
+    "name": "TTReader",
+    "short_name": "TTReader",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "TTS Text Viewer",
+    "description": "TTReader",
     "orientation": "any",
     "prefer_related_applications": false,
     "icons": [

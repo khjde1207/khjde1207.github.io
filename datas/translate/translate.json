@@ -403,7 +403,7 @@
         "name" : "deepl translate",
         "icon" : "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACK0lEQVR4AcVXA6xcQRS9/+E7qm3t3le7Qf1m5teMG9UNatsMa0Z1G9UNa9u2beNOPZvs5Hey8/9JznruOaN774IR6ndK85CPJD74xZHyM8gJuChaucivkui3GN6i77oAQBLYgF85rEkiO3+J6XjQC8IGkDBUbF7ERb6AAn/RCyv86gd8DUSySoKE+T6LIRTspQxqyDcesqmAjTKN99mE5ucDOyWT481ykBUGfBPUrOlDPLhR1lkT4I4b8HbJkTCg17NMTbhR3gniwUfeL+5AFB3hH9Bnu0wMSA1QoAbtH3cgXUP1t2yU4Sr0NzLgIlv45xA1auQBwQ1YC/ruvF0DCsVhH/kKev3YRb4MIqywPFQ/x7Fndgzo+ZI4FEo1SoXqIr8XiIEpVXhFMlnbC/g+uwaU7eFXZO5QglEWtG9A5WklWDmRQp99ygkDdzwU23/UikCEsbFsGnjnRcUkmed/LfcnyV9m9li4hvwKBW8ixXxkfVKrhKUBxjo+im70+X37eSDCs5SsGRH1PGTHzBKRQSr2kVVVf8tWmaZio2LkIl8slxwIyZXDSqZ9QmxNUSGzGpVM3VUjbiS+NhGXY6VGdhuSawnsBW7rGxJ9S/bKfkumQxAW95GvlI3mf4qvl2MhUfCR1YktMFpW5vXBApLkXpLAPfsGdKgSZngBH0tC7+0b0CAFWTn5ByQ3DCiQNYJET+aagd99oo+iO4k/tG9Ah0pN87rI58i2DLKB7wE6BfrmPsSHAAAAAElFTkSuQmCC",
         "url" : "https://www.deepl.com/{to}/translator#{from}/{to}/{contents}",
-        "sampleUrl" : "https://www.deepl.com/en/translator#ko/en/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20TTS%20TextViewer%20%EC%9E%85%EB%8B%88%EB%8B%A4.",
+        "sampleUrl" : "https://www.deepl.com/en/translator#ko/en/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20TTReader%20%EC%9E%85%EB%8B%88%EB%8B%A4.",
         "type": "webpage",
         "scroll" : 0,
         "lang" : [
@@ -491,7 +491,7 @@
         "icon" : "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACzElEQVR4AcVXA5DlQBT8ZfNs21bpbBuFs23btm3btm3bRjBRXzpbWSurdFV/Ts3rx8kEXBx6atSqt0E9kWmG9Cf5JAmJQe5NG4efGbUCoTH+tDaOC5KStBkgqIY/+EFGPcCQ+CWAtgOZZ8h//BJA24HoFqSfJiH7LNlh2qneNs84XcLJlwZGn9SiXRetgFkXNbjof1g4vxVbJKPNLhVtbfY5JDDkmMDksxoWXdWx4Y6OfY8NnLINf/lnwcXMC1rCCchhR+PDHwt/hQXdBG59NHHutYG9tuF1t3XMu6w5IlxQxvk3JooulL0LmGR79lOxHPY4IML3tCNkvm0wRajf88yV8fGvBRfTz3tNgQe22KqC2HpfZ0E5vPbehIsVN3SKSzwBJHNPvPhh4ebHEOOsh1STucaDABZYVEw9JfINaOTECwOhwZyzg/i/JwHRofCCiEVEUUOPCUgaIuCfAI49NzDxjIZW21SUWsJWjkHA7odGGJ59bUQpgPl/9NUEwY6Ydl5Dxz0C735biArPvlveaqDmOiWCgAYbVVx5Z0IYcELffb9AtplBxTflnOZ42u+wwJ1PJkLjwBMDGaZL8RPAzWdc0NBki+q0YWTp+62GeFl8kYxeBwXniWs83hGIlGw1F99lC1XXKGhup6jLXoGu+4TbigkngFF49dPCD8XCL9VCDGAEElYAxzFFDD8u0G2/cKrcxfs/FgdSJPslYgpIF4+/mfyeeAKyzgwaTBVWKqi4SkHt9QoabQqJAM+HQUcFxp3SsOSajsPPDKddL7wxWYjxF8BTMTooetAJeemt6RzLx5+HzJV2u9WESUH1tQrKLVOcSOSaIzsPHy4efEnkFERCpiVxBFSyc8x2I/PPi52A17+s+AvwypyzfRaQd65Mw3wk4xT0JsDPx3Je1fy/mBx66vPVzPfLqYuDT406DIk9VP4lllHuTRuu58R/QK4oYk/INY8AAAAASUVORK5CYII=",
         "url" : "https://fanyi.baidu.com/#{from}/{to}/{contents}",
         "type" : "webpage",
-        "sampleUrl" : "https://fanyi.baidu.com/#kor/zh/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20TTS%20TextViewer%20%EC%9E%85%EB%8B%88%EB%8B%A4.",
+        "sampleUrl" : "https://fanyi.baidu.com/#kor/zh/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20TTReader%20%EC%9E%85%EB%8B%88%EB%8B%A4.",
         "scroll" : 0,
         "lang" : [
             { "Chinese":"zh"},
@@ -588,7 +588,7 @@
         "name" : "naver papago translate",
         "icon" : "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACGklEQVR4AczUA4wlQRSF4V7btm3Fa8ZvgrVt27Z3g7Vt27Zt2zts3DmD6syrtCo1quSLq+/fKoWIElTiCVDW0Bs4BvNhOHSCduCzU/BpjwbRqkA6RWBZBWwDEoGhMelwHUZBAVCcWAVUgjDhAGthsAxyeg/AwkVbgSYfYPoBAV4DWEQ1uCQZwBskEpACjgLZqbjXoJZnDZGACP28BkwH4iVfS9TrskFP/2gUqgEIBuhQ3+0bqAQ6PzzvNqILX3Q2mAsQ8gbSOgXs54fn2EL06DcbKhXAjLb7DYsB8fa95e5cPuAbpLIKGMkPb3TMMIeFqCq9/fCJfv/7LxPABFgF8F8+bX6pm8MnT5lHPl87atasK125dks2YKlVwHsgJulaop8hUXd65/6jiOGmIUMnyAbctgqgmHJtJfNRP3v52i9g/ITZsgHkGlB6NwsA2LZ9H3Xo2I+GDptEr99+iPuArJtYgD26oERYAVkVweUaEOH1P9cA5iu0jPWAhY90rwHMYSgSawFldhMFqUIBEYJgCCSXCmAm39GFApiBe+YcwP4a0gHJ1rIDyXvAoWNNgqL367AAMogHcBERTyJIdQ0IXXCgb1CSNQZ/jbdQTzzA4ptYjA/zzT//AP1C0r9njtcKLLnxiWGzV4Xq0gFMEsi5xZ/Lnj5Sr0DSGKmPUMJfaC3+F8jTYDUUlDoHBKjwAQ7AIAifFCkl4WjvGACnHMGJxxFzxwAAAABJRU5ErkJggg==",
         "url" : "https://papago.naver.com/?sk={from}&tk={to}&st={contents}",
-        "sampleUrl" : "https://papago.naver.com/?sk=auto&tk=ko&st=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20TTS%20TextViewer%20%EC%9E%85%EB%8B%88%EB%8B%A4.",
+        "sampleUrl" : "https://papago.naver.com/?sk=auto&tk=ko&st=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20TTReader%20%EC%9E%85%EB%8B%88%EB%8B%A4.",
         "type" : "webpage",
         "scroll" : 0,
         "lang" : [
