@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.5.4 (2023 09 11)\n- The application name has been changed to TTReader.\n   * The name of the existing TTS Text Viewer was too long, so it was shortened. TTS Text Reader was shortened to TTReader.\n\n- Fixed a bug where the location could not be moved if the file was already open when using the resume function.\n- Various errors have been corrected."
+    "devnote": "7.5.5 (2023 09 11)\n- The application name has been changed to TTReader.\n   * The name of the existing TTS Text Viewer was too long, so it was shortened. TTS Text Reader was shortened to TTReader.\n\n- Fixed a bug where the location could not be moved if the file was already open when using the resume function.\n- Various errors have been corrected."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.5.4 (2023 09 11)\n- 어플명을 TTReader 로 변경 하였습니다. \n  * 기존 TTS Text Viewer 은 이름이 너무 길다보니 짧게 변경 하였습니다. TTS Text Reader 를 줄여서 TTReader 로 변경하였습니다. \n\n- 이어보기 기능 사용시 파일이 이미 열려 있을경우 위치 이동이 안되던 버그를 수정 하였습니다. \n- 다양한 오류를 수정 하였습니다."
+    "devnote": "7.5.5 (2023 09 11)\n- 어플명을 TTReader 로 변경 하였습니다. \n  * 기존 TTS Text Viewer 은 이름이 너무 길다보니 짧게 변경 하였습니다. TTS Text Reader 를 줄여서 TTReader 로 변경하였습니다. \n\n- 이어보기 기능 사용시 파일이 이미 열려 있을경우 위치 이동이 안되던 버그를 수정 하였습니다. \n- 다양한 오류를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.5.4 (2023 09 11)\n- O nome da aplicación cambiouse a TTreader.\n   * O nome do visor de texto TTS existente era demasiado longo, polo que se acurtou. O lector de texto TTS foi acurtado a TTreader.\n\n- Fixouse un erro onde non se puido mover a situación se o ficheiro xa estaba aberto ao usar a función do currículo.\n- Corrixíronse varios erros."
+    "devnote": "7.5.5 (2023 09 11)\n- O nome da aplicación cambiouse a TTreader.\n   * O nome do visor de texto TTS existente era demasiado longo, polo que se acurtou. O lector de texto TTS foi acurtado a TTreader.\n\n- Fixouse un erro onde non se puido mover a situación se o ficheiro xa estaba aberto ao usar a función do currículo.\n- Corrixíronse varios erros."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.5.4 (2023 09 11)\n- એપ્લિકેશન નામ ttreader માં બદલવામાં આવ્યું છે.\n   * હાલના ટીટીએસ ટેક્સ્ટ દર્શકનું નામ ખૂબ લાંબું હતું, તેથી તે ટૂંકાવી દેવામાં આવ્યું. ટીટીએસ ટેક્સ્ટ રીડરને Ttreader ટૂંકું કરવામાં આવ્યું હતું.\n\n- એક ભૂલને સ્થિર કરો જ્યાં રેઝ્યૂમે ફંક્શનનો ઉપયોગ કરતી વખતે ફાઇલ પહેલેથી જ ખુલી હોત તો સ્થાન ખસેડવામાં આવી શક્યું નથી.\n- વિવિધ ભૂલો સુધારવામાં આવી છે."
+    "devnote": "7.5.5 (2023 09 11)\n- એપ્લિકેશન નામ ttreader માં બદલવામાં આવ્યું છે.\n   * હાલના ટીટીએસ ટેક્સ્ટ દર્શકનું નામ ખૂબ લાંબું હતું, તેથી તે ટૂંકાવી દેવામાં આવ્યું. ટીટીએસ ટેક્સ્ટ રીડરને Ttreader ટૂંકું કરવામાં આવ્યું હતું.\n\n- એક ભૂલને સ્થિર કરો જ્યાં રેઝ્યૂમે ફંક્શનનો ઉપયોગ કરતી વખતે ફાઇલ પહેલેથી જ ખુલી હોત તો સ્થાન ખસેડવામાં આવી શક્યું નથી.\n- વિવિધ ભૂલો સુધારવામાં આવી છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.5.4 (2023 09 11)\n- Το όνομα της εφαρμογής έχει αλλάξει σε TTReader.\n   * Το όνομα του υπάρχοντος θεατή κειμένου TTS ήταν πολύ μεγάλο, οπότε συντομεύτηκε. Ο αναγνώστης κειμένου TTS μειώθηκε στο TTReader.\n\n- Διορθώθηκε ένα σφάλμα όπου η τοποθεσία δεν μπορούσε να μετακινηθεί εάν το αρχείο ήταν ήδη ανοιχτό όταν χρησιμοποιήθηκε η λειτουργία Resume.\n- Διάφορα σφάλματα έχουν διορθωθεί."
+    "devnote": "7.5.5 (2023 09 11)\n- Το όνομα της εφαρμογής έχει αλλάξει σε TTReader.\n   * Το όνομα του υπάρχοντος θεατή κειμένου TTS ήταν πολύ μεγάλο, οπότε συντομεύτηκε. Ο αναγνώστης κειμένου TTS μειώθηκε στο TTReader.\n\n- Διορθώθηκε ένα σφάλμα όπου η τοποθεσία δεν μπορούσε να μετακινηθεί εάν το αρχείο ήταν ήδη ανοιχτό όταν χρησιμοποιήθηκε η λειτουργία Resume.\n- Διάφορα σφάλματα έχουν διορθωθεί."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.5.4 (2023 09 11)\n- De applicatienaam is gewijzigd in TTreader.\n   * De naam van de bestaande TTS -tekstkijker was te lang, dus werd deze ingekort. TTS -tekstlezer werd ingekort tot ttreader.\n\n- Een bug opgelost waarbij de locatie niet kon worden verplaatst als het bestand al open was bij het gebruik van de CV -functie.\n- Verschillende fouten zijn gecorrigeerd."
+    "devnote": "7.5.5 (2023 09 11)\n- De applicatienaam is gewijzigd in TTreader.\n   * De naam van de bestaande TTS -tekstkijker was te lang, dus werd deze ingekort. TTS -tekstlezer werd ingekort tot ttreader.\n\n- Een bug opgelost waarbij de locatie niet kon worden verplaatst als het bestand al open was bij het gebruik van de CV -functie.\n- Verschillende fouten zijn gecorrigeerd."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "7.5.4 (2023 09 11)\n- अनुप्रयोग नाम टोरेडेरमा परिवर्तन गरिएको छ।\n   * अवस्थित TTS पाठ दृश्य दर्शकको नाम धेरै लामो थियो, त्यसैले यो छोटो भयो। TTS पाठ पाठक TTREDERER लाई छोट्याइएको थियो।\n\n- यदि फाईल पहिले नै खुला थियो यदि फाइल खोल्दा फाईल खोलिनुभयो भने स्थान निश्चित गर्न सकिएन भने।\n- विभिन्न त्रुटिहरू सच्याइएको छ।"
+    "devnote": "7.5.5 (2023 09 11)\n- अनुप्रयोग नाम टोरेडेरमा परिवर्तन गरिएको छ।\n   * अवस्थित TTS पाठ दृश्य दर्शकको नाम धेरै लामो थियो, त्यसैले यो छोटो भयो। TTS पाठ पाठक TTREDERER लाई छोट्याइएको थियो।\n\n- यदि फाईल पहिले नै खुला थियो यदि फाइल खोल्दा फाईल खोलिनुभयो भने स्थान निश्चित गर्न सकिएन भने।\n- विभिन्न त्रुटिहरू सच्याइएको छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.5.4 (2023 09 11)\n- Søknadsnavnet er endret til TTREADER.\n   * Navnet på den eksisterende TTS -tekstviseren var for lang, så den ble forkortet. TTS -tekstleseren ble forkortet til TTREADER.\n\n- Fikset en feil der stedet ikke kunne flyttes hvis filen allerede var åpen når du brukte CV -funksjonen.\n- Ulike feil er korrigert."
+    "devnote": "7.5.5 (2023 09 11)\n- Søknadsnavnet er endret til TTREADER.\n   * Navnet på den eksisterende TTS -tekstviseren var for lang, så den ble forkortet. TTS -tekstleseren ble forkortet til TTREADER.\n\n- Fikset en feil der stedet ikke kunne flyttes hvis filen allerede var åpen når du brukte CV -funksjonen.\n- Ulike feil er korrigert."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.5.4 (2023 09 11)\n- Anvendelsesnavnet er ændret til Ttreader.\n   * Navnet på den eksisterende TTS Text Viewer var for lang, så den blev forkortet. TTS -tekstlæser blev forkortet til Ttreader.\n\n- Rettet en fejl, hvor placeringen ikke kunne flyttes, hvis filen allerede var åben, når du brugte CV -funktionen.\n- Forskellige fejl er korrigeret."
+    "devnote": "7.5.5 (2023 09 11)\n- Anvendelsesnavnet er ændret til Ttreader.\n   * Navnet på den eksisterende TTS Text Viewer var for lang, så den blev forkortet. TTS -tekstlæser blev forkortet til Ttreader.\n\n- Rettet en fejl, hvor placeringen ikke kunne flyttes, hvis filen allerede var åben, når du brugte CV -funktionen.\n- Forskellige fejl er korrigeret."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.5.4 (2023 09 11)\n- Der Anwendungsname wurde in TTreader geändert.\n   * Der Name des vorhandenen TTS -Textbetreibers war zu lang, also wurde er verkürzt. TTS -Textleser wurde an TTreader verkürzt.\n\n- Ein Fehler behoben, bei dem der Standort nicht verschoben werden konnte, wenn die Datei bei Verwendung der Lebenslauffunktion bereits geöffnet war.\n- Verschiedene Fehler wurden korrigiert."
+    "devnote": "7.5.5 (2023 09 11)\n- Der Anwendungsname wurde in TTreader geändert.\n   * Der Name des vorhandenen TTS -Textbetreibers war zu lang, also wurde er verkürzt. TTS -Textleser wurde an TTreader verkürzt.\n\n- Ein Fehler behoben, bei dem der Standort nicht verschoben werden konnte, wenn die Datei bei Verwendung der Lebenslauffunktion bereits geöffnet war.\n- Verschiedene Fehler wurden korrigiert."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.5.4 (2023 09 119)\n- ຊື່ຄໍາຮ້ອງສະຫມັກໄດ້ຖືກປ່ຽນເປັນ ttreader.\n   * ຊື່ຂອງຜູ້ເບິ່ງຕົວຫນັງສື tts ທີ່ມີຢູ່ແລ້ວຍາວເກີນໄປ, ສະນັ້ນມັນສັ້ນລົງ. ຜູ້ອ່ານຂໍ້ຄວາມ TTS ໄດ້ຖືກສັ້ນລົງໄປຫາ TTREADER.\n\n- ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ສະຖານທີ່ບໍ່ສາມາດຍ້າຍໄດ້ຖ້າເອກະສານໄດ້ເປີດແລ້ວເມື່ອໃຊ້ຟັງຊັນຊີວະປະຫວັດ.\n- ຂໍ້ຜິດພາດຕ່າງໆໄດ້ຖືກແກ້ໄຂແລ້ວ."
+    "devnote": "7.5.5 (2023 09 119)\n- ຊື່ຄໍາຮ້ອງສະຫມັກໄດ້ຖືກປ່ຽນເປັນ ttreader.\n   * ຊື່ຂອງຜູ້ເບິ່ງຕົວຫນັງສື tts ທີ່ມີຢູ່ແລ້ວຍາວເກີນໄປ, ສະນັ້ນມັນສັ້ນລົງ. ຜູ້ອ່ານຂໍ້ຄວາມ TTS ໄດ້ຖືກສັ້ນລົງໄປຫາ TTREADER.\n\n- ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ສະຖານທີ່ບໍ່ສາມາດຍ້າຍໄດ້ຖ້າເອກະສານໄດ້ເປີດແລ້ວເມື່ອໃຊ້ຟັງຊັນຊີວະປະຫວັດ.\n- ຂໍ້ຜິດພາດຕ່າງໆໄດ້ຖືກແກ້ໄຂແລ້ວ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.5.4 (2023 09 11)\n- Lietojumprogrammas nosaukums ir mainīts uz TTreader.\n   * Esošā TTS teksta skatītāja nosaukums bija pārāk garš, tāpēc tas tika saīsināts. TTS teksta lasītājs tika saīsināts līdz Ttreader.\n\n- Novērsta kļūda, kurā atrašanās vietu nevarēja pārvietot, ja fails jau bija atvērts, izmantojot CV funkciju.\n- ir labotas dažādas kļūdas."
+    "devnote": "7.5.5 (2023 09 11)\n- Lietojumprogrammas nosaukums ir mainīts uz TTreader.\n   * Esošā TTS teksta skatītāja nosaukums bija pārāk garš, tāpēc tas tika saīsināts. TTS teksta lasītājs tika saīsināts līdz Ttreader.\n\n- Novērsta kļūda, kurā atrašanās vietu nevarēja pārvietot, ja fails jau bija atvērts, izmantojot CV funkciju.\n- ir labotas dažādas kļūdas."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.5.4 (2023 09 11)\n- Имя приложения было изменено на TTReader.\n   * Имя существующего просмотра текста TTS было слишком длинным, поэтому оно было сокращено. TTS Text Reader был сокращен до TTReader.\n\n- Исправлена ​​ошибка, в которой местоположение не может быть перемещено, если файл уже был открыт при использовании функции резюме.\n- Различные ошибки были исправлены."
+    "devnote": "7.5.5 (2023 09 11)\n- Имя приложения было изменено на TTReader.\n   * Имя существующего просмотра текста TTS было слишком длинным, поэтому оно было сокращено. TTS Text Reader был сокращен до TTReader.\n\n- Исправлена ​​ошибка, в которой местоположение не может быть перемещено, если файл уже был открыт при использовании функции резюме.\n- Различные ошибки были исправлены."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.5.4 (2023 09 11)\n- Numele aplicației a fost schimbat în TTreader.\n   * Numele vizualizatorului de text TTS existent a fost prea lung, deci a fost scurtat. Cititorul de text TTS a fost scurtat la TTreader.\n\n- S -a rezolvat o eroare în care locația nu a putut fi mutată dacă fișierul era deja deschis la utilizarea funcției CV.\n- Au fost corectate diverse erori."
+    "devnote": "7.5.5 (2023 09 11)\n- Numele aplicației a fost schimbat în TTreader.\n   * Numele vizualizatorului de text TTS existent a fost prea lung, deci a fost scurtat. Cititorul de text TTS a fost scurtat la TTreader.\n\n- S -a rezolvat o eroare în care locația nu a putut fi mutată dacă fișierul era deja deschis la utilizarea funcției CV.\n- Au fost corectate diverse erori."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.5.4 (2023 09 11)\n- Programos pavadinimas buvo pakeistas į „Ttreader“.\n   * Esamo TTS teksto žiūrovo pavadinimas buvo per ilgas, todėl jis buvo sutrumpintas. TTS teksto skaitytuvas buvo sutrumpintas iki „Ttreader“.\n\n- Ištaisyta klaida, kur vietos nebuvo galima perkelti, jei failas jau buvo atidarytas naudojant atnaujinimo funkciją.\n- Buvo pataisytos įvairios klaidos."
+    "devnote": "7.5.5 (2023 09 11)\n- Programos pavadinimas buvo pakeistas į „Ttreader“.\n   * Esamo TTS teksto žiūrovo pavadinimas buvo per ilgas, todėl jis buvo sutrumpintas. TTS teksto skaitytuvas buvo sutrumpintas iki „Ttreader“.\n\n- Ištaisyta klaida, kur vietos nebuvo galima perkelti, jei failas jau buvo atidarytas naudojant atnaujinimo funkciją.\n- Buvo pataisytos įvairios klaidos."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.5.4 (2023 09 11)\n- अनुप्रयोगाचे नाव टीट्रेडरमध्ये बदलले आहे.\n   * विद्यमान टीटीएस मजकूर दर्शकाचे नाव खूप लांब होते, म्हणून ते लहान केले गेले. टीटीएस टेक्स्ट रीडरला टीट्रेडरला लहान केले गेले.\n\n- रेझ्युमे फंक्शन वापरताना फाईल आधीपासूनच उघडल्यास स्थान हलविण्याची शक्यता असलेल्या बगचे निराकरण केले.\n- विविध त्रुटी दुरुस्त केल्या आहेत."
+    "devnote": "7.5.5 (2023 09 11)\n- अनुप्रयोगाचे नाव टीट्रेडरमध्ये बदलले आहे.\n   * विद्यमान टीटीएस मजकूर दर्शकाचे नाव खूप लांब होते, म्हणून ते लहान केले गेले. टीटीएस टेक्स्ट रीडरला टीट्रेडरला लहान केले गेले.\n\n- रेझ्युमे फंक्शन वापरताना फाईल आधीपासूनच उघडल्यास स्थान हलविण्याची शक्यता असलेल्या बगचे निराकरण केले.\n- विविध त्रुटी दुरुस्त केल्या आहेत."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.5.4 (2023 09 11)\n- Името на апликацијата е сменето во TTreader.\n   * Името на постојниот прегледувач на текст на ТТС беше предолго, така што беше скратено. Читателот на текстот на ТТС беше скратен на Тредер.\n\n- Поправена грешка каде што локацијата не може да се премести ако датотеката е веќе отворена кога ја користите функцијата за биографија.\n- Корегирани се разни грешки."
+    "devnote": "7.5.5 (2023 09 11)\n- Името на апликацијата е сменето во TTreader.\n   * Името на постојниот прегледувач на текст на ТТС беше предолго, така што беше скратено. Читателот на текстот на ТТС беше скратен на Тредер.\n\n- Поправена грешка каде што локацијата не може да се премести ако датотеката е веќе отворена кога ја користите функцијата за биографија.\n- Корегирани се разни грешки."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.5.4 (2023 09 11)\n- ആപ്ലിക്കേഷൻ നാമം ടൈട്രീഡറിലേക്ക് മാറ്റി.\n   * നിലവിലുള്ള ടിടിഎസ് ടെക്സ്റ്റ് വ്യൂവറിന്റെ പേര് വളരെ ദൈർഘ്യമേറിയതായിരുന്നു, അതിനാൽ അത് ചുരുക്കി. ടിടിഎസ് ടെക്സ്റ്റ് റീഡർ ടൈട്രീഡറിലേക്ക് ചുരുക്കി.\n\n- പുനരാരംഭിക്കൽ പ്രവർത്തനം ഉപയോഗിക്കുമ്പോൾ ഫയൽ ഇതിനകം തുറന്നിട്ടുണ്ടെങ്കിൽ സ്ഥാനം നീക്കാൻ കഴിയാത്ത ഒരു ബഗ് പരിഹരിച്ചു.\n- വിവിധ പിശകുകൾ ശരിയാക്കി."
+    "devnote": "7.5.5 (2023 09 11)\n- ആപ്ലിക്കേഷൻ നാമം ടൈട്രീഡറിലേക്ക് മാറ്റി.\n   * നിലവിലുള്ള ടിടിഎസ് ടെക്സ്റ്റ് വ്യൂവറിന്റെ പേര് വളരെ ദൈർഘ്യമേറിയതായിരുന്നു, അതിനാൽ അത് ചുരുക്കി. ടിടിഎസ് ടെക്സ്റ്റ് റീഡർ ടൈട്രീഡറിലേക്ക് ചുരുക്കി.\n\n- പുനരാരംഭിക്കൽ പ്രവർത്തനം ഉപയോഗിക്കുമ്പോൾ ഫയൽ ഇതിനകം തുറന്നിട്ടുണ്ടെങ്കിൽ സ്ഥാനം നീക്കാൻ കഴിയാത്ത ഒരു ബഗ് പരിഹരിച്ചു.\n- വിവിധ പിശകുകൾ ശരിയാക്കി."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.5.4 (2023 09 11)\n- Nama permohonan telah ditukar kepada Ttreader.\n   * Nama penonton teks TTS yang sedia ada terlalu panjang, jadi ia dipendekkan. Pembaca teks TTS dipendekkan kepada Ttreader.\n\n- Tetapkan bug di mana lokasi tidak dapat dipindahkan jika fail sudah dibuka apabila menggunakan fungsi resume.\n- Pelbagai kesilapan telah diperbetulkan."
+    "devnote": "7.5.5 (2023 09 11)\n- Nama permohonan telah ditukar kepada Ttreader.\n   * Nama penonton teks TTS yang sedia ada terlalu panjang, jadi ia dipendekkan. Pembaca teks TTS dipendekkan kepada Ttreader.\n\n- Tetapkan bug di mana lokasi tidak dapat dipindahkan jika fail sudah dibuka apabila menggunakan fungsi resume.\n- Pelbagai kesilapan telah diperbetulkan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.5.4.4 (2023 09 11)\n- Програмын нэрийг TTREADER-д өөрчилсөн байна.\n   * Одоо байгаа TTS текст үзэгчийн нэр хэт урт байсан тул богиноссон. TTS текст уншигч TTREADER-д богино хугацаанд богиносгосон.\n\n- Хэрэв энэ нь Resume Punce функцийг ашиглах үед файлыг аль хэдийн нээсэн тохиолдолд байршлыг нээсэн тохиолдолд нүүж чадахгүй байгаа алдааг засч болно.\n- Төрөл бүрийн алдааг зассан."
+    "devnote": "7.5.5.4 (2023 09 11)\n- Програмын нэрийг TTREADER-д өөрчилсөн байна.\n   * Одоо байгаа TTS текст үзэгчийн нэр хэт урт байсан тул богиноссон. TTS текст уншигч TTREADER-д богино хугацаанд богиносгосон.\n\n- Хэрэв энэ нь Resume Punce функцийг ашиглах үед файлыг аль хэдийн нээсэн тохиолдолд байршлыг нээсэн тохиолдолд нүүж чадахгүй байгаа алдааг засч болно.\n- Төрөл бүрийн алдааг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.5.4 (2023 09 11)\n- Aplikazioaren izena TTreaderrera aldatu da.\n   * Lehendik dagoen TTS testu ikuslearen izena luzeegia zen, beraz laburtu egin zen. TTS testu-irakurgailua TTreader-era laburtu zen.\n\n- Kokapen bat mugitu ezin den akatsa konpondu da, berriro instalazioa erabiltzerakoan fitxategia irekita egongo balitz.\n- Akatsak zuzendu dira."
+    "devnote": "7.5.5 (2023 09 11)\n- Aplikazioaren izena TTreaderrera aldatu da.\n   * Lehendik dagoen TTS testu ikuslearen izena luzeegia zen, beraz laburtu egin zen. TTS testu-irakurgailua TTreader-era laburtu zen.\n\n- Kokapen bat mugitu ezin den akatsa konpondu da, berriro instalazioa erabiltzerakoan fitxategia irekita egongo balitz.\n- Akatsak zuzendu dira."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.5.4 (2023 09 11 11)\n- လျှောက်လွှာအမည်ကို ttreader သို့ပြောင်းထားသည်။\n   * လက်ရှိ TTS စာသားကြည့်ရှုသူအမည်မှာရှည်လျားလွန်းသဖြင့်၎င်းသည်တိုတောင်းခဲ့သည်။ TTS စာသားစာဖတ်သူကို Ttreader ကိုတိုစေခဲ့သည်။\n\n- ကိုယ်ရေးရာဇဝင်သတ်မှတ်ခြင်းကိုအသုံးပြုသောအခါဖိုင်ကိုဖွင့်ပြီးဖြစ်ပါကတည်နေရာကိုဖွင့်ထားပြီးဖြစ်ပါကတည်နေရာကိုပြောင်းရွှေ့နိုင်ခြင်းမရှိပါ။\n- အမှားအယွင်းအမျိုးမျိုးကိုတည့်မတ်ပေးထားသည်။"
+    "devnote": "7.5.5 (2023 09 11 11)\n- လျှောက်လွှာအမည်ကို ttreader သို့ပြောင်းထားသည်။\n   * လက်ရှိ TTS စာသားကြည့်ရှုသူအမည်မှာရှည်လျားလွန်းသဖြင့်၎င်းသည်တိုတောင်းခဲ့သည်။ TTS စာသားစာဖတ်သူကို Ttreader ကိုတိုစေခဲ့သည်။\n\n- ကိုယ်ရေးရာဇဝင်သတ်မှတ်ခြင်းကိုအသုံးပြုသောအခါဖိုင်ကိုဖွင့်ပြီးဖြစ်ပါကတည်နေရာကိုဖွင့်ထားပြီးဖြစ်ပါကတည်နေရာကိုပြောင်းရွှေ့နိုင်ခြင်းမရှိပါ။\n- အမှားအယွင်းအမျိုးမျိုးကိုတည့်မတ်ပေးထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.5.4 (2023 09 11)\n- Tên ứng dụng đã được thay đổi thành ttreader.\n   * Tên của trình xem văn bản TTS hiện có quá dài, vì vậy nó đã được rút ngắn. Đầu đọc văn bản TTS đã được rút ngắn thành ttreader.\n\n- Đã sửa lỗi trong đó vị trí không thể di chuyển nếu tệp đã được mở khi sử dụng chức năng tiếp tục.\n- Các lỗi khác nhau đã được sửa chữa."
+    "devnote": "7.5.5 (2023 09 11)\n- Tên ứng dụng đã được thay đổi thành ttreader.\n   * Tên của trình xem văn bản TTS hiện có quá dài, vì vậy nó đã được rút ngắn. Đầu đọc văn bản TTS đã được rút ngắn thành ttreader.\n\n- Đã sửa lỗi trong đó vị trí không thể di chuyển nếu tệp đã được mở khi sử dụng chức năng tiếp tục.\n- Các lỗi khác nhau đã được sửa chữa."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.5.4 (2023 09 11)\n- Назва прыкладання было зменена на Ttreader.\n   * Назва існуючага прагляду тэксту TTS была занадта доўгай, таму ён быў скарочаны. Чытальнік тэксту TTS быў скарочаны да Ttreader.\n\n- Выпраўлена памылка, калі месца нельга было перамясціць, калі файл ужо быў адкрыты пры выкарыстанні функцыі рэзюмэ.\n- Былі выпраўлены розныя памылкі."
+    "devnote": "7.5.5 (2023 09 11)\n- Назва прыкладання было зменена на Ttreader.\n   * Назва існуючага прагляду тэксту TTS была занадта доўгай, таму ён быў скарочаны. Чытальнік тэксту TTS быў скарочаны да Ttreader.\n\n- Выпраўлена памылка, калі месца нельга было перамясціць, калі файл ужо быў адкрыты пры выкарыстанні функцыі рэзюмэ.\n- Былі выпраўлены розныя памылкі."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.5.4 (2023 09 11)\n- আবেদনের নামটি টাইট্রেডারকে পরিবর্তন করা হয়েছে।\n   * বিদ্যমান টিটিএস পাঠ্য দর্শকের নাম খুব দীর্ঘ ছিল, তাই এটি সংক্ষিপ্ত করা হয়েছিল। টিটিএস পাঠ্য পাঠককে টিটিড্রেডারে সংক্ষিপ্ত করা হয়েছিল।\n\n- একটি বাগ ঠিক করা হয়েছে যেখানে পুনঃসূচনা ফাংশনটি ব্যবহার করার সময় ফাইলটি ইতিমধ্যে খোলা থাকলে অবস্থানটি সরানো যায় না।\n- বিভিন্ন ত্রুটি সংশোধন করা হয়েছে।"
+    "devnote": "7.5.5 (2023 09 11)\n- আবেদনের নামটি টাইট্রেডারকে পরিবর্তন করা হয়েছে।\n   * বিদ্যমান টিটিএস পাঠ্য দর্শকের নাম খুব দীর্ঘ ছিল, তাই এটি সংক্ষিপ্ত করা হয়েছিল। টিটিএস পাঠ্য পাঠককে টিটিড্রেডারে সংক্ষিপ্ত করা হয়েছিল।\n\n- একটি বাগ ঠিক করা হয়েছে যেখানে পুনঃসূচনা ফাংশনটি ব্যবহার করার সময় ফাইলটি ইতিমধ্যে খোলা থাকলে অবস্থানটি সরানো যায় না।\n- বিভিন্ন ত্রুটি সংশোধন করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.5.4 (2023 09 11)\n- Името на приложението е променено на ttreader.\n   * Името на съществуващия TTS Text Viewer беше твърде дълго, така че беше съкратено. TTS Text Reader беше съкратен до Ttreader.\n\n- Фиксирана грешка, при която местоположението не може да бъде преместено, ако файлът вече е отворен при използване на функцията за възобновяване.\n- Различни грешки са коригирани."
+    "devnote": "7.5.5 (2023 09 11)\n- Името на приложението е променено на ttreader.\n   * Името на съществуващия TTS Text Viewer беше твърде дълго, така че беше съкратено. TTS Text Reader беше съкратен до Ttreader.\n\n- Фиксирана грешка, при която местоположението не може да бъде преместено, ако файлът вече е отворен при използване на функцията за възобновяване.\n- Различни грешки са коригирани."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.5.4 (2023 09 11)\n- Назив апликације је промењено у ТТеадер.\n   * Име постојећег ТТС текстуалног прегледа био је предуго, па је скраћен. ТТС читач текста је скраћен на ТТеадер.\n\n- Поправљена је грешка у којој се локација не може померати ако је датотека већ отворена када користите функцију резимеа.\n- Разне грешке су исправљене."
+    "devnote": "7.5.5 (2023 09 11)\n- Назив апликације је промењено у ТТеадер.\n   * Име постојећег ТТС текстуалног прегледа био је предуго, па је скраћен. ТТС читач текста је скраћен на ТТеадер.\n\n- Поправљена је грешка у којој се локација не може померати ако је датотека већ отворена када користите функцију резимеа.\n- Разне грешке су исправљене."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.5.4 (2023 09 11)\n- Jina la maombi limebadilishwa kuwa ttreader.\n   * Jina la mtazamaji wa maandishi wa TTS lililopo lilikuwa refu sana, kwa hivyo ilifupishwa. Msomaji wa maandishi ya TTS alifupishwa kwa ttreader.\n\n- Zisizohamishika mdudu ambapo eneo halikuweza kuhamishwa ikiwa faili ilikuwa tayari imefunguliwa wakati wa kutumia kazi ya kuanza tena.\n- Makosa anuwai yamerekebishwa."
+    "devnote": "7.5.5 (2023 09 11)\n- Jina la maombi limebadilishwa kuwa ttreader.\n   * Jina la mtazamaji wa maandishi wa TTS lililopo lilikuwa refu sana, kwa hivyo ilifupishwa. Msomaji wa maandishi ya TTS alifupishwa kwa ttreader.\n\n- Zisizohamishika mdudu ambapo eneo halikuweza kuhamishwa ikiwa faili ilikuwa tayari imefunguliwa wakati wa kutumia kazi ya kuanza tena.\n- Makosa anuwai yamerekebishwa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.5.4 (2023 09 11)\n- Applikationsnamnet har ändrats till Ttreader.\n   * Namnet på den befintliga TTS -textvisaren var för lång, så det förkortades. TTS Textläsare förkortades till Ttreader.\n\n- Fixade ett fel där platsen inte kunde flyttas om filen redan var öppen när du använder CV -funktionen.\n- Olika fel har korrigerats."
+    "devnote": "7.5.5 (2023 09 11)\n- Applikationsnamnet har ändrats till Ttreader.\n   * Namnet på den befintliga TTS -textvisaren var för lång, så det förkortades. TTS Textläsare förkortades till Ttreader.\n\n- Fixade ett fel där platsen inte kunde flyttas om filen redan var öppen när du använder CV -funktionen.\n- Olika fel har korrigerats."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.5.4 (2023 09 11)\n- El nombre de la aplicación se ha cambiado a ttreader.\n   * El nombre del visor de texto TTS existente era demasiado largo, por lo que se acortó. El lector de texto de TTS se acortó a Ttreader.\n\n- Se corrigió un error donde la ubicación no podía moverse si el archivo ya estaba abierto al usar la función de currículum.\n- Se han corregido varios errores."
+    "devnote": "7.5.5 (2023 09 11)\n- El nombre de la aplicación se ha cambiado a ttreader.\n   * El nombre del visor de texto TTS existente era demasiado largo, por lo que se acortó. El lector de texto de TTS se acortó a Ttreader.\n\n- Se corrigió un error donde la ubicación no podía moverse si el archivo ya estaba abierto al usar la función de currículum.\n- Se han corregido varios errores."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.5.4 (2023 09 11)\n- Názov aplikácie bol zmenený na TTREader.\n   * Názov existujúceho diváka textu TTS bol príliš dlhý, takže bol skrátený. Čítačka textu TTS bola skrátená na Ttreader.\n\n- Opravená chyba, kde by sa umiestnenie nedalo presunúť, ak bol súbor už otvorený pri používaní funkcie životopisu.\n- Rôzne chyby boli opravené."
+    "devnote": "7.5.5 (2023 09 11)\n- Názov aplikácie bol zmenený na TTREader.\n   * Názov existujúceho diváka textu TTS bol príliš dlhý, takže bol skrátený. Čítačka textu TTS bola skrátená na Ttreader.\n\n- Opravená chyba, kde by sa umiestnenie nedalo presunúť, ak bol súbor už otvorený pri používaní funkcie životopisu.\n- Rôzne chyby boli opravené."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.5.4 (2023 09 11)\n- Ime aplikacije je spremenjeno v TTreader.\n   * Ime obstoječega pregledovalca besedila TTS je bilo predolgo, zato je bilo skrajšano. Bralnik besedila TTS je bil skrajšan na Ttreader.\n\n- Odpravljeno napako, kjer lokacije ni bilo mogoče premakniti, če je bila datoteka že odprta pri uporabi funkcije življenjepisa.\n- Popravljene so bile različne napake."
+    "devnote": "7.5.5 (2023 09 11)\n- Ime aplikacije je spremenjeno v TTreader.\n   * Ime obstoječega pregledovalca besedila TTS je bilo predolgo, zato je bilo skrajšano. Bralnik besedila TTS je bil skrajšan na Ttreader.\n\n- Odpravljeno napako, kjer lokacije ni bilo mogoče premakniti, če je bila datoteka že odprta pri uporabi funkcije življenjepisa.\n- Popravljene so bile različne napake."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.5.4 (2023 09 11)\n- යෙදුමේ නම TTREEDER වෙත වෙනස් කර ඇත.\n   * පවත්නා TTS පෙළ නරඹන්නාගේ නම දිගු විය, එබැවින් එය කෙටි විය. TTS පෙළ කියවනය TTREEDER වෙත කෙටි කරන ලදී.\n\n- නැවත ආරම්භ කිරීමේ කාර්යය භාවිතා කිරීමේදී ගොනුව දැනටමත් විවෘතව තිබුනේ නම් ස්ථානය ගෙන යා නොහැකි දෝෂයක් ඇති තැනක් සවි කර ඇත.\n- විවිධ දෝෂ නිවැරදි කර ඇත."
+    "devnote": "7.5.5 (2023 09 11)\n- යෙදුමේ නම TTREEDER වෙත වෙනස් කර ඇත.\n   * පවත්නා TTS පෙළ නරඹන්නාගේ නම දිගු විය, එබැවින් එය කෙටි විය. TTS පෙළ කියවනය TTREEDER වෙත කෙටි කරන ලදී.\n\n- නැවත ආරම්භ කිරීමේ කාර්යය භාවිතා කිරීමේදී ගොනුව දැනටමත් විවෘතව තිබුනේ නම් ස්ථානය ගෙන යා නොහැකි දෝෂයක් ඇති තැනක් සවි කර ඇත.\n- විවිධ දෝෂ නිවැරදි කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.5.4 (2023 09 11)\n- تم تغيير اسم التطبيق إلى Ttreader.\n   * كان اسم عارض النص TTS الحالي طويلًا جدًا ، لذلك تم تقصيره. تم تقصير قارئ TTS Text إلى Ttreader.\n\n- تم إصلاح خلل حيث لا يمكن نقل الموقع إذا كان الملف مفتوحًا بالفعل عند استخدام وظيفة السيرة الذاتية.\n- تم تصحيح أخطاء مختلفة."
+    "devnote": "7.5.5 (2023 09 11)\n- تم تغيير اسم التطبيق إلى Ttreader.\n   * كان اسم عارض النص TTS الحالي طويلًا جدًا ، لذلك تم تقصيره. تم تقصير قارئ TTS Text إلى Ttreader.\n\n- تم إصلاح خلل حيث لا يمكن نقل الموقع إذا كان الملف مفتوحًا بالفعل عند استخدام وظيفة السيرة الذاتية.\n- تم تصحيح أخطاء مختلفة."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.5.4 (2023 09 11)\n- Հայտի անվանումը փոխվել է TTREAGER- ում:\n   * Գործող TTS տեքստի դիտողի անունը չափազանց երկար էր, ուստի այն կրճատվեց: TTS տեքստի ընթերցողը կրճատվել է TTREAGER- ին:\n\n- Fix նջեց մի սխալ, որտեղ գտնվելու վայրը չի կարող տեղափոխվել, եթե ֆայլն արդեն բացվել է ռեզյումեի գործառույթը օգտագործելիս:\n- Բազմաթիվ սխալներ շտկվել են:"
+    "devnote": "7.5.5 (2023 09 11)\n- Հայտի անվանումը փոխվել է TTREAGER- ում:\n   * Գործող TTS տեքստի դիտողի անունը չափազանց երկար էր, ուստի այն կրճատվեց: TTS տեքստի ընթերցողը կրճատվել է TTREAGER- ին:\n\n- Fix նջեց մի սխալ, որտեղ գտնվելու վայրը չի կարող տեղափոխվել, եթե ֆայլն արդեն բացվել է ռեզյումեի գործառույթը օգտագործելիս:\n- Բազմաթիվ սխալներ շտկվել են:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.5.4 (2023 09 11)\n- Nafn forritsins hefur verið breytt í TREADER.\n   * Nafn núverandi TTS textaáhorfanda var of langt, svo það var stytt. Lesandi TTS var styttur í TREADER.\n\n- Lagaði villu þar sem ekki var hægt að færa staðsetningu ef skráin var þegar opin þegar hún var notuð á ný.\n- ýmsar villur hafa verið leiðréttar."
+    "devnote": "7.5.5 (2023 09 11)\n- Nafn forritsins hefur verið breytt í TREADER.\n   * Nafn núverandi TTS textaáhorfanda var of langt, svo það var stytt. Lesandi TTS var styttur í TREADER.\n\n- Lagaði villu þar sem ekki var hægt að færa staðsetningu ef skráin var þegar opin þegar hún var notuð á ný.\n- ýmsar villur hafa verið leiðréttar."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.5.4 (2023 09 11)\n- Tətbiq adı Ttreader-ə dəyişdirildi.\n   * Mövcud TTS mətn izləyicisinin adı çox uzun idi, buna görə qısaldılmışdı. TTS mətn oxuyucusu Ttreader-ə qısaldılmışdır.\n\n- Resume funksiyasından istifadə edərkən fayl artıq açıldığı təqdirdə yerin köçürülə bilmədiyi bir səhv düzəldildi.\n- Müxtəlif səhvlər düzəldildi."
+    "devnote": "7.5.5 (2023 09 11)\n- Tətbiq adı Ttreader-ə dəyişdirildi.\n   * Mövcud TTS mətn izləyicisinin adı çox uzun idi, buna görə qısaldılmışdı. TTS mətn oxuyucusu Ttreader-ə qısaldılmışdır.\n\n- Resume funksiyasından istifadə edərkən fayl artıq açıldığı təqdirdə yerin köçürülə bilmədiyi bir səhv düzəldildi.\n- Müxtəlif səhvlər düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.5.4 (2023 09 11)\n- Die aansoeknaam is verander na TTreader.\n   * Die naam van die bestaande TTS -teks kyker was te lank, so dit is verkort. TTS -teksleser is na Ttreader verkort.\n\n- 'n Fout reggestel waar die ligging nie geskuif kon word as die lêer reeds oop was tydens die gebruik van die CV -funksie nie.\n- Verskeie foute is reggestel."
+    "devnote": "7.5.5 (2023 09 11)\n- Die aansoeknaam is verander na TTreader.\n   * Die naam van die bestaande TTS -teks kyker was te lank, so dit is verkort. TTS -teksleser is na Ttreader verkort.\n\n- 'n Fout reggestel waar die ligging nie geskuif kon word as die lêer reeds oop was tydens die gebruik van die CV -funksie nie.\n- Verskeie foute is reggestel."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.5.4 (2023 09 11)\n- Emri i aplikacionit është ndryshuar në ttreader.\n   * Emri i shikuesit ekzistues të tekstit TTS ishte shumë i gjatë, kështu që u shkurtua. Lexuesi i tekstit TTS u shkurtua në ttreader.\n\n- Fiksoi një gabim ku vendndodhja nuk mund të zhvendoset nëse skedari ishte tashmë i hapur kur përdorni funksionin e rezymeve.\n- Gabime të ndryshme janë korrigjuar."
+    "devnote": "7.5.5 (2023 09 11)\n- Emri i aplikacionit është ndryshuar në ttreader.\n   * Emri i shikuesit ekzistues të tekstit TTS ishte shumë i gjatë, kështu që u shkurtua. Lexuesi i tekstit TTS u shkurtua në ttreader.\n\n- Fiksoi një gabim ku vendndodhja nuk mund të zhvendoset nëse skedari ishte tashmë i hapur kur përdorni funksionin e rezymeve.\n- Gabime të ndryshme janë korrigjuar."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.5.4 (2023 09 11)\n- የትግበራ ስም ወደ ትሬዚር ተለው has ል.\n   * አሁን ያሉት የ TTS ጽሑፍ ተመልካች በጣም ረጅም ነበር, ስለሆነም አጠረ .. የ TTS የጽሑፍ አንባቢው ወደ ትሬዚዳንት አጭር ነበር.\n\n- ከቆመበት ቀጥል ተግባሩ በሚጠቀሙበት ጊዜ ፋይሉ አስቀድሞ ክፍት ከሆነ ቦታው ሊናወጥ የማይችልበት ሳንካ ተጠግኗል.\n- የተለያዩ ስህተቶች ተስተካክለዋል."
+    "devnote": "7.5.5 (2023 09 11)\n- የትግበራ ስም ወደ ትሬዚር ተለው has ል.\n   * አሁን ያሉት የ TTS ጽሑፍ ተመልካች በጣም ረጅም ነበር, ስለሆነም አጠረ .. የ TTS የጽሑፍ አንባቢው ወደ ትሬዚዳንት አጭር ነበር.\n\n- ከቆመበት ቀጥል ተግባሩ በሚጠቀሙበት ጊዜ ፋይሉ አስቀድሞ ክፍት ከሆነ ቦታው ሊናወጥ የማይችልበት ሳንካ ተጠግኗል.\n- የተለያዩ ስህተቶች ተስተካክለዋል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.5.4 (2023 09 11)\n- Rakenduse nimi on muudetud TTREADERiks.\n   * Olemasoleva TTS -i tekstivaataja nimi oli liiga pikk, nii et see lühendati. TTS -i tekstilugeja lühendati TTREADER -ile.\n\n- Parandatud viga, kus asukohta ei saanud teisaldada, kui fail oli funktsiooni jätkamise kasutamisel juba avatud.\n- Erinevad vead on parandatud."
+    "devnote": "7.5.5 (2023 09 11)\n- Rakenduse nimi on muudetud TTREADERiks.\n   * Olemasoleva TTS -i tekstivaataja nimi oli liiga pikk, nii et see lühendati. TTS -i tekstilugeja lühendati TTREADER -ile.\n\n- Parandatud viga, kus asukohta ei saanud teisaldada, kui fail oli funktsiooni jätkamise kasutamisel juba avatud.\n- Erinevad vead on parandatud."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.5.4 (2023 09 11)\n- درخواست کا نام ٹریڈر میں تبدیل کردیا گیا ہے۔\n   * موجودہ ٹی ٹی ایس ٹیکسٹ ناظر کا نام بہت لمبا تھا ، لہذا اسے مختصر کردیا گیا۔ ٹی ٹی ایس ٹیکسٹ ریڈر کو ٹٹریڈر کو مختصر کردیا گیا۔\n\n- ایک بگ طے کیا جہاں جگہ کو منتقل نہیں کیا جاسکتا ہے اگر فائل دوبارہ شروع کی تقریب کا استعمال کرتے وقت فائل پہلے ہی کھلی ہوئی تھی۔\n- مختلف غلطیاں درست کردی گئیں۔"
+    "devnote": "7.5.5 (2023 09 11)\n- درخواست کا نام ٹریڈر میں تبدیل کردیا گیا ہے۔\n   * موجودہ ٹی ٹی ایس ٹیکسٹ ناظر کا نام بہت لمبا تھا ، لہذا اسے مختصر کردیا گیا۔ ٹی ٹی ایس ٹیکسٹ ریڈر کو ٹٹریڈر کو مختصر کردیا گیا۔\n\n- ایک بگ طے کیا جہاں جگہ کو منتقل نہیں کیا جاسکتا ہے اگر فائل دوبارہ شروع کی تقریب کا استعمال کرتے وقت فائل پہلے ہی کھلی ہوئی تھی۔\n- مختلف غلطیاں درست کردی گئیں۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.5.4 (2023 09 11)\n- Ім'я програми змінено на Ttreader.\n   * Назва існуючого перегляду тексту TTS було занадто довгим, тому воно було скорочено. Зчитувач тексту TTS був скорочений до Ttreader.\n\n- Виправлена ​​помилка, де місце розташування не можна було перемістити, якщо файл вже був відкритий при використанні функції резюме.\n- виправлено різні помилки."
+    "devnote": "7.5.5 (2023 09 11)\n- Ім'я програми змінено на Ttreader.\n   * Назва існуючого перегляду тексту TTS було занадто довгим, тому воно було скорочено. Зчитувач тексту TTS був скорочений до Ttreader.\n\n- Виправлена ​​помилка, де місце розташування не можна було перемістити, якщо файл вже був відкритий при використанні функції резюме.\n- виправлено різні помилки."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.5.4 (2023 09 11)\n- Il nome dell'applicazione è stato modificato in Ttreader.\n   * Il nome del visualizzatore di testo TTS esistente era troppo lungo, quindi è stato abbreviato. Il lettore di testo TTS è stato abbreviato a Ttreader.\n\n- Risolto un bug in cui la posizione non poteva essere spostata se il file era già aperto quando si utilizza la funzione di curriculum.\n- Vari errori sono stati corretti."
+    "devnote": "7.5.5 (2023 09 11)\n- Il nome dell'applicazione è stato modificato in Ttreader.\n   * Il nome del visualizzatore di testo TTS esistente era troppo lungo, quindi è stato abbreviato. Il lettore di testo TTS è stato abbreviato a Ttreader.\n\n- Risolto un bug in cui la posizione non poteva essere spostata se il file era già aperto quando si utilizza la funzione di curriculum.\n- Vari errori sono stati corretti."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.5.4 (2023 09 11)\n- Nama aplikasi telah diubah ke TTreader.\n   * Nama penampil teks TTS yang ada terlalu panjang, jadi itu disingkat. Pembaca teks TTS disingkat menjadi ttreader.\n\n- Memperbaiki bug di mana lokasi tidak dapat dipindahkan jika file sudah terbuka saat menggunakan fungsi resume.\n- Berbagai kesalahan telah diperbaiki."
+    "devnote": "7.5.5 (2023 09 11)\n- Nama aplikasi telah diubah ke TTreader.\n   * Nama penampil teks TTS yang ada terlalu panjang, jadi itu disingkat. Pembaca teks TTS disingkat menjadi ttreader.\n\n- Memperbaiki bug di mana lokasi tidak dapat dipindahkan jika file sudah terbuka saat menggunakan fungsi resume.\n- Berbagai kesalahan telah diperbaiki."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.5.4（2023 09 11）\n - アプリケーション名はttreaderに変更されました。\n   *既存のTTSテキストビューアの名前は長すぎたため、短縮されました。 TTSテキストリーダーはTreaderに短縮されました。\n\n - 履歴書機能を使用するときにファイルが既に開いている場合、場所を移動できなかったバグを修正しました。\n - さまざまなエラーが修正されています。"
+    "devnote": "7.5.5（2023 09 11）\n - アプリケーション名はttreaderに変更されました。\n   *既存のTTSテキストビューアの名前は長すぎたため、短縮されました。 TTSテキストリーダーはTreaderに短縮されました。\n\n - 履歴書機能を使用するときにファイルが既に開いている場合、場所を移動できなかったバグを修正しました。\n - さまざまなエラーが修正されています。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.5.4 (2023 09 11)\n- განაცხადის სახელი შეიცვალა Ttreader– ში.\n   * არსებული TTS ტექსტის სანახავი სახელი ძალიან გრძელი იყო, ამიტომ შემცირდა. TTS ტექსტური მკითხველი შემცირდა Ttreader– ზე.\n\n- დაფიქსირდა შეცდომა, სადაც მდებარეობის გადაადგილება შეუძლებელია, თუ ფაილი უკვე გახსნილი იყო რეზიუმე ფუნქციის გამოყენებისას.\n- გამოსწორდა სხვადასხვა შეცდომები."
+    "devnote": "7.5.5 (2023 09 11)\n- განაცხადის სახელი შეიცვალა Ttreader– ში.\n   * არსებული TTS ტექსტის სანახავი სახელი ძალიან გრძელი იყო, ამიტომ შემცირდა. TTS ტექსტური მკითხველი შემცირდა Ttreader– ზე.\n\n- დაფიქსირდა შეცდომა, სადაც მდებარეობის გადაადგილება შეუძლებელია, თუ ფაილი უკვე გახსნილი იყო რეზიუმე ფუნქციის გამოყენებისას.\n- გამოსწორდა სხვადასხვა შეცდომები."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.5.4 (2023 09 11)\n- Igama lesicelo lishintshiwe laba ttraeder.\n   * Igama lesibukeli se-TTS se-TTS esikhona sasinde kakhulu, ngakho-ke kwafinyezwa. Umfundi we-TTS umbhalo wafinyezwa eTtraeder.\n\n- Silungiswe isiphazamisi lapho indawo ingahanjiswa khona uma ifayela selivele livulekile lapho usebenzisa umsebenzi wokuqalisa kabusha.\n- Kulungiswe amaphutha ahlukahlukene."
+    "devnote": "7.5.5 (2023 09 11)\n- Igama lesicelo lishintshiwe laba ttraeder.\n   * Igama lesibukeli se-TTS se-TTS esikhona sasinde kakhulu, ngakho-ke kwafinyezwa. Umfundi we-TTS umbhalo wafinyezwa eTtraeder.\n\n- Silungiswe isiphazamisi lapho indawo ingahanjiswa khona uma ifayela selivele livulekile lapho usebenzisa umsebenzi wokuqalisa kabusha.\n- Kulungiswe amaphutha ahlukahlukene."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.5.4（2023 09 11）\n - 应用程序名称已更改为ttreader。\n   *现有TTS文本查看器的名称太长，因此缩短了。 TTS文本阅读器被缩短为Ttreader。\n\n - 修复了一个错误，如果使用简历函数时文件已经打开，则无法移动位置。\n - 纠正了各种错误。"
+    "devnote": "7.5.5（2023 09 11）\n - 应用程序名称已更改为ttreader。\n   *现有TTS文本查看器的名称太长，因此缩短了。 TTS文本阅读器被缩短为Ttreader。\n\n - 修复了一个错误，如果使用简历函数时文件已经打开，则无法移动位置。\n - 纠正了各种错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.5.4（2023 09 11）\n - 應用程序名稱已更改為ttreader。\n   *現有TTS文本查看器的名稱太長，因此縮短了。 TTS文本閱讀器被縮短為Ttreader。\n\n - 修復了一個錯誤，如果使用簡歷函數時文件已經打開，則無法移動位置。\n - 糾正了各種錯誤。"
+    "devnote": "7.5.5（2023 09 11）\n - 應用程序名稱已更改為ttreader。\n   *現有TTS文本查看器的名稱太長，因此縮短了。 TTS文本閱讀器被縮短為Ttreader。\n\n - 修復了一個錯誤，如果使用簡歷函數時文件已經打開，則無法移動位置。\n - 糾正了各種錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.5.4（2023 09 11）\n - 應用程序名稱已更改為ttreader。\n   *現有TTS文本查看器的名稱太長，因此縮短了。 TTS文本閱讀器被縮短為Ttreader。\n\n - 修復了一個錯誤，如果使用簡歷函數時文件已經打開，則無法移動位置。\n - 糾正了各種錯誤。"
+    "devnote": "7.5.5（2023 09 11）\n - 應用程序名稱已更改為ttreader。\n   *現有TTS文本查看器的名稱太長，因此縮短了。 TTS文本閱讀器被縮短為Ttreader。\n\n - 修復了一個錯誤，如果使用簡歷函數時文件已經打開，則無法移動位置。\n - 糾正了各種錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.5.4 (2023 09 11)\n- Název aplikace byl změněn na TTreader.\n   * Název existujícího prohlížeče textu TTS byl příliš dlouhý, takže byl zkrácen. Čtečka textu TTS byla zkrácena na TTreader.\n\n- Opravena chyba, kde se umístění nemohlo přesunout, pokud byl soubor při použití funkce životopisu již otevřený.\n- Byly opraveny různé chyby."
+    "devnote": "7.5.5 (2023 09 11)\n- Název aplikace byl změněn na TTreader.\n   * Název existujícího prohlížeče textu TTS byl příliš dlouhý, takže byl zkrácen. Čtečka textu TTS byla zkrácena na TTreader.\n\n- Opravena chyba, kde se umístění nemohlo přesunout, pokud byl soubor při použití funkce životopisu již otevřený.\n- Byly opraveny různé chyby."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.5.4 (2023 09 11)\n- Бағдарлама атауы траверге өзгертілді.\n   * Бар TTS мәтін қарау құралының атауы тым ұзақ болды, сондықтан ол қысқартылды. TTS мәтіндік оқу құралы траверге қысқарды.\n\n- Егер түйіндеме функциясын пайдалану кезінде файл әлі ашық болса, орын ауыстыра алмайтын қатені тіркеңіз.\n- Әр түрлі қателер түзетілді."
+    "devnote": "7.5.5 (2023 09 11)\n- Бағдарлама атауы траверге өзгертілді.\n   * Бар TTS мәтін қарау құралының атауы тым ұзақ болды, сондықтан ол қысқартылды. TTS мәтіндік оқу құралы траверге қысқарды.\n\n- Егер түйіндеме функциясын пайдалану кезінде файл әлі ашық болса, орын ауыстыра алмайтын қатені тіркеңіз.\n- Әр түрлі қателер түзетілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.5.4 (2023 09 11)\n- El nom de l'aplicació s'ha canviat a TTreader.\n   * El nom de l'espectador de text TTS existent era massa llarg, de manera que es va escurçar. El lector de text TTS es va escurçar a TTreader.\n\n- S'ha corregit un error on no es podia moure la ubicació si el fitxer ja estava obert quan s'utilitzava la funció de currículum.\n- S'han corregit diversos errors."
+    "devnote": "7.5.5 (2023 09 11)\n- El nom de l'aplicació s'ha canviat a TTreader.\n   * El nom de l'espectador de text TTS existent era massa llarg, de manera que es va escurçar. El lector de text TTS es va escurçar a TTreader.\n\n- S'ha corregit un error on no es podia moure la ubicació si el fitxer ja estava obert quan s'utilitzava la funció de currículum.\n- S'han corregit diversos errors."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.5.4 (2023 09 11)\n- ಅಪ್ಲಿಕೇಶನ್ ಹೆಸರನ್ನು Ttreader ಎಂದು ಬದಲಾಯಿಸಲಾಗಿದೆ.\n   * ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಟಿಟಿಎಸ್ ಪಠ್ಯ ವೀಕ್ಷಕರ ಹೆಸರು ತುಂಬಾ ಉದ್ದವಾಗಿತ್ತು, ಆದ್ದರಿಂದ ಅದನ್ನು ಸಂಕ್ಷಿಪ್ತಗೊಳಿಸಲಾಯಿತು. ಟಿಟಿಎಸ್ ಟೆಕ್ಸ್ಟ್ ರೀಡರ್ ಅನ್ನು ಟಿಟ್ರೀಡರ್ಗೆ ಸಂಕ್ಷಿಪ್ತಗೊಳಿಸಲಾಯಿತು.\n\n- ಪುನರಾರಂಭದ ಕಾರ್ಯವನ್ನು ಬಳಸುವಾಗ ಫೈಲ್ ಈಗಾಗಲೇ ತೆರೆದಿದ್ದರೆ ಸ್ಥಳವನ್ನು ಸರಿಸಲಾಗದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ವಿವಿಧ ದೋಷಗಳನ್ನು ಸರಿಪಡಿಸಲಾಗಿದೆ."
+    "devnote": "7.5.5 (2023 09 11)\n- ಅಪ್ಲಿಕೇಶನ್ ಹೆಸರನ್ನು Ttreader ಎಂದು ಬದಲಾಯಿಸಲಾಗಿದೆ.\n   * ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಟಿಟಿಎಸ್ ಪಠ್ಯ ವೀಕ್ಷಕರ ಹೆಸರು ತುಂಬಾ ಉದ್ದವಾಗಿತ್ತು, ಆದ್ದರಿಂದ ಅದನ್ನು ಸಂಕ್ಷಿಪ್ತಗೊಳಿಸಲಾಯಿತು. ಟಿಟಿಎಸ್ ಟೆಕ್ಸ್ಟ್ ರೀಡರ್ ಅನ್ನು ಟಿಟ್ರೀಡರ್ಗೆ ಸಂಕ್ಷಿಪ್ತಗೊಳಿಸಲಾಯಿತು.\n\n- ಪುನರಾರಂಭದ ಕಾರ್ಯವನ್ನು ಬಳಸುವಾಗ ಫೈಲ್ ಈಗಾಗಲೇ ತೆರೆದಿದ್ದರೆ ಸ್ಥಳವನ್ನು ಸರಿಸಲಾಗದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ವಿವಿಧ ದೋಷಗಳನ್ನು ಸರಿಪಡಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.5.4 (2023 09 11)\n- Naziv aplikacije promijenjen je u Ttreader.\n   * Naziv postojećeg gledatelja teksta TTS -a bio je predugo, pa je skratilo. TTS čitač teksta skraćen je na ttreader.\n\n- Ispravljena je greška na kojoj se lokacija nije mogla premjestiti ako je datoteka već otvorena prilikom korištenja funkcije životopisa.\n- ispravljene su različite pogreške."
+    "devnote": "7.5.5 (2023 09 11)\n- Naziv aplikacije promijenjen je u Ttreader.\n   * Naziv postojećeg gledatelja teksta TTS -a bio je predugo, pa je skratilo. TTS čitač teksta skraćen je na ttreader.\n\n- Ispravljena je greška na kojoj se lokacija nije mogla premjestiti ako je datoteka već otvorena prilikom korištenja funkcije životopisa.\n- ispravljene su različite pogreške."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.5.4 (2023 09 11)\n- ឈ្មោះកម្មវិធីត្រូវបានប្តូរទៅ TRTRIDER ។\n   * ឈ្មោះរបស់អ្នកមើលអត្ថបទ TTS ដែលមានស្រាប់គឺវែងពេកដូច្នេះវាត្រូវបានខ្លី។ អ្នកអានអត្ថបទ TTS ត្រូវបានខ្លីទៅ ttreader ។\n\n- ជួសជុលកំហុសដែលទីតាំងមិនអាចត្រូវបានផ្លាស់ទីប្រសិនបើឯកសារបានបើករួចហើយនៅពេលប្រើមុខងារបន្ត។\n- កំហុសផ្សេងៗត្រូវបានកែដំរូវ។"
+    "devnote": "7.5.5 (2023 09 11)\n- ឈ្មោះកម្មវិធីត្រូវបានប្តូរទៅ TRTRIDER ។\n   * ឈ្មោះរបស់អ្នកមើលអត្ថបទ TTS ដែលមានស្រាប់គឺវែងពេកដូច្នេះវាត្រូវបានខ្លី។ អ្នកអានអត្ថបទ TTS ត្រូវបានខ្លីទៅ ttreader ។\n\n- ជួសជុលកំហុសដែលទីតាំងមិនអាចត្រូវបានផ្លាស់ទីប្រសិនបើឯកសារបានបើករួចហើយនៅពេលប្រើមុខងារបន្ត។\n- កំហុសផ្សេងៗត្រូវបានកែដំរូវ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.5.4 (2023 09 11)\n- өтүнмөнүн аты ttreaderке өзгөртүлдү.\n   * Учурдагы TTS текст көрүүчүүнүн аты өтө көп болду, ошондуктан ал кыскартылды. TTS текст окугуч твесерге кыскартылды.\n\n- Эгерде файл резюме функциясын колдонууда, файл мурунтан эле ачык болсо, жайгашкан жери жылдырылбай турган мүчүлүштүктү оңдолду.\n- Ар кандай каталар оңдолгон."
+    "devnote": "7.5.5 (2023 09 11)\n- өтүнмөнүн аты ttreaderке өзгөртүлдү.\n   * Учурдагы TTS текст көрүүчүүнүн аты өтө көп болду, ошондуктан ал кыскартылды. TTS текст окугуч твесерге кыскартылды.\n\n- Эгерде файл резюме функциясын колдонууда, файл мурунтан эле ачык болсо, жайгашкан жери жылдырылбай турган мүчүлүштүктү оңдолду.\n- Ар кандай каталар оңдолгон."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.5.4 (2023 09 11)\n- பயன்பாட்டு பெயர் Ttreader என மாற்றப்பட்டுள்ளது.\n   * தற்போதுள்ள டி.டி.எஸ் உரை பார்வையாளரின் பெயர் மிக நீளமாக இருந்தது, எனவே அது சுருக்கப்பட்டது. TTS உரை வாசகர் ttreader என சுருக்கப்பட்டது.\n\n- விண்ணப்பத்தை பயன்படுத்தும் போது கோப்பு ஏற்கனவே திறந்திருந்தால் இருப்பிடத்தை நகர்த்த முடியாத ஒரு பிழை சரி செய்யப்பட்டது.\n- பல்வேறு பிழைகள் சரி செய்யப்பட்டுள்ளன."
+    "devnote": "7.5.5 (2023 09 11)\n- பயன்பாட்டு பெயர் Ttreader என மாற்றப்பட்டுள்ளது.\n   * தற்போதுள்ள டி.டி.எஸ் உரை பார்வையாளரின் பெயர் மிக நீளமாக இருந்தது, எனவே அது சுருக்கப்பட்டது. TTS உரை வாசகர் ttreader என சுருக்கப்பட்டது.\n\n- விண்ணப்பத்தை பயன்படுத்தும் போது கோப்பு ஏற்கனவே திறந்திருந்தால் இருப்பிடத்தை நகர்த்த முடியாத ஒரு பிழை சரி செய்யப்பட்டது.\n- பல்வேறு பிழைகள் சரி செய்யப்பட்டுள்ளன."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.5.4 (2023 09 11)\n- ชื่อแอปพลิเคชันถูกเปลี่ยนเป็น TTreader\n   * ชื่อของตัวแสดงข้อความ TTS ที่มีอยู่นั้นยาวเกินไปดังนั้นจึงสั้นลง TTS Text Reader ถูกย่อให้ TReader\n\n- แก้ไขข้อผิดพลาดที่ไม่สามารถเคลื่อนย้ายตำแหน่งได้หากไฟล์เปิดอยู่แล้วเมื่อใช้ฟังก์ชันเรซูเม่\n- ข้อผิดพลาดต่าง ๆ ได้รับการแก้ไข"
+    "devnote": "7.5.5 (2023 09 11)\n- ชื่อแอปพลิเคชันถูกเปลี่ยนเป็น TTreader\n   * ชื่อของตัวแสดงข้อความ TTS ที่มีอยู่นั้นยาวเกินไปดังนั้นจึงสั้นลง TTS Text Reader ถูกย่อให้ TReader\n\n- แก้ไขข้อผิดพลาดที่ไม่สามารถเคลื่อนย้ายตำแหน่งได้หากไฟล์เปิดอยู่แล้วเมื่อใช้ฟังก์ชันเรซูเม่\n- ข้อผิดพลาดต่าง ๆ ได้รับการแก้ไข"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.5.4 (2023 09 11)\n- Uygulama adı TTREADER olarak değiştirildi.\n   * Mevcut TTS metin görüntüleyicisinin adı çok uzundu, bu yüzden kısaltıldı. TTS metin okuyucusu TTReader'a kısaltıldı.\n\n- Özgeçmiş işlevini kullanırken dosya zaten açıksa konumun taşınamadığı bir hata düzeltildi.\n- Çeşitli hatalar düzeltildi."
+    "devnote": "7.5.5 (2023 09 11)\n- Uygulama adı TTREADER olarak değiştirildi.\n   * Mevcut TTS metin görüntüleyicisinin adı çok uzundu, bu yüzden kısaltıldı. TTS metin okuyucusu TTReader'a kısaltıldı.\n\n- Özgeçmiş işlevini kullanırken dosya zaten açıksa konumun taşınamadığı bir hata düzeltildi.\n- Çeşitli hatalar düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.5.4 (2023 09 11)\n- అప్లికేషన్ పేరు టిట్రెడర్‌గా మార్చబడింది.\n   * ఇప్పటికే ఉన్న TTS టెక్స్ట్ వ్యూయర్ పేరు చాలా పొడవుగా ఉంది, కాబట్టి ఇది తగ్గించబడింది. TTS టెక్స్ట్ రీడర్ Ttreader కు కుదించబడింది.\n\n- పున ume ప్రారంభం ఫంక్షన్‌ను ఉపయోగిస్తున్నప్పుడు ఫైల్ ఇప్పటికే తెరిచి ఉంటే స్థానాన్ని తరలించలేని బగ్ పరిష్కరించబడింది.\n- వివిధ లోపాలు సరిదిద్దబడ్డాయి."
+    "devnote": "7.5.5 (2023 09 11)\n- అప్లికేషన్ పేరు టిట్రెడర్‌గా మార్చబడింది.\n   * ఇప్పటికే ఉన్న TTS టెక్స్ట్ వ్యూయర్ పేరు చాలా పొడవుగా ఉంది, కాబట్టి ఇది తగ్గించబడింది. TTS టెక్స్ట్ రీడర్ Ttreader కు కుదించబడింది.\n\n- పున ume ప్రారంభం ఫంక్షన్‌ను ఉపయోగిస్తున్నప్పుడు ఫైల్ ఇప్పటికే తెరిచి ఉంటే స్థానాన్ని తరలించలేని బగ్ పరిష్కరించబడింది.\n- వివిధ లోపాలు సరిదిద్దబడ్డాయి."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.5.4 (2023 09 11)\n- ਐਪਲੀਕੇਸ਼ਨ ਦਾ ਨਾਮ ttrareder ਵਿੱਚ ਬਦਲਿਆ ਗਿਆ ਹੈ.\n   * ਮੌਜੂਦਾ ਟੀਟੀਐਸ ਦੇ ਟੈਕਸਟ ਦਰਸ਼ਕ ਦਾ ਨਾਮ ਬਹੁਤ ਲੰਮਾ ਸੀ, ਇਸ ਲਈ ਇਸ ਨੂੰ ਛੋਟਾ ਕੀਤਾ ਗਿਆ ਸੀ. ਟੀਟੀਐਸ ਟੈਕਸਟ ਰੀਡਰ ਨੂੰ ttrareer ਤੋਂ ਛੋਟਾ ਕੀਤਾ ਗਿਆ ਸੀ.\n\n- ਇੱਕ ਬੱਗ ਹੱਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ ਜਿੱਥੇ ਟਿਕਾਣਾ ਨੂੰ ਹਿਲਾਇਆ ਨਹੀਂ ਜਾ ਸਕਿਆ ਤਾਂ ਇਹ ਫਾਇਲ ਪਹਿਲਾਂ ਹੀ ਖੁੱਲੀ ਸੀ ਤਾਂ ਫਾਇਲ ਪਹਿਲਾਂ ਹੀ ਖੁੱਲੀ ਸੀ.\n- ਕਈ ਗਲਤੀਆਂ ਸਹੀ ਕੀਤੀਆਂ ਗਈਆਂ ਹਨ."
+    "devnote": "7.5.5 (2023 09 11)\n- ਐਪਲੀਕੇਸ਼ਨ ਦਾ ਨਾਮ ttrareder ਵਿੱਚ ਬਦਲਿਆ ਗਿਆ ਹੈ.\n   * ਮੌਜੂਦਾ ਟੀਟੀਐਸ ਦੇ ਟੈਕਸਟ ਦਰਸ਼ਕ ਦਾ ਨਾਮ ਬਹੁਤ ਲੰਮਾ ਸੀ, ਇਸ ਲਈ ਇਸ ਨੂੰ ਛੋਟਾ ਕੀਤਾ ਗਿਆ ਸੀ. ਟੀਟੀਐਸ ਟੈਕਸਟ ਰੀਡਰ ਨੂੰ ttrareer ਤੋਂ ਛੋਟਾ ਕੀਤਾ ਗਿਆ ਸੀ.\n\n- ਇੱਕ ਬੱਗ ਹੱਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ ਜਿੱਥੇ ਟਿਕਾਣਾ ਨੂੰ ਹਿਲਾਇਆ ਨਹੀਂ ਜਾ ਸਕਿਆ ਤਾਂ ਇਹ ਫਾਇਲ ਪਹਿਲਾਂ ਹੀ ਖੁੱਲੀ ਸੀ ਤਾਂ ਫਾਇਲ ਪਹਿਲਾਂ ਹੀ ਖੁੱਲੀ ਸੀ.\n- ਕਈ ਗਲਤੀਆਂ ਸਹੀ ਕੀਤੀਆਂ ਗਈਆਂ ਹਨ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.5.4 (2023 09 11)\n- نام برنامه به TTREADER تغییر یافته است.\n   * نام بیننده متن TTS موجود خیلی طولانی بود ، بنابراین کوتاه شد. TTS Text Reader به TTREADER کوتاه شد.\n\n- اگر پرونده در هنگام استفاده از عملکرد رزومه باز بود ، اشکالی را که در آن نمی توان مکان جابجا کرد ، برطرف کرد.\n- خطاهای مختلفی اصلاح شده است."
+    "devnote": "7.5.5 (2023 09 11)\n- نام برنامه به TTREADER تغییر یافته است.\n   * نام بیننده متن TTS موجود خیلی طولانی بود ، بنابراین کوتاه شد. TTS Text Reader به TTREADER کوتاه شد.\n\n- اگر پرونده در هنگام استفاده از عملکرد رزومه باز بود ، اشکالی را که در آن نمی توان مکان جابجا کرد ، برطرف کرد.\n- خطاهای مختلفی اصلاح شده است."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.5.4 (2023 09 11)\n- O nome do aplicativo foi alterado para Ttreader.\n   * O nome do visualizador de texto TTS existente era muito longo, por isso foi reduzido. O leitor de texto TTS foi reduzido para Ttreader.\n\n- Corrigido um bug em que o local não pôde ser movido se o arquivo já estivesse aberto ao usar a função de currículo.\n- Vários erros foram corrigidos."
+    "devnote": "7.5.5 (2023 09 11)\n- O nome do aplicativo foi alterado para Ttreader.\n   * O nome do visualizador de texto TTS existente era muito longo, por isso foi reduzido. O leitor de texto TTS foi reduzido para Ttreader.\n\n- Corrigido um bug em que o local não pôde ser movido se o arquivo já estivesse aberto ao usar a função de currículo.\n- Vários erros foram corrigidos."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.5.4 (2023 09 11)\n- Nazwa aplikacji została zmieniona na tTreader.\n   * Nazwa istniejącego przeglądarki tekstu TTS była zbyt długa, więc została skrócona. Czytnik tekstu TTS został skrócony do TTreader.\n\n- Naprawiono błąd, w którym lokalizacji nie można było przenieść, jeśli plik był już otwarty podczas korzystania z funkcji CV.\n- Różne błędy zostały poprawione."
+    "devnote": "7.5.5 (2023 09 11)\n- Nazwa aplikacji została zmieniona na tTreader.\n   * Nazwa istniejącego przeglądarki tekstu TTS była zbyt długa, więc została skrócona. Czytnik tekstu TTS został skrócony do TTreader.\n\n- Naprawiono błąd, w którym lokalizacji nie można było przenieść, jeśli plik był już otwarty podczas korzystania z funkcji CV.\n- Różne błędy zostały poprawione."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.5.4 (2023 09 11)\n- Le nom de l'application a été modifié en Ttreader.\n   * Le nom de la visionneuse de texte TTS existante était trop long, il a donc été raccourci. Le lecteur de texte TTS a été raccourci à Ttreader.\n\n- Correction d'un bogue où l'emplacement ne peut pas être déplacé si le fichier était déjà ouvert lors de l'utilisation de la fonction de CV.\n- Diverses erreurs ont été corrigées."
+    "devnote": "7.5.5 (2023 09 11)\n- Le nom de l'application a été modifié en Ttreader.\n   * Le nom de la visionneuse de texte TTS existante était trop long, il a donc été raccourci. Le lecteur de texte TTS a été raccourci à Ttreader.\n\n- Correction d'un bogue où l'emplacement ne peut pas être déplacé si le fichier était déjà ouvert lors de l'utilisation de la fonction de CV.\n- Diverses erreurs ont été corrigées."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.5.4 (2023 09 11)\n- Sovelluksen nimi on muutettu TTREADERiksi.\n   * Nykyisen TTS -tekstin katseluohjelman nimi oli liian pitkä, joten se lyhennettiin. TTS -tekstinlukijaa lyhennettiin TTREADERiin.\n\n- Korjattu virhe, jossa sijaintia ei voitu siirtää, jos tiedosto oli jo auki, kun käytetään jatkamistoimintoa.\n- Eri virheet on korjattu."
+    "devnote": "7.5.5 (2023 09 11)\n- Sovelluksen nimi on muutettu TTREADERiksi.\n   * Nykyisen TTS -tekstin katseluohjelman nimi oli liian pitkä, joten se lyhennettiin. TTS -tekstinlukijaa lyhennettiin TTREADERiin.\n\n- Korjattu virhe, jossa sijaintia ei voitu siirtää, jos tiedosto oli jo auki, kun käytetään jatkamistoimintoa.\n- Eri virheet on korjattu."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.5.4 (2023 09 11)\n- Ang pangalan ng application ay nabago sa Ttreader.\n   * Ang pangalan ng umiiral na manonood ng teksto ng TTS ay masyadong mahaba, kaya pinaikling ito. Ang TTS Text Reader ay pinaikling sa Ttreader.\n\n- Nakapirming isang bug kung saan hindi mailipat ang lokasyon kung bukas na ang file kapag ginagamit ang pag -andar ng resume.\n- Iba't ibang mga pagkakamali ang naitama."
+    "devnote": "7.5.5 (2023 09 11)\n- Ang pangalan ng application ay nabago sa Ttreader.\n   * Ang pangalan ng umiiral na manonood ng teksto ng TTS ay masyadong mahaba, kaya pinaikling ito. Ang TTS Text Reader ay pinaikling sa Ttreader.\n\n- Nakapirming isang bug kung saan hindi mailipat ang lokasyon kung bukas na ang file kapag ginagamit ang pag -andar ng resume.\n- Iba't ibang mga pagkakamali ang naitama."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.5.4 (2023 09 11)\n- Az alkalmazás nevét a TTreaderre változtatták.\n   * A meglévő TTS szöveges néző neve túl hosszú volt, tehát lerövidült. A TTS szövegolvasót a ttreaderre rövidítették.\n\n- Javítva egy hibát, ahol a helyet nem lehetett mozgatni, ha a fájl már nyitva volt az önéletrajz funkció használatakor.\n- Különböző hibákat javítottak."
+    "devnote": "7.5.5 (2023 09 11)\n- Az alkalmazás nevét a TTreaderre változtatták.\n   * A meglévő TTS szöveges néző neve túl hosszú volt, tehát lerövidült. A TTS szövegolvasót a ttreaderre rövidítették.\n\n- Javítva egy hibát, ahol a helyet nem lehetett mozgatni, ha a fájl már nyitva volt az önéletrajz funkció használatakor.\n- Különböző hibákat javítottak."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.5.4 (2023 09 11)\n- שם היישום שונה ל- TTreader.\n   * שמו של מציג הטקסטים הקיים של TTS היה ארוך מדי, כך שהוא קוצר. קורא טקסטים של TTS קוצר לטריאדר.\n\n- תיקן באג שבו לא ניתן היה להזיז את המיקום אם הקובץ כבר היה פתוח בעת השימוש בפונקציית קורות החיים.\n- שגיאות שונות תוקנו."
+    "devnote": "7.5.5 (2023 09 11)\n- שם היישום שונה ל- TTreader.\n   * שמו של מציג הטקסטים הקיים של TTS היה ארוך מדי, כך שהוא קוצר. קורא טקסטים של TTS קוצר לטריאדר.\n\n- תיקן באג שבו לא ניתן היה להזיז את המיקום אם הקובץ כבר היה פתוח בעת השימוש בפונקציית קורות החיים.\n- שגיאות שונות תוקנו."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.5.4 (2023 09 11)\n- एप्लिकेशन का नाम बदलकर टेटर में बदल दिया गया है।\n   * मौजूदा टीटीएस पाठ दर्शक का नाम बहुत लंबा था, इसलिए इसे छोटा कर दिया गया। TTS टेक्स्ट रीडर को Ttreader को छोटा कर दिया गया।\n\n- एक बग फिक्स्ड जहां स्थान को स्थानांतरित नहीं किया जा सकता था यदि फ़ाइल फिर से शुरू फ़ंक्शन का उपयोग करते समय पहले से खुली थी।\n- विभिन्न त्रुटियों को ठीक किया गया है।"
+    "devnote": "7.5.5 (2023 09 11)\n- एप्लिकेशन का नाम बदलकर टेटर में बदल दिया गया है।\n   * मौजूदा टीटीएस पाठ दर्शक का नाम बहुत लंबा था, इसलिए इसे छोटा कर दिया गया। TTS टेक्स्ट रीडर को Ttreader को छोटा कर दिया गया।\n\n- एक बग फिक्स्ड जहां स्थान को स्थानांतरित नहीं किया जा सकता था यदि फ़ाइल फिर से शुरू फ़ंक्शन का उपयोग करते समय पहले से खुली थी।\n- विभिन्न त्रुटियों को ठीक किया गया है।"
   }
 }
