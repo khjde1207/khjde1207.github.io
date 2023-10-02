@@ -53,7 +53,7 @@ Diese Anwendung hat viele Funktionen, daher empfehle ich Ihnen, sie einzeln zu l
 
   - In diesem Fall kommt es wie ein außerirdischer Charakter heraus, nicht Koreanisch, sodass Sie es in TTS nicht lesen können.
 
-  - Der Löser kann dies extrahieren, indem es die Funktion des Extrahierens als Bild in gewisser Weise verwendet und dann das OCR drehen.
+  - Um dieses Problem zu lösen, kann die Funktion des Extrahierens eines Bildes verwendet werden, und dann kann die OCR gedreht werden, um es zu extrahieren.
 
 
 7. So richten Sie TTs ein:
@@ -105,7 +105,7 @@ Diese Anwendung hat viele Funktionen, daher empfehle ich Ihnen, sie einzeln zu l
 
 
 10. Wenn es beim Anhören von TTS einen störenden Satz gibt, arbeiten Sie ihn aus:
-  - Wenn das Original geändert werden kann, ändern Sie es bitte in eine Stapeländerung.
+  - Wenn es keine Rolle spielt, ob das Original geändert wird, ändern Sie es bitte in die Funktion [Kollektive Modifikation].
 
   - Nach der Änderung bleibt die Sicherungsdatei in meiner Bibliothek. Wenn Sie sie also versehentlich ändern, können Sie sie erneut wiederherstellen.
 

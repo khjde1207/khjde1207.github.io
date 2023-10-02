@@ -53,7 +53,7 @@ Kā to izmantot:
 
   - Šajā gadījumā tas iznāk kā ārpuszemes raksturs, nevis korejietis, tāpēc jūs to nevarat lasīt TTS.
 
-  - Solver to var iegūt, izmantojot funkciju, kā to iegūt kā attēlu, un pēc tam pagriežot OCR.
+  - Kā veids, kā atrisināt šo problēmu, var izmantot attēla iegūšanas funkciju, un pēc tam OCR var pagriezt, lai to iegūtu.
 
 
 7. Kā iestatīt TTS:
@@ -105,7 +105,7 @@ Kā to izmantot:
 
 
 10. Ja, klausoties TTS, ir satraucošs teikums, izstrādājiet to:
-  - Ja oriģinālu var modificēt, lūdzu, mainiet to uz partijas modifikāciju.
+  - Ja nav svarīgi, vai oriģināls ir modificēts, lūdzu, mainiet to uz [kolektīvās modifikācijas] funkciju.
 
   - Pēc izmaiņām rezerves fails paliks manā bibliotēkā, tāpēc, ja jūs to nejauši modificēsit, varat to atkal atgūt.
 

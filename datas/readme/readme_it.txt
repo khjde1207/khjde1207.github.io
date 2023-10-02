@@ -53,7 +53,7 @@ Questa applicazione ha molte funzioni, quindi ti consiglio di leggerlo uno per u
 
   - In questo caso, esce come un personaggio extraterrestre, non coreano, quindi non puoi leggerlo in TTS.
 
-  - Il risolutore può estrarlo usando la funzione di estrarla come immagine in un certo senso, quindi trasformando l'OCR.
+  - Come modo per risolvere questo problema, è possibile utilizzare la funzione di estrazione di un'immagine e quindi l'OCR può essere ruotato per estrarla.
 
 
 7. Come impostare TTS:
@@ -105,7 +105,7 @@ Questa applicazione ha molte funzioni, quindi ti consiglio di leggerlo uno per u
 
 
 10. Se c'è una frase stridente quando si ascolta TTS, elaborala:
-  - Se l'originale può essere modificato, modificarlo in una modifica batch.
+  - Se non importa se l'originale è modificato, si prega di modificarlo nella funzione [Modifica collettiva].
 
   - Dopo la modifica, il file di backup rimarrà nella mia libreria, quindi se lo modifichi accidentalmente, puoi recuperarlo di nuovo.
 
@@ -161,7 +161,7 @@ Questa applicazione ha molte funzioni, quindi ti consiglio di leggerlo uno per u
 
 
 14. Segnalibro/Nota/Descrizione da protagonista:
-  - L'app supporta note e segnalibri/protagonisti.
+  - L'app supporta note e segnalibri/protagonista.
 
   - Se si accende la funzione dei segnalibri nelle impostazioni dei segnalibri, è possibile aggiungerla premendo e tenendo il testo.
 

@@ -53,7 +53,7 @@ Ova aplikacija ima puno funkcija, pa vam preporučujem da je pročitate jedan po
 
   - U ovom slučaju izlazi kao izvanzemaljski lik, a ne korejski, tako da ga ne možete pročitati u TTS -u.
 
-  - Solver to može izdvojiti pomoću funkcije ekstrakcije kao slike na neki način, a zatim okretanjem OCR -a.
+  - Kao način da se riješi ovaj problem, može se koristiti funkcija vađenja slike, a zatim se OCR može zakretati kako bi ga izvukao.
 
 
 7. Kako postaviti TTS:
@@ -105,7 +105,7 @@ Ova aplikacija ima puno funkcija, pa vam preporučujem da je pročitate jedan po
 
 
 10. Ako postoji rečenica za slušanje prilikom slušanja TTS -a, riješite to:
-  - Ako se original može izmijeniti, promijenite ga u serijsku modifikaciju.
+  - Ako nije važno je li original izmijenjen, promijenite ga u funkciju [kolektivne modifikacije].
 
   - Nakon promjene, sigurnosna kopija ostat će u mojoj knjižnici, tako da ako je slučajno izmijenite, možete je ponovo oporaviti.
 

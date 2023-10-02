@@ -53,7 +53,7 @@ Hvernig á að nota það:
 
   - Í þessu tilfelli kemur það út eins og geimvera, ekki kóreska, svo þú getur ekki lesið það í TTS.
 
-  - Leysirinn getur dregið þetta út með því að nota virkni þess að draga það út sem mynd á vissan hátt og síðan með því að snúa OCR.
+  - Sem leið til að leysa þetta vandamál er hægt að nota virkni þess að draga mynd og þá er hægt að snúa OCR til að draga hana út.
 
 
 7. Hvernig á að setja upp TTS:
@@ -105,7 +105,7 @@ Hvernig á að nota það:
 
 
 10. Ef það er ógeðsleg setning þegar þú hlustar á TTS skaltu vinna úr því:
-  - Ef hægt er að breyta frumritinu, vinsamlegast breyttu því í lotubreytingu.
+  - Ef það skiptir ekki máli hvort upprunalega er breytt, vinsamlegast breyttu því í [sameiginlega breytingu] aðgerðina.
 
   - Eftir breytinguna verður afritunarskráin áfram á bókasafninu mínu, þannig að ef þú breytir henni óvart geturðu endurheimt hana aftur.
 

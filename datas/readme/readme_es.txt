@@ -53,7 +53,7 @@ Esta aplicación tiene muchas funciones, por lo que le recomiendo que la lea una
 
   - En este caso, sale como un carácter extraterrestre, no coreano, por lo que no puedes leerlo en TTS.
 
-  - El solucionador puede extraer esto utilizando la función de extraerlo como una imagen de alguna manera, y luego girando el OCR.
+  - Como una forma de resolver este problema, se puede usar la función de extraer una imagen, y luego el OCR se puede girar para extraerlo.
 
 
 7. Cómo configurar TTS:
@@ -105,7 +105,7 @@ Esta aplicación tiene muchas funciones, por lo que le recomiendo que la lea una
 
 
 10. Si hay una oración discordante al escuchar TTS, resuélvelo:
-  - Si el original se puede modificar, cámbielo a una modificación por lotes.
+  - Si no importa si el original se modifica, cámbielo a la función [Modificación colectiva].
 
   - Después del cambio, el archivo de copia de seguridad permanecerá en mi biblioteca, por lo que si accidentalmente lo modifica, puede recuperarlo nuevamente.
 

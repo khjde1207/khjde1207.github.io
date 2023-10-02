@@ -53,7 +53,7 @@ Táto aplikácia má veľa funkcií, preto vám odporúčam prečítať si ju je
 
   - V tomto prípade to vyjde ako mimozemská postava, nie kórejčina, takže ho nemôžete prečítať v TTS.
 
-  - Riešič to môže extrahovať pomocou funkcie jeho extrahovania ako obrazom a potom otáčaním OCR.
+  - Ako spôsob, ako vyriešiť tento problém, je možné použiť funkciu extrahovania obrázka a potom sa môže OCR otáčať, aby sa extrahoval.
 
 
 7. Ako nastaviť TTS:
@@ -105,7 +105,7 @@ Táto aplikácia má veľa funkcií, preto vám odporúčam prečítať si ju je
 
 
 10. Ak pri počúvaní TTS existuje drsná veta, vypracujte ju:
-  - Ak je možné originál upraviť, zmeňte ho na modifikáciu dávky.
+  - Ak nezáleží na tom, či je originál upravený, zmeňte ho na funkciu [Collective Modification].
 
   - Po zmene zostane záložný súbor v mojej knižnici, takže ak ho náhodou upravíte, môžete ho znova získať.
 

@@ -53,7 +53,7 @@ Ang application na ito ay may maraming mga pag -andar, kaya inirerekumenda kong 
 
   - Sa kasong ito, lumabas ito tulad ng isang extraterrestrial character, hindi Korean, kaya hindi mo ito mabasa sa TTS.
 
-  - Ang solver ay maaaring kunin ito sa pamamagitan ng paggamit ng pag -andar ng pagkuha nito bilang isang imahe sa isang paraan, at pagkatapos ay sa pamamagitan ng pag -on ng OCR.
+  - Bilang isang paraan upang malutas ang problemang ito, ang pag -andar ng pagkuha ng isang imahe ay maaaring magamit, at pagkatapos ang OCR ay maaaring paikutin upang kunin ito.
 
 
 7. Paano mag -set up ng TTS:
@@ -105,7 +105,7 @@ Ang application na ito ay may maraming mga pag -andar, kaya inirerekumenda kong 
 
 
 10. Kung mayroong isang nakamamatay na pangungusap kapag nakikinig sa TTS, gumana ito:
-  - Kung ang orihinal ay maaaring mabago, mangyaring baguhin ito sa isang pagbabago ng batch.
+  - Kung hindi mahalaga kung ang orihinal ay nabago, mangyaring baguhin ito sa pag -andar ng [kolektibong pagbabago].
 
   - Matapos ang pagbabago, ang backup file ay mananatili sa aking silid -aklatan, kaya kung hindi mo sinasadyang baguhin ito, maaari mo itong mabawi muli.
 

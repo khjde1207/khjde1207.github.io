@@ -53,7 +53,7 @@ Aplikasi ini memiliki banyak fungsi, jadi saya sarankan Anda membacanya satu per
 
   - Dalam hal ini, keluar seperti karakter luar angkasa, bukan bahasa Korea, jadi Anda tidak dapat membacanya di TTS.
 
-  - Pemecah dapat mengekstrak ini dengan menggunakan fungsi mengekstraksinya sebagai gambar dengan cara tertentu, dan kemudian dengan memutar OCR.
+  - Sebagai cara untuk menyelesaikan masalah ini, fungsi mengekstraksi gambar dapat digunakan, dan kemudian OCR dapat diputar untuk mengekstraknya.
 
 
 7. Cara Mengatur TTS:
@@ -105,7 +105,7 @@ Aplikasi ini memiliki banyak fungsi, jadi saya sarankan Anda membacanya satu per
 
 
 10. Jika ada kalimat yang menggelegar saat mendengarkan TTS, kerjakan:
-  - Jika aslinya dapat dimodifikasi, harap ubah menjadi modifikasi batch.
+  - Jika tidak masalah jika aslinya dimodifikasi, harap ubah ke fungsi [modifikasi kolektif].
 
   - Setelah perubahan, file cadangan akan tetap di perpustakaan saya, jadi jika Anda secara tidak sengaja memodifikasinya, Anda dapat memulihkannya lagi.
 
@@ -163,7 +163,7 @@ Aplikasi ini memiliki banyak fungsi, jadi saya sarankan Anda membacanya satu per
 14. Bookmark/note/Starring Description:
   - Aplikasi ini mendukung catatan dan bookmark/dibintangi.
 
-  - Jika Anda menyalakan fungsi bookmark dalam pengaturan bookmark, Anda dapat menambahkannya dengan menekan dan menahan teks.
+  - Jika Anda menyalakan fungsi bookmark dalam pengaturan bookmark, Anda dapat menambahkannya dengan menekan dan memegang teks.
 
   - Fitur Notes memungkinkan Anda untuk memilih dan memasukkan file jika Anda telah membukanya setidaknya sekali.
 

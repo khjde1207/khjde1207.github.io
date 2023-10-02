@@ -53,7 +53,7 @@ Làm thế nào để sử dụng nó:
 
   - Trong trường hợp này, nó xuất hiện như một nhân vật ngoài trái đất, không phải tiếng Hàn, vì vậy bạn không thể đọc nó trong TTS.
 
-  - Bộ giải có thể trích xuất điều này bằng cách sử dụng chức năng trích xuất nó như một hình ảnh theo một cách nào đó, và sau đó bằng cách xoay OCR.
+  - Là một cách để giải quyết vấn đề này, chức năng trích xuất một hình ảnh có thể được sử dụng, và sau đó OCR có thể được xoay để trích xuất nó.
 
 
 7. Cách thiết lập TTS:
@@ -105,7 +105,7 @@ Làm thế nào để sử dụng nó:
 
 
 10. Nếu có một câu chói tai khi nghe TTS, hãy giải quyết nó:
-  - Nếu bản gốc có thể được sửa đổi, vui lòng thay đổi nó thành sửa đổi hàng loạt.
+  - Nếu không có vấn đề gì nếu bản gốc được sửa đổi, vui lòng thay đổi nó thành hàm [sửa đổi tập thể].
 
   - Sau khi thay đổi, tệp sao lưu sẽ vẫn còn trong thư viện của tôi, vì vậy nếu bạn vô tình sửa đổi nó, bạn có thể khôi phục lại.
 

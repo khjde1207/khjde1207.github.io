@@ -53,7 +53,7 @@ Denne applikation har en masse funktioner, så jeg anbefaler, at du læser den e
 
   - I dette tilfælde kommer det ud som en udenjordisk karakter, ikke koreansk, så du kan ikke læse den i TTS.
 
-  - Solveren kan udtrække dette ved at bruge funktionen af ​​at udtrække den som et billede på en måde og derefter ved at dreje OCR.
+  - Som en måde at løse dette problem kan funktionen af ​​at udtrække et billede bruges, og derefter kan OCR roteres for at udtrække det.
 
 
 7. Sådan opsættes TTS:
@@ -105,7 +105,7 @@ Denne applikation har en masse funktioner, så jeg anbefaler, at du læser den e
 
 
 10. Hvis der er en skurrende sætning, når du lytter til TTS, skal du finde ud af den:
-  - Hvis originalen kan ændres, skal du ændre den til en batchmodifikation.
+  - Hvis det ikke betyder noget, om originalen ændres, skal du ændre den til funktionen [kollektiv modifikation].
 
   - Efter ændringen forbliver backup -filen i mit bibliotek, så hvis du ved et uheld ændrer den, kan du gendanne den igen.
 

@@ -53,7 +53,7 @@ Aplikazio honek funtzio ugari ditu, beraz, bat banan-banan irakurtzea gomendatze
 
   - Kasu honetan, estralurtar pertsonaia bat bezala ateratzen da, ez koreera, beraz ezin duzu TTS-en irakurri.
 
-  - Solverrek hau atera dezake irudi gisa ateratzeko funtzioa erabiliz, eta gero OCR bihurtuz.
+  - Arazo hau konpontzeko modu gisa, irudi bat ateratzeko funtzioa erabil daiteke eta, ondoren, OCR biratu daiteke erauzteko.
 
 
 7. Nola konfiguratu TTS:
@@ -105,7 +105,7 @@ Aplikazio honek funtzio ugari ditu, beraz, bat banan-banan irakurtzea gomendatze
 
 
 10. TTS entzuterakoan esaldi bat badago, lan egin:
-  - Jatorrizkoa alda daiteke, aldatu lote aldaketara.
+  - Ez badu axola jatorrizkoa aldatzen bada, aldatu [Aldaketa Kolektiboko] funtziora.
 
   - Aldaketaren ondoren, babes-fitxategia nire liburutegian geratuko da, beraz, ustekabean aldatzen baduzu, berriro berreskura dezakezu.
 

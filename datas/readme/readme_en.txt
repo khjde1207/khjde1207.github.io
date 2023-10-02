@@ -53,7 +53,7 @@ This application has a lot of functions, so I recommend you read it one by one.
 
   - In this case, it comes out like an extraterrestrial character, not Korean, so you can't read it in TTS. 
 
-  - The solver can extract this by using the function of extracting it as an image in a way, and then by turning the OCR.  
+  - As a way to solve this problem, the function of extracting an image can be used, and then the OCR can be rotated to extract it.
 
 
 7. How to set up TTS: 
@@ -105,7 +105,7 @@ This application has a lot of functions, so I recommend you read it one by one.
 
 
 10. If there is a jarring sentence when listening to TTS, work it out: 
-  - If the original can be modified, please change it to a batch modification. 
+  - If it doesn't matter if the original is modified, please change it to the [Collective Modification] function.
 
   - After the change, the backup file will remain in my library, so if you accidentally modify it, you can recover it again. 
 

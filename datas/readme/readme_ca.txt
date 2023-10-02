@@ -53,7 +53,7 @@ Aquesta aplicació té moltes funcions, així que us recomano que la llegiu una 
 
   - En aquest cas, surt com un personatge extraterrestre, no coreà, de manera que no es pot llegir en TTS.
 
-  - El solucionador pot extreure això mitjançant la funció d’extreure’l com a imatge d’una manera i, a continuació, girant l’OCR.
+  - Com a forma de resoldre aquest problema, es pot utilitzar la funció d’extreure una imatge i, a continuació, es pot girar l’OCR per extreure -la.
 
 
 7. Com configurar TTS:
@@ -105,7 +105,7 @@ Aquesta aplicació té moltes funcions, així que us recomano que la llegiu una 
 
 
 10. Si hi ha una frase que escolta TTS, descobreix -ho:
-  - Si es pot modificar l'original, canvieu -lo a una modificació per lots.
+  - Si no importa si l'original es modifica, canvieu -lo a la funció [Modificació col·lectiva].
 
   - Després del canvi, el fitxer de còpia de seguretat romandrà a la meva biblioteca, de manera que si el modifiqueu accidentalment, podeu tornar -lo a recuperar.
 

@@ -53,7 +53,7 @@ Această aplicație are o mulțime de funcții, așa că vă recomand să o citi
 
   - În acest caz, iese ca un personaj extraterestru, nu coreean, așa că nu îl poți citi în TTS.
 
-  - Solverul poate extrage acest lucru folosind funcția de extragere a acesteia ca imagine într -un fel, apoi prin întoarcerea OCR.
+  - Ca o modalitate de a rezolva această problemă, poate fi utilizată funcția de extragere a unei imagini, apoi OCR poate fi rotită pentru a o extrage.
 
 
 7. Cum să configurați TTS:
@@ -105,7 +105,7 @@ Această aplicație are o mulțime de funcții, așa că vă recomand să o citi
 
 
 10. Dacă există o propoziție crudă când ascultați TTS, rezolvați -o:
-  - Dacă originalul poate fi modificat, vă rugăm să îl schimbați la o modificare a lotului.
+  - Dacă nu contează dacă originalul este modificat, vă rugăm să îl schimbați în funcția [modificare colectivă].
 
   - După modificare, fișierul de rezervă va rămâne în biblioteca mea, așa că dacă îl modificați accidental, îl puteți recupera din nou.
 

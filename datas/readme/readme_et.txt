@@ -53,7 +53,7 @@ Sellel rakendusel on palju funktsioone, nii et soovitan teil seda ükshaaval lug
 
   - Sel juhul tuleb see välja nagu maaväline tegelane, mitte korealane, nii et te ei saa seda TTS -is lugeda.
 
-  - Lahendaja saab selle kaevandada, kasutades selle funktsiooni, mis eraldaks selle kujutisena ja seejärel ORCR -i keerates.
+  - Selle probleemi lahendamise viisina saab pildi ekstraheerimise funktsiooni kasutada ja seejärel saab OCR selle eraldamiseks pöörata.
 
 
 7. Kuidas seadistada TTS:
@@ -105,7 +105,7 @@ Sellel rakendusel on palju funktsioone, nii et soovitan teil seda ükshaaval lug
 
 
 10. Kui TTS -i kuulamisel on jama lause, tehke see välja:
-  - Kui originaali saab muuta, muutke see partii muutmiseks.
+  - Kui pole vahet, kas originaali muudetakse, muutke see funktsiooni [kollektiivse modifikatsiooni] jaoks.
 
   - Pärast muudatust jääb varufail minu teeki, nii et kui seda kogemata muudate, saate selle uuesti taastada.
 

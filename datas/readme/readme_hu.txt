@@ -53,7 +53,7 @@ Ennek az alkalmazásnak sok funkciója van, ezért azt javaslom, hogy olvassa el
 
   - Ebben az esetben úgy jön ki, mint egy földön kívüli karakter, nem koreai, tehát nem olvashatja el a TTS -ben.
 
-  - A megoldó kinyerheti ezt azáltal, hogy felhasználja azt képként, majd az OCR elforgatásával.
+  - A probléma megoldásának egyik módjaként a kép kinyerésének funkciója felhasználható, majd az OCR elforgatható annak kinyeréséhez.
 
 
 7. A TTS beállításának módja:
@@ -105,7 +105,7 @@ Ennek az alkalmazásnak sok funkciója van, ezért azt javaslom, hogy olvassa el
 
 
 10. Ha a TTS hallgatásakor zavaró mondat van, akkor dolgozza ki:
-  - Ha az eredeti módosítható, kérjük, változtassa meg kötegelt módosításra.
+  - Ha nem számít, ha az eredeti módosul, kérjük, változtassa meg a [kollektív módosítás] funkcióra.
 
   - A változás után a biztonsági mentési fájl a könyvtárban marad, tehát ha véletlenül módosítja, akkor újra helyreállíthatja.
 

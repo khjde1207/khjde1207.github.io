@@ -53,7 +53,7 @@ Ta aplikacja ma wiele funkcji, więc polecam przeczytać ją jeden po drugim.
 
   - W tym przypadku wychodzi jak pozaziemski charakter, a nie koreański, więc nie możesz go czytać w TTS.
 
-  - Solver może to wyodrębnić, używając funkcji wyodrębnienia go jako obrazu w pewien sposób, a następnie przekręcając OCR.
+  - Jako sposób rozwiązania tego problemu można zastosować funkcję wyodrębnienia obrazu, a następnie OCR można obrócić w celu wyodrębnienia go.
 
 
 7. Jak skonfigurować TTS:
@@ -105,7 +105,7 @@ Ta aplikacja ma wiele funkcji, więc polecam przeczytać ją jeden po drugim.
 
 
 10. Jeśli podczas słuchania TTS jest wstrząsające zdanie, wypracuj to:
-  - Jeśli oryginał można zmodyfikować, zmień go na modyfikację partii.
+  - Jeśli nie ma znaczenia, czy oryginał jest zmodyfikowany, zmień go na funkcję [Modyfikację zbiorową].
 
   - Po zmianie plik kopii zapasowej pozostanie w mojej bibliotece, więc jeśli przypadkowo go zmodyfikujesz, możesz go ponownie odzyskać.
 

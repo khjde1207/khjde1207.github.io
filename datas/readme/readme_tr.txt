@@ -53,7 +53,7 @@ Bu uygulamanın birçok işlevi var, bu yüzden tek tek okumanızı tavsiye eder
 
   - Bu durumda, Korece değil, dünya dışı bir karakter gibi ortaya çıkıyor, bu yüzden TTS'de okuyamazsınız.
 
-  - Çözücü bunu bir şekilde bir görüntü olarak çıkarma işlevini ve ardından OCR'yi çevirerek çıkarabilir.
+  - Bu sorunu çözmenin bir yolu olarak, bir görüntüyü çıkarma işlevi kullanılabilir ve daha sonra OCR onu çıkarmak için döndürülebilir.
 
 
 7. TTS nasıl kurulur:
@@ -105,7 +105,7 @@ Bu uygulamanın birçok işlevi var, bu yüzden tek tek okumanızı tavsiye eder
 
 
 10. TTS dinlerken sarsıcı bir cümle varsa, çalışın:
-  - Orijinal değiştirilebilirse, lütfen bir toplu değişiklik olarak değiştirin.
+  - Orijinalin değiştirilmesi önemli değilse, lütfen [toplu değişiklik] işlevine değiştirin.
 
   - Değişiklikten sonra, yedekleme dosyası kütüphanemde kalacaktır, bu nedenle yanlışlıkla değiştirirseniz, tekrar kurtarabilirsiniz.
 

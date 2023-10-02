@@ -53,7 +53,7 @@ Tato aplikace má mnoho funkcí, takže doporučuji, abyste si ji přečetli jed
 
   - V tomto případě to vyjde jako mimozemský charakter, ne korejský, takže si ho nemůžete číst v TTS.
 
-  - Řešitel to může extrahovat pomocí funkce extrakce jako obrázku způsobem a poté otočením OCR.
+  - Jako způsob, jak tento problém vyřešit, lze použít funkci extrahování obrazu a pak lze OCR otočit, aby jej extrahoval.
 
 
 7. Jak nastavit TTS:
@@ -105,7 +105,7 @@ Tato aplikace má mnoho funkcí, takže doporučuji, abyste si ji přečetli jed
 
 
 10. Pokud při poslechu TTS existuje otřesná věta, vyřešte ji:
-  - Pokud lze originál upravit, změňte jej na dávkovou úpravu.
+  - Pokud nezáleží na tom, zda je originál upraven, změňte jej na funkci [kolektivní modifikace].
 
   - Po změně zůstane záložní soubor v mé knihovně, takže pokud jej omylem upravíte, můžete jej znovu obnovit.
 

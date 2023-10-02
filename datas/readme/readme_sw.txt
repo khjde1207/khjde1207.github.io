@@ -53,7 +53,7 @@ Maombi haya yana kazi nyingi, kwa hivyo ninapendekeza uisome moja kwa moja.
 
   - Katika kesi hii, hutoka kama tabia ya nje, sio Kikorea, kwa hivyo huwezi kuisoma katika TTS.
 
-  - Solver inaweza kutoa hii kwa kutumia kazi ya kuiondoa kama picha kwa njia, na kisha kwa kugeuza OCR.
+  - Kama njia ya kutatua shida hii, kazi ya kutoa picha inaweza kutumika, na kisha OCR inaweza kuzungushwa ili kuiondoa.
 
 
 7. Jinsi ya kuanzisha TTS:
@@ -105,7 +105,7 @@ Maombi haya yana kazi nyingi, kwa hivyo ninapendekeza uisome moja kwa moja.
 
 
 10. Ikiwa kuna sentensi ya kusumbua wakati wa kusikiliza TTS, fanya kazi:
-  - Ikiwa asili inaweza kubadilishwa, tafadhali ibadilishe kuwa muundo wa batch.
+  - Ikiwa haijalishi ikiwa asili imebadilishwa, tafadhali ibadilishe kuwa kazi ya [pamoja].
 
   - Baada ya mabadiliko, faili ya chelezo itabaki kwenye maktaba yangu, kwa hivyo ikiwa utaibadilisha kwa bahati mbaya, unaweza kuipona tena.
 

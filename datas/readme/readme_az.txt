@@ -53,7 +53,7 @@ Bu tətbiqin bir çox funksiyası var, buna görə bir-bir oxumağı məsləhət
 
   - Bu vəziyyətdə, Koreyalı deyil, Koreyalı olmayan bir yerüstü xarakter kimi çıxır, buna görə də onu TTS-də oxuya bilməzsiniz.
 
-  - Solver bunu bir şəkildə bir görüntü kimi çıxarmaq funksiyasından istifadə edərək, OCR-i çevirərək onu çıxara bilər.
+  - Bu problemi həll etmək üçün bir yol olaraq, bir görüntü çıxarmaq funksiyası istifadə edilə bilər və sonra OCR onu çıxarmaq üçün fırlana bilər.
 
 
 7. TTS qurmaq üçün necə:
@@ -105,7 +105,7 @@ Bu tətbiqin bir çox funksiyası var, buna görə bir-bir oxumağı məsləhət
 
 
 10. TTS-i dinləyərkən bir cırtdan cümləsi varsa, onu işləyin:
-  - Orijinal dəyişdirilə bilərsə, lütfən onu bir toplu modifikasiyaya dəyişdirin.
+  - Orijinal dəyişdirildiyi təqdirdə, lütfən [kollektiv modifikasiya] funksiyasına dəyişdirin.
 
   - Dəyişmədən sonra ehtiyat sənədim kitabxanamda qalacaq, buna görə təsadüfən dəyişdirsəniz, yenidən bərpa edə bilərsiniz.
 

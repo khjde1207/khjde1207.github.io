@@ -53,7 +53,7 @@ Kaip juo naudotis:
 
   - Šiuo atveju jis pasirodo kaip nežemiškas veikėjas, o ne korėjietis, todėl jūs negalite jo perskaityti TTS.
 
-  - Solderis gali tai išgauti, naudodamas funkciją, kaip ją išgauti kaip vaizdą, o paskui pasukdamas OCR.
+  - Kaip būdas išspręsti šią problemą, gali būti naudojama vaizdo ištraukimo funkcija, o tada OCR galima pasukti, kad ją išgautumėte.
 
 
 7. Kaip nustatyti TTS:
@@ -105,7 +105,7 @@ Kaip juo naudotis:
 
 
 10. Jei klausant TTS yra niūrus sakinys, išspręskite:
-  - Jei originalą galima modifikuoti, pakeiskite jį į partijos modifikaciją.
+  - Jei nesvarbu, ar originalas yra modifikuotas, pakeiskite jį į [kolektyvinio modifikavimo] funkciją.
 
   - Po pakeitimo atsarginis failas liks mano bibliotekoje, taigi, jei netyčia jį modifikuosite, galite jį atkurti dar kartą.
 

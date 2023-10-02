@@ -53,7 +53,7 @@ Kjo kërkesë ka shumë funksione, kështu që unë ju rekomandoj ta lexoni atë
 
   - Në këtë rast, ajo del si një personazh jashtëtokësor, jo Koreane, kështu që ju nuk mund ta lexoni atë në TTS.
 
-  - Solver mund ta nxjerrë këtë duke përdorur funksionin e nxjerrjes së tij si një imazh në një farë mënyre, dhe më pas duke e kthyer OCR.
+  - Si një mënyrë për të zgjidhur këtë problem, funksioni i nxjerrjes së një imazhi mund të përdoret, dhe më pas OCR mund të rrotullohet për ta nxjerrë atë.
 
 
 7. Si të vendosni TTS:
@@ -105,7 +105,7 @@ Kjo kërkesë ka shumë funksione, kështu që unë ju rekomandoj ta lexoni atë
 
 
 10. Nëse ka një fjali të bezdisshme kur dëgjoni TTS, punojeni:
-  - Nëse origjinali mund të modifikohet, ju lutemi ndryshoni atë në një modifikim të serisë.
+  - Nëse nuk ka rëndësi nëse origjinali është modifikuar, ju lutemi ndryshoni atë në funksionin [modifikim kolektiv].
 
   - Pas ndryshimit, skedari rezervë do të mbetet në bibliotekën time, kështu që nëse e modifikoni rastësisht, mund ta rikuperoni përsëri.
 

@@ -53,7 +53,7 @@ Tällä sovelluksella on paljon toimintoja, joten suosittelen, että luet sen yk
 
   - Tässä tapauksessa se tulee ulos kuin maan ulkopuolinen hahmo, ei korealainen, joten et voi lukea sitä TTS: ssä.
 
-  - Ratkaisija voi purkaa tämän käyttämällä funktiota, jolla se poimitaan kuvalla tavalla, ja kääntämällä sitten OCR.
+  - Tapana ratkaista tämä ongelma, kuvan purkamisen toimintaa voidaan käyttää, ja sitten OCR voidaan kiertää sen purkamiseksi.
 
 
 7. Kuinka asentaa TTS:
@@ -105,7 +105,7 @@ Tällä sovelluksella on paljon toimintoja, joten suosittelen, että luet sen yk
 
 
 10. Jos TTS: tä kuunnellessa on räikeä lause, työskentele se:
-  - Jos alkuperäistä voidaan muokata, vaihda se erämuutokseksi.
+  - Jos ei ole väliä, onko alkuperäistä muokattu, vaihda se [kollektiivisen modifioinnin] toimintoon.
 
   - Muutoksen jälkeen varmuuskopiotiedosto pysyy kirjastooni, joten jos muokkaat sitä vahingossa, voit palauttaa sen uudelleen.
 

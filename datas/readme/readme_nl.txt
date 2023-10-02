@@ -53,7 +53,7 @@ Deze applicatie heeft veel functies, dus ik raad je aan het een voor een te leze
 
   - In dit geval komt het uit als een buitenaards karakter, niet Koreaans, dus je kunt het niet in TTS lezen.
 
-  - De oplosser kan dit extraheren door de functie te gebruiken om het op een manier als een afbeelding te extraheren en vervolgens door de OCR te draaien.
+  - Als een manier om dit probleem op te lossen, kan de functie van het extraheren van een afbeelding worden gebruikt, en vervolgens kan de OCR worden geroteerd om het te extraheren.
 
 
 7. Hoe TTS in te stellen:
@@ -105,7 +105,7 @@ Deze applicatie heeft veel functies, dus ik raad je aan het een voor een te leze
 
 
 10. Als er een schokkende zin is bij het luisteren naar TTS, werk dan uit:
-  - Als het origineel kan worden gewijzigd, wijzigt u dit in een batchaanpassing.
+  - Als het niet uitmaakt of het origineel is gewijzigd, wijzigt u dit in de functie [Collectieve wijziging].
 
   - Na de wijziging blijft het back -upbestand in mijn bibliotheek, dus als u het per ongeluk wijzigt, kunt u het opnieuw herstellen.
 

@@ -53,7 +53,7 @@ Aplikasi ini mempunyai banyak fungsi, jadi saya cadangkan anda membacanya satu d
 
   - Dalam kes ini, ia keluar seperti watak luar angkasa, bukan Korea, jadi anda tidak dapat membacanya di TTS.
 
-  - Solver boleh mengekstrak ini dengan menggunakan fungsi mengekstraknya sebagai imej dengan cara, dan kemudian dengan menjadikan OCR.
+  - Sebagai cara untuk menyelesaikan masalah ini, fungsi pengekstrakan imej boleh digunakan, dan kemudian OCR boleh diputar untuk mengekstraknya.
 
 
 7. Cara Menyiapkan TTS:
@@ -105,7 +105,7 @@ Aplikasi ini mempunyai banyak fungsi, jadi saya cadangkan anda membacanya satu d
 
 
 10. Sekiranya terdapat ayat bergelora ketika mendengar TTS, lakukanlah:
-  - Jika asal boleh diubah suai, sila ubahnya ke pengubahsuaian batch.
+  - Jika tidak kira jika asal diubahsuai, sila ubahnya ke fungsi [pengubahsuaian kolektif].
 
   - Selepas perubahan, fail sandaran akan kekal di perpustakaan saya, jadi jika anda secara tidak sengaja mengubahnya, anda boleh memulihkannya lagi.
 

@@ -53,7 +53,7 @@ Hierdie toepassing het baie funksies, so ek beveel aan dat u dit een vir een lee
 
   - In hierdie geval kom dit uit soos 'n buitenaardse karakter, nie Koreaans nie, sodat u dit nie in TTS kan lees nie.
 
-  - Die oplosser kan dit onttrek deur die funksie te gebruik om dit as 'n beeld op 'n manier te onttrek, en dan deur die OCR te draai.
+  - As 'n manier om hierdie probleem op te los, kan die funksie van die onttrekking van 'n beeld gebruik word, en dan kan die OCR gedraai word om dit te onttrek.
 
 
 7. Hoe om TTS op te stel:
@@ -105,7 +105,7 @@ Hierdie toepassing het baie funksies, so ek beveel aan dat u dit een vir een lee
 
 
 10. As daar 'n skitterende sin is as u na TTS luister, werk dit af:
-  - As die oorspronklike gewysig kan word, verander dit asseblief na 'n groepmodifikasie.
+  - As dit nie saak maak of die oorspronklike gewysig is nie, verander dit asseblief na die [Collective Modification] -funksie.
 
   - Na die verandering sal die rugsteunlêer in my biblioteek bly, so as u dit per ongeluk verander, kan u dit weer herstel.
 

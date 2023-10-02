@@ -53,7 +53,7 @@ Lolu hlelo lokusebenza lunemisebenzi eminingi, ngakho-ke ngincoma ukuthi uyifund
 
   - Kulokhu, kuphuma njengomlingiswa ongemva kokungemthetho, hhayi isiKorea, ngakho-ke awukwazi ukuyifunda kuma-TTS.
 
-  - I-solver ingakhipha lokhu ngokusebenzisa umsebenzi wokuyikhipha njengesithombe ngendlela, bese ngokuguqula i-OCR.
+  - Njengendlela yokuxazulula le nkinga, umsebenzi wokukhipha isithombe ungasetshenziswa, bese i-OCR ingajikelezwa ukuyikhipha.
 
 
 7. Ukusetha kanjani ama-TTS:
@@ -105,7 +105,7 @@ Lolu hlelo lokusebenza lunemisebenzi eminingi, ngakho-ke ngincoma ukuthi uyifund
 
 
 10. Uma kunomusho wokuhlaselwa lapho ulalele ama-TTS, usebenze:
-  - Uma okwangempela kungashintshwa, sicela usishintshe ukuguqulwa kwe-batch.
+  - Uma kungakhathalekile ukuthi okwangempela kushintshiwe, sicela ulishintshele ku-Accuithont Modification] umsebenzi.
 
   - Ngemuva koshintsho, ifayela lesipele lizosala umtapo wezincwadi wami, ngakho-ke uma ulishintsha ngephutha, ungaphinde uthole.
 

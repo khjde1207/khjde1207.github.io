@@ -53,7 +53,7 @@ Denne applikasjonen har mange funksjoner, så jeg anbefaler at du leser den en e
 
   - I dette tilfellet kommer det ut som en utenomjordisk karakter, ikke koreansk, slik at du ikke kan lese den i TTS.
 
-  - Solveren kan trekke ut dette ved å bruke funksjonen til å trekke den ut som et bilde på en måte, og deretter ved å snu OCR.
+  - Som en måte å løse dette problemet, kan funksjonen til å trekke ut et bilde brukes, og deretter kan OCR roteres for å trekke det ut.
 
 
 7. Hvordan sette opp TTS:
@@ -105,7 +105,7 @@ Denne applikasjonen har mange funksjoner, så jeg anbefaler at du leser den en e
 
 
 10. Hvis det er en skurrende setning når du lytter til TTS, kan du ordne det:
-  - Hvis originalen kan endres, kan du endre den til en batchendring.
+  - Hvis det ikke spiller noen rolle om originalen er endret, kan du endre den til [kollektiv modifisering] -funksjonen.
 
   - Etter endringen vil sikkerhetskopifilen forbli i biblioteket mitt, så hvis du tilfeldigvis endrer den, kan du gjenopprette den igjen.
 

@@ -53,7 +53,7 @@ Este aplicativo tem muitas funções, então eu recomendo que você o leia um po
 
   - Nesse caso, ele sai como um personagem extraterrestre, não coreano, então você não pode lê -lo no TTS.
 
-  - O solucionador pode extrair isso usando a função de extraí -lo como uma imagem de certa forma e depois girando o OCR.
+  - Como forma de resolver esse problema, a função de extrair uma imagem pode ser usada e, em seguida, o OCR pode ser girado para extraí -la.
 
 
 7. Como configurar TTS:
@@ -105,7 +105,7 @@ Este aplicativo tem muitas funções, então eu recomendo que você o leia um po
 
 
 10. Se houver uma frase chocante ao ouvir TTS, elabore -a:
-  - Se o original puder ser modificado, altere -o para uma modificação em lote.
+  - Se não importa se o original for modificado, altere -o para a função [Modificação coletiva].
 
   - Após a alteração, o arquivo de backup permanecerá na minha biblioteca; portanto, se você a modificar acidentalmente, poderá recuperá -lo novamente.
 

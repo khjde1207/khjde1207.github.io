@@ -53,7 +53,7 @@ Ta aplikacija ima veliko funkcij, zato priporočam, da jo preberete drug za drug
 
   - V tem primeru izide kot nezemeljski lik, ne korejski, zato ga ne morete prebrati v TTS.
 
-  - Reševalec lahko to izvleče s funkcijo, da ga na nek način pridobiva kot sliko in nato z obračanjem OCR.
+  - Kot način za reševanje te težave je mogoče uporabiti funkcijo ekstrahiranja slike, nato pa lahko OCR zasukate, da jo izvlečete.
 
 
 7. Kako nastaviti TTS:
@@ -105,7 +105,7 @@ Ta aplikacija ima veliko funkcij, zato priporočam, da jo preberete drug za drug
 
 
 10. Če je ob poslušanju TTS na voljo stavek, ga izrečete:
-  - Če je original mogoče spremeniti, ga spremenite v spreminjanje šarže.
+  - Če ni pomembno, ali je original spremenjen, ga spremenite v funkcijo [kolektivna modifikacija].
 
   - Po spremembi bo varnostna datoteka ostala v moji knjižnici, tako da jo lahko, če jo po naključju spremenite, ponovno obnovite.
 
