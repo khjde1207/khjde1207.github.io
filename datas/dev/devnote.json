@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.5.6 (2023 09 22)\n- Fixed a bug where files could not be opened on some devices."
+    "devnote": "7.5.7 (2023 10 02)\n- Fixed a bug that caused TTS to close when running on some devices.\n- Updated compression-related libraries.\n- All video ads have been modified to play in silence.\n- The TTS auto-shutdown setting UI has been modified.\n- If there is a file that has been extracted as text (pdf, zip, epub), a checkbox will be displayed in the upper right corner.\n- The color selection UI has been modified.\n- Fixed a bug where some epub cover images could not be found.\n- When running the app, “User Manual.txt” is added to my library. I think it would be good to see it once in a while.\n- Other bugs/errors have been fixed."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.5.6 (2023 09 22)\n- 일부 기기에서 파일이 안열리던 버그를 수정 하였습니다."
+    "devnote": "7.5.7 (2023 10 02)\n- 일부 장치에서 TTS 실행시 종료되던 버그를 수정 하였습니다. \n- 압축 관련 라이브러리를 업데이트 하였습니다. \n- 모든 동영상 광고를 무음 상태로 재생되도록 수정 하였습니다. \n- TTS 자동종료 설정 UI 를 수정 하였습니다.\n- 텍스트로 추출이 완료된(pdf, zip, epub) 파일이 존재 할 경우 우상단에 체크박스가 표시 됩니다.\n- 색상 선택UI 를 수정 하였습니다. \n- 일부 epub 커버 이미지를 못찾는 버그를 수정 하였습니다. \n- 어플 실행시 \"사용 설명서.txt\" 가 내서재에 추가 됩니다. 한번씩 보시면 좋을것 같습니다.\n- 기타 버그 / 오류를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.5.6 (2023 09 22)\n- Fixouse un erro onde non se puideron abrir ficheiros nalgúns dispositivos."
+    "devnote": "7.5.7 (2023 10 02)\n- Fixouse un erro que provocou que TTS pechase ao executar nalgúns dispositivos.\n- Bibliotecas actualizadas relacionadas coa compresión.\n- Todos os anuncios de vídeo modificáronse para reproducir en silencio.\n- Modificouse a interfaz de configuración automática TTS.\n- Se hai un ficheiro extraído como texto (PDF, ZIP, EPUB), mostrarase unha caixa de verificación na esquina superior dereita.\n- Modificouse a interface de usuario de selección de cores.\n- Corrixiu un erro onde non se puideron atopar algunhas imaxes de cuberta de epub.\n- Ao executar a aplicación, \"Manual de usuario.txt\" engádese á miña biblioteca. Creo que sería bo velo de cando en vez.\n- Corrixíronse outros erros/erros."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.5.6 (2023 09 22)\n- ભૂલને સુધારેલ છે જ્યાં કેટલાક ઉપકરણો પર ફાઇલો ખોલી શકાતી નથી."
+    "devnote": "7.5.7 (2023 10 02)\n- એક ભૂલ ઠીક કરી કે જેના કારણે કેટલાક ઉપકરણો પર ચાલતી વખતે ટીટીએસ બંધ થઈ ગઈ.\n- કમ્પ્રેશન-સંબંધિત લાઇબ્રેરીઓ અપડેટ કરી.\n- બધી વિડિઓ જાહેરાતો મૌન રમવા માટે સંશોધિત કરવામાં આવી છે.\n- ટીટીએસ Auto ટો-શટડાઉન સેટિંગ UI માં ફેરફાર કરવામાં આવ્યા છે.\n- જો ત્યાં કોઈ ફાઇલ છે જે ટેક્સ્ટ (પીડીએફ, ઝિપ, ઇપબ) તરીકે કા racted વામાં આવી છે, તો ઉપલા જમણા ખૂણામાં એક ચેકબોક્સ પ્રદર્શિત થશે.\n- રંગ પસંદગી UI માં ફેરફાર કરવામાં આવ્યા છે.\n- એક બગને ઠીક કરો જ્યાં કેટલીક ઇપબ કવર છબીઓ મળી શકી નથી.\n- એપ્લિકેશન ચલાવતી વખતે, \"વપરાશકર્તા મેન્યુઅલ.ટીક્સ્ટ\" મારી લાઇબ્રેરીમાં ઉમેરવામાં આવે છે. મને લાગે છે કે થોડા સમય પછી તેને જોવાનું સારું રહેશે.\n- અન્ય ભૂલો/ભૂલો નિશ્ચિત કરવામાં આવી છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.5.6 (2023 09 22)\n- Διορθώθηκε ένα σφάλμα όπου τα αρχεία δεν μπορούσαν να ανοίξουν σε ορισμένες συσκευές."
+    "devnote": "7.5.7 (2023 10 02)\n- Διορθώθηκε ένα σφάλμα που προκάλεσε το TTS να κλείσει όταν τρέχει σε ορισμένες συσκευές.\n- ενημερωμένες βιβλιοθήκες που σχετίζονται με τη συμπίεση.\n- Όλες οι διαφημίσεις βίντεο έχουν τροποποιηθεί για να παίξουν σιωπηλά.\n- Η ρύθμιση Auto-Shutdown TTS έχει τροποποιηθεί.\n- Εάν υπάρχει ένα αρχείο που έχει εξαχθεί ως κείμενο (PDF, ZIP, EPUB), θα εμφανιστεί ένα πλαίσιο ελέγχου στην επάνω δεξιά γωνία.\n- Το UI επιλογής χρώματος έχει τροποποιηθεί.\n- Διορθώθηκε ένα σφάλμα όπου δεν μπορούσαν να βρεθούν κάποιες εικόνες καλύμματος ePub.\n- Κατά την εκτέλεση της εφαρμογής, προστίθεται στη βιβλιοθήκη μου \"Εγχειρίδιο χρήστη. Νομίζω ότι θα ήταν καλό να το δούμε μια φορά.\n- Έχουν καθοριστεί άλλα σφάλματα/σφάλματα."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.5.6 (2023 09 22)\n- Een bug opgelost waar bestanden niet op sommige apparaten konden worden geopend."
+    "devnote": "7.5.7 (2023 10 02)\n- Een bug opgelost die ervoor zorgde dat TTS werd gesloten bij het uitvoeren van sommige apparaten.\n- Bijgewerkte compressiegerelateerde bibliotheken.\n- Alle videoadvertenties zijn aangepast om in stilte te spelen.\n- De TTS Auto-Shutdown-instelling UI is gewijzigd.\n- Als er een bestand is dat is geëxtraheerd als tekst (PDF, ZIP, EPUB), wordt een selectievakje in de rechterbovenhoek weergegeven.\n- De gebruikers van kleurselectie is gewijzigd.\n- Een bug opgelost waar sommige EPUB -coverafbeeldingen niet konden worden gevonden.\n- Bij het uitvoeren van de app wordt \"User Manual.TXT\" aan mijn bibliotheek toegevoegd. Ik denk dat het goed zou zijn om het af en toe te zien.\n- Andere bugs/fouten zijn opgelost."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": ".5..5..6 (2023 09 22 22)\n- फाईलहरू निश्चित गर्नुहोस् जहाँ फाईलहरू केहि उपकरणहरूमा खोल्न सकिँदैन।"
+    "devnote": ".5..5..7 (202313 102)\n- फिक्स्ड गरिएको बगले केहि उपकरणहरूमा भागेको बेला TTS को रूपमा बन्द भयो।\n- अपडेट गरिएको कम्प्रेसन सम्बन्धित पुस्तकालयहरू।\n- सबै भिडियो विज्ञापनहरू मौनतामा खेल्न परिमार्जन गरिएको छ।\n- TTS स्वत: बन्द गर्ने सेटिंग ui परिमार्जन गरिएको छ।\n- यदि त्यहाँ एक फाईल छ जुन पाठ (PDF, Zip, EPU) को रूपमा समाप्त भएको छ भने, माथिल्लो दाहिने कुनामा एक चेकबक्स प्रदर्शित हुनेछ।\n- रंग चयन यूआई परिमार्जन गरिएको छ।\n- कुनै बग फिक्स गरियो जहाँ केहि एपिट कभर छविहरू फेला पार्न सकिएन।\n- जब अनुप्रयोग चलिरहेको छ, \"प्रयोगकर्ता पुस्तिका.टीटी\" मेरो पुस्तकालयमा थपियो। मलाई लाग्छ कि यो एक पटक देखेर यो राम्रो हुन्छ।\n- अन्य बग / त्रुटिहरू स्थिर गरिएको छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.5.6 (2023 09 22)\n- Fikset en feil der filer ikke kunne åpnes på noen enheter."
+    "devnote": "7.5.7 (2023 10 02)\n- Fikset en feil som fikk TTS til å stenge når de kjørte på noen enheter.\n- Oppdaterte kompresjonsrelaterte biblioteker.\n- Alle videoannonser er endret for å spille i stillhet.\n- TTS Auto-Shutdown-innstillingsgrensesnittet er endret.\n- Hvis det er en fil som er trukket ut som tekst (PDF, ZIP, EPUB), vises en avkrysningsrute i øverste høyre hjørne.\n- Fargevalg -brukergrensesnittet er endret.\n- Fikset en feil der noen EPUB -dekker bilder ikke ble funnet.\n- Når du kjører appen, legges \"brukerhåndbok.txt\" lagt til biblioteket mitt. Jeg tror det ville være bra å se det en gang i blant.\n- Andre feil/feil er løst."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.5.6 (2023 09 22)\n- Rettet en fejl, hvor filer ikke kunne åbnes på nogle enheder."
+    "devnote": "7.5.7 (2023 10 02)\n- Rettet en fejl, der fik TTS til at lukke, når de kørte på nogle enheder.\n- Opdaterede komprimeringsrelaterede biblioteker.\n- Alle videoannoncer er blevet ændret til at afspille i stilhed.\n- TTS Auto-Shutdown-indstillingen UI er blevet ændret.\n- Hvis der er en fil, der er uddraget som tekst (PDF, ZIP, EPUB), vises et afkrydsningsfelt i øverste højre hjørne.\n- Farvevalgs UI er blevet ændret.\n- Rettet en fejl, hvor nogle Epub -coverbilleder ikke kunne findes.\n- Når du kører appen, føjes “Brugervejledning.txt” til mit bibliotek. Jeg tror, ​​det ville være godt at se det en gang imellem.\n- Andre fejl/fejl er blevet løst."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.5.6 (2023 09 22)\n- Ein Fehler behoben, bei dem Dateien auf einigen Geräten nicht geöffnet werden konnten."
+    "devnote": "7.5.7 (2023 10 02)\n- Es wurde ein Fehler behoben, der TTs beim Ausführen einiger Geräte schließt.\n- Aktualisierte Komprimierungsbibliotheken.\n- Alle Videoanzeigen wurden modifiziert, um in Stille zu spielen.\n- Die UI-Einstellung der TTS Auto-Shutdown-Einstellung wurde geändert.\n- Wenn es eine Datei gibt, die als Text (PDF, ZIP, EPUB) extrahiert wurde, wird in der oberen rechten Ecke ein Kontrollkästchen angezeigt.\n- Die UI der Farbauswahl wurde geändert.\n- Ein Fehler behoben, bei dem einige EPUB -Cover -Bilder nicht gefunden werden konnten.\n- Beim Ausführen der App wird \"Benutzerhandbuch.txt\" meiner Bibliothek hinzugefügt. Ich denke, es wäre gut, es ab und zu zu sehen.\n- Andere Fehler/Fehler wurden behoben."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.5.6 (2023 09 09)\n- ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ແຟ້ມທີ່ບໍ່ສາມາດເປີດຢູ່ໃນບາງອຸປະກອນ."
+    "devnote": "7.5.7 (2023 10 102)\n- ແກ້ໄຂຂໍ້ບົກຜ່ອງທີ່ເຮັດໃຫ້ TTS ປິດໃນເວລາທີ່ແລ່ນໃນບາງອຸປະກອນ.\n- ສະບັບປັບປຸງຫ້ອງສະຫມຸດທີ່ກ່ຽວຂ້ອງກັບການບີບອັດ.\n- ທຸກໆການໂຄສະນາທາງວິດີໂອໄດ້ຖືກດັດແກ້ເພື່ອຫຼີ້ນໃນຄວາມງຽບ.\n- ການກໍານົດການປິດແບບອັດຕະໂນມັດ TTS Auto-us ໄດ້ຖືກດັດແກ້.\n- ຖ້າມີເອກະສານທີ່ຖືກສະກັດເປັນຕົວຫນັງສື (PDF, ZIP, EPUB), ກ່ອງກາເຄື່ອງຫມາຍຈະຖືກສະແດງຢູ່ແຈຂວາເທິງ.\n- ການຄັດເລືອກສີ ui ໄດ້ຖືກດັດແກ້ແລ້ວ.\n- ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ມີຮູບພາບປົກຫຸ້ມຂອງ epub ບາງຢ່າງ.\n- ເມື່ອແລ່ນແອັບ, \"ຄູ່ມືຜູ້ໃຊ້ .txt\" ແມ່ນຖືກເພີ່ມເຂົ້າຫ້ອງສະມຸດຂອງຂ້ອຍ. ຂ້ອຍຄິດວ່າມັນຈະເປັນການດີທີ່ຈະເຫັນມັນຄັ້ງດຽວໃນເວລາດຽວກັນ.\n- ຂໍ້ບົກພ່ອງອື່ນໆ / ຄວາມຜິດພາດໄດ້ຖືກແກ້ໄຂແລ້ວ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.5.6 (2023 09 22)\n- Novērsta kļūda, kurā failus nevarēja atvērt dažās ierīcēs."
+    "devnote": "7.5.7 (2023 10 02)\n- Novērsta kļūda, kuras dēļ TTS aizvērās, darbojoties dažās ierīcēs.\n- Atjauninātas ar kompresiju saistītas bibliotēkas.\n- Visas video reklāmas ir modificētas, lai spēlētu klusumā.\n- TTS automātiskās nošaušanas iestatīšanas UI ir modificēts.\n- Ja ir kāds fails, kas iegūts kā teksts (PDF, ZIP, EPUB), augšējā labajā stūrī tiks parādīta izvēles rūtiņa.\n- Krāsu izvēles UI ir modificēta.\n- Novērsta kļūda, kurā nevarēja atrast dažus EPUB vāka attēlus.\n- Palaižot lietotni, manai bibliotēkai tiek pievienots “User Manual.txt”. Es domāju, ka būtu labi to redzēt laiku pa laikam.\n- Citas kļūdas/kļūdas ir labotas."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.5.6 (2023 09 22)\n- Исправлена ​​ошибка, где файлы не могут быть открыты на некоторых устройствах."
+    "devnote": "7.5.7 (2023 10 02)\n- Исправлена ​​ошибка, которая заставила TTS закрываться при запуске на некоторых устройствах.\n- Обновленные библиотеки, связанные с сжатием.\n- Все видеообъявления были изменены, чтобы играть в тишине.\n- Пользовательский интерфейс TTS Auto-Shutdown был изменен.\n- Если есть файл, который был извлечен в виде текста (PDF, ZIP, EPUB), в верхнем правом углу будет отображаться флажок.\n- Пользовательский интерфейс выбора цвета был изменен.\n- Исправлена ​​ошибка, где некоторые изображения обложки Epub не могли быть найдены.\n- При запуске приложения в мою библиотеку добавляется «пользовательский руководство». Я думаю, было бы приятно видеть это время от времени.\n- Другие ошибки/ошибки были исправлены."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.5.6 (2023 09 22)\n- S -a rezolvat o eroare în care fișierele nu au putut fi deschise pe unele dispozitive."
+    "devnote": "7.5.7 (2023 10 02)\n- S -a rezolvat o eroare care a făcut ca TTS să se închidă la rularea pe unele dispozitive.\n- Bibliotecile actualizate legate de compresie.\n- Toate anunțurile video au fost modificate pentru a se juca în tăcere.\n- UI-ul setării automate TTS a fost modificat.\n- Dacă există un fișier care a fost extras sub formă de text (PDF, ZIP, EPUB), o casetă de selectare va fi afișată în colțul din dreapta sus.\n- UI de selecție a culorilor a fost modificată.\n- S -a rezolvat o eroare în care nu au putut fi găsite unele imagini de copertă EPUB.\n- Când rulați aplicația, „Manual de utilizare.txt” este adăugat la biblioteca mea. Cred că ar fi bine să -l văd din când în când.\n- Alte bug -uri/erori au fost remediate."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.5.6 (2023 09 22)\n- Ištaisyta klaida, kurioje failų nepavyko atidaryti kai kuriuose įrenginiuose."
+    "devnote": "7.5.7 (2023 10 02)\n- Ištaisyta klaida, dėl kurios TTS uždarė kai kuriuos įrenginius.\n- Atnaujintos su kompresija susijusios bibliotekos.\n- Visi vaizdo įrašų skelbimai buvo modifikuoti, kad būtų galima groti tyloje.\n- „TTS Auto-Shutdown“ nustatymas UI buvo modifikuotas.\n- Jei yra failas, kuris buvo ištrauktas kaip tekstas (PDF, ZIP, EPUB), viršutiniame dešiniajame kampe bus rodomas žymimasis laukelis.\n- Spalvų pasirinkimo vartotojo sąsaja buvo modifikuota.\n- Ištaisyta klaida, kurioje nepavyko rasti kai kurių „Epub“ viršelio vaizdų.\n- Vykdant programą, į mano biblioteką pridedama „Vartotojo vadovas.txt“. Manau, kad būtų gerai tai pamatyti kartą.\n- Buvo ištaisytos kitos klaidos/klaidos."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.5.6 (2023 09 22)\n- काही डिव्हाइसवर फायली उघडल्या जाऊ शकत नाहीत अशा बगचे निराकरण केले."
+    "devnote": "7.5.7 (2023 10 02)\n- काही डिव्हाइसवर चालू असताना टीटीएस बंद होण्यास कारणीभूत ठरलेले बग निश्चित केले.\n- कॉम्प्रेशन-संबंधित लायब्ररी अद्यतनित केली.\n- शांतपणे प्ले करण्यासाठी सर्व व्हिडिओ जाहिराती सुधारित केल्या आहेत.\n- टीटीएस ऑटो-शटडाउन सेटिंग यूआय सुधारित केले गेले आहे.\n- जर एखादी फाईल टेक्स्ट (पीडीएफ, झिप, ईपीयूबी) म्हणून काढली गेली असेल तर वरच्या उजव्या कोप in ्यात चेकबॉक्स प्रदर्शित होईल.\n- रंग निवड UI सुधारित केले गेले आहे.\n- एक बग निश्चित केला जेथे काही एपब कव्हर प्रतिमा सापडल्या नाहीत.\n- अ‍ॅप चालविताना, “वापरकर्ता मॅन्युअल.टीएक्सटी” माझ्या लायब्ररीत जोडला जातो. मला असे वाटते की ते एकदाच पाहणे चांगले होईल.\n- इतर बग/त्रुटी निश्चित केल्या आहेत."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.5.6 (2023 09 22)\n- Поправи грешка каде што не може да се отворат датотеки на некои уреди."
+    "devnote": "7.5.7 (2023 10 02)\n- Поправи грешка што предизвика ТТС да се затвори кога работи на некои уреди.\n- Ажурирани библиотеки поврзани со компресија.\n- Сите видео реклами се изменети за да се репродуцираат во тишина.\n- UI-то за поставување на автоматско поставување TTS е изменето.\n- Ако има датотека што е извлечена како текст (PDF, ZIP, EPUB), полето за избор ќе биде прикажано во горниот десен агол.\n- УИ за избор на боја е изменето.\n- Поправи грешка каде што не може да се најдат некои слики со наслов на EPUB.\n- Кога ја извршувате апликацијата, „Упатство за корисникот.txt“ се додава во мојата библиотека. Мислам дека би било добро да се види еднаш за некое време.\n- Поправени се други грешки/грешки."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.5.6 (2023 09 22)\n- ചില ഉപകരണങ്ങളിൽ ഫയലുകൾ തുറക്കാൻ കഴിയാത്ത ഒരു ബഗ് പരിഹരിച്ചു."
+    "devnote": "7.5.7 (2023 10 02)\n- ചില ഉപകരണങ്ങളിൽ പ്രവർത്തിക്കുമ്പോൾ ടിടിഎസിന് കാരണമായ ഒരു ബഗ് പരിഹരിച്ചു.\n- അപ്ഡേറ്റുചെയ്ത കംപ്രഷൻ-അനുബന്ധ ലൈബ്രറികൾ.\n- എല്ലാ വീഡിയോ പരസ്യങ്ങളും നിശബ്ദമായി കളിക്കാൻ പരിഷ്ക്കരിച്ചു.\n- ടിടിഎസ് യാന്ത്രിക-ഷട്ട്ഡൗൺ സെറ്റിംഗ് യുഐ പരിഷ്ക്കരിച്ചു.\n- വാചകമായി (PDF, സിപ്പ്, Epub) എക്സ്ട്രാക്റ്റുചെയ്ത ഒരു ഫയൽ ഉണ്ടെങ്കിൽ, മുകളിൽ വലത് കോണിൽ ഒരു ചെക്ക്ബോക്സ് പ്രദർശിപ്പിക്കും.\n- കളർ തിരഞ്ഞെടുക്കൽ യുഐ പരിഷ്ക്കരിച്ചു.\n- ചില എപ്പബ് കവർ ഇമേജുകൾ കണ്ടെത്താൻ കഴിയാത്ത ഒരു ബഗ് പരിഹരിച്ചു.\n- അപ്ലിക്കേഷൻ പ്രവർത്തിപ്പിക്കുമ്പോൾ, \"ഉപയോക്തൃ മാനുവൽ.ടിxt\" എന്റെ ലൈബ്രറിയിൽ ചേർത്തു. കുറച്ച് സമയത്തിനുള്ളിൽ ഇത് കാണുന്നത് നല്ലതാണെന്ന് ഞാൻ കരുതുന്നു.\n- മറ്റ് ബഗുകൾ / പിശകുകൾ പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.5.6 (2023 09 22)\n- Memperbaiki bug di mana fail tidak boleh dibuka pada beberapa peranti."
+    "devnote": "7.5.7 (2023 10 02)\n- Memperbaiki pepijat yang menyebabkan TTS ditutup apabila berjalan pada beberapa peranti.\n- Perpustakaan yang berkaitan dengan mampatan yang dikemas kini.\n- Semua iklan video telah diubahsuai untuk dimainkan dalam diam.\n- TTS Auto-Shutdown Setting UI telah diubahsuai.\n- Jika terdapat fail yang telah diekstrak sebagai teks (PDF, ZIP, EPUB), kotak semak akan dipaparkan di sudut kanan atas.\n- UI pemilihan warna telah diubah suai.\n- Memperbaiki pepijat di mana beberapa imej penutup EPUB tidak dapat dijumpai.\n- Apabila menjalankan aplikasinya, \"Manual Pengguna.txt\" ditambahkan ke perpustakaan saya. Saya fikir ia adalah baik untuk melihatnya sekali -sekala.\n- Pepijat/kesilapan lain telah ditetapkan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.5.6.6 (2023 09 22)\n- Файлуудыг зарим төхөөрөмж дээр нээх боломжгүй алдааг засав."
+    "devnote": "7.5.7.7 (2023 10 02)\n- Зарим төхөөрөмж дээр ажиллаж байхдаа TTS-ийг хаахад хүргэсэн алдааг зассан.\n- ШИЛДЭГ ТӨЛӨВЛӨГӨӨГҮЙ ЗӨВЛӨГӨӨ.\n- Бүх видео заруудыг чимээгүй тоглохоор өөрчилсөн.\n- TTS Auto Structdown-ийг UI өөрчилсөн байна.\n- Текст (PDF, ZIP, ZIP, EPUB) -ийг олборлосон файл байгаа бол (PDF, EPUB), ХОЛБОГДОЛЦОГЧ БОЛОМЖТОЙ БОЛОМЖТОЙ БОЛОМЖТОЙ.\n- Өнгөний сонголт UI өөрчлөгдсөн байна.\n- Epub-ийн зарим зургийг олдсонгүй алдааг зассан.\n- Апп-ыг ажиллуулах үед \"Хэрэглэгчийн гарын авлага\" нь миний номын санд нэмэгдсэн байна. Хэсэг хугацаанд үүнийг харах сайхан байх гэж бодож байна.\n- Бусад алдаанууд / алдааг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.5.6 (2023 09 22)\n- Gailu batzuetan fitxategiak ezin ziren ireki akats bat konpondu."
+    "devnote": "7.5.7 (2023 10 02)\n- Gailu batzuetan exekutatzerakoan TTS-ek eragindako akats bat konpondu zuen.\n- Konpresioarekin lotutako liburutegi eguneratuak.\n- Bideo iragarki guztiak aldatu dira isiltasunean jolasteko.\n- TTS Auto-itzaltze ezarpena UI aldatu da.\n- Testu gisa atera den fitxategia badago (PDF, ZIP, EPUB), kontrol-laukia bistaratuko da goiko eskuineko izkinan.\n- Koloreen hautaketa UI aldatu da.\n- Akats bat konpondu ezin izan den akats bat aurkitu ezin duten.\n- Aplikazioa exekutatzean, \"Erabiltzaileen eskuliburua.txt\" gehitzen da nire liburutegian. Uste dut ona izango zela behin ikustea.\n- Beste akats / akats batzuk konpondu dira."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.5.6 (2023 09 22)\n- အချို့သောကိရိယာများပေါ်တွင်ဖိုင်များကိုဖွင့ ်. မရပါ။"
+    "devnote": "72.7.7 (2023 10 02)\n- အချို့သောကိရိယာများပေါ်တွင်အပြေးသောအခါ TTS ကိုပိတ်ထားသည့် bug ကို fixed ။\n- ချုံ့ခြင်းနှင့်သက်ဆိုင်သည့်စာကြည့်တိုက်များ။\n- ဗီဒီယိုကြော်ငြာများအားလုံးသည်တိတ်ဆိတ်စွာကစားရန်ပြင်ဆင်ထားသည်။\n- TTS Auto-shutdown setting UI ကိုပြုပြင်ထားသည်။\n- စာသားအဖြစ်ထုတ်ယူထားသောဖိုင်တစ်ခုရှိပါက (PDF, Zip, EPUB), ညာဘက်အပေါ်ထောင့်တွင် checkbox ကိုပြလိမ့်မည်။\n- အရောင်ရွေးချယ်ခြင်း UI ကိုပြုပြင်ထားသည်။\n- အချို့သော EPUB Cover Images ကိုမတွေ့နိုင်သည့် bug တစ်ခု fixed ။\n- အက်ပ်ကိုအဖွင့်သောအခါ \"User Manual.txt\" ကိုကျွန်ုပ်၏စာကြည့်တိုက်ထဲသို့ထည့်သည်။ ငါခဏတစ်ချိန်ကမြင်ရတာကောင်းပါတယ်ထင်ပါတယ်။\n- အခြား bugs / အမှားများကိုပုံသေသတ်မှတ်ထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.5.6 (2023 09 22)\n- Đã sửa lỗi trong đó các tệp không thể mở trên một số thiết bị."
+    "devnote": "7.5.7 (2023 10 02)\n- Đã sửa lỗi khiến TTS đóng khi chạy trên một số thiết bị.\n- Cập nhật các thư viện liên quan đến nén.\n- Tất cả các quảng cáo video đã được sửa đổi để chơi trong im lặng.\n- UI cài đặt tự động TTS đã được sửa đổi.\n- Nếu có một tệp đã được trích xuất dưới dạng văn bản (pdf, zip, epub), hộp kiểm sẽ được hiển thị ở góc trên bên phải.\n- UI lựa chọn màu đã được sửa đổi.\n- Đã sửa lỗi trong đó một số hình ảnh bìa Epub không thể tìm thấy.\n- Khi chạy ứng dụng, hướng dẫn sử dụng của người dùng.txt, được thêm vào thư viện của tôi. Tôi nghĩ rằng sẽ rất tốt khi nhìn thấy nó một lần trong một thời gian.\n- Lỗi/lỗi khác đã được sửa."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.5.6 (2023 09 22)\n- Выпраўлена памылка, дзе на некаторых прыладах нельга было адкрыць файлы."
+    "devnote": "7.5.7 (2023 10 02)\n- Выпраўлена памылка, якая прымусіла TTS зачыняцца пры запуску некаторых прылад.\n- Абноўленыя бібліятэкі, звязаныя з сцісканнем.\n- Усе відэарэкламы былі зменены, каб гуляць у цішыні.\n- Налада UI Auto Shutdown TTS была зменена.\n- Калі ёсць файл, які быў здабыты ў якасці тэксту (PDF, ZIP, EPUB), у правым верхнім куце будзе адлюстроўвацца сцяжок.\n- Выбар колеру быў зменены.\n- Выпраўлена памылка, дзе некаторыя выявы вокладкі EPUB не змаглі знайсці.\n- Пры запуску прыкладання ў маю бібліятэку дадаецца \"Кіраўніцтва карыстальніка.txt\". Я думаю, што было б добра бачыць гэта час ад часу.\n- Іншыя памылкі/памылкі былі зафіксаваны."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.5.6 (2023 09 22)\n- এমন একটি বাগ ঠিক করা হয়েছে যেখানে কিছু ডিভাইসে ফাইলগুলি খোলা যায় না।"
+    "devnote": "7.5.7 (2023 10 02)\n- এমন একটি বাগ স্থির করে যা কিছু ডিভাইসে চলার সময় টিটিএস বন্ধ হয়ে যায়।\n- আপডেট হওয়া সংক্ষেপণ সম্পর্কিত গ্রন্থাগারগুলি।\n- সমস্ত ভিডিও বিজ্ঞাপন নীরবে খেলতে সংশোধন করা হয়েছে।\n- টিটিএস অটো-শুটডাউন সেটিং ইউআই সংশোধন করা হয়েছে।\n- যদি এমন কোনও ফাইল থাকে যা পাঠ্য (পিডিএফ, জিপ, ইপিইউবি) হিসাবে উত্তোলন করা হয়, তবে উপরের ডানদিকে কোণে একটি চেকবক্স প্রদর্শিত হবে।\n- রঙ নির্বাচন ইউআই সংশোধন করা হয়েছে।\n- এমন একটি বাগ ঠিক করা হয়েছে যেখানে কিছু ইপাব কভার চিত্র পাওয়া যায়নি।\n- অ্যাপটি চালানোর সময়, \"ব্যবহারকারী ম্যানুয়াল.টিএক্সটি\" আমার লাইব্রেরিতে যুক্ত করা হয়। আমি মনে করি এটি একবারে একবার দেখে ভাল লাগবে।\n- অন্যান্য বাগ/ত্রুটিগুলি ঠিক করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.5.6 (2023 09 22)\n- Фиксирана грешка, при която файловете не могат да бъдат отворени на някои устройства."
+    "devnote": "7.5.7 (2023 10 02)\n- Фиксирана грешка, която накара TTS да се затвори при работа на някои устройства.\n- Актуализирани библиотеки, свързани с компресия.\n- Всички видеореклами са модифицирани, за да се играят в мълчание.\n- TTS AUTO-SHUTDOWN SETUTSE UI е модифициран.\n- Ако има файл, който е извлечен като текст (PDF, ZIP, EPUB), в горния десен ъгъл ще се показва квадрат за отметка.\n- потребителският интерфейс за избор на цвят е модифициран.\n- Фиксирана грешка, при която някои изображения на покривалото на EPUB не могат да бъдат намерени.\n- Когато стартирам приложението, „user manual.txt“ се добавя към моята библиотека. Мисля, че би било добре да го видя от време на време.\n- Други грешки/грешки са отстранени."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.5.6 (2023 09 22)\n- Поправљена је грешка у којој се датотеке не могу отворити на неким уређајима."
+    "devnote": "7.5.7 (2023 10 02)\n- Поправила је грешку која је нанела ТТС да се затвори приликом покретања на неким уређајима.\n- Ажуриране библиотеке повезане са компресијом.\n- Сви видео огласи су модификовани да би играли у тишини.\n- Подешавање аутоматског искључивања ТТС-а је модификован.\n- Ако постоји датотека која је екстрахована као текст (ПДФ, ЗИП, ЕПУБ), потврдни оквир ће се приказати у горњем десном углу.\n- Избор боја УИ је модификован.\n- Поправљена је грешка у којој се не могу пронаћи неке слике овлашћења еПуб-а.\n- Када покрећете апликацију, \"упутство за употребу.ткт\" је додат у моју библиотеку. Мислим да би било добро видети то једном у неко време.\n- Остале грешке / грешке су поправљене."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.5.6 (2023 09 22)\n- Zisizohamishika mdudu ambapo faili haziwezi kufunguliwa kwenye vifaa kadhaa."
+    "devnote": "7.5.7 (2023 10 02)\n- Zisizohamishika mdudu ambao ulisababisha TTS kufunga wakati wa kukimbia kwenye vifaa kadhaa.\n- Maktaba zinazohusiana na compression zinazohusiana.\n- Matangazo yote ya video yamebadilishwa ili kucheza kimya.\n- UI ya TTS Auto-Shutdown imebadilishwa.\n- Ikiwa kuna faili ambayo imetolewa kama maandishi (pdf, zip, epub), sanduku la ukaguzi litaonyeshwa kwenye kona ya juu ya kulia.\n- UI ya uteuzi wa rangi imebadilishwa.\n- Zisizohamishika mdudu ambapo picha zingine za kifuniko cha epub hazikuweza kupatikana.\n- Wakati wa kuendesha programu, \"Mwongozo wa Mtumiaji.txt\" umeongezwa kwenye maktaba yangu. Nadhani itakuwa vizuri kuiona mara moja kwa wakati.\n- Mende/makosa mengine yamewekwa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.5.6 (2023 09 22)\n- Fixade ett fel där filer inte kunde öppnas på vissa enheter."
+    "devnote": "7.5.7 (2023 10 02)\n- Fixade ett fel som fick TTS att stänga när du kör på vissa enheter.\n- Uppdaterade kompressionsrelaterade bibliotek.\n- Alla videoannonser har modifierats för att spela i tystnad.\n- TTS Auto-Shutdown-inställningen UI har modifierats.\n- Om det finns en fil som har extraherats som text (PDF, ZIP, EPUB) visas en kryssruta i det övre högra hörnet.\n- Färgval UI har modifierats.\n- Fixade ett fel där vissa EPUB -täckningsbilder inte kunde hittas.\n- När du kör appen läggs \"Användarmanual.txt\" till mitt bibliotek. Jag tror att det skulle vara bra att se det en gång i taget.\n- Andra buggar/fel har fixats."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.5.6 (2023 09 22)\n- Se corrigió un error donde los archivos no podían abrirse en algunos dispositivos."
+    "devnote": "7.5.7 (2023 10 02)\n- Se corrigió un error que hizo que TTS se cerrara cuando se ejecutaba en algunos dispositivos.\n- Bibliotecas actualizadas relacionadas con la compresión.\n- Todos los anuncios de video han sido modificados para reproducir en silencio.\n- La UI de configuración de auto-shutdown de TTS ha sido modificada.\n- Si hay un archivo que se ha extraído como texto (PDF, ZIP, EPUB), se mostrará una casilla de verificación en la esquina superior derecha.\n- La interfaz de usuario de selección de color ha sido modificada.\n- Se corrigió un error donde no se podían encontrar algunas imágenes de portada de Epub.\n- Al ejecutar la aplicación, se agrega a mi biblioteca \"Manual.txt de usuario\". Creo que sería bueno verlo de vez en cuando.\n- Se han solucionado otros errores/errores."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.5.6 (2023 09 22)\n- Opravená chyba, kde sa súbory nemohli otvoriť na niektorých zariadeniach."
+    "devnote": "7.5.7 (2023 10 02)\n- Opravená chyba, ktorá spôsobila uzavretie TTS pri spustení na niektorých zariadeniach.\n- Aktualizované knižnice súvisiace s kompresiou.\n- Všetky videonahrávky boli upravené tak, aby hrali v tichosti.\n- UIR-UIR UI TTS Automatické zaostávanie bolo upravené.\n- Ak existuje súbor, ktorý bol extrahovaný ako text (PDF, ZIP, EPUB), začiarkavacie políčko sa zobrazí v pravom hornom rohu.\n- UI výberu farieb bolo upravené.\n- Opravená chyba, kde nebolo možné nájsť niektoré obrázky krytia EPUB.\n- Pri spustení aplikácie sa do mojej knižnice pridá „Používateľská príručka.txt“. Myslím, že by bolo dobré vidieť to raz za čas.\n- Opravené chyby/chyby boli opravené."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.5.6 (2023 09 22)\n- Odpravljeno napako, kjer datotek ni bilo mogoče odpreti na nekaterih napravah."
+    "devnote": "7.5.7 (2023 10 02)\n- Odpravljena je napaka, ki je povzročila, da se TTS zapre, ko deluje na nekaterih napravah.\n- posodobljene knjižnice, povezane s kompresijo.\n- Vsi video oglasi so spremenjeni tako, da igrajo v tišini.\n- Uporabnik TTS Auto-Shotdown nastavitve je spremenjen.\n- Če obstaja datoteka, ki je bila izvlečena kot besedilo (PDF, ZIP, EPUB), bo v zgornjem desnem kotu prikazano potrditveno polje.\n- Uporabniški vmesnik za izbiro barv je spremenjen.\n- Odpravljena je napaka, kjer ni bilo mogoče najti nekaterih slik EPUB.\n- Ko zaženete aplikacijo, je v mojo knjižnico dodan \"Uporabniški priročnik.txt\". Mislim, da bi bilo dobro videti enkrat.\n- Odpravljene so druge napake/napake."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.5.6 (2023 09 22)\n- සමහර උපාංගවල ගොනු විවෘත කළ නොහැකි දෝෂයක් සවි කර ඇත."
+    "devnote": "7.5.7 (2023 10 02)\n- සමහර උපාංගවල ධාවනය වන විට ටට්ස් වැසීමට හේතු වූ දෝෂයක් සවි කර ඇත.\n- සම්පීඩනය හා සම්බන්ධ පුස්තකාල යාවත්කාලීන කරන ලදි.\n- නිහ .ව සෙල්ලම් කිරීම සඳහා සියලුම වීඩියෝ දැන්වීම් වෙනස් කර ඇත.\n- TTS ස්වයංක්රීය වසා දැමීමේ සැකසුම UI වෙනස් කර ඇත.\n- පෙළ ලෙස නිස්සාරණය කර ඇති ගොනුවක් තිබේ නම් (PDF, Zip, Epub), ඉහළ දකුණු කෙළවරේ පිරික්සුම් කොටුවක් දර්ශනය වේ.\n- වර්ණ තේරීම UI වෙනස් කර ඇත.\n- සමහර උණ ආවරණ රූප සොයාගත නොහැකි වූ දෝෂයක් සවි කර ඇත.\n- යෙදුම ධාවනය කරන විට, \"පරිශීලක අත්පොත.txt\" මගේ පුස්තකාලයට එකතු වේ. මම හිතන්නේ එය ටික වේලාවකට වරක් දැකීම සතුටක්.\n- වෙනත් දෝෂ / දෝෂ සවි කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.5.6 (2023 09 22)\n- إصلاح خطأ حيث لا يمكن فتح الملفات على بعض الأجهزة."
+    "devnote": "7.5.7 (2023 10 02)\n- إصلاح الخلل الذي تسبب في إغلاق TTS عند تشغيل بعض الأجهزة.\n- تحديث المكتبات المتعلقة بالضغط.\n- تم تعديل جميع إعلانات الفيديو للعب في صمت.\n- تم تعديل واجهة مستخدم TTS Auto-Shutdown.\n- إذا كان هناك ملف تم استخراجه كنص (PDF ، ZIP ، EPUB) ، فسيتم عرض خانة الاختيار في الزاوية اليمنى العليا.\n- تم تعديل واجهة المستخدم اختيار اللون.\n- تم إصلاح خلل حيث لا يمكن العثور على بعض صور غطاء epub.\n- عند تشغيل التطبيق ، تتم إضافة \"Manual.txt\" إلى مكتبتي. أعتقد أنه سيكون من الجيد رؤيته من حين لآخر.\n- تم إصلاح الأخطاء/الأخطاء الأخرى."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.5.6 (2023 09 22)\n- Fix նջեց մի սխալ, որտեղ ֆայլերը հնարավոր չէ բացել որոշ սարքերի վրա:"
+    "devnote": "7.5.7 (2023 10 02)\n- Fix նջեց մի սխալ, որը առաջացրեց TTS- ին, երբ որոշ սարքերում վազելիս:\n- Թարմացված սեղմմանն առնչվող գրադարաններ:\n- Բոլոր վիդեո գովազդները փոփոխվել են լռության մեջ խաղալու համար:\n- TTS ավտոմատ անջատում UI- ն փոփոխվել է:\n- Եթե կա ֆայլ, որը արդյունահանվել է որպես տեքստ (PDF, ZIP, EPUB), վերեւի աջ անկյունում կցուցադրվի տուփ:\n- Գույնի ընտրությունը UI- ն փոփոխվել է:\n- Fix նջեց մի սխալ, որտեղ որոշ EPUB ծածկոցներ հնարավոր չէ գտնել:\n- Ծրագիրը գործարկելիս «Օգտագործողի ձեռնարկը» ավելացվում է իմ գրադարան: Կարծում եմ, լավ կլինի միանգամից մեկ անգամ տեսնել այն:\n- Այլ սխալներ / սխալներ են շտկվել:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.5.6 (2023 09 22)\n- Lagaði villu þar sem ekki var hægt að opna skrár á sumum tækjum."
+    "devnote": "7.5.7 (2023 10 02)\n- Lagaði villu sem olli því að TTS lokaði þegar keyrt var á sumum tækjum.\n- Uppfært bókasöfn sem tengjast samþjöppun.\n- Öllum vídeóauglýsingum hefur verið breytt til að spila í þögn.\n- TTS Auto-Shutdown stilling UI hefur verið breytt.\n- Ef það er til skrá sem hefur verið dregin út sem texti (PDF, ZIP, EPUB), birtist gátreitur í efra hægra horninu.\n- Litaval UI hefur verið breytt.\n- Lagaði villu þar sem ekki var hægt að finna nokkrar Epub -kápumyndir.\n- Þegar forritið er keyrt er „Notendahandbók.txt“ bætt við bókasafnið mitt. Ég held að það væri gott að sjá það öðru hvoru.\n- Aðrar villur/villur hafa verið lagaðar."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.5.6 (2023 09 22)\n- Bəzi cihazlarda faylların açılmadığı bir səhv düzəldildi."
+    "devnote": "7.5.7 (2023 10 02)\n- Bəzi cihazlarda işləyərkən TTS-in bağlanmasına səbəb olan bir səhv düzəldildi.\n- Yenilənmiş sıxılma ilə əlaqəli kitabxanalar.\n- Bütün video reklamlar səssizcə oynamaq üçün dəyişdirildi.\n- TTS avtomatik bağlama qəbulu UI dəyişdirildi.\n- Mətn (PDF, Zip, Epub) kimi çıxarılmış bir fayl varsa, yuxarı sağ küncdə bir onay qutusu göstərilir.\n- Rəng seçimi UI dəyişdirildi.\n- Bəzi epub örtük şəkillərinin tapılmadığı bir səhv düzəldildi.\n- Tətbiqi işləyərkən \"İstifadəçi Manual.txt\" kitabxanama əlavə olunur. Düşünürəm ki, bir dəfə bir dəfə görmək yaxşı olardı.\n- Digər bugs / səhvlər düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.5.6 (2023 09 22)\n- 'n fout reggestel waar lêers nie op sommige toestelle oopgemaak kon word nie."
+    "devnote": "7.5.7 (2023 10 02)\n- het 'n fout opgelos wat veroorsaak het dat TTS sluit as hulle op sommige toestelle hardloop.\n- Opgedateerde kompressie-verwante biblioteke.\n- Alle video -advertensies is aangepas om in stilte te speel.\n- Die TTS Auto-Shutdown-instelling UI is gewysig.\n- As daar 'n lêer is wat as teks onttrek is (PDF, ZIP, EPUB), sal 'n merkblokkie in die regter boonste hoek vertoon word.\n- Die UI van die kleurseleksie is verander.\n- 'n fout opgelos waar sommige Epub -omslagbeelde nie gevind kon word nie.\n- As u die app gebruik, word “Gebruikershandleiding.txt” by my biblioteek gevoeg. Ek dink dit sal goed wees om dit af en toe te sien.\n- Ander foute/foute is reggestel."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.5.6 (2023 09 22)\n- Fiksoi një gabim ku skedarët nuk mund të hapeshin në disa pajisje."
+    "devnote": "7.5.7 (2023 10 02)\n- Fiksoi një gabim që bëri që TTS të mbyllet kur vraponte në disa pajisje.\n- Bibliotekat e azhurnuara të lidhura me kompresimin.\n- Të gjitha reklamat me video janë modifikuar për të luajtur në heshtje.\n- UI e cilësimit të automjeteve TTS është modifikuar.\n- Nëse ekziston një skedar që është nxjerrë si tekst (PDF, ZIP, EPUB), një kuti kontrolli do të shfaqet në këndin e sipërm të djathtë.\n- UI e përzgjedhjes së ngjyrave është modifikuar.\n- Fiksoi një gabim ku disa imazhe të mbulesës EPUB nuk mund të gjendeshin.\n- Kur ekzekutoni aplikacionin, \"Manuali i Përdoruesit.txt\" shtohet në bibliotekën time. Unë mendoj se do të ishte mirë ta shihja një herë në një kohë.\n- Gabime/gabime të tjera janë rregulluar."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.5.6 (2023 09 22)\n- በአንዳንድ መሣሪያዎች ላይ ፋይሎች ሊከፈቱ የማይችሉበት ሳንካ ተጠግኗል."
+    "devnote": "7.5.7 (2023 10 02)\n- በአንዳንድ መሣሪያዎች ላይ በሚሠሩበት ጊዜ ከ STES ጋር እንዲዘጋ የቆየውን ሳንካ ተጠግኗል.\n- የዘመኑ ማጨስ የተዛመዱ ቤተ-መጽሐፍቶች.\n- ሁሉም የቪዲዮ ማስታወቂያዎች በዝምታ ለመጫወት ተስተካክለዋል.\n- የ TTS ራስ-መዘጋት ቅንብር ተስተካክሏል.\n- እንደ ጽሑፍ (ፒዲኤፍ, ዚፕ, EPUB) የተወሰደ ፋይል ካለ, አመልካች ሳጥን በላይኛው ቀኝ ጥግ ላይ ይታያል.\n- የቀለም ምርጫዎች ተስተካክለዋል.\n- አንዳንድ የሀይብ ሽፋን ምስሎች ሊገኙ የማይችሉበት ሳንካ ተጠግኗል.\n- መተግበሪያውን ሲያካሂዱ \"የተጠቃሚ መመሪያ .xt\" ወደ ቤተመጽሐፍቴ ታክሏል. እኔ አንድ ጊዜ ውስጥ አንድ ጊዜ ማየት ጥሩ ይመስለኛል.\n- ሌሎች ሳንካዎች / ስህተቶች ተስተካክለዋል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.5.6 (2023 09 22)\n- Parandatud viga, kus faile ei saanud mõnes seadmes avada."
+    "devnote": "7.5.7 (2023 10 02)\n- Parandatud viga, mis põhjustas TTS -i sulgemise mõnel seadmel töötades.\n- Uuendatud tihendusega seotud teegid.\n- Kõiki videoreklaame on modifitseeritud vaikuses mängimiseks.\n- TTS-i automaatne-shutdowni seadistus UI on muudetud.\n- Kui leidub fail, mis on kaevandatud tekstina (PDF, ZIP, EPUB), kuvatakse paremas ülanurgas märkeruut.\n- Värvivaliku kasutajaliidest on muudetud.\n- Parandatud viga, kus mõnda epubi kaanepilti ei leitud.\n- Rakenduse käivitamisel lisatakse minu teeki „kasutusjuhend.txt”. Ma arvan, et oleks hea seda aeg -ajalt näha.\n- Muud vead/vead on parandatud."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.5.6 (2023 09 22)\n- ایک بگ طے کیا جہاں کچھ آلات پر فائلیں نہیں کھولی جاسکتی ہیں۔"
+    "devnote": "7.5.7 (2023 10 02)\n- ایک بگ طے کیا جس کی وجہ سے کچھ آلات پر چلتے وقت ٹی ٹی ایس بند ہوجاتا ہے۔\n- تازہ ترین کمپریشن سے متعلق لائبریریوں۔\n- خاموشی میں کھیلنے کے لئے تمام ویڈیو اشتہارات میں ترمیم کی گئی ہے۔\n- ٹی ٹی ایس آٹو شٹ ڈاون سیٹنگ UI میں ترمیم کی گئی ہے۔\nاگر کوئی فائل موجود ہے جسے متن (پی ڈی ایف ، زپ ، ای پی یو بی) کے طور پر نکالا گیا ہے تو ، اوپری دائیں کونے میں ایک چیک باکس ظاہر ہوگا۔\n- رنگین انتخاب UI میں ترمیم کی گئی ہے۔\n- ایک بگ طے کیا جہاں کچھ ایپب کور کی تصاویر نہیں مل سکی۔\n- جب ایپ چلاتے ہو تو ، \"صارف دستی ڈاٹ ٹی ایکس ٹی\" کو میری لائبریری میں شامل کیا جاتا ہے۔ میرے خیال میں تھوڑی دیر میں اسے دیکھنا اچھا ہوگا۔\n- دیگر کیڑے/غلطیاں طے کی گئیں۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.5.6 (2023 09 22)\n- Виправлена ​​помилка, де на деяких пристроях не можна було відкрити файли."
+    "devnote": "7.5.7 (2023 10 02)\n- Виправлена ​​помилка, яка спричинила закриття ТТ під час роботи на деяких пристроях.\n- Оновлені бібліотеки, пов'язані з стисненням.\n- Всі відеореклама були змінені для відтворення в тиші.\n- Налаштування користувача TTS Auto-Shutdown було змінено.\n- Якщо є файл, який був вилучений як текст (PDF, Zip, Epub), у верхньому правому куті відображатиметься прапорець.\n- Користувацький інтерфейс кольорів змінився.\n- Виправлена ​​помилка, де не можна було знайти деякі зображення обкладинки EPUB.\n- Під час запуску програми до моєї бібліотеки додається \"Посібник користувача.txt\". Я думаю, було б добре бачити це раз у раз.\n- Інші помилки/помилки виправлені."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.5.6 (2023 09 22)\n- Risolto un bug in cui i file non potevano essere aperti su alcuni dispositivi."
+    "devnote": "7.5.7 (2023 10 02)\n- Risolto un bug che ha causato la chiusura di TTS quando si esegue alcuni dispositivi.\n- Biblioteche aggiornate relative alla compressione.\n- Tutti gli annunci video sono stati modificati per giocare in silenzio.\n- L'interfaccia utente di Impostazione automatica TTS è stata modificata.\n- Se c'è un file che è stato estratto come testo (PDF, Zip, Epub), una casella di controllo verrà visualizzata nell'angolo in alto a destra.\n- L'interfaccia utente di selezione dei colori è stata modificata.\n- Risolto un bug in cui non è stato possibile trovare alcune immagini di copertina EPUB.\n- Quando si esegue l'app, \"Manuale dell'utente.txt\" viene aggiunto alla mia libreria. Penso che sarebbe bello vederlo una volta ogni tanto.\n- Altri bug/errori sono stati corretti."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.5.6 (2023 09 22)\n- Memperbaiki bug di mana file tidak dapat dibuka pada beberapa perangkat."
+    "devnote": "7.5.7 (2023 10 02)\n- Memperbaiki bug yang menyebabkan TTS ditutup saat menjalankan beberapa perangkat.\n- Perpustakaan terkait kompresi yang diperbarui.\n- Semua iklan video telah dimodifikasi untuk diputar dalam keheningan.\n- Pengaturan Auto-Shutdown TTS UI telah dimodifikasi.\n- Jika ada file yang telah diekstraksi sebagai teks (PDF, ZIP, EPUB), kotak centang akan ditampilkan di sudut kanan atas.\n- UI pemilihan warna telah dimodifikasi.\n- Memperbaiki bug di mana beberapa gambar penutup epub tidak dapat ditemukan.\n- Saat menjalankan aplikasi, \"Pengguna Manual.txt\" ditambahkan ke perpustakaan saya. Saya pikir akan lebih baik melihatnya sesekali.\n- Bug/kesalahan lainnya telah diperbaiki."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.5.6（2023 09 22）\n - 一部のデバイスでファイルを開くことができなかったバグを修正しました。"
+    "devnote": "7.5.7（2023 10 02）\n - 一部のデバイスで実行するときにTTSを閉じる原因となるバグを修正しました。\n - 圧縮関連ライブラリを更新しました。\n - すべてのビデオ広告は、沈黙の中で再生されるように変更されています。\n-TTS Auto-Shutdown Setted UIが変更されました。\n - テキスト（PDF、zip、epub）として抽出されたファイルがある場合、チェックボックスが右上隅に表示されます。\n - 色の選択UIが変更されました。\n - いくつかのepubカバー画像が見つからなかったバグを修正しました。\n - アプリを実行すると、「ユーザーマニュアル.txt」がライブラリに追加されます。たまにそれを見るのは良いことだと思います。\n - 他のバグ/エラーが修正されました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.5.6 (2023 09 22)\n- დააფიქსირა შეცდომა, სადაც ფაილების გახსნა ვერ ხდებოდა ზოგიერთ მოწყობილობაზე."
+    "devnote": "7.5.7 (2023 10 02)\n- დააფიქსირა შეცდომა, რამაც გამოიწვია TTS დახურვა ზოგიერთ მოწყობილობაზე მუშაობის დროს.\n- განახლებული შეკუმშვის ბიბლიოთეკები.\n- ყველა ვიდეო რეკლამა შეიცვალა, რომ ჩუმად ითამაშოს.\n- TTS Auto-Shutdown პარამეტრი UI შეიცვალა.\n- თუ არსებობს ფაილი, რომელიც ამოღებულია როგორც ტექსტი (PDF, ZIP, EPUB), ნაჩვენები ყუთი გამოჩნდება ზედა მარჯვენა კუთხეში.\n- შეიცვალა ფერის შერჩევა UI.\n- დააფიქსირა შეცდომა, სადაც Epub- ის ზოგიერთი სურათის ნახვა ვერ იპოვნეს.\n- აპლიკაციის გაშვებისას, ჩემს ბიბლიოთეკას ემატება \"მომხმარებლის სახელმძღვანელო. Txt\". ვფიქრობ, კარგი იქნება, რომ ერთხელ ერთხელ ნახოთ.\n- სხვა შეცდომები/შეცდომები დაფიქსირდა."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.5.6 (2023 09)\n- Kulungiswe isiphazamisi lapho amafayela angeke avulwe kwamanye amadivayisi."
+    "devnote": "7.5.7 (2023 10 02)\n- Kulungiswe isiphazamisi esibangele ama-TTS ukuvala lapho egijima kwamanye amadivayisi.\n- Imitapo yolwazi ehlobene nengcindezelo ehlobene.\n- Zonke izikhangiso zevidiyo ziguquliwe ukuze zidlale zithule.\n- I-TTS auto-shutheka ukusetha i-UI iguquliwe.\n- Uma kukhona ifayela elikhishwe njengombhalo (PDF, ZIP, EPUB), ibhokisi lokuhlola lizokhonjiswa ekhoneni eliphezulu kwesokudla.\n- I-UI yokukhetha kombala iguquliwe.\n- Ukulungiswa kwesiphazamiso lapho izithombe ezithile zekhava ye-EPUB zingatholakalanga.\n- Uma usebenzisa uhlelo lokusebenza, \"Umsebenzisi we-Manual.txt\" wengezwe kumtapo wezincwadi wami. Ngicabanga ukuthi kungaba kuhle ukukubona kanyekanye.\n- Ezinye izimbungulu / amaphutha alungisiwe."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.5.6（2023 09 22）\n - 修复了无法在某些设备上打开文件的错误。"
+    "devnote": "7.5.7（2023 10 02）\n - 修复了导致TT在某些设备上运行时关闭的错误。\n - 更新与压缩相关的库。\n - 所有视频广告都经过修改以使其沉默地播放。\n -  TTS自动划分设置UI已修改。\n - 如果有一个文件已提取为文本（PDF，ZIP，EPUB），则将在右上角显示一个复选框。\n - 颜色选择UI已修改。\n - 修复了一个找不到某些epub封面图像的错误。\n - 运行应用程序时，“用户手册.txt”将添加到我的库中。我认为很高兴偶尔看到它。\n - 其他错误/错误已修复。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.5.6（2023 09 22）\n - 修復了無法在某些設備上打開文件的錯誤。"
+    "devnote": "7.5.7（2023 10 02）\n - 修復了導致TT在某些設備上運行時關閉的錯誤。\n - 更新與壓縮相關的庫。\n - 所有視頻廣告都經過修改以使其沉默地播放。\n -  TTS自動劃分設置UI已修改。\n - 如果有一個文件已提取為文本（PDF，ZIP，EPUB），則將在右上角顯示一個複選框。\n - 顏色選擇UI已修改。\n - 修復了一個找不到某些epub封面圖像的錯誤。\n - 運行應用程序時，“用戶手冊.txt”將添加到我的庫中。我認為很高興偶爾看到它。\n - 其他錯誤/錯誤已修復。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.5.6（2023 09 22）\n - 修復了無法在某些設備上打開文件的錯誤。"
+    "devnote": "7.5.7（2023 10 02）\n - 修復了導致TT在某些設備上運行時關閉的錯誤。\n - 更新與壓縮相關的庫。\n - 所有視頻廣告都經過修改以使其沉默地播放。\n -  TTS自動劃分設置UI已修改。\n - 如果有一個文件已提取為文本（PDF，ZIP，EPUB），則將在右上角顯示一個複選框。\n - 顏色選擇UI已修改。\n - 修復了一個找不到某些epub封面圖像的錯誤。\n - 運行應用程序時，“用戶手冊.txt”將添加到我的庫中。我認為很高興偶爾看到它。\n - 其他錯誤/錯誤已修復。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.5.6 (2023 09 22)\n- Opravena chyba, kde se na některých zařízeních nelze otevřít soubory."
+    "devnote": "7.5.7 (2023 10 02)\n- Opravena chyba, která způsobila uzavření TTS při běhu na některých zařízeních.\n- Aktualizované knihovny související s kompresí.\n- Všechny videoreklamy byly upraveny tak, aby hrály v tichu.\n- Uži UI nastavení automatického rozhraní TTS bylo upraveno.\n- Pokud existuje soubor, který byl extrahován jako text (PDF, ZIP, EPUB), zaškrtávací políčko se zobrazí v pravém horním rohu.\n- Uži UI pro výběr barev bylo upraveno.\n- Opravena chyba, kde nebyly nalezeny některé obrázky krytu EPUB.\n- Při spuštění aplikace je do mé knihovny přidáno „Uživatelská příručka.txt“. Myslím, že by bylo dobré to vidět jednou za čas.\n- Byly opraveny další chyby/chyby."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.5.6 (2023 09 22)\n- Кейбір құрылғыларда файлдар ашылмайтын қателіктерді бекітіңіз."
+    "devnote": "7.5.7 (2023 10 02)\n- кейбір құрылғыларда жұмыс істеген кезде TTS жабуды тудырған қате.\n- сығымдалған сығымдалған кітапханалар.\n- Барлық бейне жарнамалар үнсіз ойнауға өзгертілген.\n- TTS авто-өшіру UI режимі өзгертілді.\n- Егер мәтін түрінде шығарылған файл болса (PDF, ZIP, ZIP, EPUB), жоғарғы оң жақ бұрышта құсбелгі қойылады.\n- Түстерді таңдау модификацияланған.\n- Кейбір эпубаның жабыны суреттері табылмады.\n- Бағдарламаны іске қосу кезінде «Пайдаланушы нұсқаулығы.txt» менің кітапханаға қосылды. Менің ойымша, оны бір рет көргеніңіз жақсы болар еді.\n- Басқа қателер / қателер бекітілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.5.6 (2023 09 22)\n- S'ha corregit un error on no es podien obrir fitxers en alguns dispositius."
+    "devnote": "7.5.7 (2023 10 02)\n- S'ha corregit un error que va fer que els TTS es tanquessin quan s'executessin en alguns dispositius.\n- Biblioteques actualitzades relacionades amb la compressió.\n- Tots els anuncis de vídeo s’han modificat per reproduir -se en silenci.\n- S'ha modificat la configuració TTS Auto-Shutdown.\n- Si hi ha un fitxer que s'ha extret com a text (PDF, ZIP, EPUB), es mostrarà una casella de verificació a la cantonada superior dreta.\n- S'ha modificat la interfície d'usuari de selecció de colors.\n- S'ha corregit un error on no s'ha pogut trobar algunes imatges de portada EPUB.\n- Quan s'executa l'aplicació, \"Manual d'usuari.txt\" s'afegeix a la meva biblioteca. Crec que seria bo veure -ho de tant en tant.\n- S'han solucionat altres errors/errors."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.5.6 (2023 09 22)\n- ಕೆಲವು ಸಾಧನಗಳಲ್ಲಿ ಫೈಲ್‌ಗಳನ್ನು ತೆರೆಯಲಾಗದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "7.5.7 (2023 10 02)\n- ಕೆಲವು ಸಾಧನಗಳಲ್ಲಿ ಚಾಲನೆಯಲ್ಲಿರುವಾಗ ಟಿಟಿಎಸ್ ಮುಚ್ಚಲು ಕಾರಣವಾದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ಸಂಕೋಚನ-ಸಂಬಂಧಿತ ಗ್ರಂಥಾಲಯಗಳನ್ನು ನವೀಕರಿಸಲಾಗಿದೆ.\n- ಎಲ್ಲಾ ವೀಡಿಯೊ ಜಾಹೀರಾತುಗಳನ್ನು ಮೌನವಾಗಿ ಆಡಲು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಟಿಟಿಎಸ್ ಆಟೋ-ಶಟ್ಡೌನ್ ಸೆಟ್ಟಿಂಗ್ ಯುಐ ಅನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಪಠ್ಯವಾಗಿ ಹೊರತೆಗೆಯಲಾದ ಫೈಲ್ ಇದ್ದರೆ (ಪಿಡಿಎಫ್, ಜಿಪ್, ಇಪಬ್), ಮೇಲಿನ ಬಲ ಮೂಲೆಯಲ್ಲಿ ಚೆಕ್‌ಬಾಕ್ಸ್ ಅನ್ನು ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ.\n- ಬಣ್ಣ ಆಯ್ಕೆ UI ಅನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಕೆಲವು ಎಪಬ್ ಕವರ್ ಚಿತ್ರಗಳನ್ನು ಕಂಡುಹಿಡಿಯಲಾಗದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಚಲಾಯಿಸುವಾಗ, “ಬಳಕೆದಾರರ ಕೈಪಿಡಿ.ಟಿಎಕ್ಸ್ಟಿ” ಅನ್ನು ನನ್ನ ಲೈಬ್ರರಿಗೆ ಸೇರಿಸಲಾಗುತ್ತದೆ. ಒಮ್ಮೆ ಅದನ್ನು ನೋಡುವುದು ಒಳ್ಳೆಯದು ಎಂದು ನಾನು ಭಾವಿಸುತ್ತೇನೆ.\n- ಇತರ ದೋಷಗಳು/ದೋಷಗಳನ್ನು ನಿವಾರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.5.6 (2023 09 22)\n- Ispravljena je greška u kojoj se datoteke nisu mogle otvoriti na nekim uređajima."
+    "devnote": "7.5.7 (2023. 10 02)\n- Ispravljena je greška koja je uzrokovala da se TTS zatvara prilikom pokretanja na nekim uređajima.\n- Ažurirane knjižnice povezane s kompresijom.\n- Svi video oglasi modificirani su za reprodukciju u tišini.\n- TTS automatsko sučelje za postavljanje sučelja je modificirano.\n- Ako postoji datoteka koja je ekstrahirana kao tekst (PDF, ZIP, EPUB), u gornjem desnom kutu prikazat će se potvrdni okvir.\n- UI za odabir boja je modificirano.\n- Ispravljena je greška na kojoj se ne mogu naći neke ePUB slike.\n- Prilikom pokretanja aplikacije \"Korisnički priručnik.txt\" dodaje se u moju biblioteku. Mislim da bi bilo dobro vidjeti to s vremena na vrijeme.\n- Popravljene su ostale pogreške/pogreške."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.5.6 (2023 09 22)\n- ជួសជុលកំហុសមួយដែលឯកសារមិនអាចត្រូវបានបើកនៅលើឧបករណ៍មួយចំនួន។"
+    "devnote": "7.5.7 (2023 10 02)\n- ជួសជុលកំហុសដែលបណ្តាលឱ្យ tts បិទនៅពេលដំណើរការលើឧបករណ៍មួយចំនួន។\n- បណ្ណាល័យទាក់ទងនឹងការបង្ហាប់ដែលបានធ្វើបច្ចុប្បន្នភាព។\n- ការផ្សាយពាណិជ្ជកម្មវីដេអូទាំងអស់ត្រូវបានកែប្រែដើម្បីលេងនៅភាពស្ងៀមស្ងាត់។\n- ការកំណត់ការបិទដោយស្វ័យប្រវត្តិ UI ត្រូវបានកែប្រែហើយ។\n- ប្រសិនបើមានឯកសារដែលត្រូវបានដកស្រង់ជាអត្ថបទ (PDF, zip, EPUB) ប្រអប់ធីកនឹងត្រូវបានបង្ហាញនៅជ្រុងខាងស្តាំខាងលើ។\n- ការជ្រើសរើសពណ៌ UI ត្រូវបានកែប្រែ។\n- ជួសជុលកំហុសដែលរូបភាពគម្របអេភីអេសមួយចំនួនមិនអាចរកឃើញ។\n- នៅពេលដំណើរការកម្មវិធីនេះ \"សៀវភៅណែនាំអ្នកប្រើ .txt\" ត្រូវបានបន្ថែមទៅបណ្ណាល័យរបស់ខ្ញុំ។ ខ្ញុំគិតថាវាជាការល្អដែលបានឃើញវាម្តងក្នុងពេលមួយ។\n- កំហុសផ្សេងទៀត / កំហុសត្រូវបានជួសជុល។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.5.6 (2023 09 09 22)\n- Айрым түзмөктөрдө файлдар ачылбай турган мүчүлүштүктү белгиледи."
+    "devnote": "7.5.7 (2023 10 02)\n- кээ бир шаймандарда иштеп жатканда TTS жабууга алып келген мүчүлүштүктү белгиледи.\n- кысылган кысуу менен байланышкан китепканалар.\n- Бардык видео жарнамалар унчукпай ойноо үчүн өзгөртүлдү.\n- TTS авто-жабууну орнотуу UI өзгөртүлдү.\n- Эгерде текст катары алынган файл бар болсо (PDF, ZIP, EPUB), белгилөө кутучасы жогорку оң бурчта көрсөтүлөт.\n- UI түс тандоо өзгөрүлдү.\n- Кээ бир эпубдун сүрөтүн таба албаган мүчүлүштүктү белгиледи.\n- Колдонмону иштеткенде, \"Колдонуучунун колдонмосу.txt\" менин китепканамга кошулат. Менин оюмча, аны бир аздан кийин бир жолу көрүү жакшы болмок деп ойлойм.\n- Башка мүчүлүштүктөр / каталар бекитилген."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.5.6 (2023 09 22)\n- சில சாதனங்களில் கோப்புகளைத் திறக்க முடியாத ஒரு பிழை சரி செய்யப்பட்டது."
+    "devnote": "7.5.7 (2023 10 02)\n- சில சாதனங்களில் இயங்கும் போது TTS ஐ மூடுவதற்கு காரணமான ஒரு பிழை சரி செய்யப்பட்டது.\n- சுருக்கம் தொடர்பான நூலகங்கள் புதுப்பிக்கப்பட்டன.\n- அனைத்து வீடியோ விளம்பரங்களும் ம .னமாக விளையாட மாற்றப்பட்டுள்ளன.\n- TTS ஆட்டோ-ஷட்டவுன் அமைப்பு UI மாற்றியமைக்கப்பட்டுள்ளது.\n- உரையாக பிரித்தெடுக்கப்பட்ட ஒரு கோப்பு இருந்தால் (PDF, ZIP, EPUB), மேல் வலது மூலையில் ஒரு தேர்வுப்பெட்டி காண்பிக்கப்படும்.\n- வண்ணத் தேர்வு UI மாற்றியமைக்கப்பட்டுள்ளது.\n- சில எபப் கவர் படங்களை கண்டுபிடிக்க முடியாத ஒரு பிழை சரி செய்யப்பட்டது.\n- பயன்பாட்டை இயக்கும் போது, ​​எனது நூலகத்தில் “பயனர் கையேடு. TXT” சேர்க்கப்படுகிறது. ஒரு முறை அதைப் பார்ப்பது நல்லது என்று நினைக்கிறேன்.\n- பிற பிழைகள்/பிழைகள் சரி செய்யப்பட்டுள்ளன."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.5.6 (2023 09 22)\n- แก้ไขข้อผิดพลาดที่ไม่สามารถเปิดไฟล์ได้ในอุปกรณ์บางตัว"
+    "devnote": "7.5.7 (2023 10 02)\n- แก้ไขข้อผิดพลาดที่ทำให้ TTS ปิดเมื่อทำงานบนอุปกรณ์บางอย่าง\n- อัปเดตไลบรารีที่เกี่ยวข้องกับการบีบอัด\n- โฆษณาวิดีโอทั้งหมดได้รับการแก้ไขเพื่อเล่นในความเงียบ\n- การตั้งค่า UI แบบปิดอัตโนมัติ TTS ได้รับการแก้ไขแล้ว\n- หากมีไฟล์ที่ถูกแยกออกเป็นข้อความ (PDF, Zip, EPUB) ช่องทำเครื่องหมายจะปรากฏขึ้นที่มุมขวาบน\n- การเลือกสี UI ได้รับการแก้ไขแล้ว\n- แก้ไขข้อผิดพลาดที่ไม่พบภาพปก EPUB บางภาพ\n- เมื่อเรียกใช้แอป“ ผู้ใช้คู่มือ TXT” จะถูกเพิ่มลงในไลบรารีของฉัน ฉันคิดว่ามันคงจะดีถ้าได้เห็นมันเป็นครั้งคราว\n- ข้อบกพร่อง/ข้อผิดพลาดอื่น ๆ ได้รับการแก้ไขแล้ว"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.5.6 (2023 09 22)\n- Bazı cihazlarda dosyaların açılamadığı bir hata düzeltildi."
+    "devnote": "7.5.7 (2023 10 02)\n- Bazı cihazlarda çalışırken TTS'nin kapanmasına neden olan bir hata düzeltildi.\n- Güncellenmiş Sıkıştırma ile ilgili kütüphaneler.\n- Tüm video reklamları sessizce oynayacak şekilde değiştirildi.\n- TTS Otomatik Shutdown ayarı UI değiştirildi.\n- Metin (PDF, ZIP, EPUB) olarak çıkarılan bir dosya varsa, sağ üst köşede bir onay kutusu görüntülenir.\n- Renk seçimi kullanıcı arayüzü değiştirildi.\n- Bazı epub örtü görüntülerinin bulunamadığı bir hata düzeltildi.\n- Uygulamayı çalıştırırken, kütüphaneme “Kullanım Kılavuzu.txt” eklenir. Bence arada bir görmek iyi olurdu.\n- Diğer hatalar/hatalar düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.5.6 (2023 09 22)\n- కొన్ని పరికరాల్లో ఫైళ్ళను తెరవలేని బగ్ పరిష్కరించబడింది."
+    "devnote": "7.5.7 (2023 10 02)\n- కొన్ని పరికరాల్లో నడుస్తున్నప్పుడు TTS మూసివేయడానికి కారణమైన బగ్ పరిష్కరించబడింది.\n- నవీకరించబడిన కుదింపు-సంబంధిత లైబ్రరీలు.\n- అన్ని వీడియో ప్రకటనలు నిశ్శబ్దంగా ఆడటానికి సవరించబడ్డాయి.\n- TTS ఆటో-షట్డౌన్ సెట్టింగ్ UI సవరించబడింది.\n- టెక్స్ట్ (పిడిఎఫ్, జిప్, ఎపబ్) గా సేకరించిన ఫైల్ ఉంటే, చెక్‌బాక్స్ ఎగువ కుడి మూలలో ప్రదర్శించబడుతుంది.\n- రంగు ఎంపిక UI సవరించబడింది.\n- కొన్ని ఎపబ్ కవర్ చిత్రాలను కనుగొనలేని బగ్ పరిష్కరించబడింది.\n- అనువర్తనాన్ని నడుపుతున్నప్పుడు, నా లైబ్రరీకి “యూజర్ మాన్యువల్.టిఎక్స్ట్” జోడించబడుతుంది. నేను ఒకసారి చూడటం మంచిది అని నేను అనుకుంటున్నాను.\n- ఇతర దోషాలు/లోపాలు పరిష్కరించబడ్డాయి."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.5.6 (2023 09 22)\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਜਿੱਥੇ ਫਾਈਲਾਂ ਕੁਝ ਡਿਵਾਈਸਾਂ ਤੇ ਖੋਲ੍ਹੀਆਂ ਨਹੀਂ ਜਾ ਸਕਦੀਆਂ."
+    "devnote": "7.5.7 (2023 10 02)\n- ਇੱਕ ਬੱਗ ਹੱਲ ਕੀਤਾ ਗਿਆ ਜਿਸ ਨਾਲ ਕੁਝ ਡਿਵਾਈਸਾਂ 'ਤੇ ਚੱਲਦੇ ਸਮੇਂ ਬੰਦ ਹੋਣ ਦਾ ਕਾਰਨ.\n- ਕੰਪ੍ਰੈਸ਼ਨ ਨਾਲ ਸਬੰਧਤ ਲਾਇਬ੍ਰੇਰੀਆਂ ਅਪਡੇਟ ਕੀਤੀਆਂ ਗਈਆਂ.\n- ਸਾਰੇ ਵੀਡੀਓ ਵਿਗਿਆਪਨ ਚੁੱਪ ਰਹਿਣ ਲਈ ਸੰਸ਼ੋਧਿਤ ਕੀਤੇ ਗਏ ਹਨ.\n- ਟੀਟੀਐਸ ਆਟੋ-ਸ਼ੱਟਡਾਉਨ ਸੈਟਿੰਗ ਯੂਆਈ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ.\n- ਜੇ ਇੱਥੇ ਕੋਈ ਫਾਈਲ ਹੈ ਜੋ ਟੈਕਸਟ (ਪੀਡੀਐਫ, ਜ਼ਿਪ, ਈਪੀਯੂਬ) ਦੇ ਤੌਰ ਤੇ ਕੱ racted ੀ ਗਈ ਹੈ, ਤਾਂ ਉੱਪਰ ਸੱਜੇ ਕੋਨੇ ਵਿੱਚ ਇੱਕ ਚੈੱਕਬਾਕਸ ਪ੍ਰਦਰਸ਼ਿਤ ਹੋਵੇਗਾ.\n- ਰੰਗ ਚੋਣ ਉ i ਇਸ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ.\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਜਿੱਥੇ ਕੁਝ EPAB ਕਵਰ ਚਿੱਤਰ ਨਹੀਂ ਲੱਭੇ.\n- ਜਦੋਂ ਐਪ ਚਲਾ ਰਹੇ ਹੋ, \"ਉਪਭੋਗਤਾ ਦਸਤਾਵੇਜ਼ .txt\" ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਜੋੜਿਆ ਜਾਂਦਾ ਹੈ. ਮੈਨੂੰ ਲਗਦਾ ਹੈ ਕਿ ਇਸ ਨੂੰ ਇਕ ਵਾਰ ਵਿਚ ਇਕ ਵਾਰ ਵੇਖਣਾ ਚੰਗਾ ਰਹੇਗਾ.\n- ਹੋਰ ਬੱਗ / ਗਲਤੀਆਂ ਹੱਲ ਕੀਤੀਆਂ ਗਈਆਂ ਹਨ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.5.6 (2023 09 22)\n- رفع اشکال در جایی که پرونده ها در برخی از دستگاه ها قابل باز نیستند."
+    "devnote": "7.5.7 (2023 10 02)\n- رفع اشکالی که باعث شده TTS هنگام کار در برخی از دستگاه ها بسته شود.\n- کتابخانه های مربوط به فشرده سازی به روز شده.\n- تمام تبلیغات ویدیویی برای بازی در سکوت اصلاح شده است.\n- UI تنظیم خودکار TTS اصلاح شده است.\n- اگر پرونده ای وجود داشته باشد که به عنوان متن (PDF ، ZIP ، EPUB) استخراج شود ، یک کادر انتخاب در گوشه بالا سمت راست نمایش داده می شود.\n- UI انتخاب رنگ اصلاح شده است.\n- رفع اشکالی در جایی که برخی از تصاویر پوشش EPUB یافت نشد.\n- هنگام اجرای برنامه ، \"کاربر manual.txt\" به کتابخانه من اضافه می شود. من فکر می کنم خوب است که یک بار آن را یک بار ببینیم.\n- سایر اشکالات/خطاها برطرف شده است."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.5.6 (2023 09 22)\n- Corrigido um bug em que os arquivos não puderam ser abertos em alguns dispositivos."
+    "devnote": "7.5.7 (2023 10 02)\n- Corrigido um bug que fez o TTS fechar ao executar em alguns dispositivos.\n- Bibliotecas relacionadas à compressão atualizadas.\n- Todos os anúncios de vídeo foram modificados para jogar em silêncio.\n- A configuração da interface do sugestão do TTS foi modificada.\n- Se houver um arquivo que foi extraído como texto (PDF, ZIP, EPUB), uma caixa de seleção será exibida no canto superior direito.\n- A interface do usuário de seleção de cores foi modificada.\n- Corrigido um bug em que algumas imagens da capa do EPUB não foram encontradas.\n- Ao executar o aplicativo, \"Manual.txt do usuário\" é adicionado à minha biblioteca. Eu acho que seria bom vê -lo de vez em quando.\n- Outros erros/erros foram corrigidos."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.5.6 (2023 09 22)\n- Naprawiono błąd, w którym plików nie można otworzyć na niektórych urządzeniach."
+    "devnote": "7.5.7 (2023 10 02)\n- Naprawiono błąd, który spowodował zamknięcie TTS podczas pracy na niektórych urządzeniach.\n- Zaktualizowane biblioteki związane z kompresją.\n- Wszystkie reklamy wideo zostały zmodyfikowane do odtwarzania w ciszy.\n- Udziały automatycznego shutownowania TTS zostało zmodyfikowane.\n- Jeśli istnieje plik, który został wyodrębniony jako tekst (pdf, zip, epub), pole wyboru zostanie wyświetlone w prawym górnym rogu.\n- interfejs wyboru kolorów został zmodyfikowany.\n- Naprawiono błąd, w którym nie można było znaleźć niektórych obrazów okładki epub.\n- Podczas uruchamiania aplikacji do mojej biblioteki dodaje się „Użytkownik Manual.txt”. Myślę, że dobrze byłoby zobaczyć to od czasu do czasu.\n- Inne błędy/błędy zostały naprawione."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.5.6 (2023 09 22)\n- Correction d'un bogue où les fichiers n'ont pas pu être ouverts sur certains appareils."
+    "devnote": "7.5.7 (2023 10 02)\n- Correction d'un bug qui a provoqué la fermeture de TTS lors de l'exécution sur certains appareils.\n- bibliothèques mises à jour liées à la compression.\n- Toutes les publicités vidéo ont été modifiées pour jouer en silence.\n- L'interface utilisateur TTS Auto-Shutdown a été modifiée.\n- S'il y a un fichier qui a été extrait sous forme de texte (PDF, ZIP, EPUB), une case à cocher s'affiche dans le coin supérieur droit.\n- L'interface utilisateur de sélection des couleurs a été modifiée.\n- Correction d'un bug où certaines images de couverture EPUB n'ont pas pu être trouvées.\n- Lors de l'exécution de l'application, «User Manual.txt» est ajouté à ma bibliothèque. Je pense qu'il serait bon de le voir de temps en temps.\n- D'autres bogues / erreurs ont été corrigés."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.5.6 (2023 09 22)\n- Korjattu virhe, jossa tiedostoja ei voitu avata joillakin laitteilla."
+    "devnote": "7.5.7 (2023 10 02)\n- Korjattu virhe, joka aiheutti TTS: n sulkeutumisen juoksemalla joillakin laitteilla.\n- Päivitetyt pakkaamiseen liittyvät kirjastot.\n- Kaikkia videomainoksia on muokattu pelaamaan hiljaisuudessa.\n- TTS-automaattinen shutdown-asetus käyttöliittymä on muokattu.\n- Jos on tiedosto, joka on purettu tekstinä (PDF, ZIP, EPUB), valintaruutu näkyy oikeassa yläkulmassa.\n- Värivalinnan käyttöliittymä on muokattu.\n- Korjattu virhe, josta joitain epub -kannen kuvia ei löytynyt.\n- Sovellusta suoritettaessa ”User Manual.txt” lisätään kirjastooni. Mielestäni olisi hyvä nähdä se silloin tällöin.\n- Muut virheet/virheet on korjattu."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.5.6 (2023 09 22)\n- Nakapirming isang bug kung saan ang mga file ay hindi mabubuksan sa ilang mga aparato."
+    "devnote": "7.5.7 (2023 10 02)\n- Nakapirming isang bug na naging sanhi ng pagsasara ng TTS kapag tumatakbo sa ilang mga aparato.\n- Nai-update na mga aklatan na nauugnay sa compression.\n- Lahat ng mga video ad ay nabago upang i -play sa katahimikan.\n- Ang TTS Auto-Shutdown Setting UI ay nabago.\n- Kung mayroong isang file na nakuha bilang teksto (PDF, ZIP, EPUB), ang isang checkbox ay ipapakita sa kanang kanang sulok.\n- Ang pagpili ng kulay UI ay nabago.\n- Nakapirming isang bug kung saan ang ilang mga imahe ng takip ng epub ay hindi matatagpuan.\n- Kapag nagpapatakbo ng app, ang \"Manu -manong User.txt\" ay idinagdag sa aking silid -aklatan. Sa palagay ko ay mabuti na makita ito minsan.\n- Ang iba pang mga bug/error ay naayos na."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.5.6 (2023 09 22)\n- Javítva egy hibát, ahol a fájlokat nem lehetett megnyitni egyes eszközökön."
+    "devnote": "7.5.7 (2023 10 02)\n- Javítva egy hibát, amely miatt a TTS bezáródott, amikor egyes eszközökön fut.\n- Frissített tömörítéssel kapcsolatos könyvtárak.\n- Az összes videohirdetést úgy módosították, hogy csendben játsszon.\n- A TTS Auto-Shutdown beállítást az UI módosította.\n- Ha van egy fájl, amelyet szövegként (PDF, ZIP, EPUB) nyertek ki, akkor a jobb felső sarokban jelölőnégyzet jelenik meg.\n- A színválaszték felhasználói felületét módosították.\n- Javítva egy hibát, ahol néhány EPUB borítókép nem található.\n- Az alkalmazás futtatásakor a „Felhasználói kézikönyv.txt” hozzáadódik a könyvtárhoz. Azt hiszem, jó lenne egy időnként látni.\n- Egyéb hibákat/hibákat javítottak."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.5.6 (2023 09 22)\n- קבע באג שבו לא ניתן היה לפתוח קבצים במכשירים מסוימים."
+    "devnote": "7.5.7 (2023 10 02)\n- תוקן באג שגרם לסגירה של TTS בעת הפעלה במכשירים מסוימים.\n- ספריות מעודכנות הקשורות לדחיסה.\n- כל מודעות הווידיאו שונו כדי לשחק בשתיקה.\n- ממשק המשתמש של ה- TTS Auto-Shutdown שונו.\n- אם יש קובץ שהוצא כטקסט (PDF, ZIP, EPUB), תיבת סימון תוצג בפינה השמאלית העליונה.\n- ממשק המשתמש של בחירת הצבעים שונה.\n- תוקן באג בו לא ניתן היה למצוא כמה תמונות כיסוי EPUB.\n- בעת הפעלת האפליקציה, \"מדריך למשתמש. Txt\" מתווסף לספריה שלי. אני חושב שיהיה טוב לראות את זה מדי פעם.\n- באגים/שגיאות אחרות תוקנו."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.5.6 (2023 09 22)\n- एक बग फिक्स्ड जहां कुछ उपकरणों पर फाइलें नहीं खोली जा सकीं।"
+    "devnote": "7.5.7 (2023 10 02)\n- एक बग फिक्स्ड जो कुछ उपकरणों पर चलते समय टीटीएस को बंद कर देता है।\n- अद्यतन संपीड़न-संबंधित पुस्तकालयों।\n- सभी वीडियो विज्ञापनों को मौन में खेलने के लिए संशोधित किया गया है।\n- टीटीएस ऑटो-शटडाउन सेटिंग यूआई को संशोधित किया गया है।\n- यदि कोई फ़ाइल है जिसे टेक्स्ट (पीडीएफ, ज़िप, एपब) के रूप में निकाला गया है, तो ऊपरी दाएं कोने में एक चेकबॉक्स प्रदर्शित किया जाएगा।\n- रंग चयन UI को संशोधित किया गया है।\n- एक बग फिक्स्ड जहां कुछ EPUB कवर छवियां नहीं मिल सकीं।\n- ऐप चलाते समय, \"उपयोगकर्ता Manual.txt\" मेरी लाइब्रेरी में जोड़ा जाता है। मुझे लगता है कि इसे एक बार में देखना अच्छा होगा।\n- अन्य बग/त्रुटियां तय की गई हैं।"
   }
 }
