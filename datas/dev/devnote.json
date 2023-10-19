@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.5.9 (2023 10 18)\n- Auto shutdown (sleep function) has been moved to special functions.\n- If you select Always Apply in the Auto Shutdown menu, it will always be automatically applied when playing TTS.\n- Modified to save the selected language when converting OCR. (Completed)\n- The font width calculation logic has been modified."
+    "devnote": "7.6.0 (2023 Oct 20)\nAn error that prevented backup and recovery was urgently fixed.\nWe have added a function to export DB files in case a problem occurs in the DB."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.5.9 (2023 10 18)\n- 자동종료(수면기능)을 특수기능 쪽으로 이동하였습니다.\n- 자동종료 메뉴에서 상시적용을 선택 하면 TTS 재생시 항상 자동으로 적용 합니다.\n- OCR변환시 선택된 언어를 저장 하도록 수정 하였습니다.(완료)\n- 글꼴 너비계산 로직을 수정 하였습니다."
+    "devnote": "7.6.0 (2023 10 20)\n백업 및 복구 가 안되는 오류를 긴급 수정 하였습니다. \nDB 에 문제가 발생하는 경우를 대비하여 DB 파일을 내보낼 수 있도록 기능을 추가 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.5.9 (2023 10 18)\n- A parada automática (función do sono) foi trasladada a funcións especiais.\n- Se seleccionas sempre aplicar no menú de apagado automático, sempre se aplicará automaticamente ao reproducir TTS.\n- Modificado para gardar o idioma seleccionado ao converter OCR. (Completado)\n- Modificouse a lóxica de cálculo do ancho de letra."
+    "devnote": "7.6.0 (2023 20 de outubro)\nCorrixiuse urxentemente un erro que impediu a copia de seguridade e recuperación.\nEngadimos unha función para exportar ficheiros DB no caso de que se produza un problema no DB."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.5.9 (2023 10 18)\n- Auto ટો શટડાઉન (સ્લીપ ફંક્શન) ને ખાસ કાર્યોમાં ખસેડવામાં આવ્યું છે.\n- જો તમે હંમેશાં Auto ટો શટડાઉન મેનૂમાં અરજી કરો છો, તો ટીટીએસ રમતી વખતે તે હંમેશાં આપમેળે લાગુ થશે.\n- ઓસીઆરને રૂપાંતરિત કરતી વખતે પસંદ કરેલી ભાષાને સાચવવા માટે સંશોધિત. (પૂર્ણ)\n- ફોન્ટ પહોળાઈની ગણતરી તર્કમાં ફેરફાર કરવામાં આવ્યા છે."
+    "devnote": "7.6.0 (2023 Oct ક્ટો 20)\nબેકઅપ અને પુન recovery પ્રાપ્તિને અટકાવતી ભૂલ તાત્કાલિક નિશ્ચિત હતી.\nડીબીમાં કોઈ સમસ્યા થાય છે તો અમે ડીબી ફાઇલોની નિકાસ કરવા માટે એક ફંક્શન ઉમેર્યું છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.5.9 (2023 10 18)\n- Η αυτόματη διακοπή λειτουργίας (λειτουργία ύπνου) έχει μετακινηθεί σε ειδικές λειτουργίες.\n- Εάν επιλέγετε πάντα να εφαρμόσετε στο μενού αυτόματης τερματισμού, θα εφαρμόζεται πάντα αυτόματα κατά την αναπαραγωγή TTS.\n- Τροποποιήθηκε για να αποθηκεύσετε την επιλεγμένη γλώσσα κατά τη μετατροπή του OCR. (Ολοκληρώθηκε το)\n- Η λογική υπολογισμού πλάτους γραμματοσειράς έχει τροποποιηθεί."
+    "devnote": "7.6.0 (2023 Οκτ. 20)\nΈνα σφάλμα που εμπόδισε την αντίγραφα ασφαλείας και την ανάκτηση ήταν επειγόντως σταθερό.\nΈχουμε προσθέσει μια λειτουργία για την εξαγωγή αρχείων DB σε περίπτωση που εμφανιστεί πρόβλημα στο DB."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.5.9 (2023 10 18)\n- Auto -afsluiting (slaapfunctie) is verplaatst naar speciale functies.\n- Als u altijd selecteert in het menu Auto -afsluiten, wordt deze altijd automatisch toegepast bij het spelen van TT's.\n- aangepast om de geselecteerde taal op te slaan bij het converteren van OCR. (Voltooid)\n- De Letterbreedte -berekeningslogica is gewijzigd."
+    "devnote": "7.6.0 (2023 oktober 20)\nEen fout die back -up en herstel verhinderde, werd dringend opgelost.\nWe hebben een functie toegevoegd om DB -bestanden te exporteren voor het geval er een probleem in de DB optreedt."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "7.5.9 (2023 10 18)\n- अटो शटडाउन (निन्दित कार्य) विशेष कार्यहरूमा सारियो।\n- यदि तपाइँले चयन गर्नुभयो भने जहिले पनि अटो शटडाउन मेनूमा लागू हुन्छ, यो मात्र स्वचालित रूपमा TTS खेल्दा स्वचालित रूपमा लागू हुन्छ।\n- OCR रूपान्तरण गर्दा चयनित भाषा बचत गर्न परिमार्जित। (सम्पन्न)\n- फन्ट चौडाई रेखाचित्र तर्क परिमार्जन गरिएको छ।"
+    "devnote": "7.6.0 (20223 अक्टूबर 20)\nएक त्रुटि जसले ब्याकअप र पुन: प्राप्तिलाई रोक्दछ।\nहामीले DB फाईलहरू निर्यात गर्न एक प्रकार्य थपेका छौं यदि DB मा समस्या हुन्छ भने।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.5.9 (2023 10 18)\n- Auto Shutdown (Sleep Function) er flyttet til spesielle funksjoner.\n- Hvis du velger alltid søk i Auto Shutdown -menyen, vil den alltid bli automatisk brukt når du spiller TTS.\n- Endret for å lagre det valgte språket når du konverterer OCR. (Fullført)\n- Fontbreddeberegningslogikken er endret."
+    "devnote": "7.6.0 (2023 20. oktober)\nEn feil som forhindret sikkerhetskopiering og gjenoppretting var haster.\nVi har lagt til en funksjon for å eksportere DB -filer i tilfelle et problem oppstår i DB."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.5.9 (2023 10 18)\n- Auto Shutdown (søvnfunktion) er flyttet til specielle funktioner.\n- Hvis du vælger, gælder altid i auto -nedlukningsmenuen, vil den altid automatisk anvendes, når du spiller TTS.\n- Ændret for at gemme det valgte sprog, når man konverterer OCR. (Afsluttet)\n- Beregningslogikken til skriftbredde er blevet ændret."
+    "devnote": "7.6.0 (2023 20. oktober)\nEn fejl, der forhindrede backup og gendannelse, blev presserende fast.\nVi har tilføjet en funktion til eksport DB -filer, hvis der opstår et problem i DB."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.5.9 (2023 10 18)\n- Auto Shutdown (Schlaffunktion) wurde in spezielle Funktionen verschoben.\n- Wenn Sie im Menü Auto -Shutdown immer angewendet werden, wird es beim Abspielen von TTS immer automatisch angewendet.\n- Modifiziert, um die ausgewählte Sprache beim Konvertieren von OCR zu speichern. (Vollendet)\n- Die Berechnungslogik der Schriftbreite wurde geändert."
+    "devnote": "7.6.0 (2023 Okt 20)\nEin Fehler, der Sicherung und Wiederherstellung verhinderte, wurde dringend festgelegt.\nWir haben eine Funktion hinzugefügt, um DB -Dateien zu exportieren, falls ein Problem in der DB auftritt."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.5.9 (2023 10 18)\n- ການປິດອັດຕະໂນມັດ (ຫນ້າທີ່ນອນ) ໄດ້ຖືກຍ້າຍໄປສູ່ຫນ້າທີ່ພິເສດ.\n- ຖ້າທ່ານເລືອກສະຫມັກສະຫມັກຢູ່ໃນເມນູປິດອັດຕະໂນມັດ, ມັນຈະຖືກນໍາໃຊ້ໂດຍອັດຕະໂນມັດເມື່ອຫຼີ້ນ TTS.\n- ດັດແກ້ເພື່ອບັນທຶກພາສາທີ່ເລືອກໃນເວລາທີ່ປ່ຽນ OCR. (ສໍາເລັດແລ້ວ)\n- ເຫດຜົນການຄິດໄລ່ແບບ Font Width ໄດ້ຖືກດັດແກ້ແລ້ວ."
+    "devnote": "7.6.0 (2023 ວັນທີ 20 ເດືອນຕຸລາ)\nຂໍ້ຜິດພາດທີ່ປ້ອງກັນການສໍາຮອງຂໍ້ມູນແລະການຟື້ນຟູໄດ້ຖືກແກ້ໄຂຢ່າງຮີບດ່ວນ.\nພວກເຮົາໄດ້ເພີ່ມຫນ້າທີ່ໃນການສົ່ງອອກເອກະສານ DB ໃນກໍລະນີທີ່ມີປັນຫາທີ່ເກີດຂື້ນໃນ DB."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.5.9 (2023 10 18)\n- Automātiskā izslēgšana (miega funkcija) ir pārvietota uz īpašām funkcijām.\n- Ja atlasāt vienmēr piesakieties automātiskā izslēgšanas izvēlnē, tas vienmēr tiks automātiski pielietots, spēlējot TTS.\n- modificēts, lai saglabātu atlasīto valodu, pārveidojot OCR. (Pabeigts)\n- Fonta platuma aprēķina loģika ir modificēta."
+    "devnote": "7.6.0 (2023. gada 20. oktobris)\nSteidzami tika novērota kļūda, kas novērsa dublēšanu un atkopšanu.\nMēs esam pievienojuši funkciju DB failu eksportēšanai, ja DB rodas problēma."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.5.9 (2023 10 18)\n- Автоматическое отключение (функция сна) было перенесено на специальные функции.\n- Если вы выбираете всегда применить в меню автоматического выключения, он всегда будет автоматически применяться при воспроизведении TTS.\n- Модифицировано для сохранения выбранного языка при преобразовании OCR. (Завершенный)\n- Логика расчета ширины шрифта была изменена."
+    "devnote": "7.6.0 (2023 г. 20 октября)\nОшибка, которая предотвратила резервную копию и восстановление срочно исправлена.\nМы добавили функцию для экспорта файлов DB в случае возникновения проблемы в БД."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.5.9 (2023 10 18)\n- Oprirea automată (funcția de somn) a fost mutată la funcții speciale.\n- Dacă selectați Aplicați întotdeauna în meniul de oprire automată, acesta va fi întotdeauna aplicat automat atunci când redați TTS.\n- Modificat pentru a salva limba selectată la convertirea OCR. (Efectuat)\n- Logica de calcul a lățimii fontului a fost modificată."
+    "devnote": "7.6.0 (2023 20 oct.)\nO eroare care a împiedicat backup -ul și recuperarea a fost remediată urgent.\nAm adăugat o funcție pentru a exporta fișiere DB în cazul în care apare o problemă în DB."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.5.9 (2023 10 18)\n- Automatinis išjungimas (miego funkcija) buvo perkelta į specialias funkcijas.\n- Jei pasirinksite visada pritaikyti automatinio išjungimo meniu, jis visada bus automatiškai pritaikytas grojant TTS.\n- modifikuotas, kad išsaugotumėte pasirinktą kalbą konvertuojant OCR. (Baigta)\n- Šrifto pločio skaičiavimo logika buvo pakeista."
+    "devnote": "7.6.0 (2023 m. Spalio 20 d.)\nKlaida, kuri užkirto kelią atsarginėms kopijoms ir atkūrimui, buvo skubiai ištaisyta.\nMes pridėjome funkciją eksportuoti DB failus, jei problema kyla DB."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.5.9 (2023 10 18)\n- ऑटो शटडाउन (स्लीप फंक्शन) विशेष फंक्शन्समध्ये हलविले गेले आहे.\n- आपण नेहमी ऑटो शटडाउन मेनूमध्ये अर्ज केल्याचे निवडल्यास टीटीएस खेळताना ते नेहमीच स्वयंचलितपणे लागू केले जाईल.\n- ओसीआर रूपांतरित करताना निवडलेली भाषा जतन करण्यासाठी सुधारित. (पूर्ण)\n- फॉन्ट रुंदी गणना तर्कशास्त्र सुधारित केले गेले आहे."
+    "devnote": "7.6.0 (2023 ऑक्टोबर 20)\nबॅकअप आणि पुनर्प्राप्तीला प्रतिबंधित करणारी त्रुटी तातडीने निश्चित केली गेली.\nडीबीमध्ये समस्या उद्भवल्यास आम्ही डीबी फायली निर्यात करण्यासाठी एक कार्य जोडले आहे."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.5.9 (2023 10 18)\n- Автоматското исклучување (функција за спиење) е преместена во специјални функции.\n- Ако изберете секогаш во менито Auto Extown, секогаш ќе се применува автоматски кога играте TTS.\n- Изменето за да го зачувате избраниот јазик при конвертирање на OCR. (Завршено)\n- Логиката на пресметка на ширина на фонтот е изменета."
+    "devnote": "7.6.0 (2023 октомври 20)\nГрешка што спречи резервна копија и закрепнување беше итно фиксирана.\nДодадовме функција за извоз на DB -датотеки во случај да се појави проблем во DB."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.5.9 (2023 10 18)\n- ഓട്ടോ ഷട്ട്ഡൗൺ (സ്ലീപ്പ് ഫംഗ്ഷൻ) പ്രത്യേക പ്രവർത്തനങ്ങളിലേക്ക് നീക്കി.\n- നിങ്ങൾ എല്ലായ്പ്പോഴും ഓൺ ഓട്ടോ ഷട്ട്ഡ on ിത്ത മെനുവിൽ അപേക്ഷിക്കുകയാണെങ്കിൽ, ടിടിഎസ് കളിക്കുമ്പോൾ ഇത് എല്ലായ്പ്പോഴും സ്വയമേവ പ്രയോഗിക്കും.\n- ഒസിആർ പരിവർത്തനം ചെയ്യുമ്പോൾ തിരഞ്ഞെടുത്ത ഭാഷ സംരക്ഷിക്കുന്നതിന് പരിഷ്ക്കരിച്ചു. (പൂർത്തിയായി)\n- ഫോണ്ട് വീതിയുള്ള കണക്കുകൂട്ടൽ യുക്തി പരിഷ്ക്കരിച്ചു."
+    "devnote": "7.6.0 (2023 ഒക്ടോബർ 20)\nബാക്കപ്പും വീണ്ടെടുക്കലും തടഞ്ഞ ഒരു പിശക് അടിയന്തിരമായി പരിഹരിച്ചു.\nഡിബിയിൽ ഒരു പ്രശ്നം സംഭവിച്ചാൽ ഡിബി ഫയലുകൾ കയറ്റുമതി ചെയ്യുന്നതിന് ഞങ്ങൾ ഒരു ഫംഗ്ഷൻ ചേർത്തു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.5.9 (2023 10 18)\n- Penutupan auto (fungsi tidur) telah dipindahkan ke fungsi khas.\n- Jika anda memilih sentiasa memohon dalam menu Shutdown Auto, ia akan sentiasa digunakan secara automatik semasa bermain TTS.\n- diubahsuai untuk menyelamatkan bahasa yang dipilih apabila menukar OCR. (Selesai)\n- Logik pengiraan lebar fon telah diubah suai."
+    "devnote": "7.6.0 (2023 Okt 20)\nKesalahan yang menghalang sandaran dan pemulihan telah ditetapkan dengan segera.\nKami telah menambah fungsi untuk mengeksport fail DB sekiranya masalah berlaku di DB."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.5.8.8 (2023 10 18)\n- Автоматаар унтрах (унтах функц) тусгай чиг үүрэгт шилжсэн.\n- Хэрэв та автоматаар унтрах цэсийг үргэлжлүүлэхийг сонгосон бол TTS тоглоход автоматаар автоматаар хэрэглэгдэх болно.\n- OCR хөрвүүлэх үед сонгосон хэлийг хадгалахын тулд өөрчлөгдсөн. (Дууссан)\n- ҮНЭГҮЙ ЗӨВЛӨГӨӨ ЗӨВЛӨГӨӨ ЗӨВЛӨГӨӨ ЗӨВЛӨГӨӨ."
+    "devnote": "7.6.0 (2023 оны 10-р сарын 20)\nНөөцлөлт, сэргээхээс урьдчилан сэргийлэх алдаа яаралтай байсан.\nБид DB файлуудыг экспортын функцийг экспортлохын тулд PASCE-г экспортлох."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.5.9 (2023 10 18)\n- Auto itzaltzea (loaren funtzioa) funtzio berezietara eraman da.\n- Beti aplikatzen baduzu automatikoki itzali menuan, beti automatikoki aplikatuko da TTS erreproduzitzerakoan.\n- Aukeratutako hizkuntza OCR bihurtzerakoan gordetzeko aldatu da. (Osatu)\n- Letra-zabaleraren kalkuluen logika aldatu da."
+    "devnote": "7.6.0 (2023 urriaren 20a)\nBabeskopia eta susperraldia saihestu zituen errorea premiazkoa izan zen.\nDB fitxategiak esportatzeko funtzioa gehitu dugu DBn arazoren bat gertatzen bada."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7223 10 18)\n- အလိုအလျောက်ပိတ်ခြင်း (Sleep Function) ကိုအထူးလုပ်ဆောင်ချက်များသို့ပြောင်းရွှေ့ခဲ့သည်။\n- အကယ်. သင်အမြဲတမ်းရွေးချယ်ပါကအော်တိုပိတ်မီနူးတွင်အမြဲတမ်းလျှောက်ထားပါက TTS ကစားသောအခါအမြဲတမ်းအလိုအလျောက်လျှောက်ထားလိမ့်မည်။\n- OCR ပြောင်းလဲသည့်အခါရွေးချယ်ထားသောဘာသာစကားကိုသိမ်းရန်ပြင်ဆင်ထားသော။ (ပြီးစီးခဲ့သည်)\n- Font Width တွက်ချက်မှုဆိုင်ရာယုတ္တိဗေဒကိုပြုပြင်ထားသည်။"
+    "devnote": "722.0 (2023 အောက်တိုဘာ 20)\nအရန်ကူးခြင်းနှင့်ပြန်လည်နာလန်ထူမှုကိုတားဆီးသောအမှားတစ်ခုကိုအရေးတကြီးပြင်ဆင်ထားသည်။\nDB ဖိုင်တွင်ပြ a နာတစ်ခုဖြစ်သည့်ကိစ္စတွင် DB ဖိုင်များကိုတင်ပို့ရန် function တစ်ခုကိုကျွန်ုပ်တို့ထည့်သွင်းထားပါသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.5.9 (2023 10 18)\n- Tắt máy tự động (chức năng ngủ) đã được chuyển sang các chức năng đặc biệt.\n- Nếu bạn chọn luôn áp dụng trong menu tắt tự động, nó sẽ luôn được tự động áp dụng khi chơi TTS.\n- Sửa đổi để lưu ngôn ngữ đã chọn khi chuyển đổi OCR. (Hoàn thành)\n- Logic tính toán chiều rộng phông chữ đã được sửa đổi."
+    "devnote": "7.6.0 (2023 ngày 20 tháng 10)\nMột lỗi ngăn chặn sao lưu và phục hồi đã được sửa chữa khẩn cấp.\nChúng tôi đã thêm một chức năng để xuất các tệp DB trong trường hợp vấn đề xảy ra trong DB."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.5.9 (2023 10 18)\n- Аўтаматычнае адключэнне (функцыя сну) быў перанесены на адмысловыя функцыі.\n.\n- Мадыфікавана, каб захаваць выбраную мову пры пераўтварэнні OCR. (Завершаны)\n- Логіка вылічэння шырыні шрыфта была зменена."
+    "devnote": "7.6.0 (2023 кастрычніка)\nПамылка, якая прадухіліла рэзервовую копію і аднаўленне, была тэрмінова зафіксавана.\nМы дадалі функцыю для экспарту файлаў БД у выпадку, калі праблема ўзнікае ў БД."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.5.9 (2023 10 18)\n- অটো শাটডাউন (স্লিপ ফাংশন) বিশেষ ফাংশনে সরানো হয়েছে।\n- আপনি যদি সর্বদা অটো শাটডাউন মেনুতে আবেদন করেন তবে টিটিএস খেলার সময় এটি সর্বদা স্বয়ংক্রিয়ভাবে প্রয়োগ করা হবে।\n- ওসিআর রূপান্তর করার সময় নির্বাচিত ভাষা সংরক্ষণ করতে পরিবর্তিত। (সম্পন্ন)\n- ফন্ট প্রস্থ গণনা যুক্তি পরিবর্তন করা হয়েছে।"
+    "devnote": "7.6.0 (2023 অক্টোবর 20)\nব্যাকআপ এবং পুনরুদ্ধার প্রতিরোধকারী একটি ত্রুটি জরুরিভাবে স্থির করা হয়েছিল।\nডিবিতে সমস্যা দেখা দিলে আমরা ডিবি ফাইল রফতানি করতে একটি ফাংশন যুক্ত করেছি।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.5.9 (2023 10 18)\n- Автоматичното изключване (функция за сън) е преместено на специални функции.\n- Ако изберете винаги прилагайте в менюто за автоматично изключване, то винаги ще се прилага автоматично при игра на TTS.\n- Модифициран за запазване на избрания език при конвертиране на OCR. (Завършено)\n- Логиката на изчисляване на ширината на шрифта е модифицирана."
+    "devnote": "7.6.0 (2023 октомври 20)\nГрешка, която предотврати резервното копие и възстановяването, беше спешно отстранена.\nДобавихме функция за експортиране на DB файлове в случай, че в DB възникне проблем."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.5.9 (2023 10 18)\n- Аутоматско искључивање (функција спавања) премештена је у посебне функције.\n- Ако изаберете Увек се пријавите у мени аутоматског искључивања, он ће се увек аутоматски применити приликом репродукције ТТС-а.\n- Модификовано да сачува изабрани језик приликом претварања ОЦР-а. (Завршено)\n- Логика израчуна ширине фонта је модификована."
+    "devnote": "7.6.0 (2023. 20. октобра)\nГрешка која је спречена сигурносна копија и опоравак хитно фиксирана.\nДодали смо функцију за извоз ДБ датотека у случају да се проблем појави у ДБ-у."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.5.9 (2023 10 18)\n- Kuzima kwa kiotomatiki (kazi ya kulala) imehamishwa kwa kazi maalum.\n- Ikiwa utachagua kutumika kila wakati kwenye menyu ya kuzima kiotomatiki, itatumika kiotomatiki wakati wa kucheza TTS.\n- Iliyorekebishwa kuokoa lugha iliyochaguliwa wakati wa kubadilisha OCR. (Imekamilika)\n- Mantiki ya hesabu ya upana wa fonti imebadilishwa."
+    "devnote": "7.6.0 (2023 Oct 20)\nKosa ambalo lilizuia chelezo na ahueni lilirekebishwa haraka.\nTumeongeza kazi ya kusafirisha faili za DB ikiwa shida itatokea katika DB."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.5.9 (2023 10 18)\n- Auto -avstängning (sömnfunktion) har flyttats till specialfunktioner.\n- Om du väljer ALLTID ANVÄNDNING I AUTO STUTDOWN -menyn kommer den alltid att tillämpas automatiskt när du spelar TTS.\n- modifierad för att rädda det valda språket när du konverterar OCR. (Avslutad)\n- Teckensnittets beräkningslogik har modifierats."
+    "devnote": "7.6.0 (2023 20 oktober)\nEtt fel som förhindrade säkerhetskopiering och återhämtning fixades brådskande.\nVi har lagt till en funktion för att exportera DB -filer om ett problem uppstår i DB."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.5.9 (2023 10 18)\n- El apagado automático (función de sueño) se ha trasladado a funciones especiales.\n- Si selecciona siempre aplicar en el menú de apagado automático, siempre se aplicará automáticamente al jugar TTS.\n- Modificado para guardar el idioma seleccionado al convertir OCR. (Terminado)\n- La lógica de cálculo de ancho de fuente ha sido modificada."
+    "devnote": "7.6.0 (2023 20 de octubre)\nSe solucionó urgentemente un error que evitó la copia de seguridad y la recuperación.\nHemos agregado una función para exportar archivos DB en caso de que ocurra un problema en el DB."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.5.9 (2023 10 18)\n- Automatické vypnutie (funkcia spánku) bolo presunuté do špeciálnych funkcií.\n- Ak vyberiete vždy v ponuke automatického vypnutia, vždy sa automaticky použije pri prehrávaní TTS.\n- Upravené tak, aby uložili vybraný jazyk pri konverzii OCR. (Dokončené)\n- Logika výpočtu šírky písma bola upravená."
+    "devnote": "7,6,0 (2023 október 20)\nChyba, ktorá zabránila zálohovaniu a zotaveniu, bola naliehavo opravená.\nPridali sme funkciu na export súborov DB v prípade, že sa problém vyskytne v DB."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.5.9 (2023 10 18)\n- Samodejno zaustavitev (funkcija spanja) je bila premaknjena na posebne funkcije.\n- Če izberete, vedno nanesite v meniju za samodejno zaustavitev, se pri predvajanju TTS vedno samodejno uporablja.\n- Spremenjeno tako, da shranite izbrani jezik pri pretvorbi OCR. (Dokončano)\n- Logika izračuna širine pisave je bila spremenjena."
+    "devnote": "7.6.0 (2023 20. oktober)\nNapaka, ki je preprečila varnostno kopijo in obnovitev, je bila nujno določena.\nDodali smo funkcijo za izvoz datotek DB, če se v DB pojavi težava."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.5.9 (2023 10 18)\n- ස්වයංක්රීය වසා දැමීම (නින්ද ශ්රිතය) විශේෂ කාර්යයන් සඳහා ගෙන ගොස් ඇත.\n- ඔබ තෝරා ගන්නේ නම් ඔබ සැමවිටම ස්වයංක්රීය වසා දැමීමේ මෙනුවේ අයදුම් කරන්න, එය සෑම විටම ස්වයංක්රීයව යෙදී ඇති විට ස්වයංක්රීයව අදාළ වේ.\n- OCR පරිවර්තනය කිරීමේදී තෝරාගත් භාෂාව සුරැකීමට වෙනස් කරන ලදි. (සම්පුර්ණ කරන ලදි)\n- අකුරු පළල ගණනය කිරීමේ තර්කනය වෙනස් කර ඇත."
+    "devnote": "7.6.0 (2023 ඔක්තෝබර් 20)\nඋපස්ථය වළක්වා ගැනීම සහ ප්රතිසාධනය වැළැක්වීමේ දෝෂයක් හදිසියේම සවි කර ඇත.\nDB හි ගැටළුවක් ඇති වුවහොත් අප DB ගොනු අපනයනය කිරීමේ කාර්යයක් අපි එකතු කර ඇත්තෙමු."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.5.9 (2023 10 18)\n- تم نقل إغلاق السيارات (وظيفة النوم) إلى وظائف خاصة.\n- إذا قمت بتحديد تطبيق دائمًا في قائمة إيقاف التشغيل التلقائي ، فسيتم تطبيقه دائمًا تلقائيًا عند تشغيل TTS.\n- تم تعديلها لحفظ اللغة المحددة عند تحويل OCR. (مكتمل)\n- تم تعديل منطق حساب عرض الخط."
+    "devnote": "7.6.0 (2023 أكتوبر 20)\nتم إصلاح الخطأ الذي منع النسخ الاحتياطي والاسترداد بشكل عاجل.\nلقد أضفنا وظيفة لتصدير ملفات DB في حالة حدوث مشكلة في DB."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.5.9 (2023 10 18)\n- Ավտոմատ անջատումը (քնի գործառույթը) տեղափոխվել է հատուկ գործառույթներ:\n- Եթե ընտրեք միշտ կիրառեք Auto Shutdown Menu անկում, այն միշտ էլ ավտոմատ կերպով կկիրառվի TTE- ի խաղալիս:\n- OCR- ի վերափոխման ժամանակ ընտրված լեզուն փրկելու համար փոփոխված է: (Ավարտված)\n- Տառատեսակի լայնության հաշվարկման տրամաբանությունը փոփոխվել է:"
+    "devnote": "7.6.0 (2023 հոկտեմբերի 20)\nՍխալը, որը կանխում էր կրկնօրինակը եւ վերականգնումը, շտապ շտկվեց:\nՄենք ավելացրել ենք DB ֆայլեր արտահանելու գործառույթ, եթե դԲ-ում խնդիր լինի:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.5.9 (2023 10 18)\n- Sjálfvirk lokun (svefnaðgerð) hefur verið færð yfir í sérstakar aðgerðir.\n- Ef þú velur á alltaf við í valmyndinni Auto Shutdown verður það alltaf beitt sjálfkrafa þegar þú spilar TTS.\n- Breytt til að vista valið tungumál þegar umbreytir OCR. (Lokið)\n- Rök um útreikning á leturbreiddum hefur verið breytt."
+    "devnote": "7.6.0 (2023 20. október)\nVilla sem kom í veg fyrir afrit og bata var brýn lög.\nVið höfum bætt við aðgerð til að flytja út DB skrár ef vandamál kemur upp í DB."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.5.9 (2023 10 18)\n- Avtomatik bağlantı (yuxu funksiyası) xüsusi funksiyalara köçürüldü.\n- Avtomatik bağlama menyusuna həmişə müraciət etsəniz, TTS oynayarkən həmişə avtomatik tətbiq olunacaq.\n- OCR-i çevirərkən seçilmiş dil saxlamaq üçün dəyişdirilmişdir. (Tamamlandı)\n- Şrift eni hesablama məntiqi dəyişdirildi."
+    "devnote": "7.6.0 (2023 oktyabr 20)\nYedekləmə və bərpa maneəsinin qarşısını alan bir səhv təcili olaraq düzəldildi.\nBir problem DB-də baş verdikdə DB sənədlərini ixrac etmək üçün bir funksiya əlavə etdik."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.5.9 (2023 10 18)\n- Auto Shutdown (slaapfunksie) is na spesiale funksies verskuif.\n- As u altyd kies wat altyd in die Auto Shutdown -menu aansoek doen, sal dit altyd outomaties toegepas word as u TTS speel.\n- Gewysig om die geselekteerde taal te stoor by die omskakeling van OCR. (Voltooi)\n- Die letterbreedte -berekeninglogika is gewysig."
+    "devnote": "7.6.0 (2023 20 Oktober)\n'N Fout wat rugsteun en herstel verhoed het, is dringend reggestel.\nOns het 'n funksie bygevoeg om DB -lêers uit te voer indien 'n probleem in die DB voorkom."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.5.9 (2023 10 18)\n- Mbyllja automatike (funksioni i gjumit) është zhvendosur në funksione të veçanta.\n- Nëse zgjidhni gjithmonë aplikoni në menunë e mbylljes automatike, gjithmonë do të aplikohet automatikisht kur luani TTS.\n- Modifikuar për të ruajtur gjuhën e zgjedhur kur konvertoni OCR. (Përfunduar)\n- Logjika e llogaritjes së gjerësisë së shkronjave është modifikuar."
+    "devnote": "7.6.0 (2023 20 tetor)\nNjë gabim që parandaloi rezervimin dhe rikuperimin ishte fiksuar urgjentisht.\nNe kemi shtuar një funksion për të eksportuar skedarë DB në rast se shfaqet një problem në DB."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.5.9 (2023 10 18)\n- ራስ-ሰር መዘጋት (የእንቅልፍ ተግባር) ወደ ልዩ ተግባራት ተዛወረ.\n- በመምረጥ በራስ-ሰር መዘጋት ምናሌ ውስጥ የሚተገበሩ ከሆነ, መቼቶች ሞቃታማ በሚጫወቱበት ጊዜ በራስ-ሰር ይተገበራል.\n- OCR በሚቀይሩበት ጊዜ የተመረጠውን ቋንቋ ለማስቀመጥ ተሻሽሏል. (ተጠናቅቋል)\n- የቅርጸ-ቁምፊ ስፋቱ ስሴቱ ሎጂክ ተስተካክሏል."
+    "devnote": "7.6.0 (2023 (2023 ዓ.ም. 20)\nምትኬ እና ማገገም በአፋጣኝ የተስተካከለ ስህተት.\nDB ፋይሎችን ወደ ውጭ ለመላክ አንድ ተግባር አክለናል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.5.9 (2023 10 18)\n- Automaatne väljalülitamine (unefunktsioon) on viidud spetsiaalsetesse funktsioonidesse.\n- Kui valite alati automaatne väljalülitusmenüüs, rakendatakse seda TTS -i mängimisel alati automaatselt.\n- Muudetud valitud keele salvestamiseks OCR teisendamisel. (Valmis)\n- fondi laiuse arvutusloogika on muudetud."
+    "devnote": "7.6.0 (2023 20. oktoober)\nViga, mis takistas varundamist ja taastumist, oli kiiresti fikseeritud.\nOleme lisanud funktsiooni DB -failide eksportimiseks juhuks, kui probleem ilmneb DB -s."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.5.9 (2023 10 18)\n- آٹو شٹ ڈاؤن (نیند کی تقریب) کو خصوصی افعال میں منتقل کردیا گیا ہے۔\n- اگر آپ ہمیشہ آٹو شٹ ڈاؤن مینو میں درخواست دیں تو ، ٹی ٹی ایس کھیلتے وقت یہ ہمیشہ خود بخود لاگو ہوجائے گا۔\n- OCR کو تبدیل کرتے وقت منتخب زبان کو بچانے کے لئے ترمیم شدہ۔ (مکمل)\n- فونٹ کی چوڑائی کے حساب کتاب منطق میں ترمیم کی گئی ہے۔"
+    "devnote": "7.6.0 (2023 اکتوبر 20)\nایک ایسی غلطی جس نے بیک اپ اور بازیابی کو روکا۔\nڈی بی میں کوئی مسئلہ پیدا ہونے کی صورت میں ہم نے ڈی بی فائلوں کو برآمد کرنے کے لئے ایک فنکشن شامل کیا ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.5.9 (2023 10 18)\n- Автоматичне відключення (функція сну) було перенесено на спеціальні функції.\n- Якщо ви вибрали завжди застосовуватись у меню автоматичного відключення, воно завжди буде автоматично застосовуватися під час відтворення ТТ.\n- Змінено для збереження вибраної мови при перетворенні OCR. (Завершено)\n- Логіка обчислення ширини шрифту була змінена."
+    "devnote": "7.6.0 (2023 жовтня)\nПомилка, яка запобігла резервному копію та відновлення, була терміново виправлена.\nМи додали функцію для експорту файлів БД у випадку, якщо проблема виникає в БД."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.5.9 (2023 10 18)\n- L'arresto automatico (funzione del sonno) è stato spostato in funzioni speciali.\n- Se si seleziona APPLICARE SEMPRE nel menu Auto Shutdown, verrà sempre applicato automaticamente durante la riproduzione di TTS.\n- Modificato per salvare il linguaggio selezionato durante la conversione di OCR. (Completato)\n- La logica di calcolo della larghezza del carattere è stata modificata."
+    "devnote": "7.6.0 (2023 ottobre 20)\nUn errore che ha impedito il backup e il recupero è stato risolto urgentemente.\nAbbiamo aggiunto una funzione per esportare file DB nel caso in cui si verifichi un problema nel DB."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.5.9 (2023 10 18)\n- Shutdown otomatis (fungsi tidur) telah dipindahkan ke fungsi khusus.\n- Jika Anda memilih selalu berlaku di menu shutdown otomatis, itu akan selalu diterapkan secara otomatis saat bermain TTS.\n- dimodifikasi untuk menyimpan bahasa yang dipilih saat mengonversi OCR. (Lengkap)\n- Logika perhitungan lebar font telah dimodifikasi."
+    "devnote": "7.6.0 (2023 20 Okt)\nKesalahan yang mencegah cadangan dan pemulihan sangat diperbaiki.\nKami telah menambahkan fungsi untuk mengekspor file DB jika terjadi masalah di DB."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.5.8（2023 10 18）\n - 自動シャットダウン（睡眠機能）は特別な機能に移動されました。\n - 常に自動シャットダウンメニューで選択する場合、TTSを再生するときは常に自動的に適用されます。\n-OCRを変換するときに選択した言語を保存するように変更されました。 （完了）\n - フォント幅計算ロジックが変更されました。"
+    "devnote": "7.6.0（2023 10月20日）\nバックアップと回復を防ぐエラーが緊急に修正されました。\nDBで問題が発生した場合に備えて、DBファイルをエクスポートする機能を追加しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.5.9 (2023 10 18)\n- ავტო გამორთვა (ძილის ფუნქცია) გადავიდა სპეციალურ ფუნქციებზე.\n- თუ თქვენ ყოველთვის შეარჩიეთ Auto Shutdown მენიუში, ის ყოველთვის ავტომატურად გამოიყენებს TTS– ს თამაშისას.\n- შეცვლილია არჩეული ენის შესანახად OCR- ის გარდაქმნისას. (დასრულებულია)\n- შეიცვალა შრიფტის სიგანის გაანგარიშების ლოგიკა."
+    "devnote": "7.6.0 (2023 წლის 20 ოქტომბერი)\nშეცდომა, რომელიც ხელს უშლიდა სარეზერვო და გამოჯანმრთელებას, სასწრაფოდ დაფიქსირდა.\nჩვენ დავამატეთ ფუნქცია DB ფაილების ექსპორტის შემთხვევაში, თუ პრობლემა მოხდა DB- ში."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.5.9 (2023 10 18)\n- Ukuvalwa kwe-Auto Shutdown (umsebenzi wokulala) kuhanjiswe kwimisebenzi ekhethekile.\n- Uma ukhetha usebenza njalo kumenyu yokuvala okuzenzakalelayo, izohlala isetshenziswa ngokuzenzakalelayo lapho kudlala ama-TTS.\n- Kuguqulwe ukuze ugcine ulimi olukhethiwe lapho uguqula i-OCR. (Kuqediwe)\n- I-Font Worting Calculation Logic iguquliwe."
+    "devnote": "7.6.0 (2023 Oct 20)\nIphutha elavimbela isipele nokululama lalilungiswe ngokushesha.\nSingeze umsebenzi wokuthumela amafayela we-DB uma kwenzeka inkinga yenzeka ku-DB."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.5.8（2023 10 18）\n - 自动关闭（睡眠功能）已移至特殊功能。\n - 如果选择始终在“自动关闭菜单”中应用，则在播放TTS时始终将自动应用。\n - 经过修改以在转换OCR时保存所选语言。 （完全的）\n - 字体宽度计算逻辑已修改。"
+    "devnote": "7.6.0（2023年10月20日）\n防止备份和恢复的错误是迫切固定的。\n我们添加了一个函数来导出数据库文件，以防数据库中发生问题。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.5.8（2023 10 18）\n - 自動關閉（睡眠功能）已移至特殊功能。\n - 如果選擇始終在“自動關閉菜單”中應用，則在播放TTS時始終將自動應用。\n - 經過修改以在轉換OCR時保存所選語言。 （完全的）\n - 字體寬度計算邏輯已修改。"
+    "devnote": "7.6.0（2023年10月20日）\n防止備份和恢復的錯誤是迫切固定的。\n我們添加了一個函數來導出數據庫文件，以防數據庫中發生問題。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.5.8（2023 10 18）\n - 自動關閉（睡眠功能）已移至特殊功能。\n - 如果選擇始終在“自動關閉菜單”中應用，則在播放TTS時始終將自動應用。\n - 經過修改以在轉換OCR時保存所選語言。 （完全的）\n - 字體寬度計算邏輯已修改。"
+    "devnote": "7.6.0（2023年10月20日）\n防止備份和恢復的錯誤是迫切固定的。\n我們添加了一個函數來導出數據庫文件，以防數據庫中發生問題。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.5.9 (2023 10 18)\n- Automatické vypnutí (funkce spánku) byla přesunuta do speciálních funkcí.\n- Pokud vyberete vždy aplikovat v nabídce Auto Shutdown, bude vždy automaticky aplikováno při přehrávání TTS.\n- Při převodu OCR upraveno pro uložení vybraného jazyka. (Dokončeno)\n- Logika výpočtu šířky písma byla upravena."
+    "devnote": "7.6.0 (2023 20. října)\nChyba, která zabránila zálohování a zotavení, byla naléhavě stanovena.\nPřidali jsme funkci k exportu souborů DB v případě, že se v DB objeví problém."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.5.9 (2023 10 18)\n- Автоматты түрде өшіру (ұйқы функциясы) арнайы функцияларға ауыстырылды.\n- Егер сіз әрқашан автоматты түрде өшіру мәзірінде Әрқашан қолдануды таңдасаңыз, ол TTS ойнату кезінде әрқашан автоматты түрде қолданылады.\n- OCR түрлендіру кезінде таңдалған тілді сақтау үшін өзгертілген. (Аяқталған)\n- Қаріп енін есептеу логикасы өзгертілді."
+    "devnote": "7.6.0 (2023 қазан 2023)\nСақтық көшірме жасау мен қалпына келтірудің алдын алатын қате шұғыл түрде болды.\nБіз DB файлдарын DB файлдарын экспорттау үшін функцияларды дБ-де қарастырдық."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.5.9 (2023 10 18)\n- S'ha traslladat a l'apagada automàtica (funció de son) a funcions especials.\n- Si seleccioneu sempre apliqueu -vos al menú AUTO AUTDOD, sempre s’aplicarà automàticament quan es reprodueixi TTS.\n- Modificat per desar l'idioma seleccionat en convertir OCR. (Completat)\n- S'ha modificat la lògica de càlcul d'amplada de la lletra."
+    "devnote": "7.6.0 (2023 20 d'octubre)\nEs va solucionar urgentment un error que va evitar la còpia de seguretat i la recuperació.\nHem afegit una funció per exportar fitxers DB en cas que es produeixi un problema a la DB."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.5.9 (2023 10 18)\n- ಸ್ವಯಂ ಸ್ಥಗಿತಗೊಳಿಸುವಿಕೆ (ನಿದ್ರೆಯ ಕಾರ್ಯ) ವಿಶೇಷ ಕಾರ್ಯಗಳಿಗೆ ಸರಿಸಲಾಗಿದೆ.\n- ಸ್ವಯಂ ಸ್ಥಗಿತಗೊಳಿಸುವ ಮೆನುವಿನಲ್ಲಿ ನೀವು ಯಾವಾಗಲೂ ಅರ್ಜಿ ಸಲ್ಲಿಸಿದರೆ, ಟಿಟಿಎಸ್ ಆಡುವಾಗ ಅದನ್ನು ಯಾವಾಗಲೂ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅನ್ವಯಿಸಲಾಗುತ್ತದೆ.\n- ಒಸಿಆರ್ ಅನ್ನು ಪರಿವರ್ತಿಸುವಾಗ ಆಯ್ದ ಭಾಷೆಯನ್ನು ಉಳಿಸಲು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ. (ಪೂರ್ಣಗೊಂಡಿದೆ)\n- ಫಾಂಟ್ ಅಗಲ ಲೆಕ್ಕಾಚಾರದ ತರ್ಕವನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
+    "devnote": "7.6.0 (2023 ಅಕ್ಟೋಬರ್ 20)\nಬ್ಯಾಕಪ್ ಮತ್ತು ಚೇತರಿಕೆ ತಡೆಯುವ ದೋಷವನ್ನು ತುರ್ತಾಗಿ ನಿವಾರಿಸಲಾಗಿದೆ.\nಡಿಬಿಯಲ್ಲಿ ಸಮಸ್ಯೆ ಸಂಭವಿಸಿದಲ್ಲಿ ಡಿಬಿ ಫೈಲ್‌ಗಳನ್ನು ರಫ್ತು ಮಾಡಲು ನಾವು ಒಂದು ಕಾರ್ಯವನ್ನು ಸೇರಿಸಿದ್ದೇವೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.5.8 (2023. 10 18)\n- Automatsko isključivanje (funkcija spavanja) premješten je na posebne funkcije.\n- Ako odaberete uvijek prijavite se u izborniku Automatsko isključivanje, uvijek će se automatski primijeniti prilikom reprodukcije TTS -a.\n- Modificirano za spremanje odabranog jezika pri pretvaranju OCR -a. (Dovršeno)\n- Modificirana je logika proračuna širine fonta."
+    "devnote": "7.6.0 (2023. 20. listopada)\nPogreška koja je spriječila sigurnosnu kopiju i oporavak hitno je fiksirana.\nDodali smo funkciju za izvoz DB ​​datoteka u slučaju da se problem pojavi u DB -u."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.5.9 (2023 10 18)\n- ការបិទដោយស្វ័យប្រវត្តិ (មុខងារនៃការគេង) ត្រូវបានផ្លាស់ប្តូរទៅរកមុខងារពិសេស។\n- ប្រសិនបើអ្នកជ្រើសរើសអនុវត្តតែងតែដាក់ពាក្យនៅក្នុងមឺនុយបិទស្វ័យប្រវត្តិវានឹងត្រូវបានអនុវត្តដោយស្វ័យប្រវត្តិនៅពេលលេង TTS ។\n- កែប្រែដើម្បីរក្សាទុកភាសាដែលបានជ្រើសរើសនៅពេលបំលែងអូអូ។ (បានបញ្ចប់)\nតក្កវិជ្ជាគណនាទទេទទេត្រូវបានកែប្រែ។"
+    "devnote": "7.6.0 (2023 ខែតុលា 20)\nកំហុសដែលរារាំងការបម្រុងទុកនិងការជាសះស្បើយត្រូវបានជួសជុលជាបន្ទាន់។\nយើងបានបន្ថែមមុខងារមួយដើម្បីនាំចេញឯកសារ DB ក្នុងករណីដែលមានបញ្ហាកើតឡើងនៅក្នុង DB ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.5.5 (2023 10 18)\n- Авто өчүрүү (Уйку функциясы) атайын функцияларга которулган.\n- Эгерде сиз авто жабдуу менюсунан ар дайым колдонууну тандасаңыз, анда TTS ойноп жатканда, ал ар дайым автоматтык түрдө колдонулат.\n- OCR айландыруу учурунда тандалган тилди сактоо үчүн өзгөртүлгөн. (Аяктаган)\n- Ариптин туурасын эсептөө логиясы өзгөртүлдү."
+    "devnote": "7.6.0 (2023-октябрь)\nКамдык көчүрмөсүн жана калыбына келтирүүнү алдын алууга аргасыз кылган ката.\nDB файлдарын db файлдарын экспорттоо үчүн DB долбоорун экспорттоо үчүн бир функцияны коштук."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.5.9 (2023 10 18)\n- ஆட்டோ பணிநிறுத்தம் (தூக்க செயல்பாடு) சிறப்பு செயல்பாடுகளுக்கு நகர்த்தப்பட்டுள்ளது.\n- நீங்கள் எப்போதும் ஆட்டோ பணிநிறுத்தம் மெனுவில் விண்ணப்பிக்கவும் தேர்வுசெய்தால், TTS ஐ இயக்கும்போது அது எப்போதும் தானாகவே பயன்படுத்தப்படும்.\n- OCR ஐ மாற்றும்போது தேர்ந்தெடுக்கப்பட்ட மொழியைச் சேமிக்க மாற்றப்பட்டது. (நிறைவு)\n- எழுத்துரு அகல கணக்கீட்டு தர்க்கம் மாற்றியமைக்கப்பட்டுள்ளது."
+    "devnote": "7.6.0 (2023 அக் 20)\nகாப்புப்பிரதி மற்றும் மீட்பைத் தடுக்கும் பிழை அவசரமாக சரி செய்யப்பட்டது.\nடி.பியில் ஒரு சிக்கல் ஏற்பட்டால் டிபி கோப்புகளை ஏற்றுமதி செய்ய ஒரு செயல்பாட்டை சேர்த்துள்ளோம்."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.5.9 (2023 10 18)\n- การปิดอัตโนมัติ (ฟังก์ชั่นการนอนหลับ) ถูกย้ายไปยังฟังก์ชั่นพิเศษ\n- หากคุณเลือกใช้ในเมนูปิดอัตโนมัติเสมอมันจะถูกนำไปใช้โดยอัตโนมัติเมื่อเล่น TTS\n- แก้ไขเพื่อบันทึกภาษาที่เลือกเมื่อแปลง OCR (สมบูรณ์)\n- ตรรกะการคำนวณความกว้างของตัวอักษรได้รับการแก้ไขแล้ว"
+    "devnote": "7.6.0 (2023 ต.ค. 20)\nข้อผิดพลาดที่ป้องกันการสำรองข้อมูลและการกู้คืนได้รับการแก้ไขอย่างเร่งด่วน\nเราได้เพิ่มฟังก์ชั่นเพื่อส่งออกไฟล์ DB ในกรณีที่ปัญหาเกิดขึ้นใน DB"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.5.9 (2023 10 18)\n- Otomatik kapatma (uyku işlevi) özel işlevlere taşındı.\n- Her zaman otomatik kapatma menüsüne uyguladığınızı seçerseniz, TTS oynatılırken her zaman otomatik olarak uygulanır.\n- OCR'yi dönüştürürken seçilen dili kaydetmek için değiştirildi. (Tamamlanmış)\n- Yazı tipi genişliği hesaplama mantığı değiştirildi."
+    "devnote": "7.6.0 (2023 Ekim 20)\nYedeklemeyi ve iyileşmeyi önleyen bir hata acilen sabitlendi.\nDB'de bir sorun meydana gelmesi durumunda DB dosyalarını dışa aktarmak için bir işlev ekledik."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.5.9 (2023 10 18)\n- ఆటో షట్డౌన్ (స్లీప్ ఫంక్షన్) ప్రత్యేక ఫంక్షన్లకు తరలించబడింది.\n- మీరు ఎల్లప్పుడూ ఆటో షట్డౌన్ మెనులో దరఖాస్తు చేసుకోండి, TTS ఆడేటప్పుడు ఇది ఎల్లప్పుడూ స్వయంచాలకంగా వర్తించబడుతుంది.\n- OCR ను మార్చేటప్పుడు ఎంచుకున్న భాషను సేవ్ చేయడానికి సవరించబడింది. (పూర్తయింది)\n- ఫాంట్ వెడల్పు గణన తర్కం సవరించబడింది."
+    "devnote": "7.6.0 (2023 అక్టోబర్ 20)\nబ్యాకప్ మరియు రికవరీని నిరోధించే లోపం అత్యవసరంగా పరిష్కరించబడింది.\nDB లో సమస్య సంభవించినట్లయితే DB ఫైళ్ళను ఎగుమతి చేయడానికి మేము ఒక ఫంక్షన్‌ను జోడించాము."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.5.9 (2023 10 18)\n- ਆਟੋ ਸ਼ੱਟਡਾਉਨ (ਸਲੀਪ ਫੰਕਸ਼ਨ) ਨੂੰ ਵਿਸ਼ੇਸ਼ ਕਾਰਜਾਂ ਵਿੱਚ ਭੇਜਿਆ ਗਿਆ ਹੈ.\n- ਜੇ ਤੁਸੀਂ ਹਮੇਸ਼ਾਂ ਆਪ ਦੀ ਚੋਣ ਕਰਦੇ ਹੋ ਤਾਂ ਆਟੋ ਸ਼ਾਟਡਾ .ਨ ਮੀਨੂੰ ਵਿੱਚ, ਇਹ ਹਮੇਸ਼ਾਂ ਆਪਣੇ ਆਪ ਲਾਗੂ ਹੁੰਦਾ ਹੈ.\n- ਓਸੀਆਰ ਨੂੰ ਬਦਲਣ ਵੇਲੇ ਚੁਣੀ ਹੋਈ ਭਾਸ਼ਾ ਨੂੰ ਸੇਵ ਕਰਨ ਲਈ ਸੰਸ਼ੋਧਿਤ ਕੀਤਾ. (ਪੂਰਾ)\n- ਫੋਂਟ ਚੌੜਾਈ ਦੀ ਗਣਨਾ ਤਰਕ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ."
+    "devnote": "7.6.0 (2023 20 ਅਕਤੂਬਰ)\nਬੈਕਅਪ ਅਤੇ ਰਿਕਵਰੀ ਨੂੰ ਰੋਕਿਆ ਗਿਆ ਇੱਕ ਗਲਤੀ ਤੁਰੰਤ ਹੱਲ ਕੀਤੀ ਗਈ.\nਜੇ ਡੀ ਬੀ ਵਿੱਚ ਸਮੱਸਿਆ ਆਉਂਦੀ ਹੈ ਤਾਂ ਅਸੀਂ ਡੀ ਬੀ ਫਾਈਲਾਂ ਨੂੰ ਨਿਰਯਾਤ ਕਰਨ ਲਈ ਇੱਕ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਹੈ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.5.9 (2023 10 18)\n- خاموش کردن خودکار (عملکرد خواب) به عملکردهای ویژه منتقل شده است.\n- اگر همیشه در منوی خاموش کردن خودکار Apply Apply Apply را انتخاب کنید ، همیشه هنگام بازی TTS به طور خودکار اعمال می شود.\n- اصلاح شده برای ذخیره زبان انتخاب شده هنگام تبدیل OCR. (تکمیل شده)\n- منطق محاسبه عرض قلم اصلاح شده است."
+    "devnote": "7.6.0 (2023 اکتبر 20)\nخطایی که مانع از تهیه نسخه پشتیبان و بازیابی شد ، فوراً برطرف شد.\nدر صورت بروز مشکل در DB ، ما یک تابع برای صادرات پرونده های DB اضافه کرده ایم."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.5.9 (2023 10 18)\n- O desligamento automático (função do sono) foi transferido para funções especiais.\n- Se você selecionar sempre se aplicar no menu de desligamento automático, ele sempre será aplicado automaticamente ao reproduzir TTS.\n- Modificado para salvar o idioma selecionado ao converter OCR. (Concluído)\n- A lógica de cálculo da largura da fonte foi modificada."
+    "devnote": "7.6.0 (2023 20 de outubro)\nUm erro que impedia o backup e a recuperação foi urgentemente fixado.\nAdicionamos uma função para exportar arquivos DB, caso ocorra um problema no banco de dados."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.5.9 (2023 10 18)\n- automatyczne wyłączenie (funkcja snu) zostało przeniesione do funkcji specjalnych.\n- Jeśli wybierzesz zawsze stosuj w menu automatycznego zamykania, zawsze będzie ono automatycznie stosowane podczas gry TTS.\n- Zmodyfikowany, aby zapisać wybrany język podczas konwersji OCR. (Zakończony)\n- Logika obliczania szerokości czcionki została zmodyfikowana."
+    "devnote": "7.6.0 (2023 20 października)\nBłąd, który zapobiegał tworzeniu kopii zapasowej i odzyskiwania, został pilnie naprawiony.\nDodaliśmy funkcję do eksportu plików DB w przypadku wystąpienia problemu w DB."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.5.9 (2023 10 18)\n- L'arrêt automatique (fonction de sommeil) a été déplacé vers des fonctions spéciales.\n- Si vous sélectionnez toujours postuler dans le menu d'arrêt automatique, il sera toujours automatiquement appliqué lors de la lecture de TTS.\n- modifié pour enregistrer la langue sélectionnée lors de la conversion de l'OCR. (Complété)\n- La logique de calcul de la largeur de police a été modifiée."
+    "devnote": "7.6.0 (2023 20 octobre)\nUne erreur qui a empêché la sauvegarde et la récupération a été fixée de toute urgence.\nNous avons ajouté une fonction pour exporter des fichiers DB au cas où un problème se produira dans la base de données."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.5.9 (2023 10 18)\n- Automaattinen sammutus (unitoiminto) on siirretty erityistoimintoihin.\n- Jos valitset aina Automaattisen sammutusvalikossa, sitä käytetään aina automaattisesti TTS: n pelaamisessa.\n- Muokattu valittujen kielten tallentamiseksi muuntaessasi OCR: ää. (Valmis)\n- Kirjasimen leveyslaskentalogiikkaa on muokattu."
+    "devnote": "7.6.0 (2023 20. lokakuuta)\nVirhe, joka esti varmuuskopion ja palautumisen, kiinnitettiin kiireellisesti.\nOlemme lisänneet toiminnon DB -tiedostojen viemiseksi, jos DB: ssä tapahtuu ongelma."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.5.9 (2023 10 18)\n- Ang pag -shutdown ng auto (function ng pagtulog) ay inilipat sa mga espesyal na pag -andar.\n- Kung pipiliin mo ang laging nalalapat sa menu ng Auto Shutdown, palaging ito ay awtomatikong mailalapat kapag naglalaro ng TTS.\n- Binago upang i -save ang napiling wika kapag nagko -convert ng OCR. (Nakumpleto)\n- Ang lohika ng pagkalkula ng lapad ng font ay nabago."
+    "devnote": "7.6.0 (2023 Oktubre 20)\nAng isang error na pumigil sa pag -backup at pagbawi ay mapilit na naayos.\nNagdagdag kami ng isang function upang ma -export ang mga file ng DB kung sakaling ang isang problema ay nangyayari sa DB."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.5.9 (2023 10 18)\n- Az automatikus leállítás (alvásfunkció) speciális funkciókra helyezték el.\n- Ha a TTS lejátszásakor mindig automatikusan alkalmazza az Auto Shutdown menüben Alkalmazást.\n- Módosítva a kiválasztott nyelv mentése érdekében az OCR konvertálásakor. (Befejezve)\n- A betűtípus szélességének számítási logikája módosult."
+    "devnote": "7.6.0 (2023. október 20.)\nA biztonsági mentést és a helyreállítást megakadályozó hibát sürgősen javítottuk.\nHozzáadtunk egy függvényt a DB fájlok exportálásához, ha probléma merül fel a DB -ben."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.5.9 (2023 10 18)\n- כיבוי אוטומטי (פונקציית שינה) הועבר לפונקציות מיוחדות.\n- אם תבחר תמיד להגיש בקשה בתפריט כיבוי אוטומטי, הוא תמיד יוחל אוטומטית בעת משחק TTS.\n- שונה כדי לשמור את השפה שנבחרה בעת המרת OCR. (הושלם)\n- לוגיקת חישוב רוחב הגופן שונתה."
+    "devnote": "7.6.0 (2023 20 באוקטובר)\nשגיאה שמנעה גיבוי והתאוששות נקבעה בדחיפות.\nהוספנו פונקציה לייצוא קבצי DB למקרה שתתרחש בעיה ב- DB."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.5.9 (2023 10 18)\n- ऑटो शटडाउन (स्लीप फ़ंक्शन) को विशेष कार्यों में ले जाया गया है।\n- यदि आप ऑटो शटडाउन मेनू में हमेशा आवेदन करते हैं, तो टीटीएस खेलते समय यह हमेशा स्वचालित रूप से लागू हो जाएगा।\n- OCR को परिवर्तित करते समय चयनित भाषा को बचाने के लिए संशोधित। (पुरा होना)\n- फ़ॉन्ट चौड़ाई गणना तर्क को संशोधित किया गया है।"
+    "devnote": "7.6.0 (2023 अक्टूबर 20)\nएक त्रुटि जो बैकअप और रिकवरी को रोकती थी, तत्काल तय की गई थी।\nडीबी में समस्या होने की स्थिति में हमने DB फ़ाइलों को निर्यात करने के लिए एक फ़ंक्शन जोड़ा है।"
   }
 }
