@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.6.0 (2023 Oct 20)\nAn error that prevented backup and recovery was urgently fixed.\nWe have added a function to export DB files in case a problem occurs in the DB."
+    "devnote": "7.6.2 (2023 Oct 21)\n\n- Urgently fixed a bug where settings were reset.\n- The initialization logic in Information and Help has been modified to initialize the database table as well."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.6.0 (2023 10 20)\n백업 및 복구 가 안되는 오류를 긴급 수정 하였습니다. \nDB 에 문제가 발생하는 경우를 대비하여 DB 파일을 내보낼 수 있도록 기능을 추가 하였습니다."
+    "devnote": "7.6.2 (2023 10 21)\n\n- 설정이 리셋 되는 버그를 긴급 수정하였습니다. \n- 정보및 도움말에 초기화 로직을 수정하여 데이터베이스 테이블도 같이 초기화 하도록 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.6.0 (2023 20 de outubro)\nCorrixiuse urxentemente un erro que impediu a copia de seguridade e recuperación.\nEngadimos unha función para exportar ficheiros DB no caso de que se produza un problema no DB."
+    "devnote": "7.6.2 (2023 21 de outubro)\n\n- Corrixiu con urxencia un erro onde se restableceron a configuración.\n- A lóxica de inicialización da información e axuda foi modificada para inicializar tamén a táboa de bases de datos."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.6.0 (2023 Oct ક્ટો 20)\nબેકઅપ અને પુન recovery પ્રાપ્તિને અટકાવતી ભૂલ તાત્કાલિક નિશ્ચિત હતી.\nડીબીમાં કોઈ સમસ્યા થાય છે તો અમે ડીબી ફાઇલોની નિકાસ કરવા માટે એક ફંક્શન ઉમેર્યું છે."
+    "devnote": "7.6.2 (2023 Oct ક્ટો 21)\n\n- તાત્કાલિક ભૂલને ઠીક કરે છે જ્યાં સેટિંગ્સ ફરીથી સેટ કરવામાં આવી હતી.\n- માહિતી અને સહાયમાં પ્રારંભિક તર્ક ડેટાબેઝ કોષ્ટકને પ્રારંભ કરવા માટે પણ સંશોધિત કરવામાં આવી છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.6.0 (2023 Οκτ. 20)\nΈνα σφάλμα που εμπόδισε την αντίγραφα ασφαλείας και την ανάκτηση ήταν επειγόντως σταθερό.\nΈχουμε προσθέσει μια λειτουργία για την εξαγωγή αρχείων DB σε περίπτωση που εμφανιστεί πρόβλημα στο DB."
+    "devnote": "7.6.2 (2023 Οκτ 21)\n\n- επειγόντως διορθώθηκε ένα σφάλμα όπου οι ρυθμίσεις επαναφέρθηκαν.\n- Η λογική αρχικοποίησης στις πληροφορίες και η βοήθεια έχει τροποποιηθεί για την προετοιμασία του πίνακα βάσης δεδομένων επίσης."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.6.0 (2023 oktober 20)\nEen fout die back -up en herstel verhinderde, werd dringend opgelost.\nWe hebben een functie toegevoegd om DB -bestanden te exporteren voor het geval er een probleem in de DB optreedt."
+    "devnote": "7.6.2 (2023 oktober 21)\n\n- Dringend een bug opgelost waar instellingen werden gereset.\n- De initialisatielogica in informatie en hulp is gewijzigd om ook de databasetabel te initialiseren."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "7.6.0 (20223 अक्टूबर 20)\nएक त्रुटि जसले ब्याकअप र पुन: प्राप्तिलाई रोक्दछ।\nहामीले DB फाईलहरू निर्यात गर्न एक प्रकार्य थपेका छौं यदि DB मा समस्या हुन्छ भने।"
+    "devnote": "7.6.2 (20223 अक्टुबर 21)\n\n- तुरून्त बग तय गर्नुहोस् जहाँ सेटिंग्स रिसेट गरियो।\n- सूचनामा रहेको सुरूवात तर्क डाटाबेस तालिकालाई पनि आरम्भ गर्न परिमार्जन गरिएको छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.6.0 (2023 20. oktober)\nEn feil som forhindret sikkerhetskopiering og gjenoppretting var haster.\nVi har lagt til en funksjon for å eksportere DB -filer i tilfelle et problem oppstår i DB."
+    "devnote": "7.6.2 (2023 21. oktober)\n\n- Hast fikset en feil der innstillingene ble tilbakestilt.\n- Initialiseringslogikken i informasjon og hjelp er også endret for å initialisere databasetabellen."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.6.0 (2023 20. oktober)\nEn fejl, der forhindrede backup og gendannelse, blev presserende fast.\nVi har tilføjet en funktion til eksport DB -filer, hvis der opstår et problem i DB."
+    "devnote": "7.6.2 (2023 oktober 21)\n\n- Retter hurtigt en fejl, hvor indstillingerne blev nulstillet.\n- Initialiseringslogikken i information og hjælp er også ændret til at initialisere databasetabellen."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.6.0 (2023 Okt 20)\nEin Fehler, der Sicherung und Wiederherstellung verhinderte, wurde dringend festgelegt.\nWir haben eine Funktion hinzugefügt, um DB -Dateien zu exportieren, falls ein Problem in der DB auftritt."
+    "devnote": "7.6.2 (2023 Okt 21)\n\n- Dringend einen Fehler behoben, bei dem die Einstellungen zurückgesetzt wurden.\n- Die Initialisierungslogik in Informationen und Hilfe wurde geändert, um auch die Datenbanktabelle zu initialisieren."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.6.0 (2023 ວັນທີ 20 ເດືອນຕຸລາ)\nຂໍ້ຜິດພາດທີ່ປ້ອງກັນການສໍາຮອງຂໍ້ມູນແລະການຟື້ນຟູໄດ້ຖືກແກ້ໄຂຢ່າງຮີບດ່ວນ.\nພວກເຮົາໄດ້ເພີ່ມຫນ້າທີ່ໃນການສົ່ງອອກເອກະສານ DB ໃນກໍລະນີທີ່ມີປັນຫາທີ່ເກີດຂື້ນໃນ DB."
+    "devnote": "7.6.2 (2023 ວັນສານ 21)\n\n- ແກ້ໄຂຂໍ້ບົກຜ່ອງທີ່ການຕັ້ງຄ່າຖືກຕັ້ງຄ່າດ່ວນ.\n- ເຫດຜົນເລີ່ມຕົ້ນໃນຂໍ້ມູນຂ່າວສານແລະການຊ່ວຍເຫຼືອໄດ້ຖືກດັດແກ້ເພື່ອເລີ່ມຕົ້ນຕາຕະລາງຖານຂໍ້ມູນເຊັ່ນກັນ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.6.0 (2023. gada 20. oktobris)\nSteidzami tika novērota kļūda, kas novērsa dublēšanu un atkopšanu.\nMēs esam pievienojuši funkciju DB failu eksportēšanai, ja DB rodas problēma."
+    "devnote": "7.6.2 (2023. gada 21. oktobris)\n\n- steidzami novērsa kļūdu, kurā iestatījumi tika atiestatīti.\n- Informizācijas loģika informācijas un palīdzības jomā ir modificēta, lai inicializētu arī datu bāzes tabulu."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.6.0 (2023 г. 20 октября)\nОшибка, которая предотвратила резервную копию и восстановление срочно исправлена.\nМы добавили функцию для экспорта файлов DB в случае возникновения проблемы в БД."
+    "devnote": "7.6.2 (2023 г. 21 октября)\n\n- Срочно исправил ошибку, в которой были сброшены настройки.\n- Логика инициализации в информации и справки была изменена для инициализации таблицы базы данных."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.6.0 (2023 20 oct.)\nO eroare care a împiedicat backup -ul și recuperarea a fost remediată urgent.\nAm adăugat o funcție pentru a exporta fișiere DB în cazul în care apare o problemă în DB."
+    "devnote": "7.6.2 (2023 21 oct.)\n\n- S -a rezolvat urgent o eroare în care setările au fost resetate.\n- Logica de inițializare în informații și ajutor a fost modificată și pentru inițializarea tabelului bazei de date."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.6.0 (2023 m. Spalio 20 d.)\nKlaida, kuri užkirto kelią atsarginėms kopijoms ir atkūrimui, buvo skubiai ištaisyta.\nMes pridėjome funkciją eksportuoti DB failus, jei problema kyla DB."
+    "devnote": "7.6.2 (2023 m. Spalio 21 d.)\n\n- Skubiai ištaisyta klaida, kurioje nustatymai buvo nustatyti iš naujo.\n- Norint inicijuoti duomenų bazės lentelę, inicijavimo logika ir pagalba buvo pakeista."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.6.0 (2023 ऑक्टोबर 20)\nबॅकअप आणि पुनर्प्राप्तीला प्रतिबंधित करणारी त्रुटी तातडीने निश्चित केली गेली.\nडीबीमध्ये समस्या उद्भवल्यास आम्ही डीबी फायली निर्यात करण्यासाठी एक कार्य जोडले आहे."
+    "devnote": "7.6.2 (2023 ऑक्टोबर 21)\n\n- सेटिंग्ज रीसेट केल्यावर तातडीने एक बग निश्चित केला.\n- माहिती आणि मदतीमधील आरंभिक लॉजिक डेटाबेस सारणी देखील आरंभ करण्यासाठी सुधारित केले गेले आहे."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.6.0 (2023 октомври 20)\nГрешка што спречи резервна копија и закрепнување беше итно фиксирана.\nДодадовме функција за извоз на DB -датотеки во случај да се појави проблем во DB."
+    "devnote": "7.6.2 (2023 октомври 21)\n\n- Итно поправи грешка каде што се ресетираа поставките.\n- Логиката на иницијализација во информациите и помошта е изменета и за иницијализирање на табелата за бази на податоци, исто така."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.6.0 (2023 ഒക്ടോബർ 20)\nബാക്കപ്പും വീണ്ടെടുക്കലും തടഞ്ഞ ഒരു പിശക് അടിയന്തിരമായി പരിഹരിച്ചു.\nഡിബിയിൽ ഒരു പ്രശ്നം സംഭവിച്ചാൽ ഡിബി ഫയലുകൾ കയറ്റുമതി ചെയ്യുന്നതിന് ഞങ്ങൾ ഒരു ഫംഗ്ഷൻ ചേർത്തു."
+    "devnote": "7.6.2 (2023 ഒക്ടോബർ 21)\n\n- ക്രമീകരണങ്ങൾ പുന reset സജ്ജമാക്കുന്നിടത്ത് ഒരു ബഗ് അടിയന്തിരമായി പരിഹരിച്ചു.\n- വിവരത്തിലും സഹായത്തിലും സമാരംഭിക്കൽ ലോജിക് ഡാറ്റാബേസ് പട്ടികയും സമാരംഭിക്കുന്നതിന് പരിഷ്ക്കരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.6.0 (2023 Okt 20)\nKesalahan yang menghalang sandaran dan pemulihan telah ditetapkan dengan segera.\nKami telah menambah fungsi untuk mengeksport fail DB sekiranya masalah berlaku di DB."
+    "devnote": "7.6.2 (2023 21 Okt)\n\n- Segera menetapkan pepijat di mana tetapan telah ditetapkan semula.\n- Logik inisialisasi dalam maklumat dan bantuan telah diubahsuai untuk memulakan jadual pangkalan data juga."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.6.0 (2023 оны 10-р сарын 20)\nНөөцлөлт, сэргээхээс урьдчилан сэргийлэх алдаа яаралтай байсан.\nБид DB файлуудыг экспортын функцийг экспортлохын тулд PASCE-г экспортлох."
+    "devnote": "7.6.2 (2023 оны 10-р сарын 21)\n\n- Тохиргоог дахин тохируулсан алдааг яаралтай засна.\n- Мэдээлэл бүхий логикийг эхлүүлэх, тусламж, мэдээллийн сангийн хүснэгтийг эхлүүлэхийн тулд шинэчлэгдсэн бөгөөд тусламжийг өөрчилсөн."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.6.0 (2023 urriaren 20a)\nBabeskopia eta susperraldia saihestu zituen errorea premiazkoa izan zen.\nDB fitxategiak esportatzeko funtzioa gehitu dugu DBn arazoren bat gertatzen bada."
+    "devnote": "7.6.2 (2023 urriaren 21a)\n\n- Premiazkoa konpondu da ezarpenak berrezarri ziren akats bat.\n- Informazio eta laguntza hasierako logika aldatu da datu-basearen taula hasieratzeko."
   },
   "버마어": {
     "key": "my",
-    "devnote": "722.0 (2023 အောက်တိုဘာ 20)\nအရန်ကူးခြင်းနှင့်ပြန်လည်နာလန်ထူမှုကိုတားဆီးသောအမှားတစ်ခုကိုအရေးတကြီးပြင်ဆင်ထားသည်။\nDB ဖိုင်တွင်ပြ a နာတစ်ခုဖြစ်သည့်ကိစ္စတွင် DB ဖိုင်များကိုတင်ပို့ရန် function တစ်ခုကိုကျွန်ုပ်တို့ထည့်သွင်းထားပါသည်။"
+    "devnote": "7223 အောက်တိုဘာ 21 ရက် (2023)\n\n- ချိန်ညှိချက်များပြန်လည်သတ်မှတ်ခြင်းရှိရာ bug ကိုအရေးတကြီးပြင်ဆင်ထားသည်။\n- သတင်းအချက်အလက်နှင့်အကူအညီအတွက်သတင်းအချက်အလက်နှင့်အကူအညီအတွက်ယုတ္တိဗေဒဆိုင်ရာယုတ္တိဗေဒကိုလည်းအသေးစိတ်ဖော်ပြရန်လည်းပြုပြင်ပြောင်းလဲခဲ့သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.6.0 (2023 ngày 20 tháng 10)\nMột lỗi ngăn chặn sao lưu và phục hồi đã được sửa chữa khẩn cấp.\nChúng tôi đã thêm một chức năng để xuất các tệp DB trong trường hợp vấn đề xảy ra trong DB."
+    "devnote": "7.6.2 (2023 ngày 21 tháng 10)\n\n- Đã sửa lỗi một lỗi trong đó cài đặt được đặt lại.\n- Logic khởi tạo trong thông tin và trợ giúp cũng đã được sửa đổi để khởi tạo bảng cơ sở dữ liệu."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.6.0 (2023 кастрычніка)\nПамылка, якая прадухіліла рэзервовую копію і аднаўленне, была тэрмінова зафіксавана.\nМы дадалі функцыю для экспарту файлаў БД у выпадку, калі праблема ўзнікае ў БД."
+    "devnote": "7.6.2 (2023, 21 кастрычніка)\n\n- Тэрмінова выпраўлены памылку, дзе былі скінуты налады.\n- Логіка ініцыялізацыі інфармацыі і дапамогі была зменена і для ініцыялізацыі табліцы базы дадзеных."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.6.0 (2023 অক্টোবর 20)\nব্যাকআপ এবং পুনরুদ্ধার প্রতিরোধকারী একটি ত্রুটি জরুরিভাবে স্থির করা হয়েছিল।\nডিবিতে সমস্যা দেখা দিলে আমরা ডিবি ফাইল রফতানি করতে একটি ফাংশন যুক্ত করেছি।"
+    "devnote": "7.6.2 (2023 অক্টোবর 21)\n\n- জরুরীভাবে একটি বাগ ঠিক করেছে যেখানে সেটিংস পুনরায় সেট করা হয়েছিল।\n- তথ্য এবং সহায়তা ইন প্রারম্ভিক যুক্তিটি ডাটাবেস টেবিলটিও আরম্ভ করার জন্য সংশোধন করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.6.0 (2023 октомври 20)\nГрешка, която предотврати резервното копие и възстановяването, беше спешно отстранена.\nДобавихме функция за експортиране на DB файлове в случай, че в DB възникне проблем."
+    "devnote": "7.6.2 (2023 октомври 21)\n\n- Спешно фиксира грешка, при която се нулират настройките.\n- Логиката на инициализация в информацията и помощта е модифицирана и за инициализиране на таблицата на базата данни."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.6.0 (2023. 20. октобра)\nГрешка која је спречена сигурносна копија и опоравак хитно фиксирана.\nДодали смо функцију за извоз ДБ датотека у случају да се проблем појави у ДБ-у."
+    "devnote": "7.6.2 (2023. октобар)\n\n- Хитно је поправио грешку где су поставке ресетиране.\n- Логика иницијализације у информацијама и помоћи је модификована како би се иницијализирала и табела базе података."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.6.0 (2023 Oct 20)\nKosa ambalo lilizuia chelezo na ahueni lilirekebishwa haraka.\nTumeongeza kazi ya kusafirisha faili za DB ikiwa shida itatokea katika DB."
+    "devnote": "7.6.2 (2023 Oct 21)\n\n- Zilizowekwa kwa haraka mdudu ambapo mipangilio iliwekwa upya.\n- Mantiki ya uanzishaji katika habari na msaada imebadilishwa ili kuanzisha meza ya hifadhidata pia."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.6.0 (2023 20 oktober)\nEtt fel som förhindrade säkerhetskopiering och återhämtning fixades brådskande.\nVi har lagt till en funktion för att exportera DB -filer om ett problem uppstår i DB."
+    "devnote": "7.6.2 (2023 21 oktober)\n\n- Fixade brådskande ett fel där inställningar återställdes.\n- Initialiseringslogiken i information och hjälp har också modifierats för att initialisera databastabellen."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.6.0 (2023 20 de octubre)\nSe solucionó urgentemente un error que evitó la copia de seguridad y la recuperación.\nHemos agregado una función para exportar archivos DB en caso de que ocurra un problema en el DB."
+    "devnote": "7.6.2 (2023 21 de octubre)\n\n- Se corrigió urgentemente un error donde se restablecían la configuración.\n- La lógica de inicialización en la información y la ayuda se ha modificado para inicializar la tabla de la base de datos también."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7,6,0 (2023 október 20)\nChyba, ktorá zabránila zálohovaniu a zotaveniu, bola naliehavo opravená.\nPridali sme funkciu na export súborov DB v prípade, že sa problém vyskytne v DB."
+    "devnote": "7.6.2 (2023 október 21)\n\n- Naliehavo opravená chyba, pri ktorej boli nastavenia resetované.\n- Logika inicializácie v informáciách a pomoci bola upravená na inicializáciu tabuľky databázy."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.6.0 (2023 20. oktober)\nNapaka, ki je preprečila varnostno kopijo in obnovitev, je bila nujno določena.\nDodali smo funkcijo za izvoz datotek DB, če se v DB pojavi težava."
+    "devnote": "7.6.2 (2023 21. oktobra)\n\n- Nujno določil napako, kjer so bile nastavitve ponastavljene.\n- Logika inicializacije v informacijah in pomoč je bila spremenjena, da se inicializira tudi tabela baze podatkov."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.6.0 (2023 ඔක්තෝබර් 20)\nඋපස්ථය වළක්වා ගැනීම සහ ප්රතිසාධනය වැළැක්වීමේ දෝෂයක් හදිසියේම සවි කර ඇත.\nDB හි ගැටළුවක් ඇති වුවහොත් අප DB ගොනු අපනයනය කිරීමේ කාර්යයක් අපි එකතු කර ඇත්තෙමු."
+    "devnote": "7.6.2 (2023 ඔක්තෝබර් 21)\n\n- සැකසුම් යළි පිහිටුවන ලද දෝෂයක් හදිසියේ සවි කර ඇත.\n- දත්ත සමුදා වගුව ආරම්භ කිරීම සඳහා තොරතුරු සහ උපකාරයෙහි ආරම්භක තර්කනය වෙනස් කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.6.0 (2023 أكتوبر 20)\nتم إصلاح الخطأ الذي منع النسخ الاحتياطي والاسترداد بشكل عاجل.\nلقد أضفنا وظيفة لتصدير ملفات DB في حالة حدوث مشكلة في DB."
+    "devnote": "7.6.2 (2023 أكتوبر 21)\n\n- تم إصلاح الخلل بشكل عاجل حيث تم إعادة تعيين الإعدادات.\n- تم تعديل منطق التهيئة في المعلومات والمساعدة لتهيئة جدول قاعدة البيانات أيضًا."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.6.0 (2023 հոկտեմբերի 20)\nՍխալը, որը կանխում էր կրկնօրինակը եւ վերականգնումը, շտապ շտկվեց:\nՄենք ավելացրել ենք DB ֆայլեր արտահանելու գործառույթ, եթե դԲ-ում խնդիր լինի:"
+    "devnote": "7.6.2 (2023 հոկտեմբերի 21)\n\n- Շտապ ֆիքսված մի սխալ, որտեղ պարամետրերը վերակայվում էին:\n- Տեղեկատվության սկզբնավորման տրամաբանությունն ու օգնությունը փոփոխվել է տվյալների բազայի աղյուսակը նախաստորագրելու համար:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.6.0 (2023 20. október)\nVilla sem kom í veg fyrir afrit og bata var brýn lög.\nVið höfum bætt við aðgerð til að flytja út DB skrár ef vandamál kemur upp í DB."
+    "devnote": "7.6.2 (2023 21. október)\n\n- Bráðlega lagaði villu þar sem stillingar voru endurstilltar.\n- Frumstillingar rökfræði í upplýsingum og hjálp hefur verið breytt til að frumstilla gagnagrunnstöfluna."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.6.0 (2023 oktyabr 20)\nYedekləmə və bərpa maneəsinin qarşısını alan bir səhv təcili olaraq düzəldildi.\nBir problem DB-də baş verdikdə DB sənədlərini ixrac etmək üçün bir funksiya əlavə etdik."
+    "devnote": "7.6.2 (2023 oktyabr 21)\n\n- Parametrlərin yenidən qurulduğu bir səhv düzəldildi.\n- Məlumat bazası cədvəlini də başlatmaq üçün informasiya və köməyə başlanğıc məntiqi dəyişdirilmişdir."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.6.0 (2023 20 Oktober)\n'N Fout wat rugsteun en herstel verhoed het, is dringend reggestel.\nOns het 'n funksie bygevoeg om DB -lêers uit te voer indien 'n probleem in die DB voorkom."
+    "devnote": "7.6.2 (2023 21 Oktober)\n\n- Dringend 'n fout opgelos waar instellings teruggestel is.\n- Die inisialiseringslogika in inligting en hulp is gewysig om ook die databasistabel te initialiseer."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.6.0 (2023 20 tetor)\nNjë gabim që parandaloi rezervimin dhe rikuperimin ishte fiksuar urgjentisht.\nNe kemi shtuar një funksion për të eksportuar skedarë DB në rast se shfaqet një problem në DB."
+    "devnote": "7.6.2 (2023 21 tetor)\n\n- Fiksoi urgjentisht një gabim ku cilësimet ishin rivendosur.\n- Logjika e inicializimit në informacion dhe ndihmë është modifikuar për të inicializuar edhe tabelën e bazës së të dhënave."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.6.0 (2023 (2023 ዓ.ም. 20)\nምትኬ እና ማገገም በአፋጣኝ የተስተካከለ ስህተት.\nDB ፋይሎችን ወደ ውጭ ለመላክ አንድ ተግባር አክለናል."
+    "devnote": "7.6.2 (2023 ኦክቶበር 21)\n\n- ቅንብሮች ዳግም የተጀመሩበትን ሳንካ በአፋጣኝ ተጠግ.\n- በመረጃ ውስጥ የመነሻ አመክንዮ በመረጃ እና በእርዳታ የመረጃ ቋቱን ሰንጠረዥ ለማስጀመር ተሻሽሏል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.6.0 (2023 20. oktoober)\nViga, mis takistas varundamist ja taastumist, oli kiiresti fikseeritud.\nOleme lisanud funktsiooni DB -failide eksportimiseks juhuks, kui probleem ilmneb DB -s."
+    "devnote": "7.6.2 (2023 21. oktoober)\n\n- Kiiresti parandatud viga, kus sätted lähtestati.\n- Initsialiseerimisloogika teabe ja abi on muudetud ka andmebaasi tabeli lähtestamiseks."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.6.0 (2023 اکتوبر 20)\nایک ایسی غلطی جس نے بیک اپ اور بازیابی کو روکا۔\nڈی بی میں کوئی مسئلہ پیدا ہونے کی صورت میں ہم نے ڈی بی فائلوں کو برآمد کرنے کے لئے ایک فنکشن شامل کیا ہے۔"
+    "devnote": "7.6.2 (2023 اکتوبر 21)\n\n- فوری طور پر ایک بگ طے کیا جہاں ترتیبات کو دوبارہ ترتیب دیا گیا تھا۔\n- ڈیٹا بیس ٹیبل کو بھی شروع کرنے کے لئے معلومات اور مدد میں ابتدا کی منطق میں ترمیم کی گئی ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.6.0 (2023 жовтня)\nПомилка, яка запобігла резервному копію та відновлення, була терміново виправлена.\nМи додали функцію для експорту файлів БД у випадку, якщо проблема виникає в БД."
+    "devnote": "7.6.2 (2023 жовтня)\n\n- терміново виправити помилку, де налаштування були скинуті.\n- Логіка ініціалізації в інформації та довідці була змінена і для ініціалізації таблиці баз даних."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.6.0 (2023 ottobre 20)\nUn errore che ha impedito il backup e il recupero è stato risolto urgentemente.\nAbbiamo aggiunto una funzione per esportare file DB nel caso in cui si verifichi un problema nel DB."
+    "devnote": "7.6.2 (2023 ottobre 21)\n\n- Risolto urgentemente un bug in cui le impostazioni venivano ripristinate.\n- La logica di inizializzazione nelle informazioni e nell'aiuto è stata modificata anche per inizializzare la tabella del database."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.6.0 (2023 20 Okt)\nKesalahan yang mencegah cadangan dan pemulihan sangat diperbaiki.\nKami telah menambahkan fungsi untuk mengekspor file DB jika terjadi masalah di DB."
+    "devnote": "7.6.2 (2023 21 Okt)\n\n- Perbaiki bug di mana pengaturan diatur ulang.\n- Logika inisialisasi dalam informasi dan bantuan telah dimodifikasi untuk menginisialisasi tabel database juga."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.6.0（2023 10月20日）\nバックアップと回復を防ぐエラーが緊急に修正されました。\nDBで問題が発生した場合に備えて、DBファイルをエクスポートする機能を追加しました。"
+    "devnote": "7.6.2（2023 10月21日）\n\n - 設定がリセットされたバグを緊急に修正しました。\n - 情報とヘルプの初期化ロジックは、データベーステーブルを初期化するように変更されています。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.6.0 (2023 წლის 20 ოქტომბერი)\nშეცდომა, რომელიც ხელს უშლიდა სარეზერვო და გამოჯანმრთელებას, სასწრაფოდ დაფიქსირდა.\nჩვენ დავამატეთ ფუნქცია DB ფაილების ექსპორტის შემთხვევაში, თუ პრობლემა მოხდა DB- ში."
+    "devnote": "7.6.2 (2023 ოქტომბერი 21)\n\n- სასწრაფოდ დაფიქსირდა შეცდომა, სადაც პარამეტრები გადატვირთეს.\n- ინფორმაციისა და დახმარების ინიციალიზაციის ლოგიკა შეიცვალა მონაცემთა ბაზის ცხრილის ინიციალიზაციისთვის."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.6.0 (2023 Oct 20)\nIphutha elavimbela isipele nokululama lalilungiswe ngokushesha.\nSingeze umsebenzi wokuthumela amafayela we-DB uma kwenzeka inkinga yenzeka ku-DB."
+    "devnote": "7.6.2 (2023 Oct 21)\n\n- Kulungiswe ngokuphuthumayo isiphazamisi lapho izilungiselelo zisethwe khona kabusha.\n- I-Logic yokuqalisa imininingwane nosizo iguquliwe ukuze iqale itafula ledatha futhi."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.6.0（2023年10月20日）\n防止备份和恢复的错误是迫切固定的。\n我们添加了一个函数来导出数据库文件，以防数据库中发生问题。"
+    "devnote": "7.6.2（2023年10月21日）\n\n - 紧急修复了重置设置的错误。\n - 已修改了信息和帮助中的初始化逻辑，以初始化数据库表。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.6.0（2023年10月20日）\n防止備份和恢復的錯誤是迫切固定的。\n我們添加了一個函數來導出數據庫文件，以防數據庫中發生問題。"
+    "devnote": "7.6.2（2023年10月21日）\n\n - 緊急修復了重置設置的錯誤。\n - 已修改了信息和幫助中的初始化邏輯，以初始化數據庫表。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.6.0（2023年10月20日）\n防止備份和恢復的錯誤是迫切固定的。\n我們添加了一個函數來導出數據庫文件，以防數據庫中發生問題。"
+    "devnote": "7.6.2（2023年10月21日）\n\n - 緊急修復了重置設置的錯誤。\n - 已修改了信息和幫助中的初始化邏輯，以初始化數據庫表。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.6.0 (2023 20. října)\nChyba, která zabránila zálohování a zotavení, byla naléhavě stanovena.\nPřidali jsme funkci k exportu souborů DB v případě, že se v DB objeví problém."
+    "devnote": "7.6.2 (2023 21. října)\n\n- Naléhavě opravena chyba, kde byla nastavení resetována.\n- Logika inicializace v informacích a nápovědě byla upravena pro inicializaci databázové tabulky."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.6.0 (2023 қазан 2023)\nСақтық көшірме жасау мен қалпына келтірудің алдын алатын қате шұғыл түрде болды.\nБіз DB файлдарын DB файлдарын экспорттау үшін функцияларды дБ-де қарастырдық."
+    "devnote": "7.2 (21 қазан)\n\n- Параметрлер қалпына келтірілген қатені жедел түзету.\n- ақпарат пен анықтама инициализация логикасы дерекқор кестесін де баптауға өзгертілген."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.6.0 (2023 20 d'octubre)\nEs va solucionar urgentment un error que va evitar la còpia de seguretat i la recuperació.\nHem afegit una funció per exportar fitxers DB en cas que es produeixi un problema a la DB."
+    "devnote": "7.6.2 (2023 21 d'octubre)\n\n- S'ha corregit urgentment un error on es restableixi la configuració.\n- La lògica d'inicialització en informació i ajuda s'ha modificat també per inicialitzar la taula de bases de dades."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.6.0 (2023 ಅಕ್ಟೋಬರ್ 20)\nಬ್ಯಾಕಪ್ ಮತ್ತು ಚೇತರಿಕೆ ತಡೆಯುವ ದೋಷವನ್ನು ತುರ್ತಾಗಿ ನಿವಾರಿಸಲಾಗಿದೆ.\nಡಿಬಿಯಲ್ಲಿ ಸಮಸ್ಯೆ ಸಂಭವಿಸಿದಲ್ಲಿ ಡಿಬಿ ಫೈಲ್‌ಗಳನ್ನು ರಫ್ತು ಮಾಡಲು ನಾವು ಒಂದು ಕಾರ್ಯವನ್ನು ಸೇರಿಸಿದ್ದೇವೆ."
+    "devnote": "7.6.2 (2023 ಅಕ್ಟೋಬರ್ 21)\n\n- ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಮರುಹೊಂದಿಸಿದ ದೋಷವನ್ನು ತುರ್ತಾಗಿ ಸರಿಪಡಿಸಲಾಗಿದೆ.\n- ಡೇಟಾಬೇಸ್ ಕೋಷ್ಟಕವನ್ನು ಪ್ರಾರಂಭಿಸಲು ಮಾಹಿತಿ ಮತ್ತು ಸಹಾಯದ ಪ್ರಾರಂಭದ ತರ್ಕವನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.6.0 (2023. 20. listopada)\nPogreška koja je spriječila sigurnosnu kopiju i oporavak hitno je fiksirana.\nDodali smo funkciju za izvoz DB ​​datoteka u slučaju da se problem pojavi u DB -u."
+    "devnote": "7.6.2 (2023. 21. listopada)\n\n- Hitno je ispravljena greška u kojoj su se postavke resetirale.\n- Logika inicijalizacije u informacijama i pomoći izmijenjena je i za inicijalizaciju tablice baze podataka."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.6.0 (2023 ខែតុលា 20)\nកំហុសដែលរារាំងការបម្រុងទុកនិងការជាសះស្បើយត្រូវបានជួសជុលជាបន្ទាន់។\nយើងបានបន្ថែមមុខងារមួយដើម្បីនាំចេញឯកសារ DB ក្នុងករណីដែលមានបញ្ហាកើតឡើងនៅក្នុង DB ។"
+    "devnote": "7.6.2 (2023 ខែតុលា 21)\n\n- ជួសជុលកំហុសជាបន្ទាន់ដែលការកំណត់ត្រូវបានកំណត់ឡើងវិញ។\n- តក្កវិជ្ជាចាប់ផ្តើមក្នុងព័ត៌មាននិងជំនួយត្រូវបានកែប្រែដើម្បីចាប់ផ្តើមតារាងទិន្នន័យផងដែរ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.6.0 (2023-октябрь)\nКамдык көчүрмөсүн жана калыбына келтирүүнү алдын алууга аргасыз кылган ката.\nDB файлдарын db файлдарын экспорттоо үчүн DB долбоорун экспорттоо үчүн бир функцияны коштук."
+    "devnote": "7.6.2 (2023-октябрь 21)\n\n- Тез арада паршрета орнотулган, анда жөндөөлөр баштапкы абалга келтирилген.\n- маалымат базасында маалымат базасынын үстөлүн демилгелөө үчүн инициализация жана жардам көрсөтүү логикасы өзгөртүлдү."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.6.0 (2023 அக் 20)\nகாப்புப்பிரதி மற்றும் மீட்பைத் தடுக்கும் பிழை அவசரமாக சரி செய்யப்பட்டது.\nடி.பியில் ஒரு சிக்கல் ஏற்பட்டால் டிபி கோப்புகளை ஏற்றுமதி செய்ய ஒரு செயல்பாட்டை சேர்த்துள்ளோம்."
+    "devnote": "7.6.2 (2023 அக் 21)\n\n- அமைப்புகள் மீட்டமைக்கப்பட்ட இடத்தில் ஒரு பிழை அவசரமாக சரி செய்யப்பட்டது.\n- தரவுத்தள அட்டவணையை துவக்க தகவல் மற்றும் உதவியில் துவக்க தர்க்கம் மாற்றப்பட்டுள்ளது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.6.0 (2023 ต.ค. 20)\nข้อผิดพลาดที่ป้องกันการสำรองข้อมูลและการกู้คืนได้รับการแก้ไขอย่างเร่งด่วน\nเราได้เพิ่มฟังก์ชั่นเพื่อส่งออกไฟล์ DB ในกรณีที่ปัญหาเกิดขึ้นใน DB"
+    "devnote": "7.6.2 (2023 ต.ค. 21)\n\n- แก้ไขข้อผิดพลาดอย่างเร่งด่วนที่การตั้งค่าถูกรีเซ็ต\n- ตรรกะการเริ่มต้นในข้อมูลและความช่วยเหลือได้รับการแก้ไขเพื่อเริ่มต้นตารางฐานข้อมูลเช่นกัน"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.6.0 (2023 Ekim 20)\nYedeklemeyi ve iyileşmeyi önleyen bir hata acilen sabitlendi.\nDB'de bir sorun meydana gelmesi durumunda DB dosyalarını dışa aktarmak için bir işlev ekledik."
+    "devnote": "7.6.2 (2023 21 Ekim)\n\n- Acilen ayarların sıfırlandığı bir hatayı düzeltti.\n- Bilgi ve yardımdaki başlatma mantığı, veritabanı tablosunun başlatılması için de değiştirilmiştir."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.6.0 (2023 అక్టోబర్ 20)\nబ్యాకప్ మరియు రికవరీని నిరోధించే లోపం అత్యవసరంగా పరిష్కరించబడింది.\nDB లో సమస్య సంభవించినట్లయితే DB ఫైళ్ళను ఎగుమతి చేయడానికి మేము ఒక ఫంక్షన్‌ను జోడించాము."
+    "devnote": "7.6.2 (2023 అక్టోబర్ 21)\n\n- సెట్టింగులు రీసెట్ చేయబడిన బగ్ అత్యవసరంగా పరిష్కరించబడింది.\n- డేటాబేస్ పట్టికను ప్రారంభించడానికి సమాచారంలో ప్రారంభ లాజిక్ మరియు సహాయం సవరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.6.0 (2023 20 ਅਕਤੂਬਰ)\nਬੈਕਅਪ ਅਤੇ ਰਿਕਵਰੀ ਨੂੰ ਰੋਕਿਆ ਗਿਆ ਇੱਕ ਗਲਤੀ ਤੁਰੰਤ ਹੱਲ ਕੀਤੀ ਗਈ.\nਜੇ ਡੀ ਬੀ ਵਿੱਚ ਸਮੱਸਿਆ ਆਉਂਦੀ ਹੈ ਤਾਂ ਅਸੀਂ ਡੀ ਬੀ ਫਾਈਲਾਂ ਨੂੰ ਨਿਰਯਾਤ ਕਰਨ ਲਈ ਇੱਕ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਹੈ."
+    "devnote": "7.6.2 (2023 21 ਅਕਤੂਬਰ)\n\n- ਤੁਰੰਤ ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤੀ ਗਈ ਜਿੱਥੇ ਸੈਟਿੰਗਾਂ ਰੀਸੈਟ ਕਰ ਦਿੱਤੀਆਂ ਗਈਆਂ.\n- ਜਾਣਕਾਰੀ ਅਤੇ ਸਹਾਇਤਾ ਵਿੱਚ ਸ਼ੁਰੂਆਤੀ ਤਰਕ ਨੂੰ ਡਾਟਾਬੇਸ ਟੇਬਲ ਨੂੰ ਅਰੰਭ ਕਰਨ ਲਈ ਸੋਧਿਆ ਗਿਆ ਹੈ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.6.0 (2023 اکتبر 20)\nخطایی که مانع از تهیه نسخه پشتیبان و بازیابی شد ، فوراً برطرف شد.\nدر صورت بروز مشکل در DB ، ما یک تابع برای صادرات پرونده های DB اضافه کرده ایم."
+    "devnote": "7.6.2 (2023 اکتبر 21)\n\n- فوری اشکال را برطرف کرد که تنظیمات در آن تنظیم شد.\n- منطق اولیه سازی در اطلاعات و کمک برای اولیه سازی جدول پایگاه داده نیز اصلاح شده است."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.6.0 (2023 20 de outubro)\nUm erro que impedia o backup e a recuperação foi urgentemente fixado.\nAdicionamos uma função para exportar arquivos DB, caso ocorra um problema no banco de dados."
+    "devnote": "7.6.2 (2023 21 de outubro)\n\n- Corrigido urgentemente um bug em que as configurações foram redefinidas.\n- A lógica de inicialização nas informações e ajuda também foi modificada para inicializar a tabela de banco de dados."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.6.0 (2023 20 października)\nBłąd, który zapobiegał tworzeniu kopii zapasowej i odzyskiwania, został pilnie naprawiony.\nDodaliśmy funkcję do eksportu plików DB w przypadku wystąpienia problemu w DB."
+    "devnote": "7.6.2 (2023 21 października)\n\n- Pilnie naprawić błąd, w którym ustawienia zostały zresetowane.\n- Logika inicjalizacji informacji i pomocy została zmodyfikowana w celu zainicjowania tabeli bazy danych."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.6.0 (2023 20 octobre)\nUne erreur qui a empêché la sauvegarde et la récupération a été fixée de toute urgence.\nNous avons ajouté une fonction pour exporter des fichiers DB au cas où un problème se produira dans la base de données."
+    "devnote": "7.6.2 (2023 21 octobre)\n\n- Correction d'un bug urgent où les paramètres ont été réinitialisés.\n- La logique d'initialisation dans les informations et l'aide a également été modifiée pour initialiser le tableau de la base de données."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.6.0 (2023 20. lokakuuta)\nVirhe, joka esti varmuuskopion ja palautumisen, kiinnitettiin kiireellisesti.\nOlemme lisänneet toiminnon DB -tiedostojen viemiseksi, jos DB: ssä tapahtuu ongelma."
+    "devnote": "7.6.2 (2023 21. lokakuuta)\n\n- Korjattu kiireellisesti virhe, jossa asetukset nollattiin.\n- Tietojen ja apua on muokattu myös tietokantataulukon alustuslogiikkaa."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.6.0 (2023 Oktubre 20)\nAng isang error na pumigil sa pag -backup at pagbawi ay mapilit na naayos.\nNagdagdag kami ng isang function upang ma -export ang mga file ng DB kung sakaling ang isang problema ay nangyayari sa DB."
+    "devnote": "7.6.2 (2023 Oktubre 21)\n\n- Agarang naayos ang isang bug kung saan na -reset ang mga setting.\n- Ang lohika ng pagsisimula sa impormasyon at tulong ay nabago upang masimulan din ang talahanayan ng database."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.6.0 (2023. október 20.)\nA biztonsági mentést és a helyreállítást megakadályozó hibát sürgősen javítottuk.\nHozzáadtunk egy függvényt a DB fájlok exportálásához, ha probléma merül fel a DB -ben."
+    "devnote": "7.6.2 (2023. október 21.)\n\n- Sürgősen rögzített egy hibát, ahol a beállításokat visszaállították.\n- Az inicializálási logika az információkban és a segítségben az adatbázis -táblázat inicializálásához is módosult."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.6.0 (2023 20 באוקטובר)\nשגיאה שמנעה גיבוי והתאוששות נקבעה בדחיפות.\nהוספנו פונקציה לייצוא קבצי DB למקרה שתתרחש בעיה ב- DB."
+    "devnote": "7.6.2 (2023 21 באוקטובר)\n\n- תוקן בדחיפות באג בו איפוס ההגדרות.\n- לוגיקת האתחול במידע ובעזרה שונתה גם כדי לאתחל את טבלת מסד הנתונים."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.6.0 (2023 अक्टूबर 20)\nएक त्रुटि जो बैकअप और रिकवरी को रोकती थी, तत्काल तय की गई थी।\nडीबी में समस्या होने की स्थिति में हमने DB फ़ाइलों को निर्यात करने के लिए एक फ़ंक्शन जोड़ा है।"
+    "devnote": "7.6.2 (2023 अक्टूबर 21)\n\n- तत्काल एक बग तय किया जहां सेटिंग्स रीसेट किए गए थे।\n- सूचना और सहायता में आरंभीकरण तर्क को डेटाबेस तालिका को भी इनिशियलाइज़ करने के लिए संशोधित किया गया है।"
   }
 }
