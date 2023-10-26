@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Fixed a bug where settings could not be saved."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Fixed a bug where settings could not be saved."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.6.5 (2023 10 24)\n\n- 설정 저장이 안되는 버그를 수정 하였습니다."
+    "devnote": "7.6.6 (2023 10 27)\n\n- 설정 저장이 안되는 버그를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Fixouse un erro onde non se puido gardar a configuración."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Fixouse un erro onde non se puido gardar a configuración."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.6.5 (2023 10 24)\n\n- એક ભૂલ સ્થિર કરો જ્યાં સેટિંગ્સ બચાવી શકાતી નથી."
+    "devnote": "7.6.6 (2023 10 27)\n\n- એક ભૂલ સ્થિર કરો જ્યાં સેટિંગ્સ બચાવી શકાતી નથી."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Διορθώθηκε ένα σφάλμα όπου οι ρυθμίσεις δεν μπορούσαν να αποθηκευτούν."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Διορθώθηκε ένα σφάλμα όπου οι ρυθμίσεις δεν μπορούσαν να αποθηκευτούν."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Een bug opgelost waar instellingen niet konden worden opgeslagen."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Een bug opgelost waar instellingen niet konden worden opgeslagen."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": ".6..6 .. (2023 10 2 24)\n\n- सेटिंग्स बचत गर्न सकिएन भने बग फिक्स गरियो।"
+    "devnote": "7.6.6 (2023 10 2 24)\n\n- सेटिंग्स बचत गर्न सकिएन भने बग फिक्स गरियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Fikset en feil der innstillinger ikke kunne lagres."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Fikset en feil der innstillinger ikke kunne lagres."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Rettet en fejl, hvor indstillingerne ikke kunne gemmes."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Rettet en fejl, hvor indstillingerne ikke kunne gemmes."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Ein Fehler behoben, bei dem die Einstellungen nicht gespeichert werden konnten."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Ein Fehler behoben, bei dem die Einstellungen nicht gespeichert werden konnten."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.6.5 (2023 10 24)\n\n- ແກ້ໄຂຂໍ້ບົກພ່ອງບ່ອນທີ່ການຕັ້ງຄ່າບໍ່ສາມາດບັນທຶກໄດ້."
+    "devnote": "7.6.6 (2023 10 27)\n\n- ແກ້ໄຂຂໍ້ບົກພ່ອງບ່ອນທີ່ການຕັ້ງຄ່າບໍ່ສາມາດບັນທຶກໄດ້."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Novērsta kļūda, kurā iestatījumus nevarēja saglabāt."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Novērsta kļūda, kurā iestatījumus nevarēja saglabāt."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7,6,5 (2023 10 24)\n\n- Исправлена ​​ошибка, где настройки не могут быть сохранены."
+    "devnote": "7,6,5 (2023 10 27)\n\n- Исправлена ​​ошибка, где настройки не могут быть сохранены."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.6.5 (2023 10 24)\n\n- S -a rezolvat o eroare în care setările nu au putut fi salvate."
+    "devnote": "7.6.6 (2023 10 27)\n\n- S -a rezolvat o eroare în care setările nu au putut fi salvate."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Ištaisyta klaida, kur nustatymų nebuvo galima išsaugoti."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Ištaisyta klaida, kur nustatymų nebuvo galima išsaugoti."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.6.5 (2023 10 24)\n\n- सेटिंग्ज जतन केली जाऊ शकत नाही अशा बगचे निराकरण केले."
+    "devnote": "7.6.6 (2023 10 27)\n\n- सेटिंग्ज जतन केली जाऊ शकत नाही अशा बगचे निराकरण केले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Поправи грешка каде што не може да се зачуваат поставките."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Поправи грешка каде што не може да се зачуваат поставките."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.6.5 (2023 10 24)\n\n- ക്രമീകരണങ്ങൾ സംരക്ഷിക്കാൻ കഴിയാത്ത ഒരു ബഗ് പരിഹരിച്ചു."
+    "devnote": "7.6.6 (2023 10 27)\n\n- ക്രമീകരണങ്ങൾ സംരക്ഷിക്കാൻ കഴിയാത്ത ഒരു ബഗ് പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Memperbaiki pepijat di mana tetapan tidak dapat disimpan."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Memperbaiki pepijat di mana tetapan tidak dapat disimpan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Тохиргоог хадгалах боломжгүй байгаа алдааг засна."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Тохиргоог хадгалах боломжгүй байгаа алдааг засна."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Ezarpenak ezin dira gorde ezarpenak gorde."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Ezarpenak ezin dira gorde ezarpenak gorde."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7223 10 24)\n\n- ချိန်ညှိချက်များကိုသိမ်းဆည်း။ မရနိုင်သော bug တစ်ခု fixed ။"
+    "devnote": "7223 10 27)\n\n- ချိန်ညှိချက်များကိုသိမ်းဆည်း။ မရနိုင်သော bug တစ်ခု fixed ။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Đã sửa lỗi mà không thể lưu cài đặt."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Đã sửa lỗi mà không thể lưu cài đặt."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Выпраўлена памылка, дзе налады нельга захаваць."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Выпраўлена памылка, дзе налады нельга захаваць."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.6.5 (2023 10 24)\n\n- এমন একটি বাগ ঠিক করা হয়েছে যেখানে সেটিংস সংরক্ষণ করা যায় না।"
+    "devnote": "7.6.6 (2023 10 27)\n\n- এমন একটি বাগ ঠিক করা হয়েছে যেখানে সেটিংস সংরক্ষণ করা যায় না।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Фиксирана грешка, при която настройките не могат да бъдат запазени."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Фиксирана грешка, при която настройките не могат да бъдат запазени."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Поправљена је грешка у којој се поставке нису могле да се сачувају."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Поправљена је грешка у којој се поставке нису могле да се сачувају."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Zisizohamishika mdudu ambapo mipangilio haikuweza kuokolewa."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Zisizohamishika mdudu ambapo mipangilio haikuweza kuokolewa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Fixade ett fel där inställningar inte kunde sparas."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Fixade ett fel där inställningar inte kunde sparas."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Se corrigió un error donde no se podía guardar la configuración."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Se corrigió un error donde no se podía guardar la configuración."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7,6,5 (2023 10 24)\n\n- Opravená chyba, pri ktorej nebolo možné uložiť nastavenia."
+    "devnote": "7,6,5 (2023 10 27)\n\n- Opravená chyba, pri ktorej nebolo možné uložiť nastavenia."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Odpravljeno napako, kjer nastavitev ni bilo mogoče shraniti."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Odpravljeno napako, kjer nastavitev ni bilo mogoče shraniti."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.6.5 (2023 10 24)\n\n- සැකසුම් ගැළවිය නොහැකි දෝෂයක් සවි කර ඇත."
+    "devnote": "7.6.6 (2023 10 27)\n\n- සැකසුම් ගැළවිය නොහැකි දෝෂයක් සවි කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.6.5 (2023 10 24)\n\n- إصلاح الخلل حيث لا يمكن حفظ الإعدادات."
+    "devnote": "7.6.6 (2023 10 27)\n\n- إصلاح الخلل حيث لا يمكن حفظ الإعدادات."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Fix նջեց մի սխալ, որտեղ պարամետրերը հնարավոր չէ փրկել:"
+    "devnote": "7.6.6 (2023 10 27)\n\n- Fix նջեց մի սխալ, որտեղ պարամետրերը հնարավոր չէ փրկել:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Lagaði villu þar sem ekki var hægt að vista stillingar."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Lagaði villu þar sem ekki var hægt að vista stillingar."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Parametrlərin saxlanıla bilmədiyi bir səhv düzəldildi."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Parametrlərin saxlanıla bilmədiyi bir səhv düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.6.5 (2023 10 24)\n\n- 'n fout reggestel waar instellings nie gestoor kon word nie."
+    "devnote": "7.6.6 (2023 10 27)\n\n- 'n fout reggestel waar instellings nie gestoor kon word nie."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Fiksuar një gabim ku cilësimet nuk mund të ruheshin."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Fiksuar një gabim ku cilësimet nuk mund të ruheshin."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.6.5 (2023 10 24)\n\n- ቅንብሮች ሊቀመጡ የማይችሉበት ሳንካ ተጠግኗል."
+    "devnote": "7.6.6 (2023 10 27)\n\n- ቅንብሮች ሊቀመጡ የማይችሉበት ሳንካ ተጠግኗል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Parandatud viga, kus sätteid ei saanud salvestada."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Parandatud viga, kus sätteid ei saanud salvestada."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.6.5 (2023 10 24)\n\n- ایک بگ طے کیا جہاں ترتیبات کو محفوظ نہیں کیا جاسکتا تھا۔"
+    "devnote": "7.6.6 (2023 10 27)\n\n- ایک بگ طے کیا جہاں ترتیبات کو محفوظ نہیں کیا جاسکتا تھا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Виправлена ​​помилка, де налаштування не вдалося зберегти."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Виправлена ​​помилка, де налаштування не вдалося зберегти."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7,6,5 (2023 10 24)\n\n- Risolto un bug in cui le impostazioni non potevano essere salvate."
+    "devnote": "7,6,5 (2023 10 27)\n\n- Risolto un bug in cui le impostazioni non potevano essere salvate."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Memperbaiki bug di mana pengaturan tidak dapat disimpan."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Memperbaiki bug di mana pengaturan tidak dapat disimpan."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.6.5（2023 10 24）\n\n - 設定を保存できないバグを修正しました。"
+    "devnote": "7.6.6（2023 10 27）\n\n - 設定を保存できないバグを修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.6.5 (2023 10 24)\n\n- დააფიქსირა შეცდომა, სადაც პარამეტრების შენახვა შეუძლებელი იყო."
+    "devnote": "7.6.6 (2023 10 27)\n\n- დააფიქსირა შეცდომა, სადაც პარამეტრების შენახვა შეუძლებელი იყო."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Ukulungiswa kwesiphazamiso lapho izilungiselelo zingavikeleki."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Ukulungiswa kwesiphazamiso lapho izilungiselelo zingavikeleki."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.6.5（2023 10 24）\n\n - 修复了无法保存设置的错误。"
+    "devnote": "7.6.6（2023 10 27）\n\n - 修复了无法保存设置的错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.6.5（2023 10 24）\n\n - 修復了無法保存設置的錯誤。"
+    "devnote": "7.6.6（2023 10 27）\n\n - 修復了無法保存設置的錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.6.5（2023 10 24）\n\n - 修復了無法保存設置的錯誤。"
+    "devnote": "7.6.6（2023 10 27）\n\n - 修復了無法保存設置的錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Opravena chyba, kde nelze uložit nastavení."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Opravena chyba, kde nelze uložit nastavení."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.6.5 (2023 10 24)\n\n- параметрлерді сақтау мүмкін болмайтын қатені тіркеңіз."
+    "devnote": "7.6.6 (2023 10 27)\n\n- параметрлерді сақтау мүмкін болмайтын қатені тіркеңіз."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.6.5 (2023 10 24)\n\n- S'ha corregit un error on no es podia desar la configuració."
+    "devnote": "7.6.6 (2023 10 27)\n\n- S'ha corregit un error on no es podia desar la configuració."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.6.5 (2023 10 24)\n\n- ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಉಳಿಸಲಾಗದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "7.6.6 (2023 10 27)\n\n- ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಉಳಿಸಲಾಗದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.6.5 (2023. 10 24)\n\n- Ispravljena je greška u kojoj se postavke ne mogu spremiti."
+    "devnote": "7.6.6 (2023. 10 27)\n\n- Ispravljena je greška u kojoj se postavke ne mogu spremiti."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.6.5 (2023 10 24 24)\n\n- ជួសជុលកំហុសដែលការកំណត់មិនអាចរក្សាទុកបាន។"
+    "devnote": "7.6.6 (2023 10 27 24)\n\n- ជួសជុលកំហុសដែលការកំណត់មិនអាចរក្សាទុកបាន។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Жөндөөлөр сакталбай турган мүчүлүштүктү бекемдейт."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Жөндөөлөр сакталбай турган мүчүлүштүктү бекемдейт."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.6.5 (2023 10 24)\n\n- அமைப்புகளை சேமிக்க முடியாத ஒரு பிழை சரி செய்யப்பட்டது."
+    "devnote": "7.6.6 (2023 10 27)\n\n- அமைப்புகளை சேமிக்க முடியாத ஒரு பிழை சரி செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.6.5 (2023 10 24)\n\n- แก้ไขข้อผิดพลาดที่ไม่สามารถบันทึกการตั้งค่า"
+    "devnote": "7.6.6 (2023 10 27)\n\n- แก้ไขข้อผิดพลาดที่ไม่สามารถบันทึกการตั้งค่า"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Ayarların kaydedilemediği bir hata düzeltildi."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Ayarların kaydedilemediği bir hata düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.6.5 (2023 10 24)\n\n- సెట్టింగులను సేవ్ చేయలేని బగ్ పరిష్కరించబడింది."
+    "devnote": "7.6.6 (2023 10 27)\n\n- సెట్టింగులను సేవ్ చేయలేని బగ్ పరిష్కరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.6.5 (2023 10 24 24)\n\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਜਿੱਥੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ."
+    "devnote": "7.6.6 (2023 10 27 24)\n\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਜਿੱਥੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.6.5 (2023 10 24)\n\n- رفع اشکالی که در آن تنظیمات قابل ذخیره نیست."
+    "devnote": "7.6.6 (2023 10 27)\n\n- رفع اشکالی که در آن تنظیمات قابل ذخیره نیست."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Corrigido um bug em que as configurações não puderam ser salvas."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Corrigido um bug em que as configurações não puderam ser salvas."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.6,5 (2023 10 24)\n\n- Naprawiono błąd, w którym ustawienia nie można zapisać."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Naprawiono błąd, w którym ustawienia nie można zapisać."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Correction d'un bogue où les paramètres n'ont pas pu être enregistrés."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Correction d'un bogue où les paramètres n'ont pas pu être enregistrés."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7,6,5 (2023 10 24)\n\n- Korjattu virhe, johon asetuksia ei voitu tallentaa."
+    "devnote": "7,6,5 (2023 10 27)\n\n- Korjattu virhe, johon asetuksia ei voitu tallentaa."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Nakapirming isang bug kung saan hindi mai -save ang mga setting."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Nakapirming isang bug kung saan hindi mai -save ang mga setting."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.6.5 (2023 10 24)\n\n- Javítva egy hibát, ahol a beállításokat nem lehetett menteni."
+    "devnote": "7.6.6 (2023 10 27)\n\n- Javítva egy hibát, ahol a beállításokat nem lehetett menteni."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.6.5 (2023 10 24)\n\n- תוקן באג שבו לא ניתן היה לשמור הגדרות."
+    "devnote": "7.6.6 (2023 10 27)\n\n- תוקן באג שבו לא ניתן היה לשמור הגדרות."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.6.5 (2023 10 24)\n\n- एक बग फिक्स्ड जहां सेटिंग्स को बचाया नहीं जा सका।"
+    "devnote": "7.6.6 (2023 10 27)\n\n- एक बग फिक्स्ड जहां सेटिंग्स को बचाया नहीं जा सका।"
   }
 }
