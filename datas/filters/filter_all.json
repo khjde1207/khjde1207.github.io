@@ -58,7 +58,7 @@
     {
         "name": "apostrophe filter",
         "expr": false,
-        "filter": "'",
+        "filter": "[\\'|\\\"|“|”]",
         "to": "",
         "enable": false
     },
