@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Fixed a bug where settings could not be saved."
+    "devnote": "7.6.7 (2023 11 05)\n\n- The number selection function has been changed to a drag type.\n- Added text underline function.\n- You can now set the opening direction.\n- Fixed a bug where TTS continued to play even if the earphones were disconnected in certain situations.\n- The bookmark sharing UI has been modified."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.6.6 (2023 10 27)\n\n- 설정 저장이 안되는 버그를 수정 하였습니다."
+    "devnote": "7.6.7 (2023 11 05)\n\n- 숫자 선택 기능을 드래그 형태로 변경하였습니다. \n- 텍스트 밑줄 기능을 추가 하였습니다. \n- 설정 열리는 방향을 설정 할 수 있도록 하였습니다. \n- 특정 상황에서 이어폰 연결이 끊어져도TTS 가 계속 재생되던 버그를 수정 하였습니다. \n- 북마크 공유 UI 를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Fixouse un erro onde non se puido gardar a configuración."
+    "devnote": "7.6.7 (2023 11 05)\n\n- A función de selección de números cambiouse a un tipo de arrastre.\n- Engadiuse a función subliñada de texto.\n- Agora podes configurar a dirección de apertura.\n- Fixouse un erro onde TTS seguiu xogando aínda que os auriculares estaban desconectados en determinadas situacións.\n- Modificouse o marcador de intercambio de interface de usuario."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.6.6 (2023 10 27)\n\n- એક ભૂલ સ્થિર કરો જ્યાં સેટિંગ્સ બચાવી શકાતી નથી."
+    "devnote": "7.6.7 (2023 11 05)\n\n- નંબર પસંદગી કાર્યને ડ્રેગ પ્રકારમાં બદલવામાં આવ્યું છે.\n- ટેક્સ્ટ અન્ડરલાઇન ફંક્શન ઉમેર્યું.\n- તમે હવે ઉદઘાટન દિશા સેટ કરી શકો છો.\n- ભૂલને ઠીક કરી જ્યાં ટીટીએસ રમવાનું ચાલુ રાખ્યું, પછી ભલે ઇયરફોન અમુક પરિસ્થિતિઓમાં ડિસ્કનેક્ટ થઈ ગયા હોય.\n- બુકમાર્ક શેરિંગ યુઆઈમાં ફેરફાર કરવામાં આવ્યા છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Διορθώθηκε ένα σφάλμα όπου οι ρυθμίσεις δεν μπορούσαν να αποθηκευτούν."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Η λειτουργία επιλογής αριθμού έχει αλλάξει σε έναν τύπο σύρματος.\n- Προστέθηκε η λειτουργία υπογράμμισης κειμένου.\n- Τώρα μπορείτε να ορίσετε την κατεύθυνση ανοίγματος.\n- Διορθώθηκε ένα σφάλμα όπου το TTS συνέχισε να παίζει ακόμη και αν τα ακουστικά αποσυνδέθηκαν σε ορισμένες καταστάσεις.\n- Το UI που μοιράζεται το σελιδοδείκτη έχει τροποποιηθεί."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Een bug opgelost waar instellingen niet konden worden opgeslagen."
+    "devnote": "7.6.7 (2023 11 05)\n\n- De nummerselectiefunctie is gewijzigd in een sleeptype.\n- Tekst onderstreept functie toegevoegd.\n- U kunt nu de openingsrichting instellen.\n- Een bug opgelost waar TTS bleef spelen, zelfs als de oortelefoons in bepaalde situaties werden losgekoppeld.\n- De bookmark die UI delen is gewijzigd."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "7.6.6 (2023 10 2 24)\n\n- सेटिंग्स बचत गर्न सकिएन भने बग फिक्स गरियो।"
+    "devnote": ".6..6..7 (2023 113 11)\n\n- नम्बर चयन प्रकार्य एक ड्र्याग प्रकारमा परिवर्तन गरिएको छ।\n- पाठ रेखांकित कार्य थपियो।\n- अब तपाइँ सुरुको दिशा सेट गर्न सक्नुहुन्छ।\n- कुनै परिस्थितिमा काँसाली विच्छेदन भए पनि TTTS जहाँ TTS खेल्नुहोस्।\n- बुकमार्क साझेदारी यूआई परिमार्जन गरिएको छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Fikset en feil der innstillinger ikke kunne lagres."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Tallvalgsfunksjonen er endret til en dragtype.\n- Lagt til tekstundersøkelsesfunksjon.\n- Du kan nå angi åpningsretningen.\n- Fikset en feil der TTS fortsatte å spille selv om øretelefonene ble koblet fra i visse situasjoner.\n- Bokmerket delingsgrensesnittet er endret."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Rettet en fejl, hvor indstillingerne ikke kunne gemmes."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Antaludvælgelsesfunktionen er blevet ændret til en træktype.\n- Tilføjet tekst understreger funktionen.\n- Du kan nu indstille åbningsretningen.\n- Rettet en fejl, hvor TTS fortsatte med at spille, selvom øretelefoner blev afbrudt i visse situationer.\n- Bogmærke -delings UI er blevet ændret."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Ein Fehler behoben, bei dem die Einstellungen nicht gespeichert werden konnten."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Die Nummernauswahlfunktion wurde in einen Drag -Typ geändert.\n- Funktion zur Unterstreichung von Text hinzugefügt.\n- Sie können jetzt die Öffnungsrichtung einstellen.\n- Es wurde ein Fehler behoben, bei dem TTS weiterhin spielte, selbst wenn die Ohrhörer in bestimmten Situationen getrennt wurden.\n- Das Lesezeichen -Sharing -UI wurde geändert."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.6.6 (2023 10 27)\n\n- ແກ້ໄຂຂໍ້ບົກພ່ອງບ່ອນທີ່ການຕັ້ງຄ່າບໍ່ສາມາດບັນທຶກໄດ້."
+    "devnote": "7.6.7 (2023 11 05)\n\n- ຟັງຊັນການເລືອກຕົວເລກໄດ້ຖືກປ່ຽນເປັນປະເພດລາກ.\n- ເພີ່ມການເຮັດວຽກຂໍ້ຄວາມ.\n- ດຽວນີ້ທ່ານສາມາດກໍານົດທິດທາງເປີດ.\n- ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ TTS ໄດ້ສືບຕໍ່ຫຼິ້ນເຖິງແມ່ນວ່າຫູຟັງຖືກຕັດຂາດໃນບາງສະຖານະການ.\n- ການແບ່ງປັນ Bookmark UI ໄດ້ຖືກດັດແກ້ແລ້ວ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Novērsta kļūda, kurā iestatījumus nevarēja saglabāt."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Skaitļu izvēles funkcija ir mainīta uz vilkšanas veidu.\n- Pievienota teksta pasvītrojuma funkcija.\n- Tagad jūs varat iestatīt sākuma virzienu.\n- Novērsta kļūda, kurā TTS turpināja spēlēt, pat ja austiņas tika atvienotas noteiktās situācijās.\n- Grāmatzīmju dalīšanas lietotāja saskarne ir modificēta."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7,6,5 (2023 10 27)\n\n- Исправлена ​​ошибка, где настройки не могут быть сохранены."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Функция выбора номеров была изменена на тип перетаскивания.\n- Добавлен текст подчеркнутый функция.\n- Теперь вы можете установить направление открытия.\n- Исправлена ​​ошибка, в которой TTS продолжал играть, даже если наушники были отключены в определенных ситуациях.\n- Повреждение обмена закладками было изменено."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.6.6 (2023 10 27)\n\n- S -a rezolvat o eroare în care setările nu au putut fi salvate."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Funcția de selecție a numerelor a fost modificată într -un tip de tracțiune.\n- Adăugat funcția de subliniere a textului.\n- Acum puteți seta direcția de deschidere.\n- S -a rezolvat o eroare în care TTS a continuat să joace chiar dacă căștile au fost deconectate în anumite situații.\n- UI de partajare a marcajului a fost modificat."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Ištaisyta klaida, kur nustatymų nebuvo galima išsaugoti."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Skaičių pasirinkimo funkcija buvo pakeista į vilkimo tipą.\n- Pridėta teksto pabraukimo funkcija.\n- Dabar galite nustatyti atidarymo kryptį.\n- Ištaisyta klaida, kurioje TTS ir toliau grojo, net jei ausinės buvo atjungtos tam tikrose situacijose.\n- Pažymėjimo dalijimosi vartotojo sąsaja buvo modifikuota."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.6.6 (2023 10 27)\n\n- सेटिंग्ज जतन केली जाऊ शकत नाही अशा बगचे निराकरण केले."
+    "devnote": "7.6.7 (2023 11 05)\n\n- क्रमांक निवड कार्य ड्रॅग प्रकारात बदलले गेले आहे.\n- मजकूर अधोरेखित कार्य जोडले.\n- आपण आता सुरुवातीची दिशा सेट करू शकता.\n- इयरफोन विशिष्ट परिस्थितीत डिस्कनेक्ट केलेले असले तरीही टीटीएस खेळत राहिले तेथे एक बग निश्चित केला.\n- बुकमार्क सामायिकरण यूआय सुधारित केले गेले आहे."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Поправи грешка каде што не може да се зачуваат поставките."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Функцијата за избор на број е сменета во тип на влечење.\n- Додадена функција за подвлекување текст.\n- Сега можете да ја поставите насоката за отворање.\n- Поправи грешка каде ТТС продолжи да игра дури и ако слушалките беа исклучени во одредени ситуации.\n- UI за споделување обележувачи е изменето."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.6.6 (2023 10 27)\n\n- ക്രമീകരണങ്ങൾ സംരക്ഷിക്കാൻ കഴിയാത്ത ഒരു ബഗ് പരിഹരിച്ചു."
+    "devnote": "7.6.7 (2023 11 05)\n\n- നമ്പർ തിരഞ്ഞെടുക്കൽ പ്രവർത്തനം ഒരു ഡ്രാഗ് തരത്തിലേക്ക് മാറ്റി.\n- ടെക്സ്റ്റ് ചേർത്തു.\n- നിങ്ങൾക്ക് ഇപ്പോൾ പ്രാരംഭ ദിശ സജ്ജമാക്കാൻ കഴിയും.\n- ചില സാഹചര്യങ്ങളിൽ ഇയർഫോണുകൾ വിച്ഛേദിക്കപ്പെട്ടാലും ടിടിഎസ് കളിക്കുന്നത് ഒരു ബഗ് പരിഹരിച്ചു.\n- യുഐ പങ്കിടൽ പങ്കിടൽ പരിഷ്ക്കരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Memperbaiki pepijat di mana tetapan tidak dapat disimpan."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Fungsi pemilihan nombor telah ditukar kepada jenis seret.\n- Menambah fungsi garis bawah teks.\n- Anda kini boleh menetapkan arah pembukaan.\n- Memperbaiki pepijat di mana TTS terus bermain walaupun fon telinga diputuskan dalam situasi tertentu.\n- UI perkongsian penanda buku telah diubah suai."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Тохиргоог хадгалах боломжгүй байгаа алдааг засна."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Дугаар сонгох функцийг чирэх төрөлд өөрчилсөн.\n- Текстийн доогуур тохирох функцийг нэмсэн.\n- Та одоо нээлтийн чиглэлийг тохируулж болно.\n- TTS нь CTS нь тодорхой нөхцөл байдалд үлдэж байсан ч үргэлжлүүлэн тоглохыг үргэлжлүүлнэ.\n- UI-г хуваалцах хавчуурга нь өөрчлөгдсөн байна."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Ezarpenak ezin dira gorde ezarpenak gorde."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Zenbakiaren hautaketa funtzioa arrastatu mota batera aldatu da.\n- Gehitutako testua azpimarratzeko funtzioa.\n- Orain irekiera norabidea ezar dezakezu.\n- TTS erreproduzitzen jarraitu zuen akats bat konpondu zen, entzungailuak egoera jakin batzuetan deskonektatu bazen ere.\n- UI partekatzeko laster-marka aldatu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7223 10 27)\n\n- ချိန်ညှိချက်များကိုသိမ်းဆည်း။ မရနိုင်သော bug တစ်ခု fixed ။"
+    "devnote": "7.6.7 (2023 11 05)\n\n- နံပါတ်ရွေးချယ်ရေး function ကိုဆွဲအမျိုးအစားသို့ပြောင်းထားသည်။\n- ဆက်ပြောသည်စာသားမျဉ်းသား function ကို။\n- ယခုသင်သည်အဖွင့်လမ်းညွှန်ကိုသတ်မှတ်နိုင်သည်။\n- အချို့သောအခြေအနေများတွင်နားကြပ်များအဆက်ပြတ်နေလျှင်ပင် TTS ဆက်လက်ကစားနေသည့် bug တစ်ခုပြုလုပ်ခဲ့သည်။\n- Bookmark Sharing UI ကိုပြုပြင်ထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Đã sửa lỗi mà không thể lưu cài đặt."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Hàm lựa chọn số đã được thay đổi thành loại kéo.\n- Đã thêm chức năng gạch chân văn bản.\n- Bây giờ bạn có thể đặt hướng mở.\n- Đã sửa lỗi trong đó TTS tiếp tục chơi ngay cả khi tai nghe bị ngắt kết nối trong một số tình huống nhất định.\n- Giao diện người dùng chia sẻ đánh dấu đã được sửa đổi."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Выпраўлена памылка, дзе налады нельга захаваць."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Функцыя выбару лікаў была зменена на тып перацягвання.\n- Дададзены тэкст падкрэсліваецца функцыя.\n- Цяпер вы можаце ўсталяваць кірунак адкрыцця.\n- Выпраўлена памылка, калі TTS працягвала гуляць, нават калі навушнікі былі адключаны ў пэўных сітуацыях.\n- Закладка, які абмен карыстацкі інтэрфейс быў зменены."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.6.6 (2023 10 27)\n\n- এমন একটি বাগ ঠিক করা হয়েছে যেখানে সেটিংস সংরক্ষণ করা যায় না।"
+    "devnote": "7.6.7 (2023 11 05)\n\n- নম্বর নির্বাচন ফাংশনটি একটি ড্র্যাগ প্রকারে পরিবর্তন করা হয়েছে।\n- যুক্ত পাঠ্য আন্ডারলাইন ফাংশন।\n- আপনি এখন খোলার দিকটি সেট করতে পারেন।\n- একটি বাগ ঠিক করা হয়েছে যেখানে টিটিএস খেলতে থাকে এমনকি কিছু পরিস্থিতিতে ইয়ারফোনগুলি সংযোগ বিচ্ছিন্ন হয়ে গেলেও।\n- বুকমার্ক শেয়ারিং ইউআই সংশোধন করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Фиксирана грешка, при която настройките не могат да бъдат запазени."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Функцията за избор на номер е променена на тип влачене.\n- добавена функция за подчертаване на текст.\n- Вече можете да зададете посоката на отваряне.\n- Фиксирана грешка, при която TTS продължава да играе, дори ако слушалките са изключени в определени ситуации.\n- Бунтовният потребителски интерфейс е модифициран."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Поправљена је грешка у којој се поставке нису могле да се сачувају."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Функција одабира броја је промењена у тип вуче.\n- Додата функција подвлачења текста.\n- Сада можете да поставите увод у отварање.\n- Поправљена је грешка у којој су ТТС наставили да играју чак и ако су слушалице искључене у одређеним ситуацијама.\n- Дељење обележивача УИ је модификован."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Zisizohamishika mdudu ambapo mipangilio haikuweza kuokolewa."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Kazi ya uteuzi wa nambari imebadilishwa kuwa aina ya Drag.\n- Kuongeza kazi ya maandishi ya maandishi.\n- Sasa unaweza kuweka mwelekeo wa ufunguzi.\n- Zisizohamishika mdudu ambapo TTS iliendelea kucheza hata kama simu za masikio zilikataliwa katika hali fulani.\n- UI ya Kushiriki Alamisho imebadilishwa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Fixade ett fel där inställningar inte kunde sparas."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Nummervalsfunktionen har ändrats till en dragtyp.\n- Tillagd textunderstyrningsfunktion.\n- Du kan nu ställa in öppningsriktningen.\n- Fixade ett fel där TTS fortsatte att spela även om hörlurarna kopplades bort i vissa situationer.\n- Bokmärken som delar användargränssnittet har modifierats."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Se corrigió un error donde no se podía guardar la configuración."
+    "devnote": "7.6.7 (2023 11 05)\n\n- La función de selección de números se ha cambiado a un tipo de arrastre.\n- Función de subrayamiento de texto agregado.\n- Ahora puede establecer la dirección de apertura.\n- Se corrigió un error donde TTS continuó jugando incluso si los auriculares se desconectaban en ciertas situaciones.\n- El marcador compartiendo la interfaz de usuario ha sido modificado."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7,6,5 (2023 10 27)\n\n- Opravená chyba, pri ktorej nebolo možné uložiť nastavenia."
+    "devnote": "7,6,7 (2023 11 05)\n\n- Funkcia výberu čísla bola zmenená na typ ťahania.\n- Pridaná funkcia podčiarknutia textu.\n- Teraz môžete nastaviť smer otvárania.\n- Opravená chyba, kde TTS pokračovali v hre, aj keď boli slúchadlá odpojené v určitých situáciách.\n- UI zdieľanie záložiek bolo upravené."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Odpravljeno napako, kjer nastavitev ni bilo mogoče shraniti."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Funkcija izbire številk je bila spremenjena v vrsto povleka.\n- Dodana funkcijo podkrepa besedila.\n- Zdaj lahko nastavite smer odpiranja.\n- Odpravljena je napaka, kjer so TTS še naprej igrali, tudi če so bile slušalke v določenih situacijah odklopljene.\n- Uporabniški vmesnik za izmenjavo zaznamkov je spremenjen."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.6.6 (2023 10 27)\n\n- සැකසුම් ගැළවිය නොහැකි දෝෂයක් සවි කර ඇත."
+    "devnote": "7.6.7 (2023 11 05)\n\n- සංඛ්යා තේරීමේ කාර්යය ඇදගෙන යාමේ වර්ගය ලෙස වෙනස් කර ඇත.\n- එකතු කරන ලද පෙළ අවධාරණය කරන්න.\n- ඔබට දැන් ආරම්භක දිශාව සැකසිය හැකිය.\n- යම් යම් අවස්ථාවන්හිදී කරර්ෆෝන් විසන්ධි වූවත්, ටීටීඑස් දිගින් දිගටම ක්රීඩා කළ දෝෂයක් සවි කර ඇත.\n- පිටු සලකුණු බෙදාගැනීම UI වෙනස් කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.6.6 (2023 10 27)\n\n- إصلاح الخلل حيث لا يمكن حفظ الإعدادات."
+    "devnote": "7.6.7 (2023 11 05)\n\n- تم تغيير وظيفة اختيار الأرقام إلى نوع السحب.\n- إضافيا النص تسطير وظيفة.\n- يمكنك الآن تعيين اتجاه الافتتاح.\n- تم إصلاح الخلل حيث استمرت TTS في اللعب حتى لو تم فصل سماعات الأذن في مواقف معينة.\n- تم تعديل واجهة المستخدم المشاركة المرجعية."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Fix նջեց մի սխալ, որտեղ պարամետրերը հնարավոր չէ փրկել:"
+    "devnote": "7.6.7 (2023 11 05)\n\n- Թվերի ընտրության գործառույթը փոխվել է քաշքշուկի տեսակից:\n- Ավելացված տեքստի ընդգծման գործառույթ:\n- Այժմ կարող եք սահմանել բացման ուղղությունը:\n- Հաստատեց մի սխալ, որտեղ TT- ները շարունակեցին խաղալ, նույնիսկ եթե ականջակալները անջատվեին որոշակի իրավիճակներում:\n- Էջանշման փոխանակումը UI- ն փոփոխվել է:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Lagaði villu þar sem ekki var hægt að vista stillingar."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Fjöldi valaðgerðar hefur verið breytt í dráttargerð.\n- Bætt við texta undirstrikun.\n- Þú getur nú stillt opnunarstefnu.\n- Lagaði galla þar sem TTS hélt áfram að spila jafnvel þó að heyrnartólin væru aftengd við vissar aðstæður.\n- Bókamerkjamiðlun HÍ hefur verið breytt."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Parametrlərin saxlanıla bilmədiyi bir səhv düzəldildi."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Nömrə seçimi funksiyası sürükləmə növünə dəyişdirildi.\n- Əlavə edilmiş mətnin alt funksiyası.\n- İndi açılış istiqamətini təyin edə bilərsiniz.\n- Qulaqlıqların müəyyən hallarda kəsildiyi təqdirdə TTS-in oynamağa davam etdiyi bir səhv düzəldildi.\n- Əlfəcin paylaşma UI dəyişdirildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.6.6 (2023 10 27)\n\n- 'n fout reggestel waar instellings nie gestoor kon word nie."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Die nommer -seleksiefunksie is verander na 'n sleeptipe.\n- Bygevoegde teks onderstreepfunksie.\n- U kan nou die openingsrigting instel.\n- 'n fout reggestel waar TTS aanhou speel, selfs al is die oorfone in sekere situasies ontkoppel.\n- Die UI -deel van die boekmerk is gewysig."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Fiksuar një gabim ku cilësimet nuk mund të ruheshin."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Funksioni i përzgjedhjes së numrave është ndryshuar në një lloj zvarritje.\n- Funksioni i nënvizuar i tekstit të shtuar.\n- Tani mund të vendosni drejtimin e hapjes.\n- Fiksoi një gabim ku TTS vazhdoi të luante edhe nëse kufjet ishin shkëputur në situata të caktuara.\n- Ndarja e faqerojtës UI është modifikuar."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.6.6 (2023 10 27)\n\n- ቅንብሮች ሊቀመጡ የማይችሉበት ሳንካ ተጠግኗል."
+    "devnote": "7.6.7 (2023 11 05)\n\n- የቁጥር ምርጫ ተግባር ወደ ጎትት ዓይነት ተለው has ል.\n- የታከመ ጽሑፍ ሥራን አክሏል.\n- አሁን የመክፈቻ አቅጣጫውን ማዘጋጀት ይችላሉ.\n- የጆሮ ማዳመጫዎቹ በተወሰኑ ሁኔታዎች ቢኖሩም እንኳ ቲቶቶች ቢጫወቱ ትቶች መጫወቱን የቀጠለ ሳንካ ተጠግኗል.\n- ዕልባት ማካካሻ ተሻሽሏል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Parandatud viga, kus sätteid ei saanud salvestada."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Numbrite valikufunktsioon on muudetud lohiseks.\n- lisatud teksti allaliinfunktsioon.\n- nüüd saate avada avasuundi.\n- Parandatud viga, kus TTS jätkas mängimist isegi siis, kui kõrvaklapid olid teatud olukordades lahti ühendatud.\n- järjehoidjate jagamise kasutajaliidest on muudetud."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.6.6 (2023 10 27)\n\n- ایک بگ طے کیا جہاں ترتیبات کو محفوظ نہیں کیا جاسکتا تھا۔"
+    "devnote": "7.6.7 (2023 11 05)\n\n- نمبر سلیکشن فنکشن کو ڈریگ قسم میں تبدیل کردیا گیا ہے۔\n- شامل کردہ متن انڈر لائن فنکشن۔\n- اب آپ افتتاحی سمت طے کرسکتے ہیں۔\n- ایک بگ طے کیا جہاں ٹی ٹی ایس کھیلتا رہا یہاں تک کہ اگر کچھ حالات میں ائرفون منقطع ہوگئے تھے۔\n- بک مارک شیئرنگ UI میں ترمیم کی گئی ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Виправлена ​​помилка, де налаштування не вдалося зберегти."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Функція вибору числа змінена на тип перетягування.\n- Додано функцію підкреслення тексту.\n- Тепер ви можете встановити напрямок входу.\n- Виправлена ​​помилка, де ТТ продовжував грати, навіть якщо навушники були відключені в певних ситуаціях.\n- Користувацький інтерфейс, що ділиться закладками, було змінено."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7,6,5 (2023 10 27)\n\n- Risolto un bug in cui le impostazioni non potevano essere salvate."
+    "devnote": "7.6.7 (2023 11 05)\n\n- La funzione di selezione dei numeri è stata modificata in un tipo di trascinamento.\n- Aggiunta funzione sottolineatura del testo.\n- Ora puoi impostare la direzione di apertura.\n- Risolto un bug in cui TTS continuava a giocare anche se gli auricolari erano scollegati in determinate situazioni.\n- L'interfaccia utente di condivisione dei segnalibri è stata modificata."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Memperbaiki bug di mana pengaturan tidak dapat disimpan."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Fungsi pemilihan angka telah diubah ke jenis seret.\n- Menambahkan fungsi garis bawah teks.\n- Anda sekarang dapat mengatur arah pembukaan.\n- Memperbaiki bug di mana TTS terus bermain bahkan jika earphone terputus dalam situasi tertentu.\n- UI Berbagi Bookmark telah dimodifikasi."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.6.6（2023 10 27）\n\n - 設定を保存できないバグを修正しました。"
+    "devnote": "7.6.7（2023 11 05）\n\n - 数値選択関数はドラッグタイプに変更されました。\n - テキスト下線関数が追加されました。\n - これで、オープニング方向を設定できます。\n - 特定の状況でイヤホンが切断された場合でも、TTSが再生され続けたバグを修正しました。\n - ブックマーク共有UIが変更されました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.6.6 (2023 10 27)\n\n- დააფიქსირა შეცდომა, სადაც პარამეტრების შენახვა შეუძლებელი იყო."
+    "devnote": "7.6.7 (2023 11 05)\n\n- რიცხვის შერჩევის ფუნქცია შეიცვალა დრაკონის ტიპზე.\n- დამატებული ტექსტი ხაზს უსვამს ფუნქციას.\n- ახლა შეგიძლიათ დააყენოთ გახსნის მიმართულება.\n- დააფიქსირა შეცდომა, სადაც TTS– მა განაგრძო თამაში, თუნდაც ყურსასმენების გათიშვა გარკვეულ სიტუაციებში.\n- სანიშნე UI- ს სანიშნე შეიცვალა."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Ukulungiswa kwesiphazamiso lapho izilungiselelo zingavikeleki."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Umsebenzi wokukhethwa kwezinombolo ushintshelwe kuhlobo lokudonsela.\n- Umsebenzi we-Underline owengezwe.\n- Manje usungasetha indlela yokuvula.\n- Silungiswe isiphazamisi lapho ama-TTS eqhubeka nokudlala noma ngabe izindlebe zinqanyuliwe ezimweni ezithile.\n- Ukwabelana ngeBhukumaka i-UI kuguquliwe."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.6.6（2023 10 27）\n\n - 修复了无法保存设置的错误。"
+    "devnote": "7.6.7（2023 11 05）\n\n - 数字选择功能已更改为拖动类型。\n - 添加了文本下划线功能。\n - 您现在可以设置开放方向。\n - 修复了一个错误，即使在某些情况下将耳机断开连接，TTS仍继续播放。\n - 书签共享UI已修改。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.6.6（2023 10 27）\n\n - 修復了無法保存設置的錯誤。"
+    "devnote": "7.6.7（2023 11 05）\n\n - 數字選擇功能已更改為拖動類型。\n - 添加了文本下劃線功能。\n - 您現在可以設置開放方向。\n - 修復了一個錯誤，即使在某些情況下將耳機斷開連接，TTS仍繼續播放。\n - 書籤共享UI已修改。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.6.6（2023 10 27）\n\n - 修復了無法保存設置的錯誤。"
+    "devnote": "7.6.7（2023 11 05）\n\n - 數字選擇功能已更改為拖動類型。\n - 添加了文本下劃線功能。\n - 您現在可以設置開放方向。\n - 修復了一個錯誤，即使在某些情況下將耳機斷開連接，TTS仍繼續播放。\n - 書籤共享UI已修改。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Opravena chyba, kde nelze uložit nastavení."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Funkce výběru čísla byla změněna na typ tažení.\n- Přidaná funkce podtržení textu.\n- Nyní můžete nastavit směr otevření.\n- Opravena chyba, kde TTS pokračoval ve hře, i když sluchátka byla v určitých situacích odpojena.\n- Sdílení uživatelského rozhraní záložky bylo upraveno."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.6.6 (2023 10 27)\n\n- параметрлерді сақтау мүмкін болмайтын қатені тіркеңіз."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Нөмірді таңдау функциясы сүйреп апару түріне өзгертілді.\n- Мәтіннің астын сызу функциясы қосылды.\n- Енді сіз ашылу бағытын белгілей аласыз.\n- Құлақаспап белгілі бір жағдайларда ажыратылған болса да, TTS ойнатылып жатқан қатені түзетіңіз.\n- UI бетбелгі бөлісу өзгертілген."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.6.6 (2023 10 27)\n\n- S'ha corregit un error on no es podia desar la configuració."
+    "devnote": "7.6.7 (2023 11 05)\n\n- La funció de selecció de números s'ha canviat per un tipus d'arrossegament.\n- S'ha afegit la funció subratllada de text.\n- Ara podeu definir la direcció d'obertura.\n- S'ha corregit un error on TTS continuava jugant fins i tot si els auriculars es desconnecten en determinades situacions.\n- S'ha modificat la interfície d'interès de compartició de marcadors."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.6.6 (2023 10 27)\n\n- ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಉಳಿಸಲಾಗದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "7.6.7 (2023 11 05)\n\n- ಸಂಖ್ಯೆಯ ಆಯ್ಕೆ ಕಾರ್ಯವನ್ನು ಡ್ರ್ಯಾಗ್ ಪ್ರಕಾರಕ್ಕೆ ಬದಲಾಯಿಸಲಾಗಿದೆ.\n- ಪಠ್ಯ ಅಂಡರ್ಲೈನ್ ​​ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ನೀವು ಈಗ ಆರಂಭಿಕ ದಿಕ್ಕನ್ನು ಹೊಂದಿಸಬಹುದು.\n- ಕೆಲವು ಸಂದರ್ಭಗಳಲ್ಲಿ ಇಯರ್‌ಫೋನ್‌ಗಳು ಸಂಪರ್ಕ ಕಡಿತಗೊಂಡಿದ್ದರೂ ಸಹ ಟಿಟಿಎಸ್ ಆಡುವ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ಬುಕ್‌ಮಾರ್ಕ್ ಹಂಚಿಕೆ ಯುಐ ಅನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.6.6 (2023. 10 27)\n\n- Ispravljena je greška u kojoj se postavke ne mogu spremiti."
+    "devnote": "7.6.7 (2023. 11 05)\n\n- Funkcija odabira broja promijenjena je u vrstu povlačenja.\n- Dodana funkcija podcrtavanja teksta.\n- Sada možete postaviti smjer otvaranja.\n- Ispravljena je greška u kojoj se TTS nastavio igrati čak i ako su slušalice bile isključene u određenim situacijama.\n- UI za dijeljenje oznake je izmijenjeno."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.6.6 (2023 10 27 24)\n\n- ជួសជុលកំហុសដែលការកំណត់មិនអាចរក្សាទុកបាន។"
+    "devnote": "7.6.7 (2023 11 05)\n\n- មុខងារជ្រើសរើសលេខត្រូវបានប្តូរទៅជាប្រភេទអូស។\n- បន្ថែមមុខងារគូសបញ្ជាក់អត្ថបទ។\n- ឥឡូវអ្នកអាចកំណត់ទិសដៅបើក។\n- ជួសជុលកំហុសដែល TTS បន្តលេងទោះបីជាកាសស្តាប់ត្រចៀកត្រូវបានផ្តាច់ក្នុងស្ថានភាពជាក់លាក់ក៏ដោយ។\n- ការចែករំលែកចំណាំរបស់អ្នកជីកបានត្រូវបានកែប្រែ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Жөндөөлөр сакталбай турган мүчүлүштүктү бекемдейт."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Сандык тандоо функциясы сүйрөп бурулганга өзгөртүлдү.\n- текстти кошту.\n- Сиз азыр ачылыш багытын орнотсоңуз болот.\n- Кулакчындар белгилүү бир кырдаалдарда ажыратылса дагы, TTS ойной турган мүчүлүштүктү белгиледи.\n- ui бөлүшүү үчүн кыстарма өзгөртүлдү."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.6.6 (2023 10 27)\n\n- அமைப்புகளை சேமிக்க முடியாத ஒரு பிழை சரி செய்யப்பட்டது."
+    "devnote": "7.6.7 (2023 11 05)\n\n- எண் தேர்வு செயல்பாடு ஒரு இழுவை வகையாக மாற்றப்பட்டுள்ளது.\n- சேர்க்கப்பட்ட உரை அடிக்கோடிட்டு செயல்பாடு.\n- நீங்கள் இப்போது தொடக்க திசையை அமைக்கலாம்.\n- சில சூழ்நிலைகளில் காதணிகள் துண்டிக்கப்பட்டிருந்தாலும் கூட டி.டி.எஸ் தொடர்ந்து விளையாடும் ஒரு பிழை சரி செய்யப்பட்டது.\n- புக்மார்க்கு பகிர்வு UI மாற்றியமைக்கப்பட்டுள்ளது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.6.6 (2023 10 27)\n\n- แก้ไขข้อผิดพลาดที่ไม่สามารถบันทึกการตั้งค่า"
+    "devnote": "7.6.7 (2023 11 05)\n\n- ฟังก์ชั่นการเลือกตัวเลขถูกเปลี่ยนเป็นประเภทการลาก\n- เพิ่มฟังก์ชั่นขีดเส้นใต้ข้อความ\n- ตอนนี้คุณสามารถตั้งทิศทางการเปิด\n- แก้ไขข้อผิดพลาดที่ TTS ยังคงเล่นต่อไปแม้ว่าหูฟังจะถูกตัดการเชื่อมต่อในบางสถานการณ์\n- การแบ่งปันบุ๊กมาร์ก UI ได้รับการแก้ไขแล้ว"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Ayarların kaydedilemediği bir hata düzeltildi."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Sayı seçim işlevi bir sürükleme türü olarak değiştirildi.\n- Metin alt çizgisi işlevi eklendi.\n- Şimdi açılış yönünü ayarlayabilirsiniz.\n- Bazı durumlarda kulaklıkların bağlantısı kesilse bile TTS'nin oynamaya devam ettiği bir hata düzeltildi.\n- Yer işareti paylaşım kullanıcı arayüzü değiştirildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.6.6 (2023 10 27)\n\n- సెట్టింగులను సేవ్ చేయలేని బగ్ పరిష్కరించబడింది."
+    "devnote": "7.6.7 (2023 11 05)\n\n- సంఖ్య ఎంపిక ఫంక్షన్ డ్రాగ్ రకానికి మార్చబడింది.\n- టెక్స్ట్ అండర్లైన్ ఫంక్షన్ జోడించబడింది.\n- మీరు ఇప్పుడు ప్రారంభ దిశను సెట్ చేయవచ్చు.\n- కొన్ని సందర్భాల్లో ఇయర్‌ఫోన్‌లు డిస్‌కనెక్ట్ చేయబడినప్పటికీ టిటిఎస్ ఆడటం కొనసాగించిన బగ్ పరిష్కరించబడింది.\n- బుక్‌మార్క్ షేరింగ్ UI సవరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.6.6 (2023 10 27 24)\n\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਜਿੱਥੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ."
+    "devnote": "7.6.7 (2023 11 05)\n\n- ਨੰਬਰ ਚੋਣ ਫੰਕਸ਼ਨ ਨੂੰ ਇੱਕ ਖਿੱਚ ਦੀ ਕਿਸਮ ਵਿੱਚ ਬਦਲਿਆ ਗਿਆ ਹੈ.\n- ਟੈਕਸਟ ਰੇਖਾ ਦਾ ਕੰਮ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ.\n- ਤੁਸੀਂ ਹੁਣ ਉਦਘਾਟਨ ਦਿਸ਼ਾ ਨਿਰਧਾਰਤ ਕਰ ਸਕਦੇ ਹੋ.\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਜਿੱਥੇ ਟੀਟੀਐਸ ਨੂੰ ਕੁਝ ਸਥਿਤੀਆਂ ਵਿੱਚ ਡਿਸਕਨੈਕਟ ਕੀਤਾ ਗਿਆ ਸੀ ਤਾਂ ਵੀ ਖੇਡਦਾ ਰਿਹਾ.\n- ਬੁੱਕਮਾਰਕ ਸਾਂਝਾ ਕਰਨ ਵਾਲੀ UI ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.6.6 (2023 10 27)\n\n- رفع اشکالی که در آن تنظیمات قابل ذخیره نیست."
+    "devnote": "7.6.7 (2023 11 05)\n\n- عملکرد انتخاب شماره به یک نوع درگ تغییر یافته است.\n- اضافه شده عملکرد زیر خط متن.\n- اکنون می توانید جهت باز کردن را تنظیم کنید.\n- رفع اشکال در جایی که TTS همچنان به بازی خود ادامه می داد حتی اگر هدفون در شرایط خاص قطع شود.\n- UI به اشتراک گذاری نشانک اصلاح شده است."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Corrigido um bug em que as configurações não puderam ser salvas."
+    "devnote": "7.6.7 (2023 11 05)\n\n- A função de seleção de números foi alterada para um tipo de arrasto.\n- Função sublinhada de texto adicionada.\n- Agora você pode definir a direção de abertura.\n- Corrigido um bug no qual o TTS continuou a jogar, mesmo que os fones de ouvido tenham sido desconectados em determinadas situações.\n- A interface do usuário de compartilhamento de favoritos foi modificada."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Naprawiono błąd, w którym ustawienia nie można zapisać."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Funkcja wyboru liczby została zmieniona na typ przeciągania.\n- Dodano funkcję podkreślenia tekstu.\n- Możesz teraz ustawić kierunek otwarcia.\n- Naprawiono błąd, w którym TTS nadal grał, nawet jeśli słuchawki zostały odłączone w niektórych sytuacjach.\n- UI BOOBMMARK UDLIJE został zmodyfikowany."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Correction d'un bogue où les paramètres n'ont pas pu être enregistrés."
+    "devnote": "7.6.7 (2023 11 05)\n\n- La fonction de sélection des nombres a été changée en un type de glisser.\n- Fonction de soulignement du texte ajouté.\n- Vous pouvez maintenant définir la direction d'ouverture.\n- Correction d'un bug où TTS a continué à jouer même si les écouteurs étaient déconnectés dans certaines situations.\n- L'interface utilisateur de partage de signets a été modifiée."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7,6,5 (2023 10 27)\n\n- Korjattu virhe, johon asetuksia ei voitu tallentaa."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Numerovalintatoiminto on muutettu vetotyyppiseksi.\n- Lisätty teksti alleviivaustoiminto.\n- Voit nyt asettaa avaussuunnan.\n- Korjattu virhe, jossa TTS jatkoi pelaamista, vaikka kuulokkeet katkaistiin tietyissä tilanteissa.\n- Kirjanmerkin jakamisen käyttöliittymä on muokattu."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Nakapirming isang bug kung saan hindi mai -save ang mga setting."
+    "devnote": "7.6.7 (2023 11 05)\n\n- Ang function ng pagpili ng numero ay nabago sa isang uri ng pag -drag.\n- Idinagdag ang pag -andar ng text underline.\n- Maaari mo na ngayong itakda ang direksyon ng pagbubukas.\n- Nakapirming isang bug kung saan ang TTS ay patuloy na naglalaro kahit na ang mga earphone ay na -disconnect sa ilang mga sitwasyon.\n- Nabago ang pagbabahagi ng bookmark ng UI."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.6.6 (2023 10 27)\n\n- Javítva egy hibát, ahol a beállításokat nem lehetett menteni."
+    "devnote": "7.6.7 (2023 11 05)\n\n- A számválasztási funkció drag típusra változott.\n- Hozzáadott szöveg aláhúzott funkció.\n- Most beállíthatja a nyitó irányt.\n- Javítva egy hibát, ahol a TT -k továbbra is játszanak, még akkor is, ha a fülhallgatót bizonyos helyzetekben leválasztották.\n- A könyvjelző felhasználói felület megosztása módosult."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.6.6 (2023 10 27)\n\n- תוקן באג שבו לא ניתן היה לשמור הגדרות."
+    "devnote": "7.6.7 (2023 11 05)\n\n- פונקציית בחירת המספרים שונתה לסוג גרירה.\n- פונקציית טקסט תחתון נוסף.\nכעת תוכלו להגדיר את כיוון הפתיחה.\n- תוקן באג בו TTS המשיך לשחק גם אם האוזניות מנותקות במצבים מסוימים.\n- ממשק המשתמש של שיתוף הסימניות שונו."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.6.6 (2023 10 27)\n\n- एक बग फिक्स्ड जहां सेटिंग्स को बचाया नहीं जा सका।"
+    "devnote": "7.6.7 (2023 11 05)\n\n- नंबर चयन फ़ंक्शन को ड्रैग प्रकार में बदल दिया गया है।\n- जोड़ा गया पाठ रेखांकित कार्य।\n- अब आप उद्घाटन दिशा निर्धारित कर सकते हैं।\n- एक बग फिक्स्ड जहां टीटीएस खेलना जारी रखा, भले ही इयरफ़ोन को कुछ स्थितियों में काट दिया गया हो।\n- बुकमार्क शेयरिंग UI को संशोधित किया गया है।"
   }
 }
