@@ -1,60 +1,566 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+    <head>
+        <meta charset="utf-8">
 
-<head>
-	<meta charset="utf-8" />
-	<link rel="icon" href="./favicon.png" />
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	
-		<link href="./_app/immutable/assets/0.df6cd7f9.css" rel="stylesheet">
-		<link href="./_app/immutable/assets/2.69cd30e5.css" rel="stylesheet">
-		<link rel="modulepreload" href="./_app/immutable/entry/start.030dc6ba.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/scheduler.ba9f09e6.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/singletons.52e292ef.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/index.27a1ff06.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/app.870b3fe5.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/index.5c31fba9.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/0.e73636c3.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/runtime.363c5922.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/2.dd829f9f.js"><title>TTRaader</title><!-- HEAD_svelte-zh1ns8_START --><meta name="TTRaader" content="data sharing system"><!-- HEAD_svelte-zh1ns8_END -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+        
+        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+        <script type="text/javascript" src="https://unpkg.com/i18next@23.7.6/dist/umd/i18next.min.js"></script>
+    </head>
 
-	<!-- SMUI Styles -->
-	<link
-		href="https://fonts.googleapis.com/css2?family=Material+Icons&Roboto+Mono:ital@0;1&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
-		rel="stylesheet" />
-	<link rel="stylesheet" href="smui.css" media="(prefers-color-scheme: light)" />
-	<link rel="stylesheet" href="smui-dark.css" media="screen and (prefers-color-scheme: dark)" />
-</head>
+    <body>
+       <div class="container">
+        
+            <div class="row">
+            
+                <div class="row mt-2 justify-content-center">
+                    <img src="./ttreader_icon.png" style="width: 6em; height: 4em;object-fit: contain;" />
+                </div>
 
-<body data-sveltekit-preload-data="hover">
-	<div style="display: contents">  <div class="app svelte-195cvbj"><header class="svelte-83fjve" data-svelte-h="svelte-6176f2"><div class="corner svelte-83fjve"><h class="svelte-83fjve"><img src="/deeplink/_app/immutable/assets/ttreader_icon.9ef4017c.png" alt="TTReader" class="svelte-83fjve"></h></div> </header> <main class="svelte-195cvbj"> <section class="svelte-1mbhff3"> <button class="mdc-button mdc-button--raised smui-button--color-secondary" style=""><div class="mdc-button__ripple"></div> <span class="mdc-button__label">Import</span></button>  </section></main> </div> 
-			
-			<script>
-				{
-					__sveltekit_vwi3ld = {
-						assets: "/deeplink",
-						base: new URL(".", location).pathname.slice(0, -1),
-						env: {}
-					};
+                <div id="list" class="row mt-2 justify-content-center">
+                <!--  -->
+                </div>
 
-					const element = document.currentScript.parentElement;
+                <div class="row mt-5 text-center">
+                    <div class=" align-self-center  ml-mr-auto">
+                        <button id="importBtn" type="button" class="btn btn-primary" onclick="clickevent()">Import</button>
+                    </div>
+                </div>
+           
+            </div>
+            
+        </div>
+    </body>
 
-					const data = [null,null];
+    <script>
+        var items;
+        var type;
 
-					Promise.all([
-						import("./_app/immutable/entry/start.030dc6ba.js"),
-						import("./_app/immutable/entry/app.870b3fe5.js")
-					]).then(([kit, app]) => {
-						kit.start(app, element, {
-							node_ids: [0, 2],
-							data,
-							form: null,
-							error: null
-						});
-					});
-				}
-			</script>
-		</div>
-</body>
+        function clickevent(){
+           open();
+        }
 
+        function open() {
+		   
+            var args = JSON.stringify(items);
+            if (isIOS) {
+                window.location.href = `opentextviewer://data?type=${type}&args=${args}`;
+            } else {
+                window.location.href = `intent://data?type=${type}&args=${args}#Intent;scheme=opentextviewer;end`;
+            }
+        
+	    }
+
+        function updateContent(){
+            var importBtn = window.document.getElementById("importBtn");
+            importBtn.innerText = i18next.t("Import");
+
+            var p = new URLSearchParams(window.location.search);
+            var jsondata = JSON.parse(p.get("args") ?? "{}");
+            if (jsondata["type"] == "filter" && jsondata["datas"] != undefined) {
+                var listDiv = window.document.getElementById("list");
+                type = jsondata["type"];
+                items = jsondata["datas"];
+                
+                for(var k in items){
+                    var item = items[k];
+                
+                    var doc = document.createElement("div")
+                    doc.className = "card";
+                    doc.style = "width: 18rem;margin-right: 10px;"
+                    doc.innerHTML = `
+                    <div class="card-body">
+                        <h5 class="card-title">${item["name"] ?? ""}</h5>
+                        <p class="card-text">${item["filter"]} -> ${item["to"]}</p>
+                        <label class="form-check-label" for="flexCheckDefault">
+                            ${i18next.t("Use regular expressions")}
+                        </label>
+                        <input class="form-check-input" type="checkbox" ${item["expr"] ? "checked" : ""} >
+                    </div>
+                    `;
+                    listDiv.appendChild(doc);
+                }
+                open();
+            }
+            
+        }
+
+        var isIOS = (function () {
+            
+            var iosQuirkPresent = function () {
+                var audio = new Audio();
+
+                audio.volume = 0.5;
+                return audio.volume === 1; // volume cannot be changed from "1" on iOS 12 and below
+            };
+
+            var isIOS = /iPad|iPhone|iPod/.test(window.navigator.userAgent);
+            var isAppleDevice =
+                window.navigator.userAgent.includes("Macintosh");
+            var isTouchScreen = window.navigator.maxTouchPoints >= 1; // true for iOS 13 (and hopefully beyond)
+
+            return (
+                isIOS || (isAppleDevice && (isTouchScreen || iosQuirkPresent()))
+            );
+        
+	    })();
+
+        i18next.init(
+            {
+                lng: navigator.language,
+                fallbackLng: 'en',
+                debug: false,
+                resources: {
+                    "en" :{
+                        translation: {
+                            "Use regular expressions": "Use regular expressions",
+                            "Import": "Import"
+                        }
+                    },
+                    "ko" :{
+                        translation: {
+                            "Use regular expressions": "정규식 사용",
+                            "Import": "가져오기"
+                        }
+                    },
+                    "gl" :{
+                        translation: {
+                            "Use regular expressions": "Use expresións regulares",
+                            "Import": "Importar"
+                        }
+                    },
+                    "gu" :{
+                        translation: {
+                            "Use regular expressions": "નિયમિત અભિવ્યક્તિઓનો ઉપયોગ કરો",
+                            "Import": "આયાત"
+                        }
+                    },
+                    "el" :{
+                        translation: {
+                            "Use regular expressions": "Χρησιμοποιήστε κανονικές εκφράσεις",
+                            "Import": "Εισαγωγή"
+                        }
+                    },
+                    "nl" :{
+                        translation: {
+                            "Use regular expressions": "Gebruik reguliere uitdrukkingen",
+                            "Import": "Importeren"
+                        }
+                    },
+                    "ne" :{
+                        translation: {
+                            "Use regular expressions": "नियमित अभिव्यक्ति प्रयोग गर्नुहोस्",
+                            "Import": "आयात"
+                        }
+                    },
+                    "no" :{
+                        translation: {
+                            "Use regular expressions": "Bruk vanlige uttrykk",
+                            "Import": "Import"
+                        }
+                    },
+                    "da" :{
+                        translation: {
+                            "Use regular expressions": "Brug regelmæssige udtryk",
+                            "Import": "Importere"
+                        }
+                    },
+                    "de" :{
+                        translation: {
+                            "Use regular expressions": "Verwenden Sie reguläre Ausdrücke",
+                            "Import": "Importieren"
+                        }
+                    },
+                    "lo" :{
+                        translation: {
+                            "Use regular expressions": "ໃຊ້ການສະແດງອອກເປັນປະຈໍາ",
+                            "Import": "ສ່ວຍສາອາກອນ"
+                        }
+                    },
+                    "lv" :{
+                        translation: {
+                            "Use regular expressions": "Izmantojiet regulāras izpausmes",
+                            "Import": "Importēt"
+                        }
+                    },
+                    "ru" :{
+                        translation: {
+                            "Use regular expressions": "Используйте регулярные выражения",
+                            "Import": "Импортировать"
+                        }
+                    },
+                    "ro" :{
+                        translation: {
+                            "Use regular expressions": "Folosiți expresii obișnuite",
+                            "Import": "Import"
+                        }
+                    },
+                    "lt" :{
+                        translation: {
+                            "Use regular expressions": "Naudokite įprastas išraiškas",
+                            "Import": "Importuoti"
+                        }
+                    },
+                    "mr" :{
+                        translation: {
+                            "Use regular expressions": "नियमित अभिव्यक्ती वापरा",
+                            "Import": "आयात"
+                        }
+                    },
+                    "mk" :{
+                        translation: {
+                            "Use regular expressions": "Користете редовни изрази",
+                            "Import": "Увоз"
+                        }
+                    },
+                    "ml" :{
+                        translation: {
+                            "Use regular expressions": "പതിവ് എക്സ്പ്രഷനുകൾ ഉപയോഗിക്കുക",
+                            "Import": "ഇറക്കുമതിച്ചരക്ക്"
+                        }
+                    },
+                    "ms" :{
+                        translation: {
+                            "Use regular expressions": "Gunakan ungkapan biasa",
+                            "Import": "Import"
+                        }
+                    },
+                    "mn" :{
+                        translation: {
+                            "Use regular expressions": "Тогтмол илэрхийллийг ашиглана уу",
+                            "Import": "Импортлох"
+                        }
+                    },
+                    "eu" :{
+                        translation: {
+                            "Use regular expressions": "Erabili ohiko adierazpenak",
+                            "Import": "Inportatu"
+                        }
+                    },
+                    "my" :{
+                        translation: {
+                            "Use regular expressions": "ပုံမှန်အသုံးအနှုန်းတွေကိုသုံးပါ",
+                            "Import": "တင်သွင်း"
+                        }
+                    },
+                    "vi" :{
+                        translation: {
+                            "Use regular expressions": "Sử dụng biểu thức thường xuyên",
+                            "Import": "Nhập khẩu"
+                        }
+                    },
+                    "be" :{
+                        translation: {
+                            "Use regular expressions": "Выкарыстоўвайце рэгулярныя выразы",
+                            "Import": "Імпартаваць"
+                        }
+                    },
+                    "bn" :{
+                        translation: {
+                            "Use regular expressions": "নিয়মিত অভিব্যক্তি ব্যবহার করুন",
+                            "Import": "আমদানি"
+                        }
+                    },
+                    "bg" :{
+                        translation: {
+                            "Use regular expressions": "Използвайте редовни изрази",
+                            "Import": "Импортиране"
+                        }
+                    },
+                    "sr" :{
+                        translation: {
+                            "Use regular expressions": "Користите редовне изразе",
+                            "Import": "Увоз"
+                        }
+                    },
+                    "sw" :{
+                        translation: {
+                            "Use regular expressions": "Tumia maneno ya kawaida",
+                            "Import": "Kuagiza"
+                        }
+                    },
+                    "sv" :{
+                        translation: {
+                            "Use regular expressions": "Använd regelbundna uttryck",
+                            "Import": "Importera"
+                        }
+                    },
+                    "es" :{
+                        translation: {
+                            "Use regular expressions": "Use expresiones regulares",
+                            "Import": "Importar"
+                        }
+                    },
+                    "sk" :{
+                        translation: {
+                            "Use regular expressions": "Používajte regulárne výrazy",
+                            "Import": "Dovoz"
+                        }
+                    },
+                    "sl" :{
+                        translation: {
+                            "Use regular expressions": "Uporabite redne izraze",
+                            "Import": "Uvoz"
+                        }
+                    },
+                    "si" :{
+                        translation: {
+                            "Use regular expressions": "නිත්ය ප්රකාශන භාවිතා කරන්න",
+                            "Import": "ආනයන"
+                        }
+                    },
+                    "ar" :{
+                        translation: {
+                            "Use regular expressions": "استخدم التعبيرات العادية",
+                            "Import": "يستورد"
+                        }
+                    },
+                    "hy" :{
+                        translation: {
+                            "Use regular expressions": "Օգտագործեք կանոնավոր արտահայտություններ",
+                            "Import": "Ներմուծում"
+                        }
+                    },
+                    "is" :{
+                        translation: {
+                            "Use regular expressions": "Notaðu reglulega tjáningu",
+                            "Import": "Flytja inn"
+                        }
+                    },
+                    "az" :{
+                        translation: {
+                            "Use regular expressions": "Daimi ifadələrdən istifadə edin",
+                            "Import": "İdxal etmək"
+                        }
+                    },
+                    "af" :{
+                        translation: {
+                            "Use regular expressions": "Gebruik gewone uitdrukkings",
+                            "Import": "Invoerproduk"
+                        }
+                    },
+                    "sq" :{
+                        translation: {
+                            "Use regular expressions": "Përdorni shprehje të rregullta",
+                            "Import": "Importoj"
+                        }
+                    },
+                    "am" :{
+                        translation: {
+                            "Use regular expressions": "መደበኛ አገላለጾችን ይጠቀሙ",
+                            "Import": "ማስመጣት"
+                        }
+                    },
+                    "et" :{
+                        translation: {
+                            "Use regular expressions": "Kasutage regulaarseid väljendeid",
+                            "Import": "Import"
+                        }
+                    },
+                    "ur" :{
+                        translation: {
+                            "Use regular expressions": "باقاعدہ اظہار استعمال کریں",
+                            "Import": "درآمد"
+                        }
+                    },
+                    "uk" :{
+                        translation: {
+                            "Use regular expressions": "Використовуйте регулярні вирази",
+                            "Import": "Імпорт"
+                        }
+                    },
+                    "it" :{
+                        translation: {
+                            "Use regular expressions": "Usa espressioni regolari",
+                            "Import": "Importare"
+                        }
+                    },
+                    "id" :{
+                        translation: {
+                            "Use regular expressions": "Gunakan ekspresi reguler",
+                            "Import": "Impor"
+                        }
+                    },
+                    "ja" :{
+                        translation: {
+                            "Use regular expressions": "正規表現を使用します",
+                            "Import": "輸入"
+                        }
+                    },
+                    "ka" :{
+                        translation: {
+                            "Use regular expressions": "გამოიყენეთ რეგულარული გამონათქვამები",
+                            "Import": "იმპორტი"
+                        }
+                    },
+                    "zu" :{
+                        translation: {
+                            "Use regular expressions": "Sebenzisa izinkulumo ezijwayelekile",
+                            "Import": "Ngenisa ezweni"
+                        }
+                    },
+                    "zh-CN" :{
+                        translation: {
+                            "Use regular expressions": "使用正则表达式",
+                            "Import": "进口"
+                        }
+                    },
+                    "zh-TW" :{
+                        translation: {
+                            "Use regular expressions": "使用正則表達式",
+                            "Import": "進口"
+                        }
+                    },
+                    "zh-HK" :{
+                        translation: {
+                            "Use regular expressions": "使用正則表達式",
+                            "Import": "進口"
+                        }
+                    },
+                    "cs" :{
+                        translation: {
+                            "Use regular expressions": "Používat regulární výrazy",
+                            "Import": "Import"
+                        }
+                    },
+                    "kk" :{
+                        translation: {
+                            "Use regular expressions": "Тұрақты тіркестерді қолданыңыз",
+                            "Import": "Импорт"
+                        }
+                    },
+                    "ca" :{
+                        translation: {
+                            "Use regular expressions": "Utilitzeu expressions regulars",
+                            "Import": "Importar"
+                        }
+                    },
+                    "kn" :{
+                        translation: {
+                            "Use regular expressions": "ನಿಯಮಿತ ಅಭಿವ್ಯಕ್ತಿಗಳನ್ನು ಬಳಸಿ",
+                            "Import": "ಆಮದು"
+                        }
+                    },
+                    "hr" :{
+                        translation: {
+                            "Use regular expressions": "Koristite regularne izraze",
+                            "Import": "Uvoz"
+                        }
+                    },
+                    "km" :{
+                        translation: {
+                            "Use regular expressions": "ប្រើកន្សោមធម្មតា",
+                            "Import": "ការនាមចុល"
+                        }
+                    },
+                    "ky" :{
+                        translation: {
+                            "Use regular expressions": "Үзгүлтүксүз туюнтма колдонуңуз",
+                            "Import": "Импорт"
+                        }
+                    },
+                    "ta" :{
+                        translation: {
+                            "Use regular expressions": "வழக்கமான வெளிப்பாடுகளைப் பயன்படுத்துங்கள்",
+                            "Import": "இறக்குமதி"
+                        }
+                    },
+                    "th" :{
+                        translation: {
+                            "Use regular expressions": "ใช้นิพจน์ทั่วไป",
+                            "Import": "นำเข้า"
+                        }
+                    },
+                    "tr" :{
+                        translation: {
+                            "Use regular expressions": "Normal ifadeler kullanın",
+                            "Import": "İçe aktarmak"
+                        }
+                    },
+                    "te" :{
+                        translation: {
+                            "Use regular expressions": "సాధారణ వ్యక్తీకరణలను ఉపయోగించండి",
+                            "Import": "దిగుమతి"
+                        }
+                    },
+                    "pa" :{
+                        translation: {
+                            "Use regular expressions": "ਨਿਯਮਤ ਸਮੀਕਰਨ ਦੀ ਵਰਤੋਂ ਕਰੋ",
+                            "Import": "ਆਯਾਤ"
+                        }
+                    },
+                    "fa" :{
+                        translation: {
+                            "Use regular expressions": "از عبارات منظم استفاده کنید",
+                            "Import": "وارد كردن"
+                        }
+                    },
+                    "pt" :{
+                        translation: {
+                            "Use regular expressions": "Use expressões regulares",
+                            "Import": "Importar"
+                        }
+                    },
+                    "pl" :{
+                        translation: {
+                            "Use regular expressions": "Użyj wyrażeń regularnych",
+                            "Import": "Import"
+                        }
+                    },
+                    "fr" :{
+                        translation: {
+                            "Use regular expressions": "Utiliser des expressions régulières",
+                            "Import": "Importer"
+                        }
+                    },
+                    "fi" :{
+                        translation: {
+                            "Use regular expressions": "Käytä säännöllisiä lausekkeita",
+                            "Import": "Tuonti"
+                        }
+                    },
+                    "fil" :{
+                        translation: {
+                            "Use regular expressions": "Gumamit ng mga regular na expression",
+                            "Import": "Angkat"
+                        }
+                    },
+                    "hu" :{
+                        translation: {
+                            "Use regular expressions": "Használjon rendszeres kifejezéseket",
+                            "Import": "Behozatal"
+                        }
+                    },
+                    "iw" :{
+                        translation: {
+                            "Use regular expressions": "השתמש בביטויים רגילים",
+                            "Import": "יְבוּא"
+                        }
+                    },
+                    "hi" :{
+                        translation: {
+                            "Use regular expressions": "नियमित अभिव्यक्तियों का उपयोग करें",
+                            "Import": "आयात"
+                        }
+                    },
+                }
+            },
+            function(err, t) {
+                if (err) {
+                    console.error(err);
+                } else {
+                    updateContent();
+                }
+            }
+        );
+        
+        
+
+
+    </script>
+
+
+    <style>
+    </style>
 </html>
