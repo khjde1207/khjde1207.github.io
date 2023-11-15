@@ -45,10 +45,11 @@
         function open() {
 		   
             var args = JSON.stringify(items);
+
             if (isIOS) {
-                window.location.href = `opentextviewer://data?type=${type}&args=${args}`;
+                window.location.href = `opentextviewer://data?type=${type}&args=${utoa(args)}`;
             } else {
-                window.location.href = `intent://data?type=${type}&args=${args}#Intent;scheme=opentextviewer;end`;
+                window.location.href = `intent://data?type=${type}&args=${utoa(args)}#Intent;scheme=opentextviewer;end`;
             }
         
 	    }
