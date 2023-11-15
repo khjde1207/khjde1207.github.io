@@ -45,7 +45,7 @@
 
         function open() {
             if (isIOS) {
-                window.location.href = `opentextviewer://data?args=${encodeURIComponent(base64data)}}`;
+                window.location.href = `opentextviewer://data?args=${encodeURIComponent(base64data)}`;
             } else {
                 window.location.href = `intent://data?args=${encodeURIComponent(base64data)}#Intent;scheme=opentextviewer;end`;
             }

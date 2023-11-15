@@ -98,5 +98,187 @@
         "name": "때문에.",
         "expr": true,
         "to": "때문이다."
+    },
+    {
+        "filter": "ㅇㅈ",
+        "enable": true,
+        "name": "ㅇㅈ",
+        "expr": false,
+        "to": ",인정,"
+    },
+    {
+        "filter": "ㅉㅉ",
+        "enable": true,
+        "name": "ㅉㅉ",
+        "expr": false,
+        "to": ",쯔쯔,"
+    },
+    {
+        "filter": "없었",
+        "enable": true,
+        "name": "없었",
+        "expr": false,
+        "to": "업섰"
+    },
+    {
+        "filter": "119 ?([가-힝])",
+        "enable": true,
+        "name": "119",
+        "expr": true,
+        "to": "일일구$1"
+    },
+    {
+        "filter": "911 ?([가-힝])",
+        "enable": true,
+        "name": "911",
+        "expr": true,
+        "to": "구일일$1"
+    },
+    {
+        "filter": "ㅈㄴ",
+        "enable": true,
+        "name": "ㅈㄴ",
+        "expr": false,
+        "to": "졸라"
+    },
+    {
+        "filter": "ㄱㄱ+",
+        "enable": true,
+        "name": "ㄱㄱ",
+        "expr": true,
+        "to": ",고고,"
+    },
+    {
+        "filter": "ㅎㅎ+",
+        "enable": true,
+        "name": "ㅎㅎ",
+        "expr": true,
+        "to": ",흐흐,"
+    },
+    {
+        "filter": "ㅎㄷ",
+        "enable": true,
+        "name": "ㅎㄷ",
+        "expr": false,
+        "to": "후덜"
+    },
+    {
+        "filter": "ㅅㄱ",
+        "enable": true,
+        "name": "ㅅㄱ",
+        "expr": false,
+        "to": ",수고,"
+    },
+    {
+        "filter": "ㄹㅇ",
+        "enable": true,
+        "name": "ㄹㅇ",
+        "expr": false,
+        "to": ",리얼,"
+    },
+    {
+        "filter": "ㅎㄷㄷ",
+        "enable": true,
+        "name": "ㅎㄷㄷ",
+        "expr": false,
+        "to": ",후덜덜,"
+    },
+    {
+        "filter": "ㄷㄷ+",
+        "enable": true,
+        "name": "ㄷㄷ",
+        "expr": true,
+        "to": ",덜덜,"
+    },
+    {
+        "filter": "ㅇㅇ+",
+        "enable": true,
+        "name": "ㅇㅇ",
+        "expr": true,
+        "to": ",응,"
+    },
+    {
+        "filter": "ㄴㅈ",
+        "enable": true,
+        "name": "ㄴㅈ",
+        "expr": false,
+        "to": ",노잼,"
+    },
+    {
+        "filter": "ㄴㄴ",
+        "enable": true,
+        "name": "ㄴㄴ",
+        "expr": false,
+        "to": ",노노,"
+    },
+    {
+        "filter": "([0-9]{1,3}):([0-9]{1,3})",
+        "enable": true,
+        "name": "몇대몇",
+        "expr": true,
+        "to": "$1대$2"
+    },
+    {
+        "filter": "([0-9]+)/([0-9]+)",
+        "enable": true,
+        "name": "분지",
+        "expr": true,
+        "to": "$2분지$1"
+    },
+    {
+        "filter": "ㅋㅋ+",
+        "enable": true,
+        "name": "ㅋㅋ",
+        "expr": true,
+        "to": ",크크,"
+    },
+    {
+        "filter": "ㅅㅂ",
+        "enable": true,
+        "name": "ㅅㅂ",
+        "expr": false,
+        "to": ",스바,"
+    },
+    {
+        "filter": "Ⅰ",
+        "enable": true,
+        "name": "Ⅰ",
+        "expr": false,
+        "to": "원"
+    },
+    {
+        "filter": "Ⅱ",
+        "enable": true,
+        "name": "Ⅱ",
+        "expr": false,
+        "to": "투"
+    },
+    {
+        "filter": "Ⅲ",
+        "enable": true,
+        "name": "Ⅲ",
+        "expr": false,
+        "to": "쓰리"
+    },
+    {
+        "filter": "Ⅳ",
+        "enable": true,
+        "name": "Ⅳ",
+        "expr": false,
+        "to": "포"
+    },
+    {
+        "filter": "Ⅴ",
+        "enable": true,
+        "name": "Ⅴ",
+        "expr": false,
+        "to": "파이브"
+    },
+    {
+        "filter": "(\\d+화)?",
+        "enable": true,
+        "name": "화수필터",
+        "expr": true,
+        "to": ""
     }
 ]

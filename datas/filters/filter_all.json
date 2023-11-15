@@ -84,55 +84,6 @@
         "enable": true
     },
     {
-        "name": "※ filter",
-        "expr": true,
-        "filter": "※ \\.+※",
-        "to": "",
-        "enable": false
-    },
-    {
-        "name": "★",
-        "expr": true,
-        "filter": "★",
-        "to": " ",
-        "enable": true
-    },
-    {
-        "name": "◯",
-        "expr": false,
-        "filter": "◯",
-        "to": "",
-        "enable": true
-    },
-    {
-        "name": "→",
-        "expr": false,
-        "filter": "→",
-        "to": "",
-        "enable": true
-    },
-    {
-        "name": "▶",
-        "expr": false,
-        "filter": "▶",
-        "to": "",
-        "enable": true
-    },
-    {
-        "name": "●",
-        "expr": false,
-        "filter": "●",
-        "to": "",
-        "enable": true
-    },
-    {
-        "name": "*",
-        "expr": false,
-        "filter": "*",
-        "to": "",
-        "enable": true
-    },
-    {
         "name": "upper case 4 (1) attention to order",
         "expr": true,
         "filter": "([A-Z])([A-Z])([A-Z])([A-Z])",
@@ -190,16 +141,16 @@
         "enable":true
     },
     {
-        "name":"filter ○",
-        "expr": false,
-        "filter":"○",
+        "name":"filter (......) Parenthesis",
+        "expr": true,
+        "filter":"\\(.+?\\)",
         "to":"",
         "enable":true
     },
     {
-        "name":"filter (......) Parenthesis",
-        "expr": true,
-        "filter":"\\(.+?\\)",
+        "name":"Special character filter",
+        "expr":true,
+        "filter":"[♥♣♠◀▶♪♫♬○●☆★△▲▽▼→←↑↓↗↖↘↙※◯*]",
         "to":"",
         "enable":true
     }
