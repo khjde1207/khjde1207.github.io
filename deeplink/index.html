@@ -37,20 +37,17 @@
     <script>
         var items;
         var type;
+        var base64data;
 
         function clickevent(){
            open();
         }
 
         function open() {
-		   
-            var args = JSON.stringify(items);
-            var data = utoa(`type=${type}&args=${args}`);
-
             if (isIOS) {
-                window.location.href = `opentextviewer://data?${data}}`;
+                window.location.href = `opentextviewer://data?args=${encodeURIComponent(base64data)}}`;
             } else {
-                window.location.href = `intent://data?${data}#Intent;scheme=opentextviewer;end`;
+                window.location.href = `intent://data?args=${encodeURIComponent(base64data)}#Intent;scheme=opentextviewer;end`;
             }
         
 	    }
@@ -69,12 +66,12 @@
 
             var p = new URLSearchParams(window.location.search);
             
-            var base64data = p.get("args");
+            base64data = p.get("args");
+            
           
 
             const strData = atou(base64data)
           
-            console.log(strData);
             var jsondata =  JSON.parse(strData)
 
             
