@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.6.7 (2023 11 05)\n\n- The number selection function has been changed to a drag type.\n- Added text underline function.\n- You can now set the opening direction.\n- Fixed a bug where TTS continued to play even if the earphones were disconnected in certain situations.\n- The bookmark sharing UI has been modified."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Viewer performance has been improved.\n- A function has been added to share TTS filter and batch edit data in URL format.\n   * When you click the shared URL, it is automatically registered in the app.\n- TTS filter has been improved (special characters)\n- Fixed a bug where there was no response when clicking on the history title area."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.6.7 (2023 11 05)\n\n- 숫자 선택 기능을 드래그 형태로 변경하였습니다. \n- 텍스트 밑줄 기능을 추가 하였습니다. \n- 설정 열리는 방향을 설정 할 수 있도록 하였습니다. \n- 특정 상황에서 이어폰 연결이 끊어져도TTS 가 계속 재생되던 버그를 수정 하였습니다. \n- 북마크 공유 UI 를 수정 하였습니다."
+    "devnote": "7.6.8 (2023 11 15)\n\n- 뷰어 성능을 개선 하였습니다.\n- TTS 필터 및 일괄수정 데이터를 URL 형태로 공유 할 수 있게 기능을 추가 하였습니다.\n  * 공유된 URL을 클릭하면 어플에 자동으로 등록 됩니다.\n- TTS 필터를 개선하였습니다.(특수문자)\n- 히스토리 제목 영역 클릭해도 반응 없던 버그를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.6.7 (2023 11 05)\n\n- A función de selección de números cambiouse a un tipo de arrastre.\n- Engadiuse a función subliñada de texto.\n- Agora podes configurar a dirección de apertura.\n- Fixouse un erro onde TTS seguiu xogando aínda que os auriculares estaban desconectados en determinadas situacións.\n- Modificouse o marcador de intercambio de interface de usuario."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Mellorouse o rendemento do espectador.\n- Engadiuse unha función para compartir datos de filtro TTS e editar por lotes en formato URL.\n   * Cando fai clic na URL compartida, rexístrase automaticamente na aplicación.\n- Mellorouse o filtro TTS (caracteres especiais)\n- Fixouse un erro onde non houbo resposta ao facer clic na área de título do historial."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.6.7 (2023 11 05)\n\n- નંબર પસંદગી કાર્યને ડ્રેગ પ્રકારમાં બદલવામાં આવ્યું છે.\n- ટેક્સ્ટ અન્ડરલાઇન ફંક્શન ઉમેર્યું.\n- તમે હવે ઉદઘાટન દિશા સેટ કરી શકો છો.\n- ભૂલને ઠીક કરી જ્યાં ટીટીએસ રમવાનું ચાલુ રાખ્યું, પછી ભલે ઇયરફોન અમુક પરિસ્થિતિઓમાં ડિસ્કનેક્ટ થઈ ગયા હોય.\n- બુકમાર્ક શેરિંગ યુઆઈમાં ફેરફાર કરવામાં આવ્યા છે."
+    "devnote": "7.6.8 (2023 11 15)\n\n- દર્શક પ્રદર્શનમાં સુધારો થયો છે.\n- યુઆરએલ ફોર્મેટમાં ટીટીએસ ફિલ્ટર અને બેચ એડિટ ડેટા શેર કરવા માટે એક ફંક્શન ઉમેરવામાં આવ્યું છે.\n   * જ્યારે તમે શેર કરેલા URL ને ક્લિક કરો છો, ત્યારે તે આપમેળે એપ્લિકેશનમાં નોંધાયેલ છે.\n- ટીટીએસ ફિલ્ટરમાં સુધારો થયો છે (વિશેષ પાત્રો)\n- એક બગને ઠીક કર્યો જ્યાં ઇતિહાસ શીર્ષક ક્ષેત્ર પર ક્લિક કરતી વખતે કોઈ પ્રતિસાદ ન હતો."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Η λειτουργία επιλογής αριθμού έχει αλλάξει σε έναν τύπο σύρματος.\n- Προστέθηκε η λειτουργία υπογράμμισης κειμένου.\n- Τώρα μπορείτε να ορίσετε την κατεύθυνση ανοίγματος.\n- Διορθώθηκε ένα σφάλμα όπου το TTS συνέχισε να παίζει ακόμη και αν τα ακουστικά αποσυνδέθηκαν σε ορισμένες καταστάσεις.\n- Το UI που μοιράζεται το σελιδοδείκτη έχει τροποποιηθεί."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Η απόδοση του θεατή έχει βελτιωθεί.\n- Έχει προστεθεί μια συνάρτηση για να μοιραστείτε τα δεδομένα Filter TTS και Batch Edit σε μορφή URL.\n   * Όταν κάνετε κλικ στην κοινή διεύθυνση URL, είναι αυτόματα καταχωρημένη στην εφαρμογή.\n- Το φίλτρο TTS έχει βελτιωθεί (ειδικοί χαρακτήρες)\n- Διορθώθηκε ένα σφάλμα όπου δεν υπήρχε απάντηση όταν κάνετε κλικ στην περιοχή τίτλου ιστορικού."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.6.7 (2023 11 05)\n\n- De nummerselectiefunctie is gewijzigd in een sleeptype.\n- Tekst onderstreept functie toegevoegd.\n- U kunt nu de openingsrichting instellen.\n- Een bug opgelost waar TTS bleef spelen, zelfs als de oortelefoons in bepaalde situaties werden losgekoppeld.\n- De bookmark die UI delen is gewijzigd."
+    "devnote": "7.6.8 (2023 11 15)\n\n- De prestaties van kijkers zijn verbeterd.\n- Er is een functie toegevoegd om TTS -filter- en batch -bewerkingsgegevens in URL -indeling te delen.\n   * Wanneer u op de gedeelde URL klikt, wordt deze automatisch geregistreerd in de app.\n- TTS -filter is verbeterd (speciale tekens)\n- Een bug opgelost waar er geen antwoord was bij het klikken op het titelgebied van de geschiedenis."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": ".6..6..7 (2023 113 11)\n\n- नम्बर चयन प्रकार्य एक ड्र्याग प्रकारमा परिवर्तन गरिएको छ।\n- पाठ रेखांकित कार्य थपियो।\n- अब तपाइँ सुरुको दिशा सेट गर्न सक्नुहुन्छ।\n- कुनै परिस्थितिमा काँसाली विच्छेदन भए पनि TTTS जहाँ TTS खेल्नुहोस्।\n- बुकमार्क साझेदारी यूआई परिमार्जन गरिएको छ।"
+    "devnote": ".6..6..8 (2023 11 11)\n\n- दर्शक प्रदर्शन सुधार गरिएको छ।\n- A URL ढाँचामा डाटा सम्पादन गर्न एक प्रकार्य थपियो।\n   * जब तपाईं साझा यूआरएल क्लिक गर्नुहुन्छ, यो स्वचालित रूपमा अनुप्रयोगमा दर्ता हुन्छ।\n- TTS फिल्टर सुधार गरिएको छ (विशेष क्यारेक्टरहरू)\n- ईन्स शीर्षक क्षेत्रमा क्लिक गर्दा कुनै प्रतिक्रिया छैन भने - त्यहाँ कुनै प्रतिक्रिया थिएन।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Tallvalgsfunksjonen er endret til en dragtype.\n- Lagt til tekstundersøkelsesfunksjon.\n- Du kan nå angi åpningsretningen.\n- Fikset en feil der TTS fortsatte å spille selv om øretelefonene ble koblet fra i visse situasjoner.\n- Bokmerket delingsgrensesnittet er endret."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Seerytelsen er forbedret.\n- En funksjon er lagt til for å dele TTS -filter- og batch -redigeringsdata i URL -format.\n   * Når du klikker på den delte URL -en, registreres den automatisk i appen.\n- TTS -filter er forbedret (spesialtegn)\n- Fikset en feil der det ikke var noe svar når du klikket på historiens tittelområde."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Antaludvælgelsesfunktionen er blevet ændret til en træktype.\n- Tilføjet tekst understreger funktionen.\n- Du kan nu indstille åbningsretningen.\n- Rettet en fejl, hvor TTS fortsatte med at spille, selvom øretelefoner blev afbrudt i visse situationer.\n- Bogmærke -delings UI er blevet ændret."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Visningens præstation er blevet forbedret.\n- Der er tilføjet en funktion for at dele TTS -filter- og batch -redigeringsdata i URL -format.\n   * Når du klikker på den delte URL, registreres den automatisk i appen.\n- TTS -filter er forbedret (specialtegn)\n- Rettet en fejl, hvor der ikke var noget svar, når du klikkede på området History -titel."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Die Nummernauswahlfunktion wurde in einen Drag -Typ geändert.\n- Funktion zur Unterstreichung von Text hinzugefügt.\n- Sie können jetzt die Öffnungsrichtung einstellen.\n- Es wurde ein Fehler behoben, bei dem TTS weiterhin spielte, selbst wenn die Ohrhörer in bestimmten Situationen getrennt wurden.\n- Das Lesezeichen -Sharing -UI wurde geändert."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Die Leistung der Zuschauer wurde verbessert.\n- Es wurde eine Funktion hinzugefügt, um TTS -Filter- und Batch -Bearbeitungsdaten im URL -Format zu teilen.\n   * Wenn Sie auf die freigegebene URL klicken, wird sie automatisch in der App registriert.\n- TTS -Filter wurde verbessert (Sonderzeichen)\n- Ein Fehler behoben, bei dem beim Klicken auf den Titelbereich des Verlaufs keine Antwort gab."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.6.7 (2023 11 05)\n\n- ຟັງຊັນການເລືອກຕົວເລກໄດ້ຖືກປ່ຽນເປັນປະເພດລາກ.\n- ເພີ່ມການເຮັດວຽກຂໍ້ຄວາມ.\n- ດຽວນີ້ທ່ານສາມາດກໍານົດທິດທາງເປີດ.\n- ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ TTS ໄດ້ສືບຕໍ່ຫຼິ້ນເຖິງແມ່ນວ່າຫູຟັງຖືກຕັດຂາດໃນບາງສະຖານະການ.\n- ການແບ່ງປັນ Bookmark UI ໄດ້ຖືກດັດແກ້ແລ້ວ."
+    "devnote": "7.6.8 (2023 11 15)\n\n- ການປະຕິບັດງານ Viewer ໄດ້ຮັບການປັບປຸງ.\n- ຫນ້າທີ່ໄດ້ຖືກເພີ່ມເຂົ້າໃນການແບ່ງປັນ TTS FILTER ແລະ BACT EDIT Data ໃນຮູບແບບ URL.\n   * ເມື່ອທ່ານກົດປຸ່ມ URL ທີ່ໃຊ້ຮ່ວມກັນ, ມັນຖືກລົງທະບຽນໂດຍອັດຕະໂນມັດໂດຍອັດຕະໂນມັດ.\n- ຕົວກອງ TTS ໄດ້ຮັບການປັບປຸງໃຫ້ດີຂື້ນ (ຕົວອັກສອນພິເສດ)\n- ແກ້ໄຂຂໍ້ບົກຜ່ອງທີ່ບໍ່ມີການຕອບຮັບໃນເວລາທີ່ກົດທີ່ຢູ່ໃນພື້ນທີ່ປະຫວັດສາດ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Skaitļu izvēles funkcija ir mainīta uz vilkšanas veidu.\n- Pievienota teksta pasvītrojuma funkcija.\n- Tagad jūs varat iestatīt sākuma virzienu.\n- Novērsta kļūda, kurā TTS turpināja spēlēt, pat ja austiņas tika atvienotas noteiktās situācijās.\n- Grāmatzīmju dalīšanas lietotāja saskarne ir modificēta."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Skatītāja veiktspēja ir uzlabota.\n- Ir pievienota funkcija, lai koplietotu TTS filtru un pakešu rediģēšanas datus URL formātā.\n   * Noklikšķinot uz koplietotā URL, tas tiek automātiski reģistrēts lietotnē.\n- TTS filtrs ir uzlabots (īpašās rakstzīmes)\n- Novērsta kļūda, kur, noklikšķinot uz vēstures nosaukuma apgabala, nebija atbildes."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Функция выбора номеров была изменена на тип перетаскивания.\n- Добавлен текст подчеркнутый функция.\n- Теперь вы можете установить направление открытия.\n- Исправлена ​​ошибка, в которой TTS продолжал играть, даже если наушники были отключены в определенных ситуациях.\n- Повреждение обмена закладками было изменено."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Производительность зрителя была улучшена.\n- Функция была добавлена ​​для обмена фильтром TTS и редактирования партий в формате URL.\n   * Когда вы нажимаете общий URL, он автоматически зарегистрирован в приложении.\n- Фильтр TTS был улучшен (специальные символы)\n- Исправлена ​​ошибка, в которой не было никакого ответа при нажатии на область заголовка истории."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Funcția de selecție a numerelor a fost modificată într -un tip de tracțiune.\n- Adăugat funcția de subliniere a textului.\n- Acum puteți seta direcția de deschidere.\n- S -a rezolvat o eroare în care TTS a continuat să joace chiar dacă căștile au fost deconectate în anumite situații.\n- UI de partajare a marcajului a fost modificat."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Performanța vizualizatorului a fost îmbunătățită.\n- A fost adăugată o funcție pentru a partaja datele TTS și editarea lotului în format URL.\n   * Când faceți clic pe URL -ul partajat, acesta este înregistrat automat în aplicație.\n- Filtrul TTS a fost îmbunătățit (caractere speciale)\n- S -a rezolvat o eroare în care nu a existat niciun răspuns atunci când faceți clic pe zona de titlu de istorie."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Skaičių pasirinkimo funkcija buvo pakeista į vilkimo tipą.\n- Pridėta teksto pabraukimo funkcija.\n- Dabar galite nustatyti atidarymo kryptį.\n- Ištaisyta klaida, kurioje TTS ir toliau grojo, net jei ausinės buvo atjungtos tam tikrose situacijose.\n- Pažymėjimo dalijimosi vartotojo sąsaja buvo modifikuota."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Patobulintas žiūrovo našumas.\n- Pridedama funkcija, kuria siekiama bendrinti TTS filtro ir paketinio redagavimo duomenis URL formatu.\n   * Kai spustelėsite bendrą URL, jis automatiškai užregistruotas programoje.\n- Patobulintas TTS filtras (specialieji simboliai)\n- Ištaisyta klaida, kur nebuvo atsakymo spustelėjus istorijos pavadinimo sritį."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.6.7 (2023 11 05)\n\n- क्रमांक निवड कार्य ड्रॅग प्रकारात बदलले गेले आहे.\n- मजकूर अधोरेखित कार्य जोडले.\n- आपण आता सुरुवातीची दिशा सेट करू शकता.\n- इयरफोन विशिष्ट परिस्थितीत डिस्कनेक्ट केलेले असले तरीही टीटीएस खेळत राहिले तेथे एक बग निश्चित केला.\n- बुकमार्क सामायिकरण यूआय सुधारित केले गेले आहे."
+    "devnote": "7.6.8 (2023 11 15)\n\n- दर्शक कामगिरी सुधारली आहे.\n- URL स्वरूपात टीटीएस फिल्टर आणि बॅच संपादन डेटा सामायिक करण्यासाठी एक फंक्शन जोडले गेले आहे.\n   * जेव्हा आपण सामायिक केलेल्या URL वर क्लिक करता तेव्हा ते अ‍ॅपमध्ये स्वयंचलितपणे नोंदणीकृत होते.\n- टीटीएस फिल्टर सुधारित केले आहे (विशेष वर्ण)\n- इतिहासाच्या शीर्षकाच्या क्षेत्रावर क्लिक करताना कोणताही प्रतिसाद नसलेल्या बगचे निराकरण केले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Функцијата за избор на број е сменета во тип на влечење.\n- Додадена функција за подвлекување текст.\n- Сега можете да ја поставите насоката за отворање.\n- Поправи грешка каде ТТС продолжи да игра дури и ако слушалките беа исклучени во одредени ситуации.\n- UI за споделување обележувачи е изменето."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Перформансите на гледачот се подобрени.\n- Додадена е функција за споделување на TTS филтер и податоци за уредување на серии во формат на URL.\n   * Кога ќе кликнете на споделената URL -адреса, автоматски се регистрира во апликацијата.\n- TTS филтерот е подобрен (специјални знаци)\n- Поправи грешка каде немаше одговор кога кликнете на областа на насловот на историјата."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.6.7 (2023 11 05)\n\n- നമ്പർ തിരഞ്ഞെടുക്കൽ പ്രവർത്തനം ഒരു ഡ്രാഗ് തരത്തിലേക്ക് മാറ്റി.\n- ടെക്സ്റ്റ് ചേർത്തു.\n- നിങ്ങൾക്ക് ഇപ്പോൾ പ്രാരംഭ ദിശ സജ്ജമാക്കാൻ കഴിയും.\n- ചില സാഹചര്യങ്ങളിൽ ഇയർഫോണുകൾ വിച്ഛേദിക്കപ്പെട്ടാലും ടിടിഎസ് കളിക്കുന്നത് ഒരു ബഗ് പരിഹരിച്ചു.\n- യുഐ പങ്കിടൽ പങ്കിടൽ പരിഷ്ക്കരിച്ചു."
+    "devnote": "7.6.8 (2023 11 15)\n\n- വ്യൂവർ പ്രകടനം മെച്ചപ്പെടുത്തി.\n- നിങ്ങളുടെ ഫോർമാറ്റിൽ ടിടിഎസ് ഫിൽട്ടർ ചെയ്ത് ബാച്ച് എഡിറ്റുചെയ്യുന്നതിന് ഒരു ഫംഗ്ഷൻ ചേർത്തു.\n   * നിങ്ങൾ പങ്കിട്ട URL ക്ലിക്കുചെയ്യുമ്പോൾ, ഇത് അപ്ലിക്കേഷനിൽ സ്വപ്രേരിതമായി രജിസ്റ്റർ ചെയ്തിട്ടുണ്ട്.\n- ടിടിഎസ് ഫിൽട്ടർ മെച്ചപ്പെടുത്തി (പ്രത്യേക പ്രതീകങ്ങൾ)\n- ചരിത്ര ശീർഷക മേഖലയിൽ ക്ലിക്കുചെയ്യുമ്പോൾ പ്രതികരണമില്ലാത്ത ഒരു ബഗ് പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Fungsi pemilihan nombor telah ditukar kepada jenis seret.\n- Menambah fungsi garis bawah teks.\n- Anda kini boleh menetapkan arah pembukaan.\n- Memperbaiki pepijat di mana TTS terus bermain walaupun fon telinga diputuskan dalam situasi tertentu.\n- UI perkongsian penanda buku telah diubah suai."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Prestasi penonton telah bertambah baik.\n- Fungsi telah ditambah untuk berkongsi data penapis TTS dan batch edit dalam format URL.\n   * Apabila anda mengklik URL yang dikongsi, ia secara automatik didaftarkan dalam aplikasinya.\n- Penapis TTS telah diperbaiki (watak khas)\n- Memperbaiki pepijat di mana tidak ada respons apabila mengklik pada kawasan tajuk sejarah."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Дугаар сонгох функцийг чирэх төрөлд өөрчилсөн.\n- Текстийн доогуур тохирох функцийг нэмсэн.\n- Та одоо нээлтийн чиглэлийг тохируулж болно.\n- TTS нь CTS нь тодорхой нөхцөл байдалд үлдэж байсан ч үргэлжлүүлэн тоглохыг үргэлжлүүлнэ.\n- UI-г хуваалцах хавчуурга нь өөрчлөгдсөн байна."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Үзэгчдийн гүйцэтгэл сайжирсан байна.\n- TTS шүүлтүүрийг хуваалцах функц, Багцыг URL форматаар хуваалцахаар нэмэгдсэн.\n   * Та хуваалцах URL дээр дарахад автоматаар апп-д автоматаар бүртгэгдсэн болно.\n- TTS шүүлтүүрийг сайжруулсан (тусгай тэмдэгтүүд)\n- Түүхийн гарчгийн гарчиг дээр дарахад хариу ирээгүй байгаа алдааг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Zenbakiaren hautaketa funtzioa arrastatu mota batera aldatu da.\n- Gehitutako testua azpimarratzeko funtzioa.\n- Orain irekiera norabidea ezar dezakezu.\n- TTS erreproduzitzen jarraitu zuen akats bat konpondu zen, entzungailuak egoera jakin batzuetan deskonektatu bazen ere.\n- UI partekatzeko laster-marka aldatu da."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Ikuslearen errendimendua hobetu da.\n- Funtzio bat gehitu da TTS iragazkia eta batch editatzeko datuak URL formatuan.\n   * Partekatutako URLan klik egiten duzunean, automatikoki erregistratzen da aplikazioan.\n- TTS iragazkia hobetu da (karaktere bereziak)\n- Historia izenburuaren eremuan klik egitean erantzunik ez zegoen akats bat konpondu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.6.7 (2023 11 05)\n\n- နံပါတ်ရွေးချယ်ရေး function ကိုဆွဲအမျိုးအစားသို့ပြောင်းထားသည်။\n- ဆက်ပြောသည်စာသားမျဉ်းသား function ကို။\n- ယခုသင်သည်အဖွင့်လမ်းညွှန်ကိုသတ်မှတ်နိုင်သည်။\n- အချို့သောအခြေအနေများတွင်နားကြပ်များအဆက်ပြတ်နေလျှင်ပင် TTS ဆက်လက်ကစားနေသည့် bug တစ်ခုပြုလုပ်ခဲ့သည်။\n- Bookmark Sharing UI ကိုပြုပြင်ထားသည်။"
+    "devnote": "7223 11 15 (2023 11)\n\n- ကြည့်ရှုသူစွမ်းဆောင်ရည်တိုးတက်လာသည်။\n- TTS filter နှင့် batch ပြင်ဆင်ရန်အချက်အလက်များကို URL ပုံစံဖြင့်မျှဝေရန်လုပ်ဆောင်ချက်တစ်ခုထည့်သွင်းထားသည်။\n   * Shared URL ကိုနှိပ်သောအခါ၎င်းကိုအက်ပ်တွင်အလိုအလျောက်မှတ်ပုံတင်သည်။\n- TTS filter ကို (အထူးအက္ခရာများ) တိုးတက်လာသည်။\n- သမိုင်းကြောင်း area ရိယာကိုနှိပ်သောအခါတုန့်ပြန်မှုမရှိသည့် bug တစ်ခု fixed ။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Hàm lựa chọn số đã được thay đổi thành loại kéo.\n- Đã thêm chức năng gạch chân văn bản.\n- Bây giờ bạn có thể đặt hướng mở.\n- Đã sửa lỗi trong đó TTS tiếp tục chơi ngay cả khi tai nghe bị ngắt kết nối trong một số tình huống nhất định.\n- Giao diện người dùng chia sẻ đánh dấu đã được sửa đổi."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Hiệu suất của người xem đã được cải thiện.\n- Một chức năng đã được thêm vào để chia sẻ bộ lọc TTS và dữ liệu chỉnh sửa hàng loạt ở định dạng URL.\n   * Khi bạn nhấp vào URL được chia sẻ, nó sẽ tự động đăng ký trong ứng dụng.\n- Bộ lọc TTS đã được cải thiện (ký tự đặc biệt)\n- Đã sửa lỗi không có phản hồi khi nhấp vào khu vực tiêu đề lịch sử."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Функцыя выбару лікаў была зменена на тып перацягвання.\n- Дададзены тэкст падкрэсліваецца функцыя.\n- Цяпер вы можаце ўсталяваць кірунак адкрыцця.\n- Выпраўлена памылка, калі TTS працягвала гуляць, нават калі навушнікі былі адключаны ў пэўных сітуацыях.\n- Закладка, які абмен карыстацкі інтэрфейс быў зменены."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Прадукцыйнасць гледача была палепшана.\n- Была дададзена функцыя для абмену дадзенымі фільтраў TTS і рэдагавання партый у фармаце URL.\n   * Пры націску на агульны URL ён аўтаматычна зарэгістраваны ў дадатку.\n- Фільтр TTS быў палепшаны (спецыяльныя сімвалы)\n- Выпраўлена памылка, калі пры націску на вобласць загалоўка гісторыі не было."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.6.7 (2023 11 05)\n\n- নম্বর নির্বাচন ফাংশনটি একটি ড্র্যাগ প্রকারে পরিবর্তন করা হয়েছে।\n- যুক্ত পাঠ্য আন্ডারলাইন ফাংশন।\n- আপনি এখন খোলার দিকটি সেট করতে পারেন।\n- একটি বাগ ঠিক করা হয়েছে যেখানে টিটিএস খেলতে থাকে এমনকি কিছু পরিস্থিতিতে ইয়ারফোনগুলি সংযোগ বিচ্ছিন্ন হয়ে গেলেও।\n- বুকমার্ক শেয়ারিং ইউআই সংশোধন করা হয়েছে।"
+    "devnote": "7.6.8 (2023 11 15)\n\n- দর্শকের পারফরম্যান্স উন্নত করা হয়েছে।\n- ইউআরএল ফর্ম্যাটে টিটিএস ফিল্টার এবং ব্যাচ সম্পাদনা ডেটা ভাগ করার জন্য একটি ফাংশন যুক্ত করা হয়েছে।\n   * আপনি যখন ভাগ করা ইউআরএলটি ক্লিক করেন, এটি স্বয়ংক্রিয়ভাবে অ্যাপটিতে নিবন্ধিত হয়।\n- টিটিএস ফিল্টার উন্নত করা হয়েছে (বিশেষ অক্ষর)\n- ইতিহাসের শিরোনাম অঞ্চলে ক্লিক করার সময় কোনও প্রতিক্রিয়া ছিল না এমন একটি বাগ স্থির করে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Функцията за избор на номер е променена на тип влачене.\n- добавена функция за подчертаване на текст.\n- Вече можете да зададете посоката на отваряне.\n- Фиксирана грешка, при която TTS продължава да играе, дори ако слушалките са изключени в определени ситуации.\n- Бунтовният потребителски интерфейс е модифициран."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Изпълнението на зрителя е подобрено.\n- Добавена е функция за споделяне на TTS филтър и партидни редактирани данни във формат URL.\n   * Когато щракнете върху споделения URL адрес, той се регистрира автоматично в приложението.\n- TTS филтърът е подобрен (специални знаци)\n- Фиксирана грешка, при която няма отговор при щракване върху областта на заглавието на историята."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Функција одабира броја је промењена у тип вуче.\n- Додата функција подвлачења текста.\n- Сада можете да поставите увод у отварање.\n- Поправљена је грешка у којој су ТТС наставили да играју чак и ако су слушалице искључене у одређеним ситуацијама.\n- Дељење обележивача УИ је модификован."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Побољшани су перформансе гледалаца.\n- Додата је функција да бисте делили ТТС Филтер и БАТЦХ ЕДИТ податке у УРЛ формату.\n   * Када кликнете на дељени УРЛ, аутоматски се региструје у апликацији.\n- ТТС филтер је побољшан (посебне знакове)\n- Поправљена је грешка у којој није било одговора приликом кликом на подручје наслова историје."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Kazi ya uteuzi wa nambari imebadilishwa kuwa aina ya Drag.\n- Kuongeza kazi ya maandishi ya maandishi.\n- Sasa unaweza kuweka mwelekeo wa ufunguzi.\n- Zisizohamishika mdudu ambapo TTS iliendelea kucheza hata kama simu za masikio zilikataliwa katika hali fulani.\n- UI ya Kushiriki Alamisho imebadilishwa."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Utendaji wa watazamaji umeboreshwa.\n- Kazi imeongezwa ili kushiriki kichujio cha TTS na data ya hariri ya batch katika muundo wa URL.\n   * Unapobonyeza URL iliyoshirikiwa, imesajiliwa kiatomati kwenye programu.\n- Kichujio cha TTS kimeboreshwa (herufi maalum)\n- Zisizohamishika mdudu ambapo hakukuwa na majibu wakati wa kubonyeza kwenye eneo la kichwa cha historia."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Nummervalsfunktionen har ändrats till en dragtyp.\n- Tillagd textunderstyrningsfunktion.\n- Du kan nu ställa in öppningsriktningen.\n- Fixade ett fel där TTS fortsatte att spela även om hörlurarna kopplades bort i vissa situationer.\n- Bokmärken som delar användargränssnittet har modifierats."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Visningens prestanda har förbättrats.\n- En funktion har lagts till för att dela TTS -filter- och batchredigeringsdata i URL -format.\n   * När du klickar på den delade URL: n registreras den automatiskt i appen.\n- TTS -filter har förbättrats (specialtecken)\n- Fixade ett fel där det inte fanns något svar när du klickade på historien."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.6.7 (2023 11 05)\n\n- La función de selección de números se ha cambiado a un tipo de arrastre.\n- Función de subrayamiento de texto agregado.\n- Ahora puede establecer la dirección de apertura.\n- Se corrigió un error donde TTS continuó jugando incluso si los auriculares se desconectaban en ciertas situaciones.\n- El marcador compartiendo la interfaz de usuario ha sido modificado."
+    "devnote": "7.6.8 (2023 11 15)\n\n- El rendimiento del espectador se ha mejorado.\n- Se ha agregado una función para compartir datos de edición de filtro TTS y lotes en formato URL.\n   * Cuando hace clic en la URL compartida, se registra automáticamente en la aplicación.\n- Se ha mejorado el filtro TTS (caracteres especiales)\n- Se corrigió un error donde no había respuesta al hacer clic en el área de título del historial."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7,6,7 (2023 11 05)\n\n- Funkcia výberu čísla bola zmenená na typ ťahania.\n- Pridaná funkcia podčiarknutia textu.\n- Teraz môžete nastaviť smer otvárania.\n- Opravená chyba, kde TTS pokračovali v hre, aj keď boli slúchadlá odpojené v určitých situáciách.\n- UI zdieľanie záložiek bolo upravené."
+    "devnote": "7,6,8 (2023 11 15)\n\n- Výkon diváka sa zlepšil.\n- Funkcia bola pridaná na zdieľanie TTS filtrov a údajov úpravy dávok vo formáte URL.\n   * Po kliknutí na zdieľanú adresu URL sa automaticky zaregistruje v aplikácii.\n- TTS Filter bol vylepšený (špeciálne znaky)\n- Opravená chyba, kde pri kliknutí na oblasť titulu histórie nebola žiadna odpoveď."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Funkcija izbire številk je bila spremenjena v vrsto povleka.\n- Dodana funkcijo podkrepa besedila.\n- Zdaj lahko nastavite smer odpiranja.\n- Odpravljena je napaka, kjer so TTS še naprej igrali, tudi če so bile slušalke v določenih situacijah odklopljene.\n- Uporabniški vmesnik za izmenjavo zaznamkov je spremenjen."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Učinkovitost gledalca je bila izboljšana.\n- Dodana je bila funkcija za skupno rabo filtra TTS in podatkov o urejanju paketov v obliki URL.\n   * Ko kliknete skupni URL, se samodejno registrira v aplikaciji.\n- TTS filter je bil izboljšen (posebni znaki)\n- Odpravljena je napaka, kjer ni bilo odgovora pri kliku na območje naslova zgodovine."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.6.7 (2023 11 05)\n\n- සංඛ්යා තේරීමේ කාර්යය ඇදගෙන යාමේ වර්ගය ලෙස වෙනස් කර ඇත.\n- එකතු කරන ලද පෙළ අවධාරණය කරන්න.\n- ඔබට දැන් ආරම්භක දිශාව සැකසිය හැකිය.\n- යම් යම් අවස්ථාවන්හිදී කරර්ෆෝන් විසන්ධි වූවත්, ටීටීඑස් දිගින් දිගටම ක්රීඩා කළ දෝෂයක් සවි කර ඇත.\n- පිටු සලකුණු බෙදාගැනීම UI වෙනස් කර ඇත."
+    "devnote": "7.6.8 (2023 11 15)\n\n- නරඹන්නාගේ කාර්ය සාධනය වැඩිදියුණු කර ඇත.\n- TTS පෙරීම සහ කණ්ඩායම් URL ආකෘතියෙන් දත්ත සංස්කරණය කිරීම සඳහා ශ්රිතයක් එකතු කර ඇත.\n   * ඔබ හවුල් URL ක්ලික් කරන්න ක්ලික් කළ විට එය ස්වයංක්රීයව යෙදුමේ ලියාපදිංචි වේ.\n- tts filter වැඩිදියුණු කර ඇත (විශේෂ අක්ෂර)\n- ඉතිහාස මාතෘකා ප්රදේශය මත ක්ලික් කිරීමේදී කිසිදු ප්රතිචාරයක් නොතිබූ දෝෂයක්."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.6.7 (2023 11 05)\n\n- تم تغيير وظيفة اختيار الأرقام إلى نوع السحب.\n- إضافيا النص تسطير وظيفة.\n- يمكنك الآن تعيين اتجاه الافتتاح.\n- تم إصلاح الخلل حيث استمرت TTS في اللعب حتى لو تم فصل سماعات الأذن في مواقف معينة.\n- تم تعديل واجهة المستخدم المشاركة المرجعية."
+    "devnote": "7.6.8 (2023 11 15)\n\n- تم تحسين أداء المشاهد.\n- تمت إضافة وظيفة لمشاركة مرشح TTS وبيانات تحرير الدُفعات بتنسيق URL.\n   * عند النقر فوق عنوان URL المشترك ، يتم تسجيله تلقائيًا في التطبيق.\n- تم تحسين مرشح TTS (أحرف خاصة)\n- إصلاح خطأ حيث لم يكن هناك استجابة عند النقر على منطقة عنوان التاريخ."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Թվերի ընտրության գործառույթը փոխվել է քաշքշուկի տեսակից:\n- Ավելացված տեքստի ընդգծման գործառույթ:\n- Այժմ կարող եք սահմանել բացման ուղղությունը:\n- Հաստատեց մի սխալ, որտեղ TT- ները շարունակեցին խաղալ, նույնիսկ եթե ականջակալները անջատվեին որոշակի իրավիճակներում:\n- Էջանշման փոխանակումը UI- ն փոփոխվել է:"
+    "devnote": "7.6.8 (2023 11 15)\n\n- Բարելավվել է դիտողի ներկայացումը:\n- Մի գործառույթ է ավելացվել TTS ֆիլտրի եւ խմբաքանակի խմբագրման տվյալները URL ձեւաչափով:\n   * Երբ կտտացնում եք ընդհանուր URL- ն, այն ավտոմատ կերպով գրանցվում է հավելվածում:\n- TTS ֆիլտրը բարելավվել է (հատուկ նիշ)\n- Հաստատեց մի սխալ, որտեղ պատասխան չեղավ պատմության վերնագրի տարածքը սեղմելիս:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Fjöldi valaðgerðar hefur verið breytt í dráttargerð.\n- Bætt við texta undirstrikun.\n- Þú getur nú stillt opnunarstefnu.\n- Lagaði galla þar sem TTS hélt áfram að spila jafnvel þó að heyrnartólin væru aftengd við vissar aðstæður.\n- Bókamerkjamiðlun HÍ hefur verið breytt."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Árangur áhorfenda hefur verið bætt.\n- Aðgerð hefur verið bætt við til að deila TTS síu og lotubreytingum á URL sniði.\n   * Þegar þú smellir á sameiginlega slóðina er það sjálfkrafa skráð í appið.\n- TTS sía hefur verið endurbætt (sérstakir stafir)\n- Lagaði villu þar sem engin svör voru þegar smellt var á söguheittasviðið."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Nömrə seçimi funksiyası sürükləmə növünə dəyişdirildi.\n- Əlavə edilmiş mətnin alt funksiyası.\n- İndi açılış istiqamətini təyin edə bilərsiniz.\n- Qulaqlıqların müəyyən hallarda kəsildiyi təqdirdə TTS-in oynamağa davam etdiyi bir səhv düzəldildi.\n- Əlfəcin paylaşma UI dəyişdirildi."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Viewer performansı yaxşılaşdırıldı.\n- TTS filtri və toplu redaktə məlumatlarını URL formatında paylaşmaq üçün bir funksiya əlavə edildi.\n   * Paylaşılan URL-i tıkladığınız zaman, tətbiqdə avtomatik olaraq qeydiyyata alınır.\n- TTS filtri yaxşılaşdırıldı (xüsusi simvol)\n- Tarixin başlığını tıklayarkən cavab olmadığının bir səhv düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Die nommer -seleksiefunksie is verander na 'n sleeptipe.\n- Bygevoegde teks onderstreepfunksie.\n- U kan nou die openingsrigting instel.\n- 'n fout reggestel waar TTS aanhou speel, selfs al is die oorfone in sekere situasies ontkoppel.\n- Die UI -deel van die boekmerk is gewysig."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Die prestasie van die kyker is verbeter.\n- 'n Funksie is bygevoeg om TTS -filter- en bondelbewerkingsdata in URL -formaat te deel.\n   * As u op die gedeelde URL klik, word dit outomaties in die app geregistreer.\n- TTS -filter is verbeter (spesiale karakters)\n- het 'n fout opgelos waar daar geen antwoord was toe hy op die geskiedenis -titelgebied geklik het nie."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Funksioni i përzgjedhjes së numrave është ndryshuar në një lloj zvarritje.\n- Funksioni i nënvizuar i tekstit të shtuar.\n- Tani mund të vendosni drejtimin e hapjes.\n- Fiksoi një gabim ku TTS vazhdoi të luante edhe nëse kufjet ishin shkëputur në situata të caktuara.\n- Ndarja e faqerojtës UI është modifikuar."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Performanca e shikuesit është përmirësuar.\n- është shtuar një funksion për të ndarë të dhënat e modifikimit të filtrit TTS dhe grupit në formatin URL.\n   * Kur klikoni në URL -në e përbashkët, ajo regjistrohet automatikisht në aplikacion.\n- TTS Filter është përmirësuar (karaktere speciale)\n- Fiksoi një gabim ku nuk kishte asnjë përgjigje kur klikoni në zonën e titullit të historisë."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.6.7 (2023 11 05)\n\n- የቁጥር ምርጫ ተግባር ወደ ጎትት ዓይነት ተለው has ል.\n- የታከመ ጽሑፍ ሥራን አክሏል.\n- አሁን የመክፈቻ አቅጣጫውን ማዘጋጀት ይችላሉ.\n- የጆሮ ማዳመጫዎቹ በተወሰኑ ሁኔታዎች ቢኖሩም እንኳ ቲቶቶች ቢጫወቱ ትቶች መጫወቱን የቀጠለ ሳንካ ተጠግኗል.\n- ዕልባት ማካካሻ ተሻሽሏል."
+    "devnote": "7.6.8 (2023 11 15)\n\n- መመልከቻ አፈፃፀም ተሻሽሏል.\n- TTS ማጣሪያ ለማጋራት አንድ ተግባር ታክሏል እና በዩ.አር.ኤል. ቅርጸት ውስጥ ውሂብን አርትዕ ያድርጉ.\n   * የጋራ ዩ አር ኤል ጠቅ ሲያደርጉ, በመተግበሪያው ውስጥ በራስ-ሰር ተመዝግቧል.\n- TTS ማጣሪያ ተሻሽሏል (ልዩ ቁምፊዎች)\n- የታሪክ ማዕረግ አካባቢን ጠቅ በማድረግ ምላሽ የማይሰጥበት ሳንካን ተጠግኗል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Numbrite valikufunktsioon on muudetud lohiseks.\n- lisatud teksti allaliinfunktsioon.\n- nüüd saate avada avasuundi.\n- Parandatud viga, kus TTS jätkas mängimist isegi siis, kui kõrvaklapid olid teatud olukordades lahti ühendatud.\n- järjehoidjate jagamise kasutajaliidest on muudetud."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Vaataja jõudlust on parandatud.\n- TTS -filtri ja partii redigeerimise andmete jagamiseks URL -vormingus on lisatud funktsioon.\n   * Kui klõpsate jagatud URL -il, registreeritakse see rakenduses automaatselt.\n- TTS -filter on täiustatud (erimärgid)\n- Parandatud viga, kus ajaloo pealkirja alal klõpsates ei olnud vastust."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.6.7 (2023 11 05)\n\n- نمبر سلیکشن فنکشن کو ڈریگ قسم میں تبدیل کردیا گیا ہے۔\n- شامل کردہ متن انڈر لائن فنکشن۔\n- اب آپ افتتاحی سمت طے کرسکتے ہیں۔\n- ایک بگ طے کیا جہاں ٹی ٹی ایس کھیلتا رہا یہاں تک کہ اگر کچھ حالات میں ائرفون منقطع ہوگئے تھے۔\n- بک مارک شیئرنگ UI میں ترمیم کی گئی ہے۔"
+    "devnote": "7.6.8 (2023 11 15)\n\n- ناظرین کی کارکردگی کو بہتر بنایا گیا ہے۔\n- ٹی ٹی ایس فلٹر اور بیچ ایڈیٹ ڈیٹا کو یو آر ایل فارمیٹ میں شیئر کرنے کے لئے ایک فنکشن شامل کیا گیا ہے۔\n   * جب آپ مشترکہ یو آر ایل پر کلک کرتے ہیں تو ، یہ خود بخود ایپ میں رجسٹر ہوجاتا ہے۔\n- ٹی ٹی ایس فلٹر کو بہتر بنایا گیا ہے (خصوصی حروف)\n- ایک بگ طے کیا جہاں تاریخ کے عنوان کے علاقے پر کلک کرتے وقت کوئی جواب نہیں ملا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Функція вибору числа змінена на тип перетягування.\n- Додано функцію підкреслення тексту.\n- Тепер ви можете встановити напрямок входу.\n- Виправлена ​​помилка, де ТТ продовжував грати, навіть якщо навушники були відключені в певних ситуаціях.\n- Користувацький інтерфейс, що ділиться закладками, було змінено."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Продуктивність глядача була вдосконалена.\n- Додано функцію для обміну даними фільтра TTS та пакетної редагування у форматі URL -адреси.\n   * Коли ви натискаєте на спільну URL -адресу, вона автоматично реєструється в додатку.\n- Фільтр TTS був вдосконалений (спеціальні символи)\n- Виправлена ​​помилка, де не було відповіді при натисканні на область назви історії."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.6.7 (2023 11 05)\n\n- La funzione di selezione dei numeri è stata modificata in un tipo di trascinamento.\n- Aggiunta funzione sottolineatura del testo.\n- Ora puoi impostare la direzione di apertura.\n- Risolto un bug in cui TTS continuava a giocare anche se gli auricolari erano scollegati in determinate situazioni.\n- L'interfaccia utente di condivisione dei segnalibri è stata modificata."
+    "devnote": "7,6,8 (2023 11 15)\n\n- Le prestazioni degli spettatori sono stati migliorati.\n- È stata aggiunta una funzione per condividere i dati di modifica del filtro e batch TTS in formato URL.\n   * Quando si fa clic sull'URL condiviso, viene registrato automaticamente nell'app.\n- Il filtro TTS è stato migliorato (caratteri speciali)\n- Risolto un bug in cui non vi era alcuna risposta quando si fa clic sull'area del titolo della cronologia."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Fungsi pemilihan angka telah diubah ke jenis seret.\n- Menambahkan fungsi garis bawah teks.\n- Anda sekarang dapat mengatur arah pembukaan.\n- Memperbaiki bug di mana TTS terus bermain bahkan jika earphone terputus dalam situasi tertentu.\n- UI Berbagi Bookmark telah dimodifikasi."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Kinerja pemirsa telah ditingkatkan.\n- Fungsi telah ditambahkan untuk berbagi filter TTS dan data edit batch dalam format URL.\n   * Saat Anda mengklik URL bersama, itu secara otomatis terdaftar di aplikasi.\n- Filter TTS telah ditingkatkan (karakter khusus)\n- Memperbaiki bug di mana tidak ada respons saat mengklik area judul sejarah."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.6.7（2023 11 05）\n\n - 数値選択関数はドラッグタイプに変更されました。\n - テキスト下線関数が追加されました。\n - これで、オープニング方向を設定できます。\n - 特定の状況でイヤホンが切断された場合でも、TTSが再生され続けたバグを修正しました。\n - ブックマーク共有UIが変更されました。"
+    "devnote": "7.6.8（2023 11 15）\n\n - 視聴者のパフォーマンスが向上しました。\n-URL形式でTTSフィルターとバッチの編集データを共有するための関数が追加されています。\n   *共有URLをクリックすると、アプリに自動的に登録されます。\n-TTSフィルターが改善されました（特殊文字）\n - 歴史のタイトル領域をクリックしたときに応答がなかったバグを修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.6.7 (2023 11 05)\n\n- რიცხვის შერჩევის ფუნქცია შეიცვალა დრაკონის ტიპზე.\n- დამატებული ტექსტი ხაზს უსვამს ფუნქციას.\n- ახლა შეგიძლიათ დააყენოთ გახსნის მიმართულება.\n- დააფიქსირა შეცდომა, სადაც TTS– მა განაგრძო თამაში, თუნდაც ყურსასმენების გათიშვა გარკვეულ სიტუაციებში.\n- სანიშნე UI- ს სანიშნე შეიცვალა."
+    "devnote": "7.6.8 (2023 11 15)\n\n- გაუმჯობესდა მაყურებლის შესრულება.\n- დაემატა ფუნქცია TTS ფილტრისა და ჯგუფების რედაქტირების მონაცემების URL ფორმატში გაზიარებისთვის.\n   * როდესაც დააჭირეთ გაზიარებულ URL- ს, ის ავტომატურად რეგისტრირებულია აპლიკაციაში.\n- გაუმჯობესდა TTS ფილტრი (სპეციალური სიმბოლოები)\n- დააფიქსირა შეცდომა, სადაც არ იყო პასუხი ისტორიის სათაურის არეალზე დაჭერისას."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Umsebenzi wokukhethwa kwezinombolo ushintshelwe kuhlobo lokudonsela.\n- Umsebenzi we-Underline owengezwe.\n- Manje usungasetha indlela yokuvula.\n- Silungiswe isiphazamisi lapho ama-TTS eqhubeka nokudlala noma ngabe izindlebe zinqanyuliwe ezimweni ezithile.\n- Ukwabelana ngeBhukumaka i-UI kuguquliwe."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Ukusebenza kokubukwa kuye kwathuthukiswa.\n- Umsebenzi ungeziwe ukuze wabelane ngohluzo lwe-TTS kanye ne-batch Hlela idatha ngefomethi ye-URL.\n   * Uma uqhafaza i-URL eyabiwe, ibhaliswe ngokuzenzakalela kuhlelo lokusebenza.\n- Isihlungi se-TTS senziwe ngcono (izinhlamvu ezikhethekile)\n- Kulungiswe isiphazamisi lapho kwakungekho mpendulo lapho uchofoza endaweni yesihloko somlando."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.6.7（2023 11 05）\n\n - 数字选择功能已更改为拖动类型。\n - 添加了文本下划线功能。\n - 您现在可以设置开放方向。\n - 修复了一个错误，即使在某些情况下将耳机断开连接，TTS仍继续播放。\n - 书签共享UI已修改。"
+    "devnote": "7.6.8（2023 11 15）\n\n - 观看者的性能得到了改善。\n - 已添加了一个函数以以URL格式共享TTS过滤器和批处理编辑数据。\n   *单击共享URL时，它会自动在应用中注册。\n-TTS过滤器已改进（特殊字符）\n - 修复了单击历史记录标题区域时没有响应的错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.6.7（2023 11 05）\n\n - 數字選擇功能已更改為拖動類型。\n - 添加了文本下劃線功能。\n - 您現在可以設置開放方向。\n - 修復了一個錯誤，即使在某些情況下將耳機斷開連接，TTS仍繼續播放。\n - 書籤共享UI已修改。"
+    "devnote": "7.6.8（2023 11 15）\n\n - 觀看者的性能得到了改善。\n - 已添加了一個函數以以URL格式共享TTS過濾器和批處理編輯數據。\n   *單擊共享URL時，它會自動在應用中註冊。\n-TTS過濾器已改進（特殊字符）\n - 修復了單擊歷史記錄標題區域時沒有響應的錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.6.7（2023 11 05）\n\n - 數字選擇功能已更改為拖動類型。\n - 添加了文本下劃線功能。\n - 您現在可以設置開放方向。\n - 修復了一個錯誤，即使在某些情況下將耳機斷開連接，TTS仍繼續播放。\n - 書籤共享UI已修改。"
+    "devnote": "7.6.8（2023 11 15）\n\n - 觀看者的性能得到了改善。\n - 已添加了一個函數以以URL格式共享TTS過濾器和批處理編輯數據。\n   *單擊共享URL時，它會自動在應用中註冊。\n-TTS過濾器已改進（特殊字符）\n - 修復了單擊歷史記錄標題區域時沒有響應的錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Funkce výběru čísla byla změněna na typ tažení.\n- Přidaná funkce podtržení textu.\n- Nyní můžete nastavit směr otevření.\n- Opravena chyba, kde TTS pokračoval ve hře, i když sluchátka byla v určitých situacích odpojena.\n- Sdílení uživatelského rozhraní záložky bylo upraveno."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Výkon prohlížeče byl vylepšen.\n- Byla přidána funkce pro sdílení TTS filtrů a dávkových úprav ve formátu URL.\n   * Když kliknete na sdílenou adresu URL, je automaticky zaregistrován v aplikaci.\n- Filtr TTS byl vylepšen (speciální znaky)\n- Opravena chyba, kde nebyla odpověď při kliknutí na oblast titulu historie."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Нөмірді таңдау функциясы сүйреп апару түріне өзгертілді.\n- Мәтіннің астын сызу функциясы қосылды.\n- Енді сіз ашылу бағытын белгілей аласыз.\n- Құлақаспап белгілі бір жағдайларда ажыратылған болса да, TTS ойнатылып жатқан қатені түзетіңіз.\n- UI бетбелгі бөлісу өзгертілген."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Көрермендердің өнімділігі жақсарды.\n- TTS сүзгісімен және URL мекен-жайы бойынша деректерді өңдеуге арналған функция қосылды.\n   * Ортақ URL мекенжайын басқан кезде, ол автоматты түрде қолданбада тіркеледі.\n- TTS сүзгісі жақсарды (арнайы таңбалар)\n- Тарих тақырып аймағын нұқыған кезде жауап болмаған жағдайда қате пайда болды."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.6.7 (2023 11 05)\n\n- La funció de selecció de números s'ha canviat per un tipus d'arrossegament.\n- S'ha afegit la funció subratllada de text.\n- Ara podeu definir la direcció d'obertura.\n- S'ha corregit un error on TTS continuava jugant fins i tot si els auriculars es desconnecten en determinades situacions.\n- S'ha modificat la interfície d'interès de compartició de marcadors."
+    "devnote": "7.6.8 (2023 11 15)\n\n- S'ha millorat el rendiment dels espectadors.\n- S'ha afegit una funció per compartir dades d'edició de filtres TTS i per lots en format URL.\n   * Quan feu clic a l'URL compartida, es registra automàticament a l'aplicació.\n- El filtre TTS s'ha millorat (caràcters especials)\n- S'ha corregit un error on no hi hagués resposta quan feu clic a l'àrea del títol de la història."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.6.7 (2023 11 05)\n\n- ಸಂಖ್ಯೆಯ ಆಯ್ಕೆ ಕಾರ್ಯವನ್ನು ಡ್ರ್ಯಾಗ್ ಪ್ರಕಾರಕ್ಕೆ ಬದಲಾಯಿಸಲಾಗಿದೆ.\n- ಪಠ್ಯ ಅಂಡರ್ಲೈನ್ ​​ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ನೀವು ಈಗ ಆರಂಭಿಕ ದಿಕ್ಕನ್ನು ಹೊಂದಿಸಬಹುದು.\n- ಕೆಲವು ಸಂದರ್ಭಗಳಲ್ಲಿ ಇಯರ್‌ಫೋನ್‌ಗಳು ಸಂಪರ್ಕ ಕಡಿತಗೊಂಡಿದ್ದರೂ ಸಹ ಟಿಟಿಎಸ್ ಆಡುವ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ಬುಕ್‌ಮಾರ್ಕ್ ಹಂಚಿಕೆ ಯುಐ ಅನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
+    "devnote": "7.6.8 (2023 11 15)\n\n- ವೀಕ್ಷಕರ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಸುಧಾರಿಸಲಾಗಿದೆ.\n- ಟಿಟಿಎಸ್ ಫಿಲ್ಟರ್ ಮತ್ತು ಬ್ಯಾಚ್ ಸಂಪಾದನೆ ಡೇಟಾವನ್ನು URL ಸ್ವರೂಪದಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳಲು ಒಂದು ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n   * ನೀವು ಹಂಚಿದ URL ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ, ಅದನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ನೋಂದಾಯಿಸಲಾಗುತ್ತದೆ.\n- ಟಿಟಿಎಸ್ ಫಿಲ್ಟರ್ ಅನ್ನು ಸುಧಾರಿಸಲಾಗಿದೆ (ವಿಶೇಷ ಅಕ್ಷರಗಳು)\n- ಇತಿಹಾಸ ಶೀರ್ಷಿಕೆ ಪ್ರದೇಶವನ್ನು ಕ್ಲಿಕ್ ಮಾಡುವಾಗ ಯಾವುದೇ ಪ್ರತಿಕ್ರಿಯೆ ಇಲ್ಲದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.6.7 (2023. 11 05)\n\n- Funkcija odabira broja promijenjena je u vrstu povlačenja.\n- Dodana funkcija podcrtavanja teksta.\n- Sada možete postaviti smjer otvaranja.\n- Ispravljena je greška u kojoj se TTS nastavio igrati čak i ako su slušalice bile isključene u određenim situacijama.\n- UI za dijeljenje oznake je izmijenjeno."
+    "devnote": "7.6.8 (2023. 11 15)\n\n- Učinkovitost gledatelja je poboljšana.\n- Dodana je funkcija za dijeljenje podataka TTS filtra i batch uređivanja podataka u formatu URL -a.\n   * Kada kliknete zajednički URL, automatski se registrira u aplikaciji.\n- TTS filter je poboljšan (posebni znakovi)\n- Ispravljena je greška u kojoj nije bilo odgovora prilikom klika na području naslova povijesti."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.6.7 (2023 11 05)\n\n- មុខងារជ្រើសរើសលេខត្រូវបានប្តូរទៅជាប្រភេទអូស។\n- បន្ថែមមុខងារគូសបញ្ជាក់អត្ថបទ។\n- ឥឡូវអ្នកអាចកំណត់ទិសដៅបើក។\n- ជួសជុលកំហុសដែល TTS បន្តលេងទោះបីជាកាសស្តាប់ត្រចៀកត្រូវបានផ្តាច់ក្នុងស្ថានភាពជាក់លាក់ក៏ដោយ។\n- ការចែករំលែកចំណាំរបស់អ្នកជីកបានត្រូវបានកែប្រែ។"
+    "devnote": "7.6.8 (2023 11 15)\n\n- ការអនុវត្តកម្មវិធីមើលត្រូវបានធ្វើឱ្យប្រសើរឡើង។\nមុខងារត្រូវបានបន្ថែមដើម្បីចែករំលែកតម្រង TTS និងបាច់កែសម្រួលទិន្នន័យក្នុងទ្រង់ទ្រាយ URL ។\n   * នៅពេលអ្នកចុចលើ URL ដែលបានចែករំលែកវាត្រូវបានចុះឈ្មោះដោយស្វ័យប្រវត្តិនៅក្នុងកម្មវិធី។\nតម្រង TTS ត្រូវបានធ្វើឱ្យប្រសើរឡើង (តួអក្សរពិសេស)\n- ជួសជុលកំហុសដែលមិនមានការឆ្លើយតបនៅពេលចុចលើផ្ទៃចំណងជើងនៃប្រវត្តិសាស្រ្ត។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Сандык тандоо функциясы сүйрөп бурулганга өзгөртүлдү.\n- текстти кошту.\n- Сиз азыр ачылыш багытын орнотсоңуз болот.\n- Кулакчындар белгилүү бир кырдаалдарда ажыратылса дагы, TTS ойной турган мүчүлүштүктү белгиледи.\n- ui бөлүшүү үчүн кыстарма өзгөртүлдү."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Көрүүчү көрсөткүч өркүндөтүлдү.\n- TTS чыпкасын бөлүшүү үчүн функция жана партиялык маалыматты URL форматындагы бөлүштүрүү үчүн кошулган.\n   * Сиз бөлүшкөн URLди чыкылдатканда, ал колдонмодо автоматтык түрдө катталат.\n- TTS чыпкасы жакшырды (атайын белгилер)\n- Тарыхтын аталыш аянтчасын чыкылдатып жооп берген жок мүчүлүштүктү белгилеңиз."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.6.7 (2023 11 05)\n\n- எண் தேர்வு செயல்பாடு ஒரு இழுவை வகையாக மாற்றப்பட்டுள்ளது.\n- சேர்க்கப்பட்ட உரை அடிக்கோடிட்டு செயல்பாடு.\n- நீங்கள் இப்போது தொடக்க திசையை அமைக்கலாம்.\n- சில சூழ்நிலைகளில் காதணிகள் துண்டிக்கப்பட்டிருந்தாலும் கூட டி.டி.எஸ் தொடர்ந்து விளையாடும் ஒரு பிழை சரி செய்யப்பட்டது.\n- புக்மார்க்கு பகிர்வு UI மாற்றியமைக்கப்பட்டுள்ளது."
+    "devnote": "7.6.8 (2023 11 15)\n\n- பார்வையாளர் செயல்திறன் மேம்படுத்தப்பட்டுள்ளது.\n- URL வடிவத்தில் TTS வடிகட்டி மற்றும் தொகுதி திருத்து தரவைப் பகிர ஒரு செயல்பாடு சேர்க்கப்பட்டுள்ளது.\n   * நீங்கள் பகிரப்பட்ட URL ஐக் கிளிக் செய்தால், அது தானாகவே பயன்பாட்டில் பதிவு செய்யப்படும்.\n- டி.டி.எஸ் வடிகட்டி மேம்படுத்தப்பட்டுள்ளது (சிறப்பு எழுத்துக்கள்)\n- வரலாற்று தலைப்பு பகுதியைக் கிளிக் செய்யும் போது எந்த பதிலும் இல்லாத ஒரு பிழை சரி செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.6.7 (2023 11 05)\n\n- ฟังก์ชั่นการเลือกตัวเลขถูกเปลี่ยนเป็นประเภทการลาก\n- เพิ่มฟังก์ชั่นขีดเส้นใต้ข้อความ\n- ตอนนี้คุณสามารถตั้งทิศทางการเปิด\n- แก้ไขข้อผิดพลาดที่ TTS ยังคงเล่นต่อไปแม้ว่าหูฟังจะถูกตัดการเชื่อมต่อในบางสถานการณ์\n- การแบ่งปันบุ๊กมาร์ก UI ได้รับการแก้ไขแล้ว"
+    "devnote": "7.6.8 (2023 11 15)\n\n- ประสิทธิภาพของผู้ชมได้รับการปรับปรุงแล้ว\n- มีการเพิ่มฟังก์ชั่นเพื่อแชร์ตัวกรอง TTS และข้อมูลการแก้ไขแบบแบตช์ในรูปแบบ URL\n   * เมื่อคุณคลิก URL ที่ใช้ร่วมกันจะมีการลงทะเบียนโดยอัตโนมัติในแอพ\n- ตัวกรอง TTS ได้รับการปรับปรุงแล้ว (อักขระพิเศษ)\n- แก้ไขข้อผิดพลาดที่ไม่มีการตอบสนองเมื่อคลิกที่พื้นที่ชื่อประวัติ"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Sayı seçim işlevi bir sürükleme türü olarak değiştirildi.\n- Metin alt çizgisi işlevi eklendi.\n- Şimdi açılış yönünü ayarlayabilirsiniz.\n- Bazı durumlarda kulaklıkların bağlantısı kesilse bile TTS'nin oynamaya devam ettiği bir hata düzeltildi.\n- Yer işareti paylaşım kullanıcı arayüzü değiştirildi."
+    "devnote": "7.6.8 (2023 11 15)\n\n- İzleyici performansı geliştirildi.\n- TTS filtresini paylaşmak ve düzenleme verilerini URL formatında paylaşmak için bir işlev eklenmiştir.\n   * Paylaşılan URL'yi tıklattığınızda, uygulamaya otomatik olarak kaydedilir.\n- TTS filtresi geliştirildi (özel karakterler)\n- Tarih başlığı alanını tıklarken yanıtın olmadığı bir hata düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.6.7 (2023 11 05)\n\n- సంఖ్య ఎంపిక ఫంక్షన్ డ్రాగ్ రకానికి మార్చబడింది.\n- టెక్స్ట్ అండర్లైన్ ఫంక్షన్ జోడించబడింది.\n- మీరు ఇప్పుడు ప్రారంభ దిశను సెట్ చేయవచ్చు.\n- కొన్ని సందర్భాల్లో ఇయర్‌ఫోన్‌లు డిస్‌కనెక్ట్ చేయబడినప్పటికీ టిటిఎస్ ఆడటం కొనసాగించిన బగ్ పరిష్కరించబడింది.\n- బుక్‌మార్క్ షేరింగ్ UI సవరించబడింది."
+    "devnote": "7.6.8 (2023 11 15)\n\n- వీక్షకుల పనితీరు మెరుగుపరచబడింది.\n- TTS ఫిల్టర్ మరియు బ్యాచ్ సవరణ డేటాను URL ఆకృతిలో షేర్ చేయడానికి ఒక ఫంక్షన్ జోడించబడింది.\n   * మీరు భాగస్వామ్య URL ను క్లిక్ చేసినప్పుడు, అది స్వయంచాలకంగా అనువర్తనంలో నమోదు చేయబడుతుంది.\n- టిటిఎస్ ఫిల్టర్ మెరుగుపరచబడింది (ప్రత్యేక అక్షరాలు)\n- చరిత్ర శీర్షిక ప్రాంతంపై క్లిక్ చేసేటప్పుడు స్పందన లేని బగ్ పరిష్కరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.6.7 (2023 11 05)\n\n- ਨੰਬਰ ਚੋਣ ਫੰਕਸ਼ਨ ਨੂੰ ਇੱਕ ਖਿੱਚ ਦੀ ਕਿਸਮ ਵਿੱਚ ਬਦਲਿਆ ਗਿਆ ਹੈ.\n- ਟੈਕਸਟ ਰੇਖਾ ਦਾ ਕੰਮ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ.\n- ਤੁਸੀਂ ਹੁਣ ਉਦਘਾਟਨ ਦਿਸ਼ਾ ਨਿਰਧਾਰਤ ਕਰ ਸਕਦੇ ਹੋ.\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਜਿੱਥੇ ਟੀਟੀਐਸ ਨੂੰ ਕੁਝ ਸਥਿਤੀਆਂ ਵਿੱਚ ਡਿਸਕਨੈਕਟ ਕੀਤਾ ਗਿਆ ਸੀ ਤਾਂ ਵੀ ਖੇਡਦਾ ਰਿਹਾ.\n- ਬੁੱਕਮਾਰਕ ਸਾਂਝਾ ਕਰਨ ਵਾਲੀ UI ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ."
+    "devnote": "7.6.8 (2023 11 15)\n\n- ਦਰਸ਼ਕ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ.\n- ਟੀਟੀਐਸ ਐੱਨ ਐਰਡ ਫਾਰਮੈਟ ਵਿੱਚ ਟੀਟੀਐਸ ਫਿਲਟਰ ਅਤੇ ਬੈਚ ਨੂੰ ਸੋਧਦਾ ਡੇਟਾ ਸਾਂਝਾ ਕਰਨ ਲਈ ਇੱਕ ਫੰਕਸ਼ਨ ਜੋੜਿਆ ਗਿਆ ਹੈ.\n   * ਜਦੋਂ ਤੁਸੀਂ ਸਾਂਝਾ URL ਨੂੰ ਦਬਾਉਂਦੇ ਹੋ, ਤਾਂ ਇਹ ਆਪਣੇ ਆਪ ਐਪ ਵਿੱਚ ਰਜਿਸਟਰ ਹੋ ਜਾਂਦਾ ਹੈ.\n- ਟੀਟੀਐਸ ਫਿਲਟਰ ਨੂੰ ਸੁਧਾਰਿਆ ਗਿਆ ਹੈ (ਵਿਸ਼ੇਸ਼ ਅੱਖਰ)\n- ਇਤਿਹਾਸ ਦੇ ਸਿਰਲੇਖ ਵਾਲੇ ਖੇਤਰ ਨੂੰ ਦਬਾਉਣ 'ਤੇ ਕਲਿੱਕ ਕਰਨ ਵੇਲੇ ਕੋਈ ਸੰਕੇਤ ਹੱਲ ਕੀਤਾ ਜਾਂਦਾ ਸੀ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.6.7 (2023 11 05)\n\n- عملکرد انتخاب شماره به یک نوع درگ تغییر یافته است.\n- اضافه شده عملکرد زیر خط متن.\n- اکنون می توانید جهت باز کردن را تنظیم کنید.\n- رفع اشکال در جایی که TTS همچنان به بازی خود ادامه می داد حتی اگر هدفون در شرایط خاص قطع شود.\n- UI به اشتراک گذاری نشانک اصلاح شده است."
+    "devnote": "7.6.8 (2023 11 15)\n\n- عملکرد بیننده بهبود یافته است.\n- تابعی برای به اشتراک گذاشتن داده های ویرایش TTS و ویرایش دسته ای در قالب URL اضافه شده است.\n   * وقتی روی URL مشترک کلیک می کنید ، به طور خودکار در برنامه ثبت می شود.\n- فیلتر TTS بهبود یافته است (شخصیت های خاص)\n- رفع اشکال در جایی که هنگام کلیک بر روی منطقه عنوان تاریخ ، هیچ پاسخی وجود ندارد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.6.7 (2023 11 05)\n\n- A função de seleção de números foi alterada para um tipo de arrasto.\n- Função sublinhada de texto adicionada.\n- Agora você pode definir a direção de abertura.\n- Corrigido um bug no qual o TTS continuou a jogar, mesmo que os fones de ouvido tenham sido desconectados em determinadas situações.\n- A interface do usuário de compartilhamento de favoritos foi modificada."
+    "devnote": "7.6.8 (2023 11 15)\n\n- O desempenho do espectador foi melhorado.\n- Uma função foi adicionada para compartilhar o filtro TTS e os dados de edição em lote no formato URL.\n   * Quando você clica no URL compartilhado, ele é registrado automaticamente no aplicativo.\n- O filtro TTS foi melhorado (caracteres especiais)\n- Corrigido um bug no qual não houve resposta ao clicar na área de título do histórico."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Funkcja wyboru liczby została zmieniona na typ przeciągania.\n- Dodano funkcję podkreślenia tekstu.\n- Możesz teraz ustawić kierunek otwarcia.\n- Naprawiono błąd, w którym TTS nadal grał, nawet jeśli słuchawki zostały odłączone w niektórych sytuacjach.\n- UI BOOBMMARK UDLIJE został zmodyfikowany."
+    "devnote": "7.6,8 (2023 11 15)\n\n- Wydajność widza została ulepszona.\n- Dodano funkcję, aby udostępnić dane filtra TTS i edytuj partię w formacie adresu URL.\n   * Po kliknięciu udostępnionego adresu URL jest on automatycznie zarejestrowany w aplikacji.\n- Filtr TTS został ulepszony (znaki specjalne)\n- Naprawiono błąd, w którym nie było odpowiedzi podczas klikania obszaru tytułu historii."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.6.7 (2023 11 05)\n\n- La fonction de sélection des nombres a été changée en un type de glisser.\n- Fonction de soulignement du texte ajouté.\n- Vous pouvez maintenant définir la direction d'ouverture.\n- Correction d'un bug où TTS a continué à jouer même si les écouteurs étaient déconnectés dans certaines situations.\n- L'interface utilisateur de partage de signets a été modifiée."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Les performances de la visionneuse ont été améliorées.\n- Une fonction a été ajoutée pour partager les données de filtre TTS et de modification par lots au format URL.\n   * Lorsque vous cliquez sur l'URL partagée, il est automatiquement enregistré dans l'application.\n- Le filtre TTS a été amélioré (caractères spéciaux)\n- Correction d'un bogue où il n'y avait pas de réponse lors du clic sur la zone du titre de l'historique."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Numerovalintatoiminto on muutettu vetotyyppiseksi.\n- Lisätty teksti alleviivaustoiminto.\n- Voit nyt asettaa avaussuunnan.\n- Korjattu virhe, jossa TTS jatkoi pelaamista, vaikka kuulokkeet katkaistiin tietyissä tilanteissa.\n- Kirjanmerkin jakamisen käyttöliittymä on muokattu."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Katsojan suorituskykyä on parannettu.\n- TTS -suodatin- ja erämuokkaustiedot URL -muodossa on lisätty toiminto.\n   * Kun napsautat jaettua URL -osoitetta, se on automaattisesti rekisteröity sovellukseen.\n- TTS -suodatinta on parannettu (erikoismerkit)\n- Korjattu virhe, jossa ei ollut vastausta napsauttamalla historian otsikkoaluetta."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.6.7 (2023 11 05)\n\n- Ang function ng pagpili ng numero ay nabago sa isang uri ng pag -drag.\n- Idinagdag ang pag -andar ng text underline.\n- Maaari mo na ngayong itakda ang direksyon ng pagbubukas.\n- Nakapirming isang bug kung saan ang TTS ay patuloy na naglalaro kahit na ang mga earphone ay na -disconnect sa ilang mga sitwasyon.\n- Nabago ang pagbabahagi ng bookmark ng UI."
+    "devnote": "7.6.8 (2023 11 15)\n\n- Ang pagganap ng viewer ay napabuti.\n- Ang isang function ay naidagdag upang ibahagi ang TTS filter at data ng pag -edit ng batch sa format ng URL.\n   * Kapag na -click mo ang ibinahaging URL, awtomatikong nakarehistro ito sa app.\n- Ang filter ng TTS ay napabuti (mga espesyal na character)\n- Nakapirming isang bug kung saan walang tugon kapag nag -click sa lugar ng pamagat ng kasaysayan."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.6.7 (2023 11 05)\n\n- A számválasztási funkció drag típusra változott.\n- Hozzáadott szöveg aláhúzott funkció.\n- Most beállíthatja a nyitó irányt.\n- Javítva egy hibát, ahol a TT -k továbbra is játszanak, még akkor is, ha a fülhallgatót bizonyos helyzetekben leválasztották.\n- A könyvjelző felhasználói felület megosztása módosult."
+    "devnote": "7.6.8 (2023 11 15)\n\n- A néző teljesítménye javult.\n- A TTS szűrő és a kötegelt szerkesztési adatok URL formátumban történő megosztásához egy függvényt adtak hozzá.\n   * Amikor rákattint a megosztott URL -re, akkor automatikusan regisztrálódik az alkalmazásban.\n- A TTS szűrő javult (speciális karakterek)\n- Javítva egy hibát, ahol a történelem címterületére kattintva nem volt válasz."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.6.7 (2023 11 05)\n\n- פונקציית בחירת המספרים שונתה לסוג גרירה.\n- פונקציית טקסט תחתון נוסף.\nכעת תוכלו להגדיר את כיוון הפתיחה.\n- תוקן באג בו TTS המשיך לשחק גם אם האוזניות מנותקות במצבים מסוימים.\n- ממשק המשתמש של שיתוף הסימניות שונו."
+    "devnote": "7.6.8 (2023 11 15)\n\n- ביצועי הצופה שופרו.\n- נוספה פונקציה לשיתוף נתוני מסנן TTS ועריכת אצווה בפורמט URL.\n   * כאשר אתה לוחץ על כתובת האתר המשותפת, היא רשומה אוטומטית באפליקציה.\n- מסנן TTS שופר (תווים מיוחדים)\n- תיקן באג שבו לא הייתה תגובה בעת לחיצה על אזור כותרת ההיסטוריה."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.6.7 (2023 11 05)\n\n- नंबर चयन फ़ंक्शन को ड्रैग प्रकार में बदल दिया गया है।\n- जोड़ा गया पाठ रेखांकित कार्य।\n- अब आप उद्घाटन दिशा निर्धारित कर सकते हैं।\n- एक बग फिक्स्ड जहां टीटीएस खेलना जारी रखा, भले ही इयरफ़ोन को कुछ स्थितियों में काट दिया गया हो।\n- बुकमार्क शेयरिंग UI को संशोधित किया गया है।"
+    "devnote": "7.6.8 (2023 11 15)\n\n- दर्शक प्रदर्शन में सुधार किया गया है।\n- URL प्रारूप में TTS फ़िल्टर और बैच एडिट डेटा साझा करने के लिए एक फ़ंक्शन जोड़ा गया है।\n   * जब आप साझा URL पर क्लिक करते हैं, तो यह स्वचालित रूप से ऐप में पंजीकृत होता है।\n- टीटीएस फ़िल्टर में सुधार किया गया है (विशेष वर्ण)\n- एक बग फिक्स्ड जहां इतिहास शीर्षक क्षेत्र पर क्लिक करते समय कोई प्रतिक्रिया नहीं थी।"
   }
 }
