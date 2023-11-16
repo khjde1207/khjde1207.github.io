@@ -4,63 +4,63 @@
         "expr": true,
         "filter": "\\?{1,}",
         "to": "?",
-        "enable": false
+        "enable": true
     },
     {
         "name": "Filter multiple exclamation marks",
         "expr": true,
         "filter": "\\!{1,}",
         "to": "!",
-        "enable": false
+        "enable": true
     },
     {
         "name": "filter ----",
         "expr": true,
         "filter": "-{2,}",
         "to": "",
-        "enable": false
+        "enable": true
     },
     {
         "name": "filter ===",
         "expr": true,
         "filter": "={2,}",
         "to": "",
-        "enable": false
+        "enable": true
     },
     {
         "name": "filter .....",
         "expr": true,
         "filter": "\\.{2,}|\\…{1,}",
         "to": "",
-        "enable": false
+        "enable": true
     },
     {
         "name": "filter ?!",
         "expr": true,
         "filter": "\\?{1,}!{1,}",
         "to": "!",
-        "enable": false
+        "enable": true
     },
     {
         "name": "filter !?",
         "expr": true,
         "filter": "!{1,}\\?{1,}",
         "to": "!",
-        "enable": false
+        "enable": true
     },
     {
         "name": "filter ?,!",
         "expr": true,
         "filter": "\"!\"|\"\\.\"|\"\\?\"|'!'|'\\?'|“\\.”|“!”|“\\?”|‘!’|‘\\?|\\[!\\]|\\[\\?\\]|\\[\\.\\]",
         "to": "",
-        "enable": false
+        "enable": true
     },
     {
         "name": "apostrophe filter",
-        "expr": false,
+        "expr": true,
         "filter": "[\\'|\\\"|“|”]",
         "to": "",
-        "enable": false
+        "enable": true
     },
     {
         "name": "special character repeat filter",
@@ -89,7 +89,6 @@
         "filter": "([A-Z])([A-Z])([A-Z])([A-Z])",
         "to": "$1.$2.$3.$4",
         "enable": true
-        
     },
     {
         "name": "upper case 3 (2) attention to order",
@@ -106,11 +105,11 @@
         "enable": true
     },
     {
-        "name":"Filter <, >",
-        "expr":true,
-        "filter":"\\<(.+)\\>",
-        "to":"$1",
-        "enable":true
+        "name": "Filter <, >",
+        "expr": true,
+        "filter": "\\<(.+)\\>",
+        "to": "$1",
+        "enable": true
     },
     {
         "name": "Filter ....!!!",
@@ -134,24 +133,24 @@
         "enable": true
     },
     {
-        "name":"Word filtering that repeats more than 3 times",
-        "expr":true,
-        "filter":"(((\\S{1,}..))\\2{3,})",
-        "to":"",
-        "enable":true
-    },
-    {
-        "name":"filter (......) Parenthesis",
+        "name": "Word filtering that repeats more than 3 times",
         "expr": true,
-        "filter":"\\(.+?\\)",
-        "to":"",
-        "enable":true
+        "filter": "(((\\S{1,}..))\\2{3,})",
+        "to": "",
+        "enable": true
     },
     {
-        "name":"Special character filter",
-        "expr":true,
-        "filter":"[♥♣♠◀▶♪♫♬○●☆★△▲▽▼→←↑↓↗↖↘↙※◯*]",
-        "to":"",
-        "enable":true
+        "name": "filter (......) Parenthesis",
+        "expr": true,
+        "filter": "\\(.+?\\)",
+        "to": "",
+        "enable": true
+    },
+    {
+        "name": "Special character filter",
+        "expr": true,
+        "filter": "[♥♣♠◀▶♪♫♬○●☆★△▲▽▼→←↑↓↗↖↘↙※◯*]",
+        "to": "",
+        "enable": true
     }
 ]
