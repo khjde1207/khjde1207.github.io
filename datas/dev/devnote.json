@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Viewer performance has been improved.\n- A function has been added to share TTS filter and batch edit data in URL format.\n   * When you click the shared URL, it is automatically registered in the app.\n- TTS filter has been improved (special characters)\n- Fixed a bug where there was no response when clicking on the history title area."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Improved decompression speed.\n- Fixed a bug that caused lag when setting margins.\n- Fixed a bug where backup was not possible depending on the language set."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.6.8 (2023 11 15)\n\n- 뷰어 성능을 개선 하였습니다.\n- TTS 필터 및 일괄수정 데이터를 URL 형태로 공유 할 수 있게 기능을 추가 하였습니다.\n  * 공유된 URL을 클릭하면 어플에 자동으로 등록 됩니다.\n- TTS 필터를 개선하였습니다.(특수문자)\n- 히스토리 제목 영역 클릭해도 반응 없던 버그를 수정 하였습니다."
+    "devnote": "7.6.9 (2023 11 18)\n\n- 압축 해제 속도를 개선 하였습니다.\n- 여백 설정시 렉걸리는 버그를 수정 하였습니다.\n- 설정된 언어에 따라 백업이 안되는 버그를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Mellorouse o rendemento do espectador.\n- Engadiuse unha función para compartir datos de filtro TTS e editar por lotes en formato URL.\n   * Cando fai clic na URL compartida, rexístrase automaticamente na aplicación.\n- Mellorouse o filtro TTS (caracteres especiais)\n- Fixouse un erro onde non houbo resposta ao facer clic na área de título do historial."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Velocidade de descompresión mellorada.\n- Fixouse un erro que causou retraso ao establecer marxes.\n- Fixouse un erro no que non fose posible a copia de seguridade dependendo do conxunto de idiomas."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.6.8 (2023 11 15)\n\n- દર્શક પ્રદર્શનમાં સુધારો થયો છે.\n- યુઆરએલ ફોર્મેટમાં ટીટીએસ ફિલ્ટર અને બેચ એડિટ ડેટા શેર કરવા માટે એક ફંક્શન ઉમેરવામાં આવ્યું છે.\n   * જ્યારે તમે શેર કરેલા URL ને ક્લિક કરો છો, ત્યારે તે આપમેળે એપ્લિકેશનમાં નોંધાયેલ છે.\n- ટીટીએસ ફિલ્ટરમાં સુધારો થયો છે (વિશેષ પાત્રો)\n- એક બગને ઠીક કર્યો જ્યાં ઇતિહાસ શીર્ષક ક્ષેત્ર પર ક્લિક કરતી વખતે કોઈ પ્રતિસાદ ન હતો."
+    "devnote": "7.6.9 (2023 11 18)\n\n- ડીકોમ્પ્રેશન ગતિ સુધારેલી.\n- એક બગને ઠીક કરો જે માર્જિન સેટ કરતી વખતે લેગનું કારણ બને છે.\n- એક ભૂલને સ્થિર કરો જ્યાં ભાષાના સેટને આધારે બેકઅપ શક્ય ન હતું."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Η απόδοση του θεατή έχει βελτιωθεί.\n- Έχει προστεθεί μια συνάρτηση για να μοιραστείτε τα δεδομένα Filter TTS και Batch Edit σε μορφή URL.\n   * Όταν κάνετε κλικ στην κοινή διεύθυνση URL, είναι αυτόματα καταχωρημένη στην εφαρμογή.\n- Το φίλτρο TTS έχει βελτιωθεί (ειδικοί χαρακτήρες)\n- Διορθώθηκε ένα σφάλμα όπου δεν υπήρχε απάντηση όταν κάνετε κλικ στην περιοχή τίτλου ιστορικού."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Βελτιωμένη ταχύτητα αποσυμπίεσης.\n- Διορθώθηκε ένα σφάλμα που προκάλεσε καθυστέρηση κατά τη ρύθμιση των περιθωρίων.\n- Διορθώθηκε ένα σφάλμα όπου το αντίγραφο ασφαλείας δεν ήταν δυνατόν ανάλογα με το σύνολο γλώσσας."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.6.8 (2023 11 15)\n\n- De prestaties van kijkers zijn verbeterd.\n- Er is een functie toegevoegd om TTS -filter- en batch -bewerkingsgegevens in URL -indeling te delen.\n   * Wanneer u op de gedeelde URL klikt, wordt deze automatisch geregistreerd in de app.\n- TTS -filter is verbeterd (speciale tekens)\n- Een bug opgelost waar er geen antwoord was bij het klikken op het titelgebied van de geschiedenis."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Verbeterde decompressiesnelheid.\n- Een bug opgelost die vertraging veroorzaakte bij het instellen van marges.\n- Een bug opgelost waar back -up niet mogelijk was, afhankelijk van de taalset."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": ".6..6..8 (2023 11 11)\n\n- दर्शक प्रदर्शन सुधार गरिएको छ।\n- A URL ढाँचामा डाटा सम्पादन गर्न एक प्रकार्य थपियो।\n   * जब तपाईं साझा यूआरएल क्लिक गर्नुहुन्छ, यो स्वचालित रूपमा अनुप्रयोगमा दर्ता हुन्छ।\n- TTS फिल्टर सुधार गरिएको छ (विशेष क्यारेक्टरहरू)\n- ईन्स शीर्षक क्षेत्रमा क्लिक गर्दा कुनै प्रतिक्रिया छैन भने - त्यहाँ कुनै प्रतिक्रिया थिएन।"
+    "devnote": ".6..6 .. (2023 11 11 11))\n\n- सुधारिएको गिरावटको गति।\n- बिरुवाहरू सेट गर्दा ढिलाइ भयो भन्ने फिक्स्ड गरियो।\n- एक बग तय गरियो जहाँ ब्याकअप भाषा सेटमा निर्भर हुँदैन।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Seerytelsen er forbedret.\n- En funksjon er lagt til for å dele TTS -filter- og batch -redigeringsdata i URL -format.\n   * Når du klikker på den delte URL -en, registreres den automatisk i appen.\n- TTS -filter er forbedret (spesialtegn)\n- Fikset en feil der det ikke var noe svar når du klikket på historiens tittelområde."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Forbedret dekompresjonshastighet.\n- Fikset en feil som forårsaket etterslep når du satte marginer.\n- Fikset en feil der sikkerhetskopi ikke var mulig avhengig av språksettet."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Visningens præstation er blevet forbedret.\n- Der er tilføjet en funktion for at dele TTS -filter- og batch -redigeringsdata i URL -format.\n   * Når du klikker på den delte URL, registreres den automatisk i appen.\n- TTS -filter er forbedret (specialtegn)\n- Rettet en fejl, hvor der ikke var noget svar, når du klikkede på området History -titel."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Forbedret dekomprimeringshastighed.\n- Rettet en fejl, der forårsagede forsinkelse, når de indstillede marginer.\n- Rettet en fejl, hvor backup ikke var mulig, afhængigt af sprogsættet."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Die Leistung der Zuschauer wurde verbessert.\n- Es wurde eine Funktion hinzugefügt, um TTS -Filter- und Batch -Bearbeitungsdaten im URL -Format zu teilen.\n   * Wenn Sie auf die freigegebene URL klicken, wird sie automatisch in der App registriert.\n- TTS -Filter wurde verbessert (Sonderzeichen)\n- Ein Fehler behoben, bei dem beim Klicken auf den Titelbereich des Verlaufs keine Antwort gab."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Verbesserte Dekompressionsgeschwindigkeit.\n- Ein Fehler behoben, der beim Einstellen von Rändern eine Verzögerung verursachte.\n- Ein Fehler behoben, bei dem die Sicherung je nach Sprachsatz nicht möglich war."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.6.8 (2023 11 15)\n\n- ການປະຕິບັດງານ Viewer ໄດ້ຮັບການປັບປຸງ.\n- ຫນ້າທີ່ໄດ້ຖືກເພີ່ມເຂົ້າໃນການແບ່ງປັນ TTS FILTER ແລະ BACT EDIT Data ໃນຮູບແບບ URL.\n   * ເມື່ອທ່ານກົດປຸ່ມ URL ທີ່ໃຊ້ຮ່ວມກັນ, ມັນຖືກລົງທະບຽນໂດຍອັດຕະໂນມັດໂດຍອັດຕະໂນມັດ.\n- ຕົວກອງ TTS ໄດ້ຮັບການປັບປຸງໃຫ້ດີຂື້ນ (ຕົວອັກສອນພິເສດ)\n- ແກ້ໄຂຂໍ້ບົກຜ່ອງທີ່ບໍ່ມີການຕອບຮັບໃນເວລາທີ່ກົດທີ່ຢູ່ໃນພື້ນທີ່ປະຫວັດສາດ."
+    "devnote": "7.6.9 (2023 11 18)\n\n- ຄວາມໄວທີ່ເສື່ອມໂຊມ.\n- ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ເຮັດໃຫ້ນ້ໍາໄຫຼເມື່ອຕັ້ງຂອບ.\n- ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ສໍາຮອງບໍ່ເປັນໄປໄດ້ໂດຍອີງຕາມຊຸດພາສາ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Skatītāja veiktspēja ir uzlabota.\n- Ir pievienota funkcija, lai koplietotu TTS filtru un pakešu rediģēšanas datus URL formātā.\n   * Noklikšķinot uz koplietotā URL, tas tiek automātiski reģistrēts lietotnē.\n- TTS filtrs ir uzlabots (īpašās rakstzīmes)\n- Novērsta kļūda, kur, noklikšķinot uz vēstures nosaukuma apgabala, nebija atbildes."
+    "devnote": "7.6.9 (2023 11 18)\n\n- uzlabots dekompresijas ātrums.\n- Novērsta kļūda, kas izraisīja nobīdi, nosakot robežas.\n- Novērsta kļūda, kurā rezerves kopija nebija iespējama atkarībā no valodas komplekta."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Производительность зрителя была улучшена.\n- Функция была добавлена ​​для обмена фильтром TTS и редактирования партий в формате URL.\n   * Когда вы нажимаете общий URL, он автоматически зарегистрирован в приложении.\n- Фильтр TTS был улучшен (специальные символы)\n- Исправлена ​​ошибка, в которой не было никакого ответа при нажатии на область заголовка истории."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Улучшенная скорость декомпрессии.\n- Исправлена ​​ошибка, которая вызвала отставание при установке маржи.\n- Исправлена ​​ошибка, где резервная копия была невозможна в зависимости от набора языка."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Performanța vizualizatorului a fost îmbunătățită.\n- A fost adăugată o funcție pentru a partaja datele TTS și editarea lotului în format URL.\n   * Când faceți clic pe URL -ul partajat, acesta este înregistrat automat în aplicație.\n- Filtrul TTS a fost îmbunătățit (caractere speciale)\n- S -a rezolvat o eroare în care nu a existat niciun răspuns atunci când faceți clic pe zona de titlu de istorie."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Viteza de decompresie îmbunătățită.\n- S -a rezolvat o eroare care a provocat întârziere la setarea marjelor.\n- S -a rezolvat o eroare în care backup -ul nu a fost posibil în funcție de setul de limbă."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Patobulintas žiūrovo našumas.\n- Pridedama funkcija, kuria siekiama bendrinti TTS filtro ir paketinio redagavimo duomenis URL formatu.\n   * Kai spustelėsite bendrą URL, jis automatiškai užregistruotas programoje.\n- Patobulintas TTS filtras (specialieji simboliai)\n- Ištaisyta klaida, kur nebuvo atsakymo spustelėjus istorijos pavadinimo sritį."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Patobulintas dekompresijos greitis.\n- Ištaisyta klaida, kuri sukėlė atsilikimą nustatant paraštes.\n- Ištaisyta klaida, kurioje atsarginė kopija nebuvo įmanoma, atsižvelgiant į kalbos rinkinį."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.6.8 (2023 11 15)\n\n- दर्शक कामगिरी सुधारली आहे.\n- URL स्वरूपात टीटीएस फिल्टर आणि बॅच संपादन डेटा सामायिक करण्यासाठी एक फंक्शन जोडले गेले आहे.\n   * जेव्हा आपण सामायिक केलेल्या URL वर क्लिक करता तेव्हा ते अ‍ॅपमध्ये स्वयंचलितपणे नोंदणीकृत होते.\n- टीटीएस फिल्टर सुधारित केले आहे (विशेष वर्ण)\n- इतिहासाच्या शीर्षकाच्या क्षेत्रावर क्लिक करताना कोणताही प्रतिसाद नसलेल्या बगचे निराकरण केले."
+    "devnote": "7.6.9 (2023 11 18)\n\n- सुधारित विघटन गती.\n- मार्जिन सेट करताना अंतर निर्माण करणारे बग निश्चित केले.\n- भाषेच्या संचावर अवलंबून बॅकअप शक्य नव्हते तेथे एक बग निश्चित केला."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Перформансите на гледачот се подобрени.\n- Додадена е функција за споделување на TTS филтер и податоци за уредување на серии во формат на URL.\n   * Кога ќе кликнете на споделената URL -адреса, автоматски се регистрира во апликацијата.\n- TTS филтерот е подобрен (специјални знаци)\n- Поправи грешка каде немаше одговор кога кликнете на областа на насловот на историјата."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Подобрена брзина на декомпресија.\n- Поправи грешка што предизвика заостанување при поставување маргини.\n- Поправи грешка каде резервната копија не беше можна во зависност од сетот на јазик."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.6.8 (2023 11 15)\n\n- വ്യൂവർ പ്രകടനം മെച്ചപ്പെടുത്തി.\n- നിങ്ങളുടെ ഫോർമാറ്റിൽ ടിടിഎസ് ഫിൽട്ടർ ചെയ്ത് ബാച്ച് എഡിറ്റുചെയ്യുന്നതിന് ഒരു ഫംഗ്ഷൻ ചേർത്തു.\n   * നിങ്ങൾ പങ്കിട്ട URL ക്ലിക്കുചെയ്യുമ്പോൾ, ഇത് അപ്ലിക്കേഷനിൽ സ്വപ്രേരിതമായി രജിസ്റ്റർ ചെയ്തിട്ടുണ്ട്.\n- ടിടിഎസ് ഫിൽട്ടർ മെച്ചപ്പെടുത്തി (പ്രത്യേക പ്രതീകങ്ങൾ)\n- ചരിത്ര ശീർഷക മേഖലയിൽ ക്ലിക്കുചെയ്യുമ്പോൾ പ്രതികരണമില്ലാത്ത ഒരു ബഗ് പരിഹരിച്ചു."
+    "devnote": "7.6.9 (2023 11 18)\n\n- മെച്ചപ്പെട്ട അഴുകിയ വേഗത.\n- മാർജിനുകൾ ക്രമീകരിക്കുമ്പോൾ കാലതാമസം വരുത്തിയ ഒരു ബഗ് പരിഹരിച്ചു.\n- ഭാഷാ സെറ്റിനെ ആശ്രയിച്ച് ബാക്കപ്പ് സാധ്യമല്ലാത്ത ഒരു ബഗ് പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Prestasi penonton telah bertambah baik.\n- Fungsi telah ditambah untuk berkongsi data penapis TTS dan batch edit dalam format URL.\n   * Apabila anda mengklik URL yang dikongsi, ia secara automatik didaftarkan dalam aplikasinya.\n- Penapis TTS telah diperbaiki (watak khas)\n- Memperbaiki pepijat di mana tidak ada respons apabila mengklik pada kawasan tajuk sejarah."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Kelajuan penyahmampatan yang lebih baik.\n- Memperbaiki pepijat yang menyebabkan ketinggalan apabila menetapkan margin.\n- Memperbaiki pepijat di mana sandaran tidak mungkin bergantung pada set bahasa."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Үзэгчдийн гүйцэтгэл сайжирсан байна.\n- TTS шүүлтүүрийг хуваалцах функц, Багцыг URL форматаар хуваалцахаар нэмэгдсэн.\n   * Та хуваалцах URL дээр дарахад автоматаар апп-д автоматаар бүртгэгдсэн болно.\n- TTS шүүлтүүрийг сайжруулсан (тусгай тэмдэгтүүд)\n- Түүхийн гарчгийн гарчиг дээр дарахад хариу ирээгүй байгаа алдааг зассан."
+    "devnote": "7.6.9 (2023 11 18)\n\n- декомпресс хурдыг сайжруулсан.\n- Хөдөлгүүрийг тохируулахдаа хоцрогдсон алдааг зассан.\n- Хэлний багцаас хамааран нөөцлөлтийг ашиглах боломжгүй алдааг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Ikuslearen errendimendua hobetu da.\n- Funtzio bat gehitu da TTS iragazkia eta batch editatzeko datuak URL formatuan.\n   * Partekatutako URLan klik egiten duzunean, automatikoki erregistratzen da aplikazioan.\n- TTS iragazkia hobetu da (karaktere bereziak)\n- Historia izenburuaren eremuan klik egitean erantzunik ez zegoen akats bat konpondu da."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Deskonpresio abiadura hobetzea.\n- Marjinak ezarriz gero, atzerapena eragin zuen akats bat konpondu da.\n- Backup ez zen akats bat konpondu hizkuntza multzoaren arabera."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7223 11 15 (2023 11)\n\n- ကြည့်ရှုသူစွမ်းဆောင်ရည်တိုးတက်လာသည်။\n- TTS filter နှင့် batch ပြင်ဆင်ရန်အချက်အလက်များကို URL ပုံစံဖြင့်မျှဝေရန်လုပ်ဆောင်ချက်တစ်ခုထည့်သွင်းထားသည်။\n   * Shared URL ကိုနှိပ်သောအခါ၎င်းကိုအက်ပ်တွင်အလိုအလျောက်မှတ်ပုံတင်သည်။\n- TTS filter ကို (အထူးအက္ခရာများ) တိုးတက်လာသည်။\n- သမိုင်းကြောင်း area ရိယာကိုနှိပ်သောအခါတုန့်ပြန်မှုမရှိသည့် bug တစ်ခု fixed ။"
+    "devnote": "7223 11 18)\n\n- decompression အမြန်နှုန်းတိုးတက်လာသည်။\n- မာဂျင်များချမှတ်သည့်အခါနောက်ကျသော bug ကို fixed ။\n- ဘာသာစကားအစုံအပေါ် မူတည်. backup ကိုမဖြစ်နိုင်သည့် bug ကို fixed ။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Hiệu suất của người xem đã được cải thiện.\n- Một chức năng đã được thêm vào để chia sẻ bộ lọc TTS và dữ liệu chỉnh sửa hàng loạt ở định dạng URL.\n   * Khi bạn nhấp vào URL được chia sẻ, nó sẽ tự động đăng ký trong ứng dụng.\n- Bộ lọc TTS đã được cải thiện (ký tự đặc biệt)\n- Đã sửa lỗi không có phản hồi khi nhấp vào khu vực tiêu đề lịch sử."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Cải thiện tốc độ giải nén.\n- Đã sửa lỗi gây ra độ trễ khi đặt lề.\n- Đã sửa lỗi mà không thể sao lưu tùy thuộc vào bộ ngôn ngữ."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Прадукцыйнасць гледача была палепшана.\n- Была дададзена функцыя для абмену дадзенымі фільтраў TTS і рэдагавання партый у фармаце URL.\n   * Пры націску на агульны URL ён аўтаматычна зарэгістраваны ў дадатку.\n- Фільтр TTS быў палепшаны (спецыяльныя сімвалы)\n- Выпраўлена памылка, калі пры націску на вобласць загалоўка гісторыі не было."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Палепшаная хуткасць дэкампрэсіі.\n- Выпраўлена памылка, якая выклікала адставанне пры ўсталёўцы запасаў.\n- Выпраўлена памылка, калі рэзервовая копія была немагчыма ў залежнасці ад набору мовы."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.6.8 (2023 11 15)\n\n- দর্শকের পারফরম্যান্স উন্নত করা হয়েছে।\n- ইউআরএল ফর্ম্যাটে টিটিএস ফিল্টার এবং ব্যাচ সম্পাদনা ডেটা ভাগ করার জন্য একটি ফাংশন যুক্ত করা হয়েছে।\n   * আপনি যখন ভাগ করা ইউআরএলটি ক্লিক করেন, এটি স্বয়ংক্রিয়ভাবে অ্যাপটিতে নিবন্ধিত হয়।\n- টিটিএস ফিল্টার উন্নত করা হয়েছে (বিশেষ অক্ষর)\n- ইতিহাসের শিরোনাম অঞ্চলে ক্লিক করার সময় কোনও প্রতিক্রিয়া ছিল না এমন একটি বাগ স্থির করে।"
+    "devnote": "7.6.9 (2023 11 18)\n\n- উন্নত ডিকম্প্রেশন গতি।\n- মার্জিন সেট করার সময় পিছিয়ে থাকা একটি বাগ স্থির করে।\n- এমন একটি বাগ ঠিক করা হয়েছে যেখানে ভাষা সেটের উপর নির্ভর করে ব্যাকআপ সম্ভব ছিল না।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Изпълнението на зрителя е подобрено.\n- Добавена е функция за споделяне на TTS филтър и партидни редактирани данни във формат URL.\n   * Когато щракнете върху споделения URL адрес, той се регистрира автоматично в приложението.\n- TTS филтърът е подобрен (специални знаци)\n- Фиксирана грешка, при която няма отговор при щракване върху областта на заглавието на историята."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Подобрена скорост на декомпресия.\n- Фиксирана грешка, която предизвика изоставане при задаване на маржове.\n- Фиксирана грешка, при която архивирането не е възможно в зависимост от езиковия набор."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Побољшани су перформансе гледалаца.\n- Додата је функција да бисте делили ТТС Филтер и БАТЦХ ЕДИТ податке у УРЛ формату.\n   * Када кликнете на дељени УРЛ, аутоматски се региструје у апликацији.\n- ТТС филтер је побољшан (посебне знакове)\n- Поправљена је грешка у којој није било одговора приликом кликом на подручје наслова историје."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Побољшана брзина декомпресије.\n- Поправљена је грешка која је изазвала заостајање приликом постављања маргина.\n- Поправљена је грешка у којој је сигурносна копија није била могућа у зависности од постављеног језика."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Utendaji wa watazamaji umeboreshwa.\n- Kazi imeongezwa ili kushiriki kichujio cha TTS na data ya hariri ya batch katika muundo wa URL.\n   * Unapobonyeza URL iliyoshirikiwa, imesajiliwa kiatomati kwenye programu.\n- Kichujio cha TTS kimeboreshwa (herufi maalum)\n- Zisizohamishika mdudu ambapo hakukuwa na majibu wakati wa kubonyeza kwenye eneo la kichwa cha historia."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Kuboresha kasi ya mtengano.\n- Zisizohamishika mdudu ambao ulisababisha lag wakati wa kuweka pembezoni.\n- Zisizohamishika mdudu ambapo Backup haikuwezekana kulingana na seti ya lugha."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Visningens prestanda har förbättrats.\n- En funktion har lagts till för att dela TTS -filter- och batchredigeringsdata i URL -format.\n   * När du klickar på den delade URL: n registreras den automatiskt i appen.\n- TTS -filter har förbättrats (specialtecken)\n- Fixade ett fel där det inte fanns något svar när du klickade på historien."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Förbättrad dekompressionshastighet.\n- Fixade ett fel som orsakade fördröjning när man satte marginaler.\n- Fixade ett fel där säkerhetskopiering inte var möjlig beroende på språkuppsättningen."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.6.8 (2023 11 15)\n\n- El rendimiento del espectador se ha mejorado.\n- Se ha agregado una función para compartir datos de edición de filtro TTS y lotes en formato URL.\n   * Cuando hace clic en la URL compartida, se registra automáticamente en la aplicación.\n- Se ha mejorado el filtro TTS (caracteres especiales)\n- Se corrigió un error donde no había respuesta al hacer clic en el área de título del historial."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Velocidad de descompresión mejorada.\n- Se corrigió un error que causó retraso al establecer márgenes.\n- Se corrigió un error donde la copia de seguridad no era posible dependiendo del conjunto de idiomas."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7,6,8 (2023 11 15)\n\n- Výkon diváka sa zlepšil.\n- Funkcia bola pridaná na zdieľanie TTS filtrov a údajov úpravy dávok vo formáte URL.\n   * Po kliknutí na zdieľanú adresu URL sa automaticky zaregistruje v aplikácii.\n- TTS Filter bol vylepšený (špeciálne znaky)\n- Opravená chyba, kde pri kliknutí na oblasť titulu histórie nebola žiadna odpoveď."
+    "devnote": "7,6,9 (2023 11 18)\n\n- Vylepšená rýchlosť dekompresie.\n- Opravená chyba, ktorá spôsobila oneskorenie pri nastavovaní marží.\n- Opravená chyba, kde zálohovanie nebolo možné v závislosti od jazykovej sady."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Učinkovitost gledalca je bila izboljšana.\n- Dodana je bila funkcija za skupno rabo filtra TTS in podatkov o urejanju paketov v obliki URL.\n   * Ko kliknete skupni URL, se samodejno registrira v aplikaciji.\n- TTS filter je bil izboljšen (posebni znaki)\n- Odpravljena je napaka, kjer ni bilo odgovora pri kliku na območje naslova zgodovine."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Izboljšana hitrost dekompresije.\n- Odpravljena je napaka, ki je pri nastavitvi robov povzročila zaostajanje.\n- Odpravljeno napako, kjer varnostna kopija ni bila mogoča, odvisno od nabora jezika."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.6.8 (2023 11 15)\n\n- නරඹන්නාගේ කාර්ය සාධනය වැඩිදියුණු කර ඇත.\n- TTS පෙරීම සහ කණ්ඩායම් URL ආකෘතියෙන් දත්ත සංස්කරණය කිරීම සඳහා ශ්රිතයක් එකතු කර ඇත.\n   * ඔබ හවුල් URL ක්ලික් කරන්න ක්ලික් කළ විට එය ස්වයංක්රීයව යෙදුමේ ලියාපදිංචි වේ.\n- tts filter වැඩිදියුණු කර ඇත (විශේෂ අක්ෂර)\n- ඉතිහාස මාතෘකා ප්රදේශය මත ක්ලික් කිරීමේදී කිසිදු ප්රතිචාරයක් නොතිබූ දෝෂයක්."
+    "devnote": "7.6.9 (2023 11 18)\n\n- අතිශයින්ම අඩුපාඩු වේගය.\n- ආන්තිකයන් සැකසීමේදී ප්රමාද වූ දෝෂයක් විසඳා ඇත.\n- භාෂා කට්ටලය අනුව උපස්ථයක් කළ නොහැකි දෝෂයක් සවි කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.6.8 (2023 11 15)\n\n- تم تحسين أداء المشاهد.\n- تمت إضافة وظيفة لمشاركة مرشح TTS وبيانات تحرير الدُفعات بتنسيق URL.\n   * عند النقر فوق عنوان URL المشترك ، يتم تسجيله تلقائيًا في التطبيق.\n- تم تحسين مرشح TTS (أحرف خاصة)\n- إصلاح خطأ حيث لم يكن هناك استجابة عند النقر على منطقة عنوان التاريخ."
+    "devnote": "7.6.9 (2023 11 18)\n\n- تحسين سرعة الضغط.\n- إصلاح الخلل الذي تسبب في تأخر عند تحديد الهوامش.\n- تم إصلاح خلل حيث لم يكن النسخ الاحتياطي ممكنًا اعتمادًا على مجموعة اللغة."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Բարելավվել է դիտողի ներկայացումը:\n- Մի գործառույթ է ավելացվել TTS ֆիլտրի եւ խմբաքանակի խմբագրման տվյալները URL ձեւաչափով:\n   * Երբ կտտացնում եք ընդհանուր URL- ն, այն ավտոմատ կերպով գրանցվում է հավելվածում:\n- TTS ֆիլտրը բարելավվել է (հատուկ նիշ)\n- Հաստատեց մի սխալ, որտեղ պատասխան չեղավ պատմության վերնագրի տարածքը սեղմելիս:"
+    "devnote": "7.6.9 (2023 11 18)\n\n- Բարելավված ապամոնտաժային արագությունը:\n- Մարգիններ սահմանելիս փխրուն ֆիքսել է մի վրիպակ:\n- Fix նջեց մի սխալ, որտեղ կրկնօրինակում հնարավոր չէր, կախված լեզվի հավաքածուից:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Árangur áhorfenda hefur verið bætt.\n- Aðgerð hefur verið bætt við til að deila TTS síu og lotubreytingum á URL sniði.\n   * Þegar þú smellir á sameiginlega slóðina er það sjálfkrafa skráð í appið.\n- TTS sía hefur verið endurbætt (sérstakir stafir)\n- Lagaði villu þar sem engin svör voru þegar smellt var á söguheittasviðið."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Bætt þrýstingshraði.\n- Lagaði villu sem olli töf þegar framlegð var.\n- Lagaði villu þar sem öryggisafrit var ekki mögulegt eftir tungumálasettinu."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Viewer performansı yaxşılaşdırıldı.\n- TTS filtri və toplu redaktə məlumatlarını URL formatında paylaşmaq üçün bir funksiya əlavə edildi.\n   * Paylaşılan URL-i tıkladığınız zaman, tətbiqdə avtomatik olaraq qeydiyyata alınır.\n- TTS filtri yaxşılaşdırıldı (xüsusi simvol)\n- Tarixin başlığını tıklayarkən cavab olmadığının bir səhv düzəldildi."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Təkmilləşdirilmiş dekompressiya sürəti.\n- Marjları təyin edərkən geriləmə səbəb olan bir səhv düzəldildi.\n- Dilin qurulmasından asılı olaraq ehtiyat nüsxənin mümkün olmadığı bir səhv düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Die prestasie van die kyker is verbeter.\n- 'n Funksie is bygevoeg om TTS -filter- en bondelbewerkingsdata in URL -formaat te deel.\n   * As u op die gedeelde URL klik, word dit outomaties in die app geregistreer.\n- TTS -filter is verbeter (spesiale karakters)\n- het 'n fout opgelos waar daar geen antwoord was toe hy op die geskiedenis -titelgebied geklik het nie."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Verbeterde dekompressiesnelheid.\n- 'n fout opgelos wat vertraging veroorsaak het toe sy marges instel.\n- 'n Fout reggestel waar rugsteun nie moontlik was nie, afhangende van die taalstel."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Performanca e shikuesit është përmirësuar.\n- është shtuar një funksion për të ndarë të dhënat e modifikimit të filtrit TTS dhe grupit në formatin URL.\n   * Kur klikoni në URL -në e përbashkët, ajo regjistrohet automatikisht në aplikacion.\n- TTS Filter është përmirësuar (karaktere speciale)\n- Fiksoi një gabim ku nuk kishte asnjë përgjigje kur klikoni në zonën e titullit të historisë."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Shpejtësia e përmirësuar e dekompresionit.\n- Fiksoi një gabim që shkaktoi vonesë kur vendosni kufijtë.\n- Fiksoi një gabim ku kopjimi nuk ishte i mundur në varësi të gjuhës së vendosur."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.6.8 (2023 11 15)\n\n- መመልከቻ አፈፃፀም ተሻሽሏል.\n- TTS ማጣሪያ ለማጋራት አንድ ተግባር ታክሏል እና በዩ.አር.ኤል. ቅርጸት ውስጥ ውሂብን አርትዕ ያድርጉ.\n   * የጋራ ዩ አር ኤል ጠቅ ሲያደርጉ, በመተግበሪያው ውስጥ በራስ-ሰር ተመዝግቧል.\n- TTS ማጣሪያ ተሻሽሏል (ልዩ ቁምፊዎች)\n- የታሪክ ማዕረግ አካባቢን ጠቅ በማድረግ ምላሽ የማይሰጥበት ሳንካን ተጠግኗል."
+    "devnote": "7.6.9 (2023 11 18)\n\n- የተሻሻለ ማጓጓዝ ፍጥነት.\n- ጠርዞችን በሚዘጋጁበት ጊዜ የ LEG ን ያወጣው ሳንካ ተጠግኗል.\n- ምትኬ ግንባታ በሚካሄድበት ቦታ ላይ የተመሠረተበት ሳንካ ተጠግኗል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Vaataja jõudlust on parandatud.\n- TTS -filtri ja partii redigeerimise andmete jagamiseks URL -vormingus on lisatud funktsioon.\n   * Kui klõpsate jagatud URL -il, registreeritakse see rakenduses automaatselt.\n- TTS -filter on täiustatud (erimärgid)\n- Parandatud viga, kus ajaloo pealkirja alal klõpsates ei olnud vastust."
+    "devnote": "7.6.9 (2023 11 18)\n\n- täiustatud dekompressioonikiirus.\n- Parandatud viga, mis põhjustas marginaalide seadmisel viivituse.\n- Parandatud viga, kus varundamine polnud sõltuvalt keelekomplektist võimalik."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.6.8 (2023 11 15)\n\n- ناظرین کی کارکردگی کو بہتر بنایا گیا ہے۔\n- ٹی ٹی ایس فلٹر اور بیچ ایڈیٹ ڈیٹا کو یو آر ایل فارمیٹ میں شیئر کرنے کے لئے ایک فنکشن شامل کیا گیا ہے۔\n   * جب آپ مشترکہ یو آر ایل پر کلک کرتے ہیں تو ، یہ خود بخود ایپ میں رجسٹر ہوجاتا ہے۔\n- ٹی ٹی ایس فلٹر کو بہتر بنایا گیا ہے (خصوصی حروف)\n- ایک بگ طے کیا جہاں تاریخ کے عنوان کے علاقے پر کلک کرتے وقت کوئی جواب نہیں ملا۔"
+    "devnote": "7.6.9 (2023 11 18)\n\n- ڈیکمپریشن کی بہتر رفتار۔\n- ایک بگ طے کیا جس کی وجہ سے مارجن ترتیب دیتے وقت وقفہ ہوتا ہے۔\n- ایک بگ طے کیا جہاں زبان کے سیٹ کے لحاظ سے بیک اپ ممکن نہیں تھا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Продуктивність глядача була вдосконалена.\n- Додано функцію для обміну даними фільтра TTS та пакетної редагування у форматі URL -адреси.\n   * Коли ви натискаєте на спільну URL -адресу, вона автоматично реєструється в додатку.\n- Фільтр TTS був вдосконалений (спеціальні символи)\n- Виправлена ​​помилка, де не було відповіді при натисканні на область назви історії."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Покращена швидкість декомпресії.\n- Виправлена ​​помилка, яка спричинила відставання при встановленні поля.\n- Виправлена ​​помилка, де резервне копіювання не було можливим залежно від мови."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7,6,8 (2023 11 15)\n\n- Le prestazioni degli spettatori sono stati migliorati.\n- È stata aggiunta una funzione per condividere i dati di modifica del filtro e batch TTS in formato URL.\n   * Quando si fa clic sull'URL condiviso, viene registrato automaticamente nell'app.\n- Il filtro TTS è stato migliorato (caratteri speciali)\n- Risolto un bug in cui non vi era alcuna risposta quando si fa clic sull'area del titolo della cronologia."
+    "devnote": "7.6,9 (2023 11 18)\n\n- Velocità di decompressione migliorata.\n- Risolto un bug che ha causato il ritardo durante l'impostazione dei margini.\n- Risolto un bug in cui il backup non era possibile a seconda del set di lingue."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Kinerja pemirsa telah ditingkatkan.\n- Fungsi telah ditambahkan untuk berbagi filter TTS dan data edit batch dalam format URL.\n   * Saat Anda mengklik URL bersama, itu secara otomatis terdaftar di aplikasi.\n- Filter TTS telah ditingkatkan (karakter khusus)\n- Memperbaiki bug di mana tidak ada respons saat mengklik area judul sejarah."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Peningkatan kecepatan dekompresi.\n- Memperbaiki bug yang menyebabkan kelambatan saat mengatur margin.\n- Memperbaiki bug di mana cadangan tidak dimungkinkan tergantung pada set bahasa."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.6.8（2023 11 15）\n\n - 視聴者のパフォーマンスが向上しました。\n-URL形式でTTSフィルターとバッチの編集データを共有するための関数が追加されています。\n   *共有URLをクリックすると、アプリに自動的に登録されます。\n-TTSフィルターが改善されました（特殊文字）\n - 歴史のタイトル領域をクリックしたときに応答がなかったバグを修正しました。"
+    "devnote": "7.6.9（2023 11 18）\n\n - 減圧速度の改善。\n - マージンを設定するときに遅延を引き起こすバグを修正しました。\n - 言語セットに応じてバックアップが不可能なバグを修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.6.8 (2023 11 15)\n\n- გაუმჯობესდა მაყურებლის შესრულება.\n- დაემატა ფუნქცია TTS ფილტრისა და ჯგუფების რედაქტირების მონაცემების URL ფორმატში გაზიარებისთვის.\n   * როდესაც დააჭირეთ გაზიარებულ URL- ს, ის ავტომატურად რეგისტრირებულია აპლიკაციაში.\n- გაუმჯობესდა TTS ფილტრი (სპეციალური სიმბოლოები)\n- დააფიქსირა შეცდომა, სადაც არ იყო პასუხი ისტორიის სათაურის არეალზე დაჭერისას."
+    "devnote": "7.6.9 (2023 11 18)\n\n- გაუმჯობესდა დეკომპრესიის სიჩქარე.\n- დააფიქსირა შეცდომა, რამაც ზღვრების დაყენებისას დატვირთვა გამოიწვია.\n- დაფიქსირდა შეცდომა, სადაც სარეზერვო საშუალება შეუძლებელი იყო ენის ნაკრების მიხედვით."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Ukusebenza kokubukwa kuye kwathuthukiswa.\n- Umsebenzi ungeziwe ukuze wabelane ngohluzo lwe-TTS kanye ne-batch Hlela idatha ngefomethi ye-URL.\n   * Uma uqhafaza i-URL eyabiwe, ibhaliswe ngokuzenzakalela kuhlelo lokusebenza.\n- Isihlungi se-TTS senziwe ngcono (izinhlamvu ezikhethekile)\n- Kulungiswe isiphazamisi lapho kwakungekho mpendulo lapho uchofoza endaweni yesihloko somlando."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Ijubane lokuqothula elithuthukisiwe.\n- Kulungiswe isiphazamisi esibangele i-lag lapho isetha ama-margins.\n- Silungiswe isiphazamiso lapho kungenzeki khona isipele ngokuya ngesethi yolimi."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.6.8（2023 11 15）\n\n - 观看者的性能得到了改善。\n - 已添加了一个函数以以URL格式共享TTS过滤器和批处理编辑数据。\n   *单击共享URL时，它会自动在应用中注册。\n-TTS过滤器已改进（特殊字符）\n - 修复了单击历史记录标题区域时没有响应的错误。"
+    "devnote": "7.6.9（2023 11 18）\n\n - 改善减压速度。\n - 修复了在设置边距时导致滞后的错误。\n - 修复了无法根据语言集的错误备份的错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.6.8（2023 11 15）\n\n - 觀看者的性能得到了改善。\n - 已添加了一個函數以以URL格式共享TTS過濾器和批處理編輯數據。\n   *單擊共享URL時，它會自動在應用中註冊。\n-TTS過濾器已改進（特殊字符）\n - 修復了單擊歷史記錄標題區域時沒有響應的錯誤。"
+    "devnote": "7.6.9（2023 11 18）\n\n - 改善減壓速度。\n - 修復了在設置邊距時導致滯後的錯誤。\n - 修復了無法根據語言集的錯誤備份的錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.6.8（2023 11 15）\n\n - 觀看者的性能得到了改善。\n - 已添加了一個函數以以URL格式共享TTS過濾器和批處理編輯數據。\n   *單擊共享URL時，它會自動在應用中註冊。\n-TTS過濾器已改進（特殊字符）\n - 修復了單擊歷史記錄標題區域時沒有響應的錯誤。"
+    "devnote": "7.6.9（2023 11 18）\n\n - 改善減壓速度。\n - 修復了在設置邊距時導致滯後的錯誤。\n - 修復了無法根據語言集的錯誤備份的錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Výkon prohlížeče byl vylepšen.\n- Byla přidána funkce pro sdílení TTS filtrů a dávkových úprav ve formátu URL.\n   * Když kliknete na sdílenou adresu URL, je automaticky zaregistrován v aplikaci.\n- Filtr TTS byl vylepšen (speciální znaky)\n- Opravena chyba, kde nebyla odpověď při kliknutí na oblast titulu historie."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Vylepšená rychlost dekomprese.\n- Opravena chyba, která při nastavování okrajů způsobila zpoždění.\n- Opravena chyba, kde zálohování nebylo možné v závislosti na jazykové sadě."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Көрермендердің өнімділігі жақсарды.\n- TTS сүзгісімен және URL мекен-жайы бойынша деректерді өңдеуге арналған функция қосылды.\n   * Ортақ URL мекенжайын басқан кезде, ол автоматты түрде қолданбада тіркеледі.\n- TTS сүзгісі жақсарды (арнайы таңбалар)\n- Тарих тақырып аймағын нұқыған кезде жауап болмаған жағдайда қате пайда болды."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Декомпрессиялық жылдамдық.\n- Шеттерді орнатқан кезде артта қалған қатені түзетіңіз.\n- Тілдер жиынтығына байланысты резервтік көшірме мүмкін болмаған қатені түзетіңіз."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.6.8 (2023 11 15)\n\n- S'ha millorat el rendiment dels espectadors.\n- S'ha afegit una funció per compartir dades d'edició de filtres TTS i per lots en format URL.\n   * Quan feu clic a l'URL compartida, es registra automàticament a l'aplicació.\n- El filtre TTS s'ha millorat (caràcters especials)\n- S'ha corregit un error on no hi hagués resposta quan feu clic a l'àrea del títol de la història."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Millora de la velocitat de descompressió.\n- S'ha corregit un error que va causar retard en establir marges.\n- S'ha corregit un error on no fos possible la còpia de seguretat en funció del conjunt d'idiomes."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.6.8 (2023 11 15)\n\n- ವೀಕ್ಷಕರ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಸುಧಾರಿಸಲಾಗಿದೆ.\n- ಟಿಟಿಎಸ್ ಫಿಲ್ಟರ್ ಮತ್ತು ಬ್ಯಾಚ್ ಸಂಪಾದನೆ ಡೇಟಾವನ್ನು URL ಸ್ವರೂಪದಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳಲು ಒಂದು ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n   * ನೀವು ಹಂಚಿದ URL ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ, ಅದನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ನೋಂದಾಯಿಸಲಾಗುತ್ತದೆ.\n- ಟಿಟಿಎಸ್ ಫಿಲ್ಟರ್ ಅನ್ನು ಸುಧಾರಿಸಲಾಗಿದೆ (ವಿಶೇಷ ಅಕ್ಷರಗಳು)\n- ಇತಿಹಾಸ ಶೀರ್ಷಿಕೆ ಪ್ರದೇಶವನ್ನು ಕ್ಲಿಕ್ ಮಾಡುವಾಗ ಯಾವುದೇ ಪ್ರತಿಕ್ರಿಯೆ ಇಲ್ಲದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "7.6.9 (2023 11 18)\n\n- ಸುಧಾರಿತ ಡಿಕಂಪ್ರೆಷನ್ ವೇಗ.\n- ಅಂಚುಗಳನ್ನು ಹೊಂದಿಸುವಾಗ ವಿಳಂಬಕ್ಕೆ ಕಾರಣವಾಗುವ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ಭಾಷಾ ಗುಂಪನ್ನು ಅವಲಂಬಿಸಿ ಬ್ಯಾಕಪ್ ಸಾಧ್ಯವಾಗದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.6.8 (2023. 11 15)\n\n- Učinkovitost gledatelja je poboljšana.\n- Dodana je funkcija za dijeljenje podataka TTS filtra i batch uređivanja podataka u formatu URL -a.\n   * Kada kliknete zajednički URL, automatski se registrira u aplikaciji.\n- TTS filter je poboljšan (posebni znakovi)\n- Ispravljena je greška u kojoj nije bilo odgovora prilikom klika na području naslova povijesti."
+    "devnote": "7.6.9 (2023. 11 18)\n\n- Poboljšana brzina dekompresije.\n- Ispravljena je greška koja je uzrokovala zaostajanje prilikom postavljanja marži.\n- Ispravljena je greška u kojoj sigurnosno kopiranje nije bilo moguće, ovisno o jeziku."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.6.8 (2023 11 15)\n\n- ការអនុវត្តកម្មវិធីមើលត្រូវបានធ្វើឱ្យប្រសើរឡើង។\nមុខងារត្រូវបានបន្ថែមដើម្បីចែករំលែកតម្រង TTS និងបាច់កែសម្រួលទិន្នន័យក្នុងទ្រង់ទ្រាយ URL ។\n   * នៅពេលអ្នកចុចលើ URL ដែលបានចែករំលែកវាត្រូវបានចុះឈ្មោះដោយស្វ័យប្រវត្តិនៅក្នុងកម្មវិធី។\nតម្រង TTS ត្រូវបានធ្វើឱ្យប្រសើរឡើង (តួអក្សរពិសេស)\n- ជួសជុលកំហុសដែលមិនមានការឆ្លើយតបនៅពេលចុចលើផ្ទៃចំណងជើងនៃប្រវត្តិសាស្រ្ត។"
+    "devnote": "7.6.9 (2023 11 18)\n\n- ល្បឿននៃការធ្វើឱ្យប្រសើរឡើង។\n- ជួសជុលកំហុសដែលបណ្តាលឱ្យមានភាពយឺតយ៉ាវនៅពេលកំណត់រឹម។\n- ជួសជុលកំហុសដែលការបម្រុងទុកមិនអាចទៅរួចអាស្រ័យលើសំណុំភាសា។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Көрүүчү көрсөткүч өркүндөтүлдү.\n- TTS чыпкасын бөлүшүү үчүн функция жана партиялык маалыматты URL форматындагы бөлүштүрүү үчүн кошулган.\n   * Сиз бөлүшкөн URLди чыкылдатканда, ал колдонмодо автоматтык түрдө катталат.\n- TTS чыпкасы жакшырды (атайын белгилер)\n- Тарыхтын аталыш аянтчасын чыкылдатып жооп берген жок мүчүлүштүктү белгилеңиз."
+    "devnote": "7.6.9 (2023 11 18)\n\n- өркүндөтүү ылдамдыгы жакшырды.\n- чектерди белгилегенде, чектерди белгилеген мүчүлүштүктү белгилеңиз.\n- Тил топтомуна жараша камдык көчүрмө мүмкүн болбогон мүчүлүштүктү белгиледи."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.6.8 (2023 11 15)\n\n- பார்வையாளர் செயல்திறன் மேம்படுத்தப்பட்டுள்ளது.\n- URL வடிவத்தில் TTS வடிகட்டி மற்றும் தொகுதி திருத்து தரவைப் பகிர ஒரு செயல்பாடு சேர்க்கப்பட்டுள்ளது.\n   * நீங்கள் பகிரப்பட்ட URL ஐக் கிளிக் செய்தால், அது தானாகவே பயன்பாட்டில் பதிவு செய்யப்படும்.\n- டி.டி.எஸ் வடிகட்டி மேம்படுத்தப்பட்டுள்ளது (சிறப்பு எழுத்துக்கள்)\n- வரலாற்று தலைப்பு பகுதியைக் கிளிக் செய்யும் போது எந்த பதிலும் இல்லாத ஒரு பிழை சரி செய்யப்பட்டது."
+    "devnote": "7.6.9 (2023 11 18)\n\n- மேம்படுத்தப்பட்ட டிகம்பரஷ்ஷன் வேகம்.\n- விளிம்புகளை அமைக்கும் போது பின்னடைவை ஏற்படுத்திய பிழை சரி செய்யப்பட்டது.\n- மொழி தொகுப்பைப் பொறுத்து காப்புப்பிரதி சாத்தியமில்லாத இடத்தில் ஒரு பிழை சரி செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.6.8 (2023 11 15)\n\n- ประสิทธิภาพของผู้ชมได้รับการปรับปรุงแล้ว\n- มีการเพิ่มฟังก์ชั่นเพื่อแชร์ตัวกรอง TTS และข้อมูลการแก้ไขแบบแบตช์ในรูปแบบ URL\n   * เมื่อคุณคลิก URL ที่ใช้ร่วมกันจะมีการลงทะเบียนโดยอัตโนมัติในแอพ\n- ตัวกรอง TTS ได้รับการปรับปรุงแล้ว (อักขระพิเศษ)\n- แก้ไขข้อผิดพลาดที่ไม่มีการตอบสนองเมื่อคลิกที่พื้นที่ชื่อประวัติ"
+    "devnote": "7.6.9 (2023 11 18)\n\n- ปรับปรุงความเร็วในการบีบอัด\n- แก้ไขข้อผิดพลาดที่ทำให้เกิดความล่าช้าเมื่อตั้งค่าระยะขอบ\n- แก้ไขข้อผิดพลาดที่ไม่สามารถสำรองข้อมูลได้ขึ้นอยู่กับชุดภาษา"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.6.8 (2023 11 15)\n\n- İzleyici performansı geliştirildi.\n- TTS filtresini paylaşmak ve düzenleme verilerini URL formatında paylaşmak için bir işlev eklenmiştir.\n   * Paylaşılan URL'yi tıklattığınızda, uygulamaya otomatik olarak kaydedilir.\n- TTS filtresi geliştirildi (özel karakterler)\n- Tarih başlığı alanını tıklarken yanıtın olmadığı bir hata düzeltildi."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Geliştirilmiş dekompresyon hızı.\n- Marjlar ayarlarken gecikmeye neden olan bir hata düzeltildi.\n- Dil setine bağlı olarak yedeklemenin mümkün olmadığı bir hata düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.6.8 (2023 11 15)\n\n- వీక్షకుల పనితీరు మెరుగుపరచబడింది.\n- TTS ఫిల్టర్ మరియు బ్యాచ్ సవరణ డేటాను URL ఆకృతిలో షేర్ చేయడానికి ఒక ఫంక్షన్ జోడించబడింది.\n   * మీరు భాగస్వామ్య URL ను క్లిక్ చేసినప్పుడు, అది స్వయంచాలకంగా అనువర్తనంలో నమోదు చేయబడుతుంది.\n- టిటిఎస్ ఫిల్టర్ మెరుగుపరచబడింది (ప్రత్యేక అక్షరాలు)\n- చరిత్ర శీర్షిక ప్రాంతంపై క్లిక్ చేసేటప్పుడు స్పందన లేని బగ్ పరిష్కరించబడింది."
+    "devnote": "7.6.9 (2023 11 18)\n\n- మెరుగైన డికంప్రెషన్ వేగం.\n- మార్జిన్‌లను సెట్ చేసేటప్పుడు లాగ్‌కు కారణమైన బగ్ పరిష్కరించబడింది.\n- భాషా సమితిని బట్టి బ్యాకప్ సాధ్యం కాని బగ్ పరిష్కరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.6.8 (2023 11 15)\n\n- ਦਰਸ਼ਕ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ.\n- ਟੀਟੀਐਸ ਐੱਨ ਐਰਡ ਫਾਰਮੈਟ ਵਿੱਚ ਟੀਟੀਐਸ ਫਿਲਟਰ ਅਤੇ ਬੈਚ ਨੂੰ ਸੋਧਦਾ ਡੇਟਾ ਸਾਂਝਾ ਕਰਨ ਲਈ ਇੱਕ ਫੰਕਸ਼ਨ ਜੋੜਿਆ ਗਿਆ ਹੈ.\n   * ਜਦੋਂ ਤੁਸੀਂ ਸਾਂਝਾ URL ਨੂੰ ਦਬਾਉਂਦੇ ਹੋ, ਤਾਂ ਇਹ ਆਪਣੇ ਆਪ ਐਪ ਵਿੱਚ ਰਜਿਸਟਰ ਹੋ ਜਾਂਦਾ ਹੈ.\n- ਟੀਟੀਐਸ ਫਿਲਟਰ ਨੂੰ ਸੁਧਾਰਿਆ ਗਿਆ ਹੈ (ਵਿਸ਼ੇਸ਼ ਅੱਖਰ)\n- ਇਤਿਹਾਸ ਦੇ ਸਿਰਲੇਖ ਵਾਲੇ ਖੇਤਰ ਨੂੰ ਦਬਾਉਣ 'ਤੇ ਕਲਿੱਕ ਕਰਨ ਵੇਲੇ ਕੋਈ ਸੰਕੇਤ ਹੱਲ ਕੀਤਾ ਜਾਂਦਾ ਸੀ."
+    "devnote": "7.6.9 (2023 11 18)\n\n- ਸਵਾਰਥੀ ਗਤੀ.\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਜਿਸ ਨਾਲ ਮਾਰਜਿਨ ਸਥਾਪਤ ਕਰਦੇ ਸਮੇਂ ਲੰਗੜਾ ਹੁੰਦਾ ਸੀ.\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਜਿੱਥੇ ਬੈਕਅਪ ਭਾਸ਼ਾ ਨਿਰਧਾਰਤ ਕਰਨ ਦੇ ਅਧਾਰ ਤੇ ਸੰਭਵ ਨਹੀਂ ਸੀ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.6.8 (2023 11 15)\n\n- عملکرد بیننده بهبود یافته است.\n- تابعی برای به اشتراک گذاشتن داده های ویرایش TTS و ویرایش دسته ای در قالب URL اضافه شده است.\n   * وقتی روی URL مشترک کلیک می کنید ، به طور خودکار در برنامه ثبت می شود.\n- فیلتر TTS بهبود یافته است (شخصیت های خاص)\n- رفع اشکال در جایی که هنگام کلیک بر روی منطقه عنوان تاریخ ، هیچ پاسخی وجود ندارد."
+    "devnote": "7.6.9 (2023 11 18)\n\n- سرعت رفع فشار بهبود یافته.\n- رفع اشکالی که هنگام تنظیم حاشیه باعث تاخیر می شود.\n- رفع اشکال در جایی که پشتیبان بسته به مجموعه زبان امکان پذیر نبود."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.6.8 (2023 11 15)\n\n- O desempenho do espectador foi melhorado.\n- Uma função foi adicionada para compartilhar o filtro TTS e os dados de edição em lote no formato URL.\n   * Quando você clica no URL compartilhado, ele é registrado automaticamente no aplicativo.\n- O filtro TTS foi melhorado (caracteres especiais)\n- Corrigido um bug no qual não houve resposta ao clicar na área de título do histórico."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Velocidade aprimorada de descompressão.\n- Corrigido um bug que causou atraso ao definir as margens.\n- Corrigido um bug em que o backup não era possível, dependendo do conjunto de idiomas."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.6,8 (2023 11 15)\n\n- Wydajność widza została ulepszona.\n- Dodano funkcję, aby udostępnić dane filtra TTS i edytuj partię w formacie adresu URL.\n   * Po kliknięciu udostępnionego adresu URL jest on automatycznie zarejestrowany w aplikacji.\n- Filtr TTS został ulepszony (znaki specjalne)\n- Naprawiono błąd, w którym nie było odpowiedzi podczas klikania obszaru tytułu historii."
+    "devnote": "7.6,9 (2023 11 18)\n\n- Ulepszona prędkość dekompresyjna.\n- Naprawiono błąd, który spowodował opóźnienie podczas ustawiania marginesów.\n- Naprawiono błąd, w którym kopia zapasowa nie była możliwa w zależności od zestawu języka."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Les performances de la visionneuse ont été améliorées.\n- Une fonction a été ajoutée pour partager les données de filtre TTS et de modification par lots au format URL.\n   * Lorsque vous cliquez sur l'URL partagée, il est automatiquement enregistré dans l'application.\n- Le filtre TTS a été amélioré (caractères spéciaux)\n- Correction d'un bogue où il n'y avait pas de réponse lors du clic sur la zone du titre de l'historique."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Amélioration de la vitesse de décompression.\n- Correction d'un bug qui a provoqué le décalage lors de la définition des marges.\n- Correction d'un bogue où la sauvegarde n'était pas possible en fonction de l'ensemble de langue."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Katsojan suorituskykyä on parannettu.\n- TTS -suodatin- ja erämuokkaustiedot URL -muodossa on lisätty toiminto.\n   * Kun napsautat jaettua URL -osoitetta, se on automaattisesti rekisteröity sovellukseen.\n- TTS -suodatinta on parannettu (erikoismerkit)\n- Korjattu virhe, jossa ei ollut vastausta napsauttamalla historian otsikkoaluetta."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Parannettu dekompressionopeus.\n- Korjattu virhe, joka aiheutti viivettä marginaalien asettamisessa.\n- Korjattu virhe, jossa varmuuskopio ei ollut mahdollista kielen asettamisesta riippuen."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.6.8 (2023 11 15)\n\n- Ang pagganap ng viewer ay napabuti.\n- Ang isang function ay naidagdag upang ibahagi ang TTS filter at data ng pag -edit ng batch sa format ng URL.\n   * Kapag na -click mo ang ibinahaging URL, awtomatikong nakarehistro ito sa app.\n- Ang filter ng TTS ay napabuti (mga espesyal na character)\n- Nakapirming isang bug kung saan walang tugon kapag nag -click sa lugar ng pamagat ng kasaysayan."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Pinahusay na bilis ng decompression.\n- Nakapirming isang bug na nagdulot ng lag kapag nagtatakda ng mga margin.\n- Nakapirming isang bug kung saan ang backup ay hindi posible depende sa set ng wika."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.6.8 (2023 11 15)\n\n- A néző teljesítménye javult.\n- A TTS szűrő és a kötegelt szerkesztési adatok URL formátumban történő megosztásához egy függvényt adtak hozzá.\n   * Amikor rákattint a megosztott URL -re, akkor automatikusan regisztrálódik az alkalmazásban.\n- A TTS szűrő javult (speciális karakterek)\n- Javítva egy hibát, ahol a történelem címterületére kattintva nem volt válasz."
+    "devnote": "7.6.9 (2023 11 18)\n\n- Javított dekompressziós sebesség.\n- Javítva egy olyan hibát, amely késést okozott a margók beállításakor.\n- Javítva egy hibát, ahol a biztonsági mentés nem volt lehetséges a nyelvkészlettől függően."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.6.8 (2023 11 15)\n\n- ביצועי הצופה שופרו.\n- נוספה פונקציה לשיתוף נתוני מסנן TTS ועריכת אצווה בפורמט URL.\n   * כאשר אתה לוחץ על כתובת האתר המשותפת, היא רשומה אוטומטית באפליקציה.\n- מסנן TTS שופר (תווים מיוחדים)\n- תיקן באג שבו לא הייתה תגובה בעת לחיצה על אזור כותרת ההיסטוריה."
+    "devnote": "7.6.9 (2023 11 18)\n\n- מהירות דיכאון משופרת.\n- תוקן באג שגרם לפיגור בעת הגדרת השוליים.\n- תוקן באג שבו גיבוי לא היה אפשרי בהתאם למערך השפה."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.6.8 (2023 11 15)\n\n- दर्शक प्रदर्शन में सुधार किया गया है।\n- URL प्रारूप में TTS फ़िल्टर और बैच एडिट डेटा साझा करने के लिए एक फ़ंक्शन जोड़ा गया है।\n   * जब आप साझा URL पर क्लिक करते हैं, तो यह स्वचालित रूप से ऐप में पंजीकृत होता है।\n- टीटीएस फ़िल्टर में सुधार किया गया है (विशेष वर्ण)\n- एक बग फिक्स्ड जहां इतिहास शीर्षक क्षेत्र पर क्लिक करते समय कोई प्रतिक्रिया नहीं थी।"
+    "devnote": "7.6.9 (2023 11 18)\n\n- बेहतर अपघटन की गति।\n- एक बग फिक्स्ड जो मार्जिन सेट करते समय अंतराल का कारण बनता है।\n- एक बग फिक्स्ड जहां भाषा सेट के आधार पर बैकअप संभव नहीं था।"
   }
 }
