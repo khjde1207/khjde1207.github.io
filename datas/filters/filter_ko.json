@@ -280,5 +280,173 @@
         "name": "화수필터",
         "expr": true,
         "to": ""
+    },
+    {
+        "filter": "짓이([겨겼])",
+        "enable": true,
+        "name": "짓이겨",
+        "expr": true,
+        "to": "진니$1"
+    },
+    {
+        "filter": "못이([기겨긴겼길])",
+        "enable": true,
+        "name": "못이...",
+        "expr": true,
+        "to": " 못 이$1"
+    },
+    {
+        "filter": "뱉었",
+        "enable": true,
+        "name": "뱉었",
+        "expr": false,
+        "to": "배텄"
+    },
+    {
+        "filter": "붙인",
+        "enable": true,
+        "name": "붙인",
+        "expr": false,
+        "to": "부친"
+    },
+    {
+        "filter": "것이리라",
+        "enable": true,
+        "name": "것이리라",
+        "expr": false,
+        "to": "거시리라"
+    },
+    {
+        "filter": "10월",
+        "enable": true,
+        "name": "10월",
+        "expr": false,
+        "to": "시월"
+    },
+    {
+        "filter": "곤란",
+        "enable": true,
+        "name": "곤란",
+        "expr": false,
+        "to": ",골란"
+    },
+    {
+        "filter": "짙어",
+        "enable": true,
+        "name": "짙어",
+        "expr": false,
+        "to": "지터"
+    },
+    {
+        "filter": "웃음",
+        "enable": true,
+        "name": "웃음",
+        "expr": false,
+        "to": "우슴"
+    },
+    {
+        "filter": "붙여",
+        "enable": true,
+        "name": "붙여",
+        "expr": false,
+        "to": "부쳐"
+    },
+    {
+        "filter": "헛웃음",
+        "enable": true,
+        "name": "헛웃음",
+        "expr": false,
+        "to": "허두슴"
+    },
+    {
+        "filter": "없애",
+        "enable": true,
+        "name": "없애",
+        "expr": false,
+        "to": "업새"
+    },
+    {
+        "filter": "없앨",
+        "enable": true,
+        "name": "없앨",
+        "expr": false,
+        "to": "업샐"
+    },
+    {
+        "filter": "6월",
+        "enable": true,
+        "name": "6월",
+        "expr": false,
+        "to": "유월"
+    },
+    {
+        "filter": "뱉어",
+        "enable": true,
+        "name": "뱉어",
+        "expr": false,
+        "to": "배터"
+    },
+    {
+        "filter": "붙이",
+        "enable": true,
+        "name": "붙이",
+        "expr": false,
+        "to": "부치"
+    },
+    {
+        "filter": "없어",
+        "enable": true,
+        "name": "없어",
+        "expr": false,
+        "to": "업서"
+    },
+    {
+        "filter": "간략",
+        "enable": true,
+        "name": "간략",
+        "expr": false,
+        "to": "갈략"
+    },
+    {
+        "filter": "6월",
+        "enable": true,
+        "name": "6월",
+        "expr": false,
+        "to": "유월"
+    },
+    {
+        "filter": "집터",
+        "enable": true,
+        "name": "집터",
+        "expr": false,
+        "to": "집 터"
+    },
+    {
+        "filter": "([볼줄])게",
+        "enable": true,
+        "name": "볼게, 줄게",
+        "expr": true,
+        "to": "$1께."
+    },
+    {
+        "filter": "권력",
+        "enable": true,
+        "name": "권력",
+        "expr": false,
+        "to": "궐력"
+    },
+    {
+        "filter": "간략",
+        "enable": true,
+        "name": "간략",
+        "expr": false,
+        "to": "갈략"
+    },
+    {
+        "filter": "아랫입술",
+        "enable": true,
+        "name": "아랫입술",
+        "expr": false,
+        "to": "아랫 입술"
     }
 ]
