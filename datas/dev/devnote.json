@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Improved decompression speed.\n- Fixed a bug that caused lag when setting margins.\n- Fixed a bug where backup was not possible depending on the language set."
+    "devnote": "7.7.0 (2023 Nov 24)\n\n- When playing TTS, if a cover image exists, the cover image is displayed.\n- Fixed an issue where TTS playback was interrupted on some devices.\n- To add an image viewer, text-related settings have been moved to viewer settings."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.6.9 (2023 11 18)\n\n- 압축 해제 속도를 개선 하였습니다.\n- 여백 설정시 렉걸리는 버그를 수정 하였습니다.\n- 설정된 언어에 따라 백업이 안되는 버그를 수정 하였습니다."
+    "devnote": "7.7.0 (2023 11 24)\n\n- TTS 재생시 커버 이미지가 존재 할 경우 커버 이미지 를 띄우도록 하였습니다. \n- 일부 디바이스에서 TTS 재생시 중단 되는 현상을 수정 하였습니다. \n- 이미지 뷰어 추가를 위해 텍스트에 관련된 설정을 뷰어 설정으로 이동 시켰습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Velocidade de descompresión mellorada.\n- Fixouse un erro que causou retraso ao establecer marxes.\n- Fixouse un erro no que non fose posible a copia de seguridade dependendo do conxunto de idiomas."
+    "devnote": "7.7.0 (2023 24 de novembro)\n\n- Ao reproducir TTS, se existe unha imaxe de portada, móstrase a imaxe de portada.\n- Fixouse un problema onde a reprodución de TTS foi interrompida nalgúns dispositivos.\n- Para engadir un visor de imaxe, as configuracións relacionadas co texto trasladáronse á configuración do espectador."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.6.9 (2023 11 18)\n\n- ડીકોમ્પ્રેશન ગતિ સુધારેલી.\n- એક બગને ઠીક કરો જે માર્જિન સેટ કરતી વખતે લેગનું કારણ બને છે.\n- એક ભૂલને સ્થિર કરો જ્યાં ભાષાના સેટને આધારે બેકઅપ શક્ય ન હતું."
+    "devnote": "7.7.0 (2023 નવે 24)\n\n- ટીટીએસ રમતી વખતે, જો કોઈ કવર ઇમેજ અસ્તિત્વમાં છે, તો કવર ઇમેજ પ્રદર્શિત થાય છે.\n- એક મુદ્દો ઉકેલાઈ ગયો જ્યાં ટીટીએસ પ્લેબેક કેટલાક ઉપકરણો પર વિક્ષેપિત થયો.\n- એક છબી દર્શક ઉમેરવા માટે, ટેક્સ્ટ-સંબંધિત સેટિંગ્સને દર્શક સેટિંગ્સમાં ખસેડવામાં આવી છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Βελτιωμένη ταχύτητα αποσυμπίεσης.\n- Διορθώθηκε ένα σφάλμα που προκάλεσε καθυστέρηση κατά τη ρύθμιση των περιθωρίων.\n- Διορθώθηκε ένα σφάλμα όπου το αντίγραφο ασφαλείας δεν ήταν δυνατόν ανάλογα με το σύνολο γλώσσας."
+    "devnote": "7.7.0 (2023 Νοεμβρίου 24)\n\n- Όταν παίζετε TTS, εάν υπάρχει εικόνα κάλυψης, εμφανίζεται η εικόνα του εξώφυλλου.\n- Διορθώθηκε ένα ζήτημα όπου η αναπαραγωγή TTS διακόπτεται σε ορισμένες συσκευές.\n- Για να προσθέσετε ένα πρόγραμμα προβολής εικόνων, οι ρυθμίσεις που σχετίζονται με το κείμενο έχουν μεταφερθεί στις ρυθμίσεις θεατών."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Verbeterde decompressiesnelheid.\n- Een bug opgelost die vertraging veroorzaakte bij het instellen van marges.\n- Een bug opgelost waar back -up niet mogelijk was, afhankelijk van de taalset."
+    "devnote": "7.7.0 (2023 24 november)\n\n- Bij het spelen van TT's, als er een omslagafbeelding bestaat, wordt de omslagafbeelding weergegeven.\n- Een probleem opgelost waarbij het afspelen van TTS op sommige apparaten werd onderbroken.\n- Om een ​​beeldviewer toe te voegen, zijn tekstgerelateerde instellingen verplaatst naar de instellingen van de kijker."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": ".6..6 .. (2023 11 11 11))\n\n- सुधारिएको गिरावटको गति।\n- बिरुवाहरू सेट गर्दा ढिलाइ भयो भन्ने फिक्स्ड गरियो।\n- एक बग तय गरियो जहाँ ब्याकअप भाषा सेटमा निर्भर हुँदैन।"
+    "devnote": "7.7.0 (2023 नोभेम्बर 2 24)\n\n- tts खेल्दा, यदि कभर छवि अवस्थित छ भने, कभर छवि प्रदर्शित हुन्छ।\n- TTS प्लेब्याक केहि उपकरणहरूमा tts प्लेब्याकमा सेट गरियो।\n- एक छवि दर्शक थप्न, पाठ सम्बन्धित सेटिंग्सहरु अवलोकनकर्ता सेटिंग्स मा सारियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Forbedret dekompresjonshastighet.\n- Fikset en feil som forårsaket etterslep når du satte marginer.\n- Fikset en feil der sikkerhetskopi ikke var mulig avhengig av språksettet."
+    "devnote": "7.7.0 (2023 24. nov)\n\n- Når du spiller TTS, hvis et omslagsbilde eksisterer, vises dekselbildet.\n- Rettet et problem der TTS -avspilling ble avbrutt på noen enheter.\n- For å legge til en bildeviser, er tekstrelaterte innstillinger blitt flyttet til seerinnstillinger."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Forbedret dekomprimeringshastighed.\n- Rettet en fejl, der forårsagede forsinkelse, når de indstillede marginer.\n- Rettet en fejl, hvor backup ikke var mulig, afhængigt af sprogsættet."
+    "devnote": "7.7.0 (2023 24. november)\n\n- Når man spiller TTS, hvis der findes et forsidebillede, vises forsiden.\n- Rettet et problem, hvor TTS -afspilning blev afbrudt på nogle enheder.\n- For at tilføje en billedviser er tekstrelaterede indstillinger flyttet til seerindstillinger."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Verbesserte Dekompressionsgeschwindigkeit.\n- Ein Fehler behoben, der beim Einstellen von Rändern eine Verzögerung verursachte.\n- Ein Fehler behoben, bei dem die Sicherung je nach Sprachsatz nicht möglich war."
+    "devnote": "7.7.0 (2023 24. November)\n\n- Beim Spielen von TTS wird das Titelbild angezeigt, wenn ein Titelbild vorliegt.\n- Es wurde ein Problem behoben, bei dem die TTS -Wiedergabe auf einigen Geräten unterbrochen wurde.\n- Um einen Image Viewer hinzuzufügen, wurden textbezogene Einstellungen in die Einstellungen für die Zuschauer verschoben."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.6.9 (2023 11 18)\n\n- ຄວາມໄວທີ່ເສື່ອມໂຊມ.\n- ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ເຮັດໃຫ້ນ້ໍາໄຫຼເມື່ອຕັ້ງຂອບ.\n- ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ສໍາຮອງບໍ່ເປັນໄປໄດ້ໂດຍອີງຕາມຊຸດພາສາ."
+    "devnote": "7.7.0 (2023 Nov 24)\n\n- ເມື່ອຫຼີ້ນ TTS, ຖ້າມີຮູບພາບປົກ, ຮູບພາບປົກຖືກສະແດງ.\n- ແກ້ໄຂບັນຫາບ່ອນທີ່ TTS Playback ໄດ້ຖືກລົບກວນໃນບາງອຸປະກອນ.\n- ເພື່ອເພີ່ມຜູ້ເບິ່ງຮູບພາບ, ການຕັ້ງຄ່າທີ່ກ່ຽວຂ້ອງກັບຕົວຫນັງສືໄດ້ຖືກຍ້າຍໄປຢູ່ໃນການຕັ້ງຄ່າ Viewer."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.6.9 (2023 11 18)\n\n- uzlabots dekompresijas ātrums.\n- Novērsta kļūda, kas izraisīja nobīdi, nosakot robežas.\n- Novērsta kļūda, kurā rezerves kopija nebija iespējama atkarībā no valodas komplekta."
+    "devnote": "7.7.0 (2023. gada 24. novembris)\n\n- Spēlējot TTS, ja pastāv vāka attēls, tiek parādīts vāka attēls.\n- Novērsta problēma, kurā dažās ierīcēs tika pārtraukta TTS atskaņošana.\n- Lai pievienotu attēlu skatītāju, ar tekstu saistītie iestatījumi ir pārvietoti uz skatītāja iestatījumiem."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Улучшенная скорость декомпрессии.\n- Исправлена ​​ошибка, которая вызвала отставание при установке маржи.\n- Исправлена ​​ошибка, где резервная копия была невозможна в зависимости от набора языка."
+    "devnote": "7.7.0 (2023 г. 24 ноября)\n\n- При воспроизведении TTS, если изображение обложки существует, отображается изображение обложки.\n- Исправлена ​​проблема, где воспроизведение TTS было прервано на некоторых устройствах.\n- Чтобы добавить зритель изображения, настройки, связанные с текстами, были перемещены в настройки просмотра."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Viteza de decompresie îmbunătățită.\n- S -a rezolvat o eroare care a provocat întârziere la setarea marjelor.\n- S -a rezolvat o eroare în care backup -ul nu a fost posibil în funcție de setul de limbă."
+    "devnote": "7.7.0 (2023 24 noiembrie)\n\n- Când jucați TTS, dacă există o imagine de copertă, este afișată imaginea de copertă.\n- S -a rezolvat o problemă în care redarea TTS a fost întreruptă pe unele dispozitive.\n- Pentru a adăuga un vizualizator de imagini, setările legate de text au fost mutate la setările vizualizatorului."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Patobulintas dekompresijos greitis.\n- Ištaisyta klaida, kuri sukėlė atsilikimą nustatant paraštes.\n- Ištaisyta klaida, kurioje atsarginė kopija nebuvo įmanoma, atsižvelgiant į kalbos rinkinį."
+    "devnote": "7.7.0 (2023 m. Lapkričio 24 d.)\n\n- Žaisdamas TTS, jei yra viršelio vaizdas, rodomas viršelio vaizdas.\n- Ištaisyta problema, kai TTS atkūrimas buvo nutrauktas kai kuriuose įrenginiuose.\n- Norėdami pridėti vaizdo peržiūrėtoją, su tekstu susiję parametrai buvo perkelti į „Viewer“ nustatymus."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.6.9 (2023 11 18)\n\n- सुधारित विघटन गती.\n- मार्जिन सेट करताना अंतर निर्माण करणारे बग निश्चित केले.\n- भाषेच्या संचावर अवलंबून बॅकअप शक्य नव्हते तेथे एक बग निश्चित केला."
+    "devnote": "7.7.0 (2023 नोव्हेंबर 24)\n\n- टीटीएस खेळताना, कव्हर प्रतिमा अस्तित्त्वात असल्यास, कव्हर प्रतिमा प्रदर्शित होईल.\n- काही डिव्हाइसवर टीटीएस प्लेबॅक व्यत्यय आणलेला एक मुद्दा निश्चित केला.\n- प्रतिमा दर्शक जोडण्यासाठी, मजकूर-संबंधित सेटिंग्ज दर्शक सेटिंग्जमध्ये हलविल्या गेल्या आहेत."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Подобрена брзина на декомпресија.\n- Поправи грешка што предизвика заостанување при поставување маргини.\n- Поправи грешка каде резервната копија не беше можна во зависност од сетот на јазик."
+    "devnote": "7.7.0 (2023 ноември 24)\n\n- Кога играте TTS, ако постои слика за насловната слика, се прикажува сликата на насловната страница.\n- Поправи проблем кога репродукцијата на ТТС беше прекината на некои уреди.\n- За да додадете прегледувач на слика, поставките поврзани со текстот се преместени во поставките на гледачот."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.6.9 (2023 11 18)\n\n- മെച്ചപ്പെട്ട അഴുകിയ വേഗത.\n- മാർജിനുകൾ ക്രമീകരിക്കുമ്പോൾ കാലതാമസം വരുത്തിയ ഒരു ബഗ് പരിഹരിച്ചു.\n- ഭാഷാ സെറ്റിനെ ആശ്രയിച്ച് ബാക്കപ്പ് സാധ്യമല്ലാത്ത ഒരു ബഗ് പരിഹരിച്ചു."
+    "devnote": "7.7.0 (2023 നവംബർ 24)\n\n- ടിടിഎസ് കളിക്കുമ്പോൾ, ഒരു കവർ ഇമേജ് നിലവിലിട്ടുണ്ടെങ്കിൽ, കവർ ഇമേജ് പ്രദർശിപ്പിക്കും.\n- ചില ഉപകരണങ്ങളിൽ ടിടിഎസ് പ്ലേബാക്ക് തടസ്സപ്പെട്ട ഒരു പ്രശ്നം പരിഹരിച്ചു.\n- ഒരു ഇമേജ് വ്യൂവർ ചേർക്കുന്നതിന്, ടെക്സ്റ്റ് അനുബന്ധ ക്രമീകരണങ്ങൾ കാഴ്ച ക്രമീകരണങ്ങളിലേക്ക് നീക്കി."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Kelajuan penyahmampatan yang lebih baik.\n- Memperbaiki pepijat yang menyebabkan ketinggalan apabila menetapkan margin.\n- Memperbaiki pepijat di mana sandaran tidak mungkin bergantung pada set bahasa."
+    "devnote": "7.7.0 (2023 24 Nov)\n\n- Apabila bermain TTS, jika imej penutup wujud, imej penutup dipaparkan.\n- Memperbaiki masalah di mana main balik TTS terganggu pada beberapa peranti.\n- Untuk menambah penonton imej, tetapan berkaitan teks telah dipindahkan ke tetapan penonton."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.6.9 (2023 11 18)\n\n- декомпресс хурдыг сайжруулсан.\n- Хөдөлгүүрийг тохируулахдаа хоцрогдсон алдааг зассан.\n- Хэлний багцаас хамааран нөөцлөлтийг ашиглах боломжгүй алдааг зассан."
+    "devnote": "7.7.0 (2023 оны 11-р сарын 24)\n\n- TTS-ийг тоглох үед Cover зураг байгаа бол хавтасны зургийг харуулав.\n- TTS Playback нь зарим төхөөрөмж дээр тасалдсан газрыг тогтоосон.\n- Зургийн үзэгчдийг нэмэх, тексттэй холбоотой тохиргоог үзэх тохиргоог үзэхэд шилжсэн."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Deskonpresio abiadura hobetzea.\n- Marjinak ezarriz gero, atzerapena eragin zuen akats bat konpondu da.\n- Backup ez zen akats bat konpondu hizkuntza multzoaren arabera."
+    "devnote": "7.7.0 (2023 azaroaren 24a)\n\n- TTS erreproduzitzerakoan, estalkiaren irudia badago, azalaren irudia bistaratzen da.\n- TTS erreprodukzioa gailu batzuetan eten zen arazo bat konpondu da.\n- Irudi ikuslea gehitzeko, testuekin lotutako ezarpenak ikusleen ezarpenetara eraman dira."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7223 11 18)\n\n- decompression အမြန်နှုန်းတိုးတက်လာသည်။\n- မာဂျင်များချမှတ်သည့်အခါနောက်ကျသော bug ကို fixed ။\n- ဘာသာစကားအစုံအပေါ် မူတည်. backup ကိုမဖြစ်နိုင်သည့် bug ကို fixed ။"
+    "devnote": "7.7.0 (2023 နိုဝင်ဘာ 24 ရက်)\n\n- TTS ကစားသောအခါအဖုံးပုံရိပ်တစ်ခုတည်ရှိပါက Cover Image ကိုပြသသည်။\n- အချို့သောကိရိယာများပေါ်တွင် TTS ပြန်ဖွင့်ခြင်းကိုပြတ်တောက်သွားသောပြ an နာကိုဖြေရှင်းခဲ့သည်။\n- ရုပ်ပုံကြည့်ရှုသူကိုထည့်ရန်စာသားနှင့်သက်ဆိုင်သောဆက်တင်များကိုကြည့်ရှုသူ settings သို့ပြောင်းရွှေ့ခဲ့သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Cải thiện tốc độ giải nén.\n- Đã sửa lỗi gây ra độ trễ khi đặt lề.\n- Đã sửa lỗi mà không thể sao lưu tùy thuộc vào bộ ngôn ngữ."
+    "devnote": "7.7.0 (2023 ngày 24 tháng 11)\n\n- Khi chơi TTS, nếu hình ảnh bìa tồn tại, hình ảnh bìa được hiển thị.\n- Đã khắc phục sự cố trong đó phát lại TTS bị gián đoạn trên một số thiết bị.\n- Để thêm trình xem hình ảnh, các cài đặt liên quan đến văn bản đã được chuyển sang cài đặt trình xem."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Палепшаная хуткасць дэкампрэсіі.\n- Выпраўлена памылка, якая выклікала адставанне пры ўсталёўцы запасаў.\n- Выпраўлена памылка, калі рэзервовая копія была немагчыма ў залежнасці ад набору мовы."
+    "devnote": "7.7.0 (2023, 24 лістапада)\n\n- Пры прайграванні TTS, калі існуе малюнак вокладкі, адлюстроўваецца выява вокладкі.\n- Выпраўлена праблема, калі на некаторых прыладах была перапынена прайграванне TTS.\n- Каб дадаць праглядальніка малюнка, налады, звязаныя з тэкстам, былі перанесены ў налады прагляду."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.6.9 (2023 11 18)\n\n- উন্নত ডিকম্প্রেশন গতি।\n- মার্জিন সেট করার সময় পিছিয়ে থাকা একটি বাগ স্থির করে।\n- এমন একটি বাগ ঠিক করা হয়েছে যেখানে ভাষা সেটের উপর নির্ভর করে ব্যাকআপ সম্ভব ছিল না।"
+    "devnote": "7.7.0 (2023 নভেম্বর 24)\n\n- টিটিএস বাজানোর সময়, যদি কোনও কভার চিত্র বিদ্যমান থাকে তবে কভার চিত্রটি প্রদর্শিত হয়।\n- এমন একটি সমস্যা স্থির করা হয়েছে যেখানে কিছু ডিভাইসে টিটিএস প্লেব্যাক বাধা দেওয়া হয়েছিল।\n- একটি চিত্র দর্শক যুক্ত করতে, পাঠ্য সম্পর্কিত সেটিংস দর্শকের সেটিংসে সরানো হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Подобрена скорост на декомпресия.\n- Фиксирана грешка, която предизвика изоставане при задаване на маржове.\n- Фиксирана грешка, при която архивирането не е възможно в зависимост от езиковия набор."
+    "devnote": "7.7.0 (2023 ноември 24)\n\n- Когато възпроизвеждате TTS, ако съществува покритие, изображението на корицата се показва.\n- Фиксиран проблем, при който възпроизвеждането на TTS беше прекъснато на някои устройства.\n- За да добавите зрител на изображения, настройките, свързани с текста, са преместени към настройките на зрителя."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Побољшана брзина декомпресије.\n- Поправљена је грешка која је изазвала заостајање приликом постављања маргина.\n- Поправљена је грешка у којој је сигурносна копија није била могућа у зависности од постављеног језика."
+    "devnote": "7.7.0 (2023. новембар)\n\n- Када играте ТТС, ако постоји насловна слика, приказује се слика насловница.\n- Поправљено је питање где је репродукција ТТС прекинута на неким уређајима.\n- Да бисте додали прегледач слике, поставке у вези са текстом премештене су на подешавања прегледача."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Kuboresha kasi ya mtengano.\n- Zisizohamishika mdudu ambao ulisababisha lag wakati wa kuweka pembezoni.\n- Zisizohamishika mdudu ambapo Backup haikuwezekana kulingana na seti ya lugha."
+    "devnote": "7.7.0 (2023 Novemba 24)\n\n- Wakati wa kucheza TTS, ikiwa picha ya kifuniko iko, picha ya kifuniko inaonyeshwa.\n- Zisizohamishika suala ambalo uchezaji wa TTS uliingiliwa kwenye vifaa kadhaa.\n- Kuongeza mtazamaji wa picha, mipangilio inayohusiana na maandishi imehamishwa kwa mipangilio ya watazamaji."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Förbättrad dekompressionshastighet.\n- Fixade ett fel som orsakade fördröjning när man satte marginaler.\n- Fixade ett fel där säkerhetskopiering inte var möjlig beroende på språkuppsättningen."
+    "devnote": "7.7.0 (2023 24 november)\n\n- När du spelar TTS, om en omslagsbild finns, visas omslagsbilden.\n- Fixade ett problem där TTS -uppspelningen avbröts på vissa enheter.\n- För att lägga till en bildvisare har textrelaterade inställningar flyttats till visningsinställningar."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Velocidad de descompresión mejorada.\n- Se corrigió un error que causó retraso al establecer márgenes.\n- Se corrigió un error donde la copia de seguridad no era posible dependiendo del conjunto de idiomas."
+    "devnote": "7.7.0 (2023 24 de noviembre)\n\n- Al reproducir TTS, si existe una imagen de portada, se muestra la imagen de portada.\n- Se solucionó un problema en el que se interrumpió la reproducción de TTS en algunos dispositivos.\n- Para agregar un visor de imágenes, la configuración relacionada con el texto se ha movido a la configuración del espectador."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7,6,9 (2023 11 18)\n\n- Vylepšená rýchlosť dekompresie.\n- Opravená chyba, ktorá spôsobila oneskorenie pri nastavovaní marží.\n- Opravená chyba, kde zálohovanie nebolo možné v závislosti od jazykovej sady."
+    "devnote": "7.7.0 (2023 november)\n\n- Pri prehrávaní TTS, ak existuje obrazový obrázok, zobrazí sa obrazový obrázok.\n- Opravený problém, keď bolo prehrávanie TTS prerušené na niektorých zariadeniach.\n- Na pridanie prehliadača obrázka boli nastavenia súvisiace s textom presunuté do nastavení prehliadača."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Izboljšana hitrost dekompresije.\n- Odpravljena je napaka, ki je pri nastavitvi robov povzročila zaostajanje.\n- Odpravljeno napako, kjer varnostna kopija ni bila mogoča, odvisno od nabora jezika."
+    "devnote": "7.7.0 (2023, 24. novembra)\n\n- Pri predvajanju TTS, če obstaja slika, se prikaže slika platnice.\n- Odpravljena je bila težava, pri kateri je bilo predvajanje TTS prekinjeno na nekaterih napravah.\n- Če želite dodati pregledovalnik slik, so nastavitve, povezane z besedilom, premaknjene v nastavitve gledalcev."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.6.9 (2023 11 18)\n\n- අතිශයින්ම අඩුපාඩු වේගය.\n- ආන්තිකයන් සැකසීමේදී ප්රමාද වූ දෝෂයක් විසඳා ඇත.\n- භාෂා කට්ටලය අනුව උපස්ථයක් කළ නොහැකි දෝෂයක් සවි කර ඇත."
+    "devnote": "7.7.0 (2023 නොවැම්බර් 24)\n\n- tts වාදනය කරන විට, ආවරණ රූපයක් තිබේ නම්, ආවරණ රූපය දර්ශනය වේ.\n- සමහර උපාංගවල ටී.ටී.ටී.\n- රූප නරඹන්නෙකු එක් කිරීම සඳහා, පෙළ හා සම්බන්ධ සැකසුම් නරඹන්නන්ගේ සැකසුම් වෙත ගෙන ගොස් ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.6.9 (2023 11 18)\n\n- تحسين سرعة الضغط.\n- إصلاح الخلل الذي تسبب في تأخر عند تحديد الهوامش.\n- تم إصلاح خلل حيث لم يكن النسخ الاحتياطي ممكنًا اعتمادًا على مجموعة اللغة."
+    "devnote": "7.7.0 (2023 نوفمبر 24)\n\n- عند تشغيل TTS ، في حالة وجود صورة غلاف ، يتم عرض صورة الغلاف.\n- تم إصلاح مشكلة حيث تم تشغيل تشغيل TTS على بعض الأجهزة.\n- لإضافة عارض صورة ، تم نقل الإعدادات المتعلقة بالنص إلى إعدادات المشاهد."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Բարելավված ապամոնտաժային արագությունը:\n- Մարգիններ սահմանելիս փխրուն ֆիքսել է մի վրիպակ:\n- Fix նջեց մի սխալ, որտեղ կրկնօրինակում հնարավոր չէր, կախված լեզվի հավաքածուից:"
+    "devnote": "7.7.0 (2023 նոյեմբերի 24)\n\n- TTS խաղալիս, եթե կա ծածկույթի պատկեր, ցուցադրվում է ծածկույթի պատկերը:\n- Հաստատեց մի հարց, երբ TTS- ի նվագարկումը ընդհատվեց որոշ սարքերում:\n- Պատկերների դիտում ավելացնելը, տեքստի հետ կապված պարամետրերը տեղափոխվել են դիտողի պարամետրեր:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Bætt þrýstingshraði.\n- Lagaði villu sem olli töf þegar framlegð var.\n- Lagaði villu þar sem öryggisafrit var ekki mögulegt eftir tungumálasettinu."
+    "devnote": "7.7.0 (2023 24. nóvember)\n\n- Þegar þú spilar TTS, ef forsíðumynd er til, birtist forsíðumyndin.\n- Lagaði mál þar sem spilun TTS var rofin á sumum tækjum.\n- Til að bæta við myndaskilum hafa textatengdar stillingar verið færðar í áhorfendur."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Təkmilləşdirilmiş dekompressiya sürəti.\n- Marjları təyin edərkən geriləmə səbəb olan bir səhv düzəldildi.\n- Dilin qurulmasından asılı olaraq ehtiyat nüsxənin mümkün olmadığı bir səhv düzəldildi."
+    "devnote": "7.7.0 (2023 Noyabr 24)\n\n- TTS oynayarkən, bir örtük görüntüsüdürsə, örtük görüntüsü göstərilir.\n- TTS-nin bəzi cihazlarda ifa olunduğu bir problemi həll etdi.\n- Şəkil görüntüleyicisi əlavə etmək üçün mətnlə əlaqəli parametrlər izləyici parametrlərinə köçürülmüşdür."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Verbeterde dekompressiesnelheid.\n- 'n fout opgelos wat vertraging veroorsaak het toe sy marges instel.\n- 'n Fout reggestel waar rugsteun nie moontlik was nie, afhangende van die taalstel."
+    "devnote": "7.7.0 (2023 24 November)\n\n- As u TTS speel, word die voorbladfoto vertoon as daar 'n voorbladfoto is.\n- 'n Probleem opgelos waar TTS -afspeel op sommige toestelle onderbreek is.\n- Om 'n beeldkyk by te voeg, is teksverwante instellings na die kykerinstellings verskuif."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Shpejtësia e përmirësuar e dekompresionit.\n- Fiksoi një gabim që shkaktoi vonesë kur vendosni kufijtë.\n- Fiksoi një gabim ku kopjimi nuk ishte i mundur në varësi të gjuhës së vendosur."
+    "devnote": "7.7.0 (2023 24 nëntor)\n\n- Kur luani TTS, nëse ekziston një imazh i mbuluar, shfaqet imazhi i mbulesës.\n- Fiksoi një çështje ku riprodhimi i TTS u ndërpre në disa pajisje.\n- Për të shtuar një shikues të imazhit, cilësimet që lidhen me tekstin janë zhvendosur në cilësimet e shikuesit."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.6.9 (2023 11 18)\n\n- የተሻሻለ ማጓጓዝ ፍጥነት.\n- ጠርዞችን በሚዘጋጁበት ጊዜ የ LEG ን ያወጣው ሳንካ ተጠግኗል.\n- ምትኬ ግንባታ በሚካሄድበት ቦታ ላይ የተመሠረተበት ሳንካ ተጠግኗል."
+    "devnote": "7.7.0 (2023 NEV 24)\n\n- የሽፋን ምስል ካለ, የሽፋን ምስል ካለ የሽፋን ምስል ይታያል.\n- በአንዳንድ መሣሪያዎች ላይ TTS Mallsback የተቋረጠበት ጉዳይ ተጠግኗል.\n- የምስል መመልከቻን ለማከል, ከጽሑፍ ጋር የተዛመዱ ቅንብሮች ወደ ተመልካቹ ቅንብሮች ተዛወሩ."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.6.9 (2023 11 18)\n\n- täiustatud dekompressioonikiirus.\n- Parandatud viga, mis põhjustas marginaalide seadmisel viivituse.\n- Parandatud viga, kus varundamine polnud sõltuvalt keelekomplektist võimalik."
+    "devnote": "7.7.0 (2023 24. november)\n\n- TTS -i mängimisel kuvatakse kaanepilt kaanepilt.\n- Parandatud probleem, kus TTS -i taasesitus katkestati mõnele seadmele.\n- Kujutisevaaturi lisamiseks on tekstiga seotud sätted teisaldatud vaatajate sätetesse."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.6.9 (2023 11 18)\n\n- ڈیکمپریشن کی بہتر رفتار۔\n- ایک بگ طے کیا جس کی وجہ سے مارجن ترتیب دیتے وقت وقفہ ہوتا ہے۔\n- ایک بگ طے کیا جہاں زبان کے سیٹ کے لحاظ سے بیک اپ ممکن نہیں تھا۔"
+    "devnote": "7.7.0 (2023 نومبر 24)\n\n- جب ٹی ٹی ایس چلاتے ہو ، اگر سرورق کی تصویر موجود ہو تو ، سرورق کی تصویر ظاہر ہوتی ہے۔\n- ایک مسئلہ طے کیا جہاں کچھ آلات پر ٹی ٹی ایس پلے بیک میں خلل پڑا تھا۔\n- تصویری ناظرین کو شامل کرنے کے لئے ، متن سے متعلقہ ترتیبات کو ناظرین کی ترتیبات میں منتقل کردیا گیا ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Покращена швидкість декомпресії.\n- Виправлена ​​помилка, яка спричинила відставання при встановленні поля.\n- Виправлена ​​помилка, де резервне копіювання не було можливим залежно від мови."
+    "devnote": "7.7.0 (2023 24 листопада)\n\n- Під час відтворення TTS, якщо існує зображення обкладинки, відображається зображення обкладинки.\n- Виправлена ​​проблема, коли відтворення TTS було перервано на деяких пристроях.\n- Щоб додати переглядача зображень, налаштування, пов'язані з текстом, були переміщені до налаштувань глядача."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.6,9 (2023 11 18)\n\n- Velocità di decompressione migliorata.\n- Risolto un bug che ha causato il ritardo durante l'impostazione dei margini.\n- Risolto un bug in cui il backup non era possibile a seconda del set di lingue."
+    "devnote": "7.7.0 (2023 novembre)\n\n- Quando si riproduce TTS, se esiste un'immagine di copertina, viene visualizzata l'immagine di copertina.\n- Risolto un problema in cui la riproduzione di TTS è stata interrotta su alcuni dispositivi.\n- Per aggiungere un visualizzatore di immagine, le impostazioni relative al testo sono state spostate nelle impostazioni del visualizzatore."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Peningkatan kecepatan dekompresi.\n- Memperbaiki bug yang menyebabkan kelambatan saat mengatur margin.\n- Memperbaiki bug di mana cadangan tidak dimungkinkan tergantung pada set bahasa."
+    "devnote": "7.7.0 (2023 24 Nov)\n\n- Saat bermain TTS, jika ada gambar sampul, gambar sampul ditampilkan.\n- Memperbaiki masalah di mana pemutaran TTS terganggu pada beberapa perangkat.\n- Untuk menambahkan penampil gambar, pengaturan terkait teks telah dipindahkan ke pengaturan penampil."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.6.9（2023 11 18）\n\n - 減圧速度の改善。\n - マージンを設定するときに遅延を引き起こすバグを修正しました。\n - 言語セットに応じてバックアップが不可能なバグを修正しました。"
+    "devnote": "7.7.0（2023年11月24日）\n\n-TTSを再生するとき、カバー画像が存在する場合、カバー画像が表示されます。\n - 一部のデバイスでTTSの再生が中断された問題を修正しました。\n - 画像ビューアーを追加するために、テキスト関連の設定がビューアー設定に移動されました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.6.9 (2023 11 18)\n\n- გაუმჯობესდა დეკომპრესიის სიჩქარე.\n- დააფიქსირა შეცდომა, რამაც ზღვრების დაყენებისას დატვირთვა გამოიწვია.\n- დაფიქსირდა შეცდომა, სადაც სარეზერვო საშუალება შეუძლებელი იყო ენის ნაკრების მიხედვით."
+    "devnote": "7.7.0 (2023 ნოემბერი 24)\n\n- TTS– ის თამაშისას, თუ საფარის სურათი არსებობს, ნაჩვენებია საფარის სურათი.\n- დააფიქსირა საკითხი, სადაც TTS– ის დაკვრა შეფერხდა ზოგიერთ მოწყობილობაზე.\n- სურათის სანახავად დაამატეთ, ტექსტთან დაკავშირებული პარამეტრები გადავიდა მაყურებლის პარამეტრებში."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Ijubane lokuqothula elithuthukisiwe.\n- Kulungiswe isiphazamisi esibangele i-lag lapho isetha ama-margins.\n- Silungiswe isiphazamiso lapho kungenzeki khona isipele ngokuya ngesethi yolimi."
+    "devnote": "7.7.0 (2023 Nov 24)\n\n- Uma udlala ama-TTS, uma isithombe sekhava sikhona, isithombe sesembozo siyakhonjiswa.\n- Kulungiswe inkinga lapho kuphazanyiswa khona ukudlalwa kwe-TTS kwamanye amadivayisi.\n- Ukwengeza isibukeli sesithombe, izilungiselelo ezihlobene nombhalo zihanjisiwe kuzilungiselelo zombukeli."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.6.9（2023 11 18）\n\n - 改善减压速度。\n - 修复了在设置边距时导致滞后的错误。\n - 修复了无法根据语言集的错误备份的错误。"
+    "devnote": "7.7.0（2023年11月24日）\n\n - 播放TTS时，如果存在封面图像，则显示封面图像。\n - 修复了在某些设备上打断TTS播放的问题。\n - 为了添加图像查看器，已将与文本相关的设置移至查看器设置。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.6.9（2023 11 18）\n\n - 改善減壓速度。\n - 修復了在設置邊距時導致滯後的錯誤。\n - 修復了無法根據語言集的錯誤備份的錯誤。"
+    "devnote": "7.7.0（2023年11月24日）\n\n - 播放TTS時，如果存在封面圖像，則顯示封面圖像。\n - 修復了在某些設備上打斷TTS播放的問題。\n - 為了添加圖像查看器，已將與文本相關的設置移至查看器設置。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.6.9（2023 11 18）\n\n - 改善減壓速度。\n - 修復了在設置邊距時導致滯後的錯誤。\n - 修復了無法根據語言集的錯誤備份的錯誤。"
+    "devnote": "7.7.0（2023年11月24日）\n\n - 播放TTS時，如果存在封面圖像，則顯示封面圖像。\n - 修復了在某些設備上打斷TTS播放的問題。\n - 為了添加圖像查看器，已將與文本相關的設置移至查看器設置。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Vylepšená rychlost dekomprese.\n- Opravena chyba, která při nastavování okrajů způsobila zpoždění.\n- Opravena chyba, kde zálohování nebylo možné v závislosti na jazykové sadě."
+    "devnote": "7.7.0 (2023 24. listopadu)\n\n- Při přehrávání TTS, pokud existuje krycí obrázek, zobrazí se obrázek krycího obrazu.\n- Opraven problém, kdy bylo přehrávání TTS přerušeno na některých zařízeních.\n- Chcete-li přidat prohlížeč obrázků, byla nastavení související s textem přesunuta do nastavení prohlížeče."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Декомпрессиялық жылдамдық.\n- Шеттерді орнатқан кезде артта қалған қатені түзетіңіз.\n- Тілдер жиынтығына байланысты резервтік көшірме мүмкін болмаған қатені түзетіңіз."
+    "devnote": "7.7.0 (2023 қараша 24)\n\n- TTS ойнатқан кезде, егер мұқаба кескін болса, мұқаба кескіні көрсетіледі.\n- Кейбір құрылғыларда TTS ойнатылған кезде, TTS ойнатылған мәселе шешілді.\n- Кескін қарау құралын қосу үшін, Мәтінге қатысты параметрлер қарау құралына ауыстырылды."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Millora de la velocitat de descompressió.\n- S'ha corregit un error que va causar retard en establir marges.\n- S'ha corregit un error on no fos possible la còpia de seguretat en funció del conjunt d'idiomes."
+    "devnote": "7.7.0 (2023 24 de novembre)\n\n- Quan es reprodueix TTS, si existeix una imatge de portada, es mostra la imatge de portada.\n- S'ha corregit un problema on es va interrompre la reproducció TTS en alguns dispositius.\n- Per afegir un visualitzador d'imatges, s'han traslladat la configuració relacionada amb el text a la configuració del visualitzador."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.6.9 (2023 11 18)\n\n- ಸುಧಾರಿತ ಡಿಕಂಪ್ರೆಷನ್ ವೇಗ.\n- ಅಂಚುಗಳನ್ನು ಹೊಂದಿಸುವಾಗ ವಿಳಂಬಕ್ಕೆ ಕಾರಣವಾಗುವ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ಭಾಷಾ ಗುಂಪನ್ನು ಅವಲಂಬಿಸಿ ಬ್ಯಾಕಪ್ ಸಾಧ್ಯವಾಗದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "7.7.0 (2023 ನವೆಂಬರ್ 24)\n\n- ಟಿಟಿಎಸ್ ಆಡುವಾಗ, ಕವರ್ ಇಮೇಜ್ ಅಸ್ತಿತ್ವದಲ್ಲಿದ್ದರೆ, ಕವರ್ ಇಮೇಜ್ ಅನ್ನು ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ.\n- ಕೆಲವು ಸಾಧನಗಳಲ್ಲಿ ಟಿಟಿಎಸ್ ಪ್ಲೇಬ್ಯಾಕ್ ಅಡ್ಡಿಪಡಿಸಿದ ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ಇಮೇಜ್ ವೀಕ್ಷಕನನ್ನು ಸೇರಿಸಲು, ಪಠ್ಯ-ಸಂಬಂಧಿತ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ವೀಕ್ಷಕ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಸರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.6.9 (2023. 11 18)\n\n- Poboljšana brzina dekompresije.\n- Ispravljena je greška koja je uzrokovala zaostajanje prilikom postavljanja marži.\n- Ispravljena je greška u kojoj sigurnosno kopiranje nije bilo moguće, ovisno o jeziku."
+    "devnote": "7.7.0 (2023. 24. studenog)\n\n- Prilikom reprodukcije TTS -a, ako postoji naslovnica, prikazana je naslovna slika.\n- Riješen je problem u kojem je reprodukcija TTS -a prekinuta na nekim uređajima.\n- Za dodavanje gledatelja slike, postavke povezane s tekstom premještene su u postavke gledatelja."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.6.9 (2023 11 18)\n\n- ល្បឿននៃការធ្វើឱ្យប្រសើរឡើង។\n- ជួសជុលកំហុសដែលបណ្តាលឱ្យមានភាពយឺតយ៉ាវនៅពេលកំណត់រឹម។\n- ជួសជុលកំហុសដែលការបម្រុងទុកមិនអាចទៅរួចអាស្រ័យលើសំណុំភាសា។"
+    "devnote": "7.7.0 (2023 វិច្ឆិកា 24)\n\n- នៅពេលលេង TTS ប្រសិនបើរូបភាពគម្របមានរូបភាពគម្របត្រូវបានបង្ហាញ។\n- ដោះស្រាយបញ្ហាដែលមានកន្លែងចាក់ថ្នាំ TTS ត្រូវបានរំខាននៅលើឧបករណ៍មួយចំនួន។\n- ដើម្បីបន្ថែមកម្មវិធីមើលរូបភាពការកំណត់អត្ថបទត្រូវបានផ្លាស់ប្តូរទៅការកំណត់របស់អ្នកមើល។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.6.9 (2023 11 18)\n\n- өркүндөтүү ылдамдыгы жакшырды.\n- чектерди белгилегенде, чектерди белгилеген мүчүлүштүктү белгилеңиз.\n- Тил топтомуна жараша камдык көчүрмө мүмкүн болбогон мүчүлүштүктү белгиледи."
+    "devnote": "7.7.0 (2023-жылдын 24-ноябры)\n\n- TTS ойноп жатканда, мукабанын сүрөтү бар болсо, мукабанын сүрөтү көрсөтүлөт.\n- TTS ойнотуусу айрым түзмөктөрдө үзгүлтүккө учураган маселени чечти.\n- Сүрөттү көрүүчүнү кошуу үчүн, текстке байланыштуу орнотуулары көрүүчү орнотууларга өтүштү."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.6.9 (2023 11 18)\n\n- மேம்படுத்தப்பட்ட டிகம்பரஷ்ஷன் வேகம்.\n- விளிம்புகளை அமைக்கும் போது பின்னடைவை ஏற்படுத்திய பிழை சரி செய்யப்பட்டது.\n- மொழி தொகுப்பைப் பொறுத்து காப்புப்பிரதி சாத்தியமில்லாத இடத்தில் ஒரு பிழை சரி செய்யப்பட்டது."
+    "devnote": "7.7.0 (2023 நவம்பர் 24)\n\n- TTS ஐ இயக்கும்போது, ​​ஒரு கவர் படம் இருந்தால், கவர் படம் காட்டப்படும்.\n- சில சாதனங்களில் டி.டி.எஸ் பிளேபேக் குறுக்கிடப்பட்ட ஒரு சிக்கல் சரி செய்யப்பட்டது.\n- ஒரு பட பார்வையாளரைச் சேர்க்க, உரை தொடர்பான அமைப்புகள் பார்வையாளர் அமைப்புகளுக்கு நகர்த்தப்பட்டுள்ளன."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.6.9 (2023 11 18)\n\n- ปรับปรุงความเร็วในการบีบอัด\n- แก้ไขข้อผิดพลาดที่ทำให้เกิดความล่าช้าเมื่อตั้งค่าระยะขอบ\n- แก้ไขข้อผิดพลาดที่ไม่สามารถสำรองข้อมูลได้ขึ้นอยู่กับชุดภาษา"
+    "devnote": "7.7.0 (2023 24 พ.ย. )\n\n- เมื่อเล่น TTS หากมีภาพหน้าปกอยู่ภาพปกจะปรากฏขึ้น\n- แก้ไขปัญหาที่การเล่น TTS ถูกขัดจังหวะในอุปกรณ์บางอย่าง\n- ในการเพิ่มผู้ดูรูปภาพการตั้งค่าที่เกี่ยวข้องกับข้อความได้ถูกย้ายไปที่การตั้งค่า Viewer"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Geliştirilmiş dekompresyon hızı.\n- Marjlar ayarlarken gecikmeye neden olan bir hata düzeltildi.\n- Dil setine bağlı olarak yedeklemenin mümkün olmadığı bir hata düzeltildi."
+    "devnote": "7.7.0 (2023 Kasım 24)\n\n- TTS oynarken, bir kapak görüntüsü varsa, kapak görüntüsü görüntülenir.\n- TTS oynatma işleminin bazı cihazlarda kesintiye uğradığı bir sorun düzeltildi.\n- Bir görüntü görüntüleyici eklemek için, metinle ilgili ayarlar görüntüleyici ayarlarına taşındı."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.6.9 (2023 11 18)\n\n- మెరుగైన డికంప్రెషన్ వేగం.\n- మార్జిన్‌లను సెట్ చేసేటప్పుడు లాగ్‌కు కారణమైన బగ్ పరిష్కరించబడింది.\n- భాషా సమితిని బట్టి బ్యాకప్ సాధ్యం కాని బగ్ పరిష్కరించబడింది."
+    "devnote": "7.7.0 (2023 నవంబర్ 24)\n\n- TTS ఆడుతున్నప్పుడు, కవర్ ఇమేజ్ ఉంటే, కవర్ చిత్రం ప్రదర్శించబడుతుంది.\n- కొన్ని పరికరాల్లో TTS ప్లేబ్యాక్ అంతరాయం కలిగించిన సమస్య పరిష్కరించబడింది.\n- ఇమేజ్ వ్యూయర్‌ను జోడించడానికి, టెక్స్ట్-సంబంధిత సెట్టింగ్‌లు వీక్షకుల సెట్టింగ్‌లకు తరలించబడ్డాయి."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.6.9 (2023 11 18)\n\n- ਸਵਾਰਥੀ ਗਤੀ.\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਜਿਸ ਨਾਲ ਮਾਰਜਿਨ ਸਥਾਪਤ ਕਰਦੇ ਸਮੇਂ ਲੰਗੜਾ ਹੁੰਦਾ ਸੀ.\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਜਿੱਥੇ ਬੈਕਅਪ ਭਾਸ਼ਾ ਨਿਰਧਾਰਤ ਕਰਨ ਦੇ ਅਧਾਰ ਤੇ ਸੰਭਵ ਨਹੀਂ ਸੀ."
+    "devnote": "7.7.0 (2023 ਨਵੰਬਰ 24)\n\n- ਜਦੋਂ ਟੀਟੀਐਸ ਖੇਡਣ ਵੇਲੇ, ਜੇ ਇੱਕ ਕਵਰ ਚਿੱਤਰ ਮੌਜੂਦ ਹੈ, ਤਾਂ ਕਵਰ ਚਿੱਤਰ ਪ੍ਰਦਰਸ਼ਿਤ ਹੁੰਦਾ ਹੈ.\n- ਇਕ ਮੁੱਦਾ ਹੱਲ ਕੀਤਾ ਜਿੱਥੇ ਟੀ ਟੀ ਟੀ ਪਲੇਬੈਕ ਕੁਝ ਡਿਵਾਈਸਿਸ 'ਤੇ ਵਿਘਨ ਪਾਉਂਦੇ ਸਨ.\n- ਇੱਕ ਚਿੱਤਰ ਦਰਸ਼ਕ ਜੋੜਨ ਲਈ, ਟੈਕਸਟ ਨਾਲ ਸਬੰਧਤ ਸੈਟਿੰਗਾਂ ਦਰਸ਼ਕ ਸੈਟਿੰਗਜ਼ ਵਿੱਚ ਭੇਜੀਆਂ ਗਈਆਂ ਹਨ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.6.9 (2023 11 18)\n\n- سرعت رفع فشار بهبود یافته.\n- رفع اشکالی که هنگام تنظیم حاشیه باعث تاخیر می شود.\n- رفع اشکال در جایی که پشتیبان بسته به مجموعه زبان امکان پذیر نبود."
+    "devnote": "7.7.0 (2023 نوامبر 24)\n\n- هنگام پخش TTS ، اگر یک تصویر جلد وجود داشته باشد ، تصویر جلد نمایش داده می شود.\n- مسئله ای را برطرف کرد که پخش TTS در برخی از دستگاه ها قطع شد.\n- برای افزودن یک بیننده تصویر ، تنظیمات مربوط به متن به تنظیمات بیننده منتقل شده است."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Velocidade aprimorada de descompressão.\n- Corrigido um bug que causou atraso ao definir as margens.\n- Corrigido um bug em que o backup não era possível, dependendo do conjunto de idiomas."
+    "devnote": "7.7.0 (2023 24 de novembro)\n\n- Ao reproduzir TTS, se existir uma imagem de capa, a imagem da capa será exibida.\n- Corrigido um problema em que a reprodução do TTS foi interrompida em alguns dispositivos.\n- Para adicionar um visualizador de imagem, as configurações relacionadas ao texto foram movidas para as configurações do visualizador."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.6,9 (2023 11 18)\n\n- Ulepszona prędkość dekompresyjna.\n- Naprawiono błąd, który spowodował opóźnienie podczas ustawiania marginesów.\n- Naprawiono błąd, w którym kopia zapasowa nie była możliwa w zależności od zestawu języka."
+    "devnote": "7.7,0 (2023 24 listopada)\n\n- Podczas odtwarzania TTS, jeśli istnieje obraz okładki, wyświetlany jest obraz okładki.\n- Naprawiono problem, w którym odtwarzanie TTS zostało przerwane na niektórych urządzeniach.\n- Aby dodać przeglądarkę obrazu, ustawienia związane z tekstem zostały przeniesione do ustawień przeglądarki."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Amélioration de la vitesse de décompression.\n- Correction d'un bug qui a provoqué le décalage lors de la définition des marges.\n- Correction d'un bogue où la sauvegarde n'était pas possible en fonction de l'ensemble de langue."
+    "devnote": "7.7.0 (2023 24 novembre)\n\n- Lors de la lecture de TTS, si une image de couverture existe, l'image de couverture s'affiche.\n- Correction d'un problème où la lecture TTS a été interrompue sur certains appareils.\n- Pour ajouter une visionneuse d'image, les paramètres liés au texte ont été déplacés vers les paramètres de la visionneuse."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Parannettu dekompressionopeus.\n- Korjattu virhe, joka aiheutti viivettä marginaalien asettamisessa.\n- Korjattu virhe, jossa varmuuskopio ei ollut mahdollista kielen asettamisesta riippuen."
+    "devnote": "7.7.0 (2023 24. marraskuuta)\n\n- Kun toistetaan TTS: ää, jos kansikuva on olemassa, kansikuva näkyy.\n- Korjattu ongelma, jossa TTS -toisto keskeytettiin joillakin laitteilla.\n- Kuvan katseluohjelman lisäämiseksi tekstiin liittyvät asetukset on siirretty katsoja-asetuksiin."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Pinahusay na bilis ng decompression.\n- Nakapirming isang bug na nagdulot ng lag kapag nagtatakda ng mga margin.\n- Nakapirming isang bug kung saan ang backup ay hindi posible depende sa set ng wika."
+    "devnote": "7.7.0 (2023 Nov 24)\n\n- Kapag naglalaro ng TTS, kung umiiral ang isang imahe ng takip, ipinapakita ang imahe ng takip.\n- Nakapirming isang isyu kung saan ang pag -playback ng TTS ay nagambala sa ilang mga aparato.\n- Upang magdagdag ng isang viewer ng imahe, ang mga setting na may kaugnayan sa teksto ay inilipat sa mga setting ng manonood."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.6.9 (2023 11 18)\n\n- Javított dekompressziós sebesség.\n- Javítva egy olyan hibát, amely késést okozott a margók beállításakor.\n- Javítva egy hibát, ahol a biztonsági mentés nem volt lehetséges a nyelvkészlettől függően."
+    "devnote": "7.7.0 (2023 november 24.)\n\n- A TTS lejátszásakor, ha létezik egy borítókép, akkor a borítókép jelenik meg.\n- Javítva egy olyan problémát, amelyben a TTS lejátszása megszakadt néhány eszközön.\n- A képmegfigyelő hozzáadásához a szöveggel kapcsolatos beállításokat áthelyezték a Viewer beállításaiba."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.6.9 (2023 11 18)\n\n- מהירות דיכאון משופרת.\n- תוקן באג שגרם לפיגור בעת הגדרת השוליים.\n- תוקן באג שבו גיבוי לא היה אפשרי בהתאם למערך השפה."
+    "devnote": "7.7.0 (2023 24 בנובמבר)\n\n- בעת משחק TTS, אם קיימת תמונת כיסוי, תמונת השער מוצגת.\n- תיקן בעיה בה נקטע הפעלת TTS בכמה מכשירים.\n- כדי להוסיף מציג תמונה, הגדרות הקשורות לטקסט הועברו להגדרות הצופה."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.6.9 (2023 11 18)\n\n- बेहतर अपघटन की गति।\n- एक बग फिक्स्ड जो मार्जिन सेट करते समय अंतराल का कारण बनता है।\n- एक बग फिक्स्ड जहां भाषा सेट के आधार पर बैकअप संभव नहीं था।"
+    "devnote": "7.7.0 (2023 नवंबर 24)\n\n- टीटीएस खेलते समय, यदि कोई कवर छवि मौजूद है, तो कवर छवि प्रदर्शित की जाती है।\n- एक मुद्दा फिक्स्ड जहां टीटीएस प्लेबैक को कुछ उपकरणों पर बाधित किया गया था।\n- एक छवि दर्शक जोड़ने के लिए, पाठ से संबंधित सेटिंग्स को दर्शक सेटिंग्स में ले जाया गया है।"
   }
 }
