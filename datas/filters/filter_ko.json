@@ -56,13 +56,6 @@
         "expr": false
     },
     {
-        "filter": "\\?{1,}*",
-        "enable": true,
-        "name": "여러 물음표 필터",
-        "expr": true,
-        "to": "?"
-    },
-    {
         "filter": "&{1,1}",
         "enable": true,
         "name": "엔퍼센트",
@@ -70,19 +63,11 @@
         "to": " 엔 "
     },
     {
-        "filter": "(lv\\.)|(LV\\.)|(LV {0,}:)|(lv {0,}:)",
-        "enable": true,
-        "name": "레벨",
-        "expr": true,
-        "to": "레벨"
-    },
-    {
         "filter": "(lv\\.)|(LV\\.)|(LV {0,}:)|(lv {0,}:)|(Lv\\.)|(Lv {0,}:)",
         "enable": true,
         "name": "레벨",
         "expr": true,
-        "to": "레벨",
-        "locale": "ko-KR"
+        "to": "레벨"
     },
     {
         "filter": "상태.",

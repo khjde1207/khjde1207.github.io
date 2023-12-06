@@ -7,13 +7,6 @@
         "enable": true
     },
     {
-        "name": "Filter multiple exclamation marks",
-        "expr": true,
-        "filter": "\\!{1,}",
-        "to": "!",
-        "enable": true
-    },
-    {
         "name": "filter ----",
         "expr": true,
         "filter": "-{2,}",
