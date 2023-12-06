@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.7.0 (2023 Nov 24)\n\n- When playing TTS, if a cover image exists, the cover image is displayed.\n- Fixed an issue where TTS playback was interrupted on some devices.\n- To add an image viewer, text-related settings have been moved to viewer settings."
+    "devnote": "7.7.1 (2023 12 06)\n- Image viewer has been added.\n   * Image viewer only supports up to 800MB.\n   * Due to the addition of image viewers, options for each viewer have been separated.\n- I have decided to display only a maximum of 5 horizontal rows in my library.\n- The term [Page] has been changed to [Point].\n- The cover image backup recovery logic has been modified.\n- The ad loading animation has been modified.\n- Several bugs have been fixed."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.7.0 (2023 11 24)\n\n- TTS 재생시 커버 이미지가 존재 할 경우 커버 이미지 를 띄우도록 하였습니다. \n- 일부 디바이스에서 TTS 재생시 중단 되는 현상을 수정 하였습니다. \n- 이미지 뷰어 추가를 위해 텍스트에 관련된 설정을 뷰어 설정으로 이동 시켰습니다."
+    "devnote": "7.7.1 (2023 12 06)\n\n- 이미지 뷰어를 추가 하였습니다.\n  * 이미지 뷰어는 최대 800MB 까지만 지원 합니다.\n  * 이미지 뷰어 추가로 인해 뷰어별 옵션을 분리 하였습니다.\n- 내서재 가로행을 최대 5개까지만 표현하도록 하였습니다.\n- [페이지]라는 용어를 [포인트]라는 용어로 변경 하였습니다.\n- 커버 이미지 백업 복구 로직을 수정 하였습니다.\n- 광고 로딩 애니메이션을 수정 하였습니다.\n- 여러 버그를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.7.0 (2023 24 de novembro)\n\n- Ao reproducir TTS, se existe unha imaxe de portada, móstrase a imaxe de portada.\n- Fixouse un problema onde a reprodución de TTS foi interrompida nalgúns dispositivos.\n- Para engadir un visor de imaxe, as configuracións relacionadas co texto trasladáronse á configuración do espectador."
+    "devnote": "7.7.1 (2023 12 06)\n- Engadiuse o visor de imaxes.\n   * O visor de imaxe só admite ata 800MB.\n   * Debido á adición de espectadores de imaxes, separáronse as opcións para cada espectador.\n- Decidín mostrar só un máximo de 5 filas horizontais na miña biblioteca.\n- O termo [páxina] cambiouse a [punto].\n- Modificouse a lóxica de recuperación de copia de seguridade da imaxe.\n- Modificouse a animación de carga de anuncios.\n- Fixéronse varios erros."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.7.0 (2023 નવે 24)\n\n- ટીટીએસ રમતી વખતે, જો કોઈ કવર ઇમેજ અસ્તિત્વમાં છે, તો કવર ઇમેજ પ્રદર્શિત થાય છે.\n- એક મુદ્દો ઉકેલાઈ ગયો જ્યાં ટીટીએસ પ્લેબેક કેટલાક ઉપકરણો પર વિક્ષેપિત થયો.\n- એક છબી દર્શક ઉમેરવા માટે, ટેક્સ્ટ-સંબંધિત સેટિંગ્સને દર્શક સેટિંગ્સમાં ખસેડવામાં આવી છે."
+    "devnote": "7.7.1 (2023 12 06)\n- છબી દર્શક ઉમેરવામાં આવ્યા છે.\n   * છબી દર્શક ફક્ત 800 એમબી સુધી સપોર્ટ કરે છે.\n   * છબી દર્શકોના ઉમેરાને કારણે, દરેક દર્શક માટેના વિકલ્પોને અલગ કરવામાં આવ્યા છે.\n- મેં મારી લાઇબ્રેરીમાં માત્ર 5 આડી પંક્તિઓ પ્રદર્શિત કરવાનું નક્કી કર્યું છે.\n- [પૃષ્ઠ] શબ્દ [બિંદુ] માં બદલવામાં આવ્યો છે.\n- કવર ઇમેજ બેકઅપ પુન recovery પ્રાપ્તિ તર્કમાં ફેરફાર કરવામાં આવ્યા છે.\n- જાહેરાત લોડિંગ એનિમેશનમાં ફેરફાર કરવામાં આવ્યા છે.\n- અનેક ભૂલો નિશ્ચિત કરવામાં આવી છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.7.0 (2023 Νοεμβρίου 24)\n\n- Όταν παίζετε TTS, εάν υπάρχει εικόνα κάλυψης, εμφανίζεται η εικόνα του εξώφυλλου.\n- Διορθώθηκε ένα ζήτημα όπου η αναπαραγωγή TTS διακόπτεται σε ορισμένες συσκευές.\n- Για να προσθέσετε ένα πρόγραμμα προβολής εικόνων, οι ρυθμίσεις που σχετίζονται με το κείμενο έχουν μεταφερθεί στις ρυθμίσεις θεατών."
+    "devnote": "7.7.1 (2023 12 06)\n- Έχει προστεθεί ο θεατής εικόνας.\n   * Το πρόγραμμα προβολής εικόνων υποστηρίζει μόνο 800MB.\n   * Λόγω της προσθήκης θεατών εικόνων, οι επιλογές για κάθε θεατή έχουν διαχωριστεί.\n- Αποφάσισα να εμφανίσω μόνο 5 οριζόντιες σειρές στη βιβλιοθήκη μου.\n- Ο όρος [σελίδα] έχει αλλάξει σε [σημείο].\n- Η λογική ανάκτησης αντιγράφων ασφαλείας του καλύμματος έχει τροποποιηθεί.\n- Η κινούμενη εικόνα φόρτωσης διαφημίσεων έχει τροποποιηθεί.\n- Έχουν διορθωθεί διάφορα σφάλματα."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.7.0 (2023 24 november)\n\n- Bij het spelen van TT's, als er een omslagafbeelding bestaat, wordt de omslagafbeelding weergegeven.\n- Een probleem opgelost waarbij het afspelen van TTS op sommige apparaten werd onderbroken.\n- Om een ​​beeldviewer toe te voegen, zijn tekstgerelateerde instellingen verplaatst naar de instellingen van de kijker."
+    "devnote": "7.7.1 (2023 12 06)\n- Image Viewer is toegevoegd.\n   * Afbeeldingskijker ondersteunt slechts maximaal 800 MB.\n   * Vanwege de toevoeging van afbeeldingskijkers zijn opties voor elke kijker gescheiden.\n- Ik heb besloten om slechts 5 horizontale rijen in mijn bibliotheek slechts 5 horizontale rijen te tonen.\n- De term [pagina] is gewijzigd in [punt].\n- De omslagafbeelding back -upherstellogica is gewijzigd.\n- De advertentie -laadanimatie is gewijzigd.\n- Verschillende bugs zijn opgelost."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "7.7.0 (2023 नोभेम्बर 2 24)\n\n- tts खेल्दा, यदि कभर छवि अवस्थित छ भने, कभर छवि प्रदर्शित हुन्छ।\n- TTS प्लेब्याक केहि उपकरणहरूमा tts प्लेब्याकमा सेट गरियो।\n- एक छवि दर्शक थप्न, पाठ सम्बन्धित सेटिंग्सहरु अवलोकनकर्ता सेटिंग्स मा सारियो।"
+    "devnote": ".7.7.1 (2023 126)\n- छवि दर्शक थप गरिएको छ।\n   * छवि दर्शकले मात्र 800MB सम्म समर्थन गर्दछ।\n   * छवि दर्शकहरूको थपको कारण प्रत्येक दर्शकको लागि विकल्पहरू अलग गरिएको छ।\n- मैले पुस्तकालयमा अधिकतम from0 तेर्सो प row ्क्तिहरू मात्र प्रदर्शन गर्ने निर्णय गरेको छु।\n- यो [पृष्ठ] शब्द [पृष्ठ] मा परिवर्तन गरिएको छ।\n- कभर छवि ब्याकअप रिकभरी तर्क गर्न परिमार्जन गरिएको छ।\n- विज्ञापन लोड एनिमेसन परिमार्जन गरिएको छ।\n- धेरै बगहरू स्थिर गरिएको छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.7.0 (2023 24. nov)\n\n- Når du spiller TTS, hvis et omslagsbilde eksisterer, vises dekselbildet.\n- Rettet et problem der TTS -avspilling ble avbrutt på noen enheter.\n- For å legge til en bildeviser, er tekstrelaterte innstillinger blitt flyttet til seerinnstillinger."
+    "devnote": "7.7.1 (2023 12 06)\n- Image Viewer er lagt til.\n   * Bildevisning støtter bare opptil 800 MB.\n   * På grunn av tillegg av bildeseere, har alternativene for hver seer blitt skilt.\n- Jeg har bestemt meg for å bare vise maksimalt 5 horisontale rader i biblioteket mitt.\n- Begrepet [Side] er endret til [punkt].\n- Cover Image Backup Recovery Logic er endret.\n- Annonsebelastningsanimasjonen er endret.\n- Flere feil er løst."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.7.0 (2023 24. november)\n\n- Når man spiller TTS, hvis der findes et forsidebillede, vises forsiden.\n- Rettet et problem, hvor TTS -afspilning blev afbrudt på nogle enheder.\n- For at tilføje en billedviser er tekstrelaterede indstillinger flyttet til seerindstillinger."
+    "devnote": "7.7.1 (2023 12 06)\n- Billedviseren er tilføjet.\n   * Image Viewer understøtter kun op til 800 MB.\n   * På grund af tilføjelsen af ​​billed seere er mulighederne for hver seer blevet adskilt.\n- Jeg har besluttet kun at vise 5 horisontale rækker i mit bibliotek.\n- Udtrykket [side] er blevet ændret til [punkt].\n- Logikken om cover -billed backup -gendannelseslogik er blevet ændret.\n- AD Loading Animation er blevet ændret.\n- Flere bugs er rettet."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.7.0 (2023 24. November)\n\n- Beim Spielen von TTS wird das Titelbild angezeigt, wenn ein Titelbild vorliegt.\n- Es wurde ein Problem behoben, bei dem die TTS -Wiedergabe auf einigen Geräten unterbrochen wurde.\n- Um einen Image Viewer hinzuzufügen, wurden textbezogene Einstellungen in die Einstellungen für die Zuschauer verschoben."
+    "devnote": "7.7.1 (2023 12 06)\n- Image Viewer wurde hinzugefügt.\n   * Image Viewer unterstützt nur bis zu 800 MB.\n   * Aufgrund der Hinzufügung von Bildbetrieben wurden Optionen für jeden Betrachter getrennt.\n- Ich habe beschlossen, in meiner Bibliothek nur maximal 5 horizontale Zeilen anzuzeigen.\n- Der Begriff [Seite] wurde in [Punkt] geändert.\n- Die Wiederherstellungslogik der Deckbild -Sicherung wurde geändert.\n- Die Anzeigenladeanimation wurde geändert.\n- Es wurden mehrere Fehler behoben."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.7.0 (2023 Nov 24)\n\n- ເມື່ອຫຼີ້ນ TTS, ຖ້າມີຮູບພາບປົກ, ຮູບພາບປົກຖືກສະແດງ.\n- ແກ້ໄຂບັນຫາບ່ອນທີ່ TTS Playback ໄດ້ຖືກລົບກວນໃນບາງອຸປະກອນ.\n- ເພື່ອເພີ່ມຜູ້ເບິ່ງຮູບພາບ, ການຕັ້ງຄ່າທີ່ກ່ຽວຂ້ອງກັບຕົວຫນັງສືໄດ້ຖືກຍ້າຍໄປຢູ່ໃນການຕັ້ງຄ່າ Viewer."
+    "devnote": "7.7.1 (2023 12 06)\n- ຜູ້ເບິ່ງພາບຖ່າຍໄດ້ຖືກເພີ່ມເຂົ້າມາແລ້ວ.\n   * ຮູບພາບຜູ້ເບິ່ງພຽງແຕ່ຮອງຮັບເທົ່າກັບ 800MB ເທົ່ານັ້ນ.\n   * ເນື່ອງຈາກການເພີ່ມຂອງຜູ້ຊົມຮູບພາບ, ທາງເລືອກສໍາລັບຜູ້ເບິ່ງແຕ່ລະຄົນໄດ້ຖືກແຍກອອກຈາກກັນ.\n- ຂ້ອຍໄດ້ຕັດສິນໃຈສະແດງພຽງແຕ່ 5 ແຖວທີ່ສູງສຸດ 5 ແນວນອນໃນຫໍສະມຸດຂອງຂ້ອຍ.\n- ໄລຍະ [ຫນ້າ] ໄດ້ຖືກປ່ຽນເປັນ [POIN].\n- ການປົກຫຸ້ມຂອງຮູບພາບສໍາຮອງຂໍ້ມູນການກູ້ຄືນໄດ້ຖືກດັດແກ້ແລ້ວ.\n- ພາບເຄື່ອນໄຫວການໂຫຼດໂຄສະນາໄດ້ຖືກດັດແກ້ແລ້ວ.\n- ຂໍ້ບົກຜ່ອງຫລາຍຢ່າງໄດ້ຖືກແກ້ໄຂແລ້ວ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.7.0 (2023. gada 24. novembris)\n\n- Spēlējot TTS, ja pastāv vāka attēls, tiek parādīts vāka attēls.\n- Novērsta problēma, kurā dažās ierīcēs tika pārtraukta TTS atskaņošana.\n- Lai pievienotu attēlu skatītāju, ar tekstu saistītie iestatījumi ir pārvietoti uz skatītāja iestatījumiem."
+    "devnote": "7.7.1 (2023 12 06)\n- Attēlu skatītājs ir pievienots.\n   * Attēla skatītājs atbalsta tikai līdz 800 MB.\n   * Attēlu skatītāju pievienošanas dēļ katra skatītāja opcijas ir atdalītas.\n- Es esmu nolēmis manā bibliotēkā parādīt tikai ne vairāk kā 5 horizontālas rindas.\n- Termins [lapa] ir mainīts uz [punktu].\n- Vāka attēla rezerves atkopšanas loģika ir modificēta.\n- AD ielādēšanas animācija ir modificēta.\n- Ir labotas vairākas kļūdas."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.7.0 (2023 г. 24 ноября)\n\n- При воспроизведении TTS, если изображение обложки существует, отображается изображение обложки.\n- Исправлена ​​проблема, где воспроизведение TTS было прервано на некоторых устройствах.\n- Чтобы добавить зритель изображения, настройки, связанные с текстами, были перемещены в настройки просмотра."
+    "devnote": "7.7.1 (2023 12 06)\n- Просмотр зрителя изображения был добавлен.\n   * Viewer Viewer поддерживает только до 800 МБ.\n   * Из -за добавления зрителей изображения параметры для каждого зрителя были разделены.\n- Я решил отобразить только 5 горизонтальных рядов в моей библиотеке.\n- Термин [страница] был изменен на [точку].\n- Логика восстановления восстановления изображения обложки была изменена.\n- Анимация загрузки рекламы была изменена.\n- Несколько ошибок были исправлены."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.7.0 (2023 24 noiembrie)\n\n- Când jucați TTS, dacă există o imagine de copertă, este afișată imaginea de copertă.\n- S -a rezolvat o problemă în care redarea TTS a fost întreruptă pe unele dispozitive.\n- Pentru a adăuga un vizualizator de imagini, setările legate de text au fost mutate la setările vizualizatorului."
+    "devnote": "7.7.1 (2023 12 06)\n- Vizualizatorul de imagini a fost adăugat.\n   * Vizualizatorul de imagini acceptă doar până la 800 MB.\n   * Datorită adăugării de vizualizatori de imagini, opțiunile pentru fiecare vizualizator au fost separate.\n- Am decis să afișez doar 5 rânduri orizontale în biblioteca mea.\n- Termenul [pagina] a fost schimbat în [punct].\n- Logica de recuperare de rezervă a imaginii de acoperire a fost modificată.\n- Animația de încărcare a anunțurilor a fost modificată.\n- Au fost remediate mai multe erori."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.7.0 (2023 m. Lapkričio 24 d.)\n\n- Žaisdamas TTS, jei yra viršelio vaizdas, rodomas viršelio vaizdas.\n- Ištaisyta problema, kai TTS atkūrimas buvo nutrauktas kai kuriuose įrenginiuose.\n- Norėdami pridėti vaizdo peržiūrėtoją, su tekstu susiję parametrai buvo perkelti į „Viewer“ nustatymus."
+    "devnote": "7.7.1 (2023 12 06)\n- Pridėta vaizdų peržiūros priemonė.\n   * Vaizdo žiūrovas palaiko tik iki 800 MB.\n   * Dėl vaizdo žiūrovų pridėjimo kiekvieno žiūrovo parinktys buvo atskirtos.\n- Aš nusprendžiau savo bibliotekoje rodyti tik ne daugiau kaip 5 horizontalias eilutes.\n- Terminas [puslapis] buvo pakeistas į [tašką].\n- Viršelio vaizdo atsarginės kopijos atkūrimo logika buvo modifikuota.\n- Skelbimų įkėlimo animacija buvo modifikuota.\n- Buvo ištaisytos kelios klaidos."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.7.0 (2023 नोव्हेंबर 24)\n\n- टीटीएस खेळताना, कव्हर प्रतिमा अस्तित्त्वात असल्यास, कव्हर प्रतिमा प्रदर्शित होईल.\n- काही डिव्हाइसवर टीटीएस प्लेबॅक व्यत्यय आणलेला एक मुद्दा निश्चित केला.\n- प्रतिमा दर्शक जोडण्यासाठी, मजकूर-संबंधित सेटिंग्ज दर्शक सेटिंग्जमध्ये हलविल्या गेल्या आहेत."
+    "devnote": "7.7.1 (2023 12 06)\n- प्रतिमा दर्शक जोडले गेले आहे.\n   * प्रतिमा दर्शक केवळ 800 एमबी पर्यंत समर्थन करते.\n   * प्रतिमा दर्शकांच्या व्यतिरिक्त, प्रत्येक दर्शकांसाठी पर्याय वेगळे केले गेले आहेत.\n- मी माझ्या लायब्ररीत फक्त जास्तीत जास्त 5 क्षैतिज पंक्ती प्रदर्शित करण्याचा निर्णय घेतला आहे.\n- [पृष्ठ] हा शब्द [बिंदू] मध्ये बदलला आहे.\n- कव्हर प्रतिमा बॅकअप पुनर्प्राप्ती लॉजिक सुधारित केले गेले आहे.\n- जाहिरात लोडिंग अ‍ॅनिमेशन सुधारित केले गेले आहे.\n- अनेक बग निश्चित केले गेले आहेत."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.7.0 (2023 ноември 24)\n\n- Кога играте TTS, ако постои слика за насловната слика, се прикажува сликата на насловната страница.\n- Поправи проблем кога репродукцијата на ТТС беше прекината на некои уреди.\n- За да додадете прегледувач на слика, поставките поврзани со текстот се преместени во поставките на гледачот."
+    "devnote": "7.7.1 (2023 12 06)\n- Додаден е прегледувач на слики.\n   * Прегледувачот на слика поддржува само до 800MB.\n   * Поради додавање на гледачи на слики, опциите за секој гледач се одделени.\n- Решив да прикажам само максимум 5 хоризонтални редови во мојата библиотека.\n- Терминот [страница] е сменет во [точка].\n- Логиката за обновување на резервната копија на сликата е изменета.\n- Анимацијата за вчитување на реклами е изменета.\n- Неколку грешки се фиксирани."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.7.0 (2023 നവംബർ 24)\n\n- ടിടിഎസ് കളിക്കുമ്പോൾ, ഒരു കവർ ഇമേജ് നിലവിലിട്ടുണ്ടെങ്കിൽ, കവർ ഇമേജ് പ്രദർശിപ്പിക്കും.\n- ചില ഉപകരണങ്ങളിൽ ടിടിഎസ് പ്ലേബാക്ക് തടസ്സപ്പെട്ട ഒരു പ്രശ്നം പരിഹരിച്ചു.\n- ഒരു ഇമേജ് വ്യൂവർ ചേർക്കുന്നതിന്, ടെക്സ്റ്റ് അനുബന്ധ ക്രമീകരണങ്ങൾ കാഴ്ച ക്രമീകരണങ്ങളിലേക്ക് നീക്കി."
+    "devnote": "7.7.1 (2023 12 06)\n- ഇമേജ് വ്യൂവർ ചേർത്തു.\n   * ഇമേജ് വ്യൂവർ 800 എംബി വരെ പിന്തുണയ്ക്കുന്നു.\n   * ഇമേജ് കാഴ്ചകൾ ചേർക്കുന്നത് കാരണം, ഓരോ കാഴ്ചക്കാരനും ഓപ്ഷനുകൾ വേർതിരിക്കപ്പെട്ടു.\n- എന്റെ ലൈബ്രറിയിൽ പരമാവധി 5 തിരശ്ചീന വരികളെ മാത്രമേ പ്രദർശിപ്പിക്കാൻ തീരുമാനിച്ചത്.\n- [പേജ്] എന്ന പദം [പോയിന്റിൽ] ആയി മാറ്റി.\n- കവർ ഇമേജ് ബാക്കപ്പ് വീണ്ടെടുക്കൽ ലോജിഡ് പരിഷ്ക്കരിച്ചു.\n- പരസ്യ ലോഡിംഗ് ആനിമേഷൻ പരിഷ്ക്കരിച്ചു.\n- നിരവധി ബഗുകൾ പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.7.0 (2023 24 Nov)\n\n- Apabila bermain TTS, jika imej penutup wujud, imej penutup dipaparkan.\n- Memperbaiki masalah di mana main balik TTS terganggu pada beberapa peranti.\n- Untuk menambah penonton imej, tetapan berkaitan teks telah dipindahkan ke tetapan penonton."
+    "devnote": "7.7.1 (2023 12 06)\n- Penonton imej telah ditambah.\n   * Penonton imej hanya menyokong sehingga 800MB.\n   * Oleh kerana penambahan penonton imej, pilihan untuk setiap penonton telah dipisahkan.\n- Saya telah memutuskan untuk memaparkan hanya maksimum 5 baris mendatar di perpustakaan saya.\n- Istilah [halaman] telah diubah menjadi [titik].\n- Logik pemulihan sandaran imej penutup telah diubah suai.\n- Animasi pemuatan iklan telah diubahsuai.\n- Beberapa pepijat telah ditetapkan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.7.0 (2023 оны 11-р сарын 24)\n\n- TTS-ийг тоглох үед Cover зураг байгаа бол хавтасны зургийг харуулав.\n- TTS Playback нь зарим төхөөрөмж дээр тасалдсан газрыг тогтоосон.\n- Зургийн үзэгчдийг нэмэх, тексттэй холбоотой тохиргоог үзэх тохиргоог үзэхэд шилжсэн."
+    "devnote": "7.7.1 (2023 12 06)\n- Зургийн үзэгчид нэмэгдсэн.\n   * Зургийн үзэгч нь зөвхөн 800MB хүртэл дэмждэг.\n   * Зургийн үзэгчид нэмж, үзэгчид тус бүрийг салгаж авсан.\n- Би номын сан дахь хамгийн ихдээ 5 хэвтээ мөрийг зөвхөн хамгийн ихдээ 5 хэвтээ мөрийг харуулахаар шийдсэн.\n- [Хуудас] гэсэн нэр томъёо [POINES] -д өөрчлөгдсөн байна.\n- Хавтасны зургийг нөөцлөх бүртгэл сэргээх логик өөрчлөгдсөн байна.\n- Ачаалах анимацийг өөрчилсөн байна.\n- хэд хэдэн алдаануудыг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.7.0 (2023 azaroaren 24a)\n\n- TTS erreproduzitzerakoan, estalkiaren irudia badago, azalaren irudia bistaratzen da.\n- TTS erreprodukzioa gailu batzuetan eten zen arazo bat konpondu da.\n- Irudi ikuslea gehitzeko, testuekin lotutako ezarpenak ikusleen ezarpenetara eraman dira."
+    "devnote": "7.7.1 (2023 12 06)\n- Irudi ikuslea gehitu da.\n   * Irudiaren ikusleak 800 MB baino ez ditu onartzen.\n   * Irudien ikusleak gehitzea dela eta, ikusle bakoitzeko aukerak bereizi dira.\n- Liburutegian gehienez 5 errenkada horizontal bakarrik bistaratzea erabaki dut.\n- [Orrialdea] terminoa [Point] aldera aldatu da.\n- Azaleko irudiaren segurtasun kopia berreskuratzeko logika aldatu da.\n- Iragarkien kargatzeko animazioa aldatu da.\n- Hainbat akats konpondu dira."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.7.0 (2023 နိုဝင်ဘာ 24 ရက်)\n\n- TTS ကစားသောအခါအဖုံးပုံရိပ်တစ်ခုတည်ရှိပါက Cover Image ကိုပြသသည်။\n- အချို့သောကိရိယာများပေါ်တွင် TTS ပြန်ဖွင့်ခြင်းကိုပြတ်တောက်သွားသောပြ an နာကိုဖြေရှင်းခဲ့သည်။\n- ရုပ်ပုံကြည့်ရှုသူကိုထည့်ရန်စာသားနှင့်သက်ဆိုင်သောဆက်တင်များကိုကြည့်ရှုသူ settings သို့ပြောင်းရွှေ့ခဲ့သည်။"
+    "devnote": "7.7.1 (2023 12 06)\n- Image Viewer ကိုထည့်သွင်းထားသည်။\n   * Image Viewer သည် 800MB အထိသာထောက်ပံ့သည်။\n   * ပုံရိပ်ကြည့်ရှုသူများ၏ဖြည့်စွက်မှုများကြောင့်ကြည့်ရှုသူတစ် ဦး စီအတွက်ရွေးချယ်စရာများကိုကွဲကွာသွားပြီ။\n- ကျွန်ုပ်သည်စာကြည့်တိုက်တွင်အလျားလိုက်အတန်း 5 တန်းသာဖော်ပြရန်ကျွန်ုပ်ဆုံးဖြတ်ခဲ့သည်။\n- ဟူသောဝေါဟာရကို [စာမျက်နှာ] ကို [POINT] ကိုပြောင်းထားသည်။\n- Cover Image Backup Recovery Logic ကိုပြုပြင်ထားသည်။\n- ကြော်ငြာတင်ခြင်းကာတွန်းကိုပြုပြင်ထားသည်။\n- အများအပြား bugs ကို fixed ပါပြီ။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.7.0 (2023 ngày 24 tháng 11)\n\n- Khi chơi TTS, nếu hình ảnh bìa tồn tại, hình ảnh bìa được hiển thị.\n- Đã khắc phục sự cố trong đó phát lại TTS bị gián đoạn trên một số thiết bị.\n- Để thêm trình xem hình ảnh, các cài đặt liên quan đến văn bản đã được chuyển sang cài đặt trình xem."
+    "devnote": "7.7.1 (2023 12 06)\n- Trình xem hình ảnh đã được thêm vào.\n   * Trình xem hình ảnh chỉ hỗ trợ tối đa 800MB.\n   * Do việc bổ sung người xem hình ảnh, các tùy chọn cho mỗi người xem đã được phân tách.\n- Tôi đã quyết định chỉ hiển thị tối đa 5 hàng ngang trong thư viện của mình.\n- Thuật ngữ [trang] đã được thay đổi thành [điểm].\n- Logic phục hồi sao lưu hình ảnh bìa đã được sửa đổi.\n- Hoạt hình tải quảng cáo đã được sửa đổi.\n- Một số lỗi đã được sửa."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.7.0 (2023, 24 лістапада)\n\n- Пры прайграванні TTS, калі існуе малюнак вокладкі, адлюстроўваецца выява вокладкі.\n- Выпраўлена праблема, калі на некаторых прыладах была перапынена прайграванне TTS.\n- Каб дадаць праглядальніка малюнка, налады, звязаныя з тэкстам, былі перанесены ў налады прагляду."
+    "devnote": "7.7.1 (2023 12 06)\n- Дададзены прагляд малюнкаў.\n   * Прагляд выявы падтрымлівае толькі да 800 Мб.\n   * З -за дадання гледачоў выявы, варыянты для кожнага гледача былі падзелены.\n- Я вырашыў паказаць толькі максімум 5 гарызантальных радкоў у маёй бібліятэцы.\n- Тэрмін [старонка] быў зменены на [пункт].\n- Логіка аднаўлення рэзервовага капіявання вокладкі была зменена.\n- Анімацыя загрузкі рэкламы была зменена.\n- Было выпраўлена некалькі памылак."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.7.0 (2023 নভেম্বর 24)\n\n- টিটিএস বাজানোর সময়, যদি কোনও কভার চিত্র বিদ্যমান থাকে তবে কভার চিত্রটি প্রদর্শিত হয়।\n- এমন একটি সমস্যা স্থির করা হয়েছে যেখানে কিছু ডিভাইসে টিটিএস প্লেব্যাক বাধা দেওয়া হয়েছিল।\n- একটি চিত্র দর্শক যুক্ত করতে, পাঠ্য সম্পর্কিত সেটিংস দর্শকের সেটিংসে সরানো হয়েছে।"
+    "devnote": "7.7.1 (2023 12 06)\n- চিত্র দর্শক যুক্ত করা হয়েছে।\n   * চিত্র দর্শক কেবল 800MB পর্যন্ত সমর্থন করে।\n   * চিত্র দর্শকদের সংযোজনের কারণে, প্রতিটি দর্শকের জন্য বিকল্পগুলি পৃথক করা হয়েছে।\n- আমি আমার লাইব্রেরিতে সর্বাধিক 5 টি অনুভূমিক সারি প্রদর্শন করার সিদ্ধান্ত নিয়েছি।\n- শব্দটি [পৃষ্ঠা] [পয়েন্ট] এ পরিবর্তন করা হয়েছে।\n- কভার ইমেজ ব্যাকআপ পুনরুদ্ধারের যুক্তি সংশোধন করা হয়েছে।\n- বিজ্ঞাপন লোডিং অ্যানিমেশনটি সংশোধন করা হয়েছে।\n- বেশ কয়েকটি বাগ ঠিক করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.7.0 (2023 ноември 24)\n\n- Когато възпроизвеждате TTS, ако съществува покритие, изображението на корицата се показва.\n- Фиксиран проблем, при който възпроизвеждането на TTS беше прекъснато на някои устройства.\n- За да добавите зрител на изображения, настройките, свързани с текста, са преместени към настройките на зрителя."
+    "devnote": "7.7.1 (2023 12 06)\n- Добавен е зрителят на изображения.\n   * Изображението Viewer поддържа само до 800MB.\n   * Поради добавянето на зрители на изображения, опциите за всеки зрител са разделени.\n- Реших да покажа само максимум 5 хоризонтални реда в моята библиотека.\n- Терминът [страница] е променен на [точка].\n- Логиката за възстановяване на резервното възстановяване на изображението е модифицирана.\n- Анимацията за зареждане на реклами е модифицирана.\n- Няколко грешки са отстранени."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.7.0 (2023. новембар)\n\n- Када играте ТТС, ако постоји насловна слика, приказује се слика насловница.\n- Поправљено је питање где је репродукција ТТС прекинута на неким уређајима.\n- Да бисте додали прегледач слике, поставке у вези са текстом премештене су на подешавања прегледача."
+    "devnote": "7.7.1 (2023 12 06)\n- Прегледник слике је додат.\n   * Прегледник слика само подржава до 800МБ.\n   * Због додавања гледалаца слика, опције за сваки гледатељ су раздвојене.\n- Одлучио сам да прикажем само највише 5 хоризонталних редова у својој библиотеци.\n- Израз [страница] је промењена у [Поинт].\n- Покривач за резервне копије резервне копије слике је модификовано.\n- Анимација за утовар огласа је модификована.\n- Неколико грешака је поправљено."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.7.0 (2023 Novemba 24)\n\n- Wakati wa kucheza TTS, ikiwa picha ya kifuniko iko, picha ya kifuniko inaonyeshwa.\n- Zisizohamishika suala ambalo uchezaji wa TTS uliingiliwa kwenye vifaa kadhaa.\n- Kuongeza mtazamaji wa picha, mipangilio inayohusiana na maandishi imehamishwa kwa mipangilio ya watazamaji."
+    "devnote": "7.7.1 (2023 12 06)\n- Mtazamaji wa picha ameongezwa.\n   * Mtazamaji wa picha inasaidia tu hadi 800MB.\n   * Kwa sababu ya kuongezwa kwa watazamaji wa picha, chaguzi kwa kila mtazamaji zimetengwa.\n- Nimeamua kuonyesha kiwango cha juu cha safu 5 za usawa kwenye maktaba yangu.\n- Neno [ukurasa] limebadilishwa kuwa [uhakika].\n- Mantiki ya urejeshaji wa picha ya jalada imebadilishwa.\n- Uhuishaji wa upakiaji wa tangazo umebadilishwa.\n- Mende kadhaa zimewekwa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.7.0 (2023 24 november)\n\n- När du spelar TTS, om en omslagsbild finns, visas omslagsbilden.\n- Fixade ett problem där TTS -uppspelningen avbröts på vissa enheter.\n- För att lägga till en bildvisare har textrelaterade inställningar flyttats till visningsinställningar."
+    "devnote": "7.7.1 (2023 12 06)\n- Bildvisaren har lagts till.\n   * Bildvisaren stöder bara upp till 800 MB.\n   * På grund av tillägget av bildvisare har alternativen för varje tittare separerats.\n- Jag har beslutat att bara visa högst 5 horisontella rader i mitt bibliotek.\n- Termen [Sidan] har ändrats till [punkt].\n- Logiken om återhämtning av säkerhetsbilder har modifierats.\n- Animonering av annonser har modifierats.\n- Flera buggar har fixats."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.7.0 (2023 24 de noviembre)\n\n- Al reproducir TTS, si existe una imagen de portada, se muestra la imagen de portada.\n- Se solucionó un problema en el que se interrumpió la reproducción de TTS en algunos dispositivos.\n- Para agregar un visor de imágenes, la configuración relacionada con el texto se ha movido a la configuración del espectador."
+    "devnote": "7.7.1 (2023 12 06)\n- Se ha agregado el visor de imágenes.\n   * El visor de imágenes solo admite hasta 800 MB.\n   * Debido a la adición de visores de imágenes, se han separado las opciones para cada espectador.\n- He decidido mostrar solo un máximo de 5 filas horizontales en mi biblioteca.\n- El término [página] se ha cambiado a [punto].\n- La lógica de recuperación de la imagen de la imagen de la portada ha sido modificada.\n- La animación de carga AD ha sido modificada.\n- Se han solucionado varios errores."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.7.0 (2023 november)\n\n- Pri prehrávaní TTS, ak existuje obrazový obrázok, zobrazí sa obrazový obrázok.\n- Opravený problém, keď bolo prehrávanie TTS prerušené na niektorých zariadeniach.\n- Na pridanie prehliadača obrázka boli nastavenia súvisiace s textom presunuté do nastavení prehliadača."
+    "devnote": "7,7.1 (2023 12 06)\n- Bol pridaný prehliadač obrázkov.\n   * Prehliadač obrázkov podporuje iba 800 MB.\n   * Vzhľadom na pridanie divákov obrázkov boli možnosti pre každého diváka oddelené.\n- V knižnici som sa rozhodol zobraziť iba maximálne 5 vodorovných riadkov.\n- Termín [stránka] sa zmenil na [Point].\n- Logika zálohovania obrazu krytu bola upravená.\n- Animácia načítania reklamy bola upravená.\n- Bolo opravených niekoľko chýb."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.7.0 (2023, 24. novembra)\n\n- Pri predvajanju TTS, če obstaja slika, se prikaže slika platnice.\n- Odpravljena je bila težava, pri kateri je bilo predvajanje TTS prekinjeno na nekaterih napravah.\n- Če želite dodati pregledovalnik slik, so nastavitve, povezane z besedilom, premaknjene v nastavitve gledalcev."
+    "devnote": "7.7.1 (2023 12 06)\n- Dodan je pregledovalnik slik.\n   * Pregledovalnik slik podpira samo do 800 MB.\n   * Zaradi dodajanja gledalcev slike so možnosti za vsakega gledalca ločene.\n- Odločil sem se, da bom v svoji knjižnici prikazal le največ 5 vodoravnih vrstic.\n- Izraz [stran] je bil spremenjen v [točko].\n- Spremenjena je logika obnovitve za varnostno kopijo slike.\n- Animacija za nalaganje oglasov je spremenjena.\n- Odpravljenih je več napak."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.7.0 (2023 නොවැම්බර් 24)\n\n- tts වාදනය කරන විට, ආවරණ රූපයක් තිබේ නම්, ආවරණ රූපය දර්ශනය වේ.\n- සමහර උපාංගවල ටී.ටී.ටී.\n- රූප නරඹන්නෙකු එක් කිරීම සඳහා, පෙළ හා සම්බන්ධ සැකසුම් නරඹන්නන්ගේ සැකසුම් වෙත ගෙන ගොස් ඇත."
+    "devnote": "7.7.1 (2023 12 06)\n- රූප නරඹන්නා එකතු කර ඇත.\n   * රූප නරඹන්නාට සහය දක්වන්නේ 800MB දක්වා පමණි.\n   * රූප නරඹන්නන් එකතු කිරීම නිසා, එක් එක් නරඹන්නා සඳහා විකල්ප වෙන් කර ඇත.\n- මගේ පුස්තකාලයේ උපරිම තිරස් පේළි 5 ක් පමණක් පෙන්වීමට මම තීරණය කර ඇත්තෙමි.\n- [පිටුව] යන පදය [පොයින්ට්] ලෙස වෙනස් කර ඇත.\n- ආවරණ රූපයේ උපස්ථ ප්රතිසාධන තර්කනය වෙනස් කර ඇත.\n- දැන්වීම පූරණය කිරීමේ සජීවිකරණය වෙනස් කර ඇත.\n- දෝෂ කිහිපයක් සවි කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.7.0 (2023 نوفمبر 24)\n\n- عند تشغيل TTS ، في حالة وجود صورة غلاف ، يتم عرض صورة الغلاف.\n- تم إصلاح مشكلة حيث تم تشغيل تشغيل TTS على بعض الأجهزة.\n- لإضافة عارض صورة ، تم نقل الإعدادات المتعلقة بالنص إلى إعدادات المشاهد."
+    "devnote": "7.7.1 (2023 12 06)\n- تمت إضافة عارض الصورة.\n   * عارض الصور يدعم فقط ما يصل إلى 800 ميجابايت.\n   * نظرًا لإضافة مشاهدي الصور ، تم فصل خيارات كل عارض.\n- لقد قررت عرض فقط 5 صفوف أفقية في مكتبتي.\n- تم تغيير المصطلح [الصفحة] إلى [Point].\n- تم تعديل منطق استرداد النسخ الاحتياطي صورة الغلاف.\n- تم تعديل الرسوم المتحركة تحميل الإعلان.\n- تم إصلاح العديد من الأخطاء."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.7.0 (2023 նոյեմբերի 24)\n\n- TTS խաղալիս, եթե կա ծածկույթի պատկեր, ցուցադրվում է ծածկույթի պատկերը:\n- Հաստատեց մի հարց, երբ TTS- ի նվագարկումը ընդհատվեց որոշ սարքերում:\n- Պատկերների դիտում ավելացնելը, տեքստի հետ կապված պարամետրերը տեղափոխվել են դիտողի պարամետրեր:"
+    "devnote": "7.7.1 (2023 12 06)\n- Image Viewer- ը ավելացվել է:\n   * Պատկերի դիտիչը աջակցում է միայն մինչեւ 800 ՄԲ:\n   * Պատկերների դիտողների ավելացման շնորհիվ յուրաքանչյուր դիտողի ընտրանքներ առանձնացվել են:\n- Ես որոշել եմ ցուցադրել միայն առավելագույնը 5 հորիզոնական շարքեր իմ գրադարանում:\n- [էջ] տերմինը փոխվել է [կետ]:\n- Կափարիչի պատկերի կրկնօրինակում վերականգնման տրամաբանությունը փոփոխվել է:\n- Փոփոխվել է անիմացիայի գովազդը:\n- Մի քանի վրիպակներ ֆիքսվել են:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.7.0 (2023 24. nóvember)\n\n- Þegar þú spilar TTS, ef forsíðumynd er til, birtist forsíðumyndin.\n- Lagaði mál þar sem spilun TTS var rofin á sumum tækjum.\n- Til að bæta við myndaskilum hafa textatengdar stillingar verið færðar í áhorfendur."
+    "devnote": "7.7.1 (2023 12 06)\n- Mynd áhorfandi hefur verið bætt við.\n   * Myndáhorfandi styður aðeins allt að 800MB.\n   * Vegna viðbótar myndsáhorfenda hafa valkostir fyrir hvern áhorfanda verið aðskildir.\n- Ég hef ákveðið að sýna aðeins að hámarki 5 lárétta línur á bókasafninu mínu.\n- Hugtakinu [síðu] hefur verið breytt í [lið].\n- Röksemdafærslunni um afrit af forsíðu hefur verið breytt.\n- Auglýsingunni sem hleðst upp hefur verið breytt.\n- Nokkrar villur hafa verið lagaðar."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.7.0 (2023 Noyabr 24)\n\n- TTS oynayarkən, bir örtük görüntüsüdürsə, örtük görüntüsü göstərilir.\n- TTS-nin bəzi cihazlarda ifa olunduğu bir problemi həll etdi.\n- Şəkil görüntüleyicisi əlavə etmək üçün mətnlə əlaqəli parametrlər izləyici parametrlərinə köçürülmüşdür."
+    "devnote": "7.7.1 (2023 12 06)\n- Şəkil görüntüleyicisi əlavə edildi.\n   * Şəkil görüntüleyicisi yalnız 800MB-a qədər dəstəkləyir.\n   * Şəkil izləyicilərinin əlavə edilməsi ilə əlaqədar hər bir izləyici üçün seçimlər ayrıldı.\n- Kitabxanamda ən çox 5 üfüqi satır nümayiş etdirməyə qərar verdim.\n- [səhifə] termini [nöqtə] ilə dəyişdirildi.\n- Qapaq görüntüsünün ehtiyat bərpa məntiqi dəyişdirildi.\n- Reklam yükləmə animasiya dəyişdirildi.\n- Bir neçə səhv düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.7.0 (2023 24 November)\n\n- As u TTS speel, word die voorbladfoto vertoon as daar 'n voorbladfoto is.\n- 'n Probleem opgelos waar TTS -afspeel op sommige toestelle onderbreek is.\n- Om 'n beeldkyk by te voeg, is teksverwante instellings na die kykerinstellings verskuif."
+    "devnote": "7.7.1 (2023 12 06)\n- Image Viewer is bygevoeg.\n   * Image Viewer ondersteun slegs tot 800 MB.\n   * As gevolg van die byvoeging van beeldkykers, is opsies vir elke kyker van mekaar geskei.\n- Ek het besluit om slegs 'n maksimum van 5 horisontale rye in my biblioteek te vertoon.\n- Die term [bladsy] is verander na [punt].\n- Die omslagfoto -rugsteunherstellogika is verander.\n- Die animasie van die advertensie -laai is verander.\n- Verskeie foute is reggestel."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.7.0 (2023 24 nëntor)\n\n- Kur luani TTS, nëse ekziston një imazh i mbuluar, shfaqet imazhi i mbulesës.\n- Fiksoi një çështje ku riprodhimi i TTS u ndërpre në disa pajisje.\n- Për të shtuar një shikues të imazhit, cilësimet që lidhen me tekstin janë zhvendosur në cilësimet e shikuesit."
+    "devnote": "7.7.1 (2023 12 06)\n- është shtuar shikuesi i figurës.\n   * Shikuesi i figurës mbështet vetëm deri në 800MB.\n   * Për shkak të shtimit të shikuesve të imazhit, opsionet për secilin shikues janë ndarë.\n- Kam vendosur të shfaq vetëm një maksimum prej 5 rreshtave horizontale në bibliotekën time.\n- Termi [faqe] është ndryshuar në [pikë].\n- Logjika e rikuperimit të kopjimit të imazhit të mbulesës është modifikuar.\n- Animacioni i ngarkimit të reklamave është modifikuar.\n- Disa gabime janë rregulluar."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.7.0 (2023 NEV 24)\n\n- የሽፋን ምስል ካለ, የሽፋን ምስል ካለ የሽፋን ምስል ይታያል.\n- በአንዳንድ መሣሪያዎች ላይ TTS Mallsback የተቋረጠበት ጉዳይ ተጠግኗል.\n- የምስል መመልከቻን ለማከል, ከጽሑፍ ጋር የተዛመዱ ቅንብሮች ወደ ተመልካቹ ቅንብሮች ተዛወሩ."
+    "devnote": "7.7.1 (2023 12 06)\n- የምስል መመልከቻ ታክሏል.\n   * የምስል ተመን እስከ 800 ሜባ ብቻ ይደግፋል.\n   * የምስል ተመልካቾች በተጨማሪ, ለእያንዳንዱ ተመልካቾች አማራጮች ተለያይተዋል.\n- በቤተመጽሐፍቴ ውስጥ ከፍተኛውን 5 አግድም ረድፎች ብቻ ለማሳየት ወስኛለሁ.\n- የ [ገጽ] የሚለው ቃል እስከ ደረጃ ተለው has ል.\n- የሽፋኑ ምስል ምትኬ ማግኝት አመክንዮ ተስተካክሏል.\n- የማስታወቂያ አኒሜሽን ተሻሽሏል.\n- ብዙ ሳንካዎች ተስተካክለዋል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.7.0 (2023 24. november)\n\n- TTS -i mängimisel kuvatakse kaanepilt kaanepilt.\n- Parandatud probleem, kus TTS -i taasesitus katkestati mõnele seadmele.\n- Kujutisevaaturi lisamiseks on tekstiga seotud sätted teisaldatud vaatajate sätetesse."
+    "devnote": "7.7.1 (2023 12 06)\n- Piltide vaataja on lisatud.\n   * Pildiavaataja toetab ainult kuni 800 MB.\n   * Kujutise vaatajate lisamise tõttu on iga vaataja valikud eraldatud.\n- Olen otsustanud oma raamatukogus kuvada maksimaalselt 5 horisontaalset rida.\n- Mõiste [leht] on muudetud [punkt].\n- Kaanepildi varundamise taastamise loogikat on muudetud.\n- Reklaamide laadimise animatsiooni on muudetud.\n- Parandatud on mitu viga."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.7.0 (2023 نومبر 24)\n\n- جب ٹی ٹی ایس چلاتے ہو ، اگر سرورق کی تصویر موجود ہو تو ، سرورق کی تصویر ظاہر ہوتی ہے۔\n- ایک مسئلہ طے کیا جہاں کچھ آلات پر ٹی ٹی ایس پلے بیک میں خلل پڑا تھا۔\n- تصویری ناظرین کو شامل کرنے کے لئے ، متن سے متعلقہ ترتیبات کو ناظرین کی ترتیبات میں منتقل کردیا گیا ہے۔"
+    "devnote": "7.7.1 (2023 12 06)\n- تصویری ناظرین کو شامل کیا گیا ہے۔\n   * تصویری ناظرین صرف 800MB تک کی حمایت کرتا ہے۔\n   * تصویری ناظرین کے اضافے کی وجہ سے ، ہر ناظرین کے لئے اختیارات الگ کردیئے گئے ہیں۔\n- میں نے اپنی لائبریری میں زیادہ سے زیادہ 5 افقی قطاریں ظاہر کرنے کا فیصلہ کیا ہے۔\n- اصطلاح [صفحہ] کو [نقطہ] میں تبدیل کردیا گیا ہے۔\n- کور امیج بیک اپ ریکوری منطق میں ترمیم کی گئی ہے۔\n- اشتہار لوڈنگ حرکت پذیری میں ترمیم کی گئی ہے۔\n- کئی کیڑے طے ہوچکے ہیں۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.7.0 (2023 24 листопада)\n\n- Під час відтворення TTS, якщо існує зображення обкладинки, відображається зображення обкладинки.\n- Виправлена ​​проблема, коли відтворення TTS було перервано на деяких пристроях.\n- Щоб додати переглядача зображень, налаштування, пов'язані з текстом, були переміщені до налаштувань глядача."
+    "devnote": "7.7.1 (2023 12 06)\n- Додано переглядач зображень.\n   * Переглядач зображень підтримує лише до 800 Мб.\n   * Завдяки додаванням глядачів зображень параметри для кожного глядача були відокремлені.\n- Я вирішив відобразити лише 5 горизонтальних рядів у своїй бібліотеці.\n- Термін [сторінка] змінено на [точку].\n- Логіка відновлення резервного копіювання обкладинки була змінена.\n- Анімація завантаження реклами була змінена.\n- Виправлено кілька помилок."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.7.0 (2023 novembre)\n\n- Quando si riproduce TTS, se esiste un'immagine di copertina, viene visualizzata l'immagine di copertina.\n- Risolto un problema in cui la riproduzione di TTS è stata interrotta su alcuni dispositivi.\n- Per aggiungere un visualizzatore di immagine, le impostazioni relative al testo sono state spostate nelle impostazioni del visualizzatore."
+    "devnote": "7.7.1 (2023 12 06)\n- È stato aggiunto il visualizzatore di immagini.\n   * Il visualizzatore di immagini supporta solo fino a 800 MB.\n   * A causa dell'aggiunta di spettatori di immagini, le opzioni per ciascun visualizzatore sono state separate.\n- Ho deciso di visualizzare solo un massimo di 5 righe orizzontali nella mia libreria.\n- Il termine [pagina] è stato cambiato in [punto].\n- La logica di recupero di backup dell'immagine di copertina è stata modificata.\n- L'animazione di caricamento degli annunci è stata modificata.\n- Diversi bug sono stati fissati."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.7.0 (2023 24 Nov)\n\n- Saat bermain TTS, jika ada gambar sampul, gambar sampul ditampilkan.\n- Memperbaiki masalah di mana pemutaran TTS terganggu pada beberapa perangkat.\n- Untuk menambahkan penampil gambar, pengaturan terkait teks telah dipindahkan ke pengaturan penampil."
+    "devnote": "7.7.1 (2023 12 06)\n- Penampil gambar telah ditambahkan.\n   * Penampil gambar hanya mendukung hingga 800MB.\n   * Karena penambahan pemirsa gambar, opsi untuk setiap penampil telah dipisahkan.\n- Saya telah memutuskan untuk hanya menampilkan maksimum 5 baris horizontal di perpustakaan saya.\n- Istilah [halaman] telah diubah menjadi [point].\n- Logika pemulihan cadangan gambar sampul telah dimodifikasi.\n- Animasi pemuatan iklan telah dimodifikasi.\n- Beberapa bug telah diperbaiki."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.7.0（2023年11月24日）\n\n-TTSを再生するとき、カバー画像が存在する場合、カバー画像が表示されます。\n - 一部のデバイスでTTSの再生が中断された問題を修正しました。\n - 画像ビューアーを追加するために、テキスト関連の設定がビューアー設定に移動されました。"
+    "devnote": "7.7.1（2023 12 06）\n - 画像ビューアが追加されました。\n   *画像ビューアは最大800MBのみをサポートしています。\n   *画像視聴者の追加により、各視聴者のオプションは分離されています。\n - ライブラリに最大5つの水平列のみを表示することにしました。\n -  [ページ]という用語は[ポイント]に変更されました。\n - カバー画像バックアップリカバリロジックが変更されました。\n - 広告ロードアニメーションが変更されました。\n - いくつかのバグが修正されました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.7.0 (2023 ნოემბერი 24)\n\n- TTS– ის თამაშისას, თუ საფარის სურათი არსებობს, ნაჩვენებია საფარის სურათი.\n- დააფიქსირა საკითხი, სადაც TTS– ის დაკვრა შეფერხდა ზოგიერთ მოწყობილობაზე.\n- სურათის სანახავად დაამატეთ, ტექსტთან დაკავშირებული პარამეტრები გადავიდა მაყურებლის პარამეტრებში."
+    "devnote": "7.7.1 (2023 12 06)\n- დაემატა გამოსახულების მაყურებელს.\n   * გამოსახულების მაყურებელს მხოლოდ 800 მბ -მდე უჭერს მხარს.\n   * გამოსახულების მაყურებლის დამატების გამო, თითოეული მაყურებლისთვის ვარიანტები გამოეყო.\n- მე გადავწყვიტე ჩემს ბიბლიოთეკაში მაქსიმუმ 5 ჰორიზონტალური მწკრივის ჩვენება.\n- ტერმინი [გვერდი] შეიცვალა [წერტილამდე].\n- შეიცვალა საფარის გამოსახულების სარეზერვო აღდგენის ლოგიკა.\n- შეცვლილია სარეკლამო დატვირთვის ანიმაცია.\n- რამდენიმე შეცდომა დაფიქსირდა."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.7.0 (2023 Nov 24)\n\n- Uma udlala ama-TTS, uma isithombe sekhava sikhona, isithombe sesembozo siyakhonjiswa.\n- Kulungiswe inkinga lapho kuphazanyiswa khona ukudlalwa kwe-TTS kwamanye amadivayisi.\n- Ukwengeza isibukeli sesithombe, izilungiselelo ezihlobene nombhalo zihanjisiwe kuzilungiselelo zombukeli."
+    "devnote": "7.7.1 (2023 12 06)\n- Isibukeli se-Image singeziwe.\n   * Isibukeli sesithombe sisekela kuphela kuze kufike ku-800MB.\n   * Ngenxa yokungezwa kwababukeli bezithombe, izinketho zesibukeli ngasinye zihlukaniswe.\n- Nginqume ukukhombisa kuphela imigqa emi-5 kuphela evundlile emtapweni wezincwadi wami.\n- Igama elithi [ikhasi] lishintshiwe laba [iphuzu].\n- I-Cover Image Reflock Remotion Logic iguquliwe.\n- Isikhangiso esilayishwa izithombe siguquliwe.\n- Izimbungulu eziningana zilungisiwe."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.7.0（2023年11月24日）\n\n - 播放TTS时，如果存在封面图像，则显示封面图像。\n - 修复了在某些设备上打断TTS播放的问题。\n - 为了添加图像查看器，已将与文本相关的设置移至查看器设置。"
+    "devnote": "7.7.1（2023 12 06）\n - 添加了图像查看器。\n   *图像查看器最多支持800MB。\n   *由于添加了图像查看器，每个查看器的选项已分开。\n - 我决定在库中最多显示5个水平行。\n -  [page]一词已更改为[point]。\n - 封面图像备份恢复逻辑已修改。\n - 广告加载动画已修改。\n - 已解决了几个错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.7.0（2023年11月24日）\n\n - 播放TTS時，如果存在封面圖像，則顯示封面圖像。\n - 修復了在某些設備上打斷TTS播放的問題。\n - 為了添加圖像查看器，已將與文本相關的設置移至查看器設置。"
+    "devnote": "7.7.1（2023 12 06）\n - 添加了圖像查看器。\n   *圖像查看器最多支持800MB。\n   *由於添加了圖像查看器，每個查看器的選項已分開。\n - 我決定在庫中最多顯示5個水平行。\n -  [page]一詞已更改為[point]。\n - 封面圖像備份恢復邏輯已修改。\n - 廣告加載動畫已修改。\n - 已解決了幾個錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.7.0（2023年11月24日）\n\n - 播放TTS時，如果存在封面圖像，則顯示封面圖像。\n - 修復了在某些設備上打斷TTS播放的問題。\n - 為了添加圖像查看器，已將與文本相關的設置移至查看器設置。"
+    "devnote": "7.7.1（2023 12 06）\n - 添加了圖像查看器。\n   *圖像查看器最多支持800MB。\n   *由於添加了圖像查看器，每個查看器的選項已分開。\n - 我決定在庫中最多顯示5個水平行。\n -  [page]一詞已更改為[point]。\n - 封面圖像備份恢復邏輯已修改。\n - 廣告加載動畫已修改。\n - 已解決了幾個錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.7.0 (2023 24. listopadu)\n\n- Při přehrávání TTS, pokud existuje krycí obrázek, zobrazí se obrázek krycího obrazu.\n- Opraven problém, kdy bylo přehrávání TTS přerušeno na některých zařízeních.\n- Chcete-li přidat prohlížeč obrázků, byla nastavení související s textem přesunuta do nastavení prohlížeče."
+    "devnote": "7.7.1 (2023 12 06)\n- Byl přidán prohlížeč obrázků.\n   * Prohlížeč obrázků podporuje pouze 800 MB.\n   * Kvůli přidání diváků obrázků byly možnosti pro každého diváka odděleny.\n- Rozhodl jsem se v mé knihovně zobrazit pouze maximálně 5 horizontálních řádků.\n- Termín [stránka] byl změněn na [Point].\n- Logika obnovy zálohování obrazu obálky byla upravena.\n- Animace načítání reklamy byla upravena.\n- Několik chyb bylo opraveno."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.7.0 (2023 қараша 24)\n\n- TTS ойнатқан кезде, егер мұқаба кескін болса, мұқаба кескіні көрсетіледі.\n- Кейбір құрылғыларда TTS ойнатылған кезде, TTS ойнатылған мәселе шешілді.\n- Кескін қарау құралын қосу үшін, Мәтінге қатысты параметрлер қарау құралына ауыстырылды."
+    "devnote": "7.7.1 (2023 12 06)\n- Кескін қарау құралы қосылды.\n   * Кескін қарау құралы тек 800 МБ дейін қолдайды.\n   * Кескін қараушыларының қосылуына байланысты әр көрермен үшін опциялар бөлінді.\n- Мен кітапханамда ең көп дегенде 5 көлденең жолды ғана көрсетуді шештім.\n- Термині [Бет] термині [нүкте] күйіне өзгертілді.\n- Қақпақты кескінді қалпына келтіру логикасы өзгертілген.\n- Жарнамалық анимация өзгертілді.\n- Бірнеше қателер бекітілген."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.7.0 (2023 24 de novembre)\n\n- Quan es reprodueix TTS, si existeix una imatge de portada, es mostra la imatge de portada.\n- S'ha corregit un problema on es va interrompre la reproducció TTS en alguns dispositius.\n- Per afegir un visualitzador d'imatges, s'han traslladat la configuració relacionada amb el text a la configuració del visualitzador."
+    "devnote": "7.7.1 (2023 12 06)\n- S'ha afegit el visualitzador d'imatges.\n   * El visualitzador d'imatges només admet fins a 800 MB.\n   * A causa de l'addició dels espectadors d'imatges, s'han separat les opcions per a cada espectador.\n- He decidit mostrar només un màxim de 5 files horitzontals a la meva biblioteca.\n- El terme [pàgina] s'ha canviat a [punt].\n- S'ha modificat la lògica de recuperació de còpia de seguretat de la imatge de portada.\n- L’animació de càrrega d’anuncis s’ha modificat.\n- S'han solucionat diversos errors."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.7.0 (2023 ನವೆಂಬರ್ 24)\n\n- ಟಿಟಿಎಸ್ ಆಡುವಾಗ, ಕವರ್ ಇಮೇಜ್ ಅಸ್ತಿತ್ವದಲ್ಲಿದ್ದರೆ, ಕವರ್ ಇಮೇಜ್ ಅನ್ನು ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ.\n- ಕೆಲವು ಸಾಧನಗಳಲ್ಲಿ ಟಿಟಿಎಸ್ ಪ್ಲೇಬ್ಯಾಕ್ ಅಡ್ಡಿಪಡಿಸಿದ ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ಇಮೇಜ್ ವೀಕ್ಷಕನನ್ನು ಸೇರಿಸಲು, ಪಠ್ಯ-ಸಂಬಂಧಿತ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ವೀಕ್ಷಕ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಸರಿಸಲಾಗಿದೆ."
+    "devnote": "7.7.1 (2023 12 06)\n- ಇಮೇಜ್ ವೀಕ್ಷಕವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n   * ಇಮೇಜ್ ವೀಕ್ಷಕವು 800MB ವರೆಗೆ ಮಾತ್ರ ಬೆಂಬಲಿಸುತ್ತದೆ.\n   * ಇಮೇಜ್ ವೀಕ್ಷಕರ ಸೇರ್ಪಡೆಯಿಂದಾಗಿ, ಪ್ರತಿ ವೀಕ್ಷಕರಿಗೆ ಆಯ್ಕೆಗಳನ್ನು ಬೇರ್ಪಡಿಸಲಾಗಿದೆ.\n- ನನ್ನ ಲೈಬ್ರರಿಯಲ್ಲಿ ಗರಿಷ್ಠ 5 ಸಮತಲ ಸಾಲುಗಳನ್ನು ಮಾತ್ರ ಪ್ರದರ್ಶಿಸಲು ನಾನು ನಿರ್ಧರಿಸಿದ್ದೇನೆ.\n- [ಪುಟ] ಎಂಬ ಪದವನ್ನು [ಪಾಯಿಂಟ್] ಎಂದು ಬದಲಾಯಿಸಲಾಗಿದೆ.\n- ಕವರ್ ಇಮೇಜ್ ಬ್ಯಾಕಪ್ ರಿಕವರಿ ತರ್ಕವನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಜಾಹೀರಾತು ಲೋಡಿಂಗ್ ಅನಿಮೇಷನ್ ಅನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಹಲವಾರು ದೋಷಗಳನ್ನು ನಿವಾರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.7.0 (2023. 24. studenog)\n\n- Prilikom reprodukcije TTS -a, ako postoji naslovnica, prikazana je naslovna slika.\n- Riješen je problem u kojem je reprodukcija TTS -a prekinuta na nekim uređajima.\n- Za dodavanje gledatelja slike, postavke povezane s tekstom premještene su u postavke gledatelja."
+    "devnote": "7.7.1 (2023. 12 06)\n- Dodan je prikaz slike.\n   * Viewer slika podržava samo do 800MB.\n   * Zbog dodavanja gledatelja slike, opcije za svakog gledatelja odvojene su.\n- Odlučio sam prikazati samo maksimalno 5 horizontalnih redaka u svojoj knjižnici.\n- Izraz [stranica] promijenjen je u [točku].\n- Modificirana je logika za povrat sigurnosnih kopija za naslovnicu.\n- Animacija učitavanja oglasa je izmijenjena.\n- Popravljeno je nekoliko grešaka."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.7.0 (2023 វិច្ឆិកា 24)\n\n- នៅពេលលេង TTS ប្រសិនបើរូបភាពគម្របមានរូបភាពគម្របត្រូវបានបង្ហាញ។\n- ដោះស្រាយបញ្ហាដែលមានកន្លែងចាក់ថ្នាំ TTS ត្រូវបានរំខាននៅលើឧបករណ៍មួយចំនួន។\n- ដើម្បីបន្ថែមកម្មវិធីមើលរូបភាពការកំណត់អត្ថបទត្រូវបានផ្លាស់ប្តូរទៅការកំណត់របស់អ្នកមើល។"
+    "devnote": "7.7.1 (2023 12 06)\n- កម្មវិធីមើលរូបភាពត្រូវបានបន្ថែម។\n   * កម្មវិធីមើលរូបភាពគាំទ្រតែ 800 មេកាបៃប៉ុណ្ណោះ។\n   * ដោយសារតែការបន្ថែមរបស់អ្នកមើលរូបភាពជម្រើសសម្រាប់អ្នកមើលម្នាក់ៗត្រូវបានបំបែកចេញពីគ្នា។\n- ខ្ញុំបានសំរេចចិត្តបង្ហាញតែជួរដេកផ្តេកអតិបរមាចំនួន 5 នៅក្នុងបណ្ណាល័យរបស់ខ្ញុំ។\n- ពាក្យ [ទំព័រ] ត្រូវបានប្តូរទៅ [ចំណុច] ។\n- តក្កវិជ្ជាការសង្គ្រោះការបម្រុងទុករូបភាពគ្របដណ្តប់លើរូបភាពត្រូវបានកែប្រែ។\n- ការផ្សាយពាណិជ្ជកម្មការផ្សាយពាណិជ្ជកម្មត្រូវបានកែប្រែ។\n- កំហុសជាច្រើនត្រូវបានជួសជុល។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.7.0 (2023-жылдын 24-ноябры)\n\n- TTS ойноп жатканда, мукабанын сүрөтү бар болсо, мукабанын сүрөтү көрсөтүлөт.\n- TTS ойнотуусу айрым түзмөктөрдө үзгүлтүккө учураган маселени чечти.\n- Сүрөттү көрүүчүнү кошуу үчүн, текстке байланыштуу орнотуулары көрүүчү орнотууларга өтүштү."
+    "devnote": "7.7.1 (2023 12 06)\n- Сүрөт Көрүүчүсү кошулду.\n   * Сүрөт Көрүүчү 800MBга чейин гана колдойт.\n   * Сүрөттү көрүүчүлөрдүн кошумчуусун кошпогондо, ар бир көрүүчү үчүн параметрлер бөлүнүп чыгышты.\n- Менин китепканамда эң көп дегенде 5 горизонталдык катарды чагылдырууну чечтим.\n- терминче [бет] өзгөрүлдү.\n- Мукабанын сүрөтүн калыбына келтирүү логикасы өзгөртүлдү.\n- Жүктөө анимациясы өзгөртүлдү.\n- бир нече мүчүлүштүктөрдү оңдолду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.7.0 (2023 நவம்பர் 24)\n\n- TTS ஐ இயக்கும்போது, ​​ஒரு கவர் படம் இருந்தால், கவர் படம் காட்டப்படும்.\n- சில சாதனங்களில் டி.டி.எஸ் பிளேபேக் குறுக்கிடப்பட்ட ஒரு சிக்கல் சரி செய்யப்பட்டது.\n- ஒரு பட பார்வையாளரைச் சேர்க்க, உரை தொடர்பான அமைப்புகள் பார்வையாளர் அமைப்புகளுக்கு நகர்த்தப்பட்டுள்ளன."
+    "devnote": "7.7.1 (2023 12 06)\n- பட பார்வையாளர் சேர்க்கப்பட்டுள்ளது.\n   * பட பார்வையாளர் 800MB வரை மட்டுமே ஆதரிக்கிறார்.\n   * பட பார்வையாளர்களை சேர்ப்பதன் காரணமாக, ஒவ்வொரு பார்வையாளருக்கும் விருப்பங்கள் பிரிக்கப்பட்டுள்ளன.\n- எனது நூலகத்தில் அதிகபட்சம் 5 கிடைமட்ட வரிசைகளை மட்டுமே காட்ட முடிவு செய்துள்ளேன்.\n- [பக்கம்] என்ற சொல் [புள்ளி] என மாற்றப்பட்டுள்ளது.\n- கவர் பட காப்புப்பிரதி மீட்பு தர்க்கம் மாற்றியமைக்கப்பட்டுள்ளது.\n- விளம்பர ஏற்றுதல் அனிமேஷன் மாற்றியமைக்கப்பட்டுள்ளது.\n- பல பிழைகள் சரி செய்யப்பட்டுள்ளன."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.7.0 (2023 24 พ.ย. )\n\n- เมื่อเล่น TTS หากมีภาพหน้าปกอยู่ภาพปกจะปรากฏขึ้น\n- แก้ไขปัญหาที่การเล่น TTS ถูกขัดจังหวะในอุปกรณ์บางอย่าง\n- ในการเพิ่มผู้ดูรูปภาพการตั้งค่าที่เกี่ยวข้องกับข้อความได้ถูกย้ายไปที่การตั้งค่า Viewer"
+    "devnote": "7.7.1 (2023 12 06)\n- มีการเพิ่มตัวชมภาพแล้ว\n   * ผู้ดูรูปภาพรองรับได้สูงสุด 800MB\n   * เนื่องจากการเพิ่มผู้ชมรูปภาพตัวเลือกสำหรับผู้ชมแต่ละคนได้ถูกแยกออก\n- ฉันตัดสินใจที่จะแสดงเพียง 5 แถวแนวนอนในห้องสมุดของฉัน\n- คำว่า [หน้า] ถูกเปลี่ยนเป็น [จุด]\n- ลอจิกการกู้คืนภาพปกภาพได้รับการแก้ไขแล้ว\n- แอนิเมชั่นโหลดโฆษณาได้รับการแก้ไขแล้ว\n- ข้อบกพร่องหลายอย่างได้รับการแก้ไขแล้ว"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.7.0 (2023 Kasım 24)\n\n- TTS oynarken, bir kapak görüntüsü varsa, kapak görüntüsü görüntülenir.\n- TTS oynatma işleminin bazı cihazlarda kesintiye uğradığı bir sorun düzeltildi.\n- Bir görüntü görüntüleyici eklemek için, metinle ilgili ayarlar görüntüleyici ayarlarına taşındı."
+    "devnote": "7.7.1 (2023 12 06)\n- Görüntü görüntüleyici eklendi.\n   * Görüntü görüntüleyici yalnızca 800MB'a kadar destekler.\n   * Görüntü izleyicilerin eklenmesi nedeniyle, her izleyici için seçenekler ayrılmıştır.\n- Kütüphanemde en fazla 5 yatay satır sergilemeye karar verdim.\n- [Page] terimi [nokta] olarak değiştirildi.\n- Kapak görüntüsü yedekleme kurtarma mantığı değiştirildi.\n- Reklam yükleme animasyonu değiştirildi.\n- Birkaç hata düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.7.0 (2023 నవంబర్ 24)\n\n- TTS ఆడుతున్నప్పుడు, కవర్ ఇమేజ్ ఉంటే, కవర్ చిత్రం ప్రదర్శించబడుతుంది.\n- కొన్ని పరికరాల్లో TTS ప్లేబ్యాక్ అంతరాయం కలిగించిన సమస్య పరిష్కరించబడింది.\n- ఇమేజ్ వ్యూయర్‌ను జోడించడానికి, టెక్స్ట్-సంబంధిత సెట్టింగ్‌లు వీక్షకుల సెట్టింగ్‌లకు తరలించబడ్డాయి."
+    "devnote": "7.7.1 (2023 12 06)\n- ఇమేజ్ వ్యూయర్ జోడించబడింది.\n   * ఇమేజ్ వ్యూయర్ 800MB వరకు మాత్రమే మద్దతు ఇస్తాడు.\n   * ఇమేజ్ వీక్షకుల చేరిక కారణంగా, ప్రతి వీక్షకుడికి ఎంపికలు వేరు చేయబడ్డాయి.\n- నా లైబ్రరీలో గరిష్టంగా 5 క్షితిజ సమాంతర వరుసలను మాత్రమే ప్రదర్శించాలని నిర్ణయించుకున్నాను.\n- [పేజీ] అనే పదం [పాయింట్] గా మార్చబడింది.\n- కవర్ ఇమేజ్ బ్యాకప్ రికవరీ లాజిక్ సవరించబడింది.\n- ప్రకటన లోడింగ్ యానిమేషన్ సవరించబడింది.\n- అనేక దోషాలు పరిష్కరించబడ్డాయి."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.7.0 (2023 ਨਵੰਬਰ 24)\n\n- ਜਦੋਂ ਟੀਟੀਐਸ ਖੇਡਣ ਵੇਲੇ, ਜੇ ਇੱਕ ਕਵਰ ਚਿੱਤਰ ਮੌਜੂਦ ਹੈ, ਤਾਂ ਕਵਰ ਚਿੱਤਰ ਪ੍ਰਦਰਸ਼ਿਤ ਹੁੰਦਾ ਹੈ.\n- ਇਕ ਮੁੱਦਾ ਹੱਲ ਕੀਤਾ ਜਿੱਥੇ ਟੀ ਟੀ ਟੀ ਪਲੇਬੈਕ ਕੁਝ ਡਿਵਾਈਸਿਸ 'ਤੇ ਵਿਘਨ ਪਾਉਂਦੇ ਸਨ.\n- ਇੱਕ ਚਿੱਤਰ ਦਰਸ਼ਕ ਜੋੜਨ ਲਈ, ਟੈਕਸਟ ਨਾਲ ਸਬੰਧਤ ਸੈਟਿੰਗਾਂ ਦਰਸ਼ਕ ਸੈਟਿੰਗਜ਼ ਵਿੱਚ ਭੇਜੀਆਂ ਗਈਆਂ ਹਨ."
+    "devnote": "7.7.1 (2023 12 06)\n- ਚਿੱਤਰ ਦਰਸ਼ਕ ਜੋੜਿਆ ਗਿਆ ਹੈ.\n   * ਚਿੱਤਰ ਦਰਸ਼ਕ ਸਿਰਫ 800MB ਤੱਕ ਦਾ ਸਮਰਥਨ ਕਰਦਾ ਹੈ.\n   * ਚਿੱਤਰ ਦਰਸ਼ਕਾਂ ਦੇ ਜੋੜ ਦੇ ਕਾਰਨ, ਹਰੇਕ ਦਰਸ਼ਕ ਲਈ ਵਿਕਲਪ ਵੱਖ ਹੋ ਗਏ ਹਨ.\n- ਮੈਂ ਆਪਣੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿਚ ਵੱਧ ਤੋਂ ਵੱਧ 5 ਹਰੀਜ਼ਟਲ ਕਤਾਰਾਂ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਦਾ ਫੈਸਲਾ ਕੀਤਾ ਹੈ.\n- ਸ਼ਬਦ [ਸਫ਼ਾ] ਨੂੰ [ਬਿੰਦੂ] ਵਿੱਚ ਬਦਲਿਆ ਗਿਆ ਹੈ.\n- ਕਵਰ ਇਮੇਜ ਬੈਕਅਪ ਰਿਕਵਰੀ ਤਰਕ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ.\n- ਐਡ ਲੋਡਿੰਗ ਐਨੀਮੇਸ਼ਨ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ.\n- ਕਈ ਬੱਗ ਫਿਕਸ ਕੀਤੇ ਗਏ ਹਨ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.7.0 (2023 نوامبر 24)\n\n- هنگام پخش TTS ، اگر یک تصویر جلد وجود داشته باشد ، تصویر جلد نمایش داده می شود.\n- مسئله ای را برطرف کرد که پخش TTS در برخی از دستگاه ها قطع شد.\n- برای افزودن یک بیننده تصویر ، تنظیمات مربوط به متن به تنظیمات بیننده منتقل شده است."
+    "devnote": "7.7.1 (2023 12 06)\n- بیننده تصویر اضافه شده است.\n   * تصویر بیننده فقط تا 800 مگابایت پشتیبانی می کند.\n   * با توجه به افزودن بینندگان تصویر ، گزینه هایی برای هر بیننده از هم جدا شده است.\n- من تصمیم گرفته ام فقط حداکثر 5 ردیف افقی را در کتابخانه خود به نمایش بگذارم.\n- اصطلاح [صفحه] به [نقطه] تغییر یافته است.\n- منطق بازیابی نسخه پشتیبان از تصویر جلد اصلاح شده است.\n- انیمیشن بارگذاری آگهی اصلاح شده است.\n- چندین اشکال برطرف شده است."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.7.0 (2023 24 de novembro)\n\n- Ao reproduzir TTS, se existir uma imagem de capa, a imagem da capa será exibida.\n- Corrigido um problema em que a reprodução do TTS foi interrompida em alguns dispositivos.\n- Para adicionar um visualizador de imagem, as configurações relacionadas ao texto foram movidas para as configurações do visualizador."
+    "devnote": "7.7.1 (2023 12 06)\n- O visualizador de imagens foi adicionado.\n   * O Image Viewer suporta apenas até 800 MB.\n   * Devido à adição de visualizadores de imagem, as opções para cada espectador foram separadas.\n- Decidi exibir apenas 5 linhas horizontais na minha biblioteca.\n- O termo [página] foi alterado para [Point].\n- A lógica de recuperação de backup da imagem da capa foi modificada.\n- A animação de carregamento de anúncios foi modificada.\n- Vários bugs foram corrigidos."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.7,0 (2023 24 listopada)\n\n- Podczas odtwarzania TTS, jeśli istnieje obraz okładki, wyświetlany jest obraz okładki.\n- Naprawiono problem, w którym odtwarzanie TTS zostało przerwane na niektórych urządzeniach.\n- Aby dodać przeglądarkę obrazu, ustawienia związane z tekstem zostały przeniesione do ustawień przeglądarki."
+    "devnote": "7.7.1 (2023 12 06)\n- Dodano przeglądarkę obrazu.\n   * Przeglądarka obrazów obsługuje tylko do 800 MB.\n   * Ze względu na dodanie przeglądarzy obrazów opcje dla każdego przeglądarki zostały oddzielone.\n- Postanowiłem wyświetlić w bibliotece tylko maksymalnie 5 poziomych wierszy.\n- Termin [strona] został zmieniony na [punkt].\n- Logika odzyskiwania kopii zapasowej okładki została zmodyfikowana.\n- Animacja ładowania reklam została zmodyfikowana.\n- Kilka błędów zostało naprawionych."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.7.0 (2023 24 novembre)\n\n- Lors de la lecture de TTS, si une image de couverture existe, l'image de couverture s'affiche.\n- Correction d'un problème où la lecture TTS a été interrompue sur certains appareils.\n- Pour ajouter une visionneuse d'image, les paramètres liés au texte ont été déplacés vers les paramètres de la visionneuse."
+    "devnote": "7.7.1 (2023 12 06)\n- La visionneuse d'images a été ajoutée.\n   * La visionneuse d'image ne prend en charge que jusqu'à 800 Mo.\n   * En raison de l'ajout de spectateurs d'images, les options pour chaque visionneuse ont été séparées.\n- J'ai décidé d'afficher seulement un maximum de 5 lignes horizontales dans ma bibliothèque.\n- Le terme [page] a été modifié en [point].\n- La logique de récupération de sauvegarde de l'image de couverture a été modifiée.\n- L'animation de chargement d'annonce a été modifiée.\n- Plusieurs bogues ont été corrigés."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.7.0 (2023 24. marraskuuta)\n\n- Kun toistetaan TTS: ää, jos kansikuva on olemassa, kansikuva näkyy.\n- Korjattu ongelma, jossa TTS -toisto keskeytettiin joillakin laitteilla.\n- Kuvan katseluohjelman lisäämiseksi tekstiin liittyvät asetukset on siirretty katsoja-asetuksiin."
+    "devnote": "7.7.1 (2023 12 06)\n- Kuvan katseluohjelma on lisätty.\n   * Kuvan katseluohjelma tukee vain 800 Mt.\n   * Kuvan katsojien lisäämisen vuoksi kunkin katsojan vaihtoehdot on erotettu.\n- Olen päättänyt näyttää vain 5 vaakasuoraa riviä kirjastossani.\n- Termi [sivu] on muutettu [piste].\n- Kansikuvan varmuuskopiointia palautuslogiikkaa on muokattu.\n- AD -latausanimaatio on muokattu.\n- Useita virheitä on korjattu."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.7.0 (2023 Nov 24)\n\n- Kapag naglalaro ng TTS, kung umiiral ang isang imahe ng takip, ipinapakita ang imahe ng takip.\n- Nakapirming isang isyu kung saan ang pag -playback ng TTS ay nagambala sa ilang mga aparato.\n- Upang magdagdag ng isang viewer ng imahe, ang mga setting na may kaugnayan sa teksto ay inilipat sa mga setting ng manonood."
+    "devnote": "7.7.1 (2023 12 06)\n- Ang viewer ng imahe ay naidagdag.\n   * Sinusuportahan lamang ng viewer ng imahe hanggang sa 800MB.\n   * Dahil sa pagdaragdag ng mga manonood ng imahe, ang mga pagpipilian para sa bawat manonood ay pinaghiwalay.\n- Nagpasya akong magpakita lamang ng isang maximum na 5 pahalang na mga hilera sa aking silid -aklatan.\n- Ang salitang [Pahina] ay nabago sa [point].\n- Ang lohika ng pag -backup ng imahe ng takip ay nabago.\n- Binago ang anim na pag -load ng ad.\n- Maraming mga bug ang naayos."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.7.0 (2023 november 24.)\n\n- A TTS lejátszásakor, ha létezik egy borítókép, akkor a borítókép jelenik meg.\n- Javítva egy olyan problémát, amelyben a TTS lejátszása megszakadt néhány eszközön.\n- A képmegfigyelő hozzáadásához a szöveggel kapcsolatos beállításokat áthelyezték a Viewer beállításaiba."
+    "devnote": "7.7.1 (2023 12 06)\n- A képmegjelenítőt hozzáadták.\n   * A képmegjelenítő csak 800 MB -ig támogat.\n   * A képvizsgálók hozzáadásának köszönhetően az egyes nézők számára lehetőségeket választottak el.\n- Úgy döntöttem, hogy a könyvtáramban csak legfeljebb 5 vízszintes sor jelenik meg.\n- Az [oldal] kifejezést [pontra] változtatták.\n- A borítókép biztonsági mentési helyreállítási logikája módosult.\n- A hirdetési betöltési animáció módosult.\n- Számos hibát kijavítottak."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.7.0 (2023 24 בנובמבר)\n\n- בעת משחק TTS, אם קיימת תמונת כיסוי, תמונת השער מוצגת.\n- תיקן בעיה בה נקטע הפעלת TTS בכמה מכשירים.\n- כדי להוסיף מציג תמונה, הגדרות הקשורות לטקסט הועברו להגדרות הצופה."
+    "devnote": "7.7.1 (2023 12 06)\n- מציג תמונה נוסף.\n   * מציג התמונות תומך רק עד 800MB.\n   * בשל תוספת של צופי תמונות, האפשרויות עבור כל צופה הופרדו.\n- החלטתי להציג רק 5 שורות אופקיות בספריה שלי.\n- המונח [עמוד] שונה ל [נקודה].\n- היגיון לשחזור גיבוי תמונת העטיפה שונה.\n- אנימציה לטעינת מודעות שונתה.\n- מספר באגים תוקנו."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.7.0 (2023 नवंबर 24)\n\n- टीटीएस खेलते समय, यदि कोई कवर छवि मौजूद है, तो कवर छवि प्रदर्शित की जाती है।\n- एक मुद्दा फिक्स्ड जहां टीटीएस प्लेबैक को कुछ उपकरणों पर बाधित किया गया था।\n- एक छवि दर्शक जोड़ने के लिए, पाठ से संबंधित सेटिंग्स को दर्शक सेटिंग्स में ले जाया गया है।"
+    "devnote": "7.7.1 (2023 12 06)\n- छवि व्यूअर को जोड़ा गया है।\n   * छवि व्यूअर केवल 800MB तक का समर्थन करता है।\n   * छवि दर्शकों को जोड़ने के कारण, प्रत्येक दर्शक के लिए विकल्प अलग हो गए हैं।\n- मैंने अपनी लाइब्रेरी में केवल 5 क्षैतिज पंक्तियों को प्रदर्शित करने का फैसला किया है।\n- शब्द [पृष्ठ] को बदल दिया गया है [बिंदु]।\n- कवर इमेज बैकअप रिकवरी लॉजिक को संशोधित किया गया है।\n- विज्ञापन लोडिंग एनीमेशन को संशोधित किया गया है।\n- कई कीड़े तय किए गए हैं।"
   }
 }
