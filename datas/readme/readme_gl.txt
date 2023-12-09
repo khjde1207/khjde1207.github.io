@@ -1,152 +1,152 @@
-Como usalo (debe ler):
+Como usar (debe ler):
 
-Esta aplicación ten moitas funcións, polo que recomendo que a lea unha por unha.
+Esta aplicación ten moitas características, polo que recomendo lelo.
 
 1. Como ver os ficheiros:
-Faga clic en Engadir ficheiro no meu documento para engadir txt.
-Toca o ficheiro TXT e prema o botón Abrir na parte inferior para ver o ficheiro.
+Faga clic en Engadir ficheiro na miña biblioteca para engadir txt.
+Podes ver o ficheiro tocando o ficheiro TXT e premendo o botón Abrir na parte inferior.
 
 
-2. Como ocultar os anuncios dos espectadores / botóns de navegación inferior:
+2. Como ocultar anuncios de espectadores/botóns de navegación inferior:
 Toca dobre o centro da pantalla.
-Ao cambiar á pantalla completa, os anuncios e os botóns desaparecen.
+Cando cambia a pantalla completa, os anuncios e botóns desaparecen.
 
 
-3. Para cambiar a área de función Mitt do botón:
-Podes cambialo en Configuración: Toque Configuración da área.
-Pode configurar unha serie de funcións, incluíndo pantalla completa, movemento de páxinas, axuste de brillo e control de volume.
-O control remoto Bluetooth tamén é compatible, para que poida deitarse e vela cómodamente.
+3. Como cambiar o botón e a área de función:
+Podes cambialo en [Configuración - Táctil Configuración da área].
+Podes configurar varias funcións como a pantalla completa, o movemento de páxinas, o control de brillo e o control de volume.
+Tamén se admite un control remoto Bluetooth, polo que pode colocalo nun soporte e velo cómodamente mentres está deitado.
 
 
-4. Para cambiar a letra ou o tamaño da letra:
-Pode cambiar a letra ou o tamaño da letra en Configuración - Configuración - Configuración de letra.
-Podes usar o tipo de letra premendo o botón de descarga para recibir decenas de fontes gratuítas.
+4. Como cambiar o tamaño de letra ou o texto:
+Pode cambiar o tamaño da letra ou o tipo de letra en [Configuración - Configuración - Configuración de letra].
+Podes usar decenas de tipos de letra gratuítos facendo clic no botón de descarga.
 
 
-5. Como usar a conversión de texto da imaxe:
-Pode extraer texto dunha imaxe comprimida. A isto chámaselle función OCR.
-O meu diario: faga clic en Engadir ficheiro e engade un ficheiro zip.
+5. Como usar a función de conversión de texto para a imaxe:
+Podes extraer texto de imaxes comprimidas. A isto chámaselle función OCR.
+A miña biblioteca: fai clic en Engadir ficheiro e engade o ficheiro zip.
 Pode converterse seleccionando o ficheiro zip e logo seleccionando o menú OCR.
-A páxina consúmase durante a conversión.
-OCR funciona con AI, polo que a súa velocidade e precisión son bastante boas.
+As páxinas consúmense durante a conversión.
+O OCR está feito con AI, polo que a súa velocidade e precisión son bastante boas.
 
 
-6. Epub, método de conversión PDF:
+6. Como converter EPUB en PDF:
 É o mesmo que o método de conversión de imaxe.
-Hai algunhas cousas das que ter en conta.
-EPUB ou PDF poden estar "cifrados".
-Úsase principalmente para romper letras e facelas visibles só en certos tipos de letra.
-Neste caso, sae como un carácter extraterrestre, non coreano, polo que non o podes ler en TTS.
-Como forma de resolver este problema, pódese usar a función de extraer imaxes e, a continuación, pódese xirar o OCR para extraer.
+Hai algunhas cousas a ter en conta.
+No caso de EPUB ou PDF, pode estar "cifrado".
+O método máis común é facer que as letras se enredan e visibles só en fontes específicas.
+Neste caso, non se pode ler usando TTS porque parece un personaxe alieníxena máis que coreano.
+Para resolver este problema, pode usar a función de extracción de imaxe e logo usar OCR para extraelo.
 
 
 7. Como configurar TTS:
-A configuración relacionada coa TTS concéntrase en configuracións: configuración TTS, configuración do filtro TTS.
-A configuración TTS inclúe funcións simples de TTS, como voz, velocidade, volume, transparencia de botóns, caracteres que rematan as frases e o número de frases lidas á vez, así como dispositivos que complementan as funcións TTS.
-O número de frases lidas á vez é unha función engadida para permitir que se len varias liñas de inmediato cun mínimo atraso.
+A configuración relacionada coa TTS concéntrase en [Configuración - Configuración TTS] e [Configuración do filtro TTS].
+A configuración de TTS inclúe non só características simples de TTS como voz, velocidade, volume, transparencia de botóns, carácter final de frases e número de frases lidas á vez, senón tamén se engaden dispositivos que complementan a función TTS.
+O número de frases lidas á vez é unha función engadida para permitirche ler varias liñas á vez e escoitar con mínimo atraso.
 O filtro TTS é unha das características máis potentes desta aplicación.
-[Configuración do filtro TTS] Permite establecer unha serie de caracteres, palabras ou frases especiais que necesitas para saltar.
-Se preme o botón de descarga, pode descargar decenas de filtros que producín.
-Tamén podes engadilo ti se o necesitas.
-[A función de apagado automático] pode configurar o tempo de apagado automático tocando a icona en forma de lúa no lado esquerdo do botón de parada ao xogar TTS.
+En [Configuración do filtro TTS], pode configurar varios caracteres, palabras ou frases especiais que se deben saltar.
+Se fai clic no botón de descarga, pode descargar decenas de filtros que creei.
+Tamén podes engadir o teu se é necesario.
+[Función de apagado automático] permítelle establecer o tempo de apagado automático tocando a icona en forma de lúa á esquerda do botón de parada ao xogar TTS.
 
 
-8. Descrición das capacidades de copia de seguridade e recuperación:
-Configuración: a copia de seguridade e recuperación é unha característica que permite que varios dispositivos utilicen a aplicación no mesmo ambiente.
-Podes iniciar sesión na unidade para a recuperación de copias de seguridade.
-Cando se ve desde varios dispositivos, como PC, teléfonos e almofadas, pode usar a copia de seguridade de localización para sincronizar a súa situación de visualización.
-Seleccione o dispositivo que desexa autosincronización e active a función de autosincronización para moverse automaticamente á última ubicación cando executa a aplicación ou volva a casa e volva.
+8. Función de copia de seguridade e recuperación Descrición:
+[Configuración: copia de seguridade e recuperación] é unha función creada para permitirche usar a aplicación no mesmo ambiente en varios dispositivos.
+Podes iniciar sesión na unidade e restaurar copias de seguridade.
+Ao ver varios dispositivos como PC, teléfono ou PAD, pode sincronizar a situación de visualización mediante a copia de seguridade da localización.
+Se seleccionas un dispositivo para sincronizar e activar automaticamente a función [Sync Auto], pasará automaticamente á última ubicación vista cando execute a aplicación ou saia e regrese á páxina de inicio.
 
-9. Como usar a modificación por lotes de texto:
-1. [Configuración - Configuración - Botón de edición a granel]
-2. [Configuración: editar texto colectivamente]
-Podes usar a modificación por lotes de dúas formas.
-No caso do número 1, úsase para escoitar TTS e para borrar ou cambiar a frase a outro personaxe se algunhas frases ou palabras son molestas.
-No caso do número 2, pode extraer o texto con OCR e seleccionar o ficheiro de texto do documento para realizar unha corrección por lotes.
-Tamén pode usar o botón de descarga para descargar e usar erros de recoñecemento frecuentemente para a corrección por lotes de texto.
-Correccións a granel: as descargas só mostrarán a lista se a configuración do idioma está en coreano.
-Isto débese a que os desenvolvedores non falan outros idiomas.
-Se informes usando a función do informe, engadirei o idioma do país.
+9. Como usar o texto de edición por lotes:
+1. [Configuración - Configuración - Mostrar botón de edición por lotes]
+2. [Configuración: texto de edición a granel]
+A edición a granel pódese usar de dúas formas.
+No caso 1, se algunhas frases ou palabras son molestas ao escoitar TTS, úsase para borrar as frases ou cambialas a outros personaxes.
+No caso 2, pode extraer texto usando OCR e logo seleccionar ficheiros de texto da miña biblioteca para realizar a edición por lotes.
+Tamén pode usar o botón de descarga para editar por lotes de texto para descargar erros de recoñecemento frecuentemente ocorridos.
+[Batch Edit - Descargar] só mostrará a lista se a configuración de idiomas é coreana.
+Isto débese a que os desenvolvedores non saben falar outros idiomas.
+Se o informas usando a función do informe, engadiremos o idioma do teu país.
 
-10. Se hai unha frase inquietante ao escoitar TTS, resólveo:
-Se non importa se o orixinal está modificado, cambialo á función [modificación colectiva].
-Despois do cambio, o ficheiro de copia de seguridade permanecerá na miña biblioteca, polo que se o modificas accidentalmente, podes recuperalo de novo.
-Se desexa eliminar o orixinal só de TTS sen tocalo, use o filtro TTS.
+10. Solución Se hai unha frase molesta ao escoitar TTS:
+Se non lle importa que o orixinal se modifique, use a función [Editar por lotes] para cambialo.
+Despois dos cambios, un ficheiro de copia de seguridade permanecerá na miña biblioteca, polo que se comete cambios por erro, podes restauralos.
+Se desexa eliminar só TTs sen tocar o orixinal, use o filtro TTS.
 
-11. Descrición relacionada coa páxina:
-Se empregas funcións especiais como a inspección de frases TTS, a corrección por lotes, a reorganización de liñas e a tradución, as páxinas consumiranse, pero dado que é de aproximadamente 10 a 50, non o sentirás consumido.
-É probable que a maioría das páxinas se poidan sentir para extraer texto de OCR, EPUB e PDF.
-Ao extraer texto, non só extraemos de xeito único, senón que organizamos frases facendo decenas de problemas que xorden despois da extracción en patróns.
-É unha parte que foi realmente difícil de implementar, polo que probalo.
+11. Explicación relacionada co punto:
+Os puntos consúmense ao usar funcións especiais como a comprobación de frases TTS, a edición de lotes, o arranxo de liña e a tradución, pero dado que son entre 10 e 50, non sentirás o consumo.
+É probable que a maioría dos puntos se usen ata un punto que se pode sentir ao extraer texto de OCR, EPUB e PDF.
+Ao extraer texto, non só extraemos o texto, senón que creamos patróns de decenas de problemas que xorden despois da extracción e proceden á organización de frases.
+Esta parte foi implementada con moita dificultade, polo que tenta usala polo menos unha vez.
 
 
-12. Descrición da publicidade:
+12. Explicación relacionada coa publicidade:
 Son un desenvolvedor e un usuario.
-Engadimos anuncios na medida en que non interfiren co uso o máximo posible.
-Os anuncios inclúen anuncios de páxinas e anuncios de eliminación de anuncios.
-Unha páxina pode ter ata 60.000 páxinas.
-Ao eliminar os anuncios, pode usar a páxina para eliminar anuncios durante un determinado período de tempo. (Excluíndo o tempo de sono, é aproximadamente un día.)
-Para aqueles que pre-pila, pode eliminar a publicidade do espectador consumindo 2000 páxinas.
-Cando consumes 8000 páxinas, todos os anuncios están desactivados, excepto os anuncios de 30 segundos para a adquisición de páxinas e os anuncios nativos no medio da configuración.
-Engadíronse 8000 anuncios de páxinas para aqueles que se molestan por anuncios curtos que aparecen durante unha gran cantidade de conversión.
+Engadíronse anuncios na medida en que non interfiren co uso o máximo posible.
+Hai dous tipos de anuncios: puntos que protexen anuncios e anuncios publicitarios.
+Podes aguantar ata 60.000 puntos.
+Ao eliminar os anuncios, pode usar puntos para eliminar os anuncios durante un determinado período de tempo. (Excluíndo o tempo de durmir, é aproximadamente un día.)
+Para os que acumulan puntos con antelación, pode eliminar os anuncios do espectador consumindo 2000 puntos.
+Cando consumes 8000 puntos, todos os anuncios estarán desactivados, excepto o anuncio de 30 segundos para asegurar puntos e o anuncio nativo no medio da configuración.
+Engadiuse o anuncio de 8000 puntos para aqueles que resulta molesto ver anuncios curtos que aparecen ao realizar grandes tarefas de conversión.
 
 
-13. Descrición da función para oído (historia de historia):
-Admite a función de vista do oído.
-Por exemplo, digamos que temos un documento titulado A (1 a 50) e temos un novo documento chamado A (1 a 100).
-Neste caso, xa é necesario saltar a posición principal.
-Cando seleccionas un ficheiro de texto na miña biblioteca, aparece o menú de visualización de oídos.
-Se seleccionas este menú e logo selecciona A (1 a 50) na historia, saltará automaticamente a posición vista anteriormente.
-Cando teñas tempo despois, elimine un (1-50) da historia.
+13. Descrición da función de continuación (ligazón de historia):
+Admite a función de visualización continua.
+Por exemplo, digamos que hai un documento titulado A (1 ~ 50), pero agora recibe un novo documento titulado A (1 ~ 100).
+Neste caso, xa ten que saltar a situación principal.
+Cando seleccionas un ficheiro de texto na miña biblioteca, aparece o menú Continuar.
+Despois de seleccionar este menú, se seleccionas A (1 ~ 50) na historia, saltará automaticamente a localización previamente vista.
+Cando teñas tempo despois, elimine un (1 ~ 50) da historia.
 Na historia tamén se contabiliza o número total de libros lidos.
 Se permanece o mesmo documento, pódese amosar información inexacta.
 
 
-14. Marcador/Nota/Protagonización Descrición:
-A aplicación admite notas e marcador/protagonista.
-Se acendes a función de marcador na configuración de marcadores, podes engadila premendo e mantendo texto.
-A función de notas permítelle seleccionar e introducir un ficheiro se o abriu polo menos unha vez.
-Se abre un ficheiro polo menos unha vez, aparece unha estrela na parte superior da selección de ficheiros.
-Notas e horóscopos pódense usar para rexistrar avaliacións do propio ficheiro.
-Os marcadores pódense usar para rexistrar contido importante.
+14. Marcador/Memo/Star Talking Descrición:
+A aplicación admite funcións de nota e de clasificación de marcadores/estrelas.
+Se acendes a función de marcador na configuración do marcador, podes engadila premendo o texto.
+A función da nota permite seleccionar e introducir un ficheiro se abriu e viu o ficheiro polo menos unha vez.
+Se abre un ficheiro incluso unha vez, hai unha estrela na parte superior cando seleccionas o ficheiro.
+Pódense usar notas e clasificacións para rexistrar avaliacións do propio ficheiro.
+Os marcadores pódense usar para rexistrar información importante.
 
 
 
-14. Descrición do examinador de frases TTS:
-Cando mirei moitos documentos, comecei a ver un patrón de textos ben escritos e non escritos.
-Atopei un patrón que sempre sae en lamentables textos.
-Organicei este patrón e producino ponderando cada patrón.
-Nomeámolo [Busca de miña] nun principio.
-Non obstante, esta función fíxose cun xuízo demasiado subxectivo, polo que a cambiei a TTS Sentence Checker.
+14. Descrición do verificador de frases TTS:
+Mentres miraba a través de numerosos documentos, comecei a ver patróns entre artigos ben escritos e non tan ben escritos.
+Descubrín un patrón que sempre aparece en artigos decepcionantes.
+Esta é unha función que creei organizando estes patróns e dando peso a cada patrón.
+Ao principio, esta función foi nomeada [Minesweeper].
+Non obstante, esta función foi creada en función dun xuízo demasiado subxectivo, polo que se cambiou ao verificador de frases TTS.
 Esta característica só admite coreano.
-Non sei a linguaxe doutros países, polo que non podo organizar os meus patróns, xa sexa bo ou malo.
-Se hai un patrón coma este noutros países, envialo por correo electrónico.
-Unha vez que poida soportar varias linguas nacionais, pasaremos a función á configuración.
-Aínda queda un punto na configuración.
+Porque non coñezo ben as linguas doutros países, non puiden descubrir se a escritura era boa ou mala.
+Se hai un patrón coma este noutros países, informa por correo electrónico.
+Unha vez que poidamos soportar varias linguas nacionais, pasaremos a función a Configuración.
+Aínda queda un espazo na configuración.
 
 
-15. Explicación da función da administración do can:
-Este é un método que se pode usar se a frase non está rematada, pero a entrada está caída.
-Normalmente, isto sucede moito a documentos que se traballan coa conversión OCR.
-Esta característica non é só unha combinación de Enter.
-É unha función que se implementa analizando documentos con numerosos erros de apertura e organizando os patróns.
-Intentei introducir a IA para organizala, pero non foi fácil.
-Hai moitas investigacións sobre o procesamento da linguaxe natural nestes días, polo que engadireino se podo procesalo con AI máis tarde.
+15. Descrición da función de rotura de liña:
+O teorema de rotura de liña é un método que se pode usar cando non se remata a frase pero a tecla Enter está presionada.
+Este fenómeno ocorre normalmente en documentos procesados ​​mediante a conversión de OCR.
+Esta función non só combina Enter.
+Esta función foi implementada analizando documentos con numerosos erros de nova liña e organizando os patróns.
+Intentei introducir organización usando AI, pero non foi fácil.
+Hoxe en día, estase a facer moitas investigacións sobre o procesamento da linguaxe natural, polo que se podemos procesala con IA no futuro, intentaremos engadilo.
 
 16. Función de tradución Descrición:
-A funcionalidade de tradución local / navegador web é compatible.
-A tradución local é unha función que se traduce en IA desenvolvida por Google. As palabras sinxelas pódense traducir ben, pero parecen haber moitas traducións erróneas na tradución de frases.
-A tradución do navegador web é unha función que amosa frases para ser traducida nun navegador.
-Se acendes a función de tradución en Configuración - Configuración de tradución e prema e mantén a frase, a función de tradución funcionará.
+Soporta funcións de tradución/tradución do navegador web locais.
+A tradución local é unha función que se traduce usando AI desenvolvida por Google. As palabras sinxelas tradúcense ben, pero parecen haber algunhas traducións erróneas na tradución de frases.
+A tradución do navegador web é unha función que mostra a frase para ser traducida no navegador.
+Se acende a función de tradución en [Configuración - Configuración de tradución] e prema e mantén a frase, a función de tradución funcionará.
 
 17. Outros asuntos:
-Cando abras un documento, a entrada que repite máis de tres veces abrirase cambiando a dúas veces.
-A entrada excesiva é inconveniente de escoitar con TTS e incómodo para ver.
-Algúns de vostedes xa se fixeron notar de usar a miña aplicación durante moito tempo. "Hmm? Algúns de vostedes poderían pensar," nunca vin moito entretemento ".
-Implementamos tanta funcionalidade como o visor de texto pode soportar.
+Ao abrir un documento, EarApp cambiará automaticamente a tecla Enter repetida tres ou máis veces a dúas veces.
+As enteracións excesivas son incómodas de escoitar e ver a través de TTS.
+Algúns de vostedes xa o fixeron notar mentres usaba a miña aplicación durante moito tempo e din: "Hmm? Agora que penso niso, nunca te vin a premer moito? " Algunhas persoas poden pensalo.
+Implementamos o maior número de funcións posibles no visor de texto.
 
-Escribín 17 usos, pero non creo que usei a metade deles.
-Omitíronse funcións sinxelas como a cor de fondo, a imaxe de fondo, a cor da letra e o método de xiro de páxinas.
-Espero que este documento axude a moita xente.
-Se miras a configuración: información e axuda, hai unha ligazón ao chat do grupo Telegram, polo que se tes algunha dúbida, podes entrar e preguntar.
-Grazas por ler ata o final.
+Escribín dezasete xeitos de usalo, pero non creo que nin escribín a metade aínda.
+Omitíronse funcións sinxelas como a cor de fondo, a imaxe de fondo, a cor do texto e o método de xiro de puntos.
+Espero que este artigo sexa útil para moita xente.
+Se miras [Configuración - información e axuda], hai unha ligazón á sala de chat de grupo Telegram, polo que se tes algunha dúbida, podes entrar e facer.
+Grazas por ler.

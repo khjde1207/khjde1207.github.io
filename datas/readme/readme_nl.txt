@@ -1,152 +1,152 @@
-Hoe het te gebruiken (moet lezen):
+Hoe te gebruiken (moet lezen):
 
-Deze applicatie heeft veel functies, dus ik raad je aan het een voor een te lezen.
+Deze app heeft veel functies, dus ik raad aan om er door te lezen.
 
 1. Hoe bestanden te bekijken:
-Klik op Bestand toevoegen in mijn document om TXT toe te voegen.
-Raak het TXT -bestand aan en druk op de knop Openen onderaan om het bestand te bekijken.
+Klik op Bestand toevoegen in mijn bibliotheek om TXT toe te voegen.
+U kunt het bestand bekijken door het TXT -bestand aan te raken en op de knop Openen onderaan te drukken.
 
 
-2. Hoe kijker -advertenties / onderste navigatieknoppen te verbergen:
-Tik dubbel op het midden van het scherm.
-Terwijl u overschakelt naar het volledige scherm, verdwijnen de advertenties en knoppen.
+2. Hoe u viewer -advertenties/onderste navigatieknoppen verbergt:
+Tap het midden van het scherm dubbel.
+Wanneer het naar het volledige scherm schakelt, verdwijnen advertenties en knoppen.
 
 
-3. Om het knopmittfunctiegebied te wijzigen:
-U kunt het wijzigen onder Instellingen - Touch Area -instellingen.
-U kunt een aantal functies instellen, waaronder volledig scherm, paginabeweging, helderheidsaanpassing en volumeregeling.
-Bluetooth -afstandsbediening wordt ook ondersteund, zodat u kunt liggen en het comfortabel kunt bekijken.
+3. Hoe de knop en het functiegebied te wijzigen:
+U kunt het wijzigen in [Instellingen - Touch Area -instellingen].
+U kunt verschillende functies instellen, zoals volledig scherm, paginabeweging, helderheidsregeling en volumeregeling.
+Een Bluetooth -afstandsbediening wordt ook ondersteund, dus je kunt het op een standaard plaatsen en comfortabel bekijken terwijl je ligt.
 
 
-4. Om het lettertype of lettergrootte te wijzigen:
-U kunt het lettertype- of lettergrootte wijzigen onder instellingen - Instellingen - Lettertype -instellingen.
-U kunt het lettertype gebruiken door op de downloadknop te drukken om tientallen gratis lettertypen te ontvangen.
+4. Hoe het lettertype of tekstgrootte te wijzigen:
+U kunt het lettertype- of lettergrootte wijzigen in [Instellingen - Instellingen - Lettertype -instellingen].
+U kunt tientallen gratis lettertypen gebruiken door op de downloadknop te klikken.
 
 
-5. Hoe u de conversie van afbeeldingen kunt gebruiken:
-U kunt tekst uit een gecomprimeerde afbeelding extraheren. Dit wordt de OCR -functie genoemd.
-My Journal - Klik op Bestand toevoegen en voeg een zip -bestand toe.
+5. Hoe de afbeelding te gebruiken naar tekstconversiefunctie:
+U kunt tekst extraheren uit gecomprimeerde afbeeldingen. Dit wordt de OCR -functie genoemd.
+Mijn bibliotheek - klik op Bestand toevoegen en voeg het zip -bestand toe.
 U kunt converteren door het zip -bestand te selecteren en vervolgens het OCR -menu te selecteren.
-De pagina wordt verbruikt tijdens de conversie.
-OCR werkt met AI, dus de snelheid en nauwkeurigheid zijn redelijk goed.
+Pagina's worden tijdens de conversie geconsumeerd.
+OCR wordt gedaan met AI, dus de snelheid en nauwkeurigheid zijn redelijk goed.
 
 
-6. EPUB, PDF -conversiemethode:
+6. Hoe EPUB te converteren naar PDF:
 Het is hetzelfde als de beeldconversiemethode.
-Er zijn een paar dingen om van op de hoogte te zijn.
-EPUB of PDF kan "gecodeerd" zijn.
-Het wordt voornamelijk gebruikt om letters te breken en ze alleen in bepaalde lettertypen zichtbaar te maken.
-In dit geval komt het uit als een buitenaards karakter, niet Koreaans, dus je kunt het niet lezen in TTS.
-Als een manier om dit probleem op te lossen, kan de functie van het extraheren van beelden worden gebruikt en kan de OCR worden gedraaid om te extraheren.
+Er zijn een paar dingen om in gedachten te houden.
+In het geval van EPUB of PDF kan het "gecodeerd" zijn.
+De meest voorkomende methode is om letters alleen in specifieke lettertypen te maken en zichtbaar te maken.
+In dit geval kan het niet worden gelezen met behulp van TT's omdat het eruit ziet als een vreemd personage in plaats van Koreaans.
+Om dit probleem op te lossen, kunt u de beeldextractiefunctie gebruiken en vervolgens OCR gebruiken om deze te extraheren.
 
 
 7. Hoe TTS in te stellen:
-TTS -gerelateerde instellingen zijn geconcentreerd in instellingen - TTS -instellingen, TTS -filterinstellingen.
-De TTS -instellingen bevatten eenvoudige TTS -functies, zoals spraak, snelheid, volume, knoptransparantie, tekens die zinnen beëindigen en het aantal zinnen dat tegelijkertijd wordt gelezen, evenals apparaten die de TTS -functies aanvullen.
-Het aantal tegelijk dat wordt gelezen, is een functie die is toegevoegd om meerdere regels onmiddellijk te laten lezen om met minimale vertraging te worden gehoord.
-Het TTS -filter is een van de krachtigste kenmerken van deze toepassing.
-[TTS -filterinstellingen] Hiermee kunt u een aantal speciale tekens, woorden of zinnen instellen die u moet overslaan.
-Als u op de downloadknop drukt, kunt u tientallen filters downloaden die ik heb geproduceerd.
-Je kunt het ook zelf toevoegen als je het nodig hebt.
-[Automatische afsluitfunctie] kan de automatische afsluittijd instellen door het maanvormige pictogram aan de linkerkant van de stopknop aan te raken bij het spelen van TTS.
+TTS -gerelateerde instellingen zijn geconcentreerd in [instellingen - TTS -instellingen] en [TTS -filterinstellingen].
+TTS -instellingen omvatten niet alleen eenvoudige TTS -functies zoals spraak, snelheid, volume, knoptransparantie, tinendarief en aantal zinnen dat tegelijkertijd wordt gelezen, maar ook apparaten die een aanvulling zijn op de TTS -functie worden toegevoegd.
+Het aantal in één keer gelezen zinnen is een functie die wordt toegevoegd waarmee u meerdere regels tegelijk kunt lezen en met minimale vertraging kunt luisteren.
+TTS -filter is een van de krachtigste functies van deze app.
+In [TTS -filterinstellingen] kunt u verschillende speciale tekens, woorden of zinnen instellen die moeten worden overgeslagen.
+Als u op de downloadknop klikt, kunt u tientallen filters downloaden die ik heb gemaakt.
+U kunt ook uw eigen toevoegen indien nodig.
+[Automatische afsluitfunctie] Hiermee kunt u de automatische afsluittijd instellen door het maanvormige pictogram links van de stopknop aan te raken bij het afspelen van TTS.
 
 
-8. Beschrijving van back -up- en herstelmogelijkheden:
-Setup - back -up en herstel is een functie waarmee meerdere apparaten de toepassing in dezelfde omgeving kunnen gebruiken.
-U kunt inloggen op de schijf voor back -upherstel.
-Wanneer bekeken vanuit meerdere apparaten, zoals pc's, telefoons en pads, kunt u locatieback -up gebruiken om uw kijklocatie te synchroniseren.
-Selecteer het apparaat dat u automatisch wilt maken en schakelt de functie Autosynchronisatie in om automatisch naar de laatste locatie te gaan wanneer u de applicatie uitvoert of naar huis gaat en terugkeert.
+8. Back -up en herstelfunctie Beschrijving:
+[Instellingen - back -up en herstel] is een functie die is gemaakt om de app in dezelfde omgeving op meerdere apparaten in staat te stellen.
+U kunt inloggen op de schijf en back -ups herstellen.
+Bij het bekijken van meerdere apparaten zoals pc, telefoon of pad kunt u de kijklocatie synchroniseren met behulp van de locatieback -up.
+Als u een apparaat selecteert om de functie [Auto Sync] automatisch te synchroniseren en in te schakelen, wordt deze automatisch naar de laatst bekeken locatie verplaatst wanneer u de app uitvoert of vertrekt en terugkeert naar de startpagina.
 
-9. Hoe u tekstbatchaanpassing kunt gebruiken:
-1. [Instellingen - instellingen - knop Bulk bewerken]
-2. [Instellingen - Collectief tekst bewerken]
-U kunt batch -aanpassing op twee manieren gebruiken.
-In het geval van nummer 1 wordt het gebruikt om naar TT's te luisteren en de zin te wissen of te veranderen in een ander karakter als sommige zinnen of woorden vervelend zijn.
-In het geval van nummer 2 kunt u de tekst extraheren met OCR en het tekstbestand selecteren uit het document om een ​​batchcorrectie uit te voeren.
-U kunt ook de downloadknop gebruiken om te downloaden en vaak voorkomende herkenningsfouten te gebruiken voor batchcorrectie van tekst.
-Bulkcorrecties - Downloads worden alleen de lijst weergegeven als de taalinstellingen in het Koreaans zijn.
-Dit komt omdat ontwikkelaars geen andere talen spreken.
-Als u meldt met behulp van de rapportfunctie, zal ik de taal van het land toevoegen.
+9. Hoe batch -bewerktekst te gebruiken:
+1. [Instellingen - Instellingen - Toon de batchbewerkingsknop]
+2. [Instellingen - Bulk -bewerktekst]
+Bulkbewerking kan op twee manieren worden gebruikt.
+In geval 1, als sommige zinnen of woorden vervelend zijn tijdens het luisteren naar TTS, wordt het gebruikt om de zinnen te wissen of in andere tekens te veranderen.
+In geval 2 kunt u tekst extraheren met behulp van OCR en vervolgens tekstbestanden uit mijn bibliotheek selecteren om batchbewerking uit te voeren.
+U kunt ook de downloadknop gebruiken om tekst te bewerken om vaak voorkomende herkenningsfouten te downloaden.
+[Batch Edit - Download] geeft alleen de lijst weer als de taalinstelling Koreaans is.
+Dit komt omdat ontwikkelaars niet weten hoe ze andere talen moeten spreken.
+Als u het meldt met behulp van de rapportfunctie, zullen we de taal van uw land toevoegen.
 
-10. Als er een schokkende zin is bij het luisteren naar TTS, werk dan uit:
-Als het niet uitmaakt of het origineel is gewijzigd, wijzigt u dit in de functie [collectieve modificatie].
-Na de wijziging blijft het back -upbestand in mijn bibliotheek, dus als u het per ongeluk wijzigt, kunt u het opnieuw herstellen.
-Als u het origineel alleen uit TTS wilt verwijderen zonder het aan te raken, gebruikt u het TTS -filter.
+10. Oplossing Als er een zin is die vervelend is bij het luisteren naar TT's:
+Als u het origineel niet erg vindt dat wordt gewijzigd, gebruikt u de functie [Batch bewerken] om deze te wijzigen.
+Na wijzigingen blijft er een back -upbestand in mijn bibliotheek, dus als u per ongeluk wijzigingen aanbrengt, kunt u ze herstellen.
+Als u alleen TT's wilt verwijderen zonder het origineel aan te raken, gebruikt u het TTS -filter.
 
-11. Pagina -gerelateerde beschrijving:
-Als u speciale functies gebruikt, zoals TTS -zinsinspectie, batchcorrectie, reorganisatie van lijnen en vertaling, worden pagina's geconsumeerd, maar omdat het ongeveer 10 tot 50 is, zult u het niet voelen geconsumeerd.
-De meeste pagina's worden waarschijnlijk gebruikt om te voelen bij het extraheren van tekst van OCR, EPUB en PDF.
-Bij het extraheren van tekst extraheren we niet alleen in zijn eentje, maar organiseren we ook zinnen door tientallen problemen te maken die na extractie in patronen ontstaan.
-Het is een deel dat echt moeilijk te implementeren was, dus probeer het alsjeblieft.
+11. Puntgerelateerde uitleg:
+Punten worden geconsumeerd bij het gebruik van speciale functies zoals TTS -zincontrole, batchbewerking, lijnopstelling en vertaling, maar omdat ze ongeveer 10 tot 50 zijn, zult u de consumptie niet voelen.
+De meeste punten worden waarschijnlijk in een mate gebruikt die kan worden gevoeld bij het extraheren van tekst uit OCR, EPUB en PDF.
+Bij het extraheren van tekst extraheren we niet alleen de tekst, maar maken we ook patronen uit tientallen problemen die zich voordoen na extractie en doorgaan met zinsorganisatie.
+Dit deel is met grote moeite geïmplementeerd, dus probeer het minstens één keer te gebruiken.
 
 
-12. Beschrijving van advertenties:
+12. Reclame gerelateerde uitleg:
 Ik ben zowel een ontwikkelaar als een gebruiker.
-We hebben advertenties toegevoegd in de mate dat ze het gebruik niet zoveel mogelijk verstoren.
-Advertenties bevatten advertenties voor pagina-beveiliging en advertenties voor advertenties.
-Een pagina kan maximaal 60.000 pagina's bevatten.
-Bij het verwijderen van advertenties kunt u de pagina gebruiken om advertenties voor een bepaalde periode te verwijderen. (Exclusief slaaptijd is het ongeveer een dag.)
-Voor diegenen die vooraf staken zijn, kunt u de advertentie van de kijker-kant verwijderen door 2000 pagina's te consumeren.
-Wanneer u 8000 pagina's consumeert, worden alle advertenties uitgeschakeld, behalve de advertenties van 30 seconden voor pagina-acquisitie en de native advertenties in het midden van de instellingen.
-Advertenties van 8000 pagina's zijn toegevoegd voor degenen die last hebben van korte advertenties die tijdens een grote hoeveelheid conversie opduiken.
+Advertenties zijn toegevoegd in de mate dat ze niet zoveel mogelijk met het gebruik interfereren.
+Er zijn twee soorten advertenties: punten die advertenties en advertentieverwijderingen beveiligen.
+U kunt maximaal 60.000 punten behouden.
+Bij het verwijderen van advertenties kunt u punten gebruiken om advertenties gedurende een bepaalde periode te verwijderen. (Exclusief de slaaptijd is het ongeveer één dag.)
+Voor degenen die vooraf punten verzamelen, kunt u advertenties aan de kijker-kant verwijderen door 2000 punten te consumeren.
+Wanneer u 8000 punten consumeert, worden alle advertenties uitgeschakeld, behalve de advertentie van 30 seconden om punten en de native advertentie in het midden van de instellingen te beveiligen.
+De advertentie van 8000 punten is toegevoegd voor degenen die het vervelend vinden om korte advertenties te zien die opduiken bij het uitvoeren van grote conversietaken.
 
 
-13. Functiebeschrijving voor oor (geschiedenis interworking):
-Het ondersteunt de Ear View -functie.
-Laten we bijvoorbeeld zeggen dat we een document hebben getiteld A (1 tot 50), en we hebben een nieuw document genaamd A (1 tot 100).
-In dit geval is het al noodzakelijk om de hoofdpositie over te slaan.
-Wanneer u een tekstbestand in mijn bibliotheek selecteert, verschijnt het menu van het oorweergave.
-Als u dit menu selecteert en vervolgens een (1 tot 50) in de geschiedenis selecteert, wordt de eerder bekeken positie automatisch overgeslagen.
-Als u later tijd hebt, verwijdert u een (1-50) uit de geschiedenis.
+13. Beschrijving van voortzetting (geschiedeniskoppeling) Functie:
+Ondersteunt continue kijkfunctie.
+Laten we bijvoorbeeld zeggen dat er een document is getiteld A (1 ~ 50), maar u ontvangt nu een nieuw document getiteld A (1 ~ 100).
+In dit geval moet u de hoofdlocatie al overslaan.
+Wanneer u een tekstbestand in mijn bibliotheek selecteert, verschijnt het menu Doorgaan.
+Na het selecteren van dit menu, als u een (1 ~ 50) in de geschiedenis selecteert, wordt de eerder bekeken locatie automatisch overgeslagen.
+Als u later tijd hebt, verwijdert u een (1 ~ 50) uit de geschiedenis.
 In de geschiedenis wordt ook het totale aantal gelezen boeken geteld.
 Als hetzelfde document blijft bestaan, kan onnauwkeurige informatie worden weergegeven.
 
 
-14. Bookmark/nota/hoofdrol Beschrijving:
-De app ondersteunt notities en bladwijzer/in de hoofdrol.
-Als u de bladwijzerfunctie in Bookmark -instellingen inschakelt, kunt u deze toevoegen door te drukken en tekst te houden.
-Met de functie Notes kunt u een bestand selecteren en invoeren als u het minstens één keer hebt geopend.
-Als u een bestand minstens eenmaal opent, verschijnt er een ster bovenaan de bestandselectie.
-Opmerkingen en horoscopen kunnen worden gebruikt om evaluaties van het bestand zelf vast te leggen.
-Bladwijzers kunnen worden gebruikt om belangrijke inhoud op te nemen.
+14. Bookmark/memo/star rating Beschrijving:
+De app ondersteunt memo- en bladwijzer/sterrenwaarderfuncties.
+Als u de bladwijzerfunctie in de bladwijzerinstellingen inschakelt, kunt u deze toevoegen door lang op de tekst te drukken.
+Met de memo -functie kunt u een bestand selecteren en invoeren als u het bestand minstens één keer hebt geopend en bekeken.
+Als u zelfs eenmaal een bestand opent, is er een ster bovenaan wanneer u het bestand selecteert.
+Opmerkingen en beoordelingen kunnen worden gebruikt om evaluaties van het bestand zelf vast te leggen.
+Bladwijzers kunnen worden gebruikt om belangrijke informatie op te nemen.
 
 
 
-14. TTS -zinonderzoeker Beschrijving:
-Toen ik naar veel documenten keek, begon ik een patroon van goed geschreven en niet-geschreven teksten te zien.
-Ik vond een patroon dat altijd uitkomt in ongelukkige teksten.
-Ik heb dit patroon georganiseerd en geproduceerd door elk patroon te wegen.
-We hebben het eerst [mijn zoeken] genoemd.
-Deze functie werd echter gemaakt met een te subjectieve oordeel, dus veranderde ik deze in TTS -zinscontrole.
+14. TTS Zin Checker Beschrijving:
+Toen ik door talloze documenten keek, begon ik patronen te zien tussen goed geschreven en niet-zo-goed geschreven artikelen.
+Ik ontdekte een patroon dat altijd in teleurstellende artikelen verschijnt.
+Dit is een functie die ik heb gemaakt door deze patronen te organiseren en elk patroon gewicht te geven.
+In eerste instantie werd deze functie genoemd [mijnenweeper].
+Deze functie is echter gemaakt op basis van een te subjectieve oordeel, dus werd deze gewijzigd in TTS -zinscontrole.
 Deze functie ondersteunt alleen Koreaans.
-Ik ken de taal van andere landen niet, dus ik kan mijn patronen niet organiseren, of het nu goed of slecht is.
-Als er een patroon als dit in andere landen is, stuur het dan per e-mail naar ons.
-Zodra u meerdere nationale talen kunt ondersteunen, zullen we de functie naar instellingen verplaatsen.
-Er is nog één plek over in de instellingen.
+Omdat ik de talen van andere landen niet goed ken, kon ik er niet achter komen of het schrijven goed of slecht was.
+Als er een patroon als dit in andere landen is, meld dit dan via e -mail.
+Zodra we meerdere nationale talen kunnen ondersteunen, zullen we de functie naar instellingen verplaatsen.
+Er is nog één ruimte over in de instellingen.
 
 
-15. Verklaring van de functie van de hondenadministratie:
-Dit is een methode die kan worden gebruikt als de zin niet is voltooid, maar de vermelding is omlaag.
-Meestal gebeurt dit veel voor documenten die worden bewerkt met de OCR -conversie.
-Deze functie is niet alleen een combinatie van Enter.
-Het is een functie die wordt geïmplementeerd door documenten te analyseren met tal van openingsfouten en het organiseren van de patronen.
-Ik probeerde AI te introduceren om het te organiseren, maar het was niet eenvoudig.
-Er is tegenwoordig veel onderzoek naar natuurlijke taalverwerking, dus ik zal het toevoegen als ik het later met AI kan verwerken.
+15. Beschrijving van de lijnbreukfunctie:
+Line Break Stelling is een methode die kan worden gebruikt wanneer de zin niet is voltooid, maar de Enter -toets wordt ingedrukt.
+Dit fenomeen komt meestal voor in documenten die zijn verwerkt door OCR -conversie.
+Deze functie combineert niet alleen Enter.
+Deze functie werd geïmplementeerd door documenten te analyseren met tal van nieuwe fouten en het organiseren van de patronen.
+Ik probeerde het organiseren te introduceren met behulp van AI, maar het was niet eenvoudig.
+Tegenwoordig wordt veel onderzoek gedaan naar de verwerking van natuurlijke taal, dus als we het in de toekomst met AI kunnen verwerken, zullen we proberen het toe te voegen.
 
 16. Vertaalfunctie Beschrijving:
-Lokale vertaling / webbrowser vertaalfunctionaliteit wordt ondersteund.
-Lokale vertaling is een functie die zich vertaalt in AI ontwikkeld door Google. Eenvoudige woorden kunnen goed worden vertaald, maar er lijken veel onenigheid te zijn in zinsvertaling.
-Webbrowservertaling is een functie die zinnen weergeeft die in een browser moeten worden vertaald.
-Als u de vertaalfunctie in instellingen inschakelt - vertaalinstellingen en de zin ingedrukt houdt, werkt de vertaalfunctie.
+Ondersteunt lokale vertaling/webbrowser vertaalfuncties.
+Lokale vertaling is een functie die vertaalt met behulp van AI ontwikkeld door Google. Eenvoudige woorden worden goed vertaald, maar er lijken nogal wat onenigheid te zijn in zinsvertaling.
+Webbrowservertaling is een functie die de zin weergeeft die in de browser moet worden vertaald.
+Als u de vertaalfunctie in [Instellingen - vertaalinstellingen] inschakelt en de zin ingedrukt houdt, werkt de vertaalfunctie.
 
 17. Andere zaken:
-Wanneer u een document opent, wordt het item dat meer dan drie keer herhaalt, geopend door over te schakelen naar twee keer.
-Overmatige Enter is onhandig om te luisteren met TTS en ongemakkelijk om te zien.
-Sommigen van jullie hebben het misschien al gemerkt door mijn app al lang te gebruiken. "Hmm? Sommigen van jullie denken misschien," ik heb nog nooit veel entertainment gezien. "
-We hebben zoveel functionaliteit geïmplementeerd als de tekstviewer kan ondersteunen.
+Bij het openen van een document verandert Earapp de entertoets automatisch drie of meer keer herhaald in twee keer.
+Overmatige binnenkant is ongemakkelijk om te luisteren naar en te bekijken via TTS.
+Sommigen van jullie hebben dit misschien al opgemerkt tijdens het gebruik van mijn app en zeggen: "Hmm? Nu ik erover nadenk, heb ik je nog nooit veel zien op invoeren? " Sommige mensen denken misschien wel.
+We hebben zoveel mogelijk functies geïmplementeerd in de tekstviewer.
 
-Ik heb 17 toepassingen opgeschreven, maar ik denk niet dat ik de helft nog heb gebruikt.
-Eenvoudige functies zoals achtergrondkleur, achtergrondafbeelding, letterkleur en paginatochtmethode zijn weggelaten.
-Ik hoop dat dit document veel mensen zal helpen.
-Als u naar instellingen kijkt - informatie en hulp, is er een link naar de Telegram Group -chat, dus als u vragen heeft, kunt u binnenkomen en vragen.
-Bedankt voor het lezen tot het einde.
+Ik heb zeventien manieren opgeschreven om het te gebruiken, maar ik denk niet dat ik er nog de helft van heb geschreven.
+Eenvoudige functies zoals achtergrondkleur, achtergrondafbeelding, tekstkleur en puntdraaien zijn weggelaten.
+Ik hoop dat dit artikel voor veel mensen nuttig zal zijn.
+Als u naar [Instellingen - informatie en hulp] kijkt, is er een link naar de chatroom van Telegram Group, dus als u vragen heeft, kunt u binnenkomen en vragen.
+bedankt voor het lezen.

@@ -1,152 +1,152 @@
 Hogyan kell használni (olvassa el):
 
-Ennek az alkalmazásnak sok funkciója van, ezért azt javaslom, hogy olvassa el egyenként.
+Ennek az alkalmazásnak sok funkciója van, ezért azt javaslom, olvassa el rajta.
 
 1. A fájlok megtekintése:
-Kérjük, kattintson a fájl hozzáadása elemre a dokumentumba a txt hozzáadásához.
-Érintse meg a TXT fájlt, és nyomja meg az alsó megnyitási gombot a fájl megtekintéséhez.
+A txt hozzáadásához kattintson a fájl hozzáadása a könyvtárba.
+A fájlt a TXT fájl megérintésével és az alsó megnyitó gomb megnyomásával tekintheti meg.
 
 
-2. Hogyan lehet elrejteni a néző hirdetéseit / az alsó navigációs gombokat:
-Koppintson duplán a képernyő közepére.
-Ahogy a teljes képernyőre vált, a hirdetések és a gombok eltűnnek.
+2. Hogyan lehet elrejteni a néző hirdetéseit/alsó navigációs gombokat:
+Duplázza meg a képernyő közepét.
+Amikor a teljes képernyőre vált, a hirdetések és a gombok eltűnnek.
 
 
-3. A gombos MITT függvény területének megváltoztatása:
-Megváltoztathatja azt a Beállítások - érintési területek beállításai alatt.
-Számos funkciót beállíthat, beleértve a teljes képernyőt, az oldalmozgást, a fényerő -beállítást és a hangerőszabályozást.
-A Bluetooth távirányítót szintén támogatják, így lefeküdhet és kényelmesen nézheti meg.
+3. Hogyan lehet megváltoztatni a gombot és a funkcióterületet:
+Megváltoztathatja a [Beállítások - érintőképernyő -beállítások] -ben.
+Beállíthatja a különféle funkciókat, például a teljes képernyőt, az oldalmozgást, a fényerő -szabályozást és a hangerőszabályozást.
+A Bluetooth távirányító szintén támogatott, így elhelyezheti egy állványra, és kényelmesen tekintheti meg, miközben lefekszik.
 
 
-4. A betűtípus vagy a betűméret megváltoztatása:
-Megváltoztathatja a betűkészlet vagy a betűtípus méretét a beállítások - beállítások - betűtípus -beállítások alatt.
-A betűkészlet használatával a Letöltés gomb megnyomásával tucatnyi ingyenes betűtípust kaphat.
+4. Hogyan lehet megváltoztatni a betűtípust vagy a szöveg méretét:
+Megváltoztathatja a betűkészlet vagy a betűtípus méretét a [Beállítások - Beállítások - betűtípus -beállítások] címen.
+Több tucat ingyenes betűtípust használhat a letöltés gombra kattintva.
 
 
-5. Hogyan kell használni a képszöveg konverzióját:
-Kivonhatja a szöveget egy tömörített képből. Ezt OCR függvénynek hívják.
-A folyóiratom - kattintson a Fájl hozzáadása elemre, és hozzáadjon egy ZIP fájlt.
+5. Hogyan lehet használni a képet a szöveges konverziós funkcióhoz:
+Kivonhatja a szöveget a tömörített képekből. Ezt OCR függvénynek hívják.
+Könyvtáram - kattintson a Fájl hozzáadása elemre, és adja hozzá a ZIP fájlt.
 Konvertálhat a ZIP fájl kiválasztásával, majd az OCR menü kiválasztásával.
-Az oldalt átalakítás során fogyasztják.
-Az OCR az AI -vel működik, tehát a sebesség és a pontossága nagyon jó.
+Az oldalakat átalakítás során fogyasztják.
+Az OCR az AI -vel történik, tehát a sebesség és a pontossága nagyon jó.
 
 
-6. EPUB, PDF konverziós módszer:
+6. Hogyan konvertálhatjuk az EPUB -t PDF -re:
 Ugyanaz, mint a képkonverziós módszer.
-Van néhány dolog, amit tisztában lehet.
-Az EPUB vagy a PDF "titkosítható".
-Elsősorban a betűk megszakítására használják, és csak bizonyos betűkészletekben láthatóvá teszik őket.
-Ebben az esetben úgy jön ki, mint egy földönkívüli karakter, nem koreai, tehát nem olvashatja el a TTS -ben.
-A probléma megoldásának egyik módjaként a képek kinyerése használható, majd az OCR elforgatható a kivonáshoz.
+Van néhány dolgot, amelyet szem előtt kell tartani.
+Az EPUB vagy a PDF esetében „titkosítható” lehet.
+A leggyakoribb módszer az, hogy a betűket csak meghatározott betűkészletekben megzavarva és láthatóvá tegyük.
+Ebben az esetben nem olvasható a TTS használatával, mert inkább idegen karakternek tűnik, mint koreai.
+A probléma megoldásához használhatja a képkivonási funkciót, majd az OCR felhasználásával kinyerheti azt.
 
 
 7. A TTS beállításának módja:
-A TTS -hez kapcsolódó beállítások a beállításokban koncentrálódnak - TTS -beállítások, TTS szűrőbeállítások.
-A TTS beállításai tartalmazzák az egyszerű TTS funkciókat, mint például a hang, a sebesség, a hangerő, a gomb átlátszóság, a mondatok befejező karakterei és a mondatok száma egyidejűleg, valamint olyan eszközök, amelyek kiegészítik a TTS funkciókat.
-Az egyszerre leolvasott mondatok száma egy olyan függvény, amely lehetővé teszi, hogy több sor egyszerre olvasható legyen minimális késleltetéssel.
-A TTS szűrő az alkalmazás egyik legerősebb tulajdonsága.
-A [TTS szűrőbeállítások] lehetővé teszi számos speciális karakter, szav vagy mondat beállítását, amelyeket ki kell hagynia.
-Ha megnyomja a Letöltés gombot, akkor tucatnyi szűrőt tölthet le, amelyet készítettem.
-Ön is hozzáadhatja azt is, ha szüksége van rá.
-Az [automatikus leállítási funkció] beállíthatja az automatikus leállási időt, ha megérinti a Hold alakú ikont a Stop gomb bal oldalán, a TTS lejátszásakor.
+A TTS -hez kapcsolódó beállítások a [Beállítások - TTS -beállítások] és a [TTS szűrőbeállítások] koncentrációjában vannak.
+A TTS -beállítások nemcsak az egyszerű TTS funkciókat tartalmazzák, mint például a hang, a sebesség, a hangerő, a gomb átláthatóság, a mondat befejező karakter és az egyszerre olvasott mondatok száma, hanem olyan eszközök is, amelyek kiegészítik a TTS funkciót.
+Az egyszerre leolvasott mondatok száma egy olyan függvény, amely lehetővé teszi, hogy egyszerre több sort olvashasson, és minimális késleltetéssel hallgassa meg.
+A TTS Filter az alkalmazás egyik legerősebb funkciója.
+A [TTS szűrőbeállítások] -ben különféle speciális karaktereket, szavakat vagy mondatokat állíthat be, amelyeket át kell hagyni.
+Ha rákattint a Letöltés gombra, akkor tucatnyi szűrőt tölthet le.
+Szükség esetén hozzáadhatja a sajátját is.
+Az [Automatikus leállítási funkció] lehetővé teszi az automatikus leállítási idő beállítását a hold alakú ikon megérintésével a stop gombról a TTS lejátszásakor.
 
 
-8. A biztonsági mentési és helyreállítási képességek leírása:
-Beállítás - A biztonsági mentés és a helyreállítás egy olyan szolgáltatás, amely lehetővé teszi több eszköz számára, hogy az alkalmazást ugyanabban a környezetben használja.
-Jelentkezhet be a meghajtóra a biztonsági mentés helyreállításához.
-Több eszközről, például PC -kből, telefonokból és párnákból nézve, akkor a Location biztonsági másolatot használhatja a megtekintési hely szinkronizálásához.
-Válassza ki az automatikus szinkronizálni kívánt eszközt, és kapcsolja be az Autoszinkronizációs funkciót, hogy automatikusan áttérjen az utolsó helyre, amikor az alkalmazást futtatja, vagy hazamegy, és visszatér.
+8. Biztonsági másolat és helyreállítási funkció leírás:
+[Beállítások - Biztonsági másolat és helyreállítás] egy olyan funkció, amely lehetővé teszi az alkalmazás ugyanabban a környezetben történő használatát több eszközön.
+Jelentkezhet be a meghajtóba, és visszaállíthatja a biztonsági mentéseket.
+Több eszköz, például PC, telefon vagy pad megtekintésekor szinkronizálhatja a megtekintési helyet a hely biztonsági másolatával.
+Ha egy olyan eszközt választ, amely automatikusan szinkronizálja és bekapcsolja az [Auto Sync] funkciót, akkor az automatikusan az utolsó megtekintett helyre költözik, amikor az alkalmazás futtatásakor vagy távozik, és visszatér a kezdőlapra.
 
-9. Hogyan használjuk a szöveges tétel módosítását:
-1. [Beállítások - Beállítások - Ömlesztett szerkesztés gomb]
-2. [Beállítások - A szöveg együttesen szerkesztése]
-A kötegelt módosítást kétféle módon használhatja.
-Az 1. szám esetében a TTS meghallgatására és a mondat törlésére vagy megváltoztatására egy másik karakterre, ha néhány mondat vagy szó bosszantó.
-A 2. szám esetében kibonthatja a szöveget az OCR segítségével, és kiválaszthatja a dokumentumból a szöveges fájlt a kötegelt korrekció végrehajtásához.
-A letöltés gombot is használhatja a gyakran előforduló felismerési hibák letöltéséhez és felhasználásához a szöveg kötegelt korrekciójához.
-Ömlesztett korrekciók - A letöltések csak akkor jelenítik meg a listát, ha a nyelvi beállítások koreai nyelven vannak.
-Ennek oka az, hogy a fejlesztők nem beszélnek más nyelveket.
-Ha jelentést tesz a jelentés funkció használatával, hozzáadom az ország nyelvét.
+9. A Tétel szerkesztése szöveg használata:
+1. [Beállítások - Beállítások - A kötegelt szerkesztés gomb megjelenítése]
+2. [Beállítások - ömlesztett szöveg szerkesztése]
+Az ömlesztett szerkesztés kétféle módon használható.
+Az 1. esetben, ha néhány mondat vagy szó bosszantó a TTS hallgatása közben, akkor a mondatok törlésére vagy más karakterekre történő megváltoztatására használják.
+A 2. esetben az OCR használatával kibonthatja a szöveget, majd a könyvtárból származó szöveges fájlokat választhat a kötegelt szerkesztés végrehajtásához.
+A letöltési gomb segítségével a szövegszerkesztést is felhasználhatja a gyakran előforduló felismerési hibák letöltéséhez.
+[Batch Edit - Letöltés] csak akkor jeleníti meg a listát, ha a nyelvi beállítás koreai.
+Ennek oka az, hogy a fejlesztők nem tudják, hogyan kell más nyelveket beszélni.
+Ha a jelentés funkció használatával jelentette be, akkor hozzáadjuk az Ön országának nyelvét.
 
-10. Ha a TTS hallgatásakor zavaró mondat van, akkor dolgozza ki:
-Ha nem számít, ha az eredeti módosul, kérjük, változtassa meg a [kollektív módosítás] funkcióra.
-A változás után a biztonsági mentési fájl a könyvtárban marad, tehát ha véletlenül módosítja, akkor újra helyreállíthatja.
-Ha csak a TTS -ről szeretné eltávolítani az eredeti példányt anélkül, hogy megérintené, használja a TTS szűrőt.
+10. Megoldás, ha van olyan mondat, amely bosszantó a TTS hallgatásakor:
+Ha nem bánja, hogy az eredeti módosítása módosul, kérjük, használja a [Batch Edit] funkciót annak megváltoztatásához.
+A változások után egy biztonsági mentési fájl megmarad a könyvtáramban, tehát ha tévesen hajtja végre a változtatásokat, visszaállíthatja azokat.
+Ha csak a TTS -t szeretné eltávolítani az eredeti megérintése nélkül, használja a TTS szűrőt.
 
-11. Oldalhoz kapcsolódó leírás:
-Ha olyan speciális funkciókat használ, mint például a TTS mondatellenőrzés, a kötegelt korrekció, a vonalak átszervezése és a fordítás, az oldalak elfogyasztanak, de mivel ez körülbelül 10-50, akkor nem fogja érezni, hogy elfogyasztja.
-A legtöbb oldalt valószínűleg arra használják, hogy érezze a szöveget az OCR, az EPUB és a PDF -ből.
-A szöveg kinyerésekor nemcsak egyedül kinyerjük a mondatokat, hanem a mondatokat is úgy szervezzük meg, hogy tucatnyi problémát készítünk, amelyek a mintákba történő kinyerés után felmerülnek.
-Ez egy olyan rész, amelyet nagyon nehéz végrehajtani, ezért kérjük, próbálja ki.
+11. Ponthoz kapcsolódó magyarázat:
+A pontokat speciális funkciók, például a TTS mondat ellenőrzése, a kötegelt szerkesztés, a vonal elrendezése és a fordítás használata esetén fogyasztják, de mivel ezek körülbelül 10-50, nem fogja érezni a fogyasztást.
+A legtöbb pontot valószínűleg olyan mértékben használják, amely érezhető, amikor a szöveget az OCR -ből, az EPUB -ból és a PDF -ből kinyeri.
+A szöveg kinyerésekor nem csak a szöveget vonjuk ki, hanem mintákat is létrehozunk több tucat problémából, amelyek az extrahálás után felmerülnek, és folytatjuk a mondat szervezését.
+Ezt a részt nagy nehézségekkel hajtották végre, ezért kérjük, próbálja meg legalább egyszer használni.
 
 
-12. Reklám leírás:
+12. Reklámmal kapcsolatos magyarázat:
 Mind fejlesztő, mind felhasználó vagyok.
-Hozzáadtunk olyan hirdetéseket, amennyire nem zavarják a felhasználást, amennyire csak lehetséges.
-A hirdetések tartalmazzák az oldalbiztonsági hirdetéseket és a hirdetések eltávolítását.
-Egy oldal akár 60 000 oldalt is tartalmazhat.
-A hirdetések eltávolításakor az oldal segítségével egy bizonyos ideig eltávolíthatja a hirdetéseket. (Az alvási idő kivételével körülbelül egy nap van.)
-Azok számára, akik előre rakják az oldalakat, 2000 oldal fogyasztásával távolíthatják el a nézőoldali hirdetést.
-Ha 8000 oldalt fogyaszt, az összes hirdetés le van tiltva, kivéve a 30 másodperces hirdetéseket az oldalgyűjtéshez és a beállítások közepén lévő natív hirdetéseket.
-8000 oldalas hirdetést adtak hozzá azok számára, akiket a rövid konverzió során felbukkanó rövid hirdetések zavarnak.
+A hirdetéseket olyan mértékben adták hozzá, hogy ezek nem zavarják a felhasználást, amennyire csak lehetséges.
+Kétféle hirdetés létezik: a hirdetések és a reklám eltávolító hirdetéseinek biztosítása.
+Legfeljebb 60 000 pontot tarthat.
+A hirdetések eltávolításakor a pontok segítségével egy bizonyos ideig eltávolíthatja a hirdetéseket. (Az alvási idő kivételével ez körülbelül egy nap van.)
+Azok számára, akik előre felhalmoznak pontokat, 2000 pont fogyasztásával távolíthatják el a nézőoldali hirdetéseket.
+Ha 8000 pontot fogyaszt, az összes hirdetés le van tiltva, kivéve a 30 másodperces hirdetést, hogy a pontok és a natív hirdetések a beállítások közepén vannak.
+A 8000 pontos hirdetést azok számára adták hozzá, akik bosszantónak tartják a rövid hirdetéseket, amelyek felbukkannak, amikor nagy konverziós feladatok elvégzik.
 
 
-13. A fül leírása a fülre (a történelem intermálása):
-Támogatja a fül nézet funkcióját.
-Tegyük fel például, hogy van egy (1-50) című dokumentumunk, és van egy új dokumentumunk (1-100).
-Ebben az esetben már ki kell hagyni a fő helyzetet.
-Amikor egy szöveges fájlt választ a könyvtárban, megjelenik a fül nézet menü.
-Ha kiválasztja ezt a menüt, majd válassza ki az A (1-50) a történelemben, akkor automatikusan kihagyja a korábban megtekintett pozíciót.
-Ha később van időd, kérjük, távolítsa el a (1-50) a történelemből.
+13. A folytatás leírása (előzmények összekapcsolása) Funkció:
+Támogatja a folyamatos megtekintési funkciót.
+Tegyük fel például, hogy van egy (1 ~ 50) című dokumentum, de most kap egy új dokumentumot (1 ~ 100).
+Ebben az esetben már ki kell hagynia a fő helyet.
+Amikor egy szöveges fájlt választ a könyvtárban, megjelenik a folytonos menü.
+A menü kiválasztása után, ha a történelemben (1 ~ 50) választja ki, akkor automatikusan kihagyja a korábban megtekintett helyet.
+Ha később van időd, kérjük, távolítsa el a (1 ~ 50) a történelemből.
 A történelemben az elolvasott könyvek számát is számolják.
 Ha ugyanaz a dokumentum marad, akkor pontatlan információk jelenhetnek meg.
 
 
-14. Könyvjelző/jegyzet/főszereplő leírás:
-Az alkalmazás támogatja a jegyzeteket és a könyvjelző/főszereplőt.
-Ha bekapcsolja a könyvjelző funkciót a könyvjelző beállításokban, akkor hozzáadhatja azt a szöveg megnyomásával és tartásával.
-A Jegyzetek funkció lehetővé teszi a fájl kiválasztását és beírását, ha legalább egyszer megnyitotta.
-Ha legalább egyszer megnyit egy fájlt, akkor egy csillag jelenik meg a fájl kiválasztásának tetején.
-A jegyzetek és a horoszkópok felhasználhatók maga a fájl értékelésére.
-A könyvjelzők felhasználhatók a fontos tartalom rögzítésére.
+14. Könyvjelző/emlékeztető/csillag besorolás Leírás:
+Az alkalmazás támogatja a memo és a könyvjelző/csillag besorolási funkciókat.
+Ha bekapcsolja a könyvjelző funkciót a könyvjelző beállításaiban, akkor hozzáadhatja a szöveg hosszú megnyomásával.
+A memo funkció lehetővé teszi a fájl kiválasztását és beírását, ha legalább egyszer megnyitotta és megtekintette a fájlt.
+Ha még egyszer is megnyit egy fájlt, akkor van egy csillag a tetején, amikor kiválasztja a fájlt.
+A jegyzetek és a besorolások felhasználhatók maga a fájl értékelésére.
+A könyvjelzők felhasználhatók a fontos információk rögzítésére.
 
 
 
-14. TTS mondat vizsgáztató leírása:
-Amikor sok dokumentumot megnéztem, elkezdtem látni a jól megírt és nem írt szövegek mintáját.
-Találtam egy mintát, amely mindig szerencsétlen szövegekben jelenik meg.
-Megszerveztem ezt a mintát, és az egyes minták súlyozásával készítettem.
-Először [az enyémkeresést] neveztük.
-Ezt a funkciót azonban túl szubjektív megítéléssel hozták létre, ezért megváltoztattam a TTS mondat -ellenőrzőre.
+14. TTS mondat ellenőrző leírása:
+Ahogy számos dokumentumot átnéztem, elkezdtem látni a mintákat a jól megírt és a nem túl jól írott cikkek között.
+Felfedeztem egy olyan mintát, amely mindig megjelenik a kiábrándító cikkekben.
+Ez egy olyan függvény, amelyet úgy hoztam létre, hogy megszerveztem ezeket a mintákat és súlyt adtam az egyes mintáknak.
+Eleinte ezt a funkciót [MinesWeeper] -nek nevezték el.
+Ezt a funkciót azonban túl szubjektív megítélés alapján hozták létre, tehát a TTS mondat -ellenőrzőre változtatták.
 Ez a szolgáltatás csak a koreai -t támogatja.
-Nem ismerem más országok nyelvét, ezért nem tudom megszervezni a mintáimat, akár jó, akár rossz.
-Ha más országokban van ilyen minta, kérjük, küldje el nekünk e-mailben.
-Miután támogathatja a több nemzeti nyelvet, áthelyezzük a funkciót a beállításokra.
+Mivel nem ismerem jól más országok nyelveit, nem tudtam kitalálni, hogy az írás jó vagy rossz volt -e.
+Ha más országokban van ilyen minta, kérjük, jelentse azt e -mailben.
+Miután támogathatjuk a több nemzeti nyelvet, áthelyezzük a szolgáltatást a beállításokra.
 A beállításokban még mindig van egy hely.
 
 
-15. A kutya adminisztrációjának funkciójának magyarázata:
-Ez egy olyan módszer, amelyet akkor lehet használni, ha a mondat még nem fejeződik be, de a bejegyzés nem működik.
-Általában ez sokat történik az OCR -átalakítással működő dokumentumokkal.
-Ez a szolgáltatás nem csak az Enter kombinációja.
-Ez egy olyan funkció, amelyet a dokumentumok számos nyitási hibával és a minták megszervezésével valósítanak meg.
-Megpróbáltam bemutatni az AI -t, hogy megszervezzem, de ez nem volt könnyű.
-Sok kutatás folyik a természetes nyelvfeldolgozásról manapság, ezért hozzáadom, ha később feldolgozhatom az AI -vel.
+15. A vonaltörés funkció leírása:
+A vonaltörés tétel egy olyan módszer, amelyet akkor lehet használni, ha a mondat még nem fejeződik be, de az Enter billentyűt megnyomja.
+Ez a jelenség általában az OCR -átalakítás során feldolgozott dokumentumokban fordul elő.
+Ez a funkció nem csak kombinálja az Enter.
+Ezt a funkciót a dokumentumok számos új soros hibájú elemzésével és a minták megszervezésével hajtották végre.
+Megpróbáltam bemutatni a szervezést az AI használatával, de ez nem volt könnyű.
+Manapság sok kutatást végeznek a természetes nyelvfeldolgozásról, tehát ha a jövőben feldolgozzuk az AI -vel, megpróbáljuk hozzáadni.
 
 16. Fordítási funkció leírás:
-A helyi fordítás / webböngésző fordítási funkciója támogatott.
-A helyi fordítás egy olyan függvény, amely a Google által kifejlesztett AI -re fordul. Az egyszerű szavak jól lefordíthatók, de úgy tűnik, hogy a mondat fordításában sok téves fordítás történik.
-A böngésző fordítás egy olyan funkció, amely a böngészőben lefordítandó mondatokat jeleníti meg.
-Ha bekapcsolja a fordítási funkciót a beállításokban - a fordítási beállítások, és nyomja meg a mondatot, akkor a fordítási funkció működni fog.
+Támogatja a helyi fordítási/webböngésző fordítási funkciókat.
+A helyi fordítás egy olyan függvény, amely a Google által kifejlesztett AI használatával fordítja. Az egyszerű szavakat jól lefordítják, de úgy tűnik, hogy a mondat -fordításban nagyon sok téves fordítás történik.
+A böngésző fordítás egy olyan függvény, amely megjeleníti a böngészőben lefordítandó mondatot.
+Ha bekapcsolja a fordítási funkciót a [Beállítások - fordítási beállítások] gombban, és nyomja meg a mondatot, akkor a fordítási funkció működni fog.
 
 17. Egyéb kérdések:
-Amikor megnyit egy dokumentumot, akkor a háromszor több mint háromszor ismétlődő bejegyzés kétszer váltva nyílik meg.
-A túlzott belépés kényelmetlen a TTS -rel hallgatni, és kényelmetlen látni.
-Lehet, hogy néhányan már régóta észrevették az alkalmazásom használatát. "Hmm? Néhányan azt gondolhatják:" Soha nem láttam sok szórakozást. "
-Annyi funkcionalitást hajtottunk végre, amennyit a szövegmegfigyelő támogathat.
+A dokumentum megnyitásakor az EarApp automatikusan megváltoztatja az ENTER gombot, három vagy többször kétszer.
+A túlzott belépés kényelmetlen hallgatni és átnézni a TTS -en keresztül.
+Lehet, hogy néhányan már régóta észrevették ezt, miközben az alkalmazásomat használják, és azt mondják: „Hmm? Most, hogy gondolkodtam rajta, még soha nem láttam, hogy sokat nyomja meg az Enter billentyűt? Néhány ember ezt gondolhatja.
+A lehető legtöbb funkciót megvalósítottuk a szöveges nézőben.
 
-17 felhasználást írtam le, de nem hiszem, hogy még felét használtam.
-Az egyszerű funkciókat, például a háttér színét, a háttérképet, a betűszínt és az oldal fordulási módszerét elhagyták.
-Remélem, hogy ez a dokumentum sok embernek segít.
-Ha megnézi a beállításokat - információkat és segítséget, van egy link a Telegram Group csevegéshez, tehát ha bármilyen kérdése van, bejöhet és kérdezheti.
-Köszönöm, hogy elolvasta a végét.
+Tizenhét módszert írtam le annak használatára, de nem hiszem, hogy még a felét is írtam.
+Az egyszerű funkciókat, például a háttér színét, a háttérképet, a szöveges színt és a pontkapcsolási módszert elhagyták.
+Remélem, hogy ez a cikk sok ember számára hasznos lesz.
+Ha megnézi a [Beállítások - információkat és a segítséget], akkor van egy link a Telegram Group chat szobához, tehát ha bármilyen kérdése van, akkor bejöhet és kérdezheti.
+köszönöm hogy elolvastad.

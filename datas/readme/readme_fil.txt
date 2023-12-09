@@ -1,152 +1,152 @@
-Kung paano gamitin ito (dapat basahin):
+Paano gamitin (dapat basahin):
 
-Ang application na ito ay may maraming mga pag -andar, kaya inirerekumenda kong basahin mo ito nang paisa -isa.
+Ang app na ito ay may maraming mga tampok, kaya inirerekumenda kong basahin ito.
 
 1. Paano tingnan ang mga file:
-Mangyaring i -click ang Magdagdag ng File sa aking dokumento upang magdagdag ng TXT.
-Pindutin ang TXT file at pindutin ang bukas na pindutan sa ibaba upang tingnan ang file.
+Mangyaring i -click ang Magdagdag ng File sa aking library upang magdagdag ng TXT.
+Maaari mong tingnan ang file sa pamamagitan ng pagpindot sa TXT file at pagpindot sa bukas na pindutan sa ibaba.
 
 
-2. Paano itago ang mga ad ng viewer / mga pindutan ng nabigasyon sa ibaba:
-I -double tap ang gitna ng screen.
-Habang lumipat ka sa buong screen, mawala ang mga ad at pindutan.
+2. Paano itago ang mga patalastas ng manonood/mga pindutan sa nabigasyon sa ibaba:
+I-double-tap ang gitna ng screen.
+Kapag lumipat ito sa buong screen, mawala ang mga ad at pindutan.
 
 
-3. Upang baguhin ang lugar ng pag -andar ng mitt function:
-Maaari mong baguhin ito sa ilalim ng mga setting - Mga setting ng lugar ng touch.
-Maaari kang magtakda ng isang bilang ng mga pag -andar, kabilang ang buong screen, paggalaw ng pahina, pagsasaayos ng ningning, at kontrol ng dami.
-Sinusuportahan din ang Bluetooth remote control, kaya maaari kang humiga at panoorin ito nang kumportable.
+3. Paano baguhin ang lugar ng pindutan at pag -andar:
+Maaari mong baguhin ito sa [mga setting - mga setting ng lugar ng touch].
+Maaari kang magtakda ng iba't ibang mga pag -andar tulad ng buong screen, paggalaw ng pahina, kontrol ng ilaw, at kontrol ng dami.
+Sinusuportahan din ang isang Bluetooth remote control, kaya maaari mo itong ilagay sa isang panindigan at tingnan ito nang kumportable habang nakahiga.
 
 
-4. Upang baguhin ang laki ng font o font:
-Maaari mong baguhin ang laki ng font o font sa ilalim ng mga setting - Mga Setting - Mga Setting ng Font.
-Maaari mong gamitin ang font sa pamamagitan ng pagpindot sa pindutan ng pag -download upang makatanggap ng dose -dosenang mga libreng font.
+4. Paano baguhin ang laki ng font o teksto:
+Maaari mong baguhin ang laki ng font o font sa [Mga Setting - Mga Setting - Mga Setting ng Font].
+Maaari kang gumamit ng dose -dosenang mga libreng font sa pamamagitan ng pag -click sa pindutan ng pag -download.
 
 
-5. Paano gamitin ang conversion ng teksto ng imahe:
-Maaari mong kunin ang teksto mula sa isang naka -compress na imahe. Ito ay tinatawag na OCR function.
-Aking Journal - I -click ang Magdagdag ng File at Magdagdag ng isang Zip File.
+5. Paano gamitin ang imahe sa pag -andar ng pag -convert ng teksto:
+Maaari mong kunin ang teksto mula sa mga naka -compress na imahe. Ito ay tinatawag na OCR function.
+Aking Library - I -click ang Magdagdag ng File at Idagdag ang Zip File.
 Maaari mong i -convert sa pamamagitan ng pagpili ng zip file at pagkatapos ay piliin ang menu ng OCR.
-Ang pahina ay natupok sa panahon ng pag -convert.
-Ang OCR ay gumagana sa AI, kaya ang bilis at kawastuhan nito ay medyo mabuti.
+Ang mga pahina ay natupok sa panahon ng pag -convert.
+Ang OCR ay tapos na sa AI, kaya ang bilis at kawastuhan nito ay medyo mabuti.
 
 
-6. Epub, PDF Paraan ng Pagbabago:
+6. Paano i -convert ang EPUB sa PDF:
 Ito ay katulad ng paraan ng pag -convert ng imahe.
-Mayroong ilang mga bagay na dapat malaman.
-Ang EPUB o PDF ay maaaring "naka -encrypt".
-Ito ay pangunahing ginagamit upang masira ang mga titik at gawin itong nakikita lamang sa ilang mga font.
-Sa kasong ito, lumabas ito tulad ng isang extraterrestrial character, hindi Korean, kaya hindi mo ito mabasa sa TTS.
-Bilang isang paraan upang malutas ang problemang ito, ang pag -andar ng pagkuha ng mga imahe ay maaaring magamit, at pagkatapos ang OCR ay maaaring paikutin upang kunin.
+Mayroong ilang mga bagay na dapat tandaan.
+Sa kaso ng EPUB o PDF, maaaring ito ay "naka -encrypt".
+Ang pinakakaraniwang pamamaraan ay ang paggawa ng mga titik na garbled at nakikita lamang sa mga tiyak na mga font.
+Sa kasong ito, hindi ito mababasa gamit ang TTS dahil mukhang isang dayuhan na character kaysa sa Korean.
+Upang malutas ang problemang ito, maaari mong gamitin ang function ng pagkuha ng imahe at pagkatapos ay gamitin ang OCR upang kunin ito.
 
 
 7. Paano mag -set up ng TTS:
-Ang mga setting na nauugnay sa TTS ay puro sa mga setting - Mga setting ng TTS, Mga Setting ng TTS Filter.
-Kasama sa mga setting ng TTS ang mga simpleng tampok ng TTS, tulad ng boses, bilis, dami, transparency ng pindutan, mga character na nagtatapos ng mga pangungusap, at ang bilang ng mga pangungusap na binasa nang sabay -sabay, pati na rin ang mga aparato na umaakma sa mga tampok ng TTS.
-Ang bilang ng mga pangungusap na binasa nang sabay -sabay ay isang function na idinagdag upang payagan ang maraming mga linya na mabasa nang sabay -sabay na marinig nang may kaunting pagkaantala.
-Ang TTS filter ay isa sa mga pinakamalakas na tampok ng application na ito.
-Pinapayagan ka ng [TTS Filter Setting] na magtakda ka ng isang bilang ng mga espesyal na character, salita o pangungusap na kailangan mong laktawan.
-Kung pinindot mo ang pindutan ng pag -download, maaari kang mag -download ng dose -dosenang mga filter na ginawa ko.
-Maaari mo ring idagdag ito sa iyong sarili kung kailangan mo ito.
-[Awtomatikong pag-shutdown function] Maaaring itakda ang awtomatikong oras ng pag-shutdown sa pamamagitan ng pagpindot sa icon na hugis ng buwan sa kaliwang bahagi ng pindutan ng paghinto kapag naglalaro ng TTS.
+Ang mga setting na nauugnay sa TTS ay puro sa [mga setting - mga setting ng TTS] at [mga setting ng filter ng TTS].
+Kasama sa mga setting ng TTS hindi lamang mga simpleng tampok ng TTS tulad ng boses, bilis, dami, transparency ng pindutan, pagtatapos ng character na pagtatapos, at bilang ng mga pangungusap na nabasa nang sabay -sabay, ngunit din ang mga aparato na umaakma sa pag -andar ng TTS ay idinagdag.
+Ang bilang ng mga pangungusap na binasa nang sabay -sabay ay isang function na idinagdag upang payagan kang magbasa ng maraming mga linya nang sabay -sabay at makinig nang may kaunting pagkaantala.
+Ang TTS Filter ay isa sa mga pinakamalakas na tampok ng app na ito.
+Sa [TTS Filter Setting], maaari kang magtakda ng iba't ibang mga espesyal na character, salita o pangungusap na dapat laktawan.
+Kung na -click mo ang pindutan ng pag -download, maaari kang mag -download ng dose -dosenang mga filter na nilikha ko.
+Maaari ka ring magdagdag ng iyong sarili kung kinakailangan.
+[Ang awtomatikong pag-shutdown function] ay nagbibigay-daan sa iyo upang itakda ang awtomatikong oras ng pag-shutdown sa pamamagitan ng pagpindot sa icon na hugis ng buwan sa kaliwa ng pindutan ng Stop kapag naglalaro ng TTS.
 
 
-8. Paglalarawan ng mga kakayahan sa pag -backup at pagbawi:
-Setup - Ang backup at pagbawi ay isang tampok na nagbibigay -daan sa maraming mga aparato na gamitin ang application sa parehong kapaligiran.
-Maaari kang mag -log in sa drive para sa backup na pagbawi.
-Kung tiningnan mula sa maraming mga aparato, tulad ng mga PC, telepono, at pad, maaari mong gamitin ang backup ng lokasyon upang i -synchronize ang iyong lokasyon ng pagtingin.
-Piliin ang aparato na nais mong autosynchronize at i -on ang tampok na autosynchronization upang awtomatikong lumipat sa huling lokasyon kapag pinatakbo mo ang application o umuwi at bumalik.
+8. Paglalarawan ng Pag -andar ng Pag -andar at Pagbawi:
+[Mga Setting - Pag -backup at Pagbawi] ay isang function na nilikha upang payagan kang gamitin ang app sa parehong kapaligiran sa maraming mga aparato.
+Maaari kang mag -log in sa drive at ibalik ang mga backup.
+Kapag tinitingnan ang maraming mga aparato tulad ng PC, telepono, o pad, maaari mong i -synchronize ang lokasyon ng pagtingin gamit ang backup ng lokasyon.
+Kung pumili ka ng isang aparato upang awtomatikong i -synchronize at i -on ang pag -andar ng [Auto Sync], awtomatiko itong lilipat sa huling tiningnan na lokasyon kapag pinatakbo mo ang app o umalis at bumalik sa home page.
 
-9. Paano Gumamit ng Pagbabago ng Text Batch:
-1. [Mga Setting - Mga Setting - Button ng Bulk I -edit]
-2. [Mga Setting - I -edit ang teksto nang sama -sama]
-Maaari kang gumamit ng pagbabago ng batch sa dalawang paraan.
-Sa kaso ng numero 1, ginagamit ito upang makinig sa TTS at burahin o baguhin ang pangungusap sa ibang karakter kung ang ilang mga pangungusap o salita ay nakakainis.
-Sa kaso ng numero 2, maaari mong kunin ang teksto gamit ang OCR at piliin ang text file mula sa dokumento upang magsagawa ng pagwawasto ng batch.
-Maaari mo ring gamitin ang pindutan ng pag -download upang i -download at gumamit ng madalas na nagaganap na mga pagkakamali sa pagkilala para sa pagwawasto ng batch ng teksto.
-Bulk Corrections - Ipapakita lamang ng mga pag -download ang listahan kung ang mga setting ng wika ay nasa Korean.
-Ito ay dahil ang mga developer ay hindi nagsasalita ng iba pang mga wika.
-Kung nag -uulat ka gamit ang pag -andar ng ulat, idagdag ko ang wika ng bansa.
+9. Paano Gumamit ng Teksto ng Pag -edit ng Batch:
+1. [Mga Setting - Mga Setting - Ipakita ang pindutan ng pag -edit ng batch]
+2. [Mga Setting - Bulk I -edit ang Teksto]
+Ang pag -edit ng bulk ay maaaring magamit sa dalawang paraan.
+Sa kaso 1, kung ang ilang mga pangungusap o salita ay nakakainis habang nakikinig sa TTS, ginagamit ito upang burahin ang mga pangungusap o baguhin ang mga ito sa iba pang mga character.
+Sa Kaso 2, maaari mong kunin ang teksto gamit ang OCR at pagkatapos ay piliin ang mga file ng teksto mula sa aking library upang maisagawa ang pag -edit ng batch.
+Maaari mo ring gamitin ang pindutan ng pag -download upang mai -edit ang teksto upang i -download ang madalas na nagaganap na mga error sa pagkilala.
+Ang pag -edit ng Batch - I -download] ay magpapakita lamang ng listahan kung ang setting ng wika ay Korean.
+Ito ay dahil hindi alam ng mga developer kung paano magsalita ng ibang wika.
+Kung naiulat mo ito gamit ang pag -andar ng ulat, idagdag namin ang wika ng iyong bansa.
 
-10. Kung mayroong isang nakamamatay na pangungusap kapag nakikinig sa TTS, gumana ito:
-Kung hindi mahalaga kung ang orihinal ay nabago, mangyaring baguhin ito sa [kolektibong pagbabago] function.
-Matapos ang pagbabago, ang backup file ay mananatili sa aking silid -aklatan, kaya kung hindi mo sinasadyang baguhin ito, maaari mo itong mabawi muli.
-Kung nais mong alisin ang orihinal lamang mula sa TTS nang hindi hawakan ito, gamitin ang TTS filter.
+10. Solusyon Kung mayroong isang pangungusap na nakakainis kapag nakikinig sa TTS:
+Kung hindi mo alintana ang orihinal na nabago, mangyaring gamitin ang pag -andar ng [Batch Edit] upang baguhin ito.
+Matapos ang mga pagbabago, ang isang backup na file ay mananatili sa aking silid -aklatan, kaya kung gumawa ka ng mga pagbabago nang hindi sinasadya, maibabalik mo ang mga ito.
+Kung nais mong alisin lamang ang TTS nang hindi hawakan ang orihinal, gamitin ang filter ng TTS.
 
-11. Paglalarawan ng Kaugnay na Pahina:
-Kung gumagamit ka ng mga espesyal na pag -andar tulad ng inspeksyon ng pangungusap ng TTS, pagwawasto ng batch, muling pagsasaayos ng mga linya, at pagsasalin, ang mga pahina ay maubos, ngunit dahil ito ay halos 10 hanggang 50, hindi mo maramdaman na natupok ito.
-Karamihan sa mga pahina ay malamang na magamit upang madama kapag kumukuha ng teksto mula sa OCR, EPUB, at PDF.
-Kapag kumukuha ng teksto, hindi lamang kami kumukuha ng solong-kamay, ngunit nag-aayos din ng mga pangungusap sa pamamagitan ng paggawa ng dose-dosenang mga problema na lumitaw pagkatapos ng pagkuha sa mga pattern.
-Ito ay isang bahagi na talagang mahirap ipatupad, kaya't subukan ito.
+11. Paliwanag na Kaugnay na Paliwanag:
+Ang mga puntos ay natupok kapag gumagamit ng mga espesyal na pag -andar tulad ng pagsuri sa pangungusap ng TTS, pag -edit ng batch, pag -aayos ng linya, at pagsasalin, ngunit dahil sila ay mga 10 hanggang 50, hindi mo mararamdaman ang pagkonsumo.
+Karamihan sa mga puntos ay malamang na magamit sa isang degree na maaaring madama kapag kumukuha ng teksto mula sa OCR, EPUB, at PDF.
+Kapag kumukuha ng teksto, hindi lamang namin kinuha ang teksto, ngunit lumikha din ng mga pattern mula sa dose -dosenang mga problema na lumitaw pagkatapos ng pagkuha at magpatuloy sa samahan ng pangungusap.
+Ang bahaging ito ay ipinatupad na may malaking kahirapan, kaya mangyaring subukang gamitin ito kahit isang beses.
 
 
-12. Paglalarawan ng Advertising:
+12. Paliwanag na may kaugnayan sa advertising:
 Pareho akong developer at isang gumagamit.
-Nagdagdag kami ng mga ad sa lawak na hindi sila makagambala sa paggamit hangga't maaari.
-Kasama sa mga patalastas ang mga ad-secure na ad at ad sa pag-alis ng ad.
-Ang isang pahina ay maaaring humawak ng hanggang sa 60,000 mga pahina.
-Kapag nag -aalis ng mga ad, maaari mong gamitin ang pahina upang alisin ang mga ad para sa isang tiyak na tagal ng panahon. (Hindi kasama ang oras ng pagtulog, halos isang araw.)
-Para sa mga pre-stacking na pahina, maaari mong alisin ang patalastas na viewer-side sa pamamagitan ng pag-ubos ng mga pahina ng 2000.
-Kapag kumonsumo ka ng 8000 mga pahina, ang lahat ng mga ad ay hindi pinagana maliban sa 30 segundo ad para sa pagkuha ng pahina at ang mga katutubong ad sa gitna ng mga setting.
-Ang 8000 na mga ad ng pahina ay naidagdag para sa mga na -abala ng mga maikling ad na nag -pop up sa isang malaking halaga ng pag -convert.
+Ang mga ad ay naidagdag sa lawak na hindi sila makagambala sa paggamit hangga't maaari.
+Mayroong dalawang uri ng mga patalastas: mga puntos na nakakakuha ng mga ad at mga patalastas sa pagtanggal ng ad.
+Maaari kang humawak ng hanggang sa 60,000 puntos.
+Kapag nag -aalis ng mga ad, maaari mong gamitin ang mga puntos upang alisin ang mga ad para sa isang tiyak na tagal ng panahon. (Hindi kasama ang oras ng pagtulog, humigit -kumulang isang araw.)
+Para sa mga nag-iipon ng mga puntos nang maaga, maaari mong alisin ang mga patalastas na viewer sa pamamagitan ng pag-ubos ng 2000 puntos.
+Kapag kumonsumo ka ng 8000 puntos, ang lahat ng mga patalastas ay hindi pinagana maliban sa 30 segundo na ad upang ma-secure ang mga puntos at ang katutubong patalastas sa gitna ng mga setting.
+Ang 8000 point advertising ay naidagdag para sa mga nakakakita ng nakakainis na makita ang mga maikling patalastas na nag -pop up kapag nagsasagawa ng malalaking gawain sa conversion.
 
 
-13. Paglalarawan ng Tampok para sa Ear (Pakikipag -ugnay sa Kasaysayan):
-Sinusuportahan nito ang function ng view ng tainga.
-Halimbawa, sabihin nating mayroon kaming isang dokumento na may pamagat na A (1 hanggang 50), at mayroon kaming isang bagong dokumento na tinatawag na A (1 hanggang 100).
-Sa kasong ito, kinakailangan na upang laktawan ang pangunahing posisyon.
-Kapag pumili ka ng isang text file sa aking library, lilitaw ang menu ng view ng tainga.
-Kung pipiliin mo ang menu na ito at pagkatapos ay pumili ng isang (1 hanggang 50) sa kasaysayan, awtomatiko itong laktawan ang naunang tiningnan na posisyon.
-Kapag may oras ka mamaya, mangyaring alisin ang isang (1-50) mula sa kasaysayan.
+13. Paglalarawan ng Pagpapatuloy (Pag -link sa Kasaysayan) Pag -andar:
+Sinusuportahan ang patuloy na pag -andar ng pagtingin.
+Halimbawa, sabihin natin na mayroong isang dokumento na may pamagat na A (1 ~ 50), ngunit nakatanggap ka na ngayon ng isang bagong dokumento na pinamagatang A (1 ~ 100).
+Sa kasong ito, kailangan mo nang laktawan ang pangunahing lokasyon.
+Kapag pumili ka ng isang text file sa aking library, lilitaw ang pagpapatuloy na menu.
+Matapos piliin ang menu na ito, kung pipiliin mo ang isang (1 ~ 50) sa kasaysayan, awtomatiko itong laktawan ang dating tiningnan na lokasyon.
+Kapag may oras ka mamaya, mangyaring alisin ang isang (1 ~ 50) mula sa kasaysayan.
 Sa kasaysayan, ang kabuuang bilang ng mga libro na nabasa ay binibilang din.
 Kung ang parehong dokumento ay nananatili, ang hindi tumpak na impormasyon ay maaaring ipakita.
 
 
-14. Bookmark/Tandaan/Pag -star ng Paglalarawan:
-Sinusuportahan ng app ang mga tala at bookmark/pinagbibidahan.
-Kung binuksan mo ang function ng bookmark sa mga setting ng bookmark, maaari mo itong idagdag sa pamamagitan ng pagpindot at paghawak ng teksto.
-Pinapayagan ka ng tampok na Mga Tala na pumili at magpasok ng isang file kung binuksan mo ito nang hindi bababa sa isang beses.
-Kung magbubukas ka ng isang file ng hindi bababa sa isang beses, ang isang bituin ay lilitaw sa tuktok ng pagpili ng file.
-Ang mga tala at horoscope ay maaaring magamit upang maitala ang mga pagsusuri ng file mismo.
-Ang mga bookmark ay maaaring magamit upang maitala ang mahalagang nilalaman.
+14. Paglalarawan ng Bookmark/Memo/Star Rating:
+Sinusuportahan ng app ang Memo at Bookmark/Star Rating Function.
+Kung binuksan mo ang function ng bookmark sa mga setting ng bookmark, maaari mo itong idagdag sa pamamagitan ng mahabang pagpindot sa teksto.
+Pinapayagan ka ng memo function na pumili at magpasok ng isang file kung binuksan mo at tiningnan ang file nang hindi bababa sa isang beses.
+Kung magbubukas ka ng isang file kahit isang beses, mayroong isang bituin sa tuktok kapag pinili mo ang file.
+Ang mga tala at rating ay maaaring magamit upang maitala ang mga pagsusuri ng file mismo.
+Maaaring magamit ang mga bookmark upang maitala ang mahalagang impormasyon.
 
 
 
-14. Paglalarawan ng TTS Sentence Examiner:
-Kapag tiningnan ko ang maraming mga dokumento, sinimulan kong makita ang isang pattern ng mahusay na nakasulat at hindi nakasulat na mga teksto.
-Natagpuan ko ang isang pattern na palaging lumalabas sa mga kapus -palad na teksto.
-Inayos ko ang pattern na ito at ginawa ito sa pamamagitan ng pagtimbang ng bawat pattern.
-Pinangalanan namin ito [mine search] sa una.
-Gayunpaman, ang pagpapaandar na ito ay ginawa gamit ang masyadong subjective na paghuhusga, kaya binago ko ito sa TTS Sentence Checker.
+14. Paglalarawan ng TTS Sentence Checker:
+Habang tinitingnan ko ang maraming mga dokumento, sinimulan kong makita ang mga pattern sa pagitan ng mahusay na nakasulat at hindi-mabibigat na mga artikulo.
+Natuklasan ko ang isang pattern na palaging lilitaw sa mga nakalulungkot na artikulo.
+Ito ay isang function na nilikha ko sa pamamagitan ng pag -aayos ng mga pattern na ito at nagbibigay ng timbang sa bawat pattern.
+Sa una, ang pagpapaandar na ito ay pinangalanan [Minesweeper].
+Gayunpaman, ang pagpapaandar na ito ay nilikha batay sa masyadong subjective na paghuhusga, kaya binago ito sa TTS Sentence Checker.
 Sinusuportahan lamang ng tampok na ito ang Korean.
-Hindi ko alam ang wika ng ibang mga bansa, kaya hindi ko maisaayos ang aking mga pattern kung ito ay mabuti o masama.
-Kung mayroong isang pattern na tulad nito sa ibang mga bansa, mangyaring ipadala ito sa amin sa pamamagitan ng e-mail.
-Kapag maaari mong suportahan ang maraming pambansang wika, ililipat namin ang pag -andar sa mga setting.
-Mayroon pa ring isang lugar na naiwan sa mga setting.
+Dahil hindi ko alam nang mabuti ang mga wika ng ibang mga bansa, hindi ko malaman kung ang pagsulat ay mabuti o masama.
+Kung mayroong isang pattern na tulad nito sa ibang mga bansa, mangyaring iulat ito sa pamamagitan ng email.
+Kapag maaari nating suportahan ang maraming pambansang wika, ililipat namin ang tampok sa mga setting.
+Mayroon pa ring isang puwang na naiwan sa mga setting.
 
 
-15. Paliwanag ng pag -andar ng pangangasiwa ng aso:
-Ito ay isang pamamaraan na maaaring magamit kung ang pangungusap ay hindi natapos ngunit bumaba ang pagpasok.
-Karaniwan, maraming nangyayari ito sa mga dokumento na nagtrabaho sa pagbabagong OCR.
-Ang tampok na ito ay hindi lamang isang kombinasyon ng Enter.
-Ito ay isang function na ipinatupad sa pamamagitan ng pagsusuri ng mga dokumento na may maraming mga error sa pagbubukas at pag -aayos ng mga pattern.
-Sinubukan kong ipakilala ang AI upang ayusin ito, ngunit hindi ito madali.
-Maraming pananaliksik sa natural na pagproseso ng wika sa mga araw na ito, kaya idagdag ko ito kung maiproseso ko ito sa AI mamaya.
+15. Paglalarawan ng Line Break Function:
+Ang Line Break Theorem ay isang pamamaraan na maaaring magamit kapag ang pangungusap ay hindi natapos ngunit ang enter key ay pinindot.
+Ang kababalaghan na ito ay karaniwang nangyayari sa mga dokumento na naproseso sa pamamagitan ng pagbabagong OCR.
+Ang pagpapaandar na ito ay hindi lamang pagsamahin ang Enter.
+Ang pagpapaandar na ito ay ipinatupad sa pamamagitan ng pagsusuri ng mga dokumento na may maraming mga error sa bagong linya at pag -aayos ng mga pattern.
+Sinubukan kong ipakilala ang pag -aayos gamit ang AI, ngunit hindi ito madali.
+Sa mga araw na ito, maraming pananaliksik ang ginagawa sa pagproseso ng natural na wika, kaya kung maiproseso natin ito sa AI sa hinaharap, susubukan nating idagdag ito.
 
 16. Paglalarawan ng Pag -andar ng Pagsasalin:
-Ang pag -andar ng lokal na pagsasalin / web browser ay suportado.
-Ang lokal na pagsasalin ay isang function na isinasalin sa AI na binuo ng Google. Ang mga simpleng salita ay maaaring isalin nang mabuti, ngunit tila maraming mga mistranslations sa pagsasalin ng pangungusap.
-Ang pagsasalin ng web browser ay isang function na nagpapakita ng mga pangungusap na isasalin sa isang browser.
-Kung i -on mo ang pagpapaandar ng pagsasalin sa mga setting - Mga Setting ng Pagsasalin at pindutin at hawakan ang pangungusap, gagana ang pag -andar ng pagsasalin.
+Sinusuportahan ang lokal na pagsasalin/web browser function ng pagsasalin.
+Ang lokal na pagsasalin ay isang function na isinasalin gamit ang AI na binuo ng Google. Ang mga simpleng salita ay isinalin nang maayos, ngunit tila may kaunting mga pagkakamali sa pagsasalin ng pangungusap.
+Ang pagsasalin ng web browser ay isang function na nagpapakita ng pangungusap na isasalin sa browser.
+Kung binuksan mo ang pagpapaandar ng pagsasalin sa [Mga Setting - Mga Setting ng Pagsasalin] at pindutin at hawakan ang pangungusap, gagana ang pag -andar ng pagsasalin.
 
 17. Iba pang mga bagay:
-Kapag nagbukas ka ng isang dokumento, ang pagpasok na umuulit ng higit sa tatlong beses ay bubuksan sa pamamagitan ng paglipat ng dalawang beses.
-Ang labis na pagpasok ay hindi kanais -nais upang makinig sa mga TT at hindi komportable na makita.
-Ang ilan sa iyo ay maaaring napansin na mula sa paggamit ng aking app sa mahabang panahon. "Hmm? Ang ilan sa inyo ay maaaring isipin," Hindi pa ako nakakita ng maraming libangan. "
-Nagpapatupad kami ng mas maraming pag -andar tulad ng maaaring suportahan ng manonood ng teksto.
+Kapag nagbubukas ng isang dokumento, awtomatikong mababago ng Earapp ang Enter Key na paulit -ulit na tatlo o higit pang beses sa dalawang beses.
+Ang labis na pagpasok ay hindi komportable na makinig at tingnan sa pamamagitan ng TTS.
+Ang ilan sa iyo ay maaaring napansin na ito habang ginagamit ang aking app sa mahabang panahon, at sabihin, "Hmm? Ngayon na iniisip ko ito, hindi ko pa nakikita na pinindot mo ang Enter? " Ang ilang mga tao ay maaaring mag -isip.
+Nagpapatupad kami ng maraming mga tampok hangga't maaari sa Text Viewer.
 
-Sumulat ako ng 17 gamit, ngunit hindi ko akalain na ginamit ko pa ang kalahati ng mga ito.
-Ang mga simpleng pag -andar tulad ng kulay ng background, imahe ng background, kulay ng titik, at paraan ng pag -on ng pahina ay tinanggal.
-Inaasahan kong makakatulong ang dokumentong ito sa maraming tao.
-Kung titingnan mo ang mga setting - impormasyon at tulong, mayroong isang link sa chat ng pangkat ng Telegram, kaya kung mayroon kang anumang mga katanungan, maaari kang pumasok at magtanong.
-Salamat sa pagbabasa hanggang sa huli.
+Sumulat ako ng labing pitong paraan upang magamit ito, ngunit sa palagay ko ay hindi ko pa nasusulat ang kalahati nito.
+Ang mga simpleng pag -andar tulad ng kulay ng background, imahe ng background, kulay ng teksto, at paraan ng pag -on ng point ay tinanggal.
+Inaasahan kong ang artikulong ito ay makakatulong sa maraming tao.
+Kung titingnan mo ang [Mga Setting - Impormasyon at Tulong], mayroong isang link sa silid ng chat ng Telegram Group, kaya kung mayroon kang anumang mga katanungan, maaari kang pumasok at magtanong.
+Salamat sa pagbabasa.

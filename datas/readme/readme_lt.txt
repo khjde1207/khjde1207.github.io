@@ -1,152 +1,152 @@
-Kaip jį naudoti (turite perskaityti):
+Kaip naudoti (turite skaityti):
 
-Ši programa turi daug funkcijų, todėl rekomenduoju perskaityti ją po vieną.
+Ši programa turi daug funkcijų, todėl rekomenduoju perskaityti ją.
 
 1. Kaip peržiūrėti failus:
-Spustelėkite Pridėti failą mano dokumente, kad pridėtumėte TXT.
-Palieskite TXT failą ir apačioje paspauskite mygtuką Atidaryti, kad peržiūrėtumėte failą.
+Spustelėkite Pridėti failą mano bibliotekoje, kad pridėtumėte TXT.
+Failą galite peržiūrėti paliesdami TXT failą ir paspausdami mygtuką Atidaryti apačioje.
 
 
-2. Kaip paslėpti žiūrovų skelbimus / dugno navigacijos mygtukus:
-Dvigubas palieskite ekrano centrą.
-Kai pereinate prie viso ekrano, skelbimai ir mygtukai išnyksta.
+2. Kaip paslėpti žiūrovų reklamą/apatinę navigacijos mygtukus:
+Dvigubai pritvirtinkite ekrano centrą.
+Kai jis pereina į visą ekraną, skelbimai ir mygtukai išnyksta.
 
 
-3. Norėdami pakeisti mygtuko MITT funkcijos sritį:
-Galite jį pakeisti „Nustatymai“ - jutiklinės srities nustatymai.
-Galite nustatyti daugybę funkcijų, įskaitant visą ekraną, puslapio judėjimą, ryškumo reguliavimą ir garsumo valdymą.
-Taip pat palaikomas „Bluetooth“ nuotolinio valdymo pultas, todėl galite patogiai atsigulti ir žiūrėti.
+3. Kaip pakeisti mygtuko ir funkcijos sritį:
+Galite jį pakeisti [nustatymai - jutiklinės srities nustatymai].
+Galite nustatyti įvairias funkcijas, tokias kaip visas ekranas, puslapio judėjimas, ryškumo valdymas ir garsumo valdymas.
+Taip pat palaikomas „Bluetooth“ nuotolinio valdymo pultas, todėl galite jį pastatyti ant stendo ir patogiai peržiūrėti gulėdami.
 
 
-4. pakeisti šriftą ar šriftą:
-Galite pakeisti šrifto ar šrifto dydį skiltyje „Nustatymai - nustatymai - šrifto nustatymai“.
-Galite naudoti šriftą paspausdami atsisiuntimo mygtuką, kad gautumėte dešimtis nemokamų šriftų.
+4. Kaip pakeisti šriftą ar teksto dydį:
+Galite pakeisti šrifto ar šrifto dydį [nustatymai - nustatymai - šrifto nustatymai].
+Spustelėję atsisiuntimo mygtuką galite naudoti dešimtis nemokamų šriftų.
 
 
-5. Kaip naudoti vaizdo teksto konversiją:
-Galite išgauti tekstą iš suspausto vaizdo. Tai vadinama OCR funkcija.
-Mano žurnalas - spustelėkite Pridėti failą ir pridėkite ZIP failą.
+5. Kaip naudoti vaizdą teksto konversijos funkcijai:
+Galite išgauti tekstą iš suspaustų vaizdų. Tai vadinama OCR funkcija.
+Mano biblioteka - spustelėkite Pridėti failą ir pridėkite ZIP failą.
 Galite konvertuoti pasirinkdami ZIP failą ir pasirinkdami meniu OCR.
-Puslapis sunaudojamas konversijos metu.
-OCR veikia su AI, todėl jo greitis ir tikslumas yra gana geri.
+Puslapiai vartojami konvertavimo metu.
+OCR atliekamas naudojant AI, todėl jo greitis ir tikslumas yra gana geri.
 
 
-6. EPUB, PDF konvertavimo metodas:
+6. Kaip konvertuoti EPUB į PDF:
 Tai tas pats, kas vaizdo konvertavimo metodas.
-Yra keletas dalykų, kuriuos reikia žinoti.
-„Epub“ arba „PDF“ gali būti „užšifruoti“.
-Jis daugiausia naudojamas raidėms sulaužyti ir padaryti jas matomus tik tam tikruose šriftuose.
-Šiuo atveju jis pasirodo kaip nežemiškas veikėjas, o ne korėjietis, todėl jūs negalite jo perskaityti TTS.
-Kaip būdas išspręsti šią problemą gali būti naudojama vaizdų ištraukimo funkcija, o tada OCR galima pasukti, kad būtų ištraukta.
+Yra keletas dalykų, kuriuos reikia atsiminti.
+EPUB arba PDF atveju jis gali būti „užšifruotas“.
+Labiausiai paplitęs metodas yra padaryti raides, kurios buvo surinktos ir matomos tik konkrečiuose šriftuose.
+Tokiu atveju jo negalima perskaityti naudojant TTS, nes jis atrodo kaip svetimas, o ne korėjietis.
+Norėdami išspręsti šią problemą, galite naudoti vaizdo ištraukimo funkciją ir naudoti OCR, kad ją išgautumėte.
 
 
 7. Kaip nustatyti TTS:
-Su TTS susiję parametrai yra sutelkti į nustatymus - TTS nustatymus, TTS filtrų nustatymus.
-TTS nustatymuose yra paprastų TTS funkcijų, tokių kaip balsas, greitis, garsumas, mygtuko skaidrumas, simboliai, baigiantys sakinius, ir vienu metu skaitomų sakinių skaičius, taip pat įrenginiai, papildantys TTS funkcijas.
-Vienu metu skaitomų sakinių skaičius yra funkcija, pridedama, kad būtų galima išgirsti keletą eilučių, kad būtų galima išgirsti minimaliai.
-TTS filtras yra viena galingiausių šios programos savybių.
-[TTS filtro nustatymai] leidžia nustatyti daugybę specialiųjų simbolių, žodžių ar sakinių, kuriuos jums reikia praleisti.
-Jei paspausite atsisiuntimo mygtuką, galite atsisiųsti dešimtis mano sukurtų filtrų.
-Taip pat galite pridėti patys, jei jums to reikia.
-[Automatinė išjungimo funkcija] gali nustatyti automatinį išjungimo laiką, paliesdama mėnulio formos piktogramą kairėje sustojimo mygtuko pusėje, žaisdamas TTS.
+Su TTS susiję parametrai yra sutelkti į [nustatymus - TTS nustatymus] ir [TTS filtro nustatymus].
+TTS nustatymai apima ne tik paprastas TTS funkcijas, tokias kaip balsas, greitis, garsumas, mygtuko skaidrumas, sakinio pabaigos simboliai ir vienu metu skaitomų sakinių skaičius, bet ir įrenginiai, papildantys TTS funkciją.
+Vienu metu perskaitytų sakinių skaičius yra funkcija, leidžianti perskaityti kelias eilutes vienu metu ir klausytis minimaliai atidėti.
+TTS filtras yra viena galingiausių šios programos funkcijų.
+[TTS filtrų nustatymuose] galite nustatyti įvairius specialiuosius simbolius, žodžius ar sakinius, kurie turėtų būti praleisti.
+Jei spustelėsite atsisiuntimo mygtuką, galite atsisiųsti dešimtis mano sukurtų filtrų.
+Prireikus taip pat galite pridėti savo.
+[Automatinė išjungimo funkcija] leidžia nustatyti automatinį išjungimo laiką, kai žaidžiant TTS, paliesdami mėnulio formos piktogramą į kairę nuo sustojimo mygtuko.
 
 
-8. Atsarginės kopijos ir atkūrimo galimybių aprašymas:
-Sąranka - atsarginė kopija ir atkūrimas yra funkcija, leidžianti keliems įrenginiams naudoti programą toje pačioje aplinkoje.
-Galite prisijungti prie disko, kad galėtumėte atkurti atsarginę kopiją.
-Žiūrėdami iš kelių įrenginių, tokių kaip kompiuteriai, telefonai ir trinkelės, galite naudoti vietos atsarginę kopiją, kad sinchronizuotumėte savo žiūrėjimo vietą.
-Pasirinkite įrenginį, kurį norite automatizuoti, ir įjunkite „Autosinchronization“ funkciją, kad automatiškai perkeltumėte į paskutinę vietą, kai paleidžiate programą arba einate namo ir grįšite.
+8. Atsarginės kopijos ir atkūrimo funkcijos aprašymas:
+[Nustatymai - atsarginė kopija ir atkūrimas] yra funkcija, sukurta, leidžianti naudoti programą toje pačioje aplinkoje keliuose įrenginiuose.
+Galite prisijungti prie disko ir atkurti atsargines kopijas.
+Žiūrėdami keliuose įrenginiuose, tokiuose kaip kompiuteris, telefonas ar PAD, galite sinchronizuoti peržiūros vietą naudodami „Vietos atsarginę kopiją“.
+Jei pasirinksite įrenginį, kuris automatiškai sinchronizuos ir įjungs funkciją „Auto Sync]“, jis automatiškai pereis į paskutinę peržiūrėtą vietą, kai paleisite programą arba išeisite ir grįšite į pagrindinį puslapį.
 
-9. Kaip naudoti teksto partijos modifikaciją:
-1. [Nustatymai - Nustatymai - birių redagavimo mygtukas]
-2. [Nustatymai - Redaguoti tekstą kartu]
-Galite naudoti partijos modifikaciją dviem būdais.
-1 numerio atveju jis naudojamas klausytis TT ir ištrinti ar pakeisti sakinį į kitą veikėją, jei kai kurie sakiniai ar žodžiai erzina.
-2 numerio atveju galite išgauti tekstą naudodami OCR ir iš dokumento pasirinkti tekstinį failą, kad atliktumėte paketo pataisą.
-Taip pat galite naudoti atsisiuntimo mygtuką atsisiųsti ir naudoti dažnai atsirandančias atpažinimo klaidas, kad pakartotinai pataisytumėte tekstą.
-Didžiųjų pataisų - atsisiuntimai bus rodomi sąrašą tik tuo atveju, jei kalbos nustatymai bus korėjiečių kalba.
-Taip yra todėl, kad kūrėjai nekalba kitomis kalbomis.
-Jei pranešite naudodamiesi ataskaitos funkcija, pridėsiu šalies kalbą.
+9. Kaip naudoti paketinio redagavimo tekstą:
+1. [Nustatymai - Nustatymai - Rodyti paketinį redagavimo mygtuką]
+2. [Nustatymai - birių redagavimo tekstas]
+Būrį redagavimą galima naudoti dviem būdais.
+1 atveju, jei kai kurie sakiniai ar žodžiai erzina klausant TTS, jis naudojamas norint ištrinti sakinius arba pakeisti juos į kitus simbolius.
+2 atveju galite išgauti tekstą naudodami OCR ir tada iš mano bibliotekos pasirinkite Tekstinius failus, kad atliktumėte partijos redagavimą.
+Taip pat galite naudoti atsisiuntimo mygtuką, kad pakartotinai redaguotumėte tekstą, kad atsisiųstumėte dažnai atsirandančias atpažinimo klaidas.
+[BATCH EDIT - atsisiųsti] sąrašą rodys tik tuo atveju, jei kalbos nustatymas yra korėjietis.
+Taip yra todėl, kad kūrėjai nežino, kaip kalbėti kitomis kalbomis.
+Jei pranešite apie tai naudodamiesi ataskaitos funkcija, pridėsime jūsų šalies kalbą.
 
-10. Jei klausant TTS yra niūrus sakinys, išspręskite:
-Jei nesvarbu, ar originalas yra modifikuotas, pakeiskite jį į [kolektyvinio modifikavimo] funkciją.
-Po pakeitimo atsarginis failas liks mano bibliotekoje, taigi, jei netyčia jį pakeisite, galite jį vėl atkurti.
-Jei norite pašalinti originalą tik iš TTS, jo neliesdami, naudokite TTS filtrą.
+10. Sprendimas Jei yra sakinys, kuris erzina klausant TTS:
+Jei neprieštaraujate modifikuoti originalą, naudokite funkciją „Batch Edit]“, kad ją pakeistumėte.
+Po pakeitimų atsarginis failas liks mano bibliotekoje, taigi, jei padarysite pakeitimus per klaidą, galite juos atkurti.
+Jei norite pašalinti tik TTS neliesdami originalo, naudokite TTS filtrą.
 
-11. Puslapio susijęs aprašymas:
-Jei naudosite specialias funkcijas, tokias kaip TTS sakinio tikrinimas, partijos korekcija, eilučių pertvarkymas ir vertimas, puslapiai bus suvartoti, tačiau kadangi jis yra apie 10–50, jūs nejausite, kad jis suvartotas.
-Tikėtina, kad dauguma puslapių bus naudojami ištraukiant tekstą iš OCR, EPUB ir PDF.
-Ištraukdami tekstą, mes ne tik ištraukiame vienas ranka, bet ir organizuojame sakinius, sukeldami dešimtis problemų, atsirandančių po ištraukimo į modelius.
-Tai dalis tikrai buvo sunku įgyvendinti, todėl išbandykite.
+11. Su taškais susijęs paaiškinimas:
+Taškai vartojami naudojant specialias funkcijas, tokias kaip TTS sakinio tikrinimas, partijos redagavimas, eilutės išdėstymas ir vertimas, tačiau kadangi jų yra apie 10–50, nejausite suvartojimo.
+Didžioji dalis taškų greičiausiai bus įpratę prie tokio laipsnio, kurį galima pajusti išgaunant tekstą iš OCR, EPUB ir PDF.
+Ištraukdami tekstą, mes ne tik ištraukiame tekstą, bet ir sukuriame modelius iš dešimčių problemų, kylančių po ištraukimo, ir tęsdami sakinio organizavimą.
+Ši dalis buvo įgyvendinta su dideliais sunkumais, todėl pabandykite ją bent kartą naudoti.
 
 
-12. Reklamos aprašymas:
+12. Su reklama susijęs paaiškinimas:
 Aš esu ir kūrėjas, ir vartotojas.
-Mes pridėjome reklamą tiek, kiek jie netrukdo naudoti kiek įmanoma.
-Skelbimuose yra saugūs puslapių ir skelbimų pašalinimo skelbimai.
-Puslapis gali laikyti iki 60 000 puslapių.
-Pašalindami reklamas galite naudoti puslapį, kad pašalintumėte reklamas tam tikrą laiką. (Išskyrus miego laiką, tai yra maždaug diena.)
-Tiems, kurie išankstiniai puslapiai yra, galite pašalinti žiūrovo pusės reklamą suvartodami 2000 puslapių.
-Kai suvartojate 8000 puslapių, visi skelbimai yra išjungti, išskyrus 30 sekundžių skelbimus, skirtus įsigyti puslapį, ir natūraliems skelbimams nustatymų viduryje.
-Tiems, kuriems trukdo trumpi skelbimai, kurie iškyla per didelį konversijos kiekį, buvo pridėta 8000 puslapių skelbimų.
+Reklamos buvo pridėtos tiek, kiek jie netrukdo naudoti kuo daugiau.
+Yra dviejų tipų reklamos: taškai, užtikrinantys reklamą ir reklamos pašalinimo reklamą.
+Galite sulaikyti iki 60 000 taškų.
+Pašalindami skelbimus, galite naudoti taškus, kad pašalintumėte skelbimus tam tikru laikotarpiu. (Išskyrus miego laiką, tai yra maždaug viena diena.)
+Tiems, kurie iš anksto kaupia taškus, galite pašalinti „Viewer-Side“ skelbimus suvartodami 2000 taškų.
+Kai suvartojate 8000 taškų, visos reklamos bus išjungtos, išskyrus 30 sekundžių reklamą, kad būtų užtikrinti taškai ir natūrali reklama nustatymų viduryje.
+8000 taškų reklama buvo pridėta tiems, kuriems atrodo erzinanti pamatyti trumpą reklamą, kuri pasirodo atliekant dideles konversijos užduotis.
 
 
-13. Ausų funkcijos aprašymas („Istorijos sąveika“):
-Tai palaiko ausies vaizdo funkciją.
-Pvz., Tarkime, kad turime dokumentą pavadinimu (nuo 1 iki 50), ir turime naują dokumentą, pavadintą A (nuo 1 iki 100).
-Tokiu atveju jau būtina praleisti pagrindinę poziciją.
-Kai mano bibliotekoje pasirenkate tekstinį failą, pasirodo „Ear View“ meniu.
-Jei pasirinksite šį meniu ir tada pasirinksite (nuo 1 iki 50) istorijoje, jis automatiškai praleis anksčiau žiūrėtą padėtį.
-Kai turėsite laiko vėliau, iš istorijos pašalinkite (1-50).
+13. Tęsimo (istorijos ryšio) funkcijos aprašymas:
+Palaiko nuolatinę žiūrėjimo funkciją.
+Pvz., Tarkime, kad yra dokumentas pavadinimu (1 ~ 50), tačiau dabar jūs gaunate naują dokumentą pavadinimu (1 ~ 100).
+Tokiu atveju jau turite praleisti pagrindinę vietą.
+Kai mano bibliotekoje pasirenkate tekstinį failą, pasirodo meniu Tęsti.
+Pasirinkę šį meniu, jei istorijoje pasirinksite (1 ~ 50), jis automatiškai praleis anksčiau peržiūrėtą vietą.
+Kai turėsite laiko vėliau, iš istorijos pašalinkite (1 ~ 50).
 Istorijoje taip pat skaičiuojamas bendras skaitytų knygų skaičius.
 Jei liks tas pats dokumentas, gali būti rodoma netiksli informacija.
 
 
-14. Žyma/PASTABA/VYKDYMAS Aprašymas:
-Programa palaiko pastabas ir žymes/vaidina.
-Jei įjungsite žymės funkciją žymių nustatymuose, galite ją pridėti paspausdami ir laikydami tekstą.
-Pastabų funkcija leidžia pasirinkti ir įvesti failą, jei bent kartą atidarėte jį.
-Jei bent kartą atidarysite failą, failo pasirinkimo viršuje pasirodo žvaigždė.
-Pastabos ir horoskopai gali būti naudojami paties failo įvertinimams įrašyti.
-Žymės gali būti naudojamos svarbiam turiniui įrašyti.
+14. Žyma/atmintinė/žvaigždės įvertinimas Aprašymas:
+Programa palaiko atmintinės ir žymių/žvaigždžių įvertinimo funkcijas.
+Jei įjungsite žymės funkciją žymių nustatymuose, galite ją pridėti ilgai paspausdami tekstą.
+Funkcija „Memo“ leidžia pasirinkti ir įvesti failą, jei atidarėte ir bent kartą peržiūrėjote failą.
+Jei net vieną kartą atidarote failą, viršuje yra žvaigždė, kai pasirenkate failą.
+Pastabos ir įvertinimai gali būti naudojami paties failo įvertinimams įrašyti.
+Ženklai gali būti naudojami svarbios informacijos įrašymui.
 
 
 
-14. TTS sakinio egzaminuotojo aprašymas:
-Pažvelgusi į daugybę dokumentų, pradėjau matyti gerai parašytų ir nerašytų tekstų modelį.
-Radau modelį, kuris visada pasirodo nelaiminguose tekstuose.
-Aš suskirstiau šį modelį ir gaminu jį svoriu kiekviename modelyje.
-Iš pradžių mes tai pavadinome [minų paieška].
-Tačiau ši funkcija buvo padaryta pernelyg subjektyviu sprendimu, todėl pakeičiau ją į TTS sakinio tikrintuvą.
+14. TTS sakinio tikrintojo aprašymas:
+Peržiūrėdamas daugybę dokumentų, pradėjau matyti modelius tarp gerai parašytų ir ne taip gerai parašytų straipsnių.
+Aš atradau modelį, kuris visada pasirodo nuviliančiuose straipsniuose.
+Tai funkcija, kurią sukūriau organizuodamas šiuos modelius ir suteikdamas svorio kiekvienam modeliui.
+Iš pradžių ši funkcija buvo pavadinta [minesweeper].
+Tačiau ši funkcija buvo sukurta remiantis pernelyg subjektyviu sprendimu, todėl ji buvo pakeista į TTS sakinio tikrintuvą.
 Ši funkcija palaiko tik korėjiečių kalbą.
-Nežinau kitų šalių kalbos, todėl negaliu organizuoti savo modelių, nesvarbu, ar tai gerai, ar blogai.
-Jei kitose šalyse yra toks modelis, atsiųskite jį mums el. Paštu.
-Kai galėsite palaikyti kelias nacionalines kalbas, mes perkelsime funkciją į nustatymus.
-Nustatymuose vis dar liko viena vieta.
+Kadangi gerai nežinau kitų šalių kalbų, negalėjau išsiaiškinti, ar rašymas buvo geras, ar blogas.
+Jei kitose šalyse yra toks modelis, praneškite apie tai el. Paštu.
+Kai galėsime palaikyti kelias nacionalines kalbas, šią funkciją perkelsime į nustatymus.
+Nustatymuose vis dar liko viena erdvė.
 
 
-15. Šuns administravimo funkcijos paaiškinimas:
-Tai metodas, kurį galima naudoti, jei sakinys nėra baigtas, tačiau įrašas neveikia.
-Paprastai tai daug nutinka su dokumentais, kurie dirbami su OCR konversija.
-Ši funkcija nėra tik ENTER derinys.
-Tai funkcija, įgyvendinama analizuojant dokumentus su daugybe atidarymo klaidų ir organizuojant modelius.
-Aš bandžiau pristatyti AI, kad ją organizuotumėte, tačiau tai nebuvo lengva.
-Šiomis dienomis yra daug tyrimų apie natūralios kalbos apdorojimą, todėl pridėsiu, jei vėliau galėsiu jį apdoroti su AI.
+15. Linijos pertraukos funkcijos aprašymas:
+„Line Break“ teorema yra metodas, kurį galima naudoti, kai sakinys nėra baigtas, tačiau paspaudžiamas klavišas Enter.
+Šis reiškinys paprastai būna dokumentuose, apdorotuose per OCR konvertavimą.
+Ši funkcija ne tik sujungia Enter.
+Ši funkcija buvo įgyvendinta analizuojant dokumentus su daugybe naujos linijos klaidų ir organizuojant modelius.
+Bandžiau pristatyti organizavimą naudojant AI, tačiau tai nebuvo lengva.
+Šiomis dienomis daug tyrimų atliekama natūralios kalbos apdorojimo, taigi, jei ateityje galėsime jį apdoroti su AI, mes bandysime jį pridėti.
 
 16. Vertimo funkcijos aprašymas:
-Palaikomos vietinio vertimo / žiniatinklio naršyklės vertimo funkcijos.
-Vietinis vertimas yra funkcija, kuri išverčia į „Google“ sukurtą AI. Paprasti žodžiai gali būti gerai išversti, tačiau atrodo, kad vertimas į sakinį yra daug klaidingų.
-Žiniatinklio naršyklės vertimas yra funkcija, rodanti sakinius, kurie turi būti išversti naršyklėje.
-Jei įjungiate vertimo funkciją nustatymuose - vertimo nustatymai ir paspauskite ir laikysite sakinį, vertimo funkcija veiks.
+Palaiko vietinio vertimo/interneto naršyklės vertimo funkcijas.
+Vietinis vertimas yra funkcija, kuri verčia naudojant „Google“ sukurtą AI. Paprasti žodžiai yra gerai išversti, tačiau atrodo, kad vertime sakinio vertimas yra nemažai klaidingų.
+Žiniatinklio naršyklės vertimas yra funkcija, rodanti sakinį, kuris turi būti išverstas naršyklėje.
+Jei įjungsite vertimo funkciją [Nustatymai - vertimo nustatymai] ir paspauskite ir palaikysite sakinį, vertimo funkcija veiks.
 
 17. Kiti dalykai:
-Kai atidarote dokumentą, įrašas, kuris kartojamas daugiau nei tris kartus, bus atidarytas perjungus į du kartus.
-Per didelis įėjimas yra nepatogus klausytis su TTS ir nemalonu pamatyti.
-Kai kurie iš jūsų jau seniai pastebėjote mano programą. "Hmm? Kai kurie iš jūsų gali pagalvoti:" Aš niekada nemačiau daug pramogų ".
-Mes įdiegėme tiek funkcionalumo, kiek gali palaikyti teksto žiūrovas.
+Atidarę dokumentą, „EarApp“ automatiškai pakeis klavišą „Enter“, pakartotą tris ar daugiau kartų į du kartus.
+Pertekliniam įėjimui nepatogu klausytis ir peržiūrėti TTS.
+Kai kurie iš jūsų jau ilgą laiką tai pastebėjote, kai naudojate mano programą, ir sakykite: „Hmm? Dabar, kai galvoju apie tai, aš niekada nemačiau, kad spaudai įvestumėte daug? “ Kai kurie žmonės gali taip galvoti.
+Mes įdiegėme kuo daugiau funkcijų teksto žiūrove.
 
-Aš užsirašiau 17 panaudojimo būdų, bet nemanau, kad dar panaudojau pusę jų.
-Paprastos funkcijos, tokios kaip fono spalva, fono vaizdas, raidžių spalva ir puslapio posūkio metodas, buvo praleistos.
-Tikiuosi, kad šis dokumentas padės daugeliui žmonių.
-Jei pažvelgsite į „Nustatymai“ - informaciją ir pagalbą, yra nuoroda į „Telegram Group Chat“, taigi, jei turite klausimų, galite atvykti ir paklausti.
-Ačiū, kad perskaitėte pabaigą.
+Aš užsirašiau septyniolika būdų, kaip jį naudoti, bet nemanau, kad dar net parašiau pusę jo.
+Paprastos funkcijos, tokios kaip fono spalva, fono vaizdas, teksto spalva ir taškų posūkio metodas, buvo praleistos.
+Tikiuosi, kad šis straipsnis bus naudingas daugeliui žmonių.
+Jei pažvelgsite į [nustatymus - informaciją ir pagalbą], yra nuoroda į „Telegram“ grupės pokalbių kambarį, taigi, jei turite klausimų, galite atvykti ir paklausti.
+Ačiū, kad skaitėte.

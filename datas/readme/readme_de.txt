@@ -1,152 +1,152 @@
-Wie man es benutzt (muss lesen):
+Wie man verwendet (muss lesen):
 
-Diese Anwendung hat viele Funktionen, daher empfehle ich Ihnen, sie einzeln zu lesen.
+Diese App hat viele Funktionen, daher empfehle ich, sie zu lesen.
 
 1. So anzeigen Dateien:
-Bitte klicken Sie in meinem Dokument auf Datei hinzufügen, um TXT hinzuzufügen.
-Berühren Sie die TXT -Datei und drücken Sie die Schaltfläche Öffnen Sie unten, um die Datei anzuzeigen.
+Bitte klicken Sie in meiner Bibliothek auf Datei hinzufügen, um TXT hinzuzufügen.
+Sie können die Datei anzeigen, indem Sie die TXT -Datei berühren und die Schaltfläche Öffnen unten drücken.
 
 
-2. So verbergen Sie Zuschaueranzeigen / Bottom Navigation Tasten:
-Tippen Sie doppelt auf die Mitte des Bildschirms.
-Wenn Sie zum Vollbildum wechseln, verschwinden die Anzeigen und Schaltflächen.
+2. So verbergen Sie Zuschaueranzeigen/Bodennavigationsschaltflächen:
+DOUBEN Sie die Mitte des Bildschirms.
+Wenn es auf den Vollbildumschaltungen umschaltet, verschwinden Anzeigen und Tasten.
 
 
-3. Um den Taste -Mittelstufe -Funktionsbereich zu ändern:
-Sie können es unter Einstellungen ändern - Berührungsbereicheinstellungen.
-Sie können eine Reihe von Funktionen festlegen, einschließlich Vollbildmaterial, Seitenbewegung, Helligkeitsanpassung und Lautstärkeregler.
-Die Bluetooth -Fernbedienung wird ebenfalls unterstützt, sodass Sie sich hinlegen und bequem beobachten können.
+3. So ändern Sie den Taste und den Funktionsbereich:
+Sie können es in [Einstellungen - Berührungsbereicheinstellungen] ändern.
+Sie können verschiedene Funktionen wie Vollbild, Seitenbewegung, Helligkeitskontrolle und Lautstärkeregelung festlegen.
+Eine Bluetooth -Fernbedienung wird ebenfalls unterstützt, sodass Sie sie auf einen Stand stellen und bequem im Liegen sehen können.
 
 
-4. Um Schrift oder Schriftgröße zu ändern:
-Sie können die Schrift- oder Schriftgröße unter Einstellungen - Einstellungen - Schrifteinstellungen ändern.
-Sie können die Schriftart verwenden, indem Sie die Download -Taste drücken, um Dutzende kostenloser Schriftarten zu erhalten.
+4. Wie ändert sich die Schriftart oder die Textgröße:
+Sie können die Schrift- oder Schriftgröße in [Einstellungen - Einstellungen - Schrifteinstellungen] ändern.
+Sie können Dutzende kostenloser Schriftarten verwenden, indem Sie auf die Schaltfläche Download klicken.
 
 
-5. Verwenden Sie Image Text Conversion:
-Sie können Text aus einem komprimierten Bild extrahieren. Dies wird als OCR -Funktion bezeichnet.
-Mein Tagebuch - Klicken Sie auf Datei hinzufügen und eine ZIP -Datei hinzufügen.
+5. Verwenden Sie das Bild zur Konvertierungsfunktion des Bildes zu Text:
+Sie können Text aus komprimierten Bildern extrahieren. Dies wird als OCR -Funktion bezeichnet.
+Meine Bibliothek - Klicken Sie auf Datei hinzufügen und die ZIP -Datei hinzufügen.
 Sie können konvertieren, indem Sie die ZIP -Datei auswählen und dann das OCR -Menü auswählen.
-Die Seite wird während der Konvertierung konsumiert.
-OCR arbeitet mit KI zusammen, so dass Geschwindigkeit und Genauigkeit ziemlich gut sind.
+Seiten werden während der Umwandlung konsumiert.
+OCR erfolgt mit KI, daher ist seine Geschwindigkeit und Genauigkeit ziemlich gut.
 
 
-6. EPUB, PDF -Konvertierungsmethode:
+6. So konvertieren Sie EPUB in PDF:
 Es ist dasselbe wie die Bildkonvertierungsmethode.
-Es gibt ein paar Dinge, über die man sich bewusst ist.
-EPUB oder PDF kann "verschlüsselt" sein.
-Es wird hauptsächlich verwendet, um Buchstaben zu brechen und sie nur in bestimmten Schriftarten sichtbar zu machen.
-In diesem Fall kommt es wie ein außerirdischer Charakter heraus, nicht Koreanisch, sodass Sie es in TTS nicht lesen können.
-Um dieses Problem zu lösen, kann die Funktion des Extrahierens von Bildern verwendet werden, und dann kann die OCR zum Extrahieren gedreht werden.
+Es gibt ein paar Dinge zu beachten.
+Im Fall von EPUB oder PDF kann es „verschlüsselt“ werden.
+Die häufigste Methode besteht darin, Briefe nur in bestimmten Schriftarten verstümmelt und sichtbar zu machen.
+In diesem Fall kann es nicht mit TTS gelesen werden, da es eher wie ein außerirdischer Charakter als nach Koreanisch aussieht.
+Um dieses Problem zu lösen, können Sie die Bildextraktionsfunktion verwenden und dann OCR extrahieren.
 
 
 7. So richten Sie TTs ein:
-TTS -bezogene Einstellungen sind in Einstellungen konzentriert - TTS -Einstellungen, TTS -Filtereinstellungen.
-Die TTS -Einstellungen umfassen einfache TTS -Funktionen wie Sprache, Geschwindigkeit, Lautstärke, Schaltflächentransparenz, Zeichen, die Sätze beenden, und die Anzahl der Sätze, die jeweils gelesen werden, sowie Geräte, die die TTS -Funktionen ergänzen.
-Die Anzahl der zu einem Zeitpunkt gelesenen Sätze ist eine Funktion hinzugefügt, damit mehrere Zeilen gleichzeitig gelesen werden können, die mit minimaler Verzögerung gehört werden können.
-Der TTS -Filter ist eines der leistungsstärksten Merkmale dieser Anwendung.
-Mit [TTS -Filtereinstellungen] können Sie eine Reihe von Sonderzeichen, Wörtern oder Sätzen festlegen, die Sie überspringen müssen.
-Wenn Sie die Download -Taste drücken, können Sie Dutzende von Filtern herunterladen, die ich produziert habe.
-Sie können es auch selbst hinzufügen, wenn Sie es brauchen.
-[Automatische Abschaltfunktion] kann die automatische Abschaltzeit einstellen, indem das mondförmige Symbol auf der linken Seite der Stopptaste beim Abspielen von TTS berührt wird.
+TTS -bezogene Einstellungen sind in [Einstellungen - TTS -Einstellungen] und [TTS -Filtereinstellungen] konzentriert.
+Zu den TTS -Einstellungen gehören nicht nur einfache TTS -Funktionen wie Sprache, Geschwindigkeit, Volumen, Tastendransparenz, Satzendcharakter und Anzahl der gleichzeitig gelesenen Sätze, sondern auch Geräte, die die TTS -Funktion ergänzen, werden hinzugefügt.
+Die Anzahl der gleichzeitig gelesenen Sätze ist eine Funktion hinzugefügt, mit der Sie mehrere Zeilen gleichzeitig lesen und mit minimaler Verzögerung zuhören können.
+TTS -Filter ist eine der leistungsstärksten Funktionen dieser App.
+In [TTS -Filtereinstellungen] können Sie verschiedene Sonderzeichen, Wörter oder Sätze festlegen, die übersprungen werden sollten.
+Wenn Sie auf die Schaltfläche Download klicken, können Sie Dutzende von Filtern herunterladen, die ich erstellt habe.
+Sie können bei Bedarf auch Ihre eigene hinzufügen.
+[Mit der automatischen Abschaltfunktion] können Sie die automatische Shutdown-Zeit einstellen, indem Sie das mondförmige Symbol links von der Stop-Taste beim Abspielen von TTs berühren.
 
 
-8. Beschreibung der Sicherungs- und Wiederherstellungsfunktionen:
-Setup - Backup und Wiederherstellung ist eine Funktion, mit der mehrere Geräte die Anwendung in derselben Umgebung verwenden können.
-Sie können sich beim Laufwerk für die Wiederherstellung der Sicherung anmelden.
-Wenn Sie aus mehreren Geräten wie PCs, Telefonen und Pads betrachtet werden, können Sie den Standort -Backup verwenden, um Ihren Anzeigort zu synchronisieren.
-Wählen Sie das Gerät aus, das Sie autosynchronisieren möchten, und aktivieren Sie die Autosynchronisierungsfunktion ein, um automatisch zum letzten Standort zu wechseln, wenn Sie die Anwendung ausführen oder nach Hause gehen und zurückkehren.
+8. Backup- und Wiederherstellungsfunktion Beschreibung:
+[Einstellungen - Backup und Wiederherstellung] ist eine Funktion, mit der Sie die App in derselben Umgebung auf mehreren Geräten verwenden können.
+Sie können sich im Laufwerk anmelden und Backups wiederherstellen.
+Wenn Sie sich auf mehreren Geräten wie PC, Telefon oder PAD anzeigen, können Sie den Standort für den Standort mit der Standortsicherung synchronisieren.
+Wenn Sie ein Gerät auswählen, um die Funktion [Auto Sync] automatisch zu synchronisieren und einzuschalten, wechselt es automatisch zum letzten angezeigten Speicherort, wenn Sie die App ausführen oder gehen und zur Startseite zurückkehren.
 
-9. Verwenden Sie die Änderung der Textstapel -Änderung:
-1. [Einstellungen - Einstellungen - Schaltfläche Bulk Bearbeiten]
-2. [Einstellungen - Text kollektiv bearbeiten]
-Sie können die Batch -Modifikation auf zwei Arten verwenden.
-Im Falle von Nummer 1 wird es verwendet, um TTs anzuhören und den Satz in einen anderen Charakter zu löschen oder zu ändern, wenn einige Sätze oder Wörter ärgerlich sind.
-Im Falle von Nummer 2 können Sie den Text mit OCR extrahieren und die Textdatei aus dem Dokument auswählen, um eine Stapelkorrektur durchzuführen.
-Sie können auch die Download -Schaltfläche zum Herunterladen und zum Herunterladen und verwenden häufig vorkommende Erkennungsfehler für die Stapelkorrektur des Textes verwenden.
-Bulk Corrections - Downloads zeigen nur die Liste, wenn die Spracheinstellungen auf Koreanisch sind.
-Dies liegt daran, dass Entwickler keine anderen Sprachen sprechen.
-Wenn Sie über die Berichtsfunktion berichten, füge ich die Sprache des Landes hinzu.
+9. Verwenden Sie Batch -Bearbeitungstext:
+1. [Einstellungen - Einstellungen - Schaltfläche Batch bearbeiten]
+2. [Einstellungen - Bulk -Bearbeitungstext]
+Massenbearbeitung kann auf zwei Arten verwendet werden.
+Wenn in Fall 1 einige Sätze oder Wörter beim Anhören von TTS ärgerlich sind, wird es verwendet, um die Sätze zu löschen oder sie in andere Zeichen zu ändern.
+In Fall 2 können Sie Text mit OCR extrahieren und dann Textdateien aus meiner Bibliothek auswählen, um die Batch -Bearbeitung durchzuführen.
+Sie können auch die Schaltfläche Download verwenden, um den Text zu bearbeiten, um häufig vorkommende Erkennungsfehler herunterzuladen.
+[Batch Edit - Download] zeigt nur die Liste an, wenn die Spracheinstellung Koreanisch ist.
+Dies liegt daran, dass Entwickler nicht wissen, wie man andere Sprachen spricht.
+Wenn Sie es über die Berichtsfunktion melden, werden wir die Sprache Ihres Landes hinzufügen.
 
-10. Wenn es beim Anhören von TTS einen störenden Satz gibt, arbeiten Sie ihn aus:
-Wenn es keine Rolle spielt, ob das Original geändert wird, ändern Sie es bitte in die Funktion [kollektiver Modifikation].
-Nach der Änderung bleibt die Sicherungsdatei in meiner Bibliothek. Wenn Sie sie also versehentlich ändern, können Sie sie erneut wiederherstellen.
-Wenn Sie das Original nur aus TTS entfernen möchten, ohne es zu berühren, verwenden Sie den TTS -Filter.
+10. Lösung Wenn es einen Satz gibt, der ärgerlich ist, wenn Sie TTS anhören:
+Wenn es Ihnen nichts ausmacht, dass das Original geändert wird, verwenden Sie bitte die Funktion [Batch Edit], um sie zu ändern.
+Nach Änderungen verbleibt eine Sicherungsdatei in meiner Bibliothek. Wenn Sie also versehentlich Änderungen vornehmen, können Sie sie wiederherstellen.
+Wenn Sie nur TTS entfernen möchten, ohne das Original zu berühren, verwenden Sie den TTS -Filter.
 
-11. Seitenbezogene Beschreibung:
-Wenn Sie spezielle Funktionen wie TTS -Satzinspektion, Batch -Korrektur, Reorganisation von Linien und Übersetzung verwenden, werden Seiten konsumiert, aber da es etwa 10 bis 50 sind, werden Sie es nicht als verzehrt fühlen.
-Die meisten Seiten werden wahrscheinlich verwendet, um beim Extrahieren von Text aus OCR, EPUB und PDF zu fühlen.
-Bei der Extraktion von Text extrahieren wir nicht nur im Alleingang, sondern organisieren auch Sätze, indem wir Dutzende von Problemen herstellen, die nach der Extraktion in Muster auftreten.
-Es ist ein Teil, der wirklich schwer zu implementieren war. Bitte versuchen Sie es.
+11. Erklärung mit Punktezusammensetzung:
+Punkte werden verbraucht, wenn spezielle Funktionen wie TTS -Satzprüfung, Batch -Bearbeitung, Linienanordnung und Übersetzung verwendet werden. Da sie jedoch etwa 10 bis 50 sind, werden Sie den Verbrauch nicht spüren.
+Die meisten Punkte werden wahrscheinlich in einem Ausmaß verwendet, der beim Extrahieren von Text aus OCR, EPUB und PDF zu spüren ist.
+Wenn Sie Text extrahieren, extrahieren wir nicht nur den Text, sondern erstellen auch Muster aus Dutzenden von Problemen, die nach der Extraktion auftreten und mit der Satzorganisation fortfahren.
+Dieser Teil wurde mit großer Schwierigkeit implementiert. Versuchen Sie es also mindestens einmal.
 
 
-12. Werbung Beschreibung:
+12. Erklärung mit Werbung:
 Ich bin sowohl Entwickler als auch Benutzer.
-Wir haben Werbung in dem Maße hinzugefügt, in dem sie die Verwendung nicht so weit wie möglich beeinträchtigen.
-Zu den Anzeigen gehören Seiten- und Anzeigen-Entfernungs-Anzeigen.
-Eine Seite kann bis zu 60.000 Seiten enthalten.
-Wenn Sie Anzeigen entfernen, können Sie die Seite für einen bestimmten Zeitraum verwenden. (Ohne Schlafzeit ist es ungefähr einen Tag.)
-Für diejenigen, die Seiten vorstapeln, können Sie die Anzeigenwerbung entfernen, indem Sie 2000 Seiten konsumieren.
-Wenn Sie 8000 Seiten konsumieren, sind alle Anzeigen mit Ausnahme der 30-Sekunden-Anzeigen für die Seitenerfassung und die nativen Anzeigen in der Mitte der Einstellungen deaktiviert.
-8000 Seitenanzeigen wurden für diejenigen hinzugefügt, die von kurzen Anzeigen gestört werden, die während einer großen Umwandlung auftauchen.
+Anzeigen wurden in dem Maße hinzugefügt, in dem sie die Verwendung nicht so weit wie möglich beeinträchtigen.
+Es gibt zwei Arten von Werbung: Punkte, die Werbung und Anzeigen von Werbeanzeigen sicherstellen.
+Sie können bis zu 60.000 Punkte halten.
+Beim Entfernen von Anzeigen können Sie Punkte für einen bestimmten Zeitraum entfernen. (Ohne Schlafzeit ist es ungefähr einen Tag.)
+Für diejenigen, die Punkte im Voraus sammeln, können Sie die Anzeigen der Zuschauer-Seite entfernen, indem Sie 2000 Punkte konsumieren.
+Wenn Sie 8000 Punkte konsumieren, werden alle Anzeigen mit Ausnahme der 30-Sekunden-Anzeige deaktiviert, um Punkte und die native Werbung in der Mitte der Einstellungen zu sichern.
+Die 8000 -Punkte -Anzeige wurde für diejenigen hinzugefügt, die es ärgerlich finden, kurze Anzeigen zu sehen, die beim Ausführen großer Konvertierungsaufgaben auftauchen.
 
 
-13. Funktionsbeschreibung für Ohr (History Interworking):
-Es unterstützt die Ohransichtsfunktion.
-Angenommen, wir haben ein Dokument mit dem Titel A (1 bis 50) und wir haben ein neues Dokument namens A (1 bis 100).
-In diesem Fall ist es bereits erforderlich, die Hauptposition zu überspringen.
-Wenn Sie in meiner Bibliothek eine Textdatei auswählen, wird im Menü der Ohransicht angezeigt.
-Wenn Sie dieses Menü auswählen und dann eine (1 bis 50) im Verlauf auswählen, überspringen Sie automatisch die zuvor angezeigte Position.
-Wenn Sie Zeit später haben, entfernen Sie bitte eine (1-50) aus der Geschichte.
+13. Beschreibung der Fortsetzung (History Linkage) Funktion:
+Unterstützt die kontinuierliche Betrachtungsfunktion.
+Angenommen, es gibt ein Dokument mit dem Titel A (1 ~ 50), aber Sie erhalten jetzt ein neues Dokument mit dem Titel A (1 ~ 100).
+In diesem Fall müssen Sie bereits den Hauptstandort überspringen.
+Wenn Sie in meiner Bibliothek eine Textdatei auswählen, wird das Menü fortgesetzt.
+Nachdem Sie dieses Menü ausgewählt haben, überspringen Sie den zuvor angezeigten Speicherort automatisch, wenn Sie einen (1 ~ 50) im Verlauf auswählen.
+Wenn Sie Zeit später haben, entfernen Sie bitte eine (1 ~ 50) aus der Geschichte.
 In der Geschichte wird auch die Gesamtzahl der gelesenen Bücher gezählt.
 Wenn dasselbe Dokument bleibt, können ungenaue Informationen angezeigt werden.
 
 
-14. Lesezeichen/Notiz/Darstellung Beschreibung:
-Die App unterstützt Notizen und Lesezeichen/Stars.
-Wenn Sie die Lesezeichenfunktion in Lesezeicheneinstellungen einschalten, können Sie sie hinzufügen, indem Sie Text drücken und halten.
-Mit der Notizenfunktion können Sie eine Datei auswählen und eingeben, wenn Sie sie mindestens einmal geöffnet haben.
-Wenn Sie mindestens einmal eine Datei öffnen, wird ein Stern oben in der Dateiauswahl angezeigt.
-Anmerkungen und Horoskope können verwendet werden, um die Bewertungen der Datei selbst aufzuzeichnen.
-Lesezeichen können verwendet werden, um wichtige Inhalte aufzuzeichnen.
+14. Lesezeichen/Memo/Star -Bewertung Beschreibung:
+Die App unterstützt Memo- und Lesezeichen/Star -Bewertungsfunktionen.
+Wenn Sie die Lesezeichenfunktion in den Lesezeicheneinstellungen einschalten, können Sie sie hinzufügen, indem Sie den Text lange drücken.
+Mit der Memo -Funktion können Sie eine Datei auswählen und eingeben, wenn Sie die Datei mindestens einmal geöffnet und angezeigt haben.
+Wenn Sie auch einmal eine Datei öffnen, gibt es oben einen Stern, wenn Sie die Datei auswählen.
+Anmerkungen und Bewertungen können verwendet werden, um die Bewertungen der Datei selbst aufzuzeichnen.
+Lesezeichen können verwendet werden, um wichtige Informationen aufzuzeichnen.
 
 
 
-14. TTS -Satzprüfer Beschreibung:
-Als ich mir viele Dokumente ansah, sah ich ein Muster gut geschriebener und nicht geschriebener Texte.
-Ich habe ein Muster gefunden, das immer in unglücklichen Texten herauskommt.
-Ich organisierte dieses Muster und produzierte es, indem ich jedes Muster gewichtet habe.
-Wir haben es zuerst [meine Suche] genannt.
-Diese Funktion wurde jedoch mit einem zu subjektiven Urteilsvermögen gemacht, daher habe ich sie in TTS -Satzprüfung geändert.
+14. TTS -Satzprüfung Beschreibung:
+Als ich zahlreiche Dokumente durchschaute, begann ich Muster zwischen gut geschriebenen und nicht so weit geschriebenen Artikeln zu sehen.
+Ich entdeckte ein Muster, das immer in enttäuschenden Artikeln erscheint.
+Dies ist eine Funktion, die ich erstellt habe, indem ich diese Muster organisierte und jedem Muster Gewicht verleiht.
+Zunächst wurde diese Funktion [Minesweeper] benannt.
+Diese Funktion wurde jedoch basierend auf zu subjektivem Urteil erstellt, sodass sie in TTS -Satzprüfung geändert wurde.
 Diese Funktion unterstützt nur Koreanisch.
-Ich kenne die Sprache anderer Länder nicht, daher kann ich meine Muster nicht organisieren, ob es gut oder schlecht ist.
-Wenn es in anderen Ländern ein solches Muster gibt, senden Sie es uns bitte per E-Mail an uns.
-Sobald Sie mehrere Landessprachen unterstützen können, werden wir die Funktion auf Einstellungen verschieben.
-In den Einstellungen gibt es noch einen Punkt.
+Da ich die Sprachen anderer Länder nicht gut kenne, konnte ich nicht herausfinden, ob das Schreiben gut oder schlecht war.
+Wenn es in anderen Ländern ein solches Muster gibt, melden Sie es bitte per E -Mail.
+Sobald wir mehrere Landessprachen unterstützen können, werden wir die Funktion in Einstellungen verschieben.
+In den Einstellungen ist noch ein Raum übrig.
 
 
-15. Erläuterung der Funktion der Hundeverwaltung:
-Dies ist eine Methode, die verwendet werden kann, wenn der Satz nicht fertig ist, der Eintrag jedoch nicht mehr abgerufen wird.
-Normalerweise geschieht dies viel für Dokumente, die mit der OCR -Umwandlung bearbeitet werden.
-Diese Funktion ist nicht nur eine Kombination aus Enter.
-Es ist eine Funktion, die durch Analyse von Dokumenten mit zahlreichen Öffnungsfehlern und der Organisation der Muster implementiert wird.
-Ich habe versucht, KI vorzustellen, um es zu organisieren, aber es war nicht einfach.
-Heutzutage gibt es eine Menge Nachforschungen über die Verarbeitung natürlicher Sprache, daher werde ich sie hinzufügen, wenn ich sie später mit KI verarbeiten kann.
+15. Beschreibung der Linienunterbrechungsfunktion:
+Zeilenpausen -Theorem ist eine Methode, die verwendet werden kann, wenn der Satz nicht fertig ist, die Eingabetaste jedoch gedrückt wird.
+Dieses Phänomen erfolgt normalerweise in Dokumenten, die durch OCR -Umwandlung verarbeitet wurden.
+Diese Funktion kombiniert nicht nur die Eingabetaste.
+Diese Funktion wurde implementiert, indem Dokumente mit zahlreichen Newline -Fehlern analysiert und die Muster organisiert wurden.
+Ich habe versucht, die Organisation mit KI vorzustellen, aber es war nicht einfach.
+Heutzutage werden viel Forschung zur Verarbeitung natürlicher Sprache durchgeführt. Wenn wir sie also in Zukunft mit KI verarbeiten können, werden wir versuchen, sie hinzuzufügen.
 
 16. Übersetzungsfunktion Beschreibung:
-Lokale Übersetzungs- / Webbrowser -Übersetzungsfunktionen werden unterstützt.
-Lokale Übersetzung ist eine Funktion, die sich in von Google entwickelte KI übersetzt. Einfache Wörter können gut übersetzt werden, aber es scheinen viele Missverletzungen in der Satzübersetzung zu geben.
-Die Webbrowser -Übersetzung ist eine Funktion, die Sätze anzeigt, die in einem Browser übersetzt werden sollen.
-Wenn Sie die Übersetzungsfunktion in Einstellungen einschalten - Übersetzungseinstellungen und gedrückt halten und den Satz gedrückt halten, funktioniert die Übersetzungsfunktion.
+Unterstützt lokale Übersetzungs-/Webbrowser -Übersetzungsfunktionen.
+Lokale Übersetzung ist eine Funktion, die mit der von Google entwickelten KI übersetzt wird. Einfache Wörter sind gut übersetzt, aber es scheinen einige Missverletzungen in der Satzübersetzung zu geben.
+Die Webbrowser -Übersetzung ist eine Funktion, die den in den Browser übersetzt werden.
+Wenn Sie die Übersetzungsfunktion in [Einstellungen - Übersetzungseinstellungen] einschalten und den Satz gedrückt halten, funktioniert die Übersetzungsfunktion.
 
 17. Andere Angelegenheiten:
-Wenn Sie ein Dokument öffnen, wird der Eintrag, der sich mehr als dreimal wiederholt, geöffnet, indem Sie auf zweimal umschalten.
-Übermäßige Eingänge sind unpraktisch, wenn es darum geht, TTs zu hören und unangenehm zu sehen.
-Einige von Ihnen haben vielleicht schon lange aus meiner App bemerkt. "Hmm? Einige von Ihnen denken vielleicht:" Ich habe noch nie viel Unterhaltung gesehen. "
-Wir haben so viele Funktionen implementiert, wie der Text -Viewer unterstützen kann.
+Beim Öffnen eines Dokuments ändert EarAPP die drei- oder öfter Taste automatisch auf zweimal wiederholt.
+Übermäßige Eingänge sind unangenehm, um TTs zu hören und sie zu betrachten.
+Einige von Ihnen haben dies vielleicht bereits bemerkt, als er meine App lange Zeit verwendet hat, und sagen: „Hmm? Jetzt, wo ich darüber nachdenke, habe ich noch nie gesehen, dass Sie viel eindringen? " Einige Leute denken vielleicht.
+Wir haben im Text -Viewer so viele Funktionen wie möglich implementiert.
 
-Ich habe 17 Verwendungszwecke aufgeschrieben, aber ich glaube nicht, dass ich die Hälfte davon verwendet habe.
-Einfache Funktionen wie Hintergrundfarbe, Hintergrundbild, Buchstabenfarbe und Seitenverdrehungsmethode wurden weggelassen.
-Ich hoffe, dieses Dokument wird vielen Menschen helfen.
-Wenn Sie sich die Einstellungen ansehen - Informationen und Hilfe, gibt es einen Link zum Telegrammgruppen -Chat. Wenn Sie also Fragen haben, können Sie hereinkommen und fragen.
-Vielen Dank für das Lesen bis zum Ende.
+Ich habe siebzehn Möglichkeiten geschrieben, es zu benutzen, aber ich glaube nicht, dass ich noch die Hälfte davon geschrieben habe.
+Einfache Funktionen wie Hintergrundfarbe, Hintergrundbild, Textfarbe und Punkt -Turn -Methode wurden weggelassen.
+Ich hoffe, dieser Artikel wird vielen Menschen hilfreich sein.
+Wenn Sie sich [Einstellungen - Informationen und Hilfe] ansehen, gibt es einen Link zum Chatraum der Telegrammgruppe. Wenn Sie also Fragen haben, können Sie hereinkommen und fragen.
+Danke fürs Lesen.
