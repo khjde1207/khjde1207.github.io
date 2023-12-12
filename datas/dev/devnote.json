@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.7.2 (2023 Dec 12)\n\n- Point-related explanations have been modified in the user manual.txt.\n- The volume number display in the history has been modified to check only text files.\n- Image zoom in/out function added.\n- Fixed a bug where some compressed files could not be decompressed.\n- The point maximum has been modified to 80,000."
+    "devnote": "7.7.3 (2023 Dec 12)\n\n- Point-related explanations have been modified in the user manual.txt.\n- The volume number display in the history has been modified to check only text files.\n- Image zoom in/out function added.\n- Fixed a bug where some compressed files could not be decompressed.\n- The point maximum has been modified to 80,000."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.7.2 (2023 12 12)\n\n- 사용 설명서.txt 에서 포인트 관련 설명을 수정 하였습니다. \n- 히스토리에서 권수 표기는 텍스트 파일만 체크하도록 수정 하였습니다. \n- 이미지 확대/ 축소 기능을 추가하였습니다.\n- 일부 압축 파일 해제 안되던 버그를 수정 하였습니다. \n- 포인트 최대치를 8만으로 수정하였습니다."
+    "devnote": "7.7.3 (2023 12 12)\n\n- 사용 설명서.txt 에서 포인트 관련 설명을 수정 하였습니다. \n- 히스토리에서 권수 표기는 텍스트 파일만 체크하도록 수정 하였습니다. \n- 이미지 확대/ 축소 기능을 추가하였습니다.\n- 일부 압축 파일 해제 안되던 버그를 수정 하였습니다. \n- 포인트 최대치를 8만으로 수정하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.7.2 (2023 12 de decembro)\n\n- Modificáronse as explicacións relacionadas co punto no manual de usuario.txt.\n- Modificouse a pantalla de número de volume da historia para comprobar só os ficheiros de texto.\n- Engadiuse a función de zoom/saída de zoom de imaxe.\n- Fixouse un erro onde non se puideron descomprimir algúns ficheiros comprimidos.\n- O punto máximo foi modificado a 80.000."
+    "devnote": "7.7.3 (2023 12 de decembro)\n\n- Modificáronse as explicacións relacionadas co punto no manual de usuario.txt.\n- Modificouse a pantalla de número de volume da historia para comprobar só os ficheiros de texto.\n- Engadiuse a función de zoom/saída de zoom de imaxe.\n- Fixouse un erro onde non se puideron descomprimir algúns ficheiros comprimidos.\n- O punto máximo foi modificado a 80.000."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.7.2 (2023 ડિસેમ્બર 12)\n\n- પોઇન્ટ-સંબંધિત સ્પષ્ટતા વપરાશકર્તા મેન્યુઅલ.ટીક્સટીમાં સુધારવામાં આવી છે.\n- ઇતિહાસમાં વોલ્યુમ નંબર ડિસ્પ્લે ફક્ત ટેક્સ્ટ ફાઇલોને તપાસવા માટે સંશોધિત કરવામાં આવી છે.\n- છબી ઝૂમ ઇન/આઉટ ફંક્શન ઉમેર્યું.\n- ભૂલને ઠીક કરો જ્યાં કેટલીક સંકુચિત ફાઇલોને ડિકોમ્પ્રેસ કરી શકાતી નથી.\n- મહત્તમ પોઇન્ટમાં 80,000 માં ફેરફાર કરવામાં આવ્યા છે."
+    "devnote": "7.7.3 (2023 ડિસેમ્બર 12)\n\n- પોઇન્ટ-સંબંધિત સ્પષ્ટતા વપરાશકર્તા મેન્યુઅલ.ટીક્સટીમાં સુધારવામાં આવી છે.\n- ઇતિહાસમાં વોલ્યુમ નંબર ડિસ્પ્લે ફક્ત ટેક્સ્ટ ફાઇલોને તપાસવા માટે સંશોધિત કરવામાં આવી છે.\n- છબી ઝૂમ ઇન/આઉટ ફંક્શન ઉમેર્યું.\n- ભૂલને ઠીક કરો જ્યાં કેટલીક સંકુચિત ફાઇલોને ડિકોમ્પ્રેસ કરી શકાતી નથી.\n- મહત્તમ પોઇન્ટમાં 80,000 માં ફેરફાર કરવામાં આવ્યા છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.7.2 (2023 Δεκ. 12)\n\n- Οι εξηγήσεις που σχετίζονται με το σημείο έχουν τροποποιηθεί στο εγχειρίδιο χρήστη.txt.\n- Η εμφάνιση αριθμού έντασης στο ιστορικό έχει τροποποιηθεί για να ελέγξει μόνο τα αρχεία κειμένου.\n- Προστέθηκε η λειτουργία Zoom Zoom Int/Out.\n- Διορθώθηκε ένα σφάλμα όπου ορισμένα συμπιεσμένα αρχεία δεν μπορούσαν να αποσυμπιεστούν.\n- Το μέγιστο σημείο έχει τροποποιηθεί σε 80.000."
+    "devnote": "7.7.3 (2023 Δεκ. 12)\n\n- Οι εξηγήσεις που σχετίζονται με το σημείο έχουν τροποποιηθεί στο εγχειρίδιο χρήστη.txt.\n- Η εμφάνιση αριθμού έντασης στο ιστορικό έχει τροποποιηθεί για να ελέγξει μόνο τα αρχεία κειμένου.\n- Προστέθηκε η λειτουργία Zoom Zoom Int/Out.\n- Διορθώθηκε ένα σφάλμα όπου ορισμένα συμπιεσμένα αρχεία δεν μπορούσαν να αποσυμπιεστούν.\n- Το μέγιστο σημείο έχει τροποποιηθεί σε 80.000."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.7.2 (2023 december 12)\n\n- Puntgerelateerde verklaringen zijn gewijzigd in de gebruikershandleiding. TXT.\n- De weergave van het volumenummer in de geschiedenis is gewijzigd om alleen tekstbestanden te controleren.\n- Afbeelding inzoom in/uit -functie toegevoegd.\n- Een bug opgelost waar sommige gecomprimeerde bestanden niet konden worden gedecomprimeerd.\n- Het puntmaximum is gewijzigd tot 80.000."
+    "devnote": "7.7.3 (2023 december 12)\n\n- Puntgerelateerde verklaringen zijn gewijzigd in de gebruikershandleiding. TXT.\n- De weergave van het volumenummer in de geschiedenis is gewijzigd om alleen tekstbestanden te controleren.\n- Afbeelding inzoom in/uit -functie toegevoegd.\n- Een bug opgelost waar sommige gecomprimeerde bestanden niet konden worden gedecomprimeerd.\n- Het puntmaximum is gewijzigd tot 80.000."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "7.7.2 (2023 डिसेम्बर 12)\n\n- पोइन्ट सम्बन्धित स्पष्ट रूपमा स्पष्ट रूपमा प्रयोगकर्ता म्यानुअल.टीटीमा परिमार्जन गरिएको छ।\n- ईतिहासमा भोल्यूम नम्बर प्रदर्शन मात्र पाठ फाइलहरू जाँच गर्न परिमार्जन गरिएको छ।\n- छवि जूम इन / आउट प्रकार्य थपियो।\n- जहाँ धेरै संकुचित फाईलहरू सेट गरिएको छ जहाँ केही संकुचित फाईलहरू विघटित हुँदैनन्।\n- पोइन्ट अधिकतम 800,000 मा परिमार्जन गरिएको छ।"
+    "devnote": "7.7.3 (2023 डिसेम्बर 12)\n\n- पोइन्ट सम्बन्धित स्पष्ट रूपमा स्पष्ट रूपमा प्रयोगकर्ता म्यानुअल.टीटीमा परिमार्जन गरिएको छ।\n- ईतिहासमा भोल्यूम नम्बर प्रदर्शन मात्र पाठ फाइलहरू जाँच गर्न परिमार्जन गरिएको छ।\n- छवि जूम इन / आउट प्रकार्य थपियो।\n- जहाँ धेरै संकुचित फाईलहरू सेट गरिएको छ जहाँ केही संकुचित फाईलहरू विघटित हुँदैनन्।\n- पोइन्ट अधिकतम 800,000 मा परिमार्जन गरिएको छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.7.2 (2023 12. desember)\n\n- Punktrelaterte forklaringer er endret i brukerhåndboken.txt.\n- Volumnummervisningen i historien er endret for å sjekke bare tekstfiler.\n- Bilde zoom inn/ut -funksjonen lagt til.\n- Fikset en feil der noen komprimerte filer ikke kunne dekomprimeres.\n- Punktmaksimumet er endret til 80 000."
+    "devnote": "7.7.3 (2023 12. desember)\n\n- Punktrelaterte forklaringer er endret i brukerhåndboken.txt.\n- Volumnummervisningen i historien er endret for å sjekke bare tekstfiler.\n- Bilde zoom inn/ut -funksjonen lagt til.\n- Fikset en feil der noen komprimerte filer ikke kunne dekomprimeres.\n- Punktmaksimumet er endret til 80 000."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.7.2 (2023 december 12)\n\n- Punktrelaterede forklaringer er blevet ændret i brugervejledningen.txt.\n- Volumenummerdisplayet i historien er blevet ændret for kun at kontrollere tekstfiler.\n- Billed zoom ind/out -funktion tilføjet.\n- Rettet en fejl, hvor nogle komprimerede filer ikke kunne dekomprimeres.\n- Pointmaksimum er blevet ændret til 80.000."
+    "devnote": "7.7.3 (2023 december 12)\n\n- Punktrelaterede forklaringer er blevet ændret i brugervejledningen.txt.\n- Volumenummerdisplayet i historien er blevet ændret for kun at kontrollere tekstfiler.\n- Billed zoom ind/out -funktion tilføjet.\n- Rettet en fejl, hvor nogle komprimerede filer ikke kunne dekomprimeres.\n- Pointmaksimum er blevet ændret til 80.000."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.7.2 (2023 Dez 12)\n\n- Punktbezogene Erklärungen wurden im Benutzerhandbuch geändert.\n- Die Anzeige der Volumennummer im Verlauf wurde geändert, um nur Textdateien zu überprüfen.\n- Funktion Zoom in/out hinzugefügt.\n- Ein Fehler behoben, bei dem einige komprimierte Dateien nicht dekomprimiert werden konnten.\n- Der Punktmaximum wurde auf 80.000 modifiziert."
+    "devnote": "7.7.3 (2023 Dez 12)\n\n- Punktbezogene Erklärungen wurden im Benutzerhandbuch geändert.\n- Die Anzeige der Volumennummer im Verlauf wurde geändert, um nur Textdateien zu überprüfen.\n- Funktion Zoom in/out hinzugefügt.\n- Ein Fehler behoben, bei dem einige komprimierte Dateien nicht dekomprimiert werden konnten.\n- Der Punktmaximum wurde auf 80.000 modifiziert."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.7.2 (2023 ວັນທີ 1223 Dec 12)\n\n- ຄໍາອະທິບາຍຈຸດທີ່ກ່ຽວຂ້ອງໄດ້ຖືກດັດແກ້ໃນຄູ່ມືຜູ້ໃຊ້.\n- ການສະແດງເລກປະລິມານໃນປະຫວັດສາດໄດ້ຖືກດັດແກ້ເພື່ອກວດສອບພຽງແຕ່ເອກະສານຂໍ້ຄວາມເທົ່ານັ້ນ.\n- ຮູບພາບຂະຫຍາຍໃຫຍ່ຂື້ນໃນ / ອອກຫນ້າທີ່ເພີ່ມ.\n- ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ບາງເອກະສານທີ່ທ່ານບີບອັດທີ່ບໍ່ສາມາດຖືກທໍາລາຍໄດ້.\n- ສູງສຸດຈຸດໄດ້ຖືກດັດແປງເປັນ 80,000."
+    "devnote": "7.7.3 (2023 ວັນທີ 1223 Dec 12)\n\n- ຄໍາອະທິບາຍຈຸດທີ່ກ່ຽວຂ້ອງໄດ້ຖືກດັດແກ້ໃນຄູ່ມືຜູ້ໃຊ້.\n- ການສະແດງເລກປະລິມານໃນປະຫວັດສາດໄດ້ຖືກດັດແກ້ເພື່ອກວດສອບພຽງແຕ່ເອກະສານຂໍ້ຄວາມເທົ່ານັ້ນ.\n- ຮູບພາບຂະຫຍາຍໃຫຍ່ຂື້ນໃນ / ອອກຫນ້າທີ່ເພີ່ມ.\n- ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ບາງເອກະສານທີ່ທ່ານບີບອັດທີ່ບໍ່ສາມາດຖືກທໍາລາຍໄດ້.\n- ສູງສຸດຈຸດໄດ້ຖືກດັດແປງເປັນ 80,000."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.7.2 (2023. gada 12. decembris)\n\n- Lietotāja rokasgrāmatā.txt ir modificēti ar punktu saistītie skaidrojumi.\n- Sējuma numura displejs vēsturē ir modificēts, lai pārbaudītu tikai teksta failus.\n- Pievienota attēla tuvināšana/izslēgšana.\n- Novērsta kļūda, kurā dažus saspiestus failus nevarēja dekompresēt.\n- Punkta maksimums ir modificēts līdz 80 000."
+    "devnote": "7.7.3 (2023. gada 12. decembris)\n\n- Lietotāja rokasgrāmatā.txt ir modificēti ar punktu saistītie skaidrojumi.\n- Sējuma numura displejs vēsturē ir modificēts, lai pārbaudītu tikai teksta failus.\n- Pievienota attēla tuvināšana/izslēgšana.\n- Novērsta kļūda, kurā dažus saspiestus failus nevarēja dekompresēt.\n- Punkta maksimums ir modificēts līdz 80 000."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.7.2 (2023 г. 12 декабря)\n\n- Связанные с точками объяснения были изменены в руководстве пользователя.\n- Отображение номера тома в истории было изменено для проверки только текстовых файлов.\n- Внедрение изображения Zoom In/Out добавлено.\n- Исправлена ​​ошибка, в которой некоторые сжатые файлы не могут быть декомпрессированы.\n- Максимум точки был изменен до 80 000."
+    "devnote": "7.7.3 (2023 г. 12 декабря)\n\n- Связанные с точками объяснения были изменены в руководстве пользователя.\n- Отображение номера тома в истории было изменено для проверки только текстовых файлов.\n- Внедрение изображения Zoom In/Out добавлено.\n- Исправлена ​​ошибка, в которой некоторые сжатые файлы не могут быть декомпрессированы.\n- Максимум точки был изменен до 80 000."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.7.2 (2023 12 decembrie)\n\n- Explicațiile legate de punct au fost modificate în manualul de utilizare.txt.\n- Afișarea numărului de volum din istoric a fost modificată pentru a verifica doar fișierele text.\n- Image Zoom In/Out Funcție adăugată.\n- S -a rezolvat o eroare în care unele fișiere comprimate nu au putut fi decomprimate.\n- Punctul maxim a fost modificat la 80.000."
+    "devnote": "7.7.3 (2023 12 decembrie)\n\n- Explicațiile legate de punct au fost modificate în manualul de utilizare.txt.\n- Afișarea numărului de volum din istoric a fost modificată pentru a verifica doar fișierele text.\n- Image Zoom In/Out Funcție adăugată.\n- S -a rezolvat o eroare în care unele fișiere comprimate nu au putut fi decomprimate.\n- Punctul maxim a fost modificat la 80.000."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.7.2 (2023 m. Gruodžio 12)\n\n- Su tašku susiję paaiškinimai buvo modifikuoti vartotojo vadove.txt.\n- Istorijoje esančio garsumo numerio rodymas buvo modifikuotas, kad būtų galima patikrinti tik tekstinius failus.\n- Pridedama vaizdo mastelio keitimas/išjungtas.\n- Ištaisyta klaida, kai kai kurių suspaustų failų nepavyko išskleisti.\n- Maksimalus taškas buvo pakeistas iki 80 000."
+    "devnote": "7.7.3 (2023 m. Gruodžio 12)\n\n- Su tašku susiję paaiškinimai buvo modifikuoti vartotojo vadove.txt.\n- Istorijoje esančio garsumo numerio rodymas buvo modifikuotas, kad būtų galima patikrinti tik tekstinius failus.\n- Pridedama vaizdo mastelio keitimas/išjungtas.\n- Ištaisyta klaida, kai kai kurių suspaustų failų nepavyko išskleisti.\n- Maksimalus taškas buvo pakeistas iki 80 000."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.7.2 (2023 डिसेंबर 12)\n\n- पॉईंट-संबंधित स्पष्टीकरण वापरकर्त्याच्या मॅन्युअल.टीएक्सटीमध्ये सुधारित केले गेले आहे.\n- इतिहासातील व्हॉल्यूम नंबर प्रदर्शन केवळ मजकूर फायली तपासण्यासाठी सुधारित केले गेले आहे.\n- प्रतिमा झूम इन/आउट फंक्शन जोडले.\n- एक बग निश्चित केला जेथे काही संकुचित फायली विघटित केल्या जाऊ शकत नाहीत.\n- बिंदू जास्तीत जास्त 80,000 मध्ये सुधारित केले गेले आहे."
+    "devnote": "7.7.3 (2023 डिसेंबर 12)\n\n- पॉईंट-संबंधित स्पष्टीकरण वापरकर्त्याच्या मॅन्युअल.टीएक्सटीमध्ये सुधारित केले गेले आहे.\n- इतिहासातील व्हॉल्यूम नंबर प्रदर्शन केवळ मजकूर फायली तपासण्यासाठी सुधारित केले गेले आहे.\n- प्रतिमा झूम इन/आउट फंक्शन जोडले.\n- एक बग निश्चित केला जेथे काही संकुचित फायली विघटित केल्या जाऊ शकत नाहीत.\n- बिंदू जास्तीत जास्त 80,000 मध्ये सुधारित केले गेले आहे."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.7.2 (2023 декември 12)\n\n- Објаснувањата поврзани со точките се изменети во Упатството за корисникот.txt.\n- Приказот на бројот на јачината на звукот во историјата е изменет за да се проверат само датотеките со текст.\n- Додадена е функција за зумирање на слика/надвор.\n- Поправи грешка каде што некои компресирани датотеки не може да се декомпресираат.\n- Максималната точка е изменета на 80.000."
+    "devnote": "7.7.3 (2023 декември 12)\n\n- Објаснувањата поврзани со точките се изменети во Упатството за корисникот.txt.\n- Приказот на бројот на јачината на звукот во историјата е изменет за да се проверат само датотеките со текст.\n- Додадена е функција за зумирање на слика/надвор.\n- Поправи грешка каде што некои компресирани датотеки не може да се декомпресираат.\n- Максималната точка е изменета на 80.000."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.7.2 (2023 ഡിസംബർ 12)\n\n- ഉപയോക്തൃ മാനുവൽ.ടിxt ൽ പോയിന്റിയുമായി ബന്ധപ്പെട്ട വിശദീകരണങ്ങൾ പരിഷ്ക്കരിച്ചു.\n- ചരിത്രത്തിലെ വോളിയം നമ്പർ പ്രദർശനം ടെക്സ്റ്റ് ഫയലുകൾ മാത്രം പരിശോധിക്കുന്നതിനായി പരിഷ്ക്കരിച്ചു.\n- ഇമേജ് സൂം ഇൻ / out ട്ട് ഫംഗ്ഷൻ ചേർത്തു.\n- ചില കംപ്രസ്സുചെയ്ത ഫയലുകൾ വിഘടിപ്പിക്കാൻ കഴിയാത്ത ഒരു ബഗ് പരിഹരിച്ചു.\n- പരമാവധി പരമാവധി 80,000 ആയി പരിഷ്ക്കരിച്ചു."
+    "devnote": "7.7.3 (2023 ഡിസംബർ 12)\n\n- ഉപയോക്തൃ മാനുവൽ.ടിxt ൽ പോയിന്റിയുമായി ബന്ധപ്പെട്ട വിശദീകരണങ്ങൾ പരിഷ്ക്കരിച്ചു.\n- ചരിത്രത്തിലെ വോളിയം നമ്പർ പ്രദർശനം ടെക്സ്റ്റ് ഫയലുകൾ മാത്രം പരിശോധിക്കുന്നതിനായി പരിഷ്ക്കരിച്ചു.\n- ഇമേജ് സൂം ഇൻ / out ട്ട് ഫംഗ്ഷൻ ചേർത്തു.\n- ചില കംപ്രസ്സുചെയ്ത ഫയലുകൾ വിഘടിപ്പിക്കാൻ കഴിയാത്ത ഒരു ബഗ് പരിഹരിച്ചു.\n- പരമാവധി പരമാവധി 80,000 ആയി പരിഷ്ക്കരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.7.2 (2023 Dis 12)\n\n- Penjelasan yang berkaitan dengan titik telah diubah suai dalam manual pengguna.txt.\n- Paparan nombor kelantangan dalam sejarah telah diubahsuai untuk memeriksa hanya fail teks.\n- Fungsi Zoom Image In/Out Ditambah.\n- Memperbaiki bug di mana beberapa fail termampat tidak dapat dikompresi.\n- Maksimum titik telah diubah suai kepada 80,000."
+    "devnote": "7.7.3 (2023 Dis 12)\n\n- Penjelasan yang berkaitan dengan titik telah diubah suai dalam manual pengguna.txt.\n- Paparan nombor kelantangan dalam sejarah telah diubahsuai untuk memeriksa hanya fail teks.\n- Fungsi Zoom Image In/Out Ditambah.\n- Memperbaiki bug di mana beberapa fail termampat tidak dapat dikompresi.\n- Maksimum titik telah diubah suai kepada 80,000."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.7.2 (2023 оны 12-р сарын 12)\n\n- Point-холбоотой тайлбарыг хэрэглэгчийн гарын авлагад өөрчилсөн.\n- Түүхэн дэх эзлэхүүний дугаар дэлгэцийг зөвхөн текст файлуудыг шалгахаар өөрчлөгдсөн байна.\n- Зургийн томруулалтыг томруулж, нэмсэн.\n- Шахсан файлуудыг задлах боломжгүй байгаа алдааг заслаа.\n- Хамгийн дээд цэгийг 80,000 болгон өөрчилсөн байна."
+    "devnote": "7.7.3 (2023 оны 12-р сарын 12)\n\n- Point-холбоотой тайлбарыг хэрэглэгчийн гарын авлагад өөрчилсөн.\n- Түүхэн дэх эзлэхүүний дугаар дэлгэцийг зөвхөн текст файлуудыг шалгахаар өөрчлөгдсөн байна.\n- Зургийн томруулалтыг томруулж, нэмсэн.\n- Шахсан файлуудыг задлах боломжгүй байгаа алдааг заслаа.\n- Хамгийн дээд цэгийг 80,000 болгон өөрчилсөн байна."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.7.2 (2023 abendua 12)\n\n- Erabiltzaileen eskuliburua aldatu da.\n- Historian bolumen zenbakia bistaratzea aldatu da testu fitxategiak soilik ikusteko.\n- Irudia Zoom In / Out funtzioa gehitu da.\n- Konprimitutako fitxategiak deskonprimitu ezin diren akats bat konpondu da.\n- puntu gehienez 80.000ra aldatu da."
+    "devnote": "7.7.3 (2023 abendua 12)\n\n- Erabiltzaileen eskuliburua aldatu da.\n- Historian bolumen zenbakia bistaratzea aldatu da testu fitxategiak soilik ikusteko.\n- Irudia Zoom In / Out funtzioa gehitu da.\n- Konprimitutako fitxategiak deskonprimitu ezin diren akats bat konpondu da.\n- puntu gehienez 80.000ra aldatu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.7.2 (2023 ဒီဇင်ဘာ 12 ရက်)\n\n- Point-Related Definations ကိုအသုံးပြုသူလက်စွဲစာအုပ်တွင်ပြုပြင်ထားသည်။\n- သမိုင်းတွင် volume volume display ကိုစာသားဖိုင်များကိုသာစစ်ဆေးရန်ပြင်ဆင်ထားသည်။\n- Image zoom in / oft function ကိုထည့်သွင်းခဲ့သည်။\n- အချို့သော compressed files များကို decompressed မရနိုင်သော bug တစ်ခု fixed ။\n- အများဆုံးအချက်ကို 80,000 မှပြုပြင်မွမ်းမံခဲ့သည်။"
+    "devnote": "7.7.3 (2023 ဒီဇင်ဘာ 12 ရက်)\n\n- Point-Related Definations ကိုအသုံးပြုသူလက်စွဲစာအုပ်တွင်ပြုပြင်ထားသည်။\n- သမိုင်းတွင် volume volume display ကိုစာသားဖိုင်များကိုသာစစ်ဆေးရန်ပြင်ဆင်ထားသည်။\n- Image zoom in / oft function ကိုထည့်သွင်းခဲ့သည်။\n- အချို့သော compressed files များကို decompressed မရနိုင်သော bug တစ်ခု fixed ။\n- အများဆုံးအချက်ကို 80,000 မှပြုပြင်မွမ်းမံခဲ့သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.7.2 (2023 ngày 12 tháng 12)\n\n- Giải thích liên quan đến điểm đã được sửa đổi trong hướng dẫn sử dụng.txt.\n- Hiển thị số âm lượng trong lịch sử đã được sửa đổi để chỉ kiểm tra các tệp văn bản.\n- Chức năng thu phóng hình ảnh được thêm vào.\n- Đã sửa lỗi trong đó một số tệp nén không thể được giải nén.\n- Tối đa điểm đã được sửa đổi thành 80.000."
+    "devnote": "7.7.3 (2023 ngày 12 tháng 12)\n\n- Giải thích liên quan đến điểm đã được sửa đổi trong hướng dẫn sử dụng.txt.\n- Hiển thị số âm lượng trong lịch sử đã được sửa đổi để chỉ kiểm tra các tệp văn bản.\n- Chức năng thu phóng hình ảnh được thêm vào.\n- Đã sửa lỗi trong đó một số tệp nén không thể được giải nén.\n- Tối đa điểm đã được sửa đổi thành 80.000."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.7.2 (2023 г. 12 снежня)\n\n- Тлумачэнні, звязаныя з кропкамі, былі зменены ў Кіраўніцтве карыстальніка.txt.\n- Дысплей нумара аб'ёму ў гісторыі быў зменены, каб праверыць толькі тэкставыя файлы.\n- Дададзена дададзена функцыя павелічэння/выводу малюнка.\n- Выпраўлена памылка, калі некаторыя сціснутыя файлы нельга было дэкасаваць.\n- Максімальная кропка была зменена да 80 000."
+    "devnote": "7.7.3 (2023 г. 12 снежня)\n\n- Тлумачэнні, звязаныя з кропкамі, былі зменены ў Кіраўніцтве карыстальніка.txt.\n- Дысплей нумара аб'ёму ў гісторыі быў зменены, каб праверыць толькі тэкставыя файлы.\n- Дададзена дададзена функцыя павелічэння/выводу малюнка.\n- Выпраўлена памылка, калі некаторыя сціснутыя файлы нельга было дэкасаваць.\n- Максімальная кропка была зменена да 80 000."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.7.2 (2023 ডিসেম্বর 12)\n\n- পয়েন্ট-সম্পর্কিত ব্যাখ্যাগুলি ব্যবহারকারী ম্যানুয়াল.টিএক্সটি-তে সংশোধন করা হয়েছে।\n- ইতিহাসে ভলিউম নম্বর প্রদর্শনটি কেবল পাঠ্য ফাইলগুলি পরীক্ষা করতে সংশোধন করা হয়েছে।\n- চিত্র জুম ইন/আউট ফাংশন যুক্ত করা হয়েছে।\n- এমন একটি বাগ ঠিক করা হয়েছে যেখানে কিছু সংকুচিত ফাইলগুলি ডিকম্প্রেসড করা যায় না।\n- সর্বাধিক পয়েন্টটি ৮০,০০০ এ সংশোধন করা হয়েছে।"
+    "devnote": "7.7.3 (2023 ডিসেম্বর 12)\n\n- পয়েন্ট-সম্পর্কিত ব্যাখ্যাগুলি ব্যবহারকারী ম্যানুয়াল.টিএক্সটি-তে সংশোধন করা হয়েছে।\n- ইতিহাসে ভলিউম নম্বর প্রদর্শনটি কেবল পাঠ্য ফাইলগুলি পরীক্ষা করতে সংশোধন করা হয়েছে।\n- চিত্র জুম ইন/আউট ফাংশন যুক্ত করা হয়েছে।\n- এমন একটি বাগ ঠিক করা হয়েছে যেখানে কিছু সংকুচিত ফাইলগুলি ডিকম্প্রেসড করা যায় না।\n- সর্বাধিক পয়েন্টটি ৮০,০০০ এ সংশোধন করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.7.2 (2023 декември 12)\n\n- Обясненията, свързани с точка, са модифицирани в ръководството на потребителя.txt.\n- Дисплеят на номера на силата на звука в историята е модифициран, за да провери само текстови файлове.\n- Добавена е функция за увеличаване на изображението.\n- Фиксирана грешка, при която някои компресирани файлове не могат да бъдат декомпресирани.\n- Точката максимум е модифицирана до 80 000."
+    "devnote": "7.7.3 (2023 декември 12)\n\n- Обясненията, свързани с точка, са модифицирани в ръководството на потребителя.txt.\n- Дисплеят на номера на силата на звука в историята е модифициран, за да провери само текстови файлове.\n- Добавена е функция за увеличаване на изображението.\n- Фиксирана грешка, при която някои компресирани файлове не могат да бъдат декомпресирани.\n- Точката максимум е модифицирана до 80 000."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.7.2 (2023. 12.)\n\n- Објашњења повезана са тачкама је модификована у корисничком упутству.ТКСТ.\n- Екран за јачину звука у историји је модификован да бисте проверили само текстуалне датотеке.\n- Додата је функција увећања слике умањила / оут.\n- Поправљена је грешка у којој се неке компримоване датотеке не могу декомпресовати.\n- Максимална тачка је измењена на 80.000."
+    "devnote": "7.7.3 (2023. 12.)\n\n- Објашњења повезана са тачкама је модификована у корисничком упутству.ТКСТ.\n- Екран за јачину звука у историји је модификован да бисте проверили само текстуалне датотеке.\n- Додата је функција увећања слике умањила / оут.\n- Поправљена је грешка у којој се неке компримоване датотеке не могу декомпресовати.\n- Максимална тачка је измењена на 80.000."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.7.2 (2023 Desemba 12)\n\n- Maelezo yanayohusiana na uhakika yamebadilishwa katika mwongozo wa mtumiaji.txt.\n- Maonyesho ya nambari ya kiasi katika historia yamebadilishwa ili kuangalia faili za maandishi tu.\n- Picha zoom in/nje kazi imeongezwa.\n- Zisizohamishika mdudu ambapo faili zingine zilizoshinikizwa hazikuweza kuharibiwa.\n- Upeo wa uhakika umebadilishwa kuwa 80,000."
+    "devnote": "7.7.3 (2023 Desemba 12)\n\n- Maelezo yanayohusiana na uhakika yamebadilishwa katika mwongozo wa mtumiaji.txt.\n- Maonyesho ya nambari ya kiasi katika historia yamebadilishwa ili kuangalia faili za maandishi tu.\n- Picha zoom in/nje kazi imeongezwa.\n- Zisizohamishika mdudu ambapo faili zingine zilizoshinikizwa hazikuweza kuharibiwa.\n- Upeo wa uhakika umebadilishwa kuwa 80,000."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.7.2 (2023 12 dec)\n\n- Punktrelaterade förklaringar har modifierats i användarmanualen.txt.\n- Volymnummerdisplayen i historien har ändrats för att endast kontrollera textfiler.\n- Bild zoom in/ut -funktion läggs till.\n- Fixade ett fel där vissa komprimerade filer inte kunde dekomprimeras.\n- Maximumet har ändrats till 80 000."
+    "devnote": "7.7.3 (2023 12 dec)\n\n- Punktrelaterade förklaringar har modifierats i användarmanualen.txt.\n- Volymnummerdisplayen i historien har ändrats för att endast kontrollera textfiler.\n- Bild zoom in/ut -funktion läggs till.\n- Fixade ett fel där vissa komprimerade filer inte kunde dekomprimeras.\n- Maximumet har ändrats till 80 000."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.7.2 (2023 diciembre 12)\n\n- Las explicaciones relacionadas con el punto se han modificado en el manual del usuario.txt.\n- La pantalla del número de volumen en el historial se ha modificado para verificar solo archivos de texto.\n- Función de zoom de imagen de imagen agregada.\n- Se corrigió un error donde algunos archivos comprimidos no podían descomprimirse.\n- El punto máximo se ha modificado a 80,000."
+    "devnote": "7.7.3 (2023 diciembre 12)\n\n- Las explicaciones relacionadas con el punto se han modificado en el manual del usuario.txt.\n- La pantalla del número de volumen en el historial se ha modificado para verificar solo archivos de texto.\n- Función de zoom de imagen de imagen agregada.\n- Se corrigió un error donde algunos archivos comprimidos no podían descomprimirse.\n- El punto máximo se ha modificado a 80,000."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.7.2 (2023 december 12)\n\n- Vysvetlenie súvisiace s bodom boli upravené v používateľskej príručke.txt.\n- Zobrazenie čísla zväzku v histórii bolo upravené tak, aby skontrolovali iba textové súbory.\n- Funkcia priblíženia obrázka priblíži.\n- Opravená chyba, kde niektoré komprimované súbory nebolo možné dekomprimovať.\n- Maximum bodu bolo upravené na 80 000."
+    "devnote": "7.7.3 (2023 december 12)\n\n- Vysvetlenie súvisiace s bodom boli upravené v používateľskej príručke.txt.\n- Zobrazenie čísla zväzku v histórii bolo upravené tak, aby skontrolovali iba textové súbory.\n- Funkcia priblíženia obrázka priblíži.\n- Opravená chyba, kde niektoré komprimované súbory nebolo možné dekomprimovať.\n- Maximum bodu bolo upravené na 80 000."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.7.2 (2023 decembra 12)\n\n- Pojasnila, povezana s točkami, so spremenjena v uporabniškem priročniku.txt.\n- Prikaz številke glasnosti v zgodovini je bil spremenjen, da preveri samo besedilne datoteke.\n- Dodana funkcija Zoom v/izklop.\n- Odpravljeno napako, pri kateri nekaterih stisnjenih datotek ni bilo mogoče dekomprimirati.\n- Največji točka je bila spremenjena na 80.000."
+    "devnote": "7.7.3 (2023 decembra 12)\n\n- Pojasnila, povezana s točkami, so spremenjena v uporabniškem priročniku.txt.\n- Prikaz številke glasnosti v zgodovini je bil spremenjen, da preveri samo besedilne datoteke.\n- Dodana funkcija Zoom v/izklop.\n- Odpravljeno napako, pri kateri nekaterih stisnjenih datotek ni bilo mogoče dekomprimirati.\n- Največji točka je bila spremenjena na 80.000."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.7.2 (2023 දෙසැම්බර් 12)\n\n- පරිශීලක අත්පොත.ටීxt හි පෙන්වා ඇති පැහැදිලි කිරීම් වෙනස් කර ඇත.\n- පෙළ ලිපිගොනු පමණක් පරීක්ෂා කිරීම සඳහා ඉතිහාසයේ වෙළුම් අංකය වෙනස් කර ඇත.\n- රූප විශාලනය කිරීම / පිටත ක්රියාකාරිත්වය වැඩ කරන ලදි.\n- සමහර සම්පීඩිත ලිපිගොනු අවලංගු කිරීමට නොහැකි දෝෂයක් සවි කර ඇත.\n- උපරිම ලක්ෂ්යය 80,000 දක්වා වෙනස් කර ඇත."
+    "devnote": "7.7.3 (2023 දෙසැම්බර් 12)\n\n- පරිශීලක අත්පොත.ටීxt හි පෙන්වා ඇති පැහැදිලි කිරීම් වෙනස් කර ඇත.\n- පෙළ ලිපිගොනු පමණක් පරීක්ෂා කිරීම සඳහා ඉතිහාසයේ වෙළුම් අංකය වෙනස් කර ඇත.\n- රූප විශාලනය කිරීම / පිටත ක්රියාකාරිත්වය වැඩ කරන ලදි.\n- සමහර සම්පීඩිත ලිපිගොනු අවලංගු කිරීමට නොහැකි දෝෂයක් සවි කර ඇත.\n- උපරිම ලක්ෂ්යය 80,000 දක්වා වෙනස් කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.7.2 (2023 ديسمبر 12)\n\n- تم تعديل التفسيرات المتعلقة بالنقطة في دليل المستخدم.\n- تم تعديل عرض رقم الصوت في السجل للتحقق من الملفات النصية فقط.\n- إضافة وظيفة تكبير/خارج.\n- تم إصلاح الخلل حيث لا يمكن إلغاء ضغط بعض الملفات المضغوطة.\n- تم تعديل الحد الأقصى للنقطة إلى 80،000."
+    "devnote": "7.7.3 (2023 ديسمبر 12)\n\n- تم تعديل التفسيرات المتعلقة بالنقطة في دليل المستخدم.\n- تم تعديل عرض رقم الصوت في السجل للتحقق من الملفات النصية فقط.\n- إضافة وظيفة تكبير/خارج.\n- تم إصلاح الخلل حيث لا يمكن إلغاء ضغط بعض الملفات المضغوطة.\n- تم تعديل الحد الأقصى للنقطة إلى 80،000."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.7.2 (2023 դեկտեմբերի 12)\n\n- կետի հետ կապված բացատրությունները փոփոխվել են օգտագործողի Manual.txt- ում:\n- Պատմության մեջ նշված քանակի ցուցիչը փոփոխվել է միայն տեքստային ֆայլերը ստուգելու համար:\n- Image Zoom In / Out գործառույթը ավելացված է:\n- Հաստատեց մի սխալ, որտեղ որոշ սեղմված ֆայլեր հնարավոր չէ քանդել:\n- Դատական ​​առավելագույնը փոփոխվել է 80 000-ի:"
+    "devnote": "7.7.3 (2023 դեկտեմբերի 12)\n\n- կետի հետ կապված բացատրությունները փոփոխվել են օգտագործողի Manual.txt- ում:\n- Պատմության մեջ նշված քանակի ցուցիչը փոփոխվել է միայն տեքստային ֆայլերը ստուգելու համար:\n- Image Zoom In / Out գործառույթը ավելացված է:\n- Հաստատեց մի սխալ, որտեղ որոշ սեղմված ֆայլեր հնարավոր չէ քանդել:\n- Դատական ​​առավելագույնը փոփոխվել է 80 000-ի:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.7.2 (2023 12. des)\n\n- Skýringum sem tengjast punkti hafa verið breytt í notendahandbókinni.txt.\n- Rúmmálanúmeraskjár í sögunni hefur verið breytt til að athuga aðeins textaskrár.\n- Image zoom inn/út aðgerð bætt við.\n- Lagaði villu þar sem ekki var hægt að þjappa saman sumum þjöppuðum skrám.\n- Punktarhámarkinu hefur verið breytt í 80.000."
+    "devnote": "7.7.3 (2023 12. des)\n\n- Skýringum sem tengjast punkti hafa verið breytt í notendahandbókinni.txt.\n- Rúmmálanúmeraskjár í sögunni hefur verið breytt til að athuga aðeins textaskrár.\n- Image zoom inn/út aðgerð bætt við.\n- Lagaði villu þar sem ekki var hægt að þjappa saman sumum þjöppuðum skrám.\n- Punktarhámarkinu hefur verið breytt í 80.000."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.7.2 (2023 Dekabr 12)\n\n- İstifadəçi Manual.txt-də məqsədəuyğun izahatlar dəyişdirildi.\n- Tarixdəki həcm nömrəsi ekranı yalnız mətn sənədlərini yoxlamaq üçün dəyişdirilmişdir.\n- Şəkil böyütməsi / Out funksiyası əlavə edildi.\n- Bəzi sıxılmış faylların dekompressiya edilə bilmədiyi bir səhv düzəldildi.\n- Maksimum nöqtə 80.000-ə dəyişdirildi."
+    "devnote": "7.7.3 (2023 Dekabr 12)\n\n- İstifadəçi Manual.txt-də məqsədəuyğun izahatlar dəyişdirildi.\n- Tarixdəki həcm nömrəsi ekranı yalnız mətn sənədlərini yoxlamaq üçün dəyişdirilmişdir.\n- Şəkil böyütməsi / Out funksiyası əlavə edildi.\n- Bəzi sıxılmış faylların dekompressiya edilə bilmədiyi bir səhv düzəldildi.\n- Maksimum nöqtə 80.000-ə dəyişdirildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.7.2 (2023 Desember 12)\n\n- Puntverwante verduidelikings is in die gebruikershandleiding.txt gewysig.\n- Die volume -nommer in die geskiedenis is gewysig om slegs tekslêers na te gaan.\n- Image Zoom In/Out -funksie bygevoeg.\n- 'n fout reggestel waar sommige saamgeperste lêers nie gedekomprimeer kon word nie.\n- Die punt maksimum is aangepas tot 80.000."
+    "devnote": "7.7.3 (2023 Desember 12)\n\n- Puntverwante verduidelikings is in die gebruikershandleiding.txt gewysig.\n- Die volume -nommer in die geskiedenis is gewysig om slegs tekslêers na te gaan.\n- Image Zoom In/Out -funksie bygevoeg.\n- 'n fout reggestel waar sommige saamgeperste lêers nie gedekomprimeer kon word nie.\n- Die punt maksimum is aangepas tot 80.000."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.7.2 (2023 12 dhjetor)\n\n- Shpjegimet e lidhura me pikën janë modifikuar në manualin e përdoruesit.txt.\n- Ekrani i numrit të vëllimit në histori është modifikuar për të kontrolluar vetëm skedarët e tekstit.\n- Funksioni i Zmadhimit të Imazhit In/Out Shtuar.\n- Fiksoi një gabim ku disa skedarë të kompresuar nuk mund të dekompresohen.\n- Maksimumi i pikës është modifikuar në 80,000."
+    "devnote": "7.7.3 (2023 12 dhjetor)\n\n- Shpjegimet e lidhura me pikën janë modifikuar në manualin e përdoruesit.txt.\n- Ekrani i numrit të vëllimit në histori është modifikuar për të kontrolluar vetëm skedarët e tekstit.\n- Funksioni i Zmadhimit të Imazhit In/Out Shtuar.\n- Fiksoi një gabim ku disa skedarë të kompresuar nuk mund të dekompresohen.\n- Maksimumi i pikës është modifikuar në 80,000."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.7.2 (2023 ዲሴምበር 12)\n\n- ከተጠቃሚው ማኑዋዊ.TXT ጋር የተዛመዱ-ነክ ማብራሪያዎች ተስተካክለዋል.\n- በታሪክ ውስጥ ያለው የድምፅ ቁጥር የጽሑፍ ፋይሎችን ብቻ ለማጣራት ተሻሽሏል.\n- የምስል ማጉላት በ / ውጭ / ውጫዊ ተግባር ታክሏል.\n- አንዳንድ የተጨናነቁ ፋይሎች ሊሰብሩት የማይችሉበት ሳንካ ተጠግኗል.\n- ነጥቡ ከፍተኛው እስከ 80,000 ተስተካክሏል."
+    "devnote": "7.7.3 (2023 ዲሴምበር 12)\n\n- ከተጠቃሚው ማኑዋዊ.TXT ጋር የተዛመዱ-ነክ ማብራሪያዎች ተስተካክለዋል.\n- በታሪክ ውስጥ ያለው የድምፅ ቁጥር የጽሑፍ ፋይሎችን ብቻ ለማጣራት ተሻሽሏል.\n- የምስል ማጉላት በ / ውጭ / ውጫዊ ተግባር ታክሏል.\n- አንዳንድ የተጨናነቁ ፋይሎች ሊሰብሩት የማይችሉበት ሳንካ ተጠግኗል.\n- ነጥቡ ከፍተኛው እስከ 80,000 ተስተካክሏል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.7.2 (2023. detsember 12)\n\n- Punktiga seotud seletusi on muudetud kasutusjuhendis.txt.\n- Ajaloo helitugevuse numbri kuva on muudetud ainult tekstifailide kontrollimiseks.\n- pildi suumimine sisse/välja funktsioon lisatud.\n- Parandatud viga, kus mõnda tihendatud faili ei saanud lagundada.\n- Punkti maksimum on muudetud 80 000 -ni."
+    "devnote": "7.7.3 (2023. detsember 12)\n\n- Punktiga seotud seletusi on muudetud kasutusjuhendis.txt.\n- Ajaloo helitugevuse numbri kuva on muudetud ainult tekstifailide kontrollimiseks.\n- pildi suumimine sisse/välja funktsioon lisatud.\n- Parandatud viga, kus mõnda tihendatud faili ei saanud lagundada.\n- Punkti maksimum on muudetud 80 000 -ni."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.7.2 (2023 دسمبر 12)\n\n- صارف دستی ڈاٹ ٹی ایکس میں پوائنٹ سے متعلق وضاحتوں میں ترمیم کی گئی ہے۔\n- تاریخ میں حجم نمبر ڈسپلے میں صرف ٹیکسٹ فائلوں کی جانچ پڑتال کے لئے ترمیم کی گئی ہے۔\n- امیج زوم ان/آؤٹ فنکشن شامل کیا گیا۔\n- ایک بگ طے کیا جہاں کچھ کمپریسڈ فائلوں کو نہ کھایا جاسکے۔\n- زیادہ سے زیادہ نقطہ کو 80،000 میں تبدیل کیا گیا ہے۔"
+    "devnote": "7.7.3 (2023 دسمبر 12)\n\n- صارف دستی ڈاٹ ٹی ایکس میں پوائنٹ سے متعلق وضاحتوں میں ترمیم کی گئی ہے۔\n- تاریخ میں حجم نمبر ڈسپلے میں صرف ٹیکسٹ فائلوں کی جانچ پڑتال کے لئے ترمیم کی گئی ہے۔\n- امیج زوم ان/آؤٹ فنکشن شامل کیا گیا۔\n- ایک بگ طے کیا جہاں کچھ کمپریسڈ فائلوں کو نہ کھایا جاسکے۔\n- زیادہ سے زیادہ نقطہ کو 80،000 میں تبدیل کیا گیا ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.7.2 (2023 грудня)\n\n- Пояснення, пов'язані з точками, були змінені в посібнику користувача.txt.\n- Відображення номера гучності в історії змінено для перевірки лише текстових файлів.\n- Додано функцію Zoom Zoom Imble.\n- Виправлена ​​помилка, де деякі стислі файли не могли бути декомпресовані.\n- Максимум точки був модифікований до 80 000."
+    "devnote": "7.7.3 (2023 грудня)\n\n- Пояснення, пов'язані з точками, були змінені в посібнику користувача.txt.\n- Відображення номера гучності в історії змінено для перевірки лише текстових файлів.\n- Додано функцію Zoom Zoom Imble.\n- Виправлена ​​помилка, де деякі стислі файли не могли бути декомпресовані.\n- Максимум точки був модифікований до 80 000."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.7.2 (2023 dic 12)\n\n- Le spiegazioni relative al punto sono state modificate nel manuale dell'utente.txt.\n- La visualizzazione del numero di volume nella cronologia è stata modificata per controllare solo i file di testo.\n- Funzione zoom di zoom di immagine aggiunta.\n- Risolto un bug in cui alcuni file compressi non potevano essere decompressi.\n- Il punto massimo è stato modificato a 80.000."
+    "devnote": "7.7.3 (2023 dic 12)\n\n- Le spiegazioni relative al punto sono state modificate nel manuale dell'utente.txt.\n- La visualizzazione del numero di volume nella cronologia è stata modificata per controllare solo i file di testo.\n- Funzione zoom di zoom di immagine aggiunta.\n- Risolto un bug in cui alcuni file compressi non potevano essere decompressi.\n- Il punto massimo è stato modificato a 80.000."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.7.2 (2023 Des 12)\n\n- Penjelasan terkait poin telah dimodifikasi dalam manual pengguna.txt.\n- Tampilan nomor volume dalam riwayat telah dimodifikasi untuk memeriksa hanya file teks.\n- Fungsi gambar zoom in/out ditambahkan.\n- Memperbaiki bug di mana beberapa file terkompresi tidak dapat didekompresi.\n- Titik maksimum telah dimodifikasi menjadi 80.000."
+    "devnote": "7.7.3 (2023 Des 12)\n\n- Penjelasan terkait poin telah dimodifikasi dalam manual pengguna.txt.\n- Tampilan nomor volume dalam riwayat telah dimodifikasi untuk memeriksa hanya file teks.\n- Fungsi gambar zoom in/out ditambahkan.\n- Memperbaiki bug di mana beberapa file terkompresi tidak dapat didekompresi.\n- Titik maksimum telah dimodifikasi menjadi 80.000."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.7.2（2023年12月12日）\n\n - ポイント関連の説明は、ユーザーManual.txtで変更されています。\n - 歴史のボリューム番号表示は、テキストファイルのみを確認するように変更されています。\n - 画像ズームイン/アウト機能が追加されました。\n - いくつかの圧縮ファイルを解凍できないバグを修正しました。\n - ポイントの最大値は80,000に変更されました。"
+    "devnote": "7.7.3（2023年12月12日）\n\n - ポイント関連の説明は、ユーザーManual.txtで変更されています。\n - 歴史のボリューム番号表示は、テキストファイルのみを確認するように変更されています。\n - 画像ズームイン/アウト機能が追加されました。\n - いくつかの圧縮ファイルを解凍できないバグを修正しました。\n - ポイントの最大値は80,000に変更されました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.7.2 (2023 დეკემბერი 12)\n\n- წერტილებთან დაკავშირებული განმარტებები შეიცვალა მომხმარებლის სახელმძღვანელოში. Txt.\n- ისტორიაში მოცულობის ნომრის ჩვენება შეიცვალა მხოლოდ ტექსტური ფაილების შესამოწმებლად.\n- გამოსახულების მასშტაბირება/Out ფუნქცია დამატებულია.\n- დააფიქსირა შეცდომა, სადაც რამდენიმე შეკუმშული ფაილის დაშლა შეუძლებელია.\n- წერტილის მაქსიმუმი შეიცვალა 80,000 -მდე."
+    "devnote": "7.7.3 (2023 დეკემბერი 12)\n\n- წერტილებთან დაკავშირებული განმარტებები შეიცვალა მომხმარებლის სახელმძღვანელოში. Txt.\n- ისტორიაში მოცულობის ნომრის ჩვენება შეიცვალა მხოლოდ ტექსტური ფაილების შესამოწმებლად.\n- გამოსახულების მასშტაბირება/Out ფუნქცია დამატებულია.\n- დააფიქსირა შეცდომა, სადაც რამდენიმე შეკუმშული ფაილის დაშლა შეუძლებელია.\n- წერტილის მაქსიმუმი შეიცვალა 80,000 -მდე."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.7.2 (2023 Dec 12)\n\n- Izincazelo ezihlobene nephuzu ziguquliwe kwi-User Manual.txt.\n- Inombolo yenombolo yenombolo emlandweni ilungisiwe ukubheka kuphela amafayela wombhalo.\n- Ukusondeza Image In / Out action kungezwe.\n- Silungiswe isiphazamisi lapho amanye amafayela acindezelwe angavinjelwanga.\n- Iphuzu eliphakeme liguqulwe laya ku-80,000."
+    "devnote": "7.7.3 (2023 Dec 12)\n\n- Izincazelo ezihlobene nephuzu ziguquliwe kwi-User Manual.txt.\n- Inombolo yenombolo yenombolo emlandweni ilungisiwe ukubheka kuphela amafayela wombhalo.\n- Ukusondeza Image In / Out action kungezwe.\n- Silungiswe isiphazamisi lapho amanye amafayela acindezelwe angavinjelwanga.\n- Iphuzu eliphakeme liguqulwe laya ku-80,000."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.7.2（2023年12月12日）\n\n - 与点相关的说明已在用户手册中修改。\n - 历史记录中显示的卷号显示仅检查文本文件。\n - 添加图像缩放函数。\n - 修复了无法解压缩一些压缩文件的错误。\n - 最高点已修改为80,000。"
+    "devnote": "7.7.3（2023年12月12日）\n\n - 与点相关的说明已在用户手册中修改。\n - 历史记录中显示的卷号显示仅检查文本文件。\n - 添加图像缩放函数。\n - 修复了无法解压缩一些压缩文件的错误。\n - 最高点已修改为80,000。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.7.2（2023年12月12日）\n\n - 與點相關的說明已在用戶手冊中修改。\n - 歷史記錄中顯示的捲號顯示僅檢查文本文件。\n - 添加圖像縮放函數。\n - 修復了無法解壓縮一些壓縮文件的錯誤。\n - 最高點已修改為80,000。"
+    "devnote": "7.7.3（2023年12月12日）\n\n - 與點相關的說明已在用戶手冊中修改。\n - 歷史記錄中顯示的捲號顯示僅檢查文本文件。\n - 添加圖像縮放函數。\n - 修復了無法解壓縮一些壓縮文件的錯誤。\n - 最高點已修改為80,000。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.7.2（2023年12月12日）\n\n - 與點相關的說明已在用戶手冊中修改。\n - 歷史記錄中顯示的捲號顯示僅檢查文本文件。\n - 添加圖像縮放函數。\n - 修復了無法解壓縮一些壓縮文件的錯誤。\n - 最高點已修改為80,000。"
+    "devnote": "7.7.3（2023年12月12日）\n\n - 與點相關的說明已在用戶手冊中修改。\n - 歷史記錄中顯示的捲號顯示僅檢查文本文件。\n - 添加圖像縮放函數。\n - 修復了無法解壓縮一些壓縮文件的錯誤。\n - 最高點已修改為80,000。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.7.2 (2023 12. prosince)\n\n- V uživatelské příručce byla upravena vysvětlení související s bodem.txt.\n- Zobrazení čísla svazku v historii byl upraven tak, aby zkontroloval pouze textové soubory.\n- Přidána funkce zoomu zvětšení/ven.\n- Opravena chyba, kde nelze některé komprimované soubory dekomprimovány.\n- Maximum bodu bylo upraveno na 80 000."
+    "devnote": "7.7.3 (2023 12. prosince)\n\n- V uživatelské příručce byla upravena vysvětlení související s bodem.txt.\n- Zobrazení čísla svazku v historii byl upraven tak, aby zkontroloval pouze textové soubory.\n- Přidána funkce zoomu zvětšení/ven.\n- Opravena chyba, kde nelze některé komprimované soubory dekomprimovány.\n- Maximum bodu bylo upraveno na 80 000."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.7.2 (2023 желтоқсан)\n\n- Пойналдыққа қатысты түсіндірмелер Пайдаланушы нұсқаулығында өзгертілген .txt.\n- Тарихтағы дыбыс санының дисплейі тек мәтіндік файлдарды тексеру үшін өзгертілген.\n- Image Zoom use / OUT функциясы қосылды.\n- Кейбір сығылған файлдарды декациядан алмайтын қатені түзетіңіз.\n- Максималды нүкте 80 000-ға өзгертілді."
+    "devnote": "7.7.3 (2023 желтоқсан)\n\n- Пойналдыққа қатысты түсіндірмелер Пайдаланушы нұсқаулығында өзгертілген .txt.\n- Тарихтағы дыбыс санының дисплейі тек мәтіндік файлдарды тексеру үшін өзгертілген.\n- Image Zoom use / OUT функциясы қосылды.\n- Кейбір сығылған файлдарды декациядан алмайтын қатені түзетіңіз.\n- Максималды нүкте 80 000-ға өзгертілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.7.2 (2023 12 de desembre)\n\n- Les explicacions relacionades amb els punts s'han modificat al manual d'usuari.txt.\n- La visualització del número de volum de la història s'ha modificat per comprovar només fitxers de text.\n- S'ha afegit la funció de zoom d'imatge/sortida.\n- S'ha corregit un error on alguns fitxers comprimits no es podrien descomprimir.\n- El punt màxim ha estat modificat fins a 80.000."
+    "devnote": "7.7.3 (2023 12 de desembre)\n\n- Les explicacions relacionades amb els punts s'han modificat al manual d'usuari.txt.\n- La visualització del número de volum de la història s'ha modificat per comprovar només fitxers de text.\n- S'ha afegit la funció de zoom d'imatge/sortida.\n- S'ha corregit un error on alguns fitxers comprimits no es podrien descomprimir.\n- El punt màxim ha estat modificat fins a 80.000."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.7.2 (2023 ಡಿಸೆಂಬರ್ 12)\n\n- ಬಳಕೆದಾರರ manual.txt ನಲ್ಲಿ ಪಾಯಿಂಟ್-ಸಂಬಂಧಿತ ವಿವರಣೆಯನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಪಠ್ಯ ಫೈಲ್‌ಗಳನ್ನು ಮಾತ್ರ ಪರಿಶೀಲಿಸಲು ಇತಿಹಾಸದಲ್ಲಿ ಪರಿಮಾಣ ಸಂಖ್ಯೆ ಪ್ರದರ್ಶನವನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಇಮೇಜ್ ಜೂಮ್ ಇನ್/function ಟ್ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಕೆಲವು ಸಂಕುಚಿತ ಫೈಲ್‌ಗಳನ್ನು ಕುಗ್ಗಿಸಲಾಗದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ಪಾಯಿಂಟ್ ಗರಿಷ್ಠವನ್ನು 80,000 ಕ್ಕೆ ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
+    "devnote": "7.7.3 (2023 ಡಿಸೆಂಬರ್ 12)\n\n- ಬಳಕೆದಾರರ manual.txt ನಲ್ಲಿ ಪಾಯಿಂಟ್-ಸಂಬಂಧಿತ ವಿವರಣೆಯನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಪಠ್ಯ ಫೈಲ್‌ಗಳನ್ನು ಮಾತ್ರ ಪರಿಶೀಲಿಸಲು ಇತಿಹಾಸದಲ್ಲಿ ಪರಿಮಾಣ ಸಂಖ್ಯೆ ಪ್ರದರ್ಶನವನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಇಮೇಜ್ ಜೂಮ್ ಇನ್/function ಟ್ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಕೆಲವು ಸಂಕುಚಿತ ಫೈಲ್‌ಗಳನ್ನು ಕುಗ್ಗಿಸಲಾಗದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ಪಾಯಿಂಟ್ ಗರಿಷ್ಠವನ್ನು 80,000 ಕ್ಕೆ ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.7.2 (2023. prosinca 12.)\n\n- Objašnjenja povezana s točkama izmijenjena su u korisničkom priručniku.txt.\n- Prikaz broja glasnoće u povijesti izmijenjen je za provjeru samo tekstualnih datoteka.\n- Dodana funkcija Zumiranje/OUT UN/OUT.\n- Ispravljena je greška u kojoj se neke komprimirane datoteke nisu mogle dekomprimirati.\n- Maksimalna točka izmijenjena je na 80.000."
+    "devnote": "7.7.3 (2023. prosinca 12.)\n\n- Objašnjenja povezana s točkama izmijenjena su u korisničkom priručniku.txt.\n- Prikaz broja glasnoće u povijesti izmijenjen je za provjeru samo tekstualnih datoteka.\n- Dodana funkcija Zumiranje/OUT UN/OUT.\n- Ispravljena je greška u kojoj se neke komprimirane datoteke nisu mogle dekomprimirati.\n- Maksimalna točka izmijenjena je na 80.000."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.7.2 (2023 ធ្នូ 12)\n\n- ការពន្យល់ទាក់ទងនឹងចំណុចត្រូវបានកែប្រែនៅក្នុងសៀវភៅណែនាំអ្នកប្រើប្រាស់ .txt ។\n- ការបង្ហាញលេខសំឡេងកម្រិតសំឡេងនៅក្នុងប្រវត្តិសាស្រ្តត្រូវបានកែប្រែដើម្បីពិនិត្យមើលតែឯកសារអត្ថបទប៉ុណ្ណោះ។\nមុខងារពង្រីករូបភាពក្នុង / ចេញបានបន្ថែមទៀត។\n- ជួសជុលកំហុសដែលឯកសារបង្រួមមួយចំនួនមិនអាចត្រូវបានបង្រួម។\n- ចំណុចអតិបរមាត្រូវបានកែប្រែទៅ 8 ម៉ឺន។"
+    "devnote": "7.7.3 (2023 ធ្នូ 12)\n\n- ការពន្យល់ទាក់ទងនឹងចំណុចត្រូវបានកែប្រែនៅក្នុងសៀវភៅណែនាំអ្នកប្រើប្រាស់ .txt ។\n- ការបង្ហាញលេខសំឡេងកម្រិតសំឡេងនៅក្នុងប្រវត្តិសាស្រ្តត្រូវបានកែប្រែដើម្បីពិនិត្យមើលតែឯកសារអត្ថបទប៉ុណ្ណោះ។\nមុខងារពង្រីករូបភាពក្នុង / ចេញបានបន្ថែមទៀត។\n- ជួសជុលកំហុសដែលឯកសារបង្រួមមួយចំនួនមិនអាចត្រូវបានបង្រួម។\n- ចំណុចអតិបរមាត្រូវបានកែប្រែទៅ 8 ម៉ឺន។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.7.2 (2023 дек 12)\n\n- Пайгамбар менен байланышкан түшүндүрмөлөр колдонуучунун колдонмосунда өзгөртүлдү.\n- Тарыхтагы көлөмдөгү дисплей тилиндеги текст файлдарын гана текшерүү үчүн өзгөртүлдү.\n- Сүрөттүн сүрөтү / сүрөттү кичирейтип кошту.\n- Айрым кысылган файлдар кыйроого алынбай турган мүчүлүштүктү белгиледи.\n- Максималдуу чекит 80,000ге чейин өзгөртүлгөн."
+    "devnote": "7.7.3 (2023 дек 12)\n\n- Пайгамбар менен байланышкан түшүндүрмөлөр колдонуучунун колдонмосунда өзгөртүлдү.\n- Тарыхтагы көлөмдөгү дисплей тилиндеги текст файлдарын гана текшерүү үчүн өзгөртүлдү.\n- Сүрөттүн сүрөтү / сүрөттү кичирейтип кошту.\n- Айрым кысылган файлдар кыйроого алынбай турган мүчүлүштүктү белгиледи.\n- Максималдуу чекит 80,000ге чейин өзгөртүлгөн."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.7.2 (2023 டிசம்பர் 12)\n\n- பயனர் கையேட்டில் புள்ளி தொடர்பான விளக்கங்கள் மாற்றியமைக்கப்பட்டுள்ளன. TXT.\n- உரை கோப்புகளை மட்டுமே சரிபார்க்க வரலாற்றில் தொகுதி எண் காட்சி மாற்றப்பட்டுள்ளது.\n- பட பெரிதாக்குதல்/வெளியே செயல்பாடு சேர்க்கப்பட்டது.\n- சில சுருக்கப்பட்ட கோப்புகளை குறைக்க முடியாத ஒரு பிழை சரி செய்யப்பட்டது.\n- புள்ளி அதிகபட்சம் 80,000 ஆக மாற்றப்பட்டுள்ளது."
+    "devnote": "7.7.3 (2023 டிசம்பர் 12)\n\n- பயனர் கையேட்டில் புள்ளி தொடர்பான விளக்கங்கள் மாற்றியமைக்கப்பட்டுள்ளன. TXT.\n- உரை கோப்புகளை மட்டுமே சரிபார்க்க வரலாற்றில் தொகுதி எண் காட்சி மாற்றப்பட்டுள்ளது.\n- பட பெரிதாக்குதல்/வெளியே செயல்பாடு சேர்க்கப்பட்டது.\n- சில சுருக்கப்பட்ட கோப்புகளை குறைக்க முடியாத ஒரு பிழை சரி செய்யப்பட்டது.\n- புள்ளி அதிகபட்சம் 80,000 ஆக மாற்றப்பட்டுள்ளது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.7.2 (2023 ธ.ค. 12)\n\n- คำอธิบายที่เกี่ยวข้องกับจุดได้รับการแก้ไขในคู่มือผู้ใช้ txt\n- การแสดงหมายเลขโวลุ่มในประวัติได้รับการแก้ไขเพื่อตรวจสอบเฉพาะไฟล์ข้อความ\n- เพิ่มฟังก์ชั่นการซูมเข้า/ออก\n- แก้ไขข้อผิดพลาดที่บางไฟล์บีบอัดไม่สามารถคลายการบีบอัดได้\n- จุดสูงสุดของจุดได้รับการแก้ไขเป็น 80,000"
+    "devnote": "7.7.3 (2023 ธ.ค. 12)\n\n- คำอธิบายที่เกี่ยวข้องกับจุดได้รับการแก้ไขในคู่มือผู้ใช้ txt\n- การแสดงหมายเลขโวลุ่มในประวัติได้รับการแก้ไขเพื่อตรวจสอบเฉพาะไฟล์ข้อความ\n- เพิ่มฟังก์ชั่นการซูมเข้า/ออก\n- แก้ไขข้อผิดพลาดที่บางไฟล์บีบอัดไม่สามารถคลายการบีบอัดได้\n- จุดสูงสุดของจุดได้รับการแก้ไขเป็น 80,000"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.7.2 (2023 Aralık 12)\n\n- Nokta ile ilgili açıklamalar kullanıcı kılavuzu.txt'de değiştirilmiştir.\n- Geçmişteki ses numarası ekranı yalnızca metin dosyalarını kontrol etmek için değiştirildi.\n- Görüntü yakınlaştırma/çıkış işlevi eklendi.\n- Bazı sıkıştırılmış dosyaların dekomprese edilemediği bir hata düzeltildi.\n- Maksimum nokta 80.000'e değiştirildi."
+    "devnote": "7.7.3 (2023 Aralık 12)\n\n- Nokta ile ilgili açıklamalar kullanıcı kılavuzu.txt'de değiştirilmiştir.\n- Geçmişteki ses numarası ekranı yalnızca metin dosyalarını kontrol etmek için değiştirildi.\n- Görüntü yakınlaştırma/çıkış işlevi eklendi.\n- Bazı sıkıştırılmış dosyaların dekomprese edilemediği bir hata düzeltildi.\n- Maksimum nokta 80.000'e değiştirildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.7.2 (2023 డిసెంబర్ 12)\n\n- వినియోగదారు మాన్యువల్.టిఎక్స్‌కి పాయింట్-సంబంధిత వివరణలు సవరించబడ్డాయి.\n- వచన ఫైళ్ళను మాత్రమే తనిఖీ చేయడానికి చరిత్రలో వాల్యూమ్ సంఖ్య ప్రదర్శన సవరించబడింది.\n- ఇమేజ్ జూమ్ ఇన్/అవుట్ ఫంక్షన్ జోడించబడింది.\n- కొన్ని సంపీడన ఫైళ్ళను విడదీయలేని బగ్ పరిష్కరించబడింది.\n- పాయింట్ గరిష్టంగా 80,000 కు సవరించబడింది."
+    "devnote": "7.7.3 (2023 డిసెంబర్ 12)\n\n- వినియోగదారు మాన్యువల్.టిఎక్స్‌కి పాయింట్-సంబంధిత వివరణలు సవరించబడ్డాయి.\n- వచన ఫైళ్ళను మాత్రమే తనిఖీ చేయడానికి చరిత్రలో వాల్యూమ్ సంఖ్య ప్రదర్శన సవరించబడింది.\n- ఇమేజ్ జూమ్ ఇన్/అవుట్ ఫంక్షన్ జోడించబడింది.\n- కొన్ని సంపీడన ఫైళ్ళను విడదీయలేని బగ్ పరిష్కరించబడింది.\n- పాయింట్ గరిష్టంగా 80,000 కు సవరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.7.2 (2023 ਦਸੰਬਰ 12)\n\n- ਚਿੱਤਰ ਨਾਲ ਸਬੰਧਤ ਵਿਆਖਿਆਵਾਂ ਉਪਭੋਗੀ ualidadual.txt ਵਿੱਚ ਸੰਸ਼ੋਧਿਤ ਕੀਤੀ ਗਈ ਹੈ.\n- ਇਤਿਹਾਸ ਵਿੱਚ ਵਾਲੀਅਮ ਨੰਬਰ ਪ੍ਰਦਰਸ਼ਤ ਸਿਰਫ ਟੈਕਸਟ ਫਾਈਲਾਂ ਦੀ ਜਾਂਚ ਲਈ ਸੋਧਿਆ ਗਿਆ ਹੈ.\n- ਚਿੱਤਰ ਜ਼ੂਮ ਇਨ / ਆਉਟ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ.\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਜਿੱਥੇ ਕੁਝ ਸੰਪਤੀਆਂ ਫਾਈਲਾਂ ਨੂੰ ਕੰਪਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ.\n- ਪੁਆਇੰਟ ਵੱਧ ਤੋਂ ਵੱਧ 80,000 ਤੱਕ ਸੋਧਿਆ ਗਿਆ ਹੈ."
+    "devnote": "7.7.3 (2023 ਦਸੰਬਰ 12)\n\n- ਚਿੱਤਰ ਨਾਲ ਸਬੰਧਤ ਵਿਆਖਿਆਵਾਂ ਉਪਭੋਗੀ ualidadual.txt ਵਿੱਚ ਸੰਸ਼ੋਧਿਤ ਕੀਤੀ ਗਈ ਹੈ.\n- ਇਤਿਹਾਸ ਵਿੱਚ ਵਾਲੀਅਮ ਨੰਬਰ ਪ੍ਰਦਰਸ਼ਤ ਸਿਰਫ ਟੈਕਸਟ ਫਾਈਲਾਂ ਦੀ ਜਾਂਚ ਲਈ ਸੋਧਿਆ ਗਿਆ ਹੈ.\n- ਚਿੱਤਰ ਜ਼ੂਮ ਇਨ / ਆਉਟ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ.\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਜਿੱਥੇ ਕੁਝ ਸੰਪਤੀਆਂ ਫਾਈਲਾਂ ਨੂੰ ਕੰਪਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ.\n- ਪੁਆਇੰਟ ਵੱਧ ਤੋਂ ਵੱਧ 80,000 ਤੱਕ ਸੋਧਿਆ ਗਿਆ ਹੈ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.7.2 (2023 دسامبر 12)\n\n- توضیحات مربوط به نقطه در کتابچه راهنمای کاربر اصلاح شده است.\n- نمایش شماره حجم در تاریخ اصلاح شده است تا فقط پرونده های متنی را بررسی کنید.\n- تابع بزرگنمایی تصویر در/خارج اضافه شده است.\n- رفع اشکال در جایی که برخی از پرونده های فشرده نشده قابل جدا شدن نیستند.\n- حداکثر نقطه به 80،000 اصلاح شده است."
+    "devnote": "7.7.3 (2023 دسامبر 12)\n\n- توضیحات مربوط به نقطه در کتابچه راهنمای کاربر اصلاح شده است.\n- نمایش شماره حجم در تاریخ اصلاح شده است تا فقط پرونده های متنی را بررسی کنید.\n- تابع بزرگنمایی تصویر در/خارج اضافه شده است.\n- رفع اشکال در جایی که برخی از پرونده های فشرده نشده قابل جدا شدن نیستند.\n- حداکثر نقطه به 80،000 اصلاح شده است."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.7.2 (2023 12 de dezembro)\n\n- Explicações relacionadas ao ponto foram modificadas no manual do usuário.txt.\n- A exibição do número de volume no histórico foi modificada para verificar apenas os arquivos de texto.\n- Função de zoom de imagem/saída de imagem adicionada.\n- Corrigido um bug em que alguns arquivos compactados não puderam ser descomprimidos.\n- O máximo de ponto foi modificado para 80.000."
+    "devnote": "7.7.3 (2023 12 de dezembro)\n\n- Explicações relacionadas ao ponto foram modificadas no manual do usuário.txt.\n- A exibição do número de volume no histórico foi modificada para verificar apenas os arquivos de texto.\n- Função de zoom de imagem/saída de imagem adicionada.\n- Corrigido um bug em que alguns arquivos compactados não puderam ser descomprimidos.\n- O máximo de ponto foi modificado para 80.000."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.7.2 (2023 grudnia 12)\n\n- Objaśnienia związane z punktem zostały zmodyfikowane w instrukcji obsługi .txt.\n- Wyświetlanie numeru woluminu w historii została zmodyfikowana, aby sprawdzić tylko pliki tekstowe.\n- Dodano funkcję powiększania obrazu.\n- Naprawiono błąd, w którym nie można było zdekompresować niektórych kompresowanych plików.\n- Maksymalnie punkt został zmodyfikowany do 80 000."
+    "devnote": "7.7.3 (2023 grudnia 12)\n\n- Objaśnienia związane z punktem zostały zmodyfikowane w instrukcji obsługi .txt.\n- Wyświetlanie numeru woluminu w historii została zmodyfikowana, aby sprawdzić tylko pliki tekstowe.\n- Dodano funkcję powiększania obrazu.\n- Naprawiono błąd, w którym nie można było zdekompresować niektórych kompresowanych plików.\n- Maksymalnie punkt został zmodyfikowany do 80 000."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.7.2 (2023 décembre 12)\n\n- Des explications liées au point ont été modifiées dans le manuel d'utilisation.txt.\n- L'affichage du numéro de volume dans l'historique a été modifié pour vérifier uniquement les fichiers texte.\n- Fonction d'image Zoom In / Out ajouté.\n- Correction d'un bogue où certains fichiers compressés n'ont pas pu être décompressés.\n- Le maximum de points a été modifié à 80 000."
+    "devnote": "7.7.3 (2023 décembre 12)\n\n- Des explications liées au point ont été modifiées dans le manuel d'utilisation.txt.\n- L'affichage du numéro de volume dans l'historique a été modifié pour vérifier uniquement les fichiers texte.\n- Fonction d'image Zoom In / Out ajouté.\n- Correction d'un bogue où certains fichiers compressés n'ont pas pu être décompressés.\n- Le maximum de points a été modifié à 80 000."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.7.2 (2023 joulukuuta 12)\n\n- Pisteeseen liittyviä selityksiä on muokattu käyttöoppaassa.txt.\n- Historiassa olevaa äänenvoimakkuuden näyttöä on muokattu vain tekstitiedostojen tarkistamiseksi.\n- Kuva zoomasi sisään/out -toiminto.\n- Korjattu virhe, jossa joitain pakattuja tiedostoja ei voitu purkaa.\n- Piste -maksimiarvo on muokattu 80 000: een."
+    "devnote": "7.7.3 (2023 joulukuuta 12)\n\n- Pisteeseen liittyviä selityksiä on muokattu käyttöoppaassa.txt.\n- Historiassa olevaa äänenvoimakkuuden näyttöä on muokattu vain tekstitiedostojen tarkistamiseksi.\n- Kuva zoomasi sisään/out -toiminto.\n- Korjattu virhe, jossa joitain pakattuja tiedostoja ei voitu purkaa.\n- Piste -maksimiarvo on muokattu 80 000: een."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.7.2 (2023 Dis 12)\n\n- Ang mga paliwanag na nauugnay sa point ay nabago sa manu-manong gumagamit.txt.\n- Ang display ng dami ng dami sa kasaysayan ay nabago upang suriin lamang ang mga file ng teksto.\n- Idinagdag ang Image Zoom In/Out Function.\n- Nakapirming isang bug kung saan ang ilang mga naka -compress na file ay hindi maaaring ma -decompress.\n- Ang maximum na point ay nabago sa 80,000."
+    "devnote": "7.7.3 (2023 Dis 12)\n\n- Ang mga paliwanag na nauugnay sa point ay nabago sa manu-manong gumagamit.txt.\n- Ang display ng dami ng dami sa kasaysayan ay nabago upang suriin lamang ang mga file ng teksto.\n- Idinagdag ang Image Zoom In/Out Function.\n- Nakapirming isang bug kung saan ang ilang mga naka -compress na file ay hindi maaaring ma -decompress.\n- Ang maximum na point ay nabago sa 80,000."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.7.2 (2023 december 12.)\n\n- A ponthoz kapcsolódó magyarázatokat a felhasználói kézikönyvben módosították.\n- Az előzmények hangerőszámának megjelenítését csak a szöveges fájlok ellenőrzésére módosítottuk.\n- A kép nagyítása be- és ki- és funkció hozzáadva.\n- Javítva egy hibát, ahol néhány tömörített fájlt nem lehetett dekompresszálni.\n- A pont maximumát 80 000 -re módosították."
+    "devnote": "7.7.3 (2023 december 12.)\n\n- A ponthoz kapcsolódó magyarázatokat a felhasználói kézikönyvben módosították.\n- Az előzmények hangerőszámának megjelenítését csak a szöveges fájlok ellenőrzésére módosítottuk.\n- A kép nagyítása be- és ki- és funkció hozzáadva.\n- Javítva egy hibát, ahol néhány tömörített fájlt nem lehetett dekompresszálni.\n- A pont maximumát 80 000 -re módosították."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.7.2 (2023 12 בדצמבר)\n\n- הסברים הקשורים לנקודה שונו במדריך המשתמש.\n- מספר עוצמת הקול בהיסטוריה שונתה כדי לבדוק רק קבצי טקסט.\n- פונקציית זום/יציאה מתווכחת.\n- תוקן באג בו לא ניתן היה לפרק כמה קבצים דחוסים.\n- מקסימום הנקודה שונה ל 80,000."
+    "devnote": "7.7.3 (2023 12 בדצמבר)\n\n- הסברים הקשורים לנקודה שונו במדריך המשתמש.\n- מספר עוצמת הקול בהיסטוריה שונתה כדי לבדוק רק קבצי טקסט.\n- פונקציית זום/יציאה מתווכחת.\n- תוקן באג בו לא ניתן היה לפרק כמה קבצים דחוסים.\n- מקסימום הנקודה שונה ל 80,000."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.7.2 (2023 दिसंबर 12)\n\n- पॉइंट-संबंधित स्पष्टीकरण को उपयोगकर्ता मैनुअल में संशोधित किया गया है।\n- इतिहास में वॉल्यूम नंबर डिस्प्ले को केवल पाठ फ़ाइलों की जांच करने के लिए संशोधित किया गया है।\n- छवि ज़ूम इन/आउट फ़ंक्शन जोड़ा गया।\n- एक बग फिक्स्ड जहां कुछ संपीड़ित फ़ाइलों को विघटित नहीं किया जा सकता है।\n- बिंदु अधिकतम को 80,000 में संशोधित किया गया है।"
+    "devnote": "7.7.3 (2023 दिसंबर 12)\n\n- पॉइंट-संबंधित स्पष्टीकरण को उपयोगकर्ता मैनुअल में संशोधित किया गया है।\n- इतिहास में वॉल्यूम नंबर डिस्प्ले को केवल पाठ फ़ाइलों की जांच करने के लिए संशोधित किया गया है।\n- छवि ज़ूम इन/आउट फ़ंक्शन जोड़ा गया।\n- एक बग फिक्स्ड जहां कुछ संपीड़ित फ़ाइलों को विघटित नहीं किया जा सकता है।\n- बिंदु अधिकतम को 80,000 में संशोधित किया गया है।"
   }
 }
