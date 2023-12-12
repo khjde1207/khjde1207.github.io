@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.7.1 (2023 12 06)\n- Image viewer has been added.\n   * Image viewer only supports up to 800MB.\n   * Due to the addition of image viewers, options for each viewer have been separated.\n- I have decided to display only a maximum of 5 horizontal rows in my library.\n- The term [Page] has been changed to [Point].\n- The cover image backup recovery logic has been modified.\n- The ad loading animation has been modified.\n- Several bugs have been fixed."
+    "devnote": "7.7.2 (2023 Dec 12)\n\n- Point-related explanations have been modified in the user manual.txt.\n- The volume number display in the history has been modified to check only text files.\n- Image zoom in/out function added.\n- Fixed a bug where some compressed files could not be decompressed.\n- The point maximum has been modified to 80,000."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.7.1 (2023 12 06)\n\n- 이미지 뷰어를 추가 하였습니다.\n  * 이미지 뷰어는 최대 800MB 까지만 지원 합니다.\n  * 이미지 뷰어 추가로 인해 뷰어별 옵션을 분리 하였습니다.\n- 내서재 가로행을 최대 5개까지만 표현하도록 하였습니다.\n- [페이지]라는 용어를 [포인트]라는 용어로 변경 하였습니다.\n- 커버 이미지 백업 복구 로직을 수정 하였습니다.\n- 광고 로딩 애니메이션을 수정 하였습니다.\n- 여러 버그를 수정 하였습니다."
+    "devnote": "7.7.2 (2023 12 12)\n\n- 사용 설명서.txt 에서 포인트 관련 설명을 수정 하였습니다. \n- 히스토리에서 권수 표기는 텍스트 파일만 체크하도록 수정 하였습니다. \n- 이미지 확대/ 축소 기능을 추가하였습니다.\n- 일부 압축 파일 해제 안되던 버그를 수정 하였습니다. \n- 포인트 최대치를 8만으로 수정하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.7.1 (2023 12 06)\n- Engadiuse o visor de imaxes.\n   * O visor de imaxe só admite ata 800MB.\n   * Debido á adición de espectadores de imaxes, separáronse as opcións para cada espectador.\n- Decidín mostrar só un máximo de 5 filas horizontais na miña biblioteca.\n- O termo [páxina] cambiouse a [punto].\n- Modificouse a lóxica de recuperación de copia de seguridade da imaxe.\n- Modificouse a animación de carga de anuncios.\n- Fixéronse varios erros."
+    "devnote": "7.7.2 (2023 12 de decembro)\n\n- Modificáronse as explicacións relacionadas co punto no manual de usuario.txt.\n- Modificouse a pantalla de número de volume da historia para comprobar só os ficheiros de texto.\n- Engadiuse a función de zoom/saída de zoom de imaxe.\n- Fixouse un erro onde non se puideron descomprimir algúns ficheiros comprimidos.\n- O punto máximo foi modificado a 80.000."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.7.1 (2023 12 06)\n- છબી દર્શક ઉમેરવામાં આવ્યા છે.\n   * છબી દર્શક ફક્ત 800 એમબી સુધી સપોર્ટ કરે છે.\n   * છબી દર્શકોના ઉમેરાને કારણે, દરેક દર્શક માટેના વિકલ્પોને અલગ કરવામાં આવ્યા છે.\n- મેં મારી લાઇબ્રેરીમાં માત્ર 5 આડી પંક્તિઓ પ્રદર્શિત કરવાનું નક્કી કર્યું છે.\n- [પૃષ્ઠ] શબ્દ [બિંદુ] માં બદલવામાં આવ્યો છે.\n- કવર ઇમેજ બેકઅપ પુન recovery પ્રાપ્તિ તર્કમાં ફેરફાર કરવામાં આવ્યા છે.\n- જાહેરાત લોડિંગ એનિમેશનમાં ફેરફાર કરવામાં આવ્યા છે.\n- અનેક ભૂલો નિશ્ચિત કરવામાં આવી છે."
+    "devnote": "7.7.2 (2023 ડિસેમ્બર 12)\n\n- પોઇન્ટ-સંબંધિત સ્પષ્ટતા વપરાશકર્તા મેન્યુઅલ.ટીક્સટીમાં સુધારવામાં આવી છે.\n- ઇતિહાસમાં વોલ્યુમ નંબર ડિસ્પ્લે ફક્ત ટેક્સ્ટ ફાઇલોને તપાસવા માટે સંશોધિત કરવામાં આવી છે.\n- છબી ઝૂમ ઇન/આઉટ ફંક્શન ઉમેર્યું.\n- ભૂલને ઠીક કરો જ્યાં કેટલીક સંકુચિત ફાઇલોને ડિકોમ્પ્રેસ કરી શકાતી નથી.\n- મહત્તમ પોઇન્ટમાં 80,000 માં ફેરફાર કરવામાં આવ્યા છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.7.1 (2023 12 06)\n- Έχει προστεθεί ο θεατής εικόνας.\n   * Το πρόγραμμα προβολής εικόνων υποστηρίζει μόνο 800MB.\n   * Λόγω της προσθήκης θεατών εικόνων, οι επιλογές για κάθε θεατή έχουν διαχωριστεί.\n- Αποφάσισα να εμφανίσω μόνο 5 οριζόντιες σειρές στη βιβλιοθήκη μου.\n- Ο όρος [σελίδα] έχει αλλάξει σε [σημείο].\n- Η λογική ανάκτησης αντιγράφων ασφαλείας του καλύμματος έχει τροποποιηθεί.\n- Η κινούμενη εικόνα φόρτωσης διαφημίσεων έχει τροποποιηθεί.\n- Έχουν διορθωθεί διάφορα σφάλματα."
+    "devnote": "7.7.2 (2023 Δεκ. 12)\n\n- Οι εξηγήσεις που σχετίζονται με το σημείο έχουν τροποποιηθεί στο εγχειρίδιο χρήστη.txt.\n- Η εμφάνιση αριθμού έντασης στο ιστορικό έχει τροποποιηθεί για να ελέγξει μόνο τα αρχεία κειμένου.\n- Προστέθηκε η λειτουργία Zoom Zoom Int/Out.\n- Διορθώθηκε ένα σφάλμα όπου ορισμένα συμπιεσμένα αρχεία δεν μπορούσαν να αποσυμπιεστούν.\n- Το μέγιστο σημείο έχει τροποποιηθεί σε 80.000."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.7.1 (2023 12 06)\n- Image Viewer is toegevoegd.\n   * Afbeeldingskijker ondersteunt slechts maximaal 800 MB.\n   * Vanwege de toevoeging van afbeeldingskijkers zijn opties voor elke kijker gescheiden.\n- Ik heb besloten om slechts 5 horizontale rijen in mijn bibliotheek slechts 5 horizontale rijen te tonen.\n- De term [pagina] is gewijzigd in [punt].\n- De omslagafbeelding back -upherstellogica is gewijzigd.\n- De advertentie -laadanimatie is gewijzigd.\n- Verschillende bugs zijn opgelost."
+    "devnote": "7.7.2 (2023 december 12)\n\n- Puntgerelateerde verklaringen zijn gewijzigd in de gebruikershandleiding. TXT.\n- De weergave van het volumenummer in de geschiedenis is gewijzigd om alleen tekstbestanden te controleren.\n- Afbeelding inzoom in/uit -functie toegevoegd.\n- Een bug opgelost waar sommige gecomprimeerde bestanden niet konden worden gedecomprimeerd.\n- Het puntmaximum is gewijzigd tot 80.000."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": ".7.7.1 (2023 126)\n- छवि दर्शक थप गरिएको छ।\n   * छवि दर्शकले मात्र 800MB सम्म समर्थन गर्दछ।\n   * छवि दर्शकहरूको थपको कारण प्रत्येक दर्शकको लागि विकल्पहरू अलग गरिएको छ।\n- मैले पुस्तकालयमा अधिकतम from0 तेर्सो प row ्क्तिहरू मात्र प्रदर्शन गर्ने निर्णय गरेको छु।\n- यो [पृष्ठ] शब्द [पृष्ठ] मा परिवर्तन गरिएको छ।\n- कभर छवि ब्याकअप रिकभरी तर्क गर्न परिमार्जन गरिएको छ।\n- विज्ञापन लोड एनिमेसन परिमार्जन गरिएको छ।\n- धेरै बगहरू स्थिर गरिएको छ।"
+    "devnote": "7.7.2 (2023 डिसेम्बर 12)\n\n- पोइन्ट सम्बन्धित स्पष्ट रूपमा स्पष्ट रूपमा प्रयोगकर्ता म्यानुअल.टीटीमा परिमार्जन गरिएको छ।\n- ईतिहासमा भोल्यूम नम्बर प्रदर्शन मात्र पाठ फाइलहरू जाँच गर्न परिमार्जन गरिएको छ।\n- छवि जूम इन / आउट प्रकार्य थपियो।\n- जहाँ धेरै संकुचित फाईलहरू सेट गरिएको छ जहाँ केही संकुचित फाईलहरू विघटित हुँदैनन्।\n- पोइन्ट अधिकतम 800,000 मा परिमार्जन गरिएको छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.7.1 (2023 12 06)\n- Image Viewer er lagt til.\n   * Bildevisning støtter bare opptil 800 MB.\n   * På grunn av tillegg av bildeseere, har alternativene for hver seer blitt skilt.\n- Jeg har bestemt meg for å bare vise maksimalt 5 horisontale rader i biblioteket mitt.\n- Begrepet [Side] er endret til [punkt].\n- Cover Image Backup Recovery Logic er endret.\n- Annonsebelastningsanimasjonen er endret.\n- Flere feil er løst."
+    "devnote": "7.7.2 (2023 12. desember)\n\n- Punktrelaterte forklaringer er endret i brukerhåndboken.txt.\n- Volumnummervisningen i historien er endret for å sjekke bare tekstfiler.\n- Bilde zoom inn/ut -funksjonen lagt til.\n- Fikset en feil der noen komprimerte filer ikke kunne dekomprimeres.\n- Punktmaksimumet er endret til 80 000."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.7.1 (2023 12 06)\n- Billedviseren er tilføjet.\n   * Image Viewer understøtter kun op til 800 MB.\n   * På grund af tilføjelsen af ​​billed seere er mulighederne for hver seer blevet adskilt.\n- Jeg har besluttet kun at vise 5 horisontale rækker i mit bibliotek.\n- Udtrykket [side] er blevet ændret til [punkt].\n- Logikken om cover -billed backup -gendannelseslogik er blevet ændret.\n- AD Loading Animation er blevet ændret.\n- Flere bugs er rettet."
+    "devnote": "7.7.2 (2023 december 12)\n\n- Punktrelaterede forklaringer er blevet ændret i brugervejledningen.txt.\n- Volumenummerdisplayet i historien er blevet ændret for kun at kontrollere tekstfiler.\n- Billed zoom ind/out -funktion tilføjet.\n- Rettet en fejl, hvor nogle komprimerede filer ikke kunne dekomprimeres.\n- Pointmaksimum er blevet ændret til 80.000."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.7.1 (2023 12 06)\n- Image Viewer wurde hinzugefügt.\n   * Image Viewer unterstützt nur bis zu 800 MB.\n   * Aufgrund der Hinzufügung von Bildbetrieben wurden Optionen für jeden Betrachter getrennt.\n- Ich habe beschlossen, in meiner Bibliothek nur maximal 5 horizontale Zeilen anzuzeigen.\n- Der Begriff [Seite] wurde in [Punkt] geändert.\n- Die Wiederherstellungslogik der Deckbild -Sicherung wurde geändert.\n- Die Anzeigenladeanimation wurde geändert.\n- Es wurden mehrere Fehler behoben."
+    "devnote": "7.7.2 (2023 Dez 12)\n\n- Punktbezogene Erklärungen wurden im Benutzerhandbuch geändert.\n- Die Anzeige der Volumennummer im Verlauf wurde geändert, um nur Textdateien zu überprüfen.\n- Funktion Zoom in/out hinzugefügt.\n- Ein Fehler behoben, bei dem einige komprimierte Dateien nicht dekomprimiert werden konnten.\n- Der Punktmaximum wurde auf 80.000 modifiziert."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.7.1 (2023 12 06)\n- ຜູ້ເບິ່ງພາບຖ່າຍໄດ້ຖືກເພີ່ມເຂົ້າມາແລ້ວ.\n   * ຮູບພາບຜູ້ເບິ່ງພຽງແຕ່ຮອງຮັບເທົ່າກັບ 800MB ເທົ່ານັ້ນ.\n   * ເນື່ອງຈາກການເພີ່ມຂອງຜູ້ຊົມຮູບພາບ, ທາງເລືອກສໍາລັບຜູ້ເບິ່ງແຕ່ລະຄົນໄດ້ຖືກແຍກອອກຈາກກັນ.\n- ຂ້ອຍໄດ້ຕັດສິນໃຈສະແດງພຽງແຕ່ 5 ແຖວທີ່ສູງສຸດ 5 ແນວນອນໃນຫໍສະມຸດຂອງຂ້ອຍ.\n- ໄລຍະ [ຫນ້າ] ໄດ້ຖືກປ່ຽນເປັນ [POIN].\n- ການປົກຫຸ້ມຂອງຮູບພາບສໍາຮອງຂໍ້ມູນການກູ້ຄືນໄດ້ຖືກດັດແກ້ແລ້ວ.\n- ພາບເຄື່ອນໄຫວການໂຫຼດໂຄສະນາໄດ້ຖືກດັດແກ້ແລ້ວ.\n- ຂໍ້ບົກຜ່ອງຫລາຍຢ່າງໄດ້ຖືກແກ້ໄຂແລ້ວ."
+    "devnote": "7.7.2 (2023 ວັນທີ 1223 Dec 12)\n\n- ຄໍາອະທິບາຍຈຸດທີ່ກ່ຽວຂ້ອງໄດ້ຖືກດັດແກ້ໃນຄູ່ມືຜູ້ໃຊ້.\n- ການສະແດງເລກປະລິມານໃນປະຫວັດສາດໄດ້ຖືກດັດແກ້ເພື່ອກວດສອບພຽງແຕ່ເອກະສານຂໍ້ຄວາມເທົ່ານັ້ນ.\n- ຮູບພາບຂະຫຍາຍໃຫຍ່ຂື້ນໃນ / ອອກຫນ້າທີ່ເພີ່ມ.\n- ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ບາງເອກະສານທີ່ທ່ານບີບອັດທີ່ບໍ່ສາມາດຖືກທໍາລາຍໄດ້.\n- ສູງສຸດຈຸດໄດ້ຖືກດັດແປງເປັນ 80,000."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.7.1 (2023 12 06)\n- Attēlu skatītājs ir pievienots.\n   * Attēla skatītājs atbalsta tikai līdz 800 MB.\n   * Attēlu skatītāju pievienošanas dēļ katra skatītāja opcijas ir atdalītas.\n- Es esmu nolēmis manā bibliotēkā parādīt tikai ne vairāk kā 5 horizontālas rindas.\n- Termins [lapa] ir mainīts uz [punktu].\n- Vāka attēla rezerves atkopšanas loģika ir modificēta.\n- AD ielādēšanas animācija ir modificēta.\n- Ir labotas vairākas kļūdas."
+    "devnote": "7.7.2 (2023. gada 12. decembris)\n\n- Lietotāja rokasgrāmatā.txt ir modificēti ar punktu saistītie skaidrojumi.\n- Sējuma numura displejs vēsturē ir modificēts, lai pārbaudītu tikai teksta failus.\n- Pievienota attēla tuvināšana/izslēgšana.\n- Novērsta kļūda, kurā dažus saspiestus failus nevarēja dekompresēt.\n- Punkta maksimums ir modificēts līdz 80 000."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.7.1 (2023 12 06)\n- Просмотр зрителя изображения был добавлен.\n   * Viewer Viewer поддерживает только до 800 МБ.\n   * Из -за добавления зрителей изображения параметры для каждого зрителя были разделены.\n- Я решил отобразить только 5 горизонтальных рядов в моей библиотеке.\n- Термин [страница] был изменен на [точку].\n- Логика восстановления восстановления изображения обложки была изменена.\n- Анимация загрузки рекламы была изменена.\n- Несколько ошибок были исправлены."
+    "devnote": "7.7.2 (2023 г. 12 декабря)\n\n- Связанные с точками объяснения были изменены в руководстве пользователя.\n- Отображение номера тома в истории было изменено для проверки только текстовых файлов.\n- Внедрение изображения Zoom In/Out добавлено.\n- Исправлена ​​ошибка, в которой некоторые сжатые файлы не могут быть декомпрессированы.\n- Максимум точки был изменен до 80 000."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.7.1 (2023 12 06)\n- Vizualizatorul de imagini a fost adăugat.\n   * Vizualizatorul de imagini acceptă doar până la 800 MB.\n   * Datorită adăugării de vizualizatori de imagini, opțiunile pentru fiecare vizualizator au fost separate.\n- Am decis să afișez doar 5 rânduri orizontale în biblioteca mea.\n- Termenul [pagina] a fost schimbat în [punct].\n- Logica de recuperare de rezervă a imaginii de acoperire a fost modificată.\n- Animația de încărcare a anunțurilor a fost modificată.\n- Au fost remediate mai multe erori."
+    "devnote": "7.7.2 (2023 12 decembrie)\n\n- Explicațiile legate de punct au fost modificate în manualul de utilizare.txt.\n- Afișarea numărului de volum din istoric a fost modificată pentru a verifica doar fișierele text.\n- Image Zoom In/Out Funcție adăugată.\n- S -a rezolvat o eroare în care unele fișiere comprimate nu au putut fi decomprimate.\n- Punctul maxim a fost modificat la 80.000."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.7.1 (2023 12 06)\n- Pridėta vaizdų peržiūros priemonė.\n   * Vaizdo žiūrovas palaiko tik iki 800 MB.\n   * Dėl vaizdo žiūrovų pridėjimo kiekvieno žiūrovo parinktys buvo atskirtos.\n- Aš nusprendžiau savo bibliotekoje rodyti tik ne daugiau kaip 5 horizontalias eilutes.\n- Terminas [puslapis] buvo pakeistas į [tašką].\n- Viršelio vaizdo atsarginės kopijos atkūrimo logika buvo modifikuota.\n- Skelbimų įkėlimo animacija buvo modifikuota.\n- Buvo ištaisytos kelios klaidos."
+    "devnote": "7.7.2 (2023 m. Gruodžio 12)\n\n- Su tašku susiję paaiškinimai buvo modifikuoti vartotojo vadove.txt.\n- Istorijoje esančio garsumo numerio rodymas buvo modifikuotas, kad būtų galima patikrinti tik tekstinius failus.\n- Pridedama vaizdo mastelio keitimas/išjungtas.\n- Ištaisyta klaida, kai kai kurių suspaustų failų nepavyko išskleisti.\n- Maksimalus taškas buvo pakeistas iki 80 000."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.7.1 (2023 12 06)\n- प्रतिमा दर्शक जोडले गेले आहे.\n   * प्रतिमा दर्शक केवळ 800 एमबी पर्यंत समर्थन करते.\n   * प्रतिमा दर्शकांच्या व्यतिरिक्त, प्रत्येक दर्शकांसाठी पर्याय वेगळे केले गेले आहेत.\n- मी माझ्या लायब्ररीत फक्त जास्तीत जास्त 5 क्षैतिज पंक्ती प्रदर्शित करण्याचा निर्णय घेतला आहे.\n- [पृष्ठ] हा शब्द [बिंदू] मध्ये बदलला आहे.\n- कव्हर प्रतिमा बॅकअप पुनर्प्राप्ती लॉजिक सुधारित केले गेले आहे.\n- जाहिरात लोडिंग अ‍ॅनिमेशन सुधारित केले गेले आहे.\n- अनेक बग निश्चित केले गेले आहेत."
+    "devnote": "7.7.2 (2023 डिसेंबर 12)\n\n- पॉईंट-संबंधित स्पष्टीकरण वापरकर्त्याच्या मॅन्युअल.टीएक्सटीमध्ये सुधारित केले गेले आहे.\n- इतिहासातील व्हॉल्यूम नंबर प्रदर्शन केवळ मजकूर फायली तपासण्यासाठी सुधारित केले गेले आहे.\n- प्रतिमा झूम इन/आउट फंक्शन जोडले.\n- एक बग निश्चित केला जेथे काही संकुचित फायली विघटित केल्या जाऊ शकत नाहीत.\n- बिंदू जास्तीत जास्त 80,000 मध्ये सुधारित केले गेले आहे."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.7.1 (2023 12 06)\n- Додаден е прегледувач на слики.\n   * Прегледувачот на слика поддржува само до 800MB.\n   * Поради додавање на гледачи на слики, опциите за секој гледач се одделени.\n- Решив да прикажам само максимум 5 хоризонтални редови во мојата библиотека.\n- Терминот [страница] е сменет во [точка].\n- Логиката за обновување на резервната копија на сликата е изменета.\n- Анимацијата за вчитување на реклами е изменета.\n- Неколку грешки се фиксирани."
+    "devnote": "7.7.2 (2023 декември 12)\n\n- Објаснувањата поврзани со точките се изменети во Упатството за корисникот.txt.\n- Приказот на бројот на јачината на звукот во историјата е изменет за да се проверат само датотеките со текст.\n- Додадена е функција за зумирање на слика/надвор.\n- Поправи грешка каде што некои компресирани датотеки не може да се декомпресираат.\n- Максималната точка е изменета на 80.000."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.7.1 (2023 12 06)\n- ഇമേജ് വ്യൂവർ ചേർത്തു.\n   * ഇമേജ് വ്യൂവർ 800 എംബി വരെ പിന്തുണയ്ക്കുന്നു.\n   * ഇമേജ് കാഴ്ചകൾ ചേർക്കുന്നത് കാരണം, ഓരോ കാഴ്ചക്കാരനും ഓപ്ഷനുകൾ വേർതിരിക്കപ്പെട്ടു.\n- എന്റെ ലൈബ്രറിയിൽ പരമാവധി 5 തിരശ്ചീന വരികളെ മാത്രമേ പ്രദർശിപ്പിക്കാൻ തീരുമാനിച്ചത്.\n- [പേജ്] എന്ന പദം [പോയിന്റിൽ] ആയി മാറ്റി.\n- കവർ ഇമേജ് ബാക്കപ്പ് വീണ്ടെടുക്കൽ ലോജിഡ് പരിഷ്ക്കരിച്ചു.\n- പരസ്യ ലോഡിംഗ് ആനിമേഷൻ പരിഷ്ക്കരിച്ചു.\n- നിരവധി ബഗുകൾ പരിഹരിച്ചു."
+    "devnote": "7.7.2 (2023 ഡിസംബർ 12)\n\n- ഉപയോക്തൃ മാനുവൽ.ടിxt ൽ പോയിന്റിയുമായി ബന്ധപ്പെട്ട വിശദീകരണങ്ങൾ പരിഷ്ക്കരിച്ചു.\n- ചരിത്രത്തിലെ വോളിയം നമ്പർ പ്രദർശനം ടെക്സ്റ്റ് ഫയലുകൾ മാത്രം പരിശോധിക്കുന്നതിനായി പരിഷ്ക്കരിച്ചു.\n- ഇമേജ് സൂം ഇൻ / out ട്ട് ഫംഗ്ഷൻ ചേർത്തു.\n- ചില കംപ്രസ്സുചെയ്ത ഫയലുകൾ വിഘടിപ്പിക്കാൻ കഴിയാത്ത ഒരു ബഗ് പരിഹരിച്ചു.\n- പരമാവധി പരമാവധി 80,000 ആയി പരിഷ്ക്കരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.7.1 (2023 12 06)\n- Penonton imej telah ditambah.\n   * Penonton imej hanya menyokong sehingga 800MB.\n   * Oleh kerana penambahan penonton imej, pilihan untuk setiap penonton telah dipisahkan.\n- Saya telah memutuskan untuk memaparkan hanya maksimum 5 baris mendatar di perpustakaan saya.\n- Istilah [halaman] telah diubah menjadi [titik].\n- Logik pemulihan sandaran imej penutup telah diubah suai.\n- Animasi pemuatan iklan telah diubahsuai.\n- Beberapa pepijat telah ditetapkan."
+    "devnote": "7.7.2 (2023 Dis 12)\n\n- Penjelasan yang berkaitan dengan titik telah diubah suai dalam manual pengguna.txt.\n- Paparan nombor kelantangan dalam sejarah telah diubahsuai untuk memeriksa hanya fail teks.\n- Fungsi Zoom Image In/Out Ditambah.\n- Memperbaiki bug di mana beberapa fail termampat tidak dapat dikompresi.\n- Maksimum titik telah diubah suai kepada 80,000."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.7.1 (2023 12 06)\n- Зургийн үзэгчид нэмэгдсэн.\n   * Зургийн үзэгч нь зөвхөн 800MB хүртэл дэмждэг.\n   * Зургийн үзэгчид нэмж, үзэгчид тус бүрийг салгаж авсан.\n- Би номын сан дахь хамгийн ихдээ 5 хэвтээ мөрийг зөвхөн хамгийн ихдээ 5 хэвтээ мөрийг харуулахаар шийдсэн.\n- [Хуудас] гэсэн нэр томъёо [POINES] -д өөрчлөгдсөн байна.\n- Хавтасны зургийг нөөцлөх бүртгэл сэргээх логик өөрчлөгдсөн байна.\n- Ачаалах анимацийг өөрчилсөн байна.\n- хэд хэдэн алдаануудыг зассан."
+    "devnote": "7.7.2 (2023 оны 12-р сарын 12)\n\n- Point-холбоотой тайлбарыг хэрэглэгчийн гарын авлагад өөрчилсөн.\n- Түүхэн дэх эзлэхүүний дугаар дэлгэцийг зөвхөн текст файлуудыг шалгахаар өөрчлөгдсөн байна.\n- Зургийн томруулалтыг томруулж, нэмсэн.\n- Шахсан файлуудыг задлах боломжгүй байгаа алдааг заслаа.\n- Хамгийн дээд цэгийг 80,000 болгон өөрчилсөн байна."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.7.1 (2023 12 06)\n- Irudi ikuslea gehitu da.\n   * Irudiaren ikusleak 800 MB baino ez ditu onartzen.\n   * Irudien ikusleak gehitzea dela eta, ikusle bakoitzeko aukerak bereizi dira.\n- Liburutegian gehienez 5 errenkada horizontal bakarrik bistaratzea erabaki dut.\n- [Orrialdea] terminoa [Point] aldera aldatu da.\n- Azaleko irudiaren segurtasun kopia berreskuratzeko logika aldatu da.\n- Iragarkien kargatzeko animazioa aldatu da.\n- Hainbat akats konpondu dira."
+    "devnote": "7.7.2 (2023 abendua 12)\n\n- Erabiltzaileen eskuliburua aldatu da.\n- Historian bolumen zenbakia bistaratzea aldatu da testu fitxategiak soilik ikusteko.\n- Irudia Zoom In / Out funtzioa gehitu da.\n- Konprimitutako fitxategiak deskonprimitu ezin diren akats bat konpondu da.\n- puntu gehienez 80.000ra aldatu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.7.1 (2023 12 06)\n- Image Viewer ကိုထည့်သွင်းထားသည်။\n   * Image Viewer သည် 800MB အထိသာထောက်ပံ့သည်။\n   * ပုံရိပ်ကြည့်ရှုသူများ၏ဖြည့်စွက်မှုများကြောင့်ကြည့်ရှုသူတစ် ဦး စီအတွက်ရွေးချယ်စရာများကိုကွဲကွာသွားပြီ။\n- ကျွန်ုပ်သည်စာကြည့်တိုက်တွင်အလျားလိုက်အတန်း 5 တန်းသာဖော်ပြရန်ကျွန်ုပ်ဆုံးဖြတ်ခဲ့သည်။\n- ဟူသောဝေါဟာရကို [စာမျက်နှာ] ကို [POINT] ကိုပြောင်းထားသည်။\n- Cover Image Backup Recovery Logic ကိုပြုပြင်ထားသည်။\n- ကြော်ငြာတင်ခြင်းကာတွန်းကိုပြုပြင်ထားသည်။\n- အများအပြား bugs ကို fixed ပါပြီ။"
+    "devnote": "7.7.2 (2023 ဒီဇင်ဘာ 12 ရက်)\n\n- Point-Related Definations ကိုအသုံးပြုသူလက်စွဲစာအုပ်တွင်ပြုပြင်ထားသည်။\n- သမိုင်းတွင် volume volume display ကိုစာသားဖိုင်များကိုသာစစ်ဆေးရန်ပြင်ဆင်ထားသည်။\n- Image zoom in / oft function ကိုထည့်သွင်းခဲ့သည်။\n- အချို့သော compressed files များကို decompressed မရနိုင်သော bug တစ်ခု fixed ။\n- အများဆုံးအချက်ကို 80,000 မှပြုပြင်မွမ်းမံခဲ့သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.7.1 (2023 12 06)\n- Trình xem hình ảnh đã được thêm vào.\n   * Trình xem hình ảnh chỉ hỗ trợ tối đa 800MB.\n   * Do việc bổ sung người xem hình ảnh, các tùy chọn cho mỗi người xem đã được phân tách.\n- Tôi đã quyết định chỉ hiển thị tối đa 5 hàng ngang trong thư viện của mình.\n- Thuật ngữ [trang] đã được thay đổi thành [điểm].\n- Logic phục hồi sao lưu hình ảnh bìa đã được sửa đổi.\n- Hoạt hình tải quảng cáo đã được sửa đổi.\n- Một số lỗi đã được sửa."
+    "devnote": "7.7.2 (2023 ngày 12 tháng 12)\n\n- Giải thích liên quan đến điểm đã được sửa đổi trong hướng dẫn sử dụng.txt.\n- Hiển thị số âm lượng trong lịch sử đã được sửa đổi để chỉ kiểm tra các tệp văn bản.\n- Chức năng thu phóng hình ảnh được thêm vào.\n- Đã sửa lỗi trong đó một số tệp nén không thể được giải nén.\n- Tối đa điểm đã được sửa đổi thành 80.000."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.7.1 (2023 12 06)\n- Дададзены прагляд малюнкаў.\n   * Прагляд выявы падтрымлівае толькі да 800 Мб.\n   * З -за дадання гледачоў выявы, варыянты для кожнага гледача былі падзелены.\n- Я вырашыў паказаць толькі максімум 5 гарызантальных радкоў у маёй бібліятэцы.\n- Тэрмін [старонка] быў зменены на [пункт].\n- Логіка аднаўлення рэзервовага капіявання вокладкі была зменена.\n- Анімацыя загрузкі рэкламы была зменена.\n- Было выпраўлена некалькі памылак."
+    "devnote": "7.7.2 (2023 г. 12 снежня)\n\n- Тлумачэнні, звязаныя з кропкамі, былі зменены ў Кіраўніцтве карыстальніка.txt.\n- Дысплей нумара аб'ёму ў гісторыі быў зменены, каб праверыць толькі тэкставыя файлы.\n- Дададзена дададзена функцыя павелічэння/выводу малюнка.\n- Выпраўлена памылка, калі некаторыя сціснутыя файлы нельга было дэкасаваць.\n- Максімальная кропка была зменена да 80 000."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.7.1 (2023 12 06)\n- চিত্র দর্শক যুক্ত করা হয়েছে।\n   * চিত্র দর্শক কেবল 800MB পর্যন্ত সমর্থন করে।\n   * চিত্র দর্শকদের সংযোজনের কারণে, প্রতিটি দর্শকের জন্য বিকল্পগুলি পৃথক করা হয়েছে।\n- আমি আমার লাইব্রেরিতে সর্বাধিক 5 টি অনুভূমিক সারি প্রদর্শন করার সিদ্ধান্ত নিয়েছি।\n- শব্দটি [পৃষ্ঠা] [পয়েন্ট] এ পরিবর্তন করা হয়েছে।\n- কভার ইমেজ ব্যাকআপ পুনরুদ্ধারের যুক্তি সংশোধন করা হয়েছে।\n- বিজ্ঞাপন লোডিং অ্যানিমেশনটি সংশোধন করা হয়েছে।\n- বেশ কয়েকটি বাগ ঠিক করা হয়েছে।"
+    "devnote": "7.7.2 (2023 ডিসেম্বর 12)\n\n- পয়েন্ট-সম্পর্কিত ব্যাখ্যাগুলি ব্যবহারকারী ম্যানুয়াল.টিএক্সটি-তে সংশোধন করা হয়েছে।\n- ইতিহাসে ভলিউম নম্বর প্রদর্শনটি কেবল পাঠ্য ফাইলগুলি পরীক্ষা করতে সংশোধন করা হয়েছে।\n- চিত্র জুম ইন/আউট ফাংশন যুক্ত করা হয়েছে।\n- এমন একটি বাগ ঠিক করা হয়েছে যেখানে কিছু সংকুচিত ফাইলগুলি ডিকম্প্রেসড করা যায় না।\n- সর্বাধিক পয়েন্টটি ৮০,০০০ এ সংশোধন করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.7.1 (2023 12 06)\n- Добавен е зрителят на изображения.\n   * Изображението Viewer поддържа само до 800MB.\n   * Поради добавянето на зрители на изображения, опциите за всеки зрител са разделени.\n- Реших да покажа само максимум 5 хоризонтални реда в моята библиотека.\n- Терминът [страница] е променен на [точка].\n- Логиката за възстановяване на резервното възстановяване на изображението е модифицирана.\n- Анимацията за зареждане на реклами е модифицирана.\n- Няколко грешки са отстранени."
+    "devnote": "7.7.2 (2023 декември 12)\n\n- Обясненията, свързани с точка, са модифицирани в ръководството на потребителя.txt.\n- Дисплеят на номера на силата на звука в историята е модифициран, за да провери само текстови файлове.\n- Добавена е функция за увеличаване на изображението.\n- Фиксирана грешка, при която някои компресирани файлове не могат да бъдат декомпресирани.\n- Точката максимум е модифицирана до 80 000."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.7.1 (2023 12 06)\n- Прегледник слике је додат.\n   * Прегледник слика само подржава до 800МБ.\n   * Због додавања гледалаца слика, опције за сваки гледатељ су раздвојене.\n- Одлучио сам да прикажем само највише 5 хоризонталних редова у својој библиотеци.\n- Израз [страница] је промењена у [Поинт].\n- Покривач за резервне копије резервне копије слике је модификовано.\n- Анимација за утовар огласа је модификована.\n- Неколико грешака је поправљено."
+    "devnote": "7.7.2 (2023. 12.)\n\n- Објашњења повезана са тачкама је модификована у корисничком упутству.ТКСТ.\n- Екран за јачину звука у историји је модификован да бисте проверили само текстуалне датотеке.\n- Додата је функција увећања слике умањила / оут.\n- Поправљена је грешка у којој се неке компримоване датотеке не могу декомпресовати.\n- Максимална тачка је измењена на 80.000."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.7.1 (2023 12 06)\n- Mtazamaji wa picha ameongezwa.\n   * Mtazamaji wa picha inasaidia tu hadi 800MB.\n   * Kwa sababu ya kuongezwa kwa watazamaji wa picha, chaguzi kwa kila mtazamaji zimetengwa.\n- Nimeamua kuonyesha kiwango cha juu cha safu 5 za usawa kwenye maktaba yangu.\n- Neno [ukurasa] limebadilishwa kuwa [uhakika].\n- Mantiki ya urejeshaji wa picha ya jalada imebadilishwa.\n- Uhuishaji wa upakiaji wa tangazo umebadilishwa.\n- Mende kadhaa zimewekwa."
+    "devnote": "7.7.2 (2023 Desemba 12)\n\n- Maelezo yanayohusiana na uhakika yamebadilishwa katika mwongozo wa mtumiaji.txt.\n- Maonyesho ya nambari ya kiasi katika historia yamebadilishwa ili kuangalia faili za maandishi tu.\n- Picha zoom in/nje kazi imeongezwa.\n- Zisizohamishika mdudu ambapo faili zingine zilizoshinikizwa hazikuweza kuharibiwa.\n- Upeo wa uhakika umebadilishwa kuwa 80,000."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.7.1 (2023 12 06)\n- Bildvisaren har lagts till.\n   * Bildvisaren stöder bara upp till 800 MB.\n   * På grund av tillägget av bildvisare har alternativen för varje tittare separerats.\n- Jag har beslutat att bara visa högst 5 horisontella rader i mitt bibliotek.\n- Termen [Sidan] har ändrats till [punkt].\n- Logiken om återhämtning av säkerhetsbilder har modifierats.\n- Animonering av annonser har modifierats.\n- Flera buggar har fixats."
+    "devnote": "7.7.2 (2023 12 dec)\n\n- Punktrelaterade förklaringar har modifierats i användarmanualen.txt.\n- Volymnummerdisplayen i historien har ändrats för att endast kontrollera textfiler.\n- Bild zoom in/ut -funktion läggs till.\n- Fixade ett fel där vissa komprimerade filer inte kunde dekomprimeras.\n- Maximumet har ändrats till 80 000."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.7.1 (2023 12 06)\n- Se ha agregado el visor de imágenes.\n   * El visor de imágenes solo admite hasta 800 MB.\n   * Debido a la adición de visores de imágenes, se han separado las opciones para cada espectador.\n- He decidido mostrar solo un máximo de 5 filas horizontales en mi biblioteca.\n- El término [página] se ha cambiado a [punto].\n- La lógica de recuperación de la imagen de la imagen de la portada ha sido modificada.\n- La animación de carga AD ha sido modificada.\n- Se han solucionado varios errores."
+    "devnote": "7.7.2 (2023 diciembre 12)\n\n- Las explicaciones relacionadas con el punto se han modificado en el manual del usuario.txt.\n- La pantalla del número de volumen en el historial se ha modificado para verificar solo archivos de texto.\n- Función de zoom de imagen de imagen agregada.\n- Se corrigió un error donde algunos archivos comprimidos no podían descomprimirse.\n- El punto máximo se ha modificado a 80,000."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7,7.1 (2023 12 06)\n- Bol pridaný prehliadač obrázkov.\n   * Prehliadač obrázkov podporuje iba 800 MB.\n   * Vzhľadom na pridanie divákov obrázkov boli možnosti pre každého diváka oddelené.\n- V knižnici som sa rozhodol zobraziť iba maximálne 5 vodorovných riadkov.\n- Termín [stránka] sa zmenil na [Point].\n- Logika zálohovania obrazu krytu bola upravená.\n- Animácia načítania reklamy bola upravená.\n- Bolo opravených niekoľko chýb."
+    "devnote": "7.7.2 (2023 december 12)\n\n- Vysvetlenie súvisiace s bodom boli upravené v používateľskej príručke.txt.\n- Zobrazenie čísla zväzku v histórii bolo upravené tak, aby skontrolovali iba textové súbory.\n- Funkcia priblíženia obrázka priblíži.\n- Opravená chyba, kde niektoré komprimované súbory nebolo možné dekomprimovať.\n- Maximum bodu bolo upravené na 80 000."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.7.1 (2023 12 06)\n- Dodan je pregledovalnik slik.\n   * Pregledovalnik slik podpira samo do 800 MB.\n   * Zaradi dodajanja gledalcev slike so možnosti za vsakega gledalca ločene.\n- Odločil sem se, da bom v svoji knjižnici prikazal le največ 5 vodoravnih vrstic.\n- Izraz [stran] je bil spremenjen v [točko].\n- Spremenjena je logika obnovitve za varnostno kopijo slike.\n- Animacija za nalaganje oglasov je spremenjena.\n- Odpravljenih je več napak."
+    "devnote": "7.7.2 (2023 decembra 12)\n\n- Pojasnila, povezana s točkami, so spremenjena v uporabniškem priročniku.txt.\n- Prikaz številke glasnosti v zgodovini je bil spremenjen, da preveri samo besedilne datoteke.\n- Dodana funkcija Zoom v/izklop.\n- Odpravljeno napako, pri kateri nekaterih stisnjenih datotek ni bilo mogoče dekomprimirati.\n- Največji točka je bila spremenjena na 80.000."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.7.1 (2023 12 06)\n- රූප නරඹන්නා එකතු කර ඇත.\n   * රූප නරඹන්නාට සහය දක්වන්නේ 800MB දක්වා පමණි.\n   * රූප නරඹන්නන් එකතු කිරීම නිසා, එක් එක් නරඹන්නා සඳහා විකල්ප වෙන් කර ඇත.\n- මගේ පුස්තකාලයේ උපරිම තිරස් පේළි 5 ක් පමණක් පෙන්වීමට මම තීරණය කර ඇත්තෙමි.\n- [පිටුව] යන පදය [පොයින්ට්] ලෙස වෙනස් කර ඇත.\n- ආවරණ රූපයේ උපස්ථ ප්රතිසාධන තර්කනය වෙනස් කර ඇත.\n- දැන්වීම පූරණය කිරීමේ සජීවිකරණය වෙනස් කර ඇත.\n- දෝෂ කිහිපයක් සවි කර ඇත."
+    "devnote": "7.7.2 (2023 දෙසැම්බර් 12)\n\n- පරිශීලක අත්පොත.ටීxt හි පෙන්වා ඇති පැහැදිලි කිරීම් වෙනස් කර ඇත.\n- පෙළ ලිපිගොනු පමණක් පරීක්ෂා කිරීම සඳහා ඉතිහාසයේ වෙළුම් අංකය වෙනස් කර ඇත.\n- රූප විශාලනය කිරීම / පිටත ක්රියාකාරිත්වය වැඩ කරන ලදි.\n- සමහර සම්පීඩිත ලිපිගොනු අවලංගු කිරීමට නොහැකි දෝෂයක් සවි කර ඇත.\n- උපරිම ලක්ෂ්යය 80,000 දක්වා වෙනස් කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.7.1 (2023 12 06)\n- تمت إضافة عارض الصورة.\n   * عارض الصور يدعم فقط ما يصل إلى 800 ميجابايت.\n   * نظرًا لإضافة مشاهدي الصور ، تم فصل خيارات كل عارض.\n- لقد قررت عرض فقط 5 صفوف أفقية في مكتبتي.\n- تم تغيير المصطلح [الصفحة] إلى [Point].\n- تم تعديل منطق استرداد النسخ الاحتياطي صورة الغلاف.\n- تم تعديل الرسوم المتحركة تحميل الإعلان.\n- تم إصلاح العديد من الأخطاء."
+    "devnote": "7.7.2 (2023 ديسمبر 12)\n\n- تم تعديل التفسيرات المتعلقة بالنقطة في دليل المستخدم.\n- تم تعديل عرض رقم الصوت في السجل للتحقق من الملفات النصية فقط.\n- إضافة وظيفة تكبير/خارج.\n- تم إصلاح الخلل حيث لا يمكن إلغاء ضغط بعض الملفات المضغوطة.\n- تم تعديل الحد الأقصى للنقطة إلى 80،000."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.7.1 (2023 12 06)\n- Image Viewer- ը ավելացվել է:\n   * Պատկերի դիտիչը աջակցում է միայն մինչեւ 800 ՄԲ:\n   * Պատկերների դիտողների ավելացման շնորհիվ յուրաքանչյուր դիտողի ընտրանքներ առանձնացվել են:\n- Ես որոշել եմ ցուցադրել միայն առավելագույնը 5 հորիզոնական շարքեր իմ գրադարանում:\n- [էջ] տերմինը փոխվել է [կետ]:\n- Կափարիչի պատկերի կրկնօրինակում վերականգնման տրամաբանությունը փոփոխվել է:\n- Փոփոխվել է անիմացիայի գովազդը:\n- Մի քանի վրիպակներ ֆիքսվել են:"
+    "devnote": "7.7.2 (2023 դեկտեմբերի 12)\n\n- կետի հետ կապված բացատրությունները փոփոխվել են օգտագործողի Manual.txt- ում:\n- Պատմության մեջ նշված քանակի ցուցիչը փոփոխվել է միայն տեքստային ֆայլերը ստուգելու համար:\n- Image Zoom In / Out գործառույթը ավելացված է:\n- Հաստատեց մի սխալ, որտեղ որոշ սեղմված ֆայլեր հնարավոր չէ քանդել:\n- Դատական ​​առավելագույնը փոփոխվել է 80 000-ի:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.7.1 (2023 12 06)\n- Mynd áhorfandi hefur verið bætt við.\n   * Myndáhorfandi styður aðeins allt að 800MB.\n   * Vegna viðbótar myndsáhorfenda hafa valkostir fyrir hvern áhorfanda verið aðskildir.\n- Ég hef ákveðið að sýna aðeins að hámarki 5 lárétta línur á bókasafninu mínu.\n- Hugtakinu [síðu] hefur verið breytt í [lið].\n- Röksemdafærslunni um afrit af forsíðu hefur verið breytt.\n- Auglýsingunni sem hleðst upp hefur verið breytt.\n- Nokkrar villur hafa verið lagaðar."
+    "devnote": "7.7.2 (2023 12. des)\n\n- Skýringum sem tengjast punkti hafa verið breytt í notendahandbókinni.txt.\n- Rúmmálanúmeraskjár í sögunni hefur verið breytt til að athuga aðeins textaskrár.\n- Image zoom inn/út aðgerð bætt við.\n- Lagaði villu þar sem ekki var hægt að þjappa saman sumum þjöppuðum skrám.\n- Punktarhámarkinu hefur verið breytt í 80.000."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.7.1 (2023 12 06)\n- Şəkil görüntüleyicisi əlavə edildi.\n   * Şəkil görüntüleyicisi yalnız 800MB-a qədər dəstəkləyir.\n   * Şəkil izləyicilərinin əlavə edilməsi ilə əlaqədar hər bir izləyici üçün seçimlər ayrıldı.\n- Kitabxanamda ən çox 5 üfüqi satır nümayiş etdirməyə qərar verdim.\n- [səhifə] termini [nöqtə] ilə dəyişdirildi.\n- Qapaq görüntüsünün ehtiyat bərpa məntiqi dəyişdirildi.\n- Reklam yükləmə animasiya dəyişdirildi.\n- Bir neçə səhv düzəldildi."
+    "devnote": "7.7.2 (2023 Dekabr 12)\n\n- İstifadəçi Manual.txt-də məqsədəuyğun izahatlar dəyişdirildi.\n- Tarixdəki həcm nömrəsi ekranı yalnız mətn sənədlərini yoxlamaq üçün dəyişdirilmişdir.\n- Şəkil böyütməsi / Out funksiyası əlavə edildi.\n- Bəzi sıxılmış faylların dekompressiya edilə bilmədiyi bir səhv düzəldildi.\n- Maksimum nöqtə 80.000-ə dəyişdirildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.7.1 (2023 12 06)\n- Image Viewer is bygevoeg.\n   * Image Viewer ondersteun slegs tot 800 MB.\n   * As gevolg van die byvoeging van beeldkykers, is opsies vir elke kyker van mekaar geskei.\n- Ek het besluit om slegs 'n maksimum van 5 horisontale rye in my biblioteek te vertoon.\n- Die term [bladsy] is verander na [punt].\n- Die omslagfoto -rugsteunherstellogika is verander.\n- Die animasie van die advertensie -laai is verander.\n- Verskeie foute is reggestel."
+    "devnote": "7.7.2 (2023 Desember 12)\n\n- Puntverwante verduidelikings is in die gebruikershandleiding.txt gewysig.\n- Die volume -nommer in die geskiedenis is gewysig om slegs tekslêers na te gaan.\n- Image Zoom In/Out -funksie bygevoeg.\n- 'n fout reggestel waar sommige saamgeperste lêers nie gedekomprimeer kon word nie.\n- Die punt maksimum is aangepas tot 80.000."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.7.1 (2023 12 06)\n- është shtuar shikuesi i figurës.\n   * Shikuesi i figurës mbështet vetëm deri në 800MB.\n   * Për shkak të shtimit të shikuesve të imazhit, opsionet për secilin shikues janë ndarë.\n- Kam vendosur të shfaq vetëm një maksimum prej 5 rreshtave horizontale në bibliotekën time.\n- Termi [faqe] është ndryshuar në [pikë].\n- Logjika e rikuperimit të kopjimit të imazhit të mbulesës është modifikuar.\n- Animacioni i ngarkimit të reklamave është modifikuar.\n- Disa gabime janë rregulluar."
+    "devnote": "7.7.2 (2023 12 dhjetor)\n\n- Shpjegimet e lidhura me pikën janë modifikuar në manualin e përdoruesit.txt.\n- Ekrani i numrit të vëllimit në histori është modifikuar për të kontrolluar vetëm skedarët e tekstit.\n- Funksioni i Zmadhimit të Imazhit In/Out Shtuar.\n- Fiksoi një gabim ku disa skedarë të kompresuar nuk mund të dekompresohen.\n- Maksimumi i pikës është modifikuar në 80,000."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.7.1 (2023 12 06)\n- የምስል መመልከቻ ታክሏል.\n   * የምስል ተመን እስከ 800 ሜባ ብቻ ይደግፋል.\n   * የምስል ተመልካቾች በተጨማሪ, ለእያንዳንዱ ተመልካቾች አማራጮች ተለያይተዋል.\n- በቤተመጽሐፍቴ ውስጥ ከፍተኛውን 5 አግድም ረድፎች ብቻ ለማሳየት ወስኛለሁ.\n- የ [ገጽ] የሚለው ቃል እስከ ደረጃ ተለው has ል.\n- የሽፋኑ ምስል ምትኬ ማግኝት አመክንዮ ተስተካክሏል.\n- የማስታወቂያ አኒሜሽን ተሻሽሏል.\n- ብዙ ሳንካዎች ተስተካክለዋል."
+    "devnote": "7.7.2 (2023 ዲሴምበር 12)\n\n- ከተጠቃሚው ማኑዋዊ.TXT ጋር የተዛመዱ-ነክ ማብራሪያዎች ተስተካክለዋል.\n- በታሪክ ውስጥ ያለው የድምፅ ቁጥር የጽሑፍ ፋይሎችን ብቻ ለማጣራት ተሻሽሏል.\n- የምስል ማጉላት በ / ውጭ / ውጫዊ ተግባር ታክሏል.\n- አንዳንድ የተጨናነቁ ፋይሎች ሊሰብሩት የማይችሉበት ሳንካ ተጠግኗል.\n- ነጥቡ ከፍተኛው እስከ 80,000 ተስተካክሏል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.7.1 (2023 12 06)\n- Piltide vaataja on lisatud.\n   * Pildiavaataja toetab ainult kuni 800 MB.\n   * Kujutise vaatajate lisamise tõttu on iga vaataja valikud eraldatud.\n- Olen otsustanud oma raamatukogus kuvada maksimaalselt 5 horisontaalset rida.\n- Mõiste [leht] on muudetud [punkt].\n- Kaanepildi varundamise taastamise loogikat on muudetud.\n- Reklaamide laadimise animatsiooni on muudetud.\n- Parandatud on mitu viga."
+    "devnote": "7.7.2 (2023. detsember 12)\n\n- Punktiga seotud seletusi on muudetud kasutusjuhendis.txt.\n- Ajaloo helitugevuse numbri kuva on muudetud ainult tekstifailide kontrollimiseks.\n- pildi suumimine sisse/välja funktsioon lisatud.\n- Parandatud viga, kus mõnda tihendatud faili ei saanud lagundada.\n- Punkti maksimum on muudetud 80 000 -ni."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.7.1 (2023 12 06)\n- تصویری ناظرین کو شامل کیا گیا ہے۔\n   * تصویری ناظرین صرف 800MB تک کی حمایت کرتا ہے۔\n   * تصویری ناظرین کے اضافے کی وجہ سے ، ہر ناظرین کے لئے اختیارات الگ کردیئے گئے ہیں۔\n- میں نے اپنی لائبریری میں زیادہ سے زیادہ 5 افقی قطاریں ظاہر کرنے کا فیصلہ کیا ہے۔\n- اصطلاح [صفحہ] کو [نقطہ] میں تبدیل کردیا گیا ہے۔\n- کور امیج بیک اپ ریکوری منطق میں ترمیم کی گئی ہے۔\n- اشتہار لوڈنگ حرکت پذیری میں ترمیم کی گئی ہے۔\n- کئی کیڑے طے ہوچکے ہیں۔"
+    "devnote": "7.7.2 (2023 دسمبر 12)\n\n- صارف دستی ڈاٹ ٹی ایکس میں پوائنٹ سے متعلق وضاحتوں میں ترمیم کی گئی ہے۔\n- تاریخ میں حجم نمبر ڈسپلے میں صرف ٹیکسٹ فائلوں کی جانچ پڑتال کے لئے ترمیم کی گئی ہے۔\n- امیج زوم ان/آؤٹ فنکشن شامل کیا گیا۔\n- ایک بگ طے کیا جہاں کچھ کمپریسڈ فائلوں کو نہ کھایا جاسکے۔\n- زیادہ سے زیادہ نقطہ کو 80،000 میں تبدیل کیا گیا ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.7.1 (2023 12 06)\n- Додано переглядач зображень.\n   * Переглядач зображень підтримує лише до 800 Мб.\n   * Завдяки додаванням глядачів зображень параметри для кожного глядача були відокремлені.\n- Я вирішив відобразити лише 5 горизонтальних рядів у своїй бібліотеці.\n- Термін [сторінка] змінено на [точку].\n- Логіка відновлення резервного копіювання обкладинки була змінена.\n- Анімація завантаження реклами була змінена.\n- Виправлено кілька помилок."
+    "devnote": "7.7.2 (2023 грудня)\n\n- Пояснення, пов'язані з точками, були змінені в посібнику користувача.txt.\n- Відображення номера гучності в історії змінено для перевірки лише текстових файлів.\n- Додано функцію Zoom Zoom Imble.\n- Виправлена ​​помилка, де деякі стислі файли не могли бути декомпресовані.\n- Максимум точки був модифікований до 80 000."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.7.1 (2023 12 06)\n- È stato aggiunto il visualizzatore di immagini.\n   * Il visualizzatore di immagini supporta solo fino a 800 MB.\n   * A causa dell'aggiunta di spettatori di immagini, le opzioni per ciascun visualizzatore sono state separate.\n- Ho deciso di visualizzare solo un massimo di 5 righe orizzontali nella mia libreria.\n- Il termine [pagina] è stato cambiato in [punto].\n- La logica di recupero di backup dell'immagine di copertina è stata modificata.\n- L'animazione di caricamento degli annunci è stata modificata.\n- Diversi bug sono stati fissati."
+    "devnote": "7.7.2 (2023 dic 12)\n\n- Le spiegazioni relative al punto sono state modificate nel manuale dell'utente.txt.\n- La visualizzazione del numero di volume nella cronologia è stata modificata per controllare solo i file di testo.\n- Funzione zoom di zoom di immagine aggiunta.\n- Risolto un bug in cui alcuni file compressi non potevano essere decompressi.\n- Il punto massimo è stato modificato a 80.000."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.7.1 (2023 12 06)\n- Penampil gambar telah ditambahkan.\n   * Penampil gambar hanya mendukung hingga 800MB.\n   * Karena penambahan pemirsa gambar, opsi untuk setiap penampil telah dipisahkan.\n- Saya telah memutuskan untuk hanya menampilkan maksimum 5 baris horizontal di perpustakaan saya.\n- Istilah [halaman] telah diubah menjadi [point].\n- Logika pemulihan cadangan gambar sampul telah dimodifikasi.\n- Animasi pemuatan iklan telah dimodifikasi.\n- Beberapa bug telah diperbaiki."
+    "devnote": "7.7.2 (2023 Des 12)\n\n- Penjelasan terkait poin telah dimodifikasi dalam manual pengguna.txt.\n- Tampilan nomor volume dalam riwayat telah dimodifikasi untuk memeriksa hanya file teks.\n- Fungsi gambar zoom in/out ditambahkan.\n- Memperbaiki bug di mana beberapa file terkompresi tidak dapat didekompresi.\n- Titik maksimum telah dimodifikasi menjadi 80.000."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.7.1（2023 12 06）\n - 画像ビューアが追加されました。\n   *画像ビューアは最大800MBのみをサポートしています。\n   *画像視聴者の追加により、各視聴者のオプションは分離されています。\n - ライブラリに最大5つの水平列のみを表示することにしました。\n -  [ページ]という用語は[ポイント]に変更されました。\n - カバー画像バックアップリカバリロジックが変更されました。\n - 広告ロードアニメーションが変更されました。\n - いくつかのバグが修正されました。"
+    "devnote": "7.7.2（2023年12月12日）\n\n - ポイント関連の説明は、ユーザーManual.txtで変更されています。\n - 歴史のボリューム番号表示は、テキストファイルのみを確認するように変更されています。\n - 画像ズームイン/アウト機能が追加されました。\n - いくつかの圧縮ファイルを解凍できないバグを修正しました。\n - ポイントの最大値は80,000に変更されました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.7.1 (2023 12 06)\n- დაემატა გამოსახულების მაყურებელს.\n   * გამოსახულების მაყურებელს მხოლოდ 800 მბ -მდე უჭერს მხარს.\n   * გამოსახულების მაყურებლის დამატების გამო, თითოეული მაყურებლისთვის ვარიანტები გამოეყო.\n- მე გადავწყვიტე ჩემს ბიბლიოთეკაში მაქსიმუმ 5 ჰორიზონტალური მწკრივის ჩვენება.\n- ტერმინი [გვერდი] შეიცვალა [წერტილამდე].\n- შეიცვალა საფარის გამოსახულების სარეზერვო აღდგენის ლოგიკა.\n- შეცვლილია სარეკლამო დატვირთვის ანიმაცია.\n- რამდენიმე შეცდომა დაფიქსირდა."
+    "devnote": "7.7.2 (2023 დეკემბერი 12)\n\n- წერტილებთან დაკავშირებული განმარტებები შეიცვალა მომხმარებლის სახელმძღვანელოში. Txt.\n- ისტორიაში მოცულობის ნომრის ჩვენება შეიცვალა მხოლოდ ტექსტური ფაილების შესამოწმებლად.\n- გამოსახულების მასშტაბირება/Out ფუნქცია დამატებულია.\n- დააფიქსირა შეცდომა, სადაც რამდენიმე შეკუმშული ფაილის დაშლა შეუძლებელია.\n- წერტილის მაქსიმუმი შეიცვალა 80,000 -მდე."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.7.1 (2023 12 06)\n- Isibukeli se-Image singeziwe.\n   * Isibukeli sesithombe sisekela kuphela kuze kufike ku-800MB.\n   * Ngenxa yokungezwa kwababukeli bezithombe, izinketho zesibukeli ngasinye zihlukaniswe.\n- Nginqume ukukhombisa kuphela imigqa emi-5 kuphela evundlile emtapweni wezincwadi wami.\n- Igama elithi [ikhasi] lishintshiwe laba [iphuzu].\n- I-Cover Image Reflock Remotion Logic iguquliwe.\n- Isikhangiso esilayishwa izithombe siguquliwe.\n- Izimbungulu eziningana zilungisiwe."
+    "devnote": "7.7.2 (2023 Dec 12)\n\n- Izincazelo ezihlobene nephuzu ziguquliwe kwi-User Manual.txt.\n- Inombolo yenombolo yenombolo emlandweni ilungisiwe ukubheka kuphela amafayela wombhalo.\n- Ukusondeza Image In / Out action kungezwe.\n- Silungiswe isiphazamisi lapho amanye amafayela acindezelwe angavinjelwanga.\n- Iphuzu eliphakeme liguqulwe laya ku-80,000."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.7.1（2023 12 06）\n - 添加了图像查看器。\n   *图像查看器最多支持800MB。\n   *由于添加了图像查看器，每个查看器的选项已分开。\n - 我决定在库中最多显示5个水平行。\n -  [page]一词已更改为[point]。\n - 封面图像备份恢复逻辑已修改。\n - 广告加载动画已修改。\n - 已解决了几个错误。"
+    "devnote": "7.7.2（2023年12月12日）\n\n - 与点相关的说明已在用户手册中修改。\n - 历史记录中显示的卷号显示仅检查文本文件。\n - 添加图像缩放函数。\n - 修复了无法解压缩一些压缩文件的错误。\n - 最高点已修改为80,000。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.7.1（2023 12 06）\n - 添加了圖像查看器。\n   *圖像查看器最多支持800MB。\n   *由於添加了圖像查看器，每個查看器的選項已分開。\n - 我決定在庫中最多顯示5個水平行。\n -  [page]一詞已更改為[point]。\n - 封面圖像備份恢復邏輯已修改。\n - 廣告加載動畫已修改。\n - 已解決了幾個錯誤。"
+    "devnote": "7.7.2（2023年12月12日）\n\n - 與點相關的說明已在用戶手冊中修改。\n - 歷史記錄中顯示的捲號顯示僅檢查文本文件。\n - 添加圖像縮放函數。\n - 修復了無法解壓縮一些壓縮文件的錯誤。\n - 最高點已修改為80,000。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.7.1（2023 12 06）\n - 添加了圖像查看器。\n   *圖像查看器最多支持800MB。\n   *由於添加了圖像查看器，每個查看器的選項已分開。\n - 我決定在庫中最多顯示5個水平行。\n -  [page]一詞已更改為[point]。\n - 封面圖像備份恢復邏輯已修改。\n - 廣告加載動畫已修改。\n - 已解決了幾個錯誤。"
+    "devnote": "7.7.2（2023年12月12日）\n\n - 與點相關的說明已在用戶手冊中修改。\n - 歷史記錄中顯示的捲號顯示僅檢查文本文件。\n - 添加圖像縮放函數。\n - 修復了無法解壓縮一些壓縮文件的錯誤。\n - 最高點已修改為80,000。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.7.1 (2023 12 06)\n- Byl přidán prohlížeč obrázků.\n   * Prohlížeč obrázků podporuje pouze 800 MB.\n   * Kvůli přidání diváků obrázků byly možnosti pro každého diváka odděleny.\n- Rozhodl jsem se v mé knihovně zobrazit pouze maximálně 5 horizontálních řádků.\n- Termín [stránka] byl změněn na [Point].\n- Logika obnovy zálohování obrazu obálky byla upravena.\n- Animace načítání reklamy byla upravena.\n- Několik chyb bylo opraveno."
+    "devnote": "7.7.2 (2023 12. prosince)\n\n- V uživatelské příručce byla upravena vysvětlení související s bodem.txt.\n- Zobrazení čísla svazku v historii byl upraven tak, aby zkontroloval pouze textové soubory.\n- Přidána funkce zoomu zvětšení/ven.\n- Opravena chyba, kde nelze některé komprimované soubory dekomprimovány.\n- Maximum bodu bylo upraveno na 80 000."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.7.1 (2023 12 06)\n- Кескін қарау құралы қосылды.\n   * Кескін қарау құралы тек 800 МБ дейін қолдайды.\n   * Кескін қараушыларының қосылуына байланысты әр көрермен үшін опциялар бөлінді.\n- Мен кітапханамда ең көп дегенде 5 көлденең жолды ғана көрсетуді шештім.\n- Термині [Бет] термині [нүкте] күйіне өзгертілді.\n- Қақпақты кескінді қалпына келтіру логикасы өзгертілген.\n- Жарнамалық анимация өзгертілді.\n- Бірнеше қателер бекітілген."
+    "devnote": "7.7.2 (2023 желтоқсан)\n\n- Пойналдыққа қатысты түсіндірмелер Пайдаланушы нұсқаулығында өзгертілген .txt.\n- Тарихтағы дыбыс санының дисплейі тек мәтіндік файлдарды тексеру үшін өзгертілген.\n- Image Zoom use / OUT функциясы қосылды.\n- Кейбір сығылған файлдарды декациядан алмайтын қатені түзетіңіз.\n- Максималды нүкте 80 000-ға өзгертілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.7.1 (2023 12 06)\n- S'ha afegit el visualitzador d'imatges.\n   * El visualitzador d'imatges només admet fins a 800 MB.\n   * A causa de l'addició dels espectadors d'imatges, s'han separat les opcions per a cada espectador.\n- He decidit mostrar només un màxim de 5 files horitzontals a la meva biblioteca.\n- El terme [pàgina] s'ha canviat a [punt].\n- S'ha modificat la lògica de recuperació de còpia de seguretat de la imatge de portada.\n- L’animació de càrrega d’anuncis s’ha modificat.\n- S'han solucionat diversos errors."
+    "devnote": "7.7.2 (2023 12 de desembre)\n\n- Les explicacions relacionades amb els punts s'han modificat al manual d'usuari.txt.\n- La visualització del número de volum de la història s'ha modificat per comprovar només fitxers de text.\n- S'ha afegit la funció de zoom d'imatge/sortida.\n- S'ha corregit un error on alguns fitxers comprimits no es podrien descomprimir.\n- El punt màxim ha estat modificat fins a 80.000."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.7.1 (2023 12 06)\n- ಇಮೇಜ್ ವೀಕ್ಷಕವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n   * ಇಮೇಜ್ ವೀಕ್ಷಕವು 800MB ವರೆಗೆ ಮಾತ್ರ ಬೆಂಬಲಿಸುತ್ತದೆ.\n   * ಇಮೇಜ್ ವೀಕ್ಷಕರ ಸೇರ್ಪಡೆಯಿಂದಾಗಿ, ಪ್ರತಿ ವೀಕ್ಷಕರಿಗೆ ಆಯ್ಕೆಗಳನ್ನು ಬೇರ್ಪಡಿಸಲಾಗಿದೆ.\n- ನನ್ನ ಲೈಬ್ರರಿಯಲ್ಲಿ ಗರಿಷ್ಠ 5 ಸಮತಲ ಸಾಲುಗಳನ್ನು ಮಾತ್ರ ಪ್ರದರ್ಶಿಸಲು ನಾನು ನಿರ್ಧರಿಸಿದ್ದೇನೆ.\n- [ಪುಟ] ಎಂಬ ಪದವನ್ನು [ಪಾಯಿಂಟ್] ಎಂದು ಬದಲಾಯಿಸಲಾಗಿದೆ.\n- ಕವರ್ ಇಮೇಜ್ ಬ್ಯಾಕಪ್ ರಿಕವರಿ ತರ್ಕವನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಜಾಹೀರಾತು ಲೋಡಿಂಗ್ ಅನಿಮೇಷನ್ ಅನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಹಲವಾರು ದೋಷಗಳನ್ನು ನಿವಾರಿಸಲಾಗಿದೆ."
+    "devnote": "7.7.2 (2023 ಡಿಸೆಂಬರ್ 12)\n\n- ಬಳಕೆದಾರರ manual.txt ನಲ್ಲಿ ಪಾಯಿಂಟ್-ಸಂಬಂಧಿತ ವಿವರಣೆಯನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಪಠ್ಯ ಫೈಲ್‌ಗಳನ್ನು ಮಾತ್ರ ಪರಿಶೀಲಿಸಲು ಇತಿಹಾಸದಲ್ಲಿ ಪರಿಮಾಣ ಸಂಖ್ಯೆ ಪ್ರದರ್ಶನವನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಇಮೇಜ್ ಜೂಮ್ ಇನ್/function ಟ್ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಕೆಲವು ಸಂಕುಚಿತ ಫೈಲ್‌ಗಳನ್ನು ಕುಗ್ಗಿಸಲಾಗದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ಪಾಯಿಂಟ್ ಗರಿಷ್ಠವನ್ನು 80,000 ಕ್ಕೆ ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.7.1 (2023. 12 06)\n- Dodan je prikaz slike.\n   * Viewer slika podržava samo do 800MB.\n   * Zbog dodavanja gledatelja slike, opcije za svakog gledatelja odvojene su.\n- Odlučio sam prikazati samo maksimalno 5 horizontalnih redaka u svojoj knjižnici.\n- Izraz [stranica] promijenjen je u [točku].\n- Modificirana je logika za povrat sigurnosnih kopija za naslovnicu.\n- Animacija učitavanja oglasa je izmijenjena.\n- Popravljeno je nekoliko grešaka."
+    "devnote": "7.7.2 (2023. prosinca 12.)\n\n- Objašnjenja povezana s točkama izmijenjena su u korisničkom priručniku.txt.\n- Prikaz broja glasnoće u povijesti izmijenjen je za provjeru samo tekstualnih datoteka.\n- Dodana funkcija Zumiranje/OUT UN/OUT.\n- Ispravljena je greška u kojoj se neke komprimirane datoteke nisu mogle dekomprimirati.\n- Maksimalna točka izmijenjena je na 80.000."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.7.1 (2023 12 06)\n- កម្មវិធីមើលរូបភាពត្រូវបានបន្ថែម។\n   * កម្មវិធីមើលរូបភាពគាំទ្រតែ 800 មេកាបៃប៉ុណ្ណោះ។\n   * ដោយសារតែការបន្ថែមរបស់អ្នកមើលរូបភាពជម្រើសសម្រាប់អ្នកមើលម្នាក់ៗត្រូវបានបំបែកចេញពីគ្នា។\n- ខ្ញុំបានសំរេចចិត្តបង្ហាញតែជួរដេកផ្តេកអតិបរមាចំនួន 5 នៅក្នុងបណ្ណាល័យរបស់ខ្ញុំ។\n- ពាក្យ [ទំព័រ] ត្រូវបានប្តូរទៅ [ចំណុច] ។\n- តក្កវិជ្ជាការសង្គ្រោះការបម្រុងទុករូបភាពគ្របដណ្តប់លើរូបភាពត្រូវបានកែប្រែ។\n- ការផ្សាយពាណិជ្ជកម្មការផ្សាយពាណិជ្ជកម្មត្រូវបានកែប្រែ។\n- កំហុសជាច្រើនត្រូវបានជួសជុល។"
+    "devnote": "7.7.2 (2023 ធ្នូ 12)\n\n- ការពន្យល់ទាក់ទងនឹងចំណុចត្រូវបានកែប្រែនៅក្នុងសៀវភៅណែនាំអ្នកប្រើប្រាស់ .txt ។\n- ការបង្ហាញលេខសំឡេងកម្រិតសំឡេងនៅក្នុងប្រវត្តិសាស្រ្តត្រូវបានកែប្រែដើម្បីពិនិត្យមើលតែឯកសារអត្ថបទប៉ុណ្ណោះ។\nមុខងារពង្រីករូបភាពក្នុង / ចេញបានបន្ថែមទៀត។\n- ជួសជុលកំហុសដែលឯកសារបង្រួមមួយចំនួនមិនអាចត្រូវបានបង្រួម។\n- ចំណុចអតិបរមាត្រូវបានកែប្រែទៅ 8 ម៉ឺន។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.7.1 (2023 12 06)\n- Сүрөт Көрүүчүсү кошулду.\n   * Сүрөт Көрүүчү 800MBга чейин гана колдойт.\n   * Сүрөттү көрүүчүлөрдүн кошумчуусун кошпогондо, ар бир көрүүчү үчүн параметрлер бөлүнүп чыгышты.\n- Менин китепканамда эң көп дегенде 5 горизонталдык катарды чагылдырууну чечтим.\n- терминче [бет] өзгөрүлдү.\n- Мукабанын сүрөтүн калыбына келтирүү логикасы өзгөртүлдү.\n- Жүктөө анимациясы өзгөртүлдү.\n- бир нече мүчүлүштүктөрдү оңдолду."
+    "devnote": "7.7.2 (2023 дек 12)\n\n- Пайгамбар менен байланышкан түшүндүрмөлөр колдонуучунун колдонмосунда өзгөртүлдү.\n- Тарыхтагы көлөмдөгү дисплей тилиндеги текст файлдарын гана текшерүү үчүн өзгөртүлдү.\n- Сүрөттүн сүрөтү / сүрөттү кичирейтип кошту.\n- Айрым кысылган файлдар кыйроого алынбай турган мүчүлүштүктү белгиледи.\n- Максималдуу чекит 80,000ге чейин өзгөртүлгөн."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.7.1 (2023 12 06)\n- பட பார்வையாளர் சேர்க்கப்பட்டுள்ளது.\n   * பட பார்வையாளர் 800MB வரை மட்டுமே ஆதரிக்கிறார்.\n   * பட பார்வையாளர்களை சேர்ப்பதன் காரணமாக, ஒவ்வொரு பார்வையாளருக்கும் விருப்பங்கள் பிரிக்கப்பட்டுள்ளன.\n- எனது நூலகத்தில் அதிகபட்சம் 5 கிடைமட்ட வரிசைகளை மட்டுமே காட்ட முடிவு செய்துள்ளேன்.\n- [பக்கம்] என்ற சொல் [புள்ளி] என மாற்றப்பட்டுள்ளது.\n- கவர் பட காப்புப்பிரதி மீட்பு தர்க்கம் மாற்றியமைக்கப்பட்டுள்ளது.\n- விளம்பர ஏற்றுதல் அனிமேஷன் மாற்றியமைக்கப்பட்டுள்ளது.\n- பல பிழைகள் சரி செய்யப்பட்டுள்ளன."
+    "devnote": "7.7.2 (2023 டிசம்பர் 12)\n\n- பயனர் கையேட்டில் புள்ளி தொடர்பான விளக்கங்கள் மாற்றியமைக்கப்பட்டுள்ளன. TXT.\n- உரை கோப்புகளை மட்டுமே சரிபார்க்க வரலாற்றில் தொகுதி எண் காட்சி மாற்றப்பட்டுள்ளது.\n- பட பெரிதாக்குதல்/வெளியே செயல்பாடு சேர்க்கப்பட்டது.\n- சில சுருக்கப்பட்ட கோப்புகளை குறைக்க முடியாத ஒரு பிழை சரி செய்யப்பட்டது.\n- புள்ளி அதிகபட்சம் 80,000 ஆக மாற்றப்பட்டுள்ளது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.7.1 (2023 12 06)\n- มีการเพิ่มตัวชมภาพแล้ว\n   * ผู้ดูรูปภาพรองรับได้สูงสุด 800MB\n   * เนื่องจากการเพิ่มผู้ชมรูปภาพตัวเลือกสำหรับผู้ชมแต่ละคนได้ถูกแยกออก\n- ฉันตัดสินใจที่จะแสดงเพียง 5 แถวแนวนอนในห้องสมุดของฉัน\n- คำว่า [หน้า] ถูกเปลี่ยนเป็น [จุด]\n- ลอจิกการกู้คืนภาพปกภาพได้รับการแก้ไขแล้ว\n- แอนิเมชั่นโหลดโฆษณาได้รับการแก้ไขแล้ว\n- ข้อบกพร่องหลายอย่างได้รับการแก้ไขแล้ว"
+    "devnote": "7.7.2 (2023 ธ.ค. 12)\n\n- คำอธิบายที่เกี่ยวข้องกับจุดได้รับการแก้ไขในคู่มือผู้ใช้ txt\n- การแสดงหมายเลขโวลุ่มในประวัติได้รับการแก้ไขเพื่อตรวจสอบเฉพาะไฟล์ข้อความ\n- เพิ่มฟังก์ชั่นการซูมเข้า/ออก\n- แก้ไขข้อผิดพลาดที่บางไฟล์บีบอัดไม่สามารถคลายการบีบอัดได้\n- จุดสูงสุดของจุดได้รับการแก้ไขเป็น 80,000"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.7.1 (2023 12 06)\n- Görüntü görüntüleyici eklendi.\n   * Görüntü görüntüleyici yalnızca 800MB'a kadar destekler.\n   * Görüntü izleyicilerin eklenmesi nedeniyle, her izleyici için seçenekler ayrılmıştır.\n- Kütüphanemde en fazla 5 yatay satır sergilemeye karar verdim.\n- [Page] terimi [nokta] olarak değiştirildi.\n- Kapak görüntüsü yedekleme kurtarma mantığı değiştirildi.\n- Reklam yükleme animasyonu değiştirildi.\n- Birkaç hata düzeltildi."
+    "devnote": "7.7.2 (2023 Aralık 12)\n\n- Nokta ile ilgili açıklamalar kullanıcı kılavuzu.txt'de değiştirilmiştir.\n- Geçmişteki ses numarası ekranı yalnızca metin dosyalarını kontrol etmek için değiştirildi.\n- Görüntü yakınlaştırma/çıkış işlevi eklendi.\n- Bazı sıkıştırılmış dosyaların dekomprese edilemediği bir hata düzeltildi.\n- Maksimum nokta 80.000'e değiştirildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.7.1 (2023 12 06)\n- ఇమేజ్ వ్యూయర్ జోడించబడింది.\n   * ఇమేజ్ వ్యూయర్ 800MB వరకు మాత్రమే మద్దతు ఇస్తాడు.\n   * ఇమేజ్ వీక్షకుల చేరిక కారణంగా, ప్రతి వీక్షకుడికి ఎంపికలు వేరు చేయబడ్డాయి.\n- నా లైబ్రరీలో గరిష్టంగా 5 క్షితిజ సమాంతర వరుసలను మాత్రమే ప్రదర్శించాలని నిర్ణయించుకున్నాను.\n- [పేజీ] అనే పదం [పాయింట్] గా మార్చబడింది.\n- కవర్ ఇమేజ్ బ్యాకప్ రికవరీ లాజిక్ సవరించబడింది.\n- ప్రకటన లోడింగ్ యానిమేషన్ సవరించబడింది.\n- అనేక దోషాలు పరిష్కరించబడ్డాయి."
+    "devnote": "7.7.2 (2023 డిసెంబర్ 12)\n\n- వినియోగదారు మాన్యువల్.టిఎక్స్‌కి పాయింట్-సంబంధిత వివరణలు సవరించబడ్డాయి.\n- వచన ఫైళ్ళను మాత్రమే తనిఖీ చేయడానికి చరిత్రలో వాల్యూమ్ సంఖ్య ప్రదర్శన సవరించబడింది.\n- ఇమేజ్ జూమ్ ఇన్/అవుట్ ఫంక్షన్ జోడించబడింది.\n- కొన్ని సంపీడన ఫైళ్ళను విడదీయలేని బగ్ పరిష్కరించబడింది.\n- పాయింట్ గరిష్టంగా 80,000 కు సవరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.7.1 (2023 12 06)\n- ਚਿੱਤਰ ਦਰਸ਼ਕ ਜੋੜਿਆ ਗਿਆ ਹੈ.\n   * ਚਿੱਤਰ ਦਰਸ਼ਕ ਸਿਰਫ 800MB ਤੱਕ ਦਾ ਸਮਰਥਨ ਕਰਦਾ ਹੈ.\n   * ਚਿੱਤਰ ਦਰਸ਼ਕਾਂ ਦੇ ਜੋੜ ਦੇ ਕਾਰਨ, ਹਰੇਕ ਦਰਸ਼ਕ ਲਈ ਵਿਕਲਪ ਵੱਖ ਹੋ ਗਏ ਹਨ.\n- ਮੈਂ ਆਪਣੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿਚ ਵੱਧ ਤੋਂ ਵੱਧ 5 ਹਰੀਜ਼ਟਲ ਕਤਾਰਾਂ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਦਾ ਫੈਸਲਾ ਕੀਤਾ ਹੈ.\n- ਸ਼ਬਦ [ਸਫ਼ਾ] ਨੂੰ [ਬਿੰਦੂ] ਵਿੱਚ ਬਦਲਿਆ ਗਿਆ ਹੈ.\n- ਕਵਰ ਇਮੇਜ ਬੈਕਅਪ ਰਿਕਵਰੀ ਤਰਕ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ.\n- ਐਡ ਲੋਡਿੰਗ ਐਨੀਮੇਸ਼ਨ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ.\n- ਕਈ ਬੱਗ ਫਿਕਸ ਕੀਤੇ ਗਏ ਹਨ."
+    "devnote": "7.7.2 (2023 ਦਸੰਬਰ 12)\n\n- ਚਿੱਤਰ ਨਾਲ ਸਬੰਧਤ ਵਿਆਖਿਆਵਾਂ ਉਪਭੋਗੀ ualidadual.txt ਵਿੱਚ ਸੰਸ਼ੋਧਿਤ ਕੀਤੀ ਗਈ ਹੈ.\n- ਇਤਿਹਾਸ ਵਿੱਚ ਵਾਲੀਅਮ ਨੰਬਰ ਪ੍ਰਦਰਸ਼ਤ ਸਿਰਫ ਟੈਕਸਟ ਫਾਈਲਾਂ ਦੀ ਜਾਂਚ ਲਈ ਸੋਧਿਆ ਗਿਆ ਹੈ.\n- ਚਿੱਤਰ ਜ਼ੂਮ ਇਨ / ਆਉਟ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ.\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਜਿੱਥੇ ਕੁਝ ਸੰਪਤੀਆਂ ਫਾਈਲਾਂ ਨੂੰ ਕੰਪਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ.\n- ਪੁਆਇੰਟ ਵੱਧ ਤੋਂ ਵੱਧ 80,000 ਤੱਕ ਸੋਧਿਆ ਗਿਆ ਹੈ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.7.1 (2023 12 06)\n- بیننده تصویر اضافه شده است.\n   * تصویر بیننده فقط تا 800 مگابایت پشتیبانی می کند.\n   * با توجه به افزودن بینندگان تصویر ، گزینه هایی برای هر بیننده از هم جدا شده است.\n- من تصمیم گرفته ام فقط حداکثر 5 ردیف افقی را در کتابخانه خود به نمایش بگذارم.\n- اصطلاح [صفحه] به [نقطه] تغییر یافته است.\n- منطق بازیابی نسخه پشتیبان از تصویر جلد اصلاح شده است.\n- انیمیشن بارگذاری آگهی اصلاح شده است.\n- چندین اشکال برطرف شده است."
+    "devnote": "7.7.2 (2023 دسامبر 12)\n\n- توضیحات مربوط به نقطه در کتابچه راهنمای کاربر اصلاح شده است.\n- نمایش شماره حجم در تاریخ اصلاح شده است تا فقط پرونده های متنی را بررسی کنید.\n- تابع بزرگنمایی تصویر در/خارج اضافه شده است.\n- رفع اشکال در جایی که برخی از پرونده های فشرده نشده قابل جدا شدن نیستند.\n- حداکثر نقطه به 80،000 اصلاح شده است."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.7.1 (2023 12 06)\n- O visualizador de imagens foi adicionado.\n   * O Image Viewer suporta apenas até 800 MB.\n   * Devido à adição de visualizadores de imagem, as opções para cada espectador foram separadas.\n- Decidi exibir apenas 5 linhas horizontais na minha biblioteca.\n- O termo [página] foi alterado para [Point].\n- A lógica de recuperação de backup da imagem da capa foi modificada.\n- A animação de carregamento de anúncios foi modificada.\n- Vários bugs foram corrigidos."
+    "devnote": "7.7.2 (2023 12 de dezembro)\n\n- Explicações relacionadas ao ponto foram modificadas no manual do usuário.txt.\n- A exibição do número de volume no histórico foi modificada para verificar apenas os arquivos de texto.\n- Função de zoom de imagem/saída de imagem adicionada.\n- Corrigido um bug em que alguns arquivos compactados não puderam ser descomprimidos.\n- O máximo de ponto foi modificado para 80.000."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.7.1 (2023 12 06)\n- Dodano przeglądarkę obrazu.\n   * Przeglądarka obrazów obsługuje tylko do 800 MB.\n   * Ze względu na dodanie przeglądarzy obrazów opcje dla każdego przeglądarki zostały oddzielone.\n- Postanowiłem wyświetlić w bibliotece tylko maksymalnie 5 poziomych wierszy.\n- Termin [strona] został zmieniony na [punkt].\n- Logika odzyskiwania kopii zapasowej okładki została zmodyfikowana.\n- Animacja ładowania reklam została zmodyfikowana.\n- Kilka błędów zostało naprawionych."
+    "devnote": "7.7.2 (2023 grudnia 12)\n\n- Objaśnienia związane z punktem zostały zmodyfikowane w instrukcji obsługi .txt.\n- Wyświetlanie numeru woluminu w historii została zmodyfikowana, aby sprawdzić tylko pliki tekstowe.\n- Dodano funkcję powiększania obrazu.\n- Naprawiono błąd, w którym nie można było zdekompresować niektórych kompresowanych plików.\n- Maksymalnie punkt został zmodyfikowany do 80 000."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.7.1 (2023 12 06)\n- La visionneuse d'images a été ajoutée.\n   * La visionneuse d'image ne prend en charge que jusqu'à 800 Mo.\n   * En raison de l'ajout de spectateurs d'images, les options pour chaque visionneuse ont été séparées.\n- J'ai décidé d'afficher seulement un maximum de 5 lignes horizontales dans ma bibliothèque.\n- Le terme [page] a été modifié en [point].\n- La logique de récupération de sauvegarde de l'image de couverture a été modifiée.\n- L'animation de chargement d'annonce a été modifiée.\n- Plusieurs bogues ont été corrigés."
+    "devnote": "7.7.2 (2023 décembre 12)\n\n- Des explications liées au point ont été modifiées dans le manuel d'utilisation.txt.\n- L'affichage du numéro de volume dans l'historique a été modifié pour vérifier uniquement les fichiers texte.\n- Fonction d'image Zoom In / Out ajouté.\n- Correction d'un bogue où certains fichiers compressés n'ont pas pu être décompressés.\n- Le maximum de points a été modifié à 80 000."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.7.1 (2023 12 06)\n- Kuvan katseluohjelma on lisätty.\n   * Kuvan katseluohjelma tukee vain 800 Mt.\n   * Kuvan katsojien lisäämisen vuoksi kunkin katsojan vaihtoehdot on erotettu.\n- Olen päättänyt näyttää vain 5 vaakasuoraa riviä kirjastossani.\n- Termi [sivu] on muutettu [piste].\n- Kansikuvan varmuuskopiointia palautuslogiikkaa on muokattu.\n- AD -latausanimaatio on muokattu.\n- Useita virheitä on korjattu."
+    "devnote": "7.7.2 (2023 joulukuuta 12)\n\n- Pisteeseen liittyviä selityksiä on muokattu käyttöoppaassa.txt.\n- Historiassa olevaa äänenvoimakkuuden näyttöä on muokattu vain tekstitiedostojen tarkistamiseksi.\n- Kuva zoomasi sisään/out -toiminto.\n- Korjattu virhe, jossa joitain pakattuja tiedostoja ei voitu purkaa.\n- Piste -maksimiarvo on muokattu 80 000: een."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.7.1 (2023 12 06)\n- Ang viewer ng imahe ay naidagdag.\n   * Sinusuportahan lamang ng viewer ng imahe hanggang sa 800MB.\n   * Dahil sa pagdaragdag ng mga manonood ng imahe, ang mga pagpipilian para sa bawat manonood ay pinaghiwalay.\n- Nagpasya akong magpakita lamang ng isang maximum na 5 pahalang na mga hilera sa aking silid -aklatan.\n- Ang salitang [Pahina] ay nabago sa [point].\n- Ang lohika ng pag -backup ng imahe ng takip ay nabago.\n- Binago ang anim na pag -load ng ad.\n- Maraming mga bug ang naayos."
+    "devnote": "7.7.2 (2023 Dis 12)\n\n- Ang mga paliwanag na nauugnay sa point ay nabago sa manu-manong gumagamit.txt.\n- Ang display ng dami ng dami sa kasaysayan ay nabago upang suriin lamang ang mga file ng teksto.\n- Idinagdag ang Image Zoom In/Out Function.\n- Nakapirming isang bug kung saan ang ilang mga naka -compress na file ay hindi maaaring ma -decompress.\n- Ang maximum na point ay nabago sa 80,000."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.7.1 (2023 12 06)\n- A képmegjelenítőt hozzáadták.\n   * A képmegjelenítő csak 800 MB -ig támogat.\n   * A képvizsgálók hozzáadásának köszönhetően az egyes nézők számára lehetőségeket választottak el.\n- Úgy döntöttem, hogy a könyvtáramban csak legfeljebb 5 vízszintes sor jelenik meg.\n- Az [oldal] kifejezést [pontra] változtatták.\n- A borítókép biztonsági mentési helyreállítási logikája módosult.\n- A hirdetési betöltési animáció módosult.\n- Számos hibát kijavítottak."
+    "devnote": "7.7.2 (2023 december 12.)\n\n- A ponthoz kapcsolódó magyarázatokat a felhasználói kézikönyvben módosították.\n- Az előzmények hangerőszámának megjelenítését csak a szöveges fájlok ellenőrzésére módosítottuk.\n- A kép nagyítása be- és ki- és funkció hozzáadva.\n- Javítva egy hibát, ahol néhány tömörített fájlt nem lehetett dekompresszálni.\n- A pont maximumát 80 000 -re módosították."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.7.1 (2023 12 06)\n- מציג תמונה נוסף.\n   * מציג התמונות תומך רק עד 800MB.\n   * בשל תוספת של צופי תמונות, האפשרויות עבור כל צופה הופרדו.\n- החלטתי להציג רק 5 שורות אופקיות בספריה שלי.\n- המונח [עמוד] שונה ל [נקודה].\n- היגיון לשחזור גיבוי תמונת העטיפה שונה.\n- אנימציה לטעינת מודעות שונתה.\n- מספר באגים תוקנו."
+    "devnote": "7.7.2 (2023 12 בדצמבר)\n\n- הסברים הקשורים לנקודה שונו במדריך המשתמש.\n- מספר עוצמת הקול בהיסטוריה שונתה כדי לבדוק רק קבצי טקסט.\n- פונקציית זום/יציאה מתווכחת.\n- תוקן באג בו לא ניתן היה לפרק כמה קבצים דחוסים.\n- מקסימום הנקודה שונה ל 80,000."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.7.1 (2023 12 06)\n- छवि व्यूअर को जोड़ा गया है।\n   * छवि व्यूअर केवल 800MB तक का समर्थन करता है।\n   * छवि दर्शकों को जोड़ने के कारण, प्रत्येक दर्शक के लिए विकल्प अलग हो गए हैं।\n- मैंने अपनी लाइब्रेरी में केवल 5 क्षैतिज पंक्तियों को प्रदर्शित करने का फैसला किया है।\n- शब्द [पृष्ठ] को बदल दिया गया है [बिंदु]।\n- कवर इमेज बैकअप रिकवरी लॉजिक को संशोधित किया गया है।\n- विज्ञापन लोडिंग एनीमेशन को संशोधित किया गया है।\n- कई कीड़े तय किए गए हैं।"
+    "devnote": "7.7.2 (2023 दिसंबर 12)\n\n- पॉइंट-संबंधित स्पष्टीकरण को उपयोगकर्ता मैनुअल में संशोधित किया गया है।\n- इतिहास में वॉल्यूम नंबर डिस्प्ले को केवल पाठ फ़ाइलों की जांच करने के लिए संशोधित किया गया है।\n- छवि ज़ूम इन/आउट फ़ंक्शन जोड़ा गया।\n- एक बग फिक्स्ड जहां कुछ संपीड़ित फ़ाइलों को विघटित नहीं किया जा सकता है।\n- बिंदु अधिकतम को 80,000 में संशोधित किया गया है।"
   }
 }
