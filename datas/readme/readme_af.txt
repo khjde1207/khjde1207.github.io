@@ -1,152 +1,152 @@
-Hoe om dit te gebruik (moet lees):
+Hoe om te gebruik (moet lees):
 
-Hierdie toepassing het baie funksies, so ek beveel aan dat u dit een vir een lees.
+Hierdie app bevat baie funksies, so ek beveel aan dat u dit deurlees.
 
 1. Hoe om lêers te sien:
-Klik op Voeg lêer in my dokument om TXT by te voeg.
-Raak die TXT -lêer en druk die Open -knoppie onderaan om die lêer te sien.
+Klik op Voeg lêer in my biblioteek om TXT by te voeg.
+U kan die lêer sien deur aan die TXT -lêer te raak en op die Open -knoppie onderaan te druk.
 
 
-2. Hoe om kykersadvertensies / onderste navigasieknoppies te verberg:
-Tik op die middel van die skerm.
-As u na die volskerm oorskakel, verdwyn die advertensies en knoppies.
+2. Hoe om kykersadvertensies/onderste navigasieknoppies te verberg:
+Tik die middel van die skerm dubbel.
+As dit na die volskerm oorskakel, verdwyn advertensies en knoppies.
 
 
-3. Om die knoppie MITT -funksie te verander:
-U kan dit verander onder instellings - Touch Area -instellings.
-U kan 'n aantal funksies instel, insluitend volskerm, bladsybeweging, helderheidsaanpassing en volumebeheer.
-Bluetooth -afstandbeheer word ook ondersteun, sodat u kan gaan lê en dit gemaklik kan kyk.
+3. Hoe om die knoppie en funksie -area te verander:
+U kan dit verander in [Instellings - aanraakarea -instellings].
+U kan verskillende funksies instel, soos volskerm, bladsybeweging, helderheidskontrole en volume -beheer.
+'N Bluetooth -afstandbeheer word ook ondersteun, sodat u dit op 'n staander kan plaas en dit gemaklik kan sien terwyl u gaan lê.
 
 
-4. Om lettertipe of lettergrootte te verander:
-U kan die lettertipe of lettergrootte verander onder instellings - instellings - lettertipe -instellings.
-U kan die lettertipe gebruik deur op die aflaai -knoppie te druk om tientalle gratis lettertipes te ontvang.
+4. Hoe om lettertipes of teksgrootte te verander:
+U kan die lettertipe of lettergrootte in [Instellings - Instellings - lettertipe -instellings] verander.
+U kan dosyne gratis lettertipes gebruik deur op die aflaai -knoppie te klik.
 
 
-5. Hoe om beeldteksomskakeling te gebruik:
-U kan teks uit 'n saamgeperste beeld onttrek. Dit word die OCR -funksie genoem.
-My joernaal - klik op Voeg lêer by en voeg 'n zip -lêer by.
+5. Hoe om die beeld te gebruik om die omskakelingsfunksie te teks:
+U kan teks uit saamgeperste beelde onttrek. Dit word die OCR -funksie genoem.
+My biblioteek - klik op Voeg lêer by en voeg die zip -lêer by.
 U kan omskakel deur die zip -lêer te kies en dan die OCR -menu te kies.
-Die bladsy word tydens omskakeling verbruik.
-OCR werk met AI, so die spoed en akkuraatheid daarvan is redelik goed.
+Bladsye word tydens omskakeling verbruik.
+OCR word met AI gedoen, so die spoed en akkuraatheid daarvan is redelik goed.
 
 
-6. Epub, PDF -omskakelingsmetode:
+6. Hoe om Epub na PDF te omskep:
 Dit is dieselfde as die beeldomskakelingsmetode.
-Daar is 'n paar dinge om van bewus te wees.
-Epub of PDF kan "geïnkripteer" wees.
-Dit word hoofsaaklik gebruik om briewe te breek en dit slegs in sekere lettertipes sigbaar te maak.
-In hierdie geval kom dit uit soos 'n buitenaardse karakter, nie Koreaans nie, sodat u dit nie in TTS kan lees nie.
-As 'n manier om hierdie probleem op te los, kan die funksie van die onttrekking van beelde gebruik word, en dan kan die OCR gedraai word om te onttrek.
+Daar is 'n paar dinge om in gedagte te hou.
+In die geval van Epub of PDF, kan dit 'geïnkripteer' wees.
+Die algemeenste metode is om briewe slegs in spesifieke lettertipes te versier en sigbaar te maak.
+In hierdie geval kan dit nie met TTS gelees word nie, want dit lyk soos 'n uitheemse karakter eerder as Koreaans.
+Om hierdie probleem op te los, kan u die beeldekstraksiefunksie gebruik en dan OCR gebruik om dit te onttrek.
 
 
 7. Hoe om TTS op te stel:
-TTS -verwante instellings is gekonsentreer in instellings - TTS -instellings, TTS -filterinstellings.
-Die TTS -instellings bevat eenvoudige TTS -funksies, soos stem, spoed, volume, knoppie deursigtigheid, karakters wat sinne eindig, en die aantal sinne wat op 'n slag gelees word, asook toestelle wat die TTS -funksies aanvul.
-Die aantal sinne wat op 'n slag gelees word, is 'n funksie wat bygevoeg word om meerdere reëls met minimale vertraging te laat lees.
-Die TTS -filter is een van die kragtigste kenmerke van hierdie toepassing.
-[TTS -filterinstellings] stel u in staat om 'n aantal spesiale karakters, woorde of sinne in te stel wat u moet oorslaan.
-As u op die aflaai -knoppie druk, kan u dosyne filters wat ek vervaardig het, aflaai.
-U kan dit ook self byvoeg as u dit nodig het.
-[Outomatiese afsluitfunksie] kan die outomatiese afsluittyd instel deur die maanvormige ikoon aan die linkerkant van die stopknoppie aan te raak wanneer u TTS speel.
+TTS -verwante instellings is gekonsentreer in [Instellings - TTS -instellings] en [TTS -filterinstellings].
+TTS -instellings sluit nie net eenvoudige TTS -funksies in soos stem, spoed, volume, knoppie deursigtigheid, sin -eindkarakter en die aantal sinne tegelyk gelees nie, maar ook toestelle wat die TTS -funksie aanvul.
+Die aantal sinne wat gelyktydig gelees word, is 'n funksie wat bygevoeg word om u verskeie reëls tegelyk te lees en met minimale vertraging te luister.
+TTS -filter is een van die kragtigste kenmerke van hierdie app.
+In [TTS -filterinstellings] kan u verskillende spesiale karakters, woorde of sinne instel wat oorgeslaan moet word.
+As u op die aflaai -knoppie klik, kan u dosyne filters wat ek geskep het, aflaai.
+U kan ook u eie byvoeg indien nodig.
+[Outomatiese afsluitfunksie] stel u in staat om die outomatiese afsluittyd in te stel deur die maanvormige ikoon aan die linkerkant van die stopknoppie aan te raak as u TTS speel.
 
 
-8. Beskrywing van rugsteun- en herstelvermoëns:
-Opstelling - Rugsteun en herstel is 'n funksie wat verskeie toestelle in staat stel om die toepassing in dieselfde omgewing te gebruik.
-U kan aanmeld by die stasie vir die herstel van rugsteun.
-As u vanaf verskeie toestelle gesien word, soos rekenaars, telefone en pads, kan u liggingsteun gebruik om u besigtigingsplek te sinchroniseer.
-Kies die toestel wat u wil outosinkroniseer en skakel die Autosynchronization -funksie aan om outomaties na die laaste plek te beweeg wanneer u die toepassing uitvoer of huis toe gaan en terugkeer.
+8. Rugsteun- en herstelfunksiebeskrywing:
+[Instellings - rugsteun en herstel] is 'n funksie wat geskep word om u die app in dieselfde omgewing op verskeie toestelle te gebruik.
+U kan by die skyf aanmeld en rugsteun herstel.
+As u op verskeie toestelle soos 'n rekenaar, telefoon of PAD kyk, kan u die besigtigingsplek sinchroniseer met behulp van Location Backup.
+As u 'n toestel kies om outomaties die [Auto Sync] -funksie te sinchroniseer en aan te skakel, sal dit outomaties na die laaste gekykte plek beweeg wanneer u die app bestuur of vertrek en terugkeer na die tuisblad.
 
-9. Hoe om teksbasismodifikasie te gebruik:
-1. [Instellings - Instellings - Bulk Edit -knoppie]
-2. [Instellings - wysig teks gesamentlik]
-U kan groepmodifikasie op twee maniere gebruik.
-In die geval van nommer 1, word dit gebruik om na TTS te luister en om die sin na 'n ander karakter uit te wis of te verander as sommige sinne of woorde irriterend is.
-In die geval van nommer 2, kan u die teks met OCR onttrek en die tekslêer uit die dokument kies om 'n groepkorreksie uit te voer.
-U kan ook die aflaai -knoppie gebruik om gereeld herkenningsfoute te laai en te gebruik vir die korreksie van die teks.
-Grootmaatkorreksies - Downloads sal slegs die lys wys as die taalinstellings in Koreaans is.
-Dit is omdat ontwikkelaars nie ander tale praat nie.
-As u die verslagfunksie rapporteer, sal ek die taal van die land byvoeg.
+9. Hoe om bondelbewerkingsteks te gebruik:
+1. [Instellings - Instellings - wys die Batch Edit -knoppie]
+2. [Instellings - Bulk Edit Text]
+Grootmaatredigering kan op twee maniere gebruik word.
+In geval 1, as sommige sinne of woorde irriterend is terwyl u na TTS luister, word dit gebruik om die sinne uit te wis of na ander karakters te verander.
+In geval 2, kan u teks met behulp van OCR uittrek en dan tekslêers uit my biblioteek kies om groepbewerking uit te voer.
+U kan ook die aflaai -knoppie gebruik om teks te wysig om gereeld herkenningsfoute af te laai.
+[Batch Edit - Download] sal slegs die lys vertoon as die taalinstelling Koreaans is.
+Dit is omdat ontwikkelaars nie weet hoe om ander tale te praat nie.
+As u dit met behulp van die verslagfunksie rapporteer, sal ons die taal van u land byvoeg.
 
-10. As daar 'n skitterende sin is as u na TTS luister, werk dit af:
-As dit nie saak maak of die oorspronklike gewysig is nie, verander dit dan na die [Collective Modification] -funksie.
-Na die verandering sal die rugsteunlêer in my biblioteek bly, so as u dit per ongeluk verander, kan u dit weer herstel.
-As u die oorspronklike slegs van TTS wil verwyder sonder om daaraan te raak, gebruik die TTS -filter.
+10. Oplossing As daar 'n sin is wat irriterend is as u na TTS luister:
+As u nie omgee vir die oorspronklike wat gewysig word nie, gebruik die [Batch Edit] -funksie om dit te verander.
+Na veranderinge sal 'n rugsteunlêer in my biblioteek bly, dus as u per ongeluk veranderinge aanbring, kan u dit herstel.
+As u slegs TTS wil verwyder sonder om die oorspronklike aan te raak, gebruik die TTS -filter.
 
-11. Bladsyverwante beskrywing:
-As u spesiale funksies soos TTS -sininspeksie, bondelkorreksie, herorganisasie van lyne en vertaling gebruik, sal bladsye verbruik word, maar aangesien dit ongeveer 10 tot 50 is, sal u nie voel dat dit verbruik is nie.
-Die meeste bladsye sal waarskynlik gebruik word om te voel wanneer u teks uit OCR, EPUB en PDF onttrek.
-As ons teks onttrek, haal ons nie net eenmalig uit nie, maar organiseer ons ook sinne deur tientalle probleme te maak wat na onttrekking in patrone opduik.
-Dit is 'n deel wat regtig moeilik was om te implementeer, so probeer dit asseblief.
-
-
-12. Advertensiebeskrywing:
-Ek is beide 'n ontwikkelaar en 'n gebruiker.
-Ons het advertensies bygevoeg in die mate dat dit nie soveel moontlik gebruik maak nie.
-Advertensies sluit advertensies op bladsy-sekuriteit en advertensies vir advertensie-verwydering in.
-'N Bladsy kan tot 60.000 bladsye bevat.
-As u advertensies verwyder, kan u die bladsy gebruik om advertensies vir 'n sekere periode te verwyder. (Slaaptyd uitgesluit, is dit ongeveer 'n dag.)
-Vir diegene wat bladsye vooraf stapel, kan u die kyker-advertensie verwyder deur 2000 bladsye te verbruik.
-As u 8000 bladsye verbruik, is alle advertensies gedeaktiveer, behalwe vir die 30 sekondes-advertensies vir die verkryging van bladsy en die inheemse advertensies in die middel van die instellings.
-8000 bladsye is bygevoeg vir diegene wat gepla word deur kort advertensies wat tydens 'n groot hoeveelheid omskakeling verskyn.
+11. Puntverwante verduideliking:
+Punte word verbruik by die gebruik van spesiale funksies soos TTS -sinkontrole, groepbewerking, lynreëling en vertaling, maar aangesien dit ongeveer 10 tot 50 is, sal u nie die verbruik ervaar nie.
+Die meeste van die punte sal waarskynlik tot 'n mate gebruik word wat gevoel kan word wanneer u teks uit OCR, EPUB en PDF onttrek.
+Wanneer ons teks onttrek, haal ons nie net die teks nie, maar skep ons ook patrone uit tientalle probleme wat na onttrekking ontstaan ​​en voortgaan met die organisasie van die sin.
+Hierdie deel is met groot moeite geïmplementeer, so probeer dit ten minste een keer gebruik.
 
 
-13. Funksiebeskrywing vir oor (geskiedenis -interwerk):
-Dit ondersteun die ooraansigfunksie.
-Laat ons byvoorbeeld sê dat ons 'n dokument met die titel A (1 tot 50) het, en ons het 'n nuwe dokument genaamd A (1 tot 100).
-In hierdie geval is dit reeds nodig om die hoofposisie oor te slaan.
-As u 'n tekslêer in my biblioteek kies, verskyn die Ear View -menu.
-As u hierdie menu kies en dan 'n (1 tot 50) in die geskiedenis kies, sal dit outomaties die voorheen gesiende posisie oorslaan.
-As u later tyd het, verwyder 'n (1-50) uit die geskiedenis.
+12. Verwante verduideliking van advertensies:
+Ek is 'n ontwikkelaar en 'n gebruiker.
+Advertensies is bygevoeg in die mate dat dit nie soveel moontlik gebruik maak nie.
+Daar is twee soorte advertensies: punte wat advertensies en advertensies vir advertensieverwydering beveilig.
+U kan tot 60.000 punte hou.
+As u advertensies verwyder, kan u punte gebruik om advertensies vir 'n sekere periode te verwyder. (Slaaptyd uitgesluit, is dit ongeveer een dag.)
+Vir diegene wat vooraf punte versamel, kan u advertensies aan die kant van die kyker verwyder deur 2000 punte te verbruik.
+As u 8000 punte verbruik, sal alle advertensies gedeaktiveer word, behalwe vir die advertensie van 30 sekondes om punte en die inheemse advertensie in die middel van die instellings te beveilig.
+Die 8000 punte -advertensie is bygevoeg vir diegene wat dit irriterend vind om kort advertensies te sien wat opduik wanneer hulle groot omskakelingstake uitvoer.
+
+
+13. Beskrywing van voortsetting (geskiedenisskakeling) Funksie:
+Ondersteun deurlopende besigtigingsfunksie.
+Laat ons byvoorbeeld sê daar is 'n dokument met die titel A (1 ~ 50), maar u ontvang nou 'n nuwe dokument met die titel A (1 ~ 100).
+In hierdie geval moet u reeds die belangrikste ligging oorslaan.
+As u 'n tekslêer in my biblioteek kies, verskyn die voortsettingsmenu.
+Nadat u hierdie menu gekies het, as u 'n (1 ~ 50) in die geskiedenis kies, sal dit outomaties die plek wat voorheen besigtig is, oorslaan.
+As u later tyd het, verwyder 'n (1 ~ 50) uit die geskiedenis.
 In die geskiedenis word die totale aantal boeke wat gelees is, ook getel.
 As dieselfde dokument oorbly, kan onakkurate inligting vertoon word.
 
 
-14. Boekmerk/aantekening/hoofrol Beskrywing:
-Die app ondersteun aantekeninge en boekmerk/hoofrol.
-As u die boekmerkfunksie in boekmerkinstellings aanskakel, kan u dit byvoeg deur teks te druk en te hou.
-Met die Notes -funksie kan u 'n lêer kies en invoer as u dit minstens een keer oopgemaak het.
-As u 'n lêer minstens een keer oopmaak, verskyn 'n ster aan die bokant van die lêerkeuse.
-Opmerkings en horoskope kan gebruik word om evaluerings van die lêer self op te neem.
-Boekmerke kan gebruik word om belangrike inhoud op te neem.
+14. Boekmerk/Memo/Star -gradering Beskrywing:
+Die app ondersteun memo- en boekmerk/ster -graderingsfunksies.
+As u die boekmerkfunksie in die boekmerkinstellings aanskakel, kan u dit byvoeg deur op die teks te druk.
+Met die memo -funksie kan u 'n lêer kies en invoer as u die lêer minstens een keer oopgemaak en gesien het.
+As u selfs een keer 'n lêer oopmaak, is daar 'n ster aan die bokant wanneer u die lêer kies.
+Opmerkings en graderings kan gebruik word om evaluerings van die lêer self op te neem.
+Boekmerke kan gebruik word om belangrike inligting op te neem.
 
 
 
-14. TTS Sin Examiner Beskrywing:
-Toe ek na baie dokumente kyk, het ek 'n patroon van goedgeskrewe en nie-geskrewe tekste begin sien.
-Ek het 'n patroon gevind wat altyd in ongelukkige tekste uitkom.
-Ek het hierdie patroon georganiseer en dit geproduseer deur elke patroon te weeg.
-Ons het dit aanvanklik [Mine Search] genoem.
-Hierdie funksie is egter met 'n te subjektiewe oordeel gemaak, so ek het dit verander na TTS -vonniskontrole.
+14. TTS Sin Checker Beskrywing:
+Toe ek deur talle dokumente kyk, het ek patrone tussen goedgeskrewe en nie-so-goedgeskrewe artikels begin sien.
+Ek het 'n patroon ontdek wat altyd in teleurstellende artikels verskyn.
+Dit is 'n funksie wat ek geskep het deur hierdie patrone te organiseer en elke patroon gewig te gee.
+Aanvanklik is hierdie funksie [Minesweeper] genoem.
+Hierdie funksie is egter geskep op grond van 'n te subjektiewe oordeel, en dit is verander na TTS -vonniskontrole.
 Hierdie funksie ondersteun slegs Koreaans.
-Ek ken nie die taal van ander lande nie, so ek kan nie my patrone organiseer of dit goed of sleg is nie.
-As daar 'n patroon soos hierdie in ander lande is, stuur dit dan per e-pos aan ons.
-Sodra u verskeie nasionale tale kan ondersteun, sal ons die funksie na instellings skuif.
-Daar is nog een plek oor in die instellings.
+Omdat ek nie die tale van ander lande goed ken nie, kon ek nie agterkom of die skryfwerk goed of sleg was nie.
+As daar 'n patroon soos hierdie in ander lande is, rapporteer dit dan per e -pos.
+Sodra ons verskeie nasionale tale kan ondersteun, sal ons die funksie na instellings skuif.
+Daar is nog een ruimte oor in die instellings.
 
 
-15. Verduideliking van die funksie van die honde -administrasie:
-Dit is 'n metode wat gebruik kan word as die sin nie voltooi is nie, maar die inskrywing is af.
-Gewoonlik gebeur dit baie met dokumente wat met die OCR -omskakeling gewerk word.
-Hierdie funksie is nie net 'n kombinasie van Enter nie.
-Dit is 'n funksie wat geïmplementeer word deur dokumente met talle openingsfoute te ontleed en die patrone te organiseer.
-Ek het AI probeer voorstel om dit te organiseer, maar dit was nie maklik nie.
-Daar is deesdae baie navorsing oor natuurlike taalverwerking, so ek sal dit byvoeg as ek dit later met AI kan verwerk.
+15. Beskrywing van lynbreekfunksie:
+Line Break Stelling is 'n metode wat gebruik kan word wanneer die sin nie voltooi is nie, maar die Enter -sleutel word gedruk.
+Hierdie verskynsel kom gewoonlik voor in dokumente wat deur OCR -omskakeling verwerk word.
+Hierdie funksie kombineer nie net Enter nie.
+Hierdie funksie is geïmplementeer deur dokumente met talle NewLine -foute te ontleed en die patrone te organiseer.
+Ek het probeer om organisering met behulp van AI bekend te stel, maar dit was nie maklik nie.
+Deesdae word baie navorsing gedoen oor die verwerking van natuurlike taal, dus as ons dit in die toekoms met AI kan verwerk, sal ons dit probeer byvoeg.
 
 16. Beskrywing van vertaalfunksie:
-Plaaslike vertaal- / webblaaier -vertaalfunksionaliteit word ondersteun.
-Plaaslike vertaling is 'n funksie wat vertaal word in AI wat deur Google ontwikkel is. Eenvoudige woorde kan goed vertaal word, maar dit lyk asof daar baie mistranslasies in sinvertaling is.
-Webblaaiervertaling is 'n funksie wat sinne vertoon wat in 'n blaaier vertaal moet word.
-As u die vertaalfunksie in instellings aanskakel - vertaalinstellings en druk en hou die sin, sal die vertaalfunksie werk.
+Ondersteun plaaslike vertaal-/webblaaiervertaalfunksies.
+Plaaslike vertaling is 'n funksie wat vertaal word met behulp van AI wat deur Google ontwikkel is. Eenvoudige woorde word goed vertaal, maar dit lyk asof daar 'n hele paar wantranslasies in sinvertaling is.
+Webblaaiervertaling is 'n funksie wat die sin wat in die blaaier vertaal moet word, vertoon.
+As u die vertaalfunksie in [instellings - vertaalinstellings] aanskakel en die sin ingedruk hou, sal die vertaalfunksie werk.
 
 17. Ander sake:
-As u 'n dokument oopmaak, sal die inskrywing wat meer as drie keer herhaal word, oopgemaak word deur na twee keer oor te skakel.
-Oormatige inskrywing is ongerieflik om na TTS te luister en ongemaklik om te sien.
-Sommige van u het miskien al lankal opgemerk om my app lank te gebruik. 'Hmm? Sommige van julle dink miskien,' ek het nog nooit baie vermaak gesien nie. '
-Ons het soveel funksionaliteit geïmplementeer as wat die teks kyker kan ondersteun.
+Wanneer 'n dokument oopgemaak word, sal EarApp die Enter -sleutel outomaties drie of meer keer na twee keer verander.
+Oormatige ingang is ongemaklik om na TTS te luister en te besigtig.
+Sommige van u het dit alreeds opgemerk terwyl u my app vir 'n lang tyd gebruik het, en gesê: 'Hmm? Noudat ek daaraan nadink, het ek nog nooit gesien hoe jy baie druk nie? ' Sommige mense dink miskien so.
+Ons het soveel moontlik funksies in die teksviewer geïmplementeer.
 
-Ek het 17 gebruike neergeskryf, maar ek dink nie ek het die helfte daarvan gebruik nie.
-Eenvoudige funksies soos agtergrondkleur, agtergrondprent, letterkleur en bladsydraaipode is weggelaat.
-Ek hoop dat hierdie dokument baie mense sal help.
-As u na instellings kyk - inligting en hulp, is daar 'n skakel na die Telegram Group -klets, so as u vrae het, kan u inkom en vra.
-Dankie dat u aan die einde gelees het.
+Ek het sewentien maniere neergeskryf om dit te gebruik, maar ek dink nie ek het nog die helfte daarvan geskryf nie.
+Eenvoudige funksies soos agtergrondkleur, agtergrondprent, tekskleur en punt -omdraai -metode is weggelaat.
+Ek hoop dat hierdie artikel vir baie mense nuttig sal wees.
+As u na [Instellings - inligting en hulp] kyk, is daar 'n skakel na die Telegram Group -kletskamer, so as u enige vrae het, kan u inkom en vra.
+Dankie dat u gelees het.

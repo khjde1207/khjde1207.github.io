@@ -1,152 +1,152 @@
 Nasıl kullanılır (okumalıdır):
 
-Bu uygulamanın birçok işlevi var, bu yüzden tek tek okumanızı tavsiye ederim.
+Bu uygulamanın birçok özelliği var, bu yüzden okumanızı tavsiye ederim.
 
 1. Dosyalar nasıl görüntülenir:
-TXT eklemek için lütfen belgeme dosyayı ekle tıklayın.
-TXT dosyasına dokunun ve dosyayı görüntülemek için alttaki aç düğmesine basın.
+TXT eklemek için lütfen kütüphanemdeki dosyayı ekle tıklayın.
+TXT dosyasına dokunarak ve alttaki açma düğmesine basarak dosyayı görüntüleyebilirsiniz.
 
 
-2. Görüntüleyen reklamlar / alt gezinme düğmeleri nasıl gizlenir:
-Ekranın merkezine çift dokunun.
-Tam ekrana geçerken, reklamlar ve düğmeler kaybolur.
+2. Görüntüleyici reklamları/alt gezinme düğmeleri nasıl gizlenir:
+Ekranın merkezine iki kez dokun.
+Tam ekrana geçtiğinde, reklamlar ve düğmeler kaybolur.
 
 
-3. Düğme elyaf işlev alanını değiştirmek için:
-Ayarlar - dokunmatik alan ayarları altında değiştirebilirsiniz.
-Tam ekran, sayfa hareketi, parlaklık ayarı ve ses kontrolü dahil olmak üzere bir dizi işlev ayarlayabilirsiniz.
-Bluetooth uzaktan kumandası da desteklenir, böylece uzanabilir ve rahatça izleyebilirsiniz.
+3. Düğme ve İşlev Alanı Nasıl Değiştirilir:
+[Ayarlar - Dokunma Alan Ayarları] 'da değiştirebilirsiniz.
+Tam ekran, sayfa hareketi, parlaklık kontrolü ve ses kontrolü gibi çeşitli işlevleri ayarlayabilirsiniz.
+Bir Bluetooth uzaktan kumandası da desteklenir, böylece bir stand üzerine yerleştirebilir ve uzanırken rahatça görüntüleyebilirsiniz.
 
 
-4. Yazı tipini veya yazı tipi boyutunu değiştirmek için:
-Ayarlar - Ayarlar - Yazı Tipi Ayarları altında yazı tipi veya yazı tipi boyutunu değiştirebilirsiniz.
-Düzinelerce ücretsiz yazı tipi almak için indirme düğmesine basılarak yazı tipini kullanabilirsiniz.
+4. Yazı tipi veya metin boyutu nasıl değiştirilir:
+[Ayarlar - Ayarlar - Yazı Tipi Ayarları] 'da yazı tipi veya yazı tipi boyutunu değiştirebilirsiniz.
+İndir düğmesini tıklayarak düzinelerce ücretsiz yazı tipini kullanabilirsiniz.
 
 
-5. Görüntü metni dönüşümü nasıl kullanılır:
-Sıkıştırılmış bir görüntüden metin çıkarabilirsiniz. Buna OCR işlevi denir.
-Derecem - Dosya Ekle'yi tıklayın ve bir zip dosyası ekleyin.
+5. Görüntüyü metin dönüştürme işlevine nasıl kullanılır:
+Sıkıştırılmış görüntülerden metin çıkarabilirsiniz. Buna OCR işlevi denir.
+Kütüphanem - Dosya Ekle'yi tıklayın ve ZIP dosyasını ekleyin.
 ZIP dosyasını seçerek ve ardından OCR menüsünü seçerek dönüştürebilirsiniz.
-Sayfa dönüşüm sırasında tüketilir.
-OCR yapay zeka ile çalışır, bu nedenle hızı ve doğruluğu oldukça iyidir.
+Sayfalar dönüşüm sırasında tüketilir.
+OCR AI ile yapılır, bu nedenle hızı ve doğruluğu oldukça iyidir.
 
 
-6. EPUB, PDF Dönüşüm Yöntemi:
+6. EPUB'u PDF'ye dönüştürme:
 Görüntü dönüştürme yöntemi ile aynıdır.
-Farkında olması gereken birkaç şey var.
-EPUB veya PDF "şifrelenebilir" olabilir.
-Esas olarak harfleri kırmak ve sadece belirli yazı tiplerinde görünür kılmak için kullanılır.
-Bu durumda, Korece değil, dünya dışı bir karakter gibi ortaya çıkıyor, bu yüzden TTS'de okuyamazsınız.
-Bu sorunu çözmenin bir yolu olarak, görüntüleri çıkarma işlevi kullanılabilir ve daha sonra OCR çıkarılacak şekilde döndürülebilir.
+Akılda tutulması gereken birkaç şey var.
+EPUB veya PDF durumunda “şifrelenebilir”.
+En yaygın yöntem, sadece belirli yazı tiplerinde bozulmuş ve görünür harfleri yapmaktır.
+Bu durumda, TTS kullanılarak okunamaz çünkü Korece yerine yabancı bir karaktere benziyor.
+Bu sorunu çözmek için, görüntü çıkarma işlevini kullanabilir ve daha sonra çıkarmak için OCR kullanabilirsiniz.
 
 
 7. TTS nasıl kurulur:
-TTS ile ilgili ayarlar ayarlarda konsantre edilir - TTS ayarları, TTS filtre ayarları.
-TTS ayarları, ses, hız, hacim, düğme şeffaflığı, cümleler biten karakterler ve bir seferde okunan cümlelerin sayısının yanı sıra TTS özelliklerini tamamlayan cihazları içerir.
-Bir seferde okunan cümle sayısı, birden fazla hattın aynı anda okunmasına izin vermek için eklenen bir işlevdir.
+TTS ile ilgili ayarlar [Ayarlar - TTS ayarları] ve [TTS filtre ayarları] 'da konsantre edilir.
+TTS ayarları sadece ses, hız, hacim, düğme şeffaflığı, cümle son karakteri ve aynı anda okunan cümle sayısı gibi basit TTS özelliklerini içerir, ancak TTS işlevini tamamlayan cihazlar da eklenir.
+Bir kerede okunan cümle sayısı, aynı anda birden fazla satırı okumanızı ve minimum gecikmeyle dinlemenizi sağlayan bir işlevdir.
 TTS filtresi bu uygulamanın en güçlü özelliklerinden biridir.
-[TTS filtresi ayarları], atlamanız gereken bir dizi özel karakter, kelime veya cümle ayarlamanızı sağlar.
-İndir düğmesine basarsanız, ürettiğim düzinelerce filtreyi indirebilirsiniz.
-İhtiyacınız varsa kendiniz de ekleyebilirsiniz.
-[Otomatik kapatma işlevi] TTS oynarken durdurma düğmesinin sol tarafındaki ay şeklinde simgeye dokunarak otomatik kapatma süresini ayarlayabilir.
+[TTS filtre ayarlarında], atlanması gereken çeşitli özel karakterleri, kelimeleri veya cümleleri ayarlayabilirsiniz.
+İndir düğmesini tıklarsanız, oluşturduğum düzinelerce filtreyi indirebilirsiniz.
+Gerekirse kendinizinkini de ekleyebilirsiniz.
+[Otomatik kapatma işlevi] TTS oynarken durdurma düğmesinin soluna ay şeklinde simgeye dokunarak otomatik kapatma süresini ayarlamanızı sağlar.
 
 
-8. Yedekleme ve kurtarma özelliklerinin açıklaması:
-Kurulum - Yedekleme ve Kurtarma, birden fazla cihazın uygulamayı aynı ortamda kullanmasına izin veren bir özelliktir.
-Yedek kurtarma için sürücüye giriş yapabilirsiniz.
-PC'ler, telefonlar ve pedler gibi birden fazla cihazdan görüntülendiğinde, görüntüleme konumunuzu senkronize etmek için konum yedeklemesini kullanabilirsiniz.
-Uygulamayı çalıştırdığınızda veya eve dönüp dönüp geri döndüğünüzde otomatik olarak son konuma geçmek için otomatik olarak otomatikleştirmek ve Otomşronizasyon özelliğini açmak istediğiniz cihazı seçin.
+8. Yedekleme ve Kurtarma İşlevi Açıklama:
+[Ayarlar - Yedekleme ve Kurtarma] Uygulamayı birden çok cihazda aynı ortamda kullanmanıza olanak tanıyan bir işlevdir.
+Sürücüye giriş yapabilir ve yedeklemeleri geri yükleyebilirsiniz.
+PC, telefon veya PAD gibi birden fazla cihazda görüntülenirken, konum yedeklemesini kullanarak görüntüleme konumunu senkronize edebilirsiniz.
+[Otomatik Senkronizasyon] işlevini otomatik olarak senkronize etmek ve açacak bir aygıt seçerseniz, uygulamayı çalıştırdığınızda veya ana sayfaya geri dönüp döndüğünüzde otomatik olarak son görüntülenen konuma geçer.
 
-9. Metin Toplu Değişikliği Nasıl Kullanılır:
-1. [Ayarlar - Ayarlar - Toplu Düzenleme Düğmesi]
-2. [Ayarlar - metni toplu olarak düzenleyin]
-Toplu değişiklikleri iki şekilde kullanabilirsiniz.
-1 numara durumunda, bazı cümleler veya kelimeler can sıkıcısa, TTS dinlemek ve başka bir karaktere cümleyi silmek veya değiştirmek için kullanılır.
-2 numara olması durumunda, metni OCR ile çıkarabilir ve toplu düzeltme yapmak için belgeden metin dosyasını seçebilirsiniz.
-Metnin toplu düzeltmesi için sık sık oluşan tanıma hatalarını indirmek ve kullanmak için indirme düğmesini de kullanabilirsiniz.
-Toplu Düzeltmeler - İndirmeler listeyi yalnızca dil ayarları Korece'de ise gösterecektir.
-Bunun nedeni, geliştiricilerin başka diller konuşmamasıdır.
-Rapor işlevini kullanarak rapor verirseniz, ülkenin dilini ekleyeceğim.
+9. Toplu Oluşturma Nasıl Kullanılır Metin:
+1. [Ayarlar - Ayarlar - Toplu Düzenle Düğmesini Göster]
+2. [Ayarlar - Toplu Düzenle Metin]
+Toplu düzenleme iki şekilde kullanılabilir.
+Durum 1'de, TTS dinlerken bazı cümleler veya kelimeler can sıkıcısa, cümleleri silmek veya diğer karakterlere değiştirmek için kullanılır.
+Durum 2'de, OCR kullanarak metin çıkarabilir ve ardından toplu düzenleme gerçekleştirmesi için kütüphanemden metin dosyalarını seçebilirsiniz.
+Sık görülen tanıma hatalarını indirmek için metni toplu olarak düzenlemek için indir düğmesini de kullanabilirsiniz.
+[Toplu Düzenle - İndir] Listeyi yalnızca dil ayarı Koreli ise görüntüler.
+Bunun nedeni, geliştiricilerin başka dillerin nasıl konuşulacağını bilmiyorlar.
+Rapor işlevini kullanarak rapor ederseniz, ülkenizin dilini ekleyeceğiz.
 
-10. TTS dinlerken sarsıcı bir cümle varsa, çalışın:
-Orijinalin değiştirilmesi önemli değilse, lütfen [toplu değişiklik] işlevine değiştirin.
-Değişiklikten sonra, yedekleme dosyası kütüphanemde kalacaktır, bu nedenle yanlışlıkla değiştirirseniz, tekrar kurtarabilirsiniz.
-Orijinali yalnızca TTS'den dokunmadan kaldırmak istiyorsanız, TTS filtresini kullanın.
+10. Çözüm TTS dinlerken can sıkıcı bir cümle varsa:
+Orijinalin değiştirilmesinin sakıncası yoksa, lütfen değiştirmek için [parti düzenleme] işlevini kullanın.
+Değişiklikten sonra, kütüphanemde bir yedekleme dosyası kalacaktır, bu nedenle yanlışlıkla değişiklik yaparsanız, bunları geri yükleyebilirsiniz.
+Orijinaline dokunmadan yalnızca TTS'yi kaldırmak istiyorsanız, TTS filtresini kullanın.
 
-11. Sayfa ile ilgili açıklama:
-TTS cümle muayenesi, toplu düzeltme, çizgilerin yeniden düzenlenmesi ve çeviri gibi özel işlevler kullanırsanız, sayfalar tüketilir, ancak yaklaşık 10 ila 50 olduğu için tüketildiğini hissetmezsiniz.
-Çoğu sayfanın OCR, EPUB ve PDF'den metin çıkarırken hissetmek için kullanılması muhtemeldir.
-Metin çıkarırken, sadece tek başına çıkarmaz, aynı zamanda desenlere çıkarıldıktan sonra ortaya çıkan düzinelerce sorun yaratarak cümleleri de düzenleriz.
-Uygulamak gerçekten zor bir bölüm, bu yüzden lütfen deneyin.
+11. Puanla ilgili açıklama:
+TTS cümle kontrolü, toplu düzenleme, çizgi düzenlemesi ve çeviri gibi özel işlevler kullanılırken noktalar tüketilir, ancak yaklaşık 10 ila 50 yaşları için tüketimi hissetmeyeceksiniz.
+Puanların çoğunun OCR, EPUB ve PDF'den metin çıkarılırken hissedilebilecek bir dereceye kadar kullanılması muhtemeldir.
+Metin çıkarırken, sadece metni çıkarmıyoruz, aynı zamanda çıkarmadan sonra ortaya çıkan düzinelerce problemden kalıplar oluşturuyoruz ve cümle organizasyonuna devam ediyoruz.
+Bu bölüm büyük zorluklarla uygulandı, bu yüzden lütfen en az bir kez kullanmayı deneyin.
 
 
-12. Reklam Açıklaması:
+12. Reklamla İlgili Açıklama:
 Ben hem geliştiriciyim hem de kullanıcıyım.
-Mümkün olduğunca kullanıma müdahale etmedikleri ölçüde reklamlar ekledik.
-Reklamlar sayfa güvenli reklamları ve reklam kaldırma reklamlarını içerir.
-Bir sayfa 60.000 sayfaya kadar tutabilir.
-Reklamları kaldırırken, reklamları belirli bir süre için kaldırmak için sayfayı kullanabilirsiniz. (Uyku zamanı hariç, yaklaşık bir gün.)
-Önceden istifleme sayfaları olanlar için, 2000 sayfa tüketerek görüntüleyici tarafı reklamını kaldırabilirsiniz.
-8000 sayfa tükettiğinizde, sayfa edinimi için 30 saniyelik reklamlar ve ayarların ortasındaki yerel reklamlar dışında tüm reklamlar devre dışı bırakılır.
-Büyük miktarda dönüşüm sırasında ortaya çıkan kısa reklamlardan rahatsız olanlar için 8000 sayfalık reklamlar eklenmiştir.
+Mümkün olduğunca kullanıma müdahale etmedikleri ölçüde reklamlar eklenmiştir.
+İki tür reklam vardır: reklamları güvence altına alan puanlar ve reklam kaldırma reklamları.
+60.000 puana kadar tutabilirsiniz.
+Reklamları kaldırırken, reklamları kaldırmak için belirli bir süre için noktaları kullanabilirsiniz. (Uyku süresi hariç, yaklaşık bir gündür.)
+Puan biriktirenler için önceden 2000 puan tüketerek görüntüleyici tarafı reklamlarını kaldırabilirsiniz.
+8000 puan tükettiğinizde, puanları ve ayarların ortasındaki yerel reklamı güvence altına almak için 30 saniyelik reklam dışında tüm reklamlar devre dışı bırakılacaktır.
+Büyük dönüşüm görevleri yaparken ortaya çıkan kısa reklamları görmeyi can sıkıcı bulan 8000 puanlık reklam eklendi.
 
 
-13. Kulak için özellik açıklaması (tarihler arası çalışma):
-Kulak görünümü işlevini destekler.
-Örneğin, diyelim ki A (1 ila 50) başlıklı bir belgemiz var ve A (1 ila 100) adlı yeni bir belgemiz var.
-Bu durumda, ana pozisyonu atlamak zaten gereklidir.
-Kütüphanemde bir metin dosyası seçtiğinizde, kulak görünümü menüsü görünür.
-Bu menüyü seçer ve tarihte bir (1 ila 50) seçerseniz, daha önce görüntülenen konumu otomatik olarak atlar.
-Daha sonra zamanınız olduğunda, lütfen tarihten bir (1-50) kaldırın.
+13. Devamın Tanımı (geçmiş bağlantısı) Fonksiyon:
+Sürekli görüntüleme işlevini destekler.
+Örneğin, diyelim ki A (1 ~ 50) başlıklı bir belge var, ancak şimdi A (1 ~ 100) adlı yeni bir belge alıyorsunuz.
+Bu durumda, zaten ana konumu atlamanız gerekir.
+Kütüphanemde bir metin dosyası seçtiğinizde, Devam menüsü görünür.
+Bu menüyü seçtikten sonra, geçmişte bir (1 ~ 50) seçerseniz, daha önce görüntülenen konumu otomatik olarak atlar.
+Daha sonra zamanınız olduğunda, lütfen tarihten bir (1 ~ 50) kaldırın.
 Tarihte, okunan toplam kitap sayısı da sayılır.
 Aynı belge kalırsa, yanlış bilgiler görüntülenebilir.
 
 
-14. Yer İşareti/Not/Başlatma Açıklama:
-Uygulama notlar ve yer imleri/başrolleri destekler.
-Yer işareti ayarlarında yer işareti işlevini açarsanız, metin tutarak ve basılı tutarak ekleyebilirsiniz.
-Notlar özelliği, en az bir kez açtıysanız bir dosya seçmenize ve girmenize olanak tanır.
-Bir dosyayı en az bir kez açarsanız, dosya seçiminin üstünde bir yıldız görünür.
-Notlar ve burçlar dosyanın kendisinin değerlendirmelerini kaydetmek için kullanılabilir.
-Yer işaretleri önemli içeriği kaydetmek için kullanılabilir.
+14. Yer İşareti/Memo/Yıldız Derecelendirme Açıklaması:
+Uygulama notu ve yer işareti/yıldız derecelendirme işlevlerini destekler.
+Yer İşareti Ayarları'ndaki yer işareti işlevini açarsanız, metni uzun süre basarak ekleyebilirsiniz.
+Not işlevi, dosyayı en az bir kez açıp görüntülediyseniz bir dosya seçmenize ve girmenize olanak tanır.
+Bir dosyayı bir kez açarsanız, dosyayı seçtiğinizde üstte bir yıldız vardır.
+Notlar ve derecelendirmeler dosyanın kendisinin değerlendirmelerini kaydetmek için kullanılabilir.
+Yer işaretleri önemli bilgileri kaydetmek için kullanılabilir.
 
 
 
-14. TTS Cümle Denetçisi Açıklama:
-Birçok belgeye baktığımda, iyi yazılmış ve yazılmamış metinler modelini görmeye başladım.
-Her zaman talihsiz metinlerde ortaya çıkan bir desen buldum.
-Bu deseni düzenledim ve her deseni ağırlıklandırarak ürettim.
-İlk başta [Mayın Arama] adını verdik.
-Ancak, bu işlev çok öznel yargı ile yapıldı, bu yüzden TTS cümle denetleyicisine değiştirdim.
-Bu özellik sadece Korece'yi desteklemektedir.
-Diğer ülkelerin dilini bilmiyorum, bu yüzden iyi ya da kötü olsun kalıplarımı organize edemiyorum.
-Diğer ülkelerde böyle bir model varsa, lütfen bize e-posta ile gönderin.
-Birden fazla ulusal dili destekleyebildiğinizde, işlevi ayarlara taşıyacağız.
-Ayarlarda hala bir nokta kaldı.
+14. TTS Cümle Damalı Açıklama:
+Çok sayıda belgeye baktığımda, iyi yazılmış ve çok iyi yazılmış olmayan makaleler arasındaki kalıpları görmeye başladım.
+Her zaman hayal kırıklığı yaratan makalelerde görünen bir desen keşfettim.
+Bu, bu desenleri düzenleyerek ve her desene ağırlık vererek oluşturduğum bir işlevdir.
+İlk başta, bu işleve [Maden İkizcisi] olarak adlandırıldı.
+Bununla birlikte, bu işlev çok öznel yargıya dayanarak oluşturuldu, bu nedenle TTS cümle denetleyicisine değiştirildi.
+Bu özellik yalnızca Korece'yi destekler.
+Diğer ülkelerin dillerini iyi tanımadığım için, yazının iyi mi kötü mü olduğunu anlayamadım.
+Diğer ülkelerde böyle bir model varsa, lütfen e -posta yoluyla bildirin.
+Birden fazla ulusal dili destekleyebildiğimizde, özelliği ayarlara taşıyacağız.
+Ayarlarda hala bir alan kaldı.
 
 
-15. Köpek yönetiminin işlevinin açıklanması:
-Bu, cümle bitmemiş, ancak giriş kapalı ise kullanılabilecek bir yöntemdir.
-Genellikle bu, OCR dönüşümü ile çalışan belgeler için çok şey olur.
-Bu özellik sadece Enter'in bir kombinasyonu değildir.
-Belgeleri çok sayıda açılış hatası ile analiz ederek ve kalıpları düzenleyerek uygulanan bir işlevdir.
-AI'yı organize etmek için tanıtmaya çalıştım, ama kolay değildi.
-Bu günlerde doğal dil işleme konusunda çok fazla araştırma var, bu yüzden daha sonra AI ile işleyebilirsem ekleyeceğim.
+15. Çizgi Break Fonksiyonunun Tanımı:
+Line Break Teoremi, cümle bitmediğinde, ancak Enter tuşuna basıldığında kullanılabilecek bir yöntemdir.
+Bu fenomen genellikle OCR dönüşümü yoluyla işlenen belgelerde meydana gelir.
+Bu işlev sadece Enter'i birleştirmez.
+Bu işlev, belgeleri çok sayıda yeni hat hatası ile analiz ederek ve kalıpları düzenleyerek uygulanmıştır.
+AI kullanarak organizasyonu tanıtmaya çalıştım, ama kolay değildi.
+Bu günlerde, doğal dil işleme konusunda çok fazla araştırma yapılmaktadır, bu nedenle gelecekte AI ile işleyebilirsek, eklemeye çalışacağız.
 
 16. Çeviri İşlevi Açıklama:
-Yerel çeviri / web tarayıcısı çeviri işlevselliği desteklenir.
-Yerel çeviri, Google tarafından geliştirilen AI'ya dönüşen bir işlevdir. Basit kelimeler iyi tercüme edilebilir, ancak cümle çevirisinde çok fazla yanlış işleme var gibi görünüyor.
-Web tarayıcısı çevirisi, bir tarayıcıda çevrilecek cümleleri görüntüleyen bir işlevdir.
-Çeviri işlevini Ayarlar - Çeviri Ayarları'nda açar ve cümleyi basılı tutarsanız, çeviri işlevi çalışır.
+Yerel çeviri/web tarayıcısı çeviri işlevlerini destekler.
+Yerel çeviri, Google tarafından geliştirilen AI kullanmayı kullanan bir işlevdir. Basit kelimeler iyi tercüme edilir, ancak cümle çevirisinde birkaç yanlış işleme var gibi görünüyor.
+Web tarayıcı çevirisi, tarayıcıda çevrilecek cümleyi görüntüleyen bir işlevdir.
+[Ayarlar - Çeviri Ayarları] 'da çeviri işlevini açarsanız ve cümleyi basılı tutup basılı tutarsanız, çeviri işlevi çalışır.
 
 17. Diğer konular:
-Bir belgeyi açtığınızda, üç kez tekrarlanan giriş iki kez geçerek açılır.
-Aşırı Enter, TTS ile dinlemeye uygundur ve görmesi rahatsız edicidir.
-Bazılarınız uygulamamı uzun süre kullanmaktan daha önce fark etmiş olabilirsiniz. "Hmm? Bazılarınız düşünebilir," Hiç çok fazla eğlence görmedim. "
-Metin görüntüleyicisinin destekleyebileceği kadar işlevsellik uyguladık.
+Bir belgeyi açarken, EarApp üç veya daha fazla kez tekrarlanan Enter tuşunu otomatik olarak iki kez değiştirir.
+Aşırı giriş, TTS'yi dinlemek ve görmek için rahatsız edicidir.
+Bazılarınız uygulamamı uzun süre kullanırken bunu fark etmiş olabilirsiniz ve “Hmm? Şimdi düşündüğüme göre, enter tuşuna bastığınızı hiç görmedim mi? " Bazı insanlar böyle düşünebilir.
+Metin görüntüleyicisinde mümkün olduğunca çok özellik uyguladık.
 
-17 kullanım yazdım, ama henüz yarısını kullandığımı sanmıyorum.
-Arka plan rengi, arka plan görüntüsü, harf rengi ve sayfa çevirme yöntemi gibi basit işlevler atlanmıştır.
-Umarım bu belge birçok insana yardımcı olur.
-Ayarlara - bilgi ve yardıma bakarsanız, telgraf grubu sohbetine bir bağlantı vardır, bu nedenle herhangi bir sorunuz varsa içeri girip sorabilirsiniz.
-Sonuna kadar okuduğunuz için teşekkür ederim.
+Bunu kullanmanın on yedi yolunu yazdım, ama henüz yarısını bile yazdığımı sanmıyorum.
+Arka plan rengi, arka plan görüntüsü, metin rengi ve nokta çevirme yöntemi gibi basit işlevler atlanmıştır.
+Umarım bu makale birçok insan için yardımcı olacaktır.
+[Ayarlar - bilgi ve yardım] 'a bakarsanız, Telegram Grubu sohbet odasına bir bağlantı vardır, bu nedenle herhangi bir sorunuz varsa içeri girip sorabilirsiniz.
+okuduğunuz için teşekkürler.

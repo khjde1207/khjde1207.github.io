@@ -1,152 +1,152 @@
-Cómo usarlo (debe leer):
+Cómo usar (debe leer):
 
-Esta aplicación tiene muchas funciones, por lo que le recomiendo que la lea una por una.
+Esta aplicación tiene muchas características, por lo que recomiendo leerla.
 
 1. Cómo ver los archivos:
-Haga clic en Agregar archivo en mi documento para agregar TXT.
-Toque el archivo txt y presione el botón Abrir en la parte inferior para ver el archivo.
+Haga clic en Agregar archivo en mi biblioteca para agregar TXT.
+Puede ver el archivo tocando el archivo txt y presionando el botón Abrir en la parte inferior.
 
 
-2. Cómo ocultar anuncios del espectador / botones de navegación inferior:
+2. Cómo ocultar anuncios del espectador/botones de navegación inferior:
 Toque doble el centro de la pantalla.
-A medida que cambia a la pantalla completa, los anuncios y los botones desaparecen.
+Cuando cambia a la pantalla completa, los anuncios y los botones desaparecen.
 
 
-3. Para cambiar el área de funciones de mitt de botón:
-Puede cambiarlo en Configuración - Configuración del área táctil.
-Puede establecer una serie de funciones, incluida la pantalla completa, el movimiento de la página, el ajuste de brillo y el control de volumen.
-El control remoto Bluetooth también es compatible, por lo que puede acostarlo y verlo cómodamente.
+3. Cómo cambiar el área del botón y la función:
+Puede cambiarlo en [Configuración - Configuración del área táctil].
+Puede establecer varias funciones, como pantalla completa, movimiento de página, control de brillo y control de volumen.
+También se admite un control remoto Bluetooth, por lo que puede colocarlo en un soporte y verlo cómodamente mientras está acostado.
 
 
-4. Cambiar el tamaño de la fuente o la fuente:
-Puede cambiar la fuente o el tamaño de la fuente en Configuración - Configuración - Configuración de la fuente.
-Puede usar la fuente presionando el botón de descarga para recibir docenas de fuentes gratuitas.
+4. Cómo cambiar la fuente o el tamaño del texto:
+Puede cambiar la fuente o el tamaño de la fuente en [Configuración - Configuración - Configuración de la fuente].
+Puede usar docenas de fuentes gratuitas haciendo clic en el botón Descargar.
 
 
-5. Cómo usar la conversión de texto de imagen:
-Puede extraer texto de una imagen comprimida. Esto se llama la función OCR.
-Mi diario: haga clic en Agregar archivo y agregue un archivo zip.
+5. Cómo usar la función de conversión de imagen a texto:
+Puede extraer texto de imágenes comprimidas. Esto se llama la función OCR.
+Mi biblioteca: haga clic en Agregar archivo y agregue el archivo zip.
 Puede convertir seleccionando el archivo zip y luego seleccionando el menú OCR.
-La página se consume durante la conversión.
-OCR funciona con IA, por lo que su velocidad y precisión son bastante buenas.
+Las páginas se consumen durante la conversión.
+OCR se realiza con IA, por lo que su velocidad y precisión son bastante buenas.
 
 
-6. EPUB, Método de conversión de PDF:
+6. Cómo convertir EPUB a PDF:
 Es lo mismo que el método de conversión de imagen.
 Hay algunas cosas a tener en cuenta.
-Epub o PDF puede estar "encriptado".
-Se usa principalmente para romper letras y hacerlas visibles solo en ciertas fuentes.
-En este caso, sale como un carácter extraterrestre, no coreano, por lo que no puedes leerlo en TTS.
-Como una forma de resolver este problema, se puede usar la función de extraer imágenes, y luego el OCR se puede girar para extraer.
+En el caso de EPUB o PDF, puede estar "encriptado".
+El método más común es hacer que las letras sean confusas y visibles solo en fuentes específicas.
+En este caso, no se puede leer usando TTS porque parece un personaje alienígena en lugar de coreano.
+Para resolver este problema, puede usar la función de extracción de imágenes y luego usar OCR para extraerlo.
 
 
 7. Cómo configurar TTS:
-Las configuraciones relacionadas con TTS se concentran en la configuración: configuración de TTS, configuración del filtro TTS.
-La configuración de TTS incluye características simples de TTS, como voz, velocidad, volumen, transparencia de botones, caracteres que terminan las oraciones y el número de oraciones leídas a la vez, así como dispositivos que complementan las características de TTS.
-El número de oraciones leídas a la vez es una función agregada para permitir que se lean varias líneas a la vez que se escuchan con un retraso mínimo.
+Las configuraciones relacionadas con TTS se concentran en [Configuración - Configuración de TTS] y [Configuración de filtro TTS].
+La configuración de TTS incluye no solo características de TTS simples como voz, velocidad, volumen, transparencia de botones, carácter final de oraciones y número de oraciones leídas a la vez, sino también dispositivos que complementan la función TTS.
+El número de oraciones leídas a la vez es una función agregada para permitirle leer varias líneas a la vez y escuchar con un retraso mínimo.
 El filtro TTS es una de las características más potentes de esta aplicación.
-[Configuración del filtro TTS] le permite establecer una serie de caracteres, palabras o oraciones especiales que necesita omitir.
-Si presiona el botón Descargar, puede descargar docenas de filtros que produje.
-También puede agregarlo usted mismo si lo necesita.
-[Función de apagado automático] puede establecer el tiempo de apagado automático tocando el icono en forma de luna en el lado izquierdo del botón de parada al jugar TTS.
+En [Configuración del filtro TTS], puede establecer varios caracteres especiales, palabras o oraciones que deben omitirse.
+Si hace clic en el botón Descargar, puede descargar docenas de filtros que creé.
+También puede agregar el suyo si es necesario.
+[Función de apagado automático] le permite establecer el tiempo de apagado automático tocando el icono en forma de luna a la izquierda del botón de parada al reproducir TTS.
 
 
-8. Descripción de las capacidades de copia de seguridad y recuperación:
-Configuración: la copia de seguridad y la recuperación es una característica que permite que múltiples dispositivos usen la aplicación en el mismo entorno.
-Puede iniciar sesión en la unidad para la recuperación de la copia de seguridad.
-Cuando se ve desde múltiples dispositivos, como PC, teléfonos y almohadillas, puede usar la copia de seguridad de ubicación para sincronizar su ubicación de visualización.
-Seleccione el dispositivo que desea sincronizar automáticamente y activar la función de autosincronización para moverse automáticamente a la última ubicación cuando ejecute la aplicación o volver a casa y regresar.
+8. Descripción de la función de respaldo y recuperación:
+[Configuración: copia de seguridad y recuperación] es una función creada para permitirle usar la aplicación en el mismo entorno en múltiples dispositivos.
+Puede iniciar sesión en la unidad y restaurar copias de seguridad.
+Al ver en múltiples dispositivos como PC, teléfono o almohadilla, puede sincronizar la ubicación de visualización utilizando la copia de seguridad de la ubicación.
+Si selecciona un dispositivo para sincronizar automáticamente y activar la función [Auto Sync], se moverá automáticamente a la última ubicación vista cuando ejecute la aplicación o se vaya y regrese a la página de inicio.
 
-9. Cómo usar la modificación de lotes de texto:
-1. [Configuración - Configuración - Botón de edición masiva]
-2. [Configuración - Editar texto colectivamente]
-Puede usar la modificación por lotes de dos maneras.
-En el caso del número 1, se usa para escuchar TTS y borrar o cambiar la oración a otro personaje si algunas oraciones o palabras son molestas.
-En el caso del número 2, puede extraer el texto con OCR y seleccionar el archivo de texto del documento para realizar una corrección por lotes.
-También puede usar el botón de descarga para descargar y usar errores de reconocimiento con frecuencia para la corrección de texto por lotes.
-Correcciones a granel: las descargas solo mostrarán la lista si la configuración del idioma está en coreano.
-Esto se debe a que los desarrolladores no hablan otros idiomas.
-Si informa que usa la función de informe, agregaré el lenguaje del país.
+9. Cómo usar el texto de edición por lotes:
+1. [Configuración - Configuración - Mostrar botón de edición por lotes]
+2. [Configuración - Texto de edición masiva]
+La edición masiva se puede usar de dos maneras.
+En el caso 1, si algunas oraciones o palabras son molestas mientras escuchan TTS, se usa para borrar las oraciones o cambiarlas a otros personajes.
+En el caso 2, puede extraer texto usando OCR y luego seleccionar archivos de texto de mi biblioteca para realizar una edición por lotes.
+También puede usar el botón Descargar para editar texto para descargar errores de reconocimiento que ocurren con frecuencia.
+[Batch Edit - Descargar] solo mostrará la lista si la configuración del idioma es coreana.
+Esto se debe a que los desarrolladores no saben cómo hablar otros idiomas.
+Si lo informa utilizando la función de informe, agregaremos el lenguaje de su país.
 
-10. Si hay una oración discordante al escuchar TTS, resuélvelo:
-Si no importa si se modifica el original, cámbielo a la función [Modificación colectiva].
-Después del cambio, el archivo de copia de seguridad permanecerá en mi biblioteca, por lo que si accidentalmente lo modifica, puede recuperarlo nuevamente.
-Si desea eliminar el original solo de TTS sin tocarlo, use el filtro TTS.
+10. Solución Si hay una oración molesta cuando se escucha TTS:
+Si no le importa que se modifique el original, use la función [edición por lotes] para cambiarla.
+Después de los cambios, permanecerá un archivo de copia de seguridad en mi biblioteca, por lo que si realiza cambios por error, puede restaurarlos.
+Si desea eliminar solo TTS sin tocar el original, use el filtro TTS.
 
-11. Descripción relacionada con la página:
-Si utiliza funciones especiales como la inspección de oraciones TTS, la corrección por lotes, la reorganización de las líneas y la traducción, las páginas se consumirán, pero dado que es de 10 a 50, no sentirá que se consume.
-Es probable que la mayoría de las páginas se usen para sentirse al extraer texto de OCR, EPUB y PDF.
-Al extraer texto, no solo extraemos por sí solo, sino que también organizamos oraciones haciendo docenas de problemas que surgen después de la extracción en patrones.
-Es una parte que fue realmente difícil de implementar, así que por favor pruébalo.
+11. Explicación relacionada con el punto:
+Los puntos se consumen al usar funciones especiales como la verificación de oraciones TTS, la edición de lotes, el arreglo de línea y la traducción, pero como son de 10 a 50, no sentirá el consumo.
+Es probable que la mayoría de los puntos se usen en un grado que se puede sentir al extraer texto de OCR, EPUB y PDF.
+Al extraer texto, no solo extraemos el texto, sino que también creamos patrones de docenas de problemas que surgen después de la extracción y procedemos con la organización de oraciones.
+Esta parte se implementó con gran dificultad, así que intente usarla al menos una vez.
 
 
-12. Descripción publicitaria:
+12. Explicación relacionada con la publicidad:
 Soy un desarrollador y un usuario.
-Hemos agregado anuncios en la medida en que no interfieran con el uso tanto como sea posible.
-Los anuncios incluyen anuncios en seguridad de la página y anuncios de eliminación de anuncios.
-Una página puede contener hasta 60,000 páginas.
-Al eliminar los anuncios, puede usar la página para eliminar los anuncios durante un cierto período de tiempo. (Excluyendo el tiempo de sueño, es aproximadamente un día).
-Para aquellos que están previamente en las páginas de apilamiento, puede eliminar el anuncio del lado del espectador consumiendo 2000 páginas.
-Cuando consume 8000 páginas, todos los anuncios están deshabilitados, excepto los anuncios de 30 segundos para la adquisición de la página y los anuncios nativos en el medio de la configuración.
-Se han agregado anuncios de 8000 páginas para aquellos que se molestan por anuncios cortos que aparecen durante una gran cantidad de conversión.
+Se han agregado anuncios en la medida en que no interfieran con el uso tanto como sea posible.
+Hay dos tipos de anuncios: puntos que aseguran anuncios y anuncios de eliminación de anuncios.
+Puede contener hasta 60,000 puntos.
+Al eliminar los anuncios, puede usar puntos para eliminar anuncios durante un cierto período de tiempo. (Excluyendo la hora de dormir, es aproximadamente un día).
+Para aquellos que acumulan puntos por adelantado, puede eliminar los anuncios del lado del espectador consumiendo 2000 puntos.
+Cuando consume 8000 puntos, todos los anuncios se deshabilitarán, excepto el anuncio de 30 segundos para asegurar puntos y el anuncio nativo en el medio de la configuración.
+Se agregó el anuncio de 8000 puntos para aquellos que les resulta molesto ver anuncios breves que aparecen al realizar grandes tareas de conversión.
 
 
-13. Descripción de la característica para el oído (intermediado de la historia):
-Admite la función de vista del oído.
-Por ejemplo, supongamos que tenemos un documento titulado A (1 a 50), y tenemos un nuevo documento llamado (1 a 100).
-En este caso, ya es necesario omitir la posición principal.
-Cuando selecciona un archivo de texto en mi biblioteca, aparece el menú View Ear.
-Si selecciona este menú y luego selecciona un (1 a 50) en el historial, se omitirá automáticamente la posición observada previamente.
-Cuando tenga tiempo después, elimine un (1-50) del historial.
+13. Descripción de la continuación (enlace del historial) Función:
+Admite la función de visualización continua.
+Por ejemplo, supongamos que hay un documento titulado A (1 ~ 50), pero ahora recibe un nuevo documento titulado A (1 ~ 100).
+En este caso, ya necesita omitir la ubicación principal.
+Cuando selecciona un archivo de texto en mi biblioteca, aparece el menú Continuar.
+Después de seleccionar este menú, si selecciona un (1 ~ 50) en el historial, se omitirá automáticamente la ubicación previamente vista.
+Cuando tenga tiempo después, elimine un (1 ~ 50) del historial.
 En la historia, el número total de libros leídos también se cuenta.
 Si queda el mismo documento, se puede mostrar información inexacta.
 
 
-14. Bookmark/Note/Starring Descripción:
-La aplicación admite notas y marcadores/protagonistas.
-Si enciende la función de marcador en la configuración del marcador, puede agregarla presionando y manteniendo presionado texto.
-La función de notas le permite seleccionar e ingresar un archivo si lo ha abierto al menos una vez.
-Si abre un archivo al menos una vez, aparece una estrella en la parte superior de la selección de archivos.
-Las notas y los horóscopos se pueden usar para registrar evaluaciones del archivo en sí.
-Los marcadores se pueden usar para grabar contenido importante.
+14. Descripción de calificación de marcadores/memo/estrella:
+La aplicación admite funciones de nota y marcador/calificación de estrellas.
+Si enciende la función de marcador en la configuración del marcador, puede agregarla presionando por mucho tiempo.
+La función memo le permite seleccionar e ingresar un archivo si ha abierto y ha visto el archivo al menos una vez.
+Si abre un archivo incluso una vez, hay una estrella en la parte superior cuando selecciona el archivo.
+Las notas y las calificaciones se pueden usar para registrar evaluaciones del archivo en sí.
+Se pueden usar marcadores para registrar información importante.
 
 
 
-14. Descripción del examinador de oraciones TTS:
-Cuando miré muchos documentos, comencé a ver un patrón de textos bien escritos y no escritos.
-Encontré un patrón que siempre sale en textos desafortunados.
-Organicé este patrón y lo produje ponderando cada patrón.
-Lo llamamos [búsqueda de la mía] al principio.
-Sin embargo, esta función se realizó con un juicio demasiado subjetivo, por lo que la cambié al verificador de oraciones TTS.
-Esta característica es compatible solo con coreano.
-No conozco el idioma de otros países, por lo que no puedo organizar mis patrones, ya sea bueno o malo.
-Si hay un patrón como este en otros países, envíenoslo por correo electrónico.
-Una vez que pueda apoyar múltiples idiomas nacionales, moveremos la función a la configuración.
-Todavía queda un lugar en la configuración.
+14. Descripción del verificador de oraciones TTS:
+Mientras miraba numerosos documentos, comencé a ver patrones entre artículos bien escritos y no tan escritos.
+Descubrí un patrón que siempre aparece en artículos decepcionantes.
+Esta es una función que creé organizando estos patrones y dando peso a cada patrón.
+Al principio, esta función se llamó [Sweeper].
+Sin embargo, esta función se creó en función de un juicio demasiado subjetivo, por lo que se cambió a TTS Sentence Checker.
+Esta característica solo admite coreano.
+Debido a que no conozco bien los idiomas de otros países, no podría entender si la escritura era buena o mala.
+Si hay un patrón como este en otros países, infórmelo por correo electrónico.
+Una vez que podamos apoyar múltiples idiomas nacionales, moveremos la función a la configuración.
+Todavía queda un espacio en la configuración.
 
 
-15. Explicación de la función de la administración de perros:
-Este es un método que se puede usar si la oración no está terminada pero la entrada está inactiva.
-Por lo general, esto sucede mucho a los documentos que se trabajan con la conversión de OCR.
-Esta característica no es solo una combinación de Enter.
-Es una función que se implementa analizando documentos con numerosos errores de apertura y organizando los patrones.
-Traté de presentarle a AI para organizarlo, pero no fue fácil.
-Hay mucha investigación sobre el procesamiento del lenguaje natural en estos días, por lo que lo agregaré si puedo procesarlo con IA más tarde.
+15. Descripción de la función de descanso de línea:
+El Teorema de Break de línea es un método que se puede usar cuando la oración no está terminada, pero se presiona la tecla ENTER.
+Este fenómeno generalmente ocurre en documentos procesados ​​a través de la conversión de OCR.
+Esta función no solo combina Enter.
+Esta función se implementó analizando documentos con numerosos errores de nueva línea y organizando los patrones.
+Traté de presentar la organización usando IA, pero no fue fácil.
+En estos días, se están realizando mucha investigación sobre el procesamiento del lenguaje natural, por lo que si podemos procesarlo con IA en el futuro, intentaremos agregarlo.
 
 16. Descripción de la función de traducción:
-Se admite la funcionalidad de traducción de la traducción local / navegador web.
-La traducción local es una función que se traduce en IA desarrollada por Google. Las palabras simples se pueden traducir bien, pero parece haber muchas traducciones erróneas en la traducción de oraciones.
-La traducción del navegador web es una función que muestra oraciones que se traducen en un navegador.
-Si enciende la función de traducción en Configuración - Configuración de traducción y presiona y presiona la oración, la función de traducción funcionará.
+Admite funciones de traducción de traducción local/navegador web.
+La traducción local es una función que se traduce usando AI desarrollada por Google. Las palabras simples se traducen bien, pero parece haber bastantes traducciones erróneas en la traducción de oraciones.
+La traducción del navegador web es una función que muestra la oración que se traduce en el navegador.
+Si enciende la función de traducción en [Configuración - Configuración de traducción] y presiona y presiona la oración, la función de traducción funcionará.
 
 17. Otros asuntos:
-Cuando abra un documento, la entrada que se repite más de tres veces se abrirá cambiando a dos veces.
-EXCESIVO ENTER es inconveniente de escuchar con TTS e incómodo de ver.
-Es posible que algunos de ustedes ya hayan notado al usar mi aplicación durante mucho tiempo. "¿Hmm? Algunos de ustedes podrían pensar:" Nunca he visto mucho entretenimiento ".
-Hemos implementado tanta funcionalidad como el visor de texto puede admitir.
+Al abrir un documento, EarApp cambiará automáticamente la tecla ENTER repetida tres o más veces a dos veces.
+Los temas excesivos se sienten incómodos de escuchar y ver a través de TTS.
+Es posible que algunos de ustedes ya hayan notado esto mientras usan mi aplicación durante mucho tiempo y dicen: “¿Hmm? Ahora que lo pienso, ¿nunca te he visto presionar mucho? " Algunas personas pueden pensar que sí.
+Hemos implementado tantas características como sea posible en el visor de texto.
 
-Escribí 17 usos, pero no creo haber usado la mitad de ellos todavía.
-Se han omitido funciones simples como el color de fondo, la imagen de fondo, el color de las letras y el método de giro de la página.
-Espero que este documento ayude a muchas personas.
-Si observa la configuración: información y ayuda, hay un enlace al chat del grupo Telegram, por lo que si tiene alguna pregunta, puede entrar y preguntar.
-Gracias por leer hasta el final.
+Escribí diecisiete maneras de usarlo, pero no creo haber escrito la mitad todavía.
+Se han omitido funciones simples como color de fondo, imagen de fondo, color de texto y método de giro de puntos.
+Espero que este artículo sea útil para muchas personas.
+Si observa [Configuración: información y ayuda], hay un enlace a la sala de chat del grupo Telegram, por lo que si tiene alguna pregunta, puede entrar y preguntar.
+gracias por leer.

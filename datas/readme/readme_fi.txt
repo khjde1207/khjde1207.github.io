@@ -1,152 +1,152 @@
-Kuinka käyttää sitä (täytyy lukea):
+Kuinka käyttää (täytyy lukea):
 
-Tällä sovelluksella on paljon toimintoja, joten suosittelen, että luet sen yksitellen.
+Tällä sovelluksella on paljon ominaisuuksia, joten suosittelen sen lukemista.
 
 1. Kuinka tarkastella tiedostoja:
-Napsauta Add -tiedostoa asiakirjassa lisätäksesi TXT: n.
-Kosketa TXT -tiedostoa ja paina alaosassa olevaa avainta -painiketta nähdäksesi tiedoston.
+Napsauta Lisää tiedostoa kirjastossani lisätäksesi TXT: tä.
+Voit tarkastella tiedostoa koskettamalla TXT -tiedostoa ja painamalla alaosassa olevaa avointa painiketta.
 
 
-2. Kuinka piilottaa katsoja -mainokset / pohja navigointipainikkeet:
-Kaksois napauta näytön keskustaa.
-Kun vaihdat koko näytölle, mainokset ja painikkeet katoavat.
+2. Kuinka piilottaa katsoja -mainokset/pohja navigointipainikkeet:
+Kaksoisnäytön keskipiste.
+Kun se vaihtuu koko näytölle, mainokset ja painikkeet katoavat.
 
 
-3. Painikkeen Mitt -toimintoalueen muuttaminen:
-Voit muuttaa sen asetusten alla - Kosketa alueen asetuksia.
-Voit asettaa useita toimintoja, mukaan lukien koko näytön, sivuliikkeen, kirkkauden säätö ja äänenvoimakkuuden säätö.
-Myös Bluetooth -kaukosäädintä tuetaan, joten voit makaa ja seurata sitä mukavasti.
+3. Kuinka muuttaa painiketta ja toimintoaluetta:
+Voit muuttaa sen [Asetukset - Kosketa alueasetukset].
+Voit asettaa erilaisia ​​toimintoja, kuten koko näytön, sivun liikkeen, kirkkauden hallinnan ja äänenvoimakkuuden hallinnan.
+Myös Bluetooth -kaukosäädintä tuetaan, joten voit sijoittaa sen jalustalle ja katsella sitä mukavasti makuulla.
 
 
-4. Fontin tai kirjasimen koon muuttaminen:
-Voit muuttaa fontti- tai fonttikokoa asetuksissa - Asetukset - Font -asetukset.
-Voit käyttää fonttia painamalla latauspainiketta saadaksesi kymmeniä ilmaisia ​​fontteja.
+4. Kuinka muuttaa kirjasinta tai tekstin kokoa:
+Voit muuttaa fontti- tai fonttikokoa [Asetukset - Asetukset - Font -asetukset].
+Voit käyttää kymmeniä ilmaisia ​​fontteja napsauttamalla latauspainiketta.
 
 
-5. Kuvan tekstin muuntamisen käyttö:
-Voit purkaa tekstiä pakatusta kuvasta. Tätä kutsutaan OCR -funktioksi.
-Oma päiväkirja - napsauta Lisää tiedosto ja lisää zip -tiedosto.
+5. Kuinka kuvan käyttäminen tekstin muuntamistoiminnossa:
+Voit purkaa tekstiä pakattuista kuvista. Tätä kutsutaan OCR -funktioksi.
+Oma kirjasto - napsauta Lisää tiedosto ja lisää zip -tiedosto.
 Voit muuntaa valitsemalla zip -tiedoston ja valitsemalla sitten OCR -valikko.
-Sivu kulutetaan muuntamisen aikana.
-OCR toimii AI: n kanssa, joten sen nopeus ja tarkkuus ovat melko hyviä.
+Sivut kulutetaan muuntamisen aikana.
+OCR tehdään AI: llä, joten sen nopeus ja tarkkuus ovat melko hyviä.
 
 
-6. EPUB, PDF -muuntamismenetelmä:
+6. Kuinka muuntaa EPUB PDF: ksi:
 Se on sama kuin kuvan muuntamismenetelmä.
-On olemassa muutamia asioita, joista on oltava tietoisia.
-EPUB tai PDF voidaan "salata".
-Sitä käytetään pääasiassa kirjeiden rikkoutumiseen ja niiden tekemiseen vain tietyissä fonteissa.
-Tässä tapauksessa se tulee ulos kuin maan ulkopuolinen hahmo, ei korealainen, joten et voi lukea sitä TTS: ssä.
-Tapana ratkaista tämä ongelma voidaan käyttää kuvien purkamistoimintoa, ja sitten OCR voidaan kiertää poimimiseksi.
+On olemassa muutamia asioita, jotka on pidettävä mielessä.
+EPUB: n tai PDF: n tapauksessa se voidaan “salata”.
+Yleisin menetelmä on tehdä kirjeistä, jotka ovat vääristyneitä ja näkyviä vain tietyissä fonteissa.
+Tässä tapauksessa sitä ei voida lukea TTS: n avulla, koska se näyttää ulkomaalaiselta hahmalta eikä korealaiselta.
+Tämän ongelman ratkaisemiseksi voit käyttää kuvanpoistotoimintoa ja poimia sitten OCR.
 
 
 7. Kuinka asentaa TTS:
-TTS: ään liittyvät asetukset keskittyvät asetusasetuksiin - TTS -asetukset, TTS -suodatinasetukset.
-TTS -asetukset sisältävät yksinkertaisia ​​TTS -ominaisuuksia, kuten ääni, nopeus, äänenvoimakkuus, painikkeen läpinäkyvyys, lauseet päättyvät merkit ja kerrallaan luettujen lauseiden lukumäärä sekä laitteet, jotka täydentävät TTS -ominaisuuksia.
-Kerralla luettujen lauseiden lukumäärä on lisätty funktio, jonka avulla useita rivejä voidaan lukea kerralla, jotta ne voidaan kuulla pienellä viiveellä.
+TTS: ään liittyvät asetukset keskittyvät [asetukset - TTS -asetukset] ja [TTS -suodatinasetukset].
+TTS -asetuksiin sisältyy paitsi yksinkertaiset TTS -ominaisuudet, kuten ääni, nopeus, äänenvoimakkuus, painikkeen läpinäkyvyys, lauseen pääte- ja kerralla luevien lauseiden lukumäärä, mutta myös TTS -toiminnon täydentäviä laitteita.
+Kerran luettujen lauseiden lukumäärä on lisätty toiminto, jonka avulla voit lukea useita rivejä kerralla ja kuunnella vähän viivettä.
 TTS -suodatin on yksi tämän sovelluksen tehokkaimmista ominaisuuksista.
-[TTS -suodatinasetukset] antaa sinun asettaa useita erikoismerkkejä, sanoja tai lauseita, jotka sinun on ohitettava.
-Jos painat latauspainiketta, voit ladata tuottamani kymmeniä suodattimia.
-Voit myös lisätä sen itse, jos tarvitset sitä.
-[Automaattinen sammutustoiminto] voi asettaa automaattisen sammutusajan koskettamalla Stop-painikkeen vasemmalla puolella olevaa kuun muotoista kuvaketta TTS: n pelatessa.
+[TTS -suodatinasetukset] voit asettaa erilaisia ​​erikoismerkkejä, sanoja tai lauseita, jotka tulisi ohittaa.
+Jos napsautat latauspainiketta, voit ladata kymmeniä suodattimia, jotka olen luonut.
+Voit myös lisätä oman tarvittaessa.
+[Automaattinen sammutustoiminto] antaa sinun asettaa automaattisen sammutusajan koskettamalla kuunmuotoista kuvaketta Stop-painikkeen vasemmalla puolella TTS: n pelatessa.
 
 
-8. Varmuuskopiointi- ja palautusominaisuuksien kuvaus:
-Asennus - Varmuuskopio ja palautus on ominaisuus, jonka avulla useita laitteita voi käyttää sovellusta samassa ympäristössä.
-Voit kirjautua sisään asemaan varmuuskopioiden palautusta varten.
-Useista laitteista, kuten tietokoneista, puhelimista ja tyynyistä, katsottuna voit käyttää sijaintivarmuuskopiota katselupaikan synkronointiin.
-Valitse laite, jonka haluat automaattisesti synkronoida, ja kytke automaattisen synkronointiominaisuuden käyttöön siirtyäksesi automaattisesti viimeiseen sijaintiin, kun suoritat sovelluksen tai menet kotiin ja palautat.
+8. Varmuuskopiointi- ja palautustoiminto Kuvaus:
+[Asetukset - Varmuuskopio ja palautus] on toiminto, jonka avulla voit käyttää sovellusta samassa ympäristössä useissa laitteissa.
+Voit kirjautua sisään asemaan ja palauttaa varmuuskopiot.
+Kun katsot useita laitteita, kuten tietokonetta, puhelinta tai tyynyä, voit synkronoida katselupaikan sijainnin varmuuskopiolla.
+Jos valitset laitteen synkronoimaan ja kytkemällä automaattisesti [automaattinen synkronointi] -toiminto, se siirtyy automaattisesti viimeiseen katsottuun sijaintiin, kun suoritat sovelluksen tai lähdet ja palautat kotisivulle.
 
-9. Kuinka käyttää tekstin erämuutoksia:
-1. [Asetukset - Asetukset - Bulk Muokkaa -painike]
-2. [Asetukset - Muokkaa tekstiä yhdessä]
-Voit käyttää erämuutoksia kahdella tavalla.
-Numeron 1 tapauksessa sitä käytetään TTS: n kuuntelemiseen ja lauseen poistamiseen tai vaihtamiseen toiseen hahmoon, jos jotkut lauseet tai sanat ovat ärsyttäviä.
-Numeron 2 tapauksessa voit purkaa tekstin OCR: llä ja valita tekstitiedoston asiakirjasta erän korjauksen suorittamiseksi.
-Voit myös ladata ja käyttää usein esiintyviä tunnistusvirheitä tekstinkorjaukseen.
-Irtotavarat - lataukset näyttävät luettelon vain, jos kieliasetukset ovat korealaisissa.
-Tämä johtuu siitä, että kehittäjät eivät puhu muita kieliä.
-Jos ilmoitat raporttitoiminnon avulla, lisään maan kielen.
+9. Kuinka käyttää erän muokkaustekstiä:
+1. [Asetukset - Asetukset - Näytä erämuokkauspainike]
+2. [Asetukset - irtotavarana muokkausteksti]
+Irkin muokkausta voidaan käyttää kahdella tavalla.
+Tapauksessa 1, jos jotkut lauseet tai sanat ovat ärsyttäviä kuunnellessaan TT: tä, sitä käytetään lauseiden poistamiseen tai muihin hahmoihin.
+Tapauksessa 2 voit purkaa tekstiä OCR: n avulla ja valita sitten tekstitiedostot kirjastosta erän muokkaamisen suorittamiseksi.
+Voit myös käyttää latauspainiketta erämuokkaustekstiä ladataksesi usein esiintyviä tunnistusvirheitä.
+[Erä Muokkaa - lataus] Näyttää luettelon vain, jos kieliasetus on korea.
+Tämä johtuu siitä, että kehittäjät eivät osaa puhua muita kieliä.
+Jos ilmoitat siitä raporttitoiminnon avulla, lisäämme maasi kielen.
 
-10. Jos TTS: tä kuunnellessa on räikeä lause, työskentele se:
-Jos ei ole väliä, onko alkuperäistä muokattu, vaihda se [kollektiivisen modifioinnin] toimintoon.
-Muutoksen jälkeen varmuuskopiotiedosto pysyy kirjastossani, joten jos muokkaat sitä vahingossa, voit palauttaa sen uudelleen.
-Jos haluat poistaa alkuperäisen vain TTS: stä koskettamatta sitä, käytä TTS -suodatinta.
+10. Ratkaisu Jos on lause, joka on ärsyttävä TTS: n kuunnellessa:
+Jos et välitä alkuperäisen muokattavan muun muassa, muuta [Batch Edit] -toimintoa.
+Muutosten jälkeen varmuuskopiotiedosto pysyy kirjastossani, joten jos teet muutoksia vahingossa, voit palauttaa ne.
+Jos haluat poistaa vain TTS: tä koskettamatta alkuperäistä, käytä TTS -suodatinta.
 
-11. Sivun liittyvä kuvaus:
-Jos käytät erityisiä toimintoja, kuten TTS -lauseen tarkastus, erän korjaus, linjojen uudelleenorganisointi ja käännös, sivut kulutetaan, mutta koska se on noin 10-50, et tunne sitä kuluttavan.
-Suurinta osaa sivuja käytetään todennäköisesti tuntemaan tekstin ottaessa OCR: stä, EPUB: sta ja PDF: stä.
-Tekstiä otettaessa emme vain poimia yksin, vaan myös järjestämme lauseita tekemällä kymmeniä ongelmia, jotka ilmenevät malleihin poiminnan jälkeen.
-Se on osa, jota oli todella vaikea toteuttaa, joten kokeile sitä.
+11. Pisteeseen liittyvä selitys:
+Pisteitä käytetään, kun käytetään erityisiä toimintoja, kuten TTS -lauseen tarkistamista, erän muokkaamista, linjajärjestelyä ja käännöstä, mutta koska ne ovat noin 10-50, et tunne kulutusta.
+Suurinta osaa pisteistä todennäköisesti käytetään siinä asteessa, joka voidaan tuntea tekstin purkautuessa OCR: stä, EPUB: sta ja PDF: stä.
+Tekstiä purkaessamme emme vain poimia tekstiä, vaan myös luo kuvioita kymmenistä ongelmista, jotka syntyvät uuttamisen jälkeen ja jatkavat lauseiden organisaatiota.
+Tämä osa toteutettiin suurella vaikeudella, joten yritä käyttää sitä vähintään kerran.
 
 
-12. Mainonnan kuvaus:
+12. Mainontaan liittyvä selitys:
 Olen sekä kehittäjä että käyttäjä.
-Olemme lisänneet mainoksia siinä määrin, että ne eivät häiritse käyttöä niin paljon kuin mahdollista.
-Mainokset sisältävät sivusuojattuja mainoksia ja AD: n poistomainoksia.
-Sivulla on jopa 60 000 sivua.
-Mainoksia poistaessasi voit käyttää sivua mainosten poistamiseen tietyn ajanjakson ajan. (Lukuun ottamatta uniaikaa, se on noin päivä.)
-Niille, jotka ovat pinottavia sivuja, voit poistaa katsojan puolen mainonnan kuluttamalla 2000 sivua.
-Kun kulutat 8000 sivua, kaikki mainokset on poistettu käytöstä lukuun ottamatta 30 sekunnin mainoksia sivujen hankkimiseksi ja alkuperäisistä mainoksista asetusten keskellä.
-Niille, joita häiritsevät lyhyet mainokset, jotka ilmestyvät suuren määrän muuntamisen aikana.
+Mainoksia on lisätty siinä määrin, että ne eivät häiritse käyttöä niin paljon kuin mahdollista.
+Mainoksia on kahta tyyppiä: mainokset ja mainosten poistomainokset varmistavat pisteet.
+Voit pitää jopa 60 000 pistettä.
+Mainoksia poistettaessa voit käyttää pisteitä mainoksien poistamiseen tietyn ajanjakson ajan. (Lukuun ottamatta nukkumisaikaa, se on noin yksi päivä.)
+Niille, jotka keräävät pisteitä etukäteen, voit poistaa katsojan puolen mainokset kuluttamalla 2000 pistettä.
+Kun kulutat 8000 pistettä, kaikki mainokset poistetaan vammaiseksi lukuun ottamatta 30 sekunnin mainosta pisteiden turvaamiseksi ja alkuperäisen mainonnan keskellä.
+8000 pisteen mainos lisättiin niille, joiden mielestä on ärsyttävää nähdä lyhyitä mainoksia, jotka ilmestyvät suorittaessaan suuria muuntamistehtäviä.
 
 
-13. Ominaisuuden kuvaus EAR: lle (historian interworing):
-Se tukee korvanäkymätoimintoa.
-Oletetaan esimerkiksi, että meillä on asiakirja, jonka otsikko on A (1-50), ja meillä on uusi asiakirja nimeltään A (1-100).
-Tässä tapauksessa on jo välttämätöntä ohittaa pääasento.
-Kun valitset tekstitiedoston kirjastossani, Ear View -valikko tulee näkyviin.
-Jos valitset tämän valikon ja valitset sitten (1-50) historiassa, se ohittaa automaattisesti aiemmin katsottujen sijainnin.
-Kun sinulla on aikaa myöhemmin, poista (1-50) historiasta.
+13. Jatkoa (historian kytkentä) -toiminto: Kuvaus:
+Tukee jatkuvaa katselutoimintoa.
+Oletetaan esimerkiksi, että asiakirja on nimeltään A (1 ~ 50), mutta saat nyt uuden asiakirjan, jonka otsikko on A (1 ~ 100).
+Tässä tapauksessa sinun on jo ohitettava pääpaikka.
+Kun valitset tekstitiedoston kirjastossani, jatka -valikko tulee näkyviin.
+Kun olet valinnut tämän valikon, jos valitset historian (1 ~ 50), se ohittaa automaattisesti aiemmin katsottujen sijainnin.
+Kun sinulla on aikaa myöhemmin, poista (1 ~ 50) historiasta.
 Historiassa lasketaan myös kirjojen kokonaismäärä.
 Jos sama asiakirja on jäljellä, epätarkkoja tietoja voidaan näyttää.
 
 
-14. Kirjanmerkki/huomautus/pääosassa kuvaus:
-Sovellus tukee muistiinpanoja ja kirjanmerkkejä/pääosissa.
-Jos käynnistät kirjanmerkkitoiminnon kirjanmerkki -asetuksissa, voit lisätä sen painamalla ja pitämällä tekstiä.
-Huomautusominaisuuden avulla voit valita ja kirjoittaa tiedoston, jos olet avannut sen vähintään kerran.
-Jos avaat tiedoston ainakin kerran, tähti ilmestyy tiedoston valinnan yläosaan.
-Muistiinpanoja ja horoskooppeja voidaan käyttää itse tiedoston arviointien tallentamiseen.
-Kirjanmerkkejä voidaan käyttää tärkeän sisällön tallentamiseen.
+14. Kirjanmerkki/MUMO/Tähtien luokitus Kuvaus:
+Sovellus tukee muistiota ja kirjanmerkkejä/Star -luokitustoimintoja.
+Jos käynnistät kirjanmerkkitoiminnon kirjanmerkki -asetuksissa, voit lisätä sen painamalla tekstiä pitkään.
+Muistio -toiminnon avulla voit valita ja kirjoittaa tiedoston, jos olet avannut ja katsonut tiedostoa vähintään kerran.
+Jos avaat tiedoston jopa kerran, yläosassa on tähti, kun valitset tiedoston.
+Muistiinpanoja ja luokituksia voidaan käyttää itse tiedoston arviointien tallentamiseen.
+Kirjanmerkkejä voidaan käyttää tärkeiden tietojen tallentamiseen.
 
 
 
-14. TTS -lauseen tarkastaja Kuvaus:
-Kun tarkastelin paljon asiakirjoja, aloin nähdä hyvin kirjoitettujen ja kirjoitettujen tekstien mallin.
-Löysin kuvion, joka tulee aina esiin valitetuissa teksteissä.
-Järjestäin tämän kuvion ja tuotin sen painottamalla jokaista kuviota.
-Nimeimme sen aluksi [minun haku].
-Tämä toiminto tehtiin kuitenkin liian subjektiivisella harkinnalla, joten muutin sen TTS -lauseen tarkistajaksi.
+14. TTS -lauseen tarkistaja Kuvaus:
+Kun tarkastelin lukuisia asiakirjoja, aloin nähdä kuvioita hyvin kirjoitettujen ja ei niin hyvin kirjoitettujen artikkeleiden välillä.
+Löysin mallin, joka esiintyy aina pettymysartikkeleissa.
+Tämä on funktio, jonka luin järjestämällä nämä kuviot ja antamalla painoa jokaiselle kuviolle.
+Aluksi tämä toiminto nimettiin [miinanraivaaja].
+Tämä toiminto luotiin kuitenkin liian subjektiivisen tuomion perusteella, joten se muutettiin TTS -lauseen tarkistajaksi.
 Tämä ominaisuus tukee vain koreaa.
-En tiedä muiden maiden kieltä, joten en voi järjestää mallejani, onko se hyvä vai huono.
-Jos muissa maissa on tällainen malli, lähetä se meille sähköpostitse.
-Kun voit tukea useita kansallisia kieliä, siirrämme toiminnon asetuksiin.
-Asetuksissa on vielä yksi paikka.
+Koska en tunne muiden maiden kieliä hyvin, en voinut selvittää, oliko kirjoittaminen hyvä vai huono.
+Jos muissa maissa on tällainen malli, ilmoita siitä sähköpostitse.
+Kun voimme tukea useita kansallisia kieliä, siirrämme ominaisuuden asetuksiin.
+Asetuksissa on vielä yksi tila.
 
 
-15. Selitys koiran hallinnon toiminnasta:
-Tämä on menetelmä, jota voidaan käyttää, jos lause ei ole valmis, mutta merkintä on alhaalla.
-Yleensä tämä tapahtuu paljon asiakirjoihin, jotka on työskennellyt OCR -muuntamisen kanssa.
-Tämä ominaisuus ei ole vain Enter -yhdistelmä.
-Se on toiminto, joka toteutetaan analysoimalla asiakirjoja, joissa on lukuisia avausvirheitä ja järjestämällä kuviot.
-Yritin esitellä AI: n järjestämään sen, mutta se ei ollut helppoa.
-Luonnollisesta kielenkäsittelystä on nykyään paljon tutkimusta, joten lisään sen, jos voin käsitellä sen myöhemmin AI: lla.
+15. Line Break -toiminnon kuvaus:
+Line Break -lause on menetelmä, jota voidaan käyttää, kun lause ei ole valmis, mutta Enter -näppäintä painetaan.
+Tämä ilmiö esiintyy yleensä OCR -muuntamisen kautta käsiteltyissä asiakirjoissa.
+Tämä toiminto ei vain yhdistä Enter.
+Tämä toiminto toteutettiin analysoimalla asiakirjoja, joissa on lukuisia Newline -virheitä ja järjestämällä kuviot.
+Yritin esitellä järjestämisen AI: n avulla, mutta se ei ollut helppoa.
+Nykyään luonnollisen kielenkäsittelyä tehdään paljon tutkimusta, joten jos voimme käsitellä sitä AI: n kanssa tulevaisuudessa, yritämme lisätä sen.
 
 16. Käännöstoiminto Kuvaus:
-Paikallista käännös- / verkkoselaimen käännöstoimintoja tuetaan.
-Paikallinen käännös on toiminto, joka kääntyy Googlen kehittämäksi AI: ksi. Yksinkertaiset sanat voidaan kääntää hyvin, mutta lauseen käännöksessä näyttää olevan paljon vääriä käännöksiä.
-Web -selaimen käännös on toiminto, joka näyttää lauseet käännettäväksi selaimessa.
-Jos käynnistät käännöstoiminnon asetuksissa - käännösasetukset ja painaa lausetta, käännöstoiminto toimii.
+Tukee paikallisia käännös-/selaimen käännöstoimintoja.
+Paikallinen käännös on toiminto, joka kääntää Googlen kehittämän AI: n avulla. Yksinkertaiset sanat käännetään hyvin, mutta lauseiden käännöksessä näyttää olevan melko vähän vääriä käännöksiä.
+Web -selaimen käännös on toiminto, joka näyttää selaimessa käännettävän lauseen.
+Jos käynnistät käännöstoiminnon [Asetukset - käännösasetukset] ja painaa lausetta, käännöstoiminto toimii.
 
 17. Muut asiat:
-Kun avaat asiakirjan, yli kolme kertaa toistuva merkintä avataan vaihtamalla kaksi kertaa.
-Liiallinen pääsy on hankalaa kuunnella TTS: n kanssa ja epämiellyttävää nähdä.
-Jotkut teistä ovat jo huomanneet käyttämästäni sovellusta pitkään. "Hmm? Jotkut teistä saattavat ajatella," en ole koskaan nähnyt paljon viihdettä. "
-Olemme toteuttaneet yhtä paljon toimintoja kuin tekstin katsoja voi tukea.
+Asiakirjaa avaamalla EverApp muuttaa Enter -avaimen automaattisesti, joka toistetaan vähintään kolme kertaa kahdesti.
+Liialliset saapuvat ovat epämiellyttäviä kuunnella ja tarkastella TTS: tä.
+Jotkut teistä ovat jo huomanneet tämän käyttäessään sovellusta pitkään ja sanovat: “Hmm? Nyt kun ajattelen sitä, en ole koskaan nähnyt sinun painaa Enter paljon? " Jotkut ihmiset saattavat ajatella niin.
+Olemme ottaneet käyttöön mahdollisimman monta ominaisuutta tekstin katsojaan.
 
-Kirjoitin 17 käyttöä, mutta en usko, että olen vielä käyttänyt puolta niistä.
-Yksinkertaiset toiminnot, kuten taustaväri, taustakuva, kirjaimen väri ja sivun kääntömenetelmä, on jätetty pois.
-Toivon, että tämä asiakirja auttaa monia ihmisiä.
-Jos tarkastellaan asetuksia - tietoja ja apua, on linkki Telegram -ryhmäkeskusteluun, joten jos sinulla on kysyttävää, voit tulla ja kysyä.
-Kiitos lukemisesta loppuun asti.
+Kirjoitin seitsemäntoista tapaa käyttää sitä, mutta en usko, että olen vielä kirjoittanut siitä vielä puolet siitä.
+Yksinkertaiset toiminnot, kuten taustaväri, taustakuva, tekstin väri ja pisteen kääntämismenetelmä, on jätetty pois.
+Toivon, että tämä artikkeli on hyödyllinen monille ihmisille.
+Jos tarkastellaan [asetuksia - tietoja ja apua], Telegram -ryhmän chat -huoneeseen on linkki, joten jos sinulla on kysyttävää, voit tulla ja kysyä.
+Kiitos, että luit.

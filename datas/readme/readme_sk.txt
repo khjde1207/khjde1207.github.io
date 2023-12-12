@@ -1,152 +1,152 @@
-Ako ho používať (musí čítať):
+Ako používať (musí čítať):
 
-Táto aplikácia má veľa funkcií, preto vám odporúčam prečítať si ju jeden po druhom.
+Táto aplikácia má veľa funkcií, preto ju odporúčam prečítať.
 
 1. Ako zobraziť súbory:
-Kliknite na Pridať súbor do môjho dokumentu a pridajte TXT.
-Dotknite sa súboru TXT a stlačte tlačidlo Otvoriť v dolnej časti, aby ste zobrazovali súbor.
+Kliknite na Pridať súbor do mojej knižnice a pridajte TXT.
+Súbor si môžete zobraziť dotykom súboru TXT a stlačením tlačidla Otvoriť v dolnej časti.
 
 
-2. Ako skryť reklamy divákov / navigačné tlačidlá:
-Dvojitým klepnite na stred obrazovky.
-Pri prechode na celú obrazovku zmiznú reklamy a tlačidlá.
+2. Ako skryť reklamy diváka/navigačné tlačidlá:
+Dvojito klepnite stred obrazovky.
+Keď sa prepne na celú obrazovku, reklamy a tlačidlá zmiznú.
 
 
-3. Zmeniť oblasť funkcie Button Mitt:
-Môžete ho zmeniť v časti Nastavenia - Nastavenia dotykovej oblasti.
-Môžete nastaviť množstvo funkcií vrátane celej obrazovky, pohybu stránky, nastavenia jasu a ovládania hlasitosti.
-Podporuje sa aj diaľkové ovládanie Bluetooth, takže si môžete ľahnúť a pohodlne ho sledovať.
+3. Ako zmeniť oblasť tlačidla a funkcie:
+Môžete ho zmeniť v [Nastavenia - Nastavenia oblasti Touch Area].
+Môžete nastaviť rôzne funkcie, ako napríklad celá obrazovka, pohyb strán, ovládanie jasu a ovládanie hlasitosti.
+Podporuje sa aj diaľkové ovládanie Bluetooth, takže ho môžete umiestniť na stojan a pohodlne ho pri ľahuní.
 
 
-4. Zmena veľkosti písma alebo písma:
-Môžete zmeniť veľkosť písma alebo písma v nastaveniach - Nastavenia - Nastavenia písma.
-Písmo môžete použiť stlačením tlačidla sťahovania na prijímanie desiatok bezplatných písiem.
+4. Ako zmeniť veľkosť písma alebo textu:
+Veľkosť písma alebo písma môžete zmeniť v [Nastavenia - Nastavenia - nastavenia písma].
+Kliknutím na tlačidlo sťahovania môžete použiť desiatky bezplatných písiem.
 
 
-5. Ako používať konverziu textu obrázka:
-Môžete extrahovať text z komprimovaného obrázka. Toto sa nazýva funkcia OCR.
-Môj denník - kliknite na Pridať súbor a pridať súbor zip.
+5. Ako používať funkciu konverzie obrázka na text:
+Môžete extrahovať text z komprimovaných obrázkov. Toto sa nazýva funkcia OCR.
+Moja knižnica - kliknite na Pridať súbor a pridajte súbor ZIP.
 Môžete previesť výberom súboru ZIP a potom výberom ponuky OCR.
-Stránka sa spotrebuje počas konverzie.
-OCR pracuje s AI, takže jeho rýchlosť a presnosť sú celkom dobré.
+Počas konverzie sa spotrebúvajú stránky.
+OCR sa robí pomocou AI, takže jeho rýchlosť a presnosť sú celkom dobré.
 
 
-6. Epub, Metóda konverzie PDF:
+6. Ako previesť Epub na PDF:
 Je to rovnaké ako metóda konverzie obrázka.
-Je potrebné si uvedomiť niekoľko vecí.
-EPUB alebo PDF môžu byť „šifrované“.
-Používa sa hlavne na zlomenie listov a zviditeľnenie iba v určitých písmach.
-V tomto prípade to vyjde ako mimozemská postava, nie kórejčina, takže ho nemôžete prečítať v TTS.
-Ako spôsob, ako vyriešiť tento problém, je možné použiť funkciu extrahovania obrázkov a potom sa môže OCR otáčať na extrahovanie.
+Je potrebné mať na pamäti niekoľko vecí.
+V prípade EPUB alebo PDF môže byť „šifrovaný“.
+Najbežnejšou metódou je zabezpečiť, aby boli listy skombinované a viditeľné iba v konkrétnych písmach.
+V tomto prípade ho nedá čítať pomocou TTS, pretože to vyzerá skôr ako mimozemská postava ako kórejčina.
+Na vyriešenie tohto problému môžete použiť funkciu extrakcie obrázka a potom ju na jeho extrahovanie pomocou OCR použiť.
 
 
 7. Ako nastaviť TTS:
-Nastavenia súvisiace s TTS sú koncentrované v nastaveniach - nastavenia TTS, nastavenia filtra TTS.
-Nastavenia TTS obsahujú jednoduché funkcie TTS, ako sú hlas, rýchlosť, hlasitosť, priehľadnosť tlačidla, znaky končiace vety a počet viet čítaných naraz, ako aj zariadenia, ktoré dopĺňajú funkcie TTS.
-Počet viet naraz je funkciou pridanej funkcie, ktorá umožňuje, aby sa naraz narazilo na viacnásobné riadky s minimálnym oneskorením.
-Filter TTS je jednou z najsilnejších funkcií tejto aplikácie.
-[Nastavenia filtra TTS] umožňuje nastaviť množstvo špeciálnych znakov, slov alebo viet, ktoré potrebujete preskočiť.
-Ak stlačíte tlačidlo sťahovania, môžete si stiahnuť desiatky filtrov, ktoré som vyrobil.
-Môžete to tiež pridať sami, ak to potrebujete.
-[Automatická funkcia vypnutia] môže nastaviť automatický čas vypnutia dotykom ikony v tvare mesiaca na ľavej strane tlačidla zastavenia pri prehrávaní TTS.
+Nastavenia súvisiace s TTS sú koncentrované v [Nastavenia - nastavenia TTS] a [nastavenia filtra TTS].
+Nastavenia TTS zahŕňajú nielen jednoduché funkcie TTS, ako sú hlas, rýchlosť, hlasitosť, transparentnosť tlačidla, znak konca vety a počet viet naraz, ale aj zariadenia, ktoré dopĺňajú funkciu TTS.
+Počet viet naraz je pridanou funkciou, ktorá vám umožní čítať viac riadkov naraz a počúvať s minimálnym oneskorením.
+TTS Filter je jednou z najvýkonnejších funkcií tejto aplikácie.
+V [nastaveniach filtra TTS] môžete nastaviť rôzne špeciálne znaky, slová alebo vety, ktoré by sa mali preskočiť.
+Ak kliknete na tlačidlo sťahovania, môžete si stiahnuť desiatky filtrov, ktoré som vytvoril.
+V prípade potreby môžete tiež pridať svoj vlastný.
+[Automatická funkcia vypnutia] umožňuje nastaviť automatický čas vypnutia dotykom ikony v tvare mesiaca vľavo od tlačidla zastavenia pri prehrávaní TTS.
 
 
-8. Popis schopností zálohovania a obnovy:
-Setup - Zálohovanie a obnovenie je funkcia, ktorá umožňuje viacerým zariadeniam používať aplikáciu v rovnakom prostredí.
-Môžete sa prihlásiť na jednotku na obnovenie zálohovania.
-Pri pohľade z viacerých zariadení, ako sú počítače, telefóny a podložky, môžete na synchronizáciu svojho umiestnenia na sledovanie použiť zálohu polohy.
-Vyberte zariadenie, ktoré chcete autosynchronizovať, a zapnite funkciu autosynchronizácie, aby ste sa automaticky presunuli na posledné miesto, keď spustíte aplikáciu alebo choďte domov a vrátite sa.
+8. Funkcia zálohovania a obnovy Popis:
+[Nastavenia - zálohovanie a obnovenie] je funkcia vytvorená, ktorá vám umožní používať aplikáciu v rovnakom prostredí na viacerých zariadeniach.
+Môžete sa prihlásiť do jednotky a obnoviť zálohy.
+Pri prezeraní na viacerých zariadeniach, ako je PC, Phone alebo PAD, môžete synchronizovať umiestnenie sledovania pomocou zálohovania polohy.
+Ak vyberiete zariadenie na automaticky synchronizáciu a zapnete funkciu [Auto Sync], automaticky sa presunie na posledné zobrazené miesto, keď spustíte aplikáciu alebo odíde a vrátite sa na domovskú stránku.
 
-9. Ako používať modifikáciu textovej dávky:
-1. [Nastavenia - Nastavenia - tlačidlo Bulk Edit]
-2. [Nastavenia - kolektívne upravte text]
-Modifikáciu dávky môžete použiť dvoma spôsobmi.
-V prípade číslo 1 sa používa na počúvanie TTS a na vymazanie alebo zmenu vety na inú postavu, ak sú niektoré vety alebo slová nepríjemné.
-V prípade čísla 2 môžete text extrahovať pomocou OCR a vyberte textový súbor z dokumentu, aby ste vykonali korekciu šarže.
-Na stiahnutie a používanie často sa vyskytujúce chyby rozpoznávania môžete použiť aj tlačidlo sťahovania na korekciu dávky textu.
-Hromadné opravy - Stiahnutie zobrazí zoznam iba vtedy, ak sú nastavenia jazyka v kórejčine.
-Je to preto, že vývojári nehovoria inými jazykmi.
-Ak nahlásite pomocou funkcie správy, pridám jazyk krajiny.
+9. Ako používať text úpravy šarže:
+1. [Nastavenia - Nastavenia - Zobraziť tlačidlo Upraviť dávku]
+2. [Nastavenia - Bulk Edit Text]
+Hromadné úpravy je možné použiť dvoma spôsobmi.
+V prípade 1, ak sú niektoré vety alebo slová nepríjemné pri počúvaní TTS, používa sa na vymazanie viet alebo na ich zmenu na iné znaky.
+V prípade 2 môžete extrahovať text pomocou OCR a potom zvoliť textové súbory z mojej knižnice, aby ste vykonali úpravu dávok.
+Môžete tiež použiť tlačidlo sťahovania na dávku úpravy textu na sťahovanie často sa vyskytujúce chyby rozpoznávania.
+[Batch Edit - Stiahnutie] Zobrazí zoznam iba vtedy, ak je nastavenie jazyka kórejské.
+Je to preto, že vývojári nevedia, ako hovoriť inými jazykmi.
+Ak ho nahlásite pomocou funkcie správy, pridáme jazyk vašej krajiny.
 
-10. Ak pri počúvaní TTS existuje drsná veta, vypracujte ju:
-Ak nezáleží na tom, či je originál upravený, zmeňte ho na funkciu [Collective Modification].
-Po zmene zostane záložný súbor v mojej knižnici, takže ak ho náhodou upravíte, môžete ho znova získať.
-Ak chcete odstrániť originál iba z TTS bez toho, aby ste sa ho dotkli, použite filter TTS.
+10. Riešenie Ak existuje veta, ktorá je nepríjemná pri počúvaní TTS:
+Ak vám nevadí upravenie originálu, pomocou funkcie [Batch Edit] ju zmeníte.
+Po zmenách zostane záložný súbor v mojej knižnici, takže ak ich urobíte omylom, môžete ich obnoviť.
+Ak chcete odstrániť iba TTS bez toho, aby ste sa dotkli originálu, použite filter TTS.
 
-11. Popis súvisiaci s stránkou:
-Ak používate špeciálne funkcie, ako je kontrola vety TTS, korekcia šarže, reorganizácia riadkov a preklad, stránky sa budú konzumovať, ale keďže je to asi 10 až 50, nebudete sa cítiť konzumovaný.
-Väčšina strán sa pravdepodobne použije na to, aby sa cítila pri extrakcii textu z OCR, EPUB a PDF.
-Pri extrahovaní textu nielen extrahujeme jednotlivé ruky, ale tiež organizujeme vety tým, že robíme desiatky problémov, ktoré sa objavia po extrakcii do vzorcov.
-Je to časť, ktorú bolo skutočne ťažké implementovať, takže to skúste.
+11. Vysvetlenie súvisiace s bodom:
+Body sa konzumujú pri používaní špeciálnych funkcií, ako je kontrola vety TTS, úpravy dávky, usporiadanie čiary a preklad, ale keďže sú asi 10 až 50, nebudete cítiť spotrebu.
+Väčšina bodov sa pravdepodobne použije do určitej miery, ktorá sa môže cítiť pri extrakcii textu z OCR, EPUB a PDF.
+Pri extrahovaní textu nielen extrahujeme text, ale tiež vytvárame vzory z desiatok problémov, ktoré vznikajú po extrakcii a pokračujeme v organizácii vety.
+Táto časť bola implementovaná s veľkými ťažkosťami, preto ju skúste použiť aspoň raz.
 
 
-12. Popis reklamy:
+12. Vysvetlenie súvisiace s reklamou:
 Som vývojár aj používateľ.
-Pridali sme reklamy do rozsahu, v akom nezasahujú do čo najväčšieho použitia.
-Reklamy zahŕňajú reklamy zabezpečené stránky a reklamy na odstraňovanie reklamy.
-Stránka môže vydržať až 60 000 strán.
-Pri odstraňovaní reklám môžete túto stránku pomocou reklamy odstrániť na určité časové obdobie. (Okrem času spánku, je to asi deň.)
-Pre tých, ktorí majú predbežné stránky, môžete odstrániť reklamu na strane diváka konzumáciou 2000 strán.
-Keď konzumujete 8 000 strán, všetky reklamy sú deaktivované, s výnimkou 30-sekundových reklám na získanie stránok a natívne reklamy v strede nastavení.
-Pre tých, ktorých obťažujú krátke reklamy, ktoré sa objavia počas veľkého množstva konverzie, boli pridané 8000 strán reklamy.
+Reklamy boli pridané do rozsahu, v akom nezasahujú do čo najväčšieho množstva používania.
+Existujú dva typy reklám: body zabezpečujúce reklamy a reklamy na odstraňovanie reklamy.
+Môžete držať až 60 000 bodov.
+Pri odstraňovaní reklám môžete použiť body na odstránenie reklám na určité časové obdobie. (Okrem času spánku je to približne jeden deň.)
+Pre tých, ktorí akumulujú body vopred, môžete odstrániť reklamy na strane divákov konzumáciou 2000 bodov.
+Keď konzumujete 8 000 bodov, všetky reklamy budú deaktivované, s výnimkou 30-sekundovej reklamy na zabezpečenie bodov a natívnej reklamy uprostred nastavení.
+Reklama 8000 bodov bola pridaná pre tých, ktorí považujú za nepríjemné vidieť krátke reklamy, ktoré sa objavia pri vykonávaní veľkých konverzných úloh.
 
 
-13. Popis funkcie pre ucho (interworking histórie):
-Podporuje funkciu zobrazenia ucha.
-Povedzme napríklad, že máme dokument s názvom A (1 až 50) a máme nový dokument s názvom A (1 až 100).
-V tomto prípade je už potrebné preskočiť hlavnú pozíciu.
-Keď v mojej knižnici vyberiete textový súbor, zobrazí sa ponuka Zobrazenie ucha.
-Ak vyberiete túto ponuku a potom v histórii vyberte (1 až 50), automaticky preskočí predtým zobrazenú pozíciu.
-Keď máte čas neskôr, vyberte (1-50) z histórie.
+13. Funkcia Popis pokračovania (prepojenie histórie):
+Podporuje funkciu nepretržitého sledovania.
+Povedzme napríklad, že existuje dokument s názvom A (1 ~ 50), ale teraz dostanete nový dokument s názvom A (1 ~ 100).
+V takom prípade už musíte preskočiť hlavné miesto.
+Keď v mojej knižnici vyberiete textový súbor, zobrazí sa ponuka Pokračovanie.
+Po výbere tejto ponuky, ak v histórii vyberiete (1 ~ 50), automaticky preskočí predtým zobrazené umiestnenie.
+Keď máte čas neskôr, vyberte (1 ~ 50) z histórie.
 V histórii sa počíta aj celkový počet čítaných kníh.
 Ak zostane rovnaký dokument, môžu sa zobraziť nepresné informácie.
 
 
-14. Záložka/poznámka/hlavný popis:
-Aplikácia podporuje poznámky a záložku/v hlavnej úlohe.
-Ak zapnete funkciu záložiek v nastaveniach záložiek, môžete ju pridať stlačením a podržaním textu.
-Funkcia poznámok vám umožňuje vybrať a zadať súbor, ak ste ho otvorili aspoň raz.
-Ak otvoríte súbor aspoň raz, v hornej časti výberu súboru sa zobrazí hviezda.
-Poznámky a horoskopy sa dajú použiť na zaznamenávanie vyhodnotenia samotného súboru.
-Záložky sa dajú použiť na zaznamenávanie dôležitého obsahu.
+14. Popis ratingu záložiek/memoranda/hviezdy:
+Aplikácia podporuje funkcie poznámky a záložky/hodnotenie hviezdičiek.
+Ak zapnete funkciu záložiek v nastaveniach záložiek, môžete ju pridať dlhým stlačením textu.
+Funkcia memoranda vám umožňuje vybrať a zadať súbor, ak ste otvorili a prezerali súbor aspoň raz.
+Ak otvoríte súbor aj raz, pri výbere súboru je hviezda v hornej časti.
+Poznámky a hodnotenia sa môžu použiť na zaznamenávanie hodnotení samotného súboru.
+Záložky sa dajú použiť na zaznamenávanie dôležitých informácií.
 
 
 
-14. Popis skúšajúceho TTS vety:
-Keď som sa pozrel na veľa dokumentov, začal som vidieť vzor dobre napísaných a nepísaných textov.
-Našiel som vzor, ​​ktorý vždy vyjde v nešťastných textoch.
-Zorganizoval som tento vzorec a vytvoril som ho vážením každého vzoru.
-Najprv sme to pomenovali [moje vyhľadávanie].
-Táto funkcia však bola vykonaná s príliš subjektívnym úsudkom, takže som ju zmenil na kontrolu vety TTS.
+14. Popis kontroly vety TTS:
+Keď som sa pozrel na mnohé dokumenty, začal som vidieť vzory medzi dobre napísanými a nie tak jasnými článkami.
+Objavil som vzorec, ktorý sa vždy objavuje v sklamaných článkoch.
+Toto je funkcia, ktorú som vytvoril organizovaním týchto vzorov a prideľovaním hmotnosti každému vzoru.
+Spočiatku bola táto funkcia pomenovaná [Minesweeper].
+Táto funkcia však bola vytvorená na základe príliš subjektívneho úsudku, takže sa zmenila na kontrolu vety TTS.
 Táto funkcia podporuje iba kórejčinu.
-Nepoznám jazyk iných krajín, takže nemôžem zorganizovať svoje vzorce, či je to dobré alebo zlé.
-Ak v iných krajinách existuje vzorec, pošlite nám ho e-mailom.
-Akonáhle budete môcť podporiť viacero národných jazykov, presunieme funkciu do nastavení.
-V nastaveniach zostáva ešte jedno miesto.
+Pretože nepoznám jazyky iných krajín, nedokázal som zistiť, či bolo písanie dobré alebo zlé.
+Ak v iných krajinách existuje vzorec, nahláste ho e -mailom.
+Keď dokážeme podporiť viac národných jazykov, presunieme funkciu do nastavení.
+V nastaveniach zostáva ešte jeden priestor.
 
 
-15. Vysvetlenie funkcie správy psov:
-Toto je metóda, ktorú je možné použiť, ak veta nie je dokončená, ale vstup je dole.
-Zvyčajne sa to stáva veľa dokumentov, ktoré sa pracujú s konverziou OCR.
-Táto funkcia nie je iba kombináciou ENTER.
-Je to funkcia, ktorá je implementovaná analýzou dokumentov s mnohými chybami otvárania a organizovaním vzorov.
-Snažil som sa predstaviť AI, aby som ju usporiadal, ale nebolo to ľahké.
-V súčasnosti existuje veľa výskumov o spracovaní prirodzeného jazyka, takže ho pridám, ak ho môžem spracovať neskôr s AI neskôr.
+15. Popis funkcie zlomenia riadkov:
+TEORM LINE BREACE je metóda, ktorá sa dá použiť po dokončení vety, ale stlačí tlačidlo Enter.
+Tento jav sa zvyčajne vyskytuje v dokumentoch spracovaných konverziou OCR.
+Táto funkcia nielen kombinuje Enter.
+Táto funkcia bola implementovaná analýzou dokumentov s mnohými novými chybami a usporiadaním vzorov.
+Snažil som sa predstaviť organizovanie pomocou AI, ale nebolo to ľahké.
+V dnešnej dobe sa veľa výskumov vykonáva v oblasti spracovania prirodzeného jazyka, takže ak ho dokážeme v budúcnosti spracovať pomocou AI, pokúsime sa ho pridať.
 
 16. Popis funkcie prekladu:
-Podporuje sa funkcia miestneho prekladu / prekladu prekladu webového prehliadača.
-Miestny preklad je funkcia, ktorá sa prekladá do AI vyvinutej spoločnosťou Google. Jednoduché slová je možné preložiť dobre, ale zdá sa, že pri preklade vety je veľa nesprávnych prekladov.
-Preklad webového prehľadávača je funkcia, ktorá zobrazuje vety, ktoré sa majú preložiť v prehliadači.
-Ak zapnete funkciu prekladu v nastaveniach - nastavenia prekladu a stlačte a podržte vetu, funkcia prekladu bude fungovať.
+Podporuje funkcie prekladu miestneho prekladu/prekladu webového prehľadávača.
+Lokálny preklad je funkcia, ktorá prekladá pomocou AI vyvinutej spoločnosťou Google. Jednoduché slová sa prekladajú dobre, ale zdá sa, že v preklade vety je pomerne málo nesprávnych prekladov.
+Preklad webového prehliadača je funkcia, ktorá zobrazuje vetu, ktorá sa má preložiť v prehliadači.
+Ak zapnete funkciu prekladu v [Nastavenia - Nastavenia prekladu] a stlačte a podržte vetu, funkcia prekladu bude fungovať.
 
 17. Ostatné záležitosti:
-Keď otvoríte dokument, položka, ktorá sa opakuje viac ako trikrát, sa otvorí prepnutím na dvakrát.
-Nadmerný vstup je nepohodlný na počúvanie s TTS a nepohodlné vidieť.
-Niektorí z vás si už možno všimli používanie mojej aplikácie po dlhú dobu. „Hmm? Niektorí z vás by si mohli myslieť,„ nikdy som nevidel veľa zábavy. “
-Implementovali sme toľko funkcií, ako môže podporovať textový prehliadač.
+Pri otváraní dokumentu spoločnosť EarApp automaticky zmení kláves Enter, ktorý sa opakuje trikrát alebo viackrát na dvakrát.
+Nadmerné vstupy sú nepohodlné počúvať a prezerať prostredníctvom TTS.
+Niektorí z vás si to už možno všimli pri používaní mojej aplikácie po dlhú dobu a hovoria: „Hmm? Teraz, keď o tom premýšľam, nikdy som ťa nevidel, že ťa veľa stlačí? “ Niektorí ľudia si to môžu myslieť.
+V textovom prehliadači sme implementovali čo najviac funkcií.
 
-Napísal som 17 použití, ale nemyslím si, že som ich ešte použil.
-Boli vynechané jednoduché funkcie, ako napríklad farba pozadia, obrázok pozadia, farba písmena a metóda otáčania stránok.
-Dúfam, že tento dokument pomôže mnohým ľuďom.
-Ak sa pozriete na nastavenia - informácie a pomoc, existuje odkaz na skupinu Telegram Group Chat, takže ak máte akékoľvek otázky, môžete prísť a opýtať sa.
-Ďakujeme, že ste si prečítali až do konca.
+Napísal som sedemnásť spôsobov, ako ho používať, ale nemyslím si, že som ešte napísal polovicu.
+Boli vynechané jednoduché funkcie, ako je farba pozadia, obrázok pozadia, farba textu a metóda otáčania bodu.
+Dúfam, že tento článok bude pre mnohých ľudí užitočný.
+Ak sa pozriete na [Nastavenia - informácie a pomoc], existuje odkaz na skupinovú miestnosť skupiny Telegram, takže ak máte akékoľvek otázky, môžete prísť a opýtať sa.
+Ďakujem za čítanie.

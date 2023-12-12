@@ -1,152 +1,152 @@
-Jak go używać (trzeba przeczytać):
+Jak używać (należy przeczytać):
 
-Ta aplikacja ma wiele funkcji, więc polecam przeczytać ją jeden po drugim.
+Ta aplikacja ma wiele funkcji, więc polecam ją przeczytać.
 
 1. Jak wyświetlić pliki:
-Kliknij Dodaj plik w moim dokumencie, aby dodać TXT.
-Dotknij pliku TXT i naciśnij przycisk Open u dołu, aby wyświetlić plik.
+Kliknij Dodaj plik w mojej bibliotece, aby dodać TXT.
+Możesz wyświetlić plik, dotykając pliku TXT i naciskając przycisk Open u dołu.
 
 
-2. Jak ukryć reklamy przeglądarki / przyciski nawigacji dolnej:
-Dwukrotnie dotknij środku ekranu.
-Gdy przełączasz się na pełny ekran, reklamy i przyciski znikają.
+2. Jak ukryć reklamy przeglądarki/przyciski nawigacji dolnej:
+Dwukrotnie kryć środek ekranu.
+Gdy przełącza się na pełny ekran, reklamy i przyciski znikają.
 
 
-3. Aby zmienić obszar funkcji MITT przycisku:
-Możesz go zmienić w ustawieniach - Ustawienia obszaru dotykowego.
-Możesz ustawić szereg funkcji, w tym pełny ekran, ruch strony, regulację jasności i kontrolę głośności.
-Obsługiwane jest również pilot Bluetooth, więc możesz położyć się i obserwować go wygodnie.
+3. Jak zmienić obszar przycisku i funkcji:
+Możesz to zmienić w [Ustawienia - Ustawienia obszaru dotykowego].
+Możesz ustawić różne funkcje, takie jak pełny ekran, ruch stron, kontrola jasności i kontrola głośności.
+Obsługiwane jest również pilot Bluetooth, dzięki czemu możesz umieścić go na stojaku i wygodnie wyświetlić leżenie.
 
 
-4. Aby zmienić rozmiar czcionki lub czcionki:
-Możesz zmienić rozmiar czcionki lub czcionki w ramach ustawień - Ustawienia - Ustawienia czcionki.
-Możesz użyć czcionki, naciskając przycisk pobierania, aby odbierać dziesiątki darmowych czcionek.
+4. Jak zmienić rozmiar czcionki lub tekstu:
+Możesz zmienić rozmiar czcionki lub czcionki w [Ustawienia - Ustawienia - Ustawienia czcionki].
+Możesz użyć dziesiątek darmowych czcionek, klikając przycisk Pobierz.
 
 
-5. Jak używać konwersji tekstu obrazu:
-Możesz wyodrębnić tekst ze skompresowanego obrazu. Nazywa się to funkcją OCR.
-Mój dziennik - kliknij Dodaj plik i dodaj plik zip.
+5. Jak używać obrazu obrazu do konwersji tekstowej:
+Możesz wyodrębnić tekst ze skompresowanych obrazów. Nazywa się to funkcją OCR.
+Moja biblioteka - kliknij Dodaj plik i dodaj plik ZIP.
 Możesz konwertować, wybierając plik ZIP, a następnie wybierając menu OCR.
-Strona jest konsumowana podczas konwersji.
-OCR współpracuje z AI, więc jego szybkość i dokładność są całkiem dobre.
+Strony są spożywane podczas konwersji.
+OCR odbywa się z AI, więc jego szybkość i dokładność są całkiem dobre.
 
 
-6. Metoda konwersji EPUB, PDF:
+6. Jak przekonwertować EPUB na PDF:
 To samo, co metoda konwersji obrazu.
 Jest kilka rzeczy, o których należy pamiętać.
-EPUB lub PDF mogą być „zaszyfrowane”.
-Służy głównie do łamania liter i uczynienia ich tylko w niektórych czcionkach.
-W tym przypadku pojawia się jak pozaziemski charakter, a nie koreański, więc nie można go przeczytać w TTS.
-Jako sposób rozwiązania tego problemu można zastosować funkcję wyodrębniania obrazów, a następnie OCR można obrócić w celu wyodrębnienia.
+W przypadku EPUB lub PDF może być „zaszyfrowany”.
+Najczęstszą metodą jest uczynienie liter zniekształconych i widocznych tylko w określonych czcionkach.
+W takim przypadku nie można go odczytać za pomocą TTS, ponieważ wygląda raczej jak obca postać niż koreański.
+Aby rozwiązać ten problem, możesz użyć funkcji ekstrakcji obrazu, a następnie użyć OCR, aby go wyodrębnić.
 
 
 7. Jak skonfigurować TTS:
-Ustawienia związane z TTS są skoncentrowane w ustawieniach - Ustawienia TTS, Ustawienia filtra TTS.
-Ustawienia TTS zawierają proste funkcje TTS, takie jak głos, prędkość, głośność, przejrzystość przycisków, znaki kończące zdania i liczbę zdań odczytanych jednocześnie, a także urządzenia, które uzupełniają funkcje TTS.
-Liczba zdań odczytanych jednocześnie jest funkcją dodaną, aby umożliwić odczytanie wielu linii od razu z minimalnym opóźnieniem.
+Ustawienia związane z TTS są skoncentrowane w [Ustawieniach - Ustawienia TTS] i [Ustawienia filtra TTS].
+Ustawienia TTS obejmują nie tylko proste funkcje TTS, takie jak głos, prędkość, głośność, przejrzystość przycisków, znak końcowy zdania i liczba zdań odczytanych jednocześnie, ale także urządzenia uzupełniające funkcję TTS.
+Liczba zdań odczytanych jednocześnie jest dodaną funkcją, która umożliwia odczytanie wielu wierszy jednocześnie i słuchania z minimalnym opóźnieniem.
 Filtr TTS jest jedną z najpotężniejszych funkcji tej aplikacji.
-[Ustawienia filtru TTS] umożliwia ustawienie wielu znaków specjalnych, słów lub zdań, które musisz pominąć.
-Jeśli naciśniesz przycisk pobierania, możesz pobrać dziesiątki filtrów, które wyprodukowałem.
-Możesz również dodać go sam, jeśli go potrzebujesz.
-[Automatyczna funkcja wyłączania] może ustawić automatyczny czas wyłączania, dotykając ikony w kształcie księżyca po lewej stronie przycisku stop podczas odtwarzania TTS.
+W [Ustawieniach filtrów TTS] możesz ustawić różne znaki specjalne, słowa lub zdania, które należy pominąć.
+Jeśli klikniesz przycisk Pobierz, możesz pobrać dziesiątki filtrów, które utworzyłem.
+W razie potrzeby możesz również dodać własne.
+[Automatyczna funkcja wyłączania] umożliwia ustawienie automatycznego czasu wyłączania, dotykając ikonę w kształcie księżyca po lewej stronie przycisku stop podczas odtwarzania TTS.
 
 
-8. Opis możliwości tworzenia kopii zapasowych i odzyskiwania:
-Konfiguracja - tworzenie kopii zapasowych i odzyskiwania to funkcja, która pozwala wielu urządzeniom korzystać z aplikacji w tym samym środowisku.
-Możesz zalogować się na dysk w celu odzyskania kopii zapasowej.
-Po przeglądaniu z wielu urządzeń, takich jak komputery, telefony i podkładki, możesz użyć kopii zapasowej lokalizacji do synchronizacji lokalizacji oglądania.
-Wybierz urządzenie, które chcesz autosynchronizować i włączyć funkcję autosynchronizacji, aby automatycznie przenieść do ostatniej lokalizacji po uruchomieniu aplikacji lub powrotu do domu.
+8. Opis funkcji kopii zapasowej i odzyskiwania:
+[Ustawienia - kopia zapasowa i odzyskiwanie] to funkcja utworzona, która umożliwia korzystanie z aplikacji w tym samym środowisku na wielu urządzeniach.
+Możesz zalogować się do dysku i przywrócić kopie zapasowe.
+Podczas przeglądania na wielu urządzeniach, takich jak komputer, telefon lub pad, możesz synchronizować lokalizację wyświetlania za pomocą kopii zapasowej lokalizacji.
+Jeśli wybierzesz urządzenie do automatycznego synchronizacji i włączenia funkcji [Auto Sync], automatycznie przeniesie się do ostatniej wyświetlonej lokalizacji po uruchomieniu aplikacji lub wyjściu i powrót do strony głównej.
 
-9. Jak używać modyfikacji partii tekstowej:
-1. [Ustawienia - Ustawienia - przycisk edycji luzem]
-2. [Ustawienia - Edytuj tekst łącznie]
-Możesz użyć modyfikacji partii na dwa sposoby.
-W przypadku numeru 1 służy do słuchania TTS i usuwania lub zmiany zdania na inną postać, jeśli niektóre zdania lub słowa są denerwujące.
-W przypadku numeru 2 możesz wyodrębnić tekst za pomocą OCR i wybrać plik tekstowy z dokumentu, aby wykonać korektę wsadową.
-Możesz także użyć przycisku pobierania, aby pobrać i używać często występujących błędów rozpoznawania do korekty partii tekstu.
-Korekty luzem - pobieranie wyświetlą listę tylko wtedy, gdy ustawienia języka są w języku koreańskim.
-Wynika to z faktu, że programiści nie mówią w innych językach.
-Jeśli zgłosisz za pomocą funkcji raportu, dodam język kraju.
+9. Jak używać tekstu edycji wsadowej:
+1. [Ustawienia - Ustawienia - Pokaż przycisk edycji wsadowej]
+2. [Ustawienia - tekst edycji luzem]
+Edycja masowa może być używana na dwa sposoby.
+W przypadku 1, jeśli niektóre zdania lub słowa są denerwujące podczas słuchania TTS, służy do usuwania zdań lub zmiany na inne postacie.
+W przypadku 2 możesz wyodrębnić tekst za pomocą OCR, a następnie wybrać pliki tekstowe z mojej biblioteki, aby wykonać edycję wsadową.
+Możesz także użyć przycisku pobierania, aby odsumować tekst edytuj, aby często pobierać występujące błędy rozpoznawania.
+[Batch Edit - Pobierz] Wyświetli listę tylko wtedy, gdy ustawienie języka jest koreańskie.
+Wynika to z faktu, że programiści nie wiedzą, jak mówić w innych językach.
+Jeśli zgłoszysz go za pomocą funkcji raportu, dodamy język Twojego kraju.
 
-10. Jeśli podczas słuchania TTS jest wstrząsające zdanie, wypracuj to:
-Jeśli nie ma znaczenia, czy oryginał jest modyfikowany, zmień go na funkcję [Modyfikację zbiorową].
-Po zmianie plik kopii zapasowej pozostanie w mojej bibliotece, więc jeśli przypadkowo go zmodyfikujesz, możesz go ponownie odzyskać.
-Jeśli chcesz usunąć oryginał tylko z TTS bez dotykania go, użyj filtra TTS.
+10. Rozwiązanie Jeśli istnieje zdanie, które jest denerwujące podczas słuchania TTS:
+Jeśli nie masz nic przeciwko modyfikowaniu oryginału, użyj funkcji [Batch Edit], aby ją zmienić.
+Po zmianach plik kopii zapasowej pozostanie w mojej bibliotece, więc jeśli popełnisz zmiany przez pomyłkę, możesz je przywrócić.
+Jeśli chcesz usunąć tylko TTS bez dotykania oryginału, użyj filtra TTS.
 
-11. Opis związany z stroną:
-Jeśli używasz specjalnych funkcji, takich jak inspekcja zdań TTS, korekta partii, reorganizacja linii i tłumaczenie, strony zostaną zużyte, ale ponieważ wynosi to około 10 do 50, nie poczujesz, że jest to konsumowane.
-Większość stron prawdopodobnie będzie używana podczas wyodrębnienia tekstu z OCR, EPUB i PDF.
-Wyodrębniając tekst, wyodrębniamy nie tylko samodzielnie, ale także organizujemy zdania, tworząc dziesiątki problemów, które pojawiają się po ekstrakcji w wzorce.
-To część, która była naprawdę trudna do wdrożenia, więc spróbuj.
+11. Wyjaśnienie powiązane z punktem:
+Punkty są spożywane podczas korzystania z funkcji specjalnych, takich jak sprawdzanie zdań TTS, edycja wsadowa, układanie linii i tłumaczenie, ale ponieważ mają one około 10 do 50, nie poczujesz zużycia.
+Większość punktów prawdopodobnie zostanie wykorzystana w stopniu, który można odczuwać podczas wydobywania tekstu z OCR, EPUB i PDF.
+Wyodrębniając tekst, nie tylko wyodrębniamy tekst, ale także tworzymy wzorce z dziesiątek problemów, które pojawiają się po ekstrakcji i kontynuują organizację zdań.
+Ta część została wdrożona z dużym trudnością, więc spróbuj użyć jej przynajmniej raz.
 
 
-12. Opis reklamy:
+12. Wyjaśnienie związane z reklamą:
 Jestem zarówno programistą, jak i użytkownikiem.
-Dodaliśmy reklamy w zakresie, w jakim nie zakłócają one jak najwięcej używania.
-Reklamy obejmują reklamy dla stron i reklamy do usuwania reklam.
-Strona może pomieścić do 60 000 stron.
-Podczas usuwania reklam można użyć strony do usuwania reklam przez określony czas. (Z wyłączeniem czasu snu, to około dnia.)
-Dla tych, którzy są przedkładającymi stronami, możesz usunąć reklamę po stronie widza, zużywając 2000 stron.
-Po zużyciu 8000 stron wszystkie reklamy są wyłączone, z wyjątkiem 30-sekundowych reklam dla pozyskiwania strony i natywnych reklam w środku ustawień.
-Dodano 8000 reklam dla osób, które przeszkadzają krótkie reklamy, które pojawiają się podczas dużej konwersji.
+Reklamy zostały dodane w takim stopniu, w jakim nie zakłócają użycia jak najwięcej.
+Istnieją dwa rodzaje reklam: punkty zabezpieczające reklamy i reklamy do usuwania reklam.
+Możesz pomieścić do 60 000 punktów.
+Podczas usuwania reklam możesz użyć punktów do usuwania reklam przez określony czas. (Z wyłączeniem czasu snu jest około jednego dnia.)
+Dla tych, którzy gromadzą punkty z wyprzedzeniem, możesz usunąć reklamy po stronie widza, zużywając 2000 punktów.
+Po zużyciu 8000 punktów wszystkie reklamy zostaną wyłączone, z wyjątkiem 30-sekundowej reklamy w celu zabezpieczenia punktów i natywnej reklamy w środku ustawień.
+Dodano reklamę 8000 punktów dla tych, którzy uważają za irytujące, gdy pojawiają się krótkie reklamy, które pojawiają się podczas wykonywania dużych zadań konwersji.
 
 
-13. Opis funkcji ucha (historia kontaktów):
-Obsługuje funkcję widoku ucha.
-Załóżmy na przykład, że mamy dokument zatytułowany A (1 do 50) i mamy nowy dokument o nazwie A (1 do 100).
-W takim przypadku konieczne jest już pominięcie pozycji głównej.
-Po wybraniu pliku tekstowego w mojej bibliotece pojawi się menu widoku ucha.
-Jeśli wybierzesz to menu, a następnie wybierzesz w historii (1 do 50), automatycznie pomija wcześniej wyświetloną pozycję.
-Kiedy będziesz miał czas później, usuń (1-50) z historii.
+13. Opis kontynuacji (powiązanie historii) Funkcja:
+Obsługuje funkcję ciągłego oglądania.
+Załóżmy na przykład, że istnieje dokument zatytułowany A (1 ~ 50), ale teraz otrzymujesz nowy dokument zatytułowany A (1 ~ 100).
+W takim przypadku musisz już pominąć główną lokalizację.
+Po wybraniu pliku tekstowego w mojej bibliotece pojawia się menu Kontynuuj.
+Po wybraniu tego menu, jeśli wybierzesz (1 ~ 50) w historii, automatycznie pomimy wcześniej wyświetloną lokalizację.
+Kiedy będziesz miał czas później, usuń (1 ~ 50) z historii.
 W historii liczy się również całkowita liczba odczytania książek.
 Jeśli ten sam dokument pozostanie, można wyświetlić niedokładne informacje.
 
 
-14. Zakładka/notatka/Oświadczenie OPIS:
-Aplikacja obsługuje notatki i zakładkę/wystąpienie.
-Jeśli włączysz funkcję zakładki w ustawieniach zakładek, możesz ją dodać, naciskając i trzymając tekst.
-Funkcja notatek pozwala wybrać i wprowadzić plik, jeśli otworzyłeś go przynajmniej raz.
-Jeśli otworzysz plik przynajmniej raz, gwiazda pojawia się na górze wyboru pliku.
-Notatki i horoskopy mogą być używane do rejestrowania ocen samego pliku.
-Do rejestrowania ważnych treści można użyć zakładek.
+14. Zakładka/notatka/gwiazda Opis:
+Aplikacja obsługuje funkcje notatki i zakładek/gwiazd.
+Jeśli włączysz funkcję zakładki w ustawieniach zakładek, możesz ją dodać, naciskając długie tekst.
+Funkcja notatki umożliwia wybór i wprowadzenie pliku, jeśli otworzyłeś i wyświetlałeś plik przynajmniej raz.
+Jeśli otworzysz plik nawet raz, po wybraniu pliku znajduje się gwiazda.
+Notatki i oceny mogą być używane do rejestrowania ocen samego pliku.
+Do rejestrowania ważnych informacji można wykorzystać zakładki.
 
 
 
-14. Opis egzaminatora zdania TTS:
-Kiedy spojrzałem na wiele dokumentów, zacząłem widzieć wzór dobrze napisanych i nie napisanych tekstów.
-Znalazłem wzór, który zawsze pojawia się w niefortunnych tekstach.
-Zorganizowałem ten wzór i wyprodukowałem go, ważąc każdy wzór.
-Na początku nazwaliśmy to [wyszukiwanie kopalni].
-Jednak funkcja ta została wykonana z zbyt subiektywnym osądem, więc zmieniłem ją na sprawdzanie zdań TTS.
-Ta funkcja obsługuje tylko koreański.
-Nie znam języka innych krajów, więc nie mogę zorganizować moich wzorców, niezależnie od tego, czy jest to dobre, czy złe.
-Jeśli istnieje taki wzór w innych krajach, wyślij go do nas pocztą elektroniczną.
-Po obsłudze wielu języków narodowych przeniesiemy funkcję do ustawień.
+14. Opis sprawdzania zdania TTS:
+Kiedy przeglądałem wiele dokumentów, zacząłem widzieć wzorce między dobrze napisanymi a niezbyt napisanymi artykułami.
+Odkryłem wzór, który zawsze pojawia się w rozczarowującym artykułach.
+Jest to funkcja, którą stworzyłem, organizując te wzory i nadając wagę każdemu wzorowi.
+Początkowo ta funkcja została nazwana [MinesWeePer].
+Jednak funkcja ta została utworzona na podstawie zbyt subiektywnego osądu, więc została zmieniona na sprawdzanie kary TTS.
+Ta funkcja obsługuje jedynie koreański.
+Ponieważ nie znam dobrze języków innych krajów, nie mogłem dowiedzieć się, czy pisanie było dobre, czy złe.
+Jeśli istnieje taki wzór w innych krajach, zgłoś go za pośrednictwem poczty elektronicznej.
+Gdy będziemy mogli obsługiwać wiele języków narodowych, przeniesiemy funkcję do ustawień.
 W ustawieniach pozostało jeszcze jedno miejsce.
 
 
-15. Wyjaśnienie funkcji administracji psów:
-Jest to metoda, którą można zastosować, jeśli zdanie nie jest zakończone, ale wpis jest opuszczony.
-Zwykle zdarza się to wiele do dokumentów, które są przepracowane z konwersją OCR.
-Ta funkcja to nie tylko kombinacja Enter.
-Jest to funkcja, która jest wdrażana poprzez analizę dokumentów z licznymi błędami otwierającymi i organizując wzorce.
-Próbowałem wprowadzić sztuczną inteligencję, aby ją zorganizować, ale nie było to łatwe.
-Obecnie istnieje wiele badań na temat przetwarzania języka naturalnego, więc dodam je, jeśli będę mógł później przetworzyć z AI.
+15. Opis funkcji przerwy linii:
+Twierdzenie o przerwie linii jest metodą, którą można użyć, gdy zdanie nie jest zakończone, ale klawisz Enter jest naciśnięty.
+Zjawisko to zwykle występuje w dokumentach przetwarzanych poprzez konwersję OCR.
+Ta funkcja nie tylko łączy Enter.
+Funkcja ta została zaimplementowana poprzez analizę dokumentów z licznymi błędami w nowej linii i organizując wzorce.
+Próbowałem wprowadzić organizację za pomocą AI, ale nie było to łatwe.
+W dzisiejszych czasach wiele badań odbywa się na temat przetwarzania języka naturalnego, więc jeśli możemy przetworzyć je z AI w przyszłości, spróbujemy go dodać.
 
 16. Opis funkcji tłumaczenia:
-Obsługiwana jest lokalna funkcja tłumaczenia / przeglądarki internetowej.
-Lokalne tłumaczenie to funkcja, która przekłada się na sztuczną inteligencję opracowaną przez Google. Proste słowa można dobrze przetłumaczyć, ale wydaje się, że w tłumaczeniu zdań występuje wiele błędnych translacji.
-Tłumaczenie przeglądarki internetowej jest funkcją, która wyświetla zdania do przetłumaczenia w przeglądarce.
-Jeśli włączysz funkcję tłumaczenia w ustawieniach - Ustawienia tłumaczenia oraz naciśnij i trzymasz zdanie, funkcja tłumaczenia będzie działać.
+Obsługuje lokalne funkcje tłumaczenia/przeglądarki internetowej.
+Lokalne tłumaczenie to funkcja, która tłumaczy się przy użyciu sztucznej inteligencji opracowanej przez Google. Proste słowa są dobrze tłumaczone, ale wydaje się, że w tłumaczeniu zdania było sporo błędów.
+Tłumaczenie przeglądarki internetowej jest funkcją, która wyświetla zdanie, które ma zostać przetłumaczone w przeglądarce.
+Jeśli włączysz funkcję tłumaczenia w [Ustawienia - Ustawienia tłumaczenia] oraz naciśnij i trzymasz zdanie, funkcja tłumaczenia będzie działać.
 
 17. Inne sprawy:
-Po otwarciu dokumentu wpis, który powtarza się więcej niż trzy razy, zostanie otwarty przez dwa razy.
-Nadmierne wejście jest niewygodne do słuchania z TTS i niewygodne.
-Niektórzy z was mogli już od dłuższego czasu korzystać z mojej aplikacji. „Hmm? Niektórzy z was mogą pomyśleć:„ Nigdy nie widziałem dużo rozrywki ”.
-Zaimplementowaliśmy tyle funkcjonalności, ile może obsługiwać przeglądarkę tekstu.
+Podczas otwierania dokumentu EarApp automatycznie zmieni klawisz Enter powtórzony trzy lub więcej razy na dwa razy.
+Nadmierne wchodzące są niewygodne, aby słuchać i oglądać przez TTS.
+Niektórzy z was mogli już to zauważyć podczas korzystania z mojej aplikacji od dłuższego czasu i mówią: „Hmm? Teraz, gdy o tym myślę, nigdy nie widziałem, żebyś naciskał często? ” Niektórzy ludzie mogą tak myśleć.
+Wdrożyliśmy jak najwięcej funkcji w przeglądarce tekstu.
 
-Zapisałem 17 zastosowań, ale nie sądzę, że użyłem jeszcze połowy z nich.
-Pomijono proste funkcje, takie jak kolor tła, obraz tła, kolor litery i metoda obracania strony.
-Mam nadzieję, że ten dokument pomoże wielu osobom.
-Jeśli spojrzysz na ustawienia - informacje i pomoc, istnieje link do czatu grupowego telegramu, więc jeśli masz jakieś pytania, możesz wejść i zapytać.
-Dziękuję za przeczytanie do końca.
+Zapisałem siedemnaście sposobów go użycia, ale nie sądzę, że nawet napisałem połowę tego.
+Pomijono proste funkcje, takie jak kolor tła, obraz tła, kolor tekstu i metoda obracania punktu.
+Mam nadzieję, że ten artykuł będzie pomocny dla wielu osób.
+Jeśli spojrzysz na [Ustawienia - informacje i pomoc], istnieje link do czatu grupy telegramowej, więc jeśli masz jakieś pytania, możesz wejść i zapytać.
+Dziękuję za przeczytanie.

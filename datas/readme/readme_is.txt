@@ -1,152 +1,152 @@
-Hvernig á að nota það (verður að lesa):
+Hvernig á að nota (verður að lesa):
 
-Þetta forrit hefur mikið af aðgerðum, svo ég mæli með að þú lesir það eitt af öðru.
+Þetta forrit hefur mikið af eiginleikum, svo ég mæli með að lesa í gegnum það.
 
 1. Hvernig á að skoða skrár:
-Vinsamlegast smelltu á Bæta við skrá í skjalinu mínu til að bæta við txt.
-Snertu TXT skrána og ýttu á opna hnappinn neðst til að skoða skrána.
+Vinsamlegast smelltu á Bæta við skrá á bókasafninu mínu til að bæta við txt.
+Þú getur skoðað skrána með því að snerta TXT skrána og ýta á opna hnappinn neðst.
 
 
-2. Hvernig á að fela áhorfendaauglýsingar / Botn Navigation hnappar:
-Tvöfalt pikkaðu á miðju skjásins.
-Þegar þú skiptir yfir á allan skjáinn hverfa auglýsingar og hnappar.
+2. Hvernig á að fela auglýsingar áhorfenda/Neðri leiðsöguhnappar:
+Tvípaðu miðju skjásins.
+Þegar það skiptir yfir á fullan skjá hverfa auglýsingar og hnappar.
 
 
-3. Til að breyta aðgerðasvæði hnappsins:
-Þú getur breytt því undir stillingum - Snertissvæðastillingar.
-Þú getur stillt fjölda aðgerða, þar með talið fullan skjá, hreyfingu á blaðsíðu, birtustillingu og hljóðstyrk.
-Bluetooth fjarstýring er einnig studd, svo þú getur legið niður og horft á það þægilega.
+3. Hvernig á að breyta hnappinum og aðgerðarsvæðinu:
+Þú getur breytt því í [Stillingar - Snertissvæði Stillingar].
+Þú getur stillt ýmsar aðgerðir eins og fullan skjá, hreyfingu á blaðsíðu, birtustýringu og hljóðstyrk.
+Bluetooth fjarstýring er einnig studd, svo þú getur sett það á stand og skoðað það þægilega meðan þú liggur.
 
 
-4. Að breyta letri eða leturstærð:
-Þú getur breytt letur- eða leturstærð undir stillingum - Stillingar - leturstillingar.
-Þú getur notað leturgerðina með því að ýta á niðurhalshnappinn til að fá tugi ókeypis leturgerða.
+4. Hvernig á að breyta letri eða textastærð:
+Þú getur breytt letur- eða leturstærð í [Stillingar - Stillingar - leturstillingar].
+Þú getur notað tugi ókeypis leturgerða með því að smella á niðurhalshnappinn.
 
 
-5. Hvernig á að nota umbreytingu myndatexta:
-Þú getur dregið texta úr þjöppuðu mynd. Þetta er kallað OCR aðgerðin.
-Tímaritið mitt - Smelltu á Bæta við skrá og bættu við zip skrá.
+5. Hvernig á að nota myndina til textabreytinga:
+Þú getur dregið texta úr þjöppuðum myndum. Þetta er kallað OCR aðgerðin.
+Bókasafnið mitt - Smelltu á Bæta við skrá og bættu við zip skránni.
 Þú getur umbreytt með því að velja ZIP skrána og síðan velja OCR valmyndina.
-Síðan er neytt við viðskipti.
-OCR vinnur með AI, þannig að hraði og nákvæmni er nokkuð góð.
+Síður eru neyttar við viðskipti.
+OCR er gert með AI, þannig að hraði og nákvæmni er nokkuð góð.
 
 
-6. EPUB, PDF umbreytingaraðferð:
+6. Hvernig á að umbreyta EPUB í PDF:
 Það er það sama og myndbreytingaraðferðin.
-Það eru nokkur atriði sem þarf að vera meðvituð um.
-Epub eða PDF getur verið „dulkóðað“.
-Það er aðallega notað til að brjóta bréf og gera þau aðeins sýnileg í ákveðnum letri.
-Í þessu tilfelli kemur það út eins og geimvera, ekki kóreska, svo þú getur ekki lesið það í TTS.
-Sem leið til að leysa þetta vandamál er hægt að nota virkni útdráttar mynda og síðan er hægt að snúa OCR til að vinna út.
+Það eru nokkur atriði sem þarf að hafa í huga.
+Ef um er að ræða epub eða pdf getur það verið „dulkóðuð“.
+Algengasta aðferðin er að gera bréf ruglað og aðeins sýnilegt í sérstökum leturgerðum.
+Í þessu tilfelli er ekki hægt að lesa það með TTS vegna þess að það lítur út eins og framandi persóna frekar en kóreska.
+Til að leysa þetta vandamál geturðu notað myndútdráttaraðgerðina og síðan notað OCR til að draga það út.
 
 
 7. Hvernig á að setja upp TTS:
-TTS -tengdar stillingar eru einbeittar í stillingum - TTS stillingar, TTS síustillingar.
-TTS stillingarnar fela í sér einfalda TTS eiginleika, svo sem rödd, hraða, rúmmál, gagnsæi hnappsins, stafi sem enda setningar og fjöldi setninga sem lesnar eru í einu, svo og tæki sem bæta við TTS lögunina.
-Fjöldi setninga sem lesnar eru í einu er aðgerð sem bætt er við til að leyfa að lesa margar línur í einu með lágmarks seinkun.
-TTS sían er einn öflugasti eiginleiki þessa forrits.
-[TTS síustillingar] gerir þér kleift að stilla fjölda sérstakra stafa, orða eða setninga sem þú þarft að sleppa.
-Ef þú ýtir á niðurhalshnappinn geturðu halað niður tugum sía sem ég framleiddi.
-Þú getur líka bætt því sjálfur við ef þú þarft á því að halda.
-[Sjálfvirk lokunaraðgerð] getur stillt sjálfvirkan lokunartíma með því að snerta tunglformaða táknið vinstra megin við stöðvunarhnappinn þegar þú spilar TTS.
+TTS -tengdar stillingar eru einbeittar í [Stillingar - TTS stillingar] og [TTS síunarstillingar].
+TTS stillingar fela ekki aðeins í sér einfalda TTS eiginleika eins og rödd, hraða, rúmmál, gagnsæi hnappsins, setningalok og fjöldi setninga sem lesin eru í einu, heldur einnig tæki sem bæta við TTS aðgerðina.
+Fjöldi setninga sem lesnar eru í einu er aðgerð sem bætt er við til að leyfa þér að lesa margar línur í einu og hlusta með lágmarks seinkun.
+TTS sía er einn öflugasti eiginleiki þessa apps.
+Í [TTS síunarstillingum] geturðu stillt ýmsa sérstaka stafi, orð eða setningar sem ber að sleppa.
+Ef þú smellir á niðurhalshnappinn geturðu halað niður tugum sía sem ég bjó til.
+Þú getur líka bætt við þínu eigin ef þörf krefur.
+[Sjálfvirk lokunaraðgerð] gerir þér kleift að stilla sjálfvirka lokunartíma með því að snerta tunglformaða táknið vinstra megin við stöðvunarhnappinn þegar þú spilar TTS.
 
 
-8. Lýsing á afritunar- og bata getu:
-Uppsetning - Afritun og bata er eiginleiki sem gerir mörgum tækjum kleift að nota forritið í sama umhverfi.
-Þú getur skráð þig inn í drifið til að bata öryggisafrit.
-Þegar þú ert skoðaður úr mörgum tækjum, svo sem tölvum, símum og pads, geturðu notað staðsetningarafrit til að samstilla útsýnisstaðinn þinn.
-Veldu tækið sem þú vilt sjálfkrafa og kveikja á sjálfvirkri aðgerð til að fara sjálfkrafa yfir á síðasta stað þegar þú keyrir forritið eða fer heim og kemur aftur.
+8. Afritun og endurheimt aðgerð Lýsing:
+[Stillingar - Afritun og bati] er aðgerð sem er búin til til að leyfa þér að nota appið í sama umhverfi í mörgum tækjum.
+Þú getur skráð þig inn í drifið og endurheimt afrit.
+Þegar þú skoðar mörg tæki eins og tölvu, síma eða púði geturðu samstillt útsýnisstaðinn með því að nota öryggisafrit af staðsetningu.
+Ef þú velur tæki til að samstilla sjálfkrafa og kveikja á [Auto Sync] aðgerðinni mun það sjálfkrafa fara á síðasta útsýni þegar þú keyrir forritið eða fer og fer aftur á heimasíðuna.
 
-9. Hvernig á að nota breytingu á textahópi:
-1. [Stillingar - Stillingar - Hnappi í lausu Breyta]
-2. [Stillingar - Breyta texta sameiginlega]
-Þú getur notað lotubreytingu á tvo vegu.
-Ef um er að ræða númer 1 er það notað til að hlusta á TTS og til að eyða eða breyta setningunni í annan staf ef sumar setningar eða orð eru pirrandi.
-Ef um er að ræða númer 2 geturðu dregið út textann með OCR og valið textaskrána úr skjalinu til að framkvæma hópleiðréttingu.
-Þú getur líka notað niðurhalshnappinn til að hlaða niður og nota oft viðurkenningarvillur til að leiðrétta texta.
-Magn leiðréttingar - niðurhal sýnir aðeins listann ef tungumálastillingarnar eru á kóresku.
-Þetta er vegna þess að verktaki tala ekki önnur tungumál.
-Ef þú skýrir frá því að nota skýrsluaðgerðina mun ég bæta við tungumál landsins.
+9. Hvernig á að nota lotu breyta texta:
+1. [Stillingar - Stillingar - Sýna hnappinn Breyta lotu]
+2. [Stillingar - Breyta texta]
+Hægt er að nota magnvinnslu á tvo vegu.
+Í tilfelli 1, ef sumar setningar eða orð eru pirrandi þegar hlustað er á TTS, er það notað til að eyða setningunum eða breyta þeim í aðra stafi.
+Í tilviki 2 geturðu dregið út texta með OCR og síðan valið textaskrár af bókasafninu mínu til að framkvæma lotuklippingu.
+Þú getur líka notað niðurhalshnappinn til að Batch Edit texti til að hlaða niður oft viðurkenningarvillum.
+[Batch Edit - Download] mun aðeins sýna listann ef tungumálastillingin er kóresk.
+Þetta er vegna þess að verktaki veit ekki hvernig á að tala önnur tungumál.
+Ef þú tilkynnir það með skýrsluaðgerðinni munum við bæta við tungumál lands þíns.
 
-10. Ef það er ógeðsleg setning þegar þú hlustar á TTS skaltu vinna úr því:
-Ef það skiptir ekki máli hvort frumritið er breytt, vinsamlegast breyttu því í [sameiginlega breytingu] aðgerðina.
-Eftir breytinguna verður afritunarskráin áfram á bókasafninu mínu, þannig að ef þú breytir henni óvart geturðu endurheimt hana aftur.
-Ef þú vilt fjarlægja frumritið aðeins frá TTS án þess að snerta það skaltu nota TTS síuna.
+10. Lausn ef það er setning sem er pirrandi þegar hlustað er á TTS:
+Ef þér er ekki sama um að frumritinu sé breytt, vinsamlegast notaðu [Batch Edit] aðgerðina til að breyta henni.
+Eftir breytingar verður afritunarskrá áfram á bókasafninu mínu, þannig að ef þú gerir breytingar fyrir mistök geturðu endurheimt þær.
+Ef þú vilt fjarlægja aðeins TTs án þess að snerta frumritið skaltu nota TTS síuna.
 
-11. Lýsing á blaðsíðu:
-Ef þú notar sérstakar aðgerðir eins og TTS setningaskoðun, leiðréttingu lotu, endurskipulagningu á línum og þýðingu verða síður neytt, en þar sem það er um það bil 10 til 50 mun þér ekki finnst það neyta.
-Flestar síður eru líklega notaðar til að finna þegar þeir eru dregnir út texta úr OCR, EPUB og PDF.
-Þegar við dregum út texta dregur við ekki aðeins út í hönd heldur skipuleggjum við setningar með því að gera tugi vandamála sem koma fram eftir útdrátt í mynstur.
-Það er hluti sem var mjög erfitt að hrinda í framkvæmd, svo reyndu það.
+11. Skýring sem tengist punkti:
+Stig eru neytt þegar þú notar sérstakar aðgerðir eins og tts setning, klippingu, línufyrirkomulag og þýðingu, en þar sem þær eru um 10 til 50, þá muntu ekki finna neysluna.
+Líklegt er að flest atriði séu notuð að einhverju leyti sem hægt er að finna fyrir við að draga texta úr OCR, EPUB og PDF.
+Þegar við dregum út texta, tökum við ekki bara út textann, heldur búum til munstur úr tugum vandamála sem koma upp eftir útdrátt og halda áfram með setningaskipulag.
+Þessi hluti var útfærður með miklum erfiðleikum, svo vinsamlegast reyndu að nota hann að minnsta kosti einu sinni.
 
 
-12. Auglýsingalýsing:
+12. Skýring á auglýsingum:
 Ég er bæði verktaki og notandi.
-Við höfum bætt við auglýsingum að því marki sem þær trufla ekki notkun eins mikið og mögulegt er.
-Auglýsingar fela í sér síðu-örvunarauglýsingar og auglýsingar um að fjarlægja auglýsingar.
-Síða getur haft allt að 60.000 blaðsíður.
-Þegar þú fjarlægir auglýsingar geturðu notað síðuna til að fjarlægja auglýsingar í tiltekinn tíma. (Að undanskildum svefntíma er það um einn dag.)
-Fyrir þá sem eru að stafa síður geturðu fjarlægt auglýsingu áhorfandans með því að neyta 2000 blaðsíðna.
-Þegar þú neytir 8000 blaðsíðna eru allar auglýsingar óvirkar nema fyrir 30 sekúndna auglýsingar til öflunar á blaðsíðu og innfæddar auglýsingar í miðri stillingum.
-8000 blaðsíðna auglýsingum hefur verið bætt við fyrir þá sem eru að nenna stuttum auglýsingum sem birtast við mikið umbreytingu.
+Auglýsingum hefur verið bætt við að því marki sem þær trufla ekki notkun eins mikið og mögulegt er.
+Það eru tvenns konar auglýsingar: stig sem tryggja auglýsingar og auglýsingar til að fjarlægja auglýsingar.
+Þú getur haldið allt að 60.000 stigum.
+Þegar þú fjarlægir auglýsingar geturðu notað punkta til að fjarlægja auglýsingar í tiltekinn tíma. (Að undanskildum svefntíma er það um það bil einn dagur.)
+Fyrir þá sem safna stigum fyrirfram geturðu fjarlægt auglýsingar áhorfenda með því að neyta 2000 stiga.
+Þegar þú neytir 8000 stigs verða allar auglýsingar óvirkar nema 30 sekúndna auglýsingin til að tryggja stig og innfædd auglýsing í miðri stillingum.
+8000 stiga auglýsingunni var bætt við fyrir þá sem finnst pirrandi að sjá stuttar auglýsingar sem birtast þegar stórar viðskiptaverkefni sinna.
 
 
-13. Lögun Lýsing fyrir eyran (söguverkun):
-Það styður eyrnasýn.
-Við skulum til dæmis segja að við höfum skjal sem heitir A (1 til 50) og við erum með nýtt skjal sem heitir A (1 til 100).
-Í þessu tilfelli er nú þegar nauðsynlegt að sleppa aðalstöðu.
-Þegar þú velur textaskrá á bókasafninu mínu birtist Ear View valmyndin.
-Ef þú velur þessa valmynd og velur síðan A (1 til 50) í sögunni, sleppir það sjálfkrafa áður skoðaðri stöðu.
-Þegar þú hefur tíma seinna skaltu fjarlægja (1-50) úr sögunni.
+13. Lýsing á framhaldi (Saga tenging) Aðgerð:
+Styður stöðugt útsýnisaðgerð.
+Við skulum til dæmis segja að það sé til skjal sem heitir A (1 ~ 50), en þú færð nú nýtt skjal sem heitir A (1 ~ 100).
+Í þessu tilfelli þarftu nú þegar að sleppa aðalstaðnum.
+Þegar þú velur textaskrá á bókasafninu mínu birtist áfram valmyndin.
+Eftir að hafa valið þessa valmynd, ef þú velur A (1 ~ 50) í sögunni, sleppir það sjálfkrafa áður skoðaðan stað.
+Þegar þú hefur tíma seinna skaltu fjarlægja (1 ~ 50) úr sögunni.
 Í sögunni er heildarfjöldi bóka sem lesinn er einnig talinn.
 Ef sama skjal er enn, geta ónákvæmar upplýsingar verið birtar.
 
 
-14. Bókamerki/athugasemd/með aðalhlutverk:
-Forritið styður athugasemdir og bókamerki/með aðalhlutverk.
-Ef þú kveikir á bókamerkisaðgerðinni í bókamerkisstillingum geturðu bætt því við með því að ýta á og halda texta.
-Skýringaraðgerðin gerir þér kleift að velja og slá inn skrá ef þú hefur opnað hana að minnsta kosti einu sinni.
-Ef þú opnar skrá að minnsta kosti einu sinni birtist stjarna efst á skráarvalinu.
-Hægt er að nota athugasemdir og stjörnuspá til að skrá mat á skránni sjálfri.
-Hægt er að nota bókamerki til að skrá mikilvægt efni.
+14. Bókamerki/minnisatriði/stjörnueinkunn Lýsing:
+Forritið styður minnisblað og bókamerki/stjörnueinkunn.
+Ef þú kveikir á bókamerkisaðgerðinni í bókamerkjunum geturðu bætt því við með því að ýta á textann lengi.
+Minnisaðgerðin gerir þér kleift að velja og slá inn skrá ef þú hefur opnað og skoðað skrána að minnsta kosti einu sinni.
+Ef þú opnar skrá jafnvel einu sinni, þá er stjarna efst þegar þú velur skrána.
+Hægt er að nota athugasemdir og einkunnir til að skrá mat á skránni sjálfri.
+Hægt er að nota bókamerki til að skrá mikilvægar upplýsingar.
 
 
 
-14. TTS Setning prófdómari Lýsing:
-Þegar ég skoðaði mikið af skjölum byrjaði ég að sjá mynstur vel skrifaðs og ekki skrifaðs texta.
-Ég fann mynstur sem kemur alltaf út í óheppilegum textum.
-Ég skipulagði þetta mynstur og framleiddi það með því að vega hvert mynstur.
-Við nefndum það [mín leit] í fyrstu.
-Samt sem áður var þessi aðgerð gerð með of huglægum dómi, svo ég breytti henni í TTS setningaratriði.
-Þessi aðgerð styður aðeins kóreska.
-Ég þekki ekki tungumál annarra landa, svo ég get ekki skipulagt mynstrin mín hvort það er gott eða slæmt.
-Ef það er til eins og þetta í öðrum löndum, vinsamlegast sendu það til okkar með tölvupósti.
-Þegar þú getur stutt mörg þjóðmálum munum við færa aðgerðina yfir í stillingar.
-Enn er einn staðurinn eftir í stillingunum.
+14. TTS Setning Checker Lýsing:
+Þegar ég leit í gegnum fjölmörg skjöl byrjaði ég að sjá mynstur milli vel skrifaðra og ekki svo vel skrifaðar greina.
+Ég uppgötvaði mynstur sem birtist alltaf í vonbrigðum greinum.
+Þetta er aðgerð sem ég bjó til með því að skipuleggja þessi mynstur og veita hvert mynstur þyngd.
+Í fyrstu var þessi aðgerð nefnd [Minesweeper].
+Hins vegar var þessi aðgerð búin til út frá of huglægum dómi, svo henni var breytt í TTS setningarafgreiðslumann.
+Þessi aðgerð styður aðeins kóresku.
+Vegna þess að ég þekki ekki tungumál annarra landa vel gat ég ekki áttað mig á því hvort skrifin væru góð eða slæm.
+Ef það er mynstur eins og þetta í öðrum löndum, vinsamlegast tilkynntu það með tölvupósti.
+Þegar við getum stutt við mörg þjóðmálum munum við færa aðgerðina yfir í stillingar.
+Enn er eitt pláss eftir í stillingunum.
 
 
-15. Útskýring á virkni hundastjórnarinnar:
-Þetta er aðferð sem hægt er að nota ef setningin er ekki kláruð en færslan er niðri.
-Venjulega gerist þetta mikið að skjölum sem eru unnin með OCR umbreytingunni.
-Þessi aðgerð er ekki bara sambland af Enter.
-Það er aðgerð sem er útfærð með því að greina skjöl með fjölmörgum opnunarskekkjum og skipuleggja mynstrin.
-Ég reyndi að kynna AI að skipuleggja það, en það var ekki auðvelt.
-Það eru miklar rannsóknir á náttúrulegri málvinnslu þessa dagana, svo ég mun bæta því við ef ég get afgreitt það með AI seinna.
+15. Lýsing á virkni línubrota:
+Línubrot setning er aðferð sem hægt er að nota þegar setningunni er ekki lokið en ýtt er á Enter takkann.
+Þetta fyrirbæri kemur venjulega fram í skjölum sem unnin eru með OCR umbreytingu.
+Þessi aðgerð sameinar ekki bara Enter.
+Þessi aðgerð var útfærð með því að greina skjöl með fjölmörgum nýlínuvillum og skipuleggja mynstrin.
+Ég reyndi að kynna skipulagningu með AI, en það var ekki auðvelt.
+Þessa dagana er verið að gera mikið af rannsóknum á náttúrulegri málvinnslu, þannig að ef við getum afgreitt það með AI í framtíðinni munum við reyna að bæta því við.
 
 16. Þýðingaraðgerð Lýsing:
-Staðbundin þýðing / vafra Þýðingarvirkni er studd.
-Staðbundin þýðing er aðgerð sem þýðir að AI þróað af Google. Hægt er að þýða einföld orð vel, en það virðast vera mikið af misskiptingum í þýðingu setningar.
-Þýðing vafra er aðgerð sem sýnir setningar sem á að þýða í vafra.
-Ef þú kveikir á þýðingaraðgerðinni í stillingum - Þýðingarstillingar og heldur og heldur setningunni mun þýðingaraðgerðin virka.
+Styður staðbundnar þýðingar/þýðingaraðgerðir vafra.
+Staðbundin þýðing er aðgerð sem þýðir að nota AI þróað af Google. Einföld orð eru þýdd vel, en það virðast vera talsvert af misskilningi í setningu þýðingar.
+Þýðing vafra er aðgerð sem sýnir setninguna sem á að þýða í vafranum.
+Ef þú kveikir á þýðingaraðgerðinni í [Stillingar - Þýðingarstillingar] og heldur og heldur setningunni mun þýðingaraðgerðin virka.
 
 17. Önnur mál:
-Þegar þú opnar skjal verður færslan sem endurtekur oftar en þrisvar opnað með því að skipta yfir í tvisvar.
-Óhófleg innkoma er óþægileg að hlusta á TTS og óþægilegt að sjá.
-Sum ykkar gætu hafa þegar tekið eftir því að nota appið mitt í langan tíma. "Hmm? Sumir ykkar gætu hugsað," ég hef aldrei séð mikla skemmtun. "
-Við höfum innleitt eins mikla virkni og textaskoðari getur stutt.
+Þegar þú opnar skjal mun EarApp sjálfkrafa breyta Enter lykilinn sem endurtekur þrisvar eða oftar í tvisvar.
+Óhóflegir þáttur eru óþægilegir að hlusta á og skoða í gegnum TTS.
+Sum ykkar hafa kannski þegar tekið eftir þessu meðan þú notar appið mitt í langan tíma og sagt: „Hmm? Nú þegar ég hugsa um það hef ég aldrei séð þig ýta mikið inn í? “ Sumt fólk gæti hugsað það.
+Við höfum útfært eins marga eiginleika og mögulegt er í textaáhorfandanum.
 
-Ég skrifaði niður 17 notkun, en ég held að ég hafi ekki notað helming þeirra ennþá.
-Einföldu aðgerðum eins og bakgrunnslit, bakgrunnsmynd, bókstafur og snúningsaðferð blaðsins hefur verið sleppt.
-Ég vona að þetta skjal muni hjálpa mörgum.
-Ef þú skoðar stillingar - upplýsingar og hjálp, þá er hlekkur á spjall Telegram hópsins, þannig að ef þú hefur einhverjar spurningar geturðu komið inn og spurt.
-Þakka þér fyrir að lesa til enda.
+Ég skrifaði niður sautján leiðir til að nota það, en ég held að ég hafi ekki einu sinni skrifað helminginn af því ennþá.
+Einföldum aðgerðum eins og bakgrunnslit, bakgrunnsmynd, textarit og beygjuaðferð hefur verið sleppt.
+Ég vona að þessi grein muni hjálpa mörgum.
+Ef þú skoðar [Stillingar - upplýsingar og hjálp], þá er tengill á spjallrás Telegram hópsins, þannig að ef þú hefur einhverjar spurningar geturðu komið inn og spurt.
+Þakka þér fyrir að lesa.

@@ -1,152 +1,152 @@
 Nola erabili (irakurri behar da):
 
-Aplikazio honek funtzio ugari ditu, beraz, bat banan-banan irakurtzea gomendatzen dut.
+Aplikazio honek funtzio ugari ditu, beraz, irakurtzea gomendatzen dut.
 
 1. Nola ikusi fitxategiak:
-Mesedez, egin klik Gehitu fitxategia nire dokumentuan txt gehitzeko.
-Ukitu txt fitxategia eta sakatu beheko botoia beheko aldean fitxategia ikusteko.
+Mesedez, egin klik Gehitu fitxategia nire liburutegian txt gehitzeko.
+Fitxategia ikus dezakezu txt fitxategia ukituz eta beheko botoia sakatuz.
 
 
-2. Nola ezkutatu Ikuslearen iragarkiak / Beheko nabigazio botoiak:
-Punteatu bikoitza pantailaren erdigunean.
-Pantaila osora aldatu ahala, iragarkiak eta botoiak desagertu egiten dira.
+2. Nola ezkutatu Ikusleen iragarkiak / Beheko nabigazio botoiak:
+Sakatu bikoitza pantailaren erdigunea.
+Pantaila osora aldatzen denean, iragarkiak eta botoiak desagertu egiten dira.
 
 
-3. Botoiaren Mitt Funtzio eremua aldatzeko:
-Ezarpenak pean alda ditzakezu - Ukipen-eremuaren ezarpenak.
-Zenbait funtzio ezar ditzakezu, pantaila osoa, orrialdearen mugimendua, distira doitzea eta bolumen kontrola.
-Bluetooth urrutiko kontrola ere onartzen da, etzan zaitezke eta eroso ikusi ahal izango duzu.
+3. Nola aldatu botoia eta funtzio eremua:
+[Ezarpenak - ukipen eremuaren ezarpenak aldatu ditzakezu.
+Hainbat funtzio ezar ditzakezu pantaila osoa, orrialdearen mugimendua, distira kontrolatzea eta bolumen kontrola.
+Bluetooth urruneko kontrol bat ere onartzen da, eta, beraz, zutik jarri eta etzanda dagoen bitartean eroso ikusi ahal izango duzu.
 
 
-4. Letra-tipo edo letra-tamaina aldatzeko:
-Ezarpenak azpian letra edo letra-tamaina alda ditzakezu - Ezarpenak - Letra-ezarpenak.
-Letra-tipoa erabil dezakezu deskarga botoia sakatuta, doako letra doakoak jasotzeko.
+4. Nola aldatu letra-tipo edo testu tamaina:
+Letraren edo letra-tipoaren tamaina alda dezakezu [Ezarpenak - Ezarpenak - Letra-ezarpenak].
+Doako letra doakoak erabil ditzakezu deskarga botoian klik eginez.
 
 
-5. Nola erabili irudien testu bihurketa:
-Testua konprimitutako irudi batetik atera dezakezu. OCR funtzioa deritzo.
-Nire aldizkaria - Egin klik Gehitu fitxategia eta gehitu zip fitxategia.
+5. Nola erabili irudia testu bihurketa funtziora:
+Testua konprimitutako irudietatik atera dezakezu. OCR funtzioa deritzo.
+Nire liburutegia - Egin klik Gehitu fitxategia eta gehitu zip fitxategia.
 ZIP fitxategia hautatuta eta gero OCR menua hautatuz.
-Orrialdea bihurketa garaian kontsumitzen da.
-OCR-k AIrekin lan egiten du, beraz, bere abiadura eta zehaztasuna nahiko onak dira.
+Orriak bihurketa garaian kontsumitzen dira.
+OCR AIrekin egiten da, beraz, bere abiadura eta zehaztasuna nahiko onak dira.
 
 
-6. Epub, PDF bihurketa metodoa:
+6. Nola bihurtu EPUB PDFra:
 Irudi bihurketa metodoaren berdina da.
-Badira zenbait gauza jakiteko.
-Epub edo PDF "enkriptatuta" egon daiteke.
-Batez ere letrak hausteko erabiltzen da eta letra jakin batzuetan bakarrik ikusgai jartzeko.
-Kasu honetan, estralurtar pertsonaia bat bezala ateratzen da, ez koreera, beraz ezin duzu TTS-en irakurri.
-Arazo hau konpontzeko modu gisa, irudiak ateratzeko funtzioa erabil daiteke eta, ondoren, OCR erauz dadin biratu daiteke.
+Badaude gogoan gauza batzuk.
+Epub edo PDFren kasuan, "enkriptatu" daiteke.
+Metodo ohikoena letrak garbitzea eta letra-tipo zehatzetan soilik ikustzea da.
+Kasu honetan ezin da TTS erabiltzea irakurri Koreako baino pertsonaia alien bat dirudi.
+Arazo hau konpontzeko, irudiaren erauzketa funtzioa erabil dezakezu eta gero OCR erabili ezazu ateratzeko.
 
 
 7. Nola konfiguratu TTS:
-TTS-rekin lotutako ezarpenak ezarpenetan kontzentratzen dira - TTS ezarpenak, TTS iragazkiaren ezarpenak.
-TTS ezarpenak TTS funtzio sinpleak dira, hala nola ahotsa, abiadura, bolumena, botoiaren gardentasuna, esaldiak amaitzen diren esaldiak eta aldi berean irakurtzen diren esaldi kopurua, baita TTS funtzioak osatzen dituzten gailuak ere.
-Garai batean irakurtzen den esaldi kopurua gehitutako funtzioa da, hainbat lerro irakurtzeko aldi berean atzerapen minimoarekin entzuteko.
+Tts-rekin lotutako ezarpenak [Ezarpenak - TTS ezarpenak] eta [TTS iragazkiaren ezarpenak] kontzentratzen dira.
+TTS ezarpenak TTS sinpleak ez ditu funtzio sinpleak, esaterako, ahotsa, abiadura, bolumena, botoiaren gardentasuna, esaldi amaierako karaktereak eta aldi berean irakurtzen diren esaldi kopurua, baina TTS funtzioa osatzen duten gailuak ere gehitzen dira.
+Suedian irakurtzen den esaldi kopurua gehitutako funtzioa da, aldi berean, lerro anitz irakurtzeko eta atzerapen minimoarekin entzuteko.
 TTS iragazkia aplikazio honen ezaugarririk boteretsuenetakoa da.
-[TTS iragazkiaren ezarpenak] Saltatu behar dituzun pertsonaia, hitz edo esaldi bereziak ezartzeko aukera ematen du.
-Deskarga botoia sakatzen baduzu, dozenaka iragazki deskarga ditzakezu.
-Behar baduzu ere gehitu dezakezu zeure burua.
-[Itzal automatikoko funtzioa] itzalitako denbora automatikoa ezar dezake Ilargi formako ikonoa ukituz TTS erreproduzitzerakoan gelditzeko botoiaren ezkerraldean.
+[TTS iragazkiaren ezarpenak], saihestu behar diren karaktere, hitz edo esaldi bereziak ezar ditzakezu.
+Deskarga botoian klik egiten baduzu, sortu ditudan dozenaka iragazki deskarga ditzakezu.
+Beharrezkoa izanez gero, zurea gehitu dezakezu.
+[Itzal automatikoa funtzioa] itzalitako denbora automatikoa ezartzeko aukera ematen du Ilargi formako ikonoa ukitu botoiaren ezkerraldean TTS erreproduzitzerakoan.
 
 
-8. Babeskopia eta berreskurapen gaitasunen deskribapena:
-Konfigurazioa - Babeskopia eta berreskurapena hainbat gailu inguru erabiltzen dituen funtzioa da, aplikazioa ingurune berean erabiltzeko.
-Babeskopia berreskuratzeko unitatean saioa egin dezakezu.
-Gailu anitzetatik ikusitakoan, hala nola PCak, telefonoak eta pads, kokapen-backup erabil dezakezu zure ikusteko kokapena sinkronizatzeko.
-Hautatu autosinkronizatu nahi duzun gailua eta aktibatu autosinchronizazio funtzioa aplikazioa exekutatzen duzunean edo etxera joan eta itzultzeko azken tokira automatikoki mugitzeko.
+8. Babeskopia eta berreskuratze funtzioa Deskribapena:
+[Ezarpenak - Babeskopia eta berreskurapena] Sortutako funtzioa da aplikazioa gailu askotan ingurumenean erabiltzeko baimena emateko.
+Unitatean saioa hasi eta babeskopiak berreskuratu ditzakezu.
+PCa, telefonoa edo pad bezalako gailu anitzetan ikustean, ikusmenaren kokapena sinkroniza dezakezu kokapen backup erabiliz.
+Gailua automatikoki sinkronizatzeko eta aktibatzeko [Syncing] funtzioa automatikoki sinkronizatzeko eta aktibatzeko, automatikoki joango da aplikazioa exekutatzen duzunean edo hasierako orrialdera itzultzean.
 
-9. Nola erabili Testu Batch aldaketa:
-1. [Ezarpenak - Ezarpenak - Bulk editatzeko botoia]
-2. [Ezarpenak - Editatu testua kolektiboki]
-Bi eratara erabil dezakezu lote aldaketa.
-1. zenbakiaren kasuan, TTS entzuteko eta esaldia beste pertsonaia bati ezabatzeko edo aldatzeko erabiltzen da, esaldi edo hitz batzuk gogaikarriak badira.
-2. zenbakiaren kasuan, testua OCR-rekin atera dezakezu eta dokumentutik testu fitxategia hautatu lote zuzenketa egiteko.
-Deskargatzeko botoia ere erabil dezakezu testuaren zuzenketa loteetarako deskargatzeko akatsak deskargatzeko eta erabiltzeko.
-Ontziratu gabeko zuzenketak - Deskargak zerrendak bakarrik erakutsiko ditu hizkuntza ezarpenak korearrean badaude.
-Hau da, garatzaileek ez baitute beste hizkuntzarik hitz egiten.
-Txostenaren funtzioa erabiliz jakinaraziz gero, herrialdearen hizkuntza gehituko dut.
+9. Nola erabili Batch Editatu testua:
+1. [Ezarpenak - Ezarpenak - Erakutsi Batch Editatu botoia]
+2. [Ezarpenak - Bulk editatzeko testua]
+Bulk edizioa bi modutan erabil daiteke.
+1. kasuan, esaldi edo hitz batzuk gogaikarriak badira TTS entzuten duten bitartean, esaldiak ezabatzeko edo beste pertsonaia batzuetara aldatzeko erabiltzen da.
+2. kasuan, Testua OCR erabiliz atera dezakezu eta, ondoren, testu fitxategiak hautatu nire liburutegitik, lote edizioa egiteko.
+Deskargatzeko botoia ere erabil dezakezu editatzeko testua maiz deskargatzeko akatsak deskargatzeko.
+[Batch Edit - Download] zerrenda bistaratuko da hizkuntza ezarpena korearra bada.
+Hau da, garatzaileek ez dakitelako beste hizkuntzak hitz egiten.
+Txostenaren funtzioa erabiliz salatzen baduzu, zure herrialdeko hizkuntza gehituko dugu.
 
-10. TTS entzuterakoan esaldi bat badago, lan egin:
-Ez badu axola jatorrizkoa aldatzen bada, aldatu [Aldaketa Kolektiboko] funtziora.
-Aldaketaren ondoren, babes-fitxategia nire liburutegian geratuko da, beraz, ustekabean aldatzen baduzu, berriro berreskura dezakezu.
-Jatorrizkoa TTS-tik soilik kendu nahi baduzu, erabili TTS iragazkia.
+10. Irtenbidea TTS entzutean gogaikarria den esaldi bat badago:
+Ez bazaizu axola jatorrizkoa aldatzea, erabili [Batch Editatu] funtzioa aldatu.
+Aldaketak egin ondoren, babes-fitxategia nire liburutegian geratuko da, beraz, akats bidez aldaketak egiten badituzu, berreskura ditzakezu.
+Jatorrizkoa ukitu gabe TTS bakarrik kendu nahi baduzu, erabili TTS iragazkia.
 
-11. Orrialdeari lotutako deskribapena:
-Funtzio bereziak erabiltzen badituzu, esaterako, TTS esaldi ikuskapena, lote zuzenketa, lerroen berrantolaketa eta itzulpenak, orriak kontsumituko dira, baina 10 eta 50 inguru baitira, ez duzu kontsumitzen sentituko.
-Orrialde gehienak Litekeena da OCR, EPUB eta PDF testua ateratzean sentitzeko erabiltzea.
-Testua ateratzean, bakarka ez ezik, esaldiak ere antolatzen ditugu, erauzketa egin ondoren sortzen diren dozenaka arazo eginez.
-Benetan inplementatzeko zaila zen zati bat da, beraz, saiatu mesedez.
+11. Erlazionatutako azalpena:
+Puntuak kontsumitzen dira funtzio bereziak erabiltzen dituztenean, esaterako, TTS esaldiaren egiaztapena, lote edizioa, linearen antolamendua eta itzulpena, baina 10 eta 50 inguru baitira, ez duzu kontsumoa sentituko.
+Puntu gehienak ocr, epub, eta PDF testua ateratzean sentitu daitekeen neurri batean erabil daitezke.
+Testua ateratzean, ez dugu testua ateratzen bakarrik, baina erauzketaren ondoren sortzen diren dozenaka arazoetatik ere ereduak sortzen ditugu eta esaldi antolaketarekin jarraitu.
+Zati hau zailtasun handiz ezarri zen, beraz, saiatu gutxienez behin erabiltzen.
 
 
-12. Publizitatearen deskribapena:
+12. Publizitatearekin lotutako azalpena:
 Garatzailea naiz eta erabiltzaile bat naiz.
-Ahalik eta gehien erabiltzen ez duten neurrian iragarkiak gehitu ditugu.
-Iragarkiek orrialdeak iragarkiak eta iragarkiak kentzeko iragarkiak dira.
-Orrialde batek 60.000 orrialde eduki ditzake.
-Iragarkiak kentzean, orrialdea erabil dezakezu iragarkiak denbora jakin batean kentzeko. (Lo egiteko denbora kenduta, egun bat inguru da.)
-Aurrez pilatutako orriak direnentzat, ikuslearen alboko iragarkia ken dezakezu 2000 orrialde kontsumituz.
-8000 orrialde kontsumitzen dituzunean, iragarki guztiak desgaituta daude, ezarpenen erdian dauden orrialdeak eskuratzeko 30 segundoko iragarkiak izan ezik.
-8.000 orrialdeko iragarkiak gehitu dira bihurketa kopuru handi batean agertzen diren iragarki laburrek traba egiten dutenentzat.
+Iragarkiak gehitu dira ahalik eta gehien erabiltzen ez duten neurrian.
+Bi iragarki mota daude: iragarkiak eta iragarkiak kentzeko iragarkiak segurtatzen dituzten puntuak.
+Gehienez 60.000 puntu eduki ditzakezu.
+Iragarkiak kentzean, puntuak erabil ditzakezu iragarkiak denbora jakin batean kentzeko. (Lotarako denbora kenduta, gutxi gorabehera egun bat da.)
+Aldez aurretik puntuak pilatzen dituztenentzat, ikusleen alboko iragarkiak kendu ditzakezu 2000 puntu kontsumituz.
+8000 puntu kontsumitzen dituzunean, iragarki guztiak desgaituta egongo dira, 30 segundoko iragarkiak ezarpenen erdian puntuak eta bertako iragarkiak izan ezik.
+8000 puntuko iragarkia gogaikarria iruditzen zaienentzat gehitu da bihurketa lan handiak egitean agertzen diren iragarki laburrak ikustea.
 
 
-13. Belarriaren deskribapena (Historia lan egitea):
-Belarriaren ikuspegiko funtzioa onartzen du.
-Adibidez, esan dezagun A (1etik 50era) izenburuko dokumentua dugula, eta izeneko dokumentu berria dugu (1 eta 100).
-Kasu honetan, posizio nagusia saltatzeko beharrezkoa da dagoeneko.
-Testu fitxategi bat nire liburutegian hautatzen duzunean, belarriaren ikuspegia menua agertzen da.
-Menua hautatzen baduzu eta ondoren (1 eta 50) hautatzen baduzu historian, automatikoki ikusitako posizioa automatikoki salatuko da.
-Geroago denbora baduzu, kendu (1-50) historiatik kendu.
+13. Jarraipenaren deskribapena (Historia Lotura) funtzioa:
+Ikusteko jarraibide funtzioa onartzen du.
+Adibidez, esan dezagun A (1 ~ 50) izenburuko dokumentua dagoela, baina orain (1 ~ 100) izenburuko dokumentu berria jasotzen duzu.
+Kasu honetan, dagoeneko kokapen nagusia saltatu behar duzu.
+Nire liburutegian testu fitxategia hautatzen duzunean, jarraitu Menua agertzen da.
+Menu hau hautatu ondoren, historiako (1 ~ 50) hautatzen baduzu, automatikoki ikusitako kokapena automatikoki salatuko da.
+Geroago denbora baduzu, kendu (1 ~ 50) historiatik.
 Historian, irakurtzeko liburu kopurua ere zenbatzen da.
 Dokumentu berdina geratzen bada, informazio okerra bistaratu daiteke.
 
 
-14. Laster-marka / Oharra / Deskribapena:
-Aplikazioak oharrak eta laster-marka onartzen ditu.
-Laster-markaren funtzioa laster-marken ezarpenetan aktibatzen baduzu, testua sakatu eta mantenduz gehitu dezakezu.
-Oharrak funtzioak fitxategi bat hautatu eta sartu ahal izango duzu gutxienez behin ireki baduzu.
-Fitxategia gutxienez behin irekitzen baduzu, izar bat agertzen da fitxategiaren hautaketaren goiko aldean.
-Oharrak eta horoskopoak erabil daitezke fitxategiaren beraren ebaluazioak grabatzeko.
-Laster-markak eduki garrantzitsuak grabatzeko erabil daitezke.
+14. Bookmark / Memo / Star Rating Deskribapena:
+Aplikazioak Memo eta Bookmark / Star Rating funtzioak onartzen ditu.
+Laster-markaren funtzioa laster-marken ezarpenetan aktibatzen baduzu, testua sakatuta gehitu dezakezu.
+MEMO funtzioak fitxategia hautatu eta sartu ahal izango duzu, gutxienez, fitxategia behin baino gehiagotan ikusi baduzu.
+Fitxategia behin irekitzen baduzu ere, goiko aldean izar bat dago fitxategia hautatzen duzunean.
+Oharrak eta balorazioak fitxategiaren beraren ebaluazioak grabatzeko erabil daitezke.
+Laster-markak informazio garrantzitsua grabatzeko erabil daitezke.
 
 
 
-14. TTS Sententzia azterketariaren deskribapena:
-Dokumentu asko begiratu nituenean, ondo idatzitako eta ez idatzitako testuen eredua ikusten hasi nintzen.
-Zorigaiztoko testuetan beti ateratzen den patroia aurkitu nuen.
-Eredu hau antolatu nuen eta eredu bakoitza pisatuz ekoiztu nuen.
-Izendatu genuen [nire bilaketa] hasieran.
-Hala ere, funtzio hau epai subjektibo gehiegi egin zen, beraz, TTS esaldi zuzentzaileari aldatu nion.
-Ezaugarri honek Koreakoak bakarrik onartzen ditu.
-Ez dakit beste herrialde batzuetako hizkuntza, beraz ezin dut nire ereduak antolatu ona edo txarra den ala ez.
-Beste herrialde batzuetan horrelako eredua badago, bidali e-mail bidez.
-Hizkuntza nazional anitzetan laguntza eman ondoren, funtzioa ezarpenetara eramango dugu.
-Ezarpenetan leku bakarra dago oraindik.
+14. TTS esaldi zuzentzailearen deskribapena:
+Dokumentu ugari aztertu nituenean, ondo idatzitako artikuluen artean ereduak ikusten hasi nintzen.
+Artikulu etsigarrietan beti agertzen den patroia aurkitu nuen.
+Hau da eredu horiek antolatu eta patroi bakoitzari pisua emanez sortu nuen funtzioa da.
+Hasieran, funtzio hau izendatu zuten [MINESWEEPER].
+Hala ere, funtzio hau epai subjektibo gehiegi oinarritzat hartuta sortu zen, beraz, TTS esaldi zuzentzaileari aldatu zitzaion.
+Ezaugarri honek koreera onartzen du.
+Beste herrialdeen hizkuntzak ondo ezagutzen ez ditudalako, ezin nuen idatzi idazkera ona edo txarra izan den ala ez.
+Horrelako eredu bat badago beste herrialde batzuetan, mesedez, jakinarazi posta elektroniko bidez.
+Hizkuntza nazional anitzetan euskarri izan ondoren, funtzioa ezarpenetara eramango dugu.
+Ezarpenetan leku bat geratzen da oraindik.
 
 
-15. Txakurraren administrazioaren funtzioaren azalpena:
-Esaldia amaitu ez bada, baina sarrera behera dago.
-Normalean, OCR bihurketarekin lan egiten duten dokumentuetarako asko gertatzen da.
-Ezaugarri hau ez da Sartu konbinazio bat soilik.
-Irekitako akats ugari dituzten dokumentuak aztertuz eta ereduak antolatzen dituen funtzioa da.
-Antolatzeko AI aurkezten saiatu nintzen, baina ez da erraza izan.
-Egun hauetan hizkuntza prozesatzeko ikerketa asko dago, beraz, gehituko dut AIrekin prozesatu ahal badut.
+15. Linearen atseden funtzioaren deskribapena:
+Line Break Teorem esaldia amaitutakoan erabil daitekeen metodoa da, baina Sartu tekla sakatuta dago.
+Fenomeno hau OCR bihurketa bidez prozesatutako dokumentuetan gertatzen da.
+Funtzio honek ez du sartu besterik ez.
+Funtzio hau berrikuntza akats ugari dituzten dokumentuak aztertuz eta ereduak antolatuz gauzatu zen.
+AI erabiliz antolatzen saiatu nintzen, baina ez da erraza izan.
+Egun hauetan, ikerketa asko egiten ari dira hizkuntza naturalaren prozesamenduan, beraz, etorkizunean AI-rekin prozesatu ahal badugu, gehitzen saiatuko gara.
 
 16. Itzulpen funtzioaren deskribapena:
-Tokiko Itzulpena / Web Arakatzailearen itzulpen funtzionaltasuna onartzen da.
-Tokiko itzulpenak Google-k garatutako AIra itzultzen duen funtzioa da. Hitz sinpleak ondo itzul daitezke, baina badirudi esaldi-itzulpenean egindako okerren bat dagoela.
-Web arakatzailearen itzulpena arakatzaile batean itzultzeko esaldiak bistaratzen dituen funtzioa da.
-Ezarpenak - Itzulpen ezarpenak itzulpen-funtzioa aktibatzen baduzu eta luze sakatu esaldia, itzulpen funtzioak funtzionatuko du.
+Tokiko itzulpen / web arakatzailearen itzulpen funtzioak onartzen ditu.
+Tokiko itzulpenak Google-k garatutako AI erabiliz itzultzen duen funtzioa da. Hitz sinpleak ondo itzulita daude, baina badirudi esaldi-itzulpenetan nolabaiteko mesfanslazioak direla.
+Web arakatzailearen itzulpena arakatzailean itzultzeko esaldia bistaratzen duen funtzioa da.
+Itzulpen funtzioa [Ezarpenak - itzulpen ezarpenak] aktibatzen badituzu eta luze sakatu esaldia, itzulpen funtzioak funtzionatuko du.
 
 17. Beste kontu batzuk:
-Dokumentu bat irekitzen duzunean, hiru aldiz baino gehiago errepikatzen den sarrera bi aldiz igaroko da.
-Gehiegizko sarrera deserosoa da TTS-ekin entzutea eta deseroso ikustea.
-Zuetako batzuk dagoeneko nabaritu izan dituzu nire aplikazioa denbora luzez. "Hmm? Zuetako batzuek pentsa dezakete", ez dut sekula entretenimendu asko ikusi ".
-Testu-ikusleak lagun dezakeen funtzionalitate gisa ezarri dugu.
+Dokumentu bat irekitzean, Earapp-ek automatikoki aldatuko du Sartu tekla hiru aldiz bi aldiz errepikatu.
+Gehiegizko sarrerak deseroso daude TTS-en bidez entzuteko eta ikusteko.
+Zuetako batzuek jada nabaritu izan dute nire aplikazioa denbora luzez erabiltzen nuen bitartean, eta esan, "hmm? Orain pentsatzen dudala, ez dut sekula ikusi sarritan sakatzen? " Batzuek horrela pentsa dezakete.
+Testu ikuslearen ahalik eta funtzio gehien ezarri ditugu.
 
-17 erabilera idatzi ditut, baina ez dut uste oraindik erdia erabili dudanik.
-Funtzio sinpleak, hala nola atzeko planoaren irudia, atzeko planoaren irudia, letra kolorea eta orrialdearen inflexio metodoa ez dira alde batera utzi.
-Dokumentu honek jende asko lagunduko duela espero dut.
-Ezarpenak aztertzen badituzu - informazioa eta laguntza, Telegram Taldearen berriketan esteka dago, beraz, edozein zalantza baduzu, sartu eta galdetu dezakezu.
-Eskerrik asko amaieraraino irakurtzeagatik.
+Hamazazpi modu erabili ditut erabiltzeko, baina ez dut uste oraindik erdia idatzi dudanik.
+Funtzio sinpleak, hala nola atzeko planoaren irudia, atzeko planoaren irudia, testu kolorea eta Point Buelta metodoa alde batera utzi dira.
+Artikulu hau jende askorentzat lagungarria izango dela espero dut.
+[Ezarpenak - informazioa eta laguntza] aztertzen badituzu, Telegram Taldeko txat gelarako esteka dago, beraz, edozein zalantza izanez gero, sartu eta galdetu dezakezu.
+Eskerrik asko irakurtzeagatik.
