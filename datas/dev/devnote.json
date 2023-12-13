@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.7.3 (2023 Dec 12)\n\n- Point-related explanations have been modified in the user manual.txt.\n- The volume number display in the history has been modified to check only text files.\n- Image zoom in/out function added.\n- Fixed a bug where some compressed files could not be decompressed.\n- The point maximum has been modified to 80,000."
+    "devnote": "7.7.6 (2023 Dec 13)\n\n- Fixed a bug where previous history was intermittently referenced when opening a file.\n- Fixed a bug where a bookmark pop-up would appear when you long-pressed the image viewer even if the bookmark function was turned off.\n- When the image viewer vertical scrolling reaches the end, the open next file button is displayed."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.7.3 (2023 12 12)\n\n- 사용 설명서.txt 에서 포인트 관련 설명을 수정 하였습니다. \n- 히스토리에서 권수 표기는 텍스트 파일만 체크하도록 수정 하였습니다. \n- 이미지 확대/ 축소 기능을 추가하였습니다.\n- 일부 압축 파일 해제 안되던 버그를 수정 하였습니다. \n- 포인트 최대치를 8만으로 수정하였습니다."
+    "devnote": "7.7.6 (2023 12 13)\n\n- 파일을 열때 간헐적으로 이전 히스토리가 참조되는 버그를 수정 하였습니다.   \n- 이미지 뷰어에서 북마크 기능을 꺼도 길게누르면 북마크 팝업이 나오는 버그를 수정 하였습니다. \n- 이미지뷰어 수직스크롤이 끝에 도달 할 경우 다음파일 열기 버튼이 표시되도록 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.7.3 (2023 12 de decembro)\n\n- Modificáronse as explicacións relacionadas co punto no manual de usuario.txt.\n- Modificouse a pantalla de número de volume da historia para comprobar só os ficheiros de texto.\n- Engadiuse a función de zoom/saída de zoom de imaxe.\n- Fixouse un erro onde non se puideron descomprimir algúns ficheiros comprimidos.\n- O punto máximo foi modificado a 80.000."
+    "devnote": "7.7.6 (2023 13 de decembro)\n\n- Corrixiu un erro onde o historial anterior foi referido de xeito intermitente ao abrir un ficheiro.\n-Corrixiu un erro onde aparecería un pop-up de marcadores cando prensou o visor de imaxes aínda que se apagase a función de marcador.\n- Cando o desprazamento vertical do visor de imaxes chega ao final, móstrase o botón Aberto do ficheiro seguinte."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.7.3 (2023 ડિસેમ્બર 12)\n\n- પોઇન્ટ-સંબંધિત સ્પષ્ટતા વપરાશકર્તા મેન્યુઅલ.ટીક્સટીમાં સુધારવામાં આવી છે.\n- ઇતિહાસમાં વોલ્યુમ નંબર ડિસ્પ્લે ફક્ત ટેક્સ્ટ ફાઇલોને તપાસવા માટે સંશોધિત કરવામાં આવી છે.\n- છબી ઝૂમ ઇન/આઉટ ફંક્શન ઉમેર્યું.\n- ભૂલને ઠીક કરો જ્યાં કેટલીક સંકુચિત ફાઇલોને ડિકોમ્પ્રેસ કરી શકાતી નથી.\n- મહત્તમ પોઇન્ટમાં 80,000 માં ફેરફાર કરવામાં આવ્યા છે."
+    "devnote": "7.7.6 (2023 ડિસેમ્બર 13)\n\n- એક ભૂલને સ્થિર કરો જ્યાં ફાઇલ ખોલતી વખતે પાછલા ઇતિહાસનો સમયાંતરે સંદર્ભ આપવામાં આવ્યો હતો.\n-એક બગને ઠીક કરો જ્યાં બુકમાર્ક પ pop પ-અપ દેખાશે જ્યારે તમે ઇમેજ વ્યૂઅરને લાંબા સમયથી દબાવશો તો પણ બુકમાર્ક ફંક્શન બંધ કરવામાં આવ્યું હતું.\n- જ્યારે છબી દર્શક ical ભી સ્ક્રોલિંગ અંત સુધી પહોંચે છે, ત્યારે ખુલ્લી આગલી ફાઇલ બટન પ્રદર્શિત થાય છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.7.3 (2023 Δεκ. 12)\n\n- Οι εξηγήσεις που σχετίζονται με το σημείο έχουν τροποποιηθεί στο εγχειρίδιο χρήστη.txt.\n- Η εμφάνιση αριθμού έντασης στο ιστορικό έχει τροποποιηθεί για να ελέγξει μόνο τα αρχεία κειμένου.\n- Προστέθηκε η λειτουργία Zoom Zoom Int/Out.\n- Διορθώθηκε ένα σφάλμα όπου ορισμένα συμπιεσμένα αρχεία δεν μπορούσαν να αποσυμπιεστούν.\n- Το μέγιστο σημείο έχει τροποποιηθεί σε 80.000."
+    "devnote": "7.7.6 (2023 Δεκ 13)\n\n- Διορθώθηκε ένα σφάλμα όπου το προηγούμενο ιστορικό αναφέρθηκε διαλείπουσα κατά το άνοιγμα ενός αρχείου.\n-Διορθώθηκε ένα σφάλμα όπου θα εμφανιστεί ένα pop-up σελιδοδείκτη όταν έχετε περάσει μακρυά το πρόγραμμα προβολής εικόνων, ακόμη και αν η λειτουργία σελιδοδεικτών απενεργοποιήθηκε.\n- Όταν εμφανίζεται η κατακόρυφη κύλιση της προβολής εικόνας, εμφανίζεται το κουμπί Ανοίξτε το επόμενο αρχείο."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.7.3 (2023 december 12)\n\n- Puntgerelateerde verklaringen zijn gewijzigd in de gebruikershandleiding. TXT.\n- De weergave van het volumenummer in de geschiedenis is gewijzigd om alleen tekstbestanden te controleren.\n- Afbeelding inzoom in/uit -functie toegevoegd.\n- Een bug opgelost waar sommige gecomprimeerde bestanden niet konden worden gedecomprimeerd.\n- Het puntmaximum is gewijzigd tot 80.000."
+    "devnote": "7.7.6 (2023 december 13)\n\n- Een bug opgelost waar de eerdere geschiedenis met tussenpozen werd verwezen bij het openen van een bestand.\n-Een bug opgelost waarbij een bladwijzerpop-up zou verschijnen wanneer u de beeldviewer lang hebt ingedrukt, zelfs als de bladwijzerfunctie is uitgeschakeld.\n- Wanneer de verticale scrollen van de beeldviewer het einde bereikt, wordt de knop Volgende bestand openen weergegeven."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "7.7.3 (2023 डिसेम्बर 12)\n\n- पोइन्ट सम्बन्धित स्पष्ट रूपमा स्पष्ट रूपमा प्रयोगकर्ता म्यानुअल.टीटीमा परिमार्जन गरिएको छ।\n- ईतिहासमा भोल्यूम नम्बर प्रदर्शन मात्र पाठ फाइलहरू जाँच गर्न परिमार्जन गरिएको छ।\n- छवि जूम इन / आउट प्रकार्य थपियो।\n- जहाँ धेरै संकुचित फाईलहरू सेट गरिएको छ जहाँ केही संकुचित फाईलहरू विघटित हुँदैनन्।\n- पोइन्ट अधिकतम 800,000 मा परिमार्जन गरिएको छ।"
+    "devnote": "7.7..6 (2023 डिसेम्बर 1 13)\n\n- अघिल्लो ईतिहास अस्थायी रूपमा सन्दर्भ गरिएको बग फिक्स गरियो।\n- बुकमार्क पप-अप देखा पर्नेछ जब बुकमार्क प्रकार्य बन्द भए पनि, छवि दर्शक बन्द भयो भने बुकमार्क पप-अप देखा पर्दछ।\n- जब छवि दर्शक ठाडो स्क्रोल अन्त्यमा पुग्दा खुला अर्को फाईल बटन प्रदर्शित हुन्छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.7.3 (2023 12. desember)\n\n- Punktrelaterte forklaringer er endret i brukerhåndboken.txt.\n- Volumnummervisningen i historien er endret for å sjekke bare tekstfiler.\n- Bilde zoom inn/ut -funksjonen lagt til.\n- Fikset en feil der noen komprimerte filer ikke kunne dekomprimeres.\n- Punktmaksimumet er endret til 80 000."
+    "devnote": "7.7.6 (2023 13. desember)\n\n- Fikset en feil der tidligere historie ble henvist til når du åpnet en fil.\n-Fikset en feil der en bokmerke pop-up ville vises når du langpresset Bildevisningen selv om bokmerkefunksjonen var slått av.\n- Når bildeviseren vertikal rulling når slutten, vises den åpne neste filknappen."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.7.3 (2023 december 12)\n\n- Punktrelaterede forklaringer er blevet ændret i brugervejledningen.txt.\n- Volumenummerdisplayet i historien er blevet ændret for kun at kontrollere tekstfiler.\n- Billed zoom ind/out -funktion tilføjet.\n- Rettet en fejl, hvor nogle komprimerede filer ikke kunne dekomprimeres.\n- Pointmaksimum er blevet ændret til 80.000."
+    "devnote": "7.7.6 (2023 dec. 13)\n\n- Rettet en fejl, hvor tidligere historie blev med mellemrum henvist til, når man åbnede en fil.\n-Rettet en fejl, hvor et bogmærke-pop-up ville vises, når du længe pressede billedviseren, selvom bogmærkefunktionen var slukket.\n- Når billedvisningen lodret rulle når slutningen, vises den åbne næste filknap."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.7.3 (2023 Dez 12)\n\n- Punktbezogene Erklärungen wurden im Benutzerhandbuch geändert.\n- Die Anzeige der Volumennummer im Verlauf wurde geändert, um nur Textdateien zu überprüfen.\n- Funktion Zoom in/out hinzugefügt.\n- Ein Fehler behoben, bei dem einige komprimierte Dateien nicht dekomprimiert werden konnten.\n- Der Punktmaximum wurde auf 80.000 modifiziert."
+    "devnote": "7.7.6 (2023 Dez 13)\n\n- Ein Fehler behoben, bei dem beim Öffnen einer Datei die Vorgeschichte zeitweise verwiesen wurde.\n-Ein Fehler behoben, bei dem ein Lesezeichen-Pop-up angezeigt wird, wenn Sie den Image-Betrachter längst gepresst, auch wenn die Lesezeichenfunktion ausgeschaltet würde.\n- Wenn der Bildbetriebsbetriebs -Scrolling das Ende erreicht, wird die Schaltfläche Nächster Datei geöffnet."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.7.3 (2023 ວັນທີ 1223 Dec 12)\n\n- ຄໍາອະທິບາຍຈຸດທີ່ກ່ຽວຂ້ອງໄດ້ຖືກດັດແກ້ໃນຄູ່ມືຜູ້ໃຊ້.\n- ການສະແດງເລກປະລິມານໃນປະຫວັດສາດໄດ້ຖືກດັດແກ້ເພື່ອກວດສອບພຽງແຕ່ເອກະສານຂໍ້ຄວາມເທົ່ານັ້ນ.\n- ຮູບພາບຂະຫຍາຍໃຫຍ່ຂື້ນໃນ / ອອກຫນ້າທີ່ເພີ່ມ.\n- ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ບາງເອກະສານທີ່ທ່ານບີບອັດທີ່ບໍ່ສາມາດຖືກທໍາລາຍໄດ້.\n- ສູງສຸດຈຸດໄດ້ຖືກດັດແປງເປັນ 80,000."
+    "devnote": "7.7.6 (2023 Dec 13)\n\n- ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ປະຫວັດກ່ອນຫນ້ານີ້ຖືກອ້າງອີງໃນເວລາເປີດເອກະສານ.\n- ແກ້ໄຂຂໍ້ບົກຜ່ອງທີ່ມີປ້າຍຊື່ຈະປາກົດຂຶ້ນເມື່ອທ່ານໄດ້ກົດດັນຮູບພາບຍາວໆຂອງຮູບພາບ Viewer ເຖິງແມ່ນວ່າຫນ້າທີ່ Bookmark ໄດ້ຖືກປິດແລ້ວ.\n- ໃນເວລາທີ່ການເລື່ອນພາບຂອງຮູບພາບຕັ້ງຮູບພາບຕັ້ງຢູ່ໃນທີ່ສຸດ, ປຸ່ມເປີດທີ່ເປີດຢູ່ແມ່ນສະແດງ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.7.3 (2023. gada 12. decembris)\n\n- Lietotāja rokasgrāmatā.txt ir modificēti ar punktu saistītie skaidrojumi.\n- Sējuma numura displejs vēsturē ir modificēts, lai pārbaudītu tikai teksta failus.\n- Pievienota attēla tuvināšana/izslēgšana.\n- Novērsta kļūda, kurā dažus saspiestus failus nevarēja dekompresēt.\n- Punkta maksimums ir modificēts līdz 80 000."
+    "devnote": "7.7.6 (2023. gada 13. decembris)\n\n- Fiksēta kļūda, kurā, atverot failu, tika pārtraukta iepriekšējā vēsture.\n-Novērsta kļūda, kurā parādītos uznirstošais grāmatvedis, kad jūs ilgi iespiedat attēlu skatītāju, pat ja grāmatzīmju funkcija būtu izslēgta.\n- Kad attēla skatītāja vertikālā ritināšana sasniedz galu, tiek parādīta poga Atvērt nākamo failu."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.7.3 (2023 г. 12 декабря)\n\n- Связанные с точками объяснения были изменены в руководстве пользователя.\n- Отображение номера тома в истории было изменено для проверки только текстовых файлов.\n- Внедрение изображения Zoom In/Out добавлено.\n- Исправлена ​​ошибка, в которой некоторые сжатые файлы не могут быть декомпрессированы.\n- Максимум точки был изменен до 80 000."
+    "devnote": "7.7.6 (2023 г. 13 декабря)\n\n- Исправлена ​​ошибка, на которой предыдущая история с периодически ссылалась при открытии файла.\n-Исправлена ​​ошибка, где появится всплывающее окно закладки, когда вы давно представляете зритель изображений, даже если функция закладки была отключена.\n- Когда вертикальная прокрутка просмотра изображений достигает конца, отображается кнопка «Открыть следующее файл»."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.7.3 (2023 12 decembrie)\n\n- Explicațiile legate de punct au fost modificate în manualul de utilizare.txt.\n- Afișarea numărului de volum din istoric a fost modificată pentru a verifica doar fișierele text.\n- Image Zoom In/Out Funcție adăugată.\n- S -a rezolvat o eroare în care unele fișiere comprimate nu au putut fi decomprimate.\n- Punctul maxim a fost modificat la 80.000."
+    "devnote": "7.7.6 (2023 13 decembrie)\n\n- S -a rezolvat o eroare în care istoricul anterior a fost referit intermitent la deschiderea unui fișier.\n-S-a rezolvat o eroare în care ar apărea un pop-up de marcaj atunci când ați apăsat de mult timp vizualizatorul de imagini, chiar dacă funcția de marcaj a fost oprită.\n- Când este afișat defilarea verticală a vizualizatorului de imagine, este afișat butonul deschis de fișier."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.7.3 (2023 m. Gruodžio 12)\n\n- Su tašku susiję paaiškinimai buvo modifikuoti vartotojo vadove.txt.\n- Istorijoje esančio garsumo numerio rodymas buvo modifikuotas, kad būtų galima patikrinti tik tekstinius failus.\n- Pridedama vaizdo mastelio keitimas/išjungtas.\n- Ištaisyta klaida, kai kai kurių suspaustų failų nepavyko išskleisti.\n- Maksimalus taškas buvo pakeistas iki 80 000."
+    "devnote": "7.7.6 (2023 m. Gruodžio 13)\n\n- Ištaisyta klaida, kur ankstesnė istorija buvo su pertraukomis paminėta atidarant failą.\n-Ištaisyta klaida, kurioje pasirodytų žymė, kai ilgą laiką spaudėte vaizdo peržiūros priemonę, net jei žymės funkcija buvo išjungta.\n- Kai vaizdų peržiūros priemonės vertikalus slinkimas pasiekia galą, rodomas atidarytas kito failo mygtukas."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.7.3 (2023 डिसेंबर 12)\n\n- पॉईंट-संबंधित स्पष्टीकरण वापरकर्त्याच्या मॅन्युअल.टीएक्सटीमध्ये सुधारित केले गेले आहे.\n- इतिहासातील व्हॉल्यूम नंबर प्रदर्शन केवळ मजकूर फायली तपासण्यासाठी सुधारित केले गेले आहे.\n- प्रतिमा झूम इन/आउट फंक्शन जोडले.\n- एक बग निश्चित केला जेथे काही संकुचित फायली विघटित केल्या जाऊ शकत नाहीत.\n- बिंदू जास्तीत जास्त 80,000 मध्ये सुधारित केले गेले आहे."
+    "devnote": "7.7.6 (2023 डिसेंबर 13)\n\n- फाईल उघडताना पूर्वीचा इतिहास मधूनमधून संदर्भित केला जात असे बग निश्चित केले.\n-बुकमार्क फंक्शन बंद असले तरीही आपण प्रतिमा दर्शकांना दीर्घ-दाबल्यास बुकमार्क पॉप-अप दिसून येईल अशा बगचे निराकरण केले.\n- जेव्हा प्रतिमा दर्शक अनुलंब स्क्रोलिंग शेवटी पोहोचते, तेव्हा पुढील फाइल बटण प्रदर्शित होते."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.7.3 (2023 декември 12)\n\n- Објаснувањата поврзани со точките се изменети во Упатството за корисникот.txt.\n- Приказот на бројот на јачината на звукот во историјата е изменет за да се проверат само датотеките со текст.\n- Додадена е функција за зумирање на слика/надвор.\n- Поправи грешка каде што некои компресирани датотеки не може да се декомпресираат.\n- Максималната точка е изменета на 80.000."
+    "devnote": "7.7.6 (2023 декември 13)\n\n- Поправи грешка каде претходната историја беше наизменично упатена при отворање датотека.\n-Поправи грешка каде ќе се појави обележувач на обележувач кога долго го притиснавте прегледувачот на слики, дури и ако функцијата за обележувач е исклучена.\n- Кога вертикалното скролување на гледачот на сликата ќе го достигне крајот, се прикажува копчето Open Next File."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.7.3 (2023 ഡിസംബർ 12)\n\n- ഉപയോക്തൃ മാനുവൽ.ടിxt ൽ പോയിന്റിയുമായി ബന്ധപ്പെട്ട വിശദീകരണങ്ങൾ പരിഷ്ക്കരിച്ചു.\n- ചരിത്രത്തിലെ വോളിയം നമ്പർ പ്രദർശനം ടെക്സ്റ്റ് ഫയലുകൾ മാത്രം പരിശോധിക്കുന്നതിനായി പരിഷ്ക്കരിച്ചു.\n- ഇമേജ് സൂം ഇൻ / out ട്ട് ഫംഗ്ഷൻ ചേർത്തു.\n- ചില കംപ്രസ്സുചെയ്ത ഫയലുകൾ വിഘടിപ്പിക്കാൻ കഴിയാത്ത ഒരു ബഗ് പരിഹരിച്ചു.\n- പരമാവധി പരമാവധി 80,000 ആയി പരിഷ്ക്കരിച്ചു."
+    "devnote": "7.7.6 (2023 ഡിസംബർ 13)\n\n- ഒരു ഫയൽ തുറക്കുമ്പോൾ മുമ്പത്തെ ചരിത്രം ഇടയ്ക്കിടെ പരാമർശിച്ച ഒരു ബഗ് പരിഹരിച്ചു.\n- ബുക്ക്മാർക്ക് പ്രവർത്തനം ഓഫാക്കിയിട്ടുണ്ടെങ്കിൽപ്പോലും ഒരു ബുക്ക്മാർക്ക് പോപ്പ്-അപ്പ് ദൃശ്യമാകുന്ന ഒരു ബഗ് പരിഹരിച്ചു.\n- ഇമേജ് വ്യൂവർ ലംബ സ്ക്രോളിംഗ് അവസാനത്തിൽ എത്തുമ്പോൾ, തുറന്ന അടുത്ത ഫയൽ ബട്ടൺ പ്രദർശിപ്പിക്കും."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.7.3 (2023 Dis 12)\n\n- Penjelasan yang berkaitan dengan titik telah diubah suai dalam manual pengguna.txt.\n- Paparan nombor kelantangan dalam sejarah telah diubahsuai untuk memeriksa hanya fail teks.\n- Fungsi Zoom Image In/Out Ditambah.\n- Memperbaiki bug di mana beberapa fail termampat tidak dapat dikompresi.\n- Maksimum titik telah diubah suai kepada 80,000."
+    "devnote": "7.7.6 (2023 Disember)\n\n- Memperbaiki pepijat di mana sejarah terdahulu dirujuk secara berselang -seli apabila membuka fail.\n-Memperbaiki pepijat di mana pop timbul penanda buku akan muncul apabila anda menekankan penonton imej walaupun fungsi penanda buku dimatikan.\n- Apabila pematangan imej penatunan menegak mencapai hujung, butang Fail Terbuka Next dipaparkan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.7.3 (2023 оны 12-р сарын 12)\n\n- Point-холбоотой тайлбарыг хэрэглэгчийн гарын авлагад өөрчилсөн.\n- Түүхэн дэх эзлэхүүний дугаар дэлгэцийг зөвхөн текст файлуудыг шалгахаар өөрчлөгдсөн байна.\n- Зургийн томруулалтыг томруулж, нэмсэн.\n- Шахсан файлуудыг задлах боломжгүй байгаа алдааг заслаа.\n- Хамгийн дээд цэгийг 80,000 болгон өөрчилсөн байна."
+    "devnote": "7.7.6.6 (2023 оны 12-р сарын 13)\n\n- Өмнөх түүх нь файлыг нээхэд өмнөх түүхийг тасалдуулав.\n- Хавчуургын функц унтарсан байсан ч гэсэн зургийн үзэгчийн үзэгчийг дарахад HOTCKMAY POPPATE дээр гарч ирнэ.\n- Зургийн үзэгчийн үзэгч босоо гүйлгэх үед үзүүрт хүрэхэд нээлттэй дараагийн файлын товчлуурыг харуулна."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.7.3 (2023 abendua 12)\n\n- Erabiltzaileen eskuliburua aldatu da.\n- Historian bolumen zenbakia bistaratzea aldatu da testu fitxategiak soilik ikusteko.\n- Irudia Zoom In / Out funtzioa gehitu da.\n- Konprimitutako fitxategiak deskonprimitu ezin diren akats bat konpondu da.\n- puntu gehienez 80.000ra aldatu da."
+    "devnote": "7.7.6 (2023 abendua 13)\n\n- Fitxategi bat irekitzerakoan aurreko historia etengabe aipatzen zen akats bat konpondu da.\n- Errore bat konpondu da non laster-marka pop-upak irudiaren ikuslea luze sakatuta agertuko zenean, laster-marka funtzioa desaktibatuta egon bada ere.\n- Irudiaren ikuslea korritze bertikala amaierara iristen denean, irekitako hurrengo fitxategi botoia bistaratzen da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.7.3 (2023 ဒီဇင်ဘာ 12 ရက်)\n\n- Point-Related Definations ကိုအသုံးပြုသူလက်စွဲစာအုပ်တွင်ပြုပြင်ထားသည်။\n- သမိုင်းတွင် volume volume display ကိုစာသားဖိုင်များကိုသာစစ်ဆေးရန်ပြင်ဆင်ထားသည်။\n- Image zoom in / oft function ကိုထည့်သွင်းခဲ့သည်။\n- အချို့သော compressed files များကို decompressed မရနိုင်သော bug တစ်ခု fixed ။\n- အများဆုံးအချက်ကို 80,000 မှပြုပြင်မွမ်းမံခဲ့သည်။"
+    "devnote": "7.7.6 (2023 ဒီဇင်ဘာ 1323)\n\n- ယခင်သမိုင်းကြောင်းကိုဖိုင်တစ်ခုဖွင့်သည့်အခါပြတ်တောင်းပြတ်တောင်းပြတ်တောင်းပြောသောအမှားတစ်ခုကိုသတ်မှတ်သည်။\n- Bookmark Viewer ကိုပိတ်ထားရင်တောင်သင်ဟာ bookmark function ကိုပိတ်ထားရင်တောင်ပုံရိပ်ကိုကြည့်ရှုတဲ့အခါ bookmark pop-up ပေါ်လာတဲ့ bug တစ်ခုပေါ်လာလိမ့်မယ်။\n- Image Viewer Vertical scrolling သည်အဆုံးသို့ရောက်သောအခါ Open Next File ခလုတ်ကိုပြသသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.7.3 (2023 ngày 12 tháng 12)\n\n- Giải thích liên quan đến điểm đã được sửa đổi trong hướng dẫn sử dụng.txt.\n- Hiển thị số âm lượng trong lịch sử đã được sửa đổi để chỉ kiểm tra các tệp văn bản.\n- Chức năng thu phóng hình ảnh được thêm vào.\n- Đã sửa lỗi trong đó một số tệp nén không thể được giải nén.\n- Tối đa điểm đã được sửa đổi thành 80.000."
+    "devnote": "7.7.6 (2023 ngày 13 tháng 12)\n\n- Đã sửa lỗi trong đó lịch sử trước đó được tham chiếu không liên tục khi mở tệp.\n-Đã sửa lỗi một lỗi trong đó một cửa sổ bật lên sẽ xuất hiện khi bạn giới thiệu từ lâu người xem hình ảnh ngay cả khi chức năng đánh dấu bị tắt.\n- Khi trình xem hình ảnh cuộn dọc đến cuối, nút mở tiếp theo sẽ được hiển thị."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.7.3 (2023 г. 12 снежня)\n\n- Тлумачэнні, звязаныя з кропкамі, былі зменены ў Кіраўніцтве карыстальніка.txt.\n- Дысплей нумара аб'ёму ў гісторыі быў зменены, каб праверыць толькі тэкставыя файлы.\n- Дададзена дададзена функцыя павелічэння/выводу малюнка.\n- Выпраўлена памылка, калі некаторыя сціснутыя файлы нельга было дэкасаваць.\n- Максімальная кропка была зменена да 80 000."
+    "devnote": "7.7.6 (2023 г. 13 снежня)\n\n- Выпраўлена памылка, дзе пры адкрыцці файла была перарывіста спасылалася папярэдняя гісторыя.\n-Выпраўлена памылка, у якой з'явілася б закладка, калі вы доўга націскаеце праглядальніка малюнка, нават калі функцыя закладкі была адключана.\n- Калі вертыкальная пракрутка прагляду малюнкаў дасягае канца, адлюстроўваецца кнопка Open Next File."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.7.3 (2023 ডিসেম্বর 12)\n\n- পয়েন্ট-সম্পর্কিত ব্যাখ্যাগুলি ব্যবহারকারী ম্যানুয়াল.টিএক্সটি-তে সংশোধন করা হয়েছে।\n- ইতিহাসে ভলিউম নম্বর প্রদর্শনটি কেবল পাঠ্য ফাইলগুলি পরীক্ষা করতে সংশোধন করা হয়েছে।\n- চিত্র জুম ইন/আউট ফাংশন যুক্ত করা হয়েছে।\n- এমন একটি বাগ ঠিক করা হয়েছে যেখানে কিছু সংকুচিত ফাইলগুলি ডিকম্প্রেসড করা যায় না।\n- সর্বাধিক পয়েন্টটি ৮০,০০০ এ সংশোধন করা হয়েছে।"
+    "devnote": "7.7.6 (2023 ডিসেম্বর 13)\n\n- একটি বাগ স্থির করে যেখানে কোনও ফাইল খোলার সময় পূর্ববর্তী ইতিহাস মাঝে মাঝে উল্লেখ করা হয়েছিল।\n-এমন একটি বাগ ঠিক করা হয়েছে যেখানে বুকমার্ক পপ-আপ উপস্থিত হবে যখন আপনি যখন বুকমার্ক ফাংশনটি বন্ধ হয়ে গেলেও চিত্র দর্শকদের দীর্ঘ-চাপ দিয়েছিলেন।\n- যখন চিত্র দর্শকের উল্লম্ব স্ক্রোলিং শেষে পৌঁছে যায়, খোলা পরবর্তী ফাইল বোতামটি প্রদর্শিত হয়।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.7.3 (2023 декември 12)\n\n- Обясненията, свързани с точка, са модифицирани в ръководството на потребителя.txt.\n- Дисплеят на номера на силата на звука в историята е модифициран, за да провери само текстови файлове.\n- Добавена е функция за увеличаване на изображението.\n- Фиксирана грешка, при която някои компресирани файлове не могат да бъдат декомпресирани.\n- Точката максимум е модифицирана до 80 000."
+    "devnote": "7.7.6 (2023 декември 13)\n\n- Фиксирана грешка, при която предишната история беше прекъсната периодично при отваряне на файл.\n-Фиксирана грешка, при която ще се появи изскачащ знак, когато дълго натиснете зрителя на изображението, дори ако функцията на отметката е изключена.\n- Когато вертикалното превъртане на зрителя на изображението достигне до края, се показва отвореният бутон за следващия файл."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.7.3 (2023. 12.)\n\n- Објашњења повезана са тачкама је модификована у корисничком упутству.ТКСТ.\n- Екран за јачину звука у историји је модификован да бисте проверили само текстуалне датотеке.\n- Додата је функција увећања слике умањила / оут.\n- Поправљена је грешка у којој се неке компримоване датотеке не могу декомпресовати.\n- Максимална тачка је измењена на 80.000."
+    "devnote": "7.7.6 (2023. децембар 13)\n\n- Поправљена је грешка у којој је претходна историја била повремено спојена приликом отварања датотеке.\n- Поправљена је грешка у којој се појавило скочни прозор са ознаком када је дуго притиснуо прегледник слике чак и ако је функција обележивача искључена.\n- Када се вертикално померање прегледника слика прегледника достигне крај, приказује се дугме Сљедеће датотеке."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.7.3 (2023 Desemba 12)\n\n- Maelezo yanayohusiana na uhakika yamebadilishwa katika mwongozo wa mtumiaji.txt.\n- Maonyesho ya nambari ya kiasi katika historia yamebadilishwa ili kuangalia faili za maandishi tu.\n- Picha zoom in/nje kazi imeongezwa.\n- Zisizohamishika mdudu ambapo faili zingine zilizoshinikizwa hazikuweza kuharibiwa.\n- Upeo wa uhakika umebadilishwa kuwa 80,000."
+    "devnote": "7.7.6 (2023 Desemba 13)\n\n- Zisizohamishika mdudu ambapo historia ya zamani ilirejelewa mara kwa mara wakati wa kufungua faili.\n-Zisizohamishika mdudu ambapo alamisho pop-up ingeonekana wakati ulisisitiza kwa muda mrefu mtazamaji wa picha hata kama kazi ya alamisho ilizimwa.\n- Wakati picha ya mtazamaji wa wima inapofikia mwisho, kitufe cha faili kinachofuata kinaonyeshwa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.7.3 (2023 12 dec)\n\n- Punktrelaterade förklaringar har modifierats i användarmanualen.txt.\n- Volymnummerdisplayen i historien har ändrats för att endast kontrollera textfiler.\n- Bild zoom in/ut -funktion läggs till.\n- Fixade ett fel där vissa komprimerade filer inte kunde dekomprimeras.\n- Maximumet har ändrats till 80 000."
+    "devnote": "7.7.6 (2023 13 dec)\n\n- Fixade ett fel där tidigare historia hänvisades till och med när man öppnade en fil.\n-Fixade ett fel där en bokmärke pop-up skulle visas när du länge pressade bildvisaren även om bokmärkefunktionen stängdes av.\n- När bildvisarens vertikala rullning når slutet visas den öppna nästa filknappen."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.7.3 (2023 diciembre 12)\n\n- Las explicaciones relacionadas con el punto se han modificado en el manual del usuario.txt.\n- La pantalla del número de volumen en el historial se ha modificado para verificar solo archivos de texto.\n- Función de zoom de imagen de imagen agregada.\n- Se corrigió un error donde algunos archivos comprimidos no podían descomprimirse.\n- El punto máximo se ha modificado a 80,000."
+    "devnote": "7.7.6 (2023 diciembre 13)\n\n- Se corrigió un error donde el historial anterior se hizo referencia intermitentemente al abrir un archivo.\n-Se solucionó un error donde aparecería una ventana emergente de marcador cuando viste por mucho tiempo el visor de imágenes incluso si la función de marcador estaba apagada.\n- Cuando el desplazamiento vertical del visor de imágenes llega al final, se muestra el botón Abrir siguiente archivo."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.7.3 (2023 december 12)\n\n- Vysvetlenie súvisiace s bodom boli upravené v používateľskej príručke.txt.\n- Zobrazenie čísla zväzku v histórii bolo upravené tak, aby skontrolovali iba textové súbory.\n- Funkcia priblíženia obrázka priblíži.\n- Opravená chyba, kde niektoré komprimované súbory nebolo možné dekomprimovať.\n- Maximum bodu bolo upravené na 80 000."
+    "devnote": "7.7.6 (2023 december 13)\n\n- Opravená chyba, v ktorej sa pri otváraní súboru občas odkázala predchádzajúca história.\n-Opravená chyba, kde by sa objavilo vyskakovacie okno, keď ste dlho stlačili prehliadač obrázka, aj keď bola funkcia záložky vypnutá.\n- Keď vertikálne posúvanie zobrazovača obrazu dosiahne koniec, zobrazí sa tlačidlo Otvoriť ďalší súbor."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.7.3 (2023 decembra 12)\n\n- Pojasnila, povezana s točkami, so spremenjena v uporabniškem priročniku.txt.\n- Prikaz številke glasnosti v zgodovini je bil spremenjen, da preveri samo besedilne datoteke.\n- Dodana funkcija Zoom v/izklop.\n- Odpravljeno napako, pri kateri nekaterih stisnjenih datotek ni bilo mogoče dekomprimirati.\n- Največji točka je bila spremenjena na 80.000."
+    "devnote": "7.7.6 (2023 dec 13)\n\n- Odprti je napako, kjer je bila ob odpiranju datoteke občasno omenjena prejšnja zgodovina.\n-Odpravljena je napaka, kjer bi se pojavil pojavni pojav zaznamka, ko ste dolgo pritrjevali gledalca slike, tudi če je bila funkcija zaznamka izklopljena.\n- Ko navpično drsenje slike pregledovalnik doseže konec, se prikaže gumb Open Next File."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.7.3 (2023 දෙසැම්බර් 12)\n\n- පරිශීලක අත්පොත.ටීxt හි පෙන්වා ඇති පැහැදිලි කිරීම් වෙනස් කර ඇත.\n- පෙළ ලිපිගොනු පමණක් පරීක්ෂා කිරීම සඳහා ඉතිහාසයේ වෙළුම් අංකය වෙනස් කර ඇත.\n- රූප විශාලනය කිරීම / පිටත ක්රියාකාරිත්වය වැඩ කරන ලදි.\n- සමහර සම්පීඩිත ලිපිගොනු අවලංගු කිරීමට නොහැකි දෝෂයක් සවි කර ඇත.\n- උපරිම ලක්ෂ්යය 80,000 දක්වා වෙනස් කර ඇත."
+    "devnote": "7.7.6 (2023 දෙසැම්බර් 13)\n\n- ගොනුවක් විවෘත කිරීමේදී පෙර ඉතිහාසය වරින් වර යොමු දැක්වූ දෝෂයක් විසඳා ඇත.\n- පොත් සලකුණක් ලබා ගත් විට පොත් සලකුණක් උත්පතනක් දිස්වන දෝෂයක් සවි කර ඇති දෝෂයකි.\n- රූප නරඹන්නා සිරස් අනුචලනය අවසානය කරා ළඟා වූ විට, විවෘත ඊළඟ ගොනු බොත්තම දර්ශනය වේ."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.7.3 (2023 ديسمبر 12)\n\n- تم تعديل التفسيرات المتعلقة بالنقطة في دليل المستخدم.\n- تم تعديل عرض رقم الصوت في السجل للتحقق من الملفات النصية فقط.\n- إضافة وظيفة تكبير/خارج.\n- تم إصلاح الخلل حيث لا يمكن إلغاء ضغط بعض الملفات المضغوطة.\n- تم تعديل الحد الأقصى للنقطة إلى 80،000."
+    "devnote": "7.7.6 (2023 ديسمبر 13)\n\n- تم إصلاح خطأ حيث تمت الإشارة إلى السجل السابق بشكل متقطع عند فتح ملف.\n-تم إصلاح خلل حيث تظهر نافذة منبثقة مرجعية عندما تضغط منذ فترة طويلة على عارض الصورة حتى إذا تم إيقاف تشغيل وظيفة الإشارة المرجعية.\n- عندما يصل التمرير العمودي لعارض الصورة إلى النهاية ، يتم عرض زر فتح الملف التالي."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.7.3 (2023 դեկտեմբերի 12)\n\n- կետի հետ կապված բացատրությունները փոփոխվել են օգտագործողի Manual.txt- ում:\n- Պատմության մեջ նշված քանակի ցուցիչը փոփոխվել է միայն տեքստային ֆայլերը ստուգելու համար:\n- Image Zoom In / Out գործառույթը ավելացված է:\n- Հաստատեց մի սխալ, որտեղ որոշ սեղմված ֆայլեր հնարավոր չէ քանդել:\n- Դատական ​​առավելագույնը փոփոխվել է 80 000-ի:"
+    "devnote": "7.7.6 (2023 դեկտեմբերի 13)\n\n- Fix նջեց մի սխալ, որտեղ նախորդ պատմությունը ընդհատվում էր ֆայլը բացելիս:\n- Fix նջեց մի սխալ, որտեղ էջանշանը կհայտնվի, երբ երկար սեղմում եք պատկերի դիտիչը, նույնիսկ եթե էջանիշի գործառույթը անջատված է:\n- Երբ պատկերի դիտիչը ուղղահայաց պտտվելը հասնում է ավարտին, ցուցադրվում է բաց հաջորդ ֆայլի կոճակը:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.7.3 (2023 12. des)\n\n- Skýringum sem tengjast punkti hafa verið breytt í notendahandbókinni.txt.\n- Rúmmálanúmeraskjár í sögunni hefur verið breytt til að athuga aðeins textaskrár.\n- Image zoom inn/út aðgerð bætt við.\n- Lagaði villu þar sem ekki var hægt að þjappa saman sumum þjöppuðum skrám.\n- Punktarhámarkinu hefur verið breytt í 80.000."
+    "devnote": "7.7.6 (2023 13. des)\n\n- Lagaði villu þar sem vísað var til fyrri sögu þegar hún opnaði skrá.\n-Lagaði villu þar sem birtingar á bókamerki birtist þegar þú lenti lengi á myndinni, jafnvel þó að slökkt væri á bókamerkinu.\n- Þegar lóðrétt skrunur myndar nær endanum birtist opinn næsti skráarhnappur."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.7.3 (2023 Dekabr 12)\n\n- İstifadəçi Manual.txt-də məqsədəuyğun izahatlar dəyişdirildi.\n- Tarixdəki həcm nömrəsi ekranı yalnız mətn sənədlərini yoxlamaq üçün dəyişdirilmişdir.\n- Şəkil böyütməsi / Out funksiyası əlavə edildi.\n- Bəzi sıxılmış faylların dekompressiya edilə bilmədiyi bir səhv düzəldildi.\n- Maksimum nöqtə 80.000-ə dəyişdirildi."
+    "devnote": "7.7.6 (2023 Dekabr 13)\n\n- Əvvəlki tarixin bir fayl açarkən ara-sıra istinad edildiyi bir səhv düzəldildi.\n- Əlfəcin funksiyası söndürülmüş olsa belə, görüntü görüntüleyicisini uzun basdığınız zaman bir əlfəcin pop-up görünəcəyi bir səhv düzəldildi.\n- Şəkil görüntüleyicisi şaquli sürüşmə sona çatdıqda, açıq növbəti fayl düyməsinə göstərilir."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.7.3 (2023 Desember 12)\n\n- Puntverwante verduidelikings is in die gebruikershandleiding.txt gewysig.\n- Die volume -nommer in die geskiedenis is gewysig om slegs tekslêers na te gaan.\n- Image Zoom In/Out -funksie bygevoeg.\n- 'n fout reggestel waar sommige saamgeperste lêers nie gedekomprimeer kon word nie.\n- Die punt maksimum is aangepas tot 80.000."
+    "devnote": "7.7.6 (2023 Desember 13)\n\n- 'n Fout reggestel waar daar na die vorige geskiedenis verwys is na die opening van 'n lêer.\n-'n Fout reggestel waar 'n pop-up van 'n boekmerk sou verskyn wanneer u die beeldkyk op die langtermyn geplaas het, selfs al is die boekmerkfunksie afgeskakel.\n- As die vertikale blaai van die beeld van die beeld van die beeld die einde bereik, word die oop volgende lêerknoppie vertoon."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.7.3 (2023 12 dhjetor)\n\n- Shpjegimet e lidhura me pikën janë modifikuar në manualin e përdoruesit.txt.\n- Ekrani i numrit të vëllimit në histori është modifikuar për të kontrolluar vetëm skedarët e tekstit.\n- Funksioni i Zmadhimit të Imazhit In/Out Shtuar.\n- Fiksoi një gabim ku disa skedarë të kompresuar nuk mund të dekompresohen.\n- Maksimumi i pikës është modifikuar në 80,000."
+    "devnote": "7.7.6 (2023 13 dhjetor)\n\n- Fiksoi një gabim ku historia e mëparshme u referua me ndërprerje kur hapni një skedar.\n-Fiksoi një gabim ku do të shfaqej një pop-up-up-up-up-up-up kur të keni shtypur prej kohësh shikuesin e figurës edhe nëse funksioni i faqerojtësve ishte i fikur.\n- Kur lëvizja vertikale e shikuesit të figurës arrin në fund, shfaqet butoni i hapur i skedarit tjetër."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.7.3 (2023 ዲሴምበር 12)\n\n- ከተጠቃሚው ማኑዋዊ.TXT ጋር የተዛመዱ-ነክ ማብራሪያዎች ተስተካክለዋል.\n- በታሪክ ውስጥ ያለው የድምፅ ቁጥር የጽሑፍ ፋይሎችን ብቻ ለማጣራት ተሻሽሏል.\n- የምስል ማጉላት በ / ውጭ / ውጫዊ ተግባር ታክሏል.\n- አንዳንድ የተጨናነቁ ፋይሎች ሊሰብሩት የማይችሉበት ሳንካ ተጠግኗል.\n- ነጥቡ ከፍተኛው እስከ 80,000 ተስተካክሏል."
+    "devnote": "7.7.6 (2023 ዲሴምበር 13)\n\n- አንድ ፋይል ሲከፍቱ የቀደመ ታሪክ ቀዳሚው ታሪክ የተስተካከለበት ሳንካ ተጠግኗል.\n- የዕልባት ተግባሩ እንኳን ቢጠፋም የምስል ቫይሪያን ለረጅም ጊዜ ሲጫኑ ብቅ ብቅ ብቅ ያለው ሳንካ የተስተካከለ ሳንካ የተስተካከለ ነው.\n- የምስል መመልከቻ ቀጥ ያለ ማሸብለል እስከ መጨረሻው ሲደርስ የሚቀጥለው የፋይል ቁልፍ ይታያል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.7.3 (2023. detsember 12)\n\n- Punktiga seotud seletusi on muudetud kasutusjuhendis.txt.\n- Ajaloo helitugevuse numbri kuva on muudetud ainult tekstifailide kontrollimiseks.\n- pildi suumimine sisse/välja funktsioon lisatud.\n- Parandatud viga, kus mõnda tihendatud faili ei saanud lagundada.\n- Punkti maksimum on muudetud 80 000 -ni."
+    "devnote": "7.7.6 (2023. detsember 13)\n\n- Parandatud viga, kus faili avamisel viidati eelmisele ajaloole vahelduvalt.\n-Parandatud viga, kus ilmub järjehoidjate hüpik, kui pildivaaturi kaua surusite, isegi kui järjehoidja funktsioon välja lülitati.\n- Kui pildivaaturi vertikaalne kerimine lõpuni jõuab, kuvatakse järgmine fail avatud."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.7.3 (2023 دسمبر 12)\n\n- صارف دستی ڈاٹ ٹی ایکس میں پوائنٹ سے متعلق وضاحتوں میں ترمیم کی گئی ہے۔\n- تاریخ میں حجم نمبر ڈسپلے میں صرف ٹیکسٹ فائلوں کی جانچ پڑتال کے لئے ترمیم کی گئی ہے۔\n- امیج زوم ان/آؤٹ فنکشن شامل کیا گیا۔\n- ایک بگ طے کیا جہاں کچھ کمپریسڈ فائلوں کو نہ کھایا جاسکے۔\n- زیادہ سے زیادہ نقطہ کو 80،000 میں تبدیل کیا گیا ہے۔"
+    "devnote": "7.7.6 (2023 دسمبر 13)\n\n- ایک بگ طے کیا جہاں فائل کھولتے وقت پچھلی تاریخ کو وقفے وقفے سے حوالہ دیا گیا تھا۔\n-ایک بگ طے کیا جہاں بُک مارک پاپ اپ ظاہر ہوگا جب آپ نے تصویری ناظرین کو طویل دباؤ ڈالا یہاں تک کہ اگر بک مارک فنکشن بند کردیا گیا ہو۔\n- جب تصویر کے ناظرین عمودی سکرولنگ اختتام تک پہنچ جاتے ہیں تو ، کھلا اگلی فائل کا بٹن ظاہر ہوتا ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.7.3 (2023 грудня)\n\n- Пояснення, пов'язані з точками, були змінені в посібнику користувача.txt.\n- Відображення номера гучності в історії змінено для перевірки лише текстових файлів.\n- Додано функцію Zoom Zoom Imble.\n- Виправлена ​​помилка, де деякі стислі файли не могли бути декомпресовані.\n- Максимум точки був модифікований до 80 000."
+    "devnote": "7.7.6 (2023 грудня 13)\n\n- Виправлена ​​помилка, де попередня історія була переривчаста під час відкриття файлу.\n-Виправлена ​​помилка, де з’явиться спливаюче вікно закладки, коли ви давно натиснули на переглядач зображень, навіть якщо функція закладки була вимкнена.\n- Коли вертикальна прокрутка перегляду зображень досягає кінця, відображається наступна кнопка відкритого файлу."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.7.3 (2023 dic 12)\n\n- Le spiegazioni relative al punto sono state modificate nel manuale dell'utente.txt.\n- La visualizzazione del numero di volume nella cronologia è stata modificata per controllare solo i file di testo.\n- Funzione zoom di zoom di immagine aggiunta.\n- Risolto un bug in cui alcuni file compressi non potevano essere decompressi.\n- Il punto massimo è stato modificato a 80.000."
+    "devnote": "7.7.6 (2023 dic 13)\n\n- Risolto un bug in cui la cronologia precedente veniva referenziata in modo intermittente all'apertura di un file.\n-Risolto un bug in cui sarebbe visualizzato un pop-up di segnalibri quando si prevede a lungo il visualizzatore di immagini anche se la funzione di segnalibro fosse disattivata.\n- Quando lo scorrimento verticale del visualizzatore di immagine raggiunge l'estremità, viene visualizzato il pulsante Apri File successivo."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.7.3 (2023 Des 12)\n\n- Penjelasan terkait poin telah dimodifikasi dalam manual pengguna.txt.\n- Tampilan nomor volume dalam riwayat telah dimodifikasi untuk memeriksa hanya file teks.\n- Fungsi gambar zoom in/out ditambahkan.\n- Memperbaiki bug di mana beberapa file terkompresi tidak dapat didekompresi.\n- Titik maksimum telah dimodifikasi menjadi 80.000."
+    "devnote": "7.7.6 (2023 Des 13)\n\n- Memperbaiki bug di mana riwayat sebelumnya dirujuk sebentar -sebentar saat membuka file.\n-Memperbaiki bug di mana pop-up bookmark akan muncul ketika Anda lama menekan pemirsa gambar bahkan jika fungsi bookmark dimatikan.\n- Ketika gulir vertikal penampil gambar mencapai ujungnya, tombol Open Next File ditampilkan."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.7.3（2023年12月12日）\n\n - ポイント関連の説明は、ユーザーManual.txtで変更されています。\n - 歴史のボリューム番号表示は、テキストファイルのみを確認するように変更されています。\n - 画像ズームイン/アウト機能が追加されました。\n - いくつかの圧縮ファイルを解凍できないバグを修正しました。\n - ポイントの最大値は80,000に変更されました。"
+    "devnote": "7.7.6（2023年12月13日）\n\n - ファイルを開くときに以前の履歴が断続的に参照されたバグを修正しました。\n - ブックマーク機能がオフになった場合でも、画像ビューアーを長く押し付けたときにブックマークポップアップが表示されるバグを修正しました。\n - 画像ビューアーの垂直スクロールが端に達すると、開く次のファイルボタンが表示されます。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.7.3 (2023 დეკემბერი 12)\n\n- წერტილებთან დაკავშირებული განმარტებები შეიცვალა მომხმარებლის სახელმძღვანელოში. Txt.\n- ისტორიაში მოცულობის ნომრის ჩვენება შეიცვალა მხოლოდ ტექსტური ფაილების შესამოწმებლად.\n- გამოსახულების მასშტაბირება/Out ფუნქცია დამატებულია.\n- დააფიქსირა შეცდომა, სადაც რამდენიმე შეკუმშული ფაილის დაშლა შეუძლებელია.\n- წერტილის მაქსიმუმი შეიცვალა 80,000 -მდე."
+    "devnote": "7.7.6 (2023 დეკემბერი 13)\n\n- დააფიქსირა შეცდომა, სადაც წინა ისტორია წყვეტილი იყო მოხსენიებული ფაილის გახსნისას.\n-დააფიქსირა შეცდომა, სადაც გამოჩნდება სანიშნე pop-up, როდესაც თქვენ დიდხანს დაჭერით გამოსახულების მაყურებელს, თუნდაც სანიშნე ფუნქცია გამორთულიყო.\n- როდესაც გამოსახულების სანახავი ვერტიკალური გადახვევა დასრულდება, ნაჩვენებია ღია შემდეგი ფაილის ღილაკი."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.7.3 (2023 Dec 12)\n\n- Izincazelo ezihlobene nephuzu ziguquliwe kwi-User Manual.txt.\n- Inombolo yenombolo yenombolo emlandweni ilungisiwe ukubheka kuphela amafayela wombhalo.\n- Ukusondeza Image In / Out action kungezwe.\n- Silungiswe isiphazamisi lapho amanye amafayela acindezelwe angavinjelwanga.\n- Iphuzu eliphakeme liguqulwe laya ku-80,000."
+    "devnote": "7.7.6 (2023 Decm 13)\n\n- Kulungiswe isiphazamiso lapho umlando wangaphambilini ubhekiswe khona lapho uvula ifayela.\n- Silungiswe isiphazamisi lapho kuvela khona i-bookmark pop-up lapho ucindezela isikhathi eside isibukeli sesithombe noma ngabe umsebenzi we-bookmark ucishiwe.\n- Lapho ukuskrola okubukwa kwesithombe kufinyelela ekupheleni, kuboniswa inkinobho elandelayo yefayela elilandelayo."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.7.3（2023年12月12日）\n\n - 与点相关的说明已在用户手册中修改。\n - 历史记录中显示的卷号显示仅检查文本文件。\n - 添加图像缩放函数。\n - 修复了无法解压缩一些压缩文件的错误。\n - 最高点已修改为80,000。"
+    "devnote": "7.7.6（2023年12月13日）\n\n - 修复了打开文件时间歇性引用以前历史记录的错误。\n - 修复了一个错误，即使您关闭了书签函数，也可以长期压制图像查看器时出现书签弹出窗口。\n - 当图像查看器垂直滚动到达末端时，将显示“打开的下一个文件”按钮。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.7.3（2023年12月12日）\n\n - 與點相關的說明已在用戶手冊中修改。\n - 歷史記錄中顯示的捲號顯示僅檢查文本文件。\n - 添加圖像縮放函數。\n - 修復了無法解壓縮一些壓縮文件的錯誤。\n - 最高點已修改為80,000。"
+    "devnote": "7.7.6（2023年12月13日）\n\n - 修復了打開文件時間歇性引用以前歷史記錄的錯誤。\n - 修復了一個錯誤，即使您關閉了書籤函數，也可以長期壓製圖像查看器時出現書籤彈出窗口。\n - 當圖像查看器垂直滾動到達末端時，將顯示“打開的下一個文件”按鈕。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.7.3（2023年12月12日）\n\n - 與點相關的說明已在用戶手冊中修改。\n - 歷史記錄中顯示的捲號顯示僅檢查文本文件。\n - 添加圖像縮放函數。\n - 修復了無法解壓縮一些壓縮文件的錯誤。\n - 最高點已修改為80,000。"
+    "devnote": "7.7.6（2023年12月13日）\n\n - 修復了打開文件時間歇性引用以前歷史記錄的錯誤。\n - 修復了一個錯誤，即使您關閉了書籤函數，也可以長期壓製圖像查看器時出現書籤彈出窗口。\n - 當圖像查看器垂直滾動到達末端時，將顯示“打開的下一個文件”按鈕。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.7.3 (2023 12. prosince)\n\n- V uživatelské příručce byla upravena vysvětlení související s bodem.txt.\n- Zobrazení čísla svazku v historii byl upraven tak, aby zkontroloval pouze textové soubory.\n- Přidána funkce zoomu zvětšení/ven.\n- Opravena chyba, kde nelze některé komprimované soubory dekomprimovány.\n- Maximum bodu bylo upraveno na 80 000."
+    "devnote": "7.7.6 (2023 13. prosince)\n\n- Opravena chyba, kde byla při otevírání souboru občas odkázána.\n-Opravena chyba, kde by se objevilo vyskakovací okno záložky, když jste prohlížeč obrázků dlouho lisoval, i když byla funkce záložky vypnuta.\n- Když svislý posun pro prohlížeče obrázku dosáhne konce, zobrazí se tlačítko Otevřené další soubory."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.7.3 (2023 желтоқсан)\n\n- Пойналдыққа қатысты түсіндірмелер Пайдаланушы нұсқаулығында өзгертілген .txt.\n- Тарихтағы дыбыс санының дисплейі тек мәтіндік файлдарды тексеру үшін өзгертілген.\n- Image Zoom use / OUT функциясы қосылды.\n- Кейбір сығылған файлдарды декациядан алмайтын қатені түзетіңіз.\n- Максималды нүкте 80 000-ға өзгертілді."
+    "devnote": "7.7.6 (13 желтоқсан) (2023)\n\n- Алдыңғы тарих файлды ашқан кезде жалған сілтеме жасалған қатені тіркеңіз.\n- Bookmark функциясы өшірулі болса да, кескін қарау құралын ұзақ басып тұрған кезде бетбелгі қалқымалы пайда болатын қате пайда болды.\n- Кескін қарау құралы тік жылжу соңына жеткенде, келесі файлды ашу түймесі көрсетіледі."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.7.3 (2023 12 de desembre)\n\n- Les explicacions relacionades amb els punts s'han modificat al manual d'usuari.txt.\n- La visualització del número de volum de la història s'ha modificat per comprovar només fitxers de text.\n- S'ha afegit la funció de zoom d'imatge/sortida.\n- S'ha corregit un error on alguns fitxers comprimits no es podrien descomprimir.\n- El punt màxim ha estat modificat fins a 80.000."
+    "devnote": "7.7.6 (2023 13 de desembre)\n\n- S'ha corregit un error on es fa referència a la història anterior a l'hora d'obrir un fitxer.\n-S'ha corregit un error on apareixerà un pop-up de marcador quan es premiava el visualitzador d'imatges, fins i tot si s'ha desactivat la funció de marcador.\n- Quan el desplaçament vertical del visualitzador d'imatges arriba al final, es mostra el botó Obrir el següent fitxer."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.7.3 (2023 ಡಿಸೆಂಬರ್ 12)\n\n- ಬಳಕೆದಾರರ manual.txt ನಲ್ಲಿ ಪಾಯಿಂಟ್-ಸಂಬಂಧಿತ ವಿವರಣೆಯನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಪಠ್ಯ ಫೈಲ್‌ಗಳನ್ನು ಮಾತ್ರ ಪರಿಶೀಲಿಸಲು ಇತಿಹಾಸದಲ್ಲಿ ಪರಿಮಾಣ ಸಂಖ್ಯೆ ಪ್ರದರ್ಶನವನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಇಮೇಜ್ ಜೂಮ್ ಇನ್/function ಟ್ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಕೆಲವು ಸಂಕುಚಿತ ಫೈಲ್‌ಗಳನ್ನು ಕುಗ್ಗಿಸಲಾಗದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ಪಾಯಿಂಟ್ ಗರಿಷ್ಠವನ್ನು 80,000 ಕ್ಕೆ ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
+    "devnote": "7.7.6 (2023 ಡಿಸೆಂಬರ್ 13)\n\n- ಫೈಲ್ ತೆರೆಯುವಾಗ ಹಿಂದಿನ ಇತಿಹಾಸವನ್ನು ಮಧ್ಯಂತರವಾಗಿ ಉಲ್ಲೇಖಿಸಿದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n-ಬುಕ್‌ಮಾರ್ಕ್ ಕಾರ್ಯವನ್ನು ಆಫ್ ಮಾಡಿದರೂ ಸಹ ನೀವು ಇಮೇಜ್ ವೀಕ್ಷಕನನ್ನು ದೀರ್ಘಕಾಲ ಒತ್ತಿದಾಗ ಬುಕ್‌ಮಾರ್ಕ್ ಪಾಪ್-ಅಪ್ ಕಾಣಿಸಿಕೊಳ್ಳುವ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ಇಮೇಜ್ ವೀಕ್ಷಕ ಲಂಬ ಸ್ಕ್ರೋಲಿಂಗ್ ಅಂತ್ಯವನ್ನು ತಲುಪಿದಾಗ, ಓಪನ್ ಮುಂದಿನ ಫೈಲ್ ಬಟನ್ ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.7.3 (2023. prosinca 12.)\n\n- Objašnjenja povezana s točkama izmijenjena su u korisničkom priručniku.txt.\n- Prikaz broja glasnoće u povijesti izmijenjen je za provjeru samo tekstualnih datoteka.\n- Dodana funkcija Zumiranje/OUT UN/OUT.\n- Ispravljena je greška u kojoj se neke komprimirane datoteke nisu mogle dekomprimirati.\n- Maksimalna točka izmijenjena je na 80.000."
+    "devnote": "7.7.6 (2023. prosinca 13.)\n\n- Ispravljena je pogreška na kojoj se prethodna povijest povremeno navodi prilikom otvaranja datoteke.\n-Ispravljena je greška u kojoj bi se pojavio skočni skočni prozor kada biste dugo pritisnuli gledatelj slike, čak i ako je funkcija oznake isključena.\n- Kad se vertikalno pomicanje prikaza slika dosegne kraj, prikazan je gumb Otvoreni sljedeći datoteka."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.7.3 (2023 ធ្នូ 12)\n\n- ការពន្យល់ទាក់ទងនឹងចំណុចត្រូវបានកែប្រែនៅក្នុងសៀវភៅណែនាំអ្នកប្រើប្រាស់ .txt ។\n- ការបង្ហាញលេខសំឡេងកម្រិតសំឡេងនៅក្នុងប្រវត្តិសាស្រ្តត្រូវបានកែប្រែដើម្បីពិនិត្យមើលតែឯកសារអត្ថបទប៉ុណ្ណោះ។\nមុខងារពង្រីករូបភាពក្នុង / ចេញបានបន្ថែមទៀត។\n- ជួសជុលកំហុសដែលឯកសារបង្រួមមួយចំនួនមិនអាចត្រូវបានបង្រួម។\n- ចំណុចអតិបរមាត្រូវបានកែប្រែទៅ 8 ម៉ឺន។"
+    "devnote": "7.7.6 (2023 ធ្នូ 13)\n\n- ជួសជុលកំហុសមួយដែលប្រវត្តិសាស្ត្រពីមុនត្រូវបានគេយោងយ៉ាងខ្លីនៅពេលបើកឯកសារ។\n- ជួសជុលកំហុសដែលជាកន្លែងដែលចំណាំលេចចេញមកនៅពេលដែលអ្នកចុចកម្មវិធីមើលរូបភាពជាយូរមកហើយបើទោះបីជាមុខងារចំណាំត្រូវបានបិទក៏ដោយ។\n- នៅពេលដែលការរមូរបញ្ឈររបស់កម្មវិធីមើលរូបភាពឈានដល់ទីបញ្ចប់ប៊ូតុងបើកឯកសារបន្ទាប់ត្រូវបានបង្ហាញ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.7.3 (2023 дек 12)\n\n- Пайгамбар менен байланышкан түшүндүрмөлөр колдонуучунун колдонмосунда өзгөртүлдү.\n- Тарыхтагы көлөмдөгү дисплей тилиндеги текст файлдарын гана текшерүү үчүн өзгөртүлдү.\n- Сүрөттүн сүрөтү / сүрөттү кичирейтип кошту.\n- Айрым кысылган файлдар кыйроого алынбай турган мүчүлүштүктү белгиледи.\n- Максималдуу чекит 80,000ге чейин өзгөртүлгөн."
+    "devnote": "7.7.6 (2023-дек. 13-декабрь)\n\n- Файлды ачууда мурунку тарых үзгүлтүксүз шилтеме берген мүчүлүштүктү белгиледи.\n- Сүрөттүн көркөмдүгүн басаңдатып, кыстырма функциясы өчүрүлгөн болсо дагы, кыстырма калкып чыгуучу белги пайда болот.\n- Сүрөттү көрүүчү вертикалдуу жылдыргыч акырына чейин жеткенде, кийинки файл баскычы көрсөтүлөт."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.7.3 (2023 டிசம்பர் 12)\n\n- பயனர் கையேட்டில் புள்ளி தொடர்பான விளக்கங்கள் மாற்றியமைக்கப்பட்டுள்ளன. TXT.\n- உரை கோப்புகளை மட்டுமே சரிபார்க்க வரலாற்றில் தொகுதி எண் காட்சி மாற்றப்பட்டுள்ளது.\n- பட பெரிதாக்குதல்/வெளியே செயல்பாடு சேர்க்கப்பட்டது.\n- சில சுருக்கப்பட்ட கோப்புகளை குறைக்க முடியாத ஒரு பிழை சரி செய்யப்பட்டது.\n- புள்ளி அதிகபட்சம் 80,000 ஆக மாற்றப்பட்டுள்ளது."
+    "devnote": "7.7.6 (2023 டிசம்பர் 13)\n\n- ஒரு கோப்பைத் திறக்கும்போது முந்தைய வரலாறு இடைவிடாது குறிப்பிடப்பட்ட ஒரு பிழை சரி செய்யப்பட்டது.\n-புக்மார்க்கு செயல்பாடு முடக்கப்பட்டிருந்தாலும், பட பார்வையாளரை நீங்கள் நீண்ட நேரம் அழுத்தும்போது ஒரு புக்மார்க்கு பாப்-அப் தோன்றும் ஒரு பிழை சரி செய்யப்பட்டது.\n- பட பார்வையாளர் செங்குத்து ஸ்க்ரோலிங் முடிவை அடையும் போது, ​​திறந்த அடுத்த கோப்பு பொத்தானை காண்பிக்கும்."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.7.3 (2023 ธ.ค. 12)\n\n- คำอธิบายที่เกี่ยวข้องกับจุดได้รับการแก้ไขในคู่มือผู้ใช้ txt\n- การแสดงหมายเลขโวลุ่มในประวัติได้รับการแก้ไขเพื่อตรวจสอบเฉพาะไฟล์ข้อความ\n- เพิ่มฟังก์ชั่นการซูมเข้า/ออก\n- แก้ไขข้อผิดพลาดที่บางไฟล์บีบอัดไม่สามารถคลายการบีบอัดได้\n- จุดสูงสุดของจุดได้รับการแก้ไขเป็น 80,000"
+    "devnote": "7.7.6 (2023 ธ.ค. 13)\n\n- แก้ไขข้อผิดพลาดที่มีการอ้างอิงประวัติก่อนหน้านี้เป็นระยะเมื่อเปิดไฟล์\n-แก้ไขข้อผิดพลาดที่บุ๊คมาร์คป๊อปอัพจะปรากฏขึ้นเมื่อคุณกดตัวชมภาพมานานแม้ว่าฟังก์ชั่นบุ๊กมาร์กจะถูกปิด\n- เมื่อการเลื่อนภาพในแนวตั้งของผู้ชมภาพถึงจุดสิ้นสุดปุ่มเปิดไฟล์ถัดไปจะปรากฏขึ้น"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.7.3 (2023 Aralık 12)\n\n- Nokta ile ilgili açıklamalar kullanıcı kılavuzu.txt'de değiştirilmiştir.\n- Geçmişteki ses numarası ekranı yalnızca metin dosyalarını kontrol etmek için değiştirildi.\n- Görüntü yakınlaştırma/çıkış işlevi eklendi.\n- Bazı sıkıştırılmış dosyaların dekomprese edilemediği bir hata düzeltildi.\n- Maksimum nokta 80.000'e değiştirildi."
+    "devnote": "7.7.6 (2023 Aralık 13)\n\n- Bir dosya açarken önceki geçmişin aralıklı olarak atıfta bulunulduğu bir hata düzeltildi.\n-Bookmark işlevi kapatılmış olsa bile, görüntü görüntüleyicisini uzun süre sıkıştırdığınızda bir yer imi açılır pencerenin görüneceği bir hata düzeltildi.\n- Görüntü görüntüleyici dikey kaydırma sonuna ulaştığında, Sonraki Dosya Aç düğmesi görüntülenir."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.7.3 (2023 డిసెంబర్ 12)\n\n- వినియోగదారు మాన్యువల్.టిఎక్స్‌కి పాయింట్-సంబంధిత వివరణలు సవరించబడ్డాయి.\n- వచన ఫైళ్ళను మాత్రమే తనిఖీ చేయడానికి చరిత్రలో వాల్యూమ్ సంఖ్య ప్రదర్శన సవరించబడింది.\n- ఇమేజ్ జూమ్ ఇన్/అవుట్ ఫంక్షన్ జోడించబడింది.\n- కొన్ని సంపీడన ఫైళ్ళను విడదీయలేని బగ్ పరిష్కరించబడింది.\n- పాయింట్ గరిష్టంగా 80,000 కు సవరించబడింది."
+    "devnote": "7.7.6 (2023 డిసెంబర్ 13)\n\n- ఫైల్‌ను తెరిచినప్పుడు మునుపటి చరిత్ర అడపాదడపా ప్రస్తావించబడిన బగ్ పరిష్కరించబడింది.\n-బుక్‌మార్క్ ఫంక్షన్ ఆపివేయబడినప్పటికీ మీరు ఇమేజ్ వ్యూయర్‌ను దీర్ఘకాలంగా నొక్కినప్పుడు బుక్‌మార్క్ పాప్-అప్ కనిపించే బగ్ పరిష్కరించబడింది.\n- ఇమేజ్ వ్యూయర్ నిలువు స్క్రోలింగ్ ముగింపుకు చేరుకున్నప్పుడు, ఓపెన్ తదుపరి ఫైల్ బటన్ ప్రదర్శించబడుతుంది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.7.3 (2023 ਦਸੰਬਰ 12)\n\n- ਚਿੱਤਰ ਨਾਲ ਸਬੰਧਤ ਵਿਆਖਿਆਵਾਂ ਉਪਭੋਗੀ ualidadual.txt ਵਿੱਚ ਸੰਸ਼ੋਧਿਤ ਕੀਤੀ ਗਈ ਹੈ.\n- ਇਤਿਹਾਸ ਵਿੱਚ ਵਾਲੀਅਮ ਨੰਬਰ ਪ੍ਰਦਰਸ਼ਤ ਸਿਰਫ ਟੈਕਸਟ ਫਾਈਲਾਂ ਦੀ ਜਾਂਚ ਲਈ ਸੋਧਿਆ ਗਿਆ ਹੈ.\n- ਚਿੱਤਰ ਜ਼ੂਮ ਇਨ / ਆਉਟ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ.\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਜਿੱਥੇ ਕੁਝ ਸੰਪਤੀਆਂ ਫਾਈਲਾਂ ਨੂੰ ਕੰਪਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ.\n- ਪੁਆਇੰਟ ਵੱਧ ਤੋਂ ਵੱਧ 80,000 ਤੱਕ ਸੋਧਿਆ ਗਿਆ ਹੈ."
+    "devnote": "7.7.6 (2023 ਦਸੰਬਰ 13)\n\n- ਇੱਕ ਫਾਇਲ ਖੋਲ੍ਹਣ ਸਮੇਂ ਪਿਛਲੇ ਇਤਿਹਾਸ ਦਾ ਰੁਕ-ਰੁਕ ਕੇ ਦਰਸਾਇਆ ਗਿਆ ਸੀ.\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਜਿੱਥੇ ਇੱਕ ਬੁੱਕਮਾਰਕ ਪੌਪ-ਅਪ ਦਿਖਾਈ ਦੇਵੇਗਾ ਜਦੋਂ ਤੁਸੀਂ ਚਿੱਤਰ ਦਰਸ਼ਕ ਨੂੰ ਲੰਬੇ ਸਮੇਂ ਤੋਂ ਦਬਾਇਆ ਹੁੰਦਾ ਹੈ ਭਾਵੇਂ ਬੁੱਕਮਾਰਕ ਫੰਕਸ਼ਨ ਬੰਦ ਕਰ ਦਿੱਤਾ ਜਾਂਦਾ ਸੀ.\n- ਜਦੋਂ ਚਿੱਤਰ ਦਰਸ਼ਕ ਵਰਟੀਕਲ ਸਕ੍ਰੌਲਿੰਗ ਅੰਤ ਤੱਕ ਪਹੁੰਚ ਜਾਂਦੀ ਹੈ, ਤਾਂ ਖੁੱਲੀ ਅਗਲਾ ਫਾਈਲ ਬਟਨ ਪ੍ਰਦਰਸ਼ਿਤ ਹੁੰਦਾ ਹੈ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.7.3 (2023 دسامبر 12)\n\n- توضیحات مربوط به نقطه در کتابچه راهنمای کاربر اصلاح شده است.\n- نمایش شماره حجم در تاریخ اصلاح شده است تا فقط پرونده های متنی را بررسی کنید.\n- تابع بزرگنمایی تصویر در/خارج اضافه شده است.\n- رفع اشکال در جایی که برخی از پرونده های فشرده نشده قابل جدا شدن نیستند.\n- حداکثر نقطه به 80،000 اصلاح شده است."
+    "devnote": "7.7.6 (2023 دسامبر 13)\n\n- رفع اشکالی در جایی که تاریخ قبلی هنگام باز کردن پرونده به طور متناوب ارجاع شده بود.\n-رفع اشکال در جایی که یک پاپ آپ نشان داده می شود وقتی که بیننده تصویر را تحت فشار قرار دادید حتی اگر عملکرد نشانک خاموش باشد.\n- هنگامی که پیمایش عمودی تصویر بیننده به انتها می رسد ، دکمه Open Next File نمایش داده می شود."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.7.3 (2023 12 de dezembro)\n\n- Explicações relacionadas ao ponto foram modificadas no manual do usuário.txt.\n- A exibição do número de volume no histórico foi modificada para verificar apenas os arquivos de texto.\n- Função de zoom de imagem/saída de imagem adicionada.\n- Corrigido um bug em que alguns arquivos compactados não puderam ser descomprimidos.\n- O máximo de ponto foi modificado para 80.000."
+    "devnote": "7.7.6 (2023 13 de dezembro)\n\n- Corrigido um bug em que o histórico anterior foi referenciado intermitentemente ao abrir um arquivo.\n-Corrigido um bug em que um pop-up de marcador apareceria quando você pressionasse o visualizador de imagens, mesmo que a função de marcador fosse desligada.\n- Quando o rolagem vertical do visualizador da imagem atinge o final, o botão aberto próximo a arquivo é exibido."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.7.3 (2023 grudnia 12)\n\n- Objaśnienia związane z punktem zostały zmodyfikowane w instrukcji obsługi .txt.\n- Wyświetlanie numeru woluminu w historii została zmodyfikowana, aby sprawdzić tylko pliki tekstowe.\n- Dodano funkcję powiększania obrazu.\n- Naprawiono błąd, w którym nie można było zdekompresować niektórych kompresowanych plików.\n- Maksymalnie punkt został zmodyfikowany do 80 000."
+    "devnote": "7.7.6 (2023 grudnia 13)\n\n- Naprawiono błąd, w którym poprzednia historia była sporadycznie odwołana podczas otwierania pliku.\n-Naprawiono błąd, w którym pojawiłby się okienko zakładki, gdy od dawna prasowałeś przeglądarkę obrazu, nawet jeśli funkcja zakładki została wyłączona.\n- Gdy przeglądanie obrazu pionowe docieka do końca, wyświetlany jest przycisk Otwórz następnego pliku."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.7.3 (2023 décembre 12)\n\n- Des explications liées au point ont été modifiées dans le manuel d'utilisation.txt.\n- L'affichage du numéro de volume dans l'historique a été modifié pour vérifier uniquement les fichiers texte.\n- Fonction d'image Zoom In / Out ajouté.\n- Correction d'un bogue où certains fichiers compressés n'ont pas pu être décompressés.\n- Le maximum de points a été modifié à 80 000."
+    "devnote": "7.7.6 (2023 13 décembre)\n\n- Correction d'un bogue où l'historique précédent a été référencé par intermittence lors de l'ouverture d'un fichier.\n- Correction d'un bug où une fenêtre contextuelle apparaîtrait lorsque vous avez étendu depuis longtemps la visionneuse d'image même si la fonction de signet était désactivée.\n- Lorsque le défilement vertical de la visionneuse d'image atteint l'extrémité, le bouton d'ouverture du fichier suivant s'affiche."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.7.3 (2023 joulukuuta 12)\n\n- Pisteeseen liittyviä selityksiä on muokattu käyttöoppaassa.txt.\n- Historiassa olevaa äänenvoimakkuuden näyttöä on muokattu vain tekstitiedostojen tarkistamiseksi.\n- Kuva zoomasi sisään/out -toiminto.\n- Korjattu virhe, jossa joitain pakattuja tiedostoja ei voitu purkaa.\n- Piste -maksimiarvo on muokattu 80 000: een."
+    "devnote": "7.7.6 (2023 joulukuu 13)\n\n- Korjattu virhe, jossa edelliseen historiaan viitattiin ajoittain tiedoston avattaessa.\n-Korjattu virhe, jossa kirjanmerkki ponnahdusikkuna ilmestyy, kun painat kuvan katsojaa pitkään, vaikka kirjanmerkkitoiminto sammutettiin.\n- Kun kuvan katseluohjelma pystysuuntainen vieritys saavuttaa lopun, avoin tiedostopainike tulee näkyviin."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.7.3 (2023 Dis 12)\n\n- Ang mga paliwanag na nauugnay sa point ay nabago sa manu-manong gumagamit.txt.\n- Ang display ng dami ng dami sa kasaysayan ay nabago upang suriin lamang ang mga file ng teksto.\n- Idinagdag ang Image Zoom In/Out Function.\n- Nakapirming isang bug kung saan ang ilang mga naka -compress na file ay hindi maaaring ma -decompress.\n- Ang maximum na point ay nabago sa 80,000."
+    "devnote": "7.7.6 (2023 Dis 13)\n\n- Nakapirming isang bug kung saan ang nakaraang kasaysayan ay paulit -ulit na na -refer kapag nagbubukas ng isang file.\n-Nakapirming isang bug kung saan lilitaw ang isang bookmark pop-up kapag matagal mong pinipilit ang viewer ng imahe kahit na naka-off ang function ng bookmark.\n- Kapag naabot ang Viewer Viewer Vertical Scroll sa dulo, ipinapakita ang bukas na susunod na pindutan ng file."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.7.3 (2023 december 12.)\n\n- A ponthoz kapcsolódó magyarázatokat a felhasználói kézikönyvben módosították.\n- Az előzmények hangerőszámának megjelenítését csak a szöveges fájlok ellenőrzésére módosítottuk.\n- A kép nagyítása be- és ki- és funkció hozzáadva.\n- Javítva egy hibát, ahol néhány tömörített fájlt nem lehetett dekompresszálni.\n- A pont maximumát 80 000 -re módosították."
+    "devnote": "7.7.6 (2023 december 13.)\n\n- Javítva egy hibát, ahol a korábbi előzmények szakaszosan hivatkoztak egy fájl megnyitásakor.\n-Javítva egy hibát, ahol megjelenik egy könyvjelző felbukkanó, amikor hosszú ideig nyomtatta a képmegjelenítőt, még akkor is, ha a könyvjelző funkció ki van kapcsolva.\n- Amikor a képmegfigyelő függőleges görgetése eléri a végét, megjelenik a következő Open File gomb."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.7.3 (2023 12 בדצמבר)\n\n- הסברים הקשורים לנקודה שונו במדריך המשתמש.\n- מספר עוצמת הקול בהיסטוריה שונתה כדי לבדוק רק קבצי טקסט.\n- פונקציית זום/יציאה מתווכחת.\n- תוקן באג בו לא ניתן היה לפרק כמה קבצים דחוסים.\n- מקסימום הנקודה שונה ל 80,000."
+    "devnote": "7.7.6 (2023 דצמבר 13)\n\n- תוקן באג בו הוזכרו לסירוגין את ההיסטוריה הקודמת בעת פתיחת קובץ.\n-תוקן באג שבו קופץ סימניה יופיע כאשר לחיצת זמן רב על מציג התמונות גם אם פונקציית הסימניה הייתה כבויה.\n- כאשר הגלילה האנכית של מציג התמונה מגיעה לקצה, כפתור הקובץ הבא פתוח מוצג."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.7.3 (2023 दिसंबर 12)\n\n- पॉइंट-संबंधित स्पष्टीकरण को उपयोगकर्ता मैनुअल में संशोधित किया गया है।\n- इतिहास में वॉल्यूम नंबर डिस्प्ले को केवल पाठ फ़ाइलों की जांच करने के लिए संशोधित किया गया है।\n- छवि ज़ूम इन/आउट फ़ंक्शन जोड़ा गया।\n- एक बग फिक्स्ड जहां कुछ संपीड़ित फ़ाइलों को विघटित नहीं किया जा सकता है।\n- बिंदु अधिकतम को 80,000 में संशोधित किया गया है।"
+    "devnote": "7.7.6 (2023 दिसंबर 13)\n\n- एक बग फिक्स्ड जहां पिछले इतिहास को एक फ़ाइल खोलते समय रुक -रुक कर संदर्भित किया गया था।\n-एक बग फिक्स्ड जहां एक बुकमार्क पॉप-अप दिखाई देगा जब आप छवि दर्शक को लंबे समय से दबाते हैं, भले ही बुकमार्क फ़ंक्शन बंद हो गया हो।\n- जब छवि दर्शक वर्टिकल स्क्रॉलिंग अंत तक पहुंच जाता है, तो ओपन अगला फ़ाइल बटन प्रदर्शित होता है।"
   }
 }
