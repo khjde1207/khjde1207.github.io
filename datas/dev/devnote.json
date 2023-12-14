@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.7.6 (2023 Dec 13)\n\n- Fixed a bug where previous history was intermittently referenced when opening a file.\n- Fixed a bug where a bookmark pop-up would appear when you long-pressed the image viewer even if the bookmark function was turned off.\n- When the image viewer vertical scrolling reaches the end, the open next file button is displayed."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Modified to display an error image when the image fails to load.\n- Image viewer performance has been optimized."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.7.6 (2023 12 13)\n\n- 파일을 열때 간헐적으로 이전 히스토리가 참조되는 버그를 수정 하였습니다.   \n- 이미지 뷰어에서 북마크 기능을 꺼도 길게누르면 북마크 팝업이 나오는 버그를 수정 하였습니다. \n- 이미지뷰어 수직스크롤이 끝에 도달 할 경우 다음파일 열기 버튼이 표시되도록 하였습니다."
+    "devnote": "7.7.7 (2023 12 14)\n\n- 이미지를 로딩 못한경우 에러 이미지 를 표시하도록 수정 하였습니다.\n- 이미지 뷰어 성능을 최적화 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.7.6 (2023 13 de decembro)\n\n- Corrixiu un erro onde o historial anterior foi referido de xeito intermitente ao abrir un ficheiro.\n-Corrixiu un erro onde aparecería un pop-up de marcadores cando prensou o visor de imaxes aínda que se apagase a función de marcador.\n- Cando o desprazamento vertical do visor de imaxes chega ao final, móstrase o botón Aberto do ficheiro seguinte."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Modificado para mostrar unha imaxe de erro cando a imaxe non se cargue.\n- Optimizouse o rendemento do visor de imaxes."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.7.6 (2023 ડિસેમ્બર 13)\n\n- એક ભૂલને સ્થિર કરો જ્યાં ફાઇલ ખોલતી વખતે પાછલા ઇતિહાસનો સમયાંતરે સંદર્ભ આપવામાં આવ્યો હતો.\n-એક બગને ઠીક કરો જ્યાં બુકમાર્ક પ pop પ-અપ દેખાશે જ્યારે તમે ઇમેજ વ્યૂઅરને લાંબા સમયથી દબાવશો તો પણ બુકમાર્ક ફંક્શન બંધ કરવામાં આવ્યું હતું.\n- જ્યારે છબી દર્શક ical ભી સ્ક્રોલિંગ અંત સુધી પહોંચે છે, ત્યારે ખુલ્લી આગલી ફાઇલ બટન પ્રદર્શિત થાય છે."
+    "devnote": "7.7.7 (2023 12 14)\n\n- જ્યારે છબી લોડ કરવામાં નિષ્ફળ જાય ત્યારે ભૂલની છબી પ્રદર્શિત કરવા માટે સંશોધિત.\n- છબી દર્શકનું પ્રદર્શન optim પ્ટિમાઇઝ કરવામાં આવ્યું છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.7.6 (2023 Δεκ 13)\n\n- Διορθώθηκε ένα σφάλμα όπου το προηγούμενο ιστορικό αναφέρθηκε διαλείπουσα κατά το άνοιγμα ενός αρχείου.\n-Διορθώθηκε ένα σφάλμα όπου θα εμφανιστεί ένα pop-up σελιδοδείκτη όταν έχετε περάσει μακρυά το πρόγραμμα προβολής εικόνων, ακόμη και αν η λειτουργία σελιδοδεικτών απενεργοποιήθηκε.\n- Όταν εμφανίζεται η κατακόρυφη κύλιση της προβολής εικόνας, εμφανίζεται το κουμπί Ανοίξτε το επόμενο αρχείο."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Τροποποιήθηκε για να εμφανίσει μια εικόνα σφάλματος όταν η εικόνα αποτυγχάνει να φορτώσει.\n- Η απόδοση του προβολέα εικόνων έχει βελτιστοποιηθεί."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.7.6 (2023 december 13)\n\n- Een bug opgelost waar de eerdere geschiedenis met tussenpozen werd verwezen bij het openen van een bestand.\n-Een bug opgelost waarbij een bladwijzerpop-up zou verschijnen wanneer u de beeldviewer lang hebt ingedrukt, zelfs als de bladwijzerfunctie is uitgeschakeld.\n- Wanneer de verticale scrollen van de beeldviewer het einde bereikt, wordt de knop Volgende bestand openen weergegeven."
+    "devnote": "7.7.7 (2023 12 14)\n\n- aangepast om een ​​foutafbeelding weer te geven wanneer de afbeelding niet wordt geladen.\n- De prestaties van beeldviewer zijn geoptimaliseerd."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "7.7..6 (2023 डिसेम्बर 1 13)\n\n- अघिल्लो ईतिहास अस्थायी रूपमा सन्दर्भ गरिएको बग फिक्स गरियो।\n- बुकमार्क पप-अप देखा पर्नेछ जब बुकमार्क प्रकार्य बन्द भए पनि, छवि दर्शक बन्द भयो भने बुकमार्क पप-अप देखा पर्दछ।\n- जब छवि दर्शक ठाडो स्क्रोल अन्त्यमा पुग्दा खुला अर्को फाईल बटन प्रदर्शित हुन्छ।"
+    "devnote": "7.7..7 (2023 12))\n\n- त्रुटि छवि प्रदर्शन गर्न परिमार्जन गरिएको जब छवि लोड गर्न असफल भयो।\n- छवि दर्शक प्रदर्शन अनुकूलित गरिएको छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.7.6 (2023 13. desember)\n\n- Fikset en feil der tidligere historie ble henvist til når du åpnet en fil.\n-Fikset en feil der en bokmerke pop-up ville vises når du langpresset Bildevisningen selv om bokmerkefunksjonen var slått av.\n- Når bildeviseren vertikal rulling når slutten, vises den åpne neste filknappen."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Endret for å vise et feilbilde når bildet ikke klarer å laste.\n- ytelsen til bildevisning er optimalisert."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.7.6 (2023 dec. 13)\n\n- Rettet en fejl, hvor tidligere historie blev med mellemrum henvist til, når man åbnede en fil.\n-Rettet en fejl, hvor et bogmærke-pop-up ville vises, når du længe pressede billedviseren, selvom bogmærkefunktionen var slukket.\n- Når billedvisningen lodret rulle når slutningen, vises den åbne næste filknap."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Ændret til at vise et fejlbillede, når billedet ikke indlæses.\n- Billedvisningen er blevet optimeret."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.7.6 (2023 Dez 13)\n\n- Ein Fehler behoben, bei dem beim Öffnen einer Datei die Vorgeschichte zeitweise verwiesen wurde.\n-Ein Fehler behoben, bei dem ein Lesezeichen-Pop-up angezeigt wird, wenn Sie den Image-Betrachter längst gepresst, auch wenn die Lesezeichenfunktion ausgeschaltet würde.\n- Wenn der Bildbetriebsbetriebs -Scrolling das Ende erreicht, wird die Schaltfläche Nächster Datei geöffnet."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Modifiziert, um ein Fehlerbild anzuzeigen, wenn das Bild nicht geladen wird.\n- Die Leistung des Bildbetreibers wurde optimiert."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.7.6 (2023 Dec 13)\n\n- ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ປະຫວັດກ່ອນຫນ້ານີ້ຖືກອ້າງອີງໃນເວລາເປີດເອກະສານ.\n- ແກ້ໄຂຂໍ້ບົກຜ່ອງທີ່ມີປ້າຍຊື່ຈະປາກົດຂຶ້ນເມື່ອທ່ານໄດ້ກົດດັນຮູບພາບຍາວໆຂອງຮູບພາບ Viewer ເຖິງແມ່ນວ່າຫນ້າທີ່ Bookmark ໄດ້ຖືກປິດແລ້ວ.\n- ໃນເວລາທີ່ການເລື່ອນພາບຂອງຮູບພາບຕັ້ງຮູບພາບຕັ້ງຢູ່ໃນທີ່ສຸດ, ປຸ່ມເປີດທີ່ເປີດຢູ່ແມ່ນສະແດງ."
+    "devnote": "7.7.7 (2023 12 14)\n\n- ດັດແກ້ເພື່ອສະແດງຮູບພາບທີ່ຜິດພາດເມື່ອຮູບພາບລົ້ມເຫລວໃນການໂຫຼດ.\n- ການປະຕິບັດການເບິ່ງຮູບພາບໄດ້ຖືກປັບປຸງໃຫ້ດີທີ່ສຸດ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.7.6 (2023. gada 13. decembris)\n\n- Fiksēta kļūda, kurā, atverot failu, tika pārtraukta iepriekšējā vēsture.\n-Novērsta kļūda, kurā parādītos uznirstošais grāmatvedis, kad jūs ilgi iespiedat attēlu skatītāju, pat ja grāmatzīmju funkcija būtu izslēgta.\n- Kad attēla skatītāja vertikālā ritināšana sasniedz galu, tiek parādīta poga Atvērt nākamo failu."
+    "devnote": "7.7.7 (2023 12 14)\n\n- modificēts, lai parādītu kļūdas attēlu, kad attēls neizdodas ielādēt.\n- Attēlu skatītāja veiktspēja ir optimizēta."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.7.6 (2023 г. 13 декабря)\n\n- Исправлена ​​ошибка, на которой предыдущая история с периодически ссылалась при открытии файла.\n-Исправлена ​​ошибка, где появится всплывающее окно закладки, когда вы давно представляете зритель изображений, даже если функция закладки была отключена.\n- Когда вертикальная прокрутка просмотра изображений достигает конца, отображается кнопка «Открыть следующее файл»."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Модифицировано для отображения изображения ошибки, когда изображение не загружается.\n- Производительность просмотра изображения была оптимизирована."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.7.6 (2023 13 decembrie)\n\n- S -a rezolvat o eroare în care istoricul anterior a fost referit intermitent la deschiderea unui fișier.\n-S-a rezolvat o eroare în care ar apărea un pop-up de marcaj atunci când ați apăsat de mult timp vizualizatorul de imagini, chiar dacă funcția de marcaj a fost oprită.\n- Când este afișat defilarea verticală a vizualizatorului de imagine, este afișat butonul deschis de fișier."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Modificat pentru a afișa o imagine de eroare atunci când imaginea nu reușește să se încarce.\n- Performanța vizualizatorului de imagini a fost optimizată."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.7.6 (2023 m. Gruodžio 13)\n\n- Ištaisyta klaida, kur ankstesnė istorija buvo su pertraukomis paminėta atidarant failą.\n-Ištaisyta klaida, kurioje pasirodytų žymė, kai ilgą laiką spaudėte vaizdo peržiūros priemonę, net jei žymės funkcija buvo išjungta.\n- Kai vaizdų peržiūros priemonės vertikalus slinkimas pasiekia galą, rodomas atidarytas kito failo mygtukas."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Modifikuotas taip, kad būtų rodomas klaidos vaizdas, kai vaizdas nepavyksta įkelti.\n- Vaizdo žiūrovo našumas buvo optimizuotas."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.7.6 (2023 डिसेंबर 13)\n\n- फाईल उघडताना पूर्वीचा इतिहास मधूनमधून संदर्भित केला जात असे बग निश्चित केले.\n-बुकमार्क फंक्शन बंद असले तरीही आपण प्रतिमा दर्शकांना दीर्घ-दाबल्यास बुकमार्क पॉप-अप दिसून येईल अशा बगचे निराकरण केले.\n- जेव्हा प्रतिमा दर्शक अनुलंब स्क्रोलिंग शेवटी पोहोचते, तेव्हा पुढील फाइल बटण प्रदर्शित होते."
+    "devnote": "7.7.7 (2023 12 14)\n\n- जेव्हा प्रतिमा लोड करण्यात अयशस्वी होते तेव्हा त्रुटी प्रतिमा प्रदर्शित करण्यासाठी सुधारित.\n- प्रतिमा दर्शकांची कार्यक्षमता ऑप्टिमाइझ केली गेली आहे."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.7.6 (2023 декември 13)\n\n- Поправи грешка каде претходната историја беше наизменично упатена при отворање датотека.\n-Поправи грешка каде ќе се појави обележувач на обележувач кога долго го притиснавте прегледувачот на слики, дури и ако функцијата за обележувач е исклучена.\n- Кога вертикалното скролување на гледачот на сликата ќе го достигне крајот, се прикажува копчето Open Next File."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Изменето за да се прикаже слика за грешка кога сликата не успева да се вчита.\n- Перформансите на гледачот на слика е оптимизирана."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.7.6 (2023 ഡിസംബർ 13)\n\n- ഒരു ഫയൽ തുറക്കുമ്പോൾ മുമ്പത്തെ ചരിത്രം ഇടയ്ക്കിടെ പരാമർശിച്ച ഒരു ബഗ് പരിഹരിച്ചു.\n- ബുക്ക്മാർക്ക് പ്രവർത്തനം ഓഫാക്കിയിട്ടുണ്ടെങ്കിൽപ്പോലും ഒരു ബുക്ക്മാർക്ക് പോപ്പ്-അപ്പ് ദൃശ്യമാകുന്ന ഒരു ബഗ് പരിഹരിച്ചു.\n- ഇമേജ് വ്യൂവർ ലംബ സ്ക്രോളിംഗ് അവസാനത്തിൽ എത്തുമ്പോൾ, തുറന്ന അടുത്ത ഫയൽ ബട്ടൺ പ്രദർശിപ്പിക്കും."
+    "devnote": "7.7.7 (2023 12 14)\n\n- ഇമേജ് ലോഡുചെയ്യുന്നതിൽ പരാജയപ്പെടുമ്പോൾ ഒരു പിശക് ഇമേജ് പ്രദർശിപ്പിക്കുന്നതിന് പരിഷ്ക്കരിച്ചു.\n- ഇമേജ് വ്യൂവർ പ്രകടനം ഒപ്റ്റിമൈസ് ചെയ്തു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.7.6 (2023 Disember)\n\n- Memperbaiki pepijat di mana sejarah terdahulu dirujuk secara berselang -seli apabila membuka fail.\n-Memperbaiki pepijat di mana pop timbul penanda buku akan muncul apabila anda menekankan penonton imej walaupun fungsi penanda buku dimatikan.\n- Apabila pematangan imej penatunan menegak mencapai hujung, butang Fail Terbuka Next dipaparkan."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Diubahsuai untuk memaparkan imej ralat apabila imej gagal dimuatkan.\n- Prestasi penonton imej telah dioptimumkan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.7.6.6 (2023 оны 12-р сарын 13)\n\n- Өмнөх түүх нь файлыг нээхэд өмнөх түүхийг тасалдуулав.\n- Хавчуургын функц унтарсан байсан ч гэсэн зургийн үзэгчийн үзэгчийг дарахад HOTCKMAY POPPATE дээр гарч ирнэ.\n- Зургийн үзэгчийн үзэгч босоо гүйлгэх үед үзүүрт хүрэхэд нээлттэй дараагийн файлын товчлуурыг харуулна."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Зураг ачаалах үед алдаа гарсан зургийг харуулахаар өөрчлөгдсөн.\n- Зургийн үзэгчдийн гүйцэтгэлийг оновчтой болгож байна."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.7.6 (2023 abendua 13)\n\n- Fitxategi bat irekitzerakoan aurreko historia etengabe aipatzen zen akats bat konpondu da.\n- Errore bat konpondu da non laster-marka pop-upak irudiaren ikuslea luze sakatuta agertuko zenean, laster-marka funtzioa desaktibatuta egon bada ere.\n- Irudiaren ikuslea korritze bertikala amaierara iristen denean, irekitako hurrengo fitxategi botoia bistaratzen da."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Irudiak kargatzen ez duenean akats irudia bistaratzeko aldatua.\n- Irudiaren ikuslearen errendimendua optimizatu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.7.6 (2023 ဒီဇင်ဘာ 1323)\n\n- ယခင်သမိုင်းကြောင်းကိုဖိုင်တစ်ခုဖွင့်သည့်အခါပြတ်တောင်းပြတ်တောင်းပြတ်တောင်းပြောသောအမှားတစ်ခုကိုသတ်မှတ်သည်။\n- Bookmark Viewer ကိုပိတ်ထားရင်တောင်သင်ဟာ bookmark function ကိုပိတ်ထားရင်တောင်ပုံရိပ်ကိုကြည့်ရှုတဲ့အခါ bookmark pop-up ပေါ်လာတဲ့ bug တစ်ခုပေါ်လာလိမ့်မယ်။\n- Image Viewer Vertical scrolling သည်အဆုံးသို့ရောက်သောအခါ Open Next File ခလုတ်ကိုပြသသည်။"
+    "devnote": "722.7 (2023 12 14)\n\n- ပုံမဖွင့်ရန်ပျက်ကွက်သည့်အခါအမှားအယွင်းတစ်ခုပြသရန်ပြင်ဆင်ထားသော။\n- ပုံရိပ်ကြည့်ရှုသူစွမ်းဆောင်ရည်ကိုအကောင်းဆုံးဖြစ်သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.7.6 (2023 ngày 13 tháng 12)\n\n- Đã sửa lỗi trong đó lịch sử trước đó được tham chiếu không liên tục khi mở tệp.\n-Đã sửa lỗi một lỗi trong đó một cửa sổ bật lên sẽ xuất hiện khi bạn giới thiệu từ lâu người xem hình ảnh ngay cả khi chức năng đánh dấu bị tắt.\n- Khi trình xem hình ảnh cuộn dọc đến cuối, nút mở tiếp theo sẽ được hiển thị."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Đã sửa đổi để hiển thị hình ảnh lỗi khi hình ảnh không tải.\n- Hiệu suất của người xem hình ảnh đã được tối ưu hóa."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.7.6 (2023 г. 13 снежня)\n\n- Выпраўлена памылка, дзе пры адкрыцці файла была перарывіста спасылалася папярэдняя гісторыя.\n-Выпраўлена памылка, у якой з'явілася б закладка, калі вы доўга націскаеце праглядальніка малюнка, нават калі функцыя закладкі была адключана.\n- Калі вертыкальная пракрутка прагляду малюнкаў дасягае канца, адлюстроўваецца кнопка Open Next File."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Зменена для адлюстравання малюнка памылкі, калі малюнак не загружаецца.\n- Прадукцыйнасць прагляду малюнкаў была аптымізавана."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.7.6 (2023 ডিসেম্বর 13)\n\n- একটি বাগ স্থির করে যেখানে কোনও ফাইল খোলার সময় পূর্ববর্তী ইতিহাস মাঝে মাঝে উল্লেখ করা হয়েছিল।\n-এমন একটি বাগ ঠিক করা হয়েছে যেখানে বুকমার্ক পপ-আপ উপস্থিত হবে যখন আপনি যখন বুকমার্ক ফাংশনটি বন্ধ হয়ে গেলেও চিত্র দর্শকদের দীর্ঘ-চাপ দিয়েছিলেন।\n- যখন চিত্র দর্শকের উল্লম্ব স্ক্রোলিং শেষে পৌঁছে যায়, খোলা পরবর্তী ফাইল বোতামটি প্রদর্শিত হয়।"
+    "devnote": "7.7.7 (2023 12 14)\n\n- চিত্রটি লোড করতে ব্যর্থ হলে একটি ত্রুটি চিত্র প্রদর্শন করতে পরিবর্তিত।\n- চিত্র দর্শকের পারফরম্যান্স অনুকূলিত হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.7.6 (2023 декември 13)\n\n- Фиксирана грешка, при която предишната история беше прекъсната периодично при отваряне на файл.\n-Фиксирана грешка, при която ще се появи изскачащ знак, когато дълго натиснете зрителя на изображението, дори ако функцията на отметката е изключена.\n- Когато вертикалното превъртане на зрителя на изображението достигне до края, се показва отвореният бутон за следващия файл."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Модифицирано, за да се покаже изображение на грешка, когато изображението не се зареди.\n- Изпълнението на зрителя на изображения е оптимизирана."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.7.6 (2023. децембар 13)\n\n- Поправљена је грешка у којој је претходна историја била повремено спојена приликом отварања датотеке.\n- Поправљена је грешка у којој се појавило скочни прозор са ознаком када је дуго притиснуо прегледник слике чак и ако је функција обележивача искључена.\n- Када се вертикално померање прегледника слика прегледника достигне крај, приказује се дугме Сљедеће датотеке."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Модификовано да прикаже слику о грешци када се слика не учитава.\n- Перформансе гледалаца слике је оптимизована."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.7.6 (2023 Desemba 13)\n\n- Zisizohamishika mdudu ambapo historia ya zamani ilirejelewa mara kwa mara wakati wa kufungua faili.\n-Zisizohamishika mdudu ambapo alamisho pop-up ingeonekana wakati ulisisitiza kwa muda mrefu mtazamaji wa picha hata kama kazi ya alamisho ilizimwa.\n- Wakati picha ya mtazamaji wa wima inapofikia mwisho, kitufe cha faili kinachofuata kinaonyeshwa."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Iliyorekebishwa kuonyesha picha ya makosa wakati picha inashindwa kupakia.\n- Utendaji wa mtazamaji wa picha umeboreshwa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.7.6 (2023 13 dec)\n\n- Fixade ett fel där tidigare historia hänvisades till och med när man öppnade en fil.\n-Fixade ett fel där en bokmärke pop-up skulle visas när du länge pressade bildvisaren även om bokmärkefunktionen stängdes av.\n- När bildvisarens vertikala rullning når slutet visas den öppna nästa filknappen."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Modifierad för att visa en felbild när bilden inte laddas.\n- Bildvisarens prestanda har optimerats."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.7.6 (2023 diciembre 13)\n\n- Se corrigió un error donde el historial anterior se hizo referencia intermitentemente al abrir un archivo.\n-Se solucionó un error donde aparecería una ventana emergente de marcador cuando viste por mucho tiempo el visor de imágenes incluso si la función de marcador estaba apagada.\n- Cuando el desplazamiento vertical del visor de imágenes llega al final, se muestra el botón Abrir siguiente archivo."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Modificado para mostrar una imagen de error cuando la imagen no se carga.\n- El rendimiento del visor de imágenes ha sido optimizado."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.7.6 (2023 december 13)\n\n- Opravená chyba, v ktorej sa pri otváraní súboru občas odkázala predchádzajúca história.\n-Opravená chyba, kde by sa objavilo vyskakovacie okno, keď ste dlho stlačili prehliadač obrázka, aj keď bola funkcia záložky vypnutá.\n- Keď vertikálne posúvanie zobrazovača obrazu dosiahne koniec, zobrazí sa tlačidlo Otvoriť ďalší súbor."
+    "devnote": "7,7,7 (2023 12 14)\n\n- Upravené tak, aby sa zobrazil chybový obrázok, keď sa obrázok nedokáže načítať.\n- Výkon prehliadača obrázkov bol optimalizovaný."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.7.6 (2023 dec 13)\n\n- Odprti je napako, kjer je bila ob odpiranju datoteke občasno omenjena prejšnja zgodovina.\n-Odpravljena je napaka, kjer bi se pojavil pojavni pojav zaznamka, ko ste dolgo pritrjevali gledalca slike, tudi če je bila funkcija zaznamka izklopljena.\n- Ko navpično drsenje slike pregledovalnik doseže konec, se prikaže gumb Open Next File."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Spremenjeno tako, da prikaže sliko napake, ko se slika ne naloži.\n- Zmogljivost pregledovalnika slik je optimizirana."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.7.6 (2023 දෙසැම්බර් 13)\n\n- ගොනුවක් විවෘත කිරීමේදී පෙර ඉතිහාසය වරින් වර යොමු දැක්වූ දෝෂයක් විසඳා ඇත.\n- පොත් සලකුණක් ලබා ගත් විට පොත් සලකුණක් උත්පතනක් දිස්වන දෝෂයක් සවි කර ඇති දෝෂයකි.\n- රූප නරඹන්නා සිරස් අනුචලනය අවසානය කරා ළඟා වූ විට, විවෘත ඊළඟ ගොනු බොත්තම දර්ශනය වේ."
+    "devnote": "7.7.7 (2023 12 14)\n\n- රූපය පැටවීමට අසමත් වූ විට දෝෂ රූපයක් පෙන්වීමට වෙනස් කරන ලදි.\n- රූප නරඹන්නාගේ කාර්ය සාධනය ප්රශස්ත කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.7.6 (2023 ديسمبر 13)\n\n- تم إصلاح خطأ حيث تمت الإشارة إلى السجل السابق بشكل متقطع عند فتح ملف.\n-تم إصلاح خلل حيث تظهر نافذة منبثقة مرجعية عندما تضغط منذ فترة طويلة على عارض الصورة حتى إذا تم إيقاف تشغيل وظيفة الإشارة المرجعية.\n- عندما يصل التمرير العمودي لعارض الصورة إلى النهاية ، يتم عرض زر فتح الملف التالي."
+    "devnote": "7.7.7 (2023 12 14)\n\n- تم تعديله لعرض صورة خطأ عندما تفشل الصورة في التحميل.\n- تم تحسين أداء عارض الصور."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.7.6 (2023 դեկտեմբերի 13)\n\n- Fix նջեց մի սխալ, որտեղ նախորդ պատմությունը ընդհատվում էր ֆայլը բացելիս:\n- Fix նջեց մի սխալ, որտեղ էջանշանը կհայտնվի, երբ երկար սեղմում եք պատկերի դիտիչը, նույնիսկ եթե էջանիշի գործառույթը անջատված է:\n- Երբ պատկերի դիտիչը ուղղահայաց պտտվելը հասնում է ավարտին, ցուցադրվում է բաց հաջորդ ֆայլի կոճակը:"
+    "devnote": "7.7.7 (2023 12 14)\n\n- Փոփոխված է սխալի պատկերը ցուցադրելու համար, երբ պատկերը չի կարող բեռնել:\n- Պատկերի դիտողի աշխատանքը օպտիմիզացված է:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.7.6 (2023 13. des)\n\n- Lagaði villu þar sem vísað var til fyrri sögu þegar hún opnaði skrá.\n-Lagaði villu þar sem birtingar á bókamerki birtist þegar þú lenti lengi á myndinni, jafnvel þó að slökkt væri á bókamerkinu.\n- Þegar lóðrétt skrunur myndar nær endanum birtist opinn næsti skráarhnappur."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Breytt til að sýna villumynd þegar myndin nær ekki að hlaða.\n- Árangur myndáhorfenda hefur verið fínstilltur."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.7.6 (2023 Dekabr 13)\n\n- Əvvəlki tarixin bir fayl açarkən ara-sıra istinad edildiyi bir səhv düzəldildi.\n- Əlfəcin funksiyası söndürülmüş olsa belə, görüntü görüntüleyicisini uzun basdığınız zaman bir əlfəcin pop-up görünəcəyi bir səhv düzəldildi.\n- Şəkil görüntüleyicisi şaquli sürüşmə sona çatdıqda, açıq növbəti fayl düyməsinə göstərilir."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Şəkil yüklənmədikdə bir səhv görüntüsünü göstərmək üçün dəyişdirilmişdir.\n- Şəkil görüntüleyicisi performansı optimallaşdırıldı."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.7.6 (2023 Desember 13)\n\n- 'n Fout reggestel waar daar na die vorige geskiedenis verwys is na die opening van 'n lêer.\n-'n Fout reggestel waar 'n pop-up van 'n boekmerk sou verskyn wanneer u die beeldkyk op die langtermyn geplaas het, selfs al is die boekmerkfunksie afgeskakel.\n- As die vertikale blaai van die beeld van die beeld van die beeld die einde bereik, word die oop volgende lêerknoppie vertoon."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Gewysig om 'n foutbeeld te vertoon wanneer die beeld nie laai nie.\n- Die prestasie van beeldkykers is geoptimaliseer."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.7.6 (2023 13 dhjetor)\n\n- Fiksoi një gabim ku historia e mëparshme u referua me ndërprerje kur hapni një skedar.\n-Fiksoi një gabim ku do të shfaqej një pop-up-up-up-up-up-up kur të keni shtypur prej kohësh shikuesin e figurës edhe nëse funksioni i faqerojtësve ishte i fikur.\n- Kur lëvizja vertikale e shikuesit të figurës arrin në fund, shfaqet butoni i hapur i skedarit tjetër."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Modifikuar për të shfaqur një imazh gabimi kur imazhi nuk arrin të ngarkohet.\n- Performanca e shikuesit të imazhit është optimizuar."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.7.6 (2023 ዲሴምበር 13)\n\n- አንድ ፋይል ሲከፍቱ የቀደመ ታሪክ ቀዳሚው ታሪክ የተስተካከለበት ሳንካ ተጠግኗል.\n- የዕልባት ተግባሩ እንኳን ቢጠፋም የምስል ቫይሪያን ለረጅም ጊዜ ሲጫኑ ብቅ ብቅ ብቅ ያለው ሳንካ የተስተካከለ ሳንካ የተስተካከለ ነው.\n- የምስል መመልከቻ ቀጥ ያለ ማሸብለል እስከ መጨረሻው ሲደርስ የሚቀጥለው የፋይል ቁልፍ ይታያል."
+    "devnote": "7.7.7 (2023 12 14)\n\n- ምስሉ ለመጫን ሲርቅም የስህተት ምስል ለማሳየት ተሻሽሏል.\n- የምስል መመልከቻ አፈፃፀም ተመቻች."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.7.6 (2023. detsember 13)\n\n- Parandatud viga, kus faili avamisel viidati eelmisele ajaloole vahelduvalt.\n-Parandatud viga, kus ilmub järjehoidjate hüpik, kui pildivaaturi kaua surusite, isegi kui järjehoidja funktsioon välja lülitati.\n- Kui pildivaaturi vertikaalne kerimine lõpuni jõuab, kuvatakse järgmine fail avatud."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Muudetud, et kuvada veapildi kuvamine, kui pilt ei laadita.\n- Pildivaataja jõudlus on optimeeritud."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.7.6 (2023 دسمبر 13)\n\n- ایک بگ طے کیا جہاں فائل کھولتے وقت پچھلی تاریخ کو وقفے وقفے سے حوالہ دیا گیا تھا۔\n-ایک بگ طے کیا جہاں بُک مارک پاپ اپ ظاہر ہوگا جب آپ نے تصویری ناظرین کو طویل دباؤ ڈالا یہاں تک کہ اگر بک مارک فنکشن بند کردیا گیا ہو۔\n- جب تصویر کے ناظرین عمودی سکرولنگ اختتام تک پہنچ جاتے ہیں تو ، کھلا اگلی فائل کا بٹن ظاہر ہوتا ہے۔"
+    "devnote": "7.7.7 (2023 12 14)\n\n- جب تصویر لوڈ کرنے میں ناکام ہوجاتی ہے تو غلطی کی تصویر کو ظاہر کرنے کے لئے ترمیم کی گئی۔\n- تصویری ناظرین کی کارکردگی کو بہتر بنایا گیا ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.7.6 (2023 грудня 13)\n\n- Виправлена ​​помилка, де попередня історія була переривчаста під час відкриття файлу.\n-Виправлена ​​помилка, де з’явиться спливаюче вікно закладки, коли ви давно натиснули на переглядач зображень, навіть якщо функція закладки була вимкнена.\n- Коли вертикальна прокрутка перегляду зображень досягає кінця, відображається наступна кнопка відкритого файлу."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Змінено для відображення зображення помилки, коли зображення не вдається завантажити.\n- Продуктивність перегляду зображень оптимізована."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.7.6 (2023 dic 13)\n\n- Risolto un bug in cui la cronologia precedente veniva referenziata in modo intermittente all'apertura di un file.\n-Risolto un bug in cui sarebbe visualizzato un pop-up di segnalibri quando si prevede a lungo il visualizzatore di immagini anche se la funzione di segnalibro fosse disattivata.\n- Quando lo scorrimento verticale del visualizzatore di immagine raggiunge l'estremità, viene visualizzato il pulsante Apri File successivo."
+    "devnote": "7,7,7 (2023 12 14)\n\n- Modificato per visualizzare un'immagine di errore quando l'immagine non si carica.\n- Le prestazioni del visualizzatore di immagini sono state ottimizzate."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.7.6 (2023 Des 13)\n\n- Memperbaiki bug di mana riwayat sebelumnya dirujuk sebentar -sebentar saat membuka file.\n-Memperbaiki bug di mana pop-up bookmark akan muncul ketika Anda lama menekan pemirsa gambar bahkan jika fungsi bookmark dimatikan.\n- Ketika gulir vertikal penampil gambar mencapai ujungnya, tombol Open Next File ditampilkan."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Dimodifikasi untuk menampilkan gambar kesalahan saat gambar gagal memuat.\n- Kinerja penampil gambar telah dioptimalkan."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.7.6（2023年12月13日）\n\n - ファイルを開くときに以前の履歴が断続的に参照されたバグを修正しました。\n - ブックマーク機能がオフになった場合でも、画像ビューアーを長く押し付けたときにブックマークポップアップが表示されるバグを修正しました。\n - 画像ビューアーの垂直スクロールが端に達すると、開く次のファイルボタンが表示されます。"
+    "devnote": "7.7.7（2023 12 14）\n\n - 画像が読み込まれないときにエラー画像を表示するように変更されました。\n - 画像ビューアのパフォーマンスが最適化されています。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.7.6 (2023 დეკემბერი 13)\n\n- დააფიქსირა შეცდომა, სადაც წინა ისტორია წყვეტილი იყო მოხსენიებული ფაილის გახსნისას.\n-დააფიქსირა შეცდომა, სადაც გამოჩნდება სანიშნე pop-up, როდესაც თქვენ დიდხანს დაჭერით გამოსახულების მაყურებელს, თუნდაც სანიშნე ფუნქცია გამორთულიყო.\n- როდესაც გამოსახულების სანახავი ვერტიკალური გადახვევა დასრულდება, ნაჩვენებია ღია შემდეგი ფაილის ღილაკი."
+    "devnote": "7.7.7 (2023 12 14)\n\n- შეცვლილია შეცდომის სურათის გამოსახატავად, როდესაც სურათი ვერ იტვირთება.\n- გამოსახულების სანახავი შესრულება ოპტიმიზირებულია."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.7.6 (2023 Decm 13)\n\n- Kulungiswe isiphazamiso lapho umlando wangaphambilini ubhekiswe khona lapho uvula ifayela.\n- Silungiswe isiphazamisi lapho kuvela khona i-bookmark pop-up lapho ucindezela isikhathi eside isibukeli sesithombe noma ngabe umsebenzi we-bookmark ucishiwe.\n- Lapho ukuskrola okubukwa kwesithombe kufinyelela ekupheleni, kuboniswa inkinobho elandelayo yefayela elilandelayo."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Ishintshwe ukubonisa isithombe sephutha lapho isithombe sehluleka ukulayisha.\n- Ukusebenza kwesibukeli se-Image kulungiselelwe."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.7.6（2023年12月13日）\n\n - 修复了打开文件时间歇性引用以前历史记录的错误。\n - 修复了一个错误，即使您关闭了书签函数，也可以长期压制图像查看器时出现书签弹出窗口。\n - 当图像查看器垂直滚动到达末端时，将显示“打开的下一个文件”按钮。"
+    "devnote": "7.7.7（2023 12 14）\n\n - 经过修改以显示图像未能加载时显示错误映像。\n - 图像查看器的性能已被优化。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.7.6（2023年12月13日）\n\n - 修復了打開文件時間歇性引用以前歷史記錄的錯誤。\n - 修復了一個錯誤，即使您關閉了書籤函數，也可以長期壓製圖像查看器時出現書籤彈出窗口。\n - 當圖像查看器垂直滾動到達末端時，將顯示“打開的下一個文件”按鈕。"
+    "devnote": "7.7.7（2023 12 14）\n\n - 經過修改以顯示圖像未能加載時顯示錯誤映像。\n - 圖像查看器的性能已被優化。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.7.6（2023年12月13日）\n\n - 修復了打開文件時間歇性引用以前歷史記錄的錯誤。\n - 修復了一個錯誤，即使您關閉了書籤函數，也可以長期壓製圖像查看器時出現書籤彈出窗口。\n - 當圖像查看器垂直滾動到達末端時，將顯示“打開的下一個文件”按鈕。"
+    "devnote": "7.7.7（2023 12 14）\n\n - 經過修改以顯示圖像未能加載時顯示錯誤映像。\n - 圖像查看器的性能已被優化。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.7.6 (2023 13. prosince)\n\n- Opravena chyba, kde byla při otevírání souboru občas odkázána.\n-Opravena chyba, kde by se objevilo vyskakovací okno záložky, když jste prohlížeč obrázků dlouho lisoval, i když byla funkce záložky vypnuta.\n- Když svislý posun pro prohlížeče obrázku dosáhne konce, zobrazí se tlačítko Otevřené další soubory."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Modifikováno pro zobrazení chybového obrázku, když se obrázek nedokáže načíst.\n- Výkon prohlížeče obrázků byl optimalizován."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.7.6 (13 желтоқсан) (2023)\n\n- Алдыңғы тарих файлды ашқан кезде жалған сілтеме жасалған қатені тіркеңіз.\n- Bookmark функциясы өшірулі болса да, кескін қарау құралын ұзақ басып тұрған кезде бетбелгі қалқымалы пайда болатын қате пайда болды.\n- Кескін қарау құралы тік жылжу соңына жеткенде, келесі файлды ашу түймесі көрсетіледі."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Кескін жүктелмеген кезде қате кескінін көрсету үшін өзгертілген.\n- Кескін қарау құралының өнімділігі оңтайландырылды."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.7.6 (2023 13 de desembre)\n\n- S'ha corregit un error on es fa referència a la història anterior a l'hora d'obrir un fitxer.\n-S'ha corregit un error on apareixerà un pop-up de marcador quan es premiava el visualitzador d'imatges, fins i tot si s'ha desactivat la funció de marcador.\n- Quan el desplaçament vertical del visualitzador d'imatges arriba al final, es mostra el botó Obrir el següent fitxer."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Modificat per mostrar una imatge d'error quan la imatge no es carrega.\n- El rendiment del visualitzador d’imatges s’ha optimitzat."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.7.6 (2023 ಡಿಸೆಂಬರ್ 13)\n\n- ಫೈಲ್ ತೆರೆಯುವಾಗ ಹಿಂದಿನ ಇತಿಹಾಸವನ್ನು ಮಧ್ಯಂತರವಾಗಿ ಉಲ್ಲೇಖಿಸಿದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n-ಬುಕ್‌ಮಾರ್ಕ್ ಕಾರ್ಯವನ್ನು ಆಫ್ ಮಾಡಿದರೂ ಸಹ ನೀವು ಇಮೇಜ್ ವೀಕ್ಷಕನನ್ನು ದೀರ್ಘಕಾಲ ಒತ್ತಿದಾಗ ಬುಕ್‌ಮಾರ್ಕ್ ಪಾಪ್-ಅಪ್ ಕಾಣಿಸಿಕೊಳ್ಳುವ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ಇಮೇಜ್ ವೀಕ್ಷಕ ಲಂಬ ಸ್ಕ್ರೋಲಿಂಗ್ ಅಂತ್ಯವನ್ನು ತಲುಪಿದಾಗ, ಓಪನ್ ಮುಂದಿನ ಫೈಲ್ ಬಟನ್ ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ."
+    "devnote": "7.7.7 (2023 12 14)\n\n- ಚಿತ್ರ ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾದಾಗ ದೋಷ ಚಿತ್ರವನ್ನು ಪ್ರದರ್ಶಿಸಲು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಇಮೇಜ್ ವೀಕ್ಷಕರ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಹೊಂದುವಂತೆ ಮಾಡಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.7.6 (2023. prosinca 13.)\n\n- Ispravljena je pogreška na kojoj se prethodna povijest povremeno navodi prilikom otvaranja datoteke.\n-Ispravljena je greška u kojoj bi se pojavio skočni skočni prozor kada biste dugo pritisnuli gledatelj slike, čak i ako je funkcija oznake isključena.\n- Kad se vertikalno pomicanje prikaza slika dosegne kraj, prikazan je gumb Otvoreni sljedeći datoteka."
+    "devnote": "7.7.7 (2023. 12 14)\n\n- Izmijenjeno za prikaz slike pogreške kada se slika ne uspije učitati.\n- Učinkovitost gledatelja slike je optimizirana."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.7.6 (2023 ធ្នូ 13)\n\n- ជួសជុលកំហុសមួយដែលប្រវត្តិសាស្ត្រពីមុនត្រូវបានគេយោងយ៉ាងខ្លីនៅពេលបើកឯកសារ។\n- ជួសជុលកំហុសដែលជាកន្លែងដែលចំណាំលេចចេញមកនៅពេលដែលអ្នកចុចកម្មវិធីមើលរូបភាពជាយូរមកហើយបើទោះបីជាមុខងារចំណាំត្រូវបានបិទក៏ដោយ។\n- នៅពេលដែលការរមូរបញ្ឈររបស់កម្មវិធីមើលរូបភាពឈានដល់ទីបញ្ចប់ប៊ូតុងបើកឯកសារបន្ទាប់ត្រូវបានបង្ហាញ។"
+    "devnote": "7.7.7 (2023 12 14)\n\n- កែប្រែដើម្បីបង្ហាញរូបភាពកំហុសនៅពេលរូបភាពបរាជ័យក្នុងការផ្ទុក។\n- ការអនុវត្តកម្មវិធីមើលរូបភាពត្រូវបានធ្វើឱ្យប្រសើរឡើង។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.7.6 (2023-дек. 13-декабрь)\n\n- Файлды ачууда мурунку тарых үзгүлтүксүз шилтеме берген мүчүлүштүктү белгиледи.\n- Сүрөттүн көркөмдүгүн басаңдатып, кыстырма функциясы өчүрүлгөн болсо дагы, кыстырма калкып чыгуучу белги пайда болот.\n- Сүрөттү көрүүчү вертикалдуу жылдыргыч акырына чейин жеткенде, кийинки файл баскычы көрсөтүлөт."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Сүрөт жүктөөгөндө, ката сүрөтүн көрсөтүү үчүн өзгөртүлгөн.\n- Сүрөттү көрүүчүнүн натыйжалуулугу оптималдаштырылган."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.7.6 (2023 டிசம்பர் 13)\n\n- ஒரு கோப்பைத் திறக்கும்போது முந்தைய வரலாறு இடைவிடாது குறிப்பிடப்பட்ட ஒரு பிழை சரி செய்யப்பட்டது.\n-புக்மார்க்கு செயல்பாடு முடக்கப்பட்டிருந்தாலும், பட பார்வையாளரை நீங்கள் நீண்ட நேரம் அழுத்தும்போது ஒரு புக்மார்க்கு பாப்-அப் தோன்றும் ஒரு பிழை சரி செய்யப்பட்டது.\n- பட பார்வையாளர் செங்குத்து ஸ்க்ரோலிங் முடிவை அடையும் போது, ​​திறந்த அடுத்த கோப்பு பொத்தானை காண்பிக்கும்."
+    "devnote": "7.7.7 (2023 12 14)\n\n- படம் ஏற்றத் தவறும்போது பிழை படத்தைக் காண்பிக்க மாற்றப்பட்டது.\n- பட பார்வையாளர் செயல்திறன் உகந்ததாக உள்ளது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.7.6 (2023 ธ.ค. 13)\n\n- แก้ไขข้อผิดพลาดที่มีการอ้างอิงประวัติก่อนหน้านี้เป็นระยะเมื่อเปิดไฟล์\n-แก้ไขข้อผิดพลาดที่บุ๊คมาร์คป๊อปอัพจะปรากฏขึ้นเมื่อคุณกดตัวชมภาพมานานแม้ว่าฟังก์ชั่นบุ๊กมาร์กจะถูกปิด\n- เมื่อการเลื่อนภาพในแนวตั้งของผู้ชมภาพถึงจุดสิ้นสุดปุ่มเปิดไฟล์ถัดไปจะปรากฏขึ้น"
+    "devnote": "7.7.7 (2023 12 14)\n\n- แก้ไขเพื่อแสดงภาพข้อผิดพลาดเมื่อภาพไม่สามารถโหลดได้\n- ประสิทธิภาพการดูรูปภาพได้รับการปรับให้เหมาะสม"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.7.6 (2023 Aralık 13)\n\n- Bir dosya açarken önceki geçmişin aralıklı olarak atıfta bulunulduğu bir hata düzeltildi.\n-Bookmark işlevi kapatılmış olsa bile, görüntü görüntüleyicisini uzun süre sıkıştırdığınızda bir yer imi açılır pencerenin görüneceği bir hata düzeltildi.\n- Görüntü görüntüleyici dikey kaydırma sonuna ulaştığında, Sonraki Dosya Aç düğmesi görüntülenir."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Görüntü yüklenemediğinde bir hata görüntüsü görüntülemek için değiştirildi.\n- Görüntü görüntüleyici performansı optimize edildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.7.6 (2023 డిసెంబర్ 13)\n\n- ఫైల్‌ను తెరిచినప్పుడు మునుపటి చరిత్ర అడపాదడపా ప్రస్తావించబడిన బగ్ పరిష్కరించబడింది.\n-బుక్‌మార్క్ ఫంక్షన్ ఆపివేయబడినప్పటికీ మీరు ఇమేజ్ వ్యూయర్‌ను దీర్ఘకాలంగా నొక్కినప్పుడు బుక్‌మార్క్ పాప్-అప్ కనిపించే బగ్ పరిష్కరించబడింది.\n- ఇమేజ్ వ్యూయర్ నిలువు స్క్రోలింగ్ ముగింపుకు చేరుకున్నప్పుడు, ఓపెన్ తదుపరి ఫైల్ బటన్ ప్రదర్శించబడుతుంది."
+    "devnote": "7.7.7 (2023 12 14)\n\n- చిత్రం లోడ్ చేయడంలో విఫలమైనప్పుడు లోపం చిత్రాన్ని ప్రదర్శించడానికి సవరించబడింది.\n- ఇమేజ్ వ్యూయర్ పనితీరు ఆప్టిమైజ్ చేయబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.7.6 (2023 ਦਸੰਬਰ 13)\n\n- ਇੱਕ ਫਾਇਲ ਖੋਲ੍ਹਣ ਸਮੇਂ ਪਿਛਲੇ ਇਤਿਹਾਸ ਦਾ ਰੁਕ-ਰੁਕ ਕੇ ਦਰਸਾਇਆ ਗਿਆ ਸੀ.\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਜਿੱਥੇ ਇੱਕ ਬੁੱਕਮਾਰਕ ਪੌਪ-ਅਪ ਦਿਖਾਈ ਦੇਵੇਗਾ ਜਦੋਂ ਤੁਸੀਂ ਚਿੱਤਰ ਦਰਸ਼ਕ ਨੂੰ ਲੰਬੇ ਸਮੇਂ ਤੋਂ ਦਬਾਇਆ ਹੁੰਦਾ ਹੈ ਭਾਵੇਂ ਬੁੱਕਮਾਰਕ ਫੰਕਸ਼ਨ ਬੰਦ ਕਰ ਦਿੱਤਾ ਜਾਂਦਾ ਸੀ.\n- ਜਦੋਂ ਚਿੱਤਰ ਦਰਸ਼ਕ ਵਰਟੀਕਲ ਸਕ੍ਰੌਲਿੰਗ ਅੰਤ ਤੱਕ ਪਹੁੰਚ ਜਾਂਦੀ ਹੈ, ਤਾਂ ਖੁੱਲੀ ਅਗਲਾ ਫਾਈਲ ਬਟਨ ਪ੍ਰਦਰਸ਼ਿਤ ਹੁੰਦਾ ਹੈ."
+    "devnote": "7.7.7 (2023 12 14)\n\nਜਦੋਂ ਚਿੱਤਰ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ ਹੁੰਦਾ ਹੈ ਤਾਂ ਇੱਕ ਗਲਤੀ ਚਿੱਤਰ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਲਈ ਸੋਧਿਆ ਜਾਂਦਾ ਹੈ.\n- ਚਿੱਤਰ ਦਰਸ਼ਕ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਇਆ ਗਿਆ ਹੈ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.7.6 (2023 دسامبر 13)\n\n- رفع اشکالی در جایی که تاریخ قبلی هنگام باز کردن پرونده به طور متناوب ارجاع شده بود.\n-رفع اشکال در جایی که یک پاپ آپ نشان داده می شود وقتی که بیننده تصویر را تحت فشار قرار دادید حتی اگر عملکرد نشانک خاموش باشد.\n- هنگامی که پیمایش عمودی تصویر بیننده به انتها می رسد ، دکمه Open Next File نمایش داده می شود."
+    "devnote": "7.7.7 (2023 12 14)\n\n- اصلاح شده برای نمایش یک تصویر خطا در هنگام عدم بارگیری تصویر.\n- عملکرد بیننده تصویر بهینه شده است."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.7.6 (2023 13 de dezembro)\n\n- Corrigido um bug em que o histórico anterior foi referenciado intermitentemente ao abrir um arquivo.\n-Corrigido um bug em que um pop-up de marcador apareceria quando você pressionasse o visualizador de imagens, mesmo que a função de marcador fosse desligada.\n- Quando o rolagem vertical do visualizador da imagem atinge o final, o botão aberto próximo a arquivo é exibido."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Modificado para exibir uma imagem de erro quando a imagem falha ao carregar.\n- O desempenho do visualizador de imagens foi otimizado."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.7.6 (2023 grudnia 13)\n\n- Naprawiono błąd, w którym poprzednia historia była sporadycznie odwołana podczas otwierania pliku.\n-Naprawiono błąd, w którym pojawiłby się okienko zakładki, gdy od dawna prasowałeś przeglądarkę obrazu, nawet jeśli funkcja zakładki została wyłączona.\n- Gdy przeglądanie obrazu pionowe docieka do końca, wyświetlany jest przycisk Otwórz następnego pliku."
+    "devnote": "7.7,7 (2023 12 14)\n\n- Zmodyfikowany, aby wyświetlić obraz błędu, gdy obraz nie ładuje się.\n- Wydajność przeglądarki obrazu została zoptymalizowana."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.7.6 (2023 13 décembre)\n\n- Correction d'un bogue où l'historique précédent a été référencé par intermittence lors de l'ouverture d'un fichier.\n- Correction d'un bug où une fenêtre contextuelle apparaîtrait lorsque vous avez étendu depuis longtemps la visionneuse d'image même si la fonction de signet était désactivée.\n- Lorsque le défilement vertical de la visionneuse d'image atteint l'extrémité, le bouton d'ouverture du fichier suivant s'affiche."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Modifié pour afficher une image d'erreur lorsque l'image ne se charge pas.\n- Les performances de la visionneuse d'image ont été optimisées."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.7.6 (2023 joulukuu 13)\n\n- Korjattu virhe, jossa edelliseen historiaan viitattiin ajoittain tiedoston avattaessa.\n-Korjattu virhe, jossa kirjanmerkki ponnahdusikkuna ilmestyy, kun painat kuvan katsojaa pitkään, vaikka kirjanmerkkitoiminto sammutettiin.\n- Kun kuvan katseluohjelma pystysuuntainen vieritys saavuttaa lopun, avoin tiedostopainike tulee näkyviin."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Muokattu virhekuvan näyttämiseksi, kun kuva ei ladata.\n- Kuvan katseluohjelman suorituskyky on optimoitu."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.7.6 (2023 Dis 13)\n\n- Nakapirming isang bug kung saan ang nakaraang kasaysayan ay paulit -ulit na na -refer kapag nagbubukas ng isang file.\n-Nakapirming isang bug kung saan lilitaw ang isang bookmark pop-up kapag matagal mong pinipilit ang viewer ng imahe kahit na naka-off ang function ng bookmark.\n- Kapag naabot ang Viewer Viewer Vertical Scroll sa dulo, ipinapakita ang bukas na susunod na pindutan ng file."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Binago upang ipakita ang isang imahe ng error kapag ang imahe ay nabigo na mag -load.\n- Ang pagganap ng viewer ng imahe ay na -optimize."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.7.6 (2023 december 13.)\n\n- Javítva egy hibát, ahol a korábbi előzmények szakaszosan hivatkoztak egy fájl megnyitásakor.\n-Javítva egy hibát, ahol megjelenik egy könyvjelző felbukkanó, amikor hosszú ideig nyomtatta a képmegjelenítőt, még akkor is, ha a könyvjelző funkció ki van kapcsolva.\n- Amikor a képmegfigyelő függőleges görgetése eléri a végét, megjelenik a következő Open File gomb."
+    "devnote": "7.7.7 (2023 12 14)\n\n- Módosítva a hibakép megjelenítéséhez, amikor a kép nem tölti be.\n- A képmegjelenítő teljesítményét optimalizálták."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.7.6 (2023 דצמבר 13)\n\n- תוקן באג בו הוזכרו לסירוגין את ההיסטוריה הקודמת בעת פתיחת קובץ.\n-תוקן באג שבו קופץ סימניה יופיע כאשר לחיצת זמן רב על מציג התמונות גם אם פונקציית הסימניה הייתה כבויה.\n- כאשר הגלילה האנכית של מציג התמונה מגיעה לקצה, כפתור הקובץ הבא פתוח מוצג."
+    "devnote": "7.7.7 (2023 12 14)\n\n- שונה כדי להציג תמונת שגיאה כאשר התמונה לא נטענת.\n- ביצועי הצופה בתמונות עברו אופטימיזציה."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.7.6 (2023 दिसंबर 13)\n\n- एक बग फिक्स्ड जहां पिछले इतिहास को एक फ़ाइल खोलते समय रुक -रुक कर संदर्भित किया गया था।\n-एक बग फिक्स्ड जहां एक बुकमार्क पॉप-अप दिखाई देगा जब आप छवि दर्शक को लंबे समय से दबाते हैं, भले ही बुकमार्क फ़ंक्शन बंद हो गया हो।\n- जब छवि दर्शक वर्टिकल स्क्रॉलिंग अंत तक पहुंच जाता है, तो ओपन अगला फ़ाइल बटन प्रदर्शित होता है।"
+    "devnote": "7.7.7 (2023 12 14)\n\n- जब छवि लोड करने में विफल हो जाती है तो एक त्रुटि छवि प्रदर्शित करने के लिए संशोधित।\n- छवि व्यूअर प्रदर्शन को अनुकूलित किया गया है।"
   }
 }
