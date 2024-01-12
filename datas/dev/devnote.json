@@ -1,123 +1,123 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.7.8 (2024 01 12)\nThe text viewer/image viewer logic has been overall improved.\nWe have added a function to recognize characters in real time in the image viewer and read them as TTS.\nA TTS reading location tracking option has been added to TTS settings.\nThe restore button is now displayed when using the zoom function in the image viewer.\nWe have modified the animation to appear more naturally when moving pages."
+    "devnote": "7.7.9 (2024 01 12)\nThe text viewer/image viewer logic has been overall improved.\nWe have added a function to recognize characters in real time in the image viewer and read them as TTS.\nA TTS reading location tracking option has been added to TTS settings.\nThe restore button is now displayed when using the zoom function in the image viewer.\nWe have modified the animation to appear more naturally when moving pages."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.7.8 (2024 01 12)\n텍스트 뷰어 / 이미지 뷰어 로직을 전체적으로 개선 하였습니다.\n이미지 뷰어에서 실시간으로 문자를 인식 하여 TTS 로 읽는 기능을 추가 하였습니다. \nTTS 설정에 TTS 읽는 위치 추적 옵션을 추가 하였습니다. \n이미지 뷰어에서 확대기능 사용시 복원 버튼이 표시되도록 하였습니다.\n페이지 이동시 애니메이션을 자연스럽게 표현하도록 수정 하였습니다."
+    "devnote": "7.7.9 (2024 01 12)\n텍스트 뷰어 / 이미지 뷰어 로직을 전체적으로 개선 하였습니다.\n이미지 뷰어에서 실시간으로 문자를 인식 하여 TTS 로 읽는 기능을 추가 하였습니다. \nTTS 설정에 TTS 읽는 위치 추적 옵션을 추가 하였습니다. \n이미지 뷰어에서 확대기능 사용시 복원 버튼이 표시되도록 하였습니다.\n페이지 이동시 애니메이션을 자연스럽게 표현하도록 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.7.8 (2024 01 12)\nMellorouse a lóxica do visor de texto/visualizador de imaxes.\nEngadimos unha función para recoñecer caracteres en tempo real no visor de imaxes e lelos como TTS.\nEngadiuse unha opción de seguimento de localización de TTS á configuración de TTS.\nO botón de restauración móstrase agora ao usar a función de zoom no visor de imaxes.\nModificamos a animación para aparecer máis naturalmente ao mover páxinas."
+    "devnote": "7.7.9 (2024 01 12)\nMellorouse a lóxica do visor de texto/visualizador de imaxes.\nEngadimos unha función para recoñecer caracteres en tempo real no visor de imaxes e lelos como TTS.\nEngadiuse unha opción de seguimento de localización de TTS á configuración de TTS.\nO botón de restauración móstrase agora ao usar a función de zoom no visor de imaxes.\nModificamos a animación para aparecer máis naturalmente ao mover páxinas."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.7.8 (2024 01 12)\nટેક્સ્ટ વ્યૂઅર/ઇમેજ વ્યૂઅર તર્ક એકંદરે સુધારવામાં આવ્યો છે.\nઅમે છબી દર્શકમાં વાસ્તવિક સમયમાં અક્ષરોને ઓળખવા અને તેમને ટીટીએસ તરીકે વાંચવા માટે એક ફંક્શન ઉમેર્યું છે.\nટીટીએસ સેટિંગ્સમાં ટીટીએસ વાંચન સ્થાન ટ્રેકિંગ વિકલ્પ ઉમેરવામાં આવ્યો છે.\nઇમેજ વ્યૂઅરમાં ઝૂમ ફંક્શનનો ઉપયોગ કરતી વખતે હવે રીસ્ટોર બટન પ્રદર્શિત થાય છે.\nપૃષ્ઠો ખસેડતી વખતે અમે વધુ કુદરતી રીતે દેખાવા માટે એનિમેશનમાં ફેરફાર કર્યો છે."
+    "devnote": "7.7.9 (2024 01 12)\nટેક્સ્ટ વ્યૂઅર/ઇમેજ વ્યૂઅર તર્ક એકંદરે સુધારવામાં આવ્યો છે.\nઅમે છબી દર્શકમાં વાસ્તવિક સમયમાં અક્ષરોને ઓળખવા અને તેમને ટીટીએસ તરીકે વાંચવા માટે એક ફંક્શન ઉમેર્યું છે.\nટીટીએસ સેટિંગ્સમાં ટીટીએસ વાંચન સ્થાન ટ્રેકિંગ વિકલ્પ ઉમેરવામાં આવ્યો છે.\nઇમેજ વ્યૂઅરમાં ઝૂમ ફંક્શનનો ઉપયોગ કરતી વખતે હવે રીસ્ટોર બટન પ્રદર્શિત થાય છે.\nપૃષ્ઠો ખસેડતી વખતે અમે વધુ કુદરતી રીતે દેખાવા માટે એનિમેશનમાં ફેરફાર કર્યો છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.7.8 (2024 01 12)\nΗ λογική προβολής προβολής κειμένου/εικόνας έχει βελτιωθεί γενικά.\nΈχουμε προσθέσει μια λειτουργία για να αναγνωρίσουμε τους χαρακτήρες σε πραγματικό χρόνο στο πρόγραμμα προβολής εικόνων και να τις διαβάσουμε ως TTS.\nΜια επιλογή παρακολούθησης τοποθεσίας ανάγνωσης TTS έχει προστεθεί στις ρυθμίσεις TTS.\nΤο κουμπί Επαναφορά εμφανίζεται τώρα όταν χρησιμοποιείτε τη λειτουργία ζουμ στο πρόγραμμα προβολής εικόνων.\nΈχουμε τροποποιήσει το κινούμενο σχέδιο για να εμφανιστεί πιο φυσικά όταν κινείται σελίδες."
+    "devnote": "7.7.9 (2024 01 12)\nΗ λογική προβολής προβολής κειμένου/εικόνας έχει βελτιωθεί γενικά.\nΈχουμε προσθέσει μια λειτουργία για να αναγνωρίσουμε τους χαρακτήρες σε πραγματικό χρόνο στο πρόγραμμα προβολής εικόνων και να τις διαβάσουμε ως TTS.\nΜια επιλογή παρακολούθησης τοποθεσίας ανάγνωσης TTS έχει προστεθεί στις ρυθμίσεις TTS.\nΤο κουμπί Επαναφορά εμφανίζεται τώρα όταν χρησιμοποιείτε τη λειτουργία ζουμ στο πρόγραμμα προβολής εικόνων.\nΈχουμε τροποποιήσει το κινούμενο σχέδιο για να εμφανιστεί πιο φυσικά όταν κινείται σελίδες."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.7.8 (2024 01 12)\nDe logica van de tekstviewer/beeldviewer is in het algemeen verbeterd.\nWe hebben een functie toegevoegd om tekens in realtime in de beeldviewer te herkennen en ze als TTS te lezen.\nEen TTS -optie voor het volgen van de leeslocatie is toegevoegd aan TTS -instellingen.\nDe herstelknop wordt nu weergegeven bij het gebruik van de zoomfunctie in de beeldviewer.\nWe hebben de animatie aangepast om natuurlijker te verschijnen bij het verplaatsen van pagina's."
+    "devnote": "7.7.9 (2024 01 12)\nDe logica van de tekstviewer/beeldviewer is in het algemeen verbeterd.\nWe hebben een functie toegevoegd om tekens in realtime in de beeldviewer te herkennen en ze als TTS te lezen.\nEen TTS -optie voor het volgen van de leeslocatie is toegevoegd aan TTS -instellingen.\nDe herstelknop wordt nu weergegeven bij het gebruik van de zoomfunctie in de beeldviewer.\nWe hebben de animatie aangepast om natuurlijker te verschijnen bij het verplaatsen van pagina's."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "7.7.8.8 (2024 01 12)\nपाठ दर्शक / छवि दर्शक तर्क समग्रमा सुधार गरिएको छ।\nहामीले छवि दर्शकमा वास्तविक समयमा क्यारेक्टरहरू चिन्न सक्यौं र तिनीहरूलाई tts को रूपमा पढ्न।\nTTS पढ्ने स्थान ट्र्याकिंग विकल्प TTS सेटिंग्स मा थपियो।\nपुनर्स्थापना बटन अब प्रदर्शित हुँदा छवि दर्शकमा जुम प्रकार्य प्रयोग गर्दा प्रदर्शित हुन्छ।\nहामीले पृष्ठ चल्नको लागि अधिक स्वाभाविक रूपमा देखा पर्न एनिमेसनलाई परिमार्जन गरेका छौं।"
+    "devnote": "7.7.9 (2024 01 12)\nपाठ दर्शक / छवि दर्शक तर्क समग्रमा सुधार गरिएको छ।\nहामीले छवि दर्शकमा वास्तविक समयमा क्यारेक्टरहरू चिन्न सक्यौं र तिनीहरूलाई tts को रूपमा पढ्न।\nTTS पढ्ने स्थान ट्र्याकिंग विकल्प TTS सेटिंग्स मा थपियो।\nपुनर्स्थापना बटन अब प्रदर्शित हुँदा छवि दर्शकमा जुम प्रकार्य प्रयोग गर्दा प्रदर्शित हुन्छ।\nहामीले पृष्ठ चल्नको लागि अधिक स्वाभाविक रूपमा देखा पर्न एनिमेसनलाई परिमार्जन गरेका छौं।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.7.8 (2024 01 12)\nText Viewer/Image Viewer Logic har blitt forbedret totalt sett.\nVi har lagt til en funksjon for å gjenkjenne tegn i sanntid i bildeviseren og lest dem som TTS.\nEt TTS -alternativ for å lese stedssporingsalternativ er lagt til TTS -innstillinger.\nGjenopprettingsknappen vises nå når du bruker zoomfunksjonen i bildeviseren.\nVi har endret animasjonen for å vises mer naturlig når vi beveger sider."
+    "devnote": "7.7.9 (2024 01 12)\nText Viewer/Image Viewer Logic har blitt forbedret totalt sett.\nVi har lagt til en funksjon for å gjenkjenne tegn i sanntid i bildeviseren og lest dem som TTS.\nEt TTS -alternativ for å lese stedssporingsalternativ er lagt til TTS -innstillinger.\nGjenopprettingsknappen vises nå når du bruker zoomfunksjonen i bildeviseren.\nVi har endret animasjonen for å vises mer naturlig når vi beveger sider."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.7.8 (2024 01 12)\nTekstfremviser/billedvisningslogik er generelt blevet forbedret.\nVi har tilføjet en funktion til at genkende karakterer i realtid i billedviseren og læse dem som TTS.\nEn TTS -læsningssporingsporingsmulighed er føjet til TTS -indstillinger.\nGendannelsesknappen vises nu, når du bruger zoomfunktionen i billedviseren.\nVi har ændret animationen for at se mere naturligt ud, når vi flytter sider."
+    "devnote": "7.7.9 (2024 01 12)\nTekstfremviser/billedvisningslogik er generelt blevet forbedret.\nVi har tilføjet en funktion til at genkende karakterer i realtid i billedviseren og læse dem som TTS.\nEn TTS -læsningssporingsporingsmulighed er føjet til TTS -indstillinger.\nGendannelsesknappen vises nu, når du bruger zoomfunktionen i billedviseren.\nVi har ændret animationen for at se mere naturligt ud, når vi flytter sider."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.7.8 (2024 01 12)\nDie Logik des Textviewers/Image Viewer wurde insgesamt verbessert.\nWir haben eine Funktion hinzugefügt, um Zeichen in Echtzeit im Image Viewer zu erkennen und sie als TTS zu lesen.\nEine TTS -Leserort -Tracking -Option wurde zu TTS -Einstellungen hinzugefügt.\nDie Schaltfläche \"Wiederherstellung\" wird nun angezeigt, wenn die Zoomfunktion im Image Viewer verwendet wird.\nWir haben die Animation so geändert, dass sie beim Bewegen von Seiten natürlicher erscheint."
+    "devnote": "7.7.9 (2024 01 12)\nDie Logik des Textviewers/Image Viewer wurde insgesamt verbessert.\nWir haben eine Funktion hinzugefügt, um Zeichen in Echtzeit im Image Viewer zu erkennen und sie als TTS zu lesen.\nEine TTS -Leserort -Tracking -Option wurde zu TTS -Einstellungen hinzugefügt.\nDie Schaltfläche \"Wiederherstellung\" wird nun angezeigt, wenn die Zoomfunktion im Image Viewer verwendet wird.\nWir haben die Animation so geändert, dass sie beim Bewegen von Seiten natürlicher erscheint."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.7.8 (2024 01 12)\nຜູ້ເບິ່ງຕົວຫນັງສື / ເຫດຜົນຂອງຜູ້ເບິ່ງແຍງຮູບພາບໄດ້ຮັບການປັບປຸງໂດຍລວມແລ້ວ.\nພວກເຮົາໄດ້ເພີ່ມຟັງຊັນເພື່ອຮັບຮູ້ຕົວລະຄອນໃນເວລາຈິງໃນ Viewer ຮູບພາບແລະອ່ານພວກມັນເປັນ TTS.\nຕົວເລືອກການຕິດຕາມສະຖານທີ່ຂອງ TTS ໄດ້ຖືກເພີ່ມເຂົ້າໃນການຕັ້ງຄ່າ TTS.\nປຸ່ມ Restore ແມ່ນຖືກສະແດງໃນເວລາທີ່ໃຊ້ຟັງຊັນ Zoom ໃນ Viewer ຮູບພາບ.\nພວກເຮົາໄດ້ດັດແປງພາບເຄື່ອນໄຫວທີ່ຈະປາກົດຂຶ້ນຕາມທໍາມະຊາດເມື່ອເຄື່ອນຍ້າຍຫນ້າຕ່າງໆ."
+    "devnote": "7.7.9 (2024 01 12)\nຜູ້ເບິ່ງຕົວຫນັງສື / ເຫດຜົນຂອງຜູ້ເບິ່ງແຍງຮູບພາບໄດ້ຮັບການປັບປຸງໂດຍລວມແລ້ວ.\nພວກເຮົາໄດ້ເພີ່ມຟັງຊັນເພື່ອຮັບຮູ້ຕົວລະຄອນໃນເວລາຈິງໃນ Viewer ຮູບພາບແລະອ່ານພວກມັນເປັນ TTS.\nຕົວເລືອກການຕິດຕາມສະຖານທີ່ຂອງ TTS ໄດ້ຖືກເພີ່ມເຂົ້າໃນການຕັ້ງຄ່າ TTS.\nປຸ່ມ Restore ແມ່ນຖືກສະແດງໃນເວລາທີ່ໃຊ້ຟັງຊັນ Zoom ໃນ Viewer ຮູບພາບ.\nພວກເຮົາໄດ້ດັດແປງພາບເຄື່ອນໄຫວທີ່ຈະປາກົດຂຶ້ນຕາມທໍາມະຊາດເມື່ອເຄື່ອນຍ້າຍຫນ້າຕ່າງໆ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.7.8 (2024 01 12)\nTeksta skatītāja/attēlu skatītāja loģika kopumā ir uzlabota.\nMēs esam pievienojuši funkciju rakstzīmju atpazīšanai reālā laikā attēla skatītājā un lasījuši tās kā TTS.\nTTS iestatījumiem ir pievienota TTS lasīšanas atrašanās vietas izsekošanas opcija.\nAtjaunošanas poga tagad tiek parādīta, izmantojot tālummaiņas funkciju attēla skatītājā.\nMēs esam modificējuši animāciju, lai parādītos dabiskāk, pārvietojot lapas."
+    "devnote": "7.7.9 (2024 01 12)\nTeksta skatītāja/attēlu skatītāja loģika kopumā ir uzlabota.\nMēs esam pievienojuši funkciju rakstzīmju atpazīšanai reālā laikā attēla skatītājā un lasījuši tās kā TTS.\nTTS iestatījumiem ir pievienota TTS lasīšanas atrašanās vietas izsekošanas opcija.\nAtjaunošanas poga tagad tiek parādīta, izmantojot tālummaiņas funkciju attēla skatītājā.\nMēs esam modificējuši animāciju, lai parādītos dabiskāk, pārvietojot lapas."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.7.8 (2024 01 12)\nЛогика просмотра текста/просмотра изображений в целом улучшилась.\nМы добавили функцию для распознавания символов в режиме реального времени в просмотре изображений и прочитали их как TTS.\nВ настройках TTS была добавлена ​​опция отслеживания местоположения для чтения TTS.\nКнопка восстановления теперь отображается при использовании функции Zoom в просмотре изображения.\nМы изменили анимацию, чтобы появиться более естественно при перемещении страниц."
+    "devnote": "7.7.9 (2024 01 12)\nЛогика просмотра текста/просмотра изображений в целом улучшилась.\nМы добавили функцию для распознавания символов в режиме реального времени в просмотре изображений и прочитали их как TTS.\nВ настройках TTS была добавлена ​​опция отслеживания местоположения для чтения TTS.\nКнопка восстановления теперь отображается при использовании функции Zoom в просмотре изображения.\nМы изменили анимацию, чтобы появиться более естественно при перемещении страниц."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.7.8 (2024 01 12)\nLogica vizualizatorului de text/imaginea vizualizatorului a fost îmbunătățită în general.\nAm adăugat o funcție pentru a recunoaște caracterele în timp real în vizualizatorul de imagini și pentru a le citi ca TTS.\nO opțiune de urmărire a locației de citire TTS a fost adăugată la setările TTS.\nButonul de restaurare este acum afișat atunci când utilizați funcția Zoom în vizualizatorul de imagini.\nAm modificat animația pentru a apărea mai natural la mutarea paginilor."
+    "devnote": "7.7.9 (2024 01 12)\nLogica vizualizatorului de text/imaginea vizualizatorului a fost îmbunătățită în general.\nAm adăugat o funcție pentru a recunoaște caracterele în timp real în vizualizatorul de imagini și pentru a le citi ca TTS.\nO opțiune de urmărire a locației de citire TTS a fost adăugată la setările TTS.\nButonul de restaurare este acum afișat atunci când utilizați funcția Zoom în vizualizatorul de imagini.\nAm modificat animația pentru a apărea mai natural la mutarea paginilor."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.7.8 (2024 01 12)\nTeksto žiūrovo/vaizdų peržiūros priemonės logika iš esmės buvo patobulinta.\nMes pridėjome funkciją, kad realiu laiku atpažintume simbolius ir perskaičiau juos kaip TTS.\nĮ TTS nustatymus pridedama TTS skaitymo vietos stebėjimo parinktis.\nRestore mygtukas dabar rodomas, kai naudojama „Zoom“ funkcija vaizdo peržiūros priemonėje.\nMes modifikavome animaciją, kad perkeltume puslapius."
+    "devnote": "7.7.9 (2024 01 12)\nTeksto žiūrovo/vaizdų peržiūros priemonės logika iš esmės buvo patobulinta.\nMes pridėjome funkciją, kad realiu laiku atpažintume simbolius ir perskaičiau juos kaip TTS.\nĮ TTS nustatymus pridedama TTS skaitymo vietos stebėjimo parinktis.\nRestore mygtukas dabar rodomas, kai naudojama „Zoom“ funkcija vaizdo peržiūros priemonėje.\nMes modifikavome animaciją, kad perkeltume puslapius."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.7.8 (2024 01 12)\nमजकूर दर्शक/प्रतिमा दर्शक लॉजिक एकंदरीत सुधारित केले गेले आहे.\nआम्ही प्रतिमा दर्शकांमधील रिअल टाइममधील वर्ण ओळखण्यासाठी आणि त्यांना टीटीएस म्हणून वाचण्यासाठी एक कार्य जोडले आहे.\nटीटीएस वाचन स्थान ट्रॅकिंग पर्याय टीटीएस सेटिंग्जमध्ये जोडला गेला आहे.\nप्रतिमा व्ह्यूअरमध्ये झूम फंक्शन वापरताना आता रीस्टोर बटण प्रदर्शित केले आहे.\nपृष्ठे हलविताना आम्ही अधिक नैसर्गिकरित्या दिसण्यासाठी अ‍ॅनिमेशनमध्ये सुधारित केले आहे."
+    "devnote": "7.7.9 (2024 01 12)\nमजकूर दर्शक/प्रतिमा दर्शक लॉजिक एकंदरीत सुधारित केले गेले आहे.\nआम्ही प्रतिमा दर्शकांमधील रिअल टाइममधील वर्ण ओळखण्यासाठी आणि त्यांना टीटीएस म्हणून वाचण्यासाठी एक कार्य जोडले आहे.\nटीटीएस वाचन स्थान ट्रॅकिंग पर्याय टीटीएस सेटिंग्जमध्ये जोडला गेला आहे.\nप्रतिमा व्ह्यूअरमध्ये झूम फंक्शन वापरताना आता रीस्टोर बटण प्रदर्शित केले आहे.\nपृष्ठे हलविताना आम्ही अधिक नैसर्गिकरित्या दिसण्यासाठी अ‍ॅनिमेशनमध्ये सुधारित केले आहे."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.7.8 (2024 01 12)\nЛогиката на прегледувачот на текст/гледачот на слики е во целост подобрена.\nДодадовме функција за да препознаеме знаци во реално време во прегледувачот на слики и да ги прочитаме како ТТС.\nДодадена е опција за следење на локацијата за читање TTS во поставките TTS.\nКопчето за обновување сега е прикажано кога ја користите функцијата за зумирање во прегледувачот на слика.\nНие ја изменивме анимацијата да се појави поприродно кога се движат страници."
+    "devnote": "7.7.9 (2024 01 12)\nЛогиката на прегледувачот на текст/гледачот на слики е во целост подобрена.\nДодадовме функција за да препознаеме знаци во реално време во прегледувачот на слики и да ги прочитаме како ТТС.\nДодадена е опција за следење на локацијата за читање TTS во поставките TTS.\nКопчето за обновување сега е прикажано кога ја користите функцијата за зумирање во прегледувачот на слика.\nНие ја изменивме анимацијата да се појави поприродно кога се движат страници."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.7.8 (2024 01 12)\nടെക്സ്റ്റ് വ്യൂവർ / ഇമേജ് വ്യൂവർ യുക്തി മൊത്തത്തിൽ മെച്ചപ്പെടുത്തി.\nഇമേജ് വ്യൂവറിലെ തത്സമയം പ്രതീകങ്ങൾ തിരിച്ചറിയാനും അവ വായിക്കാനും ഞങ്ങൾ ഒരു ഫംഗ്ഷൻ ചേർത്തു.\nഒരു ടിടിഎസ് റീഡിംഗ് ലൊക്കേഷൻ ട്രാക്കിംഗ് ഓപ്ഷൻ ടിടിഎസ് ക്രമീകരണങ്ങളിലേക്ക് ചേർത്തു.\nഇമേജ് വ്യൂവറിലെ സൂം ഫംഗ്ഷൻ ഉപയോഗിക്കുമ്പോൾ പുന restore സ്ഥാപിക്കൽ ബട്ടൺ ഇപ്പോൾ പ്രദർശിപ്പിക്കും.\nപേജുകൾ നീക്കുമ്പോൾ ഞങ്ങൾ ആനിമേഷൻ കൂടുതൽ സ്വാഭാവികമായി പരിഷ്ക്കരിച്ചു."
+    "devnote": "7.7.9 (2024 01 12)\nടെക്സ്റ്റ് വ്യൂവർ / ഇമേജ് വ്യൂവർ യുക്തി മൊത്തത്തിൽ മെച്ചപ്പെടുത്തി.\nഇമേജ് വ്യൂവറിലെ തത്സമയം പ്രതീകങ്ങൾ തിരിച്ചറിയാനും അവ വായിക്കാനും ഞങ്ങൾ ഒരു ഫംഗ്ഷൻ ചേർത്തു.\nഒരു ടിടിഎസ് റീഡിംഗ് ലൊക്കേഷൻ ട്രാക്കിംഗ് ഓപ്ഷൻ ടിടിഎസ് ക്രമീകരണങ്ങളിലേക്ക് ചേർത്തു.\nഇമേജ് വ്യൂവറിലെ സൂം ഫംഗ്ഷൻ ഉപയോഗിക്കുമ്പോൾ പുന restore സ്ഥാപിക്കൽ ബട്ടൺ ഇപ്പോൾ പ്രദർശിപ്പിക്കും.\nപേജുകൾ നീക്കുമ്പോൾ ഞങ്ങൾ ആനിമേഷൻ കൂടുതൽ സ്വാഭാവികമായി പരിഷ്ക്കരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.7.8 (2024 01 12)\nLogik penonton/imej penonton teks telah meningkat secara keseluruhan.\nKami telah menambah fungsi untuk mengenali watak -watak dalam masa nyata dalam penonton imej dan membacanya sebagai TTS.\nPilihan penjejakan lokasi membaca TTS telah ditambah ke tetapan TTS.\nButang pemulihan kini dipaparkan apabila menggunakan fungsi zum dalam penonton imej.\nKami telah mengubahsuai animasi untuk kelihatan lebih semulajadi apabila bergerak halaman."
+    "devnote": "7.7.9 (2024 01 12)\nLogik penonton/imej penonton teks telah meningkat secara keseluruhan.\nKami telah menambah fungsi untuk mengenali watak -watak dalam masa nyata dalam penonton imej dan membacanya sebagai TTS.\nPilihan penjejakan lokasi membaca TTS telah ditambah ke tetapan TTS.\nButang pemulihan kini dipaparkan apabila menggunakan fungsi zum dalam penonton imej.\nKami telah mengubahsuai animasi untuk kelihatan lebih semulajadi apabila bergerak halaman."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.7.8.8 (2024 01 01 12)\nТекст үзэгч / зургийн үзэгчийн логик нь нийт сайжирсан байна.\nБид зураг үзэгчдэд бодит цаг хугацаандаа жинхэнэ цагийг хүлээн зөвшөөрч, тэдгээрийг TTS гэж уншсан.\nTTS унших байршлын байршлыг хянах сонголтыг TTS тохиргоонд нэмэв.\nЗураг харахад ZOOME функцийг ашиглан RESTORE товчийг одоо харуулав.\nХөдөлж буй хуудсуудыг наахад бид анимейшнийг илүү байгалийн гаралтай гарч ирэв."
+    "devnote": "7.7.9.8 (2024 01 01 12)\nТекст үзэгч / зургийн үзэгчийн логик нь нийт сайжирсан байна.\nБид зураг үзэгчдэд бодит цаг хугацаандаа жинхэнэ цагийг хүлээн зөвшөөрч, тэдгээрийг TTS гэж уншсан.\nTTS унших байршлын байршлыг хянах сонголтыг TTS тохиргоонд нэмэв.\nЗураг харахад ZOOME функцийг ашиглан RESTORE товчийг одоо харуулав.\nХөдөлж буй хуудсуудыг наахад бид анимейшнийг илүү байгалийн гаралтай гарч ирэв."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.7.8 (2024 01 12)\nTestu ikuslea / irudiaren ikuslearen logika hobetu da orokorrean.\nIrudiaren ikuslearen denbora errealean karaktereak aitortzeko eta TTS gisa irakurtzeko funtzioa gehitu dugu.\nTTS irakurtzeko kokapenaren jarraipen aukera gehitu da TTS ezarpenetan.\nBerreskuratzeko botoia irudiaren ikuslearen zoom funtzioa erabiltzerakoan bistaratzen da.\nOrrialdeak mugitzerakoan modu naturalean modu naturalean agertzeko aldatu dugu."
+    "devnote": "7.7.9 (2024 01 12)\nTestu ikuslea / irudiaren ikuslearen logika hobetu da orokorrean.\nIrudiaren ikuslearen denbora errealean karaktereak aitortzeko eta TTS gisa irakurtzeko funtzioa gehitu dugu.\nTTS irakurtzeko kokapenaren jarraipen aukera gehitu da TTS ezarpenetan.\nBerreskuratzeko botoia irudiaren ikuslearen zoom funtzioa erabiltzerakoan bistaratzen da.\nOrrialdeak mugitzerakoan modu naturalean modu naturalean agertzeko aldatu dugu."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.7.8 (2024 01 12)\nစာသားကြည့်ရှုသူ / ရုပ်ပုံကြည့်ရှုသူ၏ယုတ္တိဗေဒတိုးတက်လာသည်။\nပုံရိပ်ကြည့်ရှုသူတစ် ဦး အားအချိန်နှင့်တပြေးညီအက္ခရာများကိုအသိအမှတ်ပြုရန်နှင့် TTS အဖြစ်ဖတ်ရန် function တစ်ခုကိုကျွန်ုပ်တို့ထည့်သွင်းထားသည်။\nTTS Settings တွင် TTS ကိုဖတ်ရှုခြင်းအတွက် TTS ကိုဖတ်ရှုခြင်း။\nimage viewer တွင် zoom function ကိုအသုံးပြုသည့်အခါ Restore ခလုတ်ကိုယခုပြသနေသည်။\nစာမျက်နှာများကိုရွေ့လျားသည့်အခါ ပို. သဘာဝအတိုင်းပေါ်လာစေရန်ကာတွန်းကိုကျွန်ုပ်တို့ပြုပြင်ထားသည်။"
+    "devnote": "7.7.9 (2024 01 12)\nစာသားကြည့်ရှုသူ / ရုပ်ပုံကြည့်ရှုသူ၏ယုတ္တိဗေဒတိုးတက်လာသည်။\nပုံရိပ်ကြည့်ရှုသူတစ် ဦး အားအချိန်နှင့်တပြေးညီအက္ခရာများကိုအသိအမှတ်ပြုရန်နှင့် TTS အဖြစ်ဖတ်ရန် function တစ်ခုကိုကျွန်ုပ်တို့ထည့်သွင်းထားသည်။\nTTS Settings တွင် TTS ကိုဖတ်ရှုခြင်းအတွက် TTS ကိုဖတ်ရှုခြင်း။\nimage viewer တွင် zoom function ကိုအသုံးပြုသည့်အခါ Restore ခလုတ်ကိုယခုပြသနေသည်။\nစာမျက်နှာများကိုရွေ့လျားသည့်အခါ ပို. သဘာဝအတိုင်းပေါ်လာစေရန်ကာတွန်းကိုကျွန်ုပ်တို့ပြုပြင်ထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.7.8 (2024 01 12)\nLogic Trình xem văn bản/Người xem hình ảnh đã được cải thiện tổng thể.\nChúng tôi đã thêm một chức năng để nhận ra các ký tự trong thời gian thực trong trình xem hình ảnh và đọc chúng dưới dạng TTS.\nTùy chọn theo dõi vị trí đọc TTS đã được thêm vào cài đặt TTS.\nNút khôi phục hiện được hiển thị khi sử dụng chức năng thu phóng trong trình xem hình ảnh.\nChúng tôi đã sửa đổi hoạt hình để xuất hiện tự nhiên hơn khi di chuyển các trang."
+    "devnote": "7.7.9 (2024 01 12)\nLogic Trình xem văn bản/Người xem hình ảnh đã được cải thiện tổng thể.\nChúng tôi đã thêm một chức năng để nhận ra các ký tự trong thời gian thực trong trình xem hình ảnh và đọc chúng dưới dạng TTS.\nTùy chọn theo dõi vị trí đọc TTS đã được thêm vào cài đặt TTS.\nNút khôi phục hiện được hiển thị khi sử dụng chức năng thu phóng trong trình xem hình ảnh.\nChúng tôi đã sửa đổi hoạt hình để xuất hiện tự nhiên hơn khi di chuyển các trang."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.7.8 (2024 01 12)\nЛагіка прагляду тэксту/прагляду малюнкаў у цэлым палепшылася.\nМы дадалі функцыю, каб распазнаць сімвалы ў рэжыме рэальнага часу ў праглядзе малюнкаў і прачытаць іх як TTS.\nУ параметры TTS дададзены варыянт адсочвання размяшчэння TTS.\nКнопка аднаўлення зараз адлюстроўваецца пры выкарыстанні функцыі павелічэння ў праглядзе малюнкаў.\nМы змянілі анімацыю, каб выглядаць больш натуральна пры перамяшчэнні старонак."
+    "devnote": "7.7.9 (2024 01 12)\nЛагіка прагляду тэксту/прагляду малюнкаў у цэлым палепшылася.\nМы дадалі функцыю, каб распазнаць сімвалы ў рэжыме рэальнага часу ў праглядзе малюнкаў і прачытаць іх як TTS.\nУ параметры TTS дададзены варыянт адсочвання размяшчэння TTS.\nКнопка аднаўлення зараз адлюстроўваецца пры выкарыстанні функцыі павелічэння ў праглядзе малюнкаў.\nМы змянілі анімацыю, каб выглядаць больш натуральна пры перамяшчэнні старонак."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.7.8 (2024 01 12)\nপাঠ্য দর্শক/চিত্র দর্শকের যুক্তি সামগ্রিকভাবে উন্নত করা হয়েছে।\nআমরা চিত্র দর্শকের রিয়েল টাইমে অক্ষরগুলি সনাক্ত করতে এবং সেগুলি টিটিএস হিসাবে পড়তে একটি ফাংশন যুক্ত করেছি।\nটিটিএস সেটিংসে একটি টিটিএস রিডিং লোকেশন ট্র্যাকিং বিকল্প যুক্ত করা হয়েছে।\nচিত্র দর্শকের জুম ফাংশন ব্যবহার করার সময় পুনরুদ্ধার বোতামটি এখন প্রদর্শিত হয়।\nপৃষ্ঠাগুলি সরানোর সময় আমরা আরও প্রাকৃতিকভাবে উপস্থিত হওয়ার জন্য অ্যানিমেশনটি সংশোধন করেছি।"
+    "devnote": "7.7.9 (2024 01 12)\nপাঠ্য দর্শক/চিত্র দর্শকের যুক্তি সামগ্রিকভাবে উন্নত করা হয়েছে।\nআমরা চিত্র দর্শকের রিয়েল টাইমে অক্ষরগুলি সনাক্ত করতে এবং সেগুলি টিটিএস হিসাবে পড়তে একটি ফাংশন যুক্ত করেছি।\nটিটিএস সেটিংসে একটি টিটিএস রিডিং লোকেশন ট্র্যাকিং বিকল্প যুক্ত করা হয়েছে।\nচিত্র দর্শকের জুম ফাংশন ব্যবহার করার সময় পুনরুদ্ধার বোতামটি এখন প্রদর্শিত হয়।\nপৃষ্ঠাগুলি সরানোর সময় আমরা আরও প্রাকৃতিকভাবে উপস্থিত হওয়ার জন্য অ্যানিমেশনটি সংশোধন করেছি।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.7.8 (2024 01 12)\nЛогиката на зрителя на текста/изображението е като цяло подобрена.\nДобавихме функция за разпознаване на герои в реално време в зрителя на изображението и ги прочетохме като TTS.\nОпция за проследяване на местоположението на TTS за четене е добавена към настройките на TTS.\nБутонът за възстановяване вече се показва при използване на функцията за увеличение в зрителя на изображението.\nМодифицирахме анимацията, за да се появи по -естествено при преместване на страници."
+    "devnote": "7.7.9 (2024 01 12)\nЛогиката на зрителя на текста/изображението е като цяло подобрена.\nДобавихме функция за разпознаване на герои в реално време в зрителя на изображението и ги прочетохме като TTS.\nОпция за проследяване на местоположението на TTS за четене е добавена към настройките на TTS.\nБутонът за възстановяване вече се показва при използване на функцията за увеличение в зрителя на изображението.\nМодифицирахме анимацията, за да се появи по -естествено при преместване на страници."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.7.8 (2024 01 12)\nПобољшан је логика прегледача текста / слике са сликама у целини.\nДодали смо функцију да препознамо ликове у реалном времену у приказивању слика и прочитали их као ТТС.\nОпција за праћење за праћење за читање ТТС-а је додата у ТТС подешавања.\nДугме за враћање сада се приказује када користите функцију зумирања у приказивању слика.\nМодификовали смо анимацију да се природније појавимо приликом покретне странице."
+    "devnote": "7.7.9 (2024 01 12)\nПобољшан је логика прегледача текста / слике са сликама у целини.\nДодали смо функцију да препознамо ликове у реалном времену у приказивању слика и прочитали их као ТТС.\nОпција за праћење за праћење за читање ТТС-а је додата у ТТС подешавања.\nДугме за враћање сада се приказује када користите функцију зумирања у приказивању слика.\nМодификовали смо анимацију да се природније појавимо приликом покретне странице."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.7.8 (2024 01 12)\nMantiki ya mtazamaji wa maandishi/picha ya mtazamaji imeboreshwa kwa jumla.\nTumeongeza kazi ya kutambua wahusika katika wakati halisi katika mtazamaji wa picha na kuzisoma kama TTS.\nChaguo la ufuatiliaji wa eneo la TTS limeongezwa kwa mipangilio ya TTS.\nKitufe cha kurejesha sasa kinaonyeshwa wakati wa kutumia kazi ya zoom kwenye mtazamaji wa picha.\nTumerekebisha uhuishaji kuonekana kawaida wakati wa kusonga kurasa."
+    "devnote": "7.7.9 (2024 01 12)\nMantiki ya mtazamaji wa maandishi/picha ya mtazamaji imeboreshwa kwa jumla.\nTumeongeza kazi ya kutambua wahusika katika wakati halisi katika mtazamaji wa picha na kuzisoma kama TTS.\nChaguo la ufuatiliaji wa eneo la TTS limeongezwa kwa mipangilio ya TTS.\nKitufe cha kurejesha sasa kinaonyeshwa wakati wa kutumia kazi ya zoom kwenye mtazamaji wa picha.\nTumerekebisha uhuishaji kuonekana kawaida wakati wa kusonga kurasa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.7.8 (2024 01 12)\nTextvisaren/bildvisarens logik har förbättrats totalt sett.\nVi har lagt till en funktion för att känna igen karaktärer i realtid i bildvisaren och läsa dem som TTS.\nEtt TTS -läsningsplatsspårningsalternativ har lagts till i TTS -inställningar.\nÅterställningsknappen visas nu när du använder zoomfunktionen i bildvisaren.\nVi har modifierat animationen för att visas mer naturligt när vi flyttar sidor."
+    "devnote": "7.7.9 (2024 01 12)\nTextvisaren/bildvisarens logik har förbättrats totalt sett.\nVi har lagt till en funktion för att känna igen karaktärer i realtid i bildvisaren och läsa dem som TTS.\nEtt TTS -läsningsplatsspårningsalternativ har lagts till i TTS -inställningar.\nÅterställningsknappen visas nu när du använder zoomfunktionen i bildvisaren.\nVi har modifierat animationen för att visas mer naturligt när vi flyttar sidor."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.7.8 (2024 01 12)\nLa lógica del visor/visor de imágenes de texto ha mejorado en general.\nHemos agregado una función para reconocer los caracteres en tiempo real en el visor de imágenes y leerlos como TTS.\nSe ha agregado una opción de seguimiento de ubicación de lectura TTS a la configuración de TTS.\nEl botón de restauración ahora se muestra al usar la función Zoom en el visor de imágenes.\nHemos modificado la animación para que aparezca más naturalmente al mover las páginas."
+    "devnote": "7.7.9 (2024 01 12)\nLa lógica del visor/visor de imágenes de texto ha mejorado en general.\nHemos agregado una función para reconocer los caracteres en tiempo real en el visor de imágenes y leerlos como TTS.\nSe ha agregado una opción de seguimiento de ubicación de lectura TTS a la configuración de TTS.\nEl botón de restauración ahora se muestra al usar la función Zoom en el visor de imágenes.\nHemos modificado la animación para que aparezca más naturalmente al mover las páginas."
   },
   "슬로바키아어": {
     "key": "sk",
@@ -125,139 +125,139 @@
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.7.8 (2024 01 12)\nLogika pregledovalca besedila/pregledovalca slik je na splošno izboljšana.\nDodali smo funkcijo za prepoznavanje znakov v realnem času v pregledovalniku slike in jih prebrali kot TTS.\nV nastavitve TTS je dodana možnost sledenja lokacije TTS.\nGumb Restore je zdaj prikazan pri uporabi funkcije Zoom v pregledovalniku slike.\nAnimacijo smo spremenili, da se je pri premikanju strani pojavila bolj naravno."
+    "devnote": "7.7.9 (2024 01 12)\nLogika pregledovalca besedila/pregledovalca slik je na splošno izboljšana.\nDodali smo funkcijo za prepoznavanje znakov v realnem času v pregledovalniku slike in jih prebrali kot TTS.\nV nastavitve TTS je dodana možnost sledenja lokacije TTS.\nGumb Restore je zdaj prikazan pri uporabi funkcije Zoom v pregledovalniku slike.\nAnimacijo smo spremenili, da se je pri premikanju strani pojavila bolj naravno."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.7.8 (2024 01 12)\nපෙළ නරඹන්නා / රූප නරඹන්නා තර්කනය සමස්ත වැඩිදියුණු කර ඇත.\nරූප නරඹන්නාගේ තත්ය කාලීනව අක්ෂර හඳුනා ගැනීමට අපි කාර්යයක් එකතු කර ඇති අතර ඒවා TTS ලෙස කියවන්න.\nTTS කියවීමේ ස්ථාන ලුහුබැඳීමේ විකල්පයක් TTS සැකසුම් වලට එකතු කර ඇත.\nරූප නරඹන්නා තුළ විශාලන ක්රියාකාරිත්වය භාවිතා කරන විට ප්රතිස්ථාපන බොත්තම දැන් ප්රදර්ශනය කෙරේ.\nපිටු චලනය කිරීමේදී වඩාත් ස්වාභාවිකව පෙනී සිටින ලෙස අපි සජීවිකරණය වෙනස් කර ඇත්තෙමු."
+    "devnote": "7.7.9 (2024 01 12)\nපෙළ නරඹන්නා / රූප නරඹන්නා තර්කනය සමස්ත වැඩිදියුණු කර ඇත.\nරූප නරඹන්නාගේ තත්ය කාලීනව අක්ෂර හඳුනා ගැනීමට අපි කාර්යයක් එකතු කර ඇති අතර ඒවා TTS ලෙස කියවන්න.\nTTS කියවීමේ ස්ථාන ලුහුබැඳීමේ විකල්පයක් TTS සැකසුම් වලට එකතු කර ඇත.\nරූප නරඹන්නා තුළ විශාලන ක්රියාකාරිත්වය භාවිතා කරන විට ප්රතිස්ථාපන බොත්තම දැන් ප්රදර්ශනය කෙරේ.\nපිටු චලනය කිරීමේදී වඩාත් ස්වාභාවිකව පෙනී සිටින ලෙස අපි සජීවිකරණය වෙනස් කර ඇත්තෙමු."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.7.8 (2024 01 12)\nتم تحسين منطق عارض النص/عارض الصورة بشكل عام.\nلقد أضفنا وظيفة للتعرف على الأحرف في الوقت الفعلي في عارض الصور وقراءتها على أنها TTS.\nتمت إضافة خيار تتبع موقع القراءة TTS إلى إعدادات TTS.\nيتم الآن عرض زر الاستعادة عند استخدام وظيفة التكبير في عارض الصورة.\nلقد قمنا بتعديل الرسوم المتحركة للظهور بشكل طبيعي عند تحريك الصفحات."
+    "devnote": "7.7.9 (2024 01 12)\nتم تحسين منطق عارض النص/عارض الصورة بشكل عام.\nلقد أضفنا وظيفة للتعرف على الأحرف في الوقت الفعلي في عارض الصور وقراءتها على أنها TTS.\nتمت إضافة خيار تتبع موقع القراءة TTS إلى إعدادات TTS.\nيتم الآن عرض زر الاستعادة عند استخدام وظيفة التكبير في عارض الصورة.\nلقد قمنا بتعديل الرسوم المتحركة للظهور بشكل طبيعي عند تحريك الصفحات."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.7.8 (2024 01 12)\nՏեքստի հեռուստադիտողի / պատկերի դիտողի տրամաբանությունը ընդհանուր բարելավվել է:\nՄենք ավելացրել ենք գործառույթ, կերպարների դիտողի մեջ իրական ժամանակում նիշերը ճանաչելու եւ դրանք որպես TTS կարդացեք:\nTTS Reading- ի գտնվելու վայրի հետեւման տարբերակը ավելացվել է TTS պարամետրերին:\nՎերականգնման կոճակը այժմ ցուցադրվում է Zoom գործառույթը պատկերի դիտում օգտագործելիս:\nՄենք փոփոխել ենք անիմացիան, էջերը տեղափոխելու ժամանակ ավելի բնականաբար հայտնվելու համար:"
+    "devnote": "7.7.9 (2024 01 12)\nՏեքստի հեռուստադիտողի / պատկերի դիտողի տրամաբանությունը ընդհանուր բարելավվել է:\nՄենք ավելացրել ենք գործառույթ, կերպարների դիտողի մեջ իրական ժամանակում նիշերը ճանաչելու եւ դրանք որպես TTS կարդացեք:\nTTS Reading- ի գտնվելու վայրի հետեւման տարբերակը ավելացվել է TTS պարամետրերին:\nՎերականգնման կոճակը այժմ ցուցադրվում է Zoom գործառույթը պատկերի դիտում օգտագործելիս:\nՄենք փոփոխել ենք անիմացիան, էջերը տեղափոխելու ժամանակ ավելի բնականաբար հայտնվելու համար:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.7.8 (2024 01 12)\nTextaskoðari/myndáhorfandi hefur verið bætt í heildina.\nVið höfum bætt við aðgerð til að þekkja stafi í rauntíma í mynd áhorfandans og lesa þær sem TTS.\nA TTS Reading Location Tracking valkostur hefur verið bætt við TTS stillingar.\nEndurheimtahnappurinn birtist nú þegar aðdráttaraðgerðin er notuð í mynd áhorfandans.\nVið höfum breytt hreyfimyndinni til að birtast náttúrulega þegar þú flytur síður."
+    "devnote": "7.7.9 (2024 01 12)\nTextaskoðari/myndáhorfandi hefur verið bætt í heildina.\nVið höfum bætt við aðgerð til að þekkja stafi í rauntíma í mynd áhorfandans og lesa þær sem TTS.\nA TTS Reading Location Tracking valkostur hefur verið bætt við TTS stillingar.\nEndurheimtahnappurinn birtist nú þegar aðdráttaraðgerðin er notuð í mynd áhorfandans.\nVið höfum breytt hreyfimyndinni til að birtast náttúrulega þegar þú flytur síður."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.7.8 (2024 01 12)\nMətn görüntüleyicisi / Şəkil görüntüleyicisi məntiqi ümumi inkişaf etmişdir.\nŞəkil görüntüleyicisində real vaxtdakı simvolları tanımaq və onları TTS kimi oxuya bilmək üçün bir funksiya əlavə etdik.\nTTS Parametrlərinə Yer İzləmə Variantını oxuyan TTS oxuyan bir tts əlavə edildi.\nBərpa düyməsinə görüntü görüntüleyicisində böyütmə funksiyasından istifadə edərkən artıq göstərilir.\nSəhifələr hərəkət edərkən daha təbii görünmək üçün animasiyanı dəyişdirdik."
+    "devnote": "7.7.9 (2024 01 12)\nMətn görüntüleyicisi / Şəkil görüntüleyicisi məntiqi ümumi inkişaf etmişdir.\nŞəkil görüntüleyicisində real vaxtdakı simvolları tanımaq və onları TTS kimi oxuya bilmək üçün bir funksiya əlavə etdik.\nTTS Parametrlərinə Yer İzləmə Variantını oxuyan TTS oxuyan bir tts əlavə edildi.\nBərpa düyməsinə görüntü görüntüleyicisində böyütmə funksiyasından istifadə edərkən artıq göstərilir.\nSəhifələr hərəkət edərkən daha təbii görünmək üçün animasiyanı dəyişdirdik."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.7.8 (2024 01 12)\nDie teksviewer/Image Viewer -logika is in die algemeen verbeter.\nOns het 'n funksie bygevoeg om karakters in reële tyd in die Image Viewer te herken en dit as TTS te lees.\n'N TTS -leesplekopsporingsopsie is by TTS -instellings gevoeg.\nDie herstelknoppie word nou vertoon wanneer die zoomfunksie in die Image Viewer gebruik word.\nOns het die animasie verander om meer natuurlik te verskyn as ons bladsye skuif."
+    "devnote": "7.7.9 (2024 01 12)\nDie teksviewer/Image Viewer -logika is in die algemeen verbeter.\nOns het 'n funksie bygevoeg om karakters in reële tyd in die Image Viewer te herken en dit as TTS te lees.\n'N TTS -leesplekopsporingsopsie is by TTS -instellings gevoeg.\nDie herstelknoppie word nou vertoon wanneer die zoomfunksie in die Image Viewer gebruik word.\nOns het die animasie verander om meer natuurlik te verskyn as ons bladsye skuif."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.7.8 (2024 01 12)\nLogjika e shikuesit të tekstit/logjika e shikuesit të figurës është përmirësuar përgjithësisht.\nNe kemi shtuar një funksion për të njohur personazhet në kohë reale në shikuesin e imazhit dhe t'i lexojmë ato si TT.\nNjë opsion i përcjelljes së vendndodhjes së leximit TTS është shtuar në cilësimet e TTS.\nButoni i rivendosjes tani shfaqet kur përdorni funksionin e zmadhimit në shikuesin e figurës.\nNe kemi modifikuar animacionin që të shfaqet më natyrshëm kur lëvizim faqe."
+    "devnote": "7.7.9 (2024 01 12)\nLogjika e shikuesit të tekstit/logjika e shikuesit të figurës është përmirësuar përgjithësisht.\nNe kemi shtuar një funksion për të njohur personazhet në kohë reale në shikuesin e imazhit dhe t'i lexojmë ato si TT.\nNjë opsion i përcjelljes së vendndodhjes së leximit TTS është shtuar në cilësimet e TTS.\nButoni i rivendosjes tani shfaqet kur përdorni funksionin e zmadhimit në shikuesin e figurës.\nNe kemi modifikuar animacionin që të shfaqet më natyrshëm kur lëvizim faqe."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.7.8 (2024 01 12)\nየጽሑፍ መመልከቻ / የምስል መመልከቻ ሎጂክ አጠቃላይ ተሻሽሏል.\nበምስል መመልከቻ ውስጥ በእውነተኛ ሰዓት ውስጥ ቁምፊዎችን ለመለየት ተግባር አክለናል እናም እንደ TTS ያንብቧቸው.\nየ TTS የንባብ አካባቢ መከታተያ አማራጭ ወደ TTS ቅንብሮች ታክሏል.\nየመልሶ ማቋቋም ቁልፍ አሁን በምስል መመልከቻ ውስጥ የጾምን ተግባር በሚጠቀምበት ጊዜ ይታያል.\nገጾችን በሚንቀሳቀሱበት ጊዜ በተፈጥሮአዊ ሁኔታ እነማዎችን ለማመልከት አኒሜሽን ተስተካክተናል."
+    "devnote": "7.7.9 (2024 01 12)\nየጽሑፍ መመልከቻ / የምስል መመልከቻ ሎጂክ አጠቃላይ ተሻሽሏል.\nበምስል መመልከቻ ውስጥ በእውነተኛ ሰዓት ውስጥ ቁምፊዎችን ለመለየት ተግባር አክለናል እናም እንደ TTS ያንብቧቸው.\nየ TTS የንባብ አካባቢ መከታተያ አማራጭ ወደ TTS ቅንብሮች ታክሏል.\nየመልሶ ማቋቋም ቁልፍ አሁን በምስል መመልከቻ ውስጥ የጾምን ተግባር በሚጠቀምበት ጊዜ ይታያል.\nገጾችን በሚንቀሳቀሱበት ጊዜ በተፈጥሮአዊ ሁኔታ እነማዎችን ለማመልከት አኒሜሽን ተስተካክተናል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.7.8 (2024 01 12)\nTekstivaaturi/pildivaaturi loogikat on üldiselt parandatud.\nOleme lisanud funktsiooni, et tuvastada tegelasi reaalajas pildivaaturis ja lugeda neid kui TTS -i.\nTTS -i seadetesse on lisatud TTS -i lugemisvõimaluse jälgimisvalik.\nRestore nuppu kuvatakse nüüd pildivaaturis suumi funktsiooni kasutamisel.\nOleme animatsiooni muutnud lehtede liikumisel loomulikumaks."
+    "devnote": "7.7.9 (2024 01 12)\nTekstivaaturi/pildivaaturi loogikat on üldiselt parandatud.\nOleme lisanud funktsiooni, et tuvastada tegelasi reaalajas pildivaaturis ja lugeda neid kui TTS -i.\nTTS -i seadetesse on lisatud TTS -i lugemisvõimaluse jälgimisvalik.\nRestore nuppu kuvatakse nüüd pildivaaturis suumi funktsiooni kasutamisel.\nOleme animatsiooni muutnud lehtede liikumisel loomulikumaks."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.7.8 (2024 01 12)\nٹیکسٹ ناظر/تصویری ناظرین کی منطق کو مجموعی طور پر بہتر بنایا گیا ہے۔\nہم نے تصویری ناظرین میں حقیقی وقت میں کرداروں کو پہچاننے اور انہیں ٹی ٹی ایس کے بطور پڑھنے کے لئے ایک فنکشن شامل کیا ہے۔\nٹی ٹی ایس کی ترتیبات میں ٹی ٹی ایس پڑھنے کے مقام سے باخبر رہنے کا آپشن شامل کیا گیا ہے۔\nتصویری ناظر میں زوم فنکشن کا استعمال کرتے وقت بحالی کا بٹن اب ظاہر ہوتا ہے۔\nصفحات کو منتقل کرتے وقت ہم نے قدرتی طور پر ظاہر ہونے کے لئے حرکت پذیری میں ترمیم کی ہے۔"
+    "devnote": "7.7.9 (2024 01 12)\nٹیکسٹ ناظر/تصویری ناظرین کی منطق کو مجموعی طور پر بہتر بنایا گیا ہے۔\nہم نے تصویری ناظرین میں حقیقی وقت میں کرداروں کو پہچاننے اور انہیں ٹی ٹی ایس کے بطور پڑھنے کے لئے ایک فنکشن شامل کیا ہے۔\nٹی ٹی ایس کی ترتیبات میں ٹی ٹی ایس پڑھنے کے مقام سے باخبر رہنے کا آپشن شامل کیا گیا ہے۔\nتصویری ناظر میں زوم فنکشن کا استعمال کرتے وقت بحالی کا بٹن اب ظاہر ہوتا ہے۔\nصفحات کو منتقل کرتے وقت ہم نے قدرتی طور پر ظاہر ہونے کے لئے حرکت پذیری میں ترمیم کی ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.7.8 (2024 01 12)\nЛогіка перегляду тексту/зображення зображень загалом покращилася.\nМи додали функцію для розпізнавання символів у режимі реального часу в переглядачем зображень і читаємо їх як ТТ.\nДо налаштувань TTS додано параметр відстеження місцезнаходження TTS.\nКнопка відновлення тепер відображається при використанні функції Zoom у перегляді зображень.\nМи модифікували анімацію, щоб з’явитися більш природно під час переміщення сторінок."
+    "devnote": "7.7.9 (2024 01 12)\nЛогіка перегляду тексту/зображення зображень загалом покращилася.\nМи додали функцію для розпізнавання символів у режимі реального часу в переглядачем зображень і читаємо їх як ТТ.\nДо налаштувань TTS додано параметр відстеження місцезнаходження TTS.\nКнопка відновлення тепер відображається при використанні функції Zoom у перегляді зображень.\nМи модифікували анімацію, щоб з’явитися більш природно під час переміщення сторінок."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.7.8 (2024 01 12)\nLa logica del visualizzatore di visualizzatore/immagine è stata complessivamente migliorata.\nAbbiamo aggiunto una funzione per riconoscere i caratteri in tempo reale nello spettatore di immagini e leggerli come TTS.\nUn'opzione di localizzazione della posizione di lettura TTS è stata aggiunta alle impostazioni TTS.\nIl pulsante di ripristino viene ora visualizzato quando si utilizza la funzione zoom nel visualizzatore di immagini.\nAbbiamo modificato l'animazione per apparire in modo più naturale quando si muovono le pagine."
+    "devnote": "7.7.9 (2024 01 12)\nLa logica del visualizzatore di visualizzatore/immagine è stata complessivamente migliorata.\nAbbiamo aggiunto una funzione per riconoscere i caratteri in tempo reale nello spettatore di immagini e leggerli come TTS.\nUn'opzione di localizzazione della posizione di lettura TTS è stata aggiunta alle impostazioni TTS.\nIl pulsante di ripristino viene ora visualizzato quando si utilizza la funzione zoom nel visualizzatore di immagini.\nAbbiamo modificato l'animazione per apparire in modo più naturale quando si muovono le pagine."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.7.8 (2024 01 12)\nLogika penampil teks/penampil gambar telah ditingkatkan secara keseluruhan.\nKami telah menambahkan fungsi untuk mengenali karakter secara real time di penampil gambar dan membacanya sebagai TTS.\nOpsi pelacakan lokasi membaca TTS telah ditambahkan ke pengaturan TTS.\nTombol pemulihan sekarang ditampilkan saat menggunakan fungsi zoom di penampil gambar.\nKami telah memodifikasi animasi untuk tampil lebih alami saat memindahkan halaman."
+    "devnote": "7.7.9 (2024 01 12)\nLogika penampil teks/penampil gambar telah ditingkatkan secara keseluruhan.\nKami telah menambahkan fungsi untuk mengenali karakter secara real time di penampil gambar dan membacanya sebagai TTS.\nOpsi pelacakan lokasi membaca TTS telah ditambahkan ke pengaturan TTS.\nTombol pemulihan sekarang ditampilkan saat menggunakan fungsi zoom di penampil gambar.\nKami telah memodifikasi animasi untuk tampil lebih alami saat memindahkan halaman."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.7.8（2024 01 12）\nテキストビューアー/画像ビューアのロジックは全体的に改善されています。\n画像ビューアーでキャラクターをリアルタイムで認識し、TTSとして読み取る関数を追加しました。\nTTSの読み取りロケーション追跡オプションがTTS設定に追加されました。\n画像ビューアーのズーム関数を使用すると、復元ボタンが表示されます。\n移動するページを移動するときに、より自然に表示されるようにアニメーションを変更しました。"
+    "devnote": "7.7.9（2024 01 12）\nテキストビューアー/画像ビューアのロジックは全体的に改善されています。\n画像ビューアーでキャラクターをリアルタイムで認識し、TTSとして読み取る関数を追加しました。\nTTSの読み取りロケーション追跡オプションがTTS設定に追加されました。\n画像ビューアーのズーム関数を使用すると、復元ボタンが表示されます。\n移動するページを移動するときに、より自然に表示されるようにアニメーションを変更しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.7.8 (2024 01 12)\nტექსტის სანახავი/გამოსახულების სანახავი ლოგიკა მთლიანობაში გაუმჯობესდა.\nჩვენ დავამატეთ ფუნქცია, რომ რეალურ დროში სიმბოლოების აღიარებას გამოსახულების სანახავად და წაიკითხონ ისინი როგორც TTS.\nTTS კითხვის ადგილმდებარეობის თვალთვალის ვარიანტი დაემატა TTS პარამეტრებს.\nაღდგენის ღილაკი ახლა ნაჩვენებია სურათის სანახავად მასშტაბის ზუმის ფუნქციის გამოყენებისას.\nჩვენ შევცვალეთ ანიმაცია, რომ უფრო ბუნებრივად გამოჩნდეს გვერდების გადაადგილებისას."
+    "devnote": "7.7.9 (2024 01 12)\nტექსტის სანახავი/გამოსახულების სანახავი ლოგიკა მთლიანობაში გაუმჯობესდა.\nჩვენ დავამატეთ ფუნქცია, რომ რეალურ დროში სიმბოლოების აღიარებას გამოსახულების სანახავად და წაიკითხონ ისინი როგორც TTS.\nTTS კითხვის ადგილმდებარეობის თვალთვალის ვარიანტი დაემატა TTS პარამეტრებს.\nაღდგენის ღილაკი ახლა ნაჩვენებია სურათის სანახავად მასშტაბის ზუმის ფუნქციის გამოყენებისას.\nჩვენ შევცვალეთ ანიმაცია, რომ უფრო ბუნებრივად გამოჩნდეს გვერდების გადაადგილებისას."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.7.8 (2024 01 12)\nIsibukeli sombhalo / Isibukeli Sezithombe se-Logic sesithuthukile.\nSingeze umsebenzi ukubona izinhlamvu ngesikhathi sangempela esithombeni sezithombe futhi sizifunde njengama-TTS.\nInketho yokulandela indawo ye-TTS yokufunda yengezwe kuzilungiselelo ze-TTS.\nInkinobho yokubuyisela manje ikhonjiswa lapho usebenzisa umsebenzi wokusondeza kubukeli bezithombe.\nSiguqule izithombe ukuze zivele ngokwemvelo ngokwengeziwe lapho kuhamba amakhasi."
+    "devnote": "7.7.9 (2024 01 12)\nIsibukeli sombhalo / Isibukeli Sezithombe se-Logic sesithuthukile.\nSingeze umsebenzi ukubona izinhlamvu ngesikhathi sangempela esithombeni sezithombe futhi sizifunde njengama-TTS.\nInketho yokulandela indawo ye-TTS yokufunda yengezwe kuzilungiselelo ze-TTS.\nInkinobho yokubuyisela manje ikhonjiswa lapho usebenzisa umsebenzi wokusondeza kubukeli bezithombe.\nSiguqule izithombe ukuze zivele ngokwemvelo ngokwengeziwe lapho kuhamba amakhasi."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.7.8（2024 01 12）\n文本查看器/图像查看器逻辑总体上得到了改进。\n我们添加了一个函数，可以在图像查看器中实时识别字符，并将其读取为TTS。\nTTS读取位置跟踪选项已添加到TTS设置中。\n现在，在图像查看器中使用Zoom函数时，显示还原按钮。\n我们已经修改了动画，以便在移动页面时更自然地出现。"
+    "devnote": "7.7.9（2024 01 12）\n文本查看器/图像查看器逻辑总体上得到了改进。\n我们添加了一个函数，可以在图像查看器中实时识别字符，并将其读取为TTS。\nTTS读取位置跟踪选项已添加到TTS设置中。\n现在，在图像查看器中使用Zoom函数时，显示还原按钮。\n我们已经修改了动画，以便在移动页面时更自然地出现。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.7.8（2024 01 12）\n文本查看器/圖像查看器邏輯總體上得到了改進。\n我們添加了一個函數，可以在圖像查看器中實時識別字符，並將其讀取為TTS。\nTTS讀取位置跟踪選項已添加到TTS設置中。\n現在，在圖像查看器中使用Zoom函數時，顯示還原按鈕。\n我們已經修改了動畫，以便在移動頁面時更自然地出現。"
+    "devnote": "7.7.9（2024 01 12）\n文本查看器/圖像查看器邏輯總體上得到了改進。\n我們添加了一個函數，可以在圖像查看器中實時識別字符，並將其讀取為TTS。\nTTS讀取位置跟踪選項已添加到TTS設置中。\n現在，在圖像查看器中使用Zoom函數時，顯示還原按鈕。\n我們已經修改了動畫，以便在移動頁面時更自然地出現。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.7.8（2024 01 12）\n文本查看器/圖像查看器邏輯總體上得到了改進。\n我們添加了一個函數，可以在圖像查看器中實時識別字符，並將其讀取為TTS。\nTTS讀取位置跟踪選項已添加到TTS設置中。\n現在，在圖像查看器中使用Zoom函數時，顯示還原按鈕。\n我們已經修改了動畫，以便在移動頁面時更自然地出現。"
+    "devnote": "7.7.9（2024 01 12）\n文本查看器/圖像查看器邏輯總體上得到了改進。\n我們添加了一個函數，可以在圖像查看器中實時識別字符，並將其讀取為TTS。\nTTS讀取位置跟踪選項已添加到TTS設置中。\n現在，在圖像查看器中使用Zoom函數時，顯示還原按鈕。\n我們已經修改了動畫，以便在移動頁面時更自然地出現。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.7.8 (2024 01 12)\nLogika prohlížeče textu/prohlížeče obrázků se celkově zlepšila.\nPřidali jsme funkci pro rozpoznávání znaků v reálném čase v prohlížeči obrázků a přečteny je jako TTS.\nDo nastavení TTS byla přidána možnost sledování místa pro čtení TTS.\nTlačítko Restore se nyní zobrazí při použití funkce zoomu v prohlížeči obrázku.\nPři přesunu stránek jsme upravili animaci, aby se objevila přirozeněji."
+    "devnote": "7.7.9 (2024 01 12)\nLogika prohlížeče textu/prohlížeče obrázků se celkově zlepšila.\nPřidali jsme funkci pro rozpoznávání znaků v reálném čase v prohlížeči obrázků a přečteny je jako TTS.\nDo nastavení TTS byla přidána možnost sledování místa pro čtení TTS.\nTlačítko Restore se nyní zobrazí při použití funkce zoomu v prohlížeči obrázku.\nPři přesunu stránek jsme upravili animaci, aby se objevila přirozeněji."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.7.8 (2024 01 12)\nМәтінді қарау құралы / кескін қарауының логикасы жалпы жақсарды.\nБіз белгілі бір уақытта кескінді қарау құралында таңбаларды тану үшін функцияны қостық және оларды TTS ретінде оқыңыз.\nTTS оқу орнын бақылау опциясы TTS параметрлеріне қосылды.\nҚалпына келтіру түймесі Кескін қарау құралында ZOOM функциясын пайдалану кезінде көрсетіледі.\nБеттерді жылжытқан кезде анимацияны табиғи түрде пайда болу үшін өзгертеміз."
+    "devnote": "7.7.9 (2024 01 12)\nМәтінді қарау құралы / кескін қарауының логикасы жалпы жақсарды.\nБіз белгілі бір уақытта кескінді қарау құралында таңбаларды тану үшін функцияны қостық және оларды TTS ретінде оқыңыз.\nTTS оқу орнын бақылау опциясы TTS параметрлеріне қосылды.\nҚалпына келтіру түймесі Кескін қарау құралында ZOOM функциясын пайдалану кезінде көрсетіледі.\nБеттерді жылжытқан кезде анимацияны табиғи түрде пайда болу үшін өзгертеміз."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.7.8 (2024 01 12)\nLa lògica del visualitzador de text/visualitzador d’imatges s’ha millorat en general.\nHem afegit una funció per reconèixer els personatges en temps real al visualitzador d’imatges i els hem llegit com a TTS.\nS'ha afegit una opció de seguiment de la ubicació de lectura TTS a la configuració TTS.\nEl botó de restauració es mostra ara quan s'utilitza la funció de zoom al visualitzador d'imatges.\nHem modificat l’animació per aparèixer de manera més natural quan es mou les pàgines."
+    "devnote": "7.7.9 (2024 01 12)\nLa lògica del visualitzador de text/visualitzador d’imatges s’ha millorat en general.\nHem afegit una funció per reconèixer els personatges en temps real al visualitzador d’imatges i els hem llegit com a TTS.\nS'ha afegit una opció de seguiment de la ubicació de lectura TTS a la configuració TTS.\nEl botó de restauració es mostra ara quan s'utilitza la funció de zoom al visualitzador d'imatges.\nHem modificat l’animació per aparèixer de manera més natural quan es mou les pàgines."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.7.8 (2024 01 12)\nಪಠ್ಯ ವೀಕ್ಷಕ/ಇಮೇಜ್ ವೀಕ್ಷಕ ತರ್ಕವನ್ನು ಒಟ್ಟಾರೆ ಸುಧಾರಿಸಲಾಗಿದೆ.\nಇಮೇಜ್ ವೀಕ್ಷಕದಲ್ಲಿ ನೈಜ ಸಮಯದಲ್ಲಿ ಅಕ್ಷರಗಳನ್ನು ಗುರುತಿಸಲು ಮತ್ತು ಅವುಗಳನ್ನು ಟಿಟಿಎಸ್ ಎಂದು ಓದಲು ನಾವು ಒಂದು ಕಾರ್ಯವನ್ನು ಸೇರಿಸಿದ್ದೇವೆ.\nಟಿಟಿಎಸ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಟಿಟಿಎಸ್ ಓದುವ ಸ್ಥಳ ಟ್ರ್ಯಾಕಿಂಗ್ ಆಯ್ಕೆಯನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\nಇಮೇಜ್ ವೀಕ್ಷಕದಲ್ಲಿ ಜೂಮ್ ಕಾರ್ಯವನ್ನು ಬಳಸುವಾಗ ಮರುಸ್ಥಾಪನೆ ಬಟನ್ ಅನ್ನು ಈಗ ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ.\nಪುಟಗಳನ್ನು ಚಲಿಸುವಾಗ ನಾವು ಅನಿಮೇಷನ್ ಅನ್ನು ಹೆಚ್ಚು ಸ್ವಾಭಾವಿಕವಾಗಿ ಕಾಣುವಂತೆ ಮಾರ್ಪಡಿಸಿದ್ದೇವೆ."
+    "devnote": "7.7.9 (2024 01 12)\nಪಠ್ಯ ವೀಕ್ಷಕ/ಇಮೇಜ್ ವೀಕ್ಷಕ ತರ್ಕವನ್ನು ಒಟ್ಟಾರೆ ಸುಧಾರಿಸಲಾಗಿದೆ.\nಇಮೇಜ್ ವೀಕ್ಷಕದಲ್ಲಿ ನೈಜ ಸಮಯದಲ್ಲಿ ಅಕ್ಷರಗಳನ್ನು ಗುರುತಿಸಲು ಮತ್ತು ಅವುಗಳನ್ನು ಟಿಟಿಎಸ್ ಎಂದು ಓದಲು ನಾವು ಒಂದು ಕಾರ್ಯವನ್ನು ಸೇರಿಸಿದ್ದೇವೆ.\nಟಿಟಿಎಸ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಟಿಟಿಎಸ್ ಓದುವ ಸ್ಥಳ ಟ್ರ್ಯಾಕಿಂಗ್ ಆಯ್ಕೆಯನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\nಇಮೇಜ್ ವೀಕ್ಷಕದಲ್ಲಿ ಜೂಮ್ ಕಾರ್ಯವನ್ನು ಬಳಸುವಾಗ ಮರುಸ್ಥಾಪನೆ ಬಟನ್ ಅನ್ನು ಈಗ ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ.\nಪುಟಗಳನ್ನು ಚಲಿಸುವಾಗ ನಾವು ಅನಿಮೇಷನ್ ಅನ್ನು ಹೆಚ್ಚು ಸ್ವಾಭಾವಿಕವಾಗಿ ಕಾಣುವಂತೆ ಮಾರ್ಪಡಿಸಿದ್ದೇವೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.7.8 (2024. 01 12)\nLogika gledatelja teksta/gledatelja slike sve je u cjelini poboljšana.\nDodali smo funkciju za prepoznavanje znakova u stvarnom vremenu u prikazu slike i čitali ih kao TTS.\nOpcija praćenja lokacije TTS -a dodana je u postavke TTS -a.\nGumb za vraćanje sada se prikazuje kada se koristi funkcija zumiranja u prikazu slike.\nIzmijenili smo animaciju da se pojavi prirodnije prilikom kretanja stranica."
+    "devnote": "7.7.9 (2024. 01 12)\nLogika gledatelja teksta/gledatelja slike sve je u cjelini poboljšana.\nDodali smo funkciju za prepoznavanje znakova u stvarnom vremenu u prikazu slike i čitali ih kao TTS.\nOpcija praćenja lokacije TTS -a dodana je u postavke TTS -a.\nGumb za vraćanje sada se prikazuje kada se koristi funkcija zumiranja u prikazu slike.\nIzmijenili smo animaciju da se pojavi prirodnije prilikom kretanja stranica."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.7.8 (2024 01 12)\nតក្កវិជ្ជារបស់អ្នកមើលអត្ថបទត្រូវបានកែលម្អជាទូទៅ។\nយើងបានបន្ថែមមុខងារមួយដើម្បីស្គាល់តួអក្សរនៅក្នុងពេលវេលាជាក់ស្តែងនៅក្នុងកម្មវិធីមើលរូបភាពហើយអានវាជា TTS ។\nជម្រើសនៃការអានទីតាំង TTS ត្រូវបានបន្ថែមទៅការកំណត់ TTS ។\nប៊ូតុងស្តារឥឡូវត្រូវបានបង្ហាញនៅពេលប្រើមុខងារពង្រីកក្នុងកម្មវិធីមើលរូបភាព។\nយើងបានកែប្រែគំនូរជីវចលដែលលេចចេញមកដោយធម្មជាតិនៅពេលដែលទំព័រផ្លាស់ប្តូរ។"
+    "devnote": "7.7.9 (2024 01 12)\nតក្កវិជ្ជារបស់អ្នកមើលអត្ថបទត្រូវបានកែលម្អជាទូទៅ។\nយើងបានបន្ថែមមុខងារមួយដើម្បីស្គាល់តួអក្សរនៅក្នុងពេលវេលាជាក់ស្តែងនៅក្នុងកម្មវិធីមើលរូបភាពហើយអានវាជា TTS ។\nជម្រើសនៃការអានទីតាំង TTS ត្រូវបានបន្ថែមទៅការកំណត់ TTS ។\nប៊ូតុងស្តារឥឡូវត្រូវបានបង្ហាញនៅពេលប្រើមុខងារពង្រីកក្នុងកម្មវិធីមើលរូបភាព។\nយើងបានកែប្រែគំនូរជីវចលដែលលេចចេញមកដោយធម្មជាតិនៅពេលដែលទំព័រផ្លាស់ប្តូរ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.7.8 (2024 01 12)\nТекст көрүүчү / Image Viewer логикасы өркүндөтүлдү.\nСүрөттү көрүүчүдөгү каармандарды таануу үчүн бир функцияны кошуп, аларды TTS катары окуп чыгыңыз.\nTTS орнотуулары үчүн TTS орнотуулары үчүн жайгашкан Жайгашкан жердин көз салуу опциясы кошулган.\nСүрөттү көрүүчүнүн көлөмүн колдонууда калыбына келтирүү баскычы көрсөтүлөт.\nБарактарды жылдырганда табигый түрдө көрүнгөн анимацияны өзгөрттүк."
+    "devnote": "7.7.9 (2024 01 12)\nТекст көрүүчү / Image Viewer логикасы өркүндөтүлдү.\nСүрөттү көрүүчүдөгү каармандарды таануу үчүн бир функцияны кошуп, аларды TTS катары окуп чыгыңыз.\nTTS орнотуулары үчүн TTS орнотуулары үчүн жайгашкан Жайгашкан жердин көз салуу опциясы кошулган.\nСүрөттү көрүүчүнүн көлөмүн колдонууда калыбына келтирүү баскычы көрсөтүлөт.\nБарактарды жылдырганда табигый түрдө көрүнгөн анимацияны өзгөрттүк."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.7.8 (2024 01 12)\nஉரை பார்வையாளர்/பட பார்வையாளர் தர்க்கம் ஒட்டுமொத்தமாக மேம்படுத்தப்பட்டுள்ளது.\nபட பார்வையாளரில் உண்மையான நேரத்தில் எழுத்துக்களை அடையாளம் காணவும் அவற்றை TTS ஆகவும் படிக்க ஒரு செயல்பாட்டைச் சேர்த்துள்ளோம்.\nTTS அமைப்புகளில் TTS வாசிப்பு இருப்பிட கண்காணிப்பு விருப்பம் சேர்க்கப்பட்டுள்ளது.\nபட பார்வையாளரில் ஜூம் செயல்பாட்டைப் பயன்படுத்தும் போது மீட்டெடுப்பு பொத்தான் இப்போது காட்டப்படும்.\nபக்கங்களை நகர்த்தும்போது அனிமேஷனை மிகவும் இயற்கையாகவே தோன்ற நாங்கள் மாற்றியமைத்துள்ளோம்."
+    "devnote": "7.7.9 (2024 01 12)\nஉரை பார்வையாளர்/பட பார்வையாளர் தர்க்கம் ஒட்டுமொத்தமாக மேம்படுத்தப்பட்டுள்ளது.\nபட பார்வையாளரில் உண்மையான நேரத்தில் எழுத்துக்களை அடையாளம் காணவும் அவற்றை TTS ஆகவும் படிக்க ஒரு செயல்பாட்டைச் சேர்த்துள்ளோம்.\nTTS அமைப்புகளில் TTS வாசிப்பு இருப்பிட கண்காணிப்பு விருப்பம் சேர்க்கப்பட்டுள்ளது.\nபட பார்வையாளரில் ஜூம் செயல்பாட்டைப் பயன்படுத்தும் போது மீட்டெடுப்பு பொத்தான் இப்போது காட்டப்படும்.\nபக்கங்களை நகர்த்தும்போது அனிமேஷனை மிகவும் இயற்கையாகவே தோன்ற நாங்கள் மாற்றியமைத்துள்ளோம்."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.7.8 (2024 01 12)\nตรรกะของตัวชมข้อความ/ภาพดูภาพได้รับการปรับปรุงโดยรวมแล้ว\nเราได้เพิ่มฟังก์ชั่นเพื่อรับรู้อักขระแบบเรียลไทม์ในตัวแสดงภาพและอ่านเป็น TTS\nมีการเพิ่มตัวเลือกการติดตามตำแหน่งการอ่าน TTS ในการตั้งค่า TTS\nปุ่มกู้คืนจะปรากฏขึ้นเมื่อใช้ฟังก์ชั่นซูมในตัวแสดงภาพ\nเราได้ปรับเปลี่ยนแอนิเมชั่นให้ปรากฏขึ้นตามธรรมชาติมากขึ้นเมื่อย้ายหน้า"
+    "devnote": "7.7.9 (2024 01 12)\nตรรกะของตัวชมข้อความ/ภาพดูภาพได้รับการปรับปรุงโดยรวมแล้ว\nเราได้เพิ่มฟังก์ชั่นเพื่อรับรู้อักขระแบบเรียลไทม์ในตัวแสดงภาพและอ่านเป็น TTS\nมีการเพิ่มตัวเลือกการติดตามตำแหน่งการอ่าน TTS ในการตั้งค่า TTS\nปุ่มกู้คืนจะปรากฏขึ้นเมื่อใช้ฟังก์ชั่นซูมในตัวแสดงภาพ\nเราได้ปรับเปลี่ยนแอนิเมชั่นให้ปรากฏขึ้นตามธรรมชาติมากขึ้นเมื่อย้ายหน้า"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.7.8 (2024 01 12)\nMetin görüntüleyici/görüntü görüntüleyici mantığı genel olarak geliştirildi.\nGörüntü görüntüleyicisinde karakterleri gerçek zamanlı olarak tanımak ve TTS olarak okumak için bir işlev ekledik.\nTTS ayarlarına bir TTS okuma konumu izleme seçeneği eklendi.\nGörüntü görüntüleyicisinde Zoom işlevi kullanılırken geri yükleme düğmesi görüntülenir.\nSayfaları taşırken animasyonu daha doğal görünecek şekilde değiştirdik."
+    "devnote": "7.7.9 (2024 01 12)\nMetin görüntüleyici/görüntü görüntüleyici mantığı genel olarak geliştirildi.\nGörüntü görüntüleyicisinde karakterleri gerçek zamanlı olarak tanımak ve TTS olarak okumak için bir işlev ekledik.\nTTS ayarlarına bir TTS okuma konumu izleme seçeneği eklendi.\nGörüntü görüntüleyicisinde Zoom işlevi kullanılırken geri yükleme düğmesi görüntülenir.\nSayfaları taşırken animasyonu daha doğal görünecek şekilde değiştirdik."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.7.8 (2024 01 12)\nటెక్స్ట్ వ్యూయర్/ఇమేజ్ వ్యూయర్ లాజిక్ మొత్తం మెరుగుపరచబడింది.\nఇమేజ్ వ్యూయర్‌లో నిజ సమయంలో అక్షరాలను గుర్తించడానికి మరియు వాటిని TTS గా చదవడానికి మేము ఒక ఫంక్షన్‌ను జోడించాము.\nTTS రీడింగ్ లొకేషన్ ట్రాకింగ్ ఎంపిక TTS సెట్టింగులకు జోడించబడింది.\nఇమేజ్ వ్యూయర్‌లో జూమ్ ఫంక్షన్‌ను ఉపయోగించినప్పుడు పునరుద్ధరణ బటన్ ఇప్పుడు ప్రదర్శించబడుతుంది.\nపేజీలను కదిలించేటప్పుడు యానిమేషన్‌ను మరింత సహజంగా కనిపించేలా మేము సవరించాము."
+    "devnote": "7.7.9 (2024 01 12)\nటెక్స్ట్ వ్యూయర్/ఇమేజ్ వ్యూయర్ లాజిక్ మొత్తం మెరుగుపరచబడింది.\nఇమేజ్ వ్యూయర్‌లో నిజ సమయంలో అక్షరాలను గుర్తించడానికి మరియు వాటిని TTS గా చదవడానికి మేము ఒక ఫంక్షన్‌ను జోడించాము.\nTTS రీడింగ్ లొకేషన్ ట్రాకింగ్ ఎంపిక TTS సెట్టింగులకు జోడించబడింది.\nఇమేజ్ వ్యూయర్‌లో జూమ్ ఫంక్షన్‌ను ఉపయోగించినప్పుడు పునరుద్ధరణ బటన్ ఇప్పుడు ప్రదర్శించబడుతుంది.\nపేజీలను కదిలించేటప్పుడు యానిమేషన్‌ను మరింత సహజంగా కనిపించేలా మేము సవరించాము."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.7.8 (2024 01 12)\nਟੈਕਸਟ ਦਰਸ਼ਕ / ਚਿੱਤਰ ਦਰਸ਼ਕ ਤਰਕ ਨੂੰ ਹੁਣ ਤੱਕ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ.\nਅਸੀਂ ਚਿੱਤਰ ਦਰਸ਼ਕ ਵਿੱਚ ਅਸਲ ਸਮੇਂ ਵਿੱਚ ਅੱਖਰਾਂ ਨੂੰ ਪਛਾਣਨ ਲਈ ਇੱਕ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਹੈ ਅਤੇ ਉਨ੍ਹਾਂ ਨੂੰ ਟੀਟੀਐਸ ਨੂੰ ਪੜ੍ਹਨਾ.\nਟੀਟੀਐਸ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਸਥਾਪਤ ਸਥਾਨ ਟਰੈਕਿੰਗ ਵਿਕਲਪ ਜੋੜਿਆ ਗਿਆ ਹੈ.\nਚਿੱਤਰ ਦਰਸ਼ਕ ਵਿੱਚ ਜ਼ੂਮ ਫੰਕਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਸਮੇਂ ਰੀਸਟੋਰ ਬਟਨ ਪ੍ਰਦਰਸ਼ਤ ਹੁੰਦਾ ਹੈ.\nਪੇਜਾਂ ਨੂੰ ਚਲਦੇ ਸਮੇਂ ਵਧੇਰੇ ਕੁਦਰਤੀ ਤੌਰ ਤੇ ਪੇਸ਼ ਹੋਣ ਲਈ ਐਨੀਮੇਸ਼ਨ ਨੂੰ ਸੰਸ਼ੋਧਿਤ ਕੀਤਾ ਗਿਆ ਹੈ."
+    "devnote": "7.7.9 (2024 01 12)\nਟੈਕਸਟ ਦਰਸ਼ਕ / ਚਿੱਤਰ ਦਰਸ਼ਕ ਤਰਕ ਨੂੰ ਹੁਣ ਤੱਕ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ.\nਅਸੀਂ ਚਿੱਤਰ ਦਰਸ਼ਕ ਵਿੱਚ ਅਸਲ ਸਮੇਂ ਵਿੱਚ ਅੱਖਰਾਂ ਨੂੰ ਪਛਾਣਨ ਲਈ ਇੱਕ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਹੈ ਅਤੇ ਉਨ੍ਹਾਂ ਨੂੰ ਟੀਟੀਐਸ ਨੂੰ ਪੜ੍ਹਨਾ.\nਟੀਟੀਐਸ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਸਥਾਪਤ ਸਥਾਨ ਟਰੈਕਿੰਗ ਵਿਕਲਪ ਜੋੜਿਆ ਗਿਆ ਹੈ.\nਚਿੱਤਰ ਦਰਸ਼ਕ ਵਿੱਚ ਜ਼ੂਮ ਫੰਕਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਸਮੇਂ ਰੀਸਟੋਰ ਬਟਨ ਪ੍ਰਦਰਸ਼ਤ ਹੁੰਦਾ ਹੈ.\nਪੇਜਾਂ ਨੂੰ ਚਲਦੇ ਸਮੇਂ ਵਧੇਰੇ ਕੁਦਰਤੀ ਤੌਰ ਤੇ ਪੇਸ਼ ਹੋਣ ਲਈ ਐਨੀਮੇਸ਼ਨ ਨੂੰ ਸੰਸ਼ੋਧਿਤ ਕੀਤਾ ਗਿਆ ਹੈ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.7.8 (2024 01 12)\nمنطق بیننده بیننده/تصویر به طور کلی بهبود یافته است.\nما تابعی را برای تشخیص شخصیت ها در زمان واقعی در تصویر بیننده اضافه کرده ایم و آنها را به عنوان TTS خوانده ایم.\nگزینه ردیابی مکان TTS به تنظیمات TTS اضافه شده است.\nدکمه Restore اکنون هنگام استفاده از عملکرد بزرگنمایی در تصویر بیننده نمایش داده می شود.\nما انیمیشن را اصلاح کرده ایم تا هنگام حرکت صفحات به طور طبیعی تر ظاهر شود."
+    "devnote": "7.7.9 (2024 01 12)\nمنطق بیننده بیننده/تصویر به طور کلی بهبود یافته است.\nما تابعی را برای تشخیص شخصیت ها در زمان واقعی در تصویر بیننده اضافه کرده ایم و آنها را به عنوان TTS خوانده ایم.\nگزینه ردیابی مکان TTS به تنظیمات TTS اضافه شده است.\nدکمه Restore اکنون هنگام استفاده از عملکرد بزرگنمایی در تصویر بیننده نمایش داده می شود.\nما انیمیشن را اصلاح کرده ایم تا هنگام حرکت صفحات به طور طبیعی تر ظاهر شود."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.7.8 (2024 01 12)\nA lógica do visualizador de texto/visualizador de imagem foi melhorada em geral.\nAdicionamos uma função para reconhecer os caracteres em tempo real no visualizador de imagens e os lemos como TTS.\nUma opção de rastreamento de localização de leitura do TTS foi adicionada às configurações do TTS.\nO botão Restaurar agora é exibido ao usar a função de zoom no visualizador de imagens.\nModificamos a animação para aparecer mais naturalmente ao mover páginas."
+    "devnote": "7.7.9 (2024 01 12)\nA lógica do visualizador de texto/visualizador de imagem foi melhorada em geral.\nAdicionamos uma função para reconhecer os caracteres em tempo real no visualizador de imagens e os lemos como TTS.\nUma opção de rastreamento de localização de leitura do TTS foi adicionada às configurações do TTS.\nO botão Restaurar agora é exibido ao usar a função de zoom no visualizador de imagens.\nModificamos a animação para aparecer mais naturalmente ao mover páginas."
   },
   "폴란드어": {
     "key": "pl",
@@ -265,26 +265,26 @@
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.7.8 (2024 01 12)\nLa logique de la visionneuse de texte / de la visionneuse d'image a été globalement améliorée.\nNous avons ajouté une fonction pour reconnaître les caractères en temps réel dans la visionneuse d'images et les lire comme TTS.\nUne option de suivi de l'emplacement de lecture TTS a été ajoutée aux paramètres TTS.\nLe bouton de restauration s'affiche maintenant lors de l'utilisation de la fonction de zoom dans la visionneuse d'image.\nNous avons modifié l'animation pour apparaître plus naturellement lors du déplacement des pages."
+    "devnote": "7.7.9 (2024 01 12)\nLa logique de la visionneuse de texte / de la visionneuse d'image a été globalement améliorée.\nNous avons ajouté une fonction pour reconnaître les caractères en temps réel dans la visionneuse d'images et les lire comme TTS.\nUne option de suivi de l'emplacement de lecture TTS a été ajoutée aux paramètres TTS.\nLe bouton de restauration s'affiche maintenant lors de l'utilisation de la fonction de zoom dans la visionneuse d'image.\nNous avons modifié l'animation pour apparaître plus naturellement lors du déplacement des pages."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.7.8 (2024 01 12)\nTekstin katseluohjelmaa/kuvan katseluohjelmaa on parannettu yleisesti.\nOlemme lisänneet funktion tunnistaaksesi hahmot reaaliajassa kuvan katseluohjelmassa ja lukemaan ne TTS: nä.\nTTS -lukemapaikka on lisätty TTS -asetuksiin.\nPalauta -painike näkyy nyt, kun käytetään zoom -toimintoa kuvan katseluohjelmassa.\nOlemme muuttaneet animaatiota näyttämään luonnollisemmin sivuja liikkuessa."
+    "devnote": "7.7.9 (2024 01 12)\nTekstin katseluohjelmaa/kuvan katseluohjelmaa on parannettu yleisesti.\nOlemme lisänneet funktion tunnistaaksesi hahmot reaaliajassa kuvan katseluohjelmassa ja lukemaan ne TTS: nä.\nTTS -lukemapaikka on lisätty TTS -asetuksiin.\nPalauta -painike näkyy nyt, kun käytetään zoom -toimintoa kuvan katseluohjelmassa.\nOlemme muuttaneet animaatiota näyttämään luonnollisemmin sivuja liikkuessa."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.7.8 (2024 01 12)\nAng lohika ng viewer ng text/imahe ay pangkalahatang napabuti.\nNagdagdag kami ng isang function upang makilala ang mga character sa real time sa viewer ng imahe at basahin ang mga ito bilang TTS.\nAng isang pagpipilian sa pagsubaybay sa lokasyon ng TTS ay naidagdag sa mga setting ng TTS.\nAng pindutan ng pagpapanumbalik ay ipinapakita ngayon kapag ginagamit ang pag -andar ng zoom sa viewer ng imahe.\nBinago namin ang animation upang lumitaw nang mas natural kapag gumagalaw ng mga pahina."
+    "devnote": "7.7.9 (2024 01 12)\nAng lohika ng viewer ng text/imahe ay pangkalahatang napabuti.\nNagdagdag kami ng isang function upang makilala ang mga character sa real time sa viewer ng imahe at basahin ang mga ito bilang TTS.\nAng isang pagpipilian sa pagsubaybay sa lokasyon ng TTS ay naidagdag sa mga setting ng TTS.\nAng pindutan ng pagpapanumbalik ay ipinapakita ngayon kapag ginagamit ang pag -andar ng zoom sa viewer ng imahe.\nBinago namin ang animation upang lumitaw nang mas natural kapag gumagalaw ng mga pahina."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.7.8 (2024 01 12)\nA szöveges néző/képmegjelenítő logika általánosságban javult.\nHozzáadtunk egy függvényt, hogy a karaktereket valós időben felismerjük a képmegjelenítőben, és TTS -ként olvassuk el őket.\nA TTS leolvasási helymeghatározási lehetőséget hozzáadták a TTS -beállításokhoz.\nA Restore gomb most megjelenik, amikor a képmegjelenítő zoom funkcióját használja.\nAz animációt úgy módosítottuk, hogy az oldalak mozgatásakor természetesebben jelenjenek meg."
+    "devnote": "7.7.9 (2024 01 12)\nA szöveges néző/képmegjelenítő logika általánosságban javult.\nHozzáadtunk egy függvényt, hogy a karaktereket valós időben felismerjük a képmegjelenítőben, és TTS -ként olvassuk el őket.\nA TTS leolvasási helymeghatározási lehetőséget hozzáadták a TTS -beállításokhoz.\nA Restore gomb most megjelenik, amikor a képmegjelenítő zoom funkcióját használja.\nAz animációt úgy módosítottuk, hogy az oldalak mozgatásakor természetesebben jelenjenek meg."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.7.8 (2024 01 12)\nההיגיון של מציג הטקסט/מציג התמונות שופר בסך הכל.\nהוספנו פונקציה כדי לזהות דמויות בזמן אמת במציג התמונות ולקרוא אותן כ- TTS.\nאפשרות מעקב אחר מיקום קריאת TTS נוספה להגדרות TTS.\nכפתור השחזור מוצג כעת בעת שימוש בפונקציית Zoom במציג התמונה.\nשינינו את האנימציה כדי להופיע באופן טבעי יותר בעת העברת דפים."
+    "devnote": "7.7.9 (2024 01 12)\nההיגיון של מציג הטקסט/מציג התמונות שופר בסך הכל.\nהוספנו פונקציה כדי לזהות דמויות בזמן אמת במציג התמונות ולקרוא אותן כ- TTS.\nאפשרות מעקב אחר מיקום קריאת TTS נוספה להגדרות TTS.\nכפתור השחזור מוצג כעת בעת שימוש בפונקציית Zoom במציג התמונה.\nשינינו את האנימציה כדי להופיע באופן טבעי יותר בעת העברת דפים."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.7.8 (2024 01 12)\nपाठ व्यूअर/इमेज व्यूअर लॉजिक को कुल मिलाकर बेहतर बनाया गया है।\nहमने छवि दर्शक में वास्तविक समय में वर्णों को पहचानने और उन्हें टीटीएस के रूप में पढ़ने के लिए एक फ़ंक्शन जोड़ा है।\nटीटीएस रीडिंग लोकेशन ट्रैकिंग विकल्प को टीटीएस सेटिंग्स में जोड़ा गया है।\nछवि व्यूअर में ज़ूम फ़ंक्शन का उपयोग करते समय पुनर्स्थापना बटन प्रदर्शित किया जाता है।\nहमने पेजों को स्थानांतरित करते समय अधिक स्वाभाविक रूप से दिखाई देने के लिए एनीमेशन को संशोधित किया है।"
+    "devnote": "7.7.9 (2024 01 12)\nपाठ व्यूअर/इमेज व्यूअर लॉजिक को कुल मिलाकर बेहतर बनाया गया है।\nहमने छवि दर्शक में वास्तविक समय में वर्णों को पहचानने और उन्हें टीटीएस के रूप में पढ़ने के लिए एक फ़ंक्शन जोड़ा है।\nटीटीएस रीडिंग लोकेशन ट्रैकिंग विकल्प को टीटीएस सेटिंग्स में जोड़ा गया है।\nछवि व्यूअर में ज़ूम फ़ंक्शन का उपयोग करते समय पुनर्स्थापना बटन प्रदर्शित किया जाता है।\nहमने पेजों को स्थानांतरित करते समय अधिक स्वाभाविक रूप से दिखाई देने के लिए एनीमेशन को संशोधित किया है।"
   }
 }
