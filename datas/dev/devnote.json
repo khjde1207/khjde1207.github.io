@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.8.5 (January 17, 2024)\n\n- PDF viewer has been added.\n- A function has been added to set the highlight range when playing image/pdf TTS.\n- You can now set the number of lines to remove page numbers.\n- Like image viewers, PDF can also play TTS using OCR.\n- Play buttons that use the OCR function display OCR letters at the bottom."
+    "devnote": "7.8.6 (January 19, 2024)\n\n- We urgently fixed the issue where the app becomes increasingly slower and heavier as you use it."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.8.5 (2024 01 17)\n\n- PDF 뷰어를 추가 하였습니다. \n- 이미지/ pdf TTS 재생시 하이라이트 범위를 설정 할 수 있도록 기능을 추가 하였습니다. \n- 쪽수 제거 라인 수를 설정 할 수 있도록 하였습니다. \n- 이미지 뷰어와 마찬가지로 PDF 도 OCR을 이용 하여 TTS 를 재생할 수 있습니다. \n- OCR기능이 사용되는 재생버튼은 하단에 OCR 문자가 표시됩니다."
+    "devnote": "7.8.6 (2024 01 19)\n\n- 어플을 사용할수록 점점 느려지고 무거워지는 현상을 긴급 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.8.5 (17 de xaneiro de 2024)\n\n- Engadiuse o visor PDF.\n- Engadiuse unha función para establecer o rango destacado ao reproducir a imaxe/pdf tts.\n- Agora podes configurar o número de liñas para eliminar os números da páxina.\n- Do mesmo xeito que os espectadores de imaxes, PDF tamén pode reproducir TTS usando OCR.\n- Reproducir botóns que usan as letras OCR da función OCR na parte inferior."
+    "devnote": "7.8.6 (19 de xaneiro de 2024)\n\n- Solucionamos con urxencia o problema onde a aplicación faise cada vez máis lenta e máis pesada a medida que a usa."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.8.5 (જાન્યુઆરી 17, 2024)\n\n- પીડીએફ વ્યૂઅર ઉમેરવામાં આવ્યા છે.\n- ઇમેજ/પીડીએફ ટીટીએસ રમતી વખતે હાઇલાઇટ રેન્જ સેટ કરવા માટે એક ફંક્શન ઉમેરવામાં આવ્યું છે.\n- હવે તમે પૃષ્ઠ નંબરોને દૂર કરવા માટે લાઇનોની સંખ્યા સેટ કરી શકો છો.\n- છબી દર્શકોની જેમ, પીડીએફ પણ ઓસીઆરનો ઉપયોગ કરીને ટીટીએસ રમી શકે છે.\n- બટનો ચલાવો જે ઓસીઆર ફંક્શનનો ઉપયોગ કરે છે તે તળિયે ઓસીઆર અક્ષરોનું પ્રદર્શન કરે છે."
+    "devnote": "7.8.6 (જાન્યુઆરી 19, 2024)\n\n- અમે તાત્કાલિક આ મુદ્દાને ઠીક કર્યો છે જ્યાં એપ્લિકેશન તમે તેનો ઉપયોગ કરો ત્યારે વધુને વધુ ધીમી અને ભારે બને છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.8.5 (17 Ιανουαρίου 2024)\n\n- έχει προστεθεί ο θεατής PDF.\n- Έχει προστεθεί μια συνάρτηση για να ρυθμίσετε το εύρος προβολής κατά την αναπαραγωγή εικόνων/PDF TTS.\n- Τώρα μπορείτε να ορίσετε τον αριθμό των γραμμών για να αφαιρέσετε τους αριθμούς σελίδων.\n- Όπως οι θεατές εικόνων, το PDF μπορεί επίσης να παίξει TTS χρησιμοποιώντας OCR.\n- Παίξτε κουμπιά που χρησιμοποιούν τη λειτουργία OCR Εμφάνιση γραμμάτων OCR στο κάτω μέρος."
+    "devnote": "7.8.6 (19 Ιανουαρίου 2024)\n\n- Διορθώσαμε επειγόντως το ζήτημα όπου η εφαρμογή γίνεται όλο και πιο αργή και βαρύτερη καθώς το χρησιμοποιείτε."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.8.5 (17 januari 2024)\n\n- PDF -kijker is toegevoegd.\n- Er is een functie toegevoegd om het hoogtepunt in te stellen bij het afspelen van afbeelding/PDF TTS.\n- U kunt nu het aantal regels instellen om paginanummers te verwijderen.\n- Net als beeld kijkers kan PDF ook TT's spelen met behulp van OCR.\n- Speelknoppen die de OCR -functie gebruiken, weergeven OCR -letters onderaan."
+    "devnote": "7.8.6 (19 januari 2024)\n\n- We hebben dringend het probleem opgelost waarbij de app steeds langzamer en zwaarder wordt naarmate u deze gebruikt."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": ".8..8..5 (जनवरी 1 ,, 2024)\n\n- PDF अवलोकनकर्ता थपिएको छ।\n- छवि / PDF TTS खेल्दा हाइलाइट दायरा सेट गर्न एक प्रकार्य थपिएको छ।\n- अब तपाईं लाइन संख्या हटाउन को लागी लाइनहरु सेट गर्न सक्नुहुन्छ।\n- छवि दर्शकहरू जस्तै, PDF ले ओसीआर प्रयोग गरेर टीटीहरू पनि खेल्न सक्छ।\n- बटन प्ले बटनहरू जुन OCR प्रकार्य प्रयोग गरी तल OCR अक्षरहरू तल"
+    "devnote": "7.8.6 (जनवरी 1 ,, 2024)\n\n- हामीले तत्काल मुद्दा मिलायौं जहाँ तपाईं यसलाई प्रयोग गर्दा व्यापक र भारी हुन्छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.8.5 (17. januar 2024)\n\n- PDF -seer er lagt til.\n- En funksjon er lagt til for å angi høydepunktområdet når du spiller Image/PDF TTS.\n- Du kan nå angi antall linjer for å fjerne sidetall.\n- Som bildevisere kan PDF også spille TTS ved hjelp av OCR.\n- Spillknapper som bruker OCR -funksjonen viser OCR -bokstaver nederst."
+    "devnote": "7.8.6 (19. januar 2024)\n\n- Vi løste haster problemet der appen blir stadig mer tregere og tyngre når du bruker den."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.8.5 (17. januar 2024)\n\n- PDF -seer er tilføjet.\n- Der er tilføjet en funktion for at indstille højdepunktsområdet, når du spiller image/pdf tts.\n- Du kan nu indstille antallet af linjer for at fjerne sidetal.\n- Ligesom Image -seere kan PDF også spille TTS ved hjælp af OCR.\n- Spilknapper, der bruger OCR -funktionen Display OCR -bogstaver i bunden."
+    "devnote": "7.8.6 (19. januar 2024)\n\n- Vi løste presserende problemet, hvor appen bliver mere langsommere og tungere, når du bruger den."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.8.5 (17. Januar 2024)\n\n- PDF -Viewer wurde hinzugefügt.\n- Es wurde eine Funktion hinzugefügt, um den Highlight -Bereich beim Abspielen von Image/PDF -TTs festzulegen.\n- Sie können jetzt die Anzahl der Zeilen festlegen, um Seitenzahlen zu entfernen.\n- Wie Image -Betrachter kann PDF auch TTs mit OCR abspielen.\n- Spieltasten, die die OCR -Funktion verwenden, OCR -Buchstaben unten anzeigen."
+    "devnote": "7.8.6 (19. Januar 2024)\n\n- Wir haben das Problem dringend behoben, bei dem die App immer langsamer und schwerer wird, wenn Sie es verwenden."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.8.5 (ວັນທີ 17 ມັງກອນ, 2024)\n\n- Viewer PDF ໄດ້ຖືກເພີ່ມເຂົ້າມາແລ້ວ.\n- ຫນ້າທີ່ໄດ້ຖືກເພີ່ມເຂົ້າໃນຂອບເຂດຈຸດເດັ່ນໃນເວລາຫຼີ້ນຮູບພາບ / PDF TTS.\n- ດຽວນີ້ທ່ານສາມາດກໍານົດຈໍານວນສາຍທີ່ຈະເອົາຕົວເລກຫນ້າອອກ.\n- ເຊັ່ນ: ຜູ້ຊົມຮູບພາບ, PDF ກໍ່ສາມາດຫຼີ້ນ TTS ໂດຍໃຊ້ OCR.\n- ຫຼີ້ນປຸ່ມທີ່ໃຊ້ປຸ່ມ OCR ສະແດງຕົວອັກສອນ OCR ຢູ່ທາງລຸ່ມ."
+    "devnote": "7.8.6 (ວັນທີ 19 ມັງກອນ 2024)\n\n- ພວກເຮົາແກ້ໄຂບັນຫາທີ່ແອັບ is ກາຍເປັນທີ່ຊ້າລົງແລະຫນັກກວ່າທີ່ທ່ານໃຊ້ມັນ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.8.5 (2024. gada 17. janvāris)\n\n- PDF skatītājs ir pievienots.\n- Funkcija ir pievienota, lai iestatītu izcelto diapazonu, atskaņojot Image/PDF TTS.\n- Tagad varat iestatīt līniju skaitu, lai noņemtu lapu numurus.\n- Tāpat kā attēlu skatītāji, PDF var arī atskaņot TTS, izmantojot OCR.\n- atskaņošanas pogas, kurās apakšā tiek izmantoti OCR funkcijas displeja OCR burti."
+    "devnote": "7.8.6 (2024. gada 19. janvāris)\n\n- Mēs steidzami novēršam problēmu, kurā lietotne kļūst arvien lēnāka un smagāka, kad to lietojat."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.8.5 (17 января 2024 г.)\n\n- PDF Viewer был добавлен.\n- Функция была добавлена, чтобы установить диапазон выделения при воспроизведении изображения/PDF TTS.\n- Теперь вы можете установить количество строк для удаления номеров страниц.\n- Как и зрители изображений, PDF также может воспроизводить TTS с помощью OCR.\n- Играйте кнопки, которые используют функцию OCR отображать буквы OCR внизу."
+    "devnote": "7.8.6 (19 января 2024 г.)\n\n- Мы срочно исправили проблему, когда приложение становится все более медленным и тяжелее, когда вы его используете."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.8.5 (17 ianuarie 2024)\n\n- S -a adăugat vizualizator PDF.\n- O funcție a fost adăugată pentru a seta gama de evidenție atunci când redați Image/PDF TTS.\n- Acum puteți seta numărul de linii pentru a elimina numerele de pagină.\n- La fel ca spectatorii de imagini, PDF poate juca și TTS folosind OCR.\n- Joacă butoane care folosesc afișarea funcției OCR, literele OCR în partea de jos."
+    "devnote": "7.8.6 (19 ianuarie 2024)\n\n- Am rezolvat urgent problema în care aplicația devine din ce în ce mai lentă și mai grea pe măsură ce o utilizați."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.8.5 (2024 m. Sausio 17 d.)\n\n- Pridėta PDF peržiūros priemonė.\n- Buvo pridėta funkcija, kad būtų galima nustatyti akcento diapazoną, kai žaidžiant vaizdą/PDF TTS.\n- Dabar galite nustatyti eilučių skaičių, kad pašalintumėte puslapių numerius.\n- Kaip ir vaizdų žiūrovai, PDF taip pat gali žaisti TTS naudodamas OCR.\n- Žaisk mygtukus, kuriuose naudojamos OCR funkcijos rodomos OCR raidės apačioje."
+    "devnote": "7.8.6 (2024 m. Sausio 19 d.)\n\n- Mes skubiai išsprendėme problemą, kai programa tampa vis lėtesnė ir sunkesnė, kai ją naudojate."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.8.5 (17 जानेवारी, 2024)\n\n- पीडीएफ दर्शक जोडले गेले आहे.\n- प्रतिमा/पीडीएफ टीटीएस खेळताना हायलाइट श्रेणी सेट करण्यासाठी एक फंक्शन जोडले गेले आहे.\n- आपण आता पृष्ठ क्रमांक काढण्यासाठी ओळींची संख्या सेट करू शकता.\n- प्रतिमा दर्शकांप्रमाणेच, पीडीएफ ओसीआर वापरुन टीटीएस देखील प्ले करू शकते.\n- तळाशी ओसीआर फंक्शन डिस्प्ले ओसीआर अक्षरे वापरणारी बटणे प्ले करा."
+    "devnote": "7.8.6 (19 जानेवारी, 2024)\n\n- आम्ही तातडीने हा मुद्दा निश्चित केला जेथे अॅप आपण वापरत असताना अधिक हळू आणि जड होते."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.8.5 (17 јануари 2024 година)\n\n- Додаден е гледач на PDF.\n- Додадена е функција за да се постави опсегот на нагласи кога играте Image/PDF TTS.\n- Сега можете да го поставите бројот на линии за да ги отстраните броевите на страниците.\n- Како гледачите на слики, PDF исто така може да игра TTS користејќи OCR.\n- Играјте копчиња што ги користат OCR функцијата екранот OCR букви на дното."
+    "devnote": "7.8.6 (19 јануари 2024 година)\n\n- Ние итно го поправивме проблемот каде апликацијата станува сè побавна и потешка додека ја користите."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.8.5 (ജനുവരി 17, 2024)\n\n- PDF വ്യൂവർ ചേർത്തു.\n- ഇമേജ് / പിഡിഎഫ് ടിടിഎസ് കളിക്കുമ്പോൾ ഹൈലൈറ്റ് ശ്രേണി സജ്ജീകരിക്കുന്നതിന് ഒരു ഫംഗ്ഷൻ ചേർത്തു.\n- പേജ് നമ്പറുകൾ നീക്കംചെയ്യാൻ നിങ്ങൾക്ക് ഇപ്പോൾ വരികളുടെ എണ്ണം സജ്ജമാക്കാൻ കഴിയും.\n- ഇമേജ് കാഴ്ചകൾ പോലെ, ODF OR ഉപയോഗിച്ച് ടിടിഎസ് കളിക്കാനും കഴിയും.\n- ചുവടെയുള്ള OCR ഫംഗ്ഷൻ OCR അക്ഷരങ്ങൾ ഉപയോഗിക്കുന്ന പ്ലേ ബട്ടണുകൾ പ്ലേ ചെയ്യുക."
+    "devnote": "7.8.6 (ജനുവരി 19, 2024)\n\n- ആപ്ലിക്കേഷൻ കൂടുതലായി മന്ദഗതിയിലാകുന്നതും നിങ്ങൾ ഉപയോഗിക്കുന്നത്ര ഭാരം കുറഞ്ഞതും ഞങ്ങൾ അടിയന്തിരമായി പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.8.5 (17 Januari 2024)\n\n- Penonton PDF telah ditambah.\n- Fungsi telah ditambah untuk menetapkan julat sorotan apabila bermain imej/pdf TTS.\n- Anda kini boleh menetapkan bilangan baris untuk mengalih keluar nombor halaman.\n- Seperti penonton imej, PDF juga boleh memainkan TTS menggunakan OCR.\n- Main butang yang menggunakan fungsi OCR memaparkan huruf OCR di bahagian bawah."
+    "devnote": "7.8.6 (19 Januari, 2024)\n\n- Kami segera menetapkan isu di mana aplikasi menjadi semakin perlahan dan lebih berat semasa anda menggunakannya."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.8.5 (17-р сарын 17, 2024)\n\n- PDF Viewer нэмэгдсэн байна.\n- Зураг / PDF TTS тоглохдоо онцлох хязгаарыг тохируулах функцийг нэмж оруулсан болно.\n- Та одоо хуудасны дугаарыг арилгахын тулд шугамын тоог тохируулж болно.\n- Зургийн үзэгчид шиг PDF нь OCR ашиглан tts тоглох боломжтой.\n- OCR функцийг ашиглан ocr функцийг ocr үсгийг ocr үсгийг доороос ашигладаг."
+    "devnote": "7.8.6 (19-р сарын 19, 2024)\n\n- Апп-ыг ашиглахдаа апп-ыг улам чанга, илүү чанга болгож,"
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.8.5 (2024ko urtarrilaren 17a)\n\n- PDF ikuslea gehitu da.\n- Funtzio bat gehitu da Nabarmentzeko tartea ezartzeko irudia / PDF TTS erreproduzitzerakoan.\n- Orain orrialdeak kentzeko lerro kopurua ezar dezakezu.\n- Irudi ikusleak bezala, PDFk TTS ere jo dezake OCR erabiliz.\n- OCR funtzioa erabiltzen duten botoiak OCR letrak bistaratzen dira behealdean."
+    "devnote": "7.8.6 (2024ko urtarrilaren 19a)\n\n- Premiazkoa konpondu dugu aplikazioa gero eta motelagoa eta astunagoa bihurtzen den bezala."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.8.5 (ဇန်နဝါရီလ 17, 2024)\n\n- PDF Viewer ကိုထည့်သွင်းထားသည်။\n- ပုံ / PDF TTS ကစားသောအခါမီးမောင်းထိုးပြအကွာအဝေးကိုသတ်မှတ်ရန် function ကိုထည့်သွင်းရန်ထည့်သွင်းထားသည်။\n- ယခုသင်စာမျက်နှာနံပါတ်များကိုဖယ်ရှားရန်လိုင်းအရေအတွက်ကိုသတ်မှတ်နိုင်သည်။\n- ပုံရိပ်ကြည့်ရှုသူများကဲ့သို့ PDF သည် OCR ကို အသုံးပြု. TTS ကိုကစားနိုင်သည်။\n- OCR function ကိုအသုံးပြုသော OCR function ကိုအသုံးပြုသော Buttons များကိုဖွင့်ပါ။"
+    "devnote": "7.8.6 (ဇန်နဝါရီ 19, 2024)\n\n- သင်အသုံးပြုသောကြောင့်အက်ပလီကေးရှင်းသည်ပိုမိုနှေးကွေးလာသည့်ပြ issue နာကိုအရေးတကြီးပြင်ဆင်ထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.8.5 (17 tháng 1 năm 2024)\n\n- Trình xem PDF đã được thêm vào.\n- Một chức năng đã được thêm vào để đặt phạm vi nổi bật khi phát hình ảnh/pdf TTS.\n- Bây giờ bạn có thể đặt số dòng để xóa số trang.\n- Giống như người xem hình ảnh, PDF cũng có thể chơi TTS bằng OCR.\n- Phát các nút sử dụng chức năng OCR Hiển thị các chữ cái OCR ở phía dưới."
+    "devnote": "7.8.6 (19 tháng 1 năm 2024)\n\n- Chúng tôi đã sửa chữa khẩn cấp sự cố trong đó ứng dụng ngày càng chậm và nặng hơn khi bạn sử dụng nó."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.8.5 (17 студзеня 2024 г.)\n\n- Дададзены прагляд PDF.\n- Была дададзена функцыя для ўстаноўкі дыяпазону вылучэння пры прайграванні малюнка/PDF TTS.\n- Цяпер вы можаце ўсталяваць колькасць радкоў для выдалення нумароў старонак.\n- Як і гледачы малюнкаў, PDF таксама можа гуляць у TTS з дапамогай OCR.\n- Прайграйце кнопкі, якія выкарыстоўваюць функцыю OCR, дысплей OCR унізе."
+    "devnote": "7.8.6 (19 студзеня 2024 г.)\n\n- Мы тэрмінова выправілі праблему, калі прыкладанне становіцца ўсё больш павольным і цяжэй, калі вы яго выкарыстоўваеце."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.8.5 (জানুয়ারী 17, 2024)\n\n- পিডিএফ ভিউয়ার যুক্ত করা হয়েছে।\n- চিত্র/পিডিএফ টিটিএস খেলার সময় হাইলাইট রেঞ্জ সেট করতে একটি ফাংশন যুক্ত করা হয়েছে।\n- আপনি এখন পৃষ্ঠা নম্বরগুলি অপসারণ করতে লাইনের সংখ্যা সেট করতে পারেন।\n- চিত্র দর্শকদের মতো, পিডিএফ ওসিআর ব্যবহার করে টিটিএসও খেলতে পারে।\n- নীচে ওসিআর ফাংশন ডিসপ্লে ওসিআর অক্ষর ব্যবহার করে এমন বোতামগুলি প্লে করুন।"
+    "devnote": "7.8.6 (জানুয়ারী 19, 2024)\n\n- আমরা জরুরীভাবে সমস্যাটি ঠিক করেছি যেখানে অ্যাপটি আপনি ব্যবহার করার সাথে সাথে ক্রমবর্ধমান ধীর এবং ভারী হয়ে ওঠে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.8.5 (17 януари 2024 г.)\n\n- PDF Viewer е добавен.\n- Добавена е функция за задаване на диапазона на подчертаване при възпроизвеждане на изображение/PDF TTS.\n- Вече можете да зададете броя на редове, за да премахнете номерата на страниците.\n- Подобно на зрителите на изображения, PDF може да възпроизвежда и TT, използвайки OCR.\n- Бутони за възпроизвеждане, които използват функцията OCR, дисплеят OCR букви в долната част."
+    "devnote": "7.8.6 (19 януари 2024 г.)\n\n- Ние спешно отстранихме проблема, при който приложението става все по -бавно и по -тежко, докато го използвате."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.8.5 (17. јануара 2024.)\n\n- Додаје се ПДФ Виевер.\n- Додата је функција да бисте поставили опсег означавања приликом репродукције слика / пдф ТТС-а.\n- Сада можете подесити број линија да бисте уклонили бројеве страница.\n- Као и гледаоци слика, ПДФ такође могу да играју ТТС користећи ОЦР.\n- Дугмад за репродукцију који користе ОЦР функцију приказују ОЦР слова на дну."
+    "devnote": "7.8.6 (19. јануара 2024.)\n\n- Хитно смо поправили проблем у којем апликација постане све спорија и теже јер га користите."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.8.5 (Januari 17, 2024)\n\n- Mtazamaji wa PDF ameongezwa.\n- Kazi imeongezwa ili kuweka safu ya kuonyesha wakati wa kucheza picha/PDF TTS.\n- Sasa unaweza kuweka idadi ya mistari ili kuondoa nambari za ukurasa.\n- Kama watazamaji wa picha, PDF pia inaweza kucheza TTS kwa kutumia OCR.\n- Vifungo vya kucheza ambavyo vinatumia herufi za OCR kuonyesha herufi za OCR chini."
+    "devnote": "7.8.6 (Januari 19, 2024)\n\n- Tulirekebisha haraka suala ambalo programu inazidi kuwa polepole na nzito kama unavyotumia."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.8.5 (17 januari 2024)\n\n- PDF Viewer har lagts till.\n- En funktion har lagts till för att ställa in höjdpunkterna när du spelar bild/PDF TTS.\n- Du kan nu ställa in antalet rader för att ta bort sidnummer.\n- Liksom bildvisare kan PDF också spela TTS med OCR.\n- Spelknappar som använder OCR -funktionen visar OCR -bokstäver längst ner."
+    "devnote": "7.8.6 (19 januari 2024)\n\n- Vi fixade snabbt problemet där appen blir allt mer långsammare och tyngre när du använder den."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.8.5 (17 de enero de 2024)\n\n- Se ha agregado el visor PDF.\n- Se ha agregado una función para establecer el rango destacado al reproducir la imagen/TTS PDF.\n- Ahora puede establecer el número de líneas para eliminar los números de página.\n- Al igual que los espectadores de imágenes, PDF también puede reproducir TTS usando OCR.\n- Reproduzca los botones que usan la función OCR visualizan letras OCR en la parte inferior."
+    "devnote": "7.8.6 (19 de enero de 2024)\n\n- Arreglamos urgentemente el problema donde la aplicación se vuelve cada vez más lenta y pesada a medida que la usa."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.8.5 (17. januára 2024)\n\n- Bol pridaný divák PDF.\n- Funkcia bola pridaná na nastavenie rozsahu zvýraznenia pri prehrávaní obrázkov/PDF TTS.\n- Teraz môžete nastaviť počet riadkov na odstránenie čísel strán.\n- Rovnako ako diváci obrázkov, PDF môže tiež prehrávať TTS pomocou OCR.\n- Prehrať tlačidlá, ktoré používajú funkciu OCR zobrazujú písmená OCR v spodnej časti."
+    "devnote": "7.8.6 (19. január 2024)\n\n- Naliehavo sme vyriešili problém, keď sa aplikácia stáva čoraz pomalšie a ťažšie, keď ju používate."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.8.5 (17. januarja 2024)\n\n- Dodan je pregledovalnik PDF.\n- Dodana je bila funkcija, da se pri predvajanju slike/pdf TTS nastavite vrhunsko območje.\n- Zdaj lahko nastavite število vrstic, da odstranite številke strani.\n- Tako kot gledalci slik lahko tudi PDF predvaja TTS z uporabo OCR.\n- Predvajajte gumbe, ki uporabljajo OCR FUNCTION Prikazovanje črk OCR na dnu."
+    "devnote": "7.8.6 (19. januarja 2024)\n\n- Nujno smo odpravili težavo, ko aplikacija postaja vse bolj počasnejša in težja, ko jo uporabljate."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.8.5 (ජනවාරි 17, 2024)\n\n- පී.ඩී.එෆ් නරඹන්නා එකතු කර ඇත.\n- රූප / පීඩීඑෆ් ටීටීඑස් සෙල්ලම් කරන විට ඉස්මතු පරාසය සැකසීම සඳහා ශ්රිතයක් එකතු කර ඇත.\n- ඔබට දැන් පිටු අංක ඉවත් කිරීම සඳහා පේළි ගණන සකසන්න.\n- රූප නරඹන්නන් මෙන්, PDF විසින් OCR භාවිතා කරමින් TTS ද සෙල්ලම් කළ හැකිය.\n- OCR ශ්රිතයක් භාවිතා කරන බොත්තම් වාදනය කරන්න."
+    "devnote": "7.8.6 (20, 2024)\n\n- ඔබ එය භාවිතා කරන විට යෙදුම වඩ වඩාත් මන්දගාමී වන අතර බරින් යුක්ත වන ගැටලුව අපි හදිසියේම සවි කළෙමු."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.8.5 (17 يناير 2024)\n\n- تمت إضافة عارض PDF.\n- تمت إضافة وظيفة لتعيين نطاق التمييز عند تشغيل Image/PDF TTS.\n- يمكنك الآن تعيين عدد الخطوط لإزالة أرقام الصفحات.\n- مثل مشاهدي الصور ، يمكن لـ PDF أيضًا تشغيل TTS باستخدام OCR.\n- الأزرار التي تستخدم شاشة OCR وظيفة OCR في الأسفل."
+    "devnote": "7.8.6 (19 يناير 2024)\n\n- لقد إصلاحنا بشكل عاجل المشكلة حيث يصبح التطبيق أبطأ وأثقل بشكل متزايد أثناء استخدامك."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.8.5 (հունվարի 17, 2024)\n\n- PDF հեռուստադիտողը ավելացվել է:\n- Image / PDF TTS խաղալիս ընդգծման միջակայքը տեղադրելու համար ավելացվել է գործառույթ:\n- Այժմ կարող եք սահմանել տողերի քանակը `էջի համարները հեռացնելու համար:\n- Պատկերների դիտողների նման, PDF- ն կարող է նաեւ TTS խաղալ OCR- ի միջոցով:\n- Խաղեք կոճակները, որոնք օգտագործում են OCR գործառույթը, ներքեւում OCR տառեր:"
+    "devnote": "7.8.6 (19 հունվարի, 2024)\n\n- Մենք շտապ շտկեցինք այն հարցը, որտեղ ծրագիրը ավելի ու ավելի դանդաղ է դառնում եւ ավելի ծանր, որքան այն օգտագործում եք:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.8.5 (17. janúar 2024)\n\n- PDF áhorfandi hefur verið bætt við.\n- Aðgerð hefur verið bætt við til að stilla hápunktsviðið þegar ég spilar mynd/PDF TTS.\n- Þú getur nú stillt fjölda lína til að fjarlægja blaðsíðunúmer.\n- Eins og áhorfendur, PDF getur einnig spilað TT með OCR.\n- Spilaðu hnappana sem nota OCR aðgerðina sýna OCR stafi neðst."
+    "devnote": "7.8.6 (19. janúar 2024)\n\n- Við festum brýn málið þar sem appið verður sífellt hægara og þyngri þegar þú notar það."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.8.5 (17 yanvar 2024)\n\n- PDF izləyicisi əlavə edildi.\n- Şəkil / PDF TTS oynayarkən vurğu aralığını təyin etmək üçün bir funksiya əlavə edildi.\n- İndi səhifə nömrələrini silmək üçün indi xətlərin sayını təyin edə bilərsiniz.\n- Şəkil görüntüləri kimi, PDF, OCR istifadə edərək TTS də oynaya bilər.\n- OCR funksiyası ekranının altındakı OCR məktublarından istifadə edən düymələri çalın."
+    "devnote": "7.8.6 (19 yanvar 2024)\n\n- Təcrübəli tətbiqin istifadə etdiyiniz kimi getdikcə daha yavaş və ağırlaşdığı məsələni həll etdik."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.8.5 (17 Januarie 2024)\n\n- PDF -kyker is bygevoeg.\n- 'n Funksie is bygevoeg om die hoogtepuntbereik in te stel wanneer u Image/PDF TTS speel.\n- U kan nou die aantal reëls instel om bladsynommers te verwyder.\n- Soos beeldkykers, kan PDF ook TTS speel met behulp van OCR.\n- Speel knoppies wat die OCR -funksie vertoon OCR -letters onderaan."
+    "devnote": "7.8.6 (19 Januarie 2024)\n\n- Ons het die probleem dringend opgelos waar die app al hoe stadiger en swaarder word namate u dit gebruik."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.8.5 (17 janar 2024)\n\n- PDF Viewer është shtuar.\n- Një funksion është shtuar për të vendosur gamën e theksuar kur luani imazh/PDF TTS.\n- Tani mund të vendosni numrin e linjave për të hequr numrat e faqeve.\n- Si shikuesit e imazhit, PDF gjithashtu mund të luajë TTS duke përdorur OCR.\n- Luaj butona që përdorin shkronjat e shfaqjes së funksionit OCR në fund."
+    "devnote": "7.8.6 (19 janar 2024)\n\n- Ne e rregulluam urgjentisht çështjen ku aplikacioni bëhet gjithnjë e më i ngadaltë dhe më i rëndë ndërsa e përdorni."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.8.5 (እ.ኤ.አ. ጥር 17, 2024)\n\n- የፒዲኤፍ መመልከቻ ታክሏል.\n- ምስልን / ፒዲኤፍ ቲቶቶችን በሚጫወቱበት ጊዜ የአድምጽ ሁኔታውን ለማዘጋጀት አንድ ተግባር ታክሏል.\n- አሁን ገጽ ቁጥሮችን ለማስወገድ የመስመርን ብዛት ማዘጋጀት ይችላሉ.\n- እንደ ምስል ተመልካቾች, ፒዲኤፍ OCR በመጠቀም TTS ን መጫወት ይችላል.\n- የ OCR ተግባር ማሳያ OCR ፊደላትን ከስር የሚጠቀሙ አዝራሮችን ይጫወቱ."
+    "devnote": "7.8.6 (ጥር 19, 2024)\n\n- እርስዎ በሚጠቀሙበት ጊዜ መተግበሪያው እየጨመረ የመጣበትን ጉዳይ በአስፋፋ እንስተካከለ ነበር."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.8.5 (17. jaanuar 2024)\n\n- PDF -vaataja on lisatud.\n- Pildi/PDF TTS -i mängimisel on lisatud funktsioon, et seada esiletõstetud vahemik.\n- Nüüd saate lehenumbrite eemaldamiseks seada ridade arvu.\n- Nagu pildivaatajad, saab ka PDF mängida ka TTS -i OCR abil.\n- Play nupud, mis kasutavad OCR -funktsiooni kuvamise OCR -tähti allosas."
+    "devnote": "7.8.6 (19. jaanuar 2024)\n\n- Fikseerisime tungivalt probleemi, kus rakendus muutub selle kasutamisel üha aeglasemaks ja raskemaks."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.8.5 (17 جنوری ، 2024)\n\n- پی ڈی ایف ناظرین کو شامل کیا گیا ہے۔\n- تصویر/پی ڈی ایف ٹی ٹی ایس چلاتے وقت ہائی لائٹ رینج کو طے کرنے کے لئے ایک فنکشن شامل کیا گیا ہے۔\n- اب آپ صفحہ نمبروں کو ہٹانے کے لئے لائنوں کی تعداد مرتب کرسکتے ہیں۔\n- تصویری ناظرین کی طرح ، پی ڈی ایف بھی او سی آر کا استعمال کرتے ہوئے ٹی ٹی ایس بھی کھیل سکتا ہے۔\n- ایسے بٹن کھیلیں جو نیچے میں OCR فنکشن ڈسپلے OCR حرف استعمال کرتے ہیں۔"
+    "devnote": "7.8.6 (19 جنوری ، 2024)\n\n- ہم نے فوری طور پر اس مسئلے کو طے کرلیا جہاں آپ کے استعمال کے ساتھ ہی ایپ تیزی سے آہستہ اور بھاری ہوجاتی ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.8.5 (17 січня 2024)\n\n- Додано переглядач PDF.\n- Додано функцію для встановлення діапазону виділення під час відтворення зображення/PDF TTS.\n- Тепер ви можете встановити кількість рядків для видалення номерів сторінок.\n- Як і глядачі зображень, PDF також може відтворювати TTS за допомогою OCR.\n- Кнопки відтворення, які використовують дисплей функції OCR внизу OCR внизу."
+    "devnote": "7.8.6 (19 січня 2024)\n\n- Ми терміново вирішили проблему, коли додаток стає все повільнішим і важче, коли ви його використовуєте."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.8.5 (17 gennaio 2024)\n\n- È stato aggiunto il visualizzatore PDF.\n- È stata aggiunta una funzione per impostare l'intervallo di evidenziazione durante la riproduzione di TTS di immagine/PDF.\n- Ora puoi impostare il numero di righe per rimuovere i numeri di pagina.\n- Come gli spettatori di immagini, PDF può anche giocare a TTS usando OCR.\n- Riproduci pulsanti che utilizzano le lettere OCR della funzione OCR nella parte inferiore."
+    "devnote": "7.8.6 (19 gennaio 2024)\n\n- Abbiamo risolto urgentemente il problema in cui l'app diventa sempre più lenta e più pesante man mano che la usi."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.8.5 (17 Januari 2024)\n\n- Penampil PDF telah ditambahkan.\n- Fungsi telah ditambahkan untuk mengatur rentang sorotan saat bermain gambar/pdf TTS.\n- Anda sekarang dapat mengatur jumlah baris untuk menghapus nomor halaman.\n- Seperti pemirsa gambar, PDF juga dapat memainkan TTS menggunakan OCR.\n- Putar tombol yang menggunakan Fungsi OCR menampilkan huruf OCR di bagian bawah."
+    "devnote": "7.8.6 (19 Januari 2024)\n\n- Kami segera memperbaiki masalah di mana aplikasi menjadi semakin lambat dan lebih berat saat Anda menggunakannya."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.8.5（2024年1月17日）\n\n-PDFビューアが追加されました。\n - 画像/PDF TTSを再生するときにハイライト範囲を設定するために関数が追加されています。\n - これで、ページ番号を削除するために行の数を設定できます。\n - 画像視聴者と同様に、PDFはOCRを使用してTTSを再生することもできます。\n-OCR関数を使用するボタンを再生します。下部にOCR文字が表示されます。"
+    "devnote": "7.8.6（2024年1月19日）\n\n - アプリが使用するにつれてますます遅くなり、重くなる問題を緊急に修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.8.5 (2024 წლის 17 იანვარი)\n\n- დაემატა PDF მაყურებელს.\n- დაემატა ფუნქცია, რომ დაადგინოთ ხაზგასმული დიაპაზონი, როდესაც სურათის/PDF TTS თამაშობთ.\n- ახლა შეგიძლიათ დააყენოთ ხაზების რაოდენობა გვერდის ნომრების მოსაშორებლად.\n- გამოსახულების მაყურებლების მსგავსად, PDF- ს შეუძლია TTS ითამაშოს OCR გამოყენებით.\n- ითამაშეთ ღილაკები, რომლებიც იყენებენ OCR ფუნქციის ჩვენებას OCR ასოების ბოლოში."
+    "devnote": "7.8.6 (2024 წლის 19 იანვარი)\n\n- ჩვენ სასწრაფოდ დავაფიქსირეთ საკითხი, სადაც აპლიკაცია უფრო ნელი და მძიმე ხდება, როგორც თქვენ იყენებთ."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.8.5 (Januwari 17, 2024)\n\n- Isibukeli se-PDF singeziwe.\n- Umsebenzi ungezelwe ukusetha uhla olugqamile lapho udlala isithombe / PDF TTS.\n- Manje usungasetha inani lemigqa ukususa izinombolo zamakhasi.\n- Njengababukeli bezithombe, i-PDF nayo ingadlala ama-TTS kusetshenziswa i-OCR.\n- Dlala izinkinobho ezisebenzisa izinhlamvu ze-OCR zomsebenzi we-OCR ezansi."
+    "devnote": "7.8.6 (Januwari 19, 2024)\n\n- Silungise ngokuphuthumayo le nkinga lapho uhlelo lokusebenza luqala kancane futhi lusinda kakhulu njengoba ulusebenzisa."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.8.5（2024年1月17日）\n\n-PDF查看器已添加。\n - 在播放图像/PDF TTS时，添加了一个函数来设置高光范围。\n - 您现在可以设置以删除页码的行数。\n - 像图像查看器一样，PDF也可以使用OCR播放TTS。\n - 播放使用OCR函数的按钮在底部显示OCR字母。"
+    "devnote": "7.8.6（2024年1月19日）\n\n - 我们紧急修复了应用程序在您使用时变得越来越慢和重的问题。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.8.5（2024年1月17日）\n\n-PDF查看器已添加。\n - 在播放圖像/PDF TTS時，添加了一個函數來設置高光範圍。\n - 您現在可以設置以刪除頁碼的行數。\n - 像圖像查看器一樣，PDF也可以使用OCR播放TTS。\n - 播放使用OCR函數的按鈕在底部顯示OCR字母。"
+    "devnote": "7.8.6（2024年1月19日）\n\n - 我們緊急修復了應用程序在您使用時變得越來越慢和重的問題。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.8.5（2024年1月17日）\n\n-PDF查看器已添加。\n - 在播放圖像/PDF TTS時，添加了一個函數來設置高光範圍。\n - 您現在可以設置以刪除頁碼的行數。\n - 像圖像查看器一樣，PDF也可以使用OCR播放TTS。\n - 播放使用OCR函數的按鈕在底部顯示OCR字母。"
+    "devnote": "7.8.6（2024年1月19日）\n\n - 我們緊急修復了應用程序在您使用時變得越來越慢和重的問題。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.8.5 (17. ledna 2024)\n\n- byl přidán divák PDF.\n- Byla přidána funkce pro nastavení rozsahu zvýraznění při přehrávání Image/PDF TTS.\n- Nyní můžete nastavit počet řádků pro odstranění čísel stránek.\n- Stejně jako diváci obrázků, PDF může také hrát TTS pomocí OCR.\n- Přehrajte tlačítka, která používají funkci OCR zobrazení písmen OCR dole."
+    "devnote": "7.8.6 (19. ledna 2024)\n\n- Naléhavě jsme vyřešili problém, kdy se aplikace stává stále pomalejší a těžší, když ji používáte."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.8.5 (17, 2024)\n\n- PDF қарау құралы қосылды.\n- Сурет / PDF TTS ойнату кезінде бөлектеу диапазонын орнату үшін функция қосылды.\n- Енді сіз бет нөмірлерін жою үшін жолдар санын орната аласыз.\n- Кескін қараушылары сияқты, PDF сияқты TTS ойнатылуы мүмкін.\n- OCR функциясын DISPLAY OCR әріптерін төменгі жағындағы ойнату түймелері."
+    "devnote": "7.8.6 (2024 ж. Қаңтар)\n\n- Біз сіз оны қолданған кезде қолданба көбейіп, ауыр болатын шығарылымды шұғыл түрде бекіттік."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.8.5 (17 de gener de 2024)\n\n- S'ha afegit el visualitzador PDF.\n- S'ha afegit una funció per definir el rang de ressaltat quan es reprodueix TTS Image/PDF.\n- Ara podeu definir el nombre de línies per eliminar els números de pàgina.\n- Com els espectadors d’imatges, PDF també pot reproduir TTS mitjançant OCR.\n- Reprodueix els botons que utilitzen les lletres OCR de la funció OCR a la part inferior."
+    "devnote": "7.8.6 (19 de gener de 2024)\n\n- Hem solucionat urgentment el problema en què l’aplicació es fa cada cop més lenta i més pesada a mesura que l’utilitzeu."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.8.5 (ಜನವರಿ 17, 2024)\n\n- ಪಿಡಿಎಫ್ ವೀಕ್ಷಕವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಇಮೇಜ್/ಪಿಡಿಎಫ್ ಟಿಟಿಎಸ್ ಆಡುವಾಗ ಹೈಲೈಟ್ ಶ್ರೇಣಿಯನ್ನು ಹೊಂದಿಸಲು ಒಂದು ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಪುಟ ಸಂಖ್ಯೆಗಳನ್ನು ತೆಗೆದುಹಾಕಲು ನೀವು ಈಗ ಸಾಲುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಹೊಂದಿಸಬಹುದು.\n- ಇಮೇಜ್ ವೀಕ್ಷಕರಂತೆ, ಪಿಡಿಎಫ್ ಒಸಿಆರ್ ಬಳಸಿ ಟಿಟಿಎಸ್ ಅನ್ನು ಸಹ ಪ್ಲೇ ಮಾಡಬಹುದು.\n- ಒಸಿಆರ್ ಕಾರ್ಯ ಪ್ರದರ್ಶನ ಒಸಿಆರ್ ಅಕ್ಷರಗಳನ್ನು ಬಳಸುವ ಗುಂಡಿಗಳನ್ನು ಪ್ಲೇ ಮಾಡಿ."
+    "devnote": "7.8.6 (ಜನವರಿ 19, 2024)\n\n- ನೀವು ಅದನ್ನು ಬಳಸುವಾಗ ಅಪ್ಲಿಕೇಶನ್ ಹೆಚ್ಚು ನಿಧಾನವಾಗಿ ಮತ್ತು ಭಾರವಾಗಿರುತ್ತದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.8.5 (17. siječnja 2024.)\n\n- Dodan je PDF Viewer.\n- Dodana je funkcija za postavljanje raspona istaknutih prilikom reprodukcije slike/PDF TTS.\n- Sada možete postaviti broj redaka za uklanjanje brojeva stranica.\n- Kao i gledatelji slike, i PDF se također može igrati TTS pomoću OCR -a.\n- Reproducirajte gumbe koji koriste OCR funkciju prikaz OCR slova na dnu."
+    "devnote": "7.8.6 (19. siječnja 2024.)\n\n- Hitno smo riješili problem u kojem aplikacija postaje sve sporije i teže dok je koristite."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.8.5 (17 មករា 2024)\n\n- កម្មវិធីមើល PDF ត្រូវបានបន្ថែម។\nមុខងារត្រូវបានបន្ថែមដើម្បីកំណត់ជួរបន្លិចនៅពេលលេងរូបភាព / PDF TTS ។\nឥឡូវអ្នកអាចកំណត់ចំនួនបន្ទាត់ដើម្បីលុបលេខទំព័រចេញ។\n- ដូចជាអ្នកមើលរូបភាព PDF ក៏អាចលេង TTS ដោយប្រើ OCR ផងដែរ។\n- ចាក់ប៊ូតុងដែលប្រើមុខងារ OCR បង្ហាញអក្សរ OCR នៅខាងក្រោម។"
+    "devnote": "7.8.6 (19 មករា 2024)\n\n- យើងជួសជុលបញ្ហាជាបន្ទាន់ដែលកម្មវិធីកាន់តែយឺតនិងធ្ងន់ជាងពេលដែលអ្នកប្រើវា។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.8.5 (2024-жылдын 17-январы)\n\n- PDF Viewer кошулду.\n- сүрөт / PDF TTS ойноп жатканда, бөлүктүн эң сонун чөйрөсүн коюу үчүн функция кошулду.\n- Бет номерлерин алып салуу үчүн саптардын санын белгилей аласыз.\n- Сүрөттү көрүүчүлөр сыяктуу, PDF ошондой эле OCR колдонуп TTS ойной алат.\n- OCR функциясын колдонгон ст."
+    "devnote": "7.8.6 (2022-январь)\n\n- Тез арада колдонмо барган сайын жайыраак жана ооруп баратканын, сиз аны колдонгонуңузга чейин күчтөнүп баратканын белгилейбиз."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.8.5 (ஜனவரி 17, 2024)\n\n- PDF பார்வையாளர் சேர்க்கப்பட்டுள்ளது.\n- படம்/PDF TTS ஐ இயக்கும்போது சிறப்பம்சமாக வரம்பை அமைக்க ஒரு செயல்பாடு சேர்க்கப்பட்டுள்ளது.\n- பக்க எண்களை அகற்ற இப்போது வரிகளின் எண்ணிக்கையை அமைக்கலாம்.\n- பட பார்வையாளர்களைப் போலவே, PDF OCR ஐப் பயன்படுத்தி TTS ஐ இயக்கலாம்.\n- OCR செயல்பாட்டைப் பயன்படுத்தும் பொத்தான்கள் கீழே OCR எழுத்துக்களைக் காண்பிக்கின்றன."
+    "devnote": "7.8.6 (ஜனவரி 19, 2024)\n\n- நீங்கள் அதைப் பயன்படுத்தும்போது பயன்பாடு பெருகிய முறையில் மெதுவாகவும் கனமாகவும் மாறும் சிக்கலை நாங்கள் அவசரமாக சரிசெய்தோம்."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.8.5 (17 มกราคม 2567)\n\n- เพิ่ม PDF Viewer\n- มีการเพิ่มฟังก์ชั่นเพื่อตั้งค่าช่วงไฮไลต์เมื่อเล่น Image/PDF TTS\n- ตอนนี้คุณสามารถตั้งค่าจำนวนบรรทัดเพื่อลบหมายเลขหน้า\n- เช่นเดียวกับผู้ชมรูปภาพ PDF ยังสามารถเล่น TTS โดยใช้ OCR\n- ปุ่มเล่นที่ใช้ฟังก์ชั่น OCR Display OCR ที่ด้านล่าง"
+    "devnote": "7.8.6 (19 มกราคม 2567)\n\n- เราแก้ไขปัญหาอย่างเร่งด่วนที่แอพจะช้าลงและหนักขึ้นเรื่อย ๆ เมื่อคุณใช้"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.8.5 (17 Ocak 2024)\n\n- PDF görüntüleyici eklendi.\n- Görüntü/PDF TTS oynatılırken vurgu aralığını ayarlamak için bir işlev eklendi.\n- Artık sayfa numaralarını kaldırmak için satır sayısını ayarlayabilirsiniz.\n- Görüntü izleyicileri gibi PDF de OCR kullanarak TTS oynayabilir.\n- OCR işlevini kullanan düğmeleri en alttaki OCR harflerini görüntüleyin."
+    "devnote": "7.8.6 (19 Ocak 2024)\n\n- Uygulamanın kullanırken giderek daha yavaş ve daha ağır hale geldiği sorunu acilen düzelttik."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.8.5 (జనవరి 17, 2024)\n\n- పిడిఎఫ్ వీక్షకుడు జోడించబడింది.\n- ఇమేజ్/పిడిఎఫ్ టిటిలను ప్లే చేసేటప్పుడు హైలైట్ పరిధిని సెట్ చేయడానికి ఒక ఫంక్షన్ జోడించబడింది.\n- మీరు ఇప్పుడు పేజీ సంఖ్యలను తొలగించడానికి పంక్తుల సంఖ్యను సెట్ చేయవచ్చు.\n- ఇమేజ్ వీక్షకుల మాదిరిగానే, పిడిఎఫ్ కూడా ఓసిఆర్ ఉపయోగించి టిటిలను ప్లే చేయవచ్చు.\n- OCR ఫంక్షన్ ఉపయోగించే బటన్లను ప్లే చేయండి."
+    "devnote": "7.8.6 (జనవరి 19, 2024)\n\n- మీరు ఉపయోగించినప్పుడు అనువర్తనం నెమ్మదిగా మరియు భారీగా మారే సమస్యను మేము అత్యవసరంగా పరిష్కరించాము."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.8.5 (17 ਜਨਵਰੀ, 2024)\n\n- ਪੀਡੀਐਫ ਦਰਸ਼ਕ ਜੋੜਿਆ ਗਿਆ ਹੈ.\n- ਚਿੱਤਰ / ਪੀਡੀਐਫ ਟੀਟੀਐਸ ਖੇਡਣ ਵੇਲੇ ਹਾਈਲਾਈਟ ਰੇਂਜ ਸੈੱਟ ਕਰਨ ਲਈ ਇੱਕ ਕਾਰਜ ਜੋੜਿਆ ਗਿਆ ਹੈ.\n- ਤੁਸੀਂ ਹੁਣ ਪੇਜ ਨੰਬਰ ਹਟਾਉਣ ਲਈ ਲਾਈਨਾਂ ਦੀ ਗਿਣਤੀ ਤਹਿ ਕਰ ਸਕਦੇ ਹੋ.\n- ਚਿੱਤਰ ਦਰਸ਼ਕਾਂ ਵਾਂਗ, ਪੀਡੀਐਫ ਓਸੀਆਰ ਦੀ ਵਰਤੋਂ ਕਰਦਿਆਂ ਟੀਟੀਐਸ ਵੀ ਖੇਡ ਸਕਦਾ ਹੈ.\n- ਚਲਾਓਟ ਬਟਨਾਂ ਜੋ ਤਲ 'ਤੇ ਓਸੀਆਰ ਫੰਕਸ਼ਨ ਡਿਸਪਲੇਅ ਓਕੀਆਰ ਅੱਖਰ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹਨ."
+    "devnote": "7.8.6 (ਜਨਵਰੀ 19, 2024)\n\n- ਅਸੀਂ ਉਸ ਮੁੱਦੇ ਨੂੰ ਤੁਰੰਤ ਹੱਲ ਕਰਦੇ ਹਾਂ ਜਿੱਥੇ ਐਪ ਹੌਲੀ ਹੌਲੀ ਅਤੇ ਭਾਰੀ ਬਣ ਜਾਂਦੀ ਹੈ ਜਿੰਨੀ ਤੁਸੀਂ ਵਰਤਦੇ ਹੋ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.8.5 (17 ژانویه 2024)\n\n- بیننده PDF اضافه شده است.\n- یک تابع اضافه شده است تا هنگام پخش تصویر/PDF TTS محدوده برجسته را تنظیم کند.\n- اکنون می توانید تعداد خطوط را برای حذف شماره صفحه تنظیم کنید.\n- مانند بینندگان تصویر ، PDF همچنین می تواند با استفاده از OCR TTS بازی کند.\n- دکمه هایی را پخش کنید که از صفحه نمایش عملکرد OCR در پایین استفاده می کنند."
+    "devnote": "7.8.6 (19 ژانویه 2024)\n\n- ما فوراً مسئله ای را که برنامه به طور فزاینده ای کندتر و سنگین تر می شود ، برطرف می کنیم."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.8.5 (17 de janeiro de 2024)\n\n- O visualizador de PDF foi adicionado.\n- Uma função foi adicionada para definir o intervalo de destaque ao reproduzir a imagem/PDF TTS.\n- Agora você pode definir o número de linhas para remover os números da página.\n- Como os visualizadores de imagem, o PDF também pode reproduzir TTS usando OCR.\n- Play Botões que usam as funções OCR Exibir letras OCR na parte inferior."
+    "devnote": "7.8.6 (19 de janeiro de 2024)\n\n- Corrigimos urgentemente o problema em que o aplicativo se torna cada vez mais lento e mais pesado à medida que você o usa."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.8.5 (17 stycznia 2024)\n\n- Dodano przeglądarkę PDF.\n- Dodano funkcję, aby ustawić zasięg podświetlenia podczas odtwarzania Image/PDF TTS.\n- Możesz teraz ustawić liczbę linii, aby usunąć numery stron.\n- Podobnie jak przeglądacze obrazów, PDF może również odtwarzać TTS za pomocą OCR.\n- Przyciski odtwarzania, które używają funkcji OCR wyświetlaj litery OCR na dole."
+    "devnote": "7.8.6 (19 stycznia 2024)\n\n- Pilnie naprawiliśmy problem, w którym aplikacja staje się coraz bardziej wolniejsza i cięższa podczas jej użycia."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.8.5 (17 janvier 2024)\n\n- La visionneuse PDF a été ajoutée.\n- Une fonction a été ajoutée pour définir la plage de surbrillance lors de la lecture de TTS Image / PDF.\n- Vous pouvez désormais définir le nombre de lignes pour supprimer les numéros de page.\n- Comme les visionneuses d'image, PDF peut également lire TTS à l'aide de l'OCR.\n- Placez les boutons qui utilisent la fonction OCR Afficher les lettres OCR en bas."
+    "devnote": "7.8.6 (19 janvier 2024)\n\n- Nous avons résolu de toute urgence le problème où l'application devient de plus en plus lente et plus lourde lorsque vous l'utilisez."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.8.5 (17. tammikuuta 2024)\n\n- PDF -katsoja on lisätty.\n- Toiminto on lisätty korostusalueen asettamiseksi kuvassa/PDF TTS: ää.\n- Voit nyt asettaa rivien lukumäärän sivunumeroiden poistamiseksi.\n- Kuten kuvan katsojat, myös PDF voi pelata TTS: ää OCR: n avulla.\n- Toista painikkeita, jotka käyttävät OCR -toimintojen näytön OCR -kirjaimia alareunassa."
+    "devnote": "7.8.6 (19. tammikuuta 2024)\n\n- Korjaamme kiireellisesti ongelman, jossa sovellus muuttuu yhä hitaammaksi ja raskaammaksi käyttäessäsi sitä."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.8.5 (Enero 17, 2024)\n\n- Ang Viewer ng PDF ay naidagdag.\n- Ang isang function ay naidagdag upang itakda ang saklaw ng highlight kapag naglalaro ng imahe/PDF TTS.\n- Maaari mo na ngayong itakda ang bilang ng mga linya upang alisin ang mga numero ng pahina.\n- Tulad ng mga manonood ng imahe, ang PDF ay maaari ring maglaro ng TTS gamit ang OCR.\n- Maglaro ng mga pindutan na gumagamit ng OCR function display OCR na mga titik sa ibaba."
+    "devnote": "7.8.6 (Enero 19, 2024)\n\n- Agad naming naayos ang isyu kung saan ang app ay nagiging mas mabagal at mas mabigat habang ginagamit mo ito."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.8.5 (2024. január 17.)\n\n- A PDF néző hozzáadódott.\n- Egy függvényt adtak hozzá, hogy beállítsák a kiemelt tartományt a kép/pdf TTS lejátszásakor.\n- Most beállíthatja a sorok számát az oldalszámok eltávolításához.\n- Mint a képnézők, a PDF az OCR segítségével is lejátszhatja a TTS -t.\n- Az OCR funkció használatát használó gombok lejátszása Az OCR betűket az alján."
+    "devnote": "7.8.6 (2024. január 19.)\n\n- Sürgősen kijavítottuk azt a problémát, ahol az alkalmazás egyre lassabbá és nehezebbé válik, amikor használja."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.8.5 (17 בינואר 2024)\n\n- מציג PDF נוסף.\n- נוספה פונקציה כדי להגדיר את טווח ההדגשה בעת משחק Image/PDF TTS.\n- כעת תוכל להגדיר את מספר השורות להסרת מספרי העמודים.\n- כמו צופי תמונה, PDF יכול גם לשחק TTS באמצעות OCR.\n- הפעל כפתורי שימוש בפונקציית OCR מציגים אותיות OCR בתחתית."
+    "devnote": "7.8.6 (19 בינואר 2024)\n\n- תיקנו בדחיפות את הבעיה בה האפליקציה הופכת לאט וכבד יותר ויותר ככל שאתה משתמש בה."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.8.5 (17 जनवरी, 2024)\n\n- पीडीएफ व्यूअर को जोड़ा गया है।\n- छवि/पीडीएफ टीटीएस खेलते समय हाइलाइट रेंज सेट करने के लिए एक फ़ंक्शन जोड़ा गया है।\n- अब आप पेज नंबर निकालने के लिए लाइनों की संख्या सेट कर सकते हैं।\n- छवि दर्शकों की तरह, पीडीएफ भी ओसीआर का उपयोग करके टीटीएस खेल सकता है।\n- बटनों को चलाएं जो ओसीआर फ़ंक्शन डिस्प्ले OCR अक्षरों का उपयोग करते हैं।"
+    "devnote": "7.8.6 (19 जनवरी, 2024)\n\n- हमने उस मुद्दे को तत्काल तय किया जहां ऐप तेजी से धीमा और भारी हो जाता है क्योंकि आप इसका उपयोग करते हैं।"
   }
 }
