@@ -7,16 +7,13 @@
         "type": "simplytranslate",
         "engine": "google",
         "urls": [
-            "https://translate.bus-hit.me/",
             "https://simplytranslate.pussthecat.org/",
             "https://translate.northboot.xyz/",
-            "https://translate.tiekoetter.com/",
             "https://simplytranslate.esmailelbob.xyz/",
             "https://tl.vern.cc/",
             "https://translate.slipfox.xyz/",
             "https://st.privacydev.net/",
             "https://simplytranslate.vern.cc/",
-            "https://comf.info/",
             "https://tl.slipfox.xyz/",
             "https://trap.her.st/",
             "https://translate.lurkmore.com/"
@@ -432,9 +429,7 @@
         "type": "simplytranslate",
         "engine": "iciba",
         "urls": [
-            "https://translate.bus-hit.me/",
             "https://simplytranslate.pussthecat.org/",
-            "https://translate.tiekoetter.com/",
             "https://simplytranslate.esmailelbob.xyz/"
         ],
         "scroll": 0,
@@ -1004,13 +999,10 @@
         "type": "simplytranslate",
         "engine": "reverso",
         "urls": [
-            "https://translate.bus-hit.me/",
             "https://simplytranslate.pussthecat.org/",
             "https://translate.northboot.xyz/",
-            "https://translate.tiekoetter.com/",
             "https://simplytranslate.esmailelbob.xyz/",
-            "https://translate.slipfox.xyz/",
-            "https://comf.info/"
+            "https://translate.slipfox.xyz/"
         ],
         "scroll": 0,
         "lang": [
@@ -1179,7 +1171,6 @@
         "type": "simplytranslate",
         "engine": "libre",
         "urls": [
-            "https://translate.bus-hit.me/",
             "https://translate.northboot.xyz/",
             "https://simplytranslate.esmailelbob.xyz/",
             "https://simplytranslate.vern.cc/"
