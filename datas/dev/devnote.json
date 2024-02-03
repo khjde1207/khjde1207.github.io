@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Modified to display an error image when the image fails to load.\n- Image viewer performance has been optimized."
+    "devnote": "7.8.7 (January 19, 2024)\n\n- We urgently fixed the issue where the app becomes increasingly slower and heavier as you use it."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.7.7 (2023 12 14)\n\n- 이미지를 로딩 못한경우 에러 이미지 를 표시하도록 수정 하였습니다.\n- 이미지 뷰어 성능을 최적화 하였습니다."
+    "devnote": "7.8.7 (2024 01 19)\n\n- 어플을 사용할수록 점점 느려지고 무거워지는 현상을 긴급 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Modificado para mostrar unha imaxe de erro cando a imaxe non se cargue.\n- Optimizouse o rendemento do visor de imaxes."
+    "devnote": "7.8.7 (19 de xaneiro de 2024)\n\n- Solucionamos con urxencia o problema onde a aplicación faise cada vez máis lenta e máis pesada a medida que a usa."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.7.7 (2023 12 14)\n\n- જ્યારે છબી લોડ કરવામાં નિષ્ફળ જાય ત્યારે ભૂલની છબી પ્રદર્શિત કરવા માટે સંશોધિત.\n- છબી દર્શકનું પ્રદર્શન optim પ્ટિમાઇઝ કરવામાં આવ્યું છે."
+    "devnote": "7.8.7 (જાન્યુઆરી 19, 2024)\n\n- અમે તાત્કાલિક આ મુદ્દાને ઠીક કર્યો છે જ્યાં એપ્લિકેશન તમે તેનો ઉપયોગ કરો ત્યારે વધુને વધુ ધીમી અને ભારે બને છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Τροποποιήθηκε για να εμφανίσει μια εικόνα σφάλματος όταν η εικόνα αποτυγχάνει να φορτώσει.\n- Η απόδοση του προβολέα εικόνων έχει βελτιστοποιηθεί."
+    "devnote": "7.8.7 (19 Ιανουαρίου 2024)\n\n- Διορθώσαμε επειγόντως το ζήτημα όπου η εφαρμογή γίνεται όλο και πιο αργή και βαρύτερη καθώς το χρησιμοποιείτε."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.7.7 (2023 12 14)\n\n- aangepast om een ​​foutafbeelding weer te geven wanneer de afbeelding niet wordt geladen.\n- De prestaties van beeldviewer zijn geoptimaliseerd."
+    "devnote": "7.8.7 (19 januari 2024)\n\n- We hebben dringend het probleem opgelost waarbij de app steeds langzamer en zwaarder wordt naarmate u deze gebruikt."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "7.7..7 (2023 12))\n\n- त्रुटि छवि प्रदर्शन गर्न परिमार्जन गरिएको जब छवि लोड गर्न असफल भयो।\n- छवि दर्शक प्रदर्शन अनुकूलित गरिएको छ।"
+    "devnote": ".8..8.7 (जनवरी 1 ,, 2024)\n\n- हामीले तत्काल मुद्दा मिलायौं जहाँ तपाईं यसलाई प्रयोग गर्दा व्यापक र भारी हुन्छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Endret for å vise et feilbilde når bildet ikke klarer å laste.\n- ytelsen til bildevisning er optimalisert."
+    "devnote": "7.8.7 (19. januar 2024)\n\n- Vi løste haster problemet der appen blir stadig mer tregere og tyngre når du bruker den."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Ændret til at vise et fejlbillede, når billedet ikke indlæses.\n- Billedvisningen er blevet optimeret."
+    "devnote": "7.8.7 (19. januar 2024)\n\n- Vi løste presserende problemet, hvor appen bliver mere langsommere og tungere, når du bruger den."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Modifiziert, um ein Fehlerbild anzuzeigen, wenn das Bild nicht geladen wird.\n- Die Leistung des Bildbetreibers wurde optimiert."
+    "devnote": "7.8.7 (19. Januar 2024)\n\n- Wir haben das Problem dringend behoben, bei dem die App immer langsamer und schwerer wird, wenn Sie es verwenden."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.7.7 (2023 12 14)\n\n- ດັດແກ້ເພື່ອສະແດງຮູບພາບທີ່ຜິດພາດເມື່ອຮູບພາບລົ້ມເຫລວໃນການໂຫຼດ.\n- ການປະຕິບັດການເບິ່ງຮູບພາບໄດ້ຖືກປັບປຸງໃຫ້ດີທີ່ສຸດ."
+    "devnote": "7.8.7 (ວັນທີ 19 ມັງກອນ 2024)\n\n- ພວກເຮົາແກ້ໄຂບັນຫາທີ່ແອັບ is ກາຍເປັນທີ່ຊ້າລົງແລະຫນັກກວ່າທີ່ທ່ານໃຊ້ມັນ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.7.7 (2023 12 14)\n\n- modificēts, lai parādītu kļūdas attēlu, kad attēls neizdodas ielādēt.\n- Attēlu skatītāja veiktspēja ir optimizēta."
+    "devnote": "7.8.7 (2024. gada 19. janvāris)\n\n- Mēs steidzami novēršam problēmu, kurā lietotne kļūst arvien lēnāka un smagāka, kad to lietojat."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Модифицировано для отображения изображения ошибки, когда изображение не загружается.\n- Производительность просмотра изображения была оптимизирована."
+    "devnote": "7.8.7 (19 января 2024 г.)\n\n- Мы срочно исправили проблему, когда приложение становится все более медленным и тяжелее, когда вы его используете."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Modificat pentru a afișa o imagine de eroare atunci când imaginea nu reușește să se încarce.\n- Performanța vizualizatorului de imagini a fost optimizată."
+    "devnote": "7.8.7 (19 ianuarie 2024)\n\n- Am rezolvat urgent problema în care aplicația devine din ce în ce mai lentă și mai grea pe măsură ce o utilizați."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Modifikuotas taip, kad būtų rodomas klaidos vaizdas, kai vaizdas nepavyksta įkelti.\n- Vaizdo žiūrovo našumas buvo optimizuotas."
+    "devnote": "7.8.7 (2024 m. Sausio 19 d.)\n\n- Mes skubiai išsprendėme problemą, kai programa tampa vis lėtesnė ir sunkesnė, kai ją naudojate."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.7.7 (2023 12 14)\n\n- जेव्हा प्रतिमा लोड करण्यात अयशस्वी होते तेव्हा त्रुटी प्रतिमा प्रदर्शित करण्यासाठी सुधारित.\n- प्रतिमा दर्शकांची कार्यक्षमता ऑप्टिमाइझ केली गेली आहे."
+    "devnote": "7.8.7 (19 जानेवारी, 2024)\n\n- आम्ही तातडीने हा मुद्दा निश्चित केला जेथे अॅप आपण वापरत असताना अधिक हळू आणि जड होते."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Изменето за да се прикаже слика за грешка кога сликата не успева да се вчита.\n- Перформансите на гледачот на слика е оптимизирана."
+    "devnote": "7.8.7 (19 јануари 2024 година)\n\n- Ние итно го поправивме проблемот каде апликацијата станува сè побавна и потешка додека ја користите."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.7.7 (2023 12 14)\n\n- ഇമേജ് ലോഡുചെയ്യുന്നതിൽ പരാജയപ്പെടുമ്പോൾ ഒരു പിശക് ഇമേജ് പ്രദർശിപ്പിക്കുന്നതിന് പരിഷ്ക്കരിച്ചു.\n- ഇമേജ് വ്യൂവർ പ്രകടനം ഒപ്റ്റിമൈസ് ചെയ്തു."
+    "devnote": "7.8.7 (ജനുവരി 19, 2024)\n\n- ആപ്ലിക്കേഷൻ കൂടുതലായി മന്ദഗതിയിലാകുന്നതും നിങ്ങൾ ഉപയോഗിക്കുന്നത്ര ഭാരം കുറഞ്ഞതും ഞങ്ങൾ അടിയന്തിരമായി പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Diubahsuai untuk memaparkan imej ralat apabila imej gagal dimuatkan.\n- Prestasi penonton imej telah dioptimumkan."
+    "devnote": "7.8.7 (19 Januari, 2024)\n\n- Kami segera menetapkan isu di mana aplikasi menjadi semakin perlahan dan lebih berat semasa anda menggunakannya."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Зураг ачаалах үед алдаа гарсан зургийг харуулахаар өөрчлөгдсөн.\n- Зургийн үзэгчдийн гүйцэтгэлийг оновчтой болгож байна."
+    "devnote": "7.8.7 (1-р сарын 19, 20244)\n\n- Апп-ыг ашиглахдаа апп-ыг улам чанга, илүү чанга болгож,"
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Irudiak kargatzen ez duenean akats irudia bistaratzeko aldatua.\n- Irudiaren ikuslearen errendimendua optimizatu da."
+    "devnote": "7.8.7 (2024ko urtarrilaren 19a)\n\n- Premiazkoa konpondu dugu aplikazioa gero eta motelagoa eta astunagoa bihurtzen den bezala."
   },
   "버마어": {
     "key": "my",
-    "devnote": "722.7 (2023 12 14)\n\n- ပုံမဖွင့်ရန်ပျက်ကွက်သည့်အခါအမှားအယွင်းတစ်ခုပြသရန်ပြင်ဆင်ထားသော။\n- ပုံရိပ်ကြည့်ရှုသူစွမ်းဆောင်ရည်ကိုအကောင်းဆုံးဖြစ်သည်။"
+    "devnote": "7.8.7 (ဇန်နဝါရီ 19, 2024)\n\n- သင်အသုံးပြုသောကြောင့်အက်ပလီကေးရှင်းသည်ပိုမိုနှေးကွေးလာသည့်ပြ issue နာကိုအရေးတကြီးပြင်ဆင်ထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Đã sửa đổi để hiển thị hình ảnh lỗi khi hình ảnh không tải.\n- Hiệu suất của người xem hình ảnh đã được tối ưu hóa."
+    "devnote": "7.8.7 (19 tháng 1 năm 2024)\n\n- Chúng tôi đã sửa chữa khẩn cấp sự cố trong đó ứng dụng ngày càng chậm và nặng hơn khi bạn sử dụng nó."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Зменена для адлюстравання малюнка памылкі, калі малюнак не загружаецца.\n- Прадукцыйнасць прагляду малюнкаў была аптымізавана."
+    "devnote": "7.8.7 (19 студзеня 2024 г.)\n\n- Мы тэрмінова выправілі праблему, калі прыкладанне становіцца ўсё больш павольным і цяжэй, калі вы яго выкарыстоўваеце."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.7.7 (2023 12 14)\n\n- চিত্রটি লোড করতে ব্যর্থ হলে একটি ত্রুটি চিত্র প্রদর্শন করতে পরিবর্তিত।\n- চিত্র দর্শকের পারফরম্যান্স অনুকূলিত হয়েছে।"
+    "devnote": "7.8.7 (জানুয়ারী 19, 2024)\n\n- আমরা জরুরীভাবে সমস্যাটি ঠিক করেছি যেখানে অ্যাপটি আপনি ব্যবহার করার সাথে সাথে ক্রমবর্ধমান ধীর এবং ভারী হয়ে ওঠে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Модифицирано, за да се покаже изображение на грешка, когато изображението не се зареди.\n- Изпълнението на зрителя на изображения е оптимизирана."
+    "devnote": "7.8.7 (19 януари 2024 г.)\n\n- Ние спешно отстранихме проблема, при който приложението става все по -бавно и по -тежко, докато го използвате."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Модификовано да прикаже слику о грешци када се слика не учитава.\n- Перформансе гледалаца слике је оптимизована."
+    "devnote": "7.8.7 (19. јануара 2024.)\n\n- Хитно смо поправили проблем у којем апликација постане све спорија и теже јер га користите."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Iliyorekebishwa kuonyesha picha ya makosa wakati picha inashindwa kupakia.\n- Utendaji wa mtazamaji wa picha umeboreshwa."
+    "devnote": "7.8.7 (Januari 19, 2024)\n\n- Tulirekebisha haraka suala ambalo programu inazidi kuwa polepole na nzito kama unavyotumia."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Modifierad för att visa en felbild när bilden inte laddas.\n- Bildvisarens prestanda har optimerats."
+    "devnote": "7.8.7 (19 januari 2024)\n\n- Vi fixade snabbt problemet där appen blir allt mer långsammare och tyngre när du använder den."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Modificado para mostrar una imagen de error cuando la imagen no se carga.\n- El rendimiento del visor de imágenes ha sido optimizado."
+    "devnote": "7.8.7 (19 de enero de 2024)\n\n- Arreglamos urgentemente el problema donde la aplicación se vuelve cada vez más lenta y pesada a medida que la usa."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7,7,7 (2023 12 14)\n\n- Upravené tak, aby sa zobrazil chybový obrázok, keď sa obrázok nedokáže načítať.\n- Výkon prehliadača obrázkov bol optimalizovaný."
+    "devnote": "7.8.7 (19. januára 2024)\n\n- Naliehavo sme vyriešili problém, keď sa aplikácia stáva čoraz pomalšie a ťažšie, keď ju používate."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Spremenjeno tako, da prikaže sliko napake, ko se slika ne naloži.\n- Zmogljivost pregledovalnika slik je optimizirana."
+    "devnote": "7.8.7 (19. januarja 2024)\n\n- Nujno smo odpravili težavo, ko aplikacija postaja vse bolj počasnejša in težja, ko jo uporabljate."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.7.7 (2023 12 14)\n\n- රූපය පැටවීමට අසමත් වූ විට දෝෂ රූපයක් පෙන්වීමට වෙනස් කරන ලදි.\n- රූප නරඹන්නාගේ කාර්ය සාධනය ප්රශස්ත කර ඇත."
+    "devnote": "7.8.7 (20, 2024)\n\n- ඔබ එය භාවිතා කරන විට යෙදුම වඩ වඩාත් මන්දගාමී වන අතර බරින් යුක්ත වන ගැටලුව අපි හදිසියේම සවි කළෙමු."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.7.7 (2023 12 14)\n\n- تم تعديله لعرض صورة خطأ عندما تفشل الصورة في التحميل.\n- تم تحسين أداء عارض الصور."
+    "devnote": "7.8.7 (19 يناير 2024)\n\n- لقد إصلاحنا بشكل عاجل المشكلة حيث يصبح التطبيق أبطأ وأثقل بشكل متزايد أثناء استخدامك."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Փոփոխված է սխալի պատկերը ցուցադրելու համար, երբ պատկերը չի կարող բեռնել:\n- Պատկերի դիտողի աշխատանքը օպտիմիզացված է:"
+    "devnote": "7.8.7 (19 հունվարի, 2024)\n\n- Մենք շտապ շտկեցինք այն հարցը, որտեղ ծրագիրը ավելի ու ավելի դանդաղ է դառնում եւ ավելի ծանր, որքան այն օգտագործում եք:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Breytt til að sýna villumynd þegar myndin nær ekki að hlaða.\n- Árangur myndáhorfenda hefur verið fínstilltur."
+    "devnote": "7.8.7 (19. janúar 2024)\n\n- Við festum brýn málið þar sem appið verður sífellt hægara og þyngri þegar þú notar það."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Şəkil yüklənmədikdə bir səhv görüntüsünü göstərmək üçün dəyişdirilmişdir.\n- Şəkil görüntüleyicisi performansı optimallaşdırıldı."
+    "devnote": "7.8.7 (19 yanvar 2024)\n\n- Təcrübəli tətbiqin istifadə etdiyiniz kimi getdikcə daha yavaş və ağırlaşdığı məsələni həll etdik."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Gewysig om 'n foutbeeld te vertoon wanneer die beeld nie laai nie.\n- Die prestasie van beeldkykers is geoptimaliseer."
+    "devnote": "7.8.7 (19 Januarie 2024)\n\n- Ons het die probleem dringend opgelos waar die app al hoe stadiger en swaarder word namate u dit gebruik."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Modifikuar për të shfaqur një imazh gabimi kur imazhi nuk arrin të ngarkohet.\n- Performanca e shikuesit të imazhit është optimizuar."
+    "devnote": "7.8.7 (19 janar 2024)\n\n- Ne e rregulluam urgjentisht çështjen ku aplikacioni bëhet gjithnjë e më i ngadaltë dhe më i rëndë ndërsa e përdorni."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.7.7 (2023 12 14)\n\n- ምስሉ ለመጫን ሲርቅም የስህተት ምስል ለማሳየት ተሻሽሏል.\n- የምስል መመልከቻ አፈፃፀም ተመቻች."
+    "devnote": "7.8.7 (ጥር 19, 2024)\n\n- እርስዎ በሚጠቀሙበት ጊዜ መተግበሪያው እየጨመረ የመጣበትን ጉዳይ በአስፋፋ እንስተካከለ ነበር."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Muudetud, et kuvada veapildi kuvamine, kui pilt ei laadita.\n- Pildivaataja jõudlus on optimeeritud."
+    "devnote": "7.8.7 (19. jaanuar 2024)\n\n- Fikseerisime tungivalt probleemi, kus rakendus muutub selle kasutamisel üha aeglasemaks ja raskemaks."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.7.7 (2023 12 14)\n\n- جب تصویر لوڈ کرنے میں ناکام ہوجاتی ہے تو غلطی کی تصویر کو ظاہر کرنے کے لئے ترمیم کی گئی۔\n- تصویری ناظرین کی کارکردگی کو بہتر بنایا گیا ہے۔"
+    "devnote": "7.8.7 (19 جنوری ، 2024)\n\n- ہم نے فوری طور پر اس مسئلے کو طے کرلیا جہاں آپ کے استعمال کے ساتھ ہی ایپ تیزی سے آہستہ اور بھاری ہوجاتی ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Змінено для відображення зображення помилки, коли зображення не вдається завантажити.\n- Продуктивність перегляду зображень оптимізована."
+    "devnote": "7.8.7 (19 січня 2024)\n\n- Ми терміново вирішили проблему, коли додаток стає все повільнішим і важче, коли ви його використовуєте."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7,7,7 (2023 12 14)\n\n- Modificato per visualizzare un'immagine di errore quando l'immagine non si carica.\n- Le prestazioni del visualizzatore di immagini sono state ottimizzate."
+    "devnote": "7.8.7 (19 gennaio 2024)\n\n- Abbiamo risolto urgentemente il problema in cui l'app diventa sempre più lenta e più pesante man mano che la usi."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Dimodifikasi untuk menampilkan gambar kesalahan saat gambar gagal memuat.\n- Kinerja penampil gambar telah dioptimalkan."
+    "devnote": "7.8.7 (19 Januari 2024)\n\n- Kami segera memperbaiki masalah di mana aplikasi menjadi semakin lambat dan lebih berat saat Anda menggunakannya."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.7.7（2023 12 14）\n\n - 画像が読み込まれないときにエラー画像を表示するように変更されました。\n - 画像ビューアのパフォーマンスが最適化されています。"
+    "devnote": "7.8.7（2024年1月19日）\n\n - アプリが使用するにつれてますます遅くなり、重くなる問題を緊急に修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.7.7 (2023 12 14)\n\n- შეცვლილია შეცდომის სურათის გამოსახატავად, როდესაც სურათი ვერ იტვირთება.\n- გამოსახულების სანახავი შესრულება ოპტიმიზირებულია."
+    "devnote": "7.8.7 (2024 წლის 19 იანვარი)\n\n- ჩვენ სასწრაფოდ დავაფიქსირეთ საკითხი, სადაც აპლიკაცია უფრო ნელი და მძიმე ხდება, როგორც თქვენ იყენებთ."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Ishintshwe ukubonisa isithombe sephutha lapho isithombe sehluleka ukulayisha.\n- Ukusebenza kwesibukeli se-Image kulungiselelwe."
+    "devnote": "7.8.7 (Januwari 19, 2024)\n\n- Silungise ngokuphuthumayo le nkinga lapho uhlelo lokusebenza luqala kancane futhi lusinda kakhulu njengoba ulusebenzisa."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.7.7（2023 12 14）\n\n - 经过修改以显示图像未能加载时显示错误映像。\n - 图像查看器的性能已被优化。"
+    "devnote": "7.8.7（2024年1月19日）\n\n - 我们紧急修复了应用程序在您使用时变得越来越慢和重的问题。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.7.7（2023 12 14）\n\n - 經過修改以顯示圖像未能加載時顯示錯誤映像。\n - 圖像查看器的性能已被優化。"
+    "devnote": "7.8.7（2024年1月19日）\n\n - 我們緊急修復了應用程序在您使用時變得越來越慢和重的問題。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.7.7（2023 12 14）\n\n - 經過修改以顯示圖像未能加載時顯示錯誤映像。\n - 圖像查看器的性能已被優化。"
+    "devnote": "7.8.7（2024年1月19日）\n\n - 我們緊急修復了應用程序在您使用時變得越來越慢和重的問題。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Modifikováno pro zobrazení chybového obrázku, když se obrázek nedokáže načíst.\n- Výkon prohlížeče obrázků byl optimalizován."
+    "devnote": "7.8.7 (19. ledna 2024)\n\n- Naléhavě jsme vyřešili problém, kdy se aplikace stává stále pomalejší a těžší, když ji používáte."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Кескін жүктелмеген кезде қате кескінін көрсету үшін өзгертілген.\n- Кескін қарау құралының өнімділігі оңтайландырылды."
+    "devnote": "7.8.7 (19, 19, 2024)\n\n- Біз сіз оны қолданған кезде қолданба көбейіп, ауыр болатын шығарылымды шұғыл түрде бекіттік."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Modificat per mostrar una imatge d'error quan la imatge no es carrega.\n- El rendiment del visualitzador d’imatges s’ha optimitzat."
+    "devnote": "7.8.7 (19 de gener de 2024)\n\n- Hem solucionat urgentment el problema en què l’aplicació es fa cada cop més lenta i més pesada a mesura que l’utilitzeu."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.7.7 (2023 12 14)\n\n- ಚಿತ್ರ ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾದಾಗ ದೋಷ ಚಿತ್ರವನ್ನು ಪ್ರದರ್ಶಿಸಲು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಇಮೇಜ್ ವೀಕ್ಷಕರ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಹೊಂದುವಂತೆ ಮಾಡಲಾಗಿದೆ."
+    "devnote": "7.8.7 (ಜನವರಿ 19, 2024)\n\n- ನೀವು ಅದನ್ನು ಬಳಸುವಾಗ ಅಪ್ಲಿಕೇಶನ್ ಹೆಚ್ಚು ನಿಧಾನವಾಗಿ ಮತ್ತು ಭಾರವಾಗಿರುತ್ತದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.7.7 (2023. 12 14)\n\n- Izmijenjeno za prikaz slike pogreške kada se slika ne uspije učitati.\n- Učinkovitost gledatelja slike je optimizirana."
+    "devnote": "7.8.7 (19. siječnja 2024.)\n\n- Hitno smo riješili problem u kojem aplikacija postaje sve sporije i teže dok je koristite."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.7.7 (2023 12 14)\n\n- កែប្រែដើម្បីបង្ហាញរូបភាពកំហុសនៅពេលរូបភាពបរាជ័យក្នុងការផ្ទុក។\n- ការអនុវត្តកម្មវិធីមើលរូបភាពត្រូវបានធ្វើឱ្យប្រសើរឡើង។"
+    "devnote": "7.8.7 (19 មករា 2024)\n\n- យើងជួសជុលបញ្ហាជាបន្ទាន់ដែលកម្មវិធីកាន់តែយឺតនិងធ្ងន់ជាងពេលដែលអ្នកប្រើវា។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Сүрөт жүктөөгөндө, ката сүрөтүн көрсөтүү үчүн өзгөртүлгөн.\n- Сүрөттү көрүүчүнүн натыйжалуулугу оптималдаштырылган."
+    "devnote": "7.8.7 (2024-жыл, 19-январь)\n\n- Тез арада колдонмо барган сайын жайыраак жана ооруп баратканын, сиз аны колдонгонуңузга чейин күчтөнүп баратканын белгилейбиз."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.7.7 (2023 12 14)\n\n- படம் ஏற்றத் தவறும்போது பிழை படத்தைக் காண்பிக்க மாற்றப்பட்டது.\n- பட பார்வையாளர் செயல்திறன் உகந்ததாக உள்ளது."
+    "devnote": "7.8.7 (ஜனவரி 19, 2024)\n\n- நீங்கள் அதைப் பயன்படுத்தும்போது பயன்பாடு பெருகிய முறையில் மெதுவாகவும் கனமாகவும் மாறும் சிக்கலை நாங்கள் அவசரமாக சரிசெய்தோம்."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.7.7 (2023 12 14)\n\n- แก้ไขเพื่อแสดงภาพข้อผิดพลาดเมื่อภาพไม่สามารถโหลดได้\n- ประสิทธิภาพการดูรูปภาพได้รับการปรับให้เหมาะสม"
+    "devnote": "7.8.7 (19 มกราคม 2567)\n\n- เราแก้ไขปัญหาอย่างเร่งด่วนที่แอพจะช้าลงและหนักขึ้นเรื่อย ๆ เมื่อคุณใช้"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Görüntü yüklenemediğinde bir hata görüntüsü görüntülemek için değiştirildi.\n- Görüntü görüntüleyici performansı optimize edildi."
+    "devnote": "7.8.7 (19 Ocak 2024)\n\n- Uygulamanın kullanırken giderek daha yavaş ve daha ağır hale geldiği sorunu acilen düzelttik."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.7.7 (2023 12 14)\n\n- చిత్రం లోడ్ చేయడంలో విఫలమైనప్పుడు లోపం చిత్రాన్ని ప్రదర్శించడానికి సవరించబడింది.\n- ఇమేజ్ వ్యూయర్ పనితీరు ఆప్టిమైజ్ చేయబడింది."
+    "devnote": "7.8.7 (జనవరి 19, 2024)\n\n- మీరు ఉపయోగించినప్పుడు అనువర్తనం నెమ్మదిగా మరియు భారీగా మారే సమస్యను మేము అత్యవసరంగా పరిష్కరించాము."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.7.7 (2023 12 14)\n\nਜਦੋਂ ਚਿੱਤਰ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ ਹੁੰਦਾ ਹੈ ਤਾਂ ਇੱਕ ਗਲਤੀ ਚਿੱਤਰ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਲਈ ਸੋਧਿਆ ਜਾਂਦਾ ਹੈ.\n- ਚਿੱਤਰ ਦਰਸ਼ਕ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਇਆ ਗਿਆ ਹੈ."
+    "devnote": "7.8.7 (ਜਨਵਰੀ 19, 2024)\n\n- ਅਸੀਂ ਉਸ ਮੁੱਦੇ ਨੂੰ ਤੁਰੰਤ ਹੱਲ ਕਰਦੇ ਹਾਂ ਜਿੱਥੇ ਐਪ ਹੌਲੀ ਹੌਲੀ ਅਤੇ ਭਾਰੀ ਬਣ ਜਾਂਦੀ ਹੈ ਜਿੰਨੀ ਤੁਸੀਂ ਵਰਤਦੇ ਹੋ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.7.7 (2023 12 14)\n\n- اصلاح شده برای نمایش یک تصویر خطا در هنگام عدم بارگیری تصویر.\n- عملکرد بیننده تصویر بهینه شده است."
+    "devnote": "7.8.7 (19 ژانویه 2024)\n\n- ما فوراً مسئله ای را که برنامه به طور فزاینده ای کندتر و سنگین تر می شود ، برطرف می کنیم."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Modificado para exibir uma imagem de erro quando a imagem falha ao carregar.\n- O desempenho do visualizador de imagens foi otimizado."
+    "devnote": "7.8.7 (19 de janeiro de 2024)\n\n- Corrigimos urgentemente o problema em que o aplicativo se torna cada vez mais lento e mais pesado à medida que você o usa."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.7,7 (2023 12 14)\n\n- Zmodyfikowany, aby wyświetlić obraz błędu, gdy obraz nie ładuje się.\n- Wydajność przeglądarki obrazu została zoptymalizowana."
+    "devnote": "7.8.7 (19 stycznia 2024)\n\n- Pilnie naprawiliśmy problem, w którym aplikacja staje się coraz bardziej wolniejsza i cięższa podczas jej użycia."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Modifié pour afficher une image d'erreur lorsque l'image ne se charge pas.\n- Les performances de la visionneuse d'image ont été optimisées."
+    "devnote": "7.8.7 (19 janvier 2024)\n\n- Nous avons résolu de toute urgence le problème où l'application devient de plus en plus lente et plus lourde lorsque vous l'utilisez."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Muokattu virhekuvan näyttämiseksi, kun kuva ei ladata.\n- Kuvan katseluohjelman suorituskyky on optimoitu."
+    "devnote": "7.8.7 (19. tammikuuta 2024)\n\n- Korjaamme kiireellisesti ongelman, jossa sovellus muuttuu yhä hitaammaksi ja raskaammaksi käyttäessäsi sitä."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Binago upang ipakita ang isang imahe ng error kapag ang imahe ay nabigo na mag -load.\n- Ang pagganap ng viewer ng imahe ay na -optimize."
+    "devnote": "7.8.7 (Enero 19, 2024)\n\n- Agad naming naayos ang isyu kung saan ang app ay nagiging mas mabagal at mas mabigat habang ginagamit mo ito."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.7.7 (2023 12 14)\n\n- Módosítva a hibakép megjelenítéséhez, amikor a kép nem tölti be.\n- A képmegjelenítő teljesítményét optimalizálták."
+    "devnote": "7.8.7 (2024. január 19.)\n\n- Sürgősen kijavítottuk azt a problémát, ahol az alkalmazás egyre lassabbá és nehezebbé válik, amikor használja."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.7.7 (2023 12 14)\n\n- שונה כדי להציג תמונת שגיאה כאשר התמונה לא נטענת.\n- ביצועי הצופה בתמונות עברו אופטימיזציה."
+    "devnote": "7.8.7 (19 בינואר 2024)\n\n- תיקנו בדחיפות את הבעיה בה האפליקציה הופכת לאט וכבד יותר ויותר ככל שאתה משתמש בה."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.7.7 (2023 12 14)\n\n- जब छवि लोड करने में विफल हो जाती है तो एक त्रुटि छवि प्रदर्शित करने के लिए संशोधित।\n- छवि व्यूअर प्रदर्शन को अनुकूलित किया गया है।"
+    "devnote": "7.8.7 (19 जनवरी, 2024)\n\n- हमने उस मुद्दे को तत्काल तय किया जहां ऐप तेजी से धीमा और भारी हो जाता है क्योंकि आप इसका उपयोग करते हैं।"
   }
 }
