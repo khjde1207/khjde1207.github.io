@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.8.7 (January 19, 2024)\n\n- We urgently fixed the issue where the app becomes increasingly slower and heavier as you use it."
+    "devnote": "You can use play, copy, bookmark, share, and translation functions by pressing and holding a letter in the text viewer/image viewer.\nThe built-in translation engine and OCR engine have been updated.\nA bookmark color setting function has been added.\nThe text viewer has been improved.\nThe minimum font size has been changed to 8.\nThe part that appears translucent when turning the page has been removed."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.8.7 (2024 01 19)\n\n- 어플을 사용할수록 점점 느려지고 무거워지는 현상을 긴급 수정 하였습니다."
+    "devnote": "텍스트 뷰어/이미지 뷰어에서 글자를 길게 눌려 재생, 복사, 북마크, 공유, 번역 기능을 사용 할 수 있습니다. \n내장번역 엔진, OCR 엔진을 업데이트 하였습니다. \n북마크 색상설정 기능을 추가 하였습니다. \n텍스트 뷰어 를 개선 하였습니다. \n최소 폰트 사이즈를 8 로 변경하였습니다. \n페이지 넘김시 반투명으로 나오는 부분을 제거 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.8.7 (19 de xaneiro de 2024)\n\n- Solucionamos con urxencia o problema onde a aplicación faise cada vez máis lenta e máis pesada a medida que a usa."
+    "devnote": "Podes usar funcións de reprodución, copia, marcador, compartir e tradución premendo e sostendo unha carta no visor de texto/visor de imaxes.\nActualizáronse o motor de tradución incorporado e o motor OCR.\nEngadiuse unha función de configuración de cor marcar.\nMellorouse o visor de texto.\nO tamaño mínimo da letra cambiouse a 8.\nEliminouse a parte que parece translúcida ao xirar a páxina."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.8.7 (જાન્યુઆરી 19, 2024)\n\n- અમે તાત્કાલિક આ મુદ્દાને ઠીક કર્યો છે જ્યાં એપ્લિકેશન તમે તેનો ઉપયોગ કરો ત્યારે વધુને વધુ ધીમી અને ભારે બને છે."
+    "devnote": "તમે ટેક્સ્ટ વ્યૂઅર/ઇમેજ વ્યૂઅરમાં પત્ર દબાવવા અને હોલ્ડ કરીને પ્લે, ક copy પિ, બુકમાર્ક, શેર અને અનુવાદ કાર્યોનો ઉપયોગ કરી શકો છો.\nબિલ્ટ-ઇન ટ્રાન્સલેશન એન્જિન અને ઓસીઆર એન્જિન અપડેટ કરવામાં આવ્યું છે.\nબુકમાર્ક કલર સેટિંગ ફંક્શન ઉમેરવામાં આવ્યું છે.\nટેક્સ્ટ દર્શકમાં સુધારો થયો છે.\nલઘુત્તમ ફોન્ટનું કદ 8 માં બદલવામાં આવ્યું છે.\nપૃષ્ઠને ફેરવતી વખતે અર્ધપારદર્શક દેખાય છે તે ભાગ દૂર કરવામાં આવ્યો છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.8.7 (19 Ιανουαρίου 2024)\n\n- Διορθώσαμε επειγόντως το ζήτημα όπου η εφαρμογή γίνεται όλο και πιο αργή και βαρύτερη καθώς το χρησιμοποιείτε."
+    "devnote": "Μπορείτε να χρησιμοποιήσετε τις λειτουργίες Play, Copy, Bookmark, Share και μετάφρασης πατώντας και κρατώντας ένα γράμμα στο πρόγραμμα προβολής κειμένου/προβολή εικόνων.\nΟ ενσωματωμένος μηχανισμός μετάφρασης και ο κινητήρας OCR έχουν ενημερωθεί.\nΈχει προστεθεί μια λειτουργία ρύθμισης χρώματος σελιδοδεικτών.\nΟ θεατής κειμένου έχει βελτιωθεί.\nΤο ελάχιστο μέγεθος γραμματοσειράς έχει αλλάξει σε 8.\nΤο τμήμα που εμφανίζεται ημιδιαφανές κατά την αφαίρεση της σελίδας έχει αφαιρεθεί."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.8.7 (19 januari 2024)\n\n- We hebben dringend het probleem opgelost waarbij de app steeds langzamer en zwaarder wordt naarmate u deze gebruikt."
+    "devnote": "U kunt functies voor het spelen, kopiëren, kopiëren, een bladwijzer en een bladwijzer delen, delen door te drukken en een letter in de tekstviewer/beeldviewer te houden en vast te houden.\nDe ingebouwde vertaalmotor en OCR-motor zijn bijgewerkt.\nEr is een bladwijzer voor het instellen van kleuren in de kleur toegevoegd.\nDe tekstviewer is verbeterd.\nDe minimale lettergrootte is gewijzigd in 8.\nHet onderdeel dat doorzichtig lijkt bij het draaien van de pagina is verwijderd."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": ".8..8.7 (जनवरी 1 ,, 2024)\n\n- हामीले तत्काल मुद्दा मिलायौं जहाँ तपाईं यसलाई प्रयोग गर्दा व्यापक र भारी हुन्छ।"
+    "devnote": "तपाईं खेल, प्रतिलिपि, बुकमार्क, शेयरलेन्स, साझेदारी, र अनुवाद कार्य पाठ दर्शक / छवि दर्शक मा एक पत्र थिच्न र होल्ड गर्न सक्नुहुन्छ।\nनिर्मित अनुवाद इञ्जिन र OCR ईन्जिन अपडेट गरिएको छ।\nएक बुकमार्क र color सेटिंग प्रकार्य थपिएको छ।\nपाठ दर्शक सुधार गरिएको छ।\nन्यूनतम फन्ट साइज 8 मा परिवर्तन गरिएको छ।\nपृष्ठलाई फर्काउँदा ट्राभल गर्ने पक्ष अपनाइएको छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.8.7 (19. januar 2024)\n\n- Vi løste haster problemet der appen blir stadig mer tregere og tyngre når du bruker den."
+    "devnote": "Du kan bruke spill-, kopierings-, bokmerke-, delings- og oversettelsesfunksjoner ved å trykke og holde et brev i Text Viewer/Image Viewer.\nDen innebygde oversettelsesmotoren og OCR-motoren er oppdatert.\nEn bokmerkefargeinnstillingsfunksjon er lagt til.\nTekstvisningen er forbedret.\nMinimumsfontstørrelse er endret til 8.\nDen delen som virker gjennomskinnelig når du snur siden, er fjernet."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.8.7 (19. januar 2024)\n\n- Vi løste presserende problemet, hvor appen bliver mere langsommere og tungere, når du bruger den."
+    "devnote": "Du kan bruge spil, kopi, bogmærke, dele og oversættelsesfunktioner ved at trykke på og holde et brev i tekst seer/billed seer.\nDen indbyggede oversættelsesmotor og OCR-motoren er blevet opdateret.\nDer er tilføjet en bogmærkefarvefunktion.\nTekstfremviseren er blevet forbedret.\nDen minimale skriftstørrelse er ændret til 8.\nDen del, der forekommer gennemskinnelig, når man drejer siden, er blevet fjernet."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.8.7 (19. Januar 2024)\n\n- Wir haben das Problem dringend behoben, bei dem die App immer langsamer und schwerer wird, wenn Sie es verwenden."
+    "devnote": "Sie können die Funktionen von Spielen, Kopieren, Lesezeichen, Freigabe und Übersetzungen verwenden, indem Sie einen Buchstaben im Text -Viewer/Image -Betrachter drücken und halten.\nDer eingebaute Übersetzungsmotor und der OCR-Motor wurden aktualisiert.\nEine Lesezeichen -Farbeinstellungsfunktion wurde hinzugefügt.\nDer Textzuschauer wurde verbessert.\nDie minimale Schriftgröße wurde auf 8 geändert.\nDer Teil, der beim Drehen der Seite durchscheinend erscheint, wurde entfernt."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.8.7 (ວັນທີ 19 ມັງກອນ 2024)\n\n- ພວກເຮົາແກ້ໄຂບັນຫາທີ່ແອັບ is ກາຍເປັນທີ່ຊ້າລົງແລະຫນັກກວ່າທີ່ທ່ານໃຊ້ມັນ."
+    "devnote": "ທ່ານສາມາດໃຊ້ Play, ສໍາເນົາ, Bookmark, Share, ແລະການແປພາສາເຮັດວຽກໄດ້ໂດຍກົດແລະຖືຈົດຫມາຍຢູ່ໃນຕົວຫນັງສື / ຜູ້ເບິ່ງຮູບພາບ Viewer.\nເຄື່ອງຈັກແປທີ່ມີການກໍ່ສ້າງແລະເຄື່ອງຈັກ OCR ໄດ້ຖືກປັບປຸງແລ້ວ.\nຟັງຊັນການຕັ້ງຄ່າສີສັນໄດ້ຖືກເພີ່ມ.\nຜູ້ເບິ່ງຕົວຫນັງສືໄດ້ຮັບການປັບປຸງ.\nຂະຫນາດຕົວອັກສອນຕ່ໍາສຸດໄດ້ຖືກປ່ຽນເປັນ 8.\nສ່ວນທີ່ປະກົດວ່າແປວ່າເວລາປ່ຽນຫນ້າເວັບໄດ້ຖືກລຶບອອກແລ້ວ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.8.7 (2024. gada 19. janvāris)\n\n- Mēs steidzami novēršam problēmu, kurā lietotne kļūst arvien lēnāka un smagāka, kad to lietojat."
+    "devnote": "Jūs varat izmantot atskaņošanu, kopēšanu, grāmatzīmi, koplietošanu un tulkošanas funkcijas, nospiežot un turot burtu teksta skatītājā/attēlu skatītājā.\nIebūvētais tulkošanas dzinējs un OCR motors ir atjaunināti.\nIr pievienota grāmatzīmju krāsu iestatīšanas funkcija.\nTeksta skatītājs ir uzlabots.\nMinimālais fonta lielums ir mainīts uz 8.\nDaļa, kas šķiet caurspīdīga, pagriežot lapu, ir noņemta."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.8.7 (19 января 2024 г.)\n\n- Мы срочно исправили проблему, когда приложение становится все более медленным и тяжелее, когда вы его используете."
+    "devnote": "Вы можете использовать функции воспроизведения, копирования, закладки, обмена и перевода, нажимая и удерживая букву в текстовом просмотре/просмотре изображения.\nВстроенный двигатель перевода и двигатель OCR были обновлены.\nБыла добавлена ​​функция настройки цвета закладки.\nПросмотр текста был улучшен.\nМинимальный размер шрифта был изменен на 8.\nЧасть, которая выглядит полупрозрачной при повороте страницы, была удалена."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.8.7 (19 ianuarie 2024)\n\n- Am rezolvat urgent problema în care aplicația devine din ce în ce mai lentă și mai grea pe măsură ce o utilizați."
+    "devnote": "Puteți utiliza funcții de redare, copiere, marcaj, partajare și traducere apăsând și ținând o scrisoare în vizualizatorul de text/vizualizatorul de imagini.\nMotorul de traducere încorporat și motorul OCR au fost actualizate.\nA fost adăugată o funcție de setare a culorilor de marcaj.\nVizualizatorul de text a fost îmbunătățit.\nMărimea minimă a fontului a fost modificată la 8.\nPartea care pare translucidă la întoarcerea paginii a fost eliminată."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.8.7 (2024 m. Sausio 19 d.)\n\n- Mes skubiai išsprendėme problemą, kai programa tampa vis lėtesnė ir sunkesnė, kai ją naudojate."
+    "devnote": "Galite naudoti grojimo, kopijavimo, žymės, bendrinti ir vertimo funkcijas, paspausdami ir laikydami raidę teksto peržiūros priemonėje/vaizdų peržiūros priemonėje.\nIntegruotas vertimo variklis ir OCR variklis buvo atnaujintas.\nPridėta žymos spalvų nustatymo funkcija.\nTeksto žiūrovas buvo patobulintas.\nMažiausias šrifto dydis buvo pakeistas į 8.\nDalis, kuri pasirodo permatoma pasukant puslapį, buvo pašalinta."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.8.7 (19 जानेवारी, 2024)\n\n- आम्ही तातडीने हा मुद्दा निश्चित केला जेथे अॅप आपण वापरत असताना अधिक हळू आणि जड होते."
+    "devnote": "आपण मजकूर दर्शक/प्रतिमा दर्शकात पत्र दाबून आणि धरून ठेवून प्ले, कॉपी, बुकमार्क, सामायिक करा आणि भाषांतर कार्ये वापरू शकता.\nअंगभूत भाषांतर इंजिन आणि ओसीआर इंजिन अद्यतनित केले गेले आहे.\nबुकमार्क कलर सेटिंग फंक्शन जोडले गेले आहे.\nमजकूर दर्शक सुधारला आहे.\nकिमान फॉन्ट आकार 8 मध्ये बदलला आहे.\nपृष्ठ फिरवताना अर्धपारदर्शक दिसणारा भाग काढला गेला आहे."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.8.7 (19 јануари 2024 година)\n\n- Ние итно го поправивме проблемот каде апликацијата станува сè побавна и потешка додека ја користите."
+    "devnote": "Можете да користите функции за репродукција, копирање, обележувач, споделување и превод со притискање и одржување писмо во прегледувачот на текст/прегледувач на слики.\nВградениот мотор за превод и OCR моторот се ажурирани.\nДодадена е функција за поставување на боја на обележувачи.\nПрегледувачот на текст е подобрен.\nМинималната големина на фонтот е променета на 8.\nДелот што се појавува проucирен при вртење на страницата е отстранет."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.8.7 (ജനുവരി 19, 2024)\n\n- ആപ്ലിക്കേഷൻ കൂടുതലായി മന്ദഗതിയിലാകുന്നതും നിങ്ങൾ ഉപയോഗിക്കുന്നത്ര ഭാരം കുറഞ്ഞതും ഞങ്ങൾ അടിയന്തിരമായി പരിഹരിച്ചു."
+    "devnote": "ടെക്സ്റ്റ് വ്യൂവർ / ഇമേജ് വ്യൂവറിൽ ഒരു കത്ത് അമർത്തിപ്പിടിച്ച് പ്ലേ, പകർപ്പ്, ബുക്ക്മാർക്ക്, പങ്കിടൽ പ്രവർത്തനങ്ങൾ ഉപയോഗിക്കാം.\nഅന്തർനിർമ്മിത വിവർത്തന എഞ്ചിൻ, ഒസിആർ എഞ്ചിൻ അപ്ഡേറ്റുചെയ്തു.\nഒരു ബുക്ക്മാർക്ക് കളർ ക്രമീകരണ പ്രവർത്തനം ചേർത്തു.\nടെക്സ്റ്റ് വ്യൂവർ മെച്ചപ്പെടുത്തി.\nഏറ്റവും കുറഞ്ഞ ഫോണ്ട് വലുപ്പം 8 ആയി മാറ്റി.\nപേജ് തിരിയുമ്പോൾ അർദ്ധസുതാര്യമായി കാണപ്പെടുന്ന ഭാഗം നീക്കംചെയ്തു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.8.7 (19 Januari, 2024)\n\n- Kami segera menetapkan isu di mana aplikasi menjadi semakin perlahan dan lebih berat semasa anda menggunakannya."
+    "devnote": "Anda boleh menggunakan fungsi Play, Copy, Bookmark, Share, dan Terjemahan dengan menekan dan memegang surat dalam penonton teks/penonton imej.\nEnjin terjemahan terbina dalam dan enjin OCR telah dikemas kini.\nFungsi tetapan warna penanda buku telah ditambah.\nPenonton teks telah diperbaiki.\nSaiz fon minimum telah ditukar kepada 8.\nBahagian yang kelihatan lut apabila menghidupkan halaman telah dikeluarkan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.8.7 (1-р сарын 19, 20244)\n\n- Апп-ыг ашиглахдаа апп-ыг улам чанга, илүү чанга болгож,"
+    "devnote": "Тоглоом, хуулал ашиглаж байгаа бөгөөд хуулбар, хуулг авах эсвэл диплет / Businiuder / зургийн Viewer дээр болонKELEL дара.\nСуурилуулсан орчуулгын хөдөлгүүр, OCR хөдөлгүүр шинэчлэгдсэн.\nХавчуургын өнгөний тохиргооны функцийг нэмсэн.\nТекст үзэгчийг сайжруулсан байна.\nҮНЭГҮЙ ҮНЭГҮЙ ХАМГААЛАХ 8-д өөрчлөгдсөн байна.\nХуудсыг эргүүлэх үед тунгалаг харагдаж байна."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.8.7 (2024ko urtarrilaren 19a)\n\n- Premiazkoa konpondu dugu aplikazioa gero eta motelagoa eta astunagoa bihurtzen den bezala."
+    "devnote": "Erreproduzitu, kopiatu, markatu, partekatu eta itzulpen funtzioak erabil ditzakezu testu ikuslearen / irudiaren ikuslearen letra sakatuta.\nItzulpen motorra eta OCR motorra eguneratu dira.\nLaster-markaren kolore ezarpen funtzioa gehitu da.\nTestu ikuslea hobetu da.\nGutxieneko letra tamaina 8ra aldatu da.\nOrrialdea biratzean zeharrargitsua agertzen den zatia kendu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.8.7 (ဇန်နဝါရီ 19, 2024)\n\n- သင်အသုံးပြုသောကြောင့်အက်ပလီကေးရှင်းသည်ပိုမိုနှေးကွေးလာသည့်ပြ issue နာကိုအရေးတကြီးပြင်ဆင်ထားသည်။"
+    "devnote": "စာသားကြည့်ရှုသူ / ရုပ်ပုံကြည့်ရှုသူတွင်စာတစ်စောင်နှိပ်ခြင်းဖြင့်သင်ကစားခြင်း, ကူးယူခြင်း, ကူးယူခြင်း,\nbuilt-in ဘာသာပြန်အင်ဂျင်နှင့် OCR အင်ဂျင်ကိုအသစ်ပြောင်းထားသည်။\nbookmark အရောင် setting function ကိုထည့်သွင်းထားသည်။\nစာသားကြည့်သူတိုးတက်လာသည်။\nနိမ့်ဆုံးစာလုံးအရွယ်အစားကို 8 သို့ပြောင်းထားသည်။\nစာမျက်နှာကိုလှည့်သောအခါ Translucer ပေါ်လာသည့်အပိုင်းကိုဖယ်ရှားပြီးဖြစ်သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.8.7 (19 tháng 1 năm 2024)\n\n- Chúng tôi đã sửa chữa khẩn cấp sự cố trong đó ứng dụng ngày càng chậm và nặng hơn khi bạn sử dụng nó."
+    "devnote": "Bạn có thể sử dụng các chức năng chơi, sao chép, đánh dấu, chia sẻ và dịch bằng cách nhấn và giữ một chữ cái trong trình xem/người xem hình ảnh văn bản.\nCông cụ dịch thuật tích hợp và động cơ OCR đã được cập nhật.\nMột chức năng cài đặt màu đánh dấu đã được thêm vào.\nNgười xem văn bản đã được cải thiện.\nKích thước phông chữ tối thiểu đã được thay đổi thành 8.\nPhần xuất hiện mờ khi lật trang đã bị xóa."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.8.7 (19 студзеня 2024 г.)\n\n- Мы тэрмінова выправілі праблему, калі прыкладанне становіцца ўсё больш павольным і цяжэй, калі вы яго выкарыстоўваеце."
+    "devnote": "Вы можаце выкарыстоўваць функцыі прайгравання, капіравання, закладкі, долі і перакладу, націснуўшы і ўтрымліваючы ліст у праглядзе тэксту/прагляду малюнкаў.\nУбудаваны рухавік перакладу і рухавік OCR былі абноўлены.\nБыла дададзена функцыя налады каляровай заклады.\nПрагляд тэксту быў палепшаны.\nМінімальны памер шрыфта быў зменены на 8.\nЧастка, якая выглядае напаўпразрыстай пры павароце старонкі, была выдаленая."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.8.7 (জানুয়ারী 19, 2024)\n\n- আমরা জরুরীভাবে সমস্যাটি ঠিক করেছি যেখানে অ্যাপটি আপনি ব্যবহার করার সাথে সাথে ক্রমবর্ধমান ধীর এবং ভারী হয়ে ওঠে।"
+    "devnote": "আপনি টেক্সট ভিউয়ার/ইমেজ ভিউয়ারে একটি চিঠি টিপে এবং ধরে রেখে প্লে, অনুলিপি, বুকমার্ক, শেয়ার এবং অনুবাদ ফাংশনগুলি ব্যবহার করতে পারেন।\nঅন্তর্নির্মিত অনুবাদ ইঞ্জিন এবং ওসিআর ইঞ্জিন আপডেট করা হয়েছে।\nএকটি বুকমার্ক রঙ সেটিং ফাংশন যুক্ত করা হয়েছে।\nপাঠ্য দর্শকের উন্নতি করা হয়েছে।\nসর্বনিম্ন ফন্টের আকারটি 8 এ পরিবর্তন করা হয়েছে।\nপৃষ্ঠাটি ঘুরিয়ে দেওয়ার সময় যে অংশটি স্বচ্ছ প্রদর্শিত হয় তা সরানো হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.8.7 (19 януари 2024 г.)\n\n- Ние спешно отстранихме проблема, при който приложението става все по -бавно и по -тежко, докато го използвате."
+    "devnote": "Можете да използвате функции за игра, копиране, отметка, споделяне и превод, като натискате и държите писмо в зрителя на текста/зрителя на изображението.\nВграденият двигател за превода и OCR двигателят са актуализирани.\nДобавена е функция за настройка на цветовете отметка.\nТекстовият зрител е подобрен.\nМинималният размер на шрифта е променен на 8.\nЧастта, която изглежда полупрозрачна при обръщане на страницата, е премахната."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.8.7 (19. јануара 2024.)\n\n- Хитно смо поправили проблем у којем апликација постане све спорија и теже јер га користите."
+    "devnote": "Можете користити репродукцију, копирање, обележивач, удио и превод и превод притиском и држите слово у текстуалном прегледу / прегледачу слика.\nУграђени преводни мотор и ОЦР мотор су ажурирани.\nДодана је функција за подешавање бока ознаке.\nПрегледник текста је побољшан.\nМинимална величина фонта је промењена у 8.\nДео који се чини прозирно када је искључен прекретање странице."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.8.7 (Januari 19, 2024)\n\n- Tulirekebisha haraka suala ambalo programu inazidi kuwa polepole na nzito kama unavyotumia."
+    "devnote": "Unaweza kutumia kucheza, nakala, alamisho, kushiriki, na kazi za kutafsiri kwa kushinikiza na kushikilia barua katika mtazamaji wa maandishi/mtazamaji wa picha.\nInjini ya tafsiri iliyojengwa na injini ya OCR imesasishwa.\nKazi ya kuweka alama ya alamisho imeongezwa.\nMtazamaji wa maandishi ameboreshwa.\nSaizi ya chini ya fonti imebadilishwa kuwa 8.\nSehemu ambayo inaonekana translucent wakati kugeuza ukurasa umeondolewa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.8.7 (19 januari 2024)\n\n- Vi fixade snabbt problemet där appen blir allt mer långsammare och tyngre när du använder den."
+    "devnote": "Du kan använda spel-, kopierings-, bokmärkes-, del- och översättningsfunktioner genom att trycka och hålla ett brev i textvisaren/bildvisaren.\nDen inbyggda översättningsmotorn och OCR-motorn har uppdaterats.\nEn bokmärke färginställningsfunktion har lagts till.\nTextvisaren har förbättrats.\nMinsta teckensnittstorlek har ändrats till 8.\nDen del som verkar genomskinlig när du vänder sidan har tagits bort."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.8.7 (19 de enero de 2024)\n\n- Arreglamos urgentemente el problema donde la aplicación se vuelve cada vez más lenta y pesada a medida que la usa."
+    "devnote": "Puede usar funciones Play, Copy, Bookmark, Share y Translation presionando y manteniendo una letra en el Visor/Visor de imágenes de texto.\nEl motor de traducción incorporado y el motor OCR se han actualizado.\nSe ha agregado una función de configuración de color marcador.\nEl visor de texto ha sido mejorado.\nEl tamaño mínimo de fuente se ha cambiado a 8.\nSe ha eliminado la parte que parece translúcida al girar la página."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.8.7 (19. januára 2024)\n\n- Naliehavo sme vyriešili problém, keď sa aplikácia stáva čoraz pomalšie a ťažšie, keď ju používate."
+    "devnote": "Funkcie Play, Kopírovanie, kopírovanie, záložky, zdieľanie a preklad môžete stlačením a držaním písmena v prehliadači textového prehliadača/obrázka.\nVstavaný translačný motor a motor OCR boli aktualizované.\nBola pridaná funkcia nastavenia farieb záložiek.\nVylepšil sa divák textu.\nMinimálna veľkosť písma sa zmenila na 8.\nČasť, ktorá sa objaví priesvitná pri odstránení stránky."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.8.7 (19. januarja 2024)\n\n- Nujno smo odpravili težavo, ko aplikacija postaja vse bolj počasnejša in težja, ko jo uporabljate."
+    "devnote": "Funkcije predvajanja, kopiranja, zaznamkov in prevodov lahko uporabite s pritiskom in držanjem črke v pregledovalcu besedila/pregledovalca slik.\nVgrajeni prevajalski motor in motor OCR sta posodobljena.\nDodana je bila funkcija barvne nastavitve zaznamka.\nPregledovalnik besedila je bil izboljšen.\nNajmanjša velikost pisave je bila spremenjena na 8.\nDel, ki se zdi prosojen pri obračanju strani, je bil odstranjen."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.8.7 (20, 2024)\n\n- ඔබ එය භාවිතා කරන විට යෙදුම වඩ වඩාත් මන්දගාමී වන අතර බරින් යුක්ත වන ගැටලුව අපි හදිසියේම සවි කළෙමු."
+    "devnote": "පෙළ නරඹන්නාගේ / රූප නරඹන්නාට ලිපියක් එබීමෙන් හා ලිපියක් එබීමෙන් ඔබට සෙල්ලම්, පිටපත්, පිටු සලකුණු, බෙදාගැනීම සහ පරිවර්තන කටයුතු භාවිතා කළ හැකිය.\nසාදන ලද පරිවර්තන එන්ජිම සහ OCR එන්ජිම යාවත්කාලීන කර ඇත.\nපොත් සලකුණ වර්ණ සැකසුම් සැකසුම් කිරීමේ කාර්යයක් එකතු කර ඇත.\nපෙළ නරඹන්නා වැඩිදියුණු කර ඇත.\nඅවම අකුරු ප්රමාණය 8 දක්වා වෙනස් කර ඇත.\nපිටුව හරවන විට පාරභාසකව පෙනෙන කොටස ඉවත් කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.8.7 (19 يناير 2024)\n\n- لقد إصلاحنا بشكل عاجل المشكلة حيث يصبح التطبيق أبطأ وأثقل بشكل متزايد أثناء استخدامك."
+    "devnote": "يمكنك استخدام وظائف التشغيل والنسخ والإشارة المرجعية والمشاركة والترجمة عن طريق الضغط على خطاب في عارض النص/عارض الصور.\nتم تحديث محرك الترجمة المدمج ومحرك OCR.\nتمت إضافة وظيفة إعداد ألوان إشارة مرجعية.\nتم تحسين مشاهد النص.\nتم تغيير الحد الأدنى لحجم الخط إلى 8.\nالجزء الذي يبدو شفافًا عند إزالة الصفحة."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.8.7 (19 հունվարի, 2024)\n\n- Մենք շտապ շտկեցինք այն հարցը, որտեղ ծրագիրը ավելի ու ավելի դանդաղ է դառնում եւ ավելի ծանր, որքան այն օգտագործում եք:"
+    "devnote": "Կարող եք օգտագործել խաղ, պատճեն, էջանիշ, մասնաբաժին եւ թարգմանչական գործառույթներ `սեղմելով եւ նամակ պահելով տեքստի հեռուստադիտողի / պատկերի դիտողի մեջ:\nՆերկառուցված թարգմանչական շարժիչը եւ OCR շարժիչը թարմացվել են:\nԱվելացվեց էջանիշի գույնի պարամետրերի գործառույթ:\nՏեքստի դիտիչը բարելավվել է:\nՏառատեսակի նվազագույն չափը փոխվել է 8-ի:\nԱյն մասը, որը հայտնվում է կիսաթափանցիկ, էջը շրջելիս հեռացվել է:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.8.7 (19. janúar 2024)\n\n- Við festum brýn málið þar sem appið verður sífellt hægara og þyngri þegar þú notar það."
+    "devnote": "Þú getur notað play, afritað, bókamerki, deilt og þýðingaraðgerðir með því að ýta á og halda staf í textaáhorfanda/mynd áhorfandanum.\nInnbyggða þýðingarvélin og OCR vélin hafa verið uppfærð.\nBætt hefur verið við bókamerki litastillingar.\nTextaáhorfandinn hefur verið bættur.\nLágmarks leturstærð hefur verið breytt í 8.\nHlutinn sem virðist hálfgagnsær þegar þú beygir á síðunni hefur verið fjarlægður."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.8.7 (19 yanvar 2024)\n\n- Təcrübəli tətbiqin istifadə etdiyiniz kimi getdikcə daha yavaş və ağırlaşdığı məsələni həll etdik."
+    "devnote": "Mətn Viewer / Şəkil Viewer-də bir məktubu basaraq oyun, kopyalama, əlfəcin, paylaşma və tərcümə funksiyalarından istifadə edə bilərsiniz.\nQuraşdırılmış tərcümə mühərriki və OCR mühərriki yeniləndi.\nBir əlfəcin rəng parametrləri funksiyası əlavə edildi.\nMətn görüntüleyicisi yaxşılaşdırıldı.\nMinimum şrift ölçüsü 8-ə dəyişdirildi.\nSəhifəni açarkən şəffaf görünən hissə çıxarıldı."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.8.7 (19 Januarie 2024)\n\n- Ons het die probleem dringend opgelos waar die app al hoe stadiger en swaarder word namate u dit gebruik."
+    "devnote": "U kan speel-, kopie-, boekmerk-, deel- en vertaalfunksies gebruik deur 'n brief in die Text Viewer/Image Viewer te druk en te hou.\nDie ingeboude vertaalmotor en OCR-enjin is opgedateer.\n'N Boekmerk -kleurinstellingsfunksie is bygevoeg.\nDie teksviewer is verbeter.\nDie minimum lettergrootte is verander na 8.\nDie deel wat deurskynend lyk as u die bladsy draai, is verwyder."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.8.7 (19 janar 2024)\n\n- Ne e rregulluam urgjentisht çështjen ku aplikacioni bëhet gjithnjë e më i ngadaltë dhe më i rëndë ndërsa e përdorni."
+    "devnote": "Ju mund të përdorni funksionet e lojës, kopjimit, faqerojtës, ndarjes dhe përkthimit duke shtypur dhe mbajtur një letër në shikuesin e tekstit/shikuesin e imazhit.\nMotori i përkthimit i integruar dhe motori OCR janë azhurnuar.\nAshtë shtuar një funksion i përcaktimit të ngjyrave të faqerojtësve.\nShikuesi i tekstit është përmirësuar.\nMadhësia minimale e shkronjave është ndryshuar në 8.\nPjesa që duket e tejdukshme kur ktheni faqen është hequr."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.8.7 (ጥር 19, 2024)\n\n- እርስዎ በሚጠቀሙበት ጊዜ መተግበሪያው እየጨመረ የመጣበትን ጉዳይ በአስፋፋ እንስተካከለ ነበር."
+    "devnote": "በጽሁፉ መመልከቻ / የምስል መመልከቻ ውስጥ በመጫን ጨዋታ, ቅጂ, ዕልባት, ዕልባት, ማጋራትን እና የትርጉም ተግባሮችን መጠቀም ይችላሉ.\nአብሮ የተሰራው የትርጉም ሞተር እና OCR ሞተር ዘምኗል.\nየዕልባት ቀለም ቅንጅት ቅንጅት ሥራ ታክሏል.\nየጽሑፍ ተመልካቹ ተሻሽሏል.\nአነስተኛ የቅርጸ-ቁምፊ መጠን ወደ 8 ተቀይሯል.\nውጹን በማዞር ላይ የተከተለ ክፍል ተወግ has ል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.8.7 (19. jaanuar 2024)\n\n- Fikseerisime tungivalt probleemi, kus rakendus muutub selle kasutamisel üha aeglasemaks ja raskemaks."
+    "devnote": "Saate kasutada funktsioone Play, kopeerida, järjehoidjate ja tõlkefunktsioone, vajutades ja hoides kirja tekstivaaturis/pildivaaturis.\nSisseehitatud tõlkemootor ja OCR-mootor on värskendatud.\nLisatud on järjehoidja värviseade funktsioon.\nTekstivaatajat on parandatud.\nFondi minimaalne suurus on muudetud 8 -ks.\nSee osa, mis lehe pööramisel on poolläbipaistev, on eemaldatud."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.8.7 (19 جنوری ، 2024)\n\n- ہم نے فوری طور پر اس مسئلے کو طے کرلیا جہاں آپ کے استعمال کے ساتھ ہی ایپ تیزی سے آہستہ اور بھاری ہوجاتی ہے۔"
+    "devnote": "آپ ٹیکسٹ ناظر/تصویری ناظرین میں ایک خط دبانے اور ان کا انعقاد کرکے پلے ، کاپی ، بک مارک ، شیئر ، اور ترجمے کے افعال کا استعمال کرسکتے ہیں۔\nبلٹ میں ترجمہ انجن اور او سی آر انجن کو اپ ڈیٹ کیا گیا ہے۔\nایک بک مارک رنگین ترتیب دینے کا فنکشن شامل کیا گیا ہے۔\nٹیکسٹ ناظرین کو بہتر بنایا گیا ہے۔\nکم از کم فونٹ کا سائز 8 میں تبدیل کردیا گیا ہے۔\nوہ حصہ جو صفحہ کا رخ موڑتے وقت پارباسی ظاہر ہوتا ہے اسے ہٹا دیا گیا ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.8.7 (19 січня 2024)\n\n- Ми терміново вирішили проблему, коли додаток стає все повільнішим і важче, коли ви його використовуєте."
+    "devnote": "Ви можете використовувати функції відтворення, копіювання, закладки, обміну та перекладу, натиснувши та тримаючи лист у перегляді тексту/переглядач зображень.\nВбудований двигун перекладу та двигун OCR були оновлені.\nДодано функцію налаштування кольору закладки.\nПереглядач тексту вдосконалюється.\nМінімальний розмір шрифту змінено на 8.\nЧастина, яка з'являється напівпрозорою при повороті сторінки, була видалена."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.8.7 (19 gennaio 2024)\n\n- Abbiamo risolto urgentemente il problema in cui l'app diventa sempre più lenta e più pesante man mano che la usi."
+    "devnote": "È possibile utilizzare le funzioni di play, copia, segnalibri, condivisione e traduzione premendo e tenendo una lettera nel visualizzatore di testo/visualizzatore di immagini.\nIl motore di traduzione integrato e il motore OCR sono stati aggiornati.\nÈ stata aggiunta una funzione di impostazione del colore dei segnalibri.\nIl visualizzatore di testo è stato migliorato.\nLa dimensione minima del carattere è stata cambiata in 8.\nLa parte che appare traslucida quando si gira la pagina è stata rimossa."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.8.7 (19 Januari 2024)\n\n- Kami segera memperbaiki masalah di mana aplikasi menjadi semakin lambat dan lebih berat saat Anda menggunakannya."
+    "devnote": "Anda dapat menggunakan fungsi bermain, salin, bookmark, berbagi, dan terjemahan dengan menekan dan memegang surat di penampil teks/penampil gambar.\nMesin terjemahan bawaan dan mesin OCR telah diperbarui.\nFungsi pengaturan warna bookmark telah ditambahkan.\nPenampil teks telah ditingkatkan.\nUkuran font minimum telah diubah menjadi 8.\nBagian yang muncul tembus saat membalik halaman telah dihapus."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.8.7（2024年1月19日）\n\n - アプリが使用するにつれてますます遅くなり、重くなる問題を緊急に修正しました。"
+    "devnote": "Text Viewer/Image Viewerに文字を押して保持することにより、再生、コピー、ブックマーク、共有、および翻訳機能を使用できます。\n組み込みの翻訳エンジンとOCRエンジンが更新されました。\nブックマークの色設定機能が追加されました。\nテキストビューアーが改善されました。\n最小フォントサイズは8に変更されました。\nページを回すときに半透明に見える部分が削除されました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.8.7 (2024 წლის 19 იანვარი)\n\n- ჩვენ სასწრაფოდ დავაფიქსირეთ საკითხი, სადაც აპლიკაცია უფრო ნელი და მძიმე ხდება, როგორც თქვენ იყენებთ."
+    "devnote": "თქვენ შეგიძლიათ გამოიყენოთ თამაში, ასლი, სანიშნე, გაზიარება და თარგმანის ფუნქციები ტექსტის სანახავად/გამოსახულების სანახავი წერილის დაჭერით და ჩატარებით.\nჩამონტაჟებული მთარგმნელობითი ძრავა და OCR ძრავა განახლებულია.\nდაემატა სანიშნე ფერის პარამეტრების ფუნქცია.\nტექსტის მაყურებელი გაუმჯობესდა.\nშრიფტის მინიმალური ზომა შეიცვალა 8 -ზე.\nნაწილი, რომელიც გამჭვირვალეა, გვერდის გადაქცევისას ამოღებულია."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.8.7 (Januwari 19, 2024)\n\n- Silungise ngokuphuthumayo le nkinga lapho uhlelo lokusebenza luqala kancane futhi lusinda kakhulu njengoba ulusebenzisa."
+    "devnote": "Ungasebenzisa ukudlala, kopisha, amabhukumaka, ukwaba, nemisebenzi yokuhumusha ngokucindezela nokubamba incwadi esibukweni sombhalo / isibukeli sombhalo.\nInjini yokuhumusha eyakhelwe ngaphakathi nenjini ye-OCR ibuyekeziwe.\nUmsebenzi wokusetha imibala yebhukumaka ungeziwe.\nIsibukeli sombhalo senziwe ngcono.\nUsayizi wefonti omncane uguqulwe waba ngu-8.\nIngxenye ebonakala i-translucent lapho ijika ikhasi lisusiwe."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.8.7（2024年1月19日）\n\n - 我们紧急修复了应用程序在您使用时变得越来越慢和重的问题。"
+    "devnote": "您可以通过在文本查看器/图像查看器中按和握住字母来使用播放，复制，书签，共享和翻译功能。\n内置的翻译引擎和OCR引擎已更新。\n添加了书签颜色设置功能。\n文本查看器已得到改善。\n最小字体大小已更改为8。\n拆卸页面时出现半透明的零件已被删除。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.8.7（2024年1月19日）\n\n - 我們緊急修復了應用程序在您使用時變得越來越慢和重的問題。"
+    "devnote": "您可以通過在文本查看器/圖像查看器中按和握住字母來使用播放，複製，書籤，共享和翻譯功能。\n內置的翻譯引擎和OCR引擎已更新。\n添加了書籤顏色設置功能。\n文本查看器已得到改善。\n最小字體大小已更改為8。\n拆卸頁面時出現半透明的零件已被刪除。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.8.7（2024年1月19日）\n\n - 我們緊急修復了應用程序在您使用時變得越來越慢和重的問題。"
+    "devnote": "您可以通過在文本查看器/圖像查看器中按和握住字母來使用播放，複製，書籤，共享和翻譯功能。\n內置的翻譯引擎和OCR引擎已更新。\n添加了書籤顏色設置功能。\n文本查看器已得到改善。\n最小字體大小已更改為8。\n拆卸頁面時出現半透明的零件已被刪除。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.8.7 (19. ledna 2024)\n\n- Naléhavě jsme vyřešili problém, kdy se aplikace stává stále pomalejší a těžší, když ji používáte."
+    "devnote": "Funkce přehrávání, kopírování, záložek, záložky, sdílení a překladu můžete stisknutím a přidržováním dopisu v prohlížeči textu/prohlížeče obrázků.\nVestavěný překladový motor a motor OCR byly aktualizovány.\nByla přidána funkce nastavení barvy záložky.\nProhlížeč textu byl vylepšen.\nMinimální velikost písma byla změněna na 8.\nČást, která se zdá být průsvitná při otočení stránky."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.8.7 (19, 19, 2024)\n\n- Біз сіз оны қолданған кезде қолданба көбейіп, ауыр болатын шығарылымды шұғыл түрде бекіттік."
+    "devnote": "Мәтінді қарау құралында / image Viewer бағдарламасында әріпті басып, Play, Copy, Bookmark, Ортақ пайдалану және аударма функцияларын пайдалануға болады.\nКірістірілген аударма қозғалтқышы және OCR қозғалтқышы жаңартылды.\nБетбелгі түс параметрлері функциясы қосылды.\nМәтінді қарау құралы жақсарды.\nҚаріптің ең аз мөлшері 8-ге өзгертілді.\nБетті бұру кезінде мөлдір пайда болған бөлігі."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.8.7 (19 de gener de 2024)\n\n- Hem solucionat urgentment el problema en què l’aplicació es fa cada cop més lenta i més pesada a mesura que l’utilitzeu."
+    "devnote": "Podeu utilitzar les funcions de reproducció, copia, marcatge, comparteixen i traducció prement i mantenint una lletra al visualitzador de text/visualitzador d’imatges.\nEl motor de traducció integrat i el motor OCR s’han actualitzat.\nS'ha afegit una funció de configuració de colors de marcador.\nL’espectador de text s’ha millorat.\nLa mida mínima del tipus de lletra s'ha canviat a 8.\nS'ha eliminat la part que sembla translúcida en girar la pàgina."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.8.7 (ಜನವರಿ 19, 2024)\n\n- ನೀವು ಅದನ್ನು ಬಳಸುವಾಗ ಅಪ್ಲಿಕೇಶನ್ ಹೆಚ್ಚು ನಿಧಾನವಾಗಿ ಮತ್ತು ಭಾರವಾಗಿರುತ್ತದೆ."
+    "devnote": "ಪಠ್ಯ ವೀಕ್ಷಕ/ಚಿತ್ರ ವೀಕ್ಷಕದಲ್ಲಿ ಪತ್ರವನ್ನು ಒತ್ತುವ ಮತ್ತು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವ ಮೂಲಕ ನೀವು ಪ್ಲೇ, ನಕಲಿಸಿ, ಬುಕ್‌ಮಾರ್ಕ್, ಹಂಚಿಕೆ ಮತ್ತು ಅನುವಾದ ಕಾರ್ಯಗಳನ್ನು ಬಳಸಬಹುದು.\nಅಂತರ್ನಿರ್ಮಿತ ಅನುವಾದ ಎಂಜಿನ್ ಮತ್ತು ಒಸಿಆರ್ ಎಂಜಿನ್ ಅನ್ನು ನವೀಕರಿಸಲಾಗಿದೆ.\nಬುಕ್‌ಮಾರ್ಕ್ ಬಣ್ಣ ಸೆಟ್ಟಿಂಗ್ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\nಪಠ್ಯ ವೀಕ್ಷಕವನ್ನು ಸುಧಾರಿಸಲಾಗಿದೆ.\nಕನಿಷ್ಠ ಫಾಂಟ್ ಗಾತ್ರವನ್ನು 8 ಕ್ಕೆ ಬದಲಾಯಿಸಲಾಗಿದೆ.\nಪುಟವನ್ನು ತಿರುಗಿಸುವಾಗ ಅರೆಪಾರದರ್ಶಕವಾಗಿ ಕಂಡುಬರುವ ಭಾಗವನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.8.7 (19. siječnja 2024.)\n\n- Hitno smo riješili problem u kojem aplikacija postaje sve sporije i teže dok je koristite."
+    "devnote": "Možete koristiti funkcije reprodukcije, kopiranja, oznake, dijeljenja i prevođenja pritiskom i držeći pismo u prikazu teksta/gledatelja slike.\nUgrađeni prevoditeljski motor i OCR motor su ažurirani.\nDodana je funkcija postavljanja boja oznake.\nPreglednik teksta je poboljšan.\nMinimalna veličina fonta promijenjena je u 8.\nDio koji se pojavljuje proziran prilikom okretanja stranice uklonjen je."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.8.7 (19 មករា 2024)\n\n- យើងជួសជុលបញ្ហាជាបន្ទាន់ដែលកម្មវិធីកាន់តែយឺតនិងធ្ងន់ជាងពេលដែលអ្នកប្រើវា។"
+    "devnote": "អ្នកអាចប្រើ PLAY, កំណត់ចំណាំ, ចំណាំចែករំលែកនិងការបកប្រែមុខងារដោយចុចនិងសង្កត់អក្សរនៅក្នុងកម្មវិធីមើលអត្ថបទ / កម្មវិធីមើលរូបភាព។\nម៉ាស៊ីនបកប្រែដែលភ្ជាប់មកជាមួយនិងម៉ាស៊ីន OCR ត្រូវបានធ្វើបច្ចុប្បន្នភាព។\nមុខងារកំណត់ការកំណត់ពណ៌ចំណាំត្រូវបានបន្ថែម។\nអ្នកមើលអត្ថបទត្រូវបានធ្វើឱ្យប្រសើរឡើង។\nទំហំពុម្ពអក្សរអប្បបរមាត្រូវបានប្តូរទៅ 8 ។\nផ្នែកដែលបង្ហាញឱ្យច្បាស់នៅពេលងាកទំព័រត្រូវបានយកចេញ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.8.7 (2024-жыл, 19-январь)\n\n- Тез арада колдонмо барган сайын жайыраак жана ооруп баратканын, сиз аны колдонгонуңузга чейин күчтөнүп баратканын белгилейбиз."
+    "devnote": "Текст көрүүчүлөрдүн / сүрөт көрүүчүгө катын басуу жана кармап туруу менен ойноо, көчүрүү, кыстарма функцияларын, бөлүгүн, кыстарма функцияларын колдоно аласыз.\nКоторулган котормо моторун жана OCR кыймылдаткычы жаңыртылды.\nЧөптөрдүн түс орнотуу функциясы кошулду.\nТекст көрүүчү өркүндөтүлдү.\nМинималдуу шрифт өлчөмү 8ге өзгөртүлдү.\nБаракты буруп жатканда тунук көрүнгөн бөлүк алынып салынды."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.8.7 (ஜனவரி 19, 2024)\n\n- நீங்கள் அதைப் பயன்படுத்தும்போது பயன்பாடு பெருகிய முறையில் மெதுவாகவும் கனமாகவும் மாறும் சிக்கலை நாங்கள் அவசரமாக சரிசெய்தோம்."
+    "devnote": "உரை பார்வையாளர்/பட பார்வையாளரில் ஒரு கடிதத்தை அழுத்தி வைத்திருப்பதன் மூலம் நீங்கள் நாடகம், நகல், புக்மார்க்கு, பகிர்வு மற்றும் மொழிபெயர்ப்பு செயல்பாடுகளைப் பயன்படுத்தலாம்.\nஉள்ளமைக்கப்பட்ட மொழிபெயர்ப்பு இயந்திரம் மற்றும் OCR இயந்திரம் புதுப்பிக்கப்பட்டுள்ளன.\nஒரு புக்மார்க்கு வண்ண அமைப்பு செயல்பாடு சேர்க்கப்பட்டுள்ளது.\nஉரை பார்வையாளர் மேம்படுத்தப்பட்டுள்ளது.\nகுறைந்தபட்ச எழுத்துரு அளவு 8 ஆக மாற்றப்பட்டுள்ளது.\nபக்கத்தைத் திருப்பும்போது ஒளிஊடுருவக்கூடியதாக தோன்றும் பகுதி அகற்றப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.8.7 (19 มกราคม 2567)\n\n- เราแก้ไขปัญหาอย่างเร่งด่วนที่แอพจะช้าลงและหนักขึ้นเรื่อย ๆ เมื่อคุณใช้"
+    "devnote": "คุณสามารถใช้ฟังก์ชั่นการเล่นสำเนาบุ๊คมาร์คแบ่งปันและการแปลโดยกดและถือจดหมายในตัวชมข้อความ/ตัวแสดงภาพ\nเอ็นจิ้นการแปลในตัวและเอ็นจิ้น OCR ได้รับการอัปเดตแล้ว\nมีการเพิ่มฟังก์ชั่นการตั้งค่าสีบุ๊คมาร์คแล้ว\nตัวแสดงข้อความได้รับการปรับปรุงแล้ว\nขนาดตัวอักษรขั้นต่ำถูกเปลี่ยนเป็น 8\nชิ้นส่วนที่ปรากฏโปร่งแสงเมื่อเปลี่ยนหน้าถูกลบออก"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.8.7 (19 Ocak 2024)\n\n- Uygulamanın kullanırken giderek daha yavaş ve daha ağır hale geldiği sorunu acilen düzelttik."
+    "devnote": "Metin Görüntüleyicisi/Görüntü Görüntüleyicisine bir mektup basılı tutarak ve basılı tutarak Play, Kopyala, Yer İşareti, Paylaş ve Çeviri İşlevlerini kullanabilirsiniz.\nYerleşik çeviri motoru ve OCR motoru güncellendi.\nBir yer imi renk ayar işlevi eklendi.\nMetin izleyicisi geliştirildi.\nMinimum yazı tipi boyutu 8 olarak değiştirildi.\nSayfayı döndürürken yarı saydam görünen kısım kaldırıldı."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.8.7 (జనవరి 19, 2024)\n\n- మీరు ఉపయోగించినప్పుడు అనువర్తనం నెమ్మదిగా మరియు భారీగా మారే సమస్యను మేము అత్యవసరంగా పరిష్కరించాము."
+    "devnote": "టెక్స్ట్ వ్యూయర్/ఇమేజ్ వ్యూయర్‌లో ఒక అక్షరాన్ని నొక్కడం మరియు పట్టుకోవడం ద్వారా మీరు ప్లే, కాపీ, బుక్‌మార్క్, షేర్ మరియు అనువాద విధులను ఉపయోగించవచ్చు.\nఅంతర్నిర్మిత అనువాద ఇంజిన్ మరియు OCR ఇంజిన్ నవీకరించబడ్డాయి.\nబుక్‌మార్క్ కలర్ సెట్టింగ్ ఫంక్షన్ జోడించబడింది.\nటెక్స్ట్ వ్యూయర్ మెరుగుపరచబడింది.\nకనీస ఫాంట్ పరిమాణం 8 కి మార్చబడింది.\nపేజీని తిప్పేటప్పుడు అపారదర్శకంగా కనిపించే భాగం తొలగించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.8.7 (ਜਨਵਰੀ 19, 2024)\n\n- ਅਸੀਂ ਉਸ ਮੁੱਦੇ ਨੂੰ ਤੁਰੰਤ ਹੱਲ ਕਰਦੇ ਹਾਂ ਜਿੱਥੇ ਐਪ ਹੌਲੀ ਹੌਲੀ ਅਤੇ ਭਾਰੀ ਬਣ ਜਾਂਦੀ ਹੈ ਜਿੰਨੀ ਤੁਸੀਂ ਵਰਤਦੇ ਹੋ."
+    "devnote": "ਤੁਸੀਂ ਟੈਕਸਟ ਦਰਸ਼ਕ / ਚਿੱਤਰ ਦਰਸ਼ਕ ਵਿੱਚ ਇੱਕ ਅੱਖਰ ਦਬਾ ਕੇ ਪਲੇ, ਬੁੱਕਮਾਰਕ, ਸ਼ੇਅਰ ਅਤੇ ਅਨੁਵਾਦ ਕਾਰਜਾਂ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕਦੇ ਹੋ.\nਬਿਲਟ-ਇਨ ਅਨੁਵਾਦ ਇੰਜਨ ਅਤੇ ਓਸੀਆਰ ਇੰਜਨ ਨੂੰ ਅਪਡੇਟ ਕੀਤਾ ਗਿਆ ਹੈ.\nਬੁੱਕਮਾਰਕ ਰੰਗ ਸੈਟਿੰਗ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ.\nਟੈਕਸਟ ਦਰਸ਼ਕ ਨੂੰ ਸੁਧਾਰਿਆ ਗਿਆ ਹੈ.\nਘੱਟੋ ਘੱਟ ਫੋਂਟ ਸਾਈਜ਼ 8 ਵਿੱਚ ਬਦਲਿਆ ਗਿਆ ਹੈ.\nਪੇਜ ਬਦਲਣ ਵੇਲੇ ਪਾਰਦਰਸ਼ੀ ਦਿਖਾਈ ਦਿੰਦਾ ਹੈ ਜਦੋਂ ਪੇਜ ਨੂੰ ਹਟਾ ਦਿੱਤਾ ਗਿਆ ਹੈ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.8.7 (19 ژانویه 2024)\n\n- ما فوراً مسئله ای را که برنامه به طور فزاینده ای کندتر و سنگین تر می شود ، برطرف می کنیم."
+    "devnote": "با فشار دادن و نگه داشتن نامه ای در بیننده/تصویر بیننده می توانید از توابع بازی ، کپی ، نشانک ، به اشتراک گذاری و ترجمه استفاده کنید.\nموتور ترجمه داخلی و موتور OCR به روز شده است.\nعملکرد تنظیم رنگ نشانک اضافه شده است.\nبیننده متن بهبود یافته است.\nحداقل اندازه قلم به 8 تغییر یافته است.\nبخشی که هنگام چرخاندن صفحه شفاف ظاهر می شود حذف شده است."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.8.7 (19 de janeiro de 2024)\n\n- Corrigimos urgentemente o problema em que o aplicativo se torna cada vez mais lento e mais pesado à medida que você o usa."
+    "devnote": "Você pode usar funções de reprodução, copiar, favorecer, compartilhar e tradução pressionando e segurando uma carta no visualizador de texto/visualizador de imagem.\nO mecanismo de tradução interno e o mecanismo OCR foram atualizados.\nUma função de configuração de cores marcantes foi adicionada.\nO visualizador de texto foi melhorado.\nO tamanho mínimo da fonte foi alterado para 8.\nA parte que parece translúcida ao girar a página foi removida."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.8.7 (19 stycznia 2024)\n\n- Pilnie naprawiliśmy problem, w którym aplikacja staje się coraz bardziej wolniejsza i cięższa podczas jej użycia."
+    "devnote": "Możesz użyć funkcji odtwarzania, kopiowania, zakładek, udostępniania i tłumaczenia, naciskając i trzymając list w przeglądarce tekstowej/przeglądarki obrazu.\nWbudowany silnik tłumaczenia i silnik OCR zostały zaktualizowane.\nDodano funkcję ustawienia kolorów zakładki.\nPrzeglądarka tekstowa została ulepszona.\nMinimalny rozmiar czcionki został zmieniony na 8.\nCzęść, która wydaje się półprzezroczysta podczas obracania strony, została usunięta."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.8.7 (19 janvier 2024)\n\n- Nous avons résolu de toute urgence le problème où l'application devient de plus en plus lente et plus lourde lorsque vous l'utilisez."
+    "devnote": "Vous pouvez utiliser les fonctions de lecture, de copie, de signet, de partage et de traduction en appuyant et en maintenant une lettre dans la visionneuse de texte / visionneuse d'image.\nLe moteur de traduction intégré et le moteur OCR ont été mis à jour.\nUne fonction de paramètre de couleur de signet a été ajoutée.\nLa visionneuse de texte a été améliorée.\nLa taille minimale de la police a été changée à 8.\nLa pièce qui apparaît translucide lors du tournage de la page a été supprimée."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.8.7 (19. tammikuuta 2024)\n\n- Korjaamme kiireellisesti ongelman, jossa sovellus muuttuu yhä hitaammaksi ja raskaammaksi käyttäessäsi sitä."
+    "devnote": "Voit käyttää pelaamista, kopiointia, kirjanmerkkejä, jakaa ja käännöstoimintoja painamalla ja pitämällä kirjettä tekstin katseluohjelmassa/kuvan katseluohjelmassa.\nSisäänrakennettu käännösmoottori ja OCR-moottori on päivitetty.\nKirjanmerkkien väri -asetustoiminto on lisätty.\nTekstin katseluohjelmaa on parannettu.\nPienin fonttikoko on muutettu 8: ksi.\nOsa, joka näyttää läpikuultavalta, kun sivu on poistettu."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.8.7 (Enero 19, 2024)\n\n- Agad naming naayos ang isyu kung saan ang app ay nagiging mas mabagal at mas mabigat habang ginagamit mo ito."
+    "devnote": "Maaari mong gamitin ang pag -play, kopyahin, bookmark, ibahagi, at mga pag -andar ng pagsasalin sa pamamagitan ng pagpindot at paghawak ng isang sulat sa manonood ng teksto/viewer ng imahe.\nAng built-in na engine ng pagsasalin at OCR engine ay na-update.\nAng isang function ng setting ng kulay ng bookmark ay naidagdag.\nAng text viewer ay napabuti.\nAng minimum na laki ng font ay nabago sa 8.\nAng bahagi na lumilitaw na translucent kapag tinanggal ang pahina."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.8.7 (2024. január 19.)\n\n- Sürgősen kijavítottuk azt a problémát, ahol az alkalmazás egyre lassabbá és nehezebbé válik, amikor használja."
+    "devnote": "Használhatja a Play, másolat, a könyvjelző, a megosztás és a fordítási funkciók használatát a betű megnyomásával és tartásával a szövegmegjelenítőben/képnézőben.\nA beépített fordítómotor és az OCR motor frissült.\nA könyvjelző színbeállítási funkció hozzáadódott.\nA szövegnéző javult.\nA minimális betűméret 8 -ra változott.\nAz az alkatrész, amely áttetszőnek tűnik az oldal elfordításakor, eltávolították."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.8.7 (19 בינואר 2024)\n\n- תיקנו בדחיפות את הבעיה בה האפליקציה הופכת לאט וכבד יותר ויותר ככל שאתה משתמש בה."
+    "devnote": "אתה יכול להשתמש בפונקציות משחק, העתק, סימניות, שיתוף ותרגום על ידי לחיצה והחזקת אות במציג הטקסט/מציג התמונות.\nמנוע התרגום המובנה ומנוע OCR עודכנו.\nפונקציית הגדרת צבע סימניה נוספה.\nמציג הטקסט שופר.\nגודל הגופן המינימלי שונה ל 8.\nהחלק שנראה שקוף בעת סיבוב הדף הוסר."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.8.7 (19 जनवरी, 2024)\n\n- हमने उस मुद्दे को तत्काल तय किया जहां ऐप तेजी से धीमा और भारी हो जाता है क्योंकि आप इसका उपयोग करते हैं।"
+    "devnote": "आप पाठ व्यूअर/इमेज व्यूअर में एक पत्र को दबाकर और रखकर प्ले, कॉपी, बुकमार्क, शेयर और ट्रांसलेशन फ़ंक्शंस का उपयोग कर सकते हैं।\nअंतर्निहित अनुवाद इंजन और OCR इंजन को अपडेट किया गया है।\nएक बुकमार्क रंग सेटिंग फ़ंक्शन जोड़ा गया है।\nपाठ दर्शक में सुधार किया गया है।\nन्यूनतम फ़ॉन्ट आकार को 8 कर दिया गया है।\nपृष्ठ को मोड़ते समय पारभासी दिखाई देता है।"
   }
 }
