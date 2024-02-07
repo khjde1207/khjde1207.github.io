@@ -5,7 +5,7 @@
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.8.9\n\nThe method of creating viewer shortcut icons has been modified.\nYou can set a shortcut icon by pressing the three dots button in the upper right.\nFixed a viewer page calculation bug."
+    "devnote": "7.8.9\n\n뷰어 단축 아이콘 생성 방식을 수정 하였습니다. \n우상단 점3개 버튼을 눌러 단축아이콘을 설정 할 수 있습니다. \n뷰어 페이지 계산 버그를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
@@ -25,7 +25,7 @@
   },
   "네팔어": {
     "key": "ne",
-    "devnote": ".8..8 ..\n\nदर्शक सर्टकट आइकनको सिर्जना गर्ने विधि परिमार्जन गरिएको छ।\nतपाईं माथिल्लो दायाँ मा तीन डट बटन थिचेर एक सर्टकट आइकन सेट गर्न सक्नुहुन्छ।\nएक दर्शक पृष्ठ गणना बग फिक्स गरियो।"
+    "devnote": "7.8.9\n\nदर्शक सर्टकट आइकनको सिर्जना गर्ने विधि परिमार्जन गरिएको छ।\nतपाईं माथिल्लो दायाँ मा तीन डट बटन थिचेर एक सर्टकट आइकन सेट गर्न सक्नुहुन्छ।\nएक दर्शक पृष्ठ गणना बग फिक्स गरियो।"
   },
   "노르웨이어": {
     "key": "no",
@@ -169,7 +169,7 @@
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.8.9\n\nМетод створення піктограм ярликів глядача був змінений.\nВи можете встановити піктограму ярлика, натиснувши кнопку «Три точки» у верхньому правому куті.\nВиправлено помилку обчислення сторінки глядача."
+    "devnote": "7.8.9\n\nМетод створення піктограм ярликів глядачів змінився.\nВи можете встановити піктограму ярлика, натиснувши кнопку «Три точки» у верхньому правому куті.\nВиправлено помилку обчислення сторінки глядача."
   },
   "이탈리아어": {
     "key": "it",
@@ -221,7 +221,7 @@
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.8.9\n\nMetoda stvaranja ikona prečaca gledatelja izmijenjena je.\nIkonu prečaca možete postaviti pritiskom na gumb od tri točke u gornjem desnom desnom kutu.\nPopravljena je pogreška za izračunavanje stranice."
+    "devnote": "7.8.9\n\nMetoda stvaranja ikona prečaca gledatelja izmijenjena je.\nIkonu prečaca možete postaviti pritiskom na gumb od tri točke u gornjem desnom desnom kutu.\nIspravljeno je pogreška za izračunavanje stranice."
   },
   "크메르어": {
     "key": "km",
