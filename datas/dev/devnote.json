@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.8.9\n\nThe method of creating viewer shortcut icons has been modified.\nYou can set a shortcut icon by pressing the three dots button in the upper right.\nFixed a viewer page calculation bug."
+    "devnote": "7.9.0\n\nThe number selection function interface has been modified.\n[Image/PDF Viewer Settings] The real-time OCR TTS function has been placed at the top.\nFixed a bug where viewer settings were not changed.\nThe location movement function interface has been modified."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.8.9\n\n뷰어 단축 아이콘 생성 방식을 수정 하였습니다. \n우상단 점3개 버튼을 눌러 단축아이콘을 설정 할 수 있습니다. \n뷰어 페이지 계산 버그를 수정 하였습니다."
+    "devnote": "7.9.0\n\n숫자 선택 기능 인터페이스를 수정 하였습니다. \n[이미지/PDF 뷰어 설정] 실시간 OCR TTS 기능을 맨 위에 배치 하였습니다. \n뷰어 설정이 변경되지 않던 버그 를 수정 하였습니다. \n위치 이동기능 인터페이스를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.8.9\n\nModificouse o método de creación de iconas de atallo do espectador.\nPodes configurar unha icona de atallo premendo o botón tres puntos na parte superior dereita.\nCorrixido un erro de cálculo da páxina do espectador."
+    "devnote": "7.9.0\n\nModificouse a interface de función de selección de números.\n[Configuración do visor de imaxe/PDF] A función OCR TTS en tempo real colocouse na parte superior.\nCorrixiu un erro onde non se cambiaron a configuración do espectador.\nModificouse a interface de función de movemento de localización."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.8.9\n\nદર્શક શોર્ટકટ ચિહ્નો બનાવવાની પદ્ધતિમાં ફેરફાર કરવામાં આવ્યા છે.\nતમે ઉપરના જમણામાં ત્રણ બિંદુઓ બટન દબાવવાથી શોર્ટકટ આયકન સેટ કરી શકો છો.\nએક દર્શક પૃષ્ઠ ગણતરી ભૂલ સ્થિર."
+    "devnote": "7.9.0\n\nનંબર પસંદગી ફંક્શન ઇન્ટરફેસમાં ફેરફાર કરવામાં આવ્યા છે.\n[છબી/પીડીએફ વ્યૂઅર સેટિંગ્સ] રીઅલ-ટાઇમ ઓસીઆર ટીટીએસ ફંક્શન ટોચ પર મૂકવામાં આવ્યું છે.\nએક ભૂલ સ્થિર કરો જ્યાં દર્શક સેટિંગ્સ બદલાયા ન હતા.\nસ્થાન મૂવમેન્ટ ફંક્શન ઇન્ટરફેસમાં ફેરફાર કરવામાં આવ્યા છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.8.9\n\nΈχει τροποποιηθεί η μέθοδος δημιουργίας εικονιδίων συντόμευσης θεατών.\nΜπορείτε να ορίσετε ένα εικονίδιο συντόμευσης πατώντας το κουμπί των τριών κουκίδων στο επάνω δεξιά.\nΔιορθώθηκε ένα σφάλμα υπολογισμού της σελίδας προβολής."
+    "devnote": "7.9.0\n\nΗ διεπαφή λειτουργίας επιλογής αριθμού έχει τροποποιηθεί.\n[Ρυθμίσεις προβολής εικόνων/PDF] Η λειτουργία OCR TTS σε πραγματικό χρόνο έχει τοποθετηθεί στην κορυφή.\nΔιορθώθηκε ένα σφάλμα όπου οι ρυθμίσεις του θεατή δεν άλλαξαν.\nΗ διεπαφή λειτουργίας κίνησης θέσης έχει τροποποιηθεί."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.8.9\n\nDe methode voor het maken van viewer -snelkoppictogrammen is gewijzigd.\nU kunt een snelkoppictogram instellen door op de knop Three Dots in de rechtsboven op te drukken.\nDe berekening van een viewer -pagina opgelost."
+    "devnote": "7.9.0\n\nDe interface van de nummerselectiefunctie is gewijzigd.\n[Image/PDF-viewer-instellingen] De realtime OCR TTS-functie is bovenaan geplaatst.\nEen bug opgelost waarbij de instellingen van de viewer niet werden gewijzigd.\nDe locatiebewegingsfunctie -interface is gewijzigd."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "7.8.9\n\nदर्शक सर्टकट आइकनको सिर्जना गर्ने विधि परिमार्जन गरिएको छ।\nतपाईं माथिल्लो दायाँ मा तीन डट बटन थिचेर एक सर्टकट आइकन सेट गर्न सक्नुहुन्छ।\nएक दर्शक पृष्ठ गणना बग फिक्स गरियो।"
+    "devnote": "7..9.0\n\nनम्बर चयन प्रकार्य ईन्टरफेस परिमार्जन गरिएको छ।\n[छवि / PDF अवलोकन सेटिंग्स] वास्तविक समय OCR TTS प्रकार्य शीर्षमा राखिएको छ।\nबग फिक्स गरियो जहाँ अवलोकन सेटिंग्स परिवर्तन भएन।\nस्थान आन्दोलन प्रकार्य ईन्टरफेस परिमार्जन गरिएको छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.8.9\n\nMetoden for å lage seerhortskjerkoner er endret.\nDu kan angi et snarvei -ikon ved å trykke på tre prikker -knappen øverst til høyre.\nFikset en beregningsfeil fra seert side."
+    "devnote": "7.9.0\n\nNummervalgsfunksjonsgrensesnittet er endret.\n[Image/PDF Viewer-innstillinger] OCR TTS-funksjonen i sanntid er plassert øverst.\nFikset en feil der seerinnstillingene ikke ble endret.\nPlasseringsbevegelsesfunksjonsgrensesnittet er endret."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.8.9\n\nMetoden til at oprette seergenvejsikoner er blevet ændret.\nDu kan indstille et genvejsikon ved at trykke på de tre prikker -knappen øverst til højre.\nRettet en seer side beregningsfejl."
+    "devnote": "7.9.0\n\nNumbervalgsfunktionsgrænsefladen er blevet ændret.\n[Image/PDF Viewer-indstillinger] Funktionen i realtid OCR TTS er placeret øverst.\nRettet en fejl, hvor seerindstillingerne ikke blev ændret.\nPlaceringsbevægelsesfunktionsgrænsefladen er blevet ændret."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.8.9\n\nDie Methode zum Erstellen von Zuschauer -Verknüpfungssymbole wurde geändert.\nSie können ein Verknüpfungssymbol einstellen, indem Sie die Taste mit drei Punkten oben rechts drücken.\nEs wurde ein Berechnungsfehler der Viewer -Seitenberechnung behoben."
+    "devnote": "7.9.0\n\nDie Nummernauswahlfunktionsschnittstelle wurde geändert.\n[Image/PDF-Viewer-Einstellungen] Die Echtzeit-OCR-TTS-Funktion wurde oben platziert.\nEs wurde ein Fehler behoben, bei dem die Einstellungen der Zuschauer nicht geändert wurden.\nDie Standortbewegungsfunktionsoberfläche wurde geändert."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.8.9\n\nວິທີການຂອງຮູບສັນຍາລັກທາງລັດ Viewer ໄດ້ຖືກດັດແກ້ແລ້ວ.\nທ່ານສາມາດກໍານົດໄອຄອນທາງລັດໂດຍກົດປຸ່ມສາມຈຸດໃນເບື້ອງຂວາເທິງ.\nແກ້ໄຂຂໍ້ບົກພ່ອງດ້ານຫນ້າຂອງຜູ້ເບິ່ງ."
+    "devnote": "7.9.0\n\nການໂຕ້ຕອບທີ່ມີການເລືອກແບບຈໍາລອງໄດ້ຖືກດັດແກ້ແລ້ວ.\n[ຮູບພາບການຕັ້ງຄ່າ / PDF / PDF / PDF TTS OCR TTS ທີ່ຖືກຈັດຫນ້າທີ່ຢູ່ເທິງສຸດ.\nແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ການຕັ້ງຄ່າ Viewer ບໍ່ໄດ້ປ່ຽນຫຍັງເລີຍ.\nການໂຕ້ຕອບທີ່ໃຊ້ສະຖານທີ່ການເຄື່ອນໄຫວໄດ້ຖືກດັດແກ້ແລ້ວ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.8.9\n\nVērtētāju saīsņu ikonu izveidošanas metode ir modificēta.\nJūs varat iestatīt saīsnes ikonu, augšējā labajā pusē nospiežot trīs punktu pogu.\nNovērsta skatītāja lapas aprēķina kļūda."
+    "devnote": "7.9.0\n\nSkaitļu atlases funkcijas saskarne ir modificēta.\n[Image/PDF skatītāja iestatījumi] Augšpusē ir novietota reālā laika OCR TTS funkcija.\nNovērsta kļūda, kurā skatītāja iestatījumi netika mainīti.\nAtrašanās vietas kustības funkcijas saskarne ir modificēta."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.8.9\n\nМетод создания значков сочетания зрителей был изменен.\nВы можете установить значок ярлыка, нажав кнопку «Три точки» в правом верхнем углу.\nИсправлена ​​ошибка расчета страницы просмотра."
+    "devnote": "7.9.0\n\nИнтерфейс функции выбора числа был изменен.\n[Настройки изображения/PDF Viewer] Функция OCR TTS в реальном времени была размещена сверху.\nИсправлена ​​ошибка, где настройки просмотра не были изменены.\nИнтерфейс функции движения местоположения был изменен."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.8.9\n\nMetoda de creare a pictogramelor de scurtătură a vizualizatorului a fost modificată.\nPuteți seta o pictogramă de scurtătură apăsând butonul Three Dots din partea dreaptă sus.\nS -a rezolvat o eroare de calcul a paginii vizualizatoare."
+    "devnote": "7.9.0\n\nInterfața funcției de selecție a numărului a fost modificată.\n[Image/PDF Setări vizualizator] Funcția OCR TTS în timp real a fost plasată în partea de sus.\nS -a rezolvat o eroare în care setările vizualizatorului nu au fost modificate.\nInterfața funcției de mișcare a locației a fost modificată."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.8.9\n\nBuvo modifikuotas žiūrovo nuorodų piktogramų kūrimo būdas.\nGalite nustatyti nuorodos piktogramą paspausdami tris taškus viršutiniame dešiniajame dešiniajame.\nIštaisyta žiūrovo puslapio skaičiavimo klaida."
+    "devnote": "7.9.0\n\nSkaičių pasirinkimo funkcijos sąsaja buvo modifikuota.\n[Vaizdo/PDF peržiūros priemonės nustatymai] Realaus laiko OCR TTS funkcija buvo dedama viršuje.\nIštaisyta klaida, kai žiūrovo nustatymai nebuvo pakeisti.\nVietos judėjimo funkcijos sąsaja buvo modifikuota."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.8.9\n\nदर्शक शॉर्टकट चिन्ह तयार करण्याची पद्धत सुधारित केली गेली आहे.\nवरच्या उजवीकडे तीन डॉट्स बटण दाबून आपण शॉर्टकट चिन्ह सेट करू शकता.\nदर्शक पृष्ठ गणना बग निश्चित केले."
+    "devnote": "7.9.0\n\nक्रमांक निवड फंक्शन इंटरफेस सुधारित केले गेले आहे.\n[प्रतिमा/पीडीएफ व्ह्यूअर सेटिंग्ज] रिअल-टाइम ओसीआर टीटीएस फंक्शन शीर्षस्थानी ठेवले आहे.\nबग निश्चित केला जेथे दर्शक सेटिंग्ज बदलल्या नाहीत.\nस्थान चळवळ फंक्शन इंटरफेस सुधारित केले गेले आहे."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.8.9\n\nМетодот за создавање икони за кратенки на гледачот е изменет.\nМожете да поставите икона за кратенка со притискање на копчето Три точки во горниот десен агол.\nПоправи грешка за пресметка на страницата за гледачи."
+    "devnote": "7.9.0\n\nИнтерфејсот за функција за избор на број е изменет.\n[Поставки за гледање на слика/PDF] Функцијата OCR TTS во реално време е поставена на врвот.\nПоправи грешка каде што поставките на гледачот не беа променети.\nИнтерфејсот за функција за движење на локацијата е изменет."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.8.9\n\nവ്യൂവർ കുറുക്കുവഴി ഐക്കണുകൾ സൃഷ്ടിക്കുന്നതിനുള്ള രീതി പരിഷ്ക്കരിച്ചു.\nമുകളിൽ വലതുവശത്തുള്ള മൂന്ന് ഡോട്ട് ബട്ടൺ അമർത്തിക്കൊണ്ട് നിങ്ങൾക്ക് ഒരു കുറുക്കുവഴി ഐക്കൺ സജ്ജമാക്കാൻ കഴിയും.\nഒരു കാഴ്ച പേജ് കണക്കുകൂട്ടൽ ബഗ് പരിഹരിച്ചു."
+    "devnote": "7.9.0\n\nനമ്പർ തിരഞ്ഞെടുക്കൽ ഫംഗ്ഷൻ ഇന്റർഫേസ് പരിഷ്ക്കരിച്ചു.\n[ഇമേജ് / പിഡിഎഫ് വ്യൂവർ ക്രമീകരണങ്ങൾ] തത്സമയ ഒആർസിആർ ടിടിഎസ് ഫംഗ്ഷൻ മുകളിൽ സ്ഥാപിച്ചു.\nവ്യൂവർ ക്രമീകരണങ്ങൾ മാറ്റിയിട്ടില്ല എന്ന ഒരു ബഗ് പരിഹരിച്ചു.\nലൊക്കേഷൻ മൂവ്മെന്റ് ഫംഗ്ഷൻ ഇന്റർഫേസ് പരിഷ്ക്കരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.8.9\n\nKaedah membuat ikon pintasan penonton telah diubahsuai.\nAnda boleh menetapkan ikon pintasan dengan menekan butang tiga titik di sebelah kanan atas.\nMemperbaiki bug pengiraan halaman penonton."
+    "devnote": "7.9.0\n\nAntara muka fungsi pemilihan nombor telah diubahsuai.\n[Tetapan Penonton Imej/PDF] Fungsi OCR TTS masa nyata telah diletakkan di bahagian atas.\nTetapkan pepijat di mana tetapan penonton tidak berubah.\nAntara muka fungsi pergerakan lokasi telah diubahsuai."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.9.9\n\nViewer Pointcut дүрсийг үүсгэх арга нь өөрчлөгдсөн байна.\nТа баруун дээд хэсэгт байрлах гурван цэг товчийг дарж товчлол дүрсийг тохируулж болно.\nViewer Page Page Countrination Bug."
+    "devnote": "7.9.0\n\nДугаарын сонгон шалгаруулалтын функц интерфэйсийг өөрчилсөн байна.\n[Зураг / PDF View Seterer тохиргоо] Бодит цагийн OCR TTR TTS функцийг дээд талд байрлуулсан байна.\nҮзэгчдийн тохиргоог өөрчлөхгүй байгаа алдааг засав.\nБайршлын хөдөлгөөний функц функцийг өөрчилсөн байна."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.8.9\n\nIkusle lasterbide ikonoak sortzeko metodoa aldatu da.\nLasterbide ikonoa ezar dezakezu goiko eskuineko hiru puntuak botoia sakatuta.\nIkusleen orrialdearen kalkulu akatsa konpondu da."
+    "devnote": "7.9.0\n\nZenbakien hautaketa funtzioaren interfazea aldatu da.\n[Irudia / PDF ikuslearen ezarpenak] Time-Time TTS funtzioa goiko aldean jarri da.\nBug bat konpondu da ikuslearen ezarpenak aldatu ez zirenean.\nKokapen mugimenduaren funtzioaren interfazea aldatu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.8.9\n\nViewer Shortcut icon များကိုဖန်တီးခြင်း၏နည်းလမ်းကိုပြုပြင်မွမ်းမံခဲ့သည်။\nညာဘက်အပေါ်သုံးခုခလုတ်ကိုနှိပ်ခြင်းအားဖြင့် Shortcut icon တစ်ခုကိုသတ်မှတ်နိုင်သည်။\nကြည့်ရှုသူ၏စာမျက်နှာတွက်ချက်မှု bug ကို fixed ။"
+    "devnote": "7.9.0\n\nနံပါတ်ရွေးချယ်ရေး function interface ကိုပြုပြင်ပြီးပြီ။\n[image / pdf viewer settings] အချိန် Real-time OCR TTS function ကိုထိပ်မှာနေရာချထားလိုက်ပါတယ်။\nကြည့်ရှုသူ settings ကိုမပြောင်းလဲသော bug တစ်ခု fixed ။\nတည်နေရာလှုပ်ရှားမှု function interface ကိုပြုပြင်ထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.8.9\n\nPhương pháp tạo biểu tượng phím tắt trình xem đã được sửa đổi.\nBạn có thể đặt biểu tượng phím tắt bằng cách nhấn nút ba dấu chấm ở phía trên bên phải.\nĐã sửa lỗi tính toán trang của trình xem."
+    "devnote": "7.9.0\n\nGiao diện chức năng chọn số đã được sửa đổi.\n[Cài đặt trình xem hình ảnh/PDF] Hàm OCR TTS thời gian thực đã được đặt ở trên cùng.\nĐã sửa lỗi trong đó cài đặt người xem không bị thay đổi.\nGiao diện chức năng chuyển động vị trí đã được sửa đổi."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.8.9\n\nМетад стварэння абразоў для ярлыкаў гледача быў зменены.\nВы можаце ўсталяваць значок хуткага доступу, націснуўшы тры кнопкі кропак у правым верхнім правым.\nВыпраўлена памылка разліку старонкі прагляду."
+    "devnote": "7.9.0\n\nІнтэрфейс функцыі выбару лікаў быў зменены.\n[Налады прагляду малюнка/PDF] Уверсе была размешчана функцыя OCR TTS у рэжыме рэальнага часу.\nВыпраўлена памылка, дзе налады прагляду не былі зменены.\nІнтэрфейс функцыі руху размяшчэння быў зменены."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.8.9\n\nভিউয়ার শর্টকাট আইকন তৈরির পদ্ধতিটি সংশোধন করা হয়েছে।\nআপনি উপরের ডানদিকে তিনটি বিন্দু বোতাম টিপে একটি শর্টকাট আইকন সেট করতে পারেন।\nএকটি দর্শকের পৃষ্ঠা গণনা বাগ স্থির করুন।"
+    "devnote": "7.9.0\n\nনম্বর নির্বাচন ফাংশন ইন্টারফেসটি সংশোধন করা হয়েছে।\n[চিত্র/পিডিএফ ভিউয়ার সেটিংস] রিয়েল-টাইম ওসিআর টিটিএস ফাংশনটি শীর্ষে রাখা হয়েছে।\nএমন একটি বাগ ঠিক করা হয়েছে যেখানে দর্শকের সেটিংস পরিবর্তন করা হয়নি।\nলোকেশন মুভমেন্ট ফাংশন ইন্টারফেসটি সংশোধন করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.8.9\n\nМетодът за създаване на икони за бърз достъп на зрителя е модифициран.\nМожете да зададете икона на пряк достъп, като натиснете бутона с три точки в горната част надясно.\nФиксирана грешка в изчислението на страницата на зрителя."
+    "devnote": "7.9.0\n\nИнтерфейсът за функция за избор на номер е модифициран.\n[Изображение/PDF настройки на зрителя] Функцията OCR TTS в реално време е поставена в горната част.\nФиксирана грешка, при която настройките на зрителя не са променени.\nИнтерфейсът на функцията за движение на местоположението е модифициран."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.8.9\n\nПоступак креирања икона пречица гледалаца је модификован.\nМожете поставити икону пречице притиском на дугме три тачке у горњем десном углу.\nИсправљена је буквара о прорачуну страници прегледача."
+    "devnote": "7.9.0\n\nИнтерфејс функција одабира броја је модификован.\n[Слика / ПДФ Виевер Сеттингс] Функција ОЦР ТТС-а је постављена на врх.\nПоправљена је грешка у којој се подешавања гледалаца нису промењене.\nИнтерфејс функција покрета локације је модификован."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.8.9\n\nNjia ya kuunda icons za njia ya mkato ya watazamaji imebadilishwa.\nUnaweza kuweka ikoni ya njia ya mkato kwa kubonyeza kitufe cha dots tatu upande wa kulia.\nZisizohamishika mdudu wa hesabu ya ukurasa wa mtazamaji."
+    "devnote": "7.9.0\n\nInterface ya kazi ya uteuzi wa nambari imebadilishwa.\n[Mipangilio ya Mtazamaji wa Picha/PDF] Kazi halisi ya OCR TTS imewekwa juu.\nZisizohamishika mdudu ambapo mipangilio ya watazamaji haikubadilishwa.\nInterface ya kazi ya harakati ya eneo imebadilishwa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.8.9\n\nMetoden för att skapa tittare på genvägsikoner har modifierats.\nDu kan ställa in en genvägsikon genom att trycka på knappen tre prickar i den övre höger.\nFixade en beräkningsfel för visningssidan."
+    "devnote": "7.9.0\n\nNummervalsfunktionsgränssnittet har modifierats.\n[Image/PDF Viewer-inställningar] Funktionen i realtid har placerats överst.\nFixade ett fel där visningsinställningar inte ändrades.\nPlatsrörelsefunktionsgränssnittet har modifierats."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.8.9\n\nEl método para crear iconos de acceso directo del espectador ha sido modificado.\nPuede establecer un icono de acceso directo presionando el botón de tres puntos en la parte superior derecha.\nSe corrigió un error de cálculo de la página del visor."
+    "devnote": "7.9.0\n\nLa interfaz de función de selección de números ha sido modificada.\n[Configuración del visor de imagen/PDF] La función OCR TTS en tiempo real se ha colocado en la parte superior.\nSe corrigió un error donde la configuración del espectador no se cambiaba.\nLa interfaz de función de movimiento de ubicación ha sido modificada."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.8.9\n\nMetóda vytvárania ikon skratky prehliadača bola upravená.\nIkonu skratky môžete nastaviť stlačením tlačidla troch bodiek v pravom hornom rohu.\nOpravená chyba výpočtu stránky prehliadača."
+    "devnote": "7.9.0\n\nRozhranie funkcie výberu čísla bolo upravené.\n[Nastavenia zobrazovača Image/PDF] Funkcia OCR TTS v reálnom čase bola umiestnená v hornej časti.\nOpravená chyba, kde sa nastavenia diváka nezmenili.\nRozhranie funkcie pohybu polohy bolo upravené."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.8.9\n\nMetoda ustvarjanja ikon bližnjega gledalca je bila spremenjena.\nIkono bližnjice lahko nastavite s pritiskom na gumb Tri pike v zgornjem desnem kotu.\nOdpravljena je napak pri izračunu strani pregledovalnika."
+    "devnote": "7.9.0\n\nVmesnik funkcije izbire številk je spremenjen.\n[Nastavitve pregledovalnika slik/PDF] Funkcija OCR TTS v realnem času je bila postavljena na vrhu.\nOdpravljena je napaka, pri kateri nastavitve gledalcev niso bile spremenjene.\nVmesnik funkcije gibanja lokacije je spremenjen."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.8.9\n\nනරඹන්නා කෙටිමං අයිකන නිර්මාණය කිරීමේ ක්රමය වෙනස් කර ඇත.\nඉහළ දකුණේ තිත් බොත්තම තුන එබීමෙන් ඔබට කෙටිමං නිරූපකයක් සැකසිය හැකිය.\nනරඹන්නන්ගේ පිටු ගණනය කිරීමේ දෝෂයක් සවි කර ඇත."
+    "devnote": "7.9.0\n\nඅංක තේරීමේ ක්රියාකාරී අතුරුමුහුණත වෙනස් කර ඇත.\n[රූපය / පී.ඩී.එෆ් නරඹන්නන්ගේ සැකසුම්] තත්ය කාලීන OCR TTS ශ්රිතය ඉහළින්ම තබා ඇත.\nනරඹන්නන්ගේ සැකසුම් වෙනස් නොකළ දෝෂයක් සවි කර ඇත.\nස්ථාන චලන ක්රියා අතුරුමුහුණත වෙනස් කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.8.9\n\nتم تعديل طريقة إنشاء أيقونات اختصار المشاهد.\nيمكنك تعيين أيقونة اختصار عن طريق الضغط على زر النقاط الثلاثة في الجزء العلوي الأيمن.\nإصلاح خلل حساب صفحة المشاهد."
+    "devnote": "7.9.0\n\nتم تعديل واجهة وظيفة تحديد الرقم.\n[إعدادات عارض الصورة/PDF] تم وضع وظيفة OCR TTS في الوقت الفعلي في الأعلى.\nتم إصلاح الخلل حيث لم يتم تغيير إعدادات المشاهد.\nتم تعديل واجهة وظيفة حركة الموقع."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.8.9\n\nԴիտումների դյուրանցման սրբապատկերների ստեղծման մեթոդը փոփոխվել է:\nԿարող եք սահմանել դյուրանցման պատկերակ `սեղմելով վերին աջ կողմում գտնվող երեք կետերը:\nՖիքսել է հեռուստադիտողի էջի հաշվարկման սխալը:"
+    "devnote": "7.9.0\n\nԸնտրության ֆունկցիայի միջերեսը փոփոխվել է:\n[Image / PDF Viewer Settings] Իրական ժամանակի OCR TTS գործառույթը տեղադրվել է վերեւում:\nFix նջեց մի սխալ, որտեղ դիտողի պարամետրերը չեն փոխվել:\nՏեղադրության շարժման ֆունկցիայի միջերեսը փոփոխվել է:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.8.9\n\nAðferðinni til að búa til flýtileiðtákn áhorfenda hefur verið breytt.\nÞú getur stillt flýtileiðtákn með því að ýta á þriggja punktahnappinn efst til hægri.\nLagaði útreikningsgalla áhorfenda."
+    "devnote": "7.9.0\n\nFjöldi valvirkni viðmótsins hefur verið breytt.\n[Stillingar mynd/PDF Viewer] Rauntíma OCR TTS aðgerðin hefur verið sett efst.\nLagaði villu þar sem ekki var breytt áhorfenda.\nStaðsetningarflutningsaðgerðarviðmótinu hefur verið breytt."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.8.9\n\nViewer qısa yol nişanlarının yaradılması üsulu dəyişdirildi.\nÜst sağdakı üç nöqtəni düyməsinə basaraq qısa yol nişanı təyin edə bilərsiniz.\nBir izləyici səhifəsi hesablama səhvini düzəldin."
+    "devnote": "7.9.0\n\nNömrə seçim funksiyası interfeysi dəyişdirildi.\n[Şəkil / PDF Viewer Parametrləri] Həqiqi vaxt OCR TTS funksiyası yuxarıdan yerləşdirilib.\nViewer parametrlərinin dəyişdirilmədiyi bir səhv düzəldildi.\nYer Hərəkatı Funksiya interfeysi dəyişdirildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.8.9\n\nDie metode om die kortpad -ikone van die kyker te skep, is gewysig.\nU kan 'n kortpad -ikoon instel deur op die drie kolletjie -knoppie regs bo te druk.\n'N Berekeningsfout van 'n kykerbladsy reggestel."
+    "devnote": "7.9.0\n\nDie nommer -seleksie -funksie -koppelvlak is gewysig.\n[Image/PDF Viewer-instellings] Die intydse OCR TTS-funksie is aan die bokant geplaas.\n'N fout opgelos waar die instellings van die kyker nie verander is nie.\nDie koppelvlak van die liggingsbewegingsfunksie is verander."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.8.9\n\nMetoda e krijimit të ikonave të shkurtoreve të shikuesit është modifikuar.\nJu mund të vendosni një ikonë të shkurtoreve duke shtypur butonin Tre Dots në të djathtën e sipërme.\nFiksuar një problem të llogaritjes së faqes së shikuesit."
+    "devnote": "7.9.0\n\nNdërfaqja e funksionit të zgjedhjes së numrave është modifikuar.\n[Cilësimet e shikuesit të imazhit/PDF] Funksioni OCR TTS në kohë reale është vendosur në krye.\nFiksuar një gabim ku cilësimet e shikuesit nuk u ndryshuan.\nNdërfaqja e funksionit të lëvizjes së vendndodhjes është modifikuar."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.8.9\n\nየመመልከቻ አቋራጭ አዶዎችን የመፍጠር ዘዴ ተሻሽሏል.\nበላይኛው ቀኝ በኩል ያሉትን ሦስት የመያዣዎች ቁልፍ በመጫን አቋራጭ አዶ ማዘጋጀት ይችላሉ.\nየተመልካች ገጽ ስሌት ሳንካ."
+    "devnote": "7.9.0\n\nየቁጥር ምርጫ ተግባር በይነገጽ ተሻሽሏል.\n[ምስል / ፒዲኤፍ መመልከቻ ቅንብሮች] የእውነተኛ-ጊዜ OCR TTS ተግባር ከላይ ተጭኖ ነበር.\nየተከታታይ ቅንጅቶች ያልተለወጡበት ሳንካ ተጠግኗል.\nየአከባቢው እንቅስቃሴ ተግባር በይነገጽ ተሻሽሏል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.8.9\n\nVaataja otseteede ikoonide loomise meetodit on muudetud.\nSaate seada otsetee ikooni, vajutades paremas ülanurgas asuvat kolme punkti nuppu.\nParandatud vaataja lehe arvutusviga."
+    "devnote": "7.9.0\n\nNumbrite valikufunktsiooni liides on muudetud.\n[Image/PDF-vaataja sätted] Reaalajas OCR TTS-funktsioon on asetatud ülaossa.\nParandatud viga, kus vaataja sätteid ei muudetud.\nAsukoha liikumise funktsiooni liides on muudetud."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.8.9\n\nناظرین کے شارٹ کٹ شبیہیں بنانے کے طریقہ کار میں ترمیم کی گئی ہے۔\nآپ اوپری دائیں میں تین نقطوں کا بٹن دباکر شارٹ کٹ آئیکن مرتب کرسکتے ہیں۔\nایک ناظرین کے صفحے کے حساب کتاب بگ کو طے کیا۔"
+    "devnote": "7.9.0\n\nنمبر سلیکشن فنکشن انٹرفیس میں ترمیم کی گئی ہے۔\n[تصویر/پی ڈی ایف ناظرین کی ترتیبات] اصل وقت کے او سی آر ٹی ٹی ایس فنکشن کو اوپر رکھا گیا ہے۔\nایک بگ طے کیا جہاں ناظرین کی ترتیبات کو تبدیل نہیں کیا گیا تھا۔\nلوکیشن موومنٹ فنکشن انٹرفیس میں ترمیم کی گئی ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.8.9\n\nМетод створення піктограм ярликів глядачів змінився.\nВи можете встановити піктограму ярлика, натиснувши кнопку «Три точки» у верхньому правому куті.\nВиправлено помилку обчислення сторінки глядача."
+    "devnote": "7.9.0\n\nІнтерфейс функції вибору чисел змінився.\n[Налаштування перегляду зображення/PDF] Функція OCR TTS в режимі реального часу була розміщена вгорі.\nВиправлена ​​помилка, де налаштування глядача не змінювались.\nІнтерфейс функції руху розташування було змінено."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.8.9\n\nIl metodo per la creazione di icone di scelta rapida degli visualizzatori è stato modificato.\nÈ possibile impostare un'icona di scelta rapida premendo il pulsante tre punti in alto a destra.\nRisolto un bug di calcolo della pagina del visualizzatore."
+    "devnote": "7.9.0\n\nL'interfaccia della funzione di selezione dei numeri è stata modificata.\n[Impostazioni per visualizzatore Image/PDF] La funzione OCR TTS in tempo reale è stata posizionata nella parte superiore.\nRisolto un bug in cui le impostazioni del visualizzatore non sono state modificate.\nL'interfaccia della funzione di movimento della posizione è stata modificata."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.8.9\n\nMetode membuat ikon pintasan pemirsa telah dimodifikasi.\nAnda dapat mengatur ikon pintasan dengan menekan tombol tiga titik di kanan atas.\nMemperbaiki bug perhitungan halaman penampil."
+    "devnote": "7.9.0\n\nAntarmuka fungsi pemilihan angka telah dimodifikasi.\n[Pengaturan Penampil Gambar/PDF] Fungsi OCR TTS real-time telah ditempatkan di bagian atas.\nMemperbaiki bug di mana pengaturan penampil tidak diubah.\nAntarmuka fungsi pergerakan lokasi telah dimodifikasi."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.8.9\n\n視聴者のショートカットアイコンを作成する方法が変更されました。\n右上の3つのドットボタンを押すと、ショートカットアイコンを設定できます。\nビューアページの計算バグを修正しました。"
+    "devnote": "7.9.0\n\n数値選択関数インターフェイスが変更されました。\n[画像/PDFビューア設定]リアルタイムOCR TTS関数が上部に配置されています。\n視聴者の設定が変更されなかったバグを修正しました。\n位置移動機能インターフェイスが変更されました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.8.9\n\nშეიცვალა მაყურებლის მალსახმობების ხატების შექმნის მეთოდი.\nშეგიძლიათ დააყენოთ მალსახმობის ხატი ზედა მარჯვენა ღილაკზე დაჭერით.\nდაფიქსირდა მაყურებლის გვერდის გაანგარიშების შეცდომა."
+    "devnote": "7.9.0\n\nშეიცვალა ნომრების შერჩევის ფუნქციის ინტერფეისი.\n[Image/PDF Viewer პარამეტრები] რეალურ დროში OCR TTS ფუნქცია განთავსებულია ზედა ნაწილში.\nდაფიქსირდა შეცდომა, სადაც არ შეცვლილა მაყურებლის პარამეტრები.\nადგილმდებარეობის მოძრაობის ფუნქციის ინტერფეისი შეიცვალა."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.8.9\n\nIndlela yokwenza izithonjana zesinqamuleli sezibukeli ziguquliwe.\nUngasetha isithonjana esinqamulelayo ngokucindezela inkinobho yamachashazi amathathu ngakwesokudla phezulu.\nIlungiswe i-bug ebaliwe yokubala."
+    "devnote": "7.9.0\n\nIsibonisi sokukhethwa kwezinombolo siguquliwe.\n[Izilungiselelo ze-Image / PDF Viewer] Umsebenzi wangempela we-OCR TTS ubekwe phezulu.\nKulungiswe isiphazamiso lapho izilungiselelo zobuke bezibukeli zingashintshiwe.\nIsibonisi somsebenzi wokusebenza kwendawo siguquliwe."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.8.9\n\n创建查看器快捷方式图标的方法已修改。\n您可以通过按右上方的三个点按钮来设置快捷方式图标。\n修复了查看器页面计算错误。"
+    "devnote": "7.9.0\n\n数字选择函数接口已修改。\n[Image/PDF查看器设置]实时OCR TTS函数已放置在顶部。\n修复了一个未更改查看器设置的错误。\n位置运动函数接口已修改。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.8.9\n\n創建查看器快捷方式圖標的方法已修改。\n您可以通過按右上方的三個點按鈕來設置快捷方式圖標。\n修復了查看器頁面計算錯誤。"
+    "devnote": "7.9.0\n\n數字選擇函數接口已修改。\n[Image/PDF查看器設置]實時OCR TTS函數已放置在頂部。\n修復了一個未更改查看器設置的錯誤。\n位置運動函數接口已修改。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.8.9\n\n創建查看器快捷方式圖標的方法已修改。\n您可以通過按右上方的三個點按鈕來設置快捷方式圖標。\n修復了查看器頁面計算錯誤。"
+    "devnote": "7.9.0\n\n數字選擇函數接口已修改。\n[Image/PDF查看器設置]實時OCR TTS函數已放置在頂部。\n修復了一個未更改查看器設置的錯誤。\n位置運動函數接口已修改。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.8.9\n\nMetoda vytváření ikon zkratky prohlížeče byla upravena.\nIkonu zkratky můžete nastavit stisknutím tlačítka Tři tečky vpravo nahoře.\nOpravena chyba výpočtu stránky prohlížeče."
+    "devnote": "7.9.0\n\nRozhraní funkce výběru čísel bylo upraveno.\n[Nastavení prohlížeče Image/PDF] Funkce OCR TTS v reálném čase byla umístěna nahoře.\nOpravena chyba, kde se nastavení prohlížeče nezměnilo.\nRozhraní funkcí pohybu lokality bylo upraveno."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.8.9\n\nКөрерменді төте жол белгілерін жасау әдісі өзгертілген.\nҮстіңгі оң жақтағы үш нүкте түймесін басып, төте жолды орнатуға болады.\nКөрерменді бетті есептеу қатесі."
+    "devnote": "7.9.0\n\nНөмірді таңдау функциясы интерфейсі өзгертілген.\n[Image / PDF қарау құралының параметрлері] Нақты уақыттағы OCR TTS функциясы жоғарғы жағында орналастырылған.\nҚарау құралдары өзгермеген қатені түзетіңіз.\nОрынды бақылау функциясы интерфейсі өзгертілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.8.9\n\nS'ha modificat el mètode per crear icones de drecera del visualitzador.\nPodeu definir una icona de drecera prement el botó de tres punts a la part superior dreta.\nS'ha corregit un error de càlcul de la pàgina del visualitzador."
+    "devnote": "7.9.0\n\nLa interfície de funció de selecció de números s'ha modificat.\n[Configuració del visualitzador d'imatges/PDF] La funció TTS OCR en temps real s'ha col·locat a la part superior.\nS'ha corregit un error on no s'ha canviat la configuració del visualitzador.\nS'ha modificat la interfície de la funció de moviment de la ubicació."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.8.9\n\nವೀಕ್ಷಕ ಶಾರ್ಟ್‌ಕಟ್ ಐಕಾನ್‌ಗಳನ್ನು ರಚಿಸುವ ವಿಧಾನವನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\nಮೇಲಿನ ಬಲಭಾಗದಲ್ಲಿರುವ ಮೂರು ಚುಕ್ಕೆಗಳ ಗುಂಡಿಯನ್ನು ಒತ್ತುವ ಮೂಲಕ ನೀವು ಶಾರ್ಟ್‌ಕಟ್ ಐಕಾನ್ ಅನ್ನು ಹೊಂದಿಸಬಹುದು.\nವೀಕ್ಷಕ ಪುಟ ಲೆಕ್ಕಾಚಾರದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "7.9.0\n\nಸಂಖ್ಯೆ ಆಯ್ಕೆ ಕಾರ್ಯ ಇಂಟರ್ಫೇಸ್ ಅನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n[ಇಮೇಜ್/ಪಿಡಿಎಫ್ ವೀಕ್ಷಕ ಸೆಟ್ಟಿಂಗ್‌ಗಳು] ನೈಜ-ಸಮಯದ ಒಸಿಆರ್ ಟಿಟಿಎಸ್ ಕಾರ್ಯವನ್ನು ಮೇಲ್ಭಾಗದಲ್ಲಿ ಇರಿಸಲಾಗಿದೆ.\nವೀಕ್ಷಕರ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಬದಲಾಯಿಸದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\nಸ್ಥಳ ಚಲನೆಯ ಕಾರ್ಯ ಇಂಟರ್ಫೇಸ್ ಅನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.8.9\n\nMetoda stvaranja ikona prečaca gledatelja izmijenjena je.\nIkonu prečaca možete postaviti pritiskom na gumb od tri točke u gornjem desnom desnom kutu.\nIspravljeno je pogreška za izračunavanje stranice."
+    "devnote": "7.9.0\n\nSučelje funkcije odabira broja je izmijenjeno.\n[Slika/PDF postavke gledatelja] OCR TTS u stvarnom vremenu postavljena je na vrhu.\nIspravljena je greška u kojoj postavke gledatelja nisu promijenjene.\nSučelje funkcije pokreta lokacije je izmijenjeno."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.8.9\n\nវិធីសាស្រ្តនៃការបង្កើតរូបតំណាងផ្លូវកាត់របស់អ្នកមើលត្រូវបានកែប្រែ។\nអ្នកអាចកំណត់រូបតំណាងផ្លូវកាត់ដោយចុចប៊ូតុងចំណុចបីនៅខាងស្តាំខាងលើ។\nជួសជុលកំហុសនៃការគណនាទំព័រអ្នកមើល។"
+    "devnote": "7.9.0\n\nចំណុចប្រទាក់មុខងារជ្រើសរើសលេខត្រូវបានកែប្រែ។\n[រូបភាព / ការកំណត់រូបភាពរបស់ PDF] មុខងារ OCR TTS ពេលវេលាពិតប្រាកដត្រូវបានដាក់នៅខាងលើ។\nជួសជុលកំហុសដែលការកំណត់កម្មវិធីមើលមិនត្រូវបានផ្លាស់ប្តូរទេ។\nចំណុចប្រទាក់មុខងារមុខងារនៃចលនាទីតាំងត្រូវបានកែប្រែ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.8.9\n\nКөрүүчү жарлыкты жаратуу ыкмасы өзгөртүлдү.\nСиз үч чекит баскычын басуу менен кыскача сөлөкөтүн орнотсоңуз болот.\nКөрүүчү баракчаны эсептөө Bug."
+    "devnote": "7.9.0\n\nСандык функция интерфейси өзгөртүлдү.\n[Сүрөттөр / PDF viewer жөндөөлөрү] Чыныгы убакыт режиминде TTS функциясы жогору жагына коюлган.\nКөрүүчү орнотуулары өзгөргөн жок мүчүлүштүктү оңдолду.\nЖайгашкан жер кыймылынын функционалдык интерфейси өзгөртүлдү."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.8.9\n\nபார்வையாளர் குறுக்குவழி சின்னங்களை உருவாக்கும் முறை மாற்றியமைக்கப்பட்டுள்ளது.\nமேல் வலதுபுறத்தில் மூன்று புள்ளிகள் பொத்தானை அழுத்துவதன் மூலம் குறுக்குவழி ஐகானை அமைக்கலாம்.\nபார்வையாளர் பக்க கணக்கீட்டு பிழை சரி செய்யப்பட்டது."
+    "devnote": "7.9.0\n\nஎண் தேர்வு செயல்பாட்டு இடைமுகம் மாற்றியமைக்கப்பட்டுள்ளது.\n[படம்/PDF பார்வையாளர் அமைப்புகள்] நிகழ்நேர OCR TTS செயல்பாடு மேலே வைக்கப்பட்டுள்ளது.\nபார்வையாளர் அமைப்புகள் மாற்றப்படாத ஒரு பிழை சரி செய்யப்பட்டது.\nஇருப்பிட இயக்க செயல்பாட்டு இடைமுகம் மாற்றியமைக்கப்பட்டுள்ளது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.8.9\n\nวิธีการสร้างไอคอนทางลัดดูได้รับการแก้ไขแล้ว\nคุณสามารถตั้งค่าไอคอนทางลัดได้โดยกดปุ่มสามจุดที่ด้านบนขวา\nแก้ไขข้อผิดพลาดการคำนวณหน้าดู"
+    "devnote": "7.9.0\n\nส่วนต่อประสานฟังก์ชันการเลือกหมายเลขได้รับการแก้ไขแล้ว\n[การตั้งค่า Image/PDF Viewer] ฟังก์ชั่น OCR TTS แบบเรียลไทม์ถูกวางไว้ที่ด้านบน\nแก้ไขข้อผิดพลาดที่การตั้งค่าผู้ดูไม่เปลี่ยนแปลง\nอินเตอร์เฟสฟังก์ชั่นการเคลื่อนไหวของตำแหน่งได้รับการแก้ไขแล้ว"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.8.9\n\nGörüntüleyici kısayol simgeleri oluşturma yöntemi değiştirildi.\nSağ üstteki üç nokta düğmesine basarak bir kısayol simgesi ayarlayabilirsiniz.\nBir görüntüleyici sayfası hesaplama hatası düzeltildi."
+    "devnote": "7.9.0\n\nSayı seçimi işlevi arayüzü değiştirildi.\n[Resim/PDF Görüntüleyici Ayarları] Gerçek zamanlı OCR TTS işlevi üste yerleştirildi.\nGörüntüleyici ayarlarının değiştirilmediği bir hata düzeltildi.\nKonum hareket fonksiyonu arayüzü değiştirildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.8.9\n\nవ్యూయర్ సత్వరమార్గం చిహ్నాలను సృష్టించే పద్ధతి సవరించబడింది.\nఎగువ కుడి వైపున ఉన్న మూడు చుక్కల బటన్‌ను నొక్కడం ద్వారా మీరు సత్వరమార్గాన్ని సెట్ చేయవచ్చు.\nవీక్షకుల పేజీ గణన బగ్ పరిష్కరించబడింది."
+    "devnote": "7.9.0\n\nసంఖ్య ఎంపిక ఫంక్షన్ ఇంటర్ఫేస్ సవరించబడింది.\n[చిత్రం/పిడిఎఫ్ వ్యూయర్ సెట్టింగులు] రియల్ టైమ్ OCR TTS ఫంక్షన్ ఎగువన ఉంచబడింది.\nవీక్షకుల సెట్టింగులు మార్చబడని బగ్ పరిష్కరించబడింది.\nస్థాన కదలిక ఫంక్షన్ ఇంటర్ఫేస్ సవరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.8.9\n\nਦਰਸ਼ਕ ਸ਼ੌਰਟਕਟ ਆਈਕਾਨ ਬਣਾਉਣ ਦੇ method ੰਗ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ.\nਉੱਪਰ ਸੱਜੇ ਪਾਸੇ ਤਿੰਨ ਬਿੰਦੀਆਂ ਬਟਨ ਦਬਾ ਕੇ ਤੁਸੀਂ ਇੱਕ ਸ਼ਾਰਟਕੱਟ ਆਈਕਨ ਸੈਟ ਕਰ ਸਕਦੇ ਹੋ.\nਇੱਕ ਦਰਸ਼ਕ ਪੇਜ ਕੈਲਕੂਲੇਸ਼ਨ ਬੱਗ ਫਿਕਸਡ."
+    "devnote": "7.9.0\n\nਨੰਬਰ ਚੋਣ ਫੰਕਸ਼ਨ ਇੰਟਰਫੇਸ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ.\n[ਚਿੱਤਰ / ਪੀਡੀਐਫ ਦਰਸ਼ਕ ਸੈਟਿੰਗ] ਸਿਖਰ ਤੇ ਰੀਅਲ-ਟਾਈਮ ਓਸੀਆਰ ਟੀਟੀਐਸ ਫੰਕਸ਼ਨ ਨੂੰ ਸਿਖਰ ਤੇ ਰੱਖਿਆ ਗਿਆ ਹੈ.\nਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਜਿੱਥੇ ਦਰਸ਼ਕ ਸੈਟਿੰਗਾਂ ਨਹੀਂ ਬਦਲੇ ਗਈਆਂ.\nਟਿਕਾਣਾ ਅੰਦ੍ਰਿਤਮ ਫੰਕਸ਼ਨ ਇੰਟਰਫੇਸ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.8.9\n\nروش ایجاد نمادهای میانبر بیننده اصلاح شده است.\nبا فشار دادن دکمه سه نقطه در سمت راست بالا می توانید یک نماد میانبر را تنظیم کنید.\nرفع اشکال محاسبه صفحه بیننده."
+    "devnote": "7.9.0\n\nرابط عملکرد انتخاب شماره اصلاح شده است.\n[تنظیمات تصویرگر تصویر/PDF] عملکرد OCR TTS در زمان واقعی در بالا قرار گرفته است.\nرفع اشکال در جایی که تنظیمات بیننده تغییر نکرده است.\nرابط عملکرد حرکت مکان اصلاح شده است."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.8.9\n\nO método de criação de ícones de atalho do visualizador foi modificado.\nVocê pode definir um ícone de atalho pressionando o botão três pontos no canto superior direito.\nCorrigido um bug de cálculo da página do visualizador."
+    "devnote": "7.9.0\n\nA interface da função de seleção de números foi modificada.\n[Configurações do visualizador de imagem/PDF] A função OCR TTS em tempo real foi colocada na parte superior.\nCorrigido um bug em que as configurações do visualizador não foram alteradas.\nA interface da função de movimento de localização foi modificada."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.8.9\n\nMetoda tworzenia ikon skrótu przeglądarki została zmodyfikowana.\nMożesz ustawić ikonę skrótu, naciskając przycisk trzech kropek w prawym górnym rogu.\nNaprawiono błąd obliczania strony przeglądarki."
+    "devnote": "7.9.0\n\nInterfejs funkcji wyboru liczby został zmodyfikowany.\n[Ustawienia przeglądarki obrazu/PDF] Funkcja OCR w czasie rzeczywistym została umieszczona u góry.\nNaprawiono błąd, w którym ustawienia przeglądarki nie zostały zmienione.\nInterfejs funkcji ruchu lokalizacji został zmodyfikowany."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.8.9\n\nLa méthode de création d'icônes de raccourci de la visionneuse a été modifiée.\nVous pouvez définir une icône de raccourci en appuyant sur le bouton des trois points en haut à droite.\nCorrection d'un bug de calcul de la page de la vision."
+    "devnote": "7.9.0\n\nL'interface de fonction de sélection de numéros a été modifiée.\n[Paramètres de la visionneuse Image / PDF] La fonction OCR TTS en temps réel a été placée en haut.\nCorrection d'un bug où les paramètres de la visionneuse n'ont pas été modifiés.\nL'interface de fonction de mouvement de localisation a été modifiée."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.8.9\n\nMenetelmää katsojan pikakuvakkeiden luomiseksi on muokattu.\nVoit asettaa pikakuvakkeen painamalla oikeassa yläkulmassa olevaa kolme pistettä -painiketta.\nKorjattu katselupaikan laskentavirhe."
+    "devnote": "7.9.0\n\nNumerovalintatoimintorajapinta on muokattu.\n[Kuva/PDF-katseluasetukset] Reaaliaikainen OCR TTS -toiminto on sijoitettu yläreunaan.\nKorjattu virhe, jossa katsojan asetuksia ei muutettu.\nSijainnin liiketoimintorajapinta on muokattu."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.8.9\n\nAng pamamaraan ng paglikha ng mga icon ng shortcut ng viewer ay nabago.\nMaaari kang magtakda ng isang icon ng shortcut sa pamamagitan ng pagpindot sa pindutan ng tatlong tuldok sa kanang itaas.\nNakapirming isang bug ng Pagkalkula ng Pahina ng Viewer."
+    "devnote": "7.9.0\n\nAng interface ng function ng pagpili ng numero ay nabago.\n[Mga Setting ng Viewer ng Larawan/PDF] Ang function ng real-time na OCR TTS ay inilagay sa tuktok.\nNaayos ang isang bug kung saan ang mga setting ng manonood ay hindi nabago.\nAng interface ng paggalaw ng paggalaw ng lokasyon ay nabago."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.8.9\n\nA Viewer parancsikon ikonok létrehozásának módszere módosult.\nBeállíthatja a parancsikon ikont a jobb felső sarokban lévő három pont gomb megnyomásával.\nJavítva a Viewer oldal kiszámítási hibáját."
+    "devnote": "7.9.0\n\nA számválasztási funkció interfész módosult.\n[Image/PDF néző beállításai] A valós idejű OCR TTS funkciót a tetejére helyezték.\nJavítva egy hiba, ahol a néző beállításait nem változtatták meg.\nA helymozgás funkció felületét módosítottuk."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.8.9\n\nהשיטה ליצירת סמלי קיצור הדרך של הצופה שונתה.\nאתה יכול להגדיר סמל קיצור דרך על ידי לחיצה על כפתור שלוש הנקודות בצד ימין למעלה.\nתיקן באג חישוב דף מציג."
+    "devnote": "7.9.0\n\nממשק פונקציית בחירת המספרים שונה.\n[הגדרות מציגי תמונה/PDF] פונקציית ה- OCR TTS בזמן אמת הוצבה בחלק העליון.\nתוקן באג בו לא שונו הגדרות הצופה.\nממשק פונקציית תנועת המיקום שונה."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.8.9\n\nव्यूअर शॉर्टकट आइकन बनाने की विधि को संशोधित किया गया है।\nआप ऊपरी दाईं ओर तीन डॉट्स बटन दबाकर शॉर्टकट आइकन सेट कर सकते हैं।\nएक व्यूअर पेज गणना बग फिक्स्ड।"
+    "devnote": "7.9.0\n\nसंख्या चयन फ़ंक्शन इंटरफ़ेस को संशोधित किया गया है।\n[छवि/पीडीएफ व्यूअर सेटिंग्स] वास्तविक समय OCR TTS फ़ंक्शन को शीर्ष पर रखा गया है।\nएक बग फिक्स्ड जहां दर्शक सेटिंग्स को नहीं बदला गया था।\nस्थान आंदोलन फ़ंक्शन इंटरफ़ेस को संशोधित किया गया है।"
   }
 }
