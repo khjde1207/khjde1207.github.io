@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.9.0\n\nThe number selection function interface has been modified.\n[Image/PDF Viewer Settings] The real-time OCR TTS function has been placed at the top.\nFixed a bug where viewer settings were not changed.\nThe location movement function interface has been modified."
+    "devnote": "7.9.1\n\nFixed a bug where the font color did not change immediately when changing themes."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.9.0\n\n숫자 선택 기능 인터페이스를 수정 하였습니다. \n[이미지/PDF 뷰어 설정] 실시간 OCR TTS 기능을 맨 위에 배치 하였습니다. \n뷰어 설정이 변경되지 않던 버그 를 수정 하였습니다. \n위치 이동기능 인터페이스를 수정 하였습니다."
+    "devnote": "7.9.1\n\n테마 변경시 글자 색상이 변하지 않던 버그를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.9.0\n\nModificouse a interface de función de selección de números.\n[Configuración do visor de imaxe/PDF] A función OCR TTS en tempo real colocouse na parte superior.\nCorrixiu un erro onde non se cambiaron a configuración do espectador.\nModificouse a interface de función de movemento de localización."
+    "devnote": "7.9.1\n\nCorrixiu un erro onde a cor da letra non cambiou inmediatamente ao cambiar temas."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.9.0\n\nનંબર પસંદગી ફંક્શન ઇન્ટરફેસમાં ફેરફાર કરવામાં આવ્યા છે.\n[છબી/પીડીએફ વ્યૂઅર સેટિંગ્સ] રીઅલ-ટાઇમ ઓસીઆર ટીટીએસ ફંક્શન ટોચ પર મૂકવામાં આવ્યું છે.\nએક ભૂલ સ્થિર કરો જ્યાં દર્શક સેટિંગ્સ બદલાયા ન હતા.\nસ્થાન મૂવમેન્ટ ફંક્શન ઇન્ટરફેસમાં ફેરફાર કરવામાં આવ્યા છે."
+    "devnote": "7.9.1\n\nબગને ઠીક કરો જ્યાં થીમ્સ બદલતી વખતે ફોન્ટનો રંગ તરત જ બદલાયો નહીં."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.9.0\n\nΗ διεπαφή λειτουργίας επιλογής αριθμού έχει τροποποιηθεί.\n[Ρυθμίσεις προβολής εικόνων/PDF] Η λειτουργία OCR TTS σε πραγματικό χρόνο έχει τοποθετηθεί στην κορυφή.\nΔιορθώθηκε ένα σφάλμα όπου οι ρυθμίσεις του θεατή δεν άλλαξαν.\nΗ διεπαφή λειτουργίας κίνησης θέσης έχει τροποποιηθεί."
+    "devnote": "7.9.1\n\nΔιορθώθηκε ένα σφάλμα όπου το χρώμα γραμματοσειράς δεν άλλαξε αμέσως όταν άλλαζε θέματα."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.9.0\n\nDe interface van de nummerselectiefunctie is gewijzigd.\n[Image/PDF-viewer-instellingen] De realtime OCR TTS-functie is bovenaan geplaatst.\nEen bug opgelost waarbij de instellingen van de viewer niet werden gewijzigd.\nDe locatiebewegingsfunctie -interface is gewijzigd."
+    "devnote": "7.9.1\n\nEen bug opgelost waarbij de lettertypekleur niet onmiddellijk veranderde bij het wijzigen van thema's."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "7..9.0\n\nनम्बर चयन प्रकार्य ईन्टरफेस परिमार्जन गरिएको छ।\n[छवि / PDF अवलोकन सेटिंग्स] वास्तविक समय OCR TTS प्रकार्य शीर्षमा राखिएको छ।\nबग फिक्स गरियो जहाँ अवलोकन सेटिंग्स परिवर्तन भएन।\nस्थान आन्दोलन प्रकार्य ईन्टरफेस परिमार्जन गरिएको छ।"
+    "devnote": "9.9.1\n\nथिमहरू परिवर्तन गर्दा फन्ट र color तुमा परिवर्तन गरिएको बग फिक्स गरियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.9.0\n\nNummervalgsfunksjonsgrensesnittet er endret.\n[Image/PDF Viewer-innstillinger] OCR TTS-funksjonen i sanntid er plassert øverst.\nFikset en feil der seerinnstillingene ikke ble endret.\nPlasseringsbevegelsesfunksjonsgrensesnittet er endret."
+    "devnote": "7.9.1\n\nFikset en feil der skriftfargen ikke endret seg umiddelbart når de endret temaer."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.9.0\n\nNumbervalgsfunktionsgrænsefladen er blevet ændret.\n[Image/PDF Viewer-indstillinger] Funktionen i realtid OCR TTS er placeret øverst.\nRettet en fejl, hvor seerindstillingerne ikke blev ændret.\nPlaceringsbevægelsesfunktionsgrænsefladen er blevet ændret."
+    "devnote": "7.9.1\n\nRettet en fejl, hvor skrifttypen ikke ændrede sig med det samme, når de ændrede temaer."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.9.0\n\nDie Nummernauswahlfunktionsschnittstelle wurde geändert.\n[Image/PDF-Viewer-Einstellungen] Die Echtzeit-OCR-TTS-Funktion wurde oben platziert.\nEs wurde ein Fehler behoben, bei dem die Einstellungen der Zuschauer nicht geändert wurden.\nDie Standortbewegungsfunktionsoberfläche wurde geändert."
+    "devnote": "7.9.1\n\nEin Fehler behoben, bei dem sich die Schriftfarbe beim Ändern von Themen nicht sofort änderte."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.9.0\n\nການໂຕ້ຕອບທີ່ມີການເລືອກແບບຈໍາລອງໄດ້ຖືກດັດແກ້ແລ້ວ.\n[ຮູບພາບການຕັ້ງຄ່າ / PDF / PDF / PDF TTS OCR TTS ທີ່ຖືກຈັດຫນ້າທີ່ຢູ່ເທິງສຸດ.\nແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ການຕັ້ງຄ່າ Viewer ບໍ່ໄດ້ປ່ຽນຫຍັງເລີຍ.\nການໂຕ້ຕອບທີ່ໃຊ້ສະຖານທີ່ການເຄື່ອນໄຫວໄດ້ຖືກດັດແກ້ແລ້ວ."
+    "devnote": "7.9.1\n\nແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ສີໂຕອັກສອນບໍ່ປ່ຽນແປງທັນທີເມື່ອປ່ຽນຫົວຂໍ້."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.9.0\n\nSkaitļu atlases funkcijas saskarne ir modificēta.\n[Image/PDF skatītāja iestatījumi] Augšpusē ir novietota reālā laika OCR TTS funkcija.\nNovērsta kļūda, kurā skatītāja iestatījumi netika mainīti.\nAtrašanās vietas kustības funkcijas saskarne ir modificēta."
+    "devnote": "7.9.1\n\nNovērsta kļūda, kurā fonta krāsa nekavējoties nemainījās, mainot tēmas."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.9.0\n\nИнтерфейс функции выбора числа был изменен.\n[Настройки изображения/PDF Viewer] Функция OCR TTS в реальном времени была размещена сверху.\nИсправлена ​​ошибка, где настройки просмотра не были изменены.\nИнтерфейс функции движения местоположения был изменен."
+    "devnote": "7.9.1\n\nИсправлена ​​ошибка, где цвет шрифта не изменился сразу при изменении тем."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.9.0\n\nInterfața funcției de selecție a numărului a fost modificată.\n[Image/PDF Setări vizualizator] Funcția OCR TTS în timp real a fost plasată în partea de sus.\nS -a rezolvat o eroare în care setările vizualizatorului nu au fost modificate.\nInterfața funcției de mișcare a locației a fost modificată."
+    "devnote": "7.9.1\n\nS -a rezolvat o eroare în care culoarea fontului nu s -a schimbat imediat la schimbarea temelor."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.9.0\n\nSkaičių pasirinkimo funkcijos sąsaja buvo modifikuota.\n[Vaizdo/PDF peržiūros priemonės nustatymai] Realaus laiko OCR TTS funkcija buvo dedama viršuje.\nIštaisyta klaida, kai žiūrovo nustatymai nebuvo pakeisti.\nVietos judėjimo funkcijos sąsaja buvo modifikuota."
+    "devnote": "7.9.1\n\nIštaisyta klaida, kai šrifto spalva nepasikeitė iškart keičiant temas."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.9.0\n\nक्रमांक निवड फंक्शन इंटरफेस सुधारित केले गेले आहे.\n[प्रतिमा/पीडीएफ व्ह्यूअर सेटिंग्ज] रिअल-टाइम ओसीआर टीटीएस फंक्शन शीर्षस्थानी ठेवले आहे.\nबग निश्चित केला जेथे दर्शक सेटिंग्ज बदलल्या नाहीत.\nस्थान चळवळ फंक्शन इंटरफेस सुधारित केले गेले आहे."
+    "devnote": "7.9.1\n\nथीम बदलताना फॉन्टचा रंग त्वरित बदलला नाही अशा बगचे निराकरण केले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.9.0\n\nИнтерфејсот за функција за избор на број е изменет.\n[Поставки за гледање на слика/PDF] Функцијата OCR TTS во реално време е поставена на врвот.\nПоправи грешка каде што поставките на гледачот не беа променети.\nИнтерфејсот за функција за движење на локацијата е изменет."
+    "devnote": "7.9.1\n\nПоправи грешка каде бојата на фонтот не се смени веднаш при промена на темите."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.9.0\n\nനമ്പർ തിരഞ്ഞെടുക്കൽ ഫംഗ്ഷൻ ഇന്റർഫേസ് പരിഷ്ക്കരിച്ചു.\n[ഇമേജ് / പിഡിഎഫ് വ്യൂവർ ക്രമീകരണങ്ങൾ] തത്സമയ ഒആർസിആർ ടിടിഎസ് ഫംഗ്ഷൻ മുകളിൽ സ്ഥാപിച്ചു.\nവ്യൂവർ ക്രമീകരണങ്ങൾ മാറ്റിയിട്ടില്ല എന്ന ഒരു ബഗ് പരിഹരിച്ചു.\nലൊക്കേഷൻ മൂവ്മെന്റ് ഫംഗ്ഷൻ ഇന്റർഫേസ് പരിഷ്ക്കരിച്ചു."
+    "devnote": "7.9.1\n\nതീമുകൾ മാറ്റുമ്പോൾ ഫോണ്ട് നിറം മാറിയ ഒരു ബഗ് പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.9.0\n\nAntara muka fungsi pemilihan nombor telah diubahsuai.\n[Tetapan Penonton Imej/PDF] Fungsi OCR TTS masa nyata telah diletakkan di bahagian atas.\nTetapkan pepijat di mana tetapan penonton tidak berubah.\nAntara muka fungsi pergerakan lokasi telah diubahsuai."
+    "devnote": "7.9.1\n\nTetapkan pepijat di mana warna fon tidak berubah dengan segera apabila menukar tema."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.9.0\n\nДугаарын сонгон шалгаруулалтын функц интерфэйсийг өөрчилсөн байна.\n[Зураг / PDF View Seterer тохиргоо] Бодит цагийн OCR TTR TTS функцийг дээд талд байрлуулсан байна.\nҮзэгчдийн тохиргоог өөрчлөхгүй байгаа алдааг засав.\nБайршлын хөдөлгөөний функц функцийг өөрчилсөн байна."
+    "devnote": "7.9.1\n\nХӨГЖЛИЙН ХУДАЛДАН АВЧ БАЙНА УУ."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.9.0\n\nZenbakien hautaketa funtzioaren interfazea aldatu da.\n[Irudia / PDF ikuslearen ezarpenak] Time-Time TTS funtzioa goiko aldean jarri da.\nBug bat konpondu da ikuslearen ezarpenak aldatu ez zirenean.\nKokapen mugimenduaren funtzioaren interfazea aldatu da."
+    "devnote": "7.9.1\n\nGaiak aldatzean berehala aldatu ez zen akats bat konpondu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.9.0\n\nနံပါတ်ရွေးချယ်ရေး function interface ကိုပြုပြင်ပြီးပြီ။\n[image / pdf viewer settings] အချိန် Real-time OCR TTS function ကိုထိပ်မှာနေရာချထားလိုက်ပါတယ်။\nကြည့်ရှုသူ settings ကိုမပြောင်းလဲသော bug တစ်ခု fixed ။\nတည်နေရာလှုပ်ရှားမှု function interface ကိုပြုပြင်ထားသည်။"
+    "devnote": "7.9.1\n\nခေါင်းစဉ်များပြောင်းလဲနေသည့်အခါ font အရောင်သည်ချက်ချင်းပြောင်းလဲခြင်းမပြုသည့် bug တစ်ခု fixed ။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.9.0\n\nGiao diện chức năng chọn số đã được sửa đổi.\n[Cài đặt trình xem hình ảnh/PDF] Hàm OCR TTS thời gian thực đã được đặt ở trên cùng.\nĐã sửa lỗi trong đó cài đặt người xem không bị thay đổi.\nGiao diện chức năng chuyển động vị trí đã được sửa đổi."
+    "devnote": "7.9.1\n\nĐã sửa lỗi trong đó màu phông chữ không thay đổi ngay lập tức khi thay đổi chủ đề."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.9.0\n\nІнтэрфейс функцыі выбару лікаў быў зменены.\n[Налады прагляду малюнка/PDF] Уверсе была размешчана функцыя OCR TTS у рэжыме рэальнага часу.\nВыпраўлена памылка, дзе налады прагляду не былі зменены.\nІнтэрфейс функцыі руху размяшчэння быў зменены."
+    "devnote": "7.9.1\n\nВыпраўлена памылка, калі колер шрыфта не змяніўся адразу пры змене тэм."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.9.0\n\nনম্বর নির্বাচন ফাংশন ইন্টারফেসটি সংশোধন করা হয়েছে।\n[চিত্র/পিডিএফ ভিউয়ার সেটিংস] রিয়েল-টাইম ওসিআর টিটিএস ফাংশনটি শীর্ষে রাখা হয়েছে।\nএমন একটি বাগ ঠিক করা হয়েছে যেখানে দর্শকের সেটিংস পরিবর্তন করা হয়নি।\nলোকেশন মুভমেন্ট ফাংশন ইন্টারফেসটি সংশোধন করা হয়েছে।"
+    "devnote": "7.9.1\n\nথিমগুলি পরিবর্তন করার সময় ফন্টের রঙ অবিলম্বে পরিবর্তিত হয়নি এমন একটি বাগ স্থির করে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.9.0\n\nИнтерфейсът за функция за избор на номер е модифициран.\n[Изображение/PDF настройки на зрителя] Функцията OCR TTS в реално време е поставена в горната част.\nФиксирана грешка, при която настройките на зрителя не са променени.\nИнтерфейсът на функцията за движение на местоположението е модифициран."
+    "devnote": "7.9.1\n\nФиксирана грешка, при която цветът на шрифта не се промени веднага при промяна на темите."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.9.0\n\nИнтерфејс функција одабира броја је модификован.\n[Слика / ПДФ Виевер Сеттингс] Функција ОЦР ТТС-а је постављена на врх.\nПоправљена је грешка у којој се подешавања гледалаца нису промењене.\nИнтерфејс функција покрета локације је модификован."
+    "devnote": "7.9.1\n\nПоправљена је грешка у којој се боја фонта није одмах променила приликом промене тема."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.9.0\n\nInterface ya kazi ya uteuzi wa nambari imebadilishwa.\n[Mipangilio ya Mtazamaji wa Picha/PDF] Kazi halisi ya OCR TTS imewekwa juu.\nZisizohamishika mdudu ambapo mipangilio ya watazamaji haikubadilishwa.\nInterface ya kazi ya harakati ya eneo imebadilishwa."
+    "devnote": "7.9.1\n\nZisizohamishika mdudu ambapo rangi ya fonti haibadilika mara moja wakati wa kubadilisha mada."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.9.0\n\nNummervalsfunktionsgränssnittet har modifierats.\n[Image/PDF Viewer-inställningar] Funktionen i realtid har placerats överst.\nFixade ett fel där visningsinställningar inte ändrades.\nPlatsrörelsefunktionsgränssnittet har modifierats."
+    "devnote": "7.9.1\n\nFixade ett fel där teckensnittsfärgen inte ändrades omedelbart när du ändrade teman."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.9.0\n\nLa interfaz de función de selección de números ha sido modificada.\n[Configuración del visor de imagen/PDF] La función OCR TTS en tiempo real se ha colocado en la parte superior.\nSe corrigió un error donde la configuración del espectador no se cambiaba.\nLa interfaz de función de movimiento de ubicación ha sido modificada."
+    "devnote": "7.9.1\n\nSe corrigió un error donde el color de fuente no cambió inmediatamente al cambiar los temas."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.9.0\n\nRozhranie funkcie výberu čísla bolo upravené.\n[Nastavenia zobrazovača Image/PDF] Funkcia OCR TTS v reálnom čase bola umiestnená v hornej časti.\nOpravená chyba, kde sa nastavenia diváka nezmenili.\nRozhranie funkcie pohybu polohy bolo upravené."
+    "devnote": "7.9.1\n\nOpravená chyba, kde sa farba písma pri zmene tém nezmenila okamžite."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.9.0\n\nVmesnik funkcije izbire številk je spremenjen.\n[Nastavitve pregledovalnika slik/PDF] Funkcija OCR TTS v realnem času je bila postavljena na vrhu.\nOdpravljena je napaka, pri kateri nastavitve gledalcev niso bile spremenjene.\nVmesnik funkcije gibanja lokacije je spremenjen."
+    "devnote": "7.9.1\n\nOdpravil je napako, pri kateri se barva pisave ni spremenila takoj, ko je spreminjala teme."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.9.0\n\nඅංක තේරීමේ ක්රියාකාරී අතුරුමුහුණත වෙනස් කර ඇත.\n[රූපය / පී.ඩී.එෆ් නරඹන්නන්ගේ සැකසුම්] තත්ය කාලීන OCR TTS ශ්රිතය ඉහළින්ම තබා ඇත.\nනරඹන්නන්ගේ සැකසුම් වෙනස් නොකළ දෝෂයක් සවි කර ඇත.\nස්ථාන චලන ක්රියා අතුරුමුහුණත වෙනස් කර ඇත."
+    "devnote": "7.9.1\n\nතේමාවන් වෙනස් කිරීමේදී අකුරු වර්ණය වහාම වෙනස් නොවූ දෝෂයක් සවි කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.9.0\n\nتم تعديل واجهة وظيفة تحديد الرقم.\n[إعدادات عارض الصورة/PDF] تم وضع وظيفة OCR TTS في الوقت الفعلي في الأعلى.\nتم إصلاح الخلل حيث لم يتم تغيير إعدادات المشاهد.\nتم تعديل واجهة وظيفة حركة الموقع."
+    "devnote": "7.9.1\n\nإصلاح الخلل حيث لم يتغير لون الخط على الفور عند تغيير السمات."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.9.0\n\nԸնտրության ֆունկցիայի միջերեսը փոփոխվել է:\n[Image / PDF Viewer Settings] Իրական ժամանակի OCR TTS գործառույթը տեղադրվել է վերեւում:\nFix նջեց մի սխալ, որտեղ դիտողի պարամետրերը չեն փոխվել:\nՏեղադրության շարժման ֆունկցիայի միջերեսը փոփոխվել է:"
+    "devnote": "7.9.1\n\nFix նջեց մի սխալ, որտեղ տառատեսակների գույնը չի փոխվել թեմաները փոխելիս:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.9.0\n\nFjöldi valvirkni viðmótsins hefur verið breytt.\n[Stillingar mynd/PDF Viewer] Rauntíma OCR TTS aðgerðin hefur verið sett efst.\nLagaði villu þar sem ekki var breytt áhorfenda.\nStaðsetningarflutningsaðgerðarviðmótinu hefur verið breytt."
+    "devnote": "7.9.1\n\nLagaði galla þar sem leturliturinn breyttist ekki strax þegar hann breytti þemum."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.9.0\n\nNömrə seçim funksiyası interfeysi dəyişdirildi.\n[Şəkil / PDF Viewer Parametrləri] Həqiqi vaxt OCR TTS funksiyası yuxarıdan yerləşdirilib.\nViewer parametrlərinin dəyişdirilmədiyi bir səhv düzəldildi.\nYer Hərəkatı Funksiya interfeysi dəyişdirildi."
+    "devnote": "7.9.1 .9.1\n\nFont rənginin mövzuları dəyişdirərkən dərhal dəyişmədiyi bir səhv düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.9.0\n\nDie nommer -seleksie -funksie -koppelvlak is gewysig.\n[Image/PDF Viewer-instellings] Die intydse OCR TTS-funksie is aan die bokant geplaas.\n'N fout opgelos waar die instellings van die kyker nie verander is nie.\nDie koppelvlak van die liggingsbewegingsfunksie is verander."
+    "devnote": "7.9.1\n\n'N fout opgelos waar die lettertipe -kleur nie onmiddellik verander het tydens die verandering van temas nie."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.9.0\n\nNdërfaqja e funksionit të zgjedhjes së numrave është modifikuar.\n[Cilësimet e shikuesit të imazhit/PDF] Funksioni OCR TTS në kohë reale është vendosur në krye.\nFiksuar një gabim ku cilësimet e shikuesit nuk u ndryshuan.\nNdërfaqja e funksionit të lëvizjes së vendndodhjes është modifikuar."
+    "devnote": "7.9.1\n\nFiksoi një gabim ku ngjyra e shkronjave nuk ndryshoi menjëherë kur ndryshon temat."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.9.0\n\nየቁጥር ምርጫ ተግባር በይነገጽ ተሻሽሏል.\n[ምስል / ፒዲኤፍ መመልከቻ ቅንብሮች] የእውነተኛ-ጊዜ OCR TTS ተግባር ከላይ ተጭኖ ነበር.\nየተከታታይ ቅንጅቶች ያልተለወጡበት ሳንካ ተጠግኗል.\nየአከባቢው እንቅስቃሴ ተግባር በይነገጽ ተሻሽሏል."
+    "devnote": "7.9.1\n\nጭብጡን በሚቀይሩበት ጊዜ የቅርጸ-ቁምፊ ቀለም ወዲያውኑ የማይቀየርበት ሳንካ ተጠግኗል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.9.0\n\nNumbrite valikufunktsiooni liides on muudetud.\n[Image/PDF-vaataja sätted] Reaalajas OCR TTS-funktsioon on asetatud ülaossa.\nParandatud viga, kus vaataja sätteid ei muudetud.\nAsukoha liikumise funktsiooni liides on muudetud."
+    "devnote": "7.9.1\n\nParandatud viga, kus fondi värv teemade muutmisel kohe ei muutunud."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.9.0\n\nنمبر سلیکشن فنکشن انٹرفیس میں ترمیم کی گئی ہے۔\n[تصویر/پی ڈی ایف ناظرین کی ترتیبات] اصل وقت کے او سی آر ٹی ٹی ایس فنکشن کو اوپر رکھا گیا ہے۔\nایک بگ طے کیا جہاں ناظرین کی ترتیبات کو تبدیل نہیں کیا گیا تھا۔\nلوکیشن موومنٹ فنکشن انٹرفیس میں ترمیم کی گئی ہے۔"
+    "devnote": "7.9.1\n\nایک بگ طے کیا جہاں موضوعات کو تبدیل کرتے وقت فونٹ کا رنگ فوری طور پر تبدیل نہیں ہوا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.9.0\n\nІнтерфейс функції вибору чисел змінився.\n[Налаштування перегляду зображення/PDF] Функція OCR TTS в режимі реального часу була розміщена вгорі.\nВиправлена ​​помилка, де налаштування глядача не змінювались.\nІнтерфейс функції руху розташування було змінено."
+    "devnote": "7.9.1\n\nВиправлена ​​помилка, де колір шрифту не змінювався негайно при зміні тем."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.9.0\n\nL'interfaccia della funzione di selezione dei numeri è stata modificata.\n[Impostazioni per visualizzatore Image/PDF] La funzione OCR TTS in tempo reale è stata posizionata nella parte superiore.\nRisolto un bug in cui le impostazioni del visualizzatore non sono state modificate.\nL'interfaccia della funzione di movimento della posizione è stata modificata."
+    "devnote": "7.9.1\n\nRisolto un bug in cui il colore del carattere non cambiò immediatamente quando si cambia i temi."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.9.0\n\nAntarmuka fungsi pemilihan angka telah dimodifikasi.\n[Pengaturan Penampil Gambar/PDF] Fungsi OCR TTS real-time telah ditempatkan di bagian atas.\nMemperbaiki bug di mana pengaturan penampil tidak diubah.\nAntarmuka fungsi pergerakan lokasi telah dimodifikasi."
+    "devnote": "7.9.1\n\nMemperbaiki bug di mana warna font tidak segera berubah saat mengubah tema."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.9.0\n\n数値選択関数インターフェイスが変更されました。\n[画像/PDFビューア設定]リアルタイムOCR TTS関数が上部に配置されています。\n視聴者の設定が変更されなかったバグを修正しました。\n位置移動機能インターフェイスが変更されました。"
+    "devnote": "7.9.1\n\nテーマを変更するときにフォントの色がすぐに変わらなかったバグを修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.9.0\n\nშეიცვალა ნომრების შერჩევის ფუნქციის ინტერფეისი.\n[Image/PDF Viewer პარამეტრები] რეალურ დროში OCR TTS ფუნქცია განთავსებულია ზედა ნაწილში.\nდაფიქსირდა შეცდომა, სადაც არ შეცვლილა მაყურებლის პარამეტრები.\nადგილმდებარეობის მოძრაობის ფუნქციის ინტერფეისი შეიცვალა."
+    "devnote": "7.9.1\n\nდაფიქსირდა შეცდომა, სადაც შრიფტის ფერი არ შეცვლილა თემების შეცვლის დროს."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.9.0\n\nIsibonisi sokukhethwa kwezinombolo siguquliwe.\n[Izilungiselelo ze-Image / PDF Viewer] Umsebenzi wangempela we-OCR TTS ubekwe phezulu.\nKulungiswe isiphazamiso lapho izilungiselelo zobuke bezibukeli zingashintshiwe.\nIsibonisi somsebenzi wokusebenza kwendawo siguquliwe."
+    "devnote": "7.9.1\n\nKulungiswe isiphazamisi lapho umbala wefonti ungashintshanga khona masinyane lapho ushintsha izingqikithi."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.9.0\n\n数字选择函数接口已修改。\n[Image/PDF查看器设置]实时OCR TTS函数已放置在顶部。\n修复了一个未更改查看器设置的错误。\n位置运动函数接口已修改。"
+    "devnote": "7.9.1\n\n修复了一个错误时字体颜色在更改主题时不会立即更改的错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.9.0\n\n數字選擇函數接口已修改。\n[Image/PDF查看器設置]實時OCR TTS函數已放置在頂部。\n修復了一個未更改查看器設置的錯誤。\n位置運動函數接口已修改。"
+    "devnote": "7.9.1\n\n修復了一個錯誤時字體顏色在更改主題時不會立即更改的錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.9.0\n\n數字選擇函數接口已修改。\n[Image/PDF查看器設置]實時OCR TTS函數已放置在頂部。\n修復了一個未更改查看器設置的錯誤。\n位置運動函數接口已修改。"
+    "devnote": "7.9.1\n\n修復了一個錯誤時字體顏色在更改主題時不會立即更改的錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.9.0\n\nRozhraní funkce výběru čísel bylo upraveno.\n[Nastavení prohlížeče Image/PDF] Funkce OCR TTS v reálném čase byla umístěna nahoře.\nOpravena chyba, kde se nastavení prohlížeče nezměnilo.\nRozhraní funkcí pohybu lokality bylo upraveno."
+    "devnote": "7.9.1\n\nOpravena chyba, kde se barva písma při změně témat okamžitě nezměnila."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.9.0\n\nНөмірді таңдау функциясы интерфейсі өзгертілген.\n[Image / PDF қарау құралының параметрлері] Нақты уақыттағы OCR TTS функциясы жоғарғы жағында орналастырылған.\nҚарау құралдары өзгермеген қатені түзетіңіз.\nОрынды бақылау функциясы интерфейсі өзгертілді."
+    "devnote": "7.9.1\n\nҚаріп түсі тақырыптарды өзгерткен кезде бірден өзгермеген кезде қатені түзетіңіз."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.9.0\n\nLa interfície de funció de selecció de números s'ha modificat.\n[Configuració del visualitzador d'imatges/PDF] La funció TTS OCR en temps real s'ha col·locat a la part superior.\nS'ha corregit un error on no s'ha canviat la configuració del visualitzador.\nS'ha modificat la interfície de la funció de moviment de la ubicació."
+    "devnote": "7.9.1\n\nS'ha corregit un error on el color del tipus de lletra no va canviar immediatament quan canviava temes."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.9.0\n\nಸಂಖ್ಯೆ ಆಯ್ಕೆ ಕಾರ್ಯ ಇಂಟರ್ಫೇಸ್ ಅನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n[ಇಮೇಜ್/ಪಿಡಿಎಫ್ ವೀಕ್ಷಕ ಸೆಟ್ಟಿಂಗ್‌ಗಳು] ನೈಜ-ಸಮಯದ ಒಸಿಆರ್ ಟಿಟಿಎಸ್ ಕಾರ್ಯವನ್ನು ಮೇಲ್ಭಾಗದಲ್ಲಿ ಇರಿಸಲಾಗಿದೆ.\nವೀಕ್ಷಕರ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಬದಲಾಯಿಸದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\nಸ್ಥಳ ಚಲನೆಯ ಕಾರ್ಯ ಇಂಟರ್ಫೇಸ್ ಅನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
+    "devnote": "7.9.1\n\nಥೀಮ್‌ಗಳನ್ನು ಬದಲಾಯಿಸುವಾಗ ಫಾಂಟ್ ಬಣ್ಣವು ತಕ್ಷಣ ಬದಲಾಗದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.9.0\n\nSučelje funkcije odabira broja je izmijenjeno.\n[Slika/PDF postavke gledatelja] OCR TTS u stvarnom vremenu postavljena je na vrhu.\nIspravljena je greška u kojoj postavke gledatelja nisu promijenjene.\nSučelje funkcije pokreta lokacije je izmijenjeno."
+    "devnote": "7.9.1\n\nIspravljena je greška u kojoj se boja fonta nije promijenila odmah prilikom promjene teme."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.9.0\n\nចំណុចប្រទាក់មុខងារជ្រើសរើសលេខត្រូវបានកែប្រែ។\n[រូបភាព / ការកំណត់រូបភាពរបស់ PDF] មុខងារ OCR TTS ពេលវេលាពិតប្រាកដត្រូវបានដាក់នៅខាងលើ។\nជួសជុលកំហុសដែលការកំណត់កម្មវិធីមើលមិនត្រូវបានផ្លាស់ប្តូរទេ។\nចំណុចប្រទាក់មុខងារមុខងារនៃចលនាទីតាំងត្រូវបានកែប្រែ។"
+    "devnote": "7.9.1\n\nជួសជុលកំហុសដែលពណ៌ពុម្ពអក្សរមិនបានផ្លាស់ប្តូរភ្លាមៗនៅពេលផ្លាស់ប្តូរស្បែក។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.9.0\n\nСандык функция интерфейси өзгөртүлдү.\n[Сүрөттөр / PDF viewer жөндөөлөрү] Чыныгы убакыт режиминде TTS функциясы жогору жагына коюлган.\nКөрүүчү орнотуулары өзгөргөн жок мүчүлүштүктү оңдолду.\nЖайгашкан жер кыймылынын функционалдык интерфейси өзгөртүлдү."
+    "devnote": "7.9.1\n\nТемаларды өзгөргөндө, арип түсү дароо өзгөргөн жок мүчүлүштүктү оңдолду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.9.0\n\nஎண் தேர்வு செயல்பாட்டு இடைமுகம் மாற்றியமைக்கப்பட்டுள்ளது.\n[படம்/PDF பார்வையாளர் அமைப்புகள்] நிகழ்நேர OCR TTS செயல்பாடு மேலே வைக்கப்பட்டுள்ளது.\nபார்வையாளர் அமைப்புகள் மாற்றப்படாத ஒரு பிழை சரி செய்யப்பட்டது.\nஇருப்பிட இயக்க செயல்பாட்டு இடைமுகம் மாற்றியமைக்கப்பட்டுள்ளது."
+    "devnote": "7.9.1\n\nகருப்பொருள்களை மாற்றும்போது எழுத்துரு நிறம் உடனடியாக மாறாத ஒரு பிழை சரி செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.9.0\n\nส่วนต่อประสานฟังก์ชันการเลือกหมายเลขได้รับการแก้ไขแล้ว\n[การตั้งค่า Image/PDF Viewer] ฟังก์ชั่น OCR TTS แบบเรียลไทม์ถูกวางไว้ที่ด้านบน\nแก้ไขข้อผิดพลาดที่การตั้งค่าผู้ดูไม่เปลี่ยนแปลง\nอินเตอร์เฟสฟังก์ชั่นการเคลื่อนไหวของตำแหน่งได้รับการแก้ไขแล้ว"
+    "devnote": "7.9.1\n\nแก้ไขข้อผิดพลาดที่สีแบบอักษรไม่เปลี่ยนแปลงทันทีเมื่อเปลี่ยนธีม"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.9.0\n\nSayı seçimi işlevi arayüzü değiştirildi.\n[Resim/PDF Görüntüleyici Ayarları] Gerçek zamanlı OCR TTS işlevi üste yerleştirildi.\nGörüntüleyici ayarlarının değiştirilmediği bir hata düzeltildi.\nKonum hareket fonksiyonu arayüzü değiştirildi."
+    "devnote": "7.9.1\n\nTemaları değiştirirken yazı tipi renginin hemen değişmediği bir hata düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.9.0\n\nసంఖ్య ఎంపిక ఫంక్షన్ ఇంటర్ఫేస్ సవరించబడింది.\n[చిత్రం/పిడిఎఫ్ వ్యూయర్ సెట్టింగులు] రియల్ టైమ్ OCR TTS ఫంక్షన్ ఎగువన ఉంచబడింది.\nవీక్షకుల సెట్టింగులు మార్చబడని బగ్ పరిష్కరించబడింది.\nస్థాన కదలిక ఫంక్షన్ ఇంటర్ఫేస్ సవరించబడింది."
+    "devnote": "7.9.1\n\nథీమ్‌లను మార్చేటప్పుడు ఫాంట్ రంగు వెంటనే మారని బగ్ పరిష్కరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.9.0\n\nਨੰਬਰ ਚੋਣ ਫੰਕਸ਼ਨ ਇੰਟਰਫੇਸ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ.\n[ਚਿੱਤਰ / ਪੀਡੀਐਫ ਦਰਸ਼ਕ ਸੈਟਿੰਗ] ਸਿਖਰ ਤੇ ਰੀਅਲ-ਟਾਈਮ ਓਸੀਆਰ ਟੀਟੀਐਸ ਫੰਕਸ਼ਨ ਨੂੰ ਸਿਖਰ ਤੇ ਰੱਖਿਆ ਗਿਆ ਹੈ.\nਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਜਿੱਥੇ ਦਰਸ਼ਕ ਸੈਟਿੰਗਾਂ ਨਹੀਂ ਬਦਲੇ ਗਈਆਂ.\nਟਿਕਾਣਾ ਅੰਦ੍ਰਿਤਮ ਫੰਕਸ਼ਨ ਇੰਟਰਫੇਸ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ."
+    "devnote": "7.9.1\n\nਇੱਕ ਬੱਗ ਹੱਲ ਕੀਤਾ ਗਿਆ ਕਿ ਥੀਮ ਨੂੰ ਬਦਲਣ ਵੇਲੇ ਫੋਂਟ ਰੰਗ ਤੁਰੰਤ ਨਹੀਂ ਬਦਲਿਆ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.9.0\n\nرابط عملکرد انتخاب شماره اصلاح شده است.\n[تنظیمات تصویرگر تصویر/PDF] عملکرد OCR TTS در زمان واقعی در بالا قرار گرفته است.\nرفع اشکال در جایی که تنظیمات بیننده تغییر نکرده است.\nرابط عملکرد حرکت مکان اصلاح شده است."
+    "devnote": "7.9.1\n\nرفع اشکال در جایی که رنگ قلم بلافاصله هنگام تغییر مضامین تغییر نمی کند."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.9.0\n\nA interface da função de seleção de números foi modificada.\n[Configurações do visualizador de imagem/PDF] A função OCR TTS em tempo real foi colocada na parte superior.\nCorrigido um bug em que as configurações do visualizador não foram alteradas.\nA interface da função de movimento de localização foi modificada."
+    "devnote": "7.9.1\n\nCorrigido um bug em que a cor da fonte não mudou imediatamente ao alterar os temas."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.9.0\n\nInterfejs funkcji wyboru liczby został zmodyfikowany.\n[Ustawienia przeglądarki obrazu/PDF] Funkcja OCR w czasie rzeczywistym została umieszczona u góry.\nNaprawiono błąd, w którym ustawienia przeglądarki nie zostały zmienione.\nInterfejs funkcji ruchu lokalizacji został zmodyfikowany."
+    "devnote": "7.9.1\n\nNaprawiono błąd, w którym kolor czcionki nie zmienił się natychmiast po zmianie tematów."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.9.0\n\nL'interface de fonction de sélection de numéros a été modifiée.\n[Paramètres de la visionneuse Image / PDF] La fonction OCR TTS en temps réel a été placée en haut.\nCorrection d'un bug où les paramètres de la visionneuse n'ont pas été modifiés.\nL'interface de fonction de mouvement de localisation a été modifiée."
+    "devnote": "7.9.1\n\nCorrection d'un bug où la couleur de la police n'a pas changé immédiatement lors du changement de thèmes."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.9.0\n\nNumerovalintatoimintorajapinta on muokattu.\n[Kuva/PDF-katseluasetukset] Reaaliaikainen OCR TTS -toiminto on sijoitettu yläreunaan.\nKorjattu virhe, jossa katsojan asetuksia ei muutettu.\nSijainnin liiketoimintorajapinta on muokattu."
+    "devnote": "7.9.1\n\nKorjattu virhe, jossa fonttiväri ei muuttunut välittömästi teemoja vaihdettaessa."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.9.0\n\nAng interface ng function ng pagpili ng numero ay nabago.\n[Mga Setting ng Viewer ng Larawan/PDF] Ang function ng real-time na OCR TTS ay inilagay sa tuktok.\nNaayos ang isang bug kung saan ang mga setting ng manonood ay hindi nabago.\nAng interface ng paggalaw ng paggalaw ng lokasyon ay nabago."
+    "devnote": "7.9.1\n\nNaayos ang isang bug kung saan ang kulay ng font ay hindi nagbago kaagad kapag nagbabago ng mga tema."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.9.0\n\nA számválasztási funkció interfész módosult.\n[Image/PDF néző beállításai] A valós idejű OCR TTS funkciót a tetejére helyezték.\nJavítva egy hiba, ahol a néző beállításait nem változtatták meg.\nA helymozgás funkció felületét módosítottuk."
+    "devnote": "7.9.1\n\nJavítva egy hibát, ahol a betűkészlet nem változott azonnal a témák megváltoztatásakor."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.9.0\n\nממשק פונקציית בחירת המספרים שונה.\n[הגדרות מציגי תמונה/PDF] פונקציית ה- OCR TTS בזמן אמת הוצבה בחלק העליון.\nתוקן באג בו לא שונו הגדרות הצופה.\nממשק פונקציית תנועת המיקום שונה."
+    "devnote": "7.9.1\n\nתוקן באג שבו צבע הגופן לא השתנה מייד בעת החלפת הנושאים."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.9.0\n\nसंख्या चयन फ़ंक्शन इंटरफ़ेस को संशोधित किया गया है।\n[छवि/पीडीएफ व्यूअर सेटिंग्स] वास्तविक समय OCR TTS फ़ंक्शन को शीर्ष पर रखा गया है।\nएक बग फिक्स्ड जहां दर्शक सेटिंग्स को नहीं बदला गया था।\nस्थान आंदोलन फ़ंक्शन इंटरफ़ेस को संशोधित किया गया है।"
+    "devnote": "7.9.1\n\nएक बग फिक्स्ड जहां विषयों को बदलते समय फ़ॉन्ट रंग तुरंत नहीं बदलता था।"
   }
 }
