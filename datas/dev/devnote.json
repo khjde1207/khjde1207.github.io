@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.9.1\n\nFixed a bug where the font color did not change immediately when changing themes."
+    "devnote": "7.9.2\n\nWe urgently fixed a bug where settings such as fonts and margins were not applied."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.9.1\n\n테마 변경시 글자 색상이 변하지 않던 버그를 수정 하였습니다."
+    "devnote": "7.9.2\n\n글꼴, 여백 등 설정이 적용 안되던 버그를 긴급히 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.9.1\n\nCorrixiu un erro onde a cor da letra non cambiou inmediatamente ao cambiar temas."
+    "devnote": "7.9.2\n\nFixemos con urxencia un erro onde non se aplicaron configuracións como fontes e marxes."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.9.1\n\nબગને ઠીક કરો જ્યાં થીમ્સ બદલતી વખતે ફોન્ટનો રંગ તરત જ બદલાયો નહીં."
+    "devnote": "7.9.2\n\nઅમે તાત્કાલિક ભૂલને ઠીક કરી જ્યાં ફોન્ટ્સ અને માર્જિન જેવી સેટિંગ્સ લાગુ કરવામાં આવી ન હતી."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.9.1\n\nΔιορθώθηκε ένα σφάλμα όπου το χρώμα γραμματοσειράς δεν άλλαξε αμέσως όταν άλλαζε θέματα."
+    "devnote": "7.9.2\n\nΔιορθώσαμε επειγόντως ένα σφάλμα όπου δεν εφαρμόστηκαν ρυθμίσεις όπως γραμματοσειρές και περιθώρια."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.9.1\n\nEen bug opgelost waarbij de lettertypekleur niet onmiddellijk veranderde bij het wijzigen van thema's."
+    "devnote": "7.9.2\n\nWe hebben dringend een bug opgelost waar instellingen zoals lettertypen en marges niet werden toegepast."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "9.9.1\n\nथिमहरू परिवर्तन गर्दा फन्ट र color तुमा परिवर्तन गरिएको बग फिक्स गरियो।"
+    "devnote": "7.9.2\n\nहामीले तत्काल एउटा बग मिलाए जहाँ फन्ट र मार्जिनहरू लागू गरिएको थिएन।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.9.1\n\nFikset en feil der skriftfargen ikke endret seg umiddelbart når de endret temaer."
+    "devnote": "7.9.2\n\nVi fikset en feil der innstillinger som skrifter og marginer ikke ble brukt."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.9.1\n\nRettet en fejl, hvor skrifttypen ikke ændrede sig med det samme, når de ændrede temaer."
+    "devnote": "7.9.2\n\nVi fikseret hurtigst muligt en fejl, hvor indstillinger som skrifttyper og marginer ikke blev anvendt."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.9.1\n\nEin Fehler behoben, bei dem sich die Schriftfarbe beim Ändern von Themen nicht sofort änderte."
+    "devnote": "7.9.2\n\nWir haben dringend einen Fehler behoben, bei dem keine Einstellungen wie Schriftarten und Ränder angewendet wurden."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.9.1\n\nແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ສີໂຕອັກສອນບໍ່ປ່ຽນແປງທັນທີເມື່ອປ່ຽນຫົວຂໍ້."
+    "devnote": "7.9.2\n\nພວກເຮົາໄດ້ແກ້ໄຂຂໍ້ບົກຜ່ອງຢ່າງຮີບດ່ວນບ່ອນທີ່ການຕັ້ງຄ່າເຊັ່ນ: ຕົວອັກສອນແລະຂອບໃບບໍ່ໄດ້ຖືກນໍາໃຊ້."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.9.1\n\nNovērsta kļūda, kurā fonta krāsa nekavējoties nemainījās, mainot tēmas."
+    "devnote": "7.9.2\n\nMēs steidzami labojām kļūdu, kurā netika piemēroti tādi iestatījumi kā fonti un malas."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.9.1\n\nИсправлена ​​ошибка, где цвет шрифта не изменился сразу при изменении тем."
+    "devnote": "7.9.2\n\nМы срочно исправили ошибку, в которой такие настройки, как шрифты и маржа."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.9.1\n\nS -a rezolvat o eroare în care culoarea fontului nu s -a schimbat imediat la schimbarea temelor."
+    "devnote": "7.9.2\n\nAm rezolvat urgent o eroare în care nu au fost aplicate setări precum fonturi și marje."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.9.1\n\nIštaisyta klaida, kai šrifto spalva nepasikeitė iškart keičiant temas."
+    "devnote": "7.9.2\n\nMes skubiai ištaisėme klaidą, kurioje nebuvo taikomi tokie parametrai kaip šriftai ir paraštės."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.9.1\n\nथीम बदलताना फॉन्टचा रंग त्वरित बदलला नाही अशा बगचे निराकरण केले."
+    "devnote": "7.9.2\n\nआम्ही तातडीने एक बग निश्चित केला जेथे फॉन्ट आणि मार्जिन सारख्या सेटिंग्ज लागू केल्या नाहीत."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.9.1\n\nПоправи грешка каде бојата на фонтот не се смени веднаш при промена на темите."
+    "devnote": "7.9.2\n\nНие итно поправивме грешка каде не беа применети поставки како што се фонтови и маргини."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.9.1\n\nതീമുകൾ മാറ്റുമ്പോൾ ഫോണ്ട് നിറം മാറിയ ഒരു ബഗ് പരിഹരിച്ചു."
+    "devnote": "7.9.2\n\nഫോണ്ടുകളും മാർജിനുകളും ബാധകമല്ലാത്ത ഒരു ബഗ് ഞങ്ങൾ അടിയന്തിരമായി നിശ്ചയിച്ചിട്ടുണ്ട്."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.9.1\n\nTetapkan pepijat di mana warna fon tidak berubah dengan segera apabila menukar tema."
+    "devnote": "7.9.2\n\nKami segera menetapkan pepijat di mana tetapan seperti fon dan margin tidak digunakan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.9.1\n\nХӨГЖЛИЙН ХУДАЛДАН АВЧ БАЙНА УУ."
+    "devnote": "7.9.2\n\nБид фонт, маржин гэх мэт тохиргоог яаралтай бөглөсөн алдааг яаравчлав."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.9.1\n\nGaiak aldatzean berehala aldatu ez zen akats bat konpondu da."
+    "devnote": "7.9.2\n\nPremiazkoa konpondu genuen akats bat non ezarpenak eta marjinak ez ziren aplikatuko ezarpenak."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.9.1\n\nခေါင်းစဉ်များပြောင်းလဲနေသည့်အခါ font အရောင်သည်ချက်ချင်းပြောင်းလဲခြင်းမပြုသည့် bug တစ်ခု fixed ။"
+    "devnote": "7.9.2\n\nဖောင့်များနှင့်မာဂျင်များကဲ့သို့သောချိန်ညှိချက်များမသုံးသော settings များကိုကျွန်ုပ်တို့အရေးတကြီးပြင်ဆင်ထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.9.1\n\nĐã sửa lỗi trong đó màu phông chữ không thay đổi ngay lập tức khi thay đổi chủ đề."
+    "devnote": "7.9.2\n\nChúng tôi khẩn cấp sửa lỗi trong đó các cài đặt như phông chữ và lề không được áp dụng."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.9.1\n\nВыпраўлена памылка, калі колер шрыфта не змяніўся адразу пры змене тэм."
+    "devnote": "7.9.2\n\nМы тэрмінова выправілі памылку, дзе налады, такія як шрыфты і маржы, не ўжываліся."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.9.1\n\nথিমগুলি পরিবর্তন করার সময় ফন্টের রঙ অবিলম্বে পরিবর্তিত হয়নি এমন একটি বাগ স্থির করে।"
+    "devnote": "7.9.2\n\nআমরা জরুরীভাবে একটি বাগ ঠিক করেছি যেখানে ফন্ট এবং মার্জিনের মতো সেটিংস প্রয়োগ করা হয়নি।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.9.1\n\nФиксирана грешка, при която цветът на шрифта не се промени веднага при промяна на темите."
+    "devnote": "7.9.2\n\nСпешно поправихме грешка, при която настройки като шрифтове и маржове не се прилагат."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.9.1\n\nПоправљена је грешка у којој се боја фонта није одмах променила приликом промене тема."
+    "devnote": "7.9.2\n\nХитно смо поправили грешку у којој се нису примењене подешавања као што су фонтови и маргине."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.9.1\n\nZisizohamishika mdudu ambapo rangi ya fonti haibadilika mara moja wakati wa kubadilisha mada."
+    "devnote": "7.9.2\n\nTulirekebisha kwa haraka mdudu ambapo mipangilio kama fonti na pembezoni hazikutumika."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.9.1\n\nFixade ett fel där teckensnittsfärgen inte ändrades omedelbart när du ändrade teman."
+    "devnote": "7.9.2\n\nVi fixade brådskande ett fel där inställningar som teckensnitt och marginaler inte applicerades."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.9.1\n\nSe corrigió un error donde el color de fuente no cambió inmediatamente al cambiar los temas."
+    "devnote": "7.9.2\n\nArreglamos urgentemente un error donde no se aplicaron configuraciones como fuentes y márgenes."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.9.1\n\nOpravená chyba, kde sa farba písma pri zmene tém nezmenila okamžite."
+    "devnote": "7.9.2\n\nNaliehavo sme opravili chybu, kde sa neuplatňovali nastavenia, ako sú písma a marže."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.9.1\n\nOdpravil je napako, pri kateri se barva pisave ni spremenila takoj, ko je spreminjala teme."
+    "devnote": "7.9.2\n\nNujno smo odpravili napako, kjer nastavitve, kot so pisave in robove, niso bile uporabljene."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.9.1\n\nතේමාවන් වෙනස් කිරීමේදී අකුරු වර්ණය වහාම වෙනස් නොවූ දෝෂයක් සවි කර ඇත."
+    "devnote": "7.9.2\n\nඅකුරු සහ ආන්තිකයන් වැනි සැකසුම් භාවිතා නොකරන දෝෂයක් අපි හදිසියේ සවි කළෙමු."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.9.1\n\nإصلاح الخلل حيث لم يتغير لون الخط على الفور عند تغيير السمات."
+    "devnote": "7.9.2\n\nلقد إصلاحنا بشكل عاجل خطأ حيث لم يتم تطبيق إعدادات مثل الخطوط والهوامش."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.9.1\n\nFix նջեց մի սխալ, որտեղ տառատեսակների գույնը չի փոխվել թեմաները փոխելիս:"
+    "devnote": "7.9.2\n\nՄենք շտապ շտկեցինք մի սխալ, որտեղ պարամետրերը, ինչպիսիք են տառատեսակները եւ լուսանցքները, չեն կիրառվել:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.9.1\n\nLagaði galla þar sem leturliturinn breyttist ekki strax þegar hann breytti þemum."
+    "devnote": "7.9.2\n\nVið festum brýn galla þar sem ekki var beitt stillingum eins og leturgerðum og framlegð."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.9.1 .9.1\n\nFont rənginin mövzuları dəyişdirərkən dərhal dəyişmədiyi bir səhv düzəldildi."
+    "devnote": "7.9.2\n\nŞriftlər və kənarlar kimi parametrlərin tətbiq olunmadığı bir səhv düzəltdik."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.9.1\n\n'N fout opgelos waar die lettertipe -kleur nie onmiddellik verander het tydens die verandering van temas nie."
+    "devnote": "7.9.2\n\nOns het dringend 'n fout reggemaak waar instellings soos lettertipes en marges nie toegepas is nie."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.9.1\n\nFiksoi një gabim ku ngjyra e shkronjave nuk ndryshoi menjëherë kur ndryshon temat."
+    "devnote": "7.9.2\n\nNe rregulluam urgjentisht një gabim ku nuk u aplikuan cilësimet e tilla si shkronja dhe kufijtë."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.9.1\n\nጭብጡን በሚቀይሩበት ጊዜ የቅርጸ-ቁምፊ ቀለም ወዲያውኑ የማይቀየርበት ሳንካ ተጠግኗል."
+    "devnote": "7.9.2\n\nእንደ ቅርጸ-ቁምፊዎች እና ጠርዞች ያሉ ቅንብሮች ያሉ ቅንብሮች ያልታገሙበትን ሳንካ በአስፋፋ እንሰራለን."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.9.1\n\nParandatud viga, kus fondi värv teemade muutmisel kohe ei muutunud."
+    "devnote": "7.9.2\n\nParandasime kiiresti vea, kus seadeid nagu fondid ja marginaalid ei rakendatud."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.9.1\n\nایک بگ طے کیا جہاں موضوعات کو تبدیل کرتے وقت فونٹ کا رنگ فوری طور پر تبدیل نہیں ہوا۔"
+    "devnote": "7.9.2\n\nہم نے فوری طور پر ایک بگ طے کیا جہاں فونٹ اور مارجن جیسی ترتیبات کا اطلاق نہیں کیا گیا تھا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.9.1\n\nВиправлена ​​помилка, де колір шрифту не змінювався негайно при зміні тем."
+    "devnote": "7.9.2\n\nМи терміново виправили помилку, де налаштування, такі як шрифти та поля, не застосовувались."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.9.1\n\nRisolto un bug in cui il colore del carattere non cambiò immediatamente quando si cambia i temi."
+    "devnote": "7.9.2\n\nAbbiamo risolto urgentemente un bug in cui non sono state applicate impostazioni come caratteri e margini."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.9.1\n\nMemperbaiki bug di mana warna font tidak segera berubah saat mengubah tema."
+    "devnote": "7.9.2\n\nKami segera memperbaiki bug di mana pengaturan seperti font dan margin tidak diterapkan."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.9.1\n\nテーマを変更するときにフォントの色がすぐに変わらなかったバグを修正しました。"
+    "devnote": "7.9.2\n\nフォントやマージンなどの設定が適用されなかったバグを緊急に修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.9.1\n\nდაფიქსირდა შეცდომა, სადაც შრიფტის ფერი არ შეცვლილა თემების შეცვლის დროს."
+    "devnote": "7.9.2\n\nჩვენ სასწრაფოდ დავაფიქსირეთ შეცდომა, სადაც არ იყო გამოყენებული პარამეტრები, როგორიცაა შრიფტები და ზღვარი."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.9.1\n\nKulungiswe isiphazamisi lapho umbala wefonti ungashintshanga khona masinyane lapho ushintsha izingqikithi."
+    "devnote": "7.9.2\n\nSilungiselele ngokushesha i-bug lapho izilungiselelo ezinjengamafonti nama-margins azisetshenziswanga."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.9.1\n\n修复了一个错误时字体颜色在更改主题时不会立即更改的错误。"
+    "devnote": "7.9.2\n\n我们紧急修复了一个错误，其中未应用诸如字体和边距之类的设置。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.9.1\n\n修復了一個錯誤時字體顏色在更改主題時不會立即更改的錯誤。"
+    "devnote": "7.9.2\n\n我們緊急修復了一個錯誤，其中未應用諸如字體和邊距之類的設置。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.9.1\n\n修復了一個錯誤時字體顏色在更改主題時不會立即更改的錯誤。"
+    "devnote": "7.9.2\n\n我們緊急修復了一個錯誤，其中未應用諸如字體和邊距之類的設置。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.9.1\n\nOpravena chyba, kde se barva písma při změně témat okamžitě nezměnila."
+    "devnote": "7.9.2\n\nNaléhavě jsme opravili chybu, kde nebyla použita nastavení, jako jsou písma a okraje."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.9.1\n\nҚаріп түсі тақырыптарды өзгерткен кезде бірден өзгермеген кезде қатені түзетіңіз."
+    "devnote": "7.9.2\n\nБіз шұңқырлар мен шеттер сияқты параметрлер қолданылмайтын қателерді шұғыл түрде бекіттік."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.9.1\n\nS'ha corregit un error on el color del tipus de lletra no va canviar immediatament quan canviava temes."
+    "devnote": "7.9.2\n\nHem corregit urgentment un error on no s’aplicaven configuracions com ara tipus de lletra i marges."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.9.1\n\nಥೀಮ್‌ಗಳನ್ನು ಬದಲಾಯಿಸುವಾಗ ಫಾಂಟ್ ಬಣ್ಣವು ತಕ್ಷಣ ಬದಲಾಗದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "7.9.2\n\nಫಾಂಟ್‌ಗಳು ಮತ್ತು ಅಂಚುಗಳಂತಹ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಅನ್ವಯಿಸದ ದೋಷವನ್ನು ನಾವು ತುರ್ತಾಗಿ ಸರಿಪಡಿಸಿದ್ದೇವೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.9.1\n\nIspravljena je greška u kojoj se boja fonta nije promijenila odmah prilikom promjene teme."
+    "devnote": "7.9.2\n\nHitno smo popravili pogrešku u kojoj se postavke poput fontova i margine nisu primijenile."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.9.1\n\nជួសជុលកំហុសដែលពណ៌ពុម្ពអក្សរមិនបានផ្លាស់ប្តូរភ្លាមៗនៅពេលផ្លាស់ប្តូរស្បែក។"
+    "devnote": "7.9.2\n\nយើងបានជួសជុលកំហុសភ្លាមៗនៅពេលដែលការកំណត់ដូចជាពុម្ពអក្សរនិងរឹមមិនត្រូវបានអនុវត្ត។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.9.1\n\nТемаларды өзгөргөндө, арип түсү дароо өзгөргөн жок мүчүлүштүктү оңдолду."
+    "devnote": "7.9.2\n\nШрифттер жана чектер колдонулбаган жөндөөлөрдү тез арада белгилейбиз."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.9.1\n\nகருப்பொருள்களை மாற்றும்போது எழுத்துரு நிறம் உடனடியாக மாறாத ஒரு பிழை சரி செய்யப்பட்டது."
+    "devnote": "7.9.2\n\nஎழுத்துருக்கள் மற்றும் விளிம்புகள் போன்ற அமைப்புகள் பயன்படுத்தப்படாத ஒரு பிழையை நாங்கள் அவசரமாக சரிசெய்தோம்."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.9.1\n\nแก้ไขข้อผิดพลาดที่สีแบบอักษรไม่เปลี่ยนแปลงทันทีเมื่อเปลี่ยนธีม"
+    "devnote": "7.9.2\n\nเราแก้ไขข้อผิดพลาดอย่างเร่งด่วนที่การตั้งค่าเช่นแบบอักษรและมาร์จิ้นไม่ได้ใช้"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.9.1\n\nTemaları değiştirirken yazı tipi renginin hemen değişmediği bir hata düzeltildi."
+    "devnote": "7.9.2\n\nFontlar ve kenar boşlukları gibi ayarların uygulanmadığı bir hatayı acilen sabitledik."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.9.1\n\nథీమ్‌లను మార్చేటప్పుడు ఫాంట్ రంగు వెంటనే మారని బగ్ పరిష్కరించబడింది."
+    "devnote": "7.9.2\n\nఫాంట్‌లు మరియు మార్జిన్లు వంటి సెట్టింగ్‌లు వర్తించని బగ్‌ను మేము అత్యవసరంగా పరిష్కరించాము."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.9.1\n\nਇੱਕ ਬੱਗ ਹੱਲ ਕੀਤਾ ਗਿਆ ਕਿ ਥੀਮ ਨੂੰ ਬਦਲਣ ਵੇਲੇ ਫੋਂਟ ਰੰਗ ਤੁਰੰਤ ਨਹੀਂ ਬਦਲਿਆ."
+    "devnote": "7.9.2\n\nਸਾਨੂੰ ਤੁਰੰਤ ਇੱਕ ਬੱਗ ਹੱਲ ਕੀਤਾ ਗਿਆ ਜਿੱਥੇ ਫੋਂਟ ਅਤੇ ਹਾਸ਼ੀਏ ਵਰਗੀਆਂ ਸੈਟਿੰਗਾਂ ਲਾਗੂ ਨਹੀਂ ਹੁੰਦੀਆਂ ਸਨ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.9.1\n\nرفع اشکال در جایی که رنگ قلم بلافاصله هنگام تغییر مضامین تغییر نمی کند."
+    "devnote": "7.9.2\n\nما فوراً اشکالی را برطرف کردیم که تنظیماتی مانند قلم و حاشیه اعمال نشده است."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.9.1\n\nCorrigido um bug em que a cor da fonte não mudou imediatamente ao alterar os temas."
+    "devnote": "7.9.2\n\nCorrigimos urgentemente um bug em que configurações como fontes e margens não foram aplicadas."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.9.1\n\nNaprawiono błąd, w którym kolor czcionki nie zmienił się natychmiast po zmianie tematów."
+    "devnote": "7.9.2\n\nPilnie naprawiliśmy błąd, w którym nie zastosowano ustawień takich jak czcionki i marginesy."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.9.1\n\nCorrection d'un bug où la couleur de la police n'a pas changé immédiatement lors du changement de thèmes."
+    "devnote": "7.9.2\n\nNous avons corrigé d'urgence un bogue où les paramètres tels que les polices et les marges n'ont pas été appliqués."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.9.1\n\nKorjattu virhe, jossa fonttiväri ei muuttunut välittömästi teemoja vaihdettaessa."
+    "devnote": "7.9.2\n\nKorjasimme kiireellisesti virheen, jossa asetuksia, kuten fontteja ja marginaaleja, ei sovellettu."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.9.1\n\nNaayos ang isang bug kung saan ang kulay ng font ay hindi nagbago kaagad kapag nagbabago ng mga tema."
+    "devnote": "7.9.2\n\nAgad naming naayos ang isang bug kung saan ang mga setting tulad ng mga font at margin ay hindi inilalapat."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.9.1\n\nJavítva egy hibát, ahol a betűkészlet nem változott azonnal a témák megváltoztatásakor."
+    "devnote": "7.9.2\n\nSürgősen kijavítottuk a hibát, ahol olyan beállításokat nem alkalmaztak, mint például a betűkészletek és a margók."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.9.1\n\nתוקן באג שבו צבע הגופן לא השתנה מייד בעת החלפת הנושאים."
+    "devnote": "7.9.2\n\nתיקנו בדחיפות באג בו לא הוחלו הגדרות כמו גופנים ושוליים."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.9.1\n\nएक बग फिक्स्ड जहां विषयों को बदलते समय फ़ॉन्ट रंग तुरंत नहीं बदलता था।"
+    "devnote": "7.9.2\n\nहमने तत्काल एक बग तय किया जहां फोंट और मार्जिन जैसी सेटिंग्स लागू नहीं की गईं।"
   }
 }
