@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.9.2\n\nWe urgently fixed a bug where settings such as fonts and margins were not applied."
+    "devnote": "7.9.3\n\nFixed an issue where the auto-shutdown option did not work in certain situations."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.9.2\n\n글꼴, 여백 등 설정이 적용 안되던 버그를 긴급히 수정 하였습니다."
+    "devnote": "7.9.3\n\n자동 종료 옵션이 특정 상황에서 작동 안하던 문제를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.9.2\n\nFixemos con urxencia un erro onde non se aplicaron configuracións como fontes e marxes."
+    "devnote": "7.9.3\n\nResolveuse un problema onde a opción de auto-shutdown non funcionou en certas situacións."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.9.2\n\nઅમે તાત્કાલિક ભૂલને ઠીક કરી જ્યાં ફોન્ટ્સ અને માર્જિન જેવી સેટિંગ્સ લાગુ કરવામાં આવી ન હતી."
+    "devnote": "7.9.3\n\nએક મુદ્દો ઉકેલાઈ ગયો જ્યાં અમુક પરિસ્થિતિઓમાં auto ટો-શટડાઉન વિકલ્પ કામ કરતું નથી."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.9.2\n\nΔιορθώσαμε επειγόντως ένα σφάλμα όπου δεν εφαρμόστηκαν ρυθμίσεις όπως γραμματοσειρές και περιθώρια."
+    "devnote": "7.9.3\n\nΔιορθώθηκε ένα ζήτημα όπου η επιλογή αυτόματου τροχού δεν λειτούργησε σε ορισμένες καταστάσεις."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.9.2\n\nWe hebben dringend een bug opgelost waar instellingen zoals lettertypen en marges niet werden toegepast."
+    "devnote": "7.9.3\n\nEen probleem opgelost waarbij de optie Auto-Shutdown niet in bepaalde situaties werkte."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "7.9.2\n\nहामीले तत्काल एउटा बग मिलाए जहाँ फन्ट र मार्जिनहरू लागू गरिएको थिएन।"
+    "devnote": "7..9..3\n\nएक मुद्दा स्थिर भयो जहाँ स्वत: बन्दल विकल्पले केहि परिस्थितिहरूमा काम गरेन।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.9.2\n\nVi fikset en feil der innstillinger som skrifter og marginer ikke ble brukt."
+    "devnote": "7.9.3\n\nRettet et problem der alternativet for auto-shutdown ikke fungerte i visse situasjoner."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.9.2\n\nVi fikseret hurtigst muligt en fejl, hvor indstillinger som skrifttyper og marginer ikke blev anvendt."
+    "devnote": "7.9.3\n\nRettet et problem, hvor indstillingen Auto-Shutdown ikke fungerede i visse situationer."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.9.2\n\nWir haben dringend einen Fehler behoben, bei dem keine Einstellungen wie Schriftarten und Ränder angewendet wurden."
+    "devnote": "7.9.3\n\nEs wurde ein Problem behoben, bei dem die Option Auto-Shutdown-Option in bestimmten Situationen nicht funktioniert hat."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.9.2\n\nພວກເຮົາໄດ້ແກ້ໄຂຂໍ້ບົກຜ່ອງຢ່າງຮີບດ່ວນບ່ອນທີ່ການຕັ້ງຄ່າເຊັ່ນ: ຕົວອັກສອນແລະຂອບໃບບໍ່ໄດ້ຖືກນໍາໃຊ້."
+    "devnote": "7.9.3\n\nແກ້ໄຂບັນຫາບ່ອນທີ່ຕົວເລືອກການປິດອັດຕະໂນມັດໂດຍອັດຕະໂນມັດບໍ່ໄດ້ເຮັດວຽກໃນບາງສະຖານະການ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.9.2\n\nMēs steidzami labojām kļūdu, kurā netika piemēroti tādi iestatījumi kā fonti un malas."
+    "devnote": "7.9.3\n\nNovērsta problēma, kurā automātiskās noņemšanas iespēja nedarbojās noteiktās situācijās."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.9.2\n\nМы срочно исправили ошибку, в которой такие настройки, как шрифты и маржа."
+    "devnote": "7.9.3\n\nИсправлена ​​проблема, в которой опция автоматической смены не работала в определенных ситуациях."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.9.2\n\nAm rezolvat urgent o eroare în care nu au fost aplicate setări precum fonturi și marje."
+    "devnote": "7.9.3\n\nS-a rezolvat o problemă în care opțiunea auto-shutdown nu a funcționat în anumite situații."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.9.2\n\nMes skubiai ištaisėme klaidą, kurioje nebuvo taikomi tokie parametrai kaip šriftai ir paraštės."
+    "devnote": "7.9.3\n\nIštaisyta problema, kai automatinio stumimo parinktis tam tikrose situacijose neveikė."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.9.2\n\nआम्ही तातडीने एक बग निश्चित केला जेथे फॉन्ट आणि मार्जिन सारख्या सेटिंग्ज लागू केल्या नाहीत."
+    "devnote": "7.9.3\n\nविशिष्ट परिस्थितीत स्वयं-शटडाउन पर्याय कार्य करत नसलेल्या समस्येचे निराकरण केले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.9.2\n\nНие итно поправивме грешка каде не беа применети поставки како што се фонтови и маргини."
+    "devnote": "7.9.3\n\nПоправи проблем кога опцијата за автоматско прекинување не работеше во одредени ситуации."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.9.2\n\nഫോണ്ടുകളും മാർജിനുകളും ബാധകമല്ലാത്ത ഒരു ബഗ് ഞങ്ങൾ അടിയന്തിരമായി നിശ്ചയിച്ചിട്ടുണ്ട്."
+    "devnote": "7.9.3\n\nചില സാഹചര്യങ്ങളിൽ യാന്ത്രിക-ഷട്ട്ഡൗൺ ഓപ്ഷൻ പ്രവർത്തിക്കാത്ത ഒരു പ്രശ്നം പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.9.2\n\nKami segera menetapkan pepijat di mana tetapan seperti fon dan margin tidak digunakan."
+    "devnote": "7.9.3\n\nMemperbaiki masalah di mana pilihan auto-shutdown tidak berfungsi dalam situasi tertentu."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.9.2\n\nБид фонт, маржин гэх мэт тохиргоог яаралтай бөглөсөн алдааг яаравчлав."
+    "devnote": "7.9.3\n\nАвтоматаар унтрах сонголт нь тодорхой нөхцөл байдалд ажиллахгүй байгаа асуудлыг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.9.2\n\nPremiazkoa konpondu genuen akats bat non ezarpenak eta marjinak ez ziren aplikatuko ezarpenak."
+    "devnote": "7.9.3\n\nArazo bat konpondu da auto-itzaltze aukera egoeratan funtzionatzen ez zuenik."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.9.2\n\nဖောင့်များနှင့်မာဂျင်များကဲ့သို့သောချိန်ညှိချက်များမသုံးသော settings များကိုကျွန်ုပ်တို့အရေးတကြီးပြင်ဆင်ထားသည်။"
+    "devnote": "7.9.3\n\nအချို့သောအခြေအနေများတွင် Auto-Shutdown Option သည်အလုပ်မလုပ်သည့်ကိစ္စတစ်ခုကိုဖြေရှင်းခဲ့သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.9.2\n\nChúng tôi khẩn cấp sửa lỗi trong đó các cài đặt như phông chữ và lề không được áp dụng."
+    "devnote": "7.9.3\n\nĐã khắc phục một vấn đề trong đó tùy chọn tự động giảm xuống không hoạt động trong một số tình huống nhất định."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.9.2\n\nМы тэрмінова выправілі памылку, дзе налады, такія як шрыфты і маржы, не ўжываліся."
+    "devnote": "7.9.3\n\nВыпраўленая праблема, калі варыянт аўтаматычнага шума, не працаваў у пэўных сітуацыях."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.9.2\n\nআমরা জরুরীভাবে একটি বাগ ঠিক করেছি যেখানে ফন্ট এবং মার্জিনের মতো সেটিংস প্রয়োগ করা হয়নি।"
+    "devnote": "7.9.3\n\nএকটি সমস্যা স্থির করে যেখানে অটো-শুটডাউন বিকল্পটি নির্দিষ্ট পরিস্থিতিতে কাজ করে না।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.9.2\n\nСпешно поправихме грешка, при която настройки като шрифтове и маржове не се прилагат."
+    "devnote": "7.9.3\n\nФиксиран проблем, при който опцията за автоматично спиране не работи в определени ситуации."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.9.2\n\nХитно смо поправили грешку у којој се нису примењене подешавања као што су фонтови и маргине."
+    "devnote": "7.9.3\n\nПоправљено је питање где опција аутоматског искључивања није радила у одређеним ситуацијама."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.9.2\n\nTulirekebisha kwa haraka mdudu ambapo mipangilio kama fonti na pembezoni hazikutumika."
+    "devnote": "7.9.3\n\nZisizohamishika suala ambalo chaguo la auto-shutdown haikufanya kazi katika hali fulani."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.9.2\n\nVi fixade brådskande ett fel där inställningar som teckensnitt och marginaler inte applicerades."
+    "devnote": "7.9.3\n\nFixade ett problem där alternativet Auto-Shutdown inte fungerade i vissa situationer."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.9.2\n\nArreglamos urgentemente un error donde no se aplicaron configuraciones como fuentes y márgenes."
+    "devnote": "7.9.3\n\nSe solucionó un problema en el que la opción de ajuste automático no funcionaba en ciertas situaciones."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.9.2\n\nNaliehavo sme opravili chybu, kde sa neuplatňovali nastavenia, ako sú písma a marže."
+    "devnote": "7.9.3\n\nOpravený problém, v ktorom možnosť automatického zaostávania nefungovala v určitých situáciách."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.9.2\n\nNujno smo odpravili napako, kjer nastavitve, kot so pisave in robove, niso bile uporabljene."
+    "devnote": "7.9.3\n\nOdpravila je težavo, pri kateri možnost samodejnega odmika v določenih situacijah ni delovala."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.9.2\n\nඅකුරු සහ ආන්තිකයන් වැනි සැකසුම් භාවිතා නොකරන දෝෂයක් අපි හදිසියේ සවි කළෙමු."
+    "devnote": "7.9.3\n\nස්වයංක්රීයව වසා දැමීමේ විකල්පය සමහර අවස්ථාවල වැඩ නොකළ ගැටළුවක් විසඳා ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.9.2\n\nلقد إصلاحنا بشكل عاجل خطأ حيث لم يتم تطبيق إعدادات مثل الخطوط والهوامش."
+    "devnote": "7.9.3\n\nتم إصلاح مشكلة حيث لم ينجح خيار التقاط التلقائي في مواقف معينة."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.9.2\n\nՄենք շտապ շտկեցինք մի սխալ, որտեղ պարամետրերը, ինչպիսիք են տառատեսակները եւ լուսանցքները, չեն կիրառվել:"
+    "devnote": "7.9.3\n\nՀաստատեց մի հարց, որտեղ ավտոմատ անջատման տարբերակը չի աշխատել որոշակի իրավիճակներում:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.9.2\n\nVið festum brýn galla þar sem ekki var beitt stillingum eins og leturgerðum og framlegð."
+    "devnote": "7.9.3\n\nLagaði mál þar sem valkosturinn sjálfvirkur slökkt virkaði ekki við ákveðnar aðstæður."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.9.2\n\nŞriftlər və kənarlar kimi parametrlərin tətbiq olunmadığı bir səhv düzəltdik."
+    "devnote": "7.9.3\n\nAvtomatik bağlama seçiminin müəyyən hallarda işləmədiyi bir problemi həll etdi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.9.2\n\nOns het dringend 'n fout reggemaak waar instellings soos lettertipes en marges nie toegepas is nie."
+    "devnote": "7.9.3\n\n'N probleem opgelos waar die outo-shutdown-opsie nie in sekere situasies gewerk het nie."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.9.2\n\nNe rregulluam urgjentisht një gabim ku nuk u aplikuan cilësimet e tilla si shkronja dhe kufijtë."
+    "devnote": "7.9.3\n\nFiksoi një çështje ku opsioni automatik-shutdown nuk funksionoi në situata të caktuara."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.9.2\n\nእንደ ቅርጸ-ቁምፊዎች እና ጠርዞች ያሉ ቅንብሮች ያሉ ቅንብሮች ያልታገሙበትን ሳንካ በአስፋፋ እንሰራለን."
+    "devnote": "7.9.3\n\nበራስ-ተዘጋጅቶሩ አማራጭ በተወሰኑ ሁኔታዎች ውስጥ የማይሠራበት ጉዳይ ተጠግኗል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.9.2\n\nParandasime kiiresti vea, kus seadeid nagu fondid ja marginaalid ei rakendatud."
+    "devnote": "7.9.3\n\nParandatud probleem, kus automaatne-shutdown variant ei töötanud teatud olukordades."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.9.2\n\nہم نے فوری طور پر ایک بگ طے کیا جہاں فونٹ اور مارجن جیسی ترتیبات کا اطلاق نہیں کیا گیا تھا۔"
+    "devnote": "7.9.3\n\nایک ایسا مسئلہ طے کیا جہاں آٹو شٹ ڈاؤن آپشن کچھ مخصوص حالات میں کام نہیں کرتا تھا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.9.2\n\nМи терміново виправили помилку, де налаштування, такі як шрифти та поля, не застосовувались."
+    "devnote": "7.9.3\n\nВиправлена ​​проблема, коли параметр Auto-Shutdown не працював у певних ситуаціях."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.9.2\n\nAbbiamo risolto urgentemente un bug in cui non sono state applicate impostazioni come caratteri e margini."
+    "devnote": "7.9.3\n\nRisolto un problema in cui l'opzione auto-shutdown non funzionava in determinate situazioni."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.9.2\n\nKami segera memperbaiki bug di mana pengaturan seperti font dan margin tidak diterapkan."
+    "devnote": "7.9.3\n\nMemperbaiki masalah di mana opsi shutdown otomatis tidak berfungsi dalam situasi tertentu."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.9.2\n\nフォントやマージンなどの設定が適用されなかったバグを緊急に修正しました。"
+    "devnote": "7.9.3\n\n特定の状況では自動シャットダウンオプションが機能しなかった問題を修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.9.2\n\nჩვენ სასწრაფოდ დავაფიქსირეთ შეცდომა, სადაც არ იყო გამოყენებული პარამეტრები, როგორიცაა შრიფტები და ზღვარი."
+    "devnote": "7.9.3\n\nდაფიქსირდა საკითხი, სადაც ავტო-შოვნა, არ მუშაობდა გარკვეულ სიტუაციებში."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.9.2\n\nSilungiselele ngokushesha i-bug lapho izilungiselelo ezinjengamafonti nama-margins azisetshenziswanga."
+    "devnote": "7.9.3\n\nKulungiswe inkinga lapho inketho ye-auto Shutdown ayisebenzanga ezimweni ezithile."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.9.2\n\n我们紧急修复了一个错误，其中未应用诸如字体和边距之类的设置。"
+    "devnote": "7.9.3\n\n修复了一个问题，即在某些情况下自动划分选项不起作用。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.9.2\n\n我們緊急修復了一個錯誤，其中未應用諸如字體和邊距之類的設置。"
+    "devnote": "7.9.3\n\n修復了一個問題，即在某些情況下自動劃分選項不起作用。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.9.2\n\n我們緊急修復了一個錯誤，其中未應用諸如字體和邊距之類的設置。"
+    "devnote": "7.9.3\n\n修復了一個問題，即在某些情況下自動劃分選項不起作用。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.9.2\n\nNaléhavě jsme opravili chybu, kde nebyla použita nastavení, jako jsou písma a okraje."
+    "devnote": "7.9.3\n\nOpraven problém, kdy možnost automatického zařazení nefungovala v určitých situacích."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.9.2\n\nБіз шұңқырлар мен шеттер сияқты параметрлер қолданылмайтын қателерді шұғыл түрде бекіттік."
+    "devnote": "7.9.3\n\nАвтоматты түрде өшіру опциясы белгілі бір жағдайларда жұмыс істемейтін мәселе шешілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.9.2\n\nHem corregit urgentment un error on no s’aplicaven configuracions com ara tipus de lletra i marges."
+    "devnote": "7.9.3\n\nS'ha corregit un problema en què l'opció de desnivell automàtic no funcionava en determinades situacions."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.9.2\n\nಫಾಂಟ್‌ಗಳು ಮತ್ತು ಅಂಚುಗಳಂತಹ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಅನ್ವಯಿಸದ ದೋಷವನ್ನು ನಾವು ತುರ್ತಾಗಿ ಸರಿಪಡಿಸಿದ್ದೇವೆ."
+    "devnote": "7.9.3\n\nಕೆಲವು ಸಂದರ್ಭಗಳಲ್ಲಿ ಸ್ವಯಂ-ಶಟ್ಡೌನ್ ಆಯ್ಕೆಯು ಕಾರ್ಯನಿರ್ವಹಿಸದ ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.9.2\n\nHitno smo popravili pogrešku u kojoj se postavke poput fontova i margine nisu primijenile."
+    "devnote": "7.9.3\n\nPopravljen je problem u kojem opcija automatskog propadanja nije djelovala u određenim situacijama."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.9.2\n\nយើងបានជួសជុលកំហុសភ្លាមៗនៅពេលដែលការកំណត់ដូចជាពុម្ពអក្សរនិងរឹមមិនត្រូវបានអនុវត្ត។"
+    "devnote": "7.9.3\n\nដោះស្រាយបញ្ហាមួយដែលជម្រើសបិទដោយស្វ័យប្រវត្តិមិនបានដំណើរការក្នុងស្ថានភាពជាក់លាក់។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.9.2\n\nШрифттер жана чектер колдонулбаган жөндөөлөрдү тез арада белгилейбиз."
+    "devnote": "7.9.3\n\nАвтоматтык түрдө бир жагдайларда авто-өчүрүлгөн опция иштебей турган маселени чечти."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.9.2\n\nஎழுத்துருக்கள் மற்றும் விளிம்புகள் போன்ற அமைப்புகள் பயன்படுத்தப்படாத ஒரு பிழையை நாங்கள் அவசரமாக சரிசெய்தோம்."
+    "devnote": "7.9.3\n\nசில சூழ்நிலைகளில் ஆட்டோ-ஷட்டவுன் விருப்பம் செயல்படாத ஒரு சிக்கல் சரி செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.9.2\n\nเราแก้ไขข้อผิดพลาดอย่างเร่งด่วนที่การตั้งค่าเช่นแบบอักษรและมาร์จิ้นไม่ได้ใช้"
+    "devnote": "7.9.3\n\nแก้ไขปัญหาที่ตัวเลือกการตัดอัตโนมัติไม่ทำงานในบางสถานการณ์"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.9.2\n\nFontlar ve kenar boşlukları gibi ayarların uygulanmadığı bir hatayı acilen sabitledik."
+    "devnote": "7.9.3\n\nOtomatik Shutdown seçeneğinin belirli durumlarda çalışmadığı bir sorun düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.9.2\n\nఫాంట్‌లు మరియు మార్జిన్లు వంటి సెట్టింగ్‌లు వర్తించని బగ్‌ను మేము అత్యవసరంగా పరిష్కరించాము."
+    "devnote": "7.9.3\n\nకొన్ని సందర్భాల్లో ఆటో-షట్డౌన్ ఎంపిక పని చేయని సమస్య పరిష్కరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.9.2\n\nਸਾਨੂੰ ਤੁਰੰਤ ਇੱਕ ਬੱਗ ਹੱਲ ਕੀਤਾ ਗਿਆ ਜਿੱਥੇ ਫੋਂਟ ਅਤੇ ਹਾਸ਼ੀਏ ਵਰਗੀਆਂ ਸੈਟਿੰਗਾਂ ਲਾਗੂ ਨਹੀਂ ਹੁੰਦੀਆਂ ਸਨ."
+    "devnote": "7.9.3\n\nਇੱਕ ਮੁੱਦਾ ਹੱਲ ਕੀਤਾ ਜਿੱਥੇ ਆਟੋ-ਸ਼ਾਟਡਾਉਨ ਵਿਕਲਪ ਕੁਝ ਸਥਿਤੀਆਂ ਵਿੱਚ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਸੀ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.9.2\n\nما فوراً اشکالی را برطرف کردیم که تنظیماتی مانند قلم و حاشیه اعمال نشده است."
+    "devnote": "7.9.3\n\nمسئله ای را برطرف کرد که در آن گزینه خودکار شات در موقعیت های خاصی کار نکرد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.9.2\n\nCorrigimos urgentemente um bug em que configurações como fontes e margens não foram aplicadas."
+    "devnote": "7.9.3\n\nCorrigido um problema em que a opção de retirada automática não funcionou em determinadas situações."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.9.2\n\nPilnie naprawiliśmy błąd, w którym nie zastosowano ustawień takich jak czcionki i marginesy."
+    "devnote": "7.9.3\n\nNaprawiono problem, w którym opcja automatycznego shipdown nie działała w niektórych sytuacjach."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.9.2\n\nNous avons corrigé d'urgence un bogue où les paramètres tels que les polices et les marges n'ont pas été appliqués."
+    "devnote": "7.9.3\n\nCorrection d'un problème où l'option de shutdown automatique n'a pas fonctionné dans certaines situations."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.9.2\n\nKorjasimme kiireellisesti virheen, jossa asetuksia, kuten fontteja ja marginaaleja, ei sovellettu."
+    "devnote": "7.9.3\n\nKorjattu ongelma, jossa automaattinen shutdown-vaihtoehto ei toiminut tietyissä tilanteissa."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.9.2\n\nAgad naming naayos ang isang bug kung saan ang mga setting tulad ng mga font at margin ay hindi inilalapat."
+    "devnote": "7.9.3\n\nNaayos ang isang isyu kung saan ang pagpipilian ng auto-shutdown ay hindi gumana sa ilang mga sitwasyon."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.9.2\n\nSürgősen kijavítottuk a hibát, ahol olyan beállításokat nem alkalmaztak, mint például a betűkészletek és a margók."
+    "devnote": "7.9.3\n\nJavítva egy olyan problémát, amelyben az automatikus leállítási opció nem működött bizonyos helyzetekben."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.9.2\n\nתיקנו בדחיפות באג בו לא הוחלו הגדרות כמו גופנים ושוליים."
+    "devnote": "7.9.3\n\nתיקן בעיה בה האופציה האוטומטית לא עבדה במצבים מסוימים."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.9.2\n\nहमने तत्काल एक बग तय किया जहां फोंट और मार्जिन जैसी सेटिंग्स लागू नहीं की गईं।"
+    "devnote": "7.9.3\n\nएक मुद्दा फिक्स्ड जहां ऑटो-शटडाउन विकल्प कुछ स्थितियों में काम नहीं करता था।"
   }
 }
