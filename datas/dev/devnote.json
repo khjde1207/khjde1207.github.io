@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.9.3\n\nFixed an issue where the auto-shutdown option did not work in certain situations."
+    "devnote": "7.9.4\n\nFixed an issue where the auto-shutdown option did not work in certain situations."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.9.3\n\n자동 종료 옵션이 특정 상황에서 작동 안하던 문제를 수정 하였습니다."
+    "devnote": "7.9.4\n\n자동 종료 옵션이 특정 상황에서 작동 안하던 문제를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.9.3\n\nResolveuse un problema onde a opción de auto-shutdown non funcionou en certas situacións."
+    "devnote": "7.9.4\n\nResolveuse un problema onde a opción de auto-shutdown non funcionou en certas situacións."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.9.3\n\nએક મુદ્દો ઉકેલાઈ ગયો જ્યાં અમુક પરિસ્થિતિઓમાં auto ટો-શટડાઉન વિકલ્પ કામ કરતું નથી."
+    "devnote": "7.9.4\n\nએક મુદ્દો ઉકેલાઈ ગયો જ્યાં અમુક પરિસ્થિતિઓમાં auto ટો-શટડાઉન વિકલ્પ કામ કરતું નથી."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.9.3\n\nΔιορθώθηκε ένα ζήτημα όπου η επιλογή αυτόματου τροχού δεν λειτούργησε σε ορισμένες καταστάσεις."
+    "devnote": "7.9.4\n\nΔιορθώθηκε ένα ζήτημα όπου η επιλογή αυτόματου τροχού δεν λειτούργησε σε ορισμένες καταστάσεις."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.9.3\n\nEen probleem opgelost waarbij de optie Auto-Shutdown niet in bepaalde situaties werkte."
+    "devnote": "7.9.4\n\nEen probleem opgelost waarbij de optie Auto-Shutdown niet in bepaalde situaties werkte."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "7..9..3\n\nएक मुद्दा स्थिर भयो जहाँ स्वत: बन्दल विकल्पले केहि परिस्थितिहरूमा काम गरेन।"
+    "devnote": "9.9..4\n\nएक मुद्दा स्थिर भयो जहाँ स्वत: बन्दल विकल्पले केहि परिस्थितिहरूमा काम गरेन।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.9.3\n\nRettet et problem der alternativet for auto-shutdown ikke fungerte i visse situasjoner."
+    "devnote": "7.9.4\n\nRettet et problem der alternativet for auto-shutdown ikke fungerte i visse situasjoner."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.9.3\n\nRettet et problem, hvor indstillingen Auto-Shutdown ikke fungerede i visse situationer."
+    "devnote": "7.9.4\n\nRettet et problem, hvor indstillingen Auto-Shutdown ikke fungerede i visse situationer."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.9.3\n\nEs wurde ein Problem behoben, bei dem die Option Auto-Shutdown-Option in bestimmten Situationen nicht funktioniert hat."
+    "devnote": "7.9.4\n\nEs wurde ein Problem behoben, bei dem die Option Auto-Shutdown-Option in bestimmten Situationen nicht funktioniert hat."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.9.3\n\nແກ້ໄຂບັນຫາບ່ອນທີ່ຕົວເລືອກການປິດອັດຕະໂນມັດໂດຍອັດຕະໂນມັດບໍ່ໄດ້ເຮັດວຽກໃນບາງສະຖານະການ."
+    "devnote": "7.9.4\n\nແກ້ໄຂບັນຫາບ່ອນທີ່ຕົວເລືອກການປິດອັດຕະໂນມັດໂດຍອັດຕະໂນມັດບໍ່ໄດ້ເຮັດວຽກໃນບາງສະຖານະການ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.9.3\n\nNovērsta problēma, kurā automātiskās noņemšanas iespēja nedarbojās noteiktās situācijās."
+    "devnote": "7.9.4\n\nNovērsta problēma, kurā automātiskās noņemšanas iespēja nedarbojās noteiktās situācijās."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.9.3\n\nИсправлена ​​проблема, в которой опция автоматической смены не работала в определенных ситуациях."
+    "devnote": "7.9.4\n\nИсправлена ​​проблема, в которой опция автоматической смены не работала в определенных ситуациях."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.9.3\n\nS-a rezolvat o problemă în care opțiunea auto-shutdown nu a funcționat în anumite situații."
+    "devnote": "7.9.4\n\nS-a rezolvat o problemă în care opțiunea auto-shutdown nu a funcționat în anumite situații."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.9.3\n\nIštaisyta problema, kai automatinio stumimo parinktis tam tikrose situacijose neveikė."
+    "devnote": "7.9.4\n\nIštaisyta problema, kai automatinio stumimo parinktis tam tikrose situacijose neveikė."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.9.3\n\nविशिष्ट परिस्थितीत स्वयं-शटडाउन पर्याय कार्य करत नसलेल्या समस्येचे निराकरण केले."
+    "devnote": "7.9.4\n\nविशिष्ट परिस्थितीत स्वयं-शटडाउन पर्याय कार्य करत नसलेल्या समस्येचे निराकरण केले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.9.3\n\nПоправи проблем кога опцијата за автоматско прекинување не работеше во одредени ситуации."
+    "devnote": "7.9.4\n\nПоправи проблем кога опцијата за автоматско прекинување не работеше во одредени ситуации."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.9.3\n\nചില സാഹചര്യങ്ങളിൽ യാന്ത്രിക-ഷട്ട്ഡൗൺ ഓപ്ഷൻ പ്രവർത്തിക്കാത്ത ഒരു പ്രശ്നം പരിഹരിച്ചു."
+    "devnote": "7.9.4\n\nചില സാഹചര്യങ്ങളിൽ യാന്ത്രിക-ഷട്ട്ഡൗൺ ഓപ്ഷൻ പ്രവർത്തിക്കാത്ത ഒരു പ്രശ്നം പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.9.3\n\nMemperbaiki masalah di mana pilihan auto-shutdown tidak berfungsi dalam situasi tertentu."
+    "devnote": "7.9.4\n\nMemperbaiki masalah di mana pilihan auto-shutdown tidak berfungsi dalam situasi tertentu."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.9.3\n\nАвтоматаар унтрах сонголт нь тодорхой нөхцөл байдалд ажиллахгүй байгаа асуудлыг зассан."
+    "devnote": "7.9.4.4.4\n\nАвтоматаар унтрах сонголт нь тодорхой нөхцөл байдалд ажиллахгүй байгаа асуудлыг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.9.3\n\nArazo bat konpondu da auto-itzaltze aukera egoeratan funtzionatzen ez zuenik."
+    "devnote": "7.9.4\n\nArazo bat konpondu da auto-itzaltze aukera egoeratan funtzionatzen ez zuenik."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.9.3\n\nအချို့သောအခြေအနေများတွင် Auto-Shutdown Option သည်အလုပ်မလုပ်သည့်ကိစ္စတစ်ခုကိုဖြေရှင်းခဲ့သည်။"
+    "devnote": "7.9.4\n\nအချို့သောအခြေအနေများတွင် Auto-Shutdown Option သည်အလုပ်မလုပ်သည့်ကိစ္စတစ်ခုကိုဖြေရှင်းခဲ့သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.9.3\n\nĐã khắc phục một vấn đề trong đó tùy chọn tự động giảm xuống không hoạt động trong một số tình huống nhất định."
+    "devnote": "7.9.4\n\nĐã khắc phục một vấn đề trong đó tùy chọn tự động giảm xuống không hoạt động trong một số tình huống nhất định."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.9.3\n\nВыпраўленая праблема, калі варыянт аўтаматычнага шума, не працаваў у пэўных сітуацыях."
+    "devnote": "7.9.4\n\nВыпраўленая праблема, калі варыянт аўтаматычнага шума, не працаваў у пэўных сітуацыях."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.9.3\n\nএকটি সমস্যা স্থির করে যেখানে অটো-শুটডাউন বিকল্পটি নির্দিষ্ট পরিস্থিতিতে কাজ করে না।"
+    "devnote": "7.9.4\n\nএকটি সমস্যা স্থির করে যেখানে অটো-শুটডাউন বিকল্পটি নির্দিষ্ট পরিস্থিতিতে কাজ করে না।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.9.3\n\nФиксиран проблем, при който опцията за автоматично спиране не работи в определени ситуации."
+    "devnote": "7.9.4\n\nФиксиран проблем, при който опцията за автоматично спиране не работи в определени ситуации."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.9.3\n\nПоправљено је питање где опција аутоматског искључивања није радила у одређеним ситуацијама."
+    "devnote": "7.9.4\n\nПоправљено је питање где опција аутоматског искључивања није радила у одређеним ситуацијама."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.9.3\n\nZisizohamishika suala ambalo chaguo la auto-shutdown haikufanya kazi katika hali fulani."
+    "devnote": "7.9.4\n\nZisizohamishika suala ambalo chaguo la auto-shutdown haikufanya kazi katika hali fulani."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.9.3\n\nFixade ett problem där alternativet Auto-Shutdown inte fungerade i vissa situationer."
+    "devnote": "7.9.4\n\nFixade ett problem där alternativet Auto-Shutdown inte fungerade i vissa situationer."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.9.3\n\nSe solucionó un problema en el que la opción de ajuste automático no funcionaba en ciertas situaciones."
+    "devnote": "7.9.4\n\nSe solucionó un problema en el que la opción de ajuste automático no funcionaba en ciertas situaciones."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.9.3\n\nOpravený problém, v ktorom možnosť automatického zaostávania nefungovala v určitých situáciách."
+    "devnote": "7.9.4\n\nOpravený problém, v ktorom možnosť automatického zaostávania nefungovala v určitých situáciách."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.9.3\n\nOdpravila je težavo, pri kateri možnost samodejnega odmika v določenih situacijah ni delovala."
+    "devnote": "7.9.4\n\nOdpravila je težavo, pri kateri možnost samodejnega odmika v določenih situacijah ni delovala."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.9.3\n\nස්වයංක්රීයව වසා දැමීමේ විකල්පය සමහර අවස්ථාවල වැඩ නොකළ ගැටළුවක් විසඳා ඇත."
+    "devnote": "7.9.4\n\nස්වයංක්රීයව වසා දැමීමේ විකල්පය සමහර අවස්ථාවල වැඩ නොකළ ගැටළුවක් විසඳා ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.9.3\n\nتم إصلاح مشكلة حيث لم ينجح خيار التقاط التلقائي في مواقف معينة."
+    "devnote": "7.9.4\n\nتم إصلاح مشكلة حيث لم ينجح خيار التقاط التلقائي في مواقف معينة."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.9.3\n\nՀաստատեց մի հարց, որտեղ ավտոմատ անջատման տարբերակը չի աշխատել որոշակի իրավիճակներում:"
+    "devnote": "7.9.4\n\nՀաստատեց մի հարց, որտեղ ավտոմատ անջատման տարբերակը չի աշխատել որոշակի իրավիճակներում:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.9.3\n\nLagaði mál þar sem valkosturinn sjálfvirkur slökkt virkaði ekki við ákveðnar aðstæður."
+    "devnote": "7.9.4\n\nLagaði mál þar sem valkosturinn sjálfvirkur slökkt virkaði ekki við ákveðnar aðstæður."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.9.3\n\nAvtomatik bağlama seçiminin müəyyən hallarda işləmədiyi bir problemi həll etdi."
+    "devnote": "7.9.4\n\nAvtomatik bağlama seçiminin müəyyən hallarda işləmədiyi bir problemi həll etdi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.9.3\n\n'N probleem opgelos waar die outo-shutdown-opsie nie in sekere situasies gewerk het nie."
+    "devnote": "7.9.4\n\n'N probleem opgelos waar die outo-shutdown-opsie nie in sekere situasies gewerk het nie."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.9.3\n\nFiksoi një çështje ku opsioni automatik-shutdown nuk funksionoi në situata të caktuara."
+    "devnote": "7.9.4\n\nFiksoi një çështje ku opsioni automatik-shutdown nuk funksionoi në situata të caktuara."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.9.3\n\nበራስ-ተዘጋጅቶሩ አማራጭ በተወሰኑ ሁኔታዎች ውስጥ የማይሠራበት ጉዳይ ተጠግኗል."
+    "devnote": "7.9.4\n\nበራስ-ተዘጋጅቶሩ አማራጭ በተወሰኑ ሁኔታዎች ውስጥ የማይሠራበት ጉዳይ ተጠግኗል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.9.3\n\nParandatud probleem, kus automaatne-shutdown variant ei töötanud teatud olukordades."
+    "devnote": "7.9.4\n\nParandatud probleem, kus automaatne-shutdown variant ei töötanud teatud olukordades."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.9.3\n\nایک ایسا مسئلہ طے کیا جہاں آٹو شٹ ڈاؤن آپشن کچھ مخصوص حالات میں کام نہیں کرتا تھا۔"
+    "devnote": "7.9.4\n\nایک ایسا مسئلہ طے کیا جہاں آٹو شٹ ڈاؤن آپشن کچھ مخصوص حالات میں کام نہیں کرتا تھا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.9.3\n\nВиправлена ​​проблема, коли параметр Auto-Shutdown не працював у певних ситуаціях."
+    "devnote": "7.9.4\n\nВиправлена ​​проблема, коли параметр Auto-Shutdown не працював у певних ситуаціях."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.9.3\n\nRisolto un problema in cui l'opzione auto-shutdown non funzionava in determinate situazioni."
+    "devnote": "7.9.4\n\nRisolto un problema in cui l'opzione auto-shutdown non funzionava in determinate situazioni."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.9.3\n\nMemperbaiki masalah di mana opsi shutdown otomatis tidak berfungsi dalam situasi tertentu."
+    "devnote": "7.9.4\n\nMemperbaiki masalah di mana opsi shutdown otomatis tidak berfungsi dalam situasi tertentu."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.9.3\n\n特定の状況では自動シャットダウンオプションが機能しなかった問題を修正しました。"
+    "devnote": "7.9.4\n\n特定の状況では自動シャットダウンオプションが機能しなかった問題を修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.9.3\n\nდაფიქსირდა საკითხი, სადაც ავტო-შოვნა, არ მუშაობდა გარკვეულ სიტუაციებში."
+    "devnote": "7.9.4\n\nდაფიქსირდა საკითხი, სადაც ავტო-შოვნა, არ მუშაობდა გარკვეულ სიტუაციებში."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.9.3\n\nKulungiswe inkinga lapho inketho ye-auto Shutdown ayisebenzanga ezimweni ezithile."
+    "devnote": "7.9.4\n\nKulungiswe inkinga lapho inketho ye-auto Shutdown ayisebenzanga ezimweni ezithile."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.9.3\n\n修复了一个问题，即在某些情况下自动划分选项不起作用。"
+    "devnote": "7.9.4\n\n修复了一个问题，即在某些情况下自动划分选项不起作用。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.9.3\n\n修復了一個問題，即在某些情況下自動劃分選項不起作用。"
+    "devnote": "7.9.4\n\n修復了一個問題，即在某些情況下自動劃分選項不起作用。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.9.3\n\n修復了一個問題，即在某些情況下自動劃分選項不起作用。"
+    "devnote": "7.9.4\n\n修復了一個問題，即在某些情況下自動劃分選項不起作用。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.9.3\n\nOpraven problém, kdy možnost automatického zařazení nefungovala v určitých situacích."
+    "devnote": "7.9.4\n\nOpraven problém, kdy možnost automatického zařazení nefungovala v určitých situacích."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.9.3\n\nАвтоматты түрде өшіру опциясы белгілі бір жағдайларда жұмыс істемейтін мәселе шешілді."
+    "devnote": "7.9.4\n\nАвтоматты түрде өшіру опциясы белгілі бір жағдайларда жұмыс істемейтін мәселе шешілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.9.3\n\nS'ha corregit un problema en què l'opció de desnivell automàtic no funcionava en determinades situacions."
+    "devnote": "7.9.4\n\nS'ha corregit un problema en què l'opció de desnivell automàtic no funcionava en determinades situacions."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.9.3\n\nಕೆಲವು ಸಂದರ್ಭಗಳಲ್ಲಿ ಸ್ವಯಂ-ಶಟ್ಡೌನ್ ಆಯ್ಕೆಯು ಕಾರ್ಯನಿರ್ವಹಿಸದ ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "7.9.4\n\nಕೆಲವು ಸಂದರ್ಭಗಳಲ್ಲಿ ಸ್ವಯಂ-ಶಟ್ಡೌನ್ ಆಯ್ಕೆಯು ಕಾರ್ಯನಿರ್ವಹಿಸದ ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.9.3\n\nPopravljen je problem u kojem opcija automatskog propadanja nije djelovala u određenim situacijama."
+    "devnote": "7.9.4\n\nPopravljen je problem u kojem opcija automatskog propadanja nije djelovala u određenim situacijama."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.9.3\n\nដោះស្រាយបញ្ហាមួយដែលជម្រើសបិទដោយស្វ័យប្រវត្តិមិនបានដំណើរការក្នុងស្ថានភាពជាក់លាក់។"
+    "devnote": "7.9.4\n\nដោះស្រាយបញ្ហាមួយដែលជម្រើសបិទដោយស្វ័យប្រវត្តិមិនបានដំណើរការក្នុងស្ថានភាពជាក់លាក់។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.9.3\n\nАвтоматтык түрдө бир жагдайларда авто-өчүрүлгөн опция иштебей турган маселени чечти."
+    "devnote": "7.9.4\n\nАвтоматтык түрдө бир жагдайларда авто-өчүрүлгөн опция иштебей турган маселени чечти."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.9.3\n\nசில சூழ்நிலைகளில் ஆட்டோ-ஷட்டவுன் விருப்பம் செயல்படாத ஒரு சிக்கல் சரி செய்யப்பட்டது."
+    "devnote": "7.9.4\n\nசில சூழ்நிலைகளில் ஆட்டோ-ஷட்டவுன் விருப்பம் செயல்படாத ஒரு சிக்கல் சரி செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.9.3\n\nแก้ไขปัญหาที่ตัวเลือกการตัดอัตโนมัติไม่ทำงานในบางสถานการณ์"
+    "devnote": "7.9.4\n\nแก้ไขปัญหาที่ตัวเลือกการตัดอัตโนมัติไม่ทำงานในบางสถานการณ์"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.9.3\n\nOtomatik Shutdown seçeneğinin belirli durumlarda çalışmadığı bir sorun düzeltildi."
+    "devnote": "7.9.4\n\nOtomatik Shutdown seçeneğinin belirli durumlarda çalışmadığı bir sorun düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.9.3\n\nకొన్ని సందర్భాల్లో ఆటో-షట్డౌన్ ఎంపిక పని చేయని సమస్య పరిష్కరించబడింది."
+    "devnote": "7.9.4\n\nకొన్ని సందర్భాల్లో ఆటో-షట్డౌన్ ఎంపిక పని చేయని సమస్య పరిష్కరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.9.3\n\nਇੱਕ ਮੁੱਦਾ ਹੱਲ ਕੀਤਾ ਜਿੱਥੇ ਆਟੋ-ਸ਼ਾਟਡਾਉਨ ਵਿਕਲਪ ਕੁਝ ਸਥਿਤੀਆਂ ਵਿੱਚ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਸੀ."
+    "devnote": "7.9.4\n\nਇੱਕ ਮੁੱਦਾ ਹੱਲ ਕੀਤਾ ਜਿੱਥੇ ਆਟੋ-ਸ਼ਾਟਡਾਉਨ ਵਿਕਲਪ ਕੁਝ ਸਥਿਤੀਆਂ ਵਿੱਚ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਸੀ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.9.3\n\nمسئله ای را برطرف کرد که در آن گزینه خودکار شات در موقعیت های خاصی کار نکرد."
+    "devnote": "7.9.4\n\nمسئله ای را برطرف کرد که در آن گزینه خودکار شات در موقعیت های خاصی کار نکرد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.9.3\n\nCorrigido um problema em que a opção de retirada automática não funcionou em determinadas situações."
+    "devnote": "7.9.4\n\nCorrigido um problema em que a opção de retirada automática não funcionou em determinadas situações."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.9.3\n\nNaprawiono problem, w którym opcja automatycznego shipdown nie działała w niektórych sytuacjach."
+    "devnote": "7.9.4\n\nNaprawiono problem, w którym opcja automatycznego shipdown nie działała w niektórych sytuacjach."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.9.3\n\nCorrection d'un problème où l'option de shutdown automatique n'a pas fonctionné dans certaines situations."
+    "devnote": "7.9.4\n\nCorrection d'un problème où l'option de shutdown automatique n'a pas fonctionné dans certaines situations."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.9.3\n\nKorjattu ongelma, jossa automaattinen shutdown-vaihtoehto ei toiminut tietyissä tilanteissa."
+    "devnote": "7.9.4\n\nKorjattu ongelma, jossa automaattinen shutdown-vaihtoehto ei toiminut tietyissä tilanteissa."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.9.3\n\nNaayos ang isang isyu kung saan ang pagpipilian ng auto-shutdown ay hindi gumana sa ilang mga sitwasyon."
+    "devnote": "7.9.4\n\nNaayos ang isang isyu kung saan ang pagpipilian ng auto-shutdown ay hindi gumana sa ilang mga sitwasyon."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.9.3\n\nJavítva egy olyan problémát, amelyben az automatikus leállítási opció nem működött bizonyos helyzetekben."
+    "devnote": "7.9.4\n\nJavítva egy olyan problémát, amelyben az automatikus leállítási opció nem működött bizonyos helyzetekben."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.9.3\n\nתיקן בעיה בה האופציה האוטומטית לא עבדה במצבים מסוימים."
+    "devnote": "7.9.4\n\nתיקן בעיה בה האופציה האוטומטית לא עבדה במצבים מסוימים."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.9.3\n\nएक मुद्दा फिक्स्ड जहां ऑटो-शटडाउन विकल्प कुछ स्थितियों में काम नहीं करता था।"
+    "devnote": "7.9.4\n\nएक मुद्दा फिक्स्ड जहां ऑटो-शटडाउन विकल्प कुछ स्थितियों में काम नहीं करता था।"
   }
 }

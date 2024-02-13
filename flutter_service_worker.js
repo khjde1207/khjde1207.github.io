@@ -5,8 +5,8 @@ const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"flutter.js": "7d69e653079438abfbb24b82a655b0a4",
 "adview.html": "f45f548e065f81a742e03074eecc1436",
-"index.html": "826d6f8b623a31fcf351ea3414e6c6bf",
-"/": "826d6f8b623a31fcf351ea3414e6c6bf",
+"index.html": "c95080434149b9c4db18d7646a0e0a24",
+"/": "c95080434149b9c4db18d7646a0e0a24",
 "manifest.json": "9b4fc0cd14afa4665ed649bd618c5ce7",
 "splash/style.css": "78eb41694f0471d01d193d193496f4c8",
 "splash/splash.js": "123c400b58bea74c1305ca3ac966748d",
@@ -62,7 +62,7 @@ const RESOURCES = {"flutter.js": "7d69e653079438abfbb24b82a655b0a4",
 "assets/assets/opera-icon.png": "90af9736504bce2c6d211a764ea153d9",
 "assets/AssetManifest.bin.json": "fbc1cc785559fcb63e2e2aa38050a4b2",
 "assets/NOTICES": "11324940a0910b7f84730e0bc33cfddb",
-"main.dart.js": "9f812e983bd24fa410037d3c5f403c36",
+"main.dart.js": "4893b5a4c618d085a1606a5034f622fc",
 "canvaskit/canvaskit.wasm": "73584c1a3367e3eaf757647a8f5c5989",
 "canvaskit/skwasm.wasm": "2fc47c0a0c3c7af8542b601634fe9674",
 "canvaskit/skwasm.js": "87063acf45c5e1ab9565dcf06b0c18b8",
@@ -80,7 +80,7 @@ const RESOURCES = {"flutter.js": "7d69e653079438abfbb24b82a655b0a4",
 "icons/favicon.ico": "29a6ee4612f53daba252c8db073d6403",
 "icons/icon-192.png": "018d0887ee5b02426199d40cafb94c36",
 "sql-wasm.wasm": "51739179fd57f102da5297192df613e7",
-"version.json": "247073e7675f87142d399d8c363f8df8"};
+"version.json": "12d4ea0fbb3221aff9195dfb34f8f5fd"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
