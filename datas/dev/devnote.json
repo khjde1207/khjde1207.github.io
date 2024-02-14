@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.9.4\n\nFixed an issue where the auto-shutdown option did not work in certain situations."
+    "devnote": "7.9.5\n\nFixed a bug where text could not be selected in two-page view."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.9.4\n\n자동 종료 옵션이 특정 상황에서 작동 안하던 문제를 수정 하였습니다."
+    "devnote": "7.9.5\n\n두페이지 보기 상태에서 텍스트 선택이 안되던 버그를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.9.4\n\nResolveuse un problema onde a opción de auto-shutdown non funcionou en certas situacións."
+    "devnote": "7.9.5\n\nCorrixido un erro onde non se puido seleccionar o texto en vista de dúas páxinas."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.9.4\n\nએક મુદ્દો ઉકેલાઈ ગયો જ્યાં અમુક પરિસ્થિતિઓમાં auto ટો-શટડાઉન વિકલ્પ કામ કરતું નથી."
+    "devnote": "7.9.5\n\nભૂલને સ્થિર કરો જ્યાં બે-પૃષ્ઠ દૃશ્યમાં ટેક્સ્ટની પસંદગી કરી શકાતી નથી."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.9.4\n\nΔιορθώθηκε ένα ζήτημα όπου η επιλογή αυτόματου τροχού δεν λειτούργησε σε ορισμένες καταστάσεις."
+    "devnote": "7.9.5\n\nΔιορθώθηκε ένα σφάλμα όπου το κείμενο δεν μπορούσε να επιλεγεί σε προβολή δύο σελίδων."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.9.4\n\nEen probleem opgelost waarbij de optie Auto-Shutdown niet in bepaalde situaties werkte."
+    "devnote": "7.9.5\n\nEen bug opgelost waarbij tekst niet kon worden geselecteerd in de weergave van twee pagina's."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "9.9..4\n\nएक मुद्दा स्थिर भयो जहाँ स्वत: बन्दल विकल्पले केहि परिस्थितिहरूमा काम गरेन।"
+    "devnote": "9.9 ..5\n\nएक बग तय गरिएको छ जहाँ पाठ दुई पृष्ठ दृश्यमा चयन गर्न सकिएन।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.9.4\n\nRettet et problem der alternativet for auto-shutdown ikke fungerte i visse situasjoner."
+    "devnote": "7.9.5\n\nFikset en feil der tekst ikke kunne velges i to-siders visning."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.9.4\n\nRettet et problem, hvor indstillingen Auto-Shutdown ikke fungerede i visse situationer."
+    "devnote": "7.9.5\n\nRettet en fejl, hvor tekst ikke kunne vælges i visning på to sider."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.9.4\n\nEs wurde ein Problem behoben, bei dem die Option Auto-Shutdown-Option in bestimmten Situationen nicht funktioniert hat."
+    "devnote": "7.9.5\n\nEin Fehler behoben, bei dem Text nicht in zweiseitiger Ansicht ausgewählt werden konnte."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.9.4\n\nແກ້ໄຂບັນຫາບ່ອນທີ່ຕົວເລືອກການປິດອັດຕະໂນມັດໂດຍອັດຕະໂນມັດບໍ່ໄດ້ເຮັດວຽກໃນບາງສະຖານະການ."
+    "devnote": "7.9.5\n\nແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ຂໍ້ຄວາມບໍ່ສາມາດເລືອກໄດ້ໃນສອງຫນ້າມຸມມອງ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.9.4\n\nNovērsta problēma, kurā automātiskās noņemšanas iespēja nedarbojās noteiktās situācijās."
+    "devnote": "7.9.5\n\nNovērsta kļūda, kurā tekstu nevarēja atlasīt divu lappušu skatā."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.9.4\n\nИсправлена ​​проблема, в которой опция автоматической смены не работала в определенных ситуациях."
+    "devnote": "7.9.5\n\nИсправлена ​​ошибка, в которой текст не может быть выбран в двухстраничном представлении."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.9.4\n\nS-a rezolvat o problemă în care opțiunea auto-shutdown nu a funcționat în anumite situații."
+    "devnote": "7.9.5\n\nS-a rezolvat o eroare în care textul nu a putut fi selectat în vizualizarea de două pagini."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.9.4\n\nIštaisyta problema, kai automatinio stumimo parinktis tam tikrose situacijose neveikė."
+    "devnote": "7.9.5\n\nIštaisyta klaida, kur teksto nepavyko pasirinkti dviejų puslapių rodinyje."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.9.4\n\nविशिष्ट परिस्थितीत स्वयं-शटडाउन पर्याय कार्य करत नसलेल्या समस्येचे निराकरण केले."
+    "devnote": "7.9.5\n\nदोन पृष्ठांच्या दृश्यात मजकूर निवडला जाऊ शकत नाही अशा बगला निश्चित केले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.9.4\n\nПоправи проблем кога опцијата за автоматско прекинување не работеше во одредени ситуации."
+    "devnote": "7.9.5\n\nПоправи грешка каде што текстот не може да се избере во преглед на две страници."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.9.4\n\nചില സാഹചര്യങ്ങളിൽ യാന്ത്രിക-ഷട്ട്ഡൗൺ ഓപ്ഷൻ പ്രവർത്തിക്കാത്ത ഒരു പ്രശ്നം പരിഹരിച്ചു."
+    "devnote": "7.9.5\n\nരണ്ട് പേജസ് കാഴ്ചയിൽ വാചകം തിരഞ്ഞെടുക്കാൻ കഴിയാത്ത ഒരു ബഗ് പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.9.4\n\nMemperbaiki masalah di mana pilihan auto-shutdown tidak berfungsi dalam situasi tertentu."
+    "devnote": "7.9.5\n\nTetapkan pepijat di mana teks tidak dapat dipilih dalam paparan dua halaman."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.9.4.4.4\n\nАвтоматаар унтрах сонголт нь тодорхой нөхцөл байдалд ажиллахгүй байгаа асуудлыг зассан."
+    "devnote": "7.9.5\n\nТекстийг хоёр хуудас харахад сонгоогүй алдааг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.9.4\n\nArazo bat konpondu da auto-itzaltze aukera egoeratan funtzionatzen ez zuenik."
+    "devnote": "7.9.5\n\nBuga konpondu da testua bi orrialdeko ikuspegian hautatu ezin denean."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.9.4\n\nအချို့သောအခြေအနေများတွင် Auto-Shutdown Option သည်အလုပ်မလုပ်သည့်ကိစ္စတစ်ခုကိုဖြေရှင်းခဲ့သည်။"
+    "devnote": "7.9.5\n\nစာမျက်နှာနှစ်မျက်နှာကြည့်ရှုခြင်းတွင်စာသားကိုမရွေးနိုင်သည့် bug တစ်ခု fixed ။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.9.4\n\nĐã khắc phục một vấn đề trong đó tùy chọn tự động giảm xuống không hoạt động trong một số tình huống nhất định."
+    "devnote": "7.9.5\n\nĐã sửa lỗi trong đó văn bản không thể được chọn trong chế độ xem hai trang."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.9.4\n\nВыпраўленая праблема, калі варыянт аўтаматычнага шума, не працаваў у пэўных сітуацыях."
+    "devnote": "7.9.5\n\nВыпраўлена памылка, у якой тэкст нельга было выбраць у выглядзе на дзве старонкі."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.9.4\n\nএকটি সমস্যা স্থির করে যেখানে অটো-শুটডাউন বিকল্পটি নির্দিষ্ট পরিস্থিতিতে কাজ করে না।"
+    "devnote": "7.9.5\n\nএকটি বাগ স্থির করে যেখানে দুটি পৃষ্ঠার দৃশ্যে পাঠ্য নির্বাচন করা যায় না।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.9.4\n\nФиксиран проблем, при който опцията за автоматично спиране не работи в определени ситуации."
+    "devnote": "7.9.5\n\nФиксирана грешка, при която текст не може да бъде избран в изглед на две страници."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.9.4\n\nПоправљено је питање где опција аутоматског искључивања није радила у одређеним ситуацијама."
+    "devnote": "7.9.5\n\nПоправљена је грешка у којој се текст није могао одабрати у приказу са две странице."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.9.4\n\nZisizohamishika suala ambalo chaguo la auto-shutdown haikufanya kazi katika hali fulani."
+    "devnote": "7.9.5\n\nZisizohamishika mdudu ambapo maandishi hayakuweza kuchaguliwa katika mtazamo wa kurasa mbili."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.9.4\n\nFixade ett problem där alternativet Auto-Shutdown inte fungerade i vissa situationer."
+    "devnote": "7.9.5\n\nFixade ett fel där text inte kunde väljas i tvåsidig vy."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.9.4\n\nSe solucionó un problema en el que la opción de ajuste automático no funcionaba en ciertas situaciones."
+    "devnote": "7.9.5\n\nSe corrigió un error donde el texto no podía seleccionarse en la vista de dos páginas."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.9.4\n\nOpravený problém, v ktorom možnosť automatického zaostávania nefungovala v určitých situáciách."
+    "devnote": "7.9.5\n\nOpravená chyba, kde nebolo možné zvoliť text v dvojstránkovom zobrazení."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.9.4\n\nOdpravila je težavo, pri kateri možnost samodejnega odmika v določenih situacijah ni delovala."
+    "devnote": "7.9.5\n\nOdpravljen napak, pri kateri besedila ni bilo mogoče izbrati v pogledu na dve strani."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.9.4\n\nස්වයංක්රීයව වසා දැමීමේ විකල්පය සමහර අවස්ථාවල වැඩ නොකළ ගැටළුවක් විසඳා ඇත."
+    "devnote": "7.9.5\n\nපිටු දෙකක දර්ශනයකින් පෙළ තෝරා ගත නොහැකි දෝෂයක් සවි කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.9.4\n\nتم إصلاح مشكلة حيث لم ينجح خيار التقاط التلقائي في مواقف معينة."
+    "devnote": "7.9.5\n\nتم إصلاح الخلل حيث لا يمكن تحديد النص في عرض من صفحتين."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.9.4\n\nՀաստատեց մի հարց, որտեղ ավտոմատ անջատման տարբերակը չի աշխատել որոշակի իրավիճակներում:"
+    "devnote": "7.9.5\n\nFix նջեց մի սխալ, որտեղ տեքստը հնարավոր չէ ընտրել երկու էջանոց դիտում:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.9.4\n\nLagaði mál þar sem valkosturinn sjálfvirkur slökkt virkaði ekki við ákveðnar aðstæður."
+    "devnote": "7.9.5\n\nLagaði villu þar sem ekki var hægt að velja texta í tveggja blaðsíðna sýn."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.9.4\n\nAvtomatik bağlama seçiminin müəyyən hallarda işləmədiyi bir problemi həll etdi."
+    "devnote": "7.9.5\n\nMətnin iki səhifəlik görünüşdə seçildiyi bir səhv düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.9.4\n\n'N probleem opgelos waar die outo-shutdown-opsie nie in sekere situasies gewerk het nie."
+    "devnote": "7.9.5\n\n'N fout reggestel waar teks nie in twee-bladsy-aansig gekies kon word nie."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.9.4\n\nFiksoi një çështje ku opsioni automatik-shutdown nuk funksionoi në situata të caktuara."
+    "devnote": "7.9.5\n\nFiksuar një gabim ku teksti nuk mund të zgjidhej në pamje me dy faqe."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.9.4\n\nበራስ-ተዘጋጅቶሩ አማራጭ በተወሰኑ ሁኔታዎች ውስጥ የማይሠራበት ጉዳይ ተጠግኗል."
+    "devnote": "7.9.5\n\nጽሑፍ በሁለት ገጽ እይታ ውስጥ ሊመረጥ የማይችል ሳንካ ተጠግኗል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.9.4\n\nParandatud probleem, kus automaatne-shutdown variant ei töötanud teatud olukordades."
+    "devnote": "7.9.5\n\nParandatud viga, kus teksti ei saanud kaheleheküljelise vaatega valida."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.9.4\n\nایک ایسا مسئلہ طے کیا جہاں آٹو شٹ ڈاؤن آپشن کچھ مخصوص حالات میں کام نہیں کرتا تھا۔"
+    "devnote": "7.9.5\n\nایک بگ طے کیا جہاں متن کو دو صفحات پر مشتمل نظریہ میں منتخب نہیں کیا جاسکا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.9.4\n\nВиправлена ​​проблема, коли параметр Auto-Shutdown не працював у певних ситуаціях."
+    "devnote": "7.9.5\n\nВиправлена ​​помилка, де текст не можна було вибрати в поданні на дві сторінки."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.9.4\n\nRisolto un problema in cui l'opzione auto-shutdown non funzionava in determinate situazioni."
+    "devnote": "7.9.5\n\nRisolto un bug in cui il testo non poteva essere selezionato in vista di due pagine."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.9.4\n\nMemperbaiki masalah di mana opsi shutdown otomatis tidak berfungsi dalam situasi tertentu."
+    "devnote": "7.9.5\n\nMemperbaiki bug di mana teks tidak dapat dipilih dalam tampilan dua halaman."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.9.4\n\n特定の状況では自動シャットダウンオプションが機能しなかった問題を修正しました。"
+    "devnote": "7.9.5\n\n2ページのビューでテキストを選択できなかったバグを修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.9.4\n\nდაფიქსირდა საკითხი, სადაც ავტო-შოვნა, არ მუშაობდა გარკვეულ სიტუაციებში."
+    "devnote": "7.9.5\n\nდააფიქსირა შეცდომა, სადაც ტექსტი ვერ შეირჩევა ორგვერდიან ხედში."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.9.4\n\nKulungiswe inkinga lapho inketho ye-auto Shutdown ayisebenzanga ezimweni ezithile."
+    "devnote": "7.9.5\n\nKulungiswe isiphazamisi lapho umbhalo ungakhethwa khona ekubukeni kwamakhasi amabili."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.9.4\n\n修复了一个问题，即在某些情况下自动划分选项不起作用。"
+    "devnote": "7.9.5\n\n修复了无法在两页视图中选择文本的错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.9.4\n\n修復了一個問題，即在某些情況下自動劃分選項不起作用。"
+    "devnote": "7.9.5\n\n修復了無法在兩頁視圖中選擇文本的錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.9.4\n\n修復了一個問題，即在某些情況下自動劃分選項不起作用。"
+    "devnote": "7.9.5\n\n修復了無法在兩頁視圖中選擇文本的錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.9.4\n\nOpraven problém, kdy možnost automatického zařazení nefungovala v určitých situacích."
+    "devnote": "7.9.5\n\nOpravena chyba, kde text nemohl být vybrán ve dvoustránkovém zobrazení."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.9.4\n\nАвтоматты түрде өшіру опциясы белгілі бір жағдайларда жұмыс істемейтін мәселе шешілді."
+    "devnote": "7.9.5\n\nМәтінді екі беттен тұратын көріністе таңдау мүмкін емес."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.9.4\n\nS'ha corregit un problema en què l'opció de desnivell automàtic no funcionava en determinades situacions."
+    "devnote": "7.9.5\n\nS'ha corregit un error on no s'ha pogut seleccionar el text a la vista de dues pàgines."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.9.4\n\nಕೆಲವು ಸಂದರ್ಭಗಳಲ್ಲಿ ಸ್ವಯಂ-ಶಟ್ಡೌನ್ ಆಯ್ಕೆಯು ಕಾರ್ಯನಿರ್ವಹಿಸದ ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "7.9.5\n\nಎರಡು ಪುಟಗಳ ವೀಕ್ಷಣೆಯಲ್ಲಿ ಪಠ್ಯವನ್ನು ಆಯ್ಕೆ ಮಾಡಲಾಗದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.9.4\n\nPopravljen je problem u kojem opcija automatskog propadanja nije djelovala u određenim situacijama."
+    "devnote": "7.9.5\n\nIspravljen je greška u kojoj se tekst ne može odabrati u prikazu na dvije stranice."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.9.4\n\nដោះស្រាយបញ្ហាមួយដែលជម្រើសបិទដោយស្វ័យប្រវត្តិមិនបានដំណើរការក្នុងស្ថានភាពជាក់លាក់។"
+    "devnote": "7.9.5\n\nជួសជុលកំហុសដែលអត្ថបទមិនអាចត្រូវបានជ្រើសរើសក្នុងទិដ្ឋភាពពីរទំព័រ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.9.4\n\nАвтоматтык түрдө бир жагдайларда авто-өчүрүлгөн опция иштебей турган маселени чечти."
+    "devnote": "7.9.5\n\nТексттин эки беттеги көрүнүштү тандалбай турган мүчүлүштүктү оңдолду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.9.4\n\nசில சூழ்நிலைகளில் ஆட்டோ-ஷட்டவுன் விருப்பம் செயல்படாத ஒரு சிக்கல் சரி செய்யப்பட்டது."
+    "devnote": "7.9.5\n\nஇரண்டு பக்க பார்வையில் உரையைத் தேர்ந்தெடுக்க முடியாத ஒரு பிழை சரி செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.9.4\n\nแก้ไขปัญหาที่ตัวเลือกการตัดอัตโนมัติไม่ทำงานในบางสถานการณ์"
+    "devnote": "7.9.5\n\nแก้ไขข้อผิดพลาดที่ไม่สามารถเลือกข้อความในมุมมองสองหน้า"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.9.4\n\nOtomatik Shutdown seçeneğinin belirli durumlarda çalışmadığı bir sorun düzeltildi."
+    "devnote": "7.9.5\n\nMetnin iki sayfalık görünümde seçilemediği bir hata düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.9.4\n\nకొన్ని సందర్భాల్లో ఆటో-షట్డౌన్ ఎంపిక పని చేయని సమస్య పరిష్కరించబడింది."
+    "devnote": "7.9.5\n\nరెండు పేజీల వీక్షణలో వచనాన్ని ఎంచుకోలేని బగ్ పరిష్కరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.9.4\n\nਇੱਕ ਮੁੱਦਾ ਹੱਲ ਕੀਤਾ ਜਿੱਥੇ ਆਟੋ-ਸ਼ਾਟਡਾਉਨ ਵਿਕਲਪ ਕੁਝ ਸਥਿਤੀਆਂ ਵਿੱਚ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਸੀ."
+    "devnote": "7.9.5\n\nਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਜਿੱਥੇ ਟੈਕਸਟ ਦੋ ਪੰਨਿਆਂ ਦੇ ਦ੍ਰਿਸ਼ ਵਿੱਚ ਚੁਣਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.9.4\n\nمسئله ای را برطرف کرد که در آن گزینه خودکار شات در موقعیت های خاصی کار نکرد."
+    "devnote": "7.9.5\n\nرفع اشکالی که در آن نمی توان متن را در نمای دو صفحه انتخاب کرد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.9.4\n\nCorrigido um problema em que a opção de retirada automática não funcionou em determinadas situações."
+    "devnote": "7.9.5\n\nCorrigido um bug em que o texto não pôde ser selecionado na visualização de duas páginas."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.9.4\n\nNaprawiono problem, w którym opcja automatycznego shipdown nie działała w niektórych sytuacjach."
+    "devnote": "7.9.5\n\nNaprawiono błąd, w którym tekst nie można było wybrać w widoku dwustronicowym."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.9.4\n\nCorrection d'un problème où l'option de shutdown automatique n'a pas fonctionné dans certaines situations."
+    "devnote": "7.9.5\n\nCorrection d'un bug où le texte n'a pas pu être sélectionné dans une vue de deux pages."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.9.4\n\nKorjattu ongelma, jossa automaattinen shutdown-vaihtoehto ei toiminut tietyissä tilanteissa."
+    "devnote": "7.9.5\n\nKorjattu virhe, jossa tekstiä ei voitu valita kahden sivun näkymässä."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.9.4\n\nNaayos ang isang isyu kung saan ang pagpipilian ng auto-shutdown ay hindi gumana sa ilang mga sitwasyon."
+    "devnote": "7.9.5\n\nNaayos ang isang bug kung saan hindi mapili ang teksto sa dalawang pahina na view."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.9.4\n\nJavítva egy olyan problémát, amelyben az automatikus leállítási opció nem működött bizonyos helyzetekben."
+    "devnote": "7.9.5\n\nJavítva egy hibát, ahol a szöveget nem lehetett kiválasztani kétoldalas nézetben."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.9.4\n\nתיקן בעיה בה האופציה האוטומטית לא עבדה במצבים מסוימים."
+    "devnote": "7.9.5\n\nתוקן באג בו לא ניתן היה לבחור טקסט בתצוגה של שני עמודים."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.9.4\n\nएक मुद्दा फिक्स्ड जहां ऑटो-शटडाउन विकल्प कुछ स्थितियों में काम नहीं करता था।"
+    "devnote": "7.9.5\n\nएक बग फिक्स्ड जहां पाठ को दो-पृष्ठ के दृश्य में नहीं चुना जा सकता है।"
   }
 }
