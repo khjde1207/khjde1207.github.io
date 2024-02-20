@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.9.5\n\nFixed a bug where text could not be selected in two-page view."
+    "devnote": "7.9.6\n\n- Previous/next page buttons have been added to the document search function.\n- Added tag function.\n- When searching history, you can also search tag contents.\n- Fixed image OCR bug."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.9.5\n\n두페이지 보기 상태에서 텍스트 선택이 안되던 버그를 수정 하였습니다."
+    "devnote": "7.9.6\n\n- 문서 검색 기능 이전/다음 페이지 버튼을 추가 하였습니다.  \n- 태그 기능을 추가 하였습니다. \n- 히스토리 검색시 태그내용도 검색 할 수 있도록 하였습니다.\n- 이미지 OCR 버그를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.9.5\n\nCorrixido un erro onde non se puido seleccionar o texto en vista de dúas páxinas."
+    "devnote": "7.9.6\n\n- Engadiuse botóns anteriores/seguintes á función de busca de documentos.\n- Función de etiqueta engadida.\n- Ao buscar historial, tamén podes buscar contidos de etiquetas.\n- Bug OCR de imaxe fixa."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.9.5\n\nભૂલને સ્થિર કરો જ્યાં બે-પૃષ્ઠ દૃશ્યમાં ટેક્સ્ટની પસંદગી કરી શકાતી નથી."
+    "devnote": "7.9.6\n\n- પાછલા/આગલા પૃષ્ઠ બટનો દસ્તાવેજ શોધ કાર્યમાં ઉમેરવામાં આવ્યા છે.\n- ટ tag ગ ફંક્શન ઉમેર્યું.\n- ઇતિહાસની શોધ કરતી વખતે, તમે ટ tag ગ સમાવિષ્ટો પણ શોધી શકો છો.\n- સ્થિર છબી ઓસીઆર બગ."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.9.5\n\nΔιορθώθηκε ένα σφάλμα όπου το κείμενο δεν μπορούσε να επιλεγεί σε προβολή δύο σελίδων."
+    "devnote": "7.9.6\n\n- Τα κουμπιά προηγούμενης/επόμενης σελίδας έχουν προστεθεί στη λειτουργία αναζήτησης εγγράφων.\n- Προστέθηκε συνάρτηση ετικετών.\n- Κατά την αναζήτηση του ιστορικού, μπορείτε επίσης να αναζητήσετε περιεχόμενα ετικετών.\n- Σταθερό σφάλμα OCR εικόνας."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.9.5\n\nEen bug opgelost waarbij tekst niet kon worden geselecteerd in de weergave van twee pagina's."
+    "devnote": "7.9.6\n\n- Vorige/volgende pagina -knoppen zijn toegevoegd aan de documentzoekfunctie.\n- Tagfunctie toegevoegd.\n- Bij het zoeken naar geschiedenis kunt u ook de tag -inhoud zoeken.\n- Afbeelding OCR -bug opgelost."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "9.9 ..5\n\nएक बग तय गरिएको छ जहाँ पाठ दुई पृष्ठ दृश्यमा चयन गर्न सकिएन।"
+    "devnote": "9.9..6\n\n- अघिल्लो / अर्को पृष्ठ बटनहरू कागजात खोज प्रकार्यमा थपिएको छ।\n- ट्याग प्रकार्य थपियो।\n- जब इतिहासको खोजी गर्दै, तपाईं ट्याग सामग्रीहरू पनि खोजी गर्न सक्नुहुन्छ।\n- स्थिर छवि OCR बग।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.9.5\n\nFikset en feil der tekst ikke kunne velges i to-siders visning."
+    "devnote": "7.9.6\n\n- Tidligere/neste sideknapper er lagt til i dokumentsøkfunksjonen.\n- Lagt til tagfunksjon.\n- Når du søker i historien, kan du også søke i innholdet.\n- Fast bilde OCR -feil."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.9.5\n\nRettet en fejl, hvor tekst ikke kunne vælges i visning på to sider."
+    "devnote": "7.9.6\n\n- Forrige/næste side -knapper er føjet til dokumentsøgningsfunktionen.\n- Tilføjet tagfunktion.\n- Når du søger i historie, kan du også søge i tag -indhold.\n- Fast billede OCR Bug."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.9.5\n\nEin Fehler behoben, bei dem Text nicht in zweiseitiger Ansicht ausgewählt werden konnte."
+    "devnote": "7.9.6\n\n- Vorherige/nächste Seitenschaltflächen wurden der Dokumentsuchfunktion hinzugefügt.\n- Die Tag -Funktion hinzugefügt.\n- Beim Durchsuchen des Verlaufs können Sie auch Tag -Inhalte durchsuchen.\n- Image OCR -Fehler behoben."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.9.5\n\nແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ຂໍ້ຄວາມບໍ່ສາມາດເລືອກໄດ້ໃນສອງຫນ້າມຸມມອງ."
+    "devnote": "7.9.6\n\n- ປຸ່ມທີ່ຜ່ານມາ / ຕໍ່ໄປໄດ້ຖືກເພີ່ມເຂົ້າໃນຫນ້າທີ່ຄົ້ນຫາເອກະສານ.\n- ເພີ່ມຫນ້າທີ່ TAG.\n- ເມື່ອຄົ້ນຫາປະຫວັດສາດ, ທ່ານຍັງສາມາດຄົ້ນຫາເນື້ອໃນຂອງ tag.\n- ຂໍ້ບົກພ່ອງຂອງຮູບພາບຄົງທີ່ OCR."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.9.5\n\nNovērsta kļūda, kurā tekstu nevarēja atlasīt divu lappušu skatā."
+    "devnote": "7.9.6\n\n- Dokumenta meklēšanas funkcijai ir pievienotas iepriekšējās/nākamās lapas pogas.\n- pievienota tagu funkcija.\n- Meklējot vēsturi, varat arī meklēt tagu saturu.\n- Fiksēts attēla OCR kļūda."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.9.5\n\nИсправлена ​​ошибка, в которой текст не может быть выбран в двухстраничном представлении."
+    "devnote": "7.9.6\n\n- Кнопки предыдущей/следующей страницы были добавлены в функцию поиска документа.\n- Добавлена ​​функция тега.\n- При поиске истории вы также можете найти содержимое тегов.\n- Исправлена ​​ошибка изображения OCR."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.9.5\n\nS-a rezolvat o eroare în care textul nu a putut fi selectat în vizualizarea de două pagini."
+    "devnote": "7.9.6\n\n- Butoanele anterioare/următoarea pagină au fost adăugate la funcția de căutare a documentelor.\n- Adăugat funcție de etichetă.\n- Când căutați istoric, puteți căuta și conținut de etichete.\n- Imagine fixă ​​Bug OCR."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.9.5\n\nIštaisyta klaida, kur teksto nepavyko pasirinkti dviejų puslapių rodinyje."
+    "devnote": "7.9.6\n\n- Ankstesni/kito puslapio mygtukai buvo pridėti prie dokumentų paieškos funkcijos.\n- Pridėta žymos funkcija.\n- Ieškodami istorijos, taip pat galite ieškoti žymos turinio.\n- Fiksuotas vaizdas OCR klaida."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.9.5\n\nदोन पृष्ठांच्या दृश्यात मजकूर निवडला जाऊ शकत नाही अशा बगला निश्चित केले."
+    "devnote": "7.9.6\n\n- मागील/पुढील पृष्ठ बटणे दस्तऐवज शोध कार्यात जोडली गेली आहेत.\n- टॅग फंक्शन जोडले.\n- इतिहास शोधताना आपण टॅग सामग्री देखील शोधू शकता.\n- निश्चित प्रतिमा ओसीआर बग."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.9.5\n\nПоправи грешка каде што текстот не може да се избере во преглед на две страници."
+    "devnote": "7.9.6\n\n- Копчињата од претходната/следната страница се додадени во функцијата за пребарување на документи.\n- Додадена функција за ознака.\n- Кога пребарувате историја, можете да пребарувате и содржина на ознаката.\n- Фиксна слика OCR бубачка."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.9.5\n\nരണ്ട് പേജസ് കാഴ്ചയിൽ വാചകം തിരഞ്ഞെടുക്കാൻ കഴിയാത്ത ഒരു ബഗ് പരിഹരിച്ചു."
+    "devnote": "7.9.6\n\n- മുമ്പത്തെ / അടുത്ത പേജ് ബട്ടണുകൾ പ്രമാണ തിരയൽ പ്രവർത്തനത്തിലേക്ക് ചേർത്തു.\n- ടാഗ് ഫംഗ്ഷൻ ചേർത്തു.\n- ചരിത്രം തിരയുമ്പോൾ, നിങ്ങൾക്ക് ടാഗ് ഉള്ളടക്കങ്ങളും തിരയാൻ കഴിയും.\n- നിശ്ചിത ഇമേജ് ഒസിആർ ബഗ്."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.9.5\n\nTetapkan pepijat di mana teks tidak dapat dipilih dalam paparan dua halaman."
+    "devnote": "7.9.6\n\n- Butang halaman sebelumnya/seterusnya telah ditambah ke fungsi carian dokumen.\n- Ditambah fungsi tag.\n- Apabila mencari sejarah, anda juga boleh mencari kandungan tag.\n- Bug Imej Tetap OCR."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.9.5\n\nТекстийг хоёр хуудас харахад сонгоогүй алдааг зассан."
+    "devnote": "7.9.6\n\n- Өмнөх / Дараагийн хуудас товчлуурууд нь баримт бичгийн хайлтын функцэд нэмэгдсэн.\n- Шошгоны функц нэмсэн.\n- Түүх хайхдаа та шошго агуулгыг хайх боломжтой.\n- Тогтмол зураг OCR BUG."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.9.5\n\nBuga konpondu da testua bi orrialdeko ikuspegian hautatu ezin denean."
+    "devnote": "7.9.6\n\n- Aurreko / hurrengo orrialdearen botoiak dokumentu bilaketa funtzioan gehitu dira.\n- Etiketa funtzioa gehitu da.\n- Historia bilatzean, etiketa edukia ere egin dezakezu.\n- Irudi finkoa OCR akatsa."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.9.5\n\nစာမျက်နှာနှစ်မျက်နှာကြည့်ရှုခြင်းတွင်စာသားကိုမရွေးနိုင်သည့် bug တစ်ခု fixed ။"
+    "devnote": "7.9.6\n\n- ယခင် / လာမည့်စာမျက်နှာခလုတ်များကိုစာရွက်စာတမ်းရှာဖွေရေး function ကိုထည့်သွင်းထားသည်။\n- ကဆက်ပြောသည် tag function ကို။\n- သမိုင်းကိုရှာဖွေသည့်အခါ tag contents များကိုလည်းရှာဖွေနိုင်သည်။\n- ပုံသေ Image OCR bug ။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.9.5\n\nĐã sửa lỗi trong đó văn bản không thể được chọn trong chế độ xem hai trang."
+    "devnote": "7.9.6\n\n- Các nút trước/trang tiếp theo đã được thêm vào chức năng tìm kiếm tài liệu.\n- Đã thêm chức năng thẻ.\n- Khi tìm kiếm lịch sử, bạn cũng có thể tìm kiếm nội dung thẻ.\n- Đã sửa lỗi hình ảnh OCR."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.9.5\n\nВыпраўлена памылка, у якой тэкст нельга было выбраць у выглядзе на дзве старонкі."
+    "devnote": "7.9.6\n\n- Папярэднія/наступныя кнопкі старонкі былі дададзены ў функцыю пошуку дакумента.\n- Дададзеная функцыя тэгаў.\n- Пры пошуку гісторыі вы таксама можаце шукаць змесціва тэгаў.\n- Выпраўленае малюнак OCR."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.9.5\n\nএকটি বাগ স্থির করে যেখানে দুটি পৃষ্ঠার দৃশ্যে পাঠ্য নির্বাচন করা যায় না।"
+    "devnote": "7.9.6\n\n- পূর্ববর্তী/পরবর্তী পৃষ্ঠার বোতামগুলি ডকুমেন্ট অনুসন্ধান ফাংশনে যুক্ত করা হয়েছে।\n- যুক্ত ট্যাগ ফাংশন।\n- ইতিহাস অনুসন্ধান করার সময়, আপনি ট্যাগ সামগ্রীগুলিও অনুসন্ধান করতে পারেন।\n- স্থির চিত্র ওসিআর বাগ।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.9.5\n\nФиксирана грешка, при която текст не може да бъде избран в изглед на две страници."
+    "devnote": "7.9.6\n\n- Бутоните на предишните/следващата страница са добавени към функцията за търсене на документ.\n- Добавена функция на маркера.\n- Когато търсите история, можете също да търсите съдържание на етикети.\n- Фиксирано изображение OCR бъг."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.9.5\n\nПоправљена је грешка у којој се текст није могао одабрати у приказу са две странице."
+    "devnote": "7.9.6\n\n- Претходне / следеће тастере страница су додате у функцију претраживања докумената.\n- Додата функција ознака.\n- Када претражујете историју, такође можете да претражите садржај ознаке.\n- Фиксна слика ОЦР грешка."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.9.5\n\nZisizohamishika mdudu ambapo maandishi hayakuweza kuchaguliwa katika mtazamo wa kurasa mbili."
+    "devnote": "7.9.6\n\n- Vifungo vya ukurasa uliopita/vifuatavyo vimeongezwa kwenye kazi ya utaftaji wa hati.\n- Aliongeza kazi ya lebo.\n- Wakati wa kutafuta historia, unaweza pia kutafuta yaliyomo kwenye lebo.\n- Picha zisizohamishika za OCR."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.9.5\n\nFixade ett fel där text inte kunde väljas i tvåsidig vy."
+    "devnote": "7.9.6\n\n- Tidigare/nästa sidknappar har lagts till i dokumentets sökfunktion.\n- Tillagd taggfunktion.\n- När du söker på historien kan du också söka på tagginnehåll.\n- Fast bild OCR -fel."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.9.5\n\nSe corrigió un error donde el texto no podía seleccionarse en la vista de dos páginas."
+    "devnote": "7.9.6\n\n- Se han agregado botones de página anteriores/siguientes a la función de búsqueda de documentos.\n- Función de etiqueta agregada.\n- Al buscar en el historial, también puede buscar contenido de la etiqueta.\n- Se corrigió el error OCR de imagen."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.9.5\n\nOpravená chyba, kde nebolo možné zvoliť text v dvojstránkovom zobrazení."
+    "devnote": "7.9.6\n\n- Do funkcie vyhľadávania dokumentov boli pridané tlačidlá predchádzajúceho/nasledujúcej stránky.\n- pridaná funkcia značky.\n- Pri hľadaní histórie môžete tiež vyhľadať obsah značky.\n- Opravený obrázok OCR."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.9.5\n\nOdpravljen napak, pri kateri besedila ni bilo mogoče izbrati v pogledu na dve strani."
+    "devnote": "7.9.6\n\n- Prejšnji/naslednji gumbi strani so dodani v funkcijo iskanja dokumentov.\n- Dodana funkcija oznak.\n- Pri iskanju zgodovine lahko poiščete tudi vsebino oznak.\n- Potrjena slika OCR Bug."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.9.5\n\nපිටු දෙකක දර්ශනයකින් පෙළ තෝරා ගත නොහැකි දෝෂයක් සවි කර ඇත."
+    "devnote": "7.9.6\n\n- පෙර / ඊළඟ පිටු බොත්තම් ලේඛන සෙවුම් ශ්රිතයට එකතු කර ඇත.\n- එකතු කරන ලද ටැග් ශ්රිතය.\n- ඉතිහාසය සෙවීමේදී, ඔබට ටැග් අන්තර්ගතයන් සෙවිය හැකිය.\n- ස්ථාවර රූපයේ OCR දෝෂය."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.9.5\n\nتم إصلاح الخلل حيث لا يمكن تحديد النص في عرض من صفحتين."
+    "devnote": "7.9.6\n\n- تمت إضافة أزرار الصفحة السابقة/التالية إلى وظيفة بحث المستند.\n- إضافة وظيفة العلامة.\n- عند البحث في التاريخ ، يمكنك أيضًا البحث عن محتويات العلامات.\n- صورة ثابتة الصورة OCR."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.9.5\n\nFix նջեց մի սխալ, որտեղ տեքստը հնարավոր չէ ընտրել երկու էջանոց դիտում:"
+    "devnote": "7.9.6\n\n- Նախորդ / Հաջորդ էջի կոճակները ավելացվել են փաստաթղթերի որոնման գործառույթին:\n- Ավելացված է պիտակի գործառույթը:\n- Պատմություն որոնելիս կարող եք նաեւ որոնել պիտակների բովանդակություն:\n- ֆիքսված պատկեր OCR Bug."
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.9.5\n\nLagaði villu þar sem ekki var hægt að velja texta í tveggja blaðsíðna sýn."
+    "devnote": "7.9.6\n\n- Fyrri/næstu hnappar hafa verið bætt við skjalaleitaraðgerðina.\n- Bætt við merkisaðgerð.\n- Þegar þú leitar sögu geturðu líka leitað innihald.\n- Fast mynd OCR galla."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.9.5\n\nMətnin iki səhifəlik görünüşdə seçildiyi bir səhv düzəldildi."
+    "devnote": "7.9.6\n\n- Əvvəlki / Növbəti səhifə düymələri sənəd axtarış funksiyasına əlavə edildi.\n- Etiket funksiyası əlavə edildi.\n- Tarixi axtararkən, etiket məzmununu da axtara bilərsiniz.\n- Sabit Image OCR Bug."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.9.5\n\n'N fout reggestel waar teks nie in twee-bladsy-aansig gekies kon word nie."
+    "devnote": "7.9.6\n\n- Vorige/volgende bladsy -knoppies is by die dokument -soekfunksie gevoeg.\n- Tagfunksie bygevoeg.\n- As u die geskiedenis deursoek, kan u ook die inhoud van die etiket deursoek.\n- Vaste beeld OCR -fout."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.9.5\n\nFiksuar një gabim ku teksti nuk mund të zgjidhej në pamje me dy faqe."
+    "devnote": "7.9.6\n\n- Butonat e mëparshëm/të faqes tjetër janë shtuar në funksionin e kërkimit të dokumentit.\n- Funksioni i shtuar i etiketave.\n- Kur kërkoni histori, mund të kërkoni edhe përmbajtjen e etiketave.\n- Bug OCR i imazhit të fiksuar."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.9.5\n\nጽሑፍ በሁለት ገጽ እይታ ውስጥ ሊመረጥ የማይችል ሳንካ ተጠግኗል."
+    "devnote": "7.9.6\n\n- የቀደመ / ቀጣይ ገጽ ቁልፎች በሰነድ ፍለጋ ተግባሩ ውስጥ ታክለዋል.\n- የታከለው የመታወቂያ ተግባር.\n- ታሪክን ለመፈለግ, የመለያዎች ይዘቶችን መፈለግ ይችላሉ.\n- ቋሚ ምስል OCR ሳንካ."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.9.5\n\nParandatud viga, kus teksti ei saanud kaheleheküljelise vaatega valida."
+    "devnote": "7.9.6\n\n- Dokumendi otsingufunktsioonile on lisatud eelmised/järgmise lehe nupud.\n- lisatud sildifunktsioon.\n- Ajaloo otsimisel saate otsida ka sildi sisu.\n- fikseeritud pilt OCR viga."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.9.5\n\nایک بگ طے کیا جہاں متن کو دو صفحات پر مشتمل نظریہ میں منتخب نہیں کیا جاسکا۔"
+    "devnote": "7.9.6\n\n- پچھلے/اگلے صفحے کے بٹنوں کو دستاویز کی تلاش کے فنکشن میں شامل کیا گیا ہے۔\n- شامل ٹیگ فنکشن.\n- تاریخ کو تلاش کرتے وقت ، آپ ٹیگ کے مشمولات کو بھی تلاش کرسکتے ہیں۔\n- فکسڈ امیج OCR بگ."
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.9.5\n\nВиправлена ​​помилка, де текст не можна було вибрати в поданні на дві сторінки."
+    "devnote": "7.9.6\n\n- До функції пошуку документів додано попередні/наступні кнопки сторінки.\n- Додано функцію тегів.\n- Під час пошуку, ви також можете шукати вміст тегу.\n- Виправлена ​​помилка OCR."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.9.5\n\nRisolto un bug in cui il testo non poteva essere selezionato in vista di due pagine."
+    "devnote": "7.9.6\n\n- I pulsanti di pagina precedente/successiva sono stati aggiunti alla funzione di ricerca del documento.\n- Funzione tag aggiunta.\n- Durante la ricerca della cronologia, puoi anche cercare contenuti dei tag.\n- Risolto il bug OCR dell'immagine."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.9.5\n\nMemperbaiki bug di mana teks tidak dapat dipilih dalam tampilan dua halaman."
+    "devnote": "7.9.6\n\n- Tombol halaman sebelumnya/berikutnya telah ditambahkan ke fungsi pencarian dokumen.\n- Menambahkan fungsi tag.\n- Saat mencari riwayat, Anda juga dapat mencari konten tag.\n- Memperbaiki Bug OCR Image."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.9.5\n\n2ページのビューでテキストを選択できなかったバグを修正しました。"
+    "devnote": "7.9.6\n\n - 前/次のページボタンがドキュメント検索機能に追加されました。\n - タグ機能を追加しました。\n - 履歴を検索するときは、タグの内容を検索することもできます。\n - 固定画像OCRバグ。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.9.5\n\nდააფიქსირა შეცდომა, სადაც ტექსტი ვერ შეირჩევა ორგვერდიან ხედში."
+    "devnote": "7.9.6\n\n- წინა/შემდეგი გვერდის ღილაკები დაემატა დოკუმენტის ძიების ფუნქციას.\n- დაამატა ტეგის ფუნქცია.\n- ისტორიის ძებნისას ასევე შეგიძლიათ მოძებნოთ შინაარსი.\n- ფიქსირებული სურათი OCR შეცდომა."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.9.5\n\nKulungiswe isiphazamisi lapho umbhalo ungakhethwa khona ekubukeni kwamakhasi amabili."
+    "devnote": "7.9.6\n\n- Izinkinobho zekhasi ezedlule / ezilandelayo zingezwe emsebenzini wokusesha wedokhumenti.\n- Umsebenzi wethegi owengeziwe.\n- Lapho usesha umlando, ungasesha futhi okuqukethwe ithegi.\n- I-Fixed Image OCR Bug."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.9.5\n\n修复了无法在两页视图中选择文本的错误。"
+    "devnote": "7.9.6\n\n - 上一页/下一页按钮已添加到文档搜索功能中。\n - 添加的标签函数。\n - 搜索历史记录时，您也可以搜索标签内容。\n - 修复了图像OCR错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.9.5\n\n修復了無法在兩頁視圖中選擇文本的錯誤。"
+    "devnote": "7.9.6\n\n - 上一頁/下一頁按鈕已添加到文檔搜索功能中。\n - 添加的標籤函數。\n - 搜索歷史記錄時，您也可以搜索標籤內容。\n - 修復了圖像OCR錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.9.5\n\n修復了無法在兩頁視圖中選擇文本的錯誤。"
+    "devnote": "7.9.6\n\n - 上一頁/下一頁按鈕已添加到文檔搜索功能中。\n - 添加的標籤函數。\n - 搜索歷史記錄時，您也可以搜索標籤內容。\n - 修復了圖像OCR錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.9.5\n\nOpravena chyba, kde text nemohl být vybrán ve dvoustránkovém zobrazení."
+    "devnote": "7.9.6\n\n- Do funkce vyhledávání dokumentu byla přidána tlačítka předchozí/další stránky.\n- Přidána funkce značky.\n- Při vyhledávání historie můžete také prohledávat obsah značek.\n- Opravená chyba OCR OCR."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.9.5\n\nМәтінді екі беттен тұратын көріністе таңдау мүмкін емес."
+    "devnote": "7.9.6\n\n- Алдыңғы / келесі беттердің түймелері құжаттарды іздеу функциясына қосылды.\n- Қосылған тег функциясы.\n- Тарихты іздеу кезінде сіз тег мазмұнын іздеуге болады.\n- Бекітілген сурет OCR қатесі."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.9.5\n\nS'ha corregit un error on no s'ha pogut seleccionar el text a la vista de dues pàgines."
+    "devnote": "7.9.6\n\n- S'han afegit els botons anteriors/de pàgina següent a la funció de cerca de documents.\n- S'ha afegit la funció d'etiqueta.\n- Quan cerqueu l’historial, també podeu cercar contingut de l’etiqueta.\n- S'ha corregit un error OCR d'imatge."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.9.5\n\nಎರಡು ಪುಟಗಳ ವೀಕ್ಷಣೆಯಲ್ಲಿ ಪಠ್ಯವನ್ನು ಆಯ್ಕೆ ಮಾಡಲಾಗದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "7.9.6\n\n- ಡಾಕ್ಯುಮೆಂಟ್ ಹುಡುಕಾಟ ಕಾರ್ಯಕ್ಕೆ ಹಿಂದಿನ/ಮುಂದಿನ ಪುಟ ಗುಂಡಿಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಟ್ಯಾಗ್ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಇತಿಹಾಸವನ್ನು ಹುಡುಕುವಾಗ, ನೀವು ಟ್ಯಾಗ್ ವಿಷಯಗಳನ್ನು ಸಹ ಹುಡುಕಬಹುದು.\n- ಸ್ಥಿರ ಚಿತ್ರ ಒಸಿಆರ್ ದೋಷ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.9.5\n\nIspravljen je greška u kojoj se tekst ne može odabrati u prikazu na dvije stranice."
+    "devnote": "7.9.6\n\n- U funkciju pretraživanja dokumenata dodani su gumbi prethodne/sljedeće stranice.\n- Dodana funkcija oznake.\n- Prilikom pretraživanja povijesti možete pretraživati ​​i sadržaj oznaka.\n- Fiksna slika OCR Bug."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.9.5\n\nជួសជុលកំហុសដែលអត្ថបទមិនអាចត្រូវបានជ្រើសរើសក្នុងទិដ្ឋភាពពីរទំព័រ។"
+    "devnote": "7.9.6\n\n- ប៊ូតុងមុន / បន្ទាប់ប៊ូតុងត្រូវបានបន្ថែមទៅមុខងារស្វែងរកឯកសារ។\n- មុខងារស្លាកដែលបានបន្ថែម។\n- នៅពេលស្វែងរកប្រវត្តិអ្នកក៏អាចស្វែងរកមាតិកាស្លាកផងដែរ។\n- កំហុសរូបភាព OCR ថេរ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.9.5\n\nТексттин эки беттеги көрүнүштү тандалбай турган мүчүлүштүктү оңдолду."
+    "devnote": "7.9.6\n\n- Мурунку / Кийинки баракчанын баскычтары документтин издөө функциясына кошулду.\n- Кошулган тег функциясы.\n- Тарыхты издегенде, сиз ошондой эле Тэг мазмунун издөө аласыз.\n- OCR Dock Bug"
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.9.5\n\nஇரண்டு பக்க பார்வையில் உரையைத் தேர்ந்தெடுக்க முடியாத ஒரு பிழை சரி செய்யப்பட்டது."
+    "devnote": "7.9.6\n\n- ஆவண தேடல் செயல்பாட்டில் முந்தைய/அடுத்த பக்க பொத்தான்கள் சேர்க்கப்பட்டுள்ளன.\n- குறிச்சொல் செயல்பாடு சேர்க்கப்பட்டது.\n- வரலாற்றைத் தேடும்போது, ​​நீங்கள் குறிச்சொல்லையும் தேடலாம்.\n- நிலையான படம் OCR பிழை."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.9.5\n\nแก้ไขข้อผิดพลาดที่ไม่สามารถเลือกข้อความในมุมมองสองหน้า"
+    "devnote": "7.9.6\n\n- ปุ่มหน้าก่อนหน้า/ถัดไปได้ถูกเพิ่มลงในฟังก์ชั่นการค้นหาเอกสาร\n- เพิ่มฟังก์ชั่นแท็ก\n- เมื่อค้นหาประวัติคุณยังสามารถค้นหาเนื้อหาแท็ก\n- แก้ไขข้อผิดพลาด OCR Image"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.9.5\n\nMetnin iki sayfalık görünümde seçilemediği bir hata düzeltildi."
+    "devnote": "7.9.6\n\n- Belge arama işlevine önceki/sonraki sayfa düğmeleri eklendi.\n- Etiket işlevi eklendi.\n- Geçmişi ararken etiket içeriğini de arayabilirsiniz.\n- Sabit görüntü OCR hatası."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.9.5\n\nరెండు పేజీల వీక్షణలో వచనాన్ని ఎంచుకోలేని బగ్ పరిష్కరించబడింది."
+    "devnote": "7.9.6\n\n- మునుపటి/తదుపరి పేజీ బటన్లు డాక్యుమెంట్ శోధన ఫంక్షన్‌కు జోడించబడ్డాయి.\n- ట్యాగ్ ఫంక్షన్ జోడించబడింది.\n- చరిత్రను శోధిస్తున్నప్పుడు, మీరు ట్యాగ్ విషయాలను కూడా శోధించవచ్చు.\n- స్థిర చిత్రం OCR బగ్."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.9.5\n\nਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਜਿੱਥੇ ਟੈਕਸਟ ਦੋ ਪੰਨਿਆਂ ਦੇ ਦ੍ਰਿਸ਼ ਵਿੱਚ ਚੁਣਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ."
+    "devnote": "7.9.6\n\n- ਪਿਛਲਾ / ਅਗਲਾ ਪੰਨਾ ਬਟਨ ਦਸਤਾਵੇਜ਼ ਖੋਜ ਕਾਰਜ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤੇ ਗਏ ਹਨ.\n- ਜੋੜਿਆ ਟੈਗ ਫੰਕਸ਼ਨ.\n- ਜਦੋਂ ਇਤਿਹਾਸ ਦੀ ਭਾਲ ਕਰਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਟੈਗ ਦੇ ਭਾਗ ਵੀ ਲੱਭ ਸਕਦੇ ਹੋ.\n- ਸਥਿਰ ਚਿੱਤਰ OCR ਬੱਗ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.9.5\n\nرفع اشکالی که در آن نمی توان متن را در نمای دو صفحه انتخاب کرد."
+    "devnote": "7.9.6\n\n- دکمه های صفحه قبلی/بعدی به عملکرد جستجوی سند اضافه شده است.\n- عملکرد برچسب اضافه شده.\n- هنگام جستجو در تاریخ ، می توانید محتوای برچسب را نیز جستجو کنید.\n- اشکال OCR تصویر ثابت."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.9.5\n\nCorrigido um bug em que o texto não pôde ser selecionado na visualização de duas páginas."
+    "devnote": "7.9.6\n\n- Os botões anteriores/seguintes da página foram adicionados à função de pesquisa de documentos.\n- Função de tag adicionada.\n- Ao pesquisar histórico, você também pode pesquisar conteúdo de tags.\n- Corrigida imagem OCR Bug."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.9.5\n\nNaprawiono błąd, w którym tekst nie można było wybrać w widoku dwustronicowym."
+    "devnote": "7.9.6\n\n- Do funkcji wyszukiwania dokumentów zostały dodane poprzednie/następne strony.\n- Dodano funkcję znacznika.\n- Podczas przeszukiwania historii możesz również wyszukiwać zawartość znacznika.\n- Naprawiono obraz OCR."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.9.5\n\nCorrection d'un bug où le texte n'a pas pu être sélectionné dans une vue de deux pages."
+    "devnote": "7.9.6\n\n- Des boutons de page précédente / suivants ont été ajoutés à la fonction de recherche de document.\n- Fonction de balise ajoutée.\n- Lors de la recherche de l'historique, vous pouvez également rechercher le contenu des balises.\n- Correction du bug de l'OCR de l'image."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.9.5\n\nKorjattu virhe, jossa tekstiä ei voitu valita kahden sivun näkymässä."
+    "devnote": "7.9.6\n\n- Aikaisemmat/seuraavan sivun painikkeet on lisätty asiakirjan hakutoimintoon.\n- Lisätty tag -toiminto.\n- Kun etsit historiaa, voit myös hakutunnisteen sisältöä.\n- Korjattu kuva OCR -virhe."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.9.5\n\nNaayos ang isang bug kung saan hindi mapili ang teksto sa dalawang pahina na view."
+    "devnote": "7.9.6\n\n- Nakaraan/susunod na mga pindutan ng pahina ay naidagdag sa function ng paghahanap ng dokumento.\n- Idinagdag ang pag -andar ng tag.\n- Kapag naghahanap ng kasaysayan, maaari ka ring maghanap ng mga nilalaman ng tag.\n- Nakapirming imahe OCR Bug."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.9.5\n\nJavítva egy hibát, ahol a szöveget nem lehetett kiválasztani kétoldalas nézetben."
+    "devnote": "7.9.6\n\n- Az előző/következő oldal gombokat hozzáadták a dokumentum keresési funkciójához.\n- Hozzáadott címke funkció.\n- Az előzmények keresése során a címke tartalmát is keresheti.\n- Javítva a kép OCR hibája."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.9.5\n\nתוקן באג בו לא ניתן היה לבחור טקסט בתצוגה של שני עמודים."
+    "devnote": "7.9.6\n\n- לחצני העמוד הקודם/הבא נוספו לפונקציית חיפוש המסמכים.\n- פונקציית תג נוסף.\n- בעת חיפוש בהיסטוריה, אתה יכול גם לחפש תוכן תגיות.\n- תקינה תמונה קבועה OCR BUG."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.9.5\n\nएक बग फिक्स्ड जहां पाठ को दो-पृष्ठ के दृश्य में नहीं चुना जा सकता है।"
+    "devnote": "7.9.6\n\n- पिछले/अगले पृष्ठ बटन को दस्तावेज़ खोज फ़ंक्शन में जोड़ा गया है।\n- जोड़ा टैग फ़ंक्शन।\n- इतिहास की खोज करते समय, आप टैग सामग्री भी खोज सकते हैं।\n- फिक्स्ड इमेज ओसीआर बग।"
   }
 }
