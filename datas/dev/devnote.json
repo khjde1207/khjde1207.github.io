@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "7.9.8\n\n- Urgently fixed a bug where background color could not be applied."
+    "devnote": "8.0.0\n\n- While modifying the function, I accidentally omitted the TTS section repeat function. It was urgently restored."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "7.9.8\n\n- 배경색상 적용이 안되던 버그를 긴급 수정 하였습니다."
+    "devnote": "8.0.0\n\n- 기능 수정하면서 실수로 TTS 구간반복 기능을 누락 시켰습니다. 긴급히 복구 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "7.9.8\n\n- Corrixiu con urxencia un erro onde non se podía aplicar a cor de fondo."
+    "devnote": "8.0.0\n\n- Mentres modifica a función, omitín accidentalmente a función de repetición da sección TTS. Restaurouse con urxencia."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "7.9.8\n\n- તાત્કાલિક ભૂલને ઠીક કરે છે જ્યાં પૃષ્ઠભૂમિ રંગ લાગુ કરી શકાતો નથી."
+    "devnote": "8.0.0\n\n- ફંક્શનમાં ફેરફાર કરતી વખતે, મેં આકસ્મિક રીતે ટીટીએસ વિભાગ પુનરાવર્તન કાર્યને બાદ કર્યું. તે તાત્કાલિક પુન restored સ્થાપિત કરવામાં આવી હતી."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "7.9.8\n\n- επειγόντως καθορίστηκε ένα σφάλμα όπου το χρώμα φόντου δεν μπορούσε να εφαρμοστεί."
+    "devnote": "8.0.0\n\n- Κατά την τροποποίηση της συνάρτησης, κατά λάθος παραλείψα τη λειτουργία επανάληψης του τμήματος TTS. Αποκαταστάθηκε επειγόντως."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "7.9.8\n\n- Dringend een bug opgelost waar de achtergrondkleur niet kon worden toegepast."
+    "devnote": "8.0.0\n\n- Tijdens het wijzigen van de functie heb ik per ongeluk de herhaalde functie TTS -sectie weggelaten. Het werd dringend hersteld."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "9.9 ..8\n\n- तुरून्त बग तय गरिएको पृष्ठभूमि र color ्ग लागू गर्न सकिएन।"
+    "devnote": ".0.0.0\n\n- समारोह परिमार्जन गर्दा, मैले गल्तिले tts सेक्सन दोहोर्याउने प्रकार्यलाई हटाइदिएँ। यो तुरुन्त पुनर्स्थापित भयो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "7.9.8\n\n- Hast fikset en feil der bakgrunnsfarge ikke kunne brukes."
+    "devnote": "8.0.0\n\n- Mens jeg modifiserer funksjonen, utelatt jeg ved et uhell TTS -seksjonen. Det ble presset på hurtig."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "7.9.8\n\n- Retter hostligt en fejl, hvor baggrundsfarve ikke kunne anvendes."
+    "devnote": "8.0.0\n\n- Mens jeg ændrede funktionen, udeladte jeg ved et uheld TTS -sektionen gentagelsesfunktion. Det blev presserende gendannet."
   },
   "독일어": {
     "key": "de",
-    "devnote": "7.9.8\n\n- Dringend einen Fehler behoben, bei dem die Hintergrundfarbe nicht angewendet werden konnte."
+    "devnote": "8.0.0\n\n- Während ich die Funktion geändert habe, habe ich die TTS -Abschnitt -Wiederholungsfunktion versehentlich weggelassen. Es wurde dringend wiederhergestellt."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "7.9.8\n\n- ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ບໍ່ສາມາດໃຊ້ສີພື້ນຫລັງໄດ້ຢ່າງຮີບດ່ວນ."
+    "devnote": "8.0.0\n\n- ໃນຂະນະທີ່ດັດແກ້ການເຮັດວຽກ, ຂ້ອຍໄດ້ຍົກເລີກການເຮັດວຽກຂອງ TTS ໂດຍບັງເອີນ. ມັນໄດ້ຖືກຟື້ນຟູຢ່າງຮີບດ່ວນ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "7.9.8\n\n- steidzami fiksēta kļūda, kurā nevar izmantot fona krāsu."
+    "devnote": "8.0.0\n\n- Mainot funkciju, es nejauši izlaidu TTS sadaļas atkārtošanas funkciju. Tas steidzami tika atjaunots."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "7.9.8\n\n- Срочно исправил ошибку, когда цвет фона не может быть применен."
+    "devnote": "8.0.0\n\n- При изменении функции я случайно пропустил функцию повторения секции TTS. Это было срочно восстановлено."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "7.9.8\n\n- S -a rezolvat urgent o eroare în care culoarea de fundal nu a putut fi aplicată."
+    "devnote": "8.0.0\n\n- În timp ce modific funcția, am omis din greșeală funcția de repetare a secțiunii TTS. A fost restaurat urgent."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "7.9.8\n\n- Skubiai ištaisyta klaida, kurioje nebuvo galima pritaikyti fono spalvos."
+    "devnote": "8.0.0\n\n- Modifikuodamas funkciją, aš netyčia praleidau TTS skyriaus pakartojimo funkciją. Tai buvo skubiai restauruota."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "7.9.8\n\n- तातडीने एक बग निश्चित केला जेथे पार्श्वभूमी रंग लागू केला जाऊ शकत नाही."
+    "devnote": "8.0.0\n\n- फंक्शन सुधारित करताना, मी चुकून टीटीएस विभाग पुनरावृत्ती कार्य वगळले. ते तातडीने पुनर्संचयित झाले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "7.9.8\n\n- Итно поправи грешка каде што не може да се примени бојата на позадината."
+    "devnote": "8.0.0\n\n- Додека ја менувам функцијата, случајно ја изоставив функцијата за повторување на делот TTS. Итно беше обновено."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "7.9.8\n\n- പശ്ചാത്തല നിറം പ്രയോഗിക്കാൻ കഴിയാത്ത ഒരു ബഗ് അടിയന്തിരമായി പരിഹരിച്ചു."
+    "devnote": "8.0.0\n\n- ഫംഗ്ഷൻ പരിഷ്ക്കരിക്കുമ്പോൾ, ഞാൻ ആകസ്മികമായി ടിടിഎസ് വിഭാഗ ആവർത്തിച്ചുള്ള പ്രവർത്തനം ഒഴിവാക്കി. അത് അടിയന്തിരമായി പുന ored സ്ഥാപിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "7.9.8\n\n- segera menetapkan pepijat di mana warna latar belakang tidak dapat digunakan."
+    "devnote": "8.0.0\n\n- Semasa mengubahsuai fungsi, saya secara tidak sengaja menghilangkan fungsi mengulangi bahagian TTS. Ia segera dipulihkan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "7.9.8\n\n- Арын дэвсгэр өнгийг ашиглах боломжгүй алдааг яаралтай засна."
+    "devnote": "8.0.0\n\n- Функцийг өөрчилж байхдаа би санамсаргүйгээр TTS хэсгийн давтан функцийг орхисон. Яаралтай сэргээв."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "7.9,8\n\n- Premiazkoa konpondu da akats bat non atzeko planoaren kolorea aplikatu ezin izan den."
+    "devnote": "8.0.0\n\n- Funtzioa aldatzean, ustekabean utzi dut TTS atala errepikatzeko funtzioa. Premiazkoa izan zen."
   },
   "버마어": {
     "key": "my",
-    "devnote": "7.9.8\n\n- နောက်ခံအရောင်ကိုအသုံးမပြုနိုင်သည့် bug ကိုအရေးတကြီးပြင်ဆင်ထားသည်။"
+    "devnote": "8.0.0\n\n- function ကိုပြုပြင်နေစဉ်အတွင်း TTS အပိုင်းကိုထပ်ခါတလဲလဲလုပ်ခြင်း function ကိုမတော်တဆချန်လှပ်ထားသည်။ ဒါဟာအရေးတကြီးပြန်လည်ထူထောင်ခဲ့သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "7.9.8\n\n- Đã sửa lỗi một lỗi trong đó không thể áp dụng màu nền."
+    "devnote": "8.0.0\n\n- Trong khi sửa đổi chức năng, tôi vô tình bỏ qua hàm lặp lại phần TTS. Nó đã được khôi phục khẩn cấp."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "7.9.8\n\n- тэрмінова зафіксаваны памылку, дзе нельга ўжываць колер фону."
+    "devnote": "8.0.0\n\n- Пры змяненні функцыі я выпадкова апусціў функцыю паўтарэння раздзела TTS. Ён быў тэрмінова адноўлены."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "7.9.8\n\n- জরুরীভাবে একটি বাগ স্থির করে যেখানে পটভূমির রঙ প্রয়োগ করা যায় না।"
+    "devnote": "8.0.0\n\n- ফাংশনটি সংশোধন করার সময়, আমি দুর্ঘটনাক্রমে টিটিএস বিভাগের পুনরাবৃত্তি ফাংশনটি বাদ দিয়েছি। এটি জরুরিভাবে পুনরুদ্ধার করা হয়েছিল।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "7.9.8\n\n- Спешно фиксира грешка, при която цветът на фона не може да се прилага."
+    "devnote": "8.0.0\n\n- Докато променях функцията, случайно пропуснах функцията за повторение на секцията TTS. Той беше спешно възстановен."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "7.9.8\n\n- Хитно је поправио грешку у којој се боја позадине није могла применити."
+    "devnote": "8.0.0\n\n- Док ме модификујући функцију, случајно сам изоставио функцију понављања ТТС одељка. Хитно је обновљено."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "7.9.8\n\n- Zisizohamishika kwa haraka mdudu ambapo rangi ya nyuma haikuweza kutumika."
+    "devnote": "8.0.0\n\n- Wakati wa kurekebisha kazi, kwa bahati mbaya niliachana na sehemu ya TTS kurudia kazi. Ilirejeshwa haraka."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "7.9.8\n\n- Fixade ett fel där bakgrundsfärg inte kunde appliceras."
+    "devnote": "8.0.0\n\n- När jag ändrade funktionen utelämnade jag av misstag TTS -avsnittet Repeat -funktionen. Det återställdes brådskande."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "7.9.8\n\n- Se corrigió urgentemente un error donde el color de fondo no podía aplicarse."
+    "devnote": "8.0.0\n\n- Al modificar la función, omití accidentalmente la función de repetición de la sección TTS. Fue restaurado con urgencia."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "7.9.8\n\n- Naliehavo opravená chyba, kde nebolo možné použiť farbu pozadia."
+    "devnote": "8.0.0\n\n- Pri úprave funkcie som náhodou vynechal funkciu opakovanej sekcie TTS. Bolo naliehavo obnovené."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "7.9.8\n\n- Nujno je popravil napako, kjer ni bilo mogoče uporabiti barve ozadja."
+    "devnote": "8.0.0\n\n- Med spreminjanjem funkcije sem slučajno izpustil funkcijo ponovitve razdelka TTS. Nujno je bilo obnovljeno."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "7.9.8\n\n- පසුබිම් වර්ණය යෙදිය නොහැකි දෝෂයක් හදිසියේ සවි කර ඇත."
+    "devnote": "8.0.0\n\n- ශ්රිතය වෙනස් කරමින් සිටියදී, මම අහම්බෙන් TTS කොටස නැවත නැවත ශ්රිතය මඟ හැරියෙමි. එය හදිසියේම යථා තත්වයට පත් කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "7.9.8\n\n- إصلاح عاجل خطأ حيث لا يمكن تطبيق لون الخلفية."
+    "devnote": "8.0.0\n\n- أثناء تعديل الوظيفة ، قمت بحذف وظيفة تكرار قسم TTS بطريق الخطأ. تم ترميمه على وجه السرعة."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "7.9.8\n\n- Շտապ ֆիքսված մի սխալ, որտեղ ֆոնային գույնը հնարավոր չէր կիրառել:"
+    "devnote": "8.0.0\n\n- Գործառույթը փոփոխելիս ես պատահաբար բաց թողեցի TTS բաժնի կրկնակի գործառույթը: Այն շտապ վերականգնվեց:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "7.9.8\n\n- Bráðlega lagaði villu þar sem ekki var hægt að nota bakgrunnslit."
+    "devnote": "8.0.0\n\n- Meðan ég breytti aðgerðinni sleppti ég óvart TTS hlutanum endurteknum aðgerð. Það var brýnt endurreist."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "7.9.8\n\n- Təcili olaraq fon rənginin tətbiq oluna bilmədiyi bir səhv düzəldildi."
+    "devnote": "8.0.0\n\n- Funksiyanı dəyişdirərkən təsadüfən TTS bölməsini təkrar işləmə funksiyasını buraxdım. Təcili olaraq bərpa edildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "7.9.8\n\n- 'n fout opgelos waar agtergrondkleur nie toegepas kon word nie."
+    "devnote": "8.0.0\n\n- Terwyl ek die funksie gewysig het, het ek per ongeluk die TTS -afdeling herhalingsfunksie weggelaat. Dit is dringend herstel."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "7.9.8\n\n- Fiksuar urgjentisht një gabim ku ngjyra e sfondit nuk mund të aplikohej."
+    "devnote": "8.0.0\n\n- Ndërsa modifikoja funksionin, unë aksidentalisht lëshova funksionin e përsëritjes së seksionit TTS. U rivendos urgjentisht."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "7.9.8\n\n- የበስተጀርባ ቀለም ሊተገበር የማይችልበት ሳንካ በአስቸኳይ ተጠግኗል."
+    "devnote": "8.0.0\n\n- ተግባሩን ሲያሻሽሩ በድንገት የ TTS ክፍልን መድገም ተግባራትን አወዛሁ. በአስቂኝ ሁኔታ ተመልሷል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "7.9.8\n\n- Kiiresti parandatud viga, kus taustvärvi ei olnud võimalik rakendada."
+    "devnote": "8.0.0\n\n- Funktsiooni muutmise ajal jätsin TTS -i jaotise korramise funktsiooni kogemata välja. See taastati tungivalt."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "7.9.8\n\n- فوری طور پر ایک بگ طے کیا جہاں پس منظر کا رنگ نہیں لگایا جاسکتا ہے۔"
+    "devnote": "8.0.0\n\n- فنکشن میں ترمیم کرتے وقت ، میں نے غلطی سے ٹی ٹی ایس سیکشن ریپیٹ فنکشن کو چھوڑ دیا۔ اسے فوری طور پر بحال کیا گیا تھا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "7.9.8\n\n- терміново виправити помилку, де не можна було застосувати колір фону."
+    "devnote": "8.0.0\n\n- Під час модифікації функції я випадково опустив функцію повторного розділу TTS. Це було терміново відновлено."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "7.9.8\n\n- Risolto urgentemente un bug in cui non poteva essere applicato il colore di sfondo."
+    "devnote": "8.0.0\n\n- Mentre modifica la funzione, ho omesso accidentalmente la funzione di ripetizione della sezione TTS. È stato urgentemente ripristinato."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "7.9.8\n\n- Perbaiki bug di mana warna latar tidak dapat diterapkan."
+    "devnote": "8.0.0\n\n- Saat memodifikasi fungsi, saya secara tidak sengaja menghilangkan fungsi pengulangan bagian TTS. Itu segera dipulihkan."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "7.9.8\n\n - 背景色を適用できなかったバグを緊急に修正しました。"
+    "devnote": "8.0.0\n\n - 関数を変更している間、TTSセクションの繰り返し関数を誤って省略しました。緊急に復元されました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "7.9.8\n\n- სასწრაფოდ დაფიქსირდა შეცდომა, სადაც ფონის ფერის გამოყენება შეუძლებელია."
+    "devnote": "8.0.0\n\n- ფუნქციის შეცვლისას, მე შემთხვევით გამოვტოვე TTS განყოფილების განმეორებითი ფუნქცია. სასწრაფოდ აღდგა."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "7.9.8\n\n- Kulungiswe ngokushesha isiphazamisi lapho umbala wangemuva awunakusetshenziswa."
+    "devnote": "8.0.0\n\n- Ngenkathi ngilungisa umsebenzi, ngawushiya ngengozi umsebenzi wokuphindaphinda kwe-TTS. Kwakubuyiselwe ngokushesha."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "7.9.8\n\n - 紧急修复了无法应用背景颜色的错误。"
+    "devnote": "8.0.0\n\n - 在修改函数时，我意外省略了TTS部分重复功能。迫切需要恢复。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "7.9.8\n\n - 緊急修復了無法應用背景顏色的錯誤。"
+    "devnote": "8.0.0\n\n - 在修改函數時，我意外省略了TTS部分重複功能。迫切需要恢復。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "7.9.8\n\n - 緊急修復了無法應用背景顏色的錯誤。"
+    "devnote": "8.0.0\n\n - 在修改函數時，我意外省略了TTS部分重複功能。迫切需要恢復。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "7.9.8\n\n- Naléhavě opravena chyba, kde nelze použít barvu pozadí."
+    "devnote": "8.0.0\n\n- Při úpravě funkce jsem omylem vynežil funkci opakování sekce TTS. Bylo to naléhavě obnoveno."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "7.9.8\n\n- фондық түсін қолдануға болмайтын қатені жедел түзету."
+    "devnote": "8.0.0\n\n- Функцияны өзгерту кезінде мен TTS бөлімін қайталау функциясын кездейсоқ қалдырмадым. Ол шұғыл қалпына келтірілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "7.9.8\n\n- S'ha corregit urgentment un error on no es podia aplicar el color de fons."
+    "devnote": "8.0.0\n\n- Mentre modifico la funció, he omès accidentalment la funció de repetició de la secció TTS. Es va restaurar urgentment."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "7.9.8\n\n- ಹಿನ್ನೆಲೆ ಬಣ್ಣವನ್ನು ಅನ್ವಯಿಸಲಾಗದ ದೋಷವನ್ನು ತುರ್ತಾಗಿ ಸರಿಪಡಿಸಲಾಗಿದೆ."
+    "devnote": "8.0.0\n\n- ಕಾರ್ಯವನ್ನು ಮಾರ್ಪಡಿಸುವಾಗ, ನಾನು ಆಕಸ್ಮಿಕವಾಗಿ ಟಿಟಿಎಸ್ ವಿಭಾಗದ ಪುನರಾವರ್ತಿತ ಕಾರ್ಯವನ್ನು ಬಿಟ್ಟುಬಿಟ್ಟೆ. ಅದನ್ನು ತುರ್ತಾಗಿ ಪುನಃಸ್ಥಾಪಿಸಲಾಯಿತು."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "7.9.8\n\n- Hitno je ispravljena greška u kojoj se boja pozadine ne može primijeniti."
+    "devnote": "8.0.0\n\n- Tijekom mijenjanja funkcije, slučajno sam izostavio funkciju ponovljenog TTS odjeljka. Hitno je obnovljen."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "7.9.8\n\n- ជួសជុលកំហុសជាបន្ទាន់ដែលមានពណ៌ផ្ទៃខាងក្រោយមិនអាចអនុវត្តបាន។"
+    "devnote": "8.0.0\n\n- ខណៈពេលកំពុងកែប្រែមុខងារខ្ញុំបានលុបចោលមុខងារ TTS ម្តងទៀតដោយចៃដន្យ។ វាត្រូវបានស្ដារឡើងវិញយ៉ាងជាបន្ទាន់។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "7.9.8\n\n- Тез арада фон түсү колдонулбай турган мүчүлүштүктү бекемди."
+    "devnote": "8.0.0\n\n- Функцияны өзгөртүү учурунда мен кокусунан TTS бөлүмүн кайталап кайталап койдум. Ага тезинен калыбына келтирилген."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "7.9.8\n\n- பின்னணி நிறத்தைப் பயன்படுத்த முடியாத ஒரு பிழை அவசரமாக சரி செய்யப்பட்டது."
+    "devnote": "8.0.0\n\n- செயல்பாட்டை மாற்றியமைக்கும் போது, ​​நான் தற்செயலாக TTS பிரிவு மீண்டும் செயல்பாட்டைத் தவிர்த்தேன். அது அவசரமாக மீட்டெடுக்கப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "7.9.8\n\n- แก้ไขข้อผิดพลาดอย่างเร่งด่วนที่ไม่สามารถใช้สีพื้นหลังได้"
+    "devnote": "8.0.0\n\n- ในขณะที่การแก้ไขฟังก์ชั่นฉันไม่ได้ใช้ฟังก์ชันการทำซ้ำส่วน TTS โดยไม่ตั้งใจ มันได้รับการฟื้นฟูอย่างเร่งด่วน"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "7.9.8\n\n- Acilen arka plan renginin uygulanamadığı bir hatayı düzeltti."
+    "devnote": "8.0.0\n\n- İşlevi değiştirirken, yanlışlıkla TTS bölümü tekrar işlevini atladım. Acilen restore edildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "7.9.8\n\n- నేపథ్య రంగు వర్తించని బగ్‌ను అత్యవసరంగా పరిష్కరించారు."
+    "devnote": "8.0.0\n\n- ఫంక్షన్‌ను సవరించేటప్పుడు, నేను అనుకోకుండా TTS విభాగం రిపీట్ ఫంక్షన్‌ను విస్మరించాను. ఇది అత్యవసరంగా పునరుద్ధరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "7.9.8\n\n- ਤੁਰੰਤ ਇੱਕ ਬੱਗ ਹੱਲ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਜਿੱਥੇ ਪਿਛੋਕੜ ਦਾ ਰੰਗ ਲਾਗੂ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ."
+    "devnote": "8.0.0\n\n- ਫੰਕਸ਼ਨ ਨੂੰ ਸੋਧਣ ਵੇਲੇ, ਮੈਂ ਗਲਤੀ ਨਾਲ ਟੀਟੀਐਸ ਦੀ ਸੈਕਸ਼ਨ ਦੁਹਰਾਉਣ ਦੇ ਕਾਰਜ ਨੂੰ ਛੱਡ ਦਿੱਤਾ. ਇਸ ਨੂੰ ਤੁਰੰਤ ਬਹਾਲ ਕੀਤਾ ਗਿਆ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "7.9.8\n\n- فوراً یک اشکال را برطرف کرد که در آن رنگ پس زمینه قابل استفاده نیست."
+    "devnote": "8.0.0\n\n- در حین اصلاح عملکرد ، من به طور تصادفی عملکرد تکرار بخش TTS را حذف کردم. فوراً ترمیم شد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "7.9.8\n\n- Corrigido urgentemente um bug onde a cor do fundo não pôde ser aplicada."
+    "devnote": "8.0.0\n\n- Ao modificar a função, acidentalmente omiti a seção TTS Repeat Função. Foi urgentemente restaurado."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "7.9.8\n\n- Pilnie naprawiał błąd, w którym nie można zastosować koloru tła."
+    "devnote": "8.0.0\n\n- Podczas modyfikowania funkcji przypadkowo pominąłem funkcję powtarzania sekcji TTS. Został pilnie przywrócony."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "7.9.8\n\n- Correction d'un bug d'urgence où la couleur d'arrière-plan n'a pas pu être appliquée."
+    "devnote": "8.0.0\n\n- En modifiant la fonction, j'ai accidentellement omis la fonction de répétition de la section TTS. Il a été restauré urgent."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "7.9.8\n\n- Korjattu kiireellisesti virhe, jossa taustaväriä ei voitu käyttää."
+    "devnote": "8.0.0\n\n- Funktion muuttamisessa jätin vahingossa TTS -osion toistotoiminnon. Se palautettiin kiireellisesti."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "7.9.8\n\n- mapilit na naayos ang isang bug kung saan ang kulay ng background ay hindi mailalapat."
+    "devnote": "8.0.0\n\n- Habang binabago ang pag -andar, hindi ko sinasadyang tinanggal ang seksyon ng TTS na paulit -ulit na pag -andar. Mapilit itong naibalik."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "7.9.8\n\n- Sürgősen rögzített egy hibát, ahol a háttér színét nem lehetett alkalmazni."
+    "devnote": "8.0.0\n\n- A függvény módosítása közben véletlenül kihagytam a TTS szakasz ismétlődő funkcióját. Sürgősen helyreállították."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "7.9.8\n\n- תוקן בדחיפות באג בו לא ניתן היה ליישם צבע רקע."
+    "devnote": "8.0.0\n\n- תוך כדי שינוי הפונקציה השמטתי בטעות את הפונקציה החוזרת של קטע TTS. זה שוחזר בדחיפות."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "7.9.8\n\n- तत्काल एक बग तय करें जहां पृष्ठभूमि का रंग लागू नहीं किया जा सका।"
+    "devnote": "8.0.0\n\n- फ़ंक्शन को संशोधित करते समय, मैंने गलती से TTS सेक्शन रिपीट फ़ंक्शन को छोड़ दिया। इसे तत्काल बहाल किया गया था।"
   }
 }
