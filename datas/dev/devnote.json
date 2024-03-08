@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "8.0.0\n\n- While modifying the function, I accidentally omitted the TTS section repeat function. It was urgently restored."
+    "devnote": "8.0.1\n\nFixed a bug in the real-time OCR TTS function."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "8.0.0\n\n- 기능 수정하면서 실수로 TTS 구간반복 기능을 누락 시켰습니다. 긴급히 복구 하였습니다."
+    "devnote": "8.0.1\n\n실시간 OCR TTS 기능 버그를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "8.0.0\n\n- Mentres modifica a función, omitín accidentalmente a función de repetición da sección TTS. Restaurouse con urxencia."
+    "devnote": "8.0.1\n\nCorrixiu un erro na función OCR TTS en tempo real."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "8.0.0\n\n- ફંક્શનમાં ફેરફાર કરતી વખતે, મેં આકસ્મિક રીતે ટીટીએસ વિભાગ પુનરાવર્તન કાર્યને બાદ કર્યું. તે તાત્કાલિક પુન restored સ્થાપિત કરવામાં આવી હતી."
+    "devnote": "8.0.1\n\nરીઅલ-ટાઇમ ઓસીઆર ટીટીએસ ફંક્શનમાં ભૂલને ઠીક કરી."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "8.0.0\n\n- Κατά την τροποποίηση της συνάρτησης, κατά λάθος παραλείψα τη λειτουργία επανάληψης του τμήματος TTS. Αποκαταστάθηκε επειγόντως."
+    "devnote": "8.0.1\n\nΔιορθώθηκε ένα σφάλμα στη λειτουργία OCR TTS σε πραγματικό χρόνο."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "8.0.0\n\n- Tijdens het wijzigen van de functie heb ik per ongeluk de herhaalde functie TTS -sectie weggelaten. Het werd dringend hersteld."
+    "devnote": "8.0.1\n\nEen bug opgelost in de realtime OCR TTS-functie."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": ".0.0.0\n\n- समारोह परिमार्जन गर्दा, मैले गल्तिले tts सेक्सन दोहोर्याउने प्रकार्यलाई हटाइदिएँ। यो तुरुन्त पुनर्स्थापित भयो।"
+    "devnote": ".0.0.1\n\nवास्तविक-समय OCR TTS समारोहमा बग फिक्स गरियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "8.0.0\n\n- Mens jeg modifiserer funksjonen, utelatt jeg ved et uhell TTS -seksjonen. Det ble presset på hurtig."
+    "devnote": "8.0.1\n\nFikset en feil i sanntids OCR TTS-funksjon."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "8.0.0\n\n- Mens jeg ændrede funktionen, udeladte jeg ved et uheld TTS -sektionen gentagelsesfunktion. Det blev presserende gendannet."
+    "devnote": "8.0.1\n\nRettet en fejl i funktionen i realtid OCR TTS."
   },
   "독일어": {
     "key": "de",
-    "devnote": "8.0.0\n\n- Während ich die Funktion geändert habe, habe ich die TTS -Abschnitt -Wiederholungsfunktion versehentlich weggelassen. Es wurde dringend wiederhergestellt."
+    "devnote": "8.0.1\n\nEin Fehler in der Echtzeit-OCR-TTS-Funktion behoben."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "8.0.0\n\n- ໃນຂະນະທີ່ດັດແກ້ການເຮັດວຽກ, ຂ້ອຍໄດ້ຍົກເລີກການເຮັດວຽກຂອງ TTS ໂດຍບັງເອີນ. ມັນໄດ້ຖືກຟື້ນຟູຢ່າງຮີບດ່ວນ."
+    "devnote": "8.1\n\nແກ້ໄຂຂໍ້ບົກພ່ອງໃນຫນ້າທີ່ OCR TTS ທີ່ໃຊ້ເວລາໃນເວລາຈິງ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "8.0.0\n\n- Mainot funkciju, es nejauši izlaidu TTS sadaļas atkārtošanas funkciju. Tas steidzami tika atjaunots."
+    "devnote": "8.0.1\n\nNovērsta kļūda reāllaika OCR TTS funkcijā."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "8.0.0\n\n- При изменении функции я случайно пропустил функцию повторения секции TTS. Это было срочно восстановлено."
+    "devnote": "8.0.1\n\nИсправлена ​​ошибка в функции OCR TTS в реальном времени."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "8.0.0\n\n- În timp ce modific funcția, am omis din greșeală funcția de repetare a secțiunii TTS. A fost restaurat urgent."
+    "devnote": "8.0.1\n\nS-a rezolvat o eroare în funcția OCR TTS în timp real."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "8.0.0\n\n- Modifikuodamas funkciją, aš netyčia praleidau TTS skyriaus pakartojimo funkciją. Tai buvo skubiai restauruota."
+    "devnote": "8.0.1\n\nIštaisyta klaida realaus laiko OCR TTS funkcijoje."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "8.0.0\n\n- फंक्शन सुधारित करताना, मी चुकून टीटीएस विभाग पुनरावृत्ती कार्य वगळले. ते तातडीने पुनर्संचयित झाले."
+    "devnote": "8.0.1\n\nरीअल-टाइम ओसीआर टीटीएस फंक्शनमध्ये बग निश्चित केला."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "8.0.0\n\n- Додека ја менувам функцијата, случајно ја изоставив функцијата за повторување на делот TTS. Итно беше обновено."
+    "devnote": "8.0.1\n\nПоправи грешка во функцијата OCR TTS во реално време."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "8.0.0\n\n- ഫംഗ്ഷൻ പരിഷ്ക്കരിക്കുമ്പോൾ, ഞാൻ ആകസ്മികമായി ടിടിഎസ് വിഭാഗ ആവർത്തിച്ചുള്ള പ്രവർത്തനം ഒഴിവാക്കി. അത് അടിയന്തിരമായി പുന ored സ്ഥാപിച്ചു."
+    "devnote": "8.0.1\n\nതത്സമയ ഒആർസിആർ ടിടിഎസ് പ്രവർത്തനത്തിൽ ഒരു ബഗ് പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "8.0.0\n\n- Semasa mengubahsuai fungsi, saya secara tidak sengaja menghilangkan fungsi mengulangi bahagian TTS. Ia segera dipulihkan."
+    "devnote": "8.0.1\n\nTetapkan bug dalam fungsi OCR TTS masa nyata."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "8.0.0\n\n- Функцийг өөрчилж байхдаа би санамсаргүйгээр TTS хэсгийн давтан функцийг орхисон. Яаралтай сэргээв."
+    "devnote": "8.0.1\n\nБодит цагийн OCR TTS функц дээр алдаа гаргав."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "8.0.0\n\n- Funtzioa aldatzean, ustekabean utzi dut TTS atala errepikatzeko funtzioa. Premiazkoa izan zen."
+    "devnote": "8.0.1\n\nAkats bat konpondu da denbora errealeko OCR TTS funtzioan."
   },
   "버마어": {
     "key": "my",
-    "devnote": "8.0.0\n\n- function ကိုပြုပြင်နေစဉ်အတွင်း TTS အပိုင်းကိုထပ်ခါတလဲလဲလုပ်ခြင်း function ကိုမတော်တဆချန်လှပ်ထားသည်။ ဒါဟာအရေးတကြီးပြန်လည်ထူထောင်ခဲ့သည်။"
+    "devnote": "8.0.1\n\nReal-Time OCR TTS function ကိုအတွက် bug တစ်ခု fixed ။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "8.0.0\n\n- Trong khi sửa đổi chức năng, tôi vô tình bỏ qua hàm lặp lại phần TTS. Nó đã được khôi phục khẩn cấp."
+    "devnote": "8.0.1\n\nĐã sửa lỗi trong chức năng OCR TTS thời gian thực."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "8.0.0\n\n- Пры змяненні функцыі я выпадкова апусціў функцыю паўтарэння раздзела TTS. Ён быў тэрмінова адноўлены."
+    "devnote": "8.0.1\n\nВыпраўлена памылка ў функцыі OCR TTS у рэжыме рэальнага часу."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "8.0.0\n\n- ফাংশনটি সংশোধন করার সময়, আমি দুর্ঘটনাক্রমে টিটিএস বিভাগের পুনরাবৃত্তি ফাংশনটি বাদ দিয়েছি। এটি জরুরিভাবে পুনরুদ্ধার করা হয়েছিল।"
+    "devnote": "8.0.1\n\nরিয়েল-টাইম ওসিআর টিটিএস ফাংশনে একটি বাগ স্থির করে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "8.0.0\n\n- Докато променях функцията, случайно пропуснах функцията за повторение на секцията TTS. Той беше спешно възстановен."
+    "devnote": "8.0.1\n\nФиксирана грешка във функцията OCR TTS в реално време."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "8.0.0\n\n- Док ме модификујући функцију, случајно сам изоставио функцију понављања ТТС одељка. Хитно је обновљено."
+    "devnote": "8.0.1\n\nПоправљена је грешка у функцији ОЦР ТТС у реалном времену."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "8.0.0\n\n- Wakati wa kurekebisha kazi, kwa bahati mbaya niliachana na sehemu ya TTS kurudia kazi. Ilirejeshwa haraka."
+    "devnote": "8.0.1\n\nZisizohamishika mdudu katika kazi halisi ya OCR TTS."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "8.0.0\n\n- När jag ändrade funktionen utelämnade jag av misstag TTS -avsnittet Repeat -funktionen. Det återställdes brådskande."
+    "devnote": "8.0.1\n\nFixade ett fel i realtid OCR TTS-funktionen."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "8.0.0\n\n- Al modificar la función, omití accidentalmente la función de repetición de la sección TTS. Fue restaurado con urgencia."
+    "devnote": "8.0.1\n\nSe corrigió un error en la función OCR TTS en tiempo real."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "8.0.0\n\n- Pri úprave funkcie som náhodou vynechal funkciu opakovanej sekcie TTS. Bolo naliehavo obnovené."
+    "devnote": "8.0.1\n\nOpravená chyba vo funkcii OCR TTS v reálnom čase."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "8.0.0\n\n- Med spreminjanjem funkcije sem slučajno izpustil funkcijo ponovitve razdelka TTS. Nujno je bilo obnovljeno."
+    "devnote": "8.0.1\n\nOdpravljena je napaka v funkciji OCR TTS v realnem času."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "8.0.0\n\n- ශ්රිතය වෙනස් කරමින් සිටියදී, මම අහම්බෙන් TTS කොටස නැවත නැවත ශ්රිතය මඟ හැරියෙමි. එය හදිසියේම යථා තත්වයට පත් කරන ලදී."
+    "devnote": "8.0.1\n\nතත්ය කාලීන OCR TTS ශ්රිතයේ දෝෂයක් සවි කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "8.0.0\n\n- أثناء تعديل الوظيفة ، قمت بحذف وظيفة تكرار قسم TTS بطريق الخطأ. تم ترميمه على وجه السرعة."
+    "devnote": "8.0.1\n\nإصلاح الخلل في وظيفة OCR TTS في الوقت الحقيقي."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "8.0.0\n\n- Գործառույթը փոփոխելիս ես պատահաբար բաց թողեցի TTS բաժնի կրկնակի գործառույթը: Այն շտապ վերականգնվեց:"
+    "devnote": "8.0.1\n\nFix նջված է սխալը իրական ժամանակում OCR TTS գործառույթում:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "8.0.0\n\n- Meðan ég breytti aðgerðinni sleppti ég óvart TTS hlutanum endurteknum aðgerð. Það var brýnt endurreist."
+    "devnote": "8.0.1\n\nLagaði villu í rauntíma OCR TTS aðgerðinni."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "8.0.0\n\n- Funksiyanı dəyişdirərkən təsadüfən TTS bölməsini təkrar işləmə funksiyasını buraxdım. Təcili olaraq bərpa edildi."
+    "devnote": "8.0.1\n\nReal vaxt rejimində OCR TTS funksiyasında bir səhv düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "8.0.0\n\n- Terwyl ek die funksie gewysig het, het ek per ongeluk die TTS -afdeling herhalingsfunksie weggelaat. Dit is dringend herstel."
+    "devnote": "8.0.1\n\n'N Bug in die real-time OCR TTS-funksie reggestel."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "8.0.0\n\n- Ndërsa modifikoja funksionin, unë aksidentalisht lëshova funksionin e përsëritjes së seksionit TTS. U rivendos urgjentisht."
+    "devnote": "8.0.1\n\nFiksoi një gabim në funksionin OCR TTS në kohë reale."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "8.0.0\n\n- ተግባሩን ሲያሻሽሩ በድንገት የ TTS ክፍልን መድገም ተግባራትን አወዛሁ. በአስቂኝ ሁኔታ ተመልሷል."
+    "devnote": "8.0.1\n\nበእውነተኛ-ጊዜ OCR TTS ተግባሩ ውስጥ አንድ ሳንካ ተጠግኗል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "8.0.0\n\n- Funktsiooni muutmise ajal jätsin TTS -i jaotise korramise funktsiooni kogemata välja. See taastati tungivalt."
+    "devnote": "8.0.1\n\nParandatud viga reaalajas OCR TTS funktsioonis."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "8.0.0\n\n- فنکشن میں ترمیم کرتے وقت ، میں نے غلطی سے ٹی ٹی ایس سیکشن ریپیٹ فنکشن کو چھوڑ دیا۔ اسے فوری طور پر بحال کیا گیا تھا۔"
+    "devnote": "8.0.1\n\nریئل ٹائم او سی آر ٹی ٹی ایس فنکشن میں ایک بگ طے کیا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "8.0.0\n\n- Під час модифікації функції я випадково опустив функцію повторного розділу TTS. Це було терміново відновлено."
+    "devnote": "8.0.1\n\nВиправлена ​​помилка у функції OCR TTS в режимі реального часу."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "8.0.0\n\n- Mentre modifica la funzione, ho omesso accidentalmente la funzione di ripetizione della sezione TTS. È stato urgentemente ripristinato."
+    "devnote": "8.0.1\n\nRisolto un bug nella funzione OCR TTS in tempo reale."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "8.0.0\n\n- Saat memodifikasi fungsi, saya secara tidak sengaja menghilangkan fungsi pengulangan bagian TTS. Itu segera dipulihkan."
+    "devnote": "8.0.1\n\nMemperbaiki bug dalam fungsi OCR TTS real-time."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "8.0.0\n\n - 関数を変更している間、TTSセクションの繰り返し関数を誤って省略しました。緊急に復元されました。"
+    "devnote": "8.0.1\n\nリアルタイムOCR TTS関数のバグを修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "8.0.0\n\n- ფუნქციის შეცვლისას, მე შემთხვევით გამოვტოვე TTS განყოფილების განმეორებითი ფუნქცია. სასწრაფოდ აღდგა."
+    "devnote": "8.0.1\n\nდაფიქსირდა შეცდომა რეალურ დროში OCR TTS ფუნქციაში."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "8.0.0\n\n- Ngenkathi ngilungisa umsebenzi, ngawushiya ngengozi umsebenzi wokuphindaphinda kwe-TTS. Kwakubuyiselwe ngokushesha."
+    "devnote": "8.0.1\n\nKulungiswe isiphazamisi emthethweni we-OCR ye-OCR yesikhathi sangempela."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "8.0.0\n\n - 在修改函数时，我意外省略了TTS部分重复功能。迫切需要恢复。"
+    "devnote": "8.0.1\n\n修复了实时OCR TTS功能​​中的错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "8.0.0\n\n - 在修改函數時，我意外省略了TTS部分重複功能。迫切需要恢復。"
+    "devnote": "8.0.1\n\n修復了實時OCR TTS功能​​中的錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "8.0.0\n\n - 在修改函數時，我意外省略了TTS部分重複功能。迫切需要恢復。"
+    "devnote": "8.0.1\n\n修復了實時OCR TTS功能​​中的錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "8.0.0\n\n- Při úpravě funkce jsem omylem vynežil funkci opakování sekce TTS. Bylo to naléhavě obnoveno."
+    "devnote": "8.0.1\n\nOpravena chyba ve funkci OCR TTS v reálném čase."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "8.0.0\n\n- Функцияны өзгерту кезінде мен TTS бөлімін қайталау функциясын кездейсоқ қалдырмадым. Ол шұғыл қалпына келтірілді."
+    "devnote": "8.0.1\n\nНақты уақытта OCR TTS функциясы бар қате."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "8.0.0\n\n- Mentre modifico la funció, he omès accidentalment la funció de repetició de la secció TTS. Es va restaurar urgentment."
+    "devnote": "8.0.1\n\nS'ha corregit un error en la funció TTS OCR en temps real."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "8.0.0\n\n- ಕಾರ್ಯವನ್ನು ಮಾರ್ಪಡಿಸುವಾಗ, ನಾನು ಆಕಸ್ಮಿಕವಾಗಿ ಟಿಟಿಎಸ್ ವಿಭಾಗದ ಪುನರಾವರ್ತಿತ ಕಾರ್ಯವನ್ನು ಬಿಟ್ಟುಬಿಟ್ಟೆ. ಅದನ್ನು ತುರ್ತಾಗಿ ಪುನಃಸ್ಥಾಪಿಸಲಾಯಿತು."
+    "devnote": "8.0.1\n\nನೈಜ-ಸಮಯದ ಒಸಿಆರ್ ಟಿಟಿಎಸ್ ಕಾರ್ಯದಲ್ಲಿ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "8.0.0\n\n- Tijekom mijenjanja funkcije, slučajno sam izostavio funkciju ponovljenog TTS odjeljka. Hitno je obnovljen."
+    "devnote": "8.0.1\n\nIspravljena je greška u funkciji OCR TTS u stvarnom vremenu."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "8.0.0\n\n- ខណៈពេលកំពុងកែប្រែមុខងារខ្ញុំបានលុបចោលមុខងារ TTS ម្តងទៀតដោយចៃដន្យ។ វាត្រូវបានស្ដារឡើងវិញយ៉ាងជាបន្ទាន់។"
+    "devnote": "8.0.1\n\nជួសជុលកំហុសក្នុងមុខងារ OCR TTS ពេលវេលាពិតប្រាកដ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "8.0.0\n\n- Функцияны өзгөртүү учурунда мен кокусунан TTS бөлүмүн кайталап кайталап койдум. Ага тезинен калыбына келтирилген."
+    "devnote": "8.0.1\n\nРеалдуу убакыт режиминдеги мүчүлүштүктү оңдолду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "8.0.0\n\n- செயல்பாட்டை மாற்றியமைக்கும் போது, ​​நான் தற்செயலாக TTS பிரிவு மீண்டும் செயல்பாட்டைத் தவிர்த்தேன். அது அவசரமாக மீட்டெடுக்கப்பட்டது."
+    "devnote": "8.0.1\n\nநிகழ்நேர OCR TTS செயல்பாட்டில் ஒரு பிழை சரி செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "8.0.0\n\n- ในขณะที่การแก้ไขฟังก์ชั่นฉันไม่ได้ใช้ฟังก์ชันการทำซ้ำส่วน TTS โดยไม่ตั้งใจ มันได้รับการฟื้นฟูอย่างเร่งด่วน"
+    "devnote": "8.0.1\n\nแก้ไขข้อผิดพลาดในฟังก์ชัน OCR TTS แบบเรียลไทม์"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "8.0.0\n\n- İşlevi değiştirirken, yanlışlıkla TTS bölümü tekrar işlevini atladım. Acilen restore edildi."
+    "devnote": "8.0.1\n\nGerçek zamanlı OCR TTS işlevinde bir hata düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "8.0.0\n\n- ఫంక్షన్‌ను సవరించేటప్పుడు, నేను అనుకోకుండా TTS విభాగం రిపీట్ ఫంక్షన్‌ను విస్మరించాను. ఇది అత్యవసరంగా పునరుద్ధరించబడింది."
+    "devnote": "8.0.1\n\nరియల్ టైమ్ OCR TTS ఫంక్షన్‌లో బగ్ పరిష్కరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "8.0.0\n\n- ਫੰਕਸ਼ਨ ਨੂੰ ਸੋਧਣ ਵੇਲੇ, ਮੈਂ ਗਲਤੀ ਨਾਲ ਟੀਟੀਐਸ ਦੀ ਸੈਕਸ਼ਨ ਦੁਹਰਾਉਣ ਦੇ ਕਾਰਜ ਨੂੰ ਛੱਡ ਦਿੱਤਾ. ਇਸ ਨੂੰ ਤੁਰੰਤ ਬਹਾਲ ਕੀਤਾ ਗਿਆ."
+    "devnote": "8.0.1\n\nਰੀਅਲ-ਟਾਈਮ ਓਸੀਆਰ ਟੀਟੀਐਸ ਫੰਕਸ਼ਨ ਵਿੱਚ ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "8.0.0\n\n- در حین اصلاح عملکرد ، من به طور تصادفی عملکرد تکرار بخش TTS را حذف کردم. فوراً ترمیم شد."
+    "devnote": "8.0.1\n\nرفع اشکال در عملکرد OCR TTS در زمان واقعی."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "8.0.0\n\n- Ao modificar a função, acidentalmente omiti a seção TTS Repeat Função. Foi urgentemente restaurado."
+    "devnote": "8.0.1\n\nCorrigido um bug na função OCR TTS em tempo real."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "8.0.0\n\n- Podczas modyfikowania funkcji przypadkowo pominąłem funkcję powtarzania sekcji TTS. Został pilnie przywrócony."
+    "devnote": "8.0.1\n\nNaprawiono błąd w funkcji OCR w czasie rzeczywistym."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "8.0.0\n\n- En modifiant la fonction, j'ai accidentellement omis la fonction de répétition de la section TTS. Il a été restauré urgent."
+    "devnote": "8.0.1\n\nCorrection d'un bug dans la fonction OCR TTS en temps réel."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "8.0.0\n\n- Funktion muuttamisessa jätin vahingossa TTS -osion toistotoiminnon. Se palautettiin kiireellisesti."
+    "devnote": "8.0.1\n\nKorjattu virhe reaaliaikaisessa OCR TTS -toiminnossa."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "8.0.0\n\n- Habang binabago ang pag -andar, hindi ko sinasadyang tinanggal ang seksyon ng TTS na paulit -ulit na pag -andar. Mapilit itong naibalik."
+    "devnote": "8.0.1\n\nNaayos ang isang bug sa function ng real-time na OCR TTS."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "8.0.0\n\n- A függvény módosítása közben véletlenül kihagytam a TTS szakasz ismétlődő funkcióját. Sürgősen helyreállították."
+    "devnote": "8.0.1\n\nJavítva egy hibát a valós idejű OCR TTS függvényben."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "8.0.0\n\n- תוך כדי שינוי הפונקציה השמטתי בטעות את הפונקציה החוזרת של קטע TTS. זה שוחזר בדחיפות."
+    "devnote": "8.0.1\n\nתוקן באג בפונקציה OCR TTS בזמן אמת."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "8.0.0\n\n- फ़ंक्शन को संशोधित करते समय, मैंने गलती से TTS सेक्शन रिपीट फ़ंक्शन को छोड़ दिया। इसे तत्काल बहाल किया गया था।"
+    "devnote": "8.0.1\n\nवास्तविक समय OCR TTS फ़ंक्शन में एक बग फिक्स्ड।"
   }
 }
