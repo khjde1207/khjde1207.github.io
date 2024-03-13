@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "8.0.2\n\nFixed a bug that caused abnormal behavior when automatically playing the next file after TTS playback was completed."
+    "devnote": "8.0.3\n\nFixed a bug that caused abnormal behavior when automatically playing the next file after TTS playback was completed."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "8.0.2\n\nTTS 재생 완료 후 다음 파일 자동 재생시 이상 동작을 하던 버그를 수정 하였습니다."
+    "devnote": "8.0.3\n\nTTS 재생 완료 후 다음 파일 자동 재생시 이상 동작을 하던 버그를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "8.0.2\n\nCorrixiu un erro que causou un comportamento anormal ao xogar automaticamente o seguinte ficheiro despois de que se completase a reprodución de TTS."
+    "devnote": "8.0.3\n\nCorrixiu un erro que causou un comportamento anormal ao xogar automaticamente o seguinte ficheiro despois de que se completase a reprodución de TTS."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "8.0.2\n\nએક બગને ઠીક કરે છે જે ટીટીએસ પ્લેબેક પૂર્ણ થયા પછી આપમેળે આગલી ફાઇલ રમતી વખતે અસામાન્ય વર્તનનું કારણ બને છે."
+    "devnote": "8.0.3\n\nએક બગને ઠીક કરે છે જે ટીટીએસ પ્લેબેક પૂર્ણ થયા પછી આપમેળે આગલી ફાઇલ રમતી વખતે અસામાન્ય વર્તનનું કારણ બને છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "8.0.2\n\nΔιορθώθηκε ένα σφάλμα που προκάλεσε μη φυσιολογική συμπεριφορά όταν έπαιζε αυτόματα το επόμενο αρχείο μετά την ολοκλήρωση της αναπαραγωγής TTS."
+    "devnote": "8.0.3\n\nΔιορθώθηκε ένα σφάλμα που προκάλεσε μη φυσιολογική συμπεριφορά όταν έπαιζε αυτόματα το επόμενο αρχείο μετά την ολοκλήρωση της αναπαραγωγής TTS."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "8.0.2\n\nEen bug opgelost die abnormaal gedrag veroorzaakte bij het automatisch spelen van het volgende bestand nadat het afspelen van TTS was voltooid."
+    "devnote": "8.0.3\n\nEen bug opgelost die abnormaal gedrag veroorzaakte bij het automatisch spelen van het volgende bestand nadat het afspelen van TTS was voltooid."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "8.0.2\n\nTS प्लेब्याक समाप्त भए पछि स्वत: अर्को फाईल खेल्दा असामान्य व्यवहारलाई निश्चित गर्नुहोस्"
+    "devnote": ".0.0 ..\n\nTS प्लेब्याक समाप्त भए पछि स्वत: अर्को फाईल खेल्दा असामान्य व्यवहारलाई निश्चित गर्नुहोस्"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "8.0.2\n\nFikset en feil som forårsaket unormal oppførsel når du automatisk spilte den neste filen etter at TTS -avspilling ble fullført."
+    "devnote": "8.0.3\n\nFikset en feil som forårsaket unormal oppførsel når du automatisk spilte den neste filen etter at TTS -avspilling ble fullført."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "8.0.2\n\nRettet en fejl, der forårsagede unormal opførsel, da det automatisk spillede den næste fil, efter at TTS -afspilningen var afsluttet."
+    "devnote": "8.0.3\n\nRettet en fejl, der forårsagede unormal opførsel, da det automatisk spillede den næste fil, efter at TTS -afspilningen var afsluttet."
   },
   "독일어": {
     "key": "de",
-    "devnote": "8.0.2\n\nEs wurde ein Fehler behoben, der abnormales Verhalten verursachte, als die nächste Datei automatisch nach Abschluss der TTS -Wiedergabe automatisch abgespielt wurde."
+    "devnote": "8.0.3\n\nEs wurde ein Fehler behoben, der abnormales Verhalten verursachte, als die nächste Datei automatisch nach Abschluss der TTS -Wiedergabe automatisch abgespielt wurde."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "8.0.2\n\nແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ເຮັດໃຫ້ເກີດການປະພຶດທີ່ຜິດປົກກະຕິໃນເວລາຫຼີ້ນໄຟລ໌ຕໍ່ໄປໂດຍອັດຕະໂນມັດຫຼັງຈາກການຫຼີ້ນຫຼີ້ນໃຫມ່."
+    "devnote": "8.0.3\n\nແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ເຮັດໃຫ້ເກີດການປະພຶດທີ່ຜິດປົກກະຕິໃນເວລາຫຼີ້ນໄຟລ໌ຕໍ່ໄປໂດຍອັດຕະໂນມັດຫຼັງຈາກການຫຼີ້ນຫຼີ້ນໃຫມ່."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "8.0.2\n\nNovērsta kļūda, kas izraisīja patoloģisku izturēšanos, automātiski atskaņojot nākamo failu pēc TTS atskaņošanas pabeigšanas."
+    "devnote": "8.0.3\n\nNovērsta kļūda, kas izraisīja patoloģisku izturēšanos, automātiski atskaņojot nākamo failu pēc TTS atskaņošanas pabeigšanas."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "8.0.2\n\nИсправлена ​​ошибка, которая вызвала ненормальное поведение при автоматическом воспроизведении следующего файла после завершения воспроизведения TTS."
+    "devnote": "8.0.3\n\nИсправлена ​​ошибка, которая вызвала ненормальное поведение при автоматическом воспроизведении следующего файла после завершения воспроизведения TTS."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "8.0.2\n\nS -a rezolvat o eroare care a provocat un comportament anormal atunci când redați automat următorul fișier după ce redarea TTS a fost finalizată."
+    "devnote": "8.0.3\n\nS -a rezolvat o eroare care a provocat un comportament anormal atunci când redați automat următorul fișier după ce redarea TTS a fost finalizată."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "8.0.2\n\nIštaisyta klaida, sukėlusi nenormalų elgesį, kai automatiškai atkuriant kitą failą, baigus TTS atkūrimą."
+    "devnote": "8.0.3\n\nIštaisyta klaida, sukėlusi nenormalų elgesį, kai automatiškai atkuriant kitą failą, baigus TTS atkūrimą."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "8.0.2\n\nटीटीएस प्लेबॅक पूर्ण झाल्यानंतर पुढील फाईल स्वयंचलितपणे प्ले करताना असामान्य वर्तन उद्भवणारे बग निश्चित केले."
+    "devnote": "8.0.3\n\nटीटीएस प्लेबॅक पूर्ण झाल्यानंतर पुढील फाईल स्वयंचलितपणे प्ले करताना असामान्य वर्तन उद्भवणारे बग निश्चित केले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "8.0.2\n\nПоправи грешка што предизвика абнормално однесување кога автоматски ја играше следната датотека по завршувањето на репродукцијата на ТТС."
+    "devnote": "8.0.3\n\nПоправи грешка што предизвика абнормално однесување кога автоматски ја играше следната датотека по завршувањето на репродукцијата на ТТС."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "8.0.2\n\nടിടിഎസ് പ്ലേബാക്ക് പൂർത്തിയാക്കിയ ശേഷം അടുത്ത ഫയൽ യാന്ത്രികമായി പ്ലേ ചെയ്യുമ്പോൾ അസാധാരണമായ പെരുമാറ്റത്തിന് കാരണമായ ഒരു ബഗ് പരിഹരിച്ചു."
+    "devnote": "8.0.3\n\nടിടിഎസ് പ്ലേബാക്ക് പൂർത്തിയാക്കിയ ശേഷം അടുത്ത ഫയൽ യാന്ത്രികമായി പ്ലേ ചെയ്യുമ്പോൾ അസാധാരണമായ പെരുമാറ്റത്തിന് കാരണമായ ഒരു ബഗ് പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "8.0.2\n\nTetapkan bug yang menyebabkan tingkah laku yang tidak normal apabila secara automatik memainkan fail seterusnya selepas main balik TTS selesai."
+    "devnote": "8.0.3\n\nTetapkan bug yang menyebabkan tingkah laku yang tidak normal apabila secara automatik memainkan fail seterusnya selepas main balik TTS selesai."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "8.0.2\n\nTTS Playback дууссаны дараа дараагийн файлыг автоматаар тоглоход хэвийн бус зан авирыг зассан."
+    "devnote": "8.0.3\n\nTTS Playback дууссаны дараа дараагийн файлыг автоматаар тоглоход хэвийн бус зан авирыг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "8.0.2\n\nHurrengo fitxategia automatikoki erreproduzitzen denean portaera anormalak eragin dituen akats bat konpondu da TTS erreprodukzioa amaitu ondoren."
+    "devnote": "8.0.3\n\nHurrengo fitxategia automatikoki erreproduzitzen denean portaera anormalak eragin dituen akats bat konpondu da TTS erreprodukzioa amaitu ondoren."
   },
   "버마어": {
     "key": "my",
-    "devnote": "8.0.2\n\nTTS မှပြန်ဖွင့်ပြီးနောက်နောက်ဖိုင်ကိုအလိုအလျောက်ဖွင့်သောအခါနောက်ဖိုင်ကိုအလိုအလျောက်ဖွင့်သောအခါပုံမှန်မဟုတ်သောအပြုအမူကိုဖြစ်ပေါ်စေသော bug တစ်ခုပြုလုပ်ခဲ့သည်။"
+    "devnote": "8.0.3\n\nTTS မှပြန်ဖွင့်ပြီးနောက်နောက်ဖိုင်ကိုအလိုအလျောက်ဖွင့်သောအခါနောက်ဖိုင်ကိုအလိုအလျောက်ဖွင့်သောအခါပုံမှန်မဟုတ်သောအပြုအမူကိုဖြစ်ပေါ်စေသော bug တစ်ခုပြုလုပ်ခဲ့သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "8.0.2\n\nĐã sửa lỗi gây ra hành vi bất thường khi tự động phát tệp tiếp theo sau khi hoàn thành phát lại TTS."
+    "devnote": "8.0.3\n\nĐã sửa lỗi gây ra hành vi bất thường khi tự động phát tệp tiếp theo sau khi hoàn thành phát lại TTS."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "8.0.2\n\nВыпраўлена памылка, якая выклікала няправільнае паводзіны пры аўтаматычнай прайграванні наступнага файла пасля завяршэння прайгравання TTS."
+    "devnote": "8.0.3\n\nВыпраўлена памылка, якая выклікала няправільнае паводзіны пры аўтаматычнай прайграванні наступнага файла пасля завяршэння прайгравання TTS."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "8.0.2\n\nটিটিএস প্লেব্যাক শেষ হওয়ার পরে স্বয়ংক্রিয়ভাবে পরবর্তী ফাইলটি খেললে অস্বাভাবিক আচরণ তৈরি করে এমন একটি বাগ স্থির করে।"
+    "devnote": "8.0.3\n\nটিটিএস প্লেব্যাক শেষ হওয়ার পরে স্বয়ংক্রিয়ভাবে পরবর্তী ফাইলটি খেললে অস্বাভাবিক আচরণ তৈরি করে এমন একটি বাগ স্থির করে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "8.0.2\n\nФиксирана грешка, която предизвика ненормално поведение при автоматично възпроизвеждане на следващия файл след завършване на възпроизвеждането на TTS."
+    "devnote": "8.0.3\n\nФиксирана грешка, която предизвика ненормално поведение при автоматично възпроизвеждане на следващия файл след завършване на възпроизвеждането на TTS."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "8.0.2\n\nПоправљена је грешка која је узроковала ненормално понашање када се аутоматски репродукује следећа датотека након завршетка репродукције ТТС-а."
+    "devnote": "8.0.3\n\nПоправљена је грешка која је узроковала ненормално понашање када се аутоматски репродукује следећа датотека након завршетка репродукције ТТС-а."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "8.0.2\n\nZisizohamishika mdudu ambao ulisababisha tabia isiyo ya kawaida wakati wa kucheza moja kwa moja faili inayofuata baada ya kucheza tena kwa TTS kukamilika."
+    "devnote": "8.0.3\n\nZisizohamishika mdudu ambao ulisababisha tabia isiyo ya kawaida wakati wa kucheza moja kwa moja faili inayofuata baada ya kucheza tena kwa TTS kukamilika."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "8.0.2\n\nFixade ett fel som orsakade onormalt beteende när man automatiskt spelade nästa fil efter att TTS -uppspelningen var klar."
+    "devnote": "8.0.3\n\nFixade ett fel som orsakade onormalt beteende när du automatiskt spelade nästa fil efter att TTS -uppspelningen var klar."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "8.0.2\n\nSe corrigió un error que causaba un comportamiento anormal cuando se reproduce automáticamente el siguiente archivo después de que se completó la reproducción de TTS."
+    "devnote": "8.0.3\n\nSe corrigió un error que causaba un comportamiento anormal cuando se reproduce automáticamente el siguiente archivo después de que se completó la reproducción de TTS."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "8.0.2\n\nOpravená chyba, ktorá spôsobila neobvyklé správanie pri automatickom prehrávaní nasledujúceho súboru po dokončení prehrávania TTS."
+    "devnote": "8.0.3\n\nOpravená chyba, ktorá spôsobila neobvyklé správanie pri automatickom prehrávaní nasledujúceho súboru po dokončení prehrávania TTS."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "8.0.2\n\nOdpravil je napako, ki je povzročila nenormalno vedenje, ko je bila samodejno predvajanje naslednje datoteke po končani predvajanju TTS."
+    "devnote": "8.0.3\n\nOdpravil je napako, ki je povzročila nenormalno vedenje, ko je bila samodejno predvajanje naslednje datoteke po končani predvajanju TTS."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "8.0.0.2\n\nTTS RUTBALB එකක් ස්වයංක්රීයව ඊළඟ ගොනුව වාදනය කිරීමෙන් පසු අසාමාන්ය ලෙස හැසිරීමට හේතු වූ දෝෂයක් විසඳා ඇත."
+    "devnote": "8.0.0.3\n\nTTS RUTBALB එකක් ස්වයංක්රීයව ඊළඟ ගොනුව වාදනය කිරීමෙන් පසු අසාමාන්ය ලෙස හැසිරීමට හේතු වූ දෝෂයක් විසඳා ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "8.0.2\n\nتم إصلاح الخلل الذي تسبب في سلوك غير طبيعي عند تشغيل الملف التالي تلقائيًا بعد الانتهاء من تشغيل TTS."
+    "devnote": "8.0.3\n\nتم إصلاح الخلل الذي تسبب في سلوك غير طبيعي عند تشغيل الملف التالي تلقائيًا بعد الانتهاء من تشغيل TTS."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "8.0.2\n\nFix նջված է մի սխալ, որը առաջացրել է աննորմալ պահվածք, երբ ավարտվել է հաջորդ ֆայլը հաջորդ ֆայլը:"
+    "devnote": "8.0.3\n\nFix նջված է մի սխալ, որը առաջացրել է աննորմալ պահվածք, երբ ավարտվել է հաջորդ ֆայլը հաջորդ ֆայլը:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "8.0.2\n\nLagaði villu sem olli óeðlilegri hegðun þegar sjálfkrafa spilaði næstu skrá eftir að TTS spilaði var lokið."
+    "devnote": "8.0.3\n\nLagaði villu sem olli óeðlilegri hegðun þegar sjálfkrafa spilaði næstu skrá eftir að TTS spilaði var lokið."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "8.0.2\n\nTTS çaldıqdan sonra avtomatik olaraq növbəti faylı çalarkən anormal davranışa səbəb olan bir səhv düzəldildi."
+    "devnote": "8.0.3\n\nTTS çaldıqdan sonra avtomatik olaraq növbəti faylı çalarkən anormal davranışa səbəb olan bir səhv düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "8.0.2\n\n'N fout opgelos wat abnormale gedrag veroorsaak het toe die volgende lêer outomaties die volgende lêer gespeel het nadat die TTS -afspeel voltooi is."
+    "devnote": "8.0.3\n\n'N fout opgelos wat abnormale gedrag veroorsaak het toe die volgende lêer outomaties die volgende lêer gespeel het nadat die TTS -afspeel voltooi is."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "8.0.2\n\nFiksoi një gabim që shkaktoi sjellje jonormale kur luan automatikisht skedarin tjetër pasi të përfundojë riprodhimi i TTS."
+    "devnote": "8.0.3\n\nFiksoi një gabim që shkaktoi sjellje jonormale kur luan automatikisht skedarin tjetër pasi të përfundojë riprodhimi i TTS."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "8.0.2\n\nየ TTS መልሶ ማጫወት ከተጠናቀቀ በኋላ በራስ-ሰር የሚቀጥለውን ፋይል በሚጫወትበት ጊዜ ያልተለመደ ባህሪን ያነሳው ሳንካ ተጠግኗል."
+    "devnote": "8.0.3\n\nየ TTS መልሶ ማጫወት ከተጠናቀቀ በኋላ በራስ-ሰር የሚቀጥለውን ፋይል በሚጫወትበት ጊዜ ያልተለመደ ባህሪን ያነሳው ሳንካ ተጠግኗል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "8.0.2\n\nParandatud viga, mis põhjustas ebanormaalse käitumise järgmise faili automaatselt pärast TTS -i taasesituse lõpuleviimist."
+    "devnote": "8.0.3\n\nParandatud viga, mis põhjustas ebanormaalse käitumise järgmise faili automaatselt pärast TTS -i taasesituse lõpuleviimist."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "8.0.2\n\nٹی ٹی ایس پلے بیک مکمل ہونے کے بعد اگلی فائل کو خود بخود بجانے پر غیر معمولی سلوک کا سبب بننے والے ایک بگ کو طے کیا۔"
+    "devnote": "8.0.3\n\nٹی ٹی ایس پلے بیک مکمل ہونے کے بعد اگلی فائل کو خود بخود بجانے پر غیر معمولی سلوک کی وجہ سے ایک بگ طے کیا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "8.0.2\n\nВиправлена ​​помилка, яка спричинила ненормальну поведінку при автоматичному відтворенні наступного файлу після завершення відтворення TTS."
+    "devnote": "8.0.3\n\nВиправлена ​​помилка, яка спричинила ненормальну поведінку при автоматичному відтворенні наступного файлу після завершення відтворення TTS."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "8.0.2\n\nRisolto un bug che ha causato un comportamento anormale quando si riproduce automaticamente il file successivo dopo il completamento della riproduzione di TTS."
+    "devnote": "8.0.3\n\nRisolto un bug che causava un comportamento anormale quando si riproduce automaticamente il file successivo dopo il completamento della riproduzione di TTS."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "8.0.2\n\nMemperbaiki bug yang menyebabkan perilaku abnormal ketika secara otomatis memainkan file berikutnya setelah pemutaran TTS selesai."
+    "devnote": "8.0.3\n\nMemperbaiki bug yang menyebabkan perilaku abnormal ketika secara otomatis memainkan file berikutnya setelah pemutaran TTS selesai."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "8.0.2\n\nTTS再生が完了した後に次のファイルを自動的に再生するときに異常な動作を引き起こすバグを修正しました。"
+    "devnote": "8.0.3\n\nTTS再生が完了した後に次のファイルを自動的に再生するときに異常な動作を引き起こすバグを修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "8.0.2\n\nდააფიქსირა შეცდომა, რამაც გამოიწვია არანორმალური ქცევა, როდესაც ავტომატურად უკრავს შემდეგ ფაილს TTS დაკვრის დასრულების შემდეგ."
+    "devnote": "8.0.3\n\nდააფიქსირა შეცდომა, რამაც გამოიწვია არანორმალური ქცევა, როდესაც ავტომატურად უკრავს შემდეგ ფაილს TTS აღწარმოების დასრულების შემდეგ."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "8.0.2\n\nKulungiswe isiphazamisi esidale indlela yokuziphatha okungajwayelekile lapho ngokuzenzakalelayo idlala ifayili elilandelayo ngemuva kokuqedwa kokudlalwa kwe-TTS."
+    "devnote": "8.0.3\n\nKulungiswe isiphazamisi esidale indlela yokuziphatha okungajwayelekile lapho ngokuzenzakalelayo idlala ifayili elilandelayo ngemuva kokuqedwa kokudlalwa kwe-TTS."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "8.0.2\n\n修复了在TTS播放完成后自动播放下一个文件时会导致异常行为的错误。"
+    "devnote": "8.0.3\n\n修复了在TTS播放完成后自动播放下一个文件时会导致异常行为的错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "8.0.2\n\n修復了在TTS播放完成後自動播放下一個文件時會導致異常行為的錯誤。"
+    "devnote": "8.0.3\n\n修復了在TTS播放完成後自動播放下一個文件時會導致異常行為的錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "8.0.2\n\n修復了在TTS播放完成後自動播放下一個文件時會導致異常行為的錯誤。"
+    "devnote": "8.0.3\n\n修復了在TTS播放完成後自動播放下一個文件時會導致異常行為的錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "8.0.2\n\nOpravena chyba, která způsobila abnormální chování při automatickém přehrávání dalšího souboru po dokončení přehrávání TTS."
+    "devnote": "8.0.3\n\nOpravena chyba, která způsobila abnormální chování při automatickém přehrávání dalšího souboru po dokončení přehrávání TTS."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "8.0.2\n\nTTS ойнату аяқталғаннан кейін келесі файлды автоматты түрде ойнатқан кезде, өзгермелі әрекетті тудырды."
+    "devnote": "8.0.3\n\nTTS ойнату аяқталғаннан кейін келесі файлды автоматты түрде ойнатқан кезде, өзгермелі әрекетті тудырды."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "8.0.2\n\nS'ha corregit un error que va provocar un comportament anormal quan es reproduïa automàticament el següent fitxer després de completar la reproducció TTS."
+    "devnote": "8.0.3\n\nS'ha corregit un error que va provocar un comportament anormal quan es reproduïa automàticament el següent fitxer després de completar la reproducció TTS."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "8.0.2\n\nಟಿಟಿಎಸ್ ಪ್ಲೇಬ್ಯಾಕ್ ಪೂರ್ಣಗೊಂಡ ನಂತರ ಮುಂದಿನ ಫೈಲ್ ಅನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪ್ಲೇ ಮಾಡುವಾಗ ಅಸಹಜ ವರ್ತನೆಗೆ ಕಾರಣವಾದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "8.0.3\n\nಟಿಟಿಎಸ್ ಪ್ಲೇಬ್ಯಾಕ್ ಪೂರ್ಣಗೊಂಡ ನಂತರ ಮುಂದಿನ ಫೈಲ್ ಅನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪ್ಲೇ ಮಾಡುವಾಗ ಅಸಹಜ ವರ್ತನೆಗೆ ಕಾರಣವಾದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "8.0.2\n\nIspravljena je greška koja je uzrokovala nenormalno ponašanje prilikom automatskog reprodukcije sljedeće datoteke nakon završetka reprodukcije TTS -a."
+    "devnote": "8.0.3\n\nIspravljena je greška koja je uzrokovala nenormalno ponašanje prilikom automatskog reprodukcije sljedeće datoteke nakon završetka reprodukcije TTS -a."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "8.0.2\n\nជួសជុលកំហុសដែលបណ្តាលឱ្យមានឥរិយាបថមិនធម្មតានៅពេលលេងឯកសារបន្ទាប់ដោយស្វ័យប្រវត្តិបន្ទាប់ពីការចាក់សារថ្មីរបស់ TTS ត្រូវបានបញ្ចប់។"
+    "devnote": "8.0.3\n\nជួសជុលកំហុសដែលបណ្តាលឱ្យមានឥរិយាបថមិនធម្មតានៅពេលលេងឯកសារបន្ទាប់ដោយស្វ័យប្រវត្តិបន្ទាប់ពីការចាក់សារថ្មីរបស់ TTS ត្រូវបានបញ្ចប់។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "8.0.2\n\nTTS ойнотуу аяктагандан кийин кийинки файлды автоматтык түрдө ойноп жатканда, анормалдуу жүрүм-турумга алып келген мүчүлүштүктөрдү чечти."
+    "devnote": "8.0.3\n\nTTS ойнотуу аяктагандан кийин кийинки файлды автоматтык түрдө ойноп жатканда, анормалдуу жүрүм-турумга алып келген мүчүлүштүктөрдү чечти."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "8.0.2\n\nடி.டி.எஸ் பிளேபேக் முடிந்ததும் அடுத்த கோப்பை தானாக இயக்கும்போது அசாதாரண நடத்தையை ஏற்படுத்திய ஒரு பிழை சரி செய்யப்பட்டது."
+    "devnote": "8.0.3\n\nடி.டி.எஸ் பிளேபேக் முடிந்ததும் அடுத்த கோப்பை தானாக இயக்கும்போது அசாதாரண நடத்தையை ஏற்படுத்திய ஒரு பிழை சரி செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "8.0.2\n\nแก้ไขข้อผิดพลาดที่ทำให้เกิดพฤติกรรมที่ผิดปกติเมื่อเล่นไฟล์ถัดไปโดยอัตโนมัติหลังจากการเล่น TTS เสร็จสมบูรณ์"
+    "devnote": "8.0.3\n\nแก้ไขข้อผิดพลาดที่ทำให้เกิดพฤติกรรมที่ผิดปกติเมื่อเล่นไฟล์ถัดไปโดยอัตโนมัติหลังจากการเล่น TTS เสร็จสมบูรณ์"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "8.0.2\n\nTTS oynatıldıktan sonra bir sonraki dosyayı otomatik olarak oynatırken anormal davranışa neden olan bir hata düzeltildi."
+    "devnote": "8.0.3\n\nTTS oynattıktan sonra bir sonraki dosyayı otomatik olarak oynatırken anormal davranışa neden olan bir hata düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "8.0.2\n\nTTS ప్లేబ్యాక్ పూర్తయిన తర్వాత స్వయంచాలకంగా తదుపరి ఫైల్‌ను ప్లే చేసేటప్పుడు అసాధారణ ప్రవర్తనకు కారణమైన బగ్ పరిష్కరించబడింది."
+    "devnote": "8.0.3\n\nTTS ప్లేబ్యాక్ పూర్తయిన తర్వాత స్వయంచాలకంగా తదుపరి ఫైల్‌ను ప్లే చేసేటప్పుడు అసాధారణ ప్రవర్తనకు కారణమైన బగ్ పరిష్కరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "8.0.2\n\nਟੀ ਟੀs ਪਲੇਬੈਕ ਦੇ ਪੂਰਾ ਹੋਣ ਤੋਂ ਬਾਅਦ ਅਗਲੀ ਫਾਈਲ ਨੂੰ ਆਟੋਮੈਟਿਕਲੀ ਚਲਾਉਣ ਵੇਲੇ ਅਸਧਾਰਨ ਵਿਵਹਾਰ ਦਾ ਕਾਰਨ ਬਣਿਆ."
+    "devnote": "8.0.3\n\nਟੀ ਟੀs ਪਲੇਬੈਕ ਦੇ ਪੂਰਾ ਹੋਣ ਤੋਂ ਬਾਅਦ ਅਗਲੀ ਫਾਈਲ ਨੂੰ ਆਟੋਮੈਟਿਕਲੀ ਚਲਾਉਣ ਵੇਲੇ ਅਸਧਾਰਨ ਵਿਵਹਾਰ ਦਾ ਕਾਰਨ ਬਣਿਆ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "8.0.2\n\nرفع اشکالی که باعث ایجاد رفتار غیر طبیعی در هنگام پخش خودکار پرونده بعدی پس از اتمام پخش TTS شد."
+    "devnote": "8.0.3\n\nرفع اشکالی که باعث ایجاد رفتار غیر طبیعی در هنگام پخش خودکار پرونده بعدی پس از اتمام پخش TTS شد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "8.0.2\n\nCorrigido um bug que causou comportamento anormal ao reproduzir automaticamente o próximo arquivo após a conclusão da reprodução do TTS."
+    "devnote": "8.0.3\n\nCorrigido um bug que causou comportamento anormal ao reproduzir automaticamente o próximo arquivo após a conclusão da reprodução do TTS."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "8.0.2\n\nNaprawiono błąd, który spowodował nieprawidłowe zachowanie podczas automatycznego odtwarzania następnego pliku po zakończeniu odtwarzania TTS."
+    "devnote": "8.0.3\n\nNaprawiono błąd, który spowodował nieprawidłowe zachowanie podczas automatycznego odtwarzania następnego pliku po zakończeniu odtwarzania TTS."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "8.0.2\n\nCorrection d'un bogue qui a provoqué un comportement anormal lors de la lecture automatique du fichier suivant une fois la lecture TTS terminée."
+    "devnote": "8.0.3\n\nCorrection d'un bogue qui a provoqué un comportement anormal lors de la lecture automatique du fichier suivant une fois la lecture TTS terminée."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "8.0.2\n\nKorjattu virhe, joka aiheutti epänormaalia käyttäytymistä pelatessaan seuraavaa tiedostoa automaattisesti TTS -toiston jälkeen."
+    "devnote": "8.0.3\n\nKorjattu virhe, joka aiheutti epänormaalia käyttäytymistä pelatessaan seuraavaa tiedostoa automaattisesti TTS -toiston jälkeen."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "8.0.2\n\nNaayos ang isang bug na nagdulot ng hindi normal na pag -uugali kapag awtomatikong naglalaro sa susunod na file matapos makumpleto ang pag -playback ng TTS."
+    "devnote": "8.0.3\n\nNaayos ang isang bug na nagdulot ng hindi normal na pag -uugali kapag awtomatikong naglalaro sa susunod na file matapos makumpleto ang pag -playback ng TTS."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "8.0.2\n\nJavítva egy hibát, amely rendellenes viselkedést okozott, amikor a következő fájlt automatikusan lejátssza a TTS lejátszása után."
+    "devnote": "8.0.3\n\nJavítva egy hibát, amely rendellenes viselkedést okozott, amikor a következő fájlt automatikusan lejátssza a TTS lejátszása után."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "8.0.2\n\nתיקן באג שגרם להתנהגות לא תקינה כאשר משחק אוטומטית את הקובץ הבא לאחר השלמת הפעלת TTS."
+    "devnote": "8.0.3\n\nתיקן באג שגרם להתנהגות לא תקינה כאשר משחק אוטומטית את הקובץ הבא לאחר השלמת הפעלת TTS."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "8.0.2\n\nएक बग फिक्स्ड जो टीटीएस प्लेबैक के पूरा होने के बाद स्वचालित रूप से अगली फ़ाइल खेलने पर असामान्य व्यवहार का कारण बना।"
+    "devnote": "8.0.3\n\nएक बग फिक्स्ड जो टीटीएस प्लेबैक के पूरा होने के बाद स्वचालित रूप से अगली फ़ाइल खेलने पर असामान्य व्यवहार का कारण बना।"
   }
 }
