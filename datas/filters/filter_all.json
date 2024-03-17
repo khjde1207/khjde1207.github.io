@@ -145,5 +145,12 @@
         "filter": "[♥♣♠◀▶♪♫♬○●☆★△▲▽▼→←↑↓↗↖↘↙※◯*]",
         "to": "",
         "enable": true
+    },
+    {
+        "name": "semicolon",
+        "expr": false,
+        "filter": ";",
+        "to": "",
+        "enable": true
     }
 ]
