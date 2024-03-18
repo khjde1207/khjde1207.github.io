@@ -4,14 +4,14 @@
         "expr": true,
         "filter": "[一-龥]|[㐀-䶵]|[豈-龎]",
         "to": "",
-        "enable": false
+        "enable": true
     },
     {
         "name": "일본어 (일본어) 필터",
         "expr": true,
         "filter": "[ぁ-ゔ]|[ァ-ヴー]|[々〆〤]",
         "to": "",
-        "enable": false
+        "enable": true
     },
     {
         "name": "끝이 다로 안끝나면서 거슬리는 문구.",
@@ -433,5 +433,12 @@
         "name": "아랫입술",
         "expr": false,
         "to": "아랫 입술"
+    },
+    {
+        "filter": "NPC",
+        "enable": true,
+        "name": "엔피씨",
+        "expr": false,
+        "to": "엔피씨"
     }
 ]
