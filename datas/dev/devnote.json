@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "8.0.5\n\n1. Fixed a bug where underline settings were not maintained.\n2. Fixed a bug that prevented settings backup/restore.\n3. A function to search from the current location has been added when searching.\n4. The search function can now be assigned to a shortcut key.\n5. Ads between TTS filter/bulk edit list have been removed."
+    "devnote": "8.0.6\n\n1. Modified so that the touch area margin can be set separately.\n2. The backup/recovery logic has been modified.\n3. Modified to ignore sub (comment and explanation) tags when converting epub -> txt."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "8.0.5\n\n1. 밑줄설정이 유지 되지 않던 버그를 수정 하였습니다. \n2. 설정 백업/ 복구가 안되던 버그를 수정 하였습니다. \n3. 검색시 현재 위치부터 탐색 하는 기능을 추가 하였습니다. \n4. 검색기능 을 단축 키로 지정 할 수 있도록 하였습니다. \n5. TTS 필터 / 일괄 수정 리스트 사이의 광고를 제거 하였습니다."
+    "devnote": "8.0.6\n\n1. 터치영역 여백을 따로 설정 할 수있도록 수정하였습니다. \n2. 백업/복구 로직을 수정하였습니다. \n3. epub -> txt 변환시 sub(주석및 설명) 태그를 무시하도록 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "8.0.5\n\n1. Corrixiuse un erro no que non se mantiña a configuración do subliñado.\n2. Corrixiuse un erro que impedía a copia de seguridade/restauración da configuración.\n3. Engadiuse unha función para buscar desde a localización actual ao buscar.\n4. Agora pódese asignar a función de busca a unha tecla de atallo.\n5. Elimináronse os anuncios entre o filtro TTS e a lista de edición masiva."
+    "devnote": "8.0.6\n\n1. Modificouse para que a marxe da área táctil se poida definir por separado.\n2. Modificouse a lóxica de copia de seguridade/recuperación.\n3. Modificado para ignorar as etiquetas sub (comentario e explicación) ao converter epub -> txt."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "8.0.5\n\n1. જ્યાં અન્ડરલાઇન સેટિંગ્સ જાળવવામાં આવી ન હતી ત્યાં ભૂલને ઠીક કરી.\n2. બગને ઠીક કર્યો જે સેટિંગ્સ બેકઅપ/રીસ્ટોર અટકાવે છે.\n3. શોધ કરતી વખતે વર્તમાન સ્થાન પરથી શોધવા માટેનું કાર્ય ઉમેરવામાં આવ્યું છે.\n4. શોધ કાર્ય હવે શોર્ટકટ કીને સોંપી શકાય છે.\n5. TTS ફિલ્ટર/બલ્ક સંપાદન સૂચિ વચ્ચેની જાહેરાતો દૂર કરવામાં આવી છે."
+    "devnote": "8.0.6\n\n1. સંશોધિત જેથી ટચ એરિયા માર્જિન અલગથી સેટ કરી શકાય.\n2. બેકઅપ/પુનઃપ્રાપ્તિ તર્કમાં ફેરફાર કરવામાં આવ્યો છે.\n3. epub -> txt ને કન્વર્ટ કરતી વખતે સબ (ટિપ્પણી અને સમજૂતી) ટૅગ્સને અવગણવા માટે સંશોધિત."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "8.0.5\n\n1. Διορθώθηκε ένα σφάλμα όπου οι ρυθμίσεις υπογράμμισης δεν διατηρήθηκαν.\n2. Διορθώθηκε ένα σφάλμα που εμπόδιζε τη δημιουργία αντιγράφων ασφαλείας/επαναφορά ρυθμίσεων.\n3. Κατά την αναζήτηση έχει προστεθεί μια λειτουργία αναζήτησης από την τρέχουσα τοποθεσία.\n4. Η λειτουργία αναζήτησης μπορεί τώρα να αντιστοιχιστεί σε ένα πλήκτρο συντόμευσης.\n5. Οι διαφημίσεις μεταξύ φίλτρου TTS/λίστας μαζικής επεξεργασίας έχουν καταργηθεί."
+    "devnote": "8.0.6\n\n1. Τροποποιήθηκε έτσι ώστε το περιθώριο της περιοχής αφής να μπορεί να ρυθμιστεί ξεχωριστά.\n2. Η λογική δημιουργίας αντιγράφων ασφαλείας/ανάκτησης έχει τροποποιηθεί.\n3. Τροποποιήθηκε ώστε να αγνοούνται οι δευτερεύουσες ετικέτες (σχόλιο και επεξήγηση) κατά τη μετατροπή epub -> txt."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "8.0.5\n\n1. Een bug opgelost waarbij de onderstrepingsinstellingen niet werden gehandhaafd.\n2. Een bug opgelost die back-up/herstel van instellingen verhinderde.\n3. Tijdens het zoeken is een functie toegevoegd om vanaf de huidige locatie te zoeken.\n4. De zoekfunctie kan nu worden toegewezen aan een sneltoets.\n5. Advertenties tussen TTS-filter/bulkbewerkingslijst zijn verwijderd."
+    "devnote": "8.0.6\n\n1. Aangepast zodat de marge van het aanraakgebied afzonderlijk kan worden ingesteld.\n2. De back-up-/herstellogica is gewijzigd.\n3. Aangepast om subtags (commentaar en uitleg) te negeren bij het converteren van epub -> txt."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "८.०.५\n\n1. एउटा बग फिक्स गरियो जहाँ अंडरलाइन सेटिङहरू राखिएको थिएन।\n2. सेटिङहरू ब्याकअप/पुनर्स्थापना रोक्ने बग फिक्स गरियो।\n3. खोज गर्दा हालको स्थानबाट खोजी गर्न एक प्रकार्य थपिएको छ।\n4. खोज प्रकार्य अब सर्टकट कुञ्जीमा नियुक्त गर्न सकिन्छ।\n5. TTS फिल्टर/थोक सम्पादन सूची बीचका विज्ञापनहरू हटाइएका छन्।"
+    "devnote": "८.०.६\n\n1. परिमार्जन गरिएको छ ताकि स्पर्श क्षेत्र मार्जिन अलग सेट गर्न सकिन्छ।\n2. ब्याकअप/रिकभरी तर्क परिमार्जन गरिएको छ।\n3. epub -> txt लाई रूपान्तरण गर्दा उप (टिप्पणी र व्याख्या) ट्यागहरूलाई बेवास्ता गर्न परिमार्जन गरियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "8.0.5\n\n1. Rettet en feil der understrekingsinnstillinger ikke ble opprettholdt.\n2. Rettet en feil som forhindret sikkerhetskopiering/gjenoppretting av innstillinger.\n3. En funksjon for å søke fra gjeldende plassering er lagt til under søking.\n4. Søkefunksjonen kan nå tilordnes en hurtigtast.\n5. Annonser mellom TTS-filter/masseredigeringsliste er fjernet."
+    "devnote": "8.0.6\n\n1. Modifisert slik at berøringsområdets marg kan stilles inn separat.\n2. Sikkerhetskopierings-/gjenopprettingslogikken er endret.\n3. Modifisert for å ignorere under (kommentar og forklaring)-tagger ved konvertering av epub -> txt."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "8.0.5\n\n1. Rettede en fejl, hvor understregningsindstillinger ikke blev vedligeholdt.\n2. Rettede en fejl, der forhindrede sikkerhedskopiering/gendannelse af indstillinger.\n3. En funktion til at søge fra den aktuelle placering er blevet tilføjet under søgning.\n4. Søgefunktionen kan nu tildeles en genvejstast.\n5. Annoncer mellem TTS-filter/masseredigeringsliste er blevet fjernet."
+    "devnote": "8.0.6\n\n1. Ændret, så berøringsområdets margen kan indstilles separat.\n2. Sikkerhedskopierings-/gendannelseslogikken er blevet ændret.\n3. Ændret til at ignorere under (kommentar og forklaring) tags ved konvertering af epub -> txt."
   },
   "독일어": {
     "key": "de",
-    "devnote": "8.0.5\n\n1. Es wurde ein Fehler behoben, bei dem die Unterstreichungseinstellungen nicht beibehalten wurden.\n2. Es wurde ein Fehler behoben, der die Sicherung/Wiederherstellung der Einstellungen verhinderte.\n3. Bei der Suche wurde eine Funktion zum Suchen vom aktuellen Standort aus hinzugefügt.\n4. Die Suchfunktion kann nun einer Tastenkombination zugewiesen werden.\n5. Anzeigen zwischen TTS-Filter/Massenbearbeitungsliste wurden entfernt."
+    "devnote": "8.0.6\n\n1. Geändert, sodass der Rand des Berührungsbereichs separat eingestellt werden kann.\n2. Die Sicherungs-/Wiederherstellungslogik wurde geändert.\n3. Geändert, um Sub-Tags (Kommentar und Erklärung) beim Konvertieren von epub -> txt zu ignorieren."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "8.0.5\n\n1. ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ການຕັ້ງຄ່າ underline ບໍ່ໄດ້ຮັກສາໄວ້.\n2. ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ປ້ອງກັນການສໍາຮອງຂໍ້ມູນ / ການຟື້ນຟູການຕັ້ງຄ່າ.\n3. ຟັງຊັນເພື່ອຄົ້ນຫາຈາກສະຖານທີ່ປັດຈຸບັນໄດ້ຖືກເພີ່ມເມື່ອຄົ້ນຫາ.\n4. ຟັງຊັນຄົ້ນຫາຕອນນີ້ສາມາດຖືກມອບໝາຍໃຫ້ກັບປຸ່ມລັດໄດ້.\n5. ໂຄສະນາລະຫວ່າງຕົວກອງ TTS / ບັນຊີລາຍຊື່ດັດແກ້ຫຼາຍໄດ້ຖືກໂຍກຍ້າຍອອກ."
+    "devnote": "8.0.6\n\n1. ດັດແກ້ເພື່ອໃຫ້ຂອບພື້ນທີ່ສໍາຜັດສາມາດຕັ້ງແຍກຕ່າງຫາກ.\n2. ເຫດຜົນການສໍາຮອງຂໍ້ມູນ / ການຟື້ນຟູໄດ້ຖືກດັດແກ້.\n3. ດັດແກ້ເພື່ອບໍ່ສົນໃຈ sub (ຄໍາເຫັນແລະຄໍາອະທິບາຍ) tags ເມື່ອປ່ຽນ epub -> txt."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "8.0.5\n\n1. Novērsta kļūda, kuras dēļ netika saglabāti pasvītrojuma iestatījumi.\n2. Novērsta kļūda, kas neļāva dublēt/atjaunot iestatījumus.\n3. Meklēšanas laikā ir pievienota funkcija meklēt no pašreizējās atrašanās vietas.\n4. Tagad meklēšanas funkciju var piešķirt īsinājumtaustiņam.\n5. Reklāmas starp TTS filtru/lielapjoma rediģēšanas sarakstu ir noņemtas."
+    "devnote": "8.0.6\n\n1. Modificēts, lai pieskāriena apgabala malu varētu iestatīt atsevišķi.\n2. Dublēšanas/atkopšanas loģika ir mainīta.\n3. Modificēts, lai ignorētu apakšbirkas (komentārs un skaidrojums), konvertējot epub -> txt."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "8.0.5\n\n1. Исправлена ​​ошибка, из-за которой не сохранялись настройки подчеркивания.\n2. Исправлена ​​ошибка, препятствующая резервному копированию/восстановлению настроек.\n3. Добавлена ​​функция поиска из текущего местоположения при поиске.\n4. Функция поиска теперь может быть назначена клавише быстрого доступа.\n5. Объявления между фильтром TTS и списком массового редактирования были удалены."
+    "devnote": "8.0.6\n\n1. Изменено так, что границу сенсорной области можно устанавливать отдельно.\n2. Изменена логика резервного копирования/восстановления.\n3. Изменено игнорирование дополнительных тегов (комментариев и объяснений) при преобразовании epub -> txt."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "8.0.5\n\n1. S-a remediat o eroare în care setările de subliniere nu erau menținute.\n2. S-a remediat o eroare care a împiedicat backupul/restaurarea setărilor.\n3. O funcție de căutare din locația curentă a fost adăugată la căutare.\n4. Funcția de căutare poate fi acum atribuită unei taste de comandă rapidă.\n5. Anunțurile dintre filtrul TTS/lista de editare în bloc au fost eliminate."
+    "devnote": "8.0.6\n\n1. Modificat astfel încât marginea zonei de atingere să poată fi setată separat.\n2. Logica de backup/recuperare a fost modificată.\n3. Modificat pentru a ignora etichetele secundare (comentare și explicație) la conversia epub -> txt."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "8.0.5\n\n1. Ištaisyta klaida, kai nebuvo išsaugoti pabraukimo nustatymai.\n2. Ištaisyta klaida, kuri neleido sukurti atsarginės nustatymų kopijos / atkurti.\n3. Ieškant buvo pridėta funkcija ieškoti iš dabartinės vietos.\n4. Dabar paieškos funkciją galima priskirti sparčiajam klavišui.\n5. Skelbimai tarp TTS filtro / masinio redagavimo sąrašo buvo pašalinti."
+    "devnote": "8.0.6\n\n1. Modifikuota taip, kad lietimo srities paraštę būtų galima nustatyti atskirai.\n2. Atsarginės kopijos / atkūrimo logika buvo pakeista.\n3. Pakeista, kad būtų ignoruojamos antrinės (komentarų ir paaiškinimų) žymos konvertuojant epub -> txt."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "८.०.५\n\n1. अधोरेखित सेटिंग्ज ठेवल्या नसलेल्या बगचे निराकरण केले.\n2. एका बगचे निराकरण केले ज्यामुळे सेटिंग्ज बॅकअप/रीस्टोअर प्रतिबंधित होते.\n3. शोध करताना वर्तमान स्थानावरून शोधण्याचे कार्य जोडले गेले आहे.\n4. शोध कार्य आता शॉर्टकट कीला नियुक्त केले जाऊ शकते.\n5. TTS फिल्टर/मोठ्या प्रमाणात संपादन सूचीमधील जाहिराती काढून टाकण्यात आल्या आहेत."
+    "devnote": "८.०.६\n\n1. सुधारित केले जेणेकरून स्पर्श क्षेत्र मार्जिन स्वतंत्रपणे सेट केले जाऊ शकते.\n2. बॅकअप/रिकव्हरी लॉजिक सुधारित केले गेले आहे.\n3. epub -> txt रूपांतरित करताना उप (टिप्पणी आणि स्पष्टीकरण) टॅगकडे दुर्लक्ष करण्यासाठी सुधारित."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "8.0.5\n\n1. Поправена грешка каде што поставките за подвлекување не се одржуваа.\n2. Поправена грешка што го спречи правењето/обновување на поставките.\n3. При пребарувањето е додадена функција за пребарување од моменталната локација.\n4. Функцијата за пребарување сега може да се додели на копче за кратенка.\n5. Рекламите помеѓу филтерот TTS/листата за масовно уредување се отстранети."
+    "devnote": "8.0.6\n\n1. Изменето така што маргината на областа на допир може да се постави посебно.\n2. Логиката за резервна копија/обновување е изменета.\n3. Изменето за да се игнорираат под (коментари и објаснувања) ознаки при конвертирање epub -> txt."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "8.0.5\n\n1. അടിവരയിട്ട ക്രമീകരണങ്ങൾ പരിപാലിക്കാത്ത ഒരു ബഗ് പരിഹരിച്ചു.\n2. ക്രമീകരണങ്ങൾ ബാക്കപ്പ്/പുനഃസ്ഥാപിക്കുന്നത് തടയുന്ന ഒരു ബഗ് പരിഹരിച്ചു.\n3. തിരയുമ്പോൾ നിലവിലെ ലൊക്കേഷനിൽ നിന്ന് തിരയാനുള്ള ഒരു ഫംഗ്‌ഷൻ ചേർത്തിട്ടുണ്ട്.\n4. തിരയൽ പ്രവർത്തനം ഇപ്പോൾ ഒരു കുറുക്കുവഴി കീയിലേക്ക് അസൈൻ ചെയ്യാവുന്നതാണ്.\n5. TTS ഫിൽട്ടർ/ബൾക്ക് എഡിറ്റ് ലിസ്റ്റ് എന്നിവയ്ക്കിടയിലുള്ള പരസ്യങ്ങൾ നീക്കം ചെയ്‌തു."
+    "devnote": "8.0.6\n\n1. ടച്ച് ഏരിയ മാർജിൻ പ്രത്യേകം സജ്ജമാക്കാൻ കഴിയുന്ന തരത്തിൽ പരിഷ്ക്കരിച്ചു.\n2. ബാക്കപ്പ്/വീണ്ടെടുക്കൽ ലോജിക്ക് പരിഷ്കരിച്ചു.\n3. epub -> txt പരിവർത്തനം ചെയ്യുമ്പോൾ ഉപ (അഭിപ്രായവും വിശദീകരണവും) ടാഗുകൾ അവഗണിക്കാൻ പരിഷ്കരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "8.0.5\n\n1. Memperbaiki pepijat yang tetapan garis bawah tidak dikekalkan.\n2. Memperbaiki pepijat yang menghalang tetapan sandaran/pulihkan.\n3. Fungsi untuk mencari dari lokasi semasa telah ditambah semasa mencari.\n4. Fungsi carian kini boleh diberikan kepada kekunci pintasan.\n5. Iklan antara penapis TTS/senarai edit pukal telah dialih keluar."
+    "devnote": "8.0.6\n\n1. Diubah suai supaya margin kawasan sentuh boleh ditetapkan secara berasingan.\n2. Logik sandaran/pemulihan telah diubah suai.\n3. Diubah suai untuk mengabaikan sub (komen dan penjelasan) tag apabila menukar epub -> txt."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "8.0.5\n\n1. Доогуур зураасны тохиргоо хийгдээгүй алдааг зассан.\n2. Тохиргоог нөөцлөх/сэргээхэд саад болж байсан алдааг зассан.\n3. Хайлт хийх үед одоогийн байршлаас хайх функц нэмэгдсэн.\n4. Хайлтын функцийг одоо товчлолын товчлуурт оноож болно.\n5. TTS шүүлтүүр/бөөнөөр засварлах жагсаалтын хоорондох зарыг устгасан."
+    "devnote": "8.0.6\n\n1. Мэдрэгч хэсгийн захыг тусад нь тохируулах боломжтой болгож өөрчилсөн.\n2. Нөөцлөх/сэргээх логикийг өөрчилсөн.\n3. epub -> txt хөрвүүлэхдээ дэд (тайлбар, тайлбар) хаягуудыг үл тоомсорлож өөрчилсөн."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "8.0.5\n\n1. Azpimarratzeko ezarpenak mantentzen ez ziren akats bat konpondu da.\n2. Ezarpenen babeskopia/berreskuratzea eragozten zuen akats bat konpondu da.\n3. Bilatzerakoan uneko kokapenetik bilatzeko funtzio bat gehitu da.\n4. Bilaketa-funtzioa orain laster-tekla bati esleitu dakioke.\n5. TTS iragazkien/edizio-zerrenda multzoen arteko iragarkiak kendu dira."
+    "devnote": "8.0.6\n\n1. Ukipen-eremuaren marjina bereizita ezar dadin aldatu da.\n2. Babeskopia/berreskuratze logika aldatu da.\n3. Azpi (iruzkinak eta azalpenak) etiketak alde batera uzteko aldatu da epub -> txt bihurtzean."
   },
   "버마어": {
     "key": "my",
-    "devnote": "၈.၀.၅\n\n1. မျဉ်းသားဆက်တင်များကို မထိန်းသိမ်းထားနိုင်သော ချွတ်ယွင်းချက်ကို ပြင်ဆင်ပါ။\n2. ဆက်တင်များကို အရန်/ပြန်လည်ရယူခြင်းမှ တားဆီးထားသည့် ချို့ယွင်းချက်တစ်ခုကို ပြင်ဆင်ပါ။\n3. ရှာဖွေနေချိန်တွင် လက်ရှိတည်နေရာမှ ရှာဖွေရန် လုပ်ဆောင်ချက်တစ်ခုကို ထည့်သွင်းထားသည်။\n4. ရှာဖွေမှုလုပ်ဆောင်ချက်ကို ဖြတ်လမ်းခလုတ်တစ်ခုသို့ သတ်မှတ်နိုင်ပါပြီ။\n5. TTS filter/bulk တည်းဖြတ်စာရင်းကြားရှိ ကြော်ငြာများကို ဖယ်ရှားလိုက်ပါပြီ။"
+    "devnote": "၈.၀.၆\n\n1. ထိတွေ့ဧရိယာအနားသတ်ကို သီးခြားစီ သတ်မှတ်နိုင်စေရန် ပြင်ဆင်ထားသည်။\n2. အရန်/ပြန်လည်ရယူခြင်း ယုတ္တိဗေဒကို ပြုပြင်ပြီးဖြစ်သည်။\n3. epub -> txt ကို ပြောင်းသည့်အခါ sub (မှတ်ချက်နှင့် ရှင်းပြချက်) တဂ်များကို လျစ်လျူရှုရန် ပြင်ဆင်ထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "8.0.5\n\n1. Đã sửa lỗi không duy trì được cài đặt gạch chân.\n2. Đã sửa lỗi ngăn cản việc sao lưu/khôi phục cài đặt.\n3. Chức năng tìm kiếm từ vị trí hiện tại đã được thêm vào khi tìm kiếm.\n4. Chức năng tìm kiếm hiện có thể được gán cho một phím tắt.\n5. Quảng cáo giữa bộ lọc TTS/danh sách chỉnh sửa hàng loạt đã bị xóa."
+    "devnote": "8.0.6\n\n1. Đã sửa đổi để có thể đặt riêng lề vùng cảm ứng.\n2. Logic sao lưu/khôi phục đã được sửa đổi.\n3. Đã sửa đổi để bỏ qua các thẻ phụ (bình luận và giải thích) khi chuyển đổi epub -> txt."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "8.0.5\n\n1. Выпраўлена памылка, з-за якой налады падкрэслівання не падтрымліваліся.\n2. Выпраўлена памылка, якая перашкаджала рэзервоваму капіяванню/аднаўленню налад.\n3. Пры пошуку была дададзена функцыя пошуку з бягучага месцазнаходжання.\n4. Цяпер функцыю пошуку можна прызначыць спалучэнні клавіш.\n5. Рэклама паміж фільтрам TTS/спісам масавага рэдагавання была выдалена."
+    "devnote": "8.0.6\n\n1. Зменена так, што межы вобласці дотыку можна ўсталёўваць асобна.\n2. Логіка рэзервовага капіявання/аднаўлення была зменена.\n3. Зменена, каб ігнараваць тэгі sub (каментар і тлумачэнне) пры пераўтварэнні epub -> txt."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "৮.০.৫\n\n1. একটি বাগ সংশোধন করা হয়েছে যেখানে আন্ডারলাইন সেটিংস বজায় রাখা হয়নি৷\n2. একটি বাগ সংশোধন করা হয়েছে যা সেটিংস ব্যাকআপ/পুনরুদ্ধারকে বাধা দেয়।\n3. অনুসন্ধান করার সময় বর্তমান অবস্থান থেকে অনুসন্ধান করার জন্য একটি ফাংশন যোগ করা হয়েছে।\n4. সার্চ ফাংশনটি এখন একটি শর্টকাট কীতে বরাদ্দ করা যেতে পারে।\n5. TTS ফিল্টার/বাল্ক সম্পাদনা তালিকার মধ্যে বিজ্ঞাপনগুলি সরানো হয়েছে।"
+    "devnote": "8.0.6\n\n1. পরিবর্তিত যাতে স্পর্শ এলাকার মার্জিন আলাদাভাবে সেট করা যায়।\n2. ব্যাকআপ/পুনরুদ্ধারের যুক্তি পরিবর্তন করা হয়েছে।\n3. epub -> txt রূপান্তর করার সময় সাব (মন্তব্য এবং ব্যাখ্যা) ট্যাগগুলি উপেক্ষা করার জন্য পরিবর্তিত।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "8.0.5\n\n1. Поправена е грешка, при която настройките за подчертаване не се поддържат.\n2. Коригирана грешка, която не позволяваше архивиране/възстановяване на настройките.\n3. Добавена е функция за търсене от текущото местоположение при търсене.\n4. Функцията за търсене вече може да бъде присвоена на клавиш за бърз достъп.\n5. Рекламите между TTS филтър/списък за групово редактиране са премахнати."
+    "devnote": "8.0.6\n\n1. Модифицирано така, че границата на зоната за докосване да може да се задава отделно.\n2. Логиката за архивиране/възстановяване е променена.\n3. Променено за игнориране на sub (коментар и обяснение) етикети при конвертиране на epub -> txt."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "8.0.5\n\n1. Исправљена грешка где подешавања подвлачења нису одржавана.\n2. Исправљена грешка која је спречавала прављење резервних копија/враћање поставки.\n3. Додата је функција за претрагу са тренутне локације приликом претраживања.\n4. Функција претраге сада може да се додели тастеру пречице.\n5. Огласи између ТТС филтера/листу групних уређивања су уклоњени."
+    "devnote": "8.0.6\n\n1. Модификовано тако да се маргина додирне површине може засебно подесити.\n2. Логика резервне копије/опоравка је измењена.\n3. Измењено тако да игнорише под (коментар и објашњење) ознаке приликом конвертовања епуб -> ткт."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "8.0.5\n\n1. Imerekebisha hitilafu ambapo mipangilio ya mstari wa mstari haikudumishwa.\n2. Imerekebisha hitilafu iliyozuia kuhifadhi/kurejesha mipangilio.\n3. Kitendaji cha kutafuta kutoka eneo la sasa kimeongezwa wakati wa kutafuta.\n4. Kazi ya utafutaji sasa inaweza kupewa ufunguo wa njia ya mkato.\n5. Matangazo kati ya kichujio cha TTS/orodha ya kuhariri kwa wingi yameondolewa."
+    "devnote": "8.0.6\n\n1. Imebadilishwa ili ukingo wa eneo la kugusa uweze kuwekwa tofauti.\n2. Mantiki ya chelezo/uokoaji imerekebishwa.\n3. Imebadilishwa ili kupuuza tagi ndogo (maoni na maelezo) wakati wa kubadilisha epub -> txt."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "8.0.5\n\n1. Fixade en bugg där understrykningsinställningar inte bibehölls.\n2. Fixade en bugg som förhindrade säkerhetskopiering/återställning av inställningar.\n3. En funktion för att söka från den aktuella platsen har lagts till vid sökning.\n4. Sökfunktionen kan nu tilldelas en genvägsknapp.\n5. Annonser mellan TTS filter/massaredigeringslista har tagits bort."
+    "devnote": "8.0.6\n\n1. Modifierad så att pekområdesmarginalen kan ställas in separat.\n2. Logiken för säkerhetskopiering/återställning har ändrats.\n3. Ändrad för att ignorera undertaggar (kommentarer och förklaringar) vid konvertering av epub -> txt."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "8.0.5\n\n1. Se corrigió un error por el cual no se mantenían las configuraciones de subrayado.\n2. Se corrigió un error que impedía la copia de seguridad/restauración de la configuración.\n3. Se ha agregado una función para buscar desde la ubicación actual durante la búsqueda.\n4. La función de búsqueda ahora se puede asignar a una tecla de acceso directo.\n5. Se han eliminado los anuncios entre el filtro TTS y la lista de edición masiva."
+    "devnote": "8.0.6\n\n1. Modificado para que el margen del área táctil se pueda configurar por separado.\n2. Se ha modificado la lógica de copia de seguridad/recuperación.\n3. Modificado para ignorar subetiquetas (comentarios y explicaciones) al convertir epub -> txt."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "8.0.5\n\n1. Opravená chyba, pri ktorej neboli zachované nastavenia podčiarknutia.\n2. Opravená chyba, ktorá bránila zálohovaniu/obnoveniu nastavení.\n3. Pri vyhľadávaní bola pridaná funkcia na vyhľadávanie z aktuálnej polohy.\n4. Funkciu vyhľadávania je teraz možné priradiť klávesovej skratke.\n5. Reklamy medzi filtrom TTS/zoznamom hromadných úprav boli odstránené."
+    "devnote": "8.0.6\n\n1. Upravené tak, aby sa okraj dotykovej oblasti dal nastaviť samostatne.\n2. Logika zálohovania/obnovy bola upravená.\n3. Upravené tak, aby sa pri konverzii epub -> txt ignorovali vedľajšie značky (komentár a vysvetlenie)."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "8.0.5\n\n1. Odpravljena napaka, pri kateri nastavitve podčrtaja niso bile ohranjene.\n2. Odpravljena napaka, ki je preprečevala varnostno kopiranje/obnovitev nastavitev.\n3. Pri iskanju je dodana funkcija za iskanje s trenutne lokacije.\n4. Funkcijo iskanja lahko zdaj dodelite bližnjični tipki.\n5. Oglasi med filtrom TTS/seznamom množičnega urejanja so bili odstranjeni."
+    "devnote": "8.0.6\n\n1. Spremenjeno tako, da je rob območja dotika mogoče nastaviti ločeno.\n2. Logika varnostnega kopiranja/obnovitve je bila spremenjena.\n3. Spremenjeno tako, da pri pretvorbi epub -> txt prezre oznake pod (komentar in razlaga)."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "8.0.5\n\n1. යටින් ඉරි සිටුවම් පවත්වා නොමැති දෝෂයක් විසඳා ඇත.\n2. සිටුවම් උපස්ථ/ප්‍රතිසාධනය වළක්වන දෝෂයක් විසඳා ඇත.\n3. සොයන විට වත්මන් ස්ථානයෙන් සෙවීමට ශ්‍රිතයක් එක් කර ඇත.\n4. සෙවුම් කාර්යය දැන් කෙටිමං යතුරකට පැවරිය හැක.\n5. TTS පෙරහන/තොග සංස්කරණ ලැයිස්තුව අතර දැන්වීම් ඉවත් කර ඇත."
+    "devnote": "8.0.6\n\n1. ස්පර්ශ ප්‍රදේශයේ මායිම වෙන වෙනම සැකසිය හැකි පරිදි වෙනස් කර ඇත.\n2. උපස්ථ/ප්‍රතිසාධන තර්කනය වෙනස් කර ඇත.\n3. epub -> txt පරිවර්තනය කිරීමේදී උප (අදහස් සහ පැහැදිලි කිරීම්) ටැග් නොසලකා හැරීමට වෙනස් කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "8.0.5\n\n1. تم إصلاح الخلل حيث لم يتم الحفاظ على إعدادات التسطير.\n2. تم إصلاح الخلل الذي كان يمنع النسخ الاحتياطي/الاستعادة للإعدادات.\n3. تمت إضافة وظيفة للبحث من الموقع الحالي عند البحث.\n4. يمكن الآن تعيين وظيفة البحث لمفتاح الاختصار.\n5. تمت إزالة الإعلانات بين مرشح TTS/قائمة التعديل المجمع."
+    "devnote": "8.0.6\n\n1. تم التعديل بحيث يمكن ضبط هامش منطقة اللمس بشكل منفصل.\n2. تم تعديل منطق النسخ الاحتياطي/الاسترداد.\n3. تم التعديل لتجاهل العلامات الفرعية (التعليق والشرح) عند تحويل epub -> txt."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "8.0.5\n\n1. Ուղղվել է սխալ, որտեղ ընդգծված կարգավորումները չեն պահպանվել:\n2. Շտկվել է վրիպակ, որը խանգարում էր կարգավորումների կրկնօրինակում/վերականգնում:\n3. Որոնման ժամանակ ավելացվել է ընթացիկ վայրից որոնելու գործառույթ:\n4. Որոնման գործառույթն այժմ կարող է վերագրվել դյուրանցման ստեղնին:\n5. Գովազդները TTS ֆիլտրի/զանգվածային խմբագրման ցանկի միջև հանվել են:"
+    "devnote": "8.0.6\n\n1. Փոփոխվել է այնպես, որ հպման տարածքի լուսանցքը կարող է առանձին սահմանվել:\n2. Պահուստային/վերականգնման տրամաբանությունը փոփոխվել է:\n3. Փոփոխվել է՝ epub -> txt փոխարկելիս ենթակետերը (մեկնաբանություն և բացատրություն) անտեսելու համար:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "8.0.5\n\n1. Lagaði villu þar sem undirstrikunarstillingum var ekki viðhaldið.\n2. Lagaði villu sem kom í veg fyrir öryggisafrit/endurheimt stillinga.\n3. Aðgerð til að leita frá núverandi staðsetningu hefur verið bætt við þegar leitað er.\n4. Nú er hægt að tengja leitaraðgerðina við flýtilykla.\n5. Auglýsingar á milli TTS síu/magnsbreytingalista hafa verið fjarlægðar."
+    "devnote": "8.0.6\n\n1. Breytt þannig að hægt sé að stilla brún snertisvæðis sérstaklega.\n2. Afritunar-/endurheimtarrökfræðinni hefur verið breytt.\n3. Breytt til að hunsa undirmerki (athugasemdir og skýringar) þegar umbreytt er epub -> txt."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "8.0.5\n\n1. Altını xətt parametrlərinin saxlanmadığı bir səhv düzəldildi.\n2. Parametrlərin ehtiyat nüsxəsini çıxarmağa/bərpa etməyə mane olan bir səhv düzəldildi.\n3. Axtarış zamanı cari yerdən axtarış etmək funksiyası əlavə edilmişdir.\n4. Axtarış funksiyası indi qısayol düyməsinə təyin edilə bilər.\n5. TTS filtri/toplu redaktə siyahısı arasındakı reklamlar silindi."
+    "devnote": "8.0.6\n\n1. Toxunma sahəsinin kənarını ayrıca təyin etmək üçün dəyişdirildi.\n2. Yedəkləmə/bərpa məntiqi dəyişdirildi.\n3. epub -> txt çevirərkən alt (şərh və izahat) teqlərinə məhəl qoymamaq üçün dəyişdirildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "8.0.5\n\n1. Het 'n fout reggestel waar onderstreep instellings nie gehandhaaf is nie.\n2. Het 'n fout reggestel wat die rugsteun/herstel van instellings verhoed het.\n3. 'n Funksie om vanaf die huidige ligging te soek is bygevoeg tydens soek.\n4. Die soekfunksie kan nou aan 'n kortpadsleutel toegewys word.\n5. Advertensies tussen TTS filter / grootmaat wysig lys is verwyder."
+    "devnote": "8.0.6\n\n1. Gewysig sodat die raakarea-marge apart gestel kan word.\n2. Die rugsteun-/herstellogika is gewysig.\n3. Gewysig om sub-etikette (opmerking en verduideliking) te ignoreer wanneer epub -> txt omgeskakel word."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "8.0.5\n\n1. Rregulloi një gabim ku cilësimet e nënvizimit nuk mbaheshin.\n2. Rregulloi një gabim që pengonte kopjimin/rikthimin e cilësimeve.\n3. Një funksion për të kërkuar nga vendndodhja aktuale është shtuar gjatë kërkimit.\n4. Funksioni i kërkimit tani mund t'i caktohet një butoni shkurtore.\n5. Reklamat ndërmjet filtrit TTS/listës së redaktimit në masë janë hequr."
+    "devnote": "8.0.6\n\n1. Ndryshuar në mënyrë që kufiri i zonës së prekjes të mund të vendoset veçmas.\n2. Logjika e rezervimit/rikuperimit është modifikuar.\n3. Ndryshuar për të injoruar etiketat nën (koment dhe shpjegim) kur konvertohet epub -> txt."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "8.0.5\n\n1. የስር መስመር ቅንጅቶች ያልተጠበቁበት ስህተት ተስተካክሏል።\n2. ቅንጅቶችን ምትኬ/እነበረበት መመለስን የሚከለክል ስህተት ተስተካክሏል።\n3. ሲፈልጉ አሁን ካለው ቦታ ለመፈለግ ተግባር ተጨምሯል.\n4. የፍለጋ ተግባሩ አሁን ለአቋራጭ ቁልፍ ሊመደብ ይችላል.\n5. በTTS ማጣሪያ/ጅምላ አርትዖት ዝርዝር መካከል ያሉ ማስታወቂያዎች ተወግደዋል።"
+    "devnote": "8.0.6\n\n1. የንኪው ቦታ ህዳግ ለብቻው እንዲዘጋጅ ተስተካክሏል.\n2. የመጠባበቂያ / የማገገሚያ አመክንዮ ተስተካክሏል.\n3. epub -> txt በሚቀይሩበት ጊዜ ንዑስ (አስተያየት እና ማብራሪያ) መለያዎችን ችላ ለማለት የተቀየረ።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "8.0.5\n\n1. Parandatud viga, mille puhul allajoonimisseadeid ei säilitatud.\n2. Parandatud viga, mis takistas sätete varundamine/taastamine.\n3. Otsimisel on lisatud funktsioon praegusest asukohast otsimiseks.\n4. Otsingufunktsiooni saab nüüd määrata otseteeklahvile.\n5. TTS-filtri/hulgimuutmisloendi vahel olevad reklaamid on eemaldatud."
+    "devnote": "8.0.6\n\n1. Muudetud nii, et puuteala veerist saab eraldi määrata.\n2. Varundamise/taastamise loogikat on muudetud.\n3. Muudetud, et ignoreerida alammärgendeid (kommentaarid ja selgitused) epub -> txt teisendamisel."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "8.0.5\n\n1. ایک بگ کو ٹھیک کیا جہاں انڈر لائن سیٹنگز کو برقرار نہیں رکھا گیا تھا۔\n2. ایک ایسا بگ طے کیا جس نے ترتیبات کو بیک اپ/بحال کرنے سے روکا تھا۔\n3. تلاش کرتے وقت موجودہ مقام سے تلاش کرنے کے لیے ایک فنکشن شامل کیا گیا ہے۔\n4. سرچ فنکشن اب ایک شارٹ کٹ کلید کو تفویض کیا جا سکتا ہے۔\n5. TTS فلٹر/بلک ایڈٹ لسٹ کے درمیان اشتہارات کو ہٹا دیا گیا ہے۔"
+    "devnote": "8.0.6\n\n1. ترمیم شدہ تاکہ ٹچ ایریا مارجن کو الگ سے سیٹ کیا جا سکے۔\n2. بیک اپ/ریکوری منطق میں ترمیم کی گئی ہے۔\n3. epub -> txt کو تبدیل کرتے وقت ذیلی (تبصرہ اور وضاحت) ٹیگز کو نظر انداز کرنے کے لیے ترمیم کی گئی۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "8.0.5\n\n1. Виправлено помилку, через яку параметри підкреслення не підтримувалися.\n2. Виправлено помилку, яка перешкоджала резервному копію/відновленню налаштувань.\n3. Під час пошуку додано функцію пошуку з поточного місця розташування.\n4. Тепер функцію пошуку можна призначити клавіші швидкого доступу.\n5. Оголошення між фільтром TTS/списком масового редагування видалено."
+    "devnote": "8.0.6\n\n1. Змінено, щоб можна було встановити окремо межу зони дотику.\n2. Логіку резервного копіювання/відновлення було змінено.\n3. Змінено для ігнорування тегів sub (коментар і пояснення) під час конвертації epub -> txt."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "8.0.5\n\n1. Risolto un bug in cui le impostazioni di sottolineatura non venivano mantenute.\n2. Risolto un bug che impediva il backup/ripristino delle impostazioni.\n3. È stata aggiunta una funzione per cercare dalla posizione corrente durante la ricerca.\n4. Ora è possibile assegnare la funzione di ricerca a un tasto di scelta rapida.\n5. Gli annunci tra il filtro TTS/l'elenco di modifiche collettive sono stati rimossi."
+    "devnote": "8.0.6\n\n1. Modificato in modo che il margine dell'area di tocco possa essere impostato separatamente.\n2. La logica di backup/ripristino è stata modificata.\n3. Modificato per ignorare i tag sub (commento e spiegazione) durante la conversione epub -> txt."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "8.0.5\n\n1. Memperbaiki bug di mana pengaturan garis bawah tidak dipertahankan.\n2. Memperbaiki bug yang mencegah pencadangan/pemulihan pengaturan.\n3. Fungsi untuk mencari dari lokasi saat ini telah ditambahkan saat mencari.\n4. Fungsi pencarian kini dapat ditetapkan ke tombol pintas.\n5. Iklan di antara filter TTS/daftar edit massal telah dihapus."
+    "devnote": "8.0.6\n\n1. Dimodifikasi sehingga margin area sentuh dapat diatur secara terpisah.\n2. Logika pencadangan/pemulihan telah diubah.\n3. Dimodifikasi untuk mengabaikan tag sub (komentar dan penjelasan) saat mengonversi epub -> txt."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "8.0.5\n\n1. 下線の設定が維持されない不具合を修正しました。\n2. 設定のバックアップ/復元ができない不具合を修正しました。\n3. 検索時に現在地から検索する機能を追加しました。\n4. 検索機能をショートカットキーに割り当てられるようになりました。\n5. TTS フィルター/一括編集リスト間の広告が削除されました。"
+    "devnote": "8.0.6\n\n1. タッチエリアの余白を個別に設定できるように修正しました。\n2. バックアップ/リカバリロジックが変更されました。\n3. epub→txt変換時にサブ(コメントや説明)タグを無視するように修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "8.0.5\n\n1. დაფიქსირდა ხარვეზი, სადაც ხაზგასმული პარამეტრები არ იყო დაცული.\n2. დაფიქსირდა შეცდომა, რომელიც ხელს უშლიდა პარამეტრების სარეზერვო/აღდგენას.\n3. ძიებისას დაემატა ფუნქცია ამჟამინდელი მდებარეობიდან საძიებლად.\n4. ძიების ფუნქცია ახლა შეიძლება მიენიჭოს მალსახმობის კლავიშს.\n5. რეკლამები TTS ფილტრს/მასობრივი რედაქტირების სიას შორის წაშლილია."
+    "devnote": "8.0.6\n\n1. შეცვლილია ისე, რომ შეხების არეალის ზღვარი ცალკე დაყენდეს.\n2. სარეზერვო/აღდგენის ლოგიკა შეიცვალა.\n3. შეცვლილია ქვე (კომენტარის და განმარტების) თეგების იგნორირებაზე epub -> txt კონვერტაციისას."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "8.0.5\n\n1. Kulungiswe iphutha lapho izilungiselelo zokudwebela zingagcinwanga.\n2. Kulungiswe iphutha elivimbele ukwenza isipele/ukubuyisela izilungiselelo.\n3. Umsebenzi wokusesha endaweni yamanje wengeziwe lapho usesha.\n4. Umsebenzi wokusesha manje ungabelwa kukhiye wesinqamuleli.\n5. Izikhangiso phakathi kohlu lwe-TTS lwesihlungi/ukuhlela ngobuningi zisusiwe."
+    "devnote": "8.0.6\n\n1. Kulungiswe ukuze imajini yendawo yokuthinta isethwe ngokuhlukana.\n2. I-logic yokusekelayo/yokubuyisela ishintshiwe.\n3. Kulungiswe ukuze kuzibe omaka abancane (amazwana nencazelo) lapho kuguqulwa i-epub -> txt."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "8.0.5\n\n1.修复了下划线设置不保持的错误。\n2.修复了阻止设置备份/恢复的错误。\n3.搜索时增加了从当前位置开始搜索的功能。\n4. 现在可以将搜索功能分配给快捷键。\n5. TTS过滤器/批量编辑列表之间的广告已被删除。"
+    "devnote": "8.0.6\n\n1.修改为可以单独设置触摸区域边距。\n2.修改了备份/恢复逻辑。\n3. 修改为在转换 epub -> txt 时忽略子（注释和解释）标签。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "8.0.5\n\n1.修復了底線設定不保持的錯誤。\n2.修復了阻止設定備份/復原的錯誤。\n3.搜尋時增加了從目前位置開始搜尋的功能。\n4. 現在可以將搜尋功能指派給快速鍵。\n5. TTS過濾器/批次編輯清單之間的廣告已被刪除。"
+    "devnote": "8.0.6\n\n1.修改為可單獨設定觸摸區域邊距。\n2.修改了備份/復原邏輯。\n3. 修改為轉換 epub -> txt 時忽略子（註解與解釋）標籤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "8.0.5\n\n1.修復了底線設定不保持的錯誤。\n2.修復了阻止設定備份/復原的錯誤。\n3.搜尋時增加了從目前位置開始搜尋的功能。\n4. 現在可以將搜尋功能指派給快速鍵。\n5. TTS過濾器/批次編輯清單之間的廣告已被刪除。"
+    "devnote": "8.0.6\n\n1.修改為可單獨設定觸摸區域邊距。\n2.修改了備份/復原邏輯。\n3. 修改為轉換 epub -> txt 時忽略子（註解與解釋）標籤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "8.0.5\n\n1. Opravena chyba, kdy nebylo zachováno nastavení podtržení.\n2. Opravena chyba, která bránila zálohování/obnovení nastavení.\n3. Při vyhledávání byla přidána funkce pro vyhledávání z aktuální polohy.\n4. Funkci vyhledávání lze nyní přiřadit klávesové zkratce.\n5. Reklamy mezi filtrem TTS/seznamem hromadných úprav byly odstraněny."
+    "devnote": "8.0.6\n\n1. Upraveno tak, že okraj dotykové oblasti lze nastavit samostatně.\n2. Logika zálohování/obnovy byla změněna.\n3. Upraveno tak, aby při převodu epub -> txt ignorovalo dílčí značky (komentář a vysvětlení)."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "8.0.5\n\n1. Асты сызу параметрлері сақталмаған қате түзетілді.\n2. Параметрлердің сақтық көшірмесін жасауға/қалпына келтіруге жол бермейтін қате түзетілді.\n3. Іздеу кезінде ағымдағы орыннан іздеу функциясы қосылды.\n4. Іздеу функциясын енді пернелер тіркесіміне тағайындауға болады.\n5. TTS сүзгісі/жаппай өңдеу тізімі арасындағы жарнамалар жойылды."
+    "devnote": "8.0.6\n\n1. Түрту аймағының жиегін бөлек орнатуға болатындай өзгертілді.\n2. Сақтық көшірме/қалпына келтіру логикасы өзгертілді.\n3. epub -> txt түрлендіру кезінде ішкі (түсініктеме және түсініктеме) тегтерін елемеу үшін өзгертілген."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "8.0.5\n\n1. S'ha corregit un error en què no es mantenia la configuració del subratllat.\n2. S'ha solucionat un error que impedia la còpia de seguretat/restauració de la configuració.\n3. S'ha afegit una funció per cercar des de la ubicació actual durant la cerca.\n4. La funció de cerca ara es pot assignar a una tecla de drecera.\n5. S'han eliminat els anuncis entre el filtre TTS/llista d'edició massiva."
+    "devnote": "8.0.6\n\n1. Modificat perquè el marge de l'àrea tàctil es pugui definir per separat.\n2. S'ha modificat la lògica de còpia de seguretat/recuperació.\n3. S'ha modificat per ignorar les subetiquetes (comentaris i explicacions) en convertir epub -> txt."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "8.0.5\n\n1. ಅಂಡರ್‌ಲೈನ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸದಿರುವ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n2. ಸೆಟ್ಟಿಂಗ್‌ಗಳ ಬ್ಯಾಕಪ್ / ಮರುಸ್ಥಾಪನೆಯನ್ನು ತಡೆಯುವ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n3. ಹುಡುಕುವಾಗ ಪ್ರಸ್ತುತ ಸ್ಥಳದಿಂದ ಹುಡುಕುವ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n4. ಹುಡುಕಾಟ ಕಾರ್ಯವನ್ನು ಈಗ ಶಾರ್ಟ್‌ಕಟ್ ಕೀಗೆ ನಿಯೋಜಿಸಬಹುದು.\n5. TTS ಫಿಲ್ಟರ್/ಬೃಹತ್ ಸಂಪಾದನೆ ಪಟ್ಟಿಯ ನಡುವಿನ ಜಾಹೀರಾತುಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ."
+    "devnote": "8.0.6\n\n1. ಟಚ್ ಏರಿಯಾ ಅಂಚನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಹೊಂದಿಸಲು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n2. ಬ್ಯಾಕಪ್/ಮರುಪ್ರಾಪ್ತಿ ತರ್ಕವನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n3. epub -> txt ಅನ್ನು ಪರಿವರ್ತಿಸುವಾಗ ಉಪ (ಕಾಮೆಂಟ್ ಮತ್ತು ವಿವರಣೆ) ಟ್ಯಾಗ್‌ಗಳನ್ನು ನಿರ್ಲಕ್ಷಿಸಲು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "8.0.5\n\n1. Ispravljena je pogreška u kojoj se postavke podcrtavanja nisu održavale.\n2. Ispravljena je pogreška koja je sprječavala sigurnosno kopiranje/vraćanje postavki.\n3. Dodana je funkcija pretraživanja s trenutne lokacije prilikom pretraživanja.\n4. Funkcija pretraživanja sada se može dodijeliti tipki prečaca.\n5. Oglasi između TTS filtra/popisa skupnog uređivanja su uklonjeni."
+    "devnote": "8.0.6\n\n1. Modificirano tako da se margina područja dodira može postaviti zasebno.\n2. Logika sigurnosne kopije/oporavka je promijenjena.\n3. Modificirano da zanemari oznake pod (komentar i objašnjenje) prilikom pretvaranja epub -> txt."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "៨.០.៥\n\n1. ជួសជុលកំហុសដែលការកំណត់គូសបន្ទាត់ក្រោមមិនត្រូវបានរក្សាទុក។\n2. ជួសជុលកំហុសដែលរារាំងការបម្រុងទុក/ស្តារការកំណត់។\n3. មុខងារដើម្បីស្វែងរកពីទីតាំងបច្ចុប្បន្នត្រូវបានបន្ថែមនៅពេលស្វែងរក។\n4. ឥឡូវនេះមុខងារស្វែងរកអាចត្រូវបានកំណត់ទៅគ្រាប់ចុចផ្លូវកាត់។\n5. ការផ្សាយពាណិជ្ជកម្មរវាងតម្រង TTS/បញ្ជីកែសម្រួលភាគច្រើនត្រូវបានដកចេញ។"
+    "devnote": "៨.០.៦\n\n1. បានកែប្រែដូច្នេះរឹមផ្ទៃប៉ះអាចត្រូវបានកំណត់ដោយឡែកពីគ្នា។\n2. តក្កវិជ្ជាបម្រុងទុក / ការស្តារឡើងវិញត្រូវបានកែប្រែ។\n3. បានកែប្រែដើម្បីមិនអើពើស្លាករង (មតិយោបល់ និងការពន្យល់) នៅពេលបម្លែង epub -> txt ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "8.0.5\n\n1. Асты сызуу жөндөөлөрү сакталбаган ката оңдолду.\n2. Орнотуулардын камдык көчүрмөсүн/калыбына келтирүүгө тоскоол болгон ката оңдолду.\n3. Издөө учурунда учурдагы жерден издөө функциясы кошулду.\n4. Издөө функциясы эми жарлык баскычына дайындалышы мүмкүн.\n5. TTS чыпкасы/ жапырт түзөтүү тизмеси ортосундагы жарнамалар алынып салынды."
+    "devnote": "8.0.6\n\n1. Сенсордук аймак маржа өзүнчө коюуга болот деп өзгөртүлгөн.\n2. Камдык/калыбына келтирүү логикасы өзгөртүлдү.\n3. epub -> txt конвертациялоодо суб (комментарий жана түшүндүрмө) тэгдерин этибарга албоо үчүн өзгөртүлгөн."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "8.0.5\n\n1. அடிக்கோடு அமைப்புகள் பராமரிக்கப்படாத ஒரு பிழை சரி செய்யப்பட்டது.\n2. அமைப்புகளின் காப்பு/மீட்டமைப்பைத் தடுக்கும் பிழை சரி செய்யப்பட்டது.\n3. தேடும் போது தற்போதைய இடத்திலிருந்து தேடுவதற்கான செயல்பாடு சேர்க்கப்பட்டுள்ளது.\n4. தேடல் செயல்பாடு இப்போது குறுக்குவழி விசைக்கு ஒதுக்கப்படலாம்.\n5. TTS வடிப்பான்/மொத்த திருத்தப் பட்டியலுக்கு இடையே உள்ள விளம்பரங்கள் அகற்றப்பட்டன."
+    "devnote": "8.0.6\n\n1. தொடு பகுதியின் விளிம்பை தனித்தனியாக அமைக்கும் வகையில் மாற்றியமைக்கப்பட்டது.\n2. காப்பு/மீட்பு தர்க்கம் மாற்றியமைக்கப்பட்டுள்ளது.\n3. epub -> txt ஐ மாற்றும்போது துணை (கருத்து மற்றும் விளக்கம்) குறிச்சொற்களை புறக்கணிக்க மாற்றப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "8.0.5\n\n1. แก้ไขข้อผิดพลาดที่ไม่สามารถรักษาการตั้งค่าขีดเส้นใต้ไว้ได้\n2. แก้ไขข้อผิดพลาดที่ทำให้ไม่สามารถสำรอง/กู้คืนการตั้งค่าได้\n3. เพิ่มฟังก์ชันการค้นหาจากตำแหน่งปัจจุบันเมื่อทำการค้นหา\n4. ขณะนี้สามารถกำหนดฟังก์ชันการค้นหาให้กับปุ่มทางลัดได้แล้ว\n5. โฆษณาระหว่างตัวกรอง TTS/รายการแก้ไขจำนวนมากถูกลบออกแล้ว"
+    "devnote": "8.0.6\n\n1. แก้ไขเพื่อให้สามารถตั้งค่าระยะขอบของพื้นที่สัมผัสแยกกันได้\n2. ตรรกะการสำรองข้อมูล/การกู้คืนได้รับการแก้ไข\n3. แก้ไขให้ละเว้นแท็กย่อย (ความคิดเห็นและคำอธิบาย) เมื่อแปลง epub -> txt"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "8.0.5\n\n1. Alt çizgi ayarlarının korunmamasına neden olan bir hata düzeltildi.\n2. Ayarların yedeklenmesini/geri yüklenmesini engelleyen bir hata düzeltildi.\n3. Arama yaparken mevcut konumdan arama yapma fonksiyonu eklendi.\n4. Arama fonksiyonu artık bir kısayol tuşuna atanabilir.\n5. TTS filtresi/toplu düzenleme listesi arasındaki reklamlar kaldırıldı."
+    "devnote": "8.0.6\n\n1. Dokunma alanı kenar boşluğunun ayrı olarak ayarlanabileceği şekilde değiştirildi.\n2. Yedekleme/kurtarma mantığı değiştirildi.\n3. epub -> txt'yi dönüştürürken alt (yorum ve açıklama) etiketlerini göz ardı edecek şekilde değiştirildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "8.0.5\n\n1. అండర్‌లైన్ సెట్టింగ్‌లు నిర్వహించబడని బగ్ పరిష్కరించబడింది.\n2. సెట్టింగ్‌ల బ్యాకప్/పునరుద్ధరణను నిరోధించే బగ్ పరిష్కరించబడింది.\n3. శోధిస్తున్నప్పుడు ప్రస్తుత స్థానం నుండి శోధించడానికి ఒక ఫంక్షన్ జోడించబడింది.\n4. శోధన ఫంక్షన్ ఇప్పుడు షార్ట్‌కట్ కీకి కేటాయించబడుతుంది.\n5. TTS ఫిల్టర్/బల్క్ సవరణ జాబితా మధ్య ప్రకటనలు తీసివేయబడ్డాయి."
+    "devnote": "8.0.6\n\n1. టచ్ ఏరియా మార్జిన్‌ని విడిగా సెట్ చేసే విధంగా సవరించబడింది.\n2. బ్యాకప్/రికవరీ లాజిక్ సవరించబడింది.\n3. epub -> txtని మార్చేటప్పుడు ఉప (వ్యాఖ్య మరియు వివరణ) ట్యాగ్‌లను విస్మరించడానికి సవరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "8.0.5\n\n1. ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਹੈ ਜਿੱਥੇ ਅੰਡਰਲਾਈਨ ਸੈਟਿੰਗਾਂ ਬਣਾਈਆਂ ਨਹੀਂ ਗਈਆਂ ਸਨ।\n2. ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਹੈ ਜੋ ਸੈਟਿੰਗਾਂ ਬੈਕਅੱਪ/ਰੀਸਟੋਰ ਨੂੰ ਰੋਕਦਾ ਹੈ।\n3. ਖੋਜ ਕਰਨ ਵੇਲੇ ਮੌਜੂਦਾ ਸਥਾਨ ਤੋਂ ਖੋਜ ਕਰਨ ਲਈ ਇੱਕ ਫੰਕਸ਼ਨ ਜੋੜਿਆ ਗਿਆ ਹੈ।\n4. ਖੋਜ ਫੰਕਸ਼ਨ ਹੁਣ ਇੱਕ ਸ਼ਾਰਟਕੱਟ ਕੁੰਜੀ ਨੂੰ ਨਿਰਧਾਰਤ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।\n5. TTS ਫਿਲਟਰ/ਬਲਕ ਸੰਪਾਦਨ ਸੂਚੀ ਦੇ ਵਿਚਕਾਰ ਵਿਗਿਆਪਨ ਹਟਾ ਦਿੱਤੇ ਗਏ ਹਨ।"
+    "devnote": "8.0.6\n\n1. ਸੰਸ਼ੋਧਿਤ ਕੀਤਾ ਗਿਆ ਹੈ ਤਾਂ ਕਿ ਟੱਚ ਏਰੀਆ ਹਾਸ਼ੀਏ ਨੂੰ ਵੱਖਰੇ ਤੌਰ 'ਤੇ ਸੈੱਟ ਕੀਤਾ ਜਾ ਸਕੇ।\n2. ਬੈਕਅੱਪ/ਰਿਕਵਰੀ ਤਰਕ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ।\n3. epub -> txt ਨੂੰ ਕਨਵਰਟ ਕਰਦੇ ਸਮੇਂ ਸਬ (ਟਿੱਪਣੀ ਅਤੇ ਵਿਆਖਿਆ) ਟੈਗਾਂ ਨੂੰ ਨਜ਼ਰਅੰਦਾਜ਼ ਕਰਨ ਲਈ ਸੋਧਿਆ ਗਿਆ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "8.0.5\n\n1. رفع اشکالی که در آن تنظیمات زیرخط حفظ نشده بود.\n2. رفع اشکالی که از پشتیبان‌گیری/بازیابی تنظیمات جلوگیری می‌کرد.\n3. یک تابع برای جستجو از مکان فعلی در هنگام جستجو اضافه شده است.\n4. اکنون می توان عملکرد جستجو را به یک کلید میانبر اختصاص داد.\n5. تبلیغات بین فیلتر TTS/لیست ویرایش انبوه حذف شده است."
+    "devnote": "8.0.6\n\n1. اصلاح شده به طوری که حاشیه منطقه لمسی را می توان به طور جداگانه تنظیم کرد.\n2. منطق پشتیبان گیری/بازیابی اصلاح شده است.\n3. برای نادیده گرفتن تگ های فرعی (نظر و توضیح) در هنگام تبدیل epub -> txt اصلاح شده است."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "8.0.5\n\n1. Corrigido um bug onde as configurações de sublinhado não eram mantidas.\n2. Corrigido um bug que impedia o backup/restauração das configurações.\n3. Uma função para pesquisar a partir do local atual foi adicionada durante a pesquisa.\n4. A função de pesquisa agora pode ser atribuída a uma tecla de atalho.\n5. Os anúncios entre a lista de filtros/edição em massa TTS foram removidos."
+    "devnote": "8.0.6\n\n1. Modificado para que a margem da área de toque possa ser definida separadamente.\n2. A lógica de backup/recuperação foi modificada.\n3. Modificado para ignorar tags sub (comentário e explicação) ao converter epub -> txt."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "8.0.5\n\n1. Naprawiono błąd, w wyniku którego ustawienia podkreślenia nie były zachowywane.\n2. Naprawiono błąd uniemożliwiający tworzenie kopii zapasowych/przywracanie ustawień.\n3. Podczas wyszukiwania dodano funkcję wyszukiwania od aktualnej lokalizacji.\n4. Funkcję wyszukiwania można teraz przypisać do klawisza skrótu.\n5. Usunięto reklamy pomiędzy filtrem TTS/listą edycji zbiorczej."
+    "devnote": "8.0.6\n\n1. Zmodyfikowano tak, aby margines obszaru dotykowego można było ustawić osobno.\n2. Zmodyfikowano logikę tworzenia kopii zapasowych/odzyskiwania.\n3. Zmodyfikowano tak, aby ignorować znaczniki podrzędne (komentarz i wyjaśnienie) podczas konwersji epub -> txt."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "8.0.5\n\n1. Correction d'un bug où les paramètres de soulignement n'étaient pas conservés.\n2. Correction d'un bug qui empêchait la sauvegarde/restauration des paramètres.\n3. Une fonction de recherche à partir de l'emplacement actuel a été ajoutée lors de la recherche.\n4. La fonction de recherche peut désormais être attribuée à une touche de raccourci.\n5. Les annonces entre le filtre TTS et la liste de modifications groupées ont été supprimées."
+    "devnote": "8.0.6\n\n1. Modifié pour que la marge de la zone tactile puisse être définie séparément.\n2. La logique de sauvegarde/récupération a été modifiée.\n3. Modifié pour ignorer les balises sous (commentaire et explication) lors de la conversion epub -> txt."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "8.0.5\n\n1. Korjattu virhe, jossa alleviivausasetuksia ei säilytetty.\n2. Korjattu virhe, joka esti asetusten varmuuskopioinnin/palautuksen.\n3. Haettaessa on lisätty toiminto nykyisestä sijainnista hakemiseen.\n4. Hakutoiminto voidaan nyt määrittää pikanäppäimelle.\n5. Mainokset TTS-suodattimen/joukkomuokkausluettelon välillä on poistettu."
+    "devnote": "8.0.6\n\n1. Muokattu siten, että kosketusalueen marginaali voidaan asettaa erikseen.\n2. Varmuuskopiointi-/palautuslogiikkaa on muutettu.\n3. Muokattu ohittamaan alatunnisteet (kommentti ja selitys) muunnettaessa epub -> txt."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "8.0.5\n\n1. Inayos ang isang bug kung saan hindi napanatili ang mga setting ng salungguhit.\n2. Inayos ang isang bug na pumigil sa pag-backup/pag-restore ng mga setting.\n3. Ang isang function upang maghanap mula sa kasalukuyang lokasyon ay naidagdag kapag naghahanap.\n4. Ang function ng paghahanap ay maaari na ngayong italaga sa isang shortcut key.\n5. Ang mga ad sa pagitan ng TTS filter/bulk edit list ay inalis."
+    "devnote": "8.0.6\n\n1. Binago upang ang margin ng touch area ay maaaring itakda nang hiwalay.\n2. Ang backup/recovery logic ay nabago.\n3. Binago upang huwag pansinin ang mga sub (komento at paliwanag) na mga tag kapag nagko-convert ng epub -> txt."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "8.0.5\n\n1. Javítottunk egy hibát, amely miatt az aláhúzási beállításokat nem tartották fenn.\n2. Javítottunk egy hibát, amely megakadályozta a beállítások biztonsági mentését/visszaállítását.\n3. A keresés során hozzáadásra került egy funkció, amellyel az aktuális helyről lehet keresni.\n4. A keresés funkció most hozzárendelhető egy gyorsbillentyűhöz.\n5. A TTS-szűrő/tömeges szerkesztési lista közötti hirdetéseket eltávolítottuk."
+    "devnote": "8.0.6\n\n1. Módosítva úgy, hogy az érintési terület margója külön beállítható.\n2. A biztonsági mentési/helyreállítási logika módosult.\n3. Módosítva, hogy figyelmen kívül hagyja az alcímkéket (megjegyzés és magyarázat) az epub -> txt konvertálásakor."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "8.0.5\n\n1. תיקן באג שבו הגדרות קו תחתון לא נשמרו.\n2. תוקן באג שמנע גיבוי/שחזור הגדרות.\n3. נוספה פונקציה לחיפוש מהמיקום הנוכחי בעת החיפוש.\n4. כעת ניתן להקצות את פונקציית החיפוש למקש קיצור.\n5. מודעות בין מסנן TTS/רשימת עריכה בכמות גדולה הוסרו."
+    "devnote": "8.0.6\n\n1. שונה כך שניתן להגדיר את השוליים של אזור המגע בנפרד.\n2. לוגיקת הגיבוי/השחזור השתנתה.\n3. שונה כדי להתעלם מתגיות משנה (הערה והסבר) בעת המרת epub -> txt."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "8.0.5\n\n1. उस बग को ठीक किया गया जहां अंडरलाइन सेटिंग्स का रखरखाव नहीं किया गया था।\n2. उस बग को ठीक किया गया जो सेटिंग्स के बैकअप/पुनर्स्थापना को रोकता था।\n3. खोजते समय वर्तमान स्थान से खोजने का एक फ़ंक्शन जोड़ा गया है।\n4. खोज फ़ंक्शन को अब एक शॉर्टकट कुंजी को सौंपा जा सकता है।\n5. टीटीएस फ़िल्टर/बल्क संपादन सूची के बीच के विज्ञापन हटा दिए गए हैं।"
+    "devnote": "8.0.6\n\n1. संशोधित किया गया ताकि स्पर्श क्षेत्र मार्जिन को अलग से सेट किया जा सके।\n2. बैकअप/पुनर्प्राप्ति तर्क को संशोधित किया गया है।\n3. epub -> txt को परिवर्तित करते समय उप (टिप्पणी और स्पष्टीकरण) टैग को अनदेखा करने के लिए संशोधित।"
   }
 }
