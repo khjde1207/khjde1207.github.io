@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "8.0.7\n\n- Modified to remove small letters when converting epub -> txt.\n- Fixed key setting bug."
+    "devnote": "8.0.8\n\n- Modified to remove small fonts when converting epub -> txt.\n- Fixed key setting bug."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "8.0.7\n\n- epub -> txt 변환시 작은 글자을 제거 하도록 수정 하였습니다. \n- 키설정 버그를 수정하였습니다."
+    "devnote": "8.0.8\n\n- epub -> txt 변환시 작은 사이즈의 폰트를 제거 하도록 수정 하였습니다. \n- 키설정 버그를 수정하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "8.0.7\n\n- Modificado para eliminar letras minúsculas ao converter epub -> txt.\n- Arranxouse un erro de configuración de teclas."
+    "devnote": "8.0.8\n\n- Modificado para eliminar fontes pequenas ao converter epub -> txt.\n- Arranxouse un erro de configuración de teclas."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "8.0.7\n\n- epub -> txt કન્વર્ટ કરતી વખતે નાના અક્ષરો દૂર કરવા માટે સંશોધિત.\n- સ્થિર કી સેટિંગ બગ."
+    "devnote": "8.0.8\n\n- epub -> txt કન્વર્ટ કરતી વખતે નાના ફોન્ટ્સ દૂર કરવા માટે સંશોધિત.\n- સ્થિર કી સેટિંગ બગ."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "8.0.7\n\n- Τροποποιήθηκε για να αφαιρεί μικρά γράμματα κατά τη μετατροπή epub -> txt.\n- Διορθώθηκε το σφάλμα ρύθμισης κλειδιού."
+    "devnote": "8.0.8\n\n- Τροποποιήθηκε για να αφαιρεί μικρές γραμματοσειρές κατά τη μετατροπή epub -> txt.\n- Διορθώθηκε το σφάλμα ρύθμισης κλειδιού."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "8.0.7\n\n- Aangepast om kleine letters te verwijderen bij het converteren van epub -> txt.\n- Probleem met sleutelinstelling opgelost."
+    "devnote": "8.0.8\n\n- Aangepast om kleine lettertypen te verwijderen bij het converteren van epub -> txt.\n- Probleem met sleutelinstelling opgelost."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "८.०.७\n\n- epub -> txt रूपान्तरण गर्दा साना अक्षरहरू हटाउन परिमार्जन गरियो।\n- फिक्स्ड कुञ्जी सेटिङ बग।"
+    "devnote": "८.०.८\n\n- epub -> txt लाई रूपान्तरण गर्दा साना फन्टहरू हटाउन परिमार्जन गरियो।\n- फिक्स्ड कुञ्जी सेटिङ बग।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "8.0.7\n\n- Modifisert for å fjerne små bokstaver ved konvertering av epub -> txt.\n- Fikset nøkkelinnstillingsfeil."
+    "devnote": "8.0.8\n\n- Modifisert for å fjerne små fonter ved konvertering av epub -> txt.\n- Fikset nøkkelinnstillingsfeil."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "8.0.7\n\n- Ændret til at fjerne små bogstaver ved konvertering af epub -> txt.\n- Rettet nøgleindstillingsfejl."
+    "devnote": "8.0.8\n\n- Ændret for at fjerne små skrifttyper ved konvertering af epub -> txt.\n- Rettet nøgleindstillingsfejl."
   },
   "독일어": {
     "key": "de",
-    "devnote": "8.0.7\n\n- Geändert, um kleine Buchstaben beim Konvertieren von epub -> txt zu entfernen.\n- Fehler bei der Tasteneinstellung behoben."
+    "devnote": "8.0.8\n\n- Geändert, um kleine Schriftarten beim Konvertieren von epub -> txt zu entfernen.\n- Fehler bei der Tasteneinstellung behoben."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "8.0.7\n\n- ດັດແກ້ເພື່ອເອົາຕົວອັກສອນຂະຫນາດນ້ອຍເມື່ອປ່ຽນ epub -> txt.\n- ແກ້​ໄຂ​ບັນ​ຫາ​ການ​ຕັ້ງ​ຄ່າ​ທີ່​ສໍາ​ຄັນ​."
+    "devnote": "8.0.8\n\n- ດັດແກ້ເພື່ອເອົາຕົວອັກສອນຂະຫນາດນ້ອຍເມື່ອປ່ຽນ epub -> txt.\n- ແກ້​ໄຂ​ບັນ​ຫາ​ການ​ຕັ້ງ​ຄ່າ​ທີ່​ສໍາ​ຄັນ​."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "8.0.7\n\n- Modificēts, lai noņemtu mazos burtus, konvertējot epub -> txt.\n- Izlabota taustiņu iestatīšanas kļūda."
+    "devnote": "8.0.8\n\n- Modificēts, lai noņemtu mazus fontus, konvertējot epub -> txt.\n- Izlabota taustiņu iestatīšanas kļūda."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "8.0.7\n\n- Изменено удаление строчных букв при конвертации epub -> txt.\n- Исправлена ​​ошибка настройки ключей."
+    "devnote": "8.0.8\n\n- Изменено удаление мелких шрифтов при конвертации epub -> txt.\n- Исправлена ​​ошибка настройки ключей."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "8.0.7\n\n- Modificat pentru a elimina literele mici la conversia epub -> txt.\n- S-a remediat o eroare de setare a tastelor."
+    "devnote": "8.0.8\n\n- Modificat pentru a elimina fonturile mici la conversia epub -> txt.\n- S-a remediat o eroare de setare a tastelor."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "8.0.7\n\n- Pakeista, kad būtų pašalintos mažos raidės konvertuojant epub -> txt.\n- Ištaisyta klavišų nustatymo klaida."
+    "devnote": "8.0.8\n\n- Pakeista, kad būtų pašalinti maži šriftai konvertuojant epub -> txt.\n- Ištaisyta klavišų nustatymo klaida."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "८.०.७\n\n- epub -> txt रूपांतरित करताना लहान अक्षरे काढण्यासाठी सुधारित.\n- फिक्स्ड की सेटिंग बग."
+    "devnote": "८.०.८\n\n- epub -> txt रूपांतरित करताना लहान फॉन्ट काढण्यासाठी सुधारित.\n- फिक्स्ड की सेटिंग बग."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "8.0.7\n\n- Изменето за отстранување на мали букви при конвертирање epub -> txt.\n- Поправена грешка во поставувањето на копчињата."
+    "devnote": "8.0.8\n\n- Изменето за отстранување на мали фонтови при конвертирање epub -> txt.\n- Поправена грешка во поставувањето на копчињата."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "8.0.7\n\n- epub -> txt പരിവർത്തനം ചെയ്യുമ്പോൾ ചെറിയ അക്ഷരങ്ങൾ നീക്കം ചെയ്യാൻ പരിഷ്‌ക്കരിച്ചു.\n- കീ ക്രമീകരണ ബഗ് പരിഹരിച്ചു."
+    "devnote": "8.0.8\n\n- epub -> txt പരിവർത്തനം ചെയ്യുമ്പോൾ ചെറിയ ഫോണ്ടുകൾ നീക്കം ചെയ്യുന്നതിനായി പരിഷ്‌ക്കരിച്ചു.\n- കീ ക്രമീകരണ ബഗ് പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "8.0.7\n\n- Diubah suai untuk mengalih keluar huruf kecil apabila menukar epub -> txt.\n- Pepijat tetapan kunci tetap."
+    "devnote": "8.0.8\n\n- Diubah suai untuk mengalih keluar fon kecil apabila menukar epub -> txt.\n- Pepijat tetapan kunci tetap."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "8.0.7\n\n- Epub -> txt хөрвүүлэхдээ жижиг үсгийг арилгахаар өөрчилсөн.\n- Түлхүүрийг тохируулах алдаа зассан."
+    "devnote": "8.0.8\n\n- Epub -> txt хөрвүүлэх үед жижиг фонтуудыг устгахаар өөрчилсөн.\n- Түлхүүрийг тохируулах алдаа зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "8.0.7\n\n- Epub -> txt bihurtzean letra txikiak kentzeko aldatu da.\n- Teklaren ezarpenaren akatsa konpondu da."
+    "devnote": "8.0.8\n\n- Epub -> txt bihurtzean letra-tipo txikiak kentzeko aldatu da.\n- Teklaren ezarpenaren akatsa konpondu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "၈.၀.၇\n\n- epub -> txt ကိုပြောင်းသည့်အခါ စာလုံးသေးသေးများကို ဖယ်ရှားရန် ပြင်ဆင်ထားသည်။\n- သော့ဆက်တင် ချို့ယွင်းချက်ကို ပြုပြင်သည်။"
+    "devnote": "၈.၀.၈\n\n- epub -> txt ကိုပြောင်းသည့်အခါ ဖောင့်ငယ်များကို ဖယ်ရှားရန် ပြင်ဆင်ထားသည်။\n- သော့ဆက်တင် ချို့ယွင်းချက်ကို ပြုပြင်သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "8.0.7\n\n- Sửa đổi bỏ chữ nhỏ khi chuyển đổi epub -> txt.\n- Đã sửa lỗi cài đặt phím."
+    "devnote": "8.0.8\n\n- Sửa đổi bỏ font chữ nhỏ khi chuyển đổi epub -> txt.\n- Đã sửa lỗi cài đặt phím."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "8.0.7\n\n- Зменена для выдалення малых літар пры пераўтварэнні epub -> txt.\n- Выпраўлена памылка налады ключа."
+    "devnote": "8.0.8\n\n- Зменена для выдалення дробных шрыфтоў пры пераўтварэнні epub -> txt.\n- Выпраўлена памылка налады ключа."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "৮.০.৭\n\n- epub -> txt রূপান্তর করার সময় ছোট অক্ষর মুছে ফেলার জন্য পরিবর্তিত।\n- ফিক্সড কী সেটিং বাগ।"
+    "devnote": "৮.০.৮\n\n- epub -> txt রূপান্তর করার সময় ছোট ফন্ট মুছে ফেলার জন্য পরিবর্তিত।\n- ফিক্সড কী সেটিং বাগ।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "8.0.7\n\n- Променено за премахване на малки букви при конвертиране на epub -> txt.\n- Коригирана грешка в настройката на ключовете."
+    "devnote": "8.0.8\n\n- Променено за премахване на малки шрифтове при конвертиране на epub -> txt.\n- Коригирана грешка в настройката на ключовете."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "8.0.7\n\n- Измењено тако да се уклањају мала слова приликом конвертовања епуб -> ткт.\n- Исправљена грешка у подешавању тастера."
+    "devnote": "8.0.8\n\n- Измењено да уклони мале фонтове приликом конвертовања епуб -> ткт.\n- Исправљена грешка у подешавању тастера."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "8.0.7\n\n- Imebadilishwa ili kuondoa herufi ndogo wakati wa kubadilisha epub -> txt.\n- Fixed ufunguo kuweka hitilafu."
+    "devnote": "8.0.8\n\n- Imebadilishwa ili kuondoa fonti ndogo wakati wa kubadilisha epub -> txt.\n- Fixed ufunguo kuweka hitilafu."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "8.0.7\n\n- Ändrad för att ta bort små bokstäver vid konvertering av epub -> txt.\n- Fixat nyckelinställningsfel."
+    "devnote": "8.0.8\n\n- Modifierad för att ta bort små teckensnitt vid konvertering av epub -> txt.\n- Fixat nyckelinställningsfel."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "8.0.7\n\n- Modificado para eliminar letras minúsculas al convertir epub -> txt.\n- Se corrigió el error de configuración de clave."
+    "devnote": "8.0.8\n\n- Modificado para eliminar fuentes pequeñas al convertir epub -> txt.\n- Se corrigió el error de configuración de clave."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "8.0.7\n\n- Upravené na odstránenie malých písmen pri konverzii epub -> txt.\n- Opravená chyba nastavenia kľúča."
+    "devnote": "8.0.8\n\n- Upravené na odstránenie malých písiem pri konverzii epub -> txt.\n- Opravená chyba nastavenia kľúča."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "8.0.7\n\n- Spremenjeno za odstranjevanje malih črk pri pretvorbi epub -> txt.\n- Popravljena napaka pri nastavitvi tipk."
+    "devnote": "8.0.8\n\n- Spremenjeno za odstranjevanje majhnih pisav pri pretvorbi epub -> txt.\n- Popravljena napaka pri nastavitvi tipk."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "8.0.7\n\n- epub -> txt පරිවර්තනය කිරීමේදී කුඩා අකුරු ඉවත් කිරීමට වෙනස් කර ඇත.\n- ස්ථාවර යතුරු සැකසුම් දෝෂය."
+    "devnote": "8.0.8\n\n- epub -> txt පරිවර්තනය කිරීමේදී කුඩා අකුරු ඉවත් කිරීමට වෙනස් කර ඇත.\n- ස්ථාවර යතුරු සැකසුම් දෝෂය."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "8.0.7\n\n- تم التعديل لإزالة الحروف الصغيرة عند تحويل epub -> txt.\n- إصلاح الخلل في إعداد المفتاح."
+    "devnote": "8.0.8\n\n- تم التعديل لإزالة الخطوط الصغيرة عند تحويل epub -> txt.\n- إصلاح الخلل في إعداد المفتاح."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "8.0.7\n\n- Փոփոխվել է փոքր տառերը հեռացնելու համար epub -> txt փոխարկելիս:\n- Շտկվել է բանալիների կարգավորումների սխալը:"
+    "devnote": "8.0.8\n\n- Փոփոխվել է փոքր տառատեսակները հեռացնելու համար epub -> txt փոխարկելիս:\n- Շտկվել է բանալիների կարգավորումների սխալը:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "8.0.7\n\n- Breytt til að fjarlægja smástafi þegar umbreytt er epub -> txt.\n- Lagað villu fyrir lykilstillingar."
+    "devnote": "8.0.8\n\n- Breytt til að fjarlægja lítið letur þegar umbreytt er epub -> txt.\n- Lagað villu fyrir lykilstillingar."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "8.0.7\n\n- Epub -> txt çevirərkən kiçik hərfləri silmək üçün dəyişdirildi.\n- Sabit açar qəbulu səhvi."
+    "devnote": "8.0.8\n\n- Epub -> txt çevirərkən kiçik şriftləri silmək üçün dəyişdirildi.\n- Sabit açar qəbulu səhvi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "8.0.7\n\n- Gewysig om klein letters te verwyder tydens die omskakeling van epub -> txt.\n- Vaste sleutelinstellingsfout."
+    "devnote": "8.0.8\n\n- Gewysig om klein lettertipes te verwyder tydens die omskakeling van epub -> txt.\n- Vaste sleutelinstellingsfout."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "8.0.7\n\n- Ndryshuar për të hequr shkronjat e vogla kur konvertohet epub -> txt.\n- Rregulloi gabimin e konfigurimit të çelësit."
+    "devnote": "8.0.8\n\n- Ndryshuar për të hequr fontet e vogla kur konvertohet epub -> txt.\n- Rregulloi gabimin e konfigurimit të çelësit."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "8.0.7\n\n- epub -> txt በሚቀይሩበት ጊዜ ትናንሽ ፊደላትን ለማስወገድ የተቀየረ።\n- ቋሚ የቁልፍ ቅንብር ስህተት."
+    "devnote": "8.0.8\n\n- epub -> txt ሲቀይሩ ትናንሽ ቅርጸ ቁምፊዎችን ለማስወገድ የተቀየረ።\n- ቋሚ የቁልፍ ቅንብር ስህተት."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "8.0.7\n\n- Muudetud, et eemaldada väikesed tähed epub-> txt teisendamisel.\n- Parandatud klahvi seadistusviga."
+    "devnote": "8.0.8\n\n- Muudetud väikeste fondide eemaldamiseks epub-> txt teisendamisel.\n- Parandatud klahvi seadistusviga."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "8.0.7\n\n- epub -> txt کو تبدیل کرتے وقت چھوٹے حروف کو ہٹانے کے لیے ترمیم کی گئی۔\n- فکسڈ کلیدی ترتیب کا بگ۔"
+    "devnote": "8.0.8\n\n- epub -> txt کو تبدیل کرتے وقت چھوٹے فونٹس کو ہٹانے کے لیے ترمیم کی گئی۔\n- فکسڈ کلیدی ترتیب کا بگ۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "8.0.7\n\n— Змінено для видалення малих літер під час конвертації epub -> txt.\n— Виправлена ​​помилка налаштування клавіш."
+    "devnote": "8.0.8\n\n— Змінено для видалення дрібних шрифтів під час конвертації epub -> txt.\n— Виправлена ​​помилка налаштування клавіш."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "8.0.7\n\n- Modificato per rimuovere le lettere minuscole durante la conversione epub -> txt.\n- Risolto bug di impostazione dei tasti."
+    "devnote": "8.0.8\n\n- Modificato per rimuovere i caratteri piccoli durante la conversione epub -> txt.\n- Risolto bug di impostazione dei tasti."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "8.0.7\n\n- Dimodifikasi untuk menghilangkan huruf kecil saat mengkonversi epub -> txt.\n- Memperbaiki bug pengaturan kunci."
+    "devnote": "8.0.8\n\n- Dimodifikasi untuk menghapus font kecil saat mengonversi epub -> txt.\n- Memperbaiki bug pengaturan kunci."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "8.0.7\n\n・epub→txt変換時に小さい文字を削除するように修正しました。\n- キー設定のバグを修正しました。"
+    "devnote": "8.0.8\n\n・epub→txt変換時に小さいフォントを削除するように修正しました。\n- キー設定のバグを修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "8.0.7\n\n- შეცვლილია პატარა ასოების მოსაშორებლად epub -> txt კონვერტაციისას.\n- დაფიქსირდა გასაღების დაყენების შეცდომა."
+    "devnote": "8.0.8\n\n- შეცვლილია მცირე შრიფტების მოსაშორებლად epub -> txt კონვერტაციისას.\n- დაფიქსირდა გასაღების დაყენების შეცდომა."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "8.0.7\n\n- Kushintshwe ukuze kukhishwe izinhlamvu ezincane lapho kuguqulwa i-epub -> txt.\n- Fixed key setting bug."
+    "devnote": "8.0.8\n\n- Kushintshwe ukuze kukhishwe amafonti amancane lapho kuguqulwa i-epub -> txt.\n- Fixed key setting bug."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "8.0.7\n\n- 修改为在转换 epub -> txt 时删除小写字母。\n- 修复了按键设置错误。"
+    "devnote": "8.0.8\n\n- 修改为在转换 epub -> txt 时删除小字体。\n- 修复了按键设置错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "8.0.7\n\n- 修改為轉換 epub -> txt 時刪除小寫字母。\n- 修復了按鍵設定錯誤。"
+    "devnote": "8.0.8\n\n- 修改為轉換 epub -> txt 時刪除小字體。\n- 修復了按鍵設定錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "8.0.7\n\n- 修改為轉換 epub -> txt 時刪除小寫字母。\n- 修復了按鍵設定錯誤。"
+    "devnote": "8.0.8\n\n- 修改為轉換 epub -> txt 時刪除小字體。\n- 修復了按鍵設定錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "8.0.7\n\n- Upraveno pro odstranění malých písmen při převodu epub -> txt.\n- Opravena chyba nastavení klíče."
+    "devnote": "8.0.8\n\n- Upraveno pro odstranění malých písem při převodu epub -> txt.\n- Opravena chyba nastavení klíče."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "8.0.7\n\n- epub -> txt түрлендіру кезінде кіші әріптерді жою үшін өзгертілген.\n- Кілттерді орнату қатесі түзетілді."
+    "devnote": "8.0.8\n\n- epub -> txt түрлендіру кезінде шағын қаріптерді жою үшін өзгертілген.\n- Кілттерді орнату қатесі түзетілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "8.0.7\n\n- Modificat per eliminar les lletres minúscules en convertir epub -> txt.\n- S'ha corregit l'error de configuració de claus."
+    "devnote": "8.0.8\n\n- Modificat per eliminar els tipus de lletra petits en convertir epub -> txt.\n- S'ha corregit l'error de configuració de claus."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "8.0.7\n\n- epub -> txt ಅನ್ನು ಪರಿವರ್ತಿಸುವಾಗ ಸಣ್ಣ ಅಕ್ಷರಗಳನ್ನು ತೆಗೆದುಹಾಕಲು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಸ್ಥಿರ ಕೀ ಸೆಟ್ಟಿಂಗ್ ದೋಷ."
+    "devnote": "8.0.8\n\n- epub -> txt ಅನ್ನು ಪರಿವರ್ತಿಸುವಾಗ ಸಣ್ಣ ಫಾಂಟ್‌ಗಳನ್ನು ತೆಗೆದುಹಾಕಲು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಸ್ಥಿರ ಕೀ ಸೆಟ್ಟಿಂಗ್ ದೋಷ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "8.0.7\n\n- Modificirano za uklanjanje malih slova prilikom pretvaranja epub -> txt.\n- Ispravljena greška u postavljanju ključa."
+    "devnote": "8.0.8\n\n- Modificirano za uklanjanje malih fontova prilikom pretvaranja epub -> txt.\n- Ispravljena greška u postavljanju ključa."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "៨.០.៧\n\n- កែប្រែដើម្បីលុបអក្សរតូចៗពេលបំប្លែង epub -> txt ។\n- ជួសជុលកំហុសការកំណត់សោ។"
+    "devnote": "៨.០.៨\n\n- កែប្រែដើម្បីលុបពុម្ពអក្សរតូចៗនៅពេលបំប្លែង epub -> txt ។\n- ជួសជុលកំហុសការកំណត់សោ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "8.0.7\n\n- epub -> txt конвертациялоодо кичине тамгаларды алып салуу үчүн өзгөртүлгөн.\n- Түзүлгөн ачкыч орнотуу мүчүлүштүктөрү."
+    "devnote": "8.0.8\n\n- epub -> txt конвертациялоодо кичинекей шрифттерди алып салуу үчүн өзгөртүлгөн.\n- Түзүлгөн ачкыч орнотуу мүчүлүштүктөрү."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "8.0.7\n\n- epub -> txt ஐ மாற்றும் போது சிறிய எழுத்துக்களை நீக்க மாற்றியமைக்கப்பட்டது.\n- நிலையான விசை அமைப்பு பிழை."
+    "devnote": "8.0.8\n\n- epub -> txt ஐ மாற்றும் போது சிறிய எழுத்துருக்களை நீக்க மாற்றியமைக்கப்பட்டது.\n- நிலையான விசை அமைப்பு பிழை."
   },
   "태국어": {
     "key": "th",
-    "devnote": "8.0.7\n\n- แก้ไขเพื่อลบตัวอักษรตัวเล็กเมื่อแปลง epub -> txt\n- แก้ไขข้อบกพร่องในการตั้งค่าคีย์"
+    "devnote": "8.0.8\n\n- แก้ไขเพื่อลบแบบอักษรขนาดเล็กเมื่อแปลง epub -> txt\n- แก้ไขข้อบกพร่องในการตั้งค่าคีย์"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "8.0.7\n\n- epub -> txt'yi dönüştürürken küçük harfleri kaldıracak şekilde değiştirildi.\n- Tuş ayarı hatası düzeltildi."
+    "devnote": "8.0.8\n\n- epub -> txt'yi dönüştürürken küçük yazı tiplerini kaldıracak şekilde değiştirildi.\n- Tuş ayarı hatası düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "8.0.7\n\n- epub -> txtని మార్చేటప్పుడు చిన్న అక్షరాలను తీసివేయడానికి సవరించబడింది.\n- స్థిర కీ సెట్టింగ్ బగ్."
+    "devnote": "8.0.8\n\n- epub -> txtని మార్చేటప్పుడు చిన్న ఫాంట్‌లను తీసివేయడానికి సవరించబడింది.\n- స్థిర కీ సెట్టింగ్ బగ్."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "8.0.7\n\n- epub -> txt ਨੂੰ ਬਦਲਣ ਵੇਲੇ ਛੋਟੇ ਅੱਖਰਾਂ ਨੂੰ ਹਟਾਉਣ ਲਈ ਸੋਧਿਆ ਗਿਆ।\n- ਫਿਕਸਡ ਕੁੰਜੀ ਸੈਟਿੰਗ ਬੱਗ।"
+    "devnote": "8.0.8\n\n- epub -> txt ਨੂੰ ਬਦਲਣ ਵੇਲੇ ਛੋਟੇ ਫੌਂਟਾਂ ਨੂੰ ਹਟਾਉਣ ਲਈ ਸੋਧਿਆ ਗਿਆ।\n- ਫਿਕਸਡ ਕੁੰਜੀ ਸੈਟਿੰਗ ਬੱਗ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "8.0.7\n\n- برای حذف حروف کوچک هنگام تبدیل epub -> txt اصلاح شده است.\n- رفع اشکال تنظیم کلید."
+    "devnote": "8.0.8\n\n- برای حذف فونت های کوچک هنگام تبدیل epub -> txt اصلاح شده است.\n- رفع اشکال تنظیم کلید."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "8.0.7\n\n- Modificado para remover letras minúsculas ao converter epub -> txt.\n- Corrigido bug de configuração de chave."
+    "devnote": "8.0.8\n\n- Modificado para remover fontes pequenas ao converter epub -> txt.\n- Corrigido bug de configuração de chave."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "8.0.7\n\n- Zmodyfikowano, aby usunąć małe litery podczas konwersji epub -> txt.\n- Naprawiono błąd ustawień klawiszy."
+    "devnote": "8.0.8\n\n- Zmodyfikowano, aby usunąć małe czcionki podczas konwersji epub -> txt.\n- Naprawiono błąd ustawień klawiszy."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "8.0.7\n\n- Modifié pour supprimer les minuscules lors de la conversion epub -> txt.\n- Correction d'un bug de réglage des touches."
+    "devnote": "8.0.8\n\n- Modifié pour supprimer les petites polices lors de la conversion epub -> txt.\n- Correction d'un bug de réglage des touches."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "8.0.7\n\n- Muokattu poistamaan pienet kirjaimet muunnettaessa epub -> txt.\n- Korjattu näppäinasetusvirhe."
+    "devnote": "8.0.8\n\n- Muokattu poistamaan pienet fontit muunnettaessa epub -> txt.\n- Korjattu näppäinasetusvirhe."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "8.0.7\n\n- Binago upang alisin ang maliliit na titik kapag nagko-convert ng epub -> txt.\n- Fixed key setting bug."
+    "devnote": "8.0.8\n\n- Binago upang alisin ang maliliit na font kapag nagko-convert ng epub -> txt.\n- Fixed key setting bug."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "8.0.7\n\n- Módosítva a kis betűk eltávolítására az epub -> txt konvertálásakor.\n- Javítva a kulcs beállítási hibája."
+    "devnote": "8.0.8\n\n- Módosítva a kis betűtípusok eltávolítására az epub -> txt konvertálásakor.\n- Javítva a kulcs beállítási hibája."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "8.0.7\n\n- שונה כדי להסיר אותיות קטנות בעת המרת epub -> txt.\n- תיקן באג בהגדרת מפתח."
+    "devnote": "8.0.8\n\n- שונה כדי להסיר גופנים קטנים בעת המרת epub -> txt.\n- תיקן באג בהגדרת מפתח."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "8.0.7\n\n- epub -> txt परिवर्तित करते समय छोटे अक्षरों को हटाने के लिए संशोधित।\n- कुंजी सेटिंग बग को ठीक किया गया।"
+    "devnote": "8.0.8\n\n- epub -> txt परिवर्तित करते समय छोटे फ़ॉन्ट हटाने के लिए संशोधित।\n- कुंजी सेटिंग बग को ठीक किया गया।"
   }
 }
