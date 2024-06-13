@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "8.0.6\n\n1. Modified so that the touch area margin can be set separately.\n2. The backup/recovery logic has been modified.\n3. Modified to ignore sub (comment and explanation) tags when converting epub -> txt."
+    "devnote": "8.0.7\n\n- Modified to remove small letters when converting epub -> txt.\n- Fixed key setting bug."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "8.0.6\n\n1. 터치영역 여백을 따로 설정 할 수있도록 수정하였습니다. \n2. 백업/복구 로직을 수정하였습니다. \n3. epub -> txt 변환시 sub(주석및 설명) 태그를 무시하도록 수정 하였습니다."
+    "devnote": "8.0.7\n\n- epub -> txt 변환시 작은 글자을 제거 하도록 수정 하였습니다. \n- 키설정 버그를 수정하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "8.0.6\n\n1. Modificouse para que a marxe da área táctil se poida definir por separado.\n2. Modificouse a lóxica de copia de seguridade/recuperación.\n3. Modificado para ignorar as etiquetas sub (comentario e explicación) ao converter epub -> txt."
+    "devnote": "8.0.7\n\n- Modificado para eliminar letras minúsculas ao converter epub -> txt.\n- Arranxouse un erro de configuración de teclas."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "8.0.6\n\n1. સંશોધિત જેથી ટચ એરિયા માર્જિન અલગથી સેટ કરી શકાય.\n2. બેકઅપ/પુનઃપ્રાપ્તિ તર્કમાં ફેરફાર કરવામાં આવ્યો છે.\n3. epub -> txt ને કન્વર્ટ કરતી વખતે સબ (ટિપ્પણી અને સમજૂતી) ટૅગ્સને અવગણવા માટે સંશોધિત."
+    "devnote": "8.0.7\n\n- epub -> txt કન્વર્ટ કરતી વખતે નાના અક્ષરો દૂર કરવા માટે સંશોધિત.\n- સ્થિર કી સેટિંગ બગ."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "8.0.6\n\n1. Τροποποιήθηκε έτσι ώστε το περιθώριο της περιοχής αφής να μπορεί να ρυθμιστεί ξεχωριστά.\n2. Η λογική δημιουργίας αντιγράφων ασφαλείας/ανάκτησης έχει τροποποιηθεί.\n3. Τροποποιήθηκε ώστε να αγνοούνται οι δευτερεύουσες ετικέτες (σχόλιο και επεξήγηση) κατά τη μετατροπή epub -> txt."
+    "devnote": "8.0.7\n\n- Τροποποιήθηκε για να αφαιρεί μικρά γράμματα κατά τη μετατροπή epub -> txt.\n- Διορθώθηκε το σφάλμα ρύθμισης κλειδιού."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "8.0.6\n\n1. Aangepast zodat de marge van het aanraakgebied afzonderlijk kan worden ingesteld.\n2. De back-up-/herstellogica is gewijzigd.\n3. Aangepast om subtags (commentaar en uitleg) te negeren bij het converteren van epub -> txt."
+    "devnote": "8.0.7\n\n- Aangepast om kleine letters te verwijderen bij het converteren van epub -> txt.\n- Probleem met sleutelinstelling opgelost."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "८.०.६\n\n1. परिमार्जन गरिएको छ ताकि स्पर्श क्षेत्र मार्जिन अलग सेट गर्न सकिन्छ।\n2. ब्याकअप/रिकभरी तर्क परिमार्जन गरिएको छ।\n3. epub -> txt लाई रूपान्तरण गर्दा उप (टिप्पणी र व्याख्या) ट्यागहरूलाई बेवास्ता गर्न परिमार्जन गरियो।"
+    "devnote": "८.०.७\n\n- epub -> txt रूपान्तरण गर्दा साना अक्षरहरू हटाउन परिमार्जन गरियो।\n- फिक्स्ड कुञ्जी सेटिङ बग।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "8.0.6\n\n1. Modifisert slik at berøringsområdets marg kan stilles inn separat.\n2. Sikkerhetskopierings-/gjenopprettingslogikken er endret.\n3. Modifisert for å ignorere under (kommentar og forklaring)-tagger ved konvertering av epub -> txt."
+    "devnote": "8.0.7\n\n- Modifisert for å fjerne små bokstaver ved konvertering av epub -> txt.\n- Fikset nøkkelinnstillingsfeil."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "8.0.6\n\n1. Ændret, så berøringsområdets margen kan indstilles separat.\n2. Sikkerhedskopierings-/gendannelseslogikken er blevet ændret.\n3. Ændret til at ignorere under (kommentar og forklaring) tags ved konvertering af epub -> txt."
+    "devnote": "8.0.7\n\n- Ændret til at fjerne små bogstaver ved konvertering af epub -> txt.\n- Rettet nøgleindstillingsfejl."
   },
   "독일어": {
     "key": "de",
-    "devnote": "8.0.6\n\n1. Geändert, sodass der Rand des Berührungsbereichs separat eingestellt werden kann.\n2. Die Sicherungs-/Wiederherstellungslogik wurde geändert.\n3. Geändert, um Sub-Tags (Kommentar und Erklärung) beim Konvertieren von epub -> txt zu ignorieren."
+    "devnote": "8.0.7\n\n- Geändert, um kleine Buchstaben beim Konvertieren von epub -> txt zu entfernen.\n- Fehler bei der Tasteneinstellung behoben."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "8.0.6\n\n1. ດັດແກ້ເພື່ອໃຫ້ຂອບພື້ນທີ່ສໍາຜັດສາມາດຕັ້ງແຍກຕ່າງຫາກ.\n2. ເຫດຜົນການສໍາຮອງຂໍ້ມູນ / ການຟື້ນຟູໄດ້ຖືກດັດແກ້.\n3. ດັດແກ້ເພື່ອບໍ່ສົນໃຈ sub (ຄໍາເຫັນແລະຄໍາອະທິບາຍ) tags ເມື່ອປ່ຽນ epub -> txt."
+    "devnote": "8.0.7\n\n- ດັດແກ້ເພື່ອເອົາຕົວອັກສອນຂະຫນາດນ້ອຍເມື່ອປ່ຽນ epub -> txt.\n- ແກ້​ໄຂ​ບັນ​ຫາ​ການ​ຕັ້ງ​ຄ່າ​ທີ່​ສໍາ​ຄັນ​."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "8.0.6\n\n1. Modificēts, lai pieskāriena apgabala malu varētu iestatīt atsevišķi.\n2. Dublēšanas/atkopšanas loģika ir mainīta.\n3. Modificēts, lai ignorētu apakšbirkas (komentārs un skaidrojums), konvertējot epub -> txt."
+    "devnote": "8.0.7\n\n- Modificēts, lai noņemtu mazos burtus, konvertējot epub -> txt.\n- Izlabota taustiņu iestatīšanas kļūda."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "8.0.6\n\n1. Изменено так, что границу сенсорной области можно устанавливать отдельно.\n2. Изменена логика резервного копирования/восстановления.\n3. Изменено игнорирование дополнительных тегов (комментариев и объяснений) при преобразовании epub -> txt."
+    "devnote": "8.0.7\n\n- Изменено удаление строчных букв при конвертации epub -> txt.\n- Исправлена ​​ошибка настройки ключей."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "8.0.6\n\n1. Modificat astfel încât marginea zonei de atingere să poată fi setată separat.\n2. Logica de backup/recuperare a fost modificată.\n3. Modificat pentru a ignora etichetele secundare (comentare și explicație) la conversia epub -> txt."
+    "devnote": "8.0.7\n\n- Modificat pentru a elimina literele mici la conversia epub -> txt.\n- S-a remediat o eroare de setare a tastelor."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "8.0.6\n\n1. Modifikuota taip, kad lietimo srities paraštę būtų galima nustatyti atskirai.\n2. Atsarginės kopijos / atkūrimo logika buvo pakeista.\n3. Pakeista, kad būtų ignoruojamos antrinės (komentarų ir paaiškinimų) žymos konvertuojant epub -> txt."
+    "devnote": "8.0.7\n\n- Pakeista, kad būtų pašalintos mažos raidės konvertuojant epub -> txt.\n- Ištaisyta klavišų nustatymo klaida."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "८.०.६\n\n1. सुधारित केले जेणेकरून स्पर्श क्षेत्र मार्जिन स्वतंत्रपणे सेट केले जाऊ शकते.\n2. बॅकअप/रिकव्हरी लॉजिक सुधारित केले गेले आहे.\n3. epub -> txt रूपांतरित करताना उप (टिप्पणी आणि स्पष्टीकरण) टॅगकडे दुर्लक्ष करण्यासाठी सुधारित."
+    "devnote": "८.०.७\n\n- epub -> txt रूपांतरित करताना लहान अक्षरे काढण्यासाठी सुधारित.\n- फिक्स्ड की सेटिंग बग."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "8.0.6\n\n1. Изменето така што маргината на областа на допир може да се постави посебно.\n2. Логиката за резервна копија/обновување е изменета.\n3. Изменето за да се игнорираат под (коментари и објаснувања) ознаки при конвертирање epub -> txt."
+    "devnote": "8.0.7\n\n- Изменето за отстранување на мали букви при конвертирање epub -> txt.\n- Поправена грешка во поставувањето на копчињата."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "8.0.6\n\n1. ടച്ച് ഏരിയ മാർജിൻ പ്രത്യേകം സജ്ജമാക്കാൻ കഴിയുന്ന തരത്തിൽ പരിഷ്ക്കരിച്ചു.\n2. ബാക്കപ്പ്/വീണ്ടെടുക്കൽ ലോജിക്ക് പരിഷ്കരിച്ചു.\n3. epub -> txt പരിവർത്തനം ചെയ്യുമ്പോൾ ഉപ (അഭിപ്രായവും വിശദീകരണവും) ടാഗുകൾ അവഗണിക്കാൻ പരിഷ്കരിച്ചു."
+    "devnote": "8.0.7\n\n- epub -> txt പരിവർത്തനം ചെയ്യുമ്പോൾ ചെറിയ അക്ഷരങ്ങൾ നീക്കം ചെയ്യാൻ പരിഷ്‌ക്കരിച്ചു.\n- കീ ക്രമീകരണ ബഗ് പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "8.0.6\n\n1. Diubah suai supaya margin kawasan sentuh boleh ditetapkan secara berasingan.\n2. Logik sandaran/pemulihan telah diubah suai.\n3. Diubah suai untuk mengabaikan sub (komen dan penjelasan) tag apabila menukar epub -> txt."
+    "devnote": "8.0.7\n\n- Diubah suai untuk mengalih keluar huruf kecil apabila menukar epub -> txt.\n- Pepijat tetapan kunci tetap."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "8.0.6\n\n1. Мэдрэгч хэсгийн захыг тусад нь тохируулах боломжтой болгож өөрчилсөн.\n2. Нөөцлөх/сэргээх логикийг өөрчилсөн.\n3. epub -> txt хөрвүүлэхдээ дэд (тайлбар, тайлбар) хаягуудыг үл тоомсорлож өөрчилсөн."
+    "devnote": "8.0.7\n\n- Epub -> txt хөрвүүлэхдээ жижиг үсгийг арилгахаар өөрчилсөн.\n- Түлхүүрийг тохируулах алдаа зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "8.0.6\n\n1. Ukipen-eremuaren marjina bereizita ezar dadin aldatu da.\n2. Babeskopia/berreskuratze logika aldatu da.\n3. Azpi (iruzkinak eta azalpenak) etiketak alde batera uzteko aldatu da epub -> txt bihurtzean."
+    "devnote": "8.0.7\n\n- Epub -> txt bihurtzean letra txikiak kentzeko aldatu da.\n- Teklaren ezarpenaren akatsa konpondu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "၈.၀.၆\n\n1. ထိတွေ့ဧရိယာအနားသတ်ကို သီးခြားစီ သတ်မှတ်နိုင်စေရန် ပြင်ဆင်ထားသည်။\n2. အရန်/ပြန်လည်ရယူခြင်း ယုတ္တိဗေဒကို ပြုပြင်ပြီးဖြစ်သည်။\n3. epub -> txt ကို ပြောင်းသည့်အခါ sub (မှတ်ချက်နှင့် ရှင်းပြချက်) တဂ်များကို လျစ်လျူရှုရန် ပြင်ဆင်ထားသည်။"
+    "devnote": "၈.၀.၇\n\n- epub -> txt ကိုပြောင်းသည့်အခါ စာလုံးသေးသေးများကို ဖယ်ရှားရန် ပြင်ဆင်ထားသည်။\n- သော့ဆက်တင် ချို့ယွင်းချက်ကို ပြုပြင်သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "8.0.6\n\n1. Đã sửa đổi để có thể đặt riêng lề vùng cảm ứng.\n2. Logic sao lưu/khôi phục đã được sửa đổi.\n3. Đã sửa đổi để bỏ qua các thẻ phụ (bình luận và giải thích) khi chuyển đổi epub -> txt."
+    "devnote": "8.0.7\n\n- Sửa đổi bỏ chữ nhỏ khi chuyển đổi epub -> txt.\n- Đã sửa lỗi cài đặt phím."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "8.0.6\n\n1. Зменена так, што межы вобласці дотыку можна ўсталёўваць асобна.\n2. Логіка рэзервовага капіявання/аднаўлення была зменена.\n3. Зменена, каб ігнараваць тэгі sub (каментар і тлумачэнне) пры пераўтварэнні epub -> txt."
+    "devnote": "8.0.7\n\n- Зменена для выдалення малых літар пры пераўтварэнні epub -> txt.\n- Выпраўлена памылка налады ключа."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "8.0.6\n\n1. পরিবর্তিত যাতে স্পর্শ এলাকার মার্জিন আলাদাভাবে সেট করা যায়।\n2. ব্যাকআপ/পুনরুদ্ধারের যুক্তি পরিবর্তন করা হয়েছে।\n3. epub -> txt রূপান্তর করার সময় সাব (মন্তব্য এবং ব্যাখ্যা) ট্যাগগুলি উপেক্ষা করার জন্য পরিবর্তিত।"
+    "devnote": "৮.০.৭\n\n- epub -> txt রূপান্তর করার সময় ছোট অক্ষর মুছে ফেলার জন্য পরিবর্তিত।\n- ফিক্সড কী সেটিং বাগ।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "8.0.6\n\n1. Модифицирано така, че границата на зоната за докосване да може да се задава отделно.\n2. Логиката за архивиране/възстановяване е променена.\n3. Променено за игнориране на sub (коментар и обяснение) етикети при конвертиране на epub -> txt."
+    "devnote": "8.0.7\n\n- Променено за премахване на малки букви при конвертиране на epub -> txt.\n- Коригирана грешка в настройката на ключовете."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "8.0.6\n\n1. Модификовано тако да се маргина додирне површине може засебно подесити.\n2. Логика резервне копије/опоравка је измењена.\n3. Измењено тако да игнорише под (коментар и објашњење) ознаке приликом конвертовања епуб -> ткт."
+    "devnote": "8.0.7\n\n- Измењено тако да се уклањају мала слова приликом конвертовања епуб -> ткт.\n- Исправљена грешка у подешавању тастера."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "8.0.6\n\n1. Imebadilishwa ili ukingo wa eneo la kugusa uweze kuwekwa tofauti.\n2. Mantiki ya chelezo/uokoaji imerekebishwa.\n3. Imebadilishwa ili kupuuza tagi ndogo (maoni na maelezo) wakati wa kubadilisha epub -> txt."
+    "devnote": "8.0.7\n\n- Imebadilishwa ili kuondoa herufi ndogo wakati wa kubadilisha epub -> txt.\n- Fixed ufunguo kuweka hitilafu."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "8.0.6\n\n1. Modifierad så att pekområdesmarginalen kan ställas in separat.\n2. Logiken för säkerhetskopiering/återställning har ändrats.\n3. Ändrad för att ignorera undertaggar (kommentarer och förklaringar) vid konvertering av epub -> txt."
+    "devnote": "8.0.7\n\n- Ändrad för att ta bort små bokstäver vid konvertering av epub -> txt.\n- Fixat nyckelinställningsfel."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "8.0.6\n\n1. Modificado para que el margen del área táctil se pueda configurar por separado.\n2. Se ha modificado la lógica de copia de seguridad/recuperación.\n3. Modificado para ignorar subetiquetas (comentarios y explicaciones) al convertir epub -> txt."
+    "devnote": "8.0.7\n\n- Modificado para eliminar letras minúsculas al convertir epub -> txt.\n- Se corrigió el error de configuración de clave."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "8.0.6\n\n1. Upravené tak, aby sa okraj dotykovej oblasti dal nastaviť samostatne.\n2. Logika zálohovania/obnovy bola upravená.\n3. Upravené tak, aby sa pri konverzii epub -> txt ignorovali vedľajšie značky (komentár a vysvetlenie)."
+    "devnote": "8.0.7\n\n- Upravené na odstránenie malých písmen pri konverzii epub -> txt.\n- Opravená chyba nastavenia kľúča."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "8.0.6\n\n1. Spremenjeno tako, da je rob območja dotika mogoče nastaviti ločeno.\n2. Logika varnostnega kopiranja/obnovitve je bila spremenjena.\n3. Spremenjeno tako, da pri pretvorbi epub -> txt prezre oznake pod (komentar in razlaga)."
+    "devnote": "8.0.7\n\n- Spremenjeno za odstranjevanje malih črk pri pretvorbi epub -> txt.\n- Popravljena napaka pri nastavitvi tipk."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "8.0.6\n\n1. ස්පර්ශ ප්‍රදේශයේ මායිම වෙන වෙනම සැකසිය හැකි පරිදි වෙනස් කර ඇත.\n2. උපස්ථ/ප්‍රතිසාධන තර්කනය වෙනස් කර ඇත.\n3. epub -> txt පරිවර්තනය කිරීමේදී උප (අදහස් සහ පැහැදිලි කිරීම්) ටැග් නොසලකා හැරීමට වෙනස් කර ඇත."
+    "devnote": "8.0.7\n\n- epub -> txt පරිවර්තනය කිරීමේදී කුඩා අකුරු ඉවත් කිරීමට වෙනස් කර ඇත.\n- ස්ථාවර යතුරු සැකසුම් දෝෂය."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "8.0.6\n\n1. تم التعديل بحيث يمكن ضبط هامش منطقة اللمس بشكل منفصل.\n2. تم تعديل منطق النسخ الاحتياطي/الاسترداد.\n3. تم التعديل لتجاهل العلامات الفرعية (التعليق والشرح) عند تحويل epub -> txt."
+    "devnote": "8.0.7\n\n- تم التعديل لإزالة الحروف الصغيرة عند تحويل epub -> txt.\n- إصلاح الخلل في إعداد المفتاح."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "8.0.6\n\n1. Փոփոխվել է այնպես, որ հպման տարածքի լուսանցքը կարող է առանձին սահմանվել:\n2. Պահուստային/վերականգնման տրամաբանությունը փոփոխվել է:\n3. Փոփոխվել է՝ epub -> txt փոխարկելիս ենթակետերը (մեկնաբանություն և բացատրություն) անտեսելու համար:"
+    "devnote": "8.0.7\n\n- Փոփոխվել է փոքր տառերը հեռացնելու համար epub -> txt փոխարկելիս:\n- Շտկվել է բանալիների կարգավորումների սխալը:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "8.0.6\n\n1. Breytt þannig að hægt sé að stilla brún snertisvæðis sérstaklega.\n2. Afritunar-/endurheimtarrökfræðinni hefur verið breytt.\n3. Breytt til að hunsa undirmerki (athugasemdir og skýringar) þegar umbreytt er epub -> txt."
+    "devnote": "8.0.7\n\n- Breytt til að fjarlægja smástafi þegar umbreytt er epub -> txt.\n- Lagað villu fyrir lykilstillingar."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "8.0.6\n\n1. Toxunma sahəsinin kənarını ayrıca təyin etmək üçün dəyişdirildi.\n2. Yedəkləmə/bərpa məntiqi dəyişdirildi.\n3. epub -> txt çevirərkən alt (şərh və izahat) teqlərinə məhəl qoymamaq üçün dəyişdirildi."
+    "devnote": "8.0.7\n\n- Epub -> txt çevirərkən kiçik hərfləri silmək üçün dəyişdirildi.\n- Sabit açar qəbulu səhvi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "8.0.6\n\n1. Gewysig sodat die raakarea-marge apart gestel kan word.\n2. Die rugsteun-/herstellogika is gewysig.\n3. Gewysig om sub-etikette (opmerking en verduideliking) te ignoreer wanneer epub -> txt omgeskakel word."
+    "devnote": "8.0.7\n\n- Gewysig om klein letters te verwyder tydens die omskakeling van epub -> txt.\n- Vaste sleutelinstellingsfout."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "8.0.6\n\n1. Ndryshuar në mënyrë që kufiri i zonës së prekjes të mund të vendoset veçmas.\n2. Logjika e rezervimit/rikuperimit është modifikuar.\n3. Ndryshuar për të injoruar etiketat nën (koment dhe shpjegim) kur konvertohet epub -> txt."
+    "devnote": "8.0.7\n\n- Ndryshuar për të hequr shkronjat e vogla kur konvertohet epub -> txt.\n- Rregulloi gabimin e konfigurimit të çelësit."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "8.0.6\n\n1. የንኪው ቦታ ህዳግ ለብቻው እንዲዘጋጅ ተስተካክሏል.\n2. የመጠባበቂያ / የማገገሚያ አመክንዮ ተስተካክሏል.\n3. epub -> txt በሚቀይሩበት ጊዜ ንዑስ (አስተያየት እና ማብራሪያ) መለያዎችን ችላ ለማለት የተቀየረ።"
+    "devnote": "8.0.7\n\n- epub -> txt በሚቀይሩበት ጊዜ ትናንሽ ፊደላትን ለማስወገድ የተቀየረ።\n- ቋሚ የቁልፍ ቅንብር ስህተት."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "8.0.6\n\n1. Muudetud nii, et puuteala veerist saab eraldi määrata.\n2. Varundamise/taastamise loogikat on muudetud.\n3. Muudetud, et ignoreerida alammärgendeid (kommentaarid ja selgitused) epub -> txt teisendamisel."
+    "devnote": "8.0.7\n\n- Muudetud, et eemaldada väikesed tähed epub-> txt teisendamisel.\n- Parandatud klahvi seadistusviga."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "8.0.6\n\n1. ترمیم شدہ تاکہ ٹچ ایریا مارجن کو الگ سے سیٹ کیا جا سکے۔\n2. بیک اپ/ریکوری منطق میں ترمیم کی گئی ہے۔\n3. epub -> txt کو تبدیل کرتے وقت ذیلی (تبصرہ اور وضاحت) ٹیگز کو نظر انداز کرنے کے لیے ترمیم کی گئی۔"
+    "devnote": "8.0.7\n\n- epub -> txt کو تبدیل کرتے وقت چھوٹے حروف کو ہٹانے کے لیے ترمیم کی گئی۔\n- فکسڈ کلیدی ترتیب کا بگ۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "8.0.6\n\n1. Змінено, щоб можна було встановити окремо межу зони дотику.\n2. Логіку резервного копіювання/відновлення було змінено.\n3. Змінено для ігнорування тегів sub (коментар і пояснення) під час конвертації epub -> txt."
+    "devnote": "8.0.7\n\n— Змінено для видалення малих літер під час конвертації epub -> txt.\n— Виправлена ​​помилка налаштування клавіш."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "8.0.6\n\n1. Modificato in modo che il margine dell'area di tocco possa essere impostato separatamente.\n2. La logica di backup/ripristino è stata modificata.\n3. Modificato per ignorare i tag sub (commento e spiegazione) durante la conversione epub -> txt."
+    "devnote": "8.0.7\n\n- Modificato per rimuovere le lettere minuscole durante la conversione epub -> txt.\n- Risolto bug di impostazione dei tasti."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "8.0.6\n\n1. Dimodifikasi sehingga margin area sentuh dapat diatur secara terpisah.\n2. Logika pencadangan/pemulihan telah diubah.\n3. Dimodifikasi untuk mengabaikan tag sub (komentar dan penjelasan) saat mengonversi epub -> txt."
+    "devnote": "8.0.7\n\n- Dimodifikasi untuk menghilangkan huruf kecil saat mengkonversi epub -> txt.\n- Memperbaiki bug pengaturan kunci."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "8.0.6\n\n1. タッチエリアの余白を個別に設定できるように修正しました。\n2. バックアップ/リカバリロジックが変更されました。\n3. epub→txt変換時にサブ(コメントや説明)タグを無視するように修正しました。"
+    "devnote": "8.0.7\n\n・epub→txt変換時に小さい文字を削除するように修正しました。\n- キー設定のバグを修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "8.0.6\n\n1. შეცვლილია ისე, რომ შეხების არეალის ზღვარი ცალკე დაყენდეს.\n2. სარეზერვო/აღდგენის ლოგიკა შეიცვალა.\n3. შეცვლილია ქვე (კომენტარის და განმარტების) თეგების იგნორირებაზე epub -> txt კონვერტაციისას."
+    "devnote": "8.0.7\n\n- შეცვლილია პატარა ასოების მოსაშორებლად epub -> txt კონვერტაციისას.\n- დაფიქსირდა გასაღების დაყენების შეცდომა."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "8.0.6\n\n1. Kulungiswe ukuze imajini yendawo yokuthinta isethwe ngokuhlukana.\n2. I-logic yokusekelayo/yokubuyisela ishintshiwe.\n3. Kulungiswe ukuze kuzibe omaka abancane (amazwana nencazelo) lapho kuguqulwa i-epub -> txt."
+    "devnote": "8.0.7\n\n- Kushintshwe ukuze kukhishwe izinhlamvu ezincane lapho kuguqulwa i-epub -> txt.\n- Fixed key setting bug."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "8.0.6\n\n1.修改为可以单独设置触摸区域边距。\n2.修改了备份/恢复逻辑。\n3. 修改为在转换 epub -> txt 时忽略子（注释和解释）标签。"
+    "devnote": "8.0.7\n\n- 修改为在转换 epub -> txt 时删除小写字母。\n- 修复了按键设置错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "8.0.6\n\n1.修改為可單獨設定觸摸區域邊距。\n2.修改了備份/復原邏輯。\n3. 修改為轉換 epub -> txt 時忽略子（註解與解釋）標籤。"
+    "devnote": "8.0.7\n\n- 修改為轉換 epub -> txt 時刪除小寫字母。\n- 修復了按鍵設定錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "8.0.6\n\n1.修改為可單獨設定觸摸區域邊距。\n2.修改了備份/復原邏輯。\n3. 修改為轉換 epub -> txt 時忽略子（註解與解釋）標籤。"
+    "devnote": "8.0.7\n\n- 修改為轉換 epub -> txt 時刪除小寫字母。\n- 修復了按鍵設定錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "8.0.6\n\n1. Upraveno tak, že okraj dotykové oblasti lze nastavit samostatně.\n2. Logika zálohování/obnovy byla změněna.\n3. Upraveno tak, aby při převodu epub -> txt ignorovalo dílčí značky (komentář a vysvětlení)."
+    "devnote": "8.0.7\n\n- Upraveno pro odstranění malých písmen při převodu epub -> txt.\n- Opravena chyba nastavení klíče."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "8.0.6\n\n1. Түрту аймағының жиегін бөлек орнатуға болатындай өзгертілді.\n2. Сақтық көшірме/қалпына келтіру логикасы өзгертілді.\n3. epub -> txt түрлендіру кезінде ішкі (түсініктеме және түсініктеме) тегтерін елемеу үшін өзгертілген."
+    "devnote": "8.0.7\n\n- epub -> txt түрлендіру кезінде кіші әріптерді жою үшін өзгертілген.\n- Кілттерді орнату қатесі түзетілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "8.0.6\n\n1. Modificat perquè el marge de l'àrea tàctil es pugui definir per separat.\n2. S'ha modificat la lògica de còpia de seguretat/recuperació.\n3. S'ha modificat per ignorar les subetiquetes (comentaris i explicacions) en convertir epub -> txt."
+    "devnote": "8.0.7\n\n- Modificat per eliminar les lletres minúscules en convertir epub -> txt.\n- S'ha corregit l'error de configuració de claus."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "8.0.6\n\n1. ಟಚ್ ಏರಿಯಾ ಅಂಚನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಹೊಂದಿಸಲು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n2. ಬ್ಯಾಕಪ್/ಮರುಪ್ರಾಪ್ತಿ ತರ್ಕವನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n3. epub -> txt ಅನ್ನು ಪರಿವರ್ತಿಸುವಾಗ ಉಪ (ಕಾಮೆಂಟ್ ಮತ್ತು ವಿವರಣೆ) ಟ್ಯಾಗ್‌ಗಳನ್ನು ನಿರ್ಲಕ್ಷಿಸಲು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
+    "devnote": "8.0.7\n\n- epub -> txt ಅನ್ನು ಪರಿವರ್ತಿಸುವಾಗ ಸಣ್ಣ ಅಕ್ಷರಗಳನ್ನು ತೆಗೆದುಹಾಕಲು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಸ್ಥಿರ ಕೀ ಸೆಟ್ಟಿಂಗ್ ದೋಷ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "8.0.6\n\n1. Modificirano tako da se margina područja dodira može postaviti zasebno.\n2. Logika sigurnosne kopije/oporavka je promijenjena.\n3. Modificirano da zanemari oznake pod (komentar i objašnjenje) prilikom pretvaranja epub -> txt."
+    "devnote": "8.0.7\n\n- Modificirano za uklanjanje malih slova prilikom pretvaranja epub -> txt.\n- Ispravljena greška u postavljanju ključa."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "៨.០.៦\n\n1. បានកែប្រែដូច្នេះរឹមផ្ទៃប៉ះអាចត្រូវបានកំណត់ដោយឡែកពីគ្នា។\n2. តក្កវិជ្ជាបម្រុងទុក / ការស្តារឡើងវិញត្រូវបានកែប្រែ។\n3. បានកែប្រែដើម្បីមិនអើពើស្លាករង (មតិយោបល់ និងការពន្យល់) នៅពេលបម្លែង epub -> txt ។"
+    "devnote": "៨.០.៧\n\n- កែប្រែដើម្បីលុបអក្សរតូចៗពេលបំប្លែង epub -> txt ។\n- ជួសជុលកំហុសការកំណត់សោ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "8.0.6\n\n1. Сенсордук аймак маржа өзүнчө коюуга болот деп өзгөртүлгөн.\n2. Камдык/калыбына келтирүү логикасы өзгөртүлдү.\n3. epub -> txt конвертациялоодо суб (комментарий жана түшүндүрмө) тэгдерин этибарга албоо үчүн өзгөртүлгөн."
+    "devnote": "8.0.7\n\n- epub -> txt конвертациялоодо кичине тамгаларды алып салуу үчүн өзгөртүлгөн.\n- Түзүлгөн ачкыч орнотуу мүчүлүштүктөрү."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "8.0.6\n\n1. தொடு பகுதியின் விளிம்பை தனித்தனியாக அமைக்கும் வகையில் மாற்றியமைக்கப்பட்டது.\n2. காப்பு/மீட்பு தர்க்கம் மாற்றியமைக்கப்பட்டுள்ளது.\n3. epub -> txt ஐ மாற்றும்போது துணை (கருத்து மற்றும் விளக்கம்) குறிச்சொற்களை புறக்கணிக்க மாற்றப்பட்டது."
+    "devnote": "8.0.7\n\n- epub -> txt ஐ மாற்றும் போது சிறிய எழுத்துக்களை நீக்க மாற்றியமைக்கப்பட்டது.\n- நிலையான விசை அமைப்பு பிழை."
   },
   "태국어": {
     "key": "th",
-    "devnote": "8.0.6\n\n1. แก้ไขเพื่อให้สามารถตั้งค่าระยะขอบของพื้นที่สัมผัสแยกกันได้\n2. ตรรกะการสำรองข้อมูล/การกู้คืนได้รับการแก้ไข\n3. แก้ไขให้ละเว้นแท็กย่อย (ความคิดเห็นและคำอธิบาย) เมื่อแปลง epub -> txt"
+    "devnote": "8.0.7\n\n- แก้ไขเพื่อลบตัวอักษรตัวเล็กเมื่อแปลง epub -> txt\n- แก้ไขข้อบกพร่องในการตั้งค่าคีย์"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "8.0.6\n\n1. Dokunma alanı kenar boşluğunun ayrı olarak ayarlanabileceği şekilde değiştirildi.\n2. Yedekleme/kurtarma mantığı değiştirildi.\n3. epub -> txt'yi dönüştürürken alt (yorum ve açıklama) etiketlerini göz ardı edecek şekilde değiştirildi."
+    "devnote": "8.0.7\n\n- epub -> txt'yi dönüştürürken küçük harfleri kaldıracak şekilde değiştirildi.\n- Tuş ayarı hatası düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "8.0.6\n\n1. టచ్ ఏరియా మార్జిన్‌ని విడిగా సెట్ చేసే విధంగా సవరించబడింది.\n2. బ్యాకప్/రికవరీ లాజిక్ సవరించబడింది.\n3. epub -> txtని మార్చేటప్పుడు ఉప (వ్యాఖ్య మరియు వివరణ) ట్యాగ్‌లను విస్మరించడానికి సవరించబడింది."
+    "devnote": "8.0.7\n\n- epub -> txtని మార్చేటప్పుడు చిన్న అక్షరాలను తీసివేయడానికి సవరించబడింది.\n- స్థిర కీ సెట్టింగ్ బగ్."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "8.0.6\n\n1. ਸੰਸ਼ੋਧਿਤ ਕੀਤਾ ਗਿਆ ਹੈ ਤਾਂ ਕਿ ਟੱਚ ਏਰੀਆ ਹਾਸ਼ੀਏ ਨੂੰ ਵੱਖਰੇ ਤੌਰ 'ਤੇ ਸੈੱਟ ਕੀਤਾ ਜਾ ਸਕੇ।\n2. ਬੈਕਅੱਪ/ਰਿਕਵਰੀ ਤਰਕ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ।\n3. epub -> txt ਨੂੰ ਕਨਵਰਟ ਕਰਦੇ ਸਮੇਂ ਸਬ (ਟਿੱਪਣੀ ਅਤੇ ਵਿਆਖਿਆ) ਟੈਗਾਂ ਨੂੰ ਨਜ਼ਰਅੰਦਾਜ਼ ਕਰਨ ਲਈ ਸੋਧਿਆ ਗਿਆ।"
+    "devnote": "8.0.7\n\n- epub -> txt ਨੂੰ ਬਦਲਣ ਵੇਲੇ ਛੋਟੇ ਅੱਖਰਾਂ ਨੂੰ ਹਟਾਉਣ ਲਈ ਸੋਧਿਆ ਗਿਆ।\n- ਫਿਕਸਡ ਕੁੰਜੀ ਸੈਟਿੰਗ ਬੱਗ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "8.0.6\n\n1. اصلاح شده به طوری که حاشیه منطقه لمسی را می توان به طور جداگانه تنظیم کرد.\n2. منطق پشتیبان گیری/بازیابی اصلاح شده است.\n3. برای نادیده گرفتن تگ های فرعی (نظر و توضیح) در هنگام تبدیل epub -> txt اصلاح شده است."
+    "devnote": "8.0.7\n\n- برای حذف حروف کوچک هنگام تبدیل epub -> txt اصلاح شده است.\n- رفع اشکال تنظیم کلید."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "8.0.6\n\n1. Modificado para que a margem da área de toque possa ser definida separadamente.\n2. A lógica de backup/recuperação foi modificada.\n3. Modificado para ignorar tags sub (comentário e explicação) ao converter epub -> txt."
+    "devnote": "8.0.7\n\n- Modificado para remover letras minúsculas ao converter epub -> txt.\n- Corrigido bug de configuração de chave."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "8.0.6\n\n1. Zmodyfikowano tak, aby margines obszaru dotykowego można było ustawić osobno.\n2. Zmodyfikowano logikę tworzenia kopii zapasowych/odzyskiwania.\n3. Zmodyfikowano tak, aby ignorować znaczniki podrzędne (komentarz i wyjaśnienie) podczas konwersji epub -> txt."
+    "devnote": "8.0.7\n\n- Zmodyfikowano, aby usunąć małe litery podczas konwersji epub -> txt.\n- Naprawiono błąd ustawień klawiszy."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "8.0.6\n\n1. Modifié pour que la marge de la zone tactile puisse être définie séparément.\n2. La logique de sauvegarde/récupération a été modifiée.\n3. Modifié pour ignorer les balises sous (commentaire et explication) lors de la conversion epub -> txt."
+    "devnote": "8.0.7\n\n- Modifié pour supprimer les minuscules lors de la conversion epub -> txt.\n- Correction d'un bug de réglage des touches."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "8.0.6\n\n1. Muokattu siten, että kosketusalueen marginaali voidaan asettaa erikseen.\n2. Varmuuskopiointi-/palautuslogiikkaa on muutettu.\n3. Muokattu ohittamaan alatunnisteet (kommentti ja selitys) muunnettaessa epub -> txt."
+    "devnote": "8.0.7\n\n- Muokattu poistamaan pienet kirjaimet muunnettaessa epub -> txt.\n- Korjattu näppäinasetusvirhe."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "8.0.6\n\n1. Binago upang ang margin ng touch area ay maaaring itakda nang hiwalay.\n2. Ang backup/recovery logic ay nabago.\n3. Binago upang huwag pansinin ang mga sub (komento at paliwanag) na mga tag kapag nagko-convert ng epub -> txt."
+    "devnote": "8.0.7\n\n- Binago upang alisin ang maliliit na titik kapag nagko-convert ng epub -> txt.\n- Fixed key setting bug."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "8.0.6\n\n1. Módosítva úgy, hogy az érintési terület margója külön beállítható.\n2. A biztonsági mentési/helyreállítási logika módosult.\n3. Módosítva, hogy figyelmen kívül hagyja az alcímkéket (megjegyzés és magyarázat) az epub -> txt konvertálásakor."
+    "devnote": "8.0.7\n\n- Módosítva a kis betűk eltávolítására az epub -> txt konvertálásakor.\n- Javítva a kulcs beállítási hibája."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "8.0.6\n\n1. שונה כך שניתן להגדיר את השוליים של אזור המגע בנפרד.\n2. לוגיקת הגיבוי/השחזור השתנתה.\n3. שונה כדי להתעלם מתגיות משנה (הערה והסבר) בעת המרת epub -> txt."
+    "devnote": "8.0.7\n\n- שונה כדי להסיר אותיות קטנות בעת המרת epub -> txt.\n- תיקן באג בהגדרת מפתח."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "8.0.6\n\n1. संशोधित किया गया ताकि स्पर्श क्षेत्र मार्जिन को अलग से सेट किया जा सके।\n2. बैकअप/पुनर्प्राप्ति तर्क को संशोधित किया गया है।\n3. epub -> txt को परिवर्तित करते समय उप (टिप्पणी और स्पष्टीकरण) टैग को अनदेखा करने के लिए संशोधित।"
+    "devnote": "8.0.7\n\n- epub -> txt परिवर्तित करते समय छोटे अक्षरों को हटाने के लिए संशोधित।\n- कुंजी सेटिंग बग को ठीक किया गया।"
   }
 }
