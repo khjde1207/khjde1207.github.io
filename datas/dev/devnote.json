@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "8.0.8\n\n- Modified to remove small fonts when converting epub -> txt.\n- Fixed key setting bug."
+    "devnote": "8.0.9\n\n1. Image viewer color inversion function has been added.\n2. The backup recovery logic has been modified.\n3. Fixed a bug where the bookmark function did not work."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "8.0.8\n\n- epub -> txt 변환시 작은 사이즈의 폰트를 제거 하도록 수정 하였습니다. \n- 키설정 버그를 수정하였습니다."
+    "devnote": "8.0.9\n\n1. 이미지 뷰어 색상 반전 기능을 추가하였습니다. \n2. 백업 복구 로직을 수정 하였습니다. \n3. 북마크 기능이 작동하지 않던 버그를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "8.0.8\n\n- Modificado para eliminar fontes pequenas ao converter epub -> txt.\n- Arranxouse un erro de configuración de teclas."
+    "devnote": "8.0.9\n\n1. Engadiuse a función de inversión de cor do visor de imaxes.\n2. Modificouse a lóxica de recuperación da copia de seguridade.\n3. Corrixiuse un erro no que a función de marcador non funcionaba."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "8.0.8\n\n- epub -> txt કન્વર્ટ કરતી વખતે નાના ફોન્ટ્સ દૂર કરવા માટે સંશોધિત.\n- સ્થિર કી સેટિંગ બગ."
+    "devnote": "8.0.9\n\n1. ઇમેજ વ્યૂઅર કલર ઇન્વર્ઝન ફંક્શન ઉમેરવામાં આવ્યું છે.\n2. બેકઅપ પુનઃપ્રાપ્તિ તર્કમાં ફેરફાર કરવામાં આવ્યો છે.\n3. જ્યાં બુકમાર્ક ફંક્શન કામ કરતું ન હતું ત્યાં બગ ફિક્સ કર્યું."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "8.0.8\n\n- Τροποποιήθηκε για να αφαιρεί μικρές γραμματοσειρές κατά τη μετατροπή epub -> txt.\n- Διορθώθηκε το σφάλμα ρύθμισης κλειδιού."
+    "devnote": "8.0.9\n\n1. Προστέθηκε η λειτουργία αναστροφής χρώματος του προγράμματος προβολής εικόνων.\n2. Η λογική ανάκτησης αντιγράφων ασφαλείας έχει τροποποιηθεί.\n3. Διορθώθηκε ένα σφάλμα όπου η λειτουργία σελιδοδεικτών δεν λειτουργούσε."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "8.0.8\n\n- Aangepast om kleine lettertypen te verwijderen bij het converteren van epub -> txt.\n- Probleem met sleutelinstelling opgelost."
+    "devnote": "8.0.9\n\n1. De kleurinversiefunctie van de beeldviewer is toegevoegd.\n2. De logica voor back-upherstel is gewijzigd.\n3. Een bug opgelost waarbij de bladwijzerfunctie niet werkte."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "८.०.८\n\n- epub -> txt लाई रूपान्तरण गर्दा साना फन्टहरू हटाउन परिमार्जन गरियो।\n- फिक्स्ड कुञ्जी सेटिङ बग।"
+    "devnote": "८.०.९\n\n1. छवि दर्शक रंग उल्टो प्रकार्य थपिएको छ।\n2. ब्याकअप रिकभरी तर्क परिमार्जन गरिएको छ।\n3. एउटा बग फिक्स गरियो जहाँ बुकमार्क प्रकार्यले काम गरेन।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "8.0.8\n\n- Modifisert for å fjerne små fonter ved konvertering av epub -> txt.\n- Fikset nøkkelinnstillingsfeil."
+    "devnote": "8.0.9\n\n1. Bildeviserens fargeinversjonsfunksjon er lagt til.\n2. Logikken for sikkerhetskopiering er endret.\n3. Rettet en feil der bokmerkefunksjonen ikke fungerte."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "8.0.8\n\n- Ændret for at fjerne små skrifttyper ved konvertering af epub -> txt.\n- Rettet nøgleindstillingsfejl."
+    "devnote": "8.0.9\n\n1. Billedfremviserens farveinversionsfunktion er blevet tilføjet.\n2. Logikken for gendannelse af backup er blevet ændret.\n3. Rettede en fejl, hvor bogmærkefunktionen ikke virkede."
   },
   "독일어": {
     "key": "de",
-    "devnote": "8.0.8\n\n- Geändert, um kleine Schriftarten beim Konvertieren von epub -> txt zu entfernen.\n- Fehler bei der Tasteneinstellung behoben."
+    "devnote": "8.0.9\n\n1. Die Farbumkehrfunktion des Bildbetrachters wurde hinzugefügt.\n2. Die Backup-Wiederherstellungslogik wurde geändert.\n3. Es wurde ein Fehler behoben, bei dem die Lesezeichenfunktion nicht funktionierte."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "8.0.8\n\n- ດັດແກ້ເພື່ອເອົາຕົວອັກສອນຂະຫນາດນ້ອຍເມື່ອປ່ຽນ epub -> txt.\n- ແກ້​ໄຂ​ບັນ​ຫາ​ການ​ຕັ້ງ​ຄ່າ​ທີ່​ສໍາ​ຄັນ​."
+    "devnote": "8.0.9\n\n1. ຟັງຊັນການປ່ຽນສີຂອງ viewer ຮູບພາບໄດ້ຖືກເພີ່ມ.\n2. ເຫດຜົນການຟື້ນຕົວສໍາຮອງຂໍ້ມູນໄດ້ຖືກດັດແກ້.\n3. ແກ້ໄຂຂໍ້ຜິດພາດທີ່ຟັງຊັນບຸກມາກບໍ່ເຮັດວຽກ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "8.0.8\n\n- Modificēts, lai noņemtu mazus fontus, konvertējot epub -> txt.\n- Izlabota taustiņu iestatīšanas kļūda."
+    "devnote": "8.0.9\n\n1. Ir pievienota attēlu skatītāja krāsu inversijas funkcija.\n2. Dublējuma atkopšanas loģika ir mainīta.\n3. Novērsta kļūda, kurā nedarbojās grāmatzīmju funkcija."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "8.0.8\n\n- Изменено удаление мелких шрифтов при конвертации epub -> txt.\n- Исправлена ​​ошибка настройки ключей."
+    "devnote": "8.0.9\n\n1. Добавлена ​​функция инверсии цвета в программе просмотра изображений.\n2. Изменена логика восстановления резервной копии.\n3. Исправлена ​​ошибка, при которой не работала функция закладок."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "8.0.8\n\n- Modificat pentru a elimina fonturile mici la conversia epub -> txt.\n- S-a remediat o eroare de setare a tastelor."
+    "devnote": "8.0.9\n\n1. A fost adăugată funcția de inversare a culorii pentru vizualizatorul de imagini.\n2. Logica de recuperare de rezervă a fost modificată.\n3. S-a remediat o eroare în care funcția de marcaj nu funcționa."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "8.0.8\n\n- Pakeista, kad būtų pašalinti maži šriftai konvertuojant epub -> txt.\n- Ištaisyta klavišų nustatymo klaida."
+    "devnote": "8.0.9\n\n1. Pridėta vaizdų peržiūros programos spalvų inversijos funkcija.\n2. Atsarginės kopijos atkūrimo logika buvo pakeista.\n3. Ištaisyta klaida, kai neveikė žymės funkcija."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "८.०.८\n\n- epub -> txt रूपांतरित करताना लहान फॉन्ट काढण्यासाठी सुधारित.\n- फिक्स्ड की सेटिंग बग."
+    "devnote": "८.०.९\n\n1. इमेज व्ह्यूअर कलर इनव्हर्शन फंक्शन जोडले गेले आहे.\n2. बॅकअप पुनर्प्राप्ती तर्क सुधारित केले गेले आहे.\n3. बुकमार्क फंक्शन कार्य करत नसलेल्या बगचे निराकरण केले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "8.0.8\n\n- Изменето за отстранување на мали фонтови при конвертирање epub -> txt.\n- Поправена грешка во поставувањето на копчињата."
+    "devnote": "8.0.9\n\n1. Функцијата за инверзија на бојата на прегледувачот на слики е додадена.\n2. Логиката за враќање на резервната копија е изменета.\n3. Поправена грешка каде што функцијата за обележувачи не работеше."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "8.0.8\n\n- epub -> txt പരിവർത്തനം ചെയ്യുമ്പോൾ ചെറിയ ഫോണ്ടുകൾ നീക്കം ചെയ്യുന്നതിനായി പരിഷ്‌ക്കരിച്ചു.\n- കീ ക്രമീകരണ ബഗ് പരിഹരിച്ചു."
+    "devnote": "8.0.9\n\n1. ഇമേജ് വ്യൂവർ കളർ ഇൻവേർഷൻ ഫംഗ്‌ഷൻ ചേർത്തു.\n2. ബാക്കപ്പ് റിക്കവറി ലോജിക്ക് പരിഷ്കരിച്ചു.\n3. ബുക്ക്മാർക്ക് ഫംഗ്ഷൻ പ്രവർത്തിക്കാത്ത ഒരു ബഗ് പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "8.0.8\n\n- Diubah suai untuk mengalih keluar fon kecil apabila menukar epub -> txt.\n- Pepijat tetapan kunci tetap."
+    "devnote": "8.0.9\n\n1. Fungsi penyongsangan warna pemapar imej telah ditambah.\n2. Logik pemulihan sandaran telah diubah suai.\n3. Memperbaiki pepijat di mana fungsi penanda halaman tidak berfungsi."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "8.0.8\n\n- Epub -> txt хөрвүүлэх үед жижиг фонтуудыг устгахаар өөрчилсөн.\n- Түлхүүрийг тохируулах алдаа зассан."
+    "devnote": "8.0.9\n\n1. Зураг харагчийн өнгө хувиргах функц нэмэгдсэн.\n2. Нөөц сэргээх логикийг өөрчилсөн.\n3. Хавчуургын функц ажиллахгүй байсан алдааг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "8.0.8\n\n- Epub -> txt bihurtzean letra-tipo txikiak kentzeko aldatu da.\n- Teklaren ezarpenaren akatsa konpondu da."
+    "devnote": "8.0.9\n\n1. Irudien ikuslearen kolore-inbertsio funtzioa gehitu da.\n2. Babeskopia berreskuratzeko logika aldatu da.\n3. Laster-marken funtzioak funtzionatzen ez zuen akats bat konpondu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "၈.၀.၈\n\n- epub -> txt ကိုပြောင်းသည့်အခါ ဖောင့်ငယ်များကို ဖယ်ရှားရန် ပြင်ဆင်ထားသည်။\n- သော့ဆက်တင် ချို့ယွင်းချက်ကို ပြုပြင်သည်။"
+    "devnote": "၈.၀.၉\n\n1. ရုပ်ပုံကြည့်ရှုသူ အရောင်ပြောင်းခြင်း လုပ်ဆောင်ချက်ကို ထည့်သွင်းထားသည်။\n2. အရန်သိမ်းဆည်းခြင်း ပြန်လည်ရယူခြင်း ယုတ္တိဗေဒကို ပြုပြင်ပြီးဖြစ်သည်။\n3. bookmark function အလုပ်မလုပ်သော bug ကို ပြင်ဆင်ပါ။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "8.0.8\n\n- Sửa đổi bỏ font chữ nhỏ khi chuyển đổi epub -> txt.\n- Đã sửa lỗi cài đặt phím."
+    "devnote": "8.0.9\n\n1. Chức năng đảo ngược màu của trình xem hình ảnh đã được thêm vào.\n2. Logic khôi phục sao lưu đã được sửa đổi.\n3. Đã sửa lỗi chức năng đánh dấu không hoạt động."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "8.0.8\n\n- Зменена для выдалення дробных шрыфтоў пры пераўтварэнні epub -> txt.\n- Выпраўлена памылка налады ключа."
+    "devnote": "8.0.9\n\n1. Была дададзена функцыя інверсіі колеру праграмы прагляду малюнкаў.\n2. Логіка аднаўлення рэзервовай копіі была зменена.\n3. Выпраўлена памылка, з-за якой не працавала функцыя закладкі."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "৮.০.৮\n\n- epub -> txt রূপান্তর করার সময় ছোট ফন্ট মুছে ফেলার জন্য পরিবর্তিত।\n- ফিক্সড কী সেটিং বাগ।"
+    "devnote": "৮.০.৯\n\n1. ইমেজ ভিউয়ার কালার ইনভার্সন ফাংশন যোগ করা হয়েছে।\n2. ব্যাকআপ রিকভারি লজিক পরিবর্তন করা হয়েছে।\n3. একটি বাগ সংশোধন করা হয়েছে যেখানে বুকমার্ক ফাংশন কাজ করেনি৷"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "8.0.8\n\n- Променено за премахване на малки шрифтове при конвертиране на epub -> txt.\n- Коригирана грешка в настройката на ключовете."
+    "devnote": "8.0.9\n\n1. Добавена е функция за инверсия на цветовете на визуализатора на изображения.\n2. Логиката за възстановяване на резервно копие е променена.\n3. Поправена е грешка, при която функцията за отметка не работи."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "8.0.8\n\n- Измењено да уклони мале фонтове приликом конвертовања епуб -> ткт.\n- Исправљена грешка у подешавању тастера."
+    "devnote": "8.0.9\n\n1. Додата је функција инверзије боја прегледника слика.\n2. Логика опоравка резервне копије је измењена.\n3. Исправљена грешка где функција обележивача није радила."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "8.0.8\n\n- Imebadilishwa ili kuondoa fonti ndogo wakati wa kubadilisha epub -> txt.\n- Fixed ufunguo kuweka hitilafu."
+    "devnote": "8.0.9\n\n1. Kitendaji cha ubadilishaji wa rangi ya kitazamaji picha kimeongezwa.\n2. Mantiki ya urejeshaji chelezo imerekebishwa.\n3. Imerekebisha hitilafu ambapo kitendakazi cha alamisho hakikufanya kazi."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "8.0.8\n\n- Modifierad för att ta bort små teckensnitt vid konvertering av epub -> txt.\n- Fixat nyckelinställningsfel."
+    "devnote": "8.0.9\n\n1. Bildvisarens färginverteringsfunktion har lagts till.\n2. Återställningslogiken för säkerhetskopiering har ändrats.\n3. Fixade en bugg där bokmärkesfunktionen inte fungerade."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "8.0.8\n\n- Modificado para eliminar fuentes pequeñas al convertir epub -> txt.\n- Se corrigió el error de configuración de clave."
+    "devnote": "8.0.9\n\n1. Se ha agregado la función de inversión de color del visor de imágenes.\n2. Se ha modificado la lógica de recuperación de la copia de seguridad.\n3. Se corrigió un error por el cual la función de marcador no funcionaba."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "8.0.8\n\n- Upravené na odstránenie malých písiem pri konverzii epub -> txt.\n- Opravená chyba nastavenia kľúča."
+    "devnote": "8.0.9\n\n1. Bola pridaná funkcia inverzie farieb prehliadača obrázkov.\n2. Logika obnovy zálohy bola upravená.\n3. Opravená chyba, kedy funkcia záložiek nefungovala."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "8.0.8\n\n- Spremenjeno za odstranjevanje majhnih pisav pri pretvorbi epub -> txt.\n- Popravljena napaka pri nastavitvi tipk."
+    "devnote": "8.0.9\n\n1. Dodana je bila funkcija barvne inverzije pregledovalnika slik.\n2. Logika obnovitve varnostne kopije je bila spremenjena.\n3. Odpravljena je napaka, pri kateri funkcija zaznamka ni delovala."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "8.0.8\n\n- epub -> txt පරිවර්තනය කිරීමේදී කුඩා අකුරු ඉවත් කිරීමට වෙනස් කර ඇත.\n- ස්ථාවර යතුරු සැකසුම් දෝෂය."
+    "devnote": "8.0.9\n\n1. Image viewer වර්ණ ප්‍රතිලෝම ශ්‍රිතය එක් කර ඇත.\n2. උපස්ථ ප්‍රතිසාධන තර්කනය වෙනස් කර ඇත.\n3. පිටු සලකුණු ශ්‍රිතය ක්‍රියා නොකළ දෝෂයක් නිරාකරණය කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "8.0.8\n\n- تم التعديل لإزالة الخطوط الصغيرة عند تحويل epub -> txt.\n- إصلاح الخلل في إعداد المفتاح."
+    "devnote": "8.0.9\n\n1. تمت إضافة وظيفة انعكاس لون عارض الصور.\n2. تم تعديل منطق استرداد النسخة الاحتياطية.\n3. تم إصلاح الخلل حيث لم تعمل وظيفة الإشارة المرجعية."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "8.0.8\n\n- Փոփոխվել է փոքր տառատեսակները հեռացնելու համար epub -> txt փոխարկելիս:\n- Շտկվել է բանալիների կարգավորումների սխալը:"
+    "devnote": "8.0.9\n\n1. Ավելացվել է պատկերների դիտողի գույնի ինվերսիայի գործառույթը:\n2. Պահուստային վերականգնման տրամաբանությունը փոփոխվել է:\n3. Շտկվել է սխալ, որտեղ էջանիշների գործառույթը չի աշխատում:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "8.0.8\n\n- Breytt til að fjarlægja lítið letur þegar umbreytt er epub -> txt.\n- Lagað villu fyrir lykilstillingar."
+    "devnote": "8.0.9\n\n1. Litabreytingaraðgerð myndskoðara hefur verið bætt við.\n2. Rökfræði endurheimtar öryggisafrits hefur verið breytt.\n3. Lagaði villu þar sem bókamerkjaaðgerðin virkaði ekki."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "8.0.8\n\n- Epub -> txt çevirərkən kiçik şriftləri silmək üçün dəyişdirildi.\n- Sabit açar qəbulu səhvi."
+    "devnote": "8.0.9\n\n1. Şəkil görüntüləyicisinin rəng inversiya funksiyası əlavə edildi.\n2. Ehtiyat nüsxənin bərpası məntiqi dəyişdirildi.\n3. Əlfəcin funksiyasının işləmədiyi bir səhv düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "8.0.8\n\n- Gewysig om klein lettertipes te verwyder tydens die omskakeling van epub -> txt.\n- Vaste sleutelinstellingsfout."
+    "devnote": "8.0.9\n\n1. Beeldkyker-kleuromkeerfunksie is bygevoeg.\n2. Die rugsteunherstellogika is gewysig.\n3. Het 'n fout reggestel waar die boekmerkfunksie nie gewerk het nie."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "8.0.8\n\n- Ndryshuar për të hequr fontet e vogla kur konvertohet epub -> txt.\n- Rregulloi gabimin e konfigurimit të çelësit."
+    "devnote": "8.0.9\n\n1. Është shtuar funksioni i përmbysjes së ngjyrave të shikuesit të imazhit.\n2. Logjika e rikuperimit të rezervës është modifikuar.\n3. Rregulloi një gabim ku funksioni i faqerojtësve nuk funksiononte."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "8.0.8\n\n- epub -> txt ሲቀይሩ ትናንሽ ቅርጸ ቁምፊዎችን ለማስወገድ የተቀየረ።\n- ቋሚ የቁልፍ ቅንብር ስህተት."
+    "devnote": "8.0.9\n\n1. የምስል መመልከቻ ቀለም የተገላቢጦሽ ተግባር ታክሏል.\n2. የመጠባበቂያ መልሶ ማግኛ አመክንዮ ተስተካክሏል.\n3. የዕልባት ተግባር የማይሰራበት ስህተት ተስተካክሏል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "8.0.8\n\n- Muudetud väikeste fondide eemaldamiseks epub-> txt teisendamisel.\n- Parandatud klahvi seadistusviga."
+    "devnote": "8.0.9\n\n1. Lisatud on pildivaaturi värvide ümberpööramise funktsioon.\n2. Varundamise taastamise loogikat on muudetud.\n3. Parandatud viga, mille puhul järjehoidja funktsioon ei töötanud."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "8.0.8\n\n- epub -> txt کو تبدیل کرتے وقت چھوٹے فونٹس کو ہٹانے کے لیے ترمیم کی گئی۔\n- فکسڈ کلیدی ترتیب کا بگ۔"
+    "devnote": "8.0.9\n\n1. تصویری ناظرین کا رنگ الٹا فنکشن شامل کیا گیا ہے۔\n2. بیک اپ ریکوری منطق میں ترمیم کی گئی ہے۔\n3. ایک بگ کو ٹھیک کیا جہاں بک مارک فنکشن کام نہیں کرتا تھا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "8.0.8\n\n— Змінено для видалення дрібних шрифтів під час конвертації epub -> txt.\n— Виправлена ​​помилка налаштування клавіш."
+    "devnote": "8.0.9\n\n1. Додано функцію інверсії кольорів у програмі перегляду зображень.\n2. Логіку відновлення резервної копії було змінено.\n3. Виправлено помилку, через яку не працювала функція закладок."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "8.0.8\n\n- Modificato per rimuovere i caratteri piccoli durante la conversione epub -> txt.\n- Risolto bug di impostazione dei tasti."
+    "devnote": "8.0.9\n\n1. È stata aggiunta la funzione di inversione del colore del visualizzatore di immagini.\n2. La logica di ripristino del backup è stata modificata.\n3. Risolto un bug in cui la funzione segnalibro non funzionava."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "8.0.8\n\n- Dimodifikasi untuk menghapus font kecil saat mengonversi epub -> txt.\n- Memperbaiki bug pengaturan kunci."
+    "devnote": "8.0.9\n\n1. Fungsi inversi warna penampil gambar telah ditambahkan.\n2. Logika pemulihan cadangan telah diubah.\n3. Memperbaiki bug dimana fungsi bookmark tidak berfungsi."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "8.0.8\n\n・epub→txt変換時に小さいフォントを削除するように修正しました。\n- キー設定のバグを修正しました。"
+    "devnote": "8.0.9\n\n1. 画像ビューアの色反転機能を追加しました。\n2. バックアップ回復ロジックが変更されました。\n3.ブックマーク機能が動作しない不具合を修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "8.0.8\n\n- შეცვლილია მცირე შრიფტების მოსაშორებლად epub -> txt კონვერტაციისას.\n- დაფიქსირდა გასაღების დაყენების შეცდომა."
+    "devnote": "8.0.9\n\n1. დამატებულია გამოსახულების მაყურებლის ფერის ინვერსიის ფუნქცია.\n2. სარეზერვო აღდგენის ლოგიკა შეიცვალა.\n3. დაფიქსირდა შეცდომა, სადაც სანიშნეების ფუნქცია არ მუშაობდა."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "8.0.8\n\n- Kushintshwe ukuze kukhishwe amafonti amancane lapho kuguqulwa i-epub -> txt.\n- Fixed key setting bug."
+    "devnote": "8.0.9\n\n1. Umsebenzi wokuguqula umbala wesibukeli sesithombe wengeziwe.\n2. I-logic yokutakula eyisipele ishintshiwe.\n3. Kulungiswe iphutha lapho umsebenzi webhukhimakhi ungasebenzi."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "8.0.8\n\n- 修改为在转换 epub -> txt 时删除小字体。\n- 修复了按键设置错误。"
+    "devnote": "8.0.9\n\n1. 增加了图像查看器颜色反转功能。\n2.修改了备份恢复逻辑。\n3.修复了书签功能不起作用的错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "8.0.8\n\n- 修改為轉換 epub -> txt 時刪除小字體。\n- 修復了按鍵設定錯誤。"
+    "devnote": "8.0.9\n\n1. 增加了影像檢視器顏色反轉功能。\n2.修改了備份恢復邏輯。\n3.修復了書籤功能不起作用的錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "8.0.8\n\n- 修改為轉換 epub -> txt 時刪除小字體。\n- 修復了按鍵設定錯誤。"
+    "devnote": "8.0.9\n\n1. 增加了影像檢視器顏色反轉功能。\n2.修改了備份恢復邏輯。\n3.修復了書籤功能不起作用的錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "8.0.8\n\n- Upraveno pro odstranění malých písem při převodu epub -> txt.\n- Opravena chyba nastavení klíče."
+    "devnote": "8.0.9\n\n1. Byla přidána funkce inverze barev v prohlížeči obrázků.\n2. Logika obnovy zálohy byla změněna.\n3. Opravena chyba, kdy nefungovala funkce záložek."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "8.0.8\n\n- epub -> txt түрлендіру кезінде шағын қаріптерді жою үшін өзгертілген.\n- Кілттерді орнату қатесі түзетілді."
+    "devnote": "8.0.9\n\n1. Кескінді қарау құралының түсін өзгерту функциясы қосылды.\n2. Сақтық көшірмелерді қалпына келтіру логикасы өзгертілді.\n3. Бетбелгі функциясы жұмыс істемейтін қате түзетілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "8.0.8\n\n- Modificat per eliminar els tipus de lletra petits en convertir epub -> txt.\n- S'ha corregit l'error de configuració de claus."
+    "devnote": "8.0.9\n\n1. S'ha afegit la funció d'inversió de color del visualitzador d'imatges.\n2. S'ha modificat la lògica de recuperació de la còpia de seguretat.\n3. S'ha solucionat un error en què la funció de marcador no funcionava."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "8.0.8\n\n- epub -> txt ಅನ್ನು ಪರಿವರ್ತಿಸುವಾಗ ಸಣ್ಣ ಫಾಂಟ್‌ಗಳನ್ನು ತೆಗೆದುಹಾಕಲು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಸ್ಥಿರ ಕೀ ಸೆಟ್ಟಿಂಗ್ ದೋಷ."
+    "devnote": "8.0.9\n\n1. ಇಮೇಜ್ ವೀಕ್ಷಕ ಬಣ್ಣ ವಿಲೋಮ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n2. ಬ್ಯಾಕಪ್ ರಿಕವರಿ ಲಾಜಿಕ್ ಅನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n3. ಬುಕ್‌ಮಾರ್ಕ್ ಕಾರ್ಯವು ಕಾರ್ಯನಿರ್ವಹಿಸದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "8.0.8\n\n- Modificirano za uklanjanje malih fontova prilikom pretvaranja epub -> txt.\n- Ispravljena greška u postavljanju ključa."
+    "devnote": "8.0.9\n\n1. Dodana je funkcija inverzije boja preglednika slika.\n2. Logika oporavka sigurnosne kopije je promijenjena.\n3. Ispravljena je pogreška u kojoj funkcija oznake nije radila."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "៨.០.៨\n\n- កែប្រែដើម្បីលុបពុម្ពអក្សរតូចៗនៅពេលបំប្លែង epub -> txt ។\n- ជួសជុលកំហុសការកំណត់សោ។"
+    "devnote": "៨.០.៩\n\n1. មុខងារដាក់បញ្ច្រាសពណ៌របស់កម្មវិធីមើលរូបភាពត្រូវបានបន្ថែម។\n2. តក្កវិជ្ជានៃការសង្គ្រោះការបម្រុងទុកត្រូវបានកែប្រែ។\n3. ជួសជុលកំហុសដែលមុខងារចំណាំមិនដំណើរការ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "8.0.8\n\n- epub -> txt конвертациялоодо кичинекей шрифттерди алып салуу үчүн өзгөртүлгөн.\n- Түзүлгөн ачкыч орнотуу мүчүлүштүктөрү."
+    "devnote": "8.0.9\n\n1. Сүрөт көрүүчү түстөрдү инверсиялоо функциясы кошулду.\n2. Камдык көчүрмөнү калыбына келтирүү логикасы өзгөртүлдү.\n3. Кыстарма функциясы иштебей калган ката оңдолду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "8.0.8\n\n- epub -> txt ஐ மாற்றும் போது சிறிய எழுத்துருக்களை நீக்க மாற்றியமைக்கப்பட்டது.\n- நிலையான விசை அமைப்பு பிழை."
+    "devnote": "8.0.9\n\n1. பட பார்வையாளர் வண்ண தலைகீழ் செயல்பாடு சேர்க்கப்பட்டது.\n2. காப்பு மீட்பு தர்க்கம் மாற்றியமைக்கப்பட்டுள்ளது.\n3. புக்மார்க் செயல்பாடு வேலை செய்யாத பிழை சரி செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "8.0.8\n\n- แก้ไขเพื่อลบแบบอักษรขนาดเล็กเมื่อแปลง epub -> txt\n- แก้ไขข้อบกพร่องในการตั้งค่าคีย์"
+    "devnote": "8.0.9\n\n1. เพิ่มฟังก์ชันการกลับสีของโปรแกรมดูรูปภาพแล้ว\n2. ตรรกะการกู้คืนข้อมูลสำรองได้รับการแก้ไขแล้ว\n3. แก้ไขข้อผิดพลาดที่ฟังก์ชันบุ๊กมาร์กไม่ทำงาน"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "8.0.8\n\n- epub -> txt'yi dönüştürürken küçük yazı tiplerini kaldıracak şekilde değiştirildi.\n- Tuş ayarı hatası düzeltildi."
+    "devnote": "8.0.9\n\n1. Resim görüntüleyicinin rengini tersine çevirme işlevi eklendi.\n2. Yedekleme kurtarma mantığı değiştirildi.\n3. Yer imi işlevinin çalışmamasına neden olan bir hata düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "8.0.8\n\n- epub -> txtని మార్చేటప్పుడు చిన్న ఫాంట్‌లను తీసివేయడానికి సవరించబడింది.\n- స్థిర కీ సెట్టింగ్ బగ్."
+    "devnote": "8.0.9\n\n1. ఇమేజ్ వ్యూయర్ కలర్ ఇన్‌వర్షన్ ఫంక్షన్ జోడించబడింది.\n2. బ్యాకప్ రికవరీ లాజిక్ సవరించబడింది.\n3. బుక్‌మార్క్ ఫంక్షన్ పని చేయని బగ్ పరిష్కరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "8.0.8\n\n- epub -> txt ਨੂੰ ਬਦਲਣ ਵੇਲੇ ਛੋਟੇ ਫੌਂਟਾਂ ਨੂੰ ਹਟਾਉਣ ਲਈ ਸੋਧਿਆ ਗਿਆ।\n- ਫਿਕਸਡ ਕੁੰਜੀ ਸੈਟਿੰਗ ਬੱਗ।"
+    "devnote": "8.0.9\n\n1. ਚਿੱਤਰ ਦਰਸ਼ਕ ਕਲਰ ਇਨਵਰਸ਼ਨ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ।\n2. ਬੈਕਅੱਪ ਰਿਕਵਰੀ ਤਰਕ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ।\n3. ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਜਿੱਥੇ ਬੁੱਕਮਾਰਕ ਫੰਕਸ਼ਨ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਸੀ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "8.0.8\n\n- برای حذف فونت های کوچک هنگام تبدیل epub -> txt اصلاح شده است.\n- رفع اشکال تنظیم کلید."
+    "devnote": "8.0.9\n\n1. تابع وارونگی رنگ بیننده تصویر اضافه شده است.\n2. منطق بازیابی پشتیبان اصلاح شده است.\n3. رفع اشکالی که در آن تابع نشانک کار نمی کرد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "8.0.8\n\n- Modificado para remover fontes pequenas ao converter epub -> txt.\n- Corrigido bug de configuração de chave."
+    "devnote": "8.0.9\n\n1. A função de inversão de cores do visualizador de imagens foi adicionada.\n2. A lógica de recuperação de backup foi modificada.\n3. Corrigido um bug em que a função de marcador não funcionava."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "8.0.8\n\n- Zmodyfikowano, aby usunąć małe czcionki podczas konwersji epub -> txt.\n- Naprawiono błąd ustawień klawiszy."
+    "devnote": "8.0.9\n\n1. Do przeglądarki obrazów dodano funkcję odwracania kolorów.\n2. Zmodyfikowano logikę odtwarzania kopii zapasowych.\n3. Naprawiono błąd polegający na tym, że funkcja zakładek nie działała."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "8.0.8\n\n- Modifié pour supprimer les petites polices lors de la conversion epub -> txt.\n- Correction d'un bug de réglage des touches."
+    "devnote": "8.0.9\n\n1. La fonction d'inversion des couleurs de la visionneuse d'images a été ajoutée.\n2. La logique de récupération de sauvegarde a été modifiée.\n3. Correction d'un bug où la fonction de signet ne fonctionnait pas."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "8.0.8\n\n- Muokattu poistamaan pienet fontit muunnettaessa epub -> txt.\n- Korjattu näppäinasetusvirhe."
+    "devnote": "8.0.9\n\n1. Kuvankatseluohjelman värinvaihtotoiminto on lisätty.\n2. Varmuuskopion palautuslogiikkaa on muutettu.\n3. Korjattu virhe, jossa kirjanmerkkitoiminto ei toiminut."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "8.0.8\n\n- Binago upang alisin ang maliliit na font kapag nagko-convert ng epub -> txt.\n- Fixed key setting bug."
+    "devnote": "8.0.9\n\n1. Idinagdag ang function ng inversion ng kulay ng viewer ng imahe.\n2. Ang backup na lohika sa pagbawi ay nabago.\n3. Inayos ang isang bug kung saan hindi gumana ang function ng bookmark."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "8.0.8\n\n- Módosítva a kis betűtípusok eltávolítására az epub -> txt konvertálásakor.\n- Javítva a kulcs beállítási hibája."
+    "devnote": "8.0.9\n\n1. A képnézegető színinverziós funkciója hozzáadásra került.\n2. A biztonsági mentés helyreállítási logikája módosult.\n3. Kijavítottunk egy hibát, ahol a könyvjelző funkció nem működött."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "8.0.8\n\n- שונה כדי להסיר גופנים קטנים בעת המרת epub -> txt.\n- תיקן באג בהגדרת מפתח."
+    "devnote": "8.0.9\n\n1. נוספה פונקציית היפוך צבע של מציג תמונות.\n2. לוגיקה לשחזור הגיבוי השתנתה.\n3. תיקן באג שבו פונקציית הסימניות לא עבדה."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "8.0.8\n\n- epub -> txt परिवर्तित करते समय छोटे फ़ॉन्ट हटाने के लिए संशोधित।\n- कुंजी सेटिंग बग को ठीक किया गया।"
+    "devnote": "8.0.9\n\n1. छवि दर्शक रंग व्युत्क्रम फ़ंक्शन जोड़ा गया है।\n2. बैकअप पुनर्प्राप्ति तर्क को संशोधित किया गया है।\n3. उस बग को ठीक किया गया जहां बुकमार्क फ़ंक्शन काम नहीं करता था।"
   }
 }
