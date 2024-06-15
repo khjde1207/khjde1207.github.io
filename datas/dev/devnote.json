@@ -1,63 +1,63 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "8.0.9\n\n1. Image viewer color inversion function has been added.\n2. The backup recovery logic has been modified.\n3. Fixed a bug where the bookmark function did not work."
+    "devnote": "1. Image viewer color inversion function has been added.\n2. The backup recovery logic has been modified.\n3. Fixed a bug where the bookmark function did not work."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "8.0.9\n\n1. 이미지 뷰어 색상 반전 기능을 추가하였습니다. \n2. 백업 복구 로직을 수정 하였습니다. \n3. 북마크 기능이 작동하지 않던 버그를 수정 하였습니다."
+    "devnote": "1. 이미지 뷰어 색상 반전 기능을 추가하였습니다. \n2. 백업 복구 로직을 수정 하였습니다. \n3. 북마크 기능이 작동하지 않던 버그를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "8.0.9\n\n1. Engadiuse a función de inversión de cor do visor de imaxes.\n2. Modificouse a lóxica de recuperación da copia de seguridade.\n3. Corrixiuse un erro no que a función de marcador non funcionaba."
+    "devnote": "1. Engadiuse a función de inversión de cor do visor de imaxes.\n2. Modificouse a lóxica de recuperación da copia de seguridade.\n3. Corrixiuse un erro no que a función de marcador non funcionaba."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "8.0.9\n\n1. ઇમેજ વ્યૂઅર કલર ઇન્વર્ઝન ફંક્શન ઉમેરવામાં આવ્યું છે.\n2. બેકઅપ પુનઃપ્રાપ્તિ તર્કમાં ફેરફાર કરવામાં આવ્યો છે.\n3. જ્યાં બુકમાર્ક ફંક્શન કામ કરતું ન હતું ત્યાં બગ ફિક્સ કર્યું."
+    "devnote": "1. ઇમેજ વ્યૂઅર કલર ઇન્વર્ઝન ફંક્શન ઉમેરવામાં આવ્યું છે.\n2. બેકઅપ પુનઃપ્રાપ્તિ તર્કમાં ફેરફાર કરવામાં આવ્યો છે.\n3. જ્યાં બુકમાર્ક ફંક્શન કામ કરતું ન હતું ત્યાં બગ ફિક્સ કર્યું."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "8.0.9\n\n1. Προστέθηκε η λειτουργία αναστροφής χρώματος του προγράμματος προβολής εικόνων.\n2. Η λογική ανάκτησης αντιγράφων ασφαλείας έχει τροποποιηθεί.\n3. Διορθώθηκε ένα σφάλμα όπου η λειτουργία σελιδοδεικτών δεν λειτουργούσε."
+    "devnote": "1. Προστέθηκε η λειτουργία αναστροφής χρώματος του προγράμματος προβολής εικόνων.\n2. Η λογική ανάκτησης αντιγράφων ασφαλείας έχει τροποποιηθεί.\n3. Διορθώθηκε ένα σφάλμα όπου η λειτουργία σελιδοδεικτών δεν λειτουργούσε."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "8.0.9\n\n1. De kleurinversiefunctie van de beeldviewer is toegevoegd.\n2. De logica voor back-upherstel is gewijzigd.\n3. Een bug opgelost waarbij de bladwijzerfunctie niet werkte."
+    "devnote": "1. De kleurinversiefunctie van de beeldviewer is toegevoegd.\n2. De logica voor back-upherstel is gewijzigd.\n3. Een bug opgelost waarbij de bladwijzerfunctie niet werkte."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "८.०.९\n\n1. छवि दर्शक रंग उल्टो प्रकार्य थपिएको छ।\n2. ब्याकअप रिकभरी तर्क परिमार्जन गरिएको छ।\n3. एउटा बग फिक्स गरियो जहाँ बुकमार्क प्रकार्यले काम गरेन।"
+    "devnote": "1. छवि दर्शक रंग उल्टो प्रकार्य थपिएको छ।\n2. ब्याकअप रिकभरी तर्क परिमार्जन गरिएको छ।\n3. एउटा बग फिक्स गरियो जहाँ बुकमार्क प्रकार्यले काम गरेन।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "8.0.9\n\n1. Bildeviserens fargeinversjonsfunksjon er lagt til.\n2. Logikken for sikkerhetskopiering er endret.\n3. Rettet en feil der bokmerkefunksjonen ikke fungerte."
+    "devnote": "1. Bildeviserens fargeinversjonsfunksjon er lagt til.\n2. Logikken for sikkerhetskopiering er endret.\n3. Rettet en feil der bokmerkefunksjonen ikke fungerte."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "8.0.9\n\n1. Billedfremviserens farveinversionsfunktion er blevet tilføjet.\n2. Logikken for gendannelse af backup er blevet ændret.\n3. Rettede en fejl, hvor bogmærkefunktionen ikke virkede."
+    "devnote": "1. Billedfremviserens farveinversionsfunktion er blevet tilføjet.\n2. Logikken for gendannelse af backup er blevet ændret.\n3. Rettede en fejl, hvor bogmærkefunktionen ikke virkede."
   },
   "독일어": {
     "key": "de",
-    "devnote": "8.0.9\n\n1. Die Farbumkehrfunktion des Bildbetrachters wurde hinzugefügt.\n2. Die Backup-Wiederherstellungslogik wurde geändert.\n3. Es wurde ein Fehler behoben, bei dem die Lesezeichenfunktion nicht funktionierte."
+    "devnote": "1. Die Farbumkehrfunktion des Bildbetrachters wurde hinzugefügt.\n2. Die Backup-Wiederherstellungslogik wurde geändert.\n3. Es wurde ein Fehler behoben, bei dem die Lesezeichenfunktion nicht funktionierte."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "8.0.9\n\n1. ຟັງຊັນການປ່ຽນສີຂອງ viewer ຮູບພາບໄດ້ຖືກເພີ່ມ.\n2. ເຫດຜົນການຟື້ນຕົວສໍາຮອງຂໍ້ມູນໄດ້ຖືກດັດແກ້.\n3. ແກ້ໄຂຂໍ້ຜິດພາດທີ່ຟັງຊັນບຸກມາກບໍ່ເຮັດວຽກ."
+    "devnote": "1. ຟັງຊັນການປ່ຽນສີຂອງ viewer ຮູບພາບໄດ້ຖືກເພີ່ມ.\n2. ເຫດຜົນການຟື້ນຕົວສໍາຮອງຂໍ້ມູນໄດ້ຖືກດັດແກ້.\n3. ແກ້ໄຂຂໍ້ຜິດພາດທີ່ຟັງຊັນບຸກມາກບໍ່ເຮັດວຽກ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "8.0.9\n\n1. Ir pievienota attēlu skatītāja krāsu inversijas funkcija.\n2. Dublējuma atkopšanas loģika ir mainīta.\n3. Novērsta kļūda, kurā nedarbojās grāmatzīmju funkcija."
+    "devnote": "1. Ir pievienota attēlu skatītāja krāsu inversijas funkcija.\n2. Dublējuma atkopšanas loģika ir mainīta.\n3. Novērsta kļūda, kurā nedarbojās grāmatzīmju funkcija."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "8.0.9\n\n1. Добавлена ​​функция инверсии цвета в программе просмотра изображений.\n2. Изменена логика восстановления резервной копии.\n3. Исправлена ​​ошибка, при которой не работала функция закладок."
+    "devnote": "1. Добавлена ​​функция инверсии цвета в программе просмотра изображений.\n2. Изменена логика восстановления резервной копии.\n3. Исправлена ​​ошибка, при которой не работала функция закладок."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "8.0.9\n\n1. A fost adăugată funcția de inversare a culorii pentru vizualizatorul de imagini.\n2. Logica de recuperare de rezervă a fost modificată.\n3. S-a remediat o eroare în care funcția de marcaj nu funcționa."
+    "devnote": "1. A fost adăugată funcția de inversare a culorii pentru vizualizatorul de imagini.\n2. Logica de recuperare de rezervă a fost modificată.\n3. S-a remediat o eroare în care funcția de marcaj nu funcționa."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "8.0.9\n\n1. Pridėta vaizdų peržiūros programos spalvų inversijos funkcija.\n2. Atsarginės kopijos atkūrimo logika buvo pakeista.\n3. Ištaisyta klaida, kai neveikė žymės funkcija."
+    "devnote": "1. Pridėta vaizdų peržiūros programos spalvų inversijos funkcija.\n2. Atsarginės kopijos atkūrimo logika buvo pakeista.\n3. Ištaisyta klaida, kai neveikė žymės funkcija."
   },
   "마라티어": {
     "key": "mr",
@@ -65,163 +65,163 @@
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "8.0.9\n\n1. Функцијата за инверзија на бојата на прегледувачот на слики е додадена.\n2. Логиката за враќање на резервната копија е изменета.\n3. Поправена грешка каде што функцијата за обележувачи не работеше."
+    "devnote": "1. Функцијата за инверзија на бојата на прегледувачот на слики е додадена.\n2. Логиката за враќање на резервната копија е изменета.\n3. Поправена грешка каде што функцијата за обележувачи не работеше."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "8.0.9\n\n1. ഇമേജ് വ്യൂവർ കളർ ഇൻവേർഷൻ ഫംഗ്‌ഷൻ ചേർത്തു.\n2. ബാക്കപ്പ് റിക്കവറി ലോജിക്ക് പരിഷ്കരിച്ചു.\n3. ബുക്ക്മാർക്ക് ഫംഗ്ഷൻ പ്രവർത്തിക്കാത്ത ഒരു ബഗ് പരിഹരിച്ചു."
+    "devnote": "1. ഇമേജ് വ്യൂവർ കളർ ഇൻവേർഷൻ ഫംഗ്‌ഷൻ ചേർത്തു.\n2. ബാക്കപ്പ് റിക്കവറി ലോജിക്ക് പരിഷ്കരിച്ചു.\n3. ബുക്ക്മാർക്ക് ഫംഗ്ഷൻ പ്രവർത്തിക്കാത്ത ഒരു ബഗ് പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "8.0.9\n\n1. Fungsi penyongsangan warna pemapar imej telah ditambah.\n2. Logik pemulihan sandaran telah diubah suai.\n3. Memperbaiki pepijat di mana fungsi penanda halaman tidak berfungsi."
+    "devnote": "1. Fungsi penyongsangan warna pemapar imej telah ditambah.\n2. Logik pemulihan sandaran telah diubah suai.\n3. Memperbaiki pepijat di mana fungsi penanda halaman tidak berfungsi."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "8.0.9\n\n1. Зураг харагчийн өнгө хувиргах функц нэмэгдсэн.\n2. Нөөц сэргээх логикийг өөрчилсөн.\n3. Хавчуургын функц ажиллахгүй байсан алдааг зассан."
+    "devnote": "1. Зураг харагчийн өнгө хувиргах функц нэмэгдсэн.\n2. Нөөц сэргээх логикийг өөрчилсөн.\n3. Хавчуургын функц ажиллахгүй байсан алдааг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "8.0.9\n\n1. Irudien ikuslearen kolore-inbertsio funtzioa gehitu da.\n2. Babeskopia berreskuratzeko logika aldatu da.\n3. Laster-marken funtzioak funtzionatzen ez zuen akats bat konpondu da."
+    "devnote": "1. Irudien ikuslearen kolore-inbertsio funtzioa gehitu da.\n2. Babeskopia berreskuratzeko logika aldatu da.\n3. Laster-marken funtzioak funtzionatzen ez zuen akats bat konpondu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "၈.၀.၉\n\n1. ရုပ်ပုံကြည့်ရှုသူ အရောင်ပြောင်းခြင်း လုပ်ဆောင်ချက်ကို ထည့်သွင်းထားသည်။\n2. အရန်သိမ်းဆည်းခြင်း ပြန်လည်ရယူခြင်း ယုတ္တိဗေဒကို ပြုပြင်ပြီးဖြစ်သည်။\n3. bookmark function အလုပ်မလုပ်သော bug ကို ပြင်ဆင်ပါ။"
+    "devnote": "1. ရုပ်ပုံကြည့်ရှုသူ အရောင်ပြောင်းခြင်း လုပ်ဆောင်ချက်ကို ထည့်သွင်းထားသည်။\n2. အရန်သိမ်းဆည်းခြင်း ပြန်လည်ရယူခြင်း ယုတ္တိဗေဒကို ပြုပြင်ပြီးဖြစ်သည်။\n3. bookmark function အလုပ်မလုပ်သော bug ကို ပြင်ဆင်ပါ။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "8.0.9\n\n1. Chức năng đảo ngược màu của trình xem hình ảnh đã được thêm vào.\n2. Logic khôi phục sao lưu đã được sửa đổi.\n3. Đã sửa lỗi chức năng đánh dấu không hoạt động."
+    "devnote": "1. Chức năng đảo ngược màu của trình xem hình ảnh đã được thêm vào.\n2. Logic khôi phục sao lưu đã được sửa đổi.\n3. Đã sửa lỗi chức năng đánh dấu không hoạt động."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "8.0.9\n\n1. Была дададзена функцыя інверсіі колеру праграмы прагляду малюнкаў.\n2. Логіка аднаўлення рэзервовай копіі была зменена.\n3. Выпраўлена памылка, з-за якой не працавала функцыя закладкі."
+    "devnote": "1. Была дададзена функцыя інверсіі колеру праграмы прагляду малюнкаў.\n2. Логіка аднаўлення рэзервовай копіі была зменена.\n3. Выпраўлена памылка, з-за якой не працавала функцыя закладкі."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "৮.০.৯\n\n1. ইমেজ ভিউয়ার কালার ইনভার্সন ফাংশন যোগ করা হয়েছে।\n2. ব্যাকআপ রিকভারি লজিক পরিবর্তন করা হয়েছে।\n3. একটি বাগ সংশোধন করা হয়েছে যেখানে বুকমার্ক ফাংশন কাজ করেনি৷"
+    "devnote": "1. ইমেজ ভিউয়ার কালার ইনভার্সন ফাংশন যোগ করা হয়েছে।\n2. ব্যাকআপ রিকভারি লজিক পরিবর্তন করা হয়েছে।\n3. একটি বাগ সংশোধন করা হয়েছে যেখানে বুকমার্ক ফাংশন কাজ করেনি৷"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "8.0.9\n\n1. Добавена е функция за инверсия на цветовете на визуализатора на изображения.\n2. Логиката за възстановяване на резервно копие е променена.\n3. Поправена е грешка, при която функцията за отметка не работи."
+    "devnote": "1. Добавена е функция за инверсия на цветовете на визуализатора на изображения.\n2. Логиката за възстановяване на резервно копие е променена.\n3. Поправена е грешка, при която функцията за отметка не работи."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "8.0.9\n\n1. Додата је функција инверзије боја прегледника слика.\n2. Логика опоравка резервне копије је измењена.\n3. Исправљена грешка где функција обележивача није радила."
+    "devnote": "1. Додата је функција инверзије боја прегледника слика.\n2. Логика опоравка резервне копије је измењена.\n3. Исправљена грешка где функција обележивача није радила."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "8.0.9\n\n1. Kitendaji cha ubadilishaji wa rangi ya kitazamaji picha kimeongezwa.\n2. Mantiki ya urejeshaji chelezo imerekebishwa.\n3. Imerekebisha hitilafu ambapo kitendakazi cha alamisho hakikufanya kazi."
+    "devnote": "1. Kitendaji cha ubadilishaji wa rangi ya kitazamaji picha kimeongezwa.\n2. Mantiki ya urejeshaji chelezo imerekebishwa.\n3. Imerekebisha hitilafu ambapo kitendakazi cha alamisho hakikufanya kazi."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "8.0.9\n\n1. Bildvisarens färginverteringsfunktion har lagts till.\n2. Återställningslogiken för säkerhetskopiering har ändrats.\n3. Fixade en bugg där bokmärkesfunktionen inte fungerade."
+    "devnote": "1. Bildvisarens färginverteringsfunktion har lagts till.\n2. Återställningslogiken för säkerhetskopiering har ändrats.\n3. Fixade en bugg där bokmärkesfunktionen inte fungerade."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "8.0.9\n\n1. Se ha agregado la función de inversión de color del visor de imágenes.\n2. Se ha modificado la lógica de recuperación de la copia de seguridad.\n3. Se corrigió un error por el cual la función de marcador no funcionaba."
+    "devnote": "1. Se ha agregado la función de inversión de color del visor de imágenes.\n2. Se ha modificado la lógica de recuperación de la copia de seguridad.\n3. Se corrigió un error por el cual la función de marcador no funcionaba."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "8.0.9\n\n1. Bola pridaná funkcia inverzie farieb prehliadača obrázkov.\n2. Logika obnovy zálohy bola upravená.\n3. Opravená chyba, kedy funkcia záložiek nefungovala."
+    "devnote": "1. Bola pridaná funkcia inverzie farieb prehliadača obrázkov.\n2. Logika obnovy zálohy bola upravená.\n3. Opravená chyba, kedy funkcia záložiek nefungovala."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "8.0.9\n\n1. Dodana je bila funkcija barvne inverzije pregledovalnika slik.\n2. Logika obnovitve varnostne kopije je bila spremenjena.\n3. Odpravljena je napaka, pri kateri funkcija zaznamka ni delovala."
+    "devnote": "1. Dodana je bila funkcija barvne inverzije pregledovalnika slik.\n2. Logika obnovitve varnostne kopije je bila spremenjena.\n3. Odpravljena je napaka, pri kateri funkcija zaznamka ni delovala."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "8.0.9\n\n1. Image viewer වර්ණ ප්‍රතිලෝම ශ්‍රිතය එක් කර ඇත.\n2. උපස්ථ ප්‍රතිසාධන තර්කනය වෙනස් කර ඇත.\n3. පිටු සලකුණු ශ්‍රිතය ක්‍රියා නොකළ දෝෂයක් නිරාකරණය කරන ලදී."
+    "devnote": "1. Image viewer වර්ණ ප්‍රතිලෝම ශ්‍රිතය එක් කර ඇත.\n2. උපස්ථ ප්‍රතිසාධන තර්කනය වෙනස් කර ඇත.\n3. පිටු සලකුණු ශ්‍රිතය ක්‍රියා නොකළ දෝෂයක් නිරාකරණය කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "8.0.9\n\n1. تمت إضافة وظيفة انعكاس لون عارض الصور.\n2. تم تعديل منطق استرداد النسخة الاحتياطية.\n3. تم إصلاح الخلل حيث لم تعمل وظيفة الإشارة المرجعية."
+    "devnote": "1. تمت إضافة وظيفة انعكاس لون عارض الصور.\n2. تم تعديل منطق استرداد النسخة الاحتياطية.\n3. تم إصلاح الخلل حيث لم تعمل وظيفة الإشارة المرجعية."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "8.0.9\n\n1. Ավելացվել է պատկերների դիտողի գույնի ինվերսիայի գործառույթը:\n2. Պահուստային վերականգնման տրամաբանությունը փոփոխվել է:\n3. Շտկվել է սխալ, որտեղ էջանիշների գործառույթը չի աշխատում:"
+    "devnote": "1. Ավելացվել է պատկերների դիտողի գույնի ինվերսիայի գործառույթը:\n2. Պահուստային վերականգնման տրամաբանությունը փոփոխվել է:\n3. Շտկվել է սխալ, որտեղ էջանիշների գործառույթը չի աշխատում:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "8.0.9\n\n1. Litabreytingaraðgerð myndskoðara hefur verið bætt við.\n2. Rökfræði endurheimtar öryggisafrits hefur verið breytt.\n3. Lagaði villu þar sem bókamerkjaaðgerðin virkaði ekki."
+    "devnote": "1. Litabreytingaraðgerð myndskoðara hefur verið bætt við.\n2. Rökfræði endurheimtar öryggisafrits hefur verið breytt.\n3. Lagaði villu þar sem bókamerkjaaðgerðin virkaði ekki."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "8.0.9\n\n1. Şəkil görüntüləyicisinin rəng inversiya funksiyası əlavə edildi.\n2. Ehtiyat nüsxənin bərpası məntiqi dəyişdirildi.\n3. Əlfəcin funksiyasının işləmədiyi bir səhv düzəldildi."
+    "devnote": "1. Şəkil görüntüləyicisinin rəng inversiya funksiyası əlavə edildi.\n2. Ehtiyat nüsxənin bərpası məntiqi dəyişdirildi.\n3. Əlfəcin funksiyasının işləmədiyi bir səhv düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "8.0.9\n\n1. Beeldkyker-kleuromkeerfunksie is bygevoeg.\n2. Die rugsteunherstellogika is gewysig.\n3. Het 'n fout reggestel waar die boekmerkfunksie nie gewerk het nie."
+    "devnote": "1. Beeldkyker-kleuromkeerfunksie is bygevoeg.\n2. Die rugsteunherstellogika is gewysig.\n3. Het 'n fout reggestel waar die boekmerkfunksie nie gewerk het nie."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "8.0.9\n\n1. Është shtuar funksioni i përmbysjes së ngjyrave të shikuesit të imazhit.\n2. Logjika e rikuperimit të rezervës është modifikuar.\n3. Rregulloi një gabim ku funksioni i faqerojtësve nuk funksiononte."
+    "devnote": "1. Është shtuar funksioni i përmbysjes së ngjyrave të shikuesit të imazhit.\n2. Logjika e rikuperimit të rezervës është modifikuar.\n3. Rregulloi një gabim ku funksioni i faqerojtësve nuk funksiononte."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "8.0.9\n\n1. የምስል መመልከቻ ቀለም የተገላቢጦሽ ተግባር ታክሏል.\n2. የመጠባበቂያ መልሶ ማግኛ አመክንዮ ተስተካክሏል.\n3. የዕልባት ተግባር የማይሰራበት ስህተት ተስተካክሏል።"
+    "devnote": "1. የምስል መመልከቻ ቀለም የተገላቢጦሽ ተግባር ታክሏል.\n2. የመጠባበቂያ መልሶ ማግኛ አመክንዮ ተስተካክሏል.\n3. የዕልባት ተግባር የማይሰራበት ስህተት ተስተካክሏል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "8.0.9\n\n1. Lisatud on pildivaaturi värvide ümberpööramise funktsioon.\n2. Varundamise taastamise loogikat on muudetud.\n3. Parandatud viga, mille puhul järjehoidja funktsioon ei töötanud."
+    "devnote": "1. Lisatud on pildivaaturi värvide ümberpööramise funktsioon.\n2. Varundamise taastamise loogikat on muudetud.\n3. Parandatud viga, mille puhul järjehoidja funktsioon ei töötanud."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "8.0.9\n\n1. تصویری ناظرین کا رنگ الٹا فنکشن شامل کیا گیا ہے۔\n2. بیک اپ ریکوری منطق میں ترمیم کی گئی ہے۔\n3. ایک بگ کو ٹھیک کیا جہاں بک مارک فنکشن کام نہیں کرتا تھا۔"
+    "devnote": "1. تصویری ناظرین کا رنگ الٹا فنکشن شامل کیا گیا ہے۔\n2. بیک اپ ریکوری منطق میں ترمیم کی گئی ہے۔\n3. ایک بگ کو ٹھیک کیا جہاں بک مارک فنکشن کام نہیں کرتا تھا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "8.0.9\n\n1. Додано функцію інверсії кольорів у програмі перегляду зображень.\n2. Логіку відновлення резервної копії було змінено.\n3. Виправлено помилку, через яку не працювала функція закладок."
+    "devnote": "1. Додано функцію інверсії кольорів у програмі перегляду зображень.\n2. Логіку відновлення резервної копії було змінено.\n3. Виправлено помилку, через яку не працювала функція закладок."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "8.0.9\n\n1. È stata aggiunta la funzione di inversione del colore del visualizzatore di immagini.\n2. La logica di ripristino del backup è stata modificata.\n3. Risolto un bug in cui la funzione segnalibro non funzionava."
+    "devnote": "1. È stata aggiunta la funzione di inversione del colore del visualizzatore di immagini.\n2. La logica di ripristino del backup è stata modificata.\n3. Risolto un bug in cui la funzione segnalibro non funzionava."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "8.0.9\n\n1. Fungsi inversi warna penampil gambar telah ditambahkan.\n2. Logika pemulihan cadangan telah diubah.\n3. Memperbaiki bug dimana fungsi bookmark tidak berfungsi."
+    "devnote": "1. Fungsi inversi warna penampil gambar telah ditambahkan.\n2. Logika pemulihan cadangan telah diubah.\n3. Memperbaiki bug dimana fungsi bookmark tidak berfungsi."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "8.0.9\n\n1. 画像ビューアの色反転機能を追加しました。\n2. バックアップ回復ロジックが変更されました。\n3.ブックマーク機能が動作しない不具合を修正しました。"
+    "devnote": "1. 画像ビューアの色反転機能を追加しました。\n2. バックアップ回復ロジックが変更されました。\n3.ブックマーク機能が動作しない不具合を修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "8.0.9\n\n1. დამატებულია გამოსახულების მაყურებლის ფერის ინვერსიის ფუნქცია.\n2. სარეზერვო აღდგენის ლოგიკა შეიცვალა.\n3. დაფიქსირდა შეცდომა, სადაც სანიშნეების ფუნქცია არ მუშაობდა."
+    "devnote": "1. დამატებულია გამოსახულების მაყურებლის ფერის ინვერსიის ფუნქცია.\n2. სარეზერვო აღდგენის ლოგიკა შეიცვალა.\n3. დაფიქსირდა შეცდომა, სადაც სანიშნეების ფუნქცია არ მუშაობდა."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "8.0.9\n\n1. Umsebenzi wokuguqula umbala wesibukeli sesithombe wengeziwe.\n2. I-logic yokutakula eyisipele ishintshiwe.\n3. Kulungiswe iphutha lapho umsebenzi webhukhimakhi ungasebenzi."
+    "devnote": "1. Umsebenzi wokuguqula umbala wesibukeli sesithombe wengeziwe.\n2. I-logic yokutakula eyisipele ishintshiwe.\n3. Kulungiswe iphutha lapho umsebenzi webhukhimakhi ungasebenzi."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "8.0.9\n\n1. 增加了图像查看器颜色反转功能。\n2.修改了备份恢复逻辑。\n3.修复了书签功能不起作用的错误。"
+    "devnote": "1. 增加了图像查看器颜色反转功能。\n2.修改了备份恢复逻辑。\n3.修复了书签功能不起作用的错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "8.0.9\n\n1. 增加了影像檢視器顏色反轉功能。\n2.修改了備份恢復邏輯。\n3.修復了書籤功能不起作用的錯誤。"
+    "devnote": "1. 增加了影像檢視器顏色反轉功能。\n2.修改了備份恢復邏輯。\n3.修復了書籤功能不起作用的錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "8.0.9\n\n1. 增加了影像檢視器顏色反轉功能。\n2.修改了備份恢復邏輯。\n3.修復了書籤功能不起作用的錯誤。"
+    "devnote": "1. 增加了影像檢視器顏色反轉功能。\n2.修改了備份恢復邏輯。\n3.修復了書籤功能不起作用的錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "8.0.9\n\n1. Byla přidána funkce inverze barev v prohlížeči obrázků.\n2. Logika obnovy zálohy byla změněna.\n3. Opravena chyba, kdy nefungovala funkce záložek."
+    "devnote": "1. Byla přidána funkce inverze barev v prohlížeči obrázků.\n2. Logika obnovy zálohy byla změněna.\n3. Opravena chyba, kdy nefungovala funkce záložek."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "8.0.9\n\n1. Кескінді қарау құралының түсін өзгерту функциясы қосылды.\n2. Сақтық көшірмелерді қалпына келтіру логикасы өзгертілді.\n3. Бетбелгі функциясы жұмыс істемейтін қате түзетілді."
+    "devnote": "1. Кескінді қарау құралының түсін өзгерту функциясы қосылды.\n2. Сақтық көшірмелерді қалпына келтіру логикасы өзгертілді.\n3. Бетбелгі функциясы жұмыс істемейтін қате түзетілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "8.0.9\n\n1. S'ha afegit la funció d'inversió de color del visualitzador d'imatges.\n2. S'ha modificat la lògica de recuperació de la còpia de seguretat.\n3. S'ha solucionat un error en què la funció de marcador no funcionava."
+    "devnote": "1. S'ha afegit la funció d'inversió de color del visualitzador d'imatges.\n2. S'ha modificat la lògica de recuperació de la còpia de seguretat.\n3. S'ha solucionat un error en què la funció de marcador no funcionava."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "8.0.9\n\n1. ಇಮೇಜ್ ವೀಕ್ಷಕ ಬಣ್ಣ ವಿಲೋಮ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n2. ಬ್ಯಾಕಪ್ ರಿಕವರಿ ಲಾಜಿಕ್ ಅನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n3. ಬುಕ್‌ಮಾರ್ಕ್ ಕಾರ್ಯವು ಕಾರ್ಯನಿರ್ವಹಿಸದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "1. ಇಮೇಜ್ ವೀಕ್ಷಕ ಬಣ್ಣ ವಿಲೋಮ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n2. ಬ್ಯಾಕಪ್ ರಿಕವರಿ ಲಾಜಿಕ್ ಅನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n3. ಬುಕ್‌ಮಾರ್ಕ್ ಕಾರ್ಯವು ಕಾರ್ಯನಿರ್ವಹಿಸದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "8.0.9\n\n1. Dodana je funkcija inverzije boja preglednika slika.\n2. Logika oporavka sigurnosne kopije je promijenjena.\n3. Ispravljena je pogreška u kojoj funkcija oznake nije radila."
+    "devnote": "1. Dodana je funkcija inverzije boja preglednika slika.\n2. Logika oporavka sigurnosne kopije je promijenjena.\n3. Ispravljena je pogreška u kojoj funkcija oznake nije radila."
   },
   "크메르어": {
     "key": "km",
@@ -229,62 +229,62 @@
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "8.0.9\n\n1. Сүрөт көрүүчү түстөрдү инверсиялоо функциясы кошулду.\n2. Камдык көчүрмөнү калыбына келтирүү логикасы өзгөртүлдү.\n3. Кыстарма функциясы иштебей калган ката оңдолду."
+    "devnote": "1. Сүрөт көрүүчү түстөрдү инверсиялоо функциясы кошулду.\n2. Камдык көчүрмөнү калыбына келтирүү логикасы өзгөртүлдү.\n3. Кыстарма функциясы иштебей калган ката оңдолду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "8.0.9\n\n1. பட பார்வையாளர் வண்ண தலைகீழ் செயல்பாடு சேர்க்கப்பட்டது.\n2. காப்பு மீட்பு தர்க்கம் மாற்றியமைக்கப்பட்டுள்ளது.\n3. புக்மார்க் செயல்பாடு வேலை செய்யாத பிழை சரி செய்யப்பட்டது."
+    "devnote": "1. பட பார்வையாளர் வண்ண தலைகீழ் செயல்பாடு சேர்க்கப்பட்டது.\n2. காப்பு மீட்பு தர்க்கம் மாற்றியமைக்கப்பட்டுள்ளது.\n3. புக்மார்க் செயல்பாடு வேலை செய்யாத பிழை சரி செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "8.0.9\n\n1. เพิ่มฟังก์ชันการกลับสีของโปรแกรมดูรูปภาพแล้ว\n2. ตรรกะการกู้คืนข้อมูลสำรองได้รับการแก้ไขแล้ว\n3. แก้ไขข้อผิดพลาดที่ฟังก์ชันบุ๊กมาร์กไม่ทำงาน"
+    "devnote": "1. เพิ่มฟังก์ชันการกลับสีของโปรแกรมดูรูปภาพแล้ว\n2. ตรรกะการกู้คืนข้อมูลสำรองได้รับการแก้ไขแล้ว\n3. แก้ไขข้อผิดพลาดที่ฟังก์ชันบุ๊กมาร์กไม่ทำงาน"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "8.0.9\n\n1. Resim görüntüleyicinin rengini tersine çevirme işlevi eklendi.\n2. Yedekleme kurtarma mantığı değiştirildi.\n3. Yer imi işlevinin çalışmamasına neden olan bir hata düzeltildi."
+    "devnote": "1. Resim görüntüleyicinin rengini tersine çevirme işlevi eklendi.\n2. Yedekleme kurtarma mantığı değiştirildi.\n3. Yer imi işlevinin çalışmamasına neden olan bir hata düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "8.0.9\n\n1. ఇమేజ్ వ్యూయర్ కలర్ ఇన్‌వర్షన్ ఫంక్షన్ జోడించబడింది.\n2. బ్యాకప్ రికవరీ లాజిక్ సవరించబడింది.\n3. బుక్‌మార్క్ ఫంక్షన్ పని చేయని బగ్ పరిష్కరించబడింది."
+    "devnote": "1. ఇమేజ్ వ్యూయర్ కలర్ ఇన్‌వర్షన్ ఫంక్షన్ జోడించబడింది.\n2. బ్యాకప్ రికవరీ లాజిక్ సవరించబడింది.\n3. బుక్‌మార్క్ ఫంక్షన్ పని చేయని బగ్ పరిష్కరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "8.0.9\n\n1. ਚਿੱਤਰ ਦਰਸ਼ਕ ਕਲਰ ਇਨਵਰਸ਼ਨ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ।\n2. ਬੈਕਅੱਪ ਰਿਕਵਰੀ ਤਰਕ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ।\n3. ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਜਿੱਥੇ ਬੁੱਕਮਾਰਕ ਫੰਕਸ਼ਨ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਸੀ।"
+    "devnote": "1. ਚਿੱਤਰ ਦਰਸ਼ਕ ਕਲਰ ਇਨਵਰਸ਼ਨ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ।\n2. ਬੈਕਅੱਪ ਰਿਕਵਰੀ ਤਰਕ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ।\n3. ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਜਿੱਥੇ ਬੁੱਕਮਾਰਕ ਫੰਕਸ਼ਨ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਸੀ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "8.0.9\n\n1. تابع وارونگی رنگ بیننده تصویر اضافه شده است.\n2. منطق بازیابی پشتیبان اصلاح شده است.\n3. رفع اشکالی که در آن تابع نشانک کار نمی کرد."
+    "devnote": "1. تابع وارونگی رنگ بیننده تصویر اضافه شده است.\n2. منطق بازیابی پشتیبان اصلاح شده است.\n3. رفع اشکالی که در آن تابع نشانک کار نمی کرد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "8.0.9\n\n1. A função de inversão de cores do visualizador de imagens foi adicionada.\n2. A lógica de recuperação de backup foi modificada.\n3. Corrigido um bug em que a função de marcador não funcionava."
+    "devnote": "1. A função de inversão de cores do visualizador de imagens foi adicionada.\n2. A lógica de recuperação de backup foi modificada.\n3. Corrigido um bug em que a função de marcador não funcionava."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "8.0.9\n\n1. Do przeglądarki obrazów dodano funkcję odwracania kolorów.\n2. Zmodyfikowano logikę odtwarzania kopii zapasowych.\n3. Naprawiono błąd polegający na tym, że funkcja zakładek nie działała."
+    "devnote": "1. Do przeglądarki obrazów dodano funkcję odwracania kolorów.\n2. Zmodyfikowano logikę odtwarzania kopii zapasowych.\n3. Naprawiono błąd polegający na tym, że funkcja zakładek nie działała."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "8.0.9\n\n1. La fonction d'inversion des couleurs de la visionneuse d'images a été ajoutée.\n2. La logique de récupération de sauvegarde a été modifiée.\n3. Correction d'un bug où la fonction de signet ne fonctionnait pas."
+    "devnote": "1. La fonction d'inversion des couleurs de la visionneuse d'images a été ajoutée.\n2. La logique de récupération de sauvegarde a été modifiée.\n3. Correction d'un bug où la fonction de signet ne fonctionnait pas."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "8.0.9\n\n1. Kuvankatseluohjelman värinvaihtotoiminto on lisätty.\n2. Varmuuskopion palautuslogiikkaa on muutettu.\n3. Korjattu virhe, jossa kirjanmerkkitoiminto ei toiminut."
+    "devnote": "1. Kuvankatseluohjelman värinvaihtotoiminto on lisätty.\n2. Varmuuskopion palautuslogiikkaa on muutettu.\n3. Korjattu virhe, jossa kirjanmerkkitoiminto ei toiminut."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "8.0.9\n\n1. Idinagdag ang function ng inversion ng kulay ng viewer ng imahe.\n2. Ang backup na lohika sa pagbawi ay nabago.\n3. Inayos ang isang bug kung saan hindi gumana ang function ng bookmark."
+    "devnote": "1. Idinagdag ang function ng inversion ng kulay ng viewer ng imahe.\n2. Ang backup na lohika sa pagbawi ay nabago.\n3. Inayos ang isang bug kung saan hindi gumana ang function ng bookmark."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "8.0.9\n\n1. A képnézegető színinverziós funkciója hozzáadásra került.\n2. A biztonsági mentés helyreállítási logikája módosult.\n3. Kijavítottunk egy hibát, ahol a könyvjelző funkció nem működött."
+    "devnote": "1. A képnézegető színinverziós funkciója hozzáadásra került.\n2. A biztonsági mentés helyreállítási logikája módosult.\n3. Kijavítottunk egy hibát, ahol a könyvjelző funkció nem működött."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "8.0.9\n\n1. נוספה פונקציית היפוך צבע של מציג תמונות.\n2. לוגיקה לשחזור הגיבוי השתנתה.\n3. תיקן באג שבו פונקציית הסימניות לא עבדה."
+    "devnote": "1. נוספה פונקציית היפוך צבע של מציג תמונות.\n2. לוגיקה לשחזור הגיבוי השתנתה.\n3. תיקן באג שבו פונקציית הסימניות לא עבדה."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "8.0.9\n\n1. छवि दर्शक रंग व्युत्क्रम फ़ंक्शन जोड़ा गया है।\n2. बैकअप पुनर्प्राप्ति तर्क को संशोधित किया गया है।\n3. उस बग को ठीक किया गया जहां बुकमार्क फ़ंक्शन काम नहीं करता था।"
+    "devnote": "1. छवि दर्शक रंग व्युत्क्रम फ़ंक्शन जोड़ा गया है।\n2. बैकअप पुनर्प्राप्ति तर्क को संशोधित किया गया है।\n3. उस बग को ठीक किया गया जहां बुकमार्क फ़ंक्शन काम नहीं करता था।"
   }
 }
