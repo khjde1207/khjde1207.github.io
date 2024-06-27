@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "1. Image viewer color inversion function has been added.\n2. The backup recovery logic has been modified.\n3. Fixed a bug where the bookmark function did not work."
+    "devnote": "1. A function has been added to allow you to directly select a background image.\n2. A function has been added to allow you to directly select the font.\n3. Background images and fonts can now be linked in backup and recovery.\n4. When playing TTS, the delay time can be set up to 20 seconds."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "1. 이미지 뷰어 색상 반전 기능을 추가하였습니다. \n2. 백업 복구 로직을 수정 하였습니다. \n3. 북마크 기능이 작동하지 않던 버그를 수정 하였습니다."
+    "devnote": "1. 배경이미지를 직접 선택할 수 있도록 기능을 추가 하였습니다. \n2. 폰트를 직접 선택할 수 있도록 기능을 추가 하였습니다. \n3. 백업 및 복구에서 배경이미지와 폰트를 연동 할 수 있도록 하였습니다. \n4. TTS 재생시 딜레이 시간을 20 초까지 설정 할 수 있도록 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "1. Engadiuse a función de inversión de cor do visor de imaxes.\n2. Modificouse a lóxica de recuperación da copia de seguridade.\n3. Corrixiuse un erro no que a función de marcador non funcionaba."
+    "devnote": "1. Engadiuse unha función que che permite seleccionar directamente unha imaxe de fondo.\n2. Engadiuse unha función que che permite seleccionar directamente o tipo de letra.\n3. Agora pódense vincular imaxes e fontes de fondo na copia de seguridade e recuperación.\n4. Ao reproducir TTS, o tempo de atraso pódese configurar ata 20 segundos."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "1. ઇમેજ વ્યૂઅર કલર ઇન્વર્ઝન ફંક્શન ઉમેરવામાં આવ્યું છે.\n2. બેકઅપ પુનઃપ્રાપ્તિ તર્કમાં ફેરફાર કરવામાં આવ્યો છે.\n3. જ્યાં બુકમાર્ક ફંક્શન કામ કરતું ન હતું ત્યાં બગ ફિક્સ કર્યું."
+    "devnote": "1. એક ફંક્શન ઉમેરવામાં આવ્યું છે જે તમને સીધી પૃષ્ઠભૂમિ છબી પસંદ કરવાની મંજૂરી આપે છે.\n2. ફંક્શન ઉમેરવામાં આવ્યું છે જેથી તમે સીધા ફોન્ટ પસંદ કરી શકો.\n3. પૃષ્ઠભૂમિ છબીઓ અને ફોન્ટ્સ હવે બેકઅપ અને પુનઃપ્રાપ્તિમાં લિંક કરી શકાય છે.\n4. TTS વગાડતી વખતે, વિલંબનો સમય 20 સેકન્ડ સુધી સેટ કરી શકાય છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "1. Προστέθηκε η λειτουργία αναστροφής χρώματος του προγράμματος προβολής εικόνων.\n2. Η λογική ανάκτησης αντιγράφων ασφαλείας έχει τροποποιηθεί.\n3. Διορθώθηκε ένα σφάλμα όπου η λειτουργία σελιδοδεικτών δεν λειτουργούσε."
+    "devnote": "1. Προστέθηκε μια λειτουργία που σας επιτρέπει να επιλέξετε απευθείας μια εικόνα φόντου.\n2. Προστέθηκε μια λειτουργία που σας επιτρέπει να επιλέξετε απευθείας τη γραμματοσειρά.\n3. Οι εικόνες φόντου και οι γραμματοσειρές μπορούν πλέον να συνδεθούν σε δημιουργία αντιγράφων ασφαλείας και ανάκτηση.\n4. Όταν παίζετε TTS, ο χρόνος καθυστέρησης μπορεί να ρυθμιστεί έως και 20 δευτερόλεπτα."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "1. De kleurinversiefunctie van de beeldviewer is toegevoegd.\n2. De logica voor back-upherstel is gewijzigd.\n3. Een bug opgelost waarbij de bladwijzerfunctie niet werkte."
+    "devnote": "1. Er is een functie toegevoegd waarmee u direct een achtergrondafbeelding kunt selecteren.\n2. Er is een functie toegevoegd waarmee u het lettertype direct kunt selecteren.\n3. Achtergrondafbeeldingen en lettertypen kunnen nu worden gekoppeld in back-up en herstel.\n4. Bij het spelen van TTS kan de vertragingstijd worden ingesteld tot 20 seconden."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "1. छवि दर्शक रंग उल्टो प्रकार्य थपिएको छ।\n2. ब्याकअप रिकभरी तर्क परिमार्जन गरिएको छ।\n3. एउटा बग फिक्स गरियो जहाँ बुकमार्क प्रकार्यले काम गरेन।"
+    "devnote": "1. तपाईंलाई प्रत्यक्ष रूपमा पृष्ठभूमि छवि चयन गर्न अनुमति दिन एउटा प्रकार्य थपिएको छ।\n2. फन्ट सीधै चयन गर्न अनुमति दिन एउटा प्रकार्य थपिएको छ।\n3. पृष्ठभूमि छविहरू र फन्टहरू अब ब्याकअप र रिकभरीमा लिङ्क गर्न सकिन्छ।\n4. TTS खेल्दा, ढिलाइ समय 20 सेकेन्ड सम्म सेट गर्न सकिन्छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "1. Bildeviserens fargeinversjonsfunksjon er lagt til.\n2. Logikken for sikkerhetskopiering er endret.\n3. Rettet en feil der bokmerkefunksjonen ikke fungerte."
+    "devnote": "1. En funksjon er lagt til som lar deg velge et bakgrunnsbilde direkte.\n2. En funksjon er lagt til som lar deg velge fonten direkte.\n3. Bakgrunnsbilder og fonter kan nå kobles sammen i sikkerhetskopiering og gjenoppretting.\n4. Når du spiller av TTS, kan forsinkelsestiden settes opp til 20 sekunder."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "1. Billedfremviserens farveinversionsfunktion er blevet tilføjet.\n2. Logikken for gendannelse af backup er blevet ændret.\n3. Rettede en fejl, hvor bogmærkefunktionen ikke virkede."
+    "devnote": "1. En funktion er blevet tilføjet, så du direkte kan vælge et baggrundsbillede.\n2. Der er tilføjet en funktion, så du direkte kan vælge skrifttypen.\n3. Baggrundsbilleder og skrifttyper kan nu sammenkædes i sikkerhedskopiering og gendannelse.\n4. Ved afspilning af TTS kan forsinkelsestiden indstilles til 20 sekunder."
   },
   "독일어": {
     "key": "de",
-    "devnote": "1. Die Farbumkehrfunktion des Bildbetrachters wurde hinzugefügt.\n2. Die Backup-Wiederherstellungslogik wurde geändert.\n3. Es wurde ein Fehler behoben, bei dem die Lesezeichenfunktion nicht funktionierte."
+    "devnote": "1. Es wurde eine Funktion hinzugefügt, mit der Sie direkt ein Hintergrundbild auswählen können.\n2. Es wurde eine Funktion hinzugefügt, mit der Sie die Schriftart direkt auswählen können.\n3. Hintergrundbilder und Schriftarten können jetzt bei der Sicherung und Wiederherstellung verknüpft werden.\n4. Beim Abspielen von TTS kann die Verzögerungszeit auf bis zu 20 Sekunden eingestellt werden."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "1. ຟັງຊັນການປ່ຽນສີຂອງ viewer ຮູບພາບໄດ້ຖືກເພີ່ມ.\n2. ເຫດຜົນການຟື້ນຕົວສໍາຮອງຂໍ້ມູນໄດ້ຖືກດັດແກ້.\n3. ແກ້ໄຂຂໍ້ຜິດພາດທີ່ຟັງຊັນບຸກມາກບໍ່ເຮັດວຽກ."
+    "devnote": "1. ຟັງຊັນໄດ້ຖືກເພີ່ມເພື່ອໃຫ້ທ່ານສາມາດເລືອກຮູບພາບພື້ນຫຼັງໄດ້ໂດຍກົງ.\n2. ຟັງຊັນໄດ້ຖືກເພີ່ມເພື່ອໃຫ້ທ່ານສາມາດເລືອກຕົວອັກສອນໂດຍກົງ.\n3. ຮູບພາບພື້ນຫລັງແລະຕົວອັກສອນໃນປັດຈຸບັນສາມາດເຊື່ອມຕໍ່ໃນການສໍາຮອງຂໍ້ມູນແລະການຟື້ນຕົວ.\n4. ເມື່ອຫຼີ້ນ TTS, ເວລາຊັກຊ້າສາມາດຕັ້ງຄ່າໄດ້ເຖິງ 20 ວິນາທີ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "1. Ir pievienota attēlu skatītāja krāsu inversijas funkcija.\n2. Dublējuma atkopšanas loģika ir mainīta.\n3. Novērsta kļūda, kurā nedarbojās grāmatzīmju funkcija."
+    "devnote": "1. Ir pievienota funkcija, kas ļauj tieši atlasīt fona attēlu.\n2. Ir pievienota funkcija, kas ļauj tieši atlasīt fontu.\n3. Fona attēlus un fontus tagad var saistīt ar dublēšanu un atkopšanu.\n4. Spēlējot TTS, aizkaves laiku var iestatīt līdz 20 sekundēm."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "1. Добавлена ​​функция инверсии цвета в программе просмотра изображений.\n2. Изменена логика восстановления резервной копии.\n3. Исправлена ​​ошибка, при которой не работала функция закладок."
+    "devnote": "1. Добавлена ​​функция, позволяющая напрямую выбирать фоновое изображение.\n2. Добавлена ​​функция, позволяющая напрямую выбирать шрифт.\n3. Фоновые изображения и шрифты теперь можно связывать при резервном копировании и восстановлении.\n4. При воспроизведении TTS время задержки можно установить до 20 секунд."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "1. A fost adăugată funcția de inversare a culorii pentru vizualizatorul de imagini.\n2. Logica de recuperare de rezervă a fost modificată.\n3. S-a remediat o eroare în care funcția de marcaj nu funcționa."
+    "devnote": "1. A fost adăugată o funcție pentru a vă permite să selectați direct o imagine de fundal.\n2. A fost adăugată o funcție pentru a vă permite să selectați direct fontul.\n3. Imaginile de fundal și fonturile pot fi acum legate în backup și recuperare.\n4. Când redați TTS, timpul de întârziere poate fi setat până la 20 de secunde."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "1. Pridėta vaizdų peržiūros programos spalvų inversijos funkcija.\n2. Atsarginės kopijos atkūrimo logika buvo pakeista.\n3. Ištaisyta klaida, kai neveikė žymės funkcija."
+    "devnote": "1. Pridėta funkcija, leidžianti tiesiogiai pasirinkti fono vaizdą.\n2. Pridėta funkcija, leidžianti tiesiogiai pasirinkti šriftą.\n3. Foniniai vaizdai ir šriftai dabar gali būti susieti kuriant atsarginę kopiją ir atkuriant.\n4. Žaidžiant TTS uždelsimo laiką galima nustatyti iki 20 sekundžių."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "८.०.९\n\n1. इमेज व्ह्यूअर कलर इनव्हर्शन फंक्शन जोडले गेले आहे.\n2. बॅकअप पुनर्प्राप्ती तर्क सुधारित केले गेले आहे.\n3. बुकमार्क फंक्शन कार्य करत नसलेल्या बगचे निराकरण केले."
+    "devnote": "1. तुम्हाला थेट पार्श्वभूमी प्रतिमा निवडण्याची परवानगी देण्यासाठी एक कार्य जोडले गेले आहे.\n2. तुम्हाला थेट फॉन्ट निवडण्याची परवानगी देण्यासाठी फंक्शन जोडले गेले आहे.\n3. पार्श्वभूमी प्रतिमा आणि फॉन्ट आता बॅकअप आणि पुनर्प्राप्तीमध्ये जोडले जाऊ शकतात.\n4. TTS खेळताना, विलंब वेळ 20 सेकंदांपर्यंत सेट केला जाऊ शकतो."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "1. Функцијата за инверзија на бојата на прегледувачот на слики е додадена.\n2. Логиката за враќање на резервната копија е изменета.\n3. Поправена грешка каде што функцијата за обележувачи не работеше."
+    "devnote": "1. Додадена е функција која ви овозможува директно да изберете слика за заднина.\n2. Додадена е функција која ви овозможува директно да го изберете фонтот.\n3. Сликите и фонтовите во заднина сега може да се поврзат во резервна копија и обновување.\n4. Кога играте TTS, времето на одложување може да се постави до 20 секунди."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "1. ഇമേജ് വ്യൂവർ കളർ ഇൻവേർഷൻ ഫംഗ്‌ഷൻ ചേർത്തു.\n2. ബാക്കപ്പ് റിക്കവറി ലോജിക്ക് പരിഷ്കരിച്ചു.\n3. ബുക്ക്മാർക്ക് ഫംഗ്ഷൻ പ്രവർത്തിക്കാത്ത ഒരു ബഗ് പരിഹരിച്ചു."
+    "devnote": "1. ഒരു പശ്ചാത്തല ചിത്രം നേരിട്ട് തിരഞ്ഞെടുക്കാൻ നിങ്ങളെ അനുവദിക്കുന്നതിന് ഒരു ഫംഗ്ഷൻ ചേർത്തു.\n2. ഫോണ്ട് നേരിട്ട് തിരഞ്ഞെടുക്കാൻ നിങ്ങളെ അനുവദിക്കുന്നതിന് ഒരു ഫംഗ്ഷൻ ചേർത്തു.\n3. പശ്ചാത്തല ചിത്രങ്ങളും ഫോണ്ടുകളും ഇപ്പോൾ ബാക്കപ്പിലും വീണ്ടെടുക്കലിലും ലിങ്ക് ചെയ്യാനാകും.\n4. ടിടിഎസ് കളിക്കുമ്പോൾ, കാലതാമസം സമയം 20 സെക്കൻഡ് വരെ സജ്ജീകരിക്കാം."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "1. Fungsi penyongsangan warna pemapar imej telah ditambah.\n2. Logik pemulihan sandaran telah diubah suai.\n3. Memperbaiki pepijat di mana fungsi penanda halaman tidak berfungsi."
+    "devnote": "1. Satu fungsi telah ditambah untuk membolehkan anda memilih imej latar belakang secara terus.\n2. Satu fungsi telah ditambah untuk membolehkan anda memilih fon secara terus.\n3. Imej latar belakang dan fon kini boleh dipautkan dalam sandaran dan pemulihan.\n4. Apabila bermain TTS, masa tunda boleh ditetapkan sehingga 20 saat."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "1. Зураг харагчийн өнгө хувиргах функц нэмэгдсэн.\n2. Нөөц сэргээх логикийг өөрчилсөн.\n3. Хавчуургын функц ажиллахгүй байсан алдааг зассан."
+    "devnote": "1. Дэвсгэр зургийг шууд сонгох боломжийг олгох функц нэмэгдсэн.\n2. Фонтыг шууд сонгох боломжийг олгох функц нэмэгдсэн.\n3. Дэвсгэр зураг болон фонтыг одоо нөөцлөх болон сэргээхэд холбох боломжтой.\n4. TTS тоглох үед саатлын хугацааг 20 секунд хүртэл тохируулж болно."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "1. Irudien ikuslearen kolore-inbertsio funtzioa gehitu da.\n2. Babeskopia berreskuratzeko logika aldatu da.\n3. Laster-marken funtzioak funtzionatzen ez zuen akats bat konpondu da."
+    "devnote": "1. Funtzio bat gehitu da atzeko planoko irudi bat zuzenean hautatzeko.\n2. Funtzio bat gehitu da letra-tipoa zuzenean hauta dezazun.\n3. Atzeko planoko irudiak eta letra-tipoak lotu daitezke orain babeskopia eta berreskurapenean.\n4. TTS erreproduzitzean, atzerapen-denbora 20 segundora arte ezar daiteke."
   },
   "버마어": {
     "key": "my",
-    "devnote": "1. ရုပ်ပုံကြည့်ရှုသူ အရောင်ပြောင်းခြင်း လုပ်ဆောင်ချက်ကို ထည့်သွင်းထားသည်။\n2. အရန်သိမ်းဆည်းခြင်း ပြန်လည်ရယူခြင်း ယုတ္တိဗေဒကို ပြုပြင်ပြီးဖြစ်သည်။\n3. bookmark function အလုပ်မလုပ်သော bug ကို ပြင်ဆင်ပါ။"
+    "devnote": "1. နောက်ခံပုံတစ်ပုံကို တိုက်ရိုက်ရွေးချယ်နိုင်စေရန် လုပ်ဆောင်ချက်တစ်ခုကို ထည့်သွင်းထားပါသည်။\n2. ဖောင့်ကို တိုက်ရိုက်ရွေးချယ်နိုင်စေရန် လုပ်ဆောင်ချက်တစ်ခုကို ထည့်သွင်းထားပါသည်။\n3. နောက်ခံပုံများနှင့် ဖောင့်များကို အရန်သိမ်းခြင်းနှင့် ပြန်လည်ရယူခြင်းတွင် ယခုလင့်ခ်ချိတ်နိုင်ပါပြီ။\n4. TTS ကိုဖွင့်သောအခါ၊ နှောင့်နှေးချိန်ကို စက္ကန့် 20 အထိ သတ်မှတ်နိုင်သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "1. Chức năng đảo ngược màu của trình xem hình ảnh đã được thêm vào.\n2. Logic khôi phục sao lưu đã được sửa đổi.\n3. Đã sửa lỗi chức năng đánh dấu không hoạt động."
+    "devnote": "1. Một chức năng đã được thêm vào để cho phép bạn trực tiếp chọn hình nền.\n2. Một chức năng đã được thêm vào để cho phép bạn trực tiếp chọn phông chữ.\n3. Giờ đây, hình nền và phông chữ có thể được liên kết trong quá trình sao lưu và khôi phục.\n4. Khi phát TTS, thời gian trễ có thể được đặt tối đa 20 giây."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "1. Была дададзена функцыя інверсіі колеру праграмы прагляду малюнкаў.\n2. Логіка аднаўлення рэзервовай копіі была зменена.\n3. Выпраўлена памылка, з-за якой не працавала функцыя закладкі."
+    "devnote": "1. Была дададзена функцыя, якая дазваляе непасрэдна выбіраць фонавы малюнак.\n2. Была дададзена функцыя, якая дазваляе непасрэдна выбіраць шрыфт.\n3. Фонавыя выявы і шрыфты цяпер можна звязваць пры рэзервовым капіраванні і аднаўленні.\n4. Пры прайграванні TTS час затрымкі можа быць усталяваны да 20 секунд."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "1. ইমেজ ভিউয়ার কালার ইনভার্সন ফাংশন যোগ করা হয়েছে।\n2. ব্যাকআপ রিকভারি লজিক পরিবর্তন করা হয়েছে।\n3. একটি বাগ সংশোধন করা হয়েছে যেখানে বুকমার্ক ফাংশন কাজ করেনি৷"
+    "devnote": "1. একটি ফাংশন যোগ করা হয়েছে যাতে আপনি সরাসরি একটি ব্যাকগ্রাউন্ড ইমেজ নির্বাচন করতে পারেন।\n2. একটি ফাংশন যোগ করা হয়েছে যাতে আপনি সরাসরি ফন্ট নির্বাচন করতে পারেন।\n3. পটভূমি ছবি এবং ফন্ট এখন ব্যাকআপ এবং পুনরুদ্ধার লিঙ্ক করা যাবে.\n4. TTS বাজানোর সময়, বিলম্বের সময় 20 সেকেন্ড পর্যন্ত সেট করা যেতে পারে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "1. Добавена е функция за инверсия на цветовете на визуализатора на изображения.\n2. Логиката за възстановяване на резервно копие е променена.\n3. Поправена е грешка, при която функцията за отметка не работи."
+    "devnote": "1. Добавена е функция, която ви позволява директно да изберете фоново изображение.\n2. Добавена е функция, която ви позволява директно да избирате шрифта.\n3. Фоновите изображения и шрифтовете вече могат да бъдат свързани при архивиране и възстановяване.\n4. Когато възпроизвеждате TTS, времето за забавяне може да бъде настроено до 20 секунди."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "1. Додата је функција инверзије боја прегледника слика.\n2. Логика опоравка резервне копије је измењена.\n3. Исправљена грешка где функција обележивача није радила."
+    "devnote": "1. Додата је функција која вам омогућава да директно изаберете позадинску слику.\n2. Додата је функција која вам омогућава да директно изаберете фонт.\n3. Позадинске слике и фонтови сада се могу повезати у резервној копији и опоравку.\n4. Када играте ТТС, време кашњења се може подесити до 20 секунди."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "1. Kitendaji cha ubadilishaji wa rangi ya kitazamaji picha kimeongezwa.\n2. Mantiki ya urejeshaji chelezo imerekebishwa.\n3. Imerekebisha hitilafu ambapo kitendakazi cha alamisho hakikufanya kazi."
+    "devnote": "1. Chaguo la kukokotoa limeongezwa ili kukuruhusu kuchagua moja kwa moja picha ya usuli.\n2. Kitendaji kimeongezwa ili kukuruhusu kuchagua fonti moja kwa moja.\n3. Picha za usuli na fonti sasa zinaweza kuunganishwa katika chelezo na urejeshaji.\n4. Unapocheza TTS, muda wa kuchelewa unaweza kusanidiwa hadi sekunde 20."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "1. Bildvisarens färginverteringsfunktion har lagts till.\n2. Återställningslogiken för säkerhetskopiering har ändrats.\n3. Fixade en bugg där bokmärkesfunktionen inte fungerade."
+    "devnote": "1. En funktion har lagts till så att du kan välja en bakgrundsbild direkt.\n2. En funktion har lagts till så att du kan välja typsnitt direkt.\n3. Bakgrundsbilder och typsnitt kan nu länkas i säkerhetskopiering och återställning.\n4. När du spelar TTS kan fördröjningstiden ställas in på upp till 20 sekunder."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "1. Se ha agregado la función de inversión de color del visor de imágenes.\n2. Se ha modificado la lógica de recuperación de la copia de seguridad.\n3. Se corrigió un error por el cual la función de marcador no funcionaba."
+    "devnote": "1. Se ha agregado una función que le permite seleccionar directamente una imagen de fondo.\n2. Se ha agregado una función que le permite seleccionar directamente la fuente.\n3. Las imágenes de fondo y las fuentes ahora se pueden vincular en la copia de seguridad y la recuperación.\n4. Al reproducir TTS, el tiempo de retardo se puede configurar hasta 20 segundos."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "1. Bola pridaná funkcia inverzie farieb prehliadača obrázkov.\n2. Logika obnovy zálohy bola upravená.\n3. Opravená chyba, kedy funkcia záložiek nefungovala."
+    "devnote": "1. Bola pridaná funkcia, ktorá vám umožní priamo vybrať obrázok na pozadí.\n2. Bola pridaná funkcia, ktorá vám umožní priamo vybrať písmo.\n3. Obrázky na pozadí a písma môžu byť teraz prepojené v zálohovaní a obnove.\n4. Pri prehrávaní TTS je možné nastaviť čas oneskorenia až na 20 sekúnd."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "1. Dodana je bila funkcija barvne inverzije pregledovalnika slik.\n2. Logika obnovitve varnostne kopije je bila spremenjena.\n3. Odpravljena je napaka, pri kateri funkcija zaznamka ni delovala."
+    "devnote": "1. Dodana je bila funkcija, ki vam omogoča neposredno izbiro slike ozadja.\n2. Dodana je bila funkcija, ki omogoča neposredno izbiro pisave.\n3. Slike ozadja in pisave je zdaj mogoče povezati pri varnostnem kopiranju in obnovitvi.\n4. Pri predvajanju TTS lahko zakasnitev nastavite do 20 sekund."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "1. Image viewer වර්ණ ප්‍රතිලෝම ශ්‍රිතය එක් කර ඇත.\n2. උපස්ථ ප්‍රතිසාධන තර්කනය වෙනස් කර ඇත.\n3. පිටු සලකුණු ශ්‍රිතය ක්‍රියා නොකළ දෝෂයක් නිරාකරණය කරන ලදී."
+    "devnote": "1. ඔබට සෘජුවම පසුබිම් රූපයක් තේරීමට ඉඩ දීමට ශ්‍රිතයක් එක් කර ඇත.\n2. ඔබට අකුරු කෙලින්ම තේරීමට ඉඩ දීමට ශ්‍රිතයක් එක් කර ඇත.\n3. පසුබිම් රූප සහ අකුරු දැන් උපස්ථ සහ ප්‍රතිසාධනය තුළ සම්බන්ධ කළ හැක.\n4. TTS ක්රීඩා කරන විට, ප්රමාද කාලය තත්පර 20 දක්වා සැකසිය හැක."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "1. تمت إضافة وظيفة انعكاس لون عارض الصور.\n2. تم تعديل منطق استرداد النسخة الاحتياطية.\n3. تم إصلاح الخلل حيث لم تعمل وظيفة الإشارة المرجعية."
+    "devnote": "1. تمت إضافة وظيفة للسماح لك بتحديد صورة الخلفية مباشرة.\n2. تمت إضافة وظيفة للسماح لك بتحديد الخط مباشرة.\n3. يمكن الآن ربط صور الخلفية والخطوط في النسخ الاحتياطي والاسترداد.\n4. عند تشغيل تحويل النص إلى كلام (TTS)، يمكن ضبط وقت التأخير لمدة تصل إلى 20 ثانية."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "1. Ավելացվել է պատկերների դիտողի գույնի ինվերսիայի գործառույթը:\n2. Պահուստային վերականգնման տրամաբանությունը փոփոխվել է:\n3. Շտկվել է սխալ, որտեղ էջանիշների գործառույթը չի աշխատում:"
+    "devnote": "1. Ավելացվել է ֆունկցիա, որը թույլ է տալիս ուղղակիորեն ընտրել ֆոնային պատկեր:\n2. Ավելացվել է ֆունկցիա, որը թույլ է տալիս ուղղակիորեն ընտրել տառատեսակը:\n3. Ֆոնային պատկերները և տառատեսակները այժմ կարող են միացվել կրկնօրինակում և վերականգնում:\n4. TTS խաղալիս հետաձգման ժամանակը կարող է սահմանվել մինչև 20 վայրկյան:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "1. Litabreytingaraðgerð myndskoðara hefur verið bætt við.\n2. Rökfræði endurheimtar öryggisafrits hefur verið breytt.\n3. Lagaði villu þar sem bókamerkjaaðgerðin virkaði ekki."
+    "devnote": "1. Aðgerð hefur verið bætt við sem gerir þér kleift að velja bakgrunnsmynd beint.\n2. Aðgerð hefur verið bætt við sem gerir þér kleift að velja leturgerð beint.\n3. Nú er hægt að tengja bakgrunnsmyndir og leturgerðir í öryggisafritun og endurheimt.\n4. Þegar TTS er spilað er hægt að stilla seinkunina í allt að 20 sekúndur."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "1. Şəkil görüntüləyicisinin rəng inversiya funksiyası əlavə edildi.\n2. Ehtiyat nüsxənin bərpası məntiqi dəyişdirildi.\n3. Əlfəcin funksiyasının işləmədiyi bir səhv düzəldildi."
+    "devnote": "1. Fon şəklini birbaşa seçməyə imkan verən funksiya əlavə edilib.\n2. Şrifti birbaşa seçməyə imkan verən funksiya əlavə edilib.\n3. Fon şəkilləri və şriftləri indi ehtiyat nüsxədə və bərpada əlaqələndirmək olar.\n4. TTS oynayarkən gecikmə müddəti 20 saniyəyə qədər təyin edilə bilər."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "1. Beeldkyker-kleuromkeerfunksie is bygevoeg.\n2. Die rugsteunherstellogika is gewysig.\n3. Het 'n fout reggestel waar die boekmerkfunksie nie gewerk het nie."
+    "devnote": "1. 'n Funksie is bygevoeg sodat jy direk 'n agtergrondprent kan kies.\n2. 'n Funksie is bygevoeg sodat jy die lettertipe direk kan kies.\n3. Agtergrond beelde en lettertipes kan nou gekoppel word in rugsteun en herstel.\n4. Wanneer jy TTS speel, kan die vertragingstyd tot 20 sekondes opgestel word."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "1. Është shtuar funksioni i përmbysjes së ngjyrave të shikuesit të imazhit.\n2. Logjika e rikuperimit të rezervës është modifikuar.\n3. Rregulloi një gabim ku funksioni i faqerojtësve nuk funksiononte."
+    "devnote": "1. Është shtuar një funksion për t'ju lejuar të zgjidhni drejtpërdrejt një imazh të sfondit.\n2. Është shtuar një funksion për t'ju lejuar të zgjidhni drejtpërdrejt fontin.\n3. Imazhet dhe fontet e sfondit tani mund të lidhen në kopje rezervë dhe rikuperim.\n4. Kur luani TTS, koha e vonesës mund të vendoset deri në 20 sekonda."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "1. የምስል መመልከቻ ቀለም የተገላቢጦሽ ተግባር ታክሏል.\n2. የመጠባበቂያ መልሶ ማግኛ አመክንዮ ተስተካክሏል.\n3. የዕልባት ተግባር የማይሰራበት ስህተት ተስተካክሏል።"
+    "devnote": "1. የጀርባ ምስል በቀጥታ እንዲመርጡ የሚያስችል ተግባር ተጨምሯል።\n2. ቅርጸ ቁምፊውን በቀጥታ ለመምረጥ የሚያስችል ተግባር ተጨምሯል.\n3. የበስተጀርባ ምስሎች እና ቅርጸ ቁምፊዎች አሁን በመጠባበቂያ እና መልሶ ማግኛ ውስጥ ሊገናኙ ይችላሉ.\n4. TTS ሲጫወት, የመዘግየቱ ጊዜ እስከ 20 ሰከንድ ድረስ ሊዘጋጅ ይችላል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "1. Lisatud on pildivaaturi värvide ümberpööramise funktsioon.\n2. Varundamise taastamise loogikat on muudetud.\n3. Parandatud viga, mille puhul järjehoidja funktsioon ei töötanud."
+    "devnote": "1. Lisatud on funktsioon, mis võimaldab teil otse taustpilti valida.\n2. Lisatud on funktsioon, mis võimaldab teil fondi otse valida.\n3. Taustapilte ja fonte saab nüüd varundamisel ja taastamisel linkida.\n4. TTS-i mängides saab viiteaega seadistada kuni 20 sekundini."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "1. تصویری ناظرین کا رنگ الٹا فنکشن شامل کیا گیا ہے۔\n2. بیک اپ ریکوری منطق میں ترمیم کی گئی ہے۔\n3. ایک بگ کو ٹھیک کیا جہاں بک مارک فنکشن کام نہیں کرتا تھا۔"
+    "devnote": "1. آپ کو براہ راست پس منظر کی تصویر منتخب کرنے کی اجازت دینے کے لیے ایک فنکشن شامل کیا گیا ہے۔\n2. آپ کو فونٹ کو براہ راست منتخب کرنے کی اجازت دینے کے لیے ایک فنکشن شامل کیا گیا ہے۔\n3. پس منظر کی تصاویر اور فونٹس کو اب بیک اپ اور ریکوری میں منسلک کیا جا سکتا ہے۔\n4. TTS کھیلتے وقت، تاخیر کا وقت 20 سیکنڈ تک سیٹ کیا جا سکتا ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "1. Додано функцію інверсії кольорів у програмі перегляду зображень.\n2. Логіку відновлення резервної копії було змінено.\n3. Виправлено помилку, через яку не працювала функція закладок."
+    "devnote": "1. Додано функцію, яка дозволяє безпосередньо вибрати фонове зображення.\n2. Додано функцію, яка дозволяє безпосередньо вибирати шрифт.\n3. Фонові зображення та шрифти тепер можна пов’язувати під час резервного копіювання та відновлення.\n4. Під час відтворення TTS час затримки можна встановити до 20 секунд."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "1. È stata aggiunta la funzione di inversione del colore del visualizzatore di immagini.\n2. La logica di ripristino del backup è stata modificata.\n3. Risolto un bug in cui la funzione segnalibro non funzionava."
+    "devnote": "1. È stata aggiunta una funzione che consente di selezionare direttamente un'immagine di sfondo.\n2. È stata aggiunta una funzione che consente di selezionare direttamente il carattere.\n3. Le immagini di sfondo e i caratteri possono ora essere collegati nel backup e nel ripristino.\n4. Durante la riproduzione TTS, il tempo di ritardo può essere impostato fino a 20 secondi."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "1. Fungsi inversi warna penampil gambar telah ditambahkan.\n2. Logika pemulihan cadangan telah diubah.\n3. Memperbaiki bug dimana fungsi bookmark tidak berfungsi."
+    "devnote": "1. Sebuah fungsi telah ditambahkan untuk memungkinkan Anda memilih gambar latar belakang secara langsung.\n2. Sebuah fungsi telah ditambahkan untuk memungkinkan Anda memilih font secara langsung.\n3. Gambar latar belakang dan font kini dapat dihubungkan dalam pencadangan dan pemulihan.\n4. Saat bermain TTS, waktu tunda dapat diatur hingga 20 detik."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "1. 画像ビューアの色反転機能を追加しました。\n2. バックアップ回復ロジックが変更されました。\n3.ブックマーク機能が動作しない不具合を修正しました。"
+    "devnote": "1. 背景画像を直接選​​択できる機能を追加しました。\n2. フォントを直接選択できる機能を追加しました。\n3. 背景画像とフォントをバックアップとリカバリでリンクできるようになりました。\n4. TTS を再生する場合、遅延時間を最大 20 秒に設定できます。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "1. დამატებულია გამოსახულების მაყურებლის ფერის ინვერსიის ფუნქცია.\n2. სარეზერვო აღდგენის ლოგიკა შეიცვალა.\n3. დაფიქსირდა შეცდომა, სადაც სანიშნეების ფუნქცია არ მუშაობდა."
+    "devnote": "1. დამატებულია ფუნქცია, რომელიც საშუალებას მოგცემთ პირდაპირ აირჩიოთ ფონის სურათი.\n2. დამატებულია ფუნქცია, რომელიც საშუალებას მოგცემთ პირდაპირ აირჩიოთ შრიფტი.\n3. ფონის სურათები და შრიფტები ახლა შეიძლება იყოს დაკავშირებული სარეზერვო და აღდგენაში.\n4. TTS თამაშისას, დაყოვნების დრო შეიძლება დაყენდეს 20 წამამდე."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "1. Umsebenzi wokuguqula umbala wesibukeli sesithombe wengeziwe.\n2. I-logic yokutakula eyisipele ishintshiwe.\n3. Kulungiswe iphutha lapho umsebenzi webhukhimakhi ungasebenzi."
+    "devnote": "1. Uhlelo lwengeziwe olukuvumela ukuthi ukhethe ngokuqondile isithombe sangemuva.\n2. Umsebenzi wengeziwe ukuze ukwazi ukukhetha ngokuqondile ifonti.\n3. Izithombe zangemuva namafonti manje angaxhunywa ekwenzeni ikhophi yasenqolobaneni nasekubuyiseleni.\n4. Uma udlala i-TTS, isikhathi sokulibaziseka singasethwa sibe yimizuzwana engama-20."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "1. 增加了图像查看器颜色反转功能。\n2.修改了备份恢复逻辑。\n3.修复了书签功能不起作用的错误。"
+    "devnote": "1.增加了直接选择背景图片的功能。\n2.增加了直接选择字体的功能。\n3. 现在可以在备份和恢复中链接背景图像和字体。\n4. 播放TTS时，延迟时间最长可设置20秒。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "1. 增加了影像檢視器顏色反轉功能。\n2.修改了備份恢復邏輯。\n3.修復了書籤功能不起作用的錯誤。"
+    "devnote": "1.增加了直接選擇背景圖片的功能。\n2.增加了直接選擇字體的功能。\n3. 現在可以在備份和還原中連結背景圖像和字體。\n4. 播放TTS時，延遲時間最長可設定20秒。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "1. 增加了影像檢視器顏色反轉功能。\n2.修改了備份恢復邏輯。\n3.修復了書籤功能不起作用的錯誤。"
+    "devnote": "1.增加了直接選擇背景圖片的功能。\n2.增加了直接選擇字體的功能。\n3. 現在可以在備份和還原中連結背景圖像和字體。\n4. 播放TTS時，延遲時間最長可設定20秒。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "1. Byla přidána funkce inverze barev v prohlížeči obrázků.\n2. Logika obnovy zálohy byla změněna.\n3. Opravena chyba, kdy nefungovala funkce záložek."
+    "devnote": "1. Byla přidána funkce, která vám umožní přímo vybrat obrázek na pozadí.\n2. Byla přidána funkce, která vám umožní přímo vybrat písmo.\n3. Obrázky na pozadí a písma lze nyní propojit v zálohování a obnově.\n4. Při přehrávání TTS lze dobu zpoždění nastavit až na 20 sekund."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "1. Кескінді қарау құралының түсін өзгерту функциясы қосылды.\n2. Сақтық көшірмелерді қалпына келтіру логикасы өзгертілді.\n3. Бетбелгі функциясы жұмыс істемейтін қате түзетілді."
+    "devnote": "1. Фондық кескінді тікелей таңдауға мүмкіндік беретін функция қосылды.\n2. Қаріпті тікелей таңдауға мүмкіндік беретін функция қосылды.\n3. Фондық кескіндер мен қаріптерді енді сақтық көшірме жасау және қалпына келтіру арқылы байланыстыруға болады.\n4. TTS ойнатқанда, кешіктіру уақытын 20 секундқа дейін орнатуға болады."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "1. S'ha afegit la funció d'inversió de color del visualitzador d'imatges.\n2. S'ha modificat la lògica de recuperació de la còpia de seguretat.\n3. S'ha solucionat un error en què la funció de marcador no funcionava."
+    "devnote": "1. S'ha afegit una funció que us permetrà seleccionar directament una imatge de fons.\n2. S'ha afegit una funció que us permetrà seleccionar directament el tipus de lletra.\n3. Les imatges i els tipus de lletra de fons ara es poden enllaçar en còpia de seguretat i recuperació.\n4. Quan es reprodueix TTS, el temps de retard es pot configurar fins a 20 segons."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "1. ಇಮೇಜ್ ವೀಕ್ಷಕ ಬಣ್ಣ ವಿಲೋಮ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n2. ಬ್ಯಾಕಪ್ ರಿಕವರಿ ಲಾಜಿಕ್ ಅನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n3. ಬುಕ್‌ಮಾರ್ಕ್ ಕಾರ್ಯವು ಕಾರ್ಯನಿರ್ವಹಿಸದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "1. ಹಿನ್ನೆಲೆ ಚಿತ್ರವನ್ನು ನೇರವಾಗಿ ಆಯ್ಕೆ ಮಾಡಲು ನಿಮಗೆ ಅನುಮತಿಸಲು ಒಂದು ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n2. ಫಾಂಟ್ ಅನ್ನು ನೇರವಾಗಿ ಆಯ್ಕೆ ಮಾಡಲು ನಿಮಗೆ ಅನುಮತಿಸಲು ಒಂದು ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n3. ಹಿನ್ನೆಲೆ ಚಿತ್ರಗಳು ಮತ್ತು ಫಾಂಟ್‌ಗಳನ್ನು ಈಗ ಬ್ಯಾಕಪ್ ಮತ್ತು ಮರುಪ್ರಾಪ್ತಿಯಲ್ಲಿ ಲಿಂಕ್ ಮಾಡಬಹುದು.\n4. TTS ಆಡುವಾಗ, ವಿಳಂಬ ಸಮಯವನ್ನು 20 ಸೆಕೆಂಡುಗಳವರೆಗೆ ಹೊಂದಿಸಬಹುದು."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "1. Dodana je funkcija inverzije boja preglednika slika.\n2. Logika oporavka sigurnosne kopije je promijenjena.\n3. Ispravljena je pogreška u kojoj funkcija oznake nije radila."
+    "devnote": "1. Dodana je funkcija koja vam omogućuje izravan odabir pozadinske slike.\n2. Dodana je funkcija koja vam omogućuje izravan odabir fonta.\n3. Pozadinske slike i fontovi sada se mogu povezati u sigurnosnom kopiranju i oporavku.\n4. Prilikom reprodukcije TTS-a, vrijeme odgode može se postaviti do 20 sekundi."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "៨.០.៩\n\n1. មុខងារដាក់បញ្ច្រាសពណ៌របស់កម្មវិធីមើលរូបភាពត្រូវបានបន្ថែម។\n2. តក្កវិជ្ជានៃការសង្គ្រោះការបម្រុងទុកត្រូវបានកែប្រែ។\n3. ជួសជុលកំហុសដែលមុខងារចំណាំមិនដំណើរការ។"
+    "devnote": "1. មុខងារមួយត្រូវបានបន្ថែម ដើម្បីអនុញ្ញាតឱ្យអ្នកជ្រើសរើសរូបភាពផ្ទៃខាងក្រោយដោយផ្ទាល់។\n2. មុខងារមួយត្រូវបានបន្ថែម ដើម្បីអនុញ្ញាតឱ្យអ្នកជ្រើសរើសពុម្ពអក្សរដោយផ្ទាល់។\n3. រូបភាពផ្ទៃខាងក្រោយ និងពុម្ពអក្សរឥឡូវនេះអាចត្រូវបានភ្ជាប់នៅក្នុងការបម្រុងទុក និងការសង្គ្រោះ។\n4. នៅពេលលេង TTS ពេលវេលាពន្យាពេលអាចត្រូវបានកំណត់រហូតដល់ 20 វិនាទី។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "1. Сүрөт көрүүчү түстөрдү инверсиялоо функциясы кошулду.\n2. Камдык көчүрмөнү калыбына келтирүү логикасы өзгөртүлдү.\n3. Кыстарма функциясы иштебей калган ката оңдолду."
+    "devnote": "1. Фондук сүрөттү түздөн-түз тандоого мүмкүндүк берүүчү функция кошулду.\n2. Шрифти түз тандоого мүмкүндүк берүүчү функция кошулду.\n3. Фондук сүрөттөрдү жана шрифттерди эми резервдик жана калыбына келтирүүдө байланыштырса болот.\n4. TTS ойноп жатканда, кечигүү убактысын 20 секундага чейин орнотууга болот."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "1. பட பார்வையாளர் வண்ண தலைகீழ் செயல்பாடு சேர்க்கப்பட்டது.\n2. காப்பு மீட்பு தர்க்கம் மாற்றியமைக்கப்பட்டுள்ளது.\n3. புக்மார்க் செயல்பாடு வேலை செய்யாத பிழை சரி செய்யப்பட்டது."
+    "devnote": "1. பின்னணி படத்தை நேரடியாக தேர்ந்தெடுக்க உங்களை அனுமதிக்கும் செயல்பாடு சேர்க்கப்பட்டுள்ளது.\n2. எழுத்துருவை நேரடியாக தேர்ந்தெடுக்க உங்களை அனுமதிக்கும் செயல்பாடு சேர்க்கப்பட்டுள்ளது.\n3. பின்புலப் படங்கள் மற்றும் எழுத்துருக்கள் இப்போது காப்புப் பிரதி மற்றும் மீட்டெடுப்பில் இணைக்கப்படலாம்.\n4. TTS விளையாடும் போது, ​​தாமத நேரத்தை 20 வினாடிகள் வரை அமைக்கலாம்."
   },
   "태국어": {
     "key": "th",
-    "devnote": "1. เพิ่มฟังก์ชันการกลับสีของโปรแกรมดูรูปภาพแล้ว\n2. ตรรกะการกู้คืนข้อมูลสำรองได้รับการแก้ไขแล้ว\n3. แก้ไขข้อผิดพลาดที่ฟังก์ชันบุ๊กมาร์กไม่ทำงาน"
+    "devnote": "1. เพิ่มฟังก์ชันเพื่อให้คุณสามารถเลือกภาพพื้นหลังได้โดยตรง\n2. เพิ่มฟังก์ชันเพื่อให้คุณสามารถเลือกแบบอักษรได้โดยตรง\n3. ขณะนี้สามารถเชื่อมโยงภาพพื้นหลังและแบบอักษรในการสำรองและกู้คืนได้\n4. เมื่อเล่น TTS สามารถตั้งเวลาหน่วงได้สูงสุด 20 วินาที"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "1. Resim görüntüleyicinin rengini tersine çevirme işlevi eklendi.\n2. Yedekleme kurtarma mantığı değiştirildi.\n3. Yer imi işlevinin çalışmamasına neden olan bir hata düzeltildi."
+    "devnote": "1. Doğrudan bir arka plan resmi seçmenizi sağlayacak bir işlev eklendi.\n2. Yazı tipini doğrudan seçmenize olanak tanıyan bir işlev eklendi.\n3. Arka plan resimleri ve yazı tipleri artık yedekleme ve kurtarma sırasında birbirine bağlanabiliyor.\n4. TTS oynatılırken gecikme süresi 20 saniyeye kadar ayarlanabilir."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "1. ఇమేజ్ వ్యూయర్ కలర్ ఇన్‌వర్షన్ ఫంక్షన్ జోడించబడింది.\n2. బ్యాకప్ రికవరీ లాజిక్ సవరించబడింది.\n3. బుక్‌మార్క్ ఫంక్షన్ పని చేయని బగ్ పరిష్కరించబడింది."
+    "devnote": "1. నేపథ్య చిత్రాన్ని నేరుగా ఎంచుకోవడానికి మిమ్మల్ని అనుమతించడానికి ఒక ఫంక్షన్ జోడించబడింది.\n2. ఫాంట్‌ను నేరుగా ఎంచుకోవడానికి మిమ్మల్ని అనుమతించడానికి ఒక ఫంక్షన్ జోడించబడింది.\n3. బ్యాక్‌గ్రౌండ్ ఇమేజ్‌లు మరియు ఫాంట్‌లు ఇప్పుడు బ్యాకప్ మరియు రికవరీలో లింక్ చేయబడతాయి.\n4. TTS ఆడుతున్నప్పుడు, ఆలస్యం సమయాన్ని 20 సెకన్ల వరకు సెట్ చేయవచ్చు."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "1. ਚਿੱਤਰ ਦਰਸ਼ਕ ਕਲਰ ਇਨਵਰਸ਼ਨ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ।\n2. ਬੈਕਅੱਪ ਰਿਕਵਰੀ ਤਰਕ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ।\n3. ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਜਿੱਥੇ ਬੁੱਕਮਾਰਕ ਫੰਕਸ਼ਨ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਸੀ।"
+    "devnote": "1. ਇੱਕ ਫੰਕਸ਼ਨ ਜੋੜਿਆ ਗਿਆ ਹੈ ਤਾਂ ਜੋ ਤੁਸੀਂ ਸਿੱਧੇ ਇੱਕ ਬੈਕਗ੍ਰਾਉਂਡ ਚਿੱਤਰ ਚੁਣ ਸਕਦੇ ਹੋ।\n2. ਤੁਹਾਨੂੰ ਸਿੱਧੇ ਫੌਂਟ ਦੀ ਚੋਣ ਕਰਨ ਲਈ ਇੱਕ ਫੰਕਸ਼ਨ ਜੋੜਿਆ ਗਿਆ ਹੈ।\n3. ਬੈਕਗ੍ਰਾਉਂਡ ਚਿੱਤਰਾਂ ਅਤੇ ਫੌਂਟਾਂ ਨੂੰ ਹੁਣ ਬੈਕਅੱਪ ਅਤੇ ਰਿਕਵਰੀ ਵਿੱਚ ਲਿੰਕ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।\n4. TTS ਖੇਡਣ ਵੇਲੇ, ਦੇਰੀ ਦਾ ਸਮਾਂ 20 ਸਕਿੰਟਾਂ ਤੱਕ ਸੈੱਟ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "1. تابع وارونگی رنگ بیننده تصویر اضافه شده است.\n2. منطق بازیابی پشتیبان اصلاح شده است.\n3. رفع اشکالی که در آن تابع نشانک کار نمی کرد."
+    "devnote": "1. یک تابع اضافه شده است که به شما امکان می دهد مستقیماً یک تصویر پس زمینه را انتخاب کنید.\n2. یک تابع اضافه شده است که به شما امکان می دهد مستقیماً فونت را انتخاب کنید.\n3. اکنون می توان تصاویر و فونت های پس زمینه را در پشتیبان گیری و بازیابی پیوند داد.\n4. هنگام پخش TTS، زمان تاخیر را می توان تا 20 ثانیه تنظیم کرد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "1. A função de inversão de cores do visualizador de imagens foi adicionada.\n2. A lógica de recuperação de backup foi modificada.\n3. Corrigido um bug em que a função de marcador não funcionava."
+    "devnote": "1. Uma função foi adicionada para permitir selecionar diretamente uma imagem de fundo.\n2. Uma função foi adicionada para permitir que você selecione diretamente a fonte.\n3. Imagens e fontes de fundo agora podem ser vinculadas em backup e recuperação.\n4. Ao jogar TTS, o tempo de atraso pode ser definido em até 20 segundos."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "1. Do przeglądarki obrazów dodano funkcję odwracania kolorów.\n2. Zmodyfikowano logikę odtwarzania kopii zapasowych.\n3. Naprawiono błąd polegający na tym, że funkcja zakładek nie działała."
+    "devnote": "1. Dodano funkcję umożliwiającą bezpośredni wybór obrazu tła.\n2. Dodano funkcję umożliwiającą bezpośredni wybór czcionki.\n3. Obrazy tła i czcionki można teraz łączyć podczas tworzenia kopii zapasowych i odzyskiwania.\n4. Podczas odtwarzania TTS czas opóźnienia można ustawić na maksymalnie 20 sekund."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "1. La fonction d'inversion des couleurs de la visionneuse d'images a été ajoutée.\n2. La logique de récupération de sauvegarde a été modifiée.\n3. Correction d'un bug où la fonction de signet ne fonctionnait pas."
+    "devnote": "1. Une fonction a été ajoutée pour vous permettre de sélectionner directement une image de fond.\n2. Une fonction a été ajoutée pour vous permettre de sélectionner directement la police.\n3. Les images d'arrière-plan et les polices peuvent désormais être liées lors de la sauvegarde et de la récupération.\n4. Lors de la lecture de TTS, le temps de retard peut être réglé jusqu'à 20 secondes."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "1. Kuvankatseluohjelman värinvaihtotoiminto on lisätty.\n2. Varmuuskopion palautuslogiikkaa on muutettu.\n3. Korjattu virhe, jossa kirjanmerkkitoiminto ei toiminut."
+    "devnote": "1. Lisätty toiminto, jonka avulla voit valita suoraan taustakuvan.\n2. Lisätty toiminto, jonka avulla voit valita suoraan fontin.\n3. Taustakuvat ja fontit voidaan nyt linkittää varmuuskopiointiin ja palautukseen.\n4. Kun toistat TTS:ää, viiveaika voidaan asettaa 20 sekuntiin."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "1. Idinagdag ang function ng inversion ng kulay ng viewer ng imahe.\n2. Ang backup na lohika sa pagbawi ay nabago.\n3. Inayos ang isang bug kung saan hindi gumana ang function ng bookmark."
+    "devnote": "1. Naidagdag ang isang function upang payagan kang direktang pumili ng larawan sa background.\n2. Naidagdag ang isang function upang payagan kang direktang piliin ang font.\n3. Ang mga larawan sa background at mga font ay maaari na ngayong i-link sa backup at pagbawi.\n4. Kapag naglalaro ng TTS, ang oras ng pagkaantala ay maaaring itakda nang hanggang 20 segundo."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "1. A képnézegető színinverziós funkciója hozzáadásra került.\n2. A biztonsági mentés helyreállítási logikája módosult.\n3. Kijavítottunk egy hibát, ahol a könyvjelző funkció nem működött."
+    "devnote": "1. Egy funkció került hozzáadásra, amely lehetővé teszi a háttérkép közvetlen kiválasztását.\n2. Egy funkció került hozzáadásra, amely lehetővé teszi a betűtípus közvetlen kiválasztását.\n3. A háttérképek és betűtípusok mostantól összekapcsolhatók a biztonsági mentésben és a helyreállításban.\n4. TTS lejátszásakor a késleltetési idő 20 másodpercig állítható be."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "1. נוספה פונקציית היפוך צבע של מציג תמונות.\n2. לוגיקה לשחזור הגיבוי השתנתה.\n3. תיקן באג שבו פונקציית הסימניות לא עבדה."
+    "devnote": "1. נוספה פונקציה המאפשרת לך לבחור ישירות תמונת רקע.\n2. נוספה פונקציה המאפשרת לך לבחור ישירות את הגופן.\n3. כעת ניתן לקשר תמונות רקע ופונטים בגיבוי ושחזור.\n4. בעת הפעלת TTS, ניתן להגדיר את זמן ההשהיה עד 20 שניות."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "1. छवि दर्शक रंग व्युत्क्रम फ़ंक्शन जोड़ा गया है।\n2. बैकअप पुनर्प्राप्ति तर्क को संशोधित किया गया है।\n3. उस बग को ठीक किया गया जहां बुकमार्क फ़ंक्शन काम नहीं करता था।"
+    "devnote": "1. आपको सीधे पृष्ठभूमि छवि का चयन करने की अनुमति देने के लिए एक फ़ंक्शन जोड़ा गया है।\n2. आपको सीधे फ़ॉन्ट का चयन करने की अनुमति देने के लिए एक फ़ंक्शन जोड़ा गया है।\n3. बैकग्राउंड इमेज और फॉन्ट को अब बैकअप और रिकवरी में लिंक किया जा सकता है।\n4. टीटीएस खेलते समय देरी का समय 20 सेकंड तक सेट किया जा सकता है।"
   }
 }
