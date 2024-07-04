@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "1. Fixed a bug where font/background image files were displayed in My Library."
+    "devnote": "External libraries have been updated to the latest version."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "1. 내서재에 폰트/배경이미지 파일이 표출되는 버그를 수정 하였습니다."
+    "devnote": "외부 라이브러리를 최신 버전으로 업데이트 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "1. Corrixiuse un erro no que se mostraban ficheiros de imaxe de fonte/fondo en A miña biblioteca."
+    "devnote": "As bibliotecas externas actualizáronse á última versión."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "1. મારી લાઇબ્રેરીમાં ફોન્ટ/બેકગ્રાઉન્ડ ઇમેજ ફાઇલો પ્રદર્શિત થતી હોય ત્યાં બગ ફિક્સ કર્યું."
+    "devnote": "બાહ્ય પુસ્તકાલયોને નવીનતમ સંસ્કરણ પર અપડેટ કરવામાં આવી છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "1. Διορθώθηκε ένα σφάλμα όπου τα αρχεία γραμματοσειράς/εικόνων φόντου εμφανίζονταν στη βιβλιοθήκη μου."
+    "devnote": "Οι εξωτερικές βιβλιοθήκες έχουν ενημερωθεί στην πιο πρόσφατη έκδοση."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "1. Een bug opgelost waarbij lettertype-/achtergrondafbeeldingsbestanden werden weergegeven in Mijn bibliotheek."
+    "devnote": "Externe bibliotheken zijn bijgewerkt naar de nieuwste versie."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "1. मेरो पुस्तकालयमा फन्ट/पृष्ठभूमि छवि फाइलहरू देखाइएको बग फिक्स गरियो।"
+    "devnote": "बाह्य पुस्तकालयहरू नवीनतम संस्करणमा अद्यावधिक गरिएको छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "1. Rettet en feil der font-/bakgrunnsbildefiler ble vist i Mitt bibliotek."
+    "devnote": "Eksterne biblioteker er oppdatert til siste versjon."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "1. Rettede en fejl, hvor skrifttype-/baggrundsbilledfiler blev vist i Mit bibliotek."
+    "devnote": "Eksterne biblioteker er blevet opdateret til den seneste version."
   },
   "독일어": {
     "key": "de",
-    "devnote": "1. Es wurde ein Fehler behoben, bei dem Schriftarten/Hintergrundbilddateien in „Meine Bibliothek“ angezeigt wurden."
+    "devnote": "Externe Bibliotheken wurden auf die neueste Version aktualisiert."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "1. ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ໄຟລ໌ຮູບຕົວອັກສອນ/ພື້ນຫຼັງຖືກສະແດງຢູ່ໃນຫ້ອງສະໝຸດຂອງຂ້ອຍ."
+    "devnote": "ຫ້ອງສະໝຸດພາຍນອກໄດ້ຖືກອັບເດດເປັນເວີຊັນຫຼ້າສຸດແລ້ວ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "1. Novērsta kļūda, kad fontu/fona attēlu faili tika parādīti sadaļā Mana bibliotēka."
+    "devnote": "Ārējās bibliotēkas ir atjauninātas uz jaunāko versiju."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "1. Исправлена ​​ошибка, из-за которой файлы шрифтов/фоновых изображений отображались в «Моей библиотеке»."
+    "devnote": "Внешние библиотеки обновлены до последней версии."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "1. S-a remediat o eroare în care fișierele font/imagine de fundal erau afișate în Biblioteca mea."
+    "devnote": "Bibliotecile externe au fost actualizate la cea mai recentă versiune."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "1. Ištaisyta klaida, kai šrifto / fono vaizdo failai buvo rodomi Mano bibliotekoje."
+    "devnote": "Išorinės bibliotekos buvo atnaujintos į naujausią versiją."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "1. माय लायब्ररीमध्ये फॉन्ट/पार्श्वभूमी प्रतिमा फाइल्स प्रदर्शित केल्या गेलेल्या बगचे निराकरण केले."
+    "devnote": "बाह्य लायब्ररी नवीनतम आवृत्तीमध्ये अद्यतनित केल्या गेल्या आहेत."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "1. Поправена грешка каде што датотеките со слики со фонт/заднина беа прикажани во Моја библиотека."
+    "devnote": "Надворешните библиотеки се ажурирани на најновата верзија."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "1. എൻ്റെ ലൈബ്രറിയിൽ ഫോണ്ട്/പശ്ചാത്തല ഇമേജ് ഫയലുകൾ പ്രദർശിപ്പിച്ചിരിക്കുന്ന ഒരു ബഗ് പരിഹരിച്ചു."
+    "devnote": "എക്‌സ്‌റ്റേണൽ ലൈബ്രറികൾ ഏറ്റവും പുതിയ പതിപ്പിലേക്ക് അപ്‌ഡേറ്റ് ചെയ്‌തു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "1. Memperbaiki pepijat di mana fail imej fon/latar belakang dipaparkan dalam Pustaka Saya."
+    "devnote": "Perpustakaan luaran telah dikemas kini kepada versi terkini."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "1. Миний номын санд фонт/арын зургийн файлууд гарч байсан алдааг зассан."
+    "devnote": "Гадаад номын сангуудыг хамгийн сүүлийн хувилбар болгон шинэчилсэн."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "1. Akats bat konpondu da, non letra-tipo/atzeko irudi-fitxategiak Nire liburutegian bistaratzen ziren."
+    "devnote": "Kanpoko liburutegiak azken bertsiora eguneratu dira."
   },
   "버마어": {
     "key": "my",
-    "devnote": "1. ကျွန်ုပ်၏စာကြည့်တိုက်တွင် ဖောင့်/နောက်ခံပုံဖိုင်များကို ပြသထားသည့် ချို့ယွင်းချက်တစ်ခုကို ပြင်ဆင်ပါ။"
+    "devnote": "ပြင်ပစာကြည့်တိုက်များကို နောက်ဆုံးဗားရှင်းသို့ အပ်ဒိတ်လုပ်ထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "1. Đã sửa lỗi hiển thị tệp phông chữ/hình nền trong Thư viện của tôi."
+    "devnote": "Thư viện bên ngoài đã được cập nhật lên phiên bản mới nhất."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "1. Выпраўлена памылка, з-за якой файлы шрыфтоў/фонавых малюнкаў адлюстроўваліся ў Маёй бібліятэцы."
+    "devnote": "Знешнія бібліятэкі абноўлены да апошняй версіі."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "1. আমার লাইব্রেরিতে ফন্ট/ব্যাকগ্রাউন্ড ইমেজ ফাইলগুলি প্রদর্শিত হয় এমন একটি বাগ সংশোধন করা হয়েছে।"
+    "devnote": "বাহ্যিক লাইব্রেরিগুলি সর্বশেষ সংস্করণে আপডেট করা হয়েছে৷"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "1. Поправена е грешка, при която файловете с шрифтове/фонови изображения се показват в Моята библиотека."
+    "devnote": "Външните библиотеки са актуализирани до най-новата версия."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "1. Исправљена грешка где су датотеке са фонтовима/позадинским сликама биле приказане у Мојој библиотеци."
+    "devnote": "Спољне библиотеке су ажуриране на најновију верзију."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "1. Imerekebisha hitilafu ambapo faili za picha za fonti/chinichini zilionyeshwa kwenye Maktaba Yangu."
+    "devnote": "Maktaba za nje zimesasishwa hadi toleo jipya zaidi."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "1. Fixade en bugg där teckensnitts-/bakgrundsbildfiler visades i Mitt bibliotek."
+    "devnote": "Externa bibliotek har uppdaterats till den senaste versionen."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "1. Se corrigió un error por el cual los archivos de fuente/imagen de fondo se mostraban en Mi biblioteca."
+    "devnote": "Las bibliotecas externas se han actualizado a la última versión."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "1. Opravená chyba, pri ktorej sa v My Library zobrazovali súbory s obrázkami fontov/pozadí."
+    "devnote": "Externé knižnice boli aktualizované na najnovšiu verziu."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "1. Odpravljena je napaka, pri kateri so bile datoteke s pisavami/slikami ozadja prikazane v Moji knjižnici."
+    "devnote": "Zunanje knjižnice so posodobljene na najnovejšo različico."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "1. මගේ පුස්තකාලයේ අකුරු/පසුබිම් රූප ගොනු දර්ශනය වූ දෝෂයක් නිරාකරණය කරන ලදී."
+    "devnote": "බාහිර පුස්තකාල නවතම අනුවාදයට යාවත්කාලීන කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "1. تم إصلاح الخلل حيث تم عرض ملفات صور الخط/الخلفية في مكتبتي."
+    "devnote": "تم تحديث المكتبات الخارجية إلى الإصدار الأحدث."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "1. Ուղղվել է սխալ, որտեղ տառատեսակի/ֆոնային պատկերի ֆայլերը ցուցադրվել են Իմ գրադարանում:"
+    "devnote": "Արտաքին գրադարանները թարմացվել են վերջին տարբերակով:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "1. Lagaði villu þar sem letur-/bakgrunnsmyndaskrár voru sýndar í bókasafninu mínu."
+    "devnote": "Ytri bókasöfn hafa verið uppfærð í nýjustu útgáfuna."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "1. Kitabxanamda şrift/fon şəkli fayllarının göstərildiyi səhv düzəldildi."
+    "devnote": "Xarici kitabxanalar ən son versiyaya yeniləndi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "1. 'n Fout opgelos waar lettertipe-/agtergrondprentlêers in My Biblioteek vertoon is."
+    "devnote": "Eksterne biblioteke is opgedateer na die nuutste weergawe."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "1. Rregulloi një gabim ku skedarët e imazheve të shkronjave/sfondit u shfaqën në Biblioteka ime."
+    "devnote": "Bibliotekat e jashtme janë përditësuar në versionin më të fundit."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "1. በእኔ ቤተ-መጽሐፍት ውስጥ የቅርጸ-ቁምፊ/የጀርባ ምስል ፋይሎች የሚታዩበት ስህተት ተስተካክሏል።"
+    "devnote": "ውጫዊ ቤተ-መጽሐፍቶች ወደ የቅርብ ጊዜው ስሪት ተዘምነዋል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "1. Parandatud viga, mille puhul fondi-/taustapildifailid kuvati jaotises Minu kogu."
+    "devnote": "Välised teegid on värskendatud uusimale versioonile."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "1. میری لائبریری میں فونٹ/بیک گراؤنڈ امیج فائلز دکھائے جانے والے بگ کو ٹھیک کیا گیا۔"
+    "devnote": "بیرونی لائبریریوں کو تازہ ترین ورژن میں اپ ڈیٹ کر دیا گیا ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "1. Виправлено помилку, через яку файли шрифтів/фонових зображень відображалися в «Моїй бібліотеці»."
+    "devnote": "Зовнішні бібліотеки оновлено до останньої версії."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "1. Risolto un bug in cui i file di caratteri/immagini di sfondo venivano visualizzati in La mia libreria."
+    "devnote": "Le librerie esterne sono state aggiornate all'ultima versione."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "1. Memperbaiki bug di mana file font/gambar latar belakang ditampilkan di Perpustakaanku."
+    "devnote": "Perpustakaan eksternal telah diperbarui ke versi terbaru."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "1. マイライブラリにフォント/背景画像ファイルが表示される不具合を修正しました。"
+    "devnote": "外部ライブラリが最新バージョンに更新されました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "1. გამოსწორდა ხარვეზი, როდესაც შრიფტის/ფონის გამოსახულების ფაილები გამოისახებოდა ჩემს ბიბლიოთეკაში."
+    "devnote": "გარე ბიბლიოთეკები განახლებულია უახლესი ვერსიით."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "1. Kulungiswe isiphazamisi lapho amafayela esithombe/isithombe sangemuva ayeboniswa kuMtapo Wami."
+    "devnote": "Imitapo yolwazi yangaphandle ibuyekezelwe enguqulweni yakamuva."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "1.修复了我的库中显示字体/背景图像文件的错误。"
+    "devnote": "外部库已更新至最新版本。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "1.修復了我的庫中顯示字體/背景圖像檔案的錯誤。"
+    "devnote": "外部庫已更新至最新版本。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "1.修復了我的庫中顯示字體/背景圖像檔案的錯誤。"
+    "devnote": "外部庫已更新至最新版本。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "1. Opravena chyba, kdy se soubory s obrázky/fonty/pozadí zobrazovaly v My Library."
+    "devnote": "Externí knihovny byly aktualizovány na nejnovější verzi."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "1. Менің кітапханамда қаріп/фон кескіні файлдары көрсетілетін қате түзетілді."
+    "devnote": "Сыртқы кітапханалар соңғы нұсқаға жаңартылды."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "1. S'ha solucionat un error en què es mostraven fitxers d'imatge de font/fons a La meva biblioteca."
+    "devnote": "Les biblioteques externes s'han actualitzat a la darrera versió."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "1. ನನ್ನ ಲೈಬ್ರರಿಯಲ್ಲಿ ಫಾಂಟ್/ಹಿನ್ನೆಲೆ ಇಮೇಜ್ ಫೈಲ್‌ಗಳನ್ನು ಪ್ರದರ್ಶಿಸಲಾದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "ಬಾಹ್ಯ ಗ್ರಂಥಾಲಯಗಳನ್ನು ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಗೆ ನವೀಕರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "1. Ispravljena je pogreška u kojoj su se datoteke fonta/pozadinske slike prikazivale u My Library."
+    "devnote": "Vanjske biblioteke ažurirane su na najnoviju verziju."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "1. ជួសជុលកំហុសដែលឯកសាររូបភាពពុម្ពអក្សរ/ផ្ទៃខាងក្រោយត្រូវបានបង្ហាញនៅក្នុងបណ្ណាល័យរបស់ខ្ញុំ។"
+    "devnote": "បណ្ណាល័យខាងក្រៅត្រូវបានធ្វើបច្ចុប្បន្នភាពទៅកំណែចុងក្រោយបំផុត។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "1. Менин китепканамда шрифт/фон сүрөтү файлдары көрсөтүлгөн мүчүлүштүк оңдолду."
+    "devnote": "Тышкы китепканалар эң акыркы версияга жаңыртылган."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "1. எனது நூலகத்தில் எழுத்துரு/பின்னணி படக் கோப்புகள் காட்டப்படும் பிழை சரி செய்யப்பட்டது."
+    "devnote": "வெளிப்புற நூலகங்கள் சமீபத்திய பதிப்பிற்கு புதுப்பிக்கப்பட்டுள்ளன."
   },
   "태국어": {
     "key": "th",
-    "devnote": "1. แก้ไขข้อผิดพลาดที่ไฟล์แบบอักษร/พื้นหลังแสดงในห้องสมุดของฉัน"
+    "devnote": "ไลบรารีภายนอกได้รับการอัปเดตเป็นเวอร์ชันล่าสุดแล้ว"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "1. Yazı tipi/arka plan resmi dosyalarının Kitaplığım'da görüntülenmesine neden olan bir hata düzeltildi."
+    "devnote": "Dış kütüphaneler en son sürüme güncellendi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "1. నా లైబ్రరీలో ఫాంట్/బ్యాక్‌గ్రౌండ్ ఇమేజ్ ఫైల్‌లు ప్రదర్శించబడే బగ్ పరిష్కరించబడింది."
+    "devnote": "బాహ్య లైబ్రరీలు తాజా సంస్కరణకు నవీకరించబడ్డాయి."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "1. ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਫੌਂਟ/ਬੈਕਗ੍ਰਾਉਂਡ ਚਿੱਤਰ ਫਾਈਲਾਂ ਪ੍ਰਦਰਸ਼ਿਤ ਹੋਣ ਵਾਲੇ ਬੱਗ ਨੂੰ ਠੀਕ ਕੀਤਾ ਗਿਆ ਹੈ।"
+    "devnote": "ਬਾਹਰੀ ਲਾਇਬ੍ਰੇਰੀਆਂ ਨੂੰ ਨਵੀਨਤਮ ਸੰਸਕਰਣ ਵਿੱਚ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਹੈ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "1. رفع اشکالی که در آن فایل‌های تصویر فونت/پس‌زمینه در My Library نمایش داده می‌شدند."
+    "devnote": "کتابخانه های خارجی به آخرین نسخه به روز شده اند."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "1. Corrigido um bug onde arquivos de fonte/imagem de fundo eram exibidos em Minha Biblioteca."
+    "devnote": "Bibliotecas externas foram atualizadas para a versão mais recente."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "1. Naprawiono błąd powodujący wyświetlanie plików czcionek/obrazów tła w Mojej bibliotece."
+    "devnote": "Biblioteki zewnętrzne zostały zaktualizowane do najnowszej wersji."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "1. Correction d'un bug où les fichiers de polices/images d'arrière-plan étaient affichés dans Ma bibliothèque."
+    "devnote": "Les bibliothèques externes ont été mises à jour vers la dernière version."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "1. Korjattu virhe, jossa kirjasin-/taustakuvatiedostot näytettiin Omassa kirjastossa."
+    "devnote": "Ulkoiset kirjastot on päivitetty uusimpaan versioon."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "1. Inayos ang isang bug kung saan ipinakita ang mga file ng imahe ng font/background sa Aking Library."
+    "devnote": "Ang mga panlabas na aklatan ay na-update sa pinakabagong bersyon."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "1. Kijavítottunk egy hibát, amely miatt a betűtípus-/háttérképfájlok megjelentek a Saját könyvtárban."
+    "devnote": "A külső könyvtárak a legújabb verzióra frissültek."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "1. תיקן באג שבו הוצגו קבצי תמונת גופן/רקע בספרייה שלי."
+    "devnote": "ספריות חיצוניות עודכנו לגרסה האחרונה."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "1. उस बग को ठीक किया गया जहां फ़ॉन्ट/पृष्ठभूमि छवि फ़ाइलें मेरी लाइब्रेरी में प्रदर्शित होती थीं।"
+    "devnote": "बाहरी पुस्तकालयों को नवीनतम संस्करण में अद्यतन किया गया है।"
   }
 }
