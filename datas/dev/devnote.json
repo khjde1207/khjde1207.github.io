@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "External libraries have been updated to the latest version."
+    "devnote": "It has been modified so that multiple pages can be skipped when the volume key is pressed."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "외부 라이브러리를 최신 버전으로 업데이트 하였습니다."
+    "devnote": "볼륨키를 누르고 있을경우 페이지가 여러장 넘어가도록 수정하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "As bibliotecas externas actualizáronse á última versión."
+    "devnote": "Modificouse para que se poidan saltar varias páxinas cando se preme a tecla de volume."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "બાહ્ય પુસ્તકાલયોને નવીનતમ સંસ્કરણ પર અપડેટ કરવામાં આવી છે."
+    "devnote": "તેમાં ફેરફાર કરવામાં આવ્યો છે જેથી જ્યારે વોલ્યુમ કી દબાવવામાં આવે ત્યારે બહુવિધ પૃષ્ઠોને છોડી શકાય."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "Οι εξωτερικές βιβλιοθήκες έχουν ενημερωθεί στην πιο πρόσφατη έκδοση."
+    "devnote": "Έχει τροποποιηθεί έτσι ώστε να μπορούν να παραβλεφθούν πολλές σελίδες όταν πατηθεί το πλήκτρο έντασης."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "Externe bibliotheken zijn bijgewerkt naar de nieuwste versie."
+    "devnote": "Het is aangepast zodat meerdere pagina's kunnen worden overgeslagen wanneer de volumetoets wordt ingedrukt."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "बाह्य पुस्तकालयहरू नवीनतम संस्करणमा अद्यावधिक गरिएको छ।"
+    "devnote": "यो परिमार्जन गरिएको छ ताकि भोल्युम कुञ्जी थिच्दा धेरै पृष्ठहरू छोड्न सकिन्छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "Eksterne biblioteker er oppdatert til siste versjon."
+    "devnote": "Den er endret slik at flere sider kan hoppes over når volumtasten trykkes."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "Eksterne biblioteker er blevet opdateret til den seneste version."
+    "devnote": "Den er blevet ændret, så flere sider kan springes over, når der trykkes på lydstyrketasten."
   },
   "독일어": {
     "key": "de",
-    "devnote": "Externe Bibliotheken wurden auf die neueste Version aktualisiert."
+    "devnote": "Es wurde so geändert, dass mehrere Seiten übersprungen werden können, wenn die Lautstärketaste gedrückt wird."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "ຫ້ອງສະໝຸດພາຍນອກໄດ້ຖືກອັບເດດເປັນເວີຊັນຫຼ້າສຸດແລ້ວ."
+    "devnote": "ມັນໄດ້ຖືກດັດແກ້ເພື່ອໃຫ້ຫຼາຍຫນ້າສາມາດຂ້າມໄດ້ເມື່ອກົດປຸ່ມລະດັບສຽງຖືກກົດ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "Ārējās bibliotēkas ir atjauninātas uz jaunāko versiju."
+    "devnote": "Tas ir pārveidots, lai, nospiežot skaļuma taustiņu, varētu izlaist vairākas lapas."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "Внешние библиотеки обновлены до последней версии."
+    "devnote": "Он был изменен таким образом, чтобы при нажатии клавиши громкости можно было пропускать несколько страниц."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "Bibliotecile externe au fost actualizate la cea mai recentă versiune."
+    "devnote": "A fost modificat astfel încât mai multe pagini să poată fi sărite atunci când este apăsată tasta de volum."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "Išorinės bibliotekos buvo atnaujintos į naujausią versiją."
+    "devnote": "Jis buvo pakeistas taip, kad paspaudus garsumo klavišą būtų galima praleisti kelis puslapius."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "बाह्य लायब्ररी नवीनतम आवृत्तीमध्ये अद्यतनित केल्या गेल्या आहेत."
+    "devnote": "व्हॉल्यूम की दाबल्यावर एकापेक्षा जास्त पृष्ठे वगळली जाऊ शकतात म्हणून हे सुधारित केले आहे."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "Надворешните библиотеки се ажурирани на најновата верзија."
+    "devnote": "Тој е изменет така што може да се прескокнат повеќе страници кога ќе се притисне копчето за јачина на звук."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "എക്‌സ്‌റ്റേണൽ ലൈബ്രറികൾ ഏറ്റവും പുതിയ പതിപ്പിലേക്ക് അപ്‌ഡേറ്റ് ചെയ്‌തു."
+    "devnote": "വോളിയം കീ അമർത്തുമ്പോൾ ഒന്നിലധികം പേജുകൾ ഒഴിവാക്കാനാകുന്ന തരത്തിൽ ഇത് പരിഷ്‌ക്കരിച്ചിരിക്കുന്നു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "Perpustakaan luaran telah dikemas kini kepada versi terkini."
+    "devnote": "Ia telah diubah suai supaya berbilang halaman boleh dilangkau apabila kekunci kelantangan ditekan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "Гадаад номын сангуудыг хамгийн сүүлийн хувилбар болгон шинэчилсэн."
+    "devnote": "Дууны түвшний товчлуурыг дарахад олон хуудсыг алгасах боломжтой болгож өөрчилсөн."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "Kanpoko liburutegiak azken bertsiora eguneratu dira."
+    "devnote": "Bolumen-tekla sakatzean hainbat orrialde saltatu ahal izateko aldatu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "ပြင်ပစာကြည့်တိုက်များကို နောက်ဆုံးဗားရှင်းသို့ အပ်ဒိတ်လုပ်ထားသည်။"
+    "devnote": "အသံအတိုးအကျယ်ခလုတ်ကို နှိပ်သည့်အခါ စာမျက်နှာများစွာကို ကျော်သွားနိုင်စေရန် ၎င်းကို ပြုပြင်ထားပါသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "Thư viện bên ngoài đã được cập nhật lên phiên bản mới nhất."
+    "devnote": "Nó đã được sửa đổi để có thể bỏ qua nhiều trang khi nhấn phím âm lượng."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "Знешнія бібліятэкі абноўлены да апошняй версіі."
+    "devnote": "Ён быў зменены так, што можна прапускаць некалькі старонак пры націску клавішы гучнасці."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "বাহ্যিক লাইব্রেরিগুলি সর্বশেষ সংস্করণে আপডেট করা হয়েছে৷"
+    "devnote": "এটি পরিবর্তন করা হয়েছে যাতে ভলিউম কী চাপলে একাধিক পৃষ্ঠা বাদ দেওয়া যায়।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "Външните библиотеки са актуализирани до най-новата версия."
+    "devnote": "Той е модифициран, така че да могат да се пропускат няколко страници при натискане на клавиша за сила на звука."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "Спољне библиотеке су ажуриране на најновију верзију."
+    "devnote": "Модификован је тако да се више страница може прескочити када се притисне тастер за јачину звука."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "Maktaba za nje zimesasishwa hadi toleo jipya zaidi."
+    "devnote": "Imerekebishwa ili kurasa nyingi zirukwe wakati ufunguo wa sauti unapobonyezwa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "Externa bibliotek har uppdaterats till den senaste versionen."
+    "devnote": "Den har ändrats så att flera sidor kan hoppas över när volymknappen trycks ned."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "Las bibliotecas externas se han actualizado a la última versión."
+    "devnote": "Se ha modificado para que se puedan omitir varias páginas cuando se presiona la tecla de volumen."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "Externé knižnice boli aktualizované na najnovšiu verziu."
+    "devnote": "Bol upravený tak, aby bolo možné po stlačení tlačidla hlasitosti preskočiť viacero strán."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "Zunanje knjižnice so posodobljene na najnovejšo različico."
+    "devnote": "Spremenjen je tako, da je mogoče preskočiti več strani, ko pritisnete tipko za glasnost."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "බාහිර පුස්තකාල නවතම අනුවාදයට යාවත්කාලීන කර ඇත."
+    "devnote": "පරිමාව යතුර එබූ විට පිටු කිහිපයක් මඟ හැරිය හැකි පරිදි එය වෙනස් කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "تم تحديث المكتبات الخارجية إلى الإصدار الأحدث."
+    "devnote": "تم تعديله بحيث يمكن تخطي صفحات متعددة عند الضغط على مفتاح الصوت."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "Արտաքին գրադարանները թարմացվել են վերջին տարբերակով:"
+    "devnote": "Այն փոփոխվել է այնպես, որ ձայնի ձայնի կոճակը սեղմելիս հնարավոր լինի բաց թողնել մի քանի էջ:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "Ytri bókasöfn hafa verið uppfærð í nýjustu útgáfuna."
+    "devnote": "Það hefur verið breytt þannig að hægt er að sleppa mörgum síðum þegar ýtt er á hljóðstyrkstakkann."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "Xarici kitabxanalar ən son versiyaya yeniləndi."
+    "devnote": "Səs səviyyəsi düyməsi basıldıqda birdən çox səhifəni atlaya bilməsi üçün dəyişdirildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "Eksterne biblioteke is opgedateer na die nuutste weergawe."
+    "devnote": "Dit is gewysig sodat verskeie bladsye oorgeslaan kan word wanneer die volume-sleutel gedruk word."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "Bibliotekat e jashtme janë përditësuar në versionin më të fundit."
+    "devnote": "Është modifikuar në mënyrë që disa faqe të mund të anashkalohen kur shtypet tasti i volumit."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "ውጫዊ ቤተ-መጽሐፍቶች ወደ የቅርብ ጊዜው ስሪት ተዘምነዋል።"
+    "devnote": "የድምጽ ቁልፉ ሲጫን ብዙ ገጾች እንዲዘለሉ ተስተካክሏል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "Välised teegid on värskendatud uusimale versioonile."
+    "devnote": "Seda on muudetud nii, et helitugevusnupu vajutamisel saab mitu lehekülge vahele jätta."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "بیرونی لائبریریوں کو تازہ ترین ورژن میں اپ ڈیٹ کر دیا گیا ہے۔"
+    "devnote": "اس میں ترمیم کی گئی ہے تاکہ والیوم کی کو دبانے پر متعدد صفحات کو چھوڑا جا سکے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "Зовнішні бібліотеки оновлено до останньої версії."
+    "devnote": "Його було змінено, щоб можна було пропускати кілька сторінок, коли натискається клавіша гучності."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "Le librerie esterne sono state aggiornate all'ultima versione."
+    "devnote": "È stato modificato in modo che sia possibile saltare più pagine quando si preme il tasto del volume."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "Perpustakaan eksternal telah diperbarui ke versi terbaru."
+    "devnote": "Ini telah dimodifikasi sehingga beberapa halaman dapat dilewati ketika tombol volume ditekan."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "外部ライブラリが最新バージョンに更新されました。"
+    "devnote": "音量キーを押すと複数ページをスキップできるように修正されました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "გარე ბიბლიოთეკები განახლებულია უახლესი ვერსიით."
+    "devnote": "ის შეიცვალა ისე, რომ ხმის ღილაკის დაჭერისას მრავალი გვერდის გამოტოვება შეიძლება."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "Imitapo yolwazi yangaphandle ibuyekezelwe enguqulweni yakamuva."
+    "devnote": "Ishintshiwe ukuze amakhasi amaningi eqiwe lapho ukhiye wevolumu ucindezelwa."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "外部库已更新至最新版本。"
+    "devnote": "已对其进行修改，以便按下音量键时可以跳过多个页面。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "外部庫已更新至最新版本。"
+    "devnote": "已對其進行修改，以便按下音量鍵時可以跳過多個頁面。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "外部庫已更新至最新版本。"
+    "devnote": "已對其進行修改，以便按下音量鍵時可以跳過多個頁面。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "Externí knihovny byly aktualizovány na nejnovější verzi."
+    "devnote": "Byl upraven tak, aby bylo možné přeskočit více stránek při stisknutí tlačítka hlasitosti."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "Сыртқы кітапханалар соңғы нұсқаға жаңартылды."
+    "devnote": "Ол дыбыс деңгейі пернесі басылғанда бірнеше бетті өткізіп жіберуге болатындай өзгертілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "Les biblioteques externes s'han actualitzat a la darrera versió."
+    "devnote": "S'ha modificat perquè es puguin saltar diverses pàgines quan es prem la tecla de volum."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "ಬಾಹ್ಯ ಗ್ರಂಥಾಲಯಗಳನ್ನು ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಗೆ ನವೀಕರಿಸಲಾಗಿದೆ."
+    "devnote": "ವಾಲ್ಯೂಮ್ ಕೀಲಿಯನ್ನು ಒತ್ತಿದಾಗ ಬಹು ಪುಟಗಳನ್ನು ಬಿಟ್ಟುಬಿಡುವಂತೆ ಇದನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "Vanjske biblioteke ažurirane su na najnoviju verziju."
+    "devnote": "Modificiran je tako da se može preskočiti više stranica kada se pritisne tipka za glasnoću."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "បណ្ណាល័យខាងក្រៅត្រូវបានធ្វើបច្ចុប្បន្នភាពទៅកំណែចុងក្រោយបំផុត។"
+    "devnote": "វា​ត្រូវ​បាន​កែប្រែ ដូច្នេះ​ទំព័រ​ច្រើន​អាច​ត្រូវ​បាន​រំលង​ពេល​ចុច​គ្រាប់ចុច​កម្រិត​សំឡេង។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "Тышкы китепканалар эң акыркы версияга жаңыртылган."
+    "devnote": "Бул үн баскычын басканда бир нече баракты өткөрүп жиберүү үчүн өзгөртүлгөн."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "வெளிப்புற நூலகங்கள் சமீபத்திய பதிப்பிற்கு புதுப்பிக்கப்பட்டுள்ளன."
+    "devnote": "தொகுதி விசையை அழுத்தும் போது பல பக்கங்கள் தவிர்க்கப்படும் வகையில் இது மாற்றியமைக்கப்பட்டுள்ளது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "ไลบรารีภายนอกได้รับการอัปเดตเป็นเวอร์ชันล่าสุดแล้ว"
+    "devnote": "ได้รับการแก้ไขเพื่อให้สามารถข้ามหลายหน้าได้เมื่อกดปุ่มปรับระดับเสียง"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "Dış kütüphaneler en son sürüme güncellendi."
+    "devnote": "Ses tuşuna basıldığında birden fazla sayfanın atlanabileceği şekilde değiştirildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "బాహ్య లైబ్రరీలు తాజా సంస్కరణకు నవీకరించబడ్డాయి."
+    "devnote": "వాల్యూమ్ కీని నొక్కినప్పుడు బహుళ పేజీలు దాటవేయబడేలా ఇది సవరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "ਬਾਹਰੀ ਲਾਇਬ੍ਰੇਰੀਆਂ ਨੂੰ ਨਵੀਨਤਮ ਸੰਸਕਰਣ ਵਿੱਚ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਹੈ।"
+    "devnote": "ਇਸ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ ਤਾਂ ਕਿ ਵਾਲੀਅਮ ਕੁੰਜੀ ਦਬਾਉਣ 'ਤੇ ਕਈ ਪੰਨਿਆਂ ਨੂੰ ਛੱਡਿਆ ਜਾ ਸਕੇ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "کتابخانه های خارجی به آخرین نسخه به روز شده اند."
+    "devnote": "تغییر داده شده است به طوری که می توان چندین صفحه را با فشار دادن کلید صدا رد کرد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "Bibliotecas externas foram atualizadas para a versão mais recente."
+    "devnote": "Ele foi modificado para que várias páginas possam ser ignoradas quando a tecla de volume for pressionada."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "Biblioteki zewnętrzne zostały zaktualizowane do najnowszej wersji."
+    "devnote": "Został on zmodyfikowany w taki sposób, że po naciśnięciu klawisza głośności można pominąć wiele stron."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "Les bibliothèques externes ont été mises à jour vers la dernière version."
+    "devnote": "Il a été modifié afin que plusieurs pages puissent être ignorées lorsque la touche de volume est enfoncée."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "Ulkoiset kirjastot on päivitetty uusimpaan versioon."
+    "devnote": "Sitä on muokattu niin, että useita sivuja voidaan ohittaa, kun äänenvoimakkuusnäppäintä painetaan."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "Ang mga panlabas na aklatan ay na-update sa pinakabagong bersyon."
+    "devnote": "Ito ay binago upang ang maramihang mga pahina ay maaaring laktawan kapag pinindot ang volume key."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "A külső könyvtárak a legújabb verzióra frissültek."
+    "devnote": "Módosították, így több oldalt ki lehet ugrani a hangerőszabályzó gomb megnyomásakor."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "ספריות חיצוניות עודכנו לגרסה האחרונה."
+    "devnote": "הוא שונה כך שניתן לדלג על מספר עמודים בעת לחיצה על מקש עוצמת הקול."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "बाहरी पुस्तकालयों को नवीनतम संस्करण में अद्यतन किया गया है।"
+    "devnote": "इसे संशोधित किया गया है ताकि वॉल्यूम कुंजी दबाए जाने पर कई पृष्ठों को छोड़ा जा सके।"
   }
 }
