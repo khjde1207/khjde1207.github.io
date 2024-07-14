@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "It has been modified so that multiple pages can be skipped when the volume key is pressed."
+    "devnote": "Fixed an issue where there was an error in coordinate calculation when the left and right images were combined.\nFixed a TTS playback bug when two images, left and right, were combined."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "볼륨키를 누르고 있을경우 페이지가 여러장 넘어가도록 수정하였습니다."
+    "devnote": "이미지가 좌,우 두장이 합쳐져 있는경우, 좌표계산에 오류가 있던 현상을 수정 하였습니다. \n이미지가 좌,우 두장이 합쳐져 있는경우, TTS 재생 버그를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "Modificouse para que se poidan saltar varias páxinas cando se preme a tecla de volume."
+    "devnote": "Solucionouse un problema no que se producía un erro no cálculo de coordenadas cando se combinaban as imaxes da esquerda e da dereita.\nCorrixiuse un erro de reprodución de TTS cando se combinaban dúas imaxes, esquerda e dereita."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "તેમાં ફેરફાર કરવામાં આવ્યો છે જેથી જ્યારે વોલ્યુમ કી દબાવવામાં આવે ત્યારે બહુવિધ પૃષ્ઠોને છોડી શકાય."
+    "devnote": "જ્યારે ડાબી અને જમણી છબીઓ જોડવામાં આવી હતી ત્યારે સંકલન ગણતરીમાં ભૂલ હતી તે સમસ્યાને ઠીક કરી.\nજ્યારે બે છબીઓ, ડાબે અને જમણે, સંયુક્ત કરવામાં આવી ત્યારે TTS પ્લેબેક બગને ઠીક કર્યો."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "Έχει τροποποιηθεί έτσι ώστε να μπορούν να παραβλεφθούν πολλές σελίδες όταν πατηθεί το πλήκτρο έντασης."
+    "devnote": "Διορθώθηκε ένα πρόβλημα όπου παρουσιάστηκε σφάλμα στον υπολογισμό των συντεταγμένων κατά τον συνδυασμό της αριστερής και της δεξιάς εικόνας.\nΔιορθώθηκε ένα σφάλμα αναπαραγωγής TTS όταν συνδυάστηκαν δύο εικόνες, αριστερά και δεξιά."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "Het is aangepast zodat meerdere pagina's kunnen worden overgeslagen wanneer de volumetoets wordt ingedrukt."
+    "devnote": "Er is een probleem opgelost waarbij er een fout optrad bij de coördinatenberekening wanneer de linker- en rechterafbeeldingen werden gecombineerd.\nEen probleem met het afspelen van TTS opgelost toen twee afbeeldingen, links en rechts, werden gecombineerd."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "यो परिमार्जन गरिएको छ ताकि भोल्युम कुञ्जी थिच्दा धेरै पृष्ठहरू छोड्न सकिन्छ।"
+    "devnote": "बायाँ र दायाँ छविहरू संयोजन गर्दा समन्वय गणनामा त्रुटि भएको समस्या समाधान गरियो।\nTTS प्लेब्याक बग फिक्स गरियो जब दुई तस्बिरहरू, बायाँ र दायाँ, संयुक्त थिए।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "Den er endret slik at flere sider kan hoppes over når volumtasten trykkes."
+    "devnote": "Rettet et problem der det var en feil i koordinatberegningen når venstre og høyre bilde ble kombinert.\nRettet en TTS-avspillingsfeil da to bilder, venstre og høyre, ble kombinert."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "Den er blevet ændret, så flere sider kan springes over, når der trykkes på lydstyrketasten."
+    "devnote": "Rettede et problem, hvor der var en fejl i koordinatberegningen, da venstre og højre billede blev kombineret.\nRettede en TTS-afspilningsfejl, da to billeder, venstre og højre, blev kombineret."
   },
   "독일어": {
     "key": "de",
-    "devnote": "Es wurde so geändert, dass mehrere Seiten übersprungen werden können, wenn die Lautstärketaste gedrückt wird."
+    "devnote": "Es wurde ein Problem behoben, bei dem es bei der Kombination der linken und rechten Bilder zu einem Fehler bei der Koordinatenberechnung kam.\nEs wurde ein TTS-Wiedergabefehler behoben, der auftrat, wenn zwei Bilder, links und rechts, kombiniert wurden."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "ມັນໄດ້ຖືກດັດແກ້ເພື່ອໃຫ້ຫຼາຍຫນ້າສາມາດຂ້າມໄດ້ເມື່ອກົດປຸ່ມລະດັບສຽງຖືກກົດ."
+    "devnote": "ແກ້ໄຂບັນຫາບ່ອນທີ່ມີຄວາມຜິດພາດໃນການຄິດໄລ່ປະສານງານໃນເວລາທີ່ຮູບພາບຊ້າຍແລະຂວາຖືກລວມເຂົ້າກັນ.\nແກ້ໄຂຂໍ້ຜິດພາດການຫຼິ້ນ TTS ເມື່ອສອງຮູບ, ຊ້າຍ ແລະຂວາຖືກລວມເຂົ້າກັນ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "Tas ir pārveidots, lai, nospiežot skaļuma taustiņu, varētu izlaist vairākas lapas."
+    "devnote": "Novērsta problēma, kuras dēļ, apvienojot kreiso un labo attēlu, radās kļūda koordinātu aprēķinā.\nIzlabota TTS atskaņošanas kļūda, kad tika apvienoti divi attēli, pa kreisi un pa labi."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "Он был изменен таким образом, чтобы при нажатии клавиши громкости можно было пропускать несколько страниц."
+    "devnote": "Исправлена ​​ошибка, из-за которой возникала ошибка в расчете координат при объединении левого и правого изображений.\nИсправлена ​​ошибка воспроизведения TTS при объединении двух изображений, левого и правого."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "A fost modificat astfel încât mai multe pagini să poată fi sărite atunci când este apăsată tasta de volum."
+    "devnote": "S-a rezolvat o problemă în care a existat o eroare în calcularea coordonatelor când imaginile din stânga și din dreapta au fost combinate.\nS-a remediat o eroare de redare TTS când două imagini, stânga și dreapta, erau combinate."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "Jis buvo pakeistas taip, kad paspaudus garsumo klavišą būtų galima praleisti kelis puslapius."
+    "devnote": "Ištaisyta problema, kai sujungus kairįjį ir dešinįjį vaizdus įvyko koordinačių skaičiavimo klaida.\nIštaisyta TTS atkūrimo klaida, kai buvo sujungti du vaizdai, kairysis ir dešinysis."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "व्हॉल्यूम की दाबल्यावर एकापेक्षा जास्त पृष्ठे वगळली जाऊ शकतात म्हणून हे सुधारित केले आहे."
+    "devnote": "जेव्हा डाव्या आणि उजव्या प्रतिमा एकत्र केल्या गेल्या तेव्हा समन्वय मोजणीमध्ये त्रुटी आली असेल अशा समस्येचे निराकरण केले.\nडाव्या आणि उजव्या, दोन प्रतिमा एकत्रित केल्यावर TTS प्लेबॅक बगचे निराकरण केले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "Тој е изменет така што може да се прескокнат повеќе страници кога ќе се притисне копчето за јачина на звук."
+    "devnote": "Поправен проблем каде што имаше грешка во пресметката на координатите кога се комбинираа левата и десната слика.\nПоправена грешка при репродукција на TTS кога две слики, лево и десно, беа комбинирани."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "വോളിയം കീ അമർത്തുമ്പോൾ ഒന്നിലധികം പേജുകൾ ഒഴിവാക്കാനാകുന്ന തരത്തിൽ ഇത് പരിഷ്‌ക്കരിച്ചിരിക്കുന്നു."
+    "devnote": "ഇടത്, വലത് ചിത്രങ്ങൾ സംയോജിപ്പിച്ചപ്പോൾ കോർഡിനേറ്റ് കണക്കുകൂട്ടലിൽ പിശകുണ്ടായ ഒരു പ്രശ്നം പരിഹരിച്ചു.\nഇടത്തും വലത്തും രണ്ട് ചിത്രങ്ങൾ കൂടിച്ചേർന്നപ്പോൾ ഒരു ടിടിഎസ് പ്ലേബാക്ക് ബഗ് പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "Ia telah diubah suai supaya berbilang halaman boleh dilangkau apabila kekunci kelantangan ditekan."
+    "devnote": "Memperbaiki isu yang terdapat ralat dalam pengiraan koordinat apabila imej kiri dan kanan digabungkan.\nMemperbaiki pepijat main balik TTS apabila dua imej, kiri dan kanan, digabungkan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "Дууны түвшний товчлуурыг дарахад олон хуудсыг алгасах боломжтой болгож өөрчилсөн."
+    "devnote": "Зүүн болон баруун зургийг нэгтгэх үед координатыг тооцоолоход алдаа гарсан асуудлыг зассан.\nЗүүн ба баруун хоёр зургийг нэгтгэх үед TTS тоглуулах алдааг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "Bolumen-tekla sakatzean hainbat orrialde saltatu ahal izateko aldatu da."
+    "devnote": "Ezkerreko eta eskuineko irudiak konbinatzean koordenatuen kalkuluan errore bat zegoen arazo bat konpondu da.\nTTS erreprodukzio akats bat konpondu da bi irudi, ezkerreko eta eskuineko, konbinatzen zirenean."
   },
   "버마어": {
     "key": "my",
-    "devnote": "အသံအတိုးအကျယ်ခလုတ်ကို နှိပ်သည့်အခါ စာမျက်နှာများစွာကို ကျော်သွားနိုင်စေရန် ၎င်းကို ပြုပြင်ထားပါသည်။"
+    "devnote": "ဘယ်နှင့်ညာပုံများကို ပေါင်းစပ်လိုက်သောအခါ သြဒီနိတ်တွက်ချက်ရာတွင် အမှားအယွင်းရှိနေသည့် ပြဿနာကို ဖြေရှင်းခဲ့သည်။\nပုံနှစ်ပုံ၊ ဘယ်နှင့်ညာ ပေါင်းစပ်သောအခါ TTS ပြန်ဖွင့်သည့် ချို့ယွင်းချက်ကို ပြင်သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "Nó đã được sửa đổi để có thể bỏ qua nhiều trang khi nhấn phím âm lượng."
+    "devnote": "Đã khắc phục sự cố xảy ra lỗi trong tính toán tọa độ khi kết hợp hình ảnh bên trái và bên phải.\nĐã sửa lỗi phát lại TTS khi hai hình ảnh trái và phải được kết hợp."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "Ён быў зменены так, што можна прапускаць некалькі старонак пры націску клавішы гучнасці."
+    "devnote": "Выпраўлена праблема, з-за якой узнікала памылка ў вылічэнні каардынатаў пры аб'яднанні левага і правага малюнкаў.\nВыпраўлена памылка прайгравання TTS, калі дзве выявы, левая і правая, былі аб'яднаны."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "এটি পরিবর্তন করা হয়েছে যাতে ভলিউম কী চাপলে একাধিক পৃষ্ঠা বাদ দেওয়া যায়।"
+    "devnote": "একটি সমস্যা সমাধান করা হয়েছে যেখানে বাম এবং ডান চিত্রগুলিকে একত্রিত করার সময় স্থানাঙ্ক গণনায় একটি ত্রুটি ছিল৷\nএকটি TTS প্লেব্যাক বাগ সংশোধন করা হয়েছে যখন দুটি ছবি, বাম এবং ডানে, একত্রিত হয়৷"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "Той е модифициран, така че да могат да се пропускат няколко страници при натискане на клавиша за сила на звука."
+    "devnote": "Коригиран проблем, при който имаше грешка в изчисляването на координатите, когато лявото и дясното изображение бяха комбинирани.\nКоригирана грешка при възпроизвеждане на TTS, когато две изображения, ляво и дясно, бяха комбинирани."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "Модификован је тако да се више страница може прескочити када се притисне тастер за јачину звука."
+    "devnote": "Решен је проблем где је дошло до грешке у израчунавању координата када су лева и десна слика комбиноване.\nИсправљена је грешка у ТТС репродукцији када су две слике, лева и десна, комбиноване."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "Imerekebishwa ili kurasa nyingi zirukwe wakati ufunguo wa sauti unapobonyezwa."
+    "devnote": "Imesuluhisha suala ambapo kulikuwa na hitilafu katika kuhesabu kuratibu wakati picha za kushoto na kulia ziliunganishwa.\nIlirekebisha hitilafu ya uchezaji ya TTS wakati picha mbili, kushoto na kulia, ziliunganishwa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "Den har ändrats så att flera sidor kan hoppas över när volymknappen trycks ned."
+    "devnote": "Fixade ett problem där det uppstod ett fel i koordinatberäkningen när vänster och höger bilder kombinerades.\nFixade ett TTS-uppspelningsfel när två bilder, vänster och höger, kombinerades."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "Se ha modificado para que se puedan omitir varias páginas cuando se presiona la tecla de volumen."
+    "devnote": "Se solucionó un problema por el cual había un error en el cálculo de coordenadas cuando se combinaban las imágenes izquierda y derecha.\nSe corrigió un error de reproducción TTS cuando se combinaban dos imágenes, izquierda y derecha."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "Bol upravený tak, aby bolo možné po stlačení tlačidla hlasitosti preskočiť viacero strán."
+    "devnote": "Opravený problém, kedy sa vyskytla chyba vo výpočte súradníc, keď sa spojil ľavý a pravý obrázok.\nOpravená chyba prehrávania TTS, keď sa spojili dva obrázky, ľavý a pravý."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "Spremenjen je tako, da je mogoče preskočiti več strani, ko pritisnete tipko za glasnost."
+    "devnote": "Odpravljena je težava, pri kateri je prišlo do napake pri izračunu koordinat, ko sta bili levi in ​​desni sliki združeni.\nOdpravljena napaka pri predvajanju TTS, ko sta bili združeni dve sliki, leva in desna."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "පරිමාව යතුර එබූ විට පිටු කිහිපයක් මඟ හැරිය හැකි පරිදි එය වෙනස් කර ඇත."
+    "devnote": "වම් සහ දකුණු රූප ඒකාබද්ධ කළ විට ඛණ්ඩාංක ගණනය කිරීමේදී දෝෂයක් ඇති වූ ගැටලුවක් විසඳා ඇත.\nවම් සහ දකුණ යන පින්තූර දෙකක් ඒකාබද්ධ කළ විට TTS ප්ලේබැක් දෝෂයක් නිරාකරණය කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "تم تعديله بحيث يمكن تخطي صفحات متعددة عند الضغط على مفتاح الصوت."
+    "devnote": "تم إصلاح مشكلة حدوث خطأ في حساب الإحداثيات عند دمج الصور اليمنى واليسرى.\nتم إصلاح خطأ تشغيل تحويل النص إلى كلام (TTS) عند دمج صورتين، اليسار واليمين،."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "Այն փոփոխվել է այնպես, որ ձայնի ձայնի կոճակը սեղմելիս հնարավոր լինի բաց թողնել մի քանի էջ:"
+    "devnote": "Շտկվել է խնդիրը, երբ կոորդինատների հաշվարկման սխալ է եղել, երբ ձախ և աջ պատկերները համակցվել են:\nՈւղղվել է TTS նվագարկման սխալը, երբ երկու պատկեր՝ ձախ և աջ, միավորվել են:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "Það hefur verið breytt þannig að hægt er að sleppa mörgum síðum þegar ýtt er á hljóðstyrkstakkann."
+    "devnote": "Lagaði vandamál þar sem villa kom upp í hnitreikningi þegar vinstri og hægri myndirnar voru sameinaðar.\nLagaði TTS spilunarvillu þegar tvær myndir, vinstri og hægri, voru sameinaðar."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "Səs səviyyəsi düyməsi basıldıqda birdən çox səhifəni atlaya bilməsi üçün dəyişdirildi."
+    "devnote": "Sol və sağ şəkillər birləşdirilərkən koordinatların hesablanmasında xəta ilə bağlı problem həll edildi.\nSol və sağ iki şəkil birləşdirildikdə TTS oxutma səhvi düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "Dit is gewysig sodat verskeie bladsye oorgeslaan kan word wanneer die volume-sleutel gedruk word."
+    "devnote": "'n Probleem opgelos waar daar 'n fout in koördinaatberekening was toe die linker- en regterbeelde gekombineer is.\n'n TTS-terugspeelfout opgelos toe twee beelde, links en regs, gekombineer is."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "Është modifikuar në mënyrë që disa faqe të mund të anashkalohen kur shtypet tasti i volumit."
+    "devnote": "Rregulloi një problem ku kishte një gabim në llogaritjen e koordinatave kur u kombinuan imazhet majtas dhe djathtas.\nRregulloi një defekt në luajtje TTS kur dy imazhe, majtas dhe djathtas, u kombinuan."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "የድምጽ ቁልፉ ሲጫን ብዙ ገጾች እንዲዘለሉ ተስተካክሏል."
+    "devnote": "የግራ እና የቀኝ ምስሎች ሲጣመሩ በማስተባበር ስሌት ላይ ስህተት የተፈጠረ ችግር ተጠግኗል።\nሁለት ምስሎች ግራ እና ቀኝ ሲጣመሩ የTTS መልሶ ማጫወት ስህተት ተስተካክሏል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "Seda on muudetud nii, et helitugevusnupu vajutamisel saab mitu lehekülge vahele jätta."
+    "devnote": "Lahendatud on probleem, mille korral vasaku ja parema pildi kombineerimisel ilmnes koordinaatide arvutamisel viga.\nParandatud on TTS-i taasesitusviga, kui kombineeriti kaks pilti, vasak ja parem."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "اس میں ترمیم کی گئی ہے تاکہ والیوم کی کو دبانے پر متعدد صفحات کو چھوڑا جا سکے۔"
+    "devnote": "بائیں اور دائیں تصاویر کو یکجا کرنے پر کوآرڈینیٹ کیلکولیشن میں خرابی کی صورت میں ایک مسئلہ حل کیا گیا۔\nجب دو تصاویر، بائیں اور دائیں، کو ملایا گیا تو TTS پلے بیک بگ کو ٹھیک کیا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "Його було змінено, щоб можна було пропускати кілька сторінок, коли натискається клавіша гучності."
+    "devnote": "Виправлено проблему, через яку виникала помилка в обчисленні координат, коли ліве та праве зображення об’єднувалися.\nВиправлено помилку відтворення TTS, коли два зображення, ліворуч і праворуч, поєднувалися."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "È stato modificato in modo che sia possibile saltare più pagine quando si preme il tasto del volume."
+    "devnote": "Risolto un problema per cui si verificava un errore nel calcolo delle coordinate quando venivano combinate le immagini sinistra e destra.\nRisolto un bug di riproduzione TTS quando due immagini, sinistra e destra, venivano combinate."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "Ini telah dimodifikasi sehingga beberapa halaman dapat dilewati ketika tombol volume ditekan."
+    "devnote": "Memperbaiki masalah ketika terjadi kesalahan dalam penghitungan koordinat saat gambar kiri dan kanan digabungkan.\nMemperbaiki bug pemutaran TTS ketika dua gambar, kiri dan kanan, digabungkan."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "音量キーを押すと複数ページをスキップできるように修正されました。"
+    "devnote": "左右の画像を合成した際に座標計算に誤りがあった問題を修正しました。\n左右 2 つの画像を結合した場合の TTS 再生のバグを修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "ის შეიცვალა ისე, რომ ხმის ღილაკის დაჭერისას მრავალი გვერდის გამოტოვება შეიძლება."
+    "devnote": "დაფიქსირდა პრობლემა, როდესაც იყო შეცდომა კოორდინატთა გამოთვლაში მარცხენა და მარჯვენა სურათების გაერთიანებისას.\nდაფიქსირდა TTS დაკვრის ხარვეზი, როდესაც ორი სურათი, მარცხენა და მარჯვენა, იყო გაერთიანებული."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "Ishintshiwe ukuze amakhasi amaningi eqiwe lapho ukhiye wevolumu ucindezelwa."
+    "devnote": "Kulungiswe inkinga lapho kube nephutha ekubalweni kokudidiyela lapho kuhlanganiswe izithombe ezingakwesokunxele nesokudla.\nKulungiswe iphutha lokudlala le-TTS lapho izithombe ezimbili, kwesokunxele nesokudla, zihlanganiswa."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "已对其进行修改，以便按下音量键时可以跳过多个页面。"
+    "devnote": "修复左右图像合并时坐标计算错误的问题。\n修复了左右两张图像合并时的 TTS 播放错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "已對其進行修改，以便按下音量鍵時可以跳過多個頁面。"
+    "devnote": "修復左右影像合併時座標計算錯誤的問題。\n修正了左右兩張影像合併時的 TTS 播放錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "已對其進行修改，以便按下音量鍵時可以跳過多個頁面。"
+    "devnote": "修復左右影像合併時座標計算錯誤的問題。\n修正了左右兩張影像合併時的 TTS 播放錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "Byl upraven tak, aby bylo možné přeskočit více stránek při stisknutí tlačítka hlasitosti."
+    "devnote": "Opraven problém, kdy se vyskytla chyba ve výpočtu souřadnic při kombinaci levého a pravého obrázku.\nOpravena chyba přehrávání TTS, když byly spojeny dva obrázky, levý a pravý."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "Ол дыбыс деңгейі пернесі басылғанда бірнеше бетті өткізіп жіберуге болатындай өзгертілді."
+    "devnote": "Сол және оң суреттер біріктірілген кезде координаттарды есептеуде қате пайда болған мәселе түзетілді.\nСол және оң жақ екі кескін біріктірілген кезде TTS ойнату қатесі түзетілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "S'ha modificat perquè es puguin saltar diverses pàgines quan es prem la tecla de volum."
+    "devnote": "S'ha solucionat un problema en què hi havia un error en el càlcul de coordenades quan es combinaven les imatges esquerra i dreta.\nS'ha corregit un error de reproducció TTS quan es combinaven dues imatges, esquerra i dreta."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "ವಾಲ್ಯೂಮ್ ಕೀಲಿಯನ್ನು ಒತ್ತಿದಾಗ ಬಹು ಪುಟಗಳನ್ನು ಬಿಟ್ಟುಬಿಡುವಂತೆ ಇದನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
+    "devnote": "ಎಡ ಮತ್ತು ಬಲ ಚಿತ್ರಗಳನ್ನು ಸಂಯೋಜಿಸಿದಾಗ ನಿರ್ದೇಶಾಂಕ ಲೆಕ್ಕಾಚಾರದಲ್ಲಿ ದೋಷವಿದ್ದಲ್ಲಿ ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\nಎಡ ಮತ್ತು ಬಲ ಎರಡು ಚಿತ್ರಗಳನ್ನು ಸಂಯೋಜಿಸಿದಾಗ TTS ಪ್ಲೇಬ್ಯಾಕ್ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "Modificiran je tako da se može preskočiti više stranica kada se pritisne tipka za glasnoću."
+    "devnote": "Riješen je problem u kojem je došlo do pogreške u izračunu koordinata kada su lijeva i desna slika kombinirane.\nIspravljena je pogreška pri reprodukciji TTS-a kada su dvije slike, lijeva i desna, kombinirane."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "វា​ត្រូវ​បាន​កែប្រែ ដូច្នេះ​ទំព័រ​ច្រើន​អាច​ត្រូវ​បាន​រំលង​ពេល​ចុច​គ្រាប់ចុច​កម្រិត​សំឡេង។"
+    "devnote": "បានដោះស្រាយបញ្ហាដែលមានកំហុសក្នុងការគណនាសំរបសំរួលនៅពេលដែលរូបភាពខាងឆ្វេង និងស្តាំត្រូវបានបញ្ចូលគ្នា។\nបានជួសជុលកំហុសក្នុងការចាក់សារឡើងវិញ TTS នៅពេលដែលរូបភាពពីរ ឆ្វេង និងស្តាំត្រូវបានបញ្ចូលគ្នា។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "Бул үн баскычын басканда бир нече баракты өткөрүп жиберүү үчүн өзгөртүлгөн."
+    "devnote": "Сол жана оң сүрөттөр бириктирилгенде координатты эсептөөдө ката пайда болгон көйгөй оңдолду.\nСол жана оң эки сүрөт бириктирилгенде TTS ойнотуу мүчүлүштүгү оңдолду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "தொகுதி விசையை அழுத்தும் போது பல பக்கங்கள் தவிர்க்கப்படும் வகையில் இது மாற்றியமைக்கப்பட்டுள்ளது."
+    "devnote": "இடது மற்றும் வலது படங்கள் இணைக்கப்பட்டபோது, ​​ஒருங்கிணைப்பு கணக்கீட்டில் பிழை ஏற்பட்ட சிக்கல் சரி செய்யப்பட்டது.\nஇரண்டு படங்கள், இடது மற்றும் வலது, இணைந்த போது TTS பின்னணி பிழை சரி செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "ได้รับการแก้ไขเพื่อให้สามารถข้ามหลายหน้าได้เมื่อกดปุ่มปรับระดับเสียง"
+    "devnote": "แก้ไขปัญหาที่เกิดข้อผิดพลาดในการคำนวณพิกัดเมื่อรวมรูปภาพด้านซ้ายและขวาเข้าด้วยกัน\nแก้ไขข้อบกพร่องในการเล่น TTS เมื่อรวมภาพสองภาพซ้ายและขวาเข้าด้วยกัน"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "Ses tuşuna basıldığında birden fazla sayfanın atlanabileceği şekilde değiştirildi."
+    "devnote": "Sol ve sağ görüntüler birleştirildiğinde koordinat hesaplamasında hata oluşması sorunu düzeltildi.\nSol ve sağ iki görüntü birleştirildiğinde ortaya çıkan TTS oynatma hatası düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "వాల్యూమ్ కీని నొక్కినప్పుడు బహుళ పేజీలు దాటవేయబడేలా ఇది సవరించబడింది."
+    "devnote": "ఎడమ మరియు కుడి చిత్రాలను కలిపినప్పుడు సమన్వయ గణనలో లోపం ఉన్న సమస్య పరిష్కరించబడింది.\nరెండు చిత్రాలు, ఎడమ మరియు కుడి, కలిపి ఉన్నప్పుడు TTS ప్లేబ్యాక్ బగ్ పరిష్కరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "ਇਸ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ ਤਾਂ ਕਿ ਵਾਲੀਅਮ ਕੁੰਜੀ ਦਬਾਉਣ 'ਤੇ ਕਈ ਪੰਨਿਆਂ ਨੂੰ ਛੱਡਿਆ ਜਾ ਸਕੇ।"
+    "devnote": "ਇੱਕ ਮੁੱਦਾ ਹੱਲ ਕੀਤਾ ਗਿਆ ਜਿੱਥੇ ਖੱਬੇ ਅਤੇ ਸੱਜੇ ਚਿੱਤਰਾਂ ਨੂੰ ਜੋੜਨ ਵੇਲੇ ਤਾਲਮੇਲ ਗਣਨਾ ਵਿੱਚ ਇੱਕ ਤਰੁੱਟੀ ਸੀ।\nਇੱਕ TTS ਪਲੇਬੈਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਜਦੋਂ ਦੋ ਚਿੱਤਰ, ਖੱਬੇ ਅਤੇ ਸੱਜੇ, ਨੂੰ ਜੋੜਿਆ ਗਿਆ ਸੀ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "تغییر داده شده است به طوری که می توان چندین صفحه را با فشار دادن کلید صدا رد کرد."
+    "devnote": "مشکلی را که در آن هنگام ترکیب تصاویر چپ و راست، خطا در محاسبه مختصات وجود داشت، برطرف شد.\nرفع اشکال پخش TTS هنگام ترکیب دو تصویر چپ و راست."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "Ele foi modificado para que várias páginas possam ser ignoradas quando a tecla de volume for pressionada."
+    "devnote": "Corrigido um problema em que ocorria um erro no cálculo das coordenadas quando as imagens esquerda e direita eram combinadas.\nCorrigido um bug de reprodução de TTS quando duas imagens, esquerda e direita, eram combinadas."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "Został on zmodyfikowany w taki sposób, że po naciśnięciu klawisza głośności można pominąć wiele stron."
+    "devnote": "Naprawiono błąd powodujący błąd w obliczeniu współrzędnych podczas łączenia lewego i prawego obrazu.\nNaprawiono błąd odtwarzania TTS po połączeniu dwóch obrazów, lewego i prawego."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "Il a été modifié afin que plusieurs pages puissent être ignorées lorsque la touche de volume est enfoncée."
+    "devnote": "Correction d'un problème où il y avait une erreur dans le calcul des coordonnées lorsque les images gauche et droite étaient combinées.\nCorrection d'un bug de lecture TTS lorsque deux images, gauche et droite, étaient combinées."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "Sitä on muokattu niin, että useita sivuja voidaan ohittaa, kun äänenvoimakkuusnäppäintä painetaan."
+    "devnote": "Korjattu ongelma, jossa koordinaattien laskennassa tapahtui virhe, kun vasen ja oikea kuva yhdistettiin.\nKorjattu TTS-toistovirhe, kun kaksi kuvaa, vasen ja oikea, yhdistettiin."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "Ito ay binago upang ang maramihang mga pahina ay maaaring laktawan kapag pinindot ang volume key."
+    "devnote": "Inayos ang isang isyu kung saan nagkaroon ng error sa pagkalkula ng coordinate noong pinagsama ang kaliwa at kanang mga larawan.\nInayos ang isang TTS playback bug kapag ang dalawang larawan, kaliwa at kanan, ay pinagsama."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "Módosították, így több oldalt ki lehet ugrani a hangerőszabályzó gomb megnyomásakor."
+    "devnote": "Kijavítottuk azt a hibát, amely miatt hiba lépett fel a koordinátaszámítás során a bal és a jobb oldali képek kombinálásakor.\nKijavítottuk a TTS lejátszási hibát, amikor két, bal és jobb oldali képet kombináltak."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "הוא שונה כך שניתן לדלג על מספר עמודים בעת לחיצה על מקש עוצמת הקול."
+    "devnote": "תוקנה בעיה שבה הייתה שגיאה בחישוב הקואורדינטות כאשר שולבו התמונות השמאלית והימנית.\nתיקן באג השמעת TTS כאשר שתי תמונות, שמאל וימין, שולבו."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "इसे संशोधित किया गया है ताकि वॉल्यूम कुंजी दबाए जाने पर कई पृष्ठों को छोड़ा जा सके।"
+    "devnote": "उस समस्या को ठीक किया गया जहां बाएं और दाएं छवियों को संयोजित करने पर समन्वय गणना में त्रुटि हुई थी।\nजब दो छवियाँ, बाएँ और दाएँ, संयोजित की गईं, तो TTS प्लेबैक बग को ठीक किया गया।"
   }
 }
