@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "Fixed an issue where there was an error in coordinate calculation when the left and right images were combined.\nFixed a TTS playback bug when two images, left and right, were combined."
+    "devnote": "- Find and replace function has been added.\n- Fixed a bug where full screen settings were not applied properly.\n- Fixed a bug where the “Show filtered sentences” function did not work when playing TTS."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "이미지가 좌,우 두장이 합쳐져 있는경우, 좌표계산에 오류가 있던 현상을 수정 하였습니다. \n이미지가 좌,우 두장이 합쳐져 있는경우, TTS 재생 버그를 수정 하였습니다."
+    "devnote": "- 찾아 바꾸기 기능 을 추가하였습니다.   \n- 풀스크린 설정이 제대로 적용 안되던 버그를 수정 하였습니다. \n- TTS 재생시 \"필터 적용된 문장표시\" 기능이 작동 안하던 버그를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "Solucionouse un problema no que se producía un erro no cálculo de coordenadas cando se combinaban as imaxes da esquerda e da dereita.\nCorrixiuse un erro de reprodución de TTS cando se combinaban dúas imaxes, esquerda e dereita."
+    "devnote": "- Engadiuse a función Buscar e substituír.\n- Solucionouse un erro no que a configuración da pantalla completa non se aplicaba correctamente.\n- Corrixiuse un erro no que a función \"Mostrar frases filtradas\" non funcionaba ao xogar a TTS."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "જ્યારે ડાબી અને જમણી છબીઓ જોડવામાં આવી હતી ત્યારે સંકલન ગણતરીમાં ભૂલ હતી તે સમસ્યાને ઠીક કરી.\nજ્યારે બે છબીઓ, ડાબે અને જમણે, સંયુક્ત કરવામાં આવી ત્યારે TTS પ્લેબેક બગને ઠીક કર્યો."
+    "devnote": "- શોધો અને બદલો ફંક્શન ઉમેરવામાં આવ્યું છે.\n- જ્યાં સંપૂર્ણ સ્ક્રીન સેટિંગ્સ યોગ્ય રીતે લાગુ કરવામાં આવી ન હતી ત્યાં બગને ઠીક કર્યો.\n- ટીટીએસ વગાડતી વખતે \"ફિલ્ટર કરેલા વાક્યો બતાવો\" ફંક્શન કામ કરતું ન હતું ત્યાં બગને ઠીક કર્યો."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "Διορθώθηκε ένα πρόβλημα όπου παρουσιάστηκε σφάλμα στον υπολογισμό των συντεταγμένων κατά τον συνδυασμό της αριστερής και της δεξιάς εικόνας.\nΔιορθώθηκε ένα σφάλμα αναπαραγωγής TTS όταν συνδυάστηκαν δύο εικόνες, αριστερά και δεξιά."
+    "devnote": "- Προστέθηκε η λειτουργία εύρεσης και αντικατάστασης.\n- Διορθώθηκε ένα σφάλμα όπου οι ρυθμίσεις πλήρους οθόνης δεν εφαρμόστηκαν σωστά.\n- Διορθώθηκε ένα σφάλμα όπου η λειτουργία \"Εμφάνιση φιλτραρισμένων προτάσεων\" δεν λειτουργούσε κατά την αναπαραγωγή TTS."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "Er is een probleem opgelost waarbij er een fout optrad bij de coördinatenberekening wanneer de linker- en rechterafbeeldingen werden gecombineerd.\nEen probleem met het afspelen van TTS opgelost toen twee afbeeldingen, links en rechts, werden gecombineerd."
+    "devnote": "- Zoek en vervang-functie is toegevoegd.\n- Een bug opgelost waarbij de instellingen voor volledig scherm niet correct werden toegepast.\n- Een bug opgelost waarbij de functie 'Gefilterde zinnen weergeven' niet werkte bij het spelen van TTS."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "बायाँ र दायाँ छविहरू संयोजन गर्दा समन्वय गणनामा त्रुटि भएको समस्या समाधान गरियो।\nTTS प्लेब्याक बग फिक्स गरियो जब दुई तस्बिरहरू, बायाँ र दायाँ, संयुक्त थिए।"
+    "devnote": "- खोज्नुहोस् र प्रतिस्थापन प्रकार्य थपिएको छ।\n- पूर्ण स्क्रिन सेटिङहरू ठीकसँग लागू नभएको बग फिक्स गरियो।\n- एउटा बग फिक्स गरियो जहाँ \"फिल्टर गरिएका वाक्यहरू देखाउनुहोस्\" प्रकार्यले TTS खेल्दा काम गर्दैन।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "Rettet et problem der det var en feil i koordinatberegningen når venstre og høyre bilde ble kombinert.\nRettet en TTS-avspillingsfeil da to bilder, venstre og høyre, ble kombinert."
+    "devnote": "- Finn og erstatt-funksjonen er lagt til.\n- Rettet en feil der fullskjerminnstillinger ikke ble brukt riktig.\n- Rettet en feil der funksjonen \"Vis filtrerte setninger\" ikke fungerte når du spilte TTS."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "Rettede et problem, hvor der var en fejl i koordinatberegningen, da venstre og højre billede blev kombineret.\nRettede en TTS-afspilningsfejl, da to billeder, venstre og højre, blev kombineret."
+    "devnote": "- Find og erstat funktionen er blevet tilføjet.\n- Rettede en fejl, hvor fuldskærmsindstillinger ikke blev anvendt korrekt.\n- Rettede en fejl, hvor funktionen \"Vis filtrerede sætninger\" ikke fungerede, når du spillede TTS."
   },
   "독일어": {
     "key": "de",
-    "devnote": "Es wurde ein Problem behoben, bei dem es bei der Kombination der linken und rechten Bilder zu einem Fehler bei der Koordinatenberechnung kam.\nEs wurde ein TTS-Wiedergabefehler behoben, der auftrat, wenn zwei Bilder, links und rechts, kombiniert wurden."
+    "devnote": "- Die Funktion „Suchen und Ersetzen“ wurde hinzugefügt.\n- Es wurde ein Fehler behoben, bei dem die Vollbildeinstellungen nicht richtig angewendet wurden.\n- Es wurde ein Fehler behoben, bei dem die Funktion „Gefilterte Sätze anzeigen“ beim Spielen von TTS nicht funktionierte."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "ແກ້ໄຂບັນຫາບ່ອນທີ່ມີຄວາມຜິດພາດໃນການຄິດໄລ່ປະສານງານໃນເວລາທີ່ຮູບພາບຊ້າຍແລະຂວາຖືກລວມເຂົ້າກັນ.\nແກ້ໄຂຂໍ້ຜິດພາດການຫຼິ້ນ TTS ເມື່ອສອງຮູບ, ຊ້າຍ ແລະຂວາຖືກລວມເຂົ້າກັນ."
+    "devnote": "- ຊອກ​ຫາ​ແລະ​ທົດ​ແທນ​ການ​ທໍາ​ງານ​ໄດ້​ຮັບ​ການ​ເພີ່ມ​.\n- ແກ້​ໄຂ​ບັນ​ຫາ​ທີ່​ການ​ຕັ້ງ​ຄ່າ​ເຕັມ​ຫນ້າ​ຈໍ​ບໍ່​ໄດ້​ຖືກ​ນໍາ​ໃຊ້​ຢ່າງ​ຖືກ​ຕ້ອງ​.\n- ແກ້ໄຂຂໍ້ຜິດພາດທີ່ຟັງຊັນ \"ສະແດງປະໂຫຍກທີ່ຖືກກັ່ນຕອງ\" ບໍ່ໄດ້ເຮັດວຽກໃນເວລາຫຼີ້ນ TTS."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "Novērsta problēma, kuras dēļ, apvienojot kreiso un labo attēlu, radās kļūda koordinātu aprēķinā.\nIzlabota TTS atskaņošanas kļūda, kad tika apvienoti divi attēli, pa kreisi un pa labi."
+    "devnote": "- Ir pievienota atrašanas un aizstāšanas funkcija.\n- Novērsta kļūda, kuras dēļ pilnekrāna iestatījumi netika piemēroti pareizi.\n- Izlabota kļūda, kuras dēļ funkcija “Rādīt filtrētos teikumus” nedarbojās, spēlējot TTS."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "Исправлена ​​ошибка, из-за которой возникала ошибка в расчете координат при объединении левого и правого изображений.\nИсправлена ​​ошибка воспроизведения TTS при объединении двух изображений, левого и правого."
+    "devnote": "- Добавлена ​​функция поиска и замены.\n- Исправлена ​​ошибка, из-за которой настройки полноэкранного режима применялись неправильно.\n- Исправлена ​​ошибка, из-за которой функция «Показать отфильтрованные предложения» не работала при воспроизведении TTS."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "S-a rezolvat o problemă în care a existat o eroare în calcularea coordonatelor când imaginile din stânga și din dreapta au fost combinate.\nS-a remediat o eroare de redare TTS când două imagini, stânga și dreapta, erau combinate."
+    "devnote": "- A fost adăugată funcția de căutare și înlocuire.\n- S-a remediat o eroare în care setările ecranului complet nu erau aplicate corect.\n- S-a remediat o eroare în care funcția „Afișează propoziții filtrate” nu funcționa la jocul TTS."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "Ištaisyta problema, kai sujungus kairįjį ir dešinįjį vaizdus įvyko koordinačių skaičiavimo klaida.\nIštaisyta TTS atkūrimo klaida, kai buvo sujungti du vaizdai, kairysis ir dešinysis."
+    "devnote": "- Pridėta funkcija „Rasti ir pakeisti“.\n- Ištaisyta klaida, kai viso ekrano nustatymai nebuvo tinkamai pritaikyti.\n- Ištaisyta klaida, kai funkcija „Rodyti filtruotus sakinius“ neveikė žaidžiant TTS."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "जेव्हा डाव्या आणि उजव्या प्रतिमा एकत्र केल्या गेल्या तेव्हा समन्वय मोजणीमध्ये त्रुटी आली असेल अशा समस्येचे निराकरण केले.\nडाव्या आणि उजव्या, दोन प्रतिमा एकत्रित केल्यावर TTS प्लेबॅक बगचे निराकरण केले."
+    "devnote": "- शोधा आणि बदला फंक्शन जोडले गेले आहे.\n- पूर्ण स्क्रीन सेटिंग्ज योग्यरित्या लागू न झालेल्या बगचे निराकरण केले.\n- टीटीएस खेळताना \"फिल्टर केलेली वाक्ये दाखवा\" फंक्शन कार्य करत नाही अशा बगचे निराकरण केले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "Поправен проблем каде што имаше грешка во пресметката на координатите кога се комбинираа левата и десната слика.\nПоправена грешка при репродукција на TTS кога две слики, лево и десно, беа комбинирани."
+    "devnote": "- Функцијата за наоѓање и замена е додадена.\n- Поправена грешка каде што поставките на цел екран не беа правилно применети.\n- Поправена грешка каде што функцијата „Прикажи филтрирани реченици“ не работеше при репродукција на TTS."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "ഇടത്, വലത് ചിത്രങ്ങൾ സംയോജിപ്പിച്ചപ്പോൾ കോർഡിനേറ്റ് കണക്കുകൂട്ടലിൽ പിശകുണ്ടായ ഒരു പ്രശ്നം പരിഹരിച്ചു.\nഇടത്തും വലത്തും രണ്ട് ചിത്രങ്ങൾ കൂടിച്ചേർന്നപ്പോൾ ഒരു ടിടിഎസ് പ്ലേബാക്ക് ബഗ് പരിഹരിച്ചു."
+    "devnote": "- ഫംഗ്‌ഷൻ കണ്ടെത്തി മാറ്റിസ്ഥാപിക്കുക.\n- പൂർണ്ണ സ്‌ക്രീൻ ക്രമീകരണങ്ങൾ ശരിയായി പ്രയോഗിക്കാത്ത ഒരു ബഗ് പരിഹരിച്ചു.\n- TTS പ്ലേ ചെയ്യുമ്പോൾ \"ഫിൽട്ടർ ചെയ്ത വാക്യങ്ങൾ കാണിക്കുക\" ഫംഗ്ഷൻ പ്രവർത്തിക്കാത്ത ഒരു ബഗ് പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "Memperbaiki isu yang terdapat ralat dalam pengiraan koordinat apabila imej kiri dan kanan digabungkan.\nMemperbaiki pepijat main balik TTS apabila dua imej, kiri dan kanan, digabungkan."
+    "devnote": "- Cari dan ganti fungsi telah ditambah.\n- Memperbaiki pepijat yang tetapan skrin penuh tidak digunakan dengan betul.\n- Memperbaiki pepijat yang fungsi \"Tunjukkan ayat yang ditapis\" tidak berfungsi semasa memainkan TTS."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "Зүүн болон баруун зургийг нэгтгэх үед координатыг тооцоолоход алдаа гарсан асуудлыг зассан.\nЗүүн ба баруун хоёр зургийг нэгтгэх үед TTS тоглуулах алдааг зассан."
+    "devnote": "- Хай, солих функц нэмэгдсэн.\n- Бүтэн дэлгэцийн тохиргоог зөв хэрэгжүүлээгүй алдааг зассан.\n- TTS тоглох үед \"Шүүсэн өгүүлбэрүүдийг харуулах\" функц ажиллахгүй байсан алдааг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "Ezkerreko eta eskuineko irudiak konbinatzean koordenatuen kalkuluan errore bat zegoen arazo bat konpondu da.\nTTS erreprodukzio akats bat konpondu da bi irudi, ezkerreko eta eskuineko, konbinatzen zirenean."
+    "devnote": "- Bilatu eta ordeztu funtzioa gehitu da.\n- Pantaila osoko ezarpenak behar bezala aplikatzen ez ziren akats bat konpondu da.\n- \"Erakutsi iragazitako esaldiak\" funtzioak TTS erreproduzitzerakoan funtzionatzen ez zuen akats bat konpondu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "ဘယ်နှင့်ညာပုံများကို ပေါင်းစပ်လိုက်သောအခါ သြဒီနိတ်တွက်ချက်ရာတွင် အမှားအယွင်းရှိနေသည့် ပြဿနာကို ဖြေရှင်းခဲ့သည်။\nပုံနှစ်ပုံ၊ ဘယ်နှင့်ညာ ပေါင်းစပ်သောအခါ TTS ပြန်ဖွင့်သည့် ချို့ယွင်းချက်ကို ပြင်သည်။"
+    "devnote": "- Find and replace function ကို ပေါင်းထည့်ထားပါသည်။\n- မျက်နှာပြင်အပြည့်ဆက်တင်များကို ကောင်းစွာမလုပ်ဆောင်နိုင်သော ချို့ယွင်းချက်တစ်ခုကို ပြင်ဆင်ပါ။\n- TTS ကစားသောအခါ \"စစ်ထုတ်ထားသောစာကြောင်းများကိုပြသပါ\" လုပ်ဆောင်ချက်သည် အလုပ်မလုပ်သည့် ချို့ယွင်းချက်တစ်ခုကို ပြင်ဆင်ပါ။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "Đã khắc phục sự cố xảy ra lỗi trong tính toán tọa độ khi kết hợp hình ảnh bên trái và bên phải.\nĐã sửa lỗi phát lại TTS khi hai hình ảnh trái và phải được kết hợp."
+    "devnote": "- Chức năng tìm và thay thế đã được thêm vào.\n- Đã sửa lỗi cài đặt toàn màn hình không được áp dụng đúng cách.\n- Đã sửa lỗi chức năng “Hiển thị các câu đã lọc” không hoạt động khi phát TTS."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "Выпраўлена праблема, з-за якой узнікала памылка ў вылічэнні каардынатаў пры аб'яднанні левага і правага малюнкаў.\nВыпраўлена памылка прайгравання TTS, калі дзве выявы, левая і правая, былі аб'яднаны."
+    "devnote": "- Дададзена функцыя пошуку і замены.\n- Выпраўлена памылка, з-за якой поўнаэкранныя налады не прымяняліся належным чынам.\n- Выпраўлена памылка, з-за якой функцыя «Паказаць адфільтраваныя прапановы» не працавала пры прайграванні TTS."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "একটি সমস্যা সমাধান করা হয়েছে যেখানে বাম এবং ডান চিত্রগুলিকে একত্রিত করার সময় স্থানাঙ্ক গণনায় একটি ত্রুটি ছিল৷\nএকটি TTS প্লেব্যাক বাগ সংশোধন করা হয়েছে যখন দুটি ছবি, বাম এবং ডানে, একত্রিত হয়৷"
+    "devnote": "- খুঁজুন এবং প্রতিস্থাপন ফাংশন যোগ করা হয়েছে.\n- একটি বাগ সংশোধন করা হয়েছে যেখানে পূর্ণ স্ক্রীন সেটিংস সঠিকভাবে প্রয়োগ করা হয়নি।\n- একটি বাগ সংশোধন করা হয়েছে যেখানে \"ফিল্টার করা বাক্য দেখান\" ফাংশন টিটিএস চালানোর সময় কাজ করে না।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "Коригиран проблем, при който имаше грешка в изчисляването на координатите, когато лявото и дясното изображение бяха комбинирани.\nКоригирана грешка при възпроизвеждане на TTS, когато две изображения, ляво и дясно, бяха комбинирани."
+    "devnote": "- Добавена е функция за намиране и замяна.\n- Коригирана грешка, при която настройките на цял екран не се прилагат правилно.\n- Коригирана грешка, при която функцията „Показване на филтрирани изречения“ не работеше при възпроизвеждане на TTS."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "Решен је проблем где је дошло до грешке у израчунавању координата када су лева и десна слика комбиноване.\nИсправљена је грешка у ТТС репродукцији када су две слике, лева и десна, комбиноване."
+    "devnote": "- Додата је функција проналажења и замене.\n- Исправљена грешка где подешавања целог екрана нису правилно примењена.\n- Исправљена грешка у којој функција „Прикажи филтриране реченице“ није радила када се игра ТТС."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "Imesuluhisha suala ambapo kulikuwa na hitilafu katika kuhesabu kuratibu wakati picha za kushoto na kulia ziliunganishwa.\nIlirekebisha hitilafu ya uchezaji ya TTS wakati picha mbili, kushoto na kulia, ziliunganishwa."
+    "devnote": "- Tafuta na ubadilishe kazi imeongezwa.\n- Kurekebisha hitilafu ambapo mipangilio ya skrini nzima haikutumika ipasavyo.\n- Kurekebisha hitilafu ambapo kipengele cha \"Onyesha sentensi zilizochujwa\" hakikufanya kazi wakati wa kucheza TTS."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "Fixade ett problem där det uppstod ett fel i koordinatberäkningen när vänster och höger bilder kombinerades.\nFixade ett TTS-uppspelningsfel när två bilder, vänster och höger, kombinerades."
+    "devnote": "- Funktionen Sök och ersätt har lagts till.\n- Fixade en bugg där helskärmsinställningarna inte tillämpades korrekt.\n- Fixade en bugg där funktionen \"Visa filtrerade meningar\" inte fungerade när TTS spelades."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "Se solucionó un problema por el cual había un error en el cálculo de coordenadas cuando se combinaban las imágenes izquierda y derecha.\nSe corrigió un error de reproducción TTS cuando se combinaban dos imágenes, izquierda y derecha."
+    "devnote": "- Se ha agregado la función de buscar y reemplazar.\n- Se corrigió un error por el cual la configuración de pantalla completa no se aplicaba correctamente.\n- Se corrigió un error por el cual la función \"Mostrar oraciones filtradas\" no funcionaba al reproducir TTS."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "Opravený problém, kedy sa vyskytla chyba vo výpočte súradníc, keď sa spojil ľavý a pravý obrázok.\nOpravená chyba prehrávania TTS, keď sa spojili dva obrázky, ľavý a pravý."
+    "devnote": "- Bola pridaná funkcia Nájsť a nahradiť.\n- Opravená chyba, pri ktorej neboli správne aplikované nastavenia na celú obrazovku.\n- Opravená chyba, kedy funkcia „Zobraziť filtrované vety“ nefungovala pri hraní TTS."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "Odpravljena je težava, pri kateri je prišlo do napake pri izračunu koordinat, ko sta bili levi in ​​desni sliki združeni.\nOdpravljena napaka pri predvajanju TTS, ko sta bili združeni dve sliki, leva in desna."
+    "devnote": "- Dodana je funkcija Najdi in zamenjaj.\n- Odpravljena napaka, pri kateri celozaslonske nastavitve niso bile pravilno uporabljene.\n- Odpravljena je napaka, pri kateri funkcija »Prikaži filtrirane stavke« ni delovala med predvajanjem TTS."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "වම් සහ දකුණු රූප ඒකාබද්ධ කළ විට ඛණ්ඩාංක ගණනය කිරීමේදී දෝෂයක් ඇති වූ ගැටලුවක් විසඳා ඇත.\nවම් සහ දකුණ යන පින්තූර දෙකක් ඒකාබද්ධ කළ විට TTS ප්ලේබැක් දෝෂයක් නිරාකරණය කරන ලදී."
+    "devnote": "- සොයන්න සහ ප්‍රතිස්ථාපනය කිරීමේ කාර්යය එකතු කර ඇත.\n- සම්පූර්ණ තිර සැකසුම් නිසියාකාරව යෙදී නොමැති දෝෂයක් නිරාකරණය කර ඇත.\n- TTS වාදනය කිරීමේදී “පෙරන ලද වාක්‍ය පෙන්වන්න” ශ්‍රිතය ක්‍රියා නොකළ දෝෂයක් නිරාකරණය කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "تم إصلاح مشكلة حدوث خطأ في حساب الإحداثيات عند دمج الصور اليمنى واليسرى.\nتم إصلاح خطأ تشغيل تحويل النص إلى كلام (TTS) عند دمج صورتين، اليسار واليمين،."
+    "devnote": "- تمت إضافة وظيفة البحث والاستبدال.\n- تم إصلاح الخلل حيث لم يتم تطبيق إعدادات ملء الشاشة بشكل صحيح.\n- تم إصلاح الخلل حيث لم تعمل وظيفة \"إظهار الجمل المصفاة\" عند تشغيل تحويل النص إلى كلام (TTS)."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "Շտկվել է խնդիրը, երբ կոորդինատների հաշվարկման սխալ է եղել, երբ ձախ և աջ պատկերները համակցվել են:\nՈւղղվել է TTS նվագարկման սխալը, երբ երկու պատկեր՝ ձախ և աջ, միավորվել են:"
+    "devnote": "- Գտնել և փոխարինել գործառույթը ավելացվել է:\n- Շտկվել է վրիպակ, որտեղ ամբողջական էկրանի կարգավորումները ճիշտ չեն կիրառվել:\n- Շտկվել է սխալ, որտեղ «Ցուցադրել ֆիլտրացված նախադասություններ» գործառույթը չի աշխատում TTS խաղալիս:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "Lagaði vandamál þar sem villa kom upp í hnitreikningi þegar vinstri og hægri myndirnar voru sameinaðar.\nLagaði TTS spilunarvillu þegar tvær myndir, vinstri og hægri, voru sameinaðar."
+    "devnote": "- Finndu og skiptu um aðgerð hefur verið bætt við.\n- Lagaði villu þar sem stillingum á fullum skjá var ekki beitt á réttan hátt.\n- Lagaði villu þar sem „Sýna síaðar setningar“ aðgerðin virkaði ekki þegar spilað var TTS."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "Sol və sağ şəkillər birləşdirilərkən koordinatların hesablanmasında xəta ilə bağlı problem həll edildi.\nSol və sağ iki şəkil birləşdirildikdə TTS oxutma səhvi düzəldildi."
+    "devnote": "- Tap və dəyişdir funksiyası əlavə edildi.\n- Tam ekran parametrlərinin düzgün tətbiq edilmədiyi bir səhv düzəldildi.\n- TTS oynayarkən \"Süzülən cümlələri göstər\" funksiyasının işləmədiyi bir səhv düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "'n Probleem opgelos waar daar 'n fout in koördinaatberekening was toe die linker- en regterbeelde gekombineer is.\n'n TTS-terugspeelfout opgelos toe twee beelde, links en regs, gekombineer is."
+    "devnote": "- Vind en vervang funksie is bygevoeg.\n- 'n fout opgelos waar volskerminstellings nie behoorlik toegepas is nie.\n- Het 'n fout reggestel waar die \"Wys gefiltreerde sinne\"-funksie nie gewerk het tydens die speel van TTS nie."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "Rregulloi një problem ku kishte një gabim në llogaritjen e koordinatave kur u kombinuan imazhet majtas dhe djathtas.\nRregulloi një defekt në luajtje TTS kur dy imazhe, majtas dhe djathtas, u kombinuan."
+    "devnote": "- Është shtuar funksioni i gjetjes dhe zëvendësimit.\n- Rregulloi një defekt ku cilësimet e ekranit të plotë nuk u zbatuan siç duhet.\n- Rregulloi një gabim ku funksioni \"Trego fjalitë e filtruara\" nuk funksiononte kur luani TTS."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "የግራ እና የቀኝ ምስሎች ሲጣመሩ በማስተባበር ስሌት ላይ ስህተት የተፈጠረ ችግር ተጠግኗል።\nሁለት ምስሎች ግራ እና ቀኝ ሲጣመሩ የTTS መልሶ ማጫወት ስህተት ተስተካክሏል።"
+    "devnote": "- አግኝ እና ተካ ተግባር ታክሏል.\n- የሙሉ ማያ ገጽ ቅንጅቶች በትክክል ያልተተገበሩበት ሳንካ ተስተካክሏል።\n- TTS በሚጫወትበት ጊዜ \"የተጣሩ ዓረፍተ ነገሮችን አሳይ\" ተግባር የማይሰራበት ሳንካ ተስተካክሏል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "Lahendatud on probleem, mille korral vasaku ja parema pildi kombineerimisel ilmnes koordinaatide arvutamisel viga.\nParandatud on TTS-i taasesitusviga, kui kombineeriti kaks pilti, vasak ja parem."
+    "devnote": "- Lisatud on otsimise ja asendamise funktsioon.\n- Parandatud viga, mille puhul täisekraani seadeid ei rakendatud õigesti.\n- Parandatud viga, mille puhul funktsioon \"Näita filtreeritud lauseid\" TTS-i mängimisel ei töötanud."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "بائیں اور دائیں تصاویر کو یکجا کرنے پر کوآرڈینیٹ کیلکولیشن میں خرابی کی صورت میں ایک مسئلہ حل کیا گیا۔\nجب دو تصاویر، بائیں اور دائیں، کو ملایا گیا تو TTS پلے بیک بگ کو ٹھیک کیا۔"
+    "devnote": "- تلاش کریں اور تبدیل کریں فنکشن شامل کیا گیا ہے۔\n- ایک بگ کو ٹھیک کیا جہاں فل سکرین سیٹنگز ٹھیک سے لاگو نہیں ہوئی تھیں۔\n- ایک بگ کو ٹھیک کیا جہاں TTS چلاتے وقت \"فلٹرڈ جملے دکھائیں\" فنکشن کام نہیں کرتا تھا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "Виправлено проблему, через яку виникала помилка в обчисленні координат, коли ліве та праве зображення об’єднувалися.\nВиправлено помилку відтворення TTS, коли два зображення, ліворуч і праворуч, поєднувалися."
+    "devnote": "— Додано функцію пошуку та заміни.\n— Виправлено помилку, через яку налаштування повного екрана не застосовувалися належним чином.\n- Виправлено помилку, через яку функція «Показати відфільтровані речення» не працювала під час відтворення TTS."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "Risolto un problema per cui si verificava un errore nel calcolo delle coordinate quando venivano combinate le immagini sinistra e destra.\nRisolto un bug di riproduzione TTS quando due immagini, sinistra e destra, venivano combinate."
+    "devnote": "- È stata aggiunta la funzione Trova e sostituisci.\n- Risolto un bug in cui le impostazioni dello schermo intero non venivano applicate correttamente.\n- Risolto un bug per cui la funzione \"Mostra frasi filtrate\" non funzionava durante la riproduzione di TTS."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "Memperbaiki masalah ketika terjadi kesalahan dalam penghitungan koordinat saat gambar kiri dan kanan digabungkan.\nMemperbaiki bug pemutaran TTS ketika dua gambar, kiri dan kanan, digabungkan."
+    "devnote": "- Fungsi temukan dan ganti telah ditambahkan.\n- Memperbaiki bug di mana pengaturan layar penuh tidak diterapkan dengan benar.\n- Memperbaiki bug dimana fungsi “Tampilkan kalimat yang difilter” tidak berfungsi saat memainkan TTS."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "左右の画像を合成した際に座標計算に誤りがあった問題を修正しました。\n左右 2 つの画像を結合した場合の TTS 再生のバグを修正しました。"
+    "devnote": "- 検索と置換機能が追加されました。\n- フルスクリーン設定が正しく適用されないバグを修正しました。\n- TTS再生時に「フィルターされた文章を表示」機能が動作しない不具合を修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "დაფიქსირდა პრობლემა, როდესაც იყო შეცდომა კოორდინატთა გამოთვლაში მარცხენა და მარჯვენა სურათების გაერთიანებისას.\nდაფიქსირდა TTS დაკვრის ხარვეზი, როდესაც ორი სურათი, მარცხენა და მარჯვენა, იყო გაერთიანებული."
+    "devnote": "- დამატებულია პოვნა და ჩანაცვლების ფუნქცია.\n- დაფიქსირდა შეცდომა, რომლის დროსაც სრული ეკრანის პარამეტრები არ იყო სწორად გამოყენებული.\n- დაფიქსირდა შეცდომა, რომლის დროსაც \"გაფილტრული წინადადებების ჩვენება\" ფუნქცია არ მუშაობდა TTS-ის დაკვრისას."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "Kulungiswe inkinga lapho kube nephutha ekubalweni kokudidiyela lapho kuhlanganiswe izithombe ezingakwesokunxele nesokudla.\nKulungiswe iphutha lokudlala le-TTS lapho izithombe ezimbili, kwesokunxele nesokudla, zihlanganiswa."
+    "devnote": "- Thola bese ubuyisela umsebenzi wengeziwe.\n- Kulungiswe iphutha lapho izilungiselelo zesikrini esigcwele zingasetshenziswanga kahle.\n- Kulungiswe iphutha lapho umsebenzi othi \"Bonisa imisho ehlungiwe\" ungazange usebenze lapho udlala i-TTS."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "修复左右图像合并时坐标计算错误的问题。\n修复了左右两张图像合并时的 TTS 播放错误。"
+    "devnote": "- 添加了查找和替换功能。\n- 修复了未正确应用全屏设置的错误。\n- 修复了播放 TTS 时“显示过滤句子”功能不起作用的错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "修復左右影像合併時座標計算錯誤的問題。\n修正了左右兩張影像合併時的 TTS 播放錯誤。"
+    "devnote": "- 新增了尋找和取代功能。\n- 修正了未正確套用全螢幕設定的錯誤。\n- 修正了播放 TTS 時「顯示過濾句子」功能不起作用的錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "修復左右影像合併時座標計算錯誤的問題。\n修正了左右兩張影像合併時的 TTS 播放錯誤。"
+    "devnote": "- 新增了尋找和取代功能。\n- 修正了未正確套用全螢幕設定的錯誤。\n- 修正了播放 TTS 時「顯示過濾句子」功能不起作用的錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "Opraven problém, kdy se vyskytla chyba ve výpočtu souřadnic při kombinaci levého a pravého obrázku.\nOpravena chyba přehrávání TTS, když byly spojeny dva obrázky, levý a pravý."
+    "devnote": "- Byla přidána funkce Najít a nahradit.\n- Opravena chyba, kdy nastavení celé obrazovky nebylo správně aplikováno.\n- Opravena chyba, kdy při hraní TTS nefungovala funkce „Zobrazit filtrované věty“."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "Сол және оң суреттер біріктірілген кезде координаттарды есептеуде қате пайда болған мәселе түзетілді.\nСол және оң жақ екі кескін біріктірілген кезде TTS ойнату қатесі түзетілді."
+    "devnote": "- Табу және ауыстыру функциясы қосылды.\n- Толық экран параметрлері дұрыс қолданбаған қате түзетілді.\n- TTS ойнаған кезде «Сүзгіленген сөйлемдерді көрсету» функциясы жұмыс істемейтін қате түзетілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "S'ha solucionat un problema en què hi havia un error en el càlcul de coordenades quan es combinaven les imatges esquerra i dreta.\nS'ha corregit un error de reproducció TTS quan es combinaven dues imatges, esquerra i dreta."
+    "devnote": "- S'ha afegit la funció de cerca i substitució.\n- S'ha corregit un error en què la configuració de pantalla completa no s'aplicava correctament.\n- S'ha corregit un error en què la funció \"Mostra les frases filtrades\" no funcionava quan es jugava a TTS."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "ಎಡ ಮತ್ತು ಬಲ ಚಿತ್ರಗಳನ್ನು ಸಂಯೋಜಿಸಿದಾಗ ನಿರ್ದೇಶಾಂಕ ಲೆಕ್ಕಾಚಾರದಲ್ಲಿ ದೋಷವಿದ್ದಲ್ಲಿ ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\nಎಡ ಮತ್ತು ಬಲ ಎರಡು ಚಿತ್ರಗಳನ್ನು ಸಂಯೋಜಿಸಿದಾಗ TTS ಪ್ಲೇಬ್ಯಾಕ್ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "- ಹುಡುಕಿ ಮತ್ತು ಬದಲಿ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಪೂರ್ಣ ಪರದೆಯ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಸರಿಯಾಗಿ ಅನ್ವಯಿಸದಿರುವ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ಟಿಟಿಎಸ್ ಆಡುವಾಗ “ಫಿಲ್ಟರ್ ಮಾಡಿದ ವಾಕ್ಯಗಳನ್ನು ತೋರಿಸು” ಕಾರ್ಯವು ಕಾರ್ಯನಿರ್ವಹಿಸದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "Riješen je problem u kojem je došlo do pogreške u izračunu koordinata kada su lijeva i desna slika kombinirane.\nIspravljena je pogreška pri reprodukciji TTS-a kada su dvije slike, lijeva i desna, kombinirane."
+    "devnote": "- Dodana je funkcija traženja i zamjene.\n- Ispravljena je pogreška gdje se postavke cijelog zaslona nisu ispravno primjenjivale.\n- Ispravljena je pogreška u kojoj funkcija \"Prikaži filtrirane rečenice\" nije radila prilikom reprodukcije TTS-a."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "បានដោះស្រាយបញ្ហាដែលមានកំហុសក្នុងការគណនាសំរបសំរួលនៅពេលដែលរូបភាពខាងឆ្វេង និងស្តាំត្រូវបានបញ្ចូលគ្នា។\nបានជួសជុលកំហុសក្នុងការចាក់សារឡើងវិញ TTS នៅពេលដែលរូបភាពពីរ ឆ្វេង និងស្តាំត្រូវបានបញ្ចូលគ្នា។"
+    "devnote": "- មុខងារស្វែងរក និងជំនួសត្រូវបានបន្ថែម។\n- ជួសជុលកំហុសដែលការកំណត់ពេញអេក្រង់មិនត្រូវបានអនុវត្តត្រឹមត្រូវ។\n- ជួសជុលកំហុសដែលមុខងារ \"បង្ហាញប្រយោគដែលបានត្រង\" មិនដំណើរការនៅពេលលេង TTS ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "Сол жана оң сүрөттөр бириктирилгенде координатты эсептөөдө ката пайда болгон көйгөй оңдолду.\nСол жана оң эки сүрөт бириктирилгенде TTS ойнотуу мүчүлүштүгү оңдолду."
+    "devnote": "- Табуу жана алмаштыруу функциясы кошулду.\n- Толук экран жөндөөлөрү туура колдонулбаган ката оңдолду.\n- TTS ойноп жатканда \"Чыпкаланган сүйлөмдөрдү көрсөтүү\" функциясы иштебей калган ката оңдолду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "இடது மற்றும் வலது படங்கள் இணைக்கப்பட்டபோது, ​​ஒருங்கிணைப்பு கணக்கீட்டில் பிழை ஏற்பட்ட சிக்கல் சரி செய்யப்பட்டது.\nஇரண்டு படங்கள், இடது மற்றும் வலது, இணைந்த போது TTS பின்னணி பிழை சரி செய்யப்பட்டது."
+    "devnote": "- கண்டுபிடி மற்றும் மாற்று செயல்பாடு சேர்க்கப்பட்டது.\n- முழுத்திரை அமைப்புகள் சரியாகப் பயன்படுத்தப்படாத ஒரு பிழை சரி செய்யப்பட்டது.\n- TTS விளையாடும்போது \"வடிகட்டப்பட்ட வாக்கியங்களைக் காட்டு\" செயல்பாடு வேலை செய்யாத பிழை சரி செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "แก้ไขปัญหาที่เกิดข้อผิดพลาดในการคำนวณพิกัดเมื่อรวมรูปภาพด้านซ้ายและขวาเข้าด้วยกัน\nแก้ไขข้อบกพร่องในการเล่น TTS เมื่อรวมภาพสองภาพซ้ายและขวาเข้าด้วยกัน"
+    "devnote": "- เพิ่มฟังก์ชันค้นหาและแทนที่แล้ว\n- แก้ไขข้อผิดพลาดที่การตั้งค่าเต็มหน้าจอไม่ถูกต้อง\n- แก้ไขข้อผิดพลาดที่ฟังก์ชัน \"แสดงประโยคที่กรอง\" ไม่ทำงานเมื่อเล่น TTS"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "Sol ve sağ görüntüler birleştirildiğinde koordinat hesaplamasında hata oluşması sorunu düzeltildi.\nSol ve sağ iki görüntü birleştirildiğinde ortaya çıkan TTS oynatma hatası düzeltildi."
+    "devnote": "- Bul ve değiştir fonksiyonu eklendi.\n- Tam ekran ayarlarının düzgün uygulanmamasına neden olan bir hata düzeltildi.\n- TTS oynatılırken \"Filtrelenmiş cümleleri göster\" işlevinin çalışmamasına neden olan bir hata düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "ఎడమ మరియు కుడి చిత్రాలను కలిపినప్పుడు సమన్వయ గణనలో లోపం ఉన్న సమస్య పరిష్కరించబడింది.\nరెండు చిత్రాలు, ఎడమ మరియు కుడి, కలిపి ఉన్నప్పుడు TTS ప్లేబ్యాక్ బగ్ పరిష్కరించబడింది."
+    "devnote": "- కనుగొని భర్తీ చేయడం ఫంక్షన్ జోడించబడింది.\n- పూర్తి స్క్రీన్ సెట్టింగ్‌లు సరిగ్గా వర్తించని బగ్ పరిష్కరించబడింది.\n- TTS ప్లే చేస్తున్నప్పుడు “ఫిల్టర్ చేసిన వాక్యాలను చూపించు” ఫంక్షన్ పని చేయని బగ్ పరిష్కరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "ਇੱਕ ਮੁੱਦਾ ਹੱਲ ਕੀਤਾ ਗਿਆ ਜਿੱਥੇ ਖੱਬੇ ਅਤੇ ਸੱਜੇ ਚਿੱਤਰਾਂ ਨੂੰ ਜੋੜਨ ਵੇਲੇ ਤਾਲਮੇਲ ਗਣਨਾ ਵਿੱਚ ਇੱਕ ਤਰੁੱਟੀ ਸੀ।\nਇੱਕ TTS ਪਲੇਬੈਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਜਦੋਂ ਦੋ ਚਿੱਤਰ, ਖੱਬੇ ਅਤੇ ਸੱਜੇ, ਨੂੰ ਜੋੜਿਆ ਗਿਆ ਸੀ।"
+    "devnote": "- ਲੱਭੋ ਅਤੇ ਬਦਲੋ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ.\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਹੈ ਜਿੱਥੇ ਪੂਰੀ ਸਕ੍ਰੀਨ ਸੈਟਿੰਗਾਂ ਸਹੀ ਢੰਗ ਨਾਲ ਲਾਗੂ ਨਹੀਂ ਕੀਤੀਆਂ ਗਈਆਂ ਸਨ।\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਜਿੱਥੇ TTS ਚਲਾਉਣ ਵੇਲੇ \"ਫਿਲਟਰ ਕੀਤੇ ਵਾਕ ਦਿਖਾਓ\" ਫੰਕਸ਼ਨ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਸੀ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "مشکلی را که در آن هنگام ترکیب تصاویر چپ و راست، خطا در محاسبه مختصات وجود داشت، برطرف شد.\nرفع اشکال پخش TTS هنگام ترکیب دو تصویر چپ و راست."
+    "devnote": "- عملکرد یافتن و جایگزینی اضافه شده است.\n- رفع اشکالی که در آن تنظیمات تمام صفحه به درستی اعمال نشده بود.\n- رفع اشکالی که در آن عملکرد \"نمایش جملات فیلتر شده\" هنگام پخش TTS کار نمی کرد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "Corrigido um problema em que ocorria um erro no cálculo das coordenadas quando as imagens esquerda e direita eram combinadas.\nCorrigido um bug de reprodução de TTS quando duas imagens, esquerda e direita, eram combinadas."
+    "devnote": "- A função localizar e substituir foi adicionada.\n- Corrigido um bug onde as configurações de tela cheia não eram aplicadas corretamente.\n- Corrigido um bug onde a função “Mostrar frases filtradas” não funcionava ao jogar TTS."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "Naprawiono błąd powodujący błąd w obliczeniu współrzędnych podczas łączenia lewego i prawego obrazu.\nNaprawiono błąd odtwarzania TTS po połączeniu dwóch obrazów, lewego i prawego."
+    "devnote": "- Dodano funkcję Znajdź i zamień.\n- Naprawiono błąd powodujący nieprawidłowe zastosowanie ustawień pełnego ekranu.\n- Naprawiono błąd, w wyniku którego funkcja „Pokaż filtrowane zdania” nie działała podczas gry w TTS."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "Correction d'un problème où il y avait une erreur dans le calcul des coordonnées lorsque les images gauche et droite étaient combinées.\nCorrection d'un bug de lecture TTS lorsque deux images, gauche et droite, étaient combinées."
+    "devnote": "- La fonction Rechercher et remplacer a été ajoutée.\n- Correction d'un bug où les paramètres plein écran n'étaient pas appliqués correctement.\n- Correction d'un bug où la fonction « Afficher les phrases filtrées » ne fonctionnait pas lors de la lecture de TTS."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "Korjattu ongelma, jossa koordinaattien laskennassa tapahtui virhe, kun vasen ja oikea kuva yhdistettiin.\nKorjattu TTS-toistovirhe, kun kaksi kuvaa, vasen ja oikea, yhdistettiin."
+    "devnote": "- Etsi ja korvaa -toiminto on lisätty.\n- Korjattu virhe, jossa koko näytön asetuksia ei sovellettu oikein.\n- Korjattu virhe, jossa \"Näytä suodatetut lauseet\" -toiminto ei toiminut TTS:ää pelattaessa."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "Inayos ang isang isyu kung saan nagkaroon ng error sa pagkalkula ng coordinate noong pinagsama ang kaliwa at kanang mga larawan.\nInayos ang isang TTS playback bug kapag ang dalawang larawan, kaliwa at kanan, ay pinagsama."
+    "devnote": "- Idinagdag ang function na Hanapin at palitan.\n- Inayos ang isang bug kung saan hindi nailapat nang maayos ang mga setting ng full screen.\n- Inayos ang isang bug kung saan hindi gumana ang function na \"Ipakita ang mga na-filter na pangungusap\" kapag naglalaro ng TTS."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "Kijavítottuk azt a hibát, amely miatt hiba lépett fel a koordinátaszámítás során a bal és a jobb oldali képek kombinálásakor.\nKijavítottuk a TTS lejátszási hibát, amikor két, bal és jobb oldali képet kombináltak."
+    "devnote": "- Keresés és csere funkció hozzáadásra került.\n- Kijavítottunk egy hibát, amely miatt a teljes képernyős beállításokat nem alkalmazták megfelelően.\n- Kijavítottunk egy hibát, amely miatt a „Szűrt mondatok megjelenítése” funkció nem működött a TTS lejátszása közben."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "תוקנה בעיה שבה הייתה שגיאה בחישוב הקואורדינטות כאשר שולבו התמונות השמאלית והימנית.\nתיקן באג השמעת TTS כאשר שתי תמונות, שמאל וימין, שולבו."
+    "devnote": "- נוספה פונקציית חיפוש והחלפה.\n- תיקן באג שבו הגדרות מסך מלא לא יושמו כראוי.\n- תיקן באג שבו הפונקציה \"הצג משפטים מסוננים\" לא עבדה בעת הפעלת TTS."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "उस समस्या को ठीक किया गया जहां बाएं और दाएं छवियों को संयोजित करने पर समन्वय गणना में त्रुटि हुई थी।\nजब दो छवियाँ, बाएँ और दाएँ, संयोजित की गईं, तो TTS प्लेबैक बग को ठीक किया गया।"
+    "devnote": "- ढूंढें और बदलें फ़ंक्शन जोड़ा गया है।\n- उस बग को ठीक किया गया जहां पूर्ण स्क्रीन सेटिंग्स ठीक से लागू नहीं की गई थीं।\n- उस बग को ठीक किया गया जहां टीटीएस खेलते समय \"फ़िल्टर किए गए वाक्य दिखाएं\" फ़ंक्शन काम नहीं करता था।"
   }
 }
