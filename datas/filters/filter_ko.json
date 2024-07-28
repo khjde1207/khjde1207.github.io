@@ -411,7 +411,7 @@
         "enable": true,
         "name": "볼게, 줄게",
         "expr": true,
-        "to": "$1께."
+        "to": "$1께"
     },
     {
         "filter": "권력",
