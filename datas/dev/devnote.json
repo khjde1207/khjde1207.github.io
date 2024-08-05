@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "- Added TTS multi-language function.\n- Added automatic backup function after file modification.\n- Added TTS automatic execution function when running the app."
+    "devnote": "- Added TTS multi-language feature.\n- Added TTS multi-language abbreviation skip feature.\n- Added automatic backup feature after file modification.\n- Added TTS auto-run feature when app is launched.\n- Added TTS auto-run feature when app is activated."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "- TTS 다중 언어 기능을 추가 하였습니다. \n- 파일 수정후 자동 백업 기능을 추가 하였습니다.\n- 어플 실행시 TTS 자동 실행 기능 을 추가 하였습니다."
+    "devnote": "- TTS 다중 언어 기능을 추가 하였습니다. \n- TTS 다중 언어 약어 스킵 기능이 추가 되었습니다. \n- 파일 수정후 자동 백업 기능을 추가 하였습니다.\n- 어플 실행시 TTS 자동 실행 기능 을 추가 하였습니다.\n- 어플 활성화시 TTS 자동 실행 기능 을 추가 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "- Engadida función multilingüe TTS.\n- Engadida función de copia de seguridade automática despois da modificación do ficheiro.\n- Engadiuse a función de execución automática TTS ao executar a aplicación."
+    "devnote": "- Engadida función multilingüe de TTS.\n- Engadiuse a función de salto de abreviaturas multilingües TTS.\n- Engadida función de copia de seguridade automática despois da modificación do ficheiro.\n- Engadiuse a función de execución automática de TTS cando se inicia a aplicación.\n- Engadiuse a función de execución automática de TTS cando a aplicación está activada."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "- TTS મલ્ટિ-લેંગ્વેજ ફંક્શન ઉમેર્યું.\n- ફાઇલમાં ફેરફાર કર્યા પછી સ્વચાલિત બેકઅપ કાર્ય ઉમેર્યું.\n- એપ્લિકેશન ચલાવતી વખતે TTS ઓટોમેટિક એક્ઝેક્યુશન ફંક્શન ઉમેર્યું."
+    "devnote": "- TTS મલ્ટી-લેંગ્વેજ ફીચર ઉમેર્યું.\n- TTS મલ્ટી-લેંગ્વેજ એબ્રીવિએશન સ્કીપ ફીચર ઉમેર્યું.\n- ફાઇલમાં ફેરફાર કર્યા પછી સ્વચાલિત બેકઅપ સુવિધા ઉમેરવામાં આવી.\n- એપ લોંચ થાય ત્યારે TTS ઓટો-રન ફીચર ઉમેર્યું.\n- એપ્લિકેશન સક્રિય થાય ત્યારે TTS ઓટો-રન ફીચર ઉમેર્યું."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "- Προστέθηκε λειτουργία πολλαπλών γλωσσών TTS.\n- Προστέθηκε λειτουργία αυτόματης δημιουργίας αντιγράφων ασφαλείας μετά την τροποποίηση του αρχείου.\n- Προστέθηκε η λειτουργία αυτόματης εκτέλεσης TTS κατά την εκτέλεση της εφαρμογής."
+    "devnote": "- Προστέθηκε δυνατότητα πολλαπλών γλωσσών TTS.\n- Προστέθηκε δυνατότητα παράλειψης συντομογραφίας πολλαπλών γλωσσών TTS.\n- Προστέθηκε δυνατότητα αυτόματης δημιουργίας αντιγράφων ασφαλείας μετά την τροποποίηση του αρχείου.\n- Προστέθηκε η δυνατότητα αυτόματης εκτέλεσης TTS κατά την εκκίνηση της εφαρμογής.\n- Προστέθηκε η δυνατότητα αυτόματης εκτέλεσης TTS όταν η εφαρμογή είναι ενεργοποιημένη."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "- TTS meertalige functie toegevoegd.\n- Automatische back-upfunctie toegevoegd na bestandswijziging.\n- Automatische TTS-uitvoeringsfunctie toegevoegd tijdens het uitvoeren van de app."
+    "devnote": "- Meertalige TTS-functie toegevoegd.\n- Functie voor het overslaan van TTS-afkortingen in meerdere talen toegevoegd.\n- Automatische back-upfunctie toegevoegd na bestandswijziging.\n- TTS auto-run-functie toegevoegd wanneer de app wordt gestart.\n- TTS auto-run-functie toegevoegd wanneer de app is geactiveerd."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "- TTS बहु-भाषा प्रकार्य थपियो।\n- फाइल परिमार्जन पछि स्वचालित ब्याकअप प्रकार्य थपियो।\n- एप चलाउँदा TTS स्वचालित कार्यान्वयन प्रकार्य थपियो।"
+    "devnote": "- TTS बहु-भाषा सुविधा थपियो।\n- थपियो TTS बहु-भाषा संक्षिप्त नाम स्किप सुविधा।\n- फाइल परिमार्जन पछि स्वचालित ब्याकअप सुविधा थपियो।\n- एप सुरु हुँदा TTS स्वत: रन सुविधा थपियो।\n- एप सक्रिय हुँदा TTS स्वत: रन सुविधा थपियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "- Lagt til TTS flerspråklig funksjon.\n- Lagt til automatisk sikkerhetskopieringsfunksjon etter filendring.\n- Lagt til automatisk TTS-utførelsesfunksjon når du kjører appen."
+    "devnote": "- Lagt til TTS flerspråklig funksjon.\n- Lagt til TTS multi-language hopp over forkortelsesfunksjon.\n- Lagt til automatisk sikkerhetskopieringsfunksjon etter filendring.\n- Lagt til TTS auto-run-funksjon når appen startes.\n- Lagt til TTS auto-run funksjon når appen er aktivert."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "- Tilføjet TTS multi-sprog funktion.\n- Tilføjet automatisk sikkerhedskopieringsfunktion efter filændring.\n- Tilføjet automatisk TTS-udførelsesfunktion, når du kører appen."
+    "devnote": "- Tilføjet TTS multi-sprog funktion.\n- Tilføjet TTS-multisprog-overspringsfunktion for forkortelser.\n- Tilføjet automatisk sikkerhedskopieringsfunktion efter filændring.\n- Tilføjet TTS auto-run funktion, når appen startes.\n- Tilføjet TTS auto-run funktion, når app er aktiveret."
   },
   "독일어": {
     "key": "de",
-    "devnote": "- TTS-Mehrsprachenfunktion hinzugefügt.\n- Automatische Sicherungsfunktion nach Dateiänderung hinzugefügt.\n- Automatische TTS-Ausführungsfunktion beim Ausführen der App hinzugefügt."
+    "devnote": "- TTS-Mehrsprachenfunktion hinzugefügt.\n- Funktion zum Überspringen mehrsprachiger TTS-Abkürzungen hinzugefügt.\n- Automatische Sicherungsfunktion nach Dateiänderung hinzugefügt.\n- TTS-Autorun-Funktion hinzugefügt, wenn die App gestartet wird.\n- TTS-Autorun-Funktion hinzugefügt, wenn die App aktiviert ist."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "- ເພີ່ມ TTS ຟັງຊັນຫຼາຍພາສາ.\n- ເພີ່ມການທໍາງານສໍາຮອງຂໍ້ມູນອັດຕະໂນມັດຫຼັງຈາກການດັດແກ້ໄຟລ໌.\n- ເພີ່ມ​ການ​ທໍາ​ງານ​ການ​ປະ​ຕິ​ບັດ​ອັດ​ຕະ​ໂນ​ມັດ TTS ໃນ​ເວ​ລາ​ທີ່​ແລ່ນ app ໄດ້​."
+    "devnote": "- ເພີ່ມ​ຄຸນ​ນະ​ສົມ​ບັດ TTS ຫຼາຍ​ພາ​ສາ​.\n- ເພີ່ມ​ຄຸນ​ສົມ​ບັດ​ຂ້າມ​ຕົວ​ຫຍໍ້ TTS ຫຼາຍ​ພາ​ສາ​.\n- ເພີ່ມຄຸນສົມບັດສໍາຮອງຂໍ້ມູນອັດຕະໂນມັດຫຼັງຈາກການດັດແກ້ໄຟລ໌.\n- ເພີ່ມ​ຄຸນ​ສົມ​ບັດ​ການ​ແລ່ນ​ອັດ​ຕະ​ໂນ​ມັດ TTS ໃນ​ເວ​ລາ​ທີ່ app ໄດ້​ຖືກ​ເປີດ​ຕົວ​.\n- ເພີ່ມ​ຄຸນ​ສົມ​ບັດ​ການ​ດໍາ​ເນີນ​ງານ​ອັດ​ຕະ​ໂນ​ມັດ TTS ໃນ​ເວ​ລາ​ທີ່ app ໄດ້​ຖືກ​ກະ​ຕຸ້ນ​."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "- Pievienota TTS daudzvalodu funkcija.\n- Pievienota automātiskās dublēšanas funkcija pēc faila modifikācijas.\n- Pievienota TTS automātiskās izpildes funkcija, palaižot lietotni."
+    "devnote": "- Pievienota TTS vairāku valodu funkcija.\n- Pievienota TTS vairāku valodu saīsinājuma izlaišanas funkcija.\n- Pievienota automātiskās dublēšanas funkcija pēc faila modifikācijas.\n- Pievienota TTS automātiskās palaišanas funkcija, kad lietotne tiek palaista.\n- Pievienota TTS automātiskās palaišanas funkcija, kad lietotne ir aktivizēta."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "- Добавлена ​​многоязычная функция TTS.\n- Добавлена ​​функция автоматического резервного копирования после изменения файла.\n- Добавлена ​​функция автоматического выполнения TTS при запуске приложения."
+    "devnote": "- Добавлена ​​многоязычная функция TTS.\n- Добавлена ​​функция пропуска многоязычных сокращений TTS.\n- Добавлена ​​функция автоматического резервного копирования после изменения файла.\n- Добавлена ​​функция автоматического запуска TTS при запуске приложения.\n- Добавлена ​​функция автоматического запуска TTS при активации приложения."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "- S-a adăugat funcția TTS în mai multe limbi.\n- S-a adăugat o funcție automată de backup după modificarea fișierului.\n- S-a adăugat funcția de execuție automată TTS la rularea aplicației."
+    "devnote": "- S-a adăugat caracteristica TTS în mai multe limbi.\n- S-a adăugat caracteristica de omitere a abrevierilor în mai multe limbi TTS.\n- A fost adăugată o funcție de backup automată după modificarea fișierului.\n- S-a adăugat funcția de rulare automată TTS la lansarea aplicației.\n- S-a adăugat funcția de rulare automată TTS atunci când aplicația este activată."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "- Pridėta kelių kalbų TTS funkcija.\n- Pridėta automatinio atsarginio kopijavimo funkcija po failo modifikavimo.\n- Pridėta TTS automatinio vykdymo funkcija paleidžiant programą."
+    "devnote": "- Pridėta kelių kalbų TTS funkcija.\n- Pridėta TTS kelių kalbų santrumpos praleidimo funkcija.\n- Pridėta automatinio atsarginio kopijavimo funkcija po failo modifikavimo.\n- Pridėta TTS automatinio paleidimo funkcija, kai programa paleidžiama.\n- Pridėta TTS automatinio paleidimo funkcija, kai programa suaktyvinta."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "- टीटीएस बहु-भाषा कार्य जोडले.\n- फाइल बदल केल्यानंतर स्वयंचलित बॅकअप कार्य जोडले.\n- ॲप चालवताना TTS स्वयंचलित अंमलबजावणी कार्य जोडले."
+    "devnote": "- टीटीएस बहु-भाषा वैशिष्ट्य जोडले.\n- TTS बहु-भाषा संक्षेप वगळा वैशिष्ट्य जोडले.\n- फाइल बदल केल्यानंतर स्वयंचलित बॅकअप वैशिष्ट्य जोडले.\n- ॲप लॉन्च केल्यावर TTS ऑटो-रन वैशिष्ट्य जोडले.\n- ॲप सक्रिय केल्यावर TTS स्वयं-रन वैशिष्ट्य जोडले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "- Додадена е повеќејазична функција TTS.\n- Додадена е функција за автоматска резервна копија по модификација на датотеката.\n- Додадена е функцијата за автоматско извршување TTS при извршување на апликацијата."
+    "devnote": "- Додадена е повеќејазична функција TTS.\n- Додадена е функцијата за прескокнување на повеќејазични кратенки на TTS.\n- Додадена е функција за автоматска резервна копија по модификација на датотеката.\n- Додадена е функција за автоматско вклучување TTS кога ќе се стартува апликацијата.\n- Додадена е функција за автоматско вклучување TTS кога апликацијата е активирана."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "- TTS മൾട്ടി-ലാംഗ്വേജ് ഫംഗ്‌ഷൻ ചേർത്തു.\n- ഫയൽ പരിഷ്ക്കരണത്തിന് ശേഷം യാന്ത്രിക ബാക്കപ്പ് പ്രവർത്തനം ചേർത്തു.\n- ആപ്പ് പ്രവർത്തിപ്പിക്കുമ്പോൾ TTS ഓട്ടോമാറ്റിക് എക്‌സിക്യൂഷൻ ഫംഗ്‌ഷൻ ചേർത്തു."
+    "devnote": "- TTS മൾട്ടി-ലാംഗ്വേജ് ഫീച്ചർ ചേർത്തു.\n- TTS മൾട്ടി-ലാംഗ്വേജ് ചുരുക്കെഴുത്ത് ഒഴിവാക്കൽ ഫീച്ചർ ചേർത്തു.\n- ഫയൽ പരിഷ്‌ക്കരണത്തിന് ശേഷം യാന്ത്രിക ബാക്കപ്പ് ഫീച്ചർ ചേർത്തു.\n- ആപ്പ് ലോഞ്ച് ചെയ്യുമ്പോൾ TTS ഓട്ടോ റൺ ഫീച്ചർ ചേർത്തു.\n- ആപ്പ് ആക്ടിവേറ്റ് ചെയ്യുമ്പോൾ TTS ഓട്ടോ റൺ ഫീച്ചർ ചേർത്തു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "- Menambah fungsi berbilang bahasa TTS.\n- Menambah fungsi sandaran automatik selepas pengubahsuaian fail.\n- Menambah fungsi pelaksanaan automatik TTS semasa menjalankan aplikasi."
+    "devnote": "- Menambah ciri berbilang bahasa TTS.\n- Menambah ciri langkau singkatan berbilang bahasa TTS.\n- Menambah ciri sandaran automatik selepas pengubahsuaian fail.\n- Menambah ciri auto-lari TTS apabila apl dilancarkan.\n- Menambah ciri auto-run TTS apabila aplikasi diaktifkan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "- TTS олон хэлний функцийг нэмсэн.\n- Файлыг өөрчилсний дараа автомат нөөцлөх функц нэмэгдсэн.\n- Програмыг ажиллуулах үед TTS автомат гүйцэтгэх функц нэмэгдсэн."
+    "devnote": "- TTS олон хэлний онцлогийг нэмсэн.\n- TTS олон хэлний товчлолыг алгасах функцийг нэмсэн.\n- Файлыг өөрчилсний дараа автомат нөөцлөх функцийг нэмсэн.\n- Програмыг эхлүүлэх үед TTS автоматаар ажиллуулах функцийг нэмсэн.\n- Програмыг идэвхжүүлсэн үед TTS автоматаар ажиллуулах функцийг нэмсэн."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "- TTS hizkuntza anitzeko funtzioa gehitu da.\n- Fitxategiak aldatu ondoren babeskopia funtzio automatikoa gehitu da.\n- TTS exekuzio automatikoaren funtzioa gehitu da aplikazioa exekutatzen denean."
+    "devnote": "- TTS hizkuntza anitzeko funtzioa gehitu da.\n- TTS hizkuntza anitzeko laburdurak saltatzeko funtzioa gehitu da.\n- Fitxategia aldatu ondoren babeskopia automatikoko funtzioa gehitu da.\n- TTS automatikoki exekutatzeko funtzioa gehitu da aplikazioa abiarazten denean.\n- Aplikazioa aktibatuta dagoenean TTS auto-exekutatzeko funtzioa gehitu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "- ဘာသာစကားပေါင်းစုံ TTS လုပ်ဆောင်ချက်ကို ထည့်သွင်းထားသည်။\n- ဖိုင်မွမ်းမံပြီးနောက် အလိုအလျောက် အရန်ကူးယူမှု လုပ်ဆောင်ချက်ကို ထည့်သွင်းခဲ့သည်။\n- အက်ပ်ကိုအသုံးပြုသည့်အခါ TTS အလိုအလျောက်လုပ်ဆောင်မှုလုပ်ဆောင်ချက်ကိုထည့်သွင်းထားသည်။"
+    "devnote": "- ဘာသာစကားပေါင်းစုံ TTS လုပ်ဆောင်ချက်ကို ထည့်သွင်းထားသည်။\n- TTS ဘာသာပေါင်းစုံ အတိုကောက် skip အင်္ဂါရပ်ကို ထည့်သွင်းထားသည်။\n- ဖိုင်ပြုပြင်မွမ်းမံပြီးနောက် အလိုအလျောက် အရန်ကူးနိုင်သည့်အင်္ဂါရပ်ကို ထည့်သွင်းခဲ့သည်။\n- အက်ပ်ကိုစတင်သောအခါတွင် TTS အလိုအလျောက်လည်ပတ်သည့်အင်္ဂါရပ်ကိုထည့်သွင်းထားသည်။\n- အက်ပ်ကို စဖွင့်သောအခါတွင် TTS အလိုအလျောက်လည်ပတ်သည့်အင်္ဂါရပ်ကို ထည့်သွင်းထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "- Đã thêm chức năng đa ngôn ngữ TTS.\n- Thêm chức năng sao lưu tự động sau khi sửa đổi tập tin.\n- Đã thêm chức năng thực thi tự động TTS khi chạy ứng dụng."
+    "devnote": "- Đã thêm tính năng đa ngôn ngữ TTS.\n- Thêm tính năng bỏ qua viết tắt đa ngôn ngữ TTS.\n- Thêm tính năng sao lưu tự động sau khi sửa đổi tập tin.\n- Đã thêm tính năng tự động chạy TTS khi khởi chạy ứng dụng.\n- Đã thêm tính năng tự động chạy TTS khi ứng dụng được kích hoạt."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "- Дададзеная шматмоўная функцыя TTS.\n- Дададзена функцыя аўтаматычнага рэзервовага капіравання пасля змены файла.\n- Дададзена функцыя аўтаматычнага выканання TTS пры запуску праграмы."
+    "devnote": "- Дададзена шматмоўная функцыя TTS.\n- Дададзена функцыя пропуску шматмоўных абрэвіятур TTS.\n- Дададзена функцыя аўтаматычнага рэзервовага капіравання пасля змены файла.\n- Дададзена функцыя аўтаматычнага запуску TTS пры запуску праграмы.\n- Дададзена функцыя аўтаматычнага запуску TTS пры актывацыі прыкладання."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "- TTS মাল্টি-ভাষা ফাংশন যোগ করা হয়েছে।\n- ফাইল পরিবর্তনের পরে স্বয়ংক্রিয় ব্যাকআপ ফাংশন যোগ করা হয়েছে।\n- অ্যাপ চালানোর সময় TTS স্বয়ংক্রিয় এক্সিকিউশন ফাংশন যোগ করা হয়েছে।"
+    "devnote": "- TTS মাল্টি-ভাষা বৈশিষ্ট্য যোগ করা হয়েছে।\n- যোগ করা হয়েছে TTS মাল্টি-ভাষা সংক্ষেপণ স্কিপ বৈশিষ্ট্য।\n- ফাইল পরিবর্তনের পরে স্বয়ংক্রিয় ব্যাকআপ বৈশিষ্ট্য যুক্ত করা হয়েছে।\n- অ্যাপ চালু হলে TTS অটো-রান বৈশিষ্ট্য যোগ করা হয়েছে।\n- অ্যাপ সক্রিয় করা হলে TTS স্বয়ংক্রিয়-রান বৈশিষ্ট্য যোগ করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "- Добавена TTS многоезична функция.\n- Добавена функция за автоматично архивиране след промяна на файл.\n- Добавена функция за автоматично изпълнение на TTS при стартиране на приложението."
+    "devnote": "- Добавена TTS многоезична функция.\n- Добавена TTS функция за пропускане на многоезични съкращения.\n- Добавена функция за автоматично архивиране след промяна на файл.\n- Добавена функция за автоматично стартиране на TTS при стартиране на приложението.\n- Добавена функция за автоматично стартиране на TTS, когато приложението е активирано."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "- Додата ТТС вишејезична функција.\n- Додата функција аутоматског прављења резервних копија након модификације датотеке.\n- Додата функција аутоматског извршавања ТТС-а приликом покретања апликације."
+    "devnote": "- Додата ТТС вишејезична функција.\n- Додата функција прескакања вишејезичних скраћеница ТТС-а.\n- Додата функција аутоматског прављења резервних копија након модификације датотеке.\n- Додата функција ТТС аутоматског покретања када се апликација покрене.\n- Додата ТТС функција аутоматског покретања када је апликација активирана."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "- Imeongeza kazi ya lugha nyingi ya TTS.\n- Imeongeza kazi ya chelezo kiotomatiki baada ya urekebishaji wa faili.\n- Imeongeza kazi ya utekelezaji wa moja kwa moja ya TTS wakati wa kuendesha programu."
+    "devnote": "- Kipengele cha TTS cha lugha nyingi kimeongezwa.\n- Kipengele cha kuruka kifupi cha lugha nyingi cha TTS kimeongezwa.\n- Imeongeza kipengee cha chelezo kiotomatiki baada ya urekebishaji wa faili.\n- Kipengele cha kukimbia kiotomatiki kwa TTS wakati programu imezinduliwa.\n- Kipengele cha kukimbia kiotomatiki kwa TTS wakati programu imeamilishwa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "- Tillagd TTS flerspråkig funktion.\n- Lade till automatisk säkerhetskopieringsfunktion efter filändring.\n- Tillagd TTS automatisk exekveringsfunktion när du kör appen."
+    "devnote": "- Tillagd TTS flerspråkig funktion.\n- Tillagd TTS-funktion för flerspråkig förkortning.\n- Lade till automatisk säkerhetskopieringsfunktion efter filändring.\n- Tillagd TTS-autokörningsfunktion när appen startas.\n- Tillagd TTS-autokörningsfunktion när appen är aktiverad."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "- Se agregó la función TTS en varios idiomas.\n- Se agregó la función de copia de seguridad automática después de la modificación del archivo.\n- Se agregó la función de ejecución automática de TTS al ejecutar la aplicación."
+    "devnote": "- Se agregó la función TTS en varios idiomas.\n- Se agregó la función de omisión de abreviaturas en varios idiomas de TTS.\n- Se agregó la función de copia de seguridad automática después de la modificación del archivo.\n- Se agregó la función de ejecución automática de TTS cuando se inicia la aplicación.\n- Se agregó la función de ejecución automática de TTS cuando se activa la aplicación."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "- Pridaná viacjazyčná funkcia TTS.\n- Pridaná funkcia automatického zálohovania po úprave súboru.\n- Pridaná funkcia automatického vykonávania TTS pri spustení aplikácie."
+    "devnote": "- Pridaná viacjazyčná funkcia TTS.\n- Pridaná funkcia preskočenia viacjazyčnej skratky TTS.\n- Pridaná funkcia automatického zálohovania po úprave súboru.\n- Pridaná funkcia automatického spustenia TTS pri spustení aplikácie.\n- Pridaná funkcia automatického spustenia TTS pri aktivácii aplikácie."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "- Dodana večjezična funkcija TTS.\n- Dodana funkcija samodejnega varnostnega kopiranja po spremembi datoteke.\n- Dodana funkcija samodejnega izvajanja TTS med zagonom aplikacije."
+    "devnote": "- Dodana večjezična funkcija TTS.\n- Dodana funkcija preskakovanja okrajšav v več jezikih TTS.\n- Dodana funkcija samodejnega varnostnega kopiranja po spremembi datoteke.\n- Dodana funkcija samodejnega zagona TTS ob zagonu aplikacije.\n- Dodana funkcija samodejnega zagona TTS, ko je aplikacija aktivirana."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "- TTS බහු භාෂා ශ්‍රිතය එක් කරන ලදී.\n- ගොනු වෙනස් කිරීමෙන් පසු ස්වයංක්‍රීය උපස්ථ ක්‍රියාකාරිත්වය එක් කරන ලදී.\n- යෙදුම ධාවනය කරන විට TTS ස්වයංක්‍රීය ක්‍රියාත්මක කිරීමේ කාර්යය එක් කරන ලදී."
+    "devnote": "- TTS බහු භාෂා විශේෂාංගය එක් කරන ලදී.\n- TTS බහු භාෂා කෙටි යෙදුම් මඟ හැරීමේ විශේෂාංගය එක් කරන ලදී.\n- ගොනු වෙනස් කිරීමෙන් පසු ස්වයංක්‍රීය උපස්ථ විශේෂාංගය එක් කරන ලදී.\n- යෙදුම දියත් කළ විට TTS ස්වයංක්‍රීය ධාවන විශේෂාංගය එක් කරන ලදී.\n- යෙදුම සක්‍රිය වූ විට TTS ස්වයංක්‍රීය ධාවන විශේෂාංගය එක් කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "- أضيفت وظيفة TTS متعددة اللغات.\n- أضيفت وظيفة النسخ الاحتياطي التلقائي بعد تعديل الملف.\n- تمت إضافة وظيفة التنفيذ التلقائي لتحويل النص إلى كلام (TTS) عند تشغيل التطبيق."
+    "devnote": "- تمت إضافة ميزة TTS متعددة اللغات.\n- تمت إضافة ميزة تخطي اختصار TTS متعدد اللغات.\n- تمت إضافة ميزة النسخ الاحتياطي التلقائي بعد تعديل الملف.\n- تمت إضافة ميزة التشغيل التلقائي لتحويل النص إلى كلام (TTS) عند تشغيل التطبيق.\n- تمت إضافة ميزة التشغيل التلقائي لتحويل النص إلى كلام (TTS) عند تنشيط التطبيق."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "- Ավելացվեց TTS բազմալեզու գործառույթ:\n- Ֆայլի փոփոխությունից հետո ավելացվել է ավտոմատ կրկնօրինակման գործառույթ:\n- Հավելվածը գործարկելիս ավելացվել է TTS ավտոմատ կատարման գործառույթը:"
+    "devnote": "- Ավելացվեց TTS բազմալեզու հատկությունը:\n- Ավելացվեց TTS բազմալեզու հապավումների բաց թողնելու հատկությունը:\n- Ֆայլի փոփոխությունից հետո ավելացվել է ավտոմատ կրկնօրինակման գործառույթ:\n- Ավելացվեց TTS ավտոմատ գործարկման հատկությունը, երբ ծրագիրը գործարկվի:\n- Ավելացվեց TTS ավտոմատ գործարկման հատկությունը, երբ հավելվածն ակտիվացված է:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "- Bætt við TTS fjöltunguaðgerð.\n- Bætt við sjálfvirkri öryggisafritunaraðgerð eftir skráarbreytingu.\n- Bætt við TTS sjálfvirkri framkvæmdaraðgerð þegar forritið er keyrt."
+    "devnote": "- Bætt við TTS fjöltungumálaeiginleika.\n- Bætt við TTS fjöltungumál skammstöfunar sleppa eiginleika.\n- Bætti við sjálfvirkum öryggisafritunaraðgerðum eftir breytingar á skrá.\n- Bætti við TTS sjálfvirkri keyrsluaðgerð þegar app er ræst.\n- Bætti við TTS sjálfvirkri keyrsluaðgerð þegar forritið er virkt."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "- TTS çoxdilli funksiyası əlavə edildi.\n- Fayl dəyişdirildikdən sonra avtomatik ehtiyat funksiyası əlavə edildi.\n- Proqramı işləyərkən TTS avtomatik icra funksiyası əlavə edildi."
+    "devnote": "- TTS çoxdilli xüsusiyyət əlavə edildi.\n- TTS çoxdilli abbreviatura atlama xüsusiyyəti əlavə edildi.\n- Fayl modifikasiyasından sonra avtomatik ehtiyat nüsxə funksiyası əlavə edildi.\n- Proqram işə salındıqda TTS avtomatik işləmə xüsusiyyəti əlavə edildi.\n- Proqram aktivləşdirildikdə TTS avtomatik işləmə funksiyası əlavə edildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "- Bygevoeg TTS multi-taal funksie.\n- Bygevoeg outomatiese rugsteunfunksie na lêerwysiging.\n- Bygevoeg TTS outomatiese uitvoering funksie wanneer die toepassing loop."
+    "devnote": "- Bygevoeg TTS multi-taal funksie.\n- Bygevoeg TTS multi-taal afkorting skip funksie.\n- Bygevoeg outomatiese rugsteunfunksie na lêerwysiging.\n- Bygevoeg TTS-outo-run-funksie wanneer die toepassing begin word.\n- Bygevoeg TTS outo-run funksie wanneer app geaktiveer is."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "- U shtua funksioni shumë-gjuhësh TTS.\n- U shtua funksioni i rezervimit automatik pas modifikimit të skedarit.\n- U shtua funksioni i ekzekutimit automatik TTS gjatë ekzekutimit të aplikacionit."
+    "devnote": "- U shtua veçori shumë-gjuhëshe TTS.\n- U shtua veçoria e kapërcimit të shkurtesave shumë-gjuhëshe TTS.\n- U shtua veçoria e rezervimit automatik pas modifikimit të skedarit.\n- U shtua veçoria e ekzekutimit automatik të TTS kur të hapet aplikacioni.\n- U shtua funksioni i ekzekutimit automatik të TTS kur aktivizohet aplikacioni."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "- ታክሏል TTS ባለብዙ ቋንቋ ተግባር.\n- ከፋይል ማሻሻያ በኋላ አውቶማቲክ የመጠባበቂያ ተግባር ታክሏል.\n- መተግበሪያውን በሚሰራበት ጊዜ TTS አውቶማቲክ የማስፈጸሚያ ተግባር ታክሏል።"
+    "devnote": "- ታክሏል TTS ባለብዙ ቋንቋ ባህሪ.\n- ታክሏል TTS ባለብዙ ቋንቋ ምህጻረ ቃል መዝለል ባህሪ.\n- ከፋይል ማሻሻያ በኋላ አውቶማቲክ የመጠባበቂያ ባህሪ ታክሏል.\n- መተግበሪያ ሲጀመር TTS በራስ-አሂድ ባህሪ ታክሏል።\n- መተግበሪያ ሲነቃ TTS በራስ-አሂድ ባህሪ ታክሏል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "- Lisatud TTS-i mitmekeelne funktsioon.\n- Lisatud automaatse varundamise funktsioon pärast faili muutmist.\n- Rakenduse käitamisel on lisatud TTS-i automaatse täitmise funktsioon."
+    "devnote": "- Lisatud TTS-i mitmekeelne funktsioon.\n- Lisatud TTS-i mitmekeelse lühendi vahelejätmise funktsioon.\n- Lisatud automaatse varundamise funktsioon pärast faili muutmist.\n- Rakenduse käivitamisel on lisatud TTS-i automaatse käivitamise funktsioon.\n- Lisatud TTS-i automaatse käivitamise funktsioon, kui rakendus on aktiveeritud."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "- TTS ملٹی لینگویج فنکشن کو شامل کیا گیا۔\n- فائل میں ترمیم کے بعد خودکار بیک اپ فنکشن شامل کیا گیا۔\n- ایپ کو چلاتے وقت TTS خود کار طریقے سے عملدرآمد کا فنکشن شامل کیا گیا۔"
+    "devnote": "- TTS کثیر زبان کی خصوصیت شامل کی گئی۔\n- TTS کثیر زبان کے مخفف کو چھوڑنے کی خصوصیت شامل کی گئی۔\n- فائل میں ترمیم کے بعد خودکار بیک اپ فیچر شامل کیا گیا۔\n- ایپ لانچ ہونے پر TTS آٹو رن فیچر شامل کیا گیا۔\n- ایپ کو چالو کرنے پر TTS آٹو رن فیچر شامل کیا گیا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "— Додано багатомовну функцію TTS.\n— Додано функцію автоматичного резервного копіювання після зміни файлу.\n— Додано функцію автоматичного виконання TTS під час запуску програми."
+    "devnote": "— Додано багатомовну функцію TTS.\n— Додано функцію пропуску багатомовних абревіатур TTS.\n— Додано функцію автоматичного резервного копіювання після зміни файлу.\n— Додано функцію автоматичного запуску TTS під час запуску програми.\n— Додано функцію автоматичного запуску TTS, коли програму активовано."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "- Aggiunta la funzione multilingue TTS.\n- Aggiunta la funzione di backup automatico dopo la modifica del file.\n- Aggiunta la funzione di esecuzione automatica TTS durante l'esecuzione dell'app."
+    "devnote": "- Aggiunta la funzionalità multilingue TTS.\n- Aggiunta la funzione di salto delle abbreviazioni multilingue TTS.\n- Aggiunta funzionalità di backup automatico dopo la modifica del file.\n- Aggiunta la funzionalità di esecuzione automatica TTS all'avvio dell'app.\n- Aggiunta la funzionalità di esecuzione automatica TTS quando l'app è attivata."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "- Menambahkan fungsi multi-bahasa TTS.\n- Menambahkan fungsi pencadangan otomatis setelah modifikasi file.\n- Menambahkan fungsi eksekusi otomatis TTS saat menjalankan aplikasi."
+    "devnote": "- Menambahkan fitur multi-bahasa TTS.\n- Menambahkan fitur lewati singkatan multi-bahasa TTS.\n- Menambahkan fitur pencadangan otomatis setelah modifikasi file.\n- Menambahkan fitur jalankan otomatis TTS saat aplikasi diluncurkan.\n- Menambahkan fitur jalankan otomatis TTS saat aplikasi diaktifkan."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "- TTS多言語機能を追加しました。\n- ファイル変更後の自動バックアップ機能を追加しました。\n- アプリ実行時のTTS自動実行機能を追加しました。"
+    "devnote": "- TTS 多言語機能を追加しました。\n- TTS 多言語略語スキップ機能を追加しました。\n- ファイル変更後の自動バックアップ機能を追加しました。\n- アプリ起動時のTTS自動実行機能を追加しました。\n- アプリ起動時のTTS自動実行機能を追加しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "- დამატებულია TTS მრავალენოვანი ფუნქცია.\n- დაემატა ავტომატური სარეზერვო ფუნქცია ფაილის შეცვლის შემდეგ.\n- დამატებულია TTS ავტომატური შესრულების ფუნქცია აპის გაშვებისას."
+    "devnote": "- დამატებულია TTS მრავალენოვანი ფუნქცია.\n- დამატებულია TTS მრავალენოვანი აბრევიატურების გამოტოვების ფუნქცია.\n- დაემატა ავტომატური სარეზერვო ფუნქცია ფაილის შეცვლის შემდეგ.\n- დაემატა TTS ავტომატური გაშვების ფუნქცია აპლიკაციის გაშვებისას.\n- დაემატა TTS ავტომატური გაშვების ფუნქცია, როდესაც აპლიკაცია გააქტიურებულია."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "- Kungezwe umsebenzi wezilimi eziningi we-TTS.\n- Kwengezwe umsebenzi wesipele othomathikhi ngemuva kokuguqulwa kwefayela.\n- Kungezwe umsebenzi wokwenza okuzenzakalelayo we-TTS lapho usebenzisa uhlelo lokusebenza."
+    "devnote": "- Kungezwe isici se-TTS sezilimi eziningi.\n- Kungezwe isici se-TTS sokweqa izilimi eziningi.\n- Kungezwe isici sokusekelayo esizenzakalelayo ngemva kokuguqulwa kwefayela.\n- Isici esizenzakalelayo se-TTS esingeziwe lapho kwethulwa uhlelo lokusebenza.\n- Isici esizenzakalelayo se-TTS esingeziwe lapho uhlelo lokusebenza lucushiwe."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "- 新增TTS多语言功能。\n- 增加文件修改后自动备份功能。\n- 新增运行应用时TTS自动执行功能。"
+    "devnote": "- 新增TTS多语言功能。\n- 新增TTS多语言缩写跳过功能。\n- 增加文件修改后自动备份功能。\n- 添加应用程序启动时 TTS 自动运行功能。\n- 添加了应用程序激活时 TTS 自动运行功能。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "- 新增TTS多語言功能。\n- 增加檔案修改後自動備份功能。\n- 新增執行應用程式時TTS自動執行功能。"
+    "devnote": "- 新增TTS多語言功能。\n- 新增TTS多語言縮寫跳過功能。\n- 增加檔案修改後自動備份功能。\n- 新增應用程式啟動時 TTS 自動運行功能。\n- 新增了應用程式啟動時 TTS 自動運行功能。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "- 新增TTS多語言功能。\n- 增加檔案修改後自動備份功能。\n- 新增執行應用程式時TTS自動執行功能。"
+    "devnote": "- 新增TTS多語言功能。\n- 新增TTS多語言縮寫跳過功能。\n- 增加檔案修改後自動備份功能。\n- 新增應用程式啟動時 TTS 自動運行功能。\n- 新增了應用程式啟動時 TTS 自動運行功能。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "- Přidána vícejazyčná funkce TTS.\n- Přidána funkce automatického zálohování po úpravě souboru.\n- Přidána funkce automatického spuštění TTS při spuštění aplikace."
+    "devnote": "- Přidána vícejazyčná funkce TTS.\n- Přidána funkce přeskakování vícejazyčných zkratek TTS.\n- Přidána funkce automatického zálohování po úpravě souboru.\n- Přidána funkce automatického spouštění TTS při spuštění aplikace.\n- Přidána funkce automatického spuštění TTS při aktivaci aplikace."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "- TTS көп тілді функциясы қосылды.\n- Файлды өзгерткеннен кейін автоматты сақтық көшірме жасау функциясы қосылды.\n- Қолданбаны іске қосу кезінде TTS автоматты орындау функциясы қосылды."
+    "devnote": "- TTS көп тілді мүмкіндігі қосылды.\n- TTS көп тілді аббревиатураны өткізіп жіберу мүмкіндігі қосылды.\n- Файлды өзгерткеннен кейін автоматты сақтық көшірме жасау мүмкіндігі қосылды.\n- Қолданба іске қосылған кезде TTS автоматты іске қосу мүмкіндігі қосылды.\n- Қолданба белсендірілген кезде TTS автоматты іске қосу мүмкіндігі қосылды."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "- S'ha afegit la funció multi-idioma TTS.\n- S'ha afegit una funció de còpia de seguretat automàtica després de la modificació del fitxer.\n- S'ha afegit la funció d'execució automàtica TTS quan s'executa l'aplicació."
+    "devnote": "- S'ha afegit una funció multi-idioma TTS.\n- S'ha afegit la funció de salt d'abreviatura multi-idioma TTS.\n- S'ha afegit una funció de còpia de seguretat automàtica després de la modificació del fitxer.\n- S'ha afegit la funció d'execució automàtica de TTS quan s'inicia l'aplicació.\n- S'ha afegit la funció d'execució automàtica de TTS quan l'aplicació està activada."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "- TTS ಬಹು-ಭಾಷಾ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಫೈಲ್ ಮಾರ್ಪಾಡು ನಂತರ ಸ್ವಯಂಚಾಲಿತ ಬ್ಯಾಕಪ್ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಚಾಲನೆ ಮಾಡುವಾಗ TTS ಸ್ವಯಂಚಾಲಿತ ಎಕ್ಸಿಕ್ಯೂಶನ್ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ."
+    "devnote": "- TTS ಬಹು-ಭಾಷಾ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- TTS ಬಹು ಭಾಷೆಯ ಸಂಕ್ಷೇಪಣ ಸ್ಕಿಪ್ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಫೈಲ್ ಮಾರ್ಪಾಡು ನಂತರ ಸ್ವಯಂಚಾಲಿತ ಬ್ಯಾಕಪ್ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಪ್ರಾರಂಭಿಸಿದಾಗ TTS ಸ್ವಯಂ-ರನ್ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿದಾಗ TTS ಸ್ವಯಂ-ರನ್ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "- Dodana TTS višejezična funkcija.\n- Dodana funkcija automatskog sigurnosnog kopiranja nakon izmjene datoteke.\n- Dodana funkcija TTS automatskog izvršavanja prilikom pokretanja aplikacije."
+    "devnote": "- Dodana TTS višejezična značajka.\n- Dodana TTS značajka preskakanja višejezičnih kratica.\n- Dodana značajka automatskog sigurnosnog kopiranja nakon izmjene datoteke.\n- Dodana TTS značajka automatskog pokretanja kada se aplikacija pokrene.\n- Dodana značajka automatskog pokretanja TTS-a kada je aplikacija aktivirana."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "- បានបន្ថែមមុខងារពហុភាសា TTS ។\n- បានបន្ថែមមុខងារបម្រុងទុកដោយស្វ័យប្រវត្តិបន្ទាប់ពីការកែប្រែឯកសារ។\n- បានបន្ថែមមុខងារប្រតិបត្តិដោយស្វ័យប្រវត្តិ TTS នៅពេលដំណើរការកម្មវិធី។"
+    "devnote": "- បានបន្ថែមមុខងារពហុភាសា TTS ។\n- បន្ថែមមុខងាររំលងអក្សរកាត់ពហុភាសា TTS ។\n- បានបន្ថែមមុខងារបម្រុងទុកដោយស្វ័យប្រវត្តិបន្ទាប់ពីការកែប្រែឯកសារ។\n- បានបន្ថែមមុខងារដំណើរការដោយស្វ័យប្រវត្តិ TTS នៅពេលដែលកម្មវិធីត្រូវបានបើកដំណើរការ។\n- បានបន្ថែមមុខងារដំណើរការដោយស្វ័យប្រវត្តិ TTS នៅពេលដែលកម្មវិធីត្រូវបានធ្វើឱ្យសកម្ម។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "- TTS көп тилдүү функциясы кошулду.\n- Файлды өзгөртүүдөн кийин автоматтык резервдик көчүрүү функциясы кошулду.\n- Колдонмону иштетип жатканда TTS автоматтык аткаруу функциясы кошулду."
+    "devnote": "- TTS көп тилдүү өзгөчөлүгү кошулду.\n- TTS көп тилдүү аббревиатураны өткөрүп жиберүү функциясы кошулду.\n- Файлды өзгөртүүдөн кийин автоматтык камдык көчүрмөнү сактоо функциясы кошулду.\n- Колдонмо ишке киргизилгенде TTS автоматтык түрдө иштетүү функциясы кошулду.\n- Колдонмо иштетилгенде TTS автоматтык түрдө иштетүү функциясы кошулду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "- TTS பல மொழி செயல்பாடு சேர்க்கப்பட்டது.\n- கோப்பு மாற்றத்திற்குப் பிறகு தானியங்கு காப்பு செயல்பாடு சேர்க்கப்பட்டது.\n- பயன்பாட்டை இயக்கும் போது TTS தானியங்கி செயல்படுத்தல் செயல்பாடு சேர்க்கப்பட்டது."
+    "devnote": "- TTS பல மொழி அம்சம் சேர்க்கப்பட்டது.\n- TTS பல மொழி சுருக்கமான ஸ்கிப் அம்சம் சேர்க்கப்பட்டது.\n- கோப்பு மாற்றத்திற்குப் பிறகு தானியங்கு காப்பு அம்சம் சேர்க்கப்பட்டது.\n- பயன்பாடு தொடங்கப்படும் போது TTS தானாக இயங்கும் அம்சம் சேர்க்கப்பட்டது.\n- பயன்பாடு செயல்படுத்தப்படும் போது TTS தானாக இயங்கும் அம்சம் சேர்க்கப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "- เพิ่มฟังก์ชันหลายภาษาของ TTS\n- เพิ่มฟังก์ชันการสำรองข้อมูลอัตโนมัติหลังการแก้ไขไฟล์\n- เพิ่มฟังก์ชันการดำเนินการอัตโนมัติ TTS เมื่อเรียกใช้แอป"
+    "devnote": "- เพิ่มคุณสมบัติหลายภาษาของ TTS\n- เพิ่มคุณสมบัติการข้ามตัวย่อหลายภาษาของ TTS\n- เพิ่มคุณสมบัติการสำรองข้อมูลอัตโนมัติหลังจากแก้ไขไฟล์\n- เพิ่มคุณสมบัติการทำงานอัตโนมัติของ TTS เมื่อเปิดแอป\n- เพิ่มคุณสมบัติการทำงานอัตโนมัติของ TTS เมื่อเปิดใช้งานแอป"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "- TTS çoklu dil işlevi eklendi.\n- Dosya değişikliğinden sonra otomatik yedekleme işlevi eklendi.\n- Uygulamayı çalıştırırken TTS otomatik yürütme işlevi eklendi."
+    "devnote": "- TTS çoklu dil özelliği eklendi.\n- TTS çoklu dil kısaltma atlama özelliği eklendi.\n- Dosya değişikliğinden sonra otomatik yedekleme özelliği eklendi.\n- Uygulama başlatıldığında TTS otomatik çalıştırma özelliği eklendi.\n- Uygulama etkinleştirildiğinde TTS otomatik çalıştırma özelliği eklendi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "- TTS బహుళ భాషా ఫంక్షన్ జోడించబడింది.\n- ఫైల్ సవరణ తర్వాత ఆటోమేటిక్ బ్యాకప్ ఫంక్షన్ జోడించబడింది.\n- యాప్‌ని రన్ చేస్తున్నప్పుడు TTS ఆటోమేటిక్ ఎగ్జిక్యూషన్ ఫంక్షన్ జోడించబడింది."
+    "devnote": "- TTS బహుళ భాషా ఫీచర్ జోడించబడింది.\n- TTS బహుళ భాషా సంక్షిప్తీకరణ స్కిప్ ఫీచర్ జోడించబడింది.\n- ఫైల్ సవరణ తర్వాత ఆటోమేటిక్ బ్యాకప్ ఫీచర్ జోడించబడింది.\n- యాప్ ప్రారంభించబడినప్పుడు TTS ఆటో-రన్ ఫీచర్ జోడించబడింది.\n- యాప్ యాక్టివేట్ అయినప్పుడు TTS ఆటో-రన్ ఫీచర్ జోడించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "- ਟੀਟੀਐਸ ਮਲਟੀ-ਲੈਂਗਵੇਜ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।\n- ਫਾਈਲ ਸੋਧ ਤੋਂ ਬਾਅਦ ਆਟੋਮੈਟਿਕ ਬੈਕਅਪ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।\n- ਐਪ ਨੂੰ ਚਲਾਉਣ ਵੇਲੇ TTS ਆਟੋਮੈਟਿਕ ਐਗਜ਼ੀਕਿਊਸ਼ਨ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।"
+    "devnote": "- ਟੀਟੀਐਸ ਬਹੁ-ਭਾਸ਼ਾ ਵਿਸ਼ੇਸ਼ਤਾ ਸ਼ਾਮਲ ਕੀਤੀ ਗਈ।\n- ਟੀਟੀਐਸ ਮਲਟੀ-ਲੈਂਗਵੇਜ ਐਬ੍ਰਵੀਏਸ਼ਨ ਛੱਡਣ ਦੀ ਵਿਸ਼ੇਸ਼ਤਾ ਸ਼ਾਮਲ ਕੀਤੀ ਗਈ।\n- ਫਾਈਲ ਸੋਧ ਤੋਂ ਬਾਅਦ ਆਟੋਮੈਟਿਕ ਬੈਕਅਪ ਵਿਸ਼ੇਸ਼ਤਾ ਸ਼ਾਮਲ ਕੀਤੀ ਗਈ।\n- ਐਪ ਲਾਂਚ ਹੋਣ 'ਤੇ TTS ਆਟੋ-ਰਨ ਫੀਚਰ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।\n- ਐਪ ਐਕਟੀਵੇਟ ਹੋਣ 'ਤੇ TTS ਆਟੋ-ਰਨ ਫੀਚਰ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "- اضافه شدن عملکرد چند زبانه TTS.\n- اضافه شدن عملکرد پشتیبان گیری خودکار پس از اصلاح فایل.\n- اضافه شدن عملکرد اجرای خودکار TTS هنگام اجرای برنامه."
+    "devnote": "- اضافه شدن ویژگی چند زبانه TTS.\n- اضافه شدن ویژگی پرش مخفف چند زبانه TTS.\n- اضافه شدن قابلیت پشتیبان گیری خودکار پس از اصلاح فایل.\n- اضافه شدن ویژگی اجرای خودکار TTS هنگام راه اندازی برنامه.\n- هنگامی که برنامه فعال می شود، ویژگی اجرای خودکار TTS اضافه شد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "- Adicionada função multilíngue TTS.\n- Adicionada função de backup automático após modificação do arquivo.\n- Adicionada função de execução automática TTS ao executar o aplicativo."
+    "devnote": "- Adicionado recurso multilíngue TTS.\n- Adicionado recurso de pular abreviatura multilíngue TTS.\n- Adicionado recurso de backup automático após modificação do arquivo.\n- Adicionado recurso de execução automática TTS quando o aplicativo é iniciado.\n- Adicionado recurso de execução automática TTS quando o aplicativo é ativado."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "- Dodano funkcję wielojęzyczną TTS.\n- Dodano funkcję automatycznego tworzenia kopii zapasowych po modyfikacji pliku.\n- Dodano funkcję automatycznego wykonywania TTS podczas uruchamiania aplikacji."
+    "devnote": "— Dodano funkcję wielojęzyczności TTS.\n— Dodano funkcję pomijania wielojęzycznych skrótów TTS.\n- Dodano funkcję automatycznego tworzenia kopii zapasowych po modyfikacji pliku.\n- Dodano funkcję automatycznego uruchamiania TTS po uruchomieniu aplikacji.\n- Dodano funkcję automatycznego uruchamiania TTS po aktywacji aplikacji."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "- Ajout de la fonction multilingue TTS.\n- Ajout d'une fonction de sauvegarde automatique après modification du fichier.\n- Ajout de la fonction d'exécution automatique TTS lors de l'exécution de l'application."
+    "devnote": "- Ajout de la fonctionnalité multilingue TTS.\n- Ajout de la fonctionnalité de saut d'abréviation multilingue TTS.\n- Ajout d'une fonctionnalité de sauvegarde automatique après modification du fichier.\n- Ajout de la fonctionnalité d'exécution automatique TTS au lancement de l'application.\n- Ajout de la fonctionnalité d'exécution automatique TTS lorsque l'application est activée."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "- Lisätty monikielinen TTS-toiminto.\n- Lisätty automaattinen varmuuskopiointi tiedoston muuttamisen jälkeen.\n- Lisätty automaattinen TTS-suoritustoiminto sovellusta käytettäessä."
+    "devnote": "- Lisätty monikielinen TTS-ominaisuus.\n- Lisätty monikielinen TTS-lyhenne ohitusominaisuus.\n- Lisätty automaattinen varmuuskopiointi tiedoston muuttamisen jälkeen.\n- Lisätty TTS-automaattinen käynnistysominaisuus, kun sovellus käynnistetään.\n- Lisätty TTS:n automaattinen käynnistysominaisuus, kun sovellus on aktivoitu."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "- Nagdagdag ng TTS multi-language function.\n- Nagdagdag ng awtomatikong backup function pagkatapos ng pagbabago ng file.\n- Idinagdag TTS awtomatikong pagpapatupad function kapag tumatakbo ang app."
+    "devnote": "- Nagdagdag ng tampok na multi-wika ng TTS.\n- Nagdagdag ng TTS multi-language abbreviation skip feature.\n- Nagdagdag ng awtomatikong backup na tampok pagkatapos ng pagbabago ng file.\n- Nagdagdag ng TTS auto-run feature kapag inilunsad ang app.\n- Nagdagdag ng TTS auto-run na tampok kapag na-activate ang app."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "- Hozzáadott többnyelvű TTS funkció.\n- Automatikus biztonsági mentés funkció hozzáadva a fájl módosítása után.\n- Hozzáadott TTS automatikus végrehajtási funkció az alkalmazás futtatásakor."
+    "devnote": "- Hozzáadott többnyelvű TTS funkció.\n- Hozzáadott TTS többnyelvű rövidítés kihagyás funkció.\n- Automatikus biztonsági mentés funkció hozzáadva a fájl módosítása után.\n- Hozzáadott TTS automatikus futtatási funkció az alkalmazás indításakor.\n- Hozzáadott TTS automatikus futtatási funkció, amikor az alkalmazás aktiválva van."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "- נוספה פונקציית TTS מרובת שפות.\n- נוספה פונקציית גיבוי אוטומטית לאחר שינוי הקובץ.\n- נוספה פונקציית הפעלה אוטומטית של TTS בעת הפעלת האפליקציה."
+    "devnote": "- נוספה תכונת TTS מרובת שפות.\n- נוספה תכונת דילוג על קיצור רב שפות של TTS.\n- הוספת תכונת גיבוי אוטומטי לאחר שינוי הקובץ.\n- הוספת תכונת הפעלה אוטומטית של TTS בעת הפעלת האפליקציה.\n- הוספת תכונת הפעלה אוטומטית של TTS כאשר האפליקציה מופעלת."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "- टीटीएस बहुभाषी फ़ंक्शन जोड़ा गया।\n- फ़ाइल संशोधन के बाद स्वचालित बैकअप फ़ंक्शन जोड़ा गया।\n- ऐप चलाते समय टीटीएस स्वचालित निष्पादन फ़ंक्शन जोड़ा गया।"
+    "devnote": "- टीटीएस बहुभाषी सुविधा जोड़ी गई।\n- टीटीएस बहुभाषी संक्षिप्त नाम स्किप सुविधा जोड़ी गई।\n- फ़ाइल संशोधन के बाद स्वचालित बैकअप सुविधा जोड़ी गई।\n- ऐप लॉन्च होने पर टीटीएस ऑटो-रन सुविधा जोड़ी गई।\n- ऐप सक्रिय होने पर टीटीएस ऑटो-रन सुविधा जोड़ी गई।"
   }
 }
