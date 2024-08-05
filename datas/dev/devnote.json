@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "- Find and replace function has been added.\n- Fixed a bug where full screen settings were not applied properly.\n- Fixed a bug where the “Show filtered sentences” function did not work when playing TTS."
+    "devnote": "- Added TTS multi-language function.\n- Added automatic backup function after file modification.\n- Added TTS automatic execution function when running the app."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "- 찾아 바꾸기 기능 을 추가하였습니다.   \n- 풀스크린 설정이 제대로 적용 안되던 버그를 수정 하였습니다. \n- TTS 재생시 \"필터 적용된 문장표시\" 기능이 작동 안하던 버그를 수정 하였습니다."
+    "devnote": "- TTS 다중 언어 기능을 추가 하였습니다. \n- 파일 수정후 자동 백업 기능을 추가 하였습니다.\n- 어플 실행시 TTS 자동 실행 기능 을 추가 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "- Engadiuse a función Buscar e substituír.\n- Solucionouse un erro no que a configuración da pantalla completa non se aplicaba correctamente.\n- Corrixiuse un erro no que a función \"Mostrar frases filtradas\" non funcionaba ao xogar a TTS."
+    "devnote": "- Engadida función multilingüe TTS.\n- Engadida función de copia de seguridade automática despois da modificación do ficheiro.\n- Engadiuse a función de execución automática TTS ao executar a aplicación."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "- શોધો અને બદલો ફંક્શન ઉમેરવામાં આવ્યું છે.\n- જ્યાં સંપૂર્ણ સ્ક્રીન સેટિંગ્સ યોગ્ય રીતે લાગુ કરવામાં આવી ન હતી ત્યાં બગને ઠીક કર્યો.\n- ટીટીએસ વગાડતી વખતે \"ફિલ્ટર કરેલા વાક્યો બતાવો\" ફંક્શન કામ કરતું ન હતું ત્યાં બગને ઠીક કર્યો."
+    "devnote": "- TTS મલ્ટિ-લેંગ્વેજ ફંક્શન ઉમેર્યું.\n- ફાઇલમાં ફેરફાર કર્યા પછી સ્વચાલિત બેકઅપ કાર્ય ઉમેર્યું.\n- એપ્લિકેશન ચલાવતી વખતે TTS ઓટોમેટિક એક્ઝેક્યુશન ફંક્શન ઉમેર્યું."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "- Προστέθηκε η λειτουργία εύρεσης και αντικατάστασης.\n- Διορθώθηκε ένα σφάλμα όπου οι ρυθμίσεις πλήρους οθόνης δεν εφαρμόστηκαν σωστά.\n- Διορθώθηκε ένα σφάλμα όπου η λειτουργία \"Εμφάνιση φιλτραρισμένων προτάσεων\" δεν λειτουργούσε κατά την αναπαραγωγή TTS."
+    "devnote": "- Προστέθηκε λειτουργία πολλαπλών γλωσσών TTS.\n- Προστέθηκε λειτουργία αυτόματης δημιουργίας αντιγράφων ασφαλείας μετά την τροποποίηση του αρχείου.\n- Προστέθηκε η λειτουργία αυτόματης εκτέλεσης TTS κατά την εκτέλεση της εφαρμογής."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "- Zoek en vervang-functie is toegevoegd.\n- Een bug opgelost waarbij de instellingen voor volledig scherm niet correct werden toegepast.\n- Een bug opgelost waarbij de functie 'Gefilterde zinnen weergeven' niet werkte bij het spelen van TTS."
+    "devnote": "- TTS meertalige functie toegevoegd.\n- Automatische back-upfunctie toegevoegd na bestandswijziging.\n- Automatische TTS-uitvoeringsfunctie toegevoegd tijdens het uitvoeren van de app."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "- खोज्नुहोस् र प्रतिस्थापन प्रकार्य थपिएको छ।\n- पूर्ण स्क्रिन सेटिङहरू ठीकसँग लागू नभएको बग फिक्स गरियो।\n- एउटा बग फिक्स गरियो जहाँ \"फिल्टर गरिएका वाक्यहरू देखाउनुहोस्\" प्रकार्यले TTS खेल्दा काम गर्दैन।"
+    "devnote": "- TTS बहु-भाषा प्रकार्य थपियो।\n- फाइल परिमार्जन पछि स्वचालित ब्याकअप प्रकार्य थपियो।\n- एप चलाउँदा TTS स्वचालित कार्यान्वयन प्रकार्य थपियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "- Finn og erstatt-funksjonen er lagt til.\n- Rettet en feil der fullskjerminnstillinger ikke ble brukt riktig.\n- Rettet en feil der funksjonen \"Vis filtrerte setninger\" ikke fungerte når du spilte TTS."
+    "devnote": "- Lagt til TTS flerspråklig funksjon.\n- Lagt til automatisk sikkerhetskopieringsfunksjon etter filendring.\n- Lagt til automatisk TTS-utførelsesfunksjon når du kjører appen."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "- Find og erstat funktionen er blevet tilføjet.\n- Rettede en fejl, hvor fuldskærmsindstillinger ikke blev anvendt korrekt.\n- Rettede en fejl, hvor funktionen \"Vis filtrerede sætninger\" ikke fungerede, når du spillede TTS."
+    "devnote": "- Tilføjet TTS multi-sprog funktion.\n- Tilføjet automatisk sikkerhedskopieringsfunktion efter filændring.\n- Tilføjet automatisk TTS-udførelsesfunktion, når du kører appen."
   },
   "독일어": {
     "key": "de",
-    "devnote": "- Die Funktion „Suchen und Ersetzen“ wurde hinzugefügt.\n- Es wurde ein Fehler behoben, bei dem die Vollbildeinstellungen nicht richtig angewendet wurden.\n- Es wurde ein Fehler behoben, bei dem die Funktion „Gefilterte Sätze anzeigen“ beim Spielen von TTS nicht funktionierte."
+    "devnote": "- TTS-Mehrsprachenfunktion hinzugefügt.\n- Automatische Sicherungsfunktion nach Dateiänderung hinzugefügt.\n- Automatische TTS-Ausführungsfunktion beim Ausführen der App hinzugefügt."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "- ຊອກ​ຫາ​ແລະ​ທົດ​ແທນ​ການ​ທໍາ​ງານ​ໄດ້​ຮັບ​ການ​ເພີ່ມ​.\n- ແກ້​ໄຂ​ບັນ​ຫາ​ທີ່​ການ​ຕັ້ງ​ຄ່າ​ເຕັມ​ຫນ້າ​ຈໍ​ບໍ່​ໄດ້​ຖືກ​ນໍາ​ໃຊ້​ຢ່າງ​ຖືກ​ຕ້ອງ​.\n- ແກ້ໄຂຂໍ້ຜິດພາດທີ່ຟັງຊັນ \"ສະແດງປະໂຫຍກທີ່ຖືກກັ່ນຕອງ\" ບໍ່ໄດ້ເຮັດວຽກໃນເວລາຫຼີ້ນ TTS."
+    "devnote": "- ເພີ່ມ TTS ຟັງຊັນຫຼາຍພາສາ.\n- ເພີ່ມການທໍາງານສໍາຮອງຂໍ້ມູນອັດຕະໂນມັດຫຼັງຈາກການດັດແກ້ໄຟລ໌.\n- ເພີ່ມ​ການ​ທໍາ​ງານ​ການ​ປະ​ຕິ​ບັດ​ອັດ​ຕະ​ໂນ​ມັດ TTS ໃນ​ເວ​ລາ​ທີ່​ແລ່ນ app ໄດ້​."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "- Ir pievienota atrašanas un aizstāšanas funkcija.\n- Novērsta kļūda, kuras dēļ pilnekrāna iestatījumi netika piemēroti pareizi.\n- Izlabota kļūda, kuras dēļ funkcija “Rādīt filtrētos teikumus” nedarbojās, spēlējot TTS."
+    "devnote": "- Pievienota TTS daudzvalodu funkcija.\n- Pievienota automātiskās dublēšanas funkcija pēc faila modifikācijas.\n- Pievienota TTS automātiskās izpildes funkcija, palaižot lietotni."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "- Добавлена ​​функция поиска и замены.\n- Исправлена ​​ошибка, из-за которой настройки полноэкранного режима применялись неправильно.\n- Исправлена ​​ошибка, из-за которой функция «Показать отфильтрованные предложения» не работала при воспроизведении TTS."
+    "devnote": "- Добавлена ​​многоязычная функция TTS.\n- Добавлена ​​функция автоматического резервного копирования после изменения файла.\n- Добавлена ​​функция автоматического выполнения TTS при запуске приложения."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "- A fost adăugată funcția de căutare și înlocuire.\n- S-a remediat o eroare în care setările ecranului complet nu erau aplicate corect.\n- S-a remediat o eroare în care funcția „Afișează propoziții filtrate” nu funcționa la jocul TTS."
+    "devnote": "- S-a adăugat funcția TTS în mai multe limbi.\n- S-a adăugat o funcție automată de backup după modificarea fișierului.\n- S-a adăugat funcția de execuție automată TTS la rularea aplicației."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "- Pridėta funkcija „Rasti ir pakeisti“.\n- Ištaisyta klaida, kai viso ekrano nustatymai nebuvo tinkamai pritaikyti.\n- Ištaisyta klaida, kai funkcija „Rodyti filtruotus sakinius“ neveikė žaidžiant TTS."
+    "devnote": "- Pridėta kelių kalbų TTS funkcija.\n- Pridėta automatinio atsarginio kopijavimo funkcija po failo modifikavimo.\n- Pridėta TTS automatinio vykdymo funkcija paleidžiant programą."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "- शोधा आणि बदला फंक्शन जोडले गेले आहे.\n- पूर्ण स्क्रीन सेटिंग्ज योग्यरित्या लागू न झालेल्या बगचे निराकरण केले.\n- टीटीएस खेळताना \"फिल्टर केलेली वाक्ये दाखवा\" फंक्शन कार्य करत नाही अशा बगचे निराकरण केले."
+    "devnote": "- टीटीएस बहु-भाषा कार्य जोडले.\n- फाइल बदल केल्यानंतर स्वयंचलित बॅकअप कार्य जोडले.\n- ॲप चालवताना TTS स्वयंचलित अंमलबजावणी कार्य जोडले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "- Функцијата за наоѓање и замена е додадена.\n- Поправена грешка каде што поставките на цел екран не беа правилно применети.\n- Поправена грешка каде што функцијата „Прикажи филтрирани реченици“ не работеше при репродукција на TTS."
+    "devnote": "- Додадена е повеќејазична функција TTS.\n- Додадена е функција за автоматска резервна копија по модификација на датотеката.\n- Додадена е функцијата за автоматско извршување TTS при извршување на апликацијата."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "- ഫംഗ്‌ഷൻ കണ്ടെത്തി മാറ്റിസ്ഥാപിക്കുക.\n- പൂർണ്ണ സ്‌ക്രീൻ ക്രമീകരണങ്ങൾ ശരിയായി പ്രയോഗിക്കാത്ത ഒരു ബഗ് പരിഹരിച്ചു.\n- TTS പ്ലേ ചെയ്യുമ്പോൾ \"ഫിൽട്ടർ ചെയ്ത വാക്യങ്ങൾ കാണിക്കുക\" ഫംഗ്ഷൻ പ്രവർത്തിക്കാത്ത ഒരു ബഗ് പരിഹരിച്ചു."
+    "devnote": "- TTS മൾട്ടി-ലാംഗ്വേജ് ഫംഗ്‌ഷൻ ചേർത്തു.\n- ഫയൽ പരിഷ്ക്കരണത്തിന് ശേഷം യാന്ത്രിക ബാക്കപ്പ് പ്രവർത്തനം ചേർത്തു.\n- ആപ്പ് പ്രവർത്തിപ്പിക്കുമ്പോൾ TTS ഓട്ടോമാറ്റിക് എക്‌സിക്യൂഷൻ ഫംഗ്‌ഷൻ ചേർത്തു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "- Cari dan ganti fungsi telah ditambah.\n- Memperbaiki pepijat yang tetapan skrin penuh tidak digunakan dengan betul.\n- Memperbaiki pepijat yang fungsi \"Tunjukkan ayat yang ditapis\" tidak berfungsi semasa memainkan TTS."
+    "devnote": "- Menambah fungsi berbilang bahasa TTS.\n- Menambah fungsi sandaran automatik selepas pengubahsuaian fail.\n- Menambah fungsi pelaksanaan automatik TTS semasa menjalankan aplikasi."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "- Хай, солих функц нэмэгдсэн.\n- Бүтэн дэлгэцийн тохиргоог зөв хэрэгжүүлээгүй алдааг зассан.\n- TTS тоглох үед \"Шүүсэн өгүүлбэрүүдийг харуулах\" функц ажиллахгүй байсан алдааг зассан."
+    "devnote": "- TTS олон хэлний функцийг нэмсэн.\n- Файлыг өөрчилсний дараа автомат нөөцлөх функц нэмэгдсэн.\n- Програмыг ажиллуулах үед TTS автомат гүйцэтгэх функц нэмэгдсэн."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "- Bilatu eta ordeztu funtzioa gehitu da.\n- Pantaila osoko ezarpenak behar bezala aplikatzen ez ziren akats bat konpondu da.\n- \"Erakutsi iragazitako esaldiak\" funtzioak TTS erreproduzitzerakoan funtzionatzen ez zuen akats bat konpondu da."
+    "devnote": "- TTS hizkuntza anitzeko funtzioa gehitu da.\n- Fitxategiak aldatu ondoren babeskopia funtzio automatikoa gehitu da.\n- TTS exekuzio automatikoaren funtzioa gehitu da aplikazioa exekutatzen denean."
   },
   "버마어": {
     "key": "my",
-    "devnote": "- Find and replace function ကို ပေါင်းထည့်ထားပါသည်။\n- မျက်နှာပြင်အပြည့်ဆက်တင်များကို ကောင်းစွာမလုပ်ဆောင်နိုင်သော ချို့ယွင်းချက်တစ်ခုကို ပြင်ဆင်ပါ။\n- TTS ကစားသောအခါ \"စစ်ထုတ်ထားသောစာကြောင်းများကိုပြသပါ\" လုပ်ဆောင်ချက်သည် အလုပ်မလုပ်သည့် ချို့ယွင်းချက်တစ်ခုကို ပြင်ဆင်ပါ။"
+    "devnote": "- ဘာသာစကားပေါင်းစုံ TTS လုပ်ဆောင်ချက်ကို ထည့်သွင်းထားသည်။\n- ဖိုင်မွမ်းမံပြီးနောက် အလိုအလျောက် အရန်ကူးယူမှု လုပ်ဆောင်ချက်ကို ထည့်သွင်းခဲ့သည်။\n- အက်ပ်ကိုအသုံးပြုသည့်အခါ TTS အလိုအလျောက်လုပ်ဆောင်မှုလုပ်ဆောင်ချက်ကိုထည့်သွင်းထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "- Chức năng tìm và thay thế đã được thêm vào.\n- Đã sửa lỗi cài đặt toàn màn hình không được áp dụng đúng cách.\n- Đã sửa lỗi chức năng “Hiển thị các câu đã lọc” không hoạt động khi phát TTS."
+    "devnote": "- Đã thêm chức năng đa ngôn ngữ TTS.\n- Thêm chức năng sao lưu tự động sau khi sửa đổi tập tin.\n- Đã thêm chức năng thực thi tự động TTS khi chạy ứng dụng."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "- Дададзена функцыя пошуку і замены.\n- Выпраўлена памылка, з-за якой поўнаэкранныя налады не прымяняліся належным чынам.\n- Выпраўлена памылка, з-за якой функцыя «Паказаць адфільтраваныя прапановы» не працавала пры прайграванні TTS."
+    "devnote": "- Дададзеная шматмоўная функцыя TTS.\n- Дададзена функцыя аўтаматычнага рэзервовага капіравання пасля змены файла.\n- Дададзена функцыя аўтаматычнага выканання TTS пры запуску праграмы."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "- খুঁজুন এবং প্রতিস্থাপন ফাংশন যোগ করা হয়েছে.\n- একটি বাগ সংশোধন করা হয়েছে যেখানে পূর্ণ স্ক্রীন সেটিংস সঠিকভাবে প্রয়োগ করা হয়নি।\n- একটি বাগ সংশোধন করা হয়েছে যেখানে \"ফিল্টার করা বাক্য দেখান\" ফাংশন টিটিএস চালানোর সময় কাজ করে না।"
+    "devnote": "- TTS মাল্টি-ভাষা ফাংশন যোগ করা হয়েছে।\n- ফাইল পরিবর্তনের পরে স্বয়ংক্রিয় ব্যাকআপ ফাংশন যোগ করা হয়েছে।\n- অ্যাপ চালানোর সময় TTS স্বয়ংক্রিয় এক্সিকিউশন ফাংশন যোগ করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "- Добавена е функция за намиране и замяна.\n- Коригирана грешка, при която настройките на цял екран не се прилагат правилно.\n- Коригирана грешка, при която функцията „Показване на филтрирани изречения“ не работеше при възпроизвеждане на TTS."
+    "devnote": "- Добавена TTS многоезична функция.\n- Добавена функция за автоматично архивиране след промяна на файл.\n- Добавена функция за автоматично изпълнение на TTS при стартиране на приложението."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "- Додата је функција проналажења и замене.\n- Исправљена грешка где подешавања целог екрана нису правилно примењена.\n- Исправљена грешка у којој функција „Прикажи филтриране реченице“ није радила када се игра ТТС."
+    "devnote": "- Додата ТТС вишејезична функција.\n- Додата функција аутоматског прављења резервних копија након модификације датотеке.\n- Додата функција аутоматског извршавања ТТС-а приликом покретања апликације."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "- Tafuta na ubadilishe kazi imeongezwa.\n- Kurekebisha hitilafu ambapo mipangilio ya skrini nzima haikutumika ipasavyo.\n- Kurekebisha hitilafu ambapo kipengele cha \"Onyesha sentensi zilizochujwa\" hakikufanya kazi wakati wa kucheza TTS."
+    "devnote": "- Imeongeza kazi ya lugha nyingi ya TTS.\n- Imeongeza kazi ya chelezo kiotomatiki baada ya urekebishaji wa faili.\n- Imeongeza kazi ya utekelezaji wa moja kwa moja ya TTS wakati wa kuendesha programu."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "- Funktionen Sök och ersätt har lagts till.\n- Fixade en bugg där helskärmsinställningarna inte tillämpades korrekt.\n- Fixade en bugg där funktionen \"Visa filtrerade meningar\" inte fungerade när TTS spelades."
+    "devnote": "- Tillagd TTS flerspråkig funktion.\n- Lade till automatisk säkerhetskopieringsfunktion efter filändring.\n- Tillagd TTS automatisk exekveringsfunktion när du kör appen."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "- Se ha agregado la función de buscar y reemplazar.\n- Se corrigió un error por el cual la configuración de pantalla completa no se aplicaba correctamente.\n- Se corrigió un error por el cual la función \"Mostrar oraciones filtradas\" no funcionaba al reproducir TTS."
+    "devnote": "- Se agregó la función TTS en varios idiomas.\n- Se agregó la función de copia de seguridad automática después de la modificación del archivo.\n- Se agregó la función de ejecución automática de TTS al ejecutar la aplicación."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "- Bola pridaná funkcia Nájsť a nahradiť.\n- Opravená chyba, pri ktorej neboli správne aplikované nastavenia na celú obrazovku.\n- Opravená chyba, kedy funkcia „Zobraziť filtrované vety“ nefungovala pri hraní TTS."
+    "devnote": "- Pridaná viacjazyčná funkcia TTS.\n- Pridaná funkcia automatického zálohovania po úprave súboru.\n- Pridaná funkcia automatického vykonávania TTS pri spustení aplikácie."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "- Dodana je funkcija Najdi in zamenjaj.\n- Odpravljena napaka, pri kateri celozaslonske nastavitve niso bile pravilno uporabljene.\n- Odpravljena je napaka, pri kateri funkcija »Prikaži filtrirane stavke« ni delovala med predvajanjem TTS."
+    "devnote": "- Dodana večjezična funkcija TTS.\n- Dodana funkcija samodejnega varnostnega kopiranja po spremembi datoteke.\n- Dodana funkcija samodejnega izvajanja TTS med zagonom aplikacije."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "- සොයන්න සහ ප්‍රතිස්ථාපනය කිරීමේ කාර්යය එකතු කර ඇත.\n- සම්පූර්ණ තිර සැකසුම් නිසියාකාරව යෙදී නොමැති දෝෂයක් නිරාකරණය කර ඇත.\n- TTS වාදනය කිරීමේදී “පෙරන ලද වාක්‍ය පෙන්වන්න” ශ්‍රිතය ක්‍රියා නොකළ දෝෂයක් නිරාකරණය කරන ලදී."
+    "devnote": "- TTS බහු භාෂා ශ්‍රිතය එක් කරන ලදී.\n- ගොනු වෙනස් කිරීමෙන් පසු ස්වයංක්‍රීය උපස්ථ ක්‍රියාකාරිත්වය එක් කරන ලදී.\n- යෙදුම ධාවනය කරන විට TTS ස්වයංක්‍රීය ක්‍රියාත්මක කිරීමේ කාර්යය එක් කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "- تمت إضافة وظيفة البحث والاستبدال.\n- تم إصلاح الخلل حيث لم يتم تطبيق إعدادات ملء الشاشة بشكل صحيح.\n- تم إصلاح الخلل حيث لم تعمل وظيفة \"إظهار الجمل المصفاة\" عند تشغيل تحويل النص إلى كلام (TTS)."
+    "devnote": "- أضيفت وظيفة TTS متعددة اللغات.\n- أضيفت وظيفة النسخ الاحتياطي التلقائي بعد تعديل الملف.\n- تمت إضافة وظيفة التنفيذ التلقائي لتحويل النص إلى كلام (TTS) عند تشغيل التطبيق."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "- Գտնել և փոխարինել գործառույթը ավելացվել է:\n- Շտկվել է վրիպակ, որտեղ ամբողջական էկրանի կարգավորումները ճիշտ չեն կիրառվել:\n- Շտկվել է սխալ, որտեղ «Ցուցադրել ֆիլտրացված նախադասություններ» գործառույթը չի աշխատում TTS խաղալիս:"
+    "devnote": "- Ավելացվեց TTS բազմալեզու գործառույթ:\n- Ֆայլի փոփոխությունից հետո ավելացվել է ավտոմատ կրկնօրինակման գործառույթ:\n- Հավելվածը գործարկելիս ավելացվել է TTS ավտոմատ կատարման գործառույթը:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "- Finndu og skiptu um aðgerð hefur verið bætt við.\n- Lagaði villu þar sem stillingum á fullum skjá var ekki beitt á réttan hátt.\n- Lagaði villu þar sem „Sýna síaðar setningar“ aðgerðin virkaði ekki þegar spilað var TTS."
+    "devnote": "- Bætt við TTS fjöltunguaðgerð.\n- Bætt við sjálfvirkri öryggisafritunaraðgerð eftir skráarbreytingu.\n- Bætt við TTS sjálfvirkri framkvæmdaraðgerð þegar forritið er keyrt."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "- Tap və dəyişdir funksiyası əlavə edildi.\n- Tam ekran parametrlərinin düzgün tətbiq edilmədiyi bir səhv düzəldildi.\n- TTS oynayarkən \"Süzülən cümlələri göstər\" funksiyasının işləmədiyi bir səhv düzəldildi."
+    "devnote": "- TTS çoxdilli funksiyası əlavə edildi.\n- Fayl dəyişdirildikdən sonra avtomatik ehtiyat funksiyası əlavə edildi.\n- Proqramı işləyərkən TTS avtomatik icra funksiyası əlavə edildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "- Vind en vervang funksie is bygevoeg.\n- 'n fout opgelos waar volskerminstellings nie behoorlik toegepas is nie.\n- Het 'n fout reggestel waar die \"Wys gefiltreerde sinne\"-funksie nie gewerk het tydens die speel van TTS nie."
+    "devnote": "- Bygevoeg TTS multi-taal funksie.\n- Bygevoeg outomatiese rugsteunfunksie na lêerwysiging.\n- Bygevoeg TTS outomatiese uitvoering funksie wanneer die toepassing loop."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "- Është shtuar funksioni i gjetjes dhe zëvendësimit.\n- Rregulloi një defekt ku cilësimet e ekranit të plotë nuk u zbatuan siç duhet.\n- Rregulloi një gabim ku funksioni \"Trego fjalitë e filtruara\" nuk funksiononte kur luani TTS."
+    "devnote": "- U shtua funksioni shumë-gjuhësh TTS.\n- U shtua funksioni i rezervimit automatik pas modifikimit të skedarit.\n- U shtua funksioni i ekzekutimit automatik TTS gjatë ekzekutimit të aplikacionit."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "- አግኝ እና ተካ ተግባር ታክሏል.\n- የሙሉ ማያ ገጽ ቅንጅቶች በትክክል ያልተተገበሩበት ሳንካ ተስተካክሏል።\n- TTS በሚጫወትበት ጊዜ \"የተጣሩ ዓረፍተ ነገሮችን አሳይ\" ተግባር የማይሰራበት ሳንካ ተስተካክሏል።"
+    "devnote": "- ታክሏል TTS ባለብዙ ቋንቋ ተግባር.\n- ከፋይል ማሻሻያ በኋላ አውቶማቲክ የመጠባበቂያ ተግባር ታክሏል.\n- መተግበሪያውን በሚሰራበት ጊዜ TTS አውቶማቲክ የማስፈጸሚያ ተግባር ታክሏል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "- Lisatud on otsimise ja asendamise funktsioon.\n- Parandatud viga, mille puhul täisekraani seadeid ei rakendatud õigesti.\n- Parandatud viga, mille puhul funktsioon \"Näita filtreeritud lauseid\" TTS-i mängimisel ei töötanud."
+    "devnote": "- Lisatud TTS-i mitmekeelne funktsioon.\n- Lisatud automaatse varundamise funktsioon pärast faili muutmist.\n- Rakenduse käitamisel on lisatud TTS-i automaatse täitmise funktsioon."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "- تلاش کریں اور تبدیل کریں فنکشن شامل کیا گیا ہے۔\n- ایک بگ کو ٹھیک کیا جہاں فل سکرین سیٹنگز ٹھیک سے لاگو نہیں ہوئی تھیں۔\n- ایک بگ کو ٹھیک کیا جہاں TTS چلاتے وقت \"فلٹرڈ جملے دکھائیں\" فنکشن کام نہیں کرتا تھا۔"
+    "devnote": "- TTS ملٹی لینگویج فنکشن کو شامل کیا گیا۔\n- فائل میں ترمیم کے بعد خودکار بیک اپ فنکشن شامل کیا گیا۔\n- ایپ کو چلاتے وقت TTS خود کار طریقے سے عملدرآمد کا فنکشن شامل کیا گیا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "— Додано функцію пошуку та заміни.\n— Виправлено помилку, через яку налаштування повного екрана не застосовувалися належним чином.\n- Виправлено помилку, через яку функція «Показати відфільтровані речення» не працювала під час відтворення TTS."
+    "devnote": "— Додано багатомовну функцію TTS.\n— Додано функцію автоматичного резервного копіювання після зміни файлу.\n— Додано функцію автоматичного виконання TTS під час запуску програми."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "- È stata aggiunta la funzione Trova e sostituisci.\n- Risolto un bug in cui le impostazioni dello schermo intero non venivano applicate correttamente.\n- Risolto un bug per cui la funzione \"Mostra frasi filtrate\" non funzionava durante la riproduzione di TTS."
+    "devnote": "- Aggiunta la funzione multilingue TTS.\n- Aggiunta la funzione di backup automatico dopo la modifica del file.\n- Aggiunta la funzione di esecuzione automatica TTS durante l'esecuzione dell'app."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "- Fungsi temukan dan ganti telah ditambahkan.\n- Memperbaiki bug di mana pengaturan layar penuh tidak diterapkan dengan benar.\n- Memperbaiki bug dimana fungsi “Tampilkan kalimat yang difilter” tidak berfungsi saat memainkan TTS."
+    "devnote": "- Menambahkan fungsi multi-bahasa TTS.\n- Menambahkan fungsi pencadangan otomatis setelah modifikasi file.\n- Menambahkan fungsi eksekusi otomatis TTS saat menjalankan aplikasi."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "- 検索と置換機能が追加されました。\n- フルスクリーン設定が正しく適用されないバグを修正しました。\n- TTS再生時に「フィルターされた文章を表示」機能が動作しない不具合を修正しました。"
+    "devnote": "- TTS多言語機能を追加しました。\n- ファイル変更後の自動バックアップ機能を追加しました。\n- アプリ実行時のTTS自動実行機能を追加しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "- დამატებულია პოვნა და ჩანაცვლების ფუნქცია.\n- დაფიქსირდა შეცდომა, რომლის დროსაც სრული ეკრანის პარამეტრები არ იყო სწორად გამოყენებული.\n- დაფიქსირდა შეცდომა, რომლის დროსაც \"გაფილტრული წინადადებების ჩვენება\" ფუნქცია არ მუშაობდა TTS-ის დაკვრისას."
+    "devnote": "- დამატებულია TTS მრავალენოვანი ფუნქცია.\n- დაემატა ავტომატური სარეზერვო ფუნქცია ფაილის შეცვლის შემდეგ.\n- დამატებულია TTS ავტომატური შესრულების ფუნქცია აპის გაშვებისას."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "- Thola bese ubuyisela umsebenzi wengeziwe.\n- Kulungiswe iphutha lapho izilungiselelo zesikrini esigcwele zingasetshenziswanga kahle.\n- Kulungiswe iphutha lapho umsebenzi othi \"Bonisa imisho ehlungiwe\" ungazange usebenze lapho udlala i-TTS."
+    "devnote": "- Kungezwe umsebenzi wezilimi eziningi we-TTS.\n- Kwengezwe umsebenzi wesipele othomathikhi ngemuva kokuguqulwa kwefayela.\n- Kungezwe umsebenzi wokwenza okuzenzakalelayo we-TTS lapho usebenzisa uhlelo lokusebenza."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "- 添加了查找和替换功能。\n- 修复了未正确应用全屏设置的错误。\n- 修复了播放 TTS 时“显示过滤句子”功能不起作用的错误。"
+    "devnote": "- 新增TTS多语言功能。\n- 增加文件修改后自动备份功能。\n- 新增运行应用时TTS自动执行功能。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "- 新增了尋找和取代功能。\n- 修正了未正確套用全螢幕設定的錯誤。\n- 修正了播放 TTS 時「顯示過濾句子」功能不起作用的錯誤。"
+    "devnote": "- 新增TTS多語言功能。\n- 增加檔案修改後自動備份功能。\n- 新增執行應用程式時TTS自動執行功能。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "- 新增了尋找和取代功能。\n- 修正了未正確套用全螢幕設定的錯誤。\n- 修正了播放 TTS 時「顯示過濾句子」功能不起作用的錯誤。"
+    "devnote": "- 新增TTS多語言功能。\n- 增加檔案修改後自動備份功能。\n- 新增執行應用程式時TTS自動執行功能。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "- Byla přidána funkce Najít a nahradit.\n- Opravena chyba, kdy nastavení celé obrazovky nebylo správně aplikováno.\n- Opravena chyba, kdy při hraní TTS nefungovala funkce „Zobrazit filtrované věty“."
+    "devnote": "- Přidána vícejazyčná funkce TTS.\n- Přidána funkce automatického zálohování po úpravě souboru.\n- Přidána funkce automatického spuštění TTS při spuštění aplikace."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "- Табу және ауыстыру функциясы қосылды.\n- Толық экран параметрлері дұрыс қолданбаған қате түзетілді.\n- TTS ойнаған кезде «Сүзгіленген сөйлемдерді көрсету» функциясы жұмыс істемейтін қате түзетілді."
+    "devnote": "- TTS көп тілді функциясы қосылды.\n- Файлды өзгерткеннен кейін автоматты сақтық көшірме жасау функциясы қосылды.\n- Қолданбаны іске қосу кезінде TTS автоматты орындау функциясы қосылды."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "- S'ha afegit la funció de cerca i substitució.\n- S'ha corregit un error en què la configuració de pantalla completa no s'aplicava correctament.\n- S'ha corregit un error en què la funció \"Mostra les frases filtrades\" no funcionava quan es jugava a TTS."
+    "devnote": "- S'ha afegit la funció multi-idioma TTS.\n- S'ha afegit una funció de còpia de seguretat automàtica després de la modificació del fitxer.\n- S'ha afegit la funció d'execució automàtica TTS quan s'executa l'aplicació."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "- ಹುಡುಕಿ ಮತ್ತು ಬದಲಿ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಪೂರ್ಣ ಪರದೆಯ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಸರಿಯಾಗಿ ಅನ್ವಯಿಸದಿರುವ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ಟಿಟಿಎಸ್ ಆಡುವಾಗ “ಫಿಲ್ಟರ್ ಮಾಡಿದ ವಾಕ್ಯಗಳನ್ನು ತೋರಿಸು” ಕಾರ್ಯವು ಕಾರ್ಯನಿರ್ವಹಿಸದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "- TTS ಬಹು-ಭಾಷಾ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಫೈಲ್ ಮಾರ್ಪಾಡು ನಂತರ ಸ್ವಯಂಚಾಲಿತ ಬ್ಯಾಕಪ್ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಚಾಲನೆ ಮಾಡುವಾಗ TTS ಸ್ವಯಂಚಾಲಿತ ಎಕ್ಸಿಕ್ಯೂಶನ್ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "- Dodana je funkcija traženja i zamjene.\n- Ispravljena je pogreška gdje se postavke cijelog zaslona nisu ispravno primjenjivale.\n- Ispravljena je pogreška u kojoj funkcija \"Prikaži filtrirane rečenice\" nije radila prilikom reprodukcije TTS-a."
+    "devnote": "- Dodana TTS višejezična funkcija.\n- Dodana funkcija automatskog sigurnosnog kopiranja nakon izmjene datoteke.\n- Dodana funkcija TTS automatskog izvršavanja prilikom pokretanja aplikacije."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "- មុខងារស្វែងរក និងជំនួសត្រូវបានបន្ថែម។\n- ជួសជុលកំហុសដែលការកំណត់ពេញអេក្រង់មិនត្រូវបានអនុវត្តត្រឹមត្រូវ។\n- ជួសជុលកំហុសដែលមុខងារ \"បង្ហាញប្រយោគដែលបានត្រង\" មិនដំណើរការនៅពេលលេង TTS ។"
+    "devnote": "- បានបន្ថែមមុខងារពហុភាសា TTS ។\n- បានបន្ថែមមុខងារបម្រុងទុកដោយស្វ័យប្រវត្តិបន្ទាប់ពីការកែប្រែឯកសារ។\n- បានបន្ថែមមុខងារប្រតិបត្តិដោយស្វ័យប្រវត្តិ TTS នៅពេលដំណើរការកម្មវិធី។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "- Табуу жана алмаштыруу функциясы кошулду.\n- Толук экран жөндөөлөрү туура колдонулбаган ката оңдолду.\n- TTS ойноп жатканда \"Чыпкаланган сүйлөмдөрдү көрсөтүү\" функциясы иштебей калган ката оңдолду."
+    "devnote": "- TTS көп тилдүү функциясы кошулду.\n- Файлды өзгөртүүдөн кийин автоматтык резервдик көчүрүү функциясы кошулду.\n- Колдонмону иштетип жатканда TTS автоматтык аткаруу функциясы кошулду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "- கண்டுபிடி மற்றும் மாற்று செயல்பாடு சேர்க்கப்பட்டது.\n- முழுத்திரை அமைப்புகள் சரியாகப் பயன்படுத்தப்படாத ஒரு பிழை சரி செய்யப்பட்டது.\n- TTS விளையாடும்போது \"வடிகட்டப்பட்ட வாக்கியங்களைக் காட்டு\" செயல்பாடு வேலை செய்யாத பிழை சரி செய்யப்பட்டது."
+    "devnote": "- TTS பல மொழி செயல்பாடு சேர்க்கப்பட்டது.\n- கோப்பு மாற்றத்திற்குப் பிறகு தானியங்கு காப்பு செயல்பாடு சேர்க்கப்பட்டது.\n- பயன்பாட்டை இயக்கும் போது TTS தானியங்கி செயல்படுத்தல் செயல்பாடு சேர்க்கப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "- เพิ่มฟังก์ชันค้นหาและแทนที่แล้ว\n- แก้ไขข้อผิดพลาดที่การตั้งค่าเต็มหน้าจอไม่ถูกต้อง\n- แก้ไขข้อผิดพลาดที่ฟังก์ชัน \"แสดงประโยคที่กรอง\" ไม่ทำงานเมื่อเล่น TTS"
+    "devnote": "- เพิ่มฟังก์ชันหลายภาษาของ TTS\n- เพิ่มฟังก์ชันการสำรองข้อมูลอัตโนมัติหลังการแก้ไขไฟล์\n- เพิ่มฟังก์ชันการดำเนินการอัตโนมัติ TTS เมื่อเรียกใช้แอป"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "- Bul ve değiştir fonksiyonu eklendi.\n- Tam ekran ayarlarının düzgün uygulanmamasına neden olan bir hata düzeltildi.\n- TTS oynatılırken \"Filtrelenmiş cümleleri göster\" işlevinin çalışmamasına neden olan bir hata düzeltildi."
+    "devnote": "- TTS çoklu dil işlevi eklendi.\n- Dosya değişikliğinden sonra otomatik yedekleme işlevi eklendi.\n- Uygulamayı çalıştırırken TTS otomatik yürütme işlevi eklendi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "- కనుగొని భర్తీ చేయడం ఫంక్షన్ జోడించబడింది.\n- పూర్తి స్క్రీన్ సెట్టింగ్‌లు సరిగ్గా వర్తించని బగ్ పరిష్కరించబడింది.\n- TTS ప్లే చేస్తున్నప్పుడు “ఫిల్టర్ చేసిన వాక్యాలను చూపించు” ఫంక్షన్ పని చేయని బగ్ పరిష్కరించబడింది."
+    "devnote": "- TTS బహుళ భాషా ఫంక్షన్ జోడించబడింది.\n- ఫైల్ సవరణ తర్వాత ఆటోమేటిక్ బ్యాకప్ ఫంక్షన్ జోడించబడింది.\n- యాప్‌ని రన్ చేస్తున్నప్పుడు TTS ఆటోమేటిక్ ఎగ్జిక్యూషన్ ఫంక్షన్ జోడించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "- ਲੱਭੋ ਅਤੇ ਬਦਲੋ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ.\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਹੈ ਜਿੱਥੇ ਪੂਰੀ ਸਕ੍ਰੀਨ ਸੈਟਿੰਗਾਂ ਸਹੀ ਢੰਗ ਨਾਲ ਲਾਗੂ ਨਹੀਂ ਕੀਤੀਆਂ ਗਈਆਂ ਸਨ।\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਜਿੱਥੇ TTS ਚਲਾਉਣ ਵੇਲੇ \"ਫਿਲਟਰ ਕੀਤੇ ਵਾਕ ਦਿਖਾਓ\" ਫੰਕਸ਼ਨ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਸੀ।"
+    "devnote": "- ਟੀਟੀਐਸ ਮਲਟੀ-ਲੈਂਗਵੇਜ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।\n- ਫਾਈਲ ਸੋਧ ਤੋਂ ਬਾਅਦ ਆਟੋਮੈਟਿਕ ਬੈਕਅਪ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।\n- ਐਪ ਨੂੰ ਚਲਾਉਣ ਵੇਲੇ TTS ਆਟੋਮੈਟਿਕ ਐਗਜ਼ੀਕਿਊਸ਼ਨ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "- عملکرد یافتن و جایگزینی اضافه شده است.\n- رفع اشکالی که در آن تنظیمات تمام صفحه به درستی اعمال نشده بود.\n- رفع اشکالی که در آن عملکرد \"نمایش جملات فیلتر شده\" هنگام پخش TTS کار نمی کرد."
+    "devnote": "- اضافه شدن عملکرد چند زبانه TTS.\n- اضافه شدن عملکرد پشتیبان گیری خودکار پس از اصلاح فایل.\n- اضافه شدن عملکرد اجرای خودکار TTS هنگام اجرای برنامه."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "- A função localizar e substituir foi adicionada.\n- Corrigido um bug onde as configurações de tela cheia não eram aplicadas corretamente.\n- Corrigido um bug onde a função “Mostrar frases filtradas” não funcionava ao jogar TTS."
+    "devnote": "- Adicionada função multilíngue TTS.\n- Adicionada função de backup automático após modificação do arquivo.\n- Adicionada função de execução automática TTS ao executar o aplicativo."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "- Dodano funkcję Znajdź i zamień.\n- Naprawiono błąd powodujący nieprawidłowe zastosowanie ustawień pełnego ekranu.\n- Naprawiono błąd, w wyniku którego funkcja „Pokaż filtrowane zdania” nie działała podczas gry w TTS."
+    "devnote": "- Dodano funkcję wielojęzyczną TTS.\n- Dodano funkcję automatycznego tworzenia kopii zapasowych po modyfikacji pliku.\n- Dodano funkcję automatycznego wykonywania TTS podczas uruchamiania aplikacji."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "- La fonction Rechercher et remplacer a été ajoutée.\n- Correction d'un bug où les paramètres plein écran n'étaient pas appliqués correctement.\n- Correction d'un bug où la fonction « Afficher les phrases filtrées » ne fonctionnait pas lors de la lecture de TTS."
+    "devnote": "- Ajout de la fonction multilingue TTS.\n- Ajout d'une fonction de sauvegarde automatique après modification du fichier.\n- Ajout de la fonction d'exécution automatique TTS lors de l'exécution de l'application."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "- Etsi ja korvaa -toiminto on lisätty.\n- Korjattu virhe, jossa koko näytön asetuksia ei sovellettu oikein.\n- Korjattu virhe, jossa \"Näytä suodatetut lauseet\" -toiminto ei toiminut TTS:ää pelattaessa."
+    "devnote": "- Lisätty monikielinen TTS-toiminto.\n- Lisätty automaattinen varmuuskopiointi tiedoston muuttamisen jälkeen.\n- Lisätty automaattinen TTS-suoritustoiminto sovellusta käytettäessä."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "- Idinagdag ang function na Hanapin at palitan.\n- Inayos ang isang bug kung saan hindi nailapat nang maayos ang mga setting ng full screen.\n- Inayos ang isang bug kung saan hindi gumana ang function na \"Ipakita ang mga na-filter na pangungusap\" kapag naglalaro ng TTS."
+    "devnote": "- Nagdagdag ng TTS multi-language function.\n- Nagdagdag ng awtomatikong backup function pagkatapos ng pagbabago ng file.\n- Idinagdag TTS awtomatikong pagpapatupad function kapag tumatakbo ang app."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "- Keresés és csere funkció hozzáadásra került.\n- Kijavítottunk egy hibát, amely miatt a teljes képernyős beállításokat nem alkalmazták megfelelően.\n- Kijavítottunk egy hibát, amely miatt a „Szűrt mondatok megjelenítése” funkció nem működött a TTS lejátszása közben."
+    "devnote": "- Hozzáadott többnyelvű TTS funkció.\n- Automatikus biztonsági mentés funkció hozzáadva a fájl módosítása után.\n- Hozzáadott TTS automatikus végrehajtási funkció az alkalmazás futtatásakor."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "- נוספה פונקציית חיפוש והחלפה.\n- תיקן באג שבו הגדרות מסך מלא לא יושמו כראוי.\n- תיקן באג שבו הפונקציה \"הצג משפטים מסוננים\" לא עבדה בעת הפעלת TTS."
+    "devnote": "- נוספה פונקציית TTS מרובת שפות.\n- נוספה פונקציית גיבוי אוטומטית לאחר שינוי הקובץ.\n- נוספה פונקציית הפעלה אוטומטית של TTS בעת הפעלת האפליקציה."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "- ढूंढें और बदलें फ़ंक्शन जोड़ा गया है।\n- उस बग को ठीक किया गया जहां पूर्ण स्क्रीन सेटिंग्स ठीक से लागू नहीं की गई थीं।\n- उस बग को ठीक किया गया जहां टीटीएस खेलते समय \"फ़िल्टर किए गए वाक्य दिखाएं\" फ़ंक्शन काम नहीं करता था।"
+    "devnote": "- टीटीएस बहुभाषी फ़ंक्शन जोड़ा गया।\n- फ़ाइल संशोधन के बाद स्वचालित बैकअप फ़ंक्शन जोड़ा गया।\n- ऐप चलाते समय टीटीएस स्वचालित निष्पादन फ़ंक्शन जोड़ा गया।"
   }
 }
