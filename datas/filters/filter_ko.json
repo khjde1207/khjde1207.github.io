@@ -21,15 +21,15 @@
     },
     {
         "name": "때",
-        "filter": "때.\\n",
+        "filter": "때.\n",
         "to": "때였다.",
-        "expr": true
+        "expr": false
     },
     {
         "name": "있었고",
-        "filter": "있었고.\\n",
+        "filter": "있었고.\n",
         "to": "있었다.",
-        "expr": true
+        "expr": false
     },
     {
         "name": "순간.",
@@ -41,12 +41,6 @@
         "name": "뭐뭐니까. 시리즈",
         "filter": "([되었]|[했]|[않았]|[였]|[었])으니까\\.\\n",
         "to": "$1다.",
-        "expr": true
-    },
-    {
-        "name": "있었고.",
-        "filter": "있었고.\\n",
-        "to": "있었다.",
         "expr": true
     },
     {
@@ -78,10 +72,10 @@
         "locale": "ko-KR"
     },
     {
-        "filter": "때문에.\\n",
+        "filter": "때문에.\n",
         "enable": true,
         "name": "때문에.",
-        "expr": true,
+        "expr": false,
         "to": "때문이다."
     },
     {
