@@ -57,13 +57,6 @@
         "to": " 엔 "
     },
     {
-        "filter": "(lv\\.)|(LV\\.)|(LV {0,}:)|(lv {0,}:)|(Lv\\.)|(Lv {0,}:)",
-        "enable": true,
-        "name": "레벨",
-        "expr": true,
-        "to": "레벨"
-    },
-    {
         "filter": "상태.",
         "enable": true,
         "name": "상태.",
@@ -434,5 +427,13 @@
         "name": "엔피씨",
         "expr": false,
         "to": "엔피씨"
+    },
+    {
+        "filter": "(lv\\.)|(LV\\.)|(LV {0,}:)|(lv {0,}:)|(Lv\\.)|(Lv {0,}:)",
+        "enable": true,
+        "name": "레벨",
+        "expr": true,
+        "to": "레벨",
+        "totr": true
     }
 ]
