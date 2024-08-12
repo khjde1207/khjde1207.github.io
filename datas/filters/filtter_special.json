@@ -16,7 +16,7 @@
         "bSpecial": true
     },
     {
-        "name": "upper case 4 (1) attention to order",
+        "name": "Add a period (.) between English abbreviations, be careful with the order(1)",
         "expr": true,
         "filter": "([A-Z])([A-Z])([A-Z])([A-Z])",
         "to": "$1.$2.$3.$4",
@@ -24,7 +24,7 @@
         "bSpecial": true
     },
     {
-        "name": "upper case 3 (2) attention to order",
+        "name": "Add a period (.) between English abbreviations, be careful with the order(2)",
         "expr": true,
         "filter": "([A-Z])([A-Z])([A-Z])",
         "to": "$1.$2.$3",
@@ -32,7 +32,7 @@
         "bSpecial": true
     },
     {
-        "name": "upper case 2 (3) attention to order",
+        "name": "Add a period (.) between English abbreviations, be careful with the order(3)",
         "expr": true,
         "filter": "([A-Z])([A-Z])",
         "to": "$1.$2",
