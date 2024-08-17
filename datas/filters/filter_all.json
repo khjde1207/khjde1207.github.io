@@ -124,5 +124,13 @@
         "filter": ";",
         "to": "",
         "enable": true
+    },
+    {
+        "filter": "(lv\\.)|(LV\\.)|(LV {0,}:)|(lv {0,}:)|(Lv\\.)|(Lv {0,}:)",
+        "enable": true,
+        "name": "Level",
+        "expr": true,
+        "to": "Level",
+        "totr": true
     }
 ]
