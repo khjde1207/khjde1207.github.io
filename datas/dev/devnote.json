@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "- Added TTS special filter function.\n  * The usage is the same as the existing filter, but the special filter is not downloaded with the [Download All] function.\n  * Filters that make too many modifications to sentences are classified as special filters.\n  * Currently, only the English filter except for abbreviations, the addition of periods (.) between English abbreviations, and the filter function for repeating the same word more than 3 times are added.\n\n- Removed TTS filter and bulk modification report function.\n  * The function was removed because there were no reports."
+    "devnote": "- Cover image processing logic has been modified.\n- Added a move to upper folder button next to the My Library folder name edit button.\n- Added scroll option to Settings - Touch Area Settings - Controller Settings.\n- Added the ability to add mouse wheel actions to the controller settings."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "- TTS 특수 필터 기능을 추가 하였습니다.\n  * 사용법은 기존필터와 차이가 없지만, 특수필터는 [전부 다운로드] 기능으로 다운되지 않습니다.\n  * 문장에 너무 많은 수정이 가해지는 필터의 경우 특수 필터로 분류 됩니다. \n  * 현재는 약어를 제외한 모든 영문 필터, 영문 약어 사이에 점(.) 추가, 동일한 단어 3회 이상 반복 필터 기능 만 추가 되어 있습니다. \n \n- TTS 필터, 일괄수정 제보기능을 제거 하였습니다. \n  * 제보가 없어서 해당 기능을 제거 하였습니다."
+    "devnote": "- 커버이미지 처리 로직을 수정 하였습니다. \n- 내서재 폴더명 편집 버튼 옆에 상위폴더이동 버튼을 추가 하였습니다. \n- 설정 - 터치 영역 설정 - 컨트롤러 설정에 스크롤 옵션을 추가 하였습니다.\n- 컨트롤러 설정에서 마우스 휠 동작을 추가 할 수 있도록 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "- Engadida función de filtro especial TTS.\n  * O uso é o mesmo que o filtro existente, pero o filtro especial non se descarga coa función [Descargar todo].\n  * Os filtros que fan demasiadas modificacións nas frases clasifícanse como filtros especiais.\n  * Actualmente, só se engaden o filtro en inglés excepto as abreviaturas, a adición de puntos (.) entre as abreviaturas inglesas e a función de filtro para repetir a mesma palabra máis de 3 veces.\n\n- Eliminouse o filtro TTS e a función de informe de modificación masiva.\n  * Eliminouse a función porque non había informes."
+    "devnote": "- Modificouse a lóxica de tratamento da imaxe de portada.\n- Engadiuse un botón de desprazamento ao cartafol superior xunto ao botón de edición do nome do cartafol A miña biblioteca.\n- Engadiuse a opción de desprazamento a Configuración - Configuración da área táctil - Configuración do controlador.\n- Engadiuse a posibilidade de engadir accións da roda do rato á configuración do controlador."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "- TTS વિશેષ ફિલ્ટર કાર્ય ઉમેર્યું.\n  * ઉપયોગ હાલના ફિલ્ટર જેવો જ છે, પરંતુ વિશેષ ફિલ્ટર [બધા ડાઉનલોડ કરો] ફંક્શન સાથે ડાઉનલોડ કરવામાં આવતું નથી.\n  * જે ગાળકો વાક્યોમાં ઘણા બધા ફેરફારો કરે છે તેને વિશિષ્ટ ફિલ્ટર્સ તરીકે વર્ગીકૃત કરવામાં આવે છે.\n  * હાલમાં, સંક્ષિપ્ત શબ્દો સિવાય માત્ર અંગ્રેજી ફિલ્ટર, અંગ્રેજી સંક્ષેપો વચ્ચે પીરિયડ્સ (.)નો ઉમેરો અને એક જ શબ્દને 3 કરતા વધુ વખત પુનરાવર્તિત કરવા માટે ફિલ્ટર ફંક્શન ઉમેરવામાં આવે છે.\n\n- દૂર કરેલ TTS ફિલ્ટર અને બલ્ક મોડિફિકેશન રિપોર્ટ ફંક્શન.\n  * કોઈ અહેવાલ ન હોવાને કારણે કાર્ય દૂર કરવામાં આવ્યું હતું."
+    "devnote": "- કવર ઇમેજ પ્રોસેસિંગ લોજિકમાં ફેરફાર કરવામાં આવ્યો છે.\n- માય લાઇબ્રેરી ફોલ્ડર નામ સંપાદિત કરો બટનની બાજુમાં ઉપલા ફોલ્ડર બટન પર ખસેડો ઉમેર્યું.\n- સેટિંગ્સમાં સ્ક્રોલ વિકલ્પ ઉમેર્યો - ટચ એરિયા સેટિંગ્સ - કંટ્રોલર સેટિંગ્સ.\n- કંટ્રોલર સેટિંગ્સમાં માઉસ વ્હીલ ક્રિયાઓ ઉમેરવાની ક્ષમતા ઉમેરાઈ."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "- Προστέθηκε ειδική λειτουργία φίλτρου TTS.\n  * Η χρήση είναι ίδια με το υπάρχον φίλτρο, αλλά το ειδικό φίλτρο δεν γίνεται λήψη με τη λειτουργία [Λήψη όλων].\n  * Τα φίλτρα που κάνουν πάρα πολλές τροποποιήσεις σε προτάσεις ταξινομούνται ως ειδικά φίλτρα.\n  * Προς το παρόν, προστίθεται μόνο το αγγλικό φίλτρο εκτός από τις συντομογραφίες, η προσθήκη τελείων (.) μεταξύ των αγγλικών συντομογραφιών και η λειτουργία φίλτρου για επανάληψη της ίδιας λέξης περισσότερες από 3 φορές.\n\n- Αφαιρέθηκε το φίλτρο TTS και η λειτουργία αναφοράς μαζικής τροποποίησης.\n  * Η λειτουργία καταργήθηκε επειδή δεν υπήρχαν αναφορές."
+    "devnote": "- Η λογική επεξεργασίας εικόνας εξωφύλλου έχει τροποποιηθεί.\n- Προστέθηκε ένα κουμπί μετακίνησης στον επάνω φάκελο δίπλα στο κουμπί επεξεργασίας ονόματος φακέλου Η βιβλιοθήκη μου.\n- Προστέθηκε η επιλογή κύλισης στις Ρυθμίσεις - Αγγίξτε Ρυθμίσεις περιοχής - Ρυθμίσεις ελεγκτή.\n- Προστέθηκε η δυνατότητα προσθήκης ενεργειών τροχού ποντικιού στις ρυθμίσεις του ελεγκτή."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "- Speciale TTS-filterfunctie toegevoegd.\n  * Het gebruik is hetzelfde als het bestaande filter, maar het speciale filter wordt niet gedownload met de functie [Alles downloaden].\n  * Filters die te veel wijzigingen in zinnen aanbrengen, worden geclassificeerd als speciale filters.\n  * Momenteel is alleen het Engelse filter toegevoegd, behalve voor afkortingen, de toevoeging van punten (.) tussen Engelse afkortingen en de filterfunctie voor het meer dan 3 keer herhalen van hetzelfde woord.\n\n- TTS-filter en rapportfunctie voor bulkwijzigingen verwijderd.\n  *De functie is verwijderd omdat er geen rapporten waren."
+    "devnote": "- De logica voor de verwerking van omslagafbeeldingen is gewijzigd.\n- Een knop voor verplaatsen naar de bovenste map toegevoegd naast de knop voor het bewerken van de mapnaam van Mijn bibliotheek.\n- Scrolloptie toegevoegd aan Instellingen - Instellingen aanraakgebied - Controllerinstellingen.\n- De mogelijkheid toegevoegd om muiswielacties toe te voegen aan de controllerinstellingen."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "- TTS विशेष फिल्टर प्रकार्य थपियो।\n  * प्रयोग अवस्थित फिल्टर जस्तै छ, तर विशेष फिल्टर [Download All] प्रकार्यसँग डाउनलोड गरिएको छैन।\n  * वाक्यहरूमा धेरै परिमार्जन गर्ने फिल्टरहरूलाई विशेष फिल्टरको रूपमा वर्गीकृत गरिन्छ।\n  * हाल, संक्षिप्त नामहरू बाहेक अङ्ग्रेजी फिल्टर मात्र, अङ्ग्रेजी संक्षिप्त नामहरू बीचको अवधि (।) थप्ने र एउटै शब्दलाई ३ पटकभन्दा बढी दोहोर्याउने फिल्टर प्रकार्य थपिएको छ।\n\n- हटाइएको TTS फिल्टर र बल्क परिमार्जन रिपोर्ट प्रकार्य।\n  * कुनै रिपोर्टहरू नभएका कारण समारोह हटाइयो।"
+    "devnote": "- आवरण छवि प्रशोधन तर्क परिमार्जन गरिएको छ।\n- मेरो पुस्तकालय फोल्डर नाम सम्पादन बटनको छेउमा माथिल्लो फोल्डर बटनमा सार्न थपियो।\n- सेटिङहरूमा स्क्रोल विकल्प थपियो - टच एरिया सेटिङ्हरू - कन्ट्रोलर सेटिङहरू।\n- नियन्त्रक सेटिङहरूमा माउस व्हील कार्यहरू थप्ने क्षमता थपियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "- Lagt til TTS spesiell filterfunksjon.\n  * Bruken er den samme som det eksisterende filteret, men spesialfilteret lastes ikke ned med funksjonen [Last ned alle].\n  * Filtre som gjør for mange endringer i setninger, klassifiseres som spesialfiltre.\n  * Foreløpig er bare det engelske filteret med unntak av forkortelser, tillegg av punktum (.) mellom engelske forkortelser og filterfunksjonen for å gjenta samme ord mer enn 3 ganger lagt til.\n\n- Fjernet TTS-filter og bulk modifikasjonsrapportfunksjon.\n  * Funksjonen ble fjernet fordi det ikke var noen rapporter."
+    "devnote": "- Forsidebildebehandlingslogikk er endret.\n- Lagt til en flytt til øvre mappe-knapp ved siden av redigeringsknappen for Mitt bibliotek-mappenavn.\n- Lagt til rullealternativ til Innstillinger - Innstillinger for berøringsområde - Kontrollerinnstillinger.\n- Lagt til muligheten til å legge til musehjulhandlinger i kontrollerinnstillingene."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "- Tilføjet TTS speciel filterfunktion.\n  * Anvendelsen er den samme som det eksisterende filter, men specialfilteret downloades ikke med funktionen [Download All].\n  * Filtre, der foretager for mange ændringer af sætninger, klassificeres som specielle filtre.\n  * I øjeblikket tilføjes kun det engelske filter bortset fra forkortelser, tilføjelse af punktum (.) mellem engelske forkortelser og filterfunktionen til at gentage det samme ord mere end 3 gange.\n\n- Fjernet TTS-filter og bulkmodifikationsrapportfunktion.\n  * Funktionen blev fjernet, fordi der ikke var nogen rapporter."
+    "devnote": "- Forsidebilledbehandlingslogik er blevet ændret.\n- Tilføjet en knap til flytning til den øverste mappe ved siden af ​​redigeringsknappen Mit biblioteks mappenavn.\n- Tilføjet rullemulighed til Indstillinger - Indstillinger for berøringsområde - Controllerindstillinger.\n- Tilføjet muligheden for at tilføje musehjulshandlinger til controllerindstillingerne."
   },
   "독일어": {
     "key": "de",
-    "devnote": "- TTS-Spezialfilterfunktion hinzugefügt.\n  * Die Verwendung ist die gleiche wie beim vorhandenen Filter, der Spezialfilter wird jedoch nicht mit der Funktion [Alle herunterladen] heruntergeladen.\n  * Filter, die zu viele Änderungen an Sätzen vornehmen, werden als Sonderfilter klassifiziert.\n  * Derzeit werden nur der englische Filter mit Ausnahme von Abkürzungen, das Hinzufügen von Punkten (.) zwischen englischen Abkürzungen und die Filterfunktion für die mehr als dreimalige Wiederholung desselben Wortes hinzugefügt.\n\n- TTS-Filter und Massenänderungsberichtsfunktion entfernt.\n  * Die Funktion wurde entfernt, da keine Berichte vorhanden waren."
+    "devnote": "- Die Verarbeitungslogik für Coverbilder wurde geändert.\n– Eine Schaltfläche zum Verschieben in den oberen Ordner wurde neben der Schaltfläche zum Bearbeiten des Ordnernamens „Meine Bibliothek“ hinzugefügt.\n- Scroll-Option zu Einstellungen – Touchbereich-Einstellungen – Controller-Einstellungen hinzugefügt.\n– Möglichkeit hinzugefügt, Mausradaktionen zu den Controller-Einstellungen hinzuzufügen."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "- ເພີ່ມ​ການ​ທໍາ​ງານ​ຂອງ​ຕົວ​ກອງ​ພິ​ເສດ TTS​.\n  * ການນຳໃຊ້ແມ່ນຄືກັນກັບຕົວກອງທີ່ມີຢູ່, ແຕ່ຕົວກອງພິເສດບໍ່ໄດ້ຖືກດາວໂຫຼດດ້ວຍຟັງຊັນ [ດາວໂຫຼດທັງໝົດ].\n  * ຕົວກອງທີ່ເຮັດໃຫ້ການດັດແປງປະໂຫຍກຫຼາຍເກີນໄປຖືກຈັດປະເພດເປັນຕົວກອງພິເສດ.\n  * ໃນປັດຈຸບັນ, ພຽງແຕ່ການກັ່ນຕອງພາສາອັງກິດຍົກເວັ້ນສໍາລັບຕົວຫຍໍ້, ການເພີ່ມໄລຍະເວລາ (.) ລະຫວ່າງຕົວຫຍໍ້ພາສາອັງກິດ, ແລະຟັງຊັນການກັ່ນຕອງສໍາລັບການເຮັດຊ້ໍາຄໍາດຽວກັນຫຼາຍກວ່າ 3 ເທື່ອ.\n\n- ການ​ເອົາ​ຕົວ​ກັ່ນ​ຕອງ TTS ແລະ​ການ​ທໍາ​ງານ​ຂອງ​ການ​ດັດ​ແກ້​ຈໍາ​ນວນ​ຫຼາຍ​.\n  * ຟັງຊັນໄດ້ຖືກໂຍກຍ້າຍອອກເພາະວ່າບໍ່ມີລາຍງານ."
+    "devnote": "- ການ​ປຸງ​ແຕ່ງ​ຮູບ​ພາບ​ຕາມ​ເຫດ​ຜົນ​ໄດ້​ຮັບ​ການ​ດັດ​ແກ້​.\n- ເພີ່ມການຍ້າຍໄປໃສ່ປຸ່ມໂຟເດີເທິງຖັດຈາກປຸ່ມແກ້ໄຂຊື່ໂຟເດີ My Library.\n- ເພີ່ມ​ທາງ​ເລືອກ​ເລື່ອນ​ໃສ່​ການ​ຕັ້ງ​ຄ່າ - ການ​ຕັ້ງ​ຄ່າ​ພື້ນ​ທີ່​ສໍາ​ພັດ - ການ​ຕັ້ງ​ຄ່າ​ການ​ຄວບ​ຄຸມ​.\n- ເພີ່ມຄວາມສາມາດໃນການເພີ່ມການດໍາເນີນການລໍ້ຫນູກັບການຕັ້ງຄ່າຄວບຄຸມ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "- Pievienota TTS īpašā filtra funkcija.\n  * Izmantošana ir tāda pati kā esošajam filtram, taču īpašais filtrs netiek lejupielādēts ar funkciju [Lejupielādēt visu].\n  * Filtri, kas veic pārāk daudz teikumu modifikāciju, tiek klasificēti kā īpaši filtri.\n  * Pašlaik tiek pievienots tikai angļu valodas filtrs, izņemot saīsinājumus, punktu pievienošana (.) starp angļu valodas saīsinājumiem un filtra funkcija viena un tā paša vārda atkārtošanai vairāk nekā 3 reizes.\n\n- Noņemts TTS filtrs un lielapjoma modifikāciju atskaites funkcija.\n  * Funkcija tika noņemta, jo nebija ziņojumu."
+    "devnote": "- Ir mainīta vāka attēla apstrādes loģika.\n- Pievienota poga Pārvietoties uz augšējo mapi blakus mapes nosaukuma rediģēšanas pogai Mana bibliotēka.\n- Pievienota ritināšanas opcija uz Iestatījumi - Pieskāriena apgabala iestatījumi - Kontroliera iestatījumi.\n- Pievienota iespēja kontroliera iestatījumiem pievienot peles ritentiņas darbības."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "- Добавлена ​​специальная функция фильтра TTS.\n  * Использование такое же, как и у существующего фильтра, но специальный фильтр не загружается с помощью функции [Загрузить все].\n  * Фильтры, которые вносят слишком много изменений в предложения, классифицируются как специальные фильтры.\n  * В настоящее время добавлен только английский фильтр, за исключением сокращений, добавление точек (.) между английскими сокращениями и функция фильтра для повторения одного и того же слова более 3 раз.\n\n— Удален фильтр TTS и функция отчета о массовых изменениях.\n  * Функция удалена, так как не было отчетов."
+    "devnote": "- Изменена логика обработки изображения обложки.\n- Добавлена ​​кнопка перехода в верхнюю папку рядом с кнопкой редактирования имени папки «Моя библиотека».\n— Добавлена ​​опция прокрутки в «Настройки» — «Настройки сенсорной области» — «Настройки контроллера».\n- В настройки контроллера добавлена ​​возможность добавлять действия колесика мыши."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "- S-a adăugat funcția specială de filtru TTS.\n  * Utilizarea este aceeași cu filtrul existent, dar filtrul special nu este descărcat cu funcția [Download All].\n  * Filtrele care modifică prea multe propoziții sunt clasificate ca filtre speciale.\n  * În prezent, se adaugă numai filtrul în limba engleză, cu excepția abrevierilor, adăugarea de puncte (.) între abrevierile în limba engleză și funcția de filtru pentru repetarea aceluiași cuvânt de mai mult de 3 ori.\n\n- S-a eliminat filtrul TTS și funcția de raportare a modificărilor în bloc.\n  * Funcția a fost eliminată deoarece nu au existat rapoarte."
+    "devnote": "- Logica de procesare a imaginii de copertă a fost modificată.\n- S-a adăugat un buton de mutare în dosarul superior lângă butonul de editare a numelui folderului Biblioteca mea.\n- S-a adăugat opțiunea de defilare la Setări - Setări zona tactilă - Setări controler.\n- S-a adăugat posibilitatea de a adăuga acțiuni ale roții mouse-ului la setările controlerului."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "- Pridėta speciali TTS filtro funkcija.\n  * Naudojimas yra toks pat kaip esamas filtras, tačiau specialus filtras neatsisiunčiamas naudojant funkciją [Atsisiųsti viską].\n  * Filtrai, kurie daro per daug sakinių modifikacijų, priskiriami prie specialių filtrų.\n  * Šiuo metu pridedamas tik anglų kalbos filtras, išskyrus santrumpas, taškų (.) pridėjimas tarp anglų kalbos santrumpų ir filtro funkcija, skirta to paties žodžio kartojimui daugiau nei 3 kartus.\n\n- Pašalintas TTS filtras ir masinio modifikavimo ataskaitos funkcija.\n  * Funkcija pašalinta, nes nebuvo ataskaitų."
+    "devnote": "- Pakeista viršelio vaizdo apdorojimo logika.\n- Prie Mano bibliotekos aplanko pavadinimo redagavimo mygtuko pridėtas perkėlimo į viršutinį aplanką mygtukas.\n- Pridėta slinkties parinktis į Nustatymai - Lietimo srities nustatymai - Valdiklio nustatymai.\n- Prie valdiklio nustatymų pridėta galimybė pridėti pelės ratuko veiksmus."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "- टीटीएस विशेष फिल्टर फंक्शन जोडले.\n  * वापर विद्यमान फिल्टर प्रमाणेच आहे, परंतु विशेष फिल्टर [सर्व डाउनलोड करा] फंक्शनसह डाउनलोड केले जात नाही.\n  * जे फिल्टर वाक्यांमध्ये खूप बदल करतात त्यांना विशेष फिल्टर म्हणून वर्गीकृत केले जाते.\n  * सध्या, संक्षेप वगळता फक्त इंग्रजी फिल्टर, इंग्रजी संक्षेपांमध्ये पूर्णविराम (.) जोडणे आणि समान शब्द 3 पेक्षा जास्त वेळा पुनरावृत्ती करण्यासाठी फिल्टर कार्य जोडले गेले आहे.\n\n- TTS फिल्टर आणि मोठ्या प्रमाणात बदल अहवाल कार्य काढले.\n  * कोणतेही अहवाल नसल्यामुळे कार्य काढून टाकण्यात आले."
+    "devnote": "- कव्हर इमेज प्रोसेसिंग लॉजिक सुधारित केले गेले आहे.\n- माय लायब्ररी फोल्डर नाव संपादन बटणाच्या पुढे वरच्या फोल्डर बटणावर हलवा जोडले.\n- सेटिंग्जमध्ये स्क्रोल पर्याय जोडला - टच एरिया सेटिंग्ज - कंट्रोलर सेटिंग्ज.\n- कंट्रोलर सेटिंग्जमध्ये माउस व्हील क्रिया जोडण्याची क्षमता जोडली."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "- Додадена е специјална функција за филтер TTS.\n  * Употребата е иста како и постоечкиот филтер, но специјалниот филтер не се презема со функцијата [Download All].\n  * Филтрите што прават премногу модификации на речениците се класифицирани како специјални филтри.\n  * Во моментов се додадени само англискиот филтер, освен кратенките, додавањето точки (.) помеѓу англиските кратенки и функцијата филтер за повторување на истиот збор повеќе од 3 пати.\n\n- Отстранет е филтерот TTS и функцијата за извештај за масовни измени.\n  * Функцијата беше отстранета бидејќи немаше извештаи."
+    "devnote": "- Логиката за обработка на насловната слика е изменета.\n- Додадено е копче за преместување во горната папка до копчето за уредување на името на папката Моја библиотека.\n- Додадена е опција за лизгање во Поставки - Допрете Поставки за областа - Поставки на контролорот.\n- Додадена е способност за додавање дејства на тркалото на глувчето во поставките на контролерот."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "- TTS പ്രത്യേക ഫിൽട്ടർ പ്രവർത്തനം ചേർത്തു.\n  * ഉപയോഗം നിലവിലുള്ള ഫിൽട്ടറിന് സമാനമാണ്, എന്നാൽ പ്രത്യേക ഫിൽട്ടർ [എല്ലാം ഡൗൺലോഡ് ചെയ്യുക] ഫംഗ്‌ഷൻ ഉപയോഗിച്ച് ഡൗൺലോഡ് ചെയ്യപ്പെടുന്നില്ല.\n  * വാക്യങ്ങളിൽ വളരെയധികം മാറ്റങ്ങൾ വരുത്തുന്ന ഫിൽട്ടറുകൾ പ്രത്യേക ഫിൽട്ടറുകളായി തരംതിരിക്കുന്നു.\n  * നിലവിൽ, ചുരുക്കെഴുത്തുകൾ ഒഴികെയുള്ള ഇംഗ്ലീഷ് ഫിൽട്ടർ, ഇംഗ്ലീഷ് ചുരുക്കെഴുത്തുകൾക്കിടയിൽ പിരീഡുകളുടെ (.) കൂട്ടിച്ചേർക്കൽ, ഒരേ വാക്ക് 3 തവണയിൽ കൂടുതൽ ആവർത്തിക്കുന്നതിനുള്ള ഫിൽട്ടർ ഫംഗ്ഷൻ എന്നിവ മാത്രമേ ചേർത്തിട്ടുള്ളൂ.\n\n- TTS ഫിൽട്ടറും ബൾക്ക് മോഡിഫിക്കേഷൻ റിപ്പോർട്ട് ഫംഗ്ഷനും നീക്കം ചെയ്തു.\n  * റിപ്പോർട്ടുകൾ ഇല്ലാത്തതിനാൽ പ്രവർത്തനം നീക്കം ചെയ്തു."
+    "devnote": "- കവർ ഇമേജ് പ്രോസസ്സിംഗ് ലോജിക്ക് പരിഷ്കരിച്ചു.\n- മൈ ലൈബ്രറി ഫോൾഡർ നെയിം എഡിറ്റ് ബട്ടണിന് അടുത്തുള്ള മുകളിലെ ഫോൾഡർ ബട്ടണിലേക്ക് ഒരു നീക്കം ചേർത്തു.\n- ക്രമീകരണങ്ങളിലേക്ക് സ്ക്രോൾ ഓപ്ഷൻ ചേർത്തു - ടച്ച് ഏരിയ ക്രമീകരണങ്ങൾ - കൺട്രോളർ ക്രമീകരണങ്ങൾ.\n- കൺട്രോളർ ക്രമീകരണങ്ങളിലേക്ക് മൗസ് വീൽ പ്രവർത്തനങ്ങൾ ചേർക്കാനുള്ള കഴിവ് ചേർത്തു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "- Menambah fungsi penapis khas TTS.\n  * Penggunaan adalah sama seperti penapis sedia ada, tetapi penapis khas tidak dimuat turun dengan fungsi [Muat Turun Semua].\n  * Penapis yang membuat terlalu banyak pengubahsuaian pada ayat diklasifikasikan sebagai penapis khas.\n  * Pada masa ini, hanya penapis Bahasa Inggeris kecuali untuk singkatan, penambahan noktah (.) antara singkatan Bahasa Inggeris dan fungsi penapis untuk mengulang perkataan yang sama lebih daripada 3 kali ditambah.\n\n- Penapis TTS dialih keluar dan fungsi laporan pengubahsuaian pukal.\n  * Fungsi telah dialih keluar kerana tiada laporan."
+    "devnote": "- Logik pemprosesan imej penutup telah diubah suai.\n- Menambahkan butang pindah ke folder atas di sebelah butang edit nama folder Perpustakaan Saya.\n- Menambahkan pilihan tatal pada Tetapan - Tetapan Kawasan Sentuh - Tetapan Pengawal.\n- Menambah keupayaan untuk menambah tindakan roda tetikus pada tetapan pengawal."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "- TTS тусгай шүүлтүүр функцийг нэмсэн.\n  * Хэрэглээ нь одоо байгаа шүүлтүүртэй адил боловч тусгай шүүлтүүрийг [Бүгдийг татаж авах] функцээр татаж авдаггүй.\n  * Өгүүлбэрт хэт олон өөрчлөлт оруулсан шүүлтүүрийг тусгай шүүлтүүр гэж ангилдаг.\n  * Одоогоор товчлолоос бусад англи хэлний шүүлтүүр, англи товчлолын хооронд цэг (.) нэмэх, нэг үгийг 3-аас дээш удаа давтах шүүлтүүр функцийг нэмж оруулсан.\n\n- TTS шүүлтүүр болон задгай өөрчлөлтийн тайлангийн функцийг устгасан.\n  * Мэдээлэл байхгүй тул функцийг устгасан."
+    "devnote": "- Хавтасны зураг боловсруулах логик өөрчлөгдсөн.\n- Миний номын сангийн хавтасны нэрийг засах товчлуурын хажууд дээд хавтас руу зөөх товчийг нэмсэн.\n- Тохиргоо - Хүрэх бүсийн тохиргоо - Удирдлагын тохиргоо хэсэгт гүйлгэх сонголтыг нэмсэн.\n- Хяналтын тохиргоонд хулганы дугуйны үйлдлийг нэмэх боломжийг нэмсэн."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "- TTS iragazki funtzio berezia gehitu da.\n  * Erabilera lehendik dagoen iragazkiaren berdina da, baina iragazki berezia ez da deskargatzen [Deskargatu guztiak] funtzioarekin.\n  * Esaldietan aldaketa gehiegi egiten dituzten iragazkiak iragazki berezi gisa sailkatzen dira.\n  * Gaur egun, ingelesezko iragazkia soilik gehitzen dira laburdurak izan ezik, ingelesezko laburduren artean puntuak (.) gehitzea eta hitz bera 3 aldiz baino gehiago errepikatzeko iragazki funtzioa gehitzen dira.\n\n- TTS iragazkia eta aldaketa ugarien txostenaren funtzioa kendu ditu.\n  * Funtzioa kendu egin da ez zegoelako txostenik."
+    "devnote": "- Azaleko irudiak prozesatzeko logika aldatu da.\n- Nire liburutegia karpetaren izena editatzeko botoiaren ondoan goiko karpetara mugitzeko botoia gehitu da.\n- Korritzeko aukera gehitu da Ezarpenak - Ukitu eremuaren ezarpenak - Kontrolagailuaren ezarpenak.\n- Kontrolagailuaren ezarpenetara saguaren gurpilaren ekintzak gehitzeko gaitasuna gehitu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "- TTS အထူးစစ်ထုတ်မှုလုပ်ဆောင်ချက်ကိုထည့်သွင်းထားသည်။\n  * အသုံးပြုမှုသည် ရှိပြီးသား filter နှင့် အတူတူပင်ဖြစ်သော်လည်း အထူးစစ်ထုတ်မှုကို [Download All] လုပ်ဆောင်ချက်ဖြင့် ဒေါင်းလုဒ်မလုပ်ပါ။\n  * စာကြောင်းများကို ပြုပြင်ပြောင်းလဲမှုများစွာပြုလုပ်သော စစ်ထုတ်မှုများကို အထူးစစ်ထုတ်မှုများအဖြစ် သတ်မှတ်သည်။\n  * လောလောဆယ်တွင်၊ အတိုကောက်များအတွက်၊ အင်္ဂလိပ်အတိုကောက်များအကြား အပိုင်း (.) နှင့် တူညီသောစကားလုံးကို 3 ကြိမ်ထက်ပို၍ ထပ်ခါထပ်ခါပြုလုပ်ခြင်းအတွက် စစ်ထုတ်ခြင်းလုပ်ဆောင်ချက်မှလွဲ၍ အင်္ဂလိပ်စစ်ထုတ်ခြင်းများကို ထည့်သွင်းထားသည်။\n\n- TTS စစ်ထုတ်ခြင်းနှင့် အစုလိုက်မွမ်းမံခြင်း အစီရင်ခံစာလုပ်ဆောင်ချက်ကို ဖယ်ရှားခဲ့သည်။\n  * အစီရင်ခံစာမရှိသောကြောင့် လုပ်ဆောင်ချက်ကို ဖယ်ရှားခဲ့သည်။"
+    "devnote": "- ကာဗာရုပ်ပုံလုပ်ဆောင်ခြင်း ယုတ္တိဗေဒကို ပြုပြင်မွမ်းမံထားသည်။\n- My Library folder name တည်းဖြတ်ခလုတ်ဘေးရှိ အပေါ်ဘက်ဖိုဒါသို့ ရွှေ့ရန်ခလုတ်ကို ပေါင်းထည့်ထားသည်။\n- ဆက်တင်များသို့ ရွှေ့ရန် ရွေးချယ်စရာ ထပ်ထည့်သည် - Touch Area Settings - Controller Settings။\n- ထိန်းချုပ်ကိရိယာဆက်တင်များတွင် မောက်စ်ဘီးလုပ်ဆောင်ချက်များကို ပေါင်းထည့်နိုင်သည့် စွမ်းရည်ကို ထည့်သွင်းထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "- Đã thêm chức năng lọc đặc biệt TTS.\n  * Cách sử dụng giống như bộ lọc hiện có, nhưng bộ lọc đặc biệt không được tải xuống bằng chức năng [Tải xuống tất cả].\n  * Các bộ lọc thực hiện quá nhiều sửa đổi cho câu được phân loại là các bộ lọc đặc biệt.\n  * Hiện tại, chỉ thêm bộ lọc tiếng Anh ngoại trừ từ viết tắt, thêm dấu chấm (.) giữa các từ viết tắt tiếng Anh và chức năng lọc để lặp lại cùng một từ hơn 3 lần.\n\n- Đã xóa bộ lọc TTS và chức năng báo cáo sửa đổi hàng loạt.\n  * Chức năng đã bị xóa vì không có báo cáo."
+    "devnote": "- Logic xử lý ảnh bìa đã được sửa đổi.\n- Đã thêm nút di chuyển lên thư mục phía trên bên cạnh nút chỉnh sửa tên thư mục Thư viện của tôi.\n- Đã thêm tùy chọn cuộn vào Cài đặt - Cài đặt vùng cảm ứng - Cài đặt bộ điều khiển.\n- Đã thêm khả năng thêm hành động của bánh xe chuột vào cài đặt bộ điều khiển."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "- Дададзена функцыя спецыяльнага фільтра TTS.\n  * Выкарыстанне такое ж, як і існуючы фільтр, але спецыяльны фільтр не спампоўваецца з дапамогай функцыі [Спампаваць усё].\n  * Фільтры, якія ўносяць занадта шмат змяненняў у прапановы, класіфікуюцца як спецыяльныя фільтры.\n  * У цяперашні час дададзены толькі ангельскі фільтр, за выключэннем абрэвіятур, даданне кропак (.) паміж англійскімі скарачэннямі і функцыя фільтра для паўтарэння аднаго і таго ж слова больш за 3 разы.\n\n- Выдалены фільтр TTS і функцыя справаздач аб масавых мадыфікацыях.\n  * Функцыя была выдалена, бо не было справаздач."
+    "devnote": "- Логіка апрацоўкі выявы вокладкі была зменена.\n- Дададзена кнопка перамяшчэння ў верхнюю папку побач з кнопкай рэдагавання назвы папкі \"Мая бібліятэка\".\n- Дададзены варыянт пракруткі ў Налады - Налады сэнсарнай вобласці - Налады кантролера.\n- Дададзена магчымасць дадаваць дзеянні колы мышы ў налады кантролера."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "- TTS বিশেষ ফিল্টার ফাংশন যোগ করা হয়েছে।\n  * ব্যবহারটি বিদ্যমান ফিল্টারের মতোই, তবে বিশেষ ফিল্টারটি [Download All] ফাংশন দিয়ে ডাউনলোড করা হয় না।\n  * যে ফিল্টারগুলো বাক্যে অনেক বেশি পরিবর্তন করে সেগুলোকে বিশেষ ফিল্টার হিসেবে শ্রেণীবদ্ধ করা হয়।\n  * বর্তমানে, সংক্ষিপ্ত রূপ ব্যতীত শুধুমাত্র ইংরেজি ফিল্টার, ইংরেজি সংক্ষেপণগুলির মধ্যে সময়কাল (.) যোগ করা এবং একই শব্দটি 3 বারের বেশি পুনরাবৃত্তি করার জন্য ফিল্টার ফাংশন যোগ করা হয়েছে।\n\n- TTS ফিল্টার এবং বাল্ক পরিবর্তন রিপোর্ট ফাংশন সরানো হয়েছে।\n  * কোন রিপোর্ট না থাকায় ফাংশনটি সরানো হয়েছে।"
+    "devnote": "- কভার ইমেজ প্রক্রিয়াকরণ যুক্তি পরিবর্তন করা হয়েছে.\n- আমার লাইব্রেরি ফোল্ডার নাম সম্পাদনা বোতামের পাশে উপরের ফোল্ডার বোতামে একটি সরানো যোগ করা হয়েছে৷\n- সেটিংসে স্ক্রোল বিকল্প যোগ করা হয়েছে - টাচ এরিয়া সেটিংস - কন্ট্রোলার সেটিংস৷\n- কন্ট্রোলার সেটিংসে মাউস হুইল অ্যাকশন যোগ করার ক্ষমতা যোগ করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "- Добавена TTS специална филтърна функция.\n  * Използването е същото като съществуващия филтър, но специалният филтър не се изтегля с функцията [Изтегляне на всички].\n  * Филтрите, които правят твърде много модификации на изреченията, се класифицират като специални филтри.\n  * Понастоящем се добавя само английският филтър, с изключение на съкращенията, добавянето на точки (.) между английските съкращения и филтърната функция за повтаряне на една и съща дума повече от 3 пъти.\n\n- Премахнат TTS филтър и функция за отчет за групова модификация.\n  * Функцията беше премахната, защото няма отчети."
+    "devnote": "- Логиката за обработка на изображението на корицата е променена.\n- Добавен е бутон за преместване в горната папка до бутона за редактиране на името на папката My Library.\n- Добавена е опция за превъртане към Настройки - Настройки на областта за докосване - Настройки на контролера.\n- Добавена е възможност за добавяне на действия с колелото на мишката към настройките на контролера."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "- Додата ТТС посебна функција филтера.\n  * Употреба је иста као и постојећи филтер, али се специјални филтер не преузима помоћу функције [Преузми све].\n  * Филтери који праве превише модификација реченица се класификују као специјални филтери.\n  * Тренутно се додаје само енглески филтер осим за скраћенице, додавање тачака (.) између енглеских скраћеница и функција филтера за понављање исте речи више од 3 пута.\n\n- Уклоњен ТТС филтер и функција извештаја о масовним изменама.\n  * Функција је уклоњена јер није било извештаја."
+    "devnote": "- Логика обраде насловне слике је измењена.\n- Додато дугме за прелазак у горњу фасциклу поред дугмета за уређивање назива фасцикле Моја библиотека.\n- Додата опција померања у Подешавања - Подешавања додирне области - Подешавања контролера.\n- Додата је могућност додавања радњи точкића миша у подешавања контролера."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "- Aliongeza TTS maalum filter kazi.\n  * Matumizi ni sawa na kichujio kilichopo, lakini kichujio maalum hakijapakuliwa kwa kutumia [Pakua Zote].\n  * Vichujio vinavyofanya marekebisho mengi kwa sentensi huainishwa kama vichujio maalum.\n  * Hivi sasa, kichujio cha Kiingereza pekee isipokuwa kwa vifupisho, kuongezwa kwa vipindi (.) kati ya vifupisho vya Kiingereza, na kazi ya kichujio cha kurudia neno moja zaidi ya mara 3 huongezwa.\n\n- Imeondoa kichungi cha TTS na kazi ya ripoti ya urekebishaji wingi.\n  * Chaguo la kukokotoa liliondolewa kwa sababu hapakuwa na ripoti."
+    "devnote": "- Mantiki ya usindikaji wa picha ya jalada imerekebishwa.\n- Imeongeza hoja kwenye kitufe cha folda ya juu karibu na kitufe cha kuhariri jina la folda ya Maktaba Yangu.\n- Imeongeza chaguo la kusogeza kwa Mipangilio - Mipangilio ya Eneo la Kugusa - Mipangilio ya Kidhibiti.\n- Imeongeza uwezo wa kuongeza vitendo vya gurudumu la kipanya kwenye mipangilio ya kidhibiti."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "- Tillagd TTS speciell filterfunktion.\n  * Användningen är densamma som det befintliga filtret, men specialfiltret laddas inte ned med funktionen [Ladda ner alla].\n  * Filter som gör för många ändringar av meningar klassificeras som specialfilter.\n  * För närvarande läggs bara till det engelska filtret förutom förkortningar, tillägg av punkter (.) mellan engelska förkortningar och filterfunktionen för att upprepa samma ord mer än 3 gånger.\n\n- Ta bort TTS-filter och bulkmodifieringsrapportfunktion.\n  * Funktionen togs bort eftersom det inte fanns några rapporter."
+    "devnote": "- Omslagsbildbehandlingslogik har ändrats.\n- Lade till en knapp för att flytta till övre mapp bredvid redigeringsknappen för Mitt biblioteks mappnamn.\n- Lade till rullningsalternativ till Inställningar - Pekområdesinställningar - Kontrollinställningar.\n- Lade till möjligheten att lägga till mushjulsåtgärder till kontrollerinställningarna."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "- Se agregó la función de filtro especial TTS.\n  * El uso es el mismo que el del filtro existente, pero el filtro especial no se descarga con la función [Descargar todo].\n  * Los filtros que realizan demasiadas modificaciones en las frases se clasifican como filtros especiales.\n  * Actualmente solo se agrega el filtro de inglés a excepción de abreviaturas, la adición de puntos (.) entre abreviaturas en inglés y la función de filtro para repetir la misma palabra más de 3 veces.\n\n- Se eliminó el filtro TTS y la función de informe de modificación masiva.\n  *Se eliminó la función porque no hubo reportes."
+    "devnote": "- Se ha modificado la lógica de procesamiento de la imagen de portada.\n- Se agregó un botón para mover a la carpeta superior al lado del botón de edición del nombre de la carpeta Mi biblioteca.\n- Se agregó la opción de desplazamiento a Configuración - Configuración del área táctil - Configuración del controlador.\n- Se agregó la capacidad de agregar acciones de la rueda del mouse a la configuración del controlador."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "- Pridaná funkcia špeciálneho filtra TTS.\n  * Použitie je rovnaké ako pri existujúcom filtri, ale špeciálny filter sa nestiahne pomocou funkcie [Download All].\n  * Filtre, ktoré robia príliš veľa úprav viet, sú klasifikované ako špeciálne filtre.\n  * V súčasnosti je pridaný iba anglický filter okrem skratiek, pridávanie bodiek (.) medzi anglické skratky a funkcia filtra pre opakovanie toho istého slova viac ako 3-krát.\n\n- Odstránený filter TTS a funkcia prehľadu hromadných úprav.\n  * Funkcia bola odstránená, pretože neboli k dispozícii žiadne správy."
+    "devnote": "- Logika spracovania obrázka na obale bola upravená.\n- Pridané tlačidlo presunu do horného priečinka vedľa tlačidla na úpravu názvu priečinka Moja knižnica.\n- Pridaná možnosť posúvania do Nastavenia - Nastavenia dotykovej oblasti - Nastavenia ovládača.\n- Pridaná možnosť pridať akcie kolieska myši do nastavení ovládača."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "- Dodana funkcija posebnega filtra TTS.\n  * Uporaba je enaka kot pri obstoječem filtru, vendar se posebni filter ne prenese s funkcijo [Prenesi vse].\n  * Filtri, ki naredijo preveč sprememb stavkov, so razvrščeni kot posebni filtri.\n  * Trenutno je dodan samo angleški filter, razen za okrajšave, dodajanje pik (.) med angleškimi okrajšavami in funkcija filtra za več kot 3-kratno ponavljanje iste besede.\n\n- Odstranjen filter TTS in funkcija poročila o množičnih spremembah.\n  * Funkcija je bila odstranjena, ker ni bilo poročil."
+    "devnote": "- Logika obdelave naslovne slike je bila spremenjena.\n- Dodan gumb za premik v zgornjo mapo poleg gumba za urejanje imena mape Moja knjižnica.\n- Dodana možnost drsenja v Nastavitve - Nastavitve območja dotika - Nastavitve krmilnika.\n- Dodana možnost dodajanja dejanj kolesca miške v nastavitve krmilnika."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "- TTS විශේෂ පෙරහන් කාර්යය එකතු කරන ලදී.\n  * භාවිතය දැනට පවතින පෙරහනට සමාන වේ, නමුත් විශේෂ පෙරහන [සියල්ල බාගන්න] ශ්‍රිතය සමඟ බාගත නොවේ.\n  * වාක්‍යවලට බොහෝ වෙනස් කිරීම් කරන පෙරහන් විශේෂ පෙරහන් ලෙස වර්ග කෙරේ.\n  * දැනට, කෙටි යෙදුම් හැර ඉංග්‍රීසි පෙරහන, ඉංග්‍රීසි කෙටි යෙදුම් අතර කාල (.) එකතු කිරීම සහ එකම වචනය 3 වතාවකට වඩා පුනරාවර්තනය කිරීම සඳහා පෙරහන් ශ්‍රිතය පමණක් එකතු වේ.\n\n- ඉවත් කරන ලද TTS පෙරහන සහ තොග වෙනස් කිරීමේ වාර්තා කාර්යය.\n  * වාර්තා නොමැති නිසා කාර්යය ඉවත් කරන ලදී."
+    "devnote": "- ආවරණ රූප සැකසුම් තර්කනය වෙනස් කර ඇත.\n- My Library ෆෝල්ඩරයේ නම සංස්කරණ බොත්තම අසල ඇති ඉහළ ෆෝල්ඩර බොත්තම වෙත ගෙන යාමක් එක් කරන ලදී.\n- සැකසීම් වෙත අනුචලන විකල්පය එක් කරන ලදි - ස්පර්ශ ප්‍රදේශ සැකසීම් - පාලක සැකසුම්.\n- පාලක සැකසුම් වලට මූසික රෝද ක්‍රියා එකතු කිරීමේ හැකියාව එක් කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "- أضيفت وظيفة تصفية تحويل النص إلى كلام خاصة.\n  * الاستخدام هو نفس الفلتر الموجود، ولكن لا يتم تنزيل الفلتر الخاص باستخدام وظيفة [تنزيل الكل].\n  * يتم تصنيف المرشحات التي تجري تعديلات كثيرة على الجمل على أنها مرشحات خاصة.\n  *حالياً يتم إضافة فلتر اللغة الإنجليزية فقط باستثناء الاختصارات وإضافة النقاط (.) بين اختصارات اللغة الإنجليزية ووظيفة التصفية لتكرار نفس الكلمة أكثر من 3 مرات.\n\n- تمت إزالة مرشح TTS ووظيفة تقرير التعديل المجمع.\n  * تمت إزالة الوظيفة لعدم وجود تقارير."
+    "devnote": "- تم تعديل منطق معالجة صورة الغلاف.\n- تمت إضافة زر الانتقال إلى المجلد العلوي بجوار زر تحرير اسم مجلد مكتبتي.\n- تمت إضافة خيار التمرير إلى الإعدادات - إعدادات منطقة اللمس - إعدادات وحدة التحكم.\n- أضيفت القدرة على إضافة إجراءات عجلة الماوس إلى إعدادات وحدة التحكم."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "- Ավելացվեց TTS հատուկ ֆիլտրի գործառույթը:\n  * Օգտագործումը նույնն է, ինչ գոյություն ունեցող զտիչը, սակայն հատուկ զտիչը չի ներբեռնվում [Ներբեռնել բոլորը] ֆունկցիայով:\n  * Զտիչները, որոնք չափազանց շատ փոփոխություններ են կատարում նախադասությունների մեջ, դասակարգվում են որպես հատուկ զտիչներ:\n  * Ներկայումս ավելացված են միայն անգլերեն ֆիլտրը, բացառությամբ հապավումների, անգլերեն հապավումների միջև կետի (.) ավելացման և նույն բառը ավելի քան 3 անգամ կրկնելու ֆիլտրի ֆունկցիան:\n\n- Հեռացվել է TTS ֆիլտրը և զանգվածային փոփոխության հաշվետվության գործառույթը:\n  * Ֆունկցիան հեռացվել է, քանի որ հաշվետվություններ չեն եղել:"
+    "devnote": "- Կազմի պատկերի մշակման տրամաբանությունը փոփոխվել է:\n- Ավելացվեց տեղափոխում դեպի վերին պանակ կոճակը Իմ գրադարանի թղթապանակի անվան խմբագրման կոճակի կողքին:\n- Ավելացվեց ոլորման տարբերակ Կարգավորումներ - Touch Area Settings - Controller Settings:\n- Ավելացվեց մկնիկի անիվի գործողություններ վերահսկիչի կարգավորումներին ավելացնելու հնարավորություն:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "- Bætt við sérstakri síuaðgerð TTS.\n  * Notkunin er sú sama og núverandi sía, en sérstaka sían er ekki hlaðið niður með [Download All] aðgerðinni.\n  * Síur sem gera of miklar breytingar á setningum eru flokkaðar sem sérstakar síur.\n  * Eins og er er aðeins enska sían, nema fyrir skammstafanir, bætt við punktum (.) á milli enskra skammstafana og síuaðgerðinni til að endurtaka sama orðið oftar en 3 sinnum.\n\n- Fjarlægði TTS síu og fjöldabreytingaskýrsluaðgerð.\n  * Aðgerðin var fjarlægð vegna þess að engar tilkynningar voru til."
+    "devnote": "- Forsíðumyndvinnslurökfræði hefur verið breytt.\n- Bætti við hnappi til að færa í efri möppu við hliðina á hnappinn til að breyta nafni bókasafnsmöppunnar míns.\n- Bætt við skrunvalkosti við Stillingar - Stillingar snertisvæðis - Stillingar stjórnanda.\n- Bætti við möguleikanum á að bæta músarhjólaðgerðum við stillingar stjórnandans."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "- TTS xüsusi filtr funksiyası əlavə edildi.\n  * İstifadə mövcud filtrlə eynidir, lakin xüsusi filtr [Hamısını Yüklə] funksiyası ilə yüklənmir.\n  * Cümlələrdə çoxlu dəyişiklik edən filtrlər xüsusi filtrlər kimi təsnif edilir.\n  * Hazırda abreviaturalar istisna olmaqla yalnız ingiliscə filtr, ingilis abreviaturaları arasında nöqtələrin (.) əlavə edilməsi və eyni sözün 3 dəfədən çox təkrarlanması üçün filtr funksiyası əlavə edilib.\n\n- Silinmiş TTS filtri və toplu dəyişiklik hesabatı funksiyası.\n  * Heç bir hesabat olmadığı üçün funksiya silindi."
+    "devnote": "- Qapaq şəklinin emal məntiqi dəyişdirildi.\n- Kitabxanam qovluğunun adını redaktə et düyməsinin yanında yuxarı qovluğa keçid düyməsi əlavə edildi.\n- Parametrlərə sürüşdürmə seçimi əlavə edildi - Toxunma Sahəsi Parametrləri - Nəzarətçi Parametrləri.\n- Nəzarətçi parametrlərinə siçan təkəri hərəkətlərini əlavə etmək imkanı əlavə edildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "- TTS spesiale filterfunksie bygevoeg.\n  * Die gebruik is dieselfde as die bestaande filter, maar die spesiale filter word nie met die [Download All]-funksie afgelaai nie.\n  * Filters wat te veel wysigings aan sinne maak, word as spesiale filters geklassifiseer.\n  * Tans word slegs die Engelse filter, behalwe vir afkortings, die byvoeging van punte (.) tussen Engelse afkortings, en die filterfunksie om dieselfde woord meer as 3 keer te herhaal bygevoeg.\n\n- Verwyder TTS filter en grootmaat wysiging verslag funksie.\n  * Die funksie is verwyder omdat daar geen verslae was nie."
+    "devnote": "- Omslagbeeldverwerkingslogika is gewysig.\n- Bygevoeg 'n skuif na boonste gids knoppie langs die My Biblioteek gids naam wysig knoppie.\n- Bygevoeg rolopsie by Instellings - Raakarea-instellings - Beheerderinstellings.\n- Het die vermoë bygevoeg om muiswielaksies by die kontroleerderinstellings te voeg."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "- U shtua funksioni special i filtrit TTS.\n  * Përdorimi është i njëjtë me filtrin ekzistues, por filtri special nuk shkarkohet me funksionin [Download All].\n  * Filtrat që bëjnë shumë modifikime në fjali klasifikohen si filtra specialë.\n  * Aktualisht, janë shtuar vetëm filtri në anglisht, përveç shkurtesave, shtimi i pikave (.) midis shkurtesave në anglisht dhe funksioni i filtrit për përsëritjen e së njëjtës fjalë më shumë se 3 herë.\n\n- U hoq filtri TTS dhe funksioni i raportit të modifikimit në masë.\n  * Funksioni u hoq sepse nuk kishte raporte."
+    "devnote": "- Logjika e përpunimit të imazhit të kopertinës është modifikuar.\n- Shtoi një lëvizje në butonin e dosjes së sipërme pranë butonit të modifikimit të emrit të dosjes \"Biblioteka ime\".\n- U shtua opsioni i lëvizjes te \"Cilësimet\" - \"Cilësimet e zonës së prekjes\" - \"Cilësimet e kontrolluesit\".\n- U shtua aftësia për të shtuar veprimet e rrotës së miut në cilësimet e kontrolluesit."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "- ታክሏል TTS ልዩ ማጣሪያ ተግባር.\n  * አጠቃቀሙ አሁን ካለው ማጣሪያ ጋር ተመሳሳይ ነው፣ ነገር ግን ልዩ ማጣሪያው ከ [ሁሉን አውርድ] ተግባር ጋር አልወረደም።\n  * በአረፍተ ነገሮች ላይ ብዙ ማሻሻያዎችን የሚያደርጉ ማጣሪያዎች እንደ ልዩ ማጣሪያዎች ተመድበዋል።\n  * በአሁኑ ጊዜ ከአህጽሮተ ቃል በስተቀር የእንግሊዘኛ ማጣሪያ ብቻ፣ በእንግሊዝኛ ምህፃረ ቃል መካከል የፔሬድ (.) መደመር እና ያንኑ ቃል ከ3 ጊዜ በላይ ለመድገም የማጣሪያ ተግባር ተጨምሯል።\n\n- የተወገደ TTS ማጣሪያ እና የጅምላ ማሻሻያ ሪፖርት ተግባር።\n  * ምንም ዘገባዎች ስለሌለ ተግባሩ ተወግዷል።"
+    "devnote": "- የሽፋን ምስል ማቀናበሪያ አመክንዮ ተስተካክሏል።\n- ከየእኔ ቤተ-መጽሐፍት አቃፊ ስም አርትዕ አዝራር ቀጥሎ ወደ ላይኛው የአቃፊ ፎልደር መውሰጃ ታክሏል።\n- የታከለ የማሸብለል አማራጭ ወደ ቅንብሮች - የንክኪ አካባቢ ቅንብሮች - የመቆጣጠሪያ ቅንብሮች።\n- የመዳፊት ጎማ ድርጊቶችን ወደ መቆጣጠሪያው ቅንብሮች የመጨመር ችሎታ ታክሏል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "- Lisatud TTS-i spetsiaalne filtrifunktsioon.\n  * Kasutus on sama, mis olemasoleval filtril, kuid spetsiaalset filtrit ei laadita alla funktsiooniga [Download All].\n  * Filtrid, mis teevad lausetes liiga palju muudatusi, liigitatakse spetsiaalseteks filtriteks.\n  * Praegu on lisatud ainult ingliskeelne filter, välja arvatud lühendid, punktide (.) lisamine ingliskeelsete lühendite vahele ja filtrifunktsioon sama sõna kordamiseks rohkem kui 3 korda.\n\n- Eemaldatud TTS-filter ja hulgimuudatuste aruanne.\n  * Funktsioon eemaldati, kuna aruandeid polnud."
+    "devnote": "- Kaanepildi töötlemise loogikat on muudetud.\n- Minu raamatukogu kausta nime muutmise nupu kõrvale on lisatud nupp Liikumine ülemisse kausta.\n- Lisatud kerimisvalik jaotisesse Seaded - Puuteala sätted - Kontrolleri sätted.\n- Lisatud on võimalus lisada kontrolleri seadetesse hiireratta toiminguid."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "- TTS خصوصی فلٹر فنکشن شامل کیا گیا۔\n  * استعمال موجودہ فلٹر جیسا ہی ہے، لیکن خصوصی فلٹر کو [Download All] فنکشن کے ساتھ ڈاؤن لوڈ نہیں کیا جاتا ہے۔\n  * وہ فلٹرز جو جملوں میں بہت زیادہ ترمیم کرتے ہیں انہیں خصوصی فلٹرز کے طور پر درجہ بندی کیا جاتا ہے۔\n  * فی الحال، مخففات کے علاوہ صرف انگریزی فلٹر، انگریزی مخففات کے درمیان ادوار (.) کا اضافہ، اور ایک ہی لفظ کو 3 بار سے زیادہ دہرانے کے لیے فلٹر فنکشن شامل کیا گیا ہے۔\n\n- ٹی ٹی ایس فلٹر اور بلک ترمیم رپورٹ فنکشن کو ہٹا دیا گیا۔\n  * فنکشن کو ہٹا دیا گیا تھا کیونکہ کوئی رپورٹ نہیں تھی۔"
+    "devnote": "- کور امیج پروسیسنگ منطق میں ترمیم کی گئی ہے۔\n- میری لائبریری کے فولڈر کے نام میں ترمیم کے بٹن کے آگے اوپری فولڈر کے بٹن میں ایک منتقلی شامل کی گئی۔\n- سیٹنگز میں اسکرول آپشن شامل کیا گیا - ٹچ ایریا سیٹنگز - کنٹرولر سیٹنگز۔\n- کنٹرولر سیٹنگز میں ماؤس وہیل ایکشن شامل کرنے کی صلاحیت شامل کر دی گئی۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "— Додана функція спеціального фільтра TTS.\n  * Використання таке ж, як і наявний фільтр, але спеціальний фільтр не завантажується за допомогою функції [Завантажити все].\n  * Фільтри, які вносять занадто багато змін до речень, класифікуються як спеціальні фільтри.\n  * Наразі додано лише англійський фільтр, за винятком абревіатур, додавання крапок (.) між англійськими абревіатурами та функцію фільтра для повторення одного і того ж слова більше 3 разів.\n\n— Видалено фільтр TTS і функцію звіту про масові зміни.\n  * Функцію видалено, оскільки не було звітів."
+    "devnote": "— Змінено логіку обробки зображення обкладинки.\n— Додано кнопку переходу до верхньої папки поруч із кнопкою редагування імені папки «Моя бібліотека».\n— Додано опцію прокручування до «Налаштувань» — «Налаштування сенсорної області» — «Параметри контролера».\n— Додано можливість додавати дії коліщатка миші до налаштувань контролера."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "- Aggiunta la funzione di filtro speciale TTS.\n  * L'utilizzo è lo stesso del filtro esistente, ma il filtro speciale non viene scaricato con la funzione [Scarica tutto].\n  * I filtri che apportano troppe modifiche alle frasi sono classificati come filtri speciali.\n  * Attualmente viene aggiunto solo il filtro inglese, ad eccezione delle abbreviazioni, l'aggiunta di punti (.) tra le abbreviazioni inglesi e la funzione di filtro per ripetere la stessa parola più di 3 volte.\n\n- Rimosso il filtro TTS e la funzione di report sulle modifiche collettive.\n  * La funzione è stata rimossa perché non erano presenti report."
+    "devnote": "- È stata modificata la logica di elaborazione dell'immagine di copertina.\n- Aggiunto un pulsante di spostamento alla cartella superiore accanto al pulsante di modifica del nome della cartella La mia libreria.\n- Aggiunta l'opzione di scorrimento a Impostazioni - Impostazioni area touch - Impostazioni controller.\n- Aggiunta la possibilità di aggiungere azioni della rotellina del mouse alle impostazioni del controller."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "- Menambahkan fungsi filter khusus TTS.\n  * Penggunaannya sama dengan filter yang ada, namun filter khusus tidak diunduh dengan fungsi [Unduh Semua].\n  * Filter yang melakukan terlalu banyak modifikasi pada kalimat diklasifikasikan sebagai filter khusus.\n  *Saat ini yang ditambahkan hanya filter bahasa Inggris kecuali singkatan, penambahan titik (.) antar singkatan bahasa Inggris, dan fungsi filter untuk mengulang kata yang sama lebih dari 3 kali.\n\n- Menghapus filter TTS dan fungsi laporan modifikasi massal.\n  * Fungsi tersebut dihapus karena tidak ada laporan."
+    "devnote": "- Logika pemrosesan gambar sampul telah dimodifikasi.\n- Menambahkan tombol pindah ke folder atas di sebelah tombol edit nama folder Perpustakaan Saya.\n- Menambahkan opsi gulir ke Pengaturan - Pengaturan Area Sentuh - Pengaturan Pengontrol.\n- Menambahkan kemampuan untuk menambahkan tindakan roda mouse ke pengaturan pengontrol."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "- TTS特殊フィルター機能を追加しました。\n  ※使い方は既存フィルターと同様ですが、専用フィルターは[一括ダウンロード]機能ではダウンロードされません。\n  ※文章の改変が多すぎるフィルターは特殊フィルターに分類されます。\n  ※現時点では略語を除く英語フィルタ、英語略語間のピリオド（.）付加、同じ単語を3回以上繰り返すフィルタ機能のみ追加されています。\n\n- TTSフィルターと一括変更レポート機能を削除しました。\n  ※報告がなかったため機能を削除しました。"
+    "devnote": "- 表紙画像処理ロジックを変更しました。\n・マイライブラリのフォルダ名編集ボタンの横に、上のフォルダへ移動ボタンを追加しました。\n- 設定 - タッチエリア設定 - コントローラー設定にスクロールオプションを追加しました。\n- コントローラー設定にマウスホイールアクションを追加する機能を追加しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "- დამატებულია TTS სპეციალური ფილტრის ფუნქცია.\n  * გამოყენება იგივეა, რაც არსებული ფილტრი, მაგრამ სპეციალური ფილტრი არ არის ჩამოტვირთული [ჩამოტვირთეთ ყველა] ფუნქციით.\n  * ფილტრები, რომლებიც ძალიან ბევრ ცვლილებას ქმნიან წინადადებებში, კლასიფიცირდება როგორც სპეციალური ფილტრები.\n  * ამჟამად დამატებულია მხოლოდ ინგლისური ფილტრი, გარდა აბრევიატურებისა, პერიოდების (.) დამატება ინგლისურ აბრევიატურებს შორის და ფილტრის ფუნქცია ერთი და იგივე სიტყვის 3-ზე მეტჯერ გამეორებისთვის.\n\n- ამოღებულია TTS ფილტრი და ნაყარი მოდიფიკაციის ანგარიშის ფუნქცია.\n  * ფუნქცია წაიშალა, რადგან არ იყო მოხსენებები."
+    "devnote": "- შეიცვალა ყდის გამოსახულების დამუშავების ლოგიკა.\n- დაამატა გადაადგილება ზედა საქაღალდის ღილაკზე ჩემი ბიბლიოთეკის საქაღალდის სახელის რედაქტირების ღილაკის გვერდით.\n- დამატებულია გადახვევის ვარიანტი პარამეტრებში - შეეხეთ არეალის პარამეტრებს - კონტროლერის პარამეტრები.\n- დამატებულია მაუსის ბორბლის მოქმედებების დამატების შესაძლებლობა კონტროლერის პარამეტრებში."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "- Kwengezwe umsebenzi wokuhlunga okhethekile we-TTS.\n  * Ukusetshenziswa kuyafana nesihlungi esikhona, kodwa isihlungi esikhethekile asilandwa ngomsebenzi othi [Landa Konke].\n  * Izihlungi ezenza izinguquko eziningi kakhulu emishweni zihlukaniswa njengezihlungi ezikhethekile.\n  * Okwamanje, isihlungi sesiNgisi kuphela ngaphandle kwezifinyezo, ukungezwa kwezikhathi (.) phakathi kwezifinyezo zesiNgisi, nomsebenzi wokuhlunga wokuphinda igama elifanayo izikhathi ezingaphezu kwezingu-3.\n\n- Isihlungi esisusiwe se-TTS nomsebenzi wombiko wokuguqulwa kwenqwaba.\n  * Umsebenzi ususiwe ngoba ibingekho imibiko."
+    "devnote": "- I-logic yekhava yokucubungula isithombe isishintshiwe.\n- Kwengezwe inkinobho yefolda ephezulu eduze kwenkinobho yokuhlela yefolda yeLabhulali Yami.\n- Kwengezwe inketho yokuskrola kokuthi Izilungiselelo - Izilungiselelo Zendawo Yokuthinta - Izilungiselelo zesilawuli.\n- Kwengezwe ikhono lokwengeza izenzo zesondo legundane kuzilungiselelo zesilawuli."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "- 新增TTS特殊过滤功能。\n  * 使用方法与现有滤镜相同，但特殊滤镜不使用【全部下载】功能下载。\n  * 对句子进行过多修改的过滤器被归类为特殊过滤器。\n  * 目前仅增加了除缩写之外的英文过滤、英文缩写之间添加句点（.）以及同一单词重复3次以上的过滤功能。\n\n- 删除了TTS过滤和批量修改报告功能。\n  * 由于没有报告，该功能已被删除。"
+    "devnote": "- 修改了封面图像处理逻辑。\n- 在“我的库”文件夹名称编辑按钮旁边添加了“移至上层文件夹”按钮。\n- 在“设置”-“触摸区域设置”-“控制器设置”中添加了滚动选项。\n- 添加了将鼠标滚轮操作添加到控制器设置的功能。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "- 新增TTS特殊過濾功能。\n  * 使用方法與現有濾鏡相同，但特殊濾鏡不使用【全部下載】功能下載。\n  * 句子進行過多修改的過濾器被歸類為特殊過濾器。\n  * 目前僅增加了除縮寫之外的英文過濾、英文縮寫之間添加句點（.）以及同一單字重複3次以上的過濾功能。\n\n- 刪除了TTS過濾和批次修改報告功能。\n  * 由於沒有報告，該功能已被刪除。"
+    "devnote": "- 修改了封面圖像處理邏輯。\n- 在「我的庫」資料夾名稱編輯按鈕旁邊新增了「移至上層資料夾」按鈕。\n- 在「設定」-「觸控區域設定」-「控制器設定」中新增了捲動選項。\n- 新增了將滑鼠滾輪操作新增至控制器設定的功能。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "- 新增TTS特殊過濾功能。\n  * 使用方法與現有濾鏡相同，但特殊濾鏡不使用【全部下載】功能下載。\n  * 句子進行過多修改的過濾器被歸類為特殊過濾器。\n  * 目前僅增加了除縮寫之外的英文過濾、英文縮寫之間添加句點（.）以及同一單字重複3次以上的過濾功能。\n\n- 刪除了TTS過濾和批次修改報告功能。\n  * 由於沒有報告，該功能已被刪除。"
+    "devnote": "- 修改了封面圖像處理邏輯。\n- 在「我的庫」資料夾名稱編輯按鈕旁邊新增了「移至上層資料夾」按鈕。\n- 在「設定」-「觸控區域設定」-「控制器設定」中新增了捲動選項。\n- 新增了將滑鼠滾輪操作新增至控制器設定的功能。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "- Přidána funkce speciálního filtru TTS.\n  * Použití je stejné jako u stávajícího filtru, ale speciální filtr se nestáhne pomocí funkce [Stáhnout vše].\n  * Filtry, které provádějí příliš mnoho úprav vět, jsou klasifikovány jako speciální filtry.\n  * V současné době je přidán pouze anglický filtr kromě zkratek, přidávání teček (.) mezi anglické zkratky a funkce filtru pro opakování stejného slova více než 3krát.\n\n- Odstraněn filtr TTS a funkce hlášení o hromadných úpravách.\n  * Funkce byla odstraněna, protože nebyly žádné zprávy."
+    "devnote": "- Logika zpracování obrázku na obalu byla upravena.\n- Přidáno tlačítko pro přesun do horní složky vedle tlačítka pro úpravu názvu složky Moje knihovna.\n- Přidána možnost posouvání do Nastavení - Nastavení dotykové oblasti - Nastavení ovladače.\n- Přidána možnost přidat akce kolečka myši do nastavení ovladače."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "- TTS арнайы сүзгі функциясы қосылды.\n  * Қолданылуы бар сүзгімен бірдей, бірақ арнайы сүзгі [Барлығын жүктеп алу] функциясымен жүктелмейді.\n  * Сөйлемдерге тым көп өзгертулер енгізетін сүзгілер арнайы сүзгілер ретінде жіктеледі.\n  * Қазіргі уақытта қысқартуларды қоспағанда тек ағылшын сүзгісі, ағылшын аббревиатуралары арасында нүктелерді (.) қосу және бір сөзді 3 реттен артық қайталауға арналған сүзгі функциясы қосылған.\n\n- TTS сүзгісі және жаппай өзгерту есебі функциясы жойылды.\n  * Есептер болмағандықтан функция жойылды."
+    "devnote": "- Мұқаба кескінін өңдеу логикасы өзгертілді.\n- Менің кітапханам қалта атауын өңдеу түймешігінің жанындағы жоғарғы қалтаға жылжыту түймесі қосылды.\n- Параметрлер - Түрту аймағы параметрлері - Контроллер параметрлері тармағына айналдыру опциясы қосылды.\n- Контроллер параметрлеріне тінтуір дөңгелегі әрекеттерін қосу мүмкіндігі қосылды."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "- S'ha afegit la funció de filtre especial TTS.\n  * L'ús és el mateix que el filtre existent, però el filtre especial no es baixa amb la funció [Baixa-ho tot].\n  * Els filtres que fan massa modificacions a les frases es classifiquen com a filtres especials.\n  * Actualment, només s'afegeix el filtre en anglès, excepte les abreviatures, l'addició de punts (.) entre les abreviatures en anglès i la funció de filtre per repetir la mateixa paraula més de 3 vegades.\n\n- S'ha eliminat el filtre TTS i la funció d'informe de modificació massiva.\n  * La funció es va eliminar perquè no hi havia informes."
+    "devnote": "- S'ha modificat la lògica de processament d'imatges de portada.\n- S'ha afegit un botó de desplaçament a la carpeta superior al costat del botó d'edició del nom de la carpeta La meva biblioteca.\n- S'ha afegit l'opció de desplaçament a Configuració - Configuració de l'àrea tàctil - Configuració del controlador.\n- S'ha afegit la possibilitat d'afegir accions de la roda del ratolí a la configuració del controlador."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "- TTS ವಿಶೇಷ ಫಿಲ್ಟರ್ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n  * ಬಳಕೆಯು ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಫಿಲ್ಟರ್‌ನಂತೆಯೇ ಇರುತ್ತದೆ, ಆದರೆ ವಿಶೇಷ ಫಿಲ್ಟರ್ ಅನ್ನು [ಎಲ್ಲವನ್ನೂ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ] ಕಾರ್ಯದೊಂದಿಗೆ ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುವುದಿಲ್ಲ.\n  * ವಾಕ್ಯಗಳಿಗೆ ಹಲವಾರು ಮಾರ್ಪಾಡುಗಳನ್ನು ಮಾಡುವ ಫಿಲ್ಟರ್‌ಗಳನ್ನು ವಿಶೇಷ ಫಿಲ್ಟರ್‌ಗಳಾಗಿ ವರ್ಗೀಕರಿಸಲಾಗಿದೆ.\n  * ಪ್ರಸ್ತುತ, ಸಂಕ್ಷೇಪಣಗಳನ್ನು ಹೊರತುಪಡಿಸಿ ಇಂಗ್ಲಿಷ್ ಫಿಲ್ಟರ್, ಇಂಗ್ಲಿಷ್ ಸಂಕ್ಷೇಪಣಗಳ ನಡುವೆ ಅವಧಿಗಳ ಸೇರ್ಪಡೆ (.) ಮತ್ತು ಒಂದೇ ಪದವನ್ನು 3 ಬಾರಿ ಪುನರಾವರ್ತಿಸುವ ಫಿಲ್ಟರ್ ಕಾರ್ಯವನ್ನು ಮಾತ್ರ ಸೇರಿಸಲಾಗಿದೆ.\n\n- TTS ಫಿಲ್ಟರ್ ಮತ್ತು ಬೃಹತ್ ಮಾರ್ಪಾಡು ವರದಿ ಕಾರ್ಯವನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ.\n  * ಯಾವುದೇ ವರದಿಗಳಿಲ್ಲದ ಕಾರಣ ಕಾರ್ಯವನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ."
+    "devnote": "- ಕವರ್ ಇಮೇಜ್ ಪ್ರೊಸೆಸಿಂಗ್ ಲಾಜಿಕ್ ಅನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ನನ್ನ ಲೈಬ್ರರಿ ಫೋಲ್ಡರ್ ಹೆಸರು ಎಡಿಟ್ ಬಟನ್‌ನ ಪಕ್ಕದಲ್ಲಿರುವ ಮೇಲಿನ ಫೋಲ್ಡರ್ ಬಟನ್‌ಗೆ ಚಲಿಸುವಿಕೆಯನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಸ್ಕ್ರಾಲ್ ಆಯ್ಕೆಯನ್ನು ಸೇರಿಸಲಾಗಿದೆ - ಟಚ್ ಏರಿಯಾ ಸೆಟ್ಟಿಂಗ್‌ಗಳು - ನಿಯಂತ್ರಕ ಸೆಟ್ಟಿಂಗ್‌ಗಳು.\n- ನಿಯಂತ್ರಕ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಮೌಸ್ ವೀಲ್ ಕ್ರಿಯೆಗಳನ್ನು ಸೇರಿಸುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "- Dodana funkcija posebnog TTS filtera.\n  * Korištenje je isto kao i postojeći filtar, ali se posebni filtar ne preuzima s funkcijom [Preuzmi sve].\n  * Filtri koji unose previše izmjena u rečenice klasificiraju se kao posebni filtri.\n  * Trenutno je dodan samo engleski filtar osim za kratice, dodavanje točaka (.) između engleskih kratica i funkcija filtra za ponavljanje iste riječi više od 3 puta.\n\n- Uklonjen TTS filter i funkcija izvješća o skupnim izmjenama.\n  * Funkcija je uklonjena jer nije bilo izvješća."
+    "devnote": "- Logika obrade naslovne slike je izmijenjena.\n- Dodan gumb za pomicanje u gornju mapu pokraj gumba za uređivanje naziva mape My Library.\n- Dodana opcija pomicanja u Postavke - Postavke dodirnog područja - Postavke kontrolera.\n- Dodana mogućnost dodavanja radnji kotačića miša u postavke kontrolera."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "- បានបន្ថែមមុខងារតម្រងពិសេស TTS ។\n  * ការប្រើប្រាស់គឺដូចគ្នាទៅនឹងតម្រងដែលមានស្រាប់ ប៉ុន្តែតម្រងពិសេសមិនត្រូវបានទាញយកជាមួយនឹងមុខងារ [ទាញយកទាំងអស់] ទេ។\n  * តម្រងដែលធ្វើការកែប្រែប្រយោគច្រើនពេកត្រូវបានចាត់ថ្នាក់ជាតម្រងពិសេស។\n  * បច្ចុប្បន្ននេះ មានតែតម្រងភាសាអង់គ្លេសប៉ុណ្ណោះ លើកលែងតែអក្សរកាត់ ការបន្ថែមរយៈពេល (.) រវាងអក្សរកាត់ភាសាអង់គ្លេស និងមុខងារតម្រងសម្រាប់ការនិយាយពាក្យដដែលលើសពី 3 ដងត្រូវបានបន្ថែម។\n\n- បានលុបតម្រង TTS និងមុខងាររបាយការណ៍កែប្រែភាគច្រើន។\n  * មុខងារត្រូវបានដកចេញព្រោះមិនមានរបាយការណ៍។"
+    "devnote": "- តក្កវិជ្ជាដំណើរការរូបភាពគម្របត្រូវបានកែប្រែ។\n- បានបន្ថែមការផ្លាស់ទីទៅប៊ូតុងថតខាងលើនៅជាប់ប៊ូតុងកែសម្រួលឈ្មោះថតបណ្ណាល័យរបស់ខ្ញុំ។\n- បានបន្ថែមជម្រើសរមូរទៅការកំណត់ - ការកំណត់តំបន់ប៉ះ - ការកំណត់ឧបករណ៍បញ្ជា។\n- បានបន្ថែមសមត្ថភាពក្នុងការបន្ថែមសកម្មភាពកង់កណ្ដុរទៅការកំណត់ឧបករណ៍បញ្ជា។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "- TTS атайын чыпкасы функциясы кошулду.\n  * Колдонуу учурдагы чыпка менен бирдей, бирок атайын чыпка [Баарын жүктөп алуу] функциясы менен жүктөлбөйт.\n  * Сүйлөмгө өтө көп өзгөртүүлөрдү киргизген чыпкалар атайын чыпкалар катары классификацияланат.\n  * Учурда аббревиатуралардан башка англисче гана фильтр, англисче аббревиатуралардын арасына чекиттерди (.) кошуу жана бир эле сөздү 3 жолудан ашык кайталоо үчүн чыпка функциясы кошулган.\n\n- TTS чыпкасы жана жапырт өзгөртүү отчет функциясы алынып салынды.\n  * Функция алынып салынды, анткени отчеттор жок."
+    "devnote": "- Мукаба сүрөтүн иштетүү логикасы өзгөртүлдү.\n- Менин китепканам папканын атын өзгөртүү баскычынын жанындагы жогорку папкага жылдыруу баскычы кошулду.\n- Орнотуулар - Тийүү аймагынын жөндөөлөрү - Контроллер орнотууларына сыдыруу опциясы кошулду.\n- Контроллердин жөндөөлөрүнө чычкан дөңгөлөк аракеттерин кошуу мүмкүнчүлүгү кошулду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "- TTS சிறப்பு வடிகட்டி செயல்பாடு சேர்க்கப்பட்டது.\n  * உபயோகமானது ஏற்கனவே உள்ள வடிப்பானைப் போலவே உள்ளது, ஆனால் சிறப்பு வடிகட்டியானது [அனைத்தையும் பதிவிறக்கு] அம்சத்துடன் பதிவிறக்கம் செய்யப்படவில்லை.\n  * வாக்கியங்களில் பல மாற்றங்களைச் செய்யும் வடிப்பான்கள் சிறப்பு வடிப்பான்களாக வகைப்படுத்தப்படுகின்றன.\n  * தற்போது, ​​சுருக்கங்களைத் தவிர்த்து ஆங்கில வடிப்பான், ஆங்கிலச் சுருக்கங்களுக்கு இடையே காலங்கள் (.) சேர்த்தல், ஒரே வார்த்தையை 3 முறைக்கு மேல் திரும்பத் திரும்பச் சொல்லும் ஃபில்டர் செயல்பாடு ஆகியவை மட்டுமே சேர்க்கப்பட்டுள்ளன.\n\n- TTS வடிகட்டி மற்றும் மொத்த மாற்ற அறிக்கை செயல்பாடு அகற்றப்பட்டது.\n  * அறிக்கைகள் இல்லாததால் செயல்பாடு அகற்றப்பட்டது."
+    "devnote": "- அட்டைப் பட செயலாக்க தர்க்கம் மாற்றப்பட்டது.\n- எனது நூலகக் கோப்புறையின் பெயர் திருத்து பொத்தானுக்கு அடுத்துள்ள மேல் கோப்புறை பொத்தானுக்கு நகர்த்தப்பட்டது.\n- அமைப்புகளுக்கு ஸ்க்ரோல் விருப்பம் சேர்க்கப்பட்டது - டச் ஏரியா அமைப்புகள் - கன்ட்ரோலர் அமைப்புகள்.\n- கட்டுப்படுத்தி அமைப்புகளுக்கு மவுஸ் வீல் செயல்களைச் சேர்க்கும் திறன் சேர்க்கப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "- เพิ่มฟังก์ชันตัวกรองพิเศษ TTS\n  * การใช้งานจะเหมือนกับตัวกรองที่มีอยู่ แต่ตัวกรองพิเศษจะไม่ถูกดาวน์โหลดด้วยฟังก์ชัน [ดาวน์โหลดทั้งหมด]\n  * ตัวกรองที่ทำการแก้ไขประโยคมากเกินไปจะจัดเป็นตัวกรองพิเศษ\n  * ปัจจุบันมีเพียงตัวกรองภาษาอังกฤษ ยกเว้นตัวย่อ เพิ่มจุด (.) ระหว่างตัวย่อภาษาอังกฤษ และฟังก์ชันตัวกรองสำหรับการซ้ำคำเดียวกันมากกว่า 3 ครั้ง\n\n- ลบตัวกรอง TTS และฟังก์ชันรายงานการแก้ไขจำนวนมากออก\n  * ฟังก์ชั่นถูกลบออกเนื่องจากไม่มีรายงาน"
+    "devnote": "- ตรรกะการประมวลผลภาพปกได้รับการแก้ไข\n- เพิ่มปุ่มย้ายไปยังโฟลเดอร์ด้านบนถัดจากปุ่มแก้ไขชื่อโฟลเดอร์ห้องสมุดของฉัน\n- เพิ่มตัวเลือกการเลื่อนในการตั้งค่า - การตั้งค่าพื้นที่สัมผัส - การตั้งค่าคอนโทรลเลอร์\n- เพิ่มความสามารถในการเพิ่มการทำงานของล้อเมาส์ในการตั้งค่าคอนโทรลเลอร์"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "- TTS özel filtre fonksiyonu eklendi.\n  * Kullanımı mevcut filtreyle aynıdır ancak özel filtre [Tümünü İndir] fonksiyonuyla indirilmez.\n  * Cümlelerde çok fazla değişiklik yapan filtreler özel filtre olarak sınıflandırılır.\n  * Şu anda kısaltmalar hariç sadece İngilizce filtresi, İngilizce kısaltmaların arasına nokta (.) eklenmesi ve aynı kelimenin 3 defadan fazla tekrarlanması için filtre fonksiyonu eklenmiştir.\n\n- TTS filtresi ve toplu değişiklik raporu işlevi kaldırıldı.\n  * Rapor olmadığından işlev kaldırıldı."
+    "devnote": "- Kapak görseli işleme mantığı değiştirildi.\n- Kitaplığım klasör adı düzenleme düğmesinin yanına üst klasöre taşı düğmesi eklendi.\n- Ayarlar - Dokunma Alanı Ayarları - Denetleyici Ayarları'na kaydırma seçeneği eklendi.\n- Denetleyici ayarlarına fare tekerleği eylemleri ekleme yeteneği eklendi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "- TTS ప్రత్యేక ఫిల్టర్ ఫంక్షన్ జోడించబడింది.\n  * వినియోగం ఇప్పటికే ఉన్న ఫిల్టర్ వలె ఉంటుంది, కానీ ప్రత్యేక ఫిల్టర్ [అన్నీ డౌన్‌లోడ్ చేయండి] ఫంక్షన్‌తో డౌన్‌లోడ్ చేయబడదు.\n  * వాక్యాలకు చాలా సవరణలు చేసే ఫిల్టర్‌లు ప్రత్యేక ఫిల్టర్‌లుగా వర్గీకరించబడ్డాయి.\n  * ప్రస్తుతం, సంక్షిప్తాలు మినహా ఆంగ్ల ఫిల్టర్ మాత్రమే, ఆంగ్ల సంక్షిప్తాల మధ్య కాలాల (.) జోడింపు మరియు ఒకే పదాన్ని 3 కంటే ఎక్కువ సార్లు పునరావృతం చేయడానికి ఫిల్టర్ ఫంక్షన్ జోడించబడ్డాయి.\n\n- TTS ఫిల్టర్ మరియు బల్క్ సవరణ నివేదిక ఫంక్షన్ తీసివేయబడింది.\n  * రిపోర్ట్‌లు లేనందున ఫంక్షన్ తీసివేయబడింది."
+    "devnote": "- కవర్ ఇమేజ్ ప్రాసెసింగ్ లాజిక్ సవరించబడింది.\n- నా లైబ్రరీ ఫోల్డర్ పేరు సవరణ బటన్ పక్కన ఉన్న ఎగువ ఫోల్డర్ బటన్‌కు తరలింపు జోడించబడింది.\n- సెట్టింగ్‌లకు స్క్రోల్ ఎంపిక జోడించబడింది - టచ్ ఏరియా సెట్టింగ్‌లు - కంట్రోలర్ సెట్టింగ్‌లు.\n- కంట్రోలర్ సెట్టింగ్‌లకు మౌస్ వీల్ చర్యలను జోడించే సామర్థ్యాన్ని జోడించారు."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "- ਟੀਟੀਐਸ ਵਿਸ਼ੇਸ਼ ਫਿਲਟਰ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।\n  * ਵਰਤੋਂ ਮੌਜੂਦਾ ਫਿਲਟਰ ਦੇ ਸਮਾਨ ਹੈ, ਪਰ ਵਿਸ਼ੇਸ਼ ਫਿਲਟਰ [ਸਭ ਡਾਊਨਲੋਡ ਕਰੋ] ਫੰਕਸ਼ਨ ਨਾਲ ਡਾਊਨਲੋਡ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ।\n  * ਫਿਲਟਰ ਜੋ ਵਾਕਾਂ ਵਿੱਚ ਬਹੁਤ ਸਾਰੀਆਂ ਸੋਧਾਂ ਕਰਦੇ ਹਨ ਉਹਨਾਂ ਨੂੰ ਵਿਸ਼ੇਸ਼ ਫਿਲਟਰਾਂ ਵਜੋਂ ਸ਼੍ਰੇਣੀਬੱਧ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।\n  * ਵਰਤਮਾਨ ਵਿੱਚ, ਸੰਖੇਪ ਰੂਪਾਂ ਨੂੰ ਛੱਡ ਕੇ ਸਿਰਫ਼ ਅੰਗਰੇਜ਼ੀ ਫਿਲਟਰ, ਅੰਗਰੇਜ਼ੀ ਸੰਖੇਪ ਸ਼ਬਦਾਂ ਦੇ ਵਿਚਕਾਰ ਪੀਰੀਅਡ (.) ਦਾ ਜੋੜ, ਅਤੇ ਇੱਕੋ ਸ਼ਬਦ ਨੂੰ 3 ਤੋਂ ਵੱਧ ਵਾਰ ਦੁਹਰਾਉਣ ਲਈ ਫਿਲਟਰ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ।\n\n- ਹਟਾਇਆ ਗਿਆ TTS ਫਿਲਟਰ ਅਤੇ ਬਲਕ ਸੋਧ ਰਿਪੋਰਟ ਫੰਕਸ਼ਨ।\n  * ਕੋਈ ਰਿਪੋਰਟ ਨਾ ਹੋਣ ਕਾਰਨ ਫੰਕਸ਼ਨ ਹਟਾ ਦਿੱਤਾ ਗਿਆ ਸੀ।"
+    "devnote": "- ਕਵਰ ਚਿੱਤਰ ਪ੍ਰੋਸੈਸਿੰਗ ਤਰਕ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ.\n- ਮਾਈ ਲਾਇਬ੍ਰੇਰੀ ਫੋਲਡਰ ਨਾਮ ਸੰਪਾਦਨ ਬਟਨ ਦੇ ਅੱਗੇ ਉੱਪਰਲੇ ਫੋਲਡਰ ਬਟਨ ਵਿੱਚ ਇੱਕ ਮੂਵ ਜੋੜਿਆ ਗਿਆ।\n- ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਸਕ੍ਰੌਲ ਵਿਕਲਪ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ - ਟਚ ਏਰੀਆ ਸੈਟਿੰਗਜ਼ - ਕੰਟਰੋਲਰ ਸੈਟਿੰਗਜ਼।\n- ਕੰਟਰੋਲਰ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਮਾਊਸ ਵ੍ਹੀਲ ਐਕਸ਼ਨ ਜੋੜਨ ਦੀ ਯੋਗਤਾ ਸ਼ਾਮਲ ਕੀਤੀ ਗਈ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "- اضافه شدن عملکرد فیلتر ویژه TTS.\n  * کاربرد مانند فیلتر موجود است، اما فیلتر ویژه با عملکرد [دانلود همه] دانلود نمی شود.\n  * فیلترهایی که تغییرات زیادی در جملات ایجاد می کنند به عنوان فیلترهای ویژه طبقه بندی می شوند.\n  * در حال حاضر فقط فیلتر انگلیسی به جز اختصارات، اضافه کردن نقطه (.) بین اختصارات انگلیسی و عملکرد فیلتر برای تکرار یک کلمه بیش از 3 بار اضافه شده است.\n\n- فیلتر TTS و عملکرد گزارش اصلاح انبوه حذف شده است.\n  * عملکرد حذف شد زیرا گزارشی وجود نداشت."
+    "devnote": "- منطق پردازش تصویر جلد اصلاح شده است.\n- یک دکمه انتقال به پوشه بالایی در کنار دکمه ویرایش نام پوشه My Library اضافه شد.\n- اضافه شدن گزینه اسکرول به تنظیمات - تنظیمات منطقه - تنظیمات کنترلر.\n- اضافه شدن قابلیت افزودن عملکردهای چرخ ماوس به تنظیمات کنترلر."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "- Adicionada função de filtro especial TTS.\n  * O uso é igual ao filtro existente, mas o filtro especial não é baixado com a função [Download All].\n  * Filtros que fazem muitas modificações nas frases são classificados como filtros especiais.\n  * Atualmente, são adicionados apenas o filtro em inglês, exceto para abreviaturas, a adição de pontos (.) entre as abreviaturas em inglês e a função de filtro para repetir a mesma palavra mais de 3 vezes.\n\n- Removido filtro TTS e função de relatório de modificação em massa.\n  * A função foi removida porque não havia relatórios."
+    "devnote": "- A lógica de processamento da imagem da capa foi modificada.\n- Adicionado um botão mover para a pasta superior próximo ao botão de edição do nome da pasta Minha Biblioteca.\n- Adicionada opção de rolagem para Configurações - Configurações da área de toque - Configurações do controlador.\n- Adicionada a capacidade de adicionar ações da roda do mouse às configurações do controlador."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "- Dodano funkcję specjalnego filtra TTS.\n  * Sposób użycia jest taki sam jak w przypadku istniejącego filtra, ale specjalny filtr nie jest pobierany za pomocą funkcji [Pobierz wszystko].\n  * Filtry wprowadzające zbyt wiele modyfikacji zdań są klasyfikowane jako filtry specjalne.\n  * Obecnie dodano tylko filtr angielski, z wyjątkiem skrótów, dodawania kropek (.) pomiędzy skrótami angielskimi oraz funkcji filtrowania powtarzania tego samego słowa więcej niż 3 razy.\n\n- Usunięto filtr TTS i funkcję raportowania zbiorczych modyfikacji.\n  * Funkcja została usunięta ze względu na brak raportów."
+    "devnote": "- Zmodyfikowano logikę przetwarzania obrazu okładki.\n- Dodano przycisk przenoszenia do wyższego folderu obok przycisku edycji nazwy folderu Moja Biblioteka.\n- Dodano opcję przewijania do Ustawień - Ustawienia obszaru dotykowego - Ustawienia kontrolera.\n- Dodano możliwość dodawania działań kółkiem myszy do ustawień kontrolera."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "- Ajout de la fonction de filtre spécial TTS.\n  * L'utilisation est la même que celle du filtre existant, mais le filtre spécial n'est pas téléchargé avec la fonction [Télécharger tout].\n  * Les filtres qui apportent trop de modifications aux phrases sont classés comme filtres spéciaux.\n  * Actuellement, seuls le filtre anglais sauf pour les abréviations, l'ajout de points (.) entre les abréviations anglaises et la fonction de filtre permettant de répéter le même mot plus de 3 fois sont ajoutés.\n\n- Suppression du filtre TTS et de la fonction de rapport de modification en masse.\n  * La fonction a été supprimée car il n'y avait aucun rapport."
+    "devnote": "- La logique de traitement des images de couverture a été modifiée.\n- Ajout d'un bouton de déplacement vers le dossier supérieur à côté du bouton de modification du nom du dossier Ma bibliothèque.\n- Ajout d'une option de défilement aux paramètres - Paramètres de la zone tactile - Paramètres du contrôleur.\n- Ajout de la possibilité d'ajouter des actions de la molette de la souris aux paramètres du contrôleur."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "- Lisätty TTS-erikoissuodatintoiminto.\n  * Käyttö on sama kuin olemassa oleva suodatin, mutta erikoissuodatinta ei ladata [Lataa kaikki] -toiminnolla.\n  * Suodattimet, jotka tekevät liikaa muutoksia lauseisiin, luokitellaan erikoissuodattimiksi.\n  * Tällä hetkellä vain englanninkielinen suodatin paitsi lyhenteet, pisteiden (.) lisääminen englanninkielisten lyhenteiden väliin ja suodatintoiminto saman sanan toistamiseen yli 3 kertaa lisätään.\n\n- Poistettu TTS-suodatin ja joukkomuutosraporttitoiminto.\n  * Toiminto poistettiin, koska raportteja ei ollut."
+    "devnote": "- Kansikuvan käsittelylogiikkaa on muutettu.\n- Lisätty siirtyminen ylempään kansioon -painike My Library -kansion nimen muokkauspainikkeen viereen.\n- Lisätty vieritysvaihtoehto kohtaan Asetukset - Kosketusalueen asetukset - Ohjaimen asetukset.\n- Lisätty mahdollisuus lisätä hiiren rullatoimintoja ohjaimen asetuksiin."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "- Idinagdag TTS espesyal na pag-andar ng filter.\n  * Ang paggamit ay pareho sa kasalukuyang filter, ngunit ang espesyal na filter ay hindi dina-download gamit ang [I-download Lahat] na function.\n  * Ang mga filter na gumagawa ng napakaraming pagbabago sa mga pangungusap ay inuri bilang mga espesyal na filter.\n  * Sa kasalukuyan, tanging ang English na filter maliban sa mga pagdadaglat, ang pagdaragdag ng mga tuldok (.) sa pagitan ng mga pagdadaglat sa Ingles, at ang filter na function para sa pag-uulit ng parehong salita nang higit sa 3 beses ay idinaragdag.\n\n- Inalis ang TTS filter at bulk modification report function.\n  * Inalis ang function dahil walang mga ulat."
+    "devnote": "- Ang lohika sa pagproseso ng cover ng imahe ay nabago.\n- Nagdagdag ng paglipat sa itaas na pindutan ng folder sa tabi ng pindutan ng pag-edit ng pangalan ng folder ng Aking Library.\n- Nagdagdag ng opsyon sa pag-scroll sa Mga Setting - Mga Setting ng Touch Area - Mga Setting ng Controller.\n- Nagdagdag ng kakayahang magdagdag ng mga pagkilos ng gulong ng mouse sa mga setting ng controller."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "- Hozzáadott TTS speciális szűrő funkció.\n  * A használat megegyezik a meglévő szűrővel, de a speciális szűrő nem töltődik le az [Összes letöltése] funkcióval.\n  * Azok a szűrők, amelyek túl sok módosítást végeznek a mondatokon, speciális szűrőknek minősülnek.\n  * Jelenleg csak az angol szűrő, kivéve a rövidítéseket, a pontok (.) hozzáadása az angol rövidítések között, és a szűrő funkció ugyanazon szó háromnál többszöri ismétlésére.\n\n- Eltávolított TTS szűrő és tömeges módosítás jelentés funkció.\n  * A funkciót eltávolítottuk, mert nem voltak jelentések."
+    "devnote": "- A borítókép-feldolgozási logika módosult.\n- A My Library mappanév szerkesztése gomb mellett hozzáadtunk egy áthelyezést a felső mappába gombbal.\n- Görgetési lehetőség hozzáadva a Beállítások - Érintőterület beállításai - Vezérlő beállításaihoz.\n- Hozzáadtuk az egérgörgő műveletek hozzáadását a vezérlő beállításaihoz."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "- נוספה פונקציית סינון מיוחדת של TTS.\n  * השימוש זהה לפילטר הקיים, אך הפילטר המיוחד אינו מוריד עם הפונקציה [הורד הכל].\n  * מסננים שמבצעים שינויים רבים מדי במשפטים מסווגים כמסננים מיוחדים.\n  * נכון להיום מתווספים רק הפילטר באנגלית למעט קיצורים, הוספת נקודות (.) בין קיצורים באנגלית ופונקציית הסינון לחזרה על אותה מילה יותר מ-3 פעמים.\n\n- הוסר מסנן TTS ופונקציית דוח שינוי בכמות גדולה.\n  * הפונקציה הוסרה מכיוון שלא היו דיווחים."
+    "devnote": "- לוגיקה של עיבוד תמונת כריכה שונתה.\n- נוסף לחצן מעבר לתיקייה העליונה לצד לחצן עריכת שם התיקיה שלי בספרייה שלי.\n- נוספה אפשרות גלילה להגדרות - הגדרות אזור מגע - הגדרות בקר.\n- נוספה את היכולת להוסיף פעולות גלגל עכבר להגדרות הבקר."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "- टीटीएस विशेष फिल्टर फ़ंक्शन जोड़ा गया।\n  * उपयोग मौजूदा फ़िल्टर के समान है, लेकिन विशेष फ़िल्टर [सभी डाउनलोड करें] फ़ंक्शन के साथ डाउनलोड नहीं किया जाता है।\n  * जो फ़िल्टर वाक्यों में बहुत अधिक संशोधन करते हैं उन्हें विशेष फ़िल्टर के रूप में वर्गीकृत किया जाता है।\n  * वर्तमान में, संक्षिप्ताक्षरों को छोड़कर केवल अंग्रेजी फ़िल्टर, अंग्रेजी संक्षिप्ताक्षरों के बीच अवधि (.) का जोड़ और एक ही शब्द को 3 से अधिक बार दोहराने के लिए फ़िल्टर फ़ंक्शन जोड़ा जाता है।\n\n- टीटीएस फ़िल्टर और बल्क संशोधन रिपोर्ट फ़ंक्शन हटा दिया गया।\n  * कोई रिपोर्ट न होने के कारण फ़ंक्शन हटा दिया गया था।"
+    "devnote": "- कवर इमेज प्रोसेसिंग लॉजिक को संशोधित किया गया है।\n- मेरी लाइब्रेरी फ़ोल्डर नाम संपादन बटन के बगल में ऊपरी फ़ोल्डर बटन पर एक कदम जोड़ा गया।\n- सेटिंग्स में स्क्रॉल विकल्प जोड़ा गया - टच एरिया सेटिंग्स - कंट्रोलर सेटिंग्स।\n- नियंत्रक सेटिंग्स में माउस व्हील क्रियाओं को जोड़ने की क्षमता जोड़ी गई।"
   }
 }
