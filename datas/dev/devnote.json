@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "- Cover image processing logic has been modified.\n- Added a move to upper folder button next to the My Library folder name edit button.\n- Added scroll option to Settings - Touch Area Settings - Controller Settings.\n- Added the ability to add mouse wheel actions to the controller settings."
+    "devnote": "- TTS setting logic has been modified.\n- Shortcut key logic has been modified to be a little more efficient."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "- 커버이미지 처리 로직을 수정 하였습니다. \n- 내서재 폴더명 편집 버튼 옆에 상위폴더이동 버튼을 추가 하였습니다. \n- 설정 - 터치 영역 설정 - 컨트롤러 설정에 스크롤 옵션을 추가 하였습니다.\n- 컨트롤러 설정에서 마우스 휠 동작을 추가 할 수 있도록 하였습니다."
+    "devnote": "- TTS 설정 로직을 수정 하였습니다. \n- 단축키 로직을 조금더 효율적으로 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "- Modificouse a lóxica de tratamento da imaxe de portada.\n- Engadiuse un botón de desprazamento ao cartafol superior xunto ao botón de edición do nome do cartafol A miña biblioteca.\n- Engadiuse a opción de desprazamento a Configuración - Configuración da área táctil - Configuración do controlador.\n- Engadiuse a posibilidade de engadir accións da roda do rato á configuración do controlador."
+    "devnote": "- A lóxica de configuración TTS foi modificada.\n- A lóxica de teclas de atallo modificouse para ser un pouco máis eficiente."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "- કવર ઇમેજ પ્રોસેસિંગ લોજિકમાં ફેરફાર કરવામાં આવ્યો છે.\n- માય લાઇબ્રેરી ફોલ્ડર નામ સંપાદિત કરો બટનની બાજુમાં ઉપલા ફોલ્ડર બટન પર ખસેડો ઉમેર્યું.\n- સેટિંગ્સમાં સ્ક્રોલ વિકલ્પ ઉમેર્યો - ટચ એરિયા સેટિંગ્સ - કંટ્રોલર સેટિંગ્સ.\n- કંટ્રોલર સેટિંગ્સમાં માઉસ વ્હીલ ક્રિયાઓ ઉમેરવાની ક્ષમતા ઉમેરાઈ."
+    "devnote": "- TTS સેટિંગ લોજિકમાં ફેરફાર કરવામાં આવ્યો છે.\n- શૉર્ટકટ કી લોજિક થોડી વધુ કાર્યક્ષમ બનવા માટે સંશોધિત કરવામાં આવ્યું છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "- Η λογική επεξεργασίας εικόνας εξωφύλλου έχει τροποποιηθεί.\n- Προστέθηκε ένα κουμπί μετακίνησης στον επάνω φάκελο δίπλα στο κουμπί επεξεργασίας ονόματος φακέλου Η βιβλιοθήκη μου.\n- Προστέθηκε η επιλογή κύλισης στις Ρυθμίσεις - Αγγίξτε Ρυθμίσεις περιοχής - Ρυθμίσεις ελεγκτή.\n- Προστέθηκε η δυνατότητα προσθήκης ενεργειών τροχού ποντικιού στις ρυθμίσεις του ελεγκτή."
+    "devnote": "- Η λογική ρύθμισης TTS έχει τροποποιηθεί.\n- Η λογική του πλήκτρου συντόμευσης έχει τροποποιηθεί για να είναι λίγο πιο αποτελεσματική."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "- De logica voor de verwerking van omslagafbeeldingen is gewijzigd.\n- Een knop voor verplaatsen naar de bovenste map toegevoegd naast de knop voor het bewerken van de mapnaam van Mijn bibliotheek.\n- Scrolloptie toegevoegd aan Instellingen - Instellingen aanraakgebied - Controllerinstellingen.\n- De mogelijkheid toegevoegd om muiswielacties toe te voegen aan de controllerinstellingen."
+    "devnote": "- TTS-instellingslogica is gewijzigd.\n- De logica van de sneltoetsen is aangepast om iets efficiënter te zijn."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "- आवरण छवि प्रशोधन तर्क परिमार्जन गरिएको छ।\n- मेरो पुस्तकालय फोल्डर नाम सम्पादन बटनको छेउमा माथिल्लो फोल्डर बटनमा सार्न थपियो।\n- सेटिङहरूमा स्क्रोल विकल्प थपियो - टच एरिया सेटिङ्हरू - कन्ट्रोलर सेटिङहरू।\n- नियन्त्रक सेटिङहरूमा माउस व्हील कार्यहरू थप्ने क्षमता थपियो।"
+    "devnote": "- TTS सेटिङ तर्क परिमार्जन गरिएको छ।\n- सर्टकट कुञ्जी तर्क अलि बढी कुशल हुन परिमार्जन गरिएको छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "- Forsidebildebehandlingslogikk er endret.\n- Lagt til en flytt til øvre mappe-knapp ved siden av redigeringsknappen for Mitt bibliotek-mappenavn.\n- Lagt til rullealternativ til Innstillinger - Innstillinger for berøringsområde - Kontrollerinnstillinger.\n- Lagt til muligheten til å legge til musehjulhandlinger i kontrollerinnstillingene."
+    "devnote": "- TTS-innstillingslogikken er endret.\n– Snarveistastlogikken er modifisert for å være litt mer effektiv."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "- Forsidebilledbehandlingslogik er blevet ændret.\n- Tilføjet en knap til flytning til den øverste mappe ved siden af ​​redigeringsknappen Mit biblioteks mappenavn.\n- Tilføjet rullemulighed til Indstillinger - Indstillinger for berøringsområde - Controllerindstillinger.\n- Tilføjet muligheden for at tilføje musehjulshandlinger til controllerindstillingerne."
+    "devnote": "- TTS-indstillingslogikken er blevet ændret.\n- Genvejstastlogikken er blevet ændret til at være lidt mere effektiv."
   },
   "독일어": {
     "key": "de",
-    "devnote": "- Die Verarbeitungslogik für Coverbilder wurde geändert.\n– Eine Schaltfläche zum Verschieben in den oberen Ordner wurde neben der Schaltfläche zum Bearbeiten des Ordnernamens „Meine Bibliothek“ hinzugefügt.\n- Scroll-Option zu Einstellungen – Touchbereich-Einstellungen – Controller-Einstellungen hinzugefügt.\n– Möglichkeit hinzugefügt, Mausradaktionen zu den Controller-Einstellungen hinzuzufügen."
+    "devnote": "- Die TTS-Einstellungslogik wurde geändert.\n- Die Logik der Tastenkombinationen wurde geändert, um etwas effizienter zu sein."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "- ການ​ປຸງ​ແຕ່ງ​ຮູບ​ພາບ​ຕາມ​ເຫດ​ຜົນ​ໄດ້​ຮັບ​ການ​ດັດ​ແກ້​.\n- ເພີ່ມການຍ້າຍໄປໃສ່ປຸ່ມໂຟເດີເທິງຖັດຈາກປຸ່ມແກ້ໄຂຊື່ໂຟເດີ My Library.\n- ເພີ່ມ​ທາງ​ເລືອກ​ເລື່ອນ​ໃສ່​ການ​ຕັ້ງ​ຄ່າ - ການ​ຕັ້ງ​ຄ່າ​ພື້ນ​ທີ່​ສໍາ​ພັດ - ການ​ຕັ້ງ​ຄ່າ​ການ​ຄວບ​ຄຸມ​.\n- ເພີ່ມຄວາມສາມາດໃນການເພີ່ມການດໍາເນີນການລໍ້ຫນູກັບການຕັ້ງຄ່າຄວບຄຸມ."
+    "devnote": "- ເຫດ​ຜົນ​ການ​ຕັ້ງ​ຄ່າ TTS ໄດ້​ຖືກ​ດັດ​ແກ້​.\n- ເຫດຜົນຫຼັກທາງລັດໄດ້ຖືກດັດແກ້ເພື່ອໃຫ້ມີປະສິດທິພາບຫຼາຍຂຶ້ນ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "- Ir mainīta vāka attēla apstrādes loģika.\n- Pievienota poga Pārvietoties uz augšējo mapi blakus mapes nosaukuma rediģēšanas pogai Mana bibliotēka.\n- Pievienota ritināšanas opcija uz Iestatījumi - Pieskāriena apgabala iestatījumi - Kontroliera iestatījumi.\n- Pievienota iespēja kontroliera iestatījumiem pievienot peles ritentiņas darbības."
+    "devnote": "- TTS iestatījumu loģika ir mainīta.\n- Īsinājumtaustiņu loģika ir pārveidota, lai tā būtu nedaudz efektīvāka."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "- Изменена логика обработки изображения обложки.\n- Добавлена ​​кнопка перехода в верхнюю папку рядом с кнопкой редактирования имени папки «Моя библиотека».\n— Добавлена ​​опция прокрутки в «Настройки» — «Настройки сенсорной области» — «Настройки контроллера».\n- В настройки контроллера добавлена ​​возможность добавлять действия колесика мыши."
+    "devnote": "- Изменена логика настройки TTS.\n— Логика сочетания клавиш была изменена, чтобы сделать ее немного более эффективной."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "- Logica de procesare a imaginii de copertă a fost modificată.\n- S-a adăugat un buton de mutare în dosarul superior lângă butonul de editare a numelui folderului Biblioteca mea.\n- S-a adăugat opțiunea de defilare la Setări - Setări zona tactilă - Setări controler.\n- S-a adăugat posibilitatea de a adăuga acțiuni ale roții mouse-ului la setările controlerului."
+    "devnote": "- Logica de setare TTS a fost modificată.\n- Logica tastelor de comandă rapidă a fost modificată pentru a fi puțin mai eficientă."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "- Pakeista viršelio vaizdo apdorojimo logika.\n- Prie Mano bibliotekos aplanko pavadinimo redagavimo mygtuko pridėtas perkėlimo į viršutinį aplanką mygtukas.\n- Pridėta slinkties parinktis į Nustatymai - Lietimo srities nustatymai - Valdiklio nustatymai.\n- Prie valdiklio nustatymų pridėta galimybė pridėti pelės ratuko veiksmus."
+    "devnote": "- TTS nustatymo logika buvo pakeista.\n- Spartųjų klavišų logika buvo pakeista, kad būtų šiek tiek efektyvesnė."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "- कव्हर इमेज प्रोसेसिंग लॉजिक सुधारित केले गेले आहे.\n- माय लायब्ररी फोल्डर नाव संपादन बटणाच्या पुढे वरच्या फोल्डर बटणावर हलवा जोडले.\n- सेटिंग्जमध्ये स्क्रोल पर्याय जोडला - टच एरिया सेटिंग्ज - कंट्रोलर सेटिंग्ज.\n- कंट्रोलर सेटिंग्जमध्ये माउस व्हील क्रिया जोडण्याची क्षमता जोडली."
+    "devnote": "- टीटीएस सेटिंग लॉजिक सुधारित केले आहे.\n- शॉर्टकट की लॉजिक थोडे अधिक कार्यक्षम होण्यासाठी सुधारित केले आहे."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "- Логиката за обработка на насловната слика е изменета.\n- Додадено е копче за преместување во горната папка до копчето за уредување на името на папката Моја библиотека.\n- Додадена е опција за лизгање во Поставки - Допрете Поставки за областа - Поставки на контролорот.\n- Додадена е способност за додавање дејства на тркалото на глувчето во поставките на контролерот."
+    "devnote": "- Логиката за поставување на TTS е изменета.\n- Логиката на копчињата за кратенки е изменета за да биде малку поефикасна."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "- കവർ ഇമേജ് പ്രോസസ്സിംഗ് ലോജിക്ക് പരിഷ്കരിച്ചു.\n- മൈ ലൈബ്രറി ഫോൾഡർ നെയിം എഡിറ്റ് ബട്ടണിന് അടുത്തുള്ള മുകളിലെ ഫോൾഡർ ബട്ടണിലേക്ക് ഒരു നീക്കം ചേർത്തു.\n- ക്രമീകരണങ്ങളിലേക്ക് സ്ക്രോൾ ഓപ്ഷൻ ചേർത്തു - ടച്ച് ഏരിയ ക്രമീകരണങ്ങൾ - കൺട്രോളർ ക്രമീകരണങ്ങൾ.\n- കൺട്രോളർ ക്രമീകരണങ്ങളിലേക്ക് മൗസ് വീൽ പ്രവർത്തനങ്ങൾ ചേർക്കാനുള്ള കഴിവ് ചേർത്തു."
+    "devnote": "- TTS ക്രമീകരണ ലോജിക് പരിഷ്‌ക്കരിച്ചു.\n- കുറുക്കുവഴി കീ ലോജിക് കുറച്ചുകൂടി കാര്യക്ഷമമാക്കാൻ പരിഷ്‌ക്കരിച്ചിരിക്കുന്നു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "- Logik pemprosesan imej penutup telah diubah suai.\n- Menambahkan butang pindah ke folder atas di sebelah butang edit nama folder Perpustakaan Saya.\n- Menambahkan pilihan tatal pada Tetapan - Tetapan Kawasan Sentuh - Tetapan Pengawal.\n- Menambah keupayaan untuk menambah tindakan roda tetikus pada tetapan pengawal."
+    "devnote": "- Logik tetapan TTS telah diubah suai.\n- Logik kekunci pintasan telah diubah suai untuk menjadi lebih cekap sedikit."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "- Хавтасны зураг боловсруулах логик өөрчлөгдсөн.\n- Миний номын сангийн хавтасны нэрийг засах товчлуурын хажууд дээд хавтас руу зөөх товчийг нэмсэн.\n- Тохиргоо - Хүрэх бүсийн тохиргоо - Удирдлагын тохиргоо хэсэгт гүйлгэх сонголтыг нэмсэн.\n- Хяналтын тохиргоонд хулганы дугуйны үйлдлийг нэмэх боломжийг нэмсэн."
+    "devnote": "- TTS тохиргооны логик өөрчлөгдсөн.\n- Товчлолын товчлуурын логикийг бага зэрэг үр дүнтэй болгох үүднээс өөрчилсөн."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "- Azaleko irudiak prozesatzeko logika aldatu da.\n- Nire liburutegia karpetaren izena editatzeko botoiaren ondoan goiko karpetara mugitzeko botoia gehitu da.\n- Korritzeko aukera gehitu da Ezarpenak - Ukitu eremuaren ezarpenak - Kontrolagailuaren ezarpenak.\n- Kontrolagailuaren ezarpenetara saguaren gurpilaren ekintzak gehitzeko gaitasuna gehitu da."
+    "devnote": "- TTS ezarpen-logika aldatu da.\n- Lasterbide-teklen logika aldatu egin da pixka bat eraginkorragoa izan dadin."
   },
   "버마어": {
     "key": "my",
-    "devnote": "- ကာဗာရုပ်ပုံလုပ်ဆောင်ခြင်း ယုတ္တိဗေဒကို ပြုပြင်မွမ်းမံထားသည်။\n- My Library folder name တည်းဖြတ်ခလုတ်ဘေးရှိ အပေါ်ဘက်ဖိုဒါသို့ ရွှေ့ရန်ခလုတ်ကို ပေါင်းထည့်ထားသည်။\n- ဆက်တင်များသို့ ရွှေ့ရန် ရွေးချယ်စရာ ထပ်ထည့်သည် - Touch Area Settings - Controller Settings။\n- ထိန်းချုပ်ကိရိယာဆက်တင်များတွင် မောက်စ်ဘီးလုပ်ဆောင်ချက်များကို ပေါင်းထည့်နိုင်သည့် စွမ်းရည်ကို ထည့်သွင်းထားသည်။"
+    "devnote": "- TTS ဆက်တင်ယုတ္တိကို မွမ်းမံထားသည်။\n- Shortcut key logic ကို အနည်းငယ် ပိုထိရောက်စေရန် ပြုပြင်ထားပါသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "- Logic xử lý ảnh bìa đã được sửa đổi.\n- Đã thêm nút di chuyển lên thư mục phía trên bên cạnh nút chỉnh sửa tên thư mục Thư viện của tôi.\n- Đã thêm tùy chọn cuộn vào Cài đặt - Cài đặt vùng cảm ứng - Cài đặt bộ điều khiển.\n- Đã thêm khả năng thêm hành động của bánh xe chuột vào cài đặt bộ điều khiển."
+    "devnote": "- Logic cài đặt TTS đã được sửa đổi.\n- Logic phím tắt đã được sửa đổi để hiệu quả hơn một chút."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "- Логіка апрацоўкі выявы вокладкі была зменена.\n- Дададзена кнопка перамяшчэння ў верхнюю папку побач з кнопкай рэдагавання назвы папкі \"Мая бібліятэка\".\n- Дададзены варыянт пракруткі ў Налады - Налады сэнсарнай вобласці - Налады кантролера.\n- Дададзена магчымасць дадаваць дзеянні колы мышы ў налады кантролера."
+    "devnote": "- Логіка налады TTS была зменена.\n- Логіка спалучэння клавіш была зменена, каб быць крыху больш эфектыўнай."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "- কভার ইমেজ প্রক্রিয়াকরণ যুক্তি পরিবর্তন করা হয়েছে.\n- আমার লাইব্রেরি ফোল্ডার নাম সম্পাদনা বোতামের পাশে উপরের ফোল্ডার বোতামে একটি সরানো যোগ করা হয়েছে৷\n- সেটিংসে স্ক্রোল বিকল্প যোগ করা হয়েছে - টাচ এরিয়া সেটিংস - কন্ট্রোলার সেটিংস৷\n- কন্ট্রোলার সেটিংসে মাউস হুইল অ্যাকশন যোগ করার ক্ষমতা যোগ করা হয়েছে।"
+    "devnote": "- TTS সেটিং লজিক পরিবর্তন করা হয়েছে।\n- শর্টকাট কী লজিক একটু বেশি দক্ষ হতে পরিবর্তিত হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "- Логиката за обработка на изображението на корицата е променена.\n- Добавен е бутон за преместване в горната папка до бутона за редактиране на името на папката My Library.\n- Добавена е опция за превъртане към Настройки - Настройки на областта за докосване - Настройки на контролера.\n- Добавена е възможност за добавяне на действия с колелото на мишката към настройките на контролера."
+    "devnote": "- Логиката за настройка на TTS е променена.\n- Логиката на клавишите за бърз достъп е модифицирана, за да бъде малко по-ефективна."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "- Логика обраде насловне слике је измењена.\n- Додато дугме за прелазак у горњу фасциклу поред дугмета за уређивање назива фасцикле Моја библиотека.\n- Додата опција померања у Подешавања - Подешавања додирне области - Подешавања контролера.\n- Додата је могућност додавања радњи точкића миша у подешавања контролера."
+    "devnote": "- Логика ТТС подешавања је измењена.\n- Логика пречице је модификована да буде мало ефикаснија."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "- Mantiki ya usindikaji wa picha ya jalada imerekebishwa.\n- Imeongeza hoja kwenye kitufe cha folda ya juu karibu na kitufe cha kuhariri jina la folda ya Maktaba Yangu.\n- Imeongeza chaguo la kusogeza kwa Mipangilio - Mipangilio ya Eneo la Kugusa - Mipangilio ya Kidhibiti.\n- Imeongeza uwezo wa kuongeza vitendo vya gurudumu la kipanya kwenye mipangilio ya kidhibiti."
+    "devnote": "- Mantiki ya mpangilio wa TTS imebadilishwa.\n- Mantiki ya ufunguo wa njia ya mkato imerekebishwa ili kuwa na ufanisi zaidi."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "- Omslagsbildbehandlingslogik har ändrats.\n- Lade till en knapp för att flytta till övre mapp bredvid redigeringsknappen för Mitt biblioteks mappnamn.\n- Lade till rullningsalternativ till Inställningar - Pekområdesinställningar - Kontrollinställningar.\n- Lade till möjligheten att lägga till mushjulsåtgärder till kontrollerinställningarna."
+    "devnote": "- TTS-inställningslogiken har ändrats.\n- Kortkommandologik har modifierats för att vara lite mer effektiv."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "- Se ha modificado la lógica de procesamiento de la imagen de portada.\n- Se agregó un botón para mover a la carpeta superior al lado del botón de edición del nombre de la carpeta Mi biblioteca.\n- Se agregó la opción de desplazamiento a Configuración - Configuración del área táctil - Configuración del controlador.\n- Se agregó la capacidad de agregar acciones de la rueda del mouse a la configuración del controlador."
+    "devnote": "- Se ha modificado la lógica de configuración de TTS.\n- La lógica de las teclas de acceso directo se ha modificado para que sea un poco más eficiente."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "- Logika spracovania obrázka na obale bola upravená.\n- Pridané tlačidlo presunu do horného priečinka vedľa tlačidla na úpravu názvu priečinka Moja knižnica.\n- Pridaná možnosť posúvania do Nastavenia - Nastavenia dotykovej oblasti - Nastavenia ovládača.\n- Pridaná možnosť pridať akcie kolieska myši do nastavení ovládača."
+    "devnote": "- Logika nastavenia TTS bola upravená.\n- Logika klávesových skratiek bola upravená tak, aby bola o niečo efektívnejšia."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "- Logika obdelave naslovne slike je bila spremenjena.\n- Dodan gumb za premik v zgornjo mapo poleg gumba za urejanje imena mape Moja knjižnica.\n- Dodana možnost drsenja v Nastavitve - Nastavitve območja dotika - Nastavitve krmilnika.\n- Dodana možnost dodajanja dejanj kolesca miške v nastavitve krmilnika."
+    "devnote": "- Logika nastavitve TTS je bila spremenjena.\n- Logika bližnjičnih tipk je bila spremenjena, da je nekoliko bolj učinkovita."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "- ආවරණ රූප සැකසුම් තර්කනය වෙනස් කර ඇත.\n- My Library ෆෝල්ඩරයේ නම සංස්කරණ බොත්තම අසල ඇති ඉහළ ෆෝල්ඩර බොත්තම වෙත ගෙන යාමක් එක් කරන ලදී.\n- සැකසීම් වෙත අනුචලන විකල්පය එක් කරන ලදි - ස්පර්ශ ප්‍රදේශ සැකසීම් - පාලක සැකසුම්.\n- පාලක සැකසුම් වලට මූසික රෝද ක්‍රියා එකතු කිරීමේ හැකියාව එක් කරන ලදී."
+    "devnote": "- TTS සැකසුම් තර්කනය වෙනස් කර ඇත.\n- කෙටිමං යතුරු තර්කනය ටිකක් කාර්යක්ෂම වන පරිදි වෙනස් කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "- تم تعديل منطق معالجة صورة الغلاف.\n- تمت إضافة زر الانتقال إلى المجلد العلوي بجوار زر تحرير اسم مجلد مكتبتي.\n- تمت إضافة خيار التمرير إلى الإعدادات - إعدادات منطقة اللمس - إعدادات وحدة التحكم.\n- أضيفت القدرة على إضافة إجراءات عجلة الماوس إلى إعدادات وحدة التحكم."
+    "devnote": "- تم تعديل منطق إعداد TTS.\n- تم تعديل منطق مفتاح الاختصار ليكون أكثر كفاءة قليلاً."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "- Կազմի պատկերի մշակման տրամաբանությունը փոփոխվել է:\n- Ավելացվեց տեղափոխում դեպի վերին պանակ կոճակը Իմ գրադարանի թղթապանակի անվան խմբագրման կոճակի կողքին:\n- Ավելացվեց ոլորման տարբերակ Կարգավորումներ - Touch Area Settings - Controller Settings:\n- Ավելացվեց մկնիկի անիվի գործողություններ վերահսկիչի կարգավորումներին ավելացնելու հնարավորություն:"
+    "devnote": "- TTS կարգավորումների տրամաբանությունը փոփոխվել է:\n- Դյուրանցման ստեղնաշարի տրամաբանությունը փոփոխվել է մի փոքր ավելի արդյունավետ լինելու համար:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "- Forsíðumyndvinnslurökfræði hefur verið breytt.\n- Bætti við hnappi til að færa í efri möppu við hliðina á hnappinn til að breyta nafni bókasafnsmöppunnar míns.\n- Bætt við skrunvalkosti við Stillingar - Stillingar snertisvæðis - Stillingar stjórnanda.\n- Bætti við möguleikanum á að bæta músarhjólaðgerðum við stillingar stjórnandans."
+    "devnote": "- TTS stillingarlögfræði hefur verið breytt.\n- Rökfræði flýtivísana hefur verið breytt til að vera aðeins skilvirkari."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "- Qapaq şəklinin emal məntiqi dəyişdirildi.\n- Kitabxanam qovluğunun adını redaktə et düyməsinin yanında yuxarı qovluğa keçid düyməsi əlavə edildi.\n- Parametrlərə sürüşdürmə seçimi əlavə edildi - Toxunma Sahəsi Parametrləri - Nəzarətçi Parametrləri.\n- Nəzarətçi parametrlərinə siçan təkəri hərəkətlərini əlavə etmək imkanı əlavə edildi."
+    "devnote": "- TTS parametrlərinin məntiqi dəyişdirildi.\n- Qısayol düyməsinin məntiqi bir az daha səmərəli olmaq üçün dəyişdirildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "- Omslagbeeldverwerkingslogika is gewysig.\n- Bygevoeg 'n skuif na boonste gids knoppie langs die My Biblioteek gids naam wysig knoppie.\n- Bygevoeg rolopsie by Instellings - Raakarea-instellings - Beheerderinstellings.\n- Het die vermoë bygevoeg om muiswielaksies by die kontroleerderinstellings te voeg."
+    "devnote": "- TTS-instellingslogika is gewysig.\n- Kortpadsleutellogika is gewysig om 'n bietjie meer doeltreffend te wees."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "- Logjika e përpunimit të imazhit të kopertinës është modifikuar.\n- Shtoi një lëvizje në butonin e dosjes së sipërme pranë butonit të modifikimit të emrit të dosjes \"Biblioteka ime\".\n- U shtua opsioni i lëvizjes te \"Cilësimet\" - \"Cilësimet e zonës së prekjes\" - \"Cilësimet e kontrolluesit\".\n- U shtua aftësia për të shtuar veprimet e rrotës së miut në cilësimet e kontrolluesit."
+    "devnote": "- Logjika e vendosjes së TTS është modifikuar.\n- Logjika e tastit të shkurtoreve është modifikuar për të qenë pak më efikase."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "- የሽፋን ምስል ማቀናበሪያ አመክንዮ ተስተካክሏል።\n- ከየእኔ ቤተ-መጽሐፍት አቃፊ ስም አርትዕ አዝራር ቀጥሎ ወደ ላይኛው የአቃፊ ፎልደር መውሰጃ ታክሏል።\n- የታከለ የማሸብለል አማራጭ ወደ ቅንብሮች - የንክኪ አካባቢ ቅንብሮች - የመቆጣጠሪያ ቅንብሮች።\n- የመዳፊት ጎማ ድርጊቶችን ወደ መቆጣጠሪያው ቅንብሮች የመጨመር ችሎታ ታክሏል።"
+    "devnote": "- የTTS ቅንብር አመክንዮ ተስተካክሏል።\n- የአቋራጭ ቁልፍ አመክንዮ ትንሽ የበለጠ ቀልጣፋ እንዲሆን ተስተካክሏል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "- Kaanepildi töötlemise loogikat on muudetud.\n- Minu raamatukogu kausta nime muutmise nupu kõrvale on lisatud nupp Liikumine ülemisse kausta.\n- Lisatud kerimisvalik jaotisesse Seaded - Puuteala sätted - Kontrolleri sätted.\n- Lisatud on võimalus lisada kontrolleri seadetesse hiireratta toiminguid."
+    "devnote": "- TTS-i seadistusloogikat on muudetud.\n- Kiirklahvide loogikat on muudetud veidi tõhusamaks."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "- کور امیج پروسیسنگ منطق میں ترمیم کی گئی ہے۔\n- میری لائبریری کے فولڈر کے نام میں ترمیم کے بٹن کے آگے اوپری فولڈر کے بٹن میں ایک منتقلی شامل کی گئی۔\n- سیٹنگز میں اسکرول آپشن شامل کیا گیا - ٹچ ایریا سیٹنگز - کنٹرولر سیٹنگز۔\n- کنٹرولر سیٹنگز میں ماؤس وہیل ایکشن شامل کرنے کی صلاحیت شامل کر دی گئی۔"
+    "devnote": "- TTS ترتیب کی منطق میں ترمیم کی گئی ہے۔\n- شارٹ کٹ کلیدی منطق کو تھوڑا زیادہ موثر بنانے کے لیے تبدیل کیا گیا ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "— Змінено логіку обробки зображення обкладинки.\n— Додано кнопку переходу до верхньої папки поруч із кнопкою редагування імені папки «Моя бібліотека».\n— Додано опцію прокручування до «Налаштувань» — «Налаштування сенсорної області» — «Параметри контролера».\n— Додано можливість додавати дії коліщатка миші до налаштувань контролера."
+    "devnote": "— Змінено логіку налаштування TTS.\n— Логіку клавіш швидкого доступу було змінено, щоб бути трохи ефективнішою."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "- È stata modificata la logica di elaborazione dell'immagine di copertina.\n- Aggiunto un pulsante di spostamento alla cartella superiore accanto al pulsante di modifica del nome della cartella La mia libreria.\n- Aggiunta l'opzione di scorrimento a Impostazioni - Impostazioni area touch - Impostazioni controller.\n- Aggiunta la possibilità di aggiungere azioni della rotellina del mouse alle impostazioni del controller."
+    "devnote": "- La logica di impostazione del TTS è stata modificata.\n- La logica dei tasti di scelta rapida è stata modificata per essere un po' più efficiente."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "- Logika pemrosesan gambar sampul telah dimodifikasi.\n- Menambahkan tombol pindah ke folder atas di sebelah tombol edit nama folder Perpustakaan Saya.\n- Menambahkan opsi gulir ke Pengaturan - Pengaturan Area Sentuh - Pengaturan Pengontrol.\n- Menambahkan kemampuan untuk menambahkan tindakan roda mouse ke pengaturan pengontrol."
+    "devnote": "- Logika pengaturan TTS telah dimodifikasi.\n- Logika tombol pintas telah dimodifikasi menjadi sedikit lebih efisien."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "- 表紙画像処理ロジックを変更しました。\n・マイライブラリのフォルダ名編集ボタンの横に、上のフォルダへ移動ボタンを追加しました。\n- 設定 - タッチエリア設定 - コントローラー設定にスクロールオプションを追加しました。\n- コントローラー設定にマウスホイールアクションを追加する機能を追加しました。"
+    "devnote": "- TTS設定ロジックを変更しました。\n- ショートカット キーのロジックが少し効率的に変更されました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "- შეიცვალა ყდის გამოსახულების დამუშავების ლოგიკა.\n- დაამატა გადაადგილება ზედა საქაღალდის ღილაკზე ჩემი ბიბლიოთეკის საქაღალდის სახელის რედაქტირების ღილაკის გვერდით.\n- დამატებულია გადახვევის ვარიანტი პარამეტრებში - შეეხეთ არეალის პარამეტრებს - კონტროლერის პარამეტრები.\n- დამატებულია მაუსის ბორბლის მოქმედებების დამატების შესაძლებლობა კონტროლერის პარამეტრებში."
+    "devnote": "- TTS პარამეტრების ლოგიკა შეიცვალა.\n- მალსახმობის ღილაკის ლოგიკა შეიცვალა, რომ ცოტა უფრო ეფექტური იყოს."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "- I-logic yekhava yokucubungula isithombe isishintshiwe.\n- Kwengezwe inkinobho yefolda ephezulu eduze kwenkinobho yokuhlela yefolda yeLabhulali Yami.\n- Kwengezwe inketho yokuskrola kokuthi Izilungiselelo - Izilungiselelo Zendawo Yokuthinta - Izilungiselelo zesilawuli.\n- Kwengezwe ikhono lokwengeza izenzo zesondo legundane kuzilungiselelo zesilawuli."
+    "devnote": "- I-logic yesethingi ye-TTS ishintshiwe.\n- Indlela yokucabanga yokhiye wesinqamuleli ishintshiwe ukuze isebenze kahle kakhudlwana."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "- 修改了封面图像处理逻辑。\n- 在“我的库”文件夹名称编辑按钮旁边添加了“移至上层文件夹”按钮。\n- 在“设置”-“触摸区域设置”-“控制器设置”中添加了滚动选项。\n- 添加了将鼠标滚轮操作添加到控制器设置的功能。"
+    "devnote": "- TTS 设置逻辑已修改。\n- 快捷键逻辑已修改为更加高效。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "- 修改了封面圖像處理邏輯。\n- 在「我的庫」資料夾名稱編輯按鈕旁邊新增了「移至上層資料夾」按鈕。\n- 在「設定」-「觸控區域設定」-「控制器設定」中新增了捲動選項。\n- 新增了將滑鼠滾輪操作新增至控制器設定的功能。"
+    "devnote": "- TTS 設定邏輯已修改。\n- 快捷鍵邏輯已修改為更有效率。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "- 修改了封面圖像處理邏輯。\n- 在「我的庫」資料夾名稱編輯按鈕旁邊新增了「移至上層資料夾」按鈕。\n- 在「設定」-「觸控區域設定」-「控制器設定」中新增了捲動選項。\n- 新增了將滑鼠滾輪操作新增至控制器設定的功能。"
+    "devnote": "- TTS 設定邏輯已修改。\n- 快捷鍵邏輯已修改為更有效率。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "- Logika zpracování obrázku na obalu byla upravena.\n- Přidáno tlačítko pro přesun do horní složky vedle tlačítka pro úpravu názvu složky Moje knihovna.\n- Přidána možnost posouvání do Nastavení - Nastavení dotykové oblasti - Nastavení ovladače.\n- Přidána možnost přidat akce kolečka myši do nastavení ovladače."
+    "devnote": "- Logika nastavení TTS byla změněna.\n- Logika klávesových zkratek byla upravena tak, aby byla o něco efektivnější."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "- Мұқаба кескінін өңдеу логикасы өзгертілді.\n- Менің кітапханам қалта атауын өңдеу түймешігінің жанындағы жоғарғы қалтаға жылжыту түймесі қосылды.\n- Параметрлер - Түрту аймағы параметрлері - Контроллер параметрлері тармағына айналдыру опциясы қосылды.\n- Контроллер параметрлеріне тінтуір дөңгелегі әрекеттерін қосу мүмкіндігі қосылды."
+    "devnote": "- TTS параметрінің логикасы өзгертілді.\n- Пернелер тіркесімінің логикасы біршама тиімдірек болу үшін өзгертілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "- S'ha modificat la lògica de processament d'imatges de portada.\n- S'ha afegit un botó de desplaçament a la carpeta superior al costat del botó d'edició del nom de la carpeta La meva biblioteca.\n- S'ha afegit l'opció de desplaçament a Configuració - Configuració de l'àrea tàctil - Configuració del controlador.\n- S'ha afegit la possibilitat d'afegir accions de la roda del ratolí a la configuració del controlador."
+    "devnote": "- S'ha modificat la lògica de configuració TTS.\n- La lògica de les tecles de drecera s'ha modificat per ser una mica més eficient."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "- ಕವರ್ ಇಮೇಜ್ ಪ್ರೊಸೆಸಿಂಗ್ ಲಾಜಿಕ್ ಅನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ನನ್ನ ಲೈಬ್ರರಿ ಫೋಲ್ಡರ್ ಹೆಸರು ಎಡಿಟ್ ಬಟನ್‌ನ ಪಕ್ಕದಲ್ಲಿರುವ ಮೇಲಿನ ಫೋಲ್ಡರ್ ಬಟನ್‌ಗೆ ಚಲಿಸುವಿಕೆಯನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಸ್ಕ್ರಾಲ್ ಆಯ್ಕೆಯನ್ನು ಸೇರಿಸಲಾಗಿದೆ - ಟಚ್ ಏರಿಯಾ ಸೆಟ್ಟಿಂಗ್‌ಗಳು - ನಿಯಂತ್ರಕ ಸೆಟ್ಟಿಂಗ್‌ಗಳು.\n- ನಿಯಂತ್ರಕ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಮೌಸ್ ವೀಲ್ ಕ್ರಿಯೆಗಳನ್ನು ಸೇರಿಸುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ."
+    "devnote": "- TTS ಸೆಟ್ಟಿಂಗ್ ಲಾಜಿಕ್ ಅನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಶಾರ್ಟ್‌ಕಟ್ ಕೀ ಲಾಜಿಕ್ ಅನ್ನು ಸ್ವಲ್ಪ ಹೆಚ್ಚು ಪರಿಣಾಮಕಾರಿಯಾಗಿ ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "- Logika obrade naslovne slike je izmijenjena.\n- Dodan gumb za pomicanje u gornju mapu pokraj gumba za uređivanje naziva mape My Library.\n- Dodana opcija pomicanja u Postavke - Postavke dodirnog područja - Postavke kontrolera.\n- Dodana mogućnost dodavanja radnji kotačića miša u postavke kontrolera."
+    "devnote": "- Logika postavki TTS-a je promijenjena.\n- Logika tipki prečaca je modificirana kako bi bila malo učinkovitija."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "- តក្កវិជ្ជាដំណើរការរូបភាពគម្របត្រូវបានកែប្រែ។\n- បានបន្ថែមការផ្លាស់ទីទៅប៊ូតុងថតខាងលើនៅជាប់ប៊ូតុងកែសម្រួលឈ្មោះថតបណ្ណាល័យរបស់ខ្ញុំ។\n- បានបន្ថែមជម្រើសរមូរទៅការកំណត់ - ការកំណត់តំបន់ប៉ះ - ការកំណត់ឧបករណ៍បញ្ជា។\n- បានបន្ថែមសមត្ថភាពក្នុងការបន្ថែមសកម្មភាពកង់កណ្ដុរទៅការកំណត់ឧបករណ៍បញ្ជា។"
+    "devnote": "- តក្កវិជ្ជាកំណត់ TTS ត្រូវបានកែប្រែ។\n- តក្កវិជ្ជាគ្រាប់ចុចផ្លូវកាត់ត្រូវបានកែប្រែដើម្បីឱ្យមានប្រសិទ្ធភាពជាងបន្តិច។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "- Мукаба сүрөтүн иштетүү логикасы өзгөртүлдү.\n- Менин китепканам папканын атын өзгөртүү баскычынын жанындагы жогорку папкага жылдыруу баскычы кошулду.\n- Орнотуулар - Тийүү аймагынын жөндөөлөрү - Контроллер орнотууларына сыдыруу опциясы кошулду.\n- Контроллердин жөндөөлөрүнө чычкан дөңгөлөк аракеттерин кошуу мүмкүнчүлүгү кошулду."
+    "devnote": "- TTS жөндөө логикасы өзгөртүлдү.\n- Жарлык баскычынын логикасы бир аз натыйжалуураак болушу үчүн өзгөртүлдү."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "- அட்டைப் பட செயலாக்க தர்க்கம் மாற்றப்பட்டது.\n- எனது நூலகக் கோப்புறையின் பெயர் திருத்து பொத்தானுக்கு அடுத்துள்ள மேல் கோப்புறை பொத்தானுக்கு நகர்த்தப்பட்டது.\n- அமைப்புகளுக்கு ஸ்க்ரோல் விருப்பம் சேர்க்கப்பட்டது - டச் ஏரியா அமைப்புகள் - கன்ட்ரோலர் அமைப்புகள்.\n- கட்டுப்படுத்தி அமைப்புகளுக்கு மவுஸ் வீல் செயல்களைச் சேர்க்கும் திறன் சேர்க்கப்பட்டது."
+    "devnote": "- TTS அமைப்பு தர்க்கம் மாற்றப்பட்டது.\n- ஷார்ட்கட் கீ லாஜிக் இன்னும் கொஞ்சம் திறமையானதாக மாற்றப்பட்டுள்ளது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "- ตรรกะการประมวลผลภาพปกได้รับการแก้ไข\n- เพิ่มปุ่มย้ายไปยังโฟลเดอร์ด้านบนถัดจากปุ่มแก้ไขชื่อโฟลเดอร์ห้องสมุดของฉัน\n- เพิ่มตัวเลือกการเลื่อนในการตั้งค่า - การตั้งค่าพื้นที่สัมผัส - การตั้งค่าคอนโทรลเลอร์\n- เพิ่มความสามารถในการเพิ่มการทำงานของล้อเมาส์ในการตั้งค่าคอนโทรลเลอร์"
+    "devnote": "- ตรรกะการตั้งค่า TTS ได้รับการแก้ไข\n- ตรรกะของปุ่มลัดได้รับการแก้ไขให้มีประสิทธิภาพเพิ่มขึ้นเล็กน้อย"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "- Kapak görseli işleme mantığı değiştirildi.\n- Kitaplığım klasör adı düzenleme düğmesinin yanına üst klasöre taşı düğmesi eklendi.\n- Ayarlar - Dokunma Alanı Ayarları - Denetleyici Ayarları'na kaydırma seçeneği eklendi.\n- Denetleyici ayarlarına fare tekerleği eylemleri ekleme yeteneği eklendi."
+    "devnote": "- TTS ayar mantığı değiştirildi.\n- Kısayol tuşu mantığı biraz daha verimli olacak şekilde değiştirildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "- కవర్ ఇమేజ్ ప్రాసెసింగ్ లాజిక్ సవరించబడింది.\n- నా లైబ్రరీ ఫోల్డర్ పేరు సవరణ బటన్ పక్కన ఉన్న ఎగువ ఫోల్డర్ బటన్‌కు తరలింపు జోడించబడింది.\n- సెట్టింగ్‌లకు స్క్రోల్ ఎంపిక జోడించబడింది - టచ్ ఏరియా సెట్టింగ్‌లు - కంట్రోలర్ సెట్టింగ్‌లు.\n- కంట్రోలర్ సెట్టింగ్‌లకు మౌస్ వీల్ చర్యలను జోడించే సామర్థ్యాన్ని జోడించారు."
+    "devnote": "- TTS సెట్టింగ్ లాజిక్ సవరించబడింది.\n- షార్ట్‌కట్ కీ లాజిక్ కొంచెం సమర్థవంతంగా ఉండేలా సవరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "- ਕਵਰ ਚਿੱਤਰ ਪ੍ਰੋਸੈਸਿੰਗ ਤਰਕ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ.\n- ਮਾਈ ਲਾਇਬ੍ਰੇਰੀ ਫੋਲਡਰ ਨਾਮ ਸੰਪਾਦਨ ਬਟਨ ਦੇ ਅੱਗੇ ਉੱਪਰਲੇ ਫੋਲਡਰ ਬਟਨ ਵਿੱਚ ਇੱਕ ਮੂਵ ਜੋੜਿਆ ਗਿਆ।\n- ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਸਕ੍ਰੌਲ ਵਿਕਲਪ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ - ਟਚ ਏਰੀਆ ਸੈਟਿੰਗਜ਼ - ਕੰਟਰੋਲਰ ਸੈਟਿੰਗਜ਼।\n- ਕੰਟਰੋਲਰ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਮਾਊਸ ਵ੍ਹੀਲ ਐਕਸ਼ਨ ਜੋੜਨ ਦੀ ਯੋਗਤਾ ਸ਼ਾਮਲ ਕੀਤੀ ਗਈ।"
+    "devnote": "- TTS ਸੈਟਿੰਗ ਤਰਕ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ.\n- ਸ਼ਾਰਟਕੱਟ ਕੁੰਜੀ ਤਰਕ ਨੂੰ ਥੋੜ੍ਹਾ ਹੋਰ ਕੁਸ਼ਲ ਹੋਣ ਲਈ ਸੋਧਿਆ ਗਿਆ ਹੈ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "- منطق پردازش تصویر جلد اصلاح شده است.\n- یک دکمه انتقال به پوشه بالایی در کنار دکمه ویرایش نام پوشه My Library اضافه شد.\n- اضافه شدن گزینه اسکرول به تنظیمات - تنظیمات منطقه - تنظیمات کنترلر.\n- اضافه شدن قابلیت افزودن عملکردهای چرخ ماوس به تنظیمات کنترلر."
+    "devnote": "- منطق تنظیم TTS اصلاح شده است.\n- منطق کلید میانبر اصلاح شده است تا کمی کارآمدتر باشد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "- A lógica de processamento da imagem da capa foi modificada.\n- Adicionado um botão mover para a pasta superior próximo ao botão de edição do nome da pasta Minha Biblioteca.\n- Adicionada opção de rolagem para Configurações - Configurações da área de toque - Configurações do controlador.\n- Adicionada a capacidade de adicionar ações da roda do mouse às configurações do controlador."
+    "devnote": "- A lógica de configuração do TTS foi modificada.\n- A lógica das teclas de atalho foi modificada para ser um pouco mais eficiente."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "- Zmodyfikowano logikę przetwarzania obrazu okładki.\n- Dodano przycisk przenoszenia do wyższego folderu obok przycisku edycji nazwy folderu Moja Biblioteka.\n- Dodano opcję przewijania do Ustawień - Ustawienia obszaru dotykowego - Ustawienia kontrolera.\n- Dodano możliwość dodawania działań kółkiem myszy do ustawień kontrolera."
+    "devnote": "- Zmodyfikowano logikę ustawień TTS.\n- Logika klawiszy skrótów została zmodyfikowana, aby była nieco bardziej wydajna."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "- La logique de traitement des images de couverture a été modifiée.\n- Ajout d'un bouton de déplacement vers le dossier supérieur à côté du bouton de modification du nom du dossier Ma bibliothèque.\n- Ajout d'une option de défilement aux paramètres - Paramètres de la zone tactile - Paramètres du contrôleur.\n- Ajout de la possibilité d'ajouter des actions de la molette de la souris aux paramètres du contrôleur."
+    "devnote": "- La logique de paramétrage TTS a été modifiée.\n- La logique des touches de raccourci a été modifiée pour être un peu plus efficace."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "- Kansikuvan käsittelylogiikkaa on muutettu.\n- Lisätty siirtyminen ylempään kansioon -painike My Library -kansion nimen muokkauspainikkeen viereen.\n- Lisätty vieritysvaihtoehto kohtaan Asetukset - Kosketusalueen asetukset - Ohjaimen asetukset.\n- Lisätty mahdollisuus lisätä hiiren rullatoimintoja ohjaimen asetuksiin."
+    "devnote": "- TTS-asetuslogiikkaa on muutettu.\n- Pikanäppäinlogiikka on muokattu hieman tehokkaammaksi."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "- Ang lohika sa pagproseso ng cover ng imahe ay nabago.\n- Nagdagdag ng paglipat sa itaas na pindutan ng folder sa tabi ng pindutan ng pag-edit ng pangalan ng folder ng Aking Library.\n- Nagdagdag ng opsyon sa pag-scroll sa Mga Setting - Mga Setting ng Touch Area - Mga Setting ng Controller.\n- Nagdagdag ng kakayahang magdagdag ng mga pagkilos ng gulong ng mouse sa mga setting ng controller."
+    "devnote": "- Nabago ang lohika ng setting ng TTS.\n- Ang shortcut key logic ay binago upang maging mas mahusay ng kaunti."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "- A borítókép-feldolgozási logika módosult.\n- A My Library mappanév szerkesztése gomb mellett hozzáadtunk egy áthelyezést a felső mappába gombbal.\n- Görgetési lehetőség hozzáadva a Beállítások - Érintőterület beállításai - Vezérlő beállításaihoz.\n- Hozzáadtuk az egérgörgő műveletek hozzáadását a vezérlő beállításaihoz."
+    "devnote": "- A TTS beállítási logikája módosult.\n- A gyorsbillentyűk logikáját módosítottuk, hogy egy kicsit hatékonyabb legyen."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "- לוגיקה של עיבוד תמונת כריכה שונתה.\n- נוסף לחצן מעבר לתיקייה העליונה לצד לחצן עריכת שם התיקיה שלי בספרייה שלי.\n- נוספה אפשרות גלילה להגדרות - הגדרות אזור מגע - הגדרות בקר.\n- נוספה את היכולת להוסיף פעולות גלגל עכבר להגדרות הבקר."
+    "devnote": "- לוגיקת הגדרות ה-TTS שונתה.\n- הלוגיקה של מקשי הקיצור שונתה כדי להיות קצת יותר יעילה."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "- कवर इमेज प्रोसेसिंग लॉजिक को संशोधित किया गया है।\n- मेरी लाइब्रेरी फ़ोल्डर नाम संपादन बटन के बगल में ऊपरी फ़ोल्डर बटन पर एक कदम जोड़ा गया।\n- सेटिंग्स में स्क्रॉल विकल्प जोड़ा गया - टच एरिया सेटिंग्स - कंट्रोलर सेटिंग्स।\n- नियंत्रक सेटिंग्स में माउस व्हील क्रियाओं को जोड़ने की क्षमता जोड़ी गई।"
+    "devnote": "- टीटीएस सेटिंग तर्क को संशोधित किया गया है।\n- शॉर्टकट कुंजी तर्क को थोड़ा और अधिक कुशल बनाने के लिए संशोधित किया गया है।"
   }
 }
