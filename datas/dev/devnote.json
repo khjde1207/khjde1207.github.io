@@ -1,290 +1,290 @@
 {
-  "영어(미국)": {
+  "영어(미국)": { 
     "key": "en",
-    "devnote": "- For epub, the converted file and original file have been modified to share the same progress."
+    "devnote": "- TTS export MP3 function has been modified.\n  * TTS delay settings have been applied when extracting txt files.\n  * Added a function to convert images and pdf to mp3."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "- epub 의 경우 변환된 파일과 원본파일이 같은 진행도를 공유하도록 수정 하였습니다."
+    "devnote": "- TTS export MP3 기능을 수정 하였습니다. \n  * txt 파일 추출시 TTS 딜레이 설정이 적용 되도록 하였습니다. \n  * image, pdf 도 mp3 로 변환이 가능하도록 기능을 추가 하였습니다. \n\n- 엔진 및 라이브러리 버전을 업그레이드 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "- Para epub, o ficheiro convertido e o ficheiro orixinal modificáronse para compartir o mesmo progreso."
+    "devnote": "- A función de exportación MP3 TTS foi modificada.\n  * Aplicáronse os axustes de retardo TTS ao extraer ficheiros txt.\n  * Engadida unha función para converter imaxes e pdf a mp3."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "- epub માટે, રૂપાંતરિત ફાઇલ અને મૂળ ફાઇલને સમાન પ્રગતિ શેર કરવા માટે સંશોધિત કરવામાં આવી છે."
+    "devnote": "- TTS નિકાસ MP3 ફંક્શનમાં ફેરફાર કરવામાં આવ્યો છે.\n  * txt ફાઇલો એક્સ્ટ્રેક્ટ કરતી વખતે TTS વિલંબ સેટિંગ્સ લાગુ કરવામાં આવી છે.\n  * છબીઓ અને પીડીએફને mp3 માં કન્વર્ટ કરવા માટે એક કાર્ય ઉમેર્યું."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "- Για το epub, το αρχείο που μετατράπηκε και το αρχικό αρχείο έχουν τροποποιηθεί για να μοιράζονται την ίδια πρόοδο."
+    "devnote": "- Η λειτουργία εξαγωγής MP3 TTS έχει τροποποιηθεί.\n  * Οι ρυθμίσεις καθυστέρησης TTS έχουν εφαρμοστεί κατά την εξαγωγή αρχείων txt.\n  * Προστέθηκε μια λειτουργία για τη μετατροπή εικόνων και pdf σε mp3."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "- Voor epub zijn het geconverteerde bestand en het originele bestand aangepast om dezelfde voortgang te delen."
+    "devnote": "- TTS-export MP3-functie is aangepast.\n  * TTS-vertragingsinstellingen zijn toegepast bij het extraheren van txt-bestanden.\n  * Een functie toegevoegd om afbeeldingen en pdf naar mp3 te converteren."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "- epub को लागि, रूपान्तरित फाइल र मूल फाइल समान प्रगति साझा गर्न परिमार्जन गरिएको छ।"
+    "devnote": "- TTS निर्यात MP3 प्रकार्य परिमार्जन गरिएको छ।\n  * txt फाइलहरू निकाल्दा TTS ढिलाइ सेटिङहरू लागू गरिएको छ।\n  * छविहरू र pdf लाई mp3 मा रूपान्तरण गर्न एक प्रकार्य थपियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "- For epub har den konverterte filen og originalfilen blitt endret for å dele samme fremdrift."
+    "devnote": "- TTS eksport MP3-funksjonen er endret.\n  * TTS-forsinkelsesinnstillinger har blitt brukt ved utpakking av txt-filer.\n  * Lagt til en funksjon for å konvertere bilder og pdf til mp3."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "- For epub er den konverterede fil og den originale fil blevet ændret for at dele de samme fremskridt."
+    "devnote": "- TTS eksport MP3 funktion er blevet ændret.\n  * TTS-forsinkelsesindstillinger er blevet anvendt ved udpakning af txt-filer.\n  * Tilføjet en funktion til at konvertere billeder og pdf til mp3."
   },
   "독일어": {
     "key": "de",
-    "devnote": "– Für epub wurden die konvertierte Datei und die Originaldatei geändert, um den gleichen Fortschritt zu erzielen."
+    "devnote": "- Die TTS-Export-MP3-Funktion wurde geändert.\n  * Beim Extrahieren von TXT-Dateien wurden TTS-Verzögerungseinstellungen angewendet.\n  * Funktion zum Konvertieren von Bildern und PDF in MP3 hinzugefügt."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "- ສໍາລັບ epub, ໄຟລ໌ທີ່ແປງແລະໄຟລ໌ຕົ້ນສະບັບໄດ້ຖືກດັດແກ້ເພື່ອແບ່ງປັນຄວາມຄືບຫນ້າດຽວກັນ."
+    "devnote": "- ຟັງຊັນ MP3 ສົ່ງອອກ TTS ໄດ້ຖືກດັດແກ້.\n  * ການ​ຕັ້ງ​ຄ່າ​ການ​ຊັກ​ຊ້າ TTS ໄດ້​ຖືກ​ນໍາ​ໃຊ້​ໃນ​ເວ​ລາ​ທີ່​ການ​ສະ​ກັດ​ໄຟລ​໌ txt​.\n  * ເພີ່ມຟັງຊັນເພື່ອປ່ຽນຮູບພາບແລະ pdf ເປັນ mp3."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "- Epub konvertētais fails un sākotnējais fails ir modificēti, lai nodrošinātu vienādu progresu."
+    "devnote": "- TTS eksporta MP3 funkcija ir pārveidota.\n  * Izvelkot txt failus, tika piemēroti TTS aizkaves iestatījumi.\n  * Pievienota funkcija attēlu un pdf konvertēšanai uz mp3."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "- Для epub преобразованный файл и исходный файл были изменены, чтобы использовать один и тот же прогресс."
+    "devnote": "- Изменена функция экспорта MP3 TTS.\n  * Настройки задержки TTS применяются при извлечении текстовых файлов.\n  * Добавлена ​​функция конвертации изображений и pdf в mp3."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "- Pentru epub, fișierul convertit și fișierul original au fost modificate pentru a partaja același progres."
+    "devnote": "- Funcția de export MP3 TTS a fost modificată.\n  * Setările de întârziere TTS au fost aplicate la extragerea fișierelor txt.\n  * S-a adăugat o funcție pentru a converti imagini și pdf în mp3."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "- Jei naudojate epub, konvertuotas failas ir pradinis failas buvo modifikuoti, kad būtų vienoda pažanga."
+    "devnote": "- TTS eksporto MP3 funkcija buvo pakeista.\n  * Išskleidžiant txt failus buvo pritaikyti TTS delsos nustatymai.\n  * Pridėta funkcija konvertuoti vaizdus ir pdf į mp3."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "- epub साठी, रूपांतरित फाइल आणि मूळ फाइल समान प्रगती सामायिक करण्यासाठी सुधारित केली गेली आहे."
+    "devnote": "- TTS निर्यात MP3 फंक्शन सुधारित केले आहे.\n  * txt फाइल्स काढताना TTS विलंब सेटिंग्ज लागू केल्या आहेत.\n  * प्रतिमा आणि पीडीएफ mp3 मध्ये रूपांतरित करण्यासाठी फंक्शन जोडले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "- За epub, конвертираната датотека и оригиналната датотека се изменети за да го споделуваат истиот напредок."
+    "devnote": "- Функцијата за извоз на TTS MP3 е изменета.\n  * При вадење на txt датотеки се применети поставките за одложување на TTS.\n  * Додадена е функција за конвертирање на слики и pdf во mp3."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "- epub-നായി, പരിവർത്തനം ചെയ്‌ത ഫയലും യഥാർത്ഥ ഫയലും ഒരേ പുരോഗതി പങ്കിടുന്നതിനായി പരിഷ്‌ക്കരിച്ചിരിക്കുന്നു."
+    "devnote": "- TTS കയറ്റുമതി MP3 ഫംഗ്‌ഷൻ പരിഷ്‌ക്കരിച്ചു.\n  * txt ഫയലുകൾ എക്‌സ്‌ട്രാക്‌റ്റുചെയ്യുമ്പോൾ TTS കാലതാമസം ക്രമീകരണങ്ങൾ പ്രയോഗിച്ചു.\n  * ചിത്രങ്ങളും പിഡിഎഫും mp3 ലേക്ക് പരിവർത്തനം ചെയ്യാൻ ഒരു ഫംഗ്ഷൻ ചേർത്തു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "- Untuk epub, fail yang ditukar dan fail asal telah diubah suai untuk berkongsi kemajuan yang sama."
+    "devnote": "- Fungsi MP3 eksport TTS telah diubah suai.\n  * Tetapan kelewatan TTS telah digunakan semasa mengekstrak fail txt.\n  * Menambah fungsi untuk menukar imej dan pdf kepada mp3."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "- Epub-ийн хувьд хөрвүүлсэн файл болон эх файлыг ижил ахиц дэвшлийг хуваалцахаар өөрчилсөн."
+    "devnote": "- TTS экспортын MP3 функц өөрчлөгдсөн.\n  * txt файлыг задлах үед TTS саатлын тохиргоог ашигласан.\n  * Зураг болон pdf файлыг mp3 болгон хөрвүүлэх функц нэмэгдсэн."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "- Epub-erako, bihurtutako fitxategia eta jatorrizko fitxategia aldatu egin dira aurrerapen bera partekatzeko."
+    "devnote": "- TTS esportazio MP3 funtzioa aldatu da.\n  * TTS atzerapen ezarpenak aplikatu dira txt fitxategiak erauztean.\n  * Irudiak eta pdfak mp3 bihurtzeko funtzio bat gehitu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "- epub အတွက်၊ တူညီသောတိုးတက်မှုကိုမျှဝေရန် converted file နှင့် original file ကို ပြုပြင်ထားပါသည်။"
+    "devnote": "- TTS ပို့ကုန် MP3 လုပ်ဆောင်ချက်ကို ပြင်ဆင်ပြီးဖြစ်သည်။\n  * txt ဖိုင်များကို ထုတ်ယူသည့်အခါ TTS နှောင့်နှေးမှု ဆက်တင်များကို အသုံးပြုထားသည်။\n  * ပုံများနှင့် pdf ကို mp3 သို့ပြောင်းရန် လုပ်ဆောင်ချက်တစ်ခု ထပ်ထည့်ထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "- Đối với epub, file chuyển đổi và file gốc đã được sửa đổi để chia sẻ cùng một tiến trình."
+    "devnote": "- Chức năng xuất MP3 TTS đã được sửa đổi.\n  * Cài đặt độ trễ TTS đã được áp dụng khi giải nén tệp txt.\n  * Đã thêm chức năng chuyển đổi hình ảnh và pdf sang mp3."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "- Для epub пераўтвораны файл і зыходны файл былі зменены, каб мець аднолькавы прагрэс."
+    "devnote": "- Функцыя TTS экспарт MP3 была зменена.\n  * Налады затрымкі TTS былі ўжытыя пры распакаванні файлаў txt.\n  * Дададзена функцыя пераўтварэння малюнкаў і pdf ў mp3."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "- epub-এর জন্য, রূপান্তরিত ফাইল এবং মূল ফাইল একই অগ্রগতি ভাগ করার জন্য পরিবর্তন করা হয়েছে।"
+    "devnote": "- TTS রপ্তানি MP3 ফাংশন পরিবর্তন করা হয়েছে.\n  * txt ফাইলগুলি বের করার সময় TTS বিলম্ব সেটিংস প্রয়োগ করা হয়েছে।\n  * ইমেজ এবং পিডিএফকে mp3 তে রূপান্তর করতে একটি ফাংশন যোগ করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "- За epub конвертираният файл и оригиналният файл са променени, за да споделят същия напредък."
+    "devnote": "- TTS експортиране на MP3 функция е променена.\n  * Настройките за забавяне на TTS са приложени при извличане на txt файлове.\n  * Добавена е функция за конвертиране на изображения и pdf в mp3."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "- За епуб, конвертована датотека и оригинална датотека су измењени да деле исти напредак."
+    "devnote": "- ТТС експорт МП3 функција је измењена.\n  * Подешавања одлагања ТТС-а су примењена приликом издвајања ткт датотека.\n  * Додата функција за претварање слика и пдф-а у мп3."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "- Kwa epub, faili iliyobadilishwa na faili asili imebadilishwa ili kushiriki maendeleo sawa."
+    "devnote": "- Chaguo za kukokotoa za MP3 za TTS zimebadilishwa.\n  * Mipangilio ya kuchelewa kwa TTS imetumika wakati wa kutoa faili za txt.\n  * Aliongeza kazi ya kubadilisha picha na pdf kwa mp3."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "- För epub har den konverterade filen och originalfilen modifierats för att dela samma framsteg."
+    "devnote": "- TTS export MP3-funktionen har ändrats.\n  * TTS-fördröjningsinställningar har tillämpats vid extrahering av txt-filer.\n  * Lade till en funktion för att konvertera bilder och pdf till mp3."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "- Para epub, el archivo convertido y el archivo original se han modificado para compartir el mismo progreso."
+    "devnote": "- Se ha modificado la función de exportación TTS de MP3.\n  * Se han aplicado configuraciones de retraso TTS al extraer archivos txt.\n  * Se agregó una función para convertir imágenes y pdf a mp3."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "- V prípade epub boli skonvertovaný súbor a pôvodný súbor upravené tak, aby zdieľali rovnaký postup."
+    "devnote": "- Funkcia exportu TTS do MP3 bola upravená.\n  * Nastavenia oneskorenia TTS boli použité pri extrakcii súborov txt.\n  * Pridaná funkcia na prevod obrázkov a pdf do mp3."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "- Za epub sta bili pretvorjena datoteka in izvirna datoteka spremenjeni, da imata enak napredek."
+    "devnote": "- Funkcija izvoza TTS MP3 je bila spremenjena.\n  * Nastavitve zakasnitve TTS so bile uporabljene pri ekstrahiranju txt datotek.\n  * Dodana funkcija za pretvorbo slik in pdf v mp3."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "- epub සඳහා, පරිවර්තනය කරන ලද ගොනුව සහ මුල් ගොනුව එකම ප්‍රගතිය බෙදා ගැනීමට වෙනස් කර ඇත."
+    "devnote": "- TTS අපනයන MP3 කාර්යය වෙනස් කර ඇත.\n  * txt ගොනු උපුටා ගැනීමේදී TTS ප්‍රමාද සැකසුම් යොදවා ඇත.\n  * පින්තූර සහ pdf mp3 බවට පරිවර්තනය කිරීමට ශ්‍රිතයක් එක් කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "- بالنسبة لملف epub، تم تعديل الملف المحول والملف الأصلي لمشاركة نفس التقدم."
+    "devnote": "- تم تعديل وظيفة تصدير MP3 لتحويل النص إلى كلام.\n  * تم تطبيق إعدادات تأخير TTS عند استخراج ملفات txt.\n  * أضيفت وظيفة لتحويل الصور وملف pdf إلى mp3."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "- Epub-ի համար փոխարկված ֆայլը և բնօրինակ ֆայլը փոփոխվել են՝ նույն առաջընթացը կիսելու համար:"
+    "devnote": "- TTS արտահանման MP3 գործառույթը փոփոխվել է:\n  * TTS-ի հետաձգման կարգավորումները կիրառվել են txt ֆայլեր հանելիս:\n  * Ավելացրել է գործառույթ՝ պատկերները և pdf-ը mp3-ի փոխարկելու համար:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "- Fyrir epub hefur breyttu skránni og upprunalegu skránni verið breytt til að deila sömu framvindu."
+    "devnote": "- TTS útflutnings MP3 aðgerð hefur verið breytt.\n  * TTS seinkun stillingum hefur verið beitt þegar txt skrár eru teknar út.\n  * Bætti við aðgerð til að umbreyta myndum og pdf í mp3."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "- Epub üçün çevrilmiş fayl və orijinal fayl eyni irəliləyişi paylaşmaq üçün dəyişdirilib."
+    "devnote": "- TTS ixrac MP3 funksiyası dəyişdirildi.\n  * Txt faylları çıxararkən TTS gecikmə parametrləri tətbiq edilmişdir.\n  * Şəkilləri və pdf formatını mp3 formatına çevirmək funksiyası əlavə edilib."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "- Vir epub is die omgeskakelde lêer en oorspronklike lêer gewysig om dieselfde vordering te deel."
+    "devnote": "- TTS uitvoer MP3 funksie is gewysig.\n  * TTS-vertraginginstellings is toegepas wanneer txt-lêers onttrek word.\n  * Bygevoeg 'n funksie om beelde en pdf om te skakel na mp3."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "- Për epub, skedari i konvertuar dhe skedari origjinal janë modifikuar për të ndarë të njëjtin progres."
+    "devnote": "- Funksioni MP3 i eksportit TTS është modifikuar.\n  * Cilësimet e vonesës së TTS janë aplikuar gjatë nxjerrjes së skedarëve txt.\n  * U shtua një funksion për të kthyer imazhet dhe pdf në mp3."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "- ለ epub፣ የተለወጠው ፋይል እና ኦሪጅናል ፋይል ተመሳሳይ ሂደት ለመጋራት ተስተካክለዋል።"
+    "devnote": "- TTS ወደ ውጪ መላክ MP3 ተግባር ተስተካክሏል.\n  txt ፋይሎችን በሚወጣበት ጊዜ የTTS መዘግየት ቅንጅቶች ተተግብረዋል።\n  * ምስሎችን እና ፒዲኤፍ ወደ mp3 ለመቀየር ተግባር ታክሏል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "- Epubi puhul on teisendatud faili ja originaalfaili muudetud, et jagaksid sama edenemist."
+    "devnote": "- TTS ekspordi MP3 funktsiooni on muudetud.\n  * TTS-i viivituse sätteid on rakendatud txt-failide ekstraktimisel.\n  * Lisatud funktsioon piltide ja pdf-i teisendamiseks mp3-ks."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "- epub کے لیے، تبدیل شدہ فائل اور اصل فائل میں ایک ہی پیش رفت کا اشتراک کرنے کے لیے ترمیم کی گئی ہے۔"
+    "devnote": "- TTS ایکسپورٹ MP3 فنکشن میں ترمیم کی گئی ہے۔\n  * txt فائلوں کو نکالتے وقت TTS تاخیر کی ترتیبات کو لاگو کیا گیا ہے۔\n  * تصاویر اور پی ڈی ایف کو mp3 میں تبدیل کرنے کے لیے ایک فنکشن شامل کیا گیا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "— Для epub перетворений файл і оригінальний файл змінено, щоб мати однаковий прогрес."
+    "devnote": "— Змінено функцію експорту TTS MP3.\n  * Параметри затримки TTS були застосовані під час видобування текстових файлів.\n  * Додано функцію конвертації зображень і pdf в mp3."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "- Per epub, il file convertito e il file originale sono stati modificati per condividere gli stessi progressi."
+    "devnote": "- La funzione di esportazione MP3 TTS è stata modificata.\n  * Le impostazioni di ritardo TTS sono state applicate durante l'estrazione di file txt.\n  * Aggiunta una funzione per convertire immagini e pdf in mp3."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "- Untuk epub, file yang dikonversi dan file asli telah dimodifikasi untuk berbagi kemajuan yang sama."
+    "devnote": "- Fungsi TTS ekspor MP3 telah dimodifikasi.\n  * Pengaturan penundaan TTS telah diterapkan saat mengekstrak file txt.\n  * Menambahkan fungsi untuk mengkonversi gambar dan pdf ke mp3."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "- epub の場合、変換されたファイルと元のファイルは同じ進行状況を共有するように変更されています。"
+    "devnote": "- TTS エクスポート MP3 機能が修正されました。\n  ※txtファイル抽出時にTTS遅延設定が適用されています。\n  ※画像とpdfをmp3に変換する機能を追加しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "- epub-ისთვის, კონვერტირებული ფაილი და ორიგინალი ფაილი შეიცვალა იმავე პროგრესის გასაზიარებლად."
+    "devnote": "- TTS ექსპორტის MP3 ფუნქცია შეიცვალა.\n  * TTS დაყოვნების პარამეტრები გამოყენებულია txt ფაილების ამოღებისას.\n  * დამატებულია ფუნქცია სურათების და pdf-ის mp3-ში გადასაყვანად."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "- Ku-epub, ifayela eliguquliwe nefayela lokuqala kushintshiwe ukuze kwabelwane ngenqubekelaphambili efanayo."
+    "devnote": "- Umsebenzi we-TTS wokuthekelisa we-MP3 ushintshiwe.\n  * Izilungiselelo zokulibaziseka ze-TTS zisetshenzisiwe lapho kukhishwa amafayela e-txt.\n  * Kwengezwe umsebenzi wokuguqula izithombe ne-pdf zibe mp3."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "- 对于 epub，转换后的文件和原始文件已被修改以共享相同的进度。"
+    "devnote": "- TTS导出MP3功能已修改。\n  * 提取 txt 文件时已应用 TTS 延迟设置。\n  * 添加了将图像和pdf转换为mp3的功能。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "- 對於 epub，轉換後的檔案和原始檔案已被修改以共享相同的進度。"
+    "devnote": "- TTS匯出MP3功能已修改。\n  * 提取 txt 檔案時已套用 TTS 延遲設定。\n  * 新增了將影像和pdf轉換為mp3的功能。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "- 對於 epub，轉換後的檔案和原始檔案已被修改以共享相同的進度。"
+    "devnote": "- TTS匯出MP3功能已修改。\n  * 提取 txt 檔案時已套用 TTS 延遲設定。\n  * 新增了將影像和pdf轉換為mp3的功能。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "- U epub byly převedený soubor a původní soubor upraveny tak, aby sdílely stejný průběh."
+    "devnote": "- Funkce exportu TTS MP3 byla upravena.\n  * Nastavení zpoždění TTS bylo použito při extrahování souborů txt.\n  * Přidána funkce pro převod obrázků a pdf do mp3."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "- epub үшін түрлендірілген файл мен түпнұсқа файл бірдей прогресті бөлісу үшін өзгертілген."
+    "devnote": "- TTS MP3 экспорттау функциясы өзгертілді.\n  * txt файлдарын шығару кезінде TTS кідірту параметрлері қолданылды.\n  * Суреттер мен pdf форматын mp3 форматына түрлендіру функциясы қосылды."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "- Per a epub, el fitxer convertit i el fitxer original s'han modificat per compartir el mateix progrés."
+    "devnote": "- S'ha modificat la funció d'exportació MP3 TTS.\n  * S'ha aplicat la configuració del retard TTS en extreure fitxers txt.\n  * S'ha afegit una funció per convertir imatges i pdf a mp3."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "- epub ಗಾಗಿ, ಪರಿವರ್ತಿಸಲಾದ ಫೈಲ್ ಮತ್ತು ಮೂಲ ಫೈಲ್ ಅನ್ನು ಅದೇ ಪ್ರಗತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
+    "devnote": "- TTS ರಫ್ತು MP3 ಕಾರ್ಯವನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n  * txt ಫೈಲ್‌ಗಳನ್ನು ಹೊರತೆಗೆಯುವಾಗ TTS ವಿಳಂಬ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಅನ್ವಯಿಸಲಾಗಿದೆ.\n  * ಚಿತ್ರಗಳನ್ನು ಮತ್ತು ಪಿಡಿಎಫ್ ಅನ್ನು ಎಂಪಿ 3 ಗೆ ಪರಿವರ್ತಿಸಲು ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "- Za epub, konvertirana datoteka i izvorna datoteka su izmijenjene kako bi dijelile isti napredak."
+    "devnote": "- TTS eksport MP3 funkcija je modificirana.\n  * Postavke odgode TTS-a primijenjene su prilikom izdvajanja txt datoteka.\n  * Dodana funkcija za pretvaranje slika i pdf-a u mp3."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "- សម្រាប់ epub ឯកសារដែលបានបំប្លែង និងឯកសារដើមត្រូវបានកែប្រែ ដើម្បីចែករំលែកវឌ្ឍនភាពដូចគ្នា។"
+    "devnote": "- មុខងារ MP3 នាំចេញ TTS ត្រូវបានកែប្រែ។\n  * ការកំណត់ការពន្យាពេល TTS ត្រូវបានអនុវត្តនៅពេលទាញយកឯកសារ txt ។\n  * បានបន្ថែមមុខងារមួយដើម្បីបំលែងរូបភាព និង pdf ទៅជា mp3 ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "- epub үчүн, конверттелген файл жана баштапкы файл бирдей прогрессти бөлүшүү үчүн өзгөртүлгөн."
+    "devnote": "- TTS экспорттук MP3 функциясы өзгөртүлдү.\n  * txt файлдарын чыгарып жатканда TTS кечиктирүү жөндөөлөрү колдонулду.\n  * Сүрөттөрдү жана pdf форматын mp3ке айландыруу функциясы кошулду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "- epub க்கு, மாற்றப்பட்ட கோப்பு மற்றும் அசல் கோப்பு அதே முன்னேற்றத்தைப் பகிர மாற்றியமைக்கப்பட்டுள்ளன."
+    "devnote": "- TTS ஏற்றுமதி MP3 செயல்பாடு மாற்றப்பட்டது.\n  * txt கோப்புகளைப் பிரித்தெடுக்கும் போது TTS தாமத அமைப்புகள் பயன்படுத்தப்பட்டன.\n  * படங்கள் மற்றும் pdf ஐ mp3 ஆக மாற்ற ஒரு செயல்பாடு சேர்க்கப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "- สำหรับ epub ไฟล์ที่แปลงแล้วและไฟล์ต้นฉบับได้รับการแก้ไขเพื่อให้มีความคืบหน้าเหมือนกัน"
+    "devnote": "- ฟังก์ชั่นการส่งออก MP3 TTS ได้รับการแก้ไข\n  * การตั้งค่าการหน่วงเวลา TTS ถูกนำมาใช้เมื่อแตกไฟล์ txt\n  * เพิ่มฟังก์ชั่นแปลงรูปภาพและ pdf เป็น mp3"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "- epub için, dönüştürülen dosya ve orijinal dosya aynı ilerlemeyi paylaşacak şekilde değiştirildi."
+    "devnote": "- TTS MP3 dışa aktarma işlevi değiştirildi.\n  * Txt dosyaları çıkartılırken TTS gecikme ayarları uygulandı.\n  * Görüntüleri ve pdf'yi mp3'e dönüştürmek için bir işlev eklendi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "- epub కోసం, మార్చబడిన ఫైల్ మరియు ఒరిజినల్ ఫైల్ అదే పురోగతిని పంచుకోవడానికి సవరించబడ్డాయి."
+    "devnote": "- TTS ఎగుమతి MP3 ఫంక్షన్ సవరించబడింది.\n  * txt ఫైల్‌లను సంగ్రహిస్తున్నప్పుడు TTS ఆలస్యం సెట్టింగ్‌లు వర్తింపజేయబడ్డాయి.\n  * చిత్రాలను మరియు pdfని mp3కి మార్చడానికి ఒక ఫంక్షన్ జోడించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "- epub ਲਈ, ਪਰਿਵਰਤਿਤ ਫਾਈਲ ਅਤੇ ਮੂਲ ਫਾਈਲ ਨੂੰ ਇੱਕੋ ਪ੍ਰਗਤੀ ਨੂੰ ਸਾਂਝਾ ਕਰਨ ਲਈ ਸੋਧਿਆ ਗਿਆ ਹੈ।"
+    "devnote": "- TTS ਨਿਰਯਾਤ MP3 ਫੰਕਸ਼ਨ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ।\n  * txt ਫਾਈਲਾਂ ਨੂੰ ਐਕਸਟਰੈਕਟ ਕਰਨ ਵੇਲੇ TTS ਦੇਰੀ ਸੈਟਿੰਗਾਂ ਲਾਗੂ ਕੀਤੀਆਂ ਗਈਆਂ ਹਨ।\n  * ਚਿੱਤਰਾਂ ਅਤੇ ਪੀਡੀਐਫ ਨੂੰ mp3 ਵਿੱਚ ਬਦਲਣ ਲਈ ਇੱਕ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "- برای epub، فایل تبدیل شده و فایل اصلی برای به اشتراک گذاشتن پیشرفت یکسان اصلاح شده است."
+    "devnote": "- عملکرد MP3 صادرات TTS اصلاح شده است.\n  * تنظیمات تاخیر TTS هنگام استخراج فایل های txt اعمال شده است.\n  * اضافه شدن یک تابع برای تبدیل تصاویر و pdf به mp3."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "- Para epub, o arquivo convertido e o arquivo original foram modificados para compartilhar o mesmo progresso."
+    "devnote": "- A função de exportação MP3 TTS foi modificada.\n  * As configurações de atraso TTS foram aplicadas ao extrair arquivos txt.\n  * Adicionada função para converter imagens e PDF para mp3."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "- W przypadku epub przekonwertowany plik i oryginalny plik zostały zmodyfikowane, aby zapewnić ten sam postęp."
+    "devnote": "- Zmodyfikowano funkcję eksportu TTS do formatu MP3.\n  * Podczas wyodrębniania plików txt zastosowano ustawienia opóźnienia TTS.\n  * Dodano funkcję konwersji obrazów i plików PDF do formatu mp3."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "- Pour l'epub, le fichier converti et le fichier original ont été modifiés pour partager la même progression."
+    "devnote": "- La fonction d'exportation MP3 TTS a été modifiée.\n  * Les paramètres de délai TTS ont été appliqués lors de l'extraction des fichiers txt.\n  * Ajout d'une fonction pour convertir des images et des pdf en mp3."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "- Epubissa muunnettua tiedostoa ja alkuperäistä tiedostoa on muokattu niin, että ne jakavat saman edistymisen."
+    "devnote": "- TTS-vienti MP3 -toimintoa on muutettu.\n  * TTS-viiveasetuksia on käytetty txt-tiedostoja purettaessa.\n  * Lisätty toiminto kuvien ja pdf-tiedostojen muuntamiseksi mp3-muotoon."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "- Para sa epub, ang na-convert na file at orihinal na file ay binago upang ibahagi ang parehong pag-unlad."
+    "devnote": "- Ang TTS export MP3 function ay binago.\n  * Nailapat ang mga setting ng pagkaantala ng TTS kapag kumukuha ng mga txt file.\n  * Nagdagdag ng isang function upang i-convert ang mga imahe at pdf sa mp3."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "- Az epub esetében a konvertált fájlt és az eredeti fájlt úgy módosítottuk, hogy ugyanazt a folyamatot ossza meg."
+    "devnote": "- A TTS export MP3 funkció módosult.\n  * A TTS késleltetési beállításokat alkalmazták a txt fájlok kicsomagolásakor.\n  * Hozzáadott egy funkciót a képek és a pdf mp3 formátumba konvertálásához."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "- עבור epub, הקובץ שהומר והקובץ המקורי שונו כדי לחלוק את אותה התקדמות."
+    "devnote": "- פונקציית ייצוא MP3 של TTS שונתה.\n  * הגדרות השהיית TTS הוחלו בעת חילוץ קבצי txt.\n  * נוספה פונקציה להמרת תמונות ו-pdf ל-mp3."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "- ईपीयूबी के लिए, परिवर्तित फ़ाइल और मूल फ़ाइल को समान प्रगति साझा करने के लिए संशोधित किया गया है।"
+    "devnote": "- टीटीएस निर्यात एमपी3 फ़ंक्शन को संशोधित किया गया है।\n  * txt फ़ाइलें निकालते समय TTS विलंब सेटिंग्स लागू की गई हैं।\n  * छवियों और पीडीएफ को एमपी3 में बदलने के लिए एक फ़ंक्शन जोड़ा गया।"
   }
 }
