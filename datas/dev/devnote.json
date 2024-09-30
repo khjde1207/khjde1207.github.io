@@ -1,290 +1,290 @@
 {
-  "영어(미국)": { 
+  "영어(미국)": {
     "key": "en",
-    "devnote": "- TTS export MP3 function has been modified.\n  * TTS delay settings have been applied when extracting txt files.\n  * Added a function to convert images and pdf to mp3."
+    "devnote": "- Changed the structure to allow customization of all shortcut icons.\n- Added clock, battery, and auto-scroll functions for shortcut icons.\n- Added TTS A-B repeat and skip functions.\n- Added bookmark TTS playback function.\n- Added a function to extract file names in My Library as json or csv.\n- Added My Library compression function.\n- Added folder cover image function."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "- TTS export MP3 기능을 수정 하였습니다. \n  * txt 파일 추출시 TTS 딜레이 설정이 적용 되도록 하였습니다. \n  * image, pdf 도 mp3 로 변환이 가능하도록 기능을 추가 하였습니다. \n\n- 엔진 및 라이브러리 버전을 업그레이드 하였습니다."
+    "devnote": "- 모든 단축 아이콘을 커스텀 할 수 있도록 구조 변경.\n- 단축 아이콘 시계,배터리, 자동스크롤 기능 추가.\n- TTS A-B 반복 및 건너뛰기 기능 추가.\n- 북마크 TTS 재생 기능 추가.  \n- 내서재에 있는 파일명을 json 이나 csv 로 추출하는 기능 추가.\n- 내서재 압축 기능 추가.\n- 폴더 커버이미지 기능추가"
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "- A función de exportación MP3 TTS foi modificada.\n  * Aplicáronse os axustes de retardo TTS ao extraer ficheiros txt.\n  * Engadida unha función para converter imaxes e pdf a mp3."
+    "devnote": "- Cambiouse a estrutura para permitir a personalización de todas as iconas de atallo.\n- Engadíronse funcións de reloxo, batería e desprazamento automático para as iconas de atallo.\n- Engadíronse funcións de repetición e salto de TTS AB.\n- Engadiuse a función de reprodución de marcadores TTS.\n- Engadiuse unha función para extraer nomes de ficheiros na miña biblioteca como json ou csv.\n- Engadida a función de compresión da miña biblioteca.\n- Engadida a función de imaxe de portada do cartafol."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "- TTS નિકાસ MP3 ફંક્શનમાં ફેરફાર કરવામાં આવ્યો છે.\n  * txt ફાઇલો એક્સ્ટ્રેક્ટ કરતી વખતે TTS વિલંબ સેટિંગ્સ લાગુ કરવામાં આવી છે.\n  * છબીઓ અને પીડીએફને mp3 માં કન્વર્ટ કરવા માટે એક કાર્ય ઉમેર્યું."
+    "devnote": "- બધા શૉર્ટકટ ચિહ્નોના કસ્ટમાઇઝેશનને મંજૂરી આપવા માટે માળખું બદલ્યું.\n- શૉર્ટકટ ચિહ્નો માટે ઘડિયાળ, બેટરી અને ઑટો-સ્ક્રોલ ફંક્શન ઉમેર્યા.\n- TTS A-B પુનરાવર્તિત અને અવગણો કાર્યો ઉમેર્યા.\n- બુકમાર્ક TTS પ્લેબેક ફંક્શન ઉમેર્યું.\n- માય લાઇબ્રેરીમાં json અથવા csv તરીકે ફાઇલના નામ કાઢવા માટે ફંક્શન ઉમેર્યું.\n- માય લાઇબ્રેરી કમ્પ્રેશન ફંક્શન ઉમેર્યું.\n- ફોલ્ડર કવર ઇમેજ ફંક્શન ઉમેર્યું."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "- Η λειτουργία εξαγωγής MP3 TTS έχει τροποποιηθεί.\n  * Οι ρυθμίσεις καθυστέρησης TTS έχουν εφαρμοστεί κατά την εξαγωγή αρχείων txt.\n  * Προστέθηκε μια λειτουργία για τη μετατροπή εικόνων και pdf σε mp3."
+    "devnote": "- Άλλαξε τη δομή για να επιτρέπεται η προσαρμογή όλων των εικονιδίων συντομεύσεων.\n- Προστέθηκαν λειτουργίες ρολογιού, μπαταρίας και αυτόματης κύλισης για εικονίδια συντομεύσεων.\n- Προστέθηκαν λειτουργίες επανάληψης και παράλειψης TTS A-B.\n- Προστέθηκε η λειτουργία αναπαραγωγής TTS σελιδοδεικτών.\n- Προστέθηκε μια λειτουργία για εξαγωγή ονομάτων αρχείων στη βιβλιοθήκη μου ως json ή csv.\n- Προστέθηκε η λειτουργία συμπίεσης της βιβλιοθήκης μου.\n- Προστέθηκε η λειτουργία εικόνας εξωφύλλου φακέλου."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "- TTS-export MP3-functie is aangepast.\n  * TTS-vertragingsinstellingen zijn toegepast bij het extraheren van txt-bestanden.\n  * Een functie toegevoegd om afbeeldingen en pdf naar mp3 te converteren."
+    "devnote": "- De structuur gewijzigd om aanpassing van alle snelkoppelingspictogrammen mogelijk te maken.\n- Klok-, batterij- en auto-scroll-functies toegevoegd voor snelkoppelingspictogrammen.\n- TTS A-B herhaal- en skip-functies toegevoegd.\n- Toegevoegde TTS-afspeelfunctie voor bladwijzers.\n- Een functie toegevoegd om bestandsnamen in Mijn bibliotheek te extraheren als json of csv.\n- Mijn bibliotheek-compressiefunctie toegevoegd.\n- Functie voor mapomslagafbeelding toegevoegd."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "- TTS निर्यात MP3 प्रकार्य परिमार्जन गरिएको छ।\n  * txt फाइलहरू निकाल्दा TTS ढिलाइ सेटिङहरू लागू गरिएको छ।\n  * छविहरू र pdf लाई mp3 मा रूपान्तरण गर्न एक प्रकार्य थपियो।"
+    "devnote": "- सबै सर्टकट आइकनहरूको अनुकूलन अनुमति दिन संरचना परिवर्तन गरियो।\n- सर्टकट आइकनहरूको लागि घडी, ब्याट्री, र स्वत: स्क्रोल प्रकार्यहरू थपियो।\n- थपियो TTS A-B दोहोर्याउनुहोस् र कार्यहरू छोड्नुहोस्।\n- बुकमार्क TTS प्लेब्याक प्रकार्य थपियो।\n- मेरो पुस्तकालयमा json वा csv को रूपमा फाइल नामहरू निकाल्न एउटा प्रकार्य थपियो।\n- मेरो पुस्तकालय कम्प्रेसन प्रकार्य थपियो।\n- फोल्डर आवरण छवि प्रकार्य थपियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "- TTS eksport MP3-funksjonen er endret.\n  * TTS-forsinkelsesinnstillinger har blitt brukt ved utpakking av txt-filer.\n  * Lagt til en funksjon for å konvertere bilder og pdf til mp3."
+    "devnote": "- Endret strukturen for å tillate tilpasning av alle snarveiikoner.\n- Lagt til klokke-, batteri- og automatisk rullefunksjoner for snarveisikoner.\n- Lagt til TTS A-B repetisjons- og hoppfunksjoner.\n- Lagt til bokmerke TTS-avspillingsfunksjon.\n- Lagt til en funksjon for å trekke ut filnavn i Mitt bibliotek som json eller csv.\n- Lagt til My Library-komprimeringsfunksjon.\n- Lagt til mappeomslagsbildefunksjon."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "- TTS eksport MP3 funktion er blevet ændret.\n  * TTS-forsinkelsesindstillinger er blevet anvendt ved udpakning af txt-filer.\n  * Tilføjet en funktion til at konvertere billeder og pdf til mp3."
+    "devnote": "- Ændrede strukturen for at tillade tilpasning af alle genvejsikoner.\n- Tilføjet ur-, batteri- og auto-scroll-funktioner for genvejsikoner.\n- Tilføjet TTS A-B gentagelses- og springfunktioner.\n- Tilføjet bogmærke TTS-afspilningsfunktion.\n- Tilføjet en funktion til at udtrække filnavne i Mit bibliotek som json eller csv.\n- Tilføjet My Library-komprimeringsfunktion.\n- Tilføjet mappeomslagsbilledfunktion."
   },
   "독일어": {
     "key": "de",
-    "devnote": "- Die TTS-Export-MP3-Funktion wurde geändert.\n  * Beim Extrahieren von TXT-Dateien wurden TTS-Verzögerungseinstellungen angewendet.\n  * Funktion zum Konvertieren von Bildern und PDF in MP3 hinzugefügt."
+    "devnote": "- Die Struktur wurde geändert, um die Anpassung aller Verknüpfungssymbole zu ermöglichen.\n- Uhr-, Batterie- und Auto-Scroll-Funktionen für Verknüpfungssymbole hinzugefügt.\n- TTS A-B-Wiederholungs- und Sprungfunktionen hinzugefügt.\n- Lesezeichen-TTS-Wiedergabefunktion hinzugefügt.\n– Funktion zum Extrahieren von Dateinamen in „Meine Bibliothek“ als JSON oder CSV hinzugefügt.\n- Komprimierungsfunktion „Meine Bibliothek“ hinzugefügt.\n- Funktion für Ordner-Coverbilder hinzugefügt."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "- ຟັງຊັນ MP3 ສົ່ງອອກ TTS ໄດ້ຖືກດັດແກ້.\n  * ການ​ຕັ້ງ​ຄ່າ​ການ​ຊັກ​ຊ້າ TTS ໄດ້​ຖືກ​ນໍາ​ໃຊ້​ໃນ​ເວ​ລາ​ທີ່​ການ​ສະ​ກັດ​ໄຟລ​໌ txt​.\n  * ເພີ່ມຟັງຊັນເພື່ອປ່ຽນຮູບພາບແລະ pdf ເປັນ mp3."
+    "devnote": "- ປ່ຽນໂຄງສ້າງເພື່ອອະນຸຍາດໃຫ້ປັບແຕ່ງໄອຄອນທາງລັດທັງໝົດ.\n- ເພີ່ມໂມງ, ແບັດເຕີຣີ, ແລະຟັງຊັນເລື່ອນອັດຕະໂນມັດສຳລັບໄອຄອນທາງລັດ.\n- ເພີ່ມ TTS A-B ເຮັດເລື້ມຄືນແລະຂ້າມຫນ້າທີ່.\n- ເພີ່ມ​ການ​ທໍາ​ງານ​ການ​ຫຼິ້ນ TTS bookmark​.\n- ເພີ່ມຟັງຊັນເພື່ອສະກັດຊື່ໄຟລ໌ໃນຫ້ອງສະຫມຸດຂອງຂ້ອຍເປັນ json ຫຼື csv.\n- ເພີ່ມຟັງຊັນບີບອັດຫ້ອງສະໝຸດຂອງຂ້ອຍ.\n- ເພີ່ມ​ການ​ທໍາ​ງານ​ຮູບ​ພາບ​ການ​ປົກ​ຫຸ້ມ​ຂອງ​ໂຟນ​ເດີ​."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "- TTS eksporta MP3 funkcija ir pārveidota.\n  * Izvelkot txt failus, tika piemēroti TTS aizkaves iestatījumi.\n  * Pievienota funkcija attēlu un pdf konvertēšanai uz mp3."
+    "devnote": "- Mainīta struktūra, lai ļautu pielāgot visas īsceļu ikonas.\n- Pievienotas pulksteņa, akumulatora un automātiskās ritināšanas funkcijas īsceļu ikonām.\n- Pievienotas TTS A-B atkārtošanas un izlaišanas funkcijas.\n- Pievienota grāmatzīmju TTS atskaņošanas funkcija.\n- Pievienota funkcija failu nosaukumu izvilkšanai no manas bibliotēkas kā JSON vai csv.\n- Pievienota My Library saspiešanas funkcija.\n- Pievienota mapes vāka attēla funkcija."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "- Изменена функция экспорта MP3 TTS.\n  * Настройки задержки TTS применяются при извлечении текстовых файлов.\n  * Добавлена ​​функция конвертации изображений и pdf в mp3."
+    "devnote": "- Изменена структура, позволяющая настраивать все значки ярлыков.\n- Добавлены функции часов, батареи и автоматической прокрутки для значков ярлыков.\n- Добавлены функции повтора и пропуска TTS A-B.\n- Добавлена ​​функция воспроизведения TTS закладок.\n— Добавлена ​​функция извлечения имен файлов в «Моей библиотеке» в формате JSON или CSV.\n- Добавлена ​​функция сжатия «Моя библиотека».\n- Добавлена ​​функция изображения обложки папки."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "- Funcția de export MP3 TTS a fost modificată.\n  * Setările de întârziere TTS au fost aplicate la extragerea fișierelor txt.\n  * S-a adăugat o funcție pentru a converti imagini și pdf în mp3."
+    "devnote": "- S-a schimbat structura pentru a permite personalizarea tuturor pictogramelor de comenzi rapide.\n- S-au adăugat funcții de ceas, baterie și defilare automată pentru pictogramele de comenzi rapide.\n- S-au adăugat funcții de repetare și omitere TTS A-B.\n- S-a adăugat funcția de redare TTS a marcajului.\n- S-a adăugat o funcție pentru a extrage numele fișierelor din Biblioteca mea ca json sau csv.\n- S-a adăugat funcția de compresie My Library.\n- A fost adăugată funcția de imagine de copertă a folderului."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "- TTS eksporto MP3 funkcija buvo pakeista.\n  * Išskleidžiant txt failus buvo pritaikyti TTS delsos nustatymai.\n  * Pridėta funkcija konvertuoti vaizdus ir pdf į mp3."
+    "devnote": "- Pakeista struktūra, kad būtų galima tinkinti visas nuorodų piktogramas.\n- Pridėtos nuorodų piktogramų laikrodžio, baterijos ir automatinio slinkimo funkcijos.\n- Pridėtos TTS A-B kartojimo ir praleidimo funkcijos.\n- Pridėta žymių TTS atkūrimo funkcija.\n- Pridėta funkcija, skirta failų pavadinimams ištraukti iš Mano bibliotekos kaip json arba csv.\n- Pridėta Mano bibliotekos glaudinimo funkcija.\n- Pridėta aplanko viršelio vaizdo funkcija."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "- TTS निर्यात MP3 फंक्शन सुधारित केले आहे.\n  * txt फाइल्स काढताना TTS विलंब सेटिंग्ज लागू केल्या आहेत.\n  * प्रतिमा आणि पीडीएफ mp3 मध्ये रूपांतरित करण्यासाठी फंक्शन जोडले."
+    "devnote": "- सर्व शॉर्टकट चिन्हांना सानुकूलित करण्याची परवानगी देण्यासाठी रचना बदलली.\n- शॉर्टकट चिन्हांसाठी घड्याळ, बॅटरी आणि स्वयं-स्क्रोल कार्ये जोडली.\n- TTS A-B रिपीट आणि स्किप फंक्शन्स जोडले.\n- बुकमार्क टीटीएस प्लेबॅक फंक्शन जोडले.\n- माय लायब्ररीमध्ये json किंवा csv म्हणून फाईलची नावे काढण्यासाठी फंक्शन जोडले.\n- माय लायब्ररी कॉम्प्रेशन फंक्शन जोडले.\n- फोल्डर कव्हर इमेज फंक्शन जोडले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "- Функцијата за извоз на TTS MP3 е изменета.\n  * При вадење на txt датотеки се применети поставките за одложување на TTS.\n  * Додадена е функција за конвертирање на слики и pdf во mp3."
+    "devnote": "- Ја смени структурата за да овозможи прилагодување на сите икони за кратенки.\n- Додадени функции за часовник, батерија и автоматско лизгање за иконите за кратенки.\n- Додадени се функциите за повторување и прескокнување на TTS A-B.\n- Додадена е функција за репродукција на TTS обележувачи.\n- Додадена е функција за извлекување имиња на датотеки во Моја библиотека како json или csv.\n- Додадена е функцијата за компресија на Мојата библиотека.\n- Додадена е функција за слика на капакот на папката."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "- TTS കയറ്റുമതി MP3 ഫംഗ്‌ഷൻ പരിഷ്‌ക്കരിച്ചു.\n  * txt ഫയലുകൾ എക്‌സ്‌ട്രാക്‌റ്റുചെയ്യുമ്പോൾ TTS കാലതാമസം ക്രമീകരണങ്ങൾ പ്രയോഗിച്ചു.\n  * ചിത്രങ്ങളും പിഡിഎഫും mp3 ലേക്ക് പരിവർത്തനം ചെയ്യാൻ ഒരു ഫംഗ്ഷൻ ചേർത്തു."
+    "devnote": "- എല്ലാ കുറുക്കുവഴി ഐക്കണുകളുടെയും ഇഷ്‌ടാനുസൃതമാക്കൽ അനുവദിക്കുന്നതിന് ഘടന മാറ്റി.\n- കുറുക്കുവഴി ഐക്കണുകൾക്കായി ക്ലോക്ക്, ബാറ്ററി, യാന്ത്രിക സ്ക്രോൾ ഫംഗ്ഷനുകൾ എന്നിവ ചേർത്തു.\n- TTS A-B ആവർത്തനവും ഒഴിവാക്കലും പ്രവർത്തനങ്ങൾ ചേർത്തു.\n- ബുക്ക്മാർക്ക് TTS പ്ലേബാക്ക് ഫംഗ്ഷൻ ചേർത്തു.\n- എൻ്റെ ലൈബ്രറിയിൽ json അല്ലെങ്കിൽ csv ആയി ഫയൽ നാമങ്ങൾ എക്‌സ്‌ട്രാക്‌റ്റുചെയ്യുന്നതിന് ഒരു ഫംഗ്‌ഷൻ ചേർത്തു.\n- എൻ്റെ ലൈബ്രറി കംപ്രഷൻ പ്രവർത്തനം ചേർത്തു.\n- ഫോൾഡർ കവർ ഇമേജ് ഫംഗ്‌ഷൻ ചേർത്തു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "- Fungsi MP3 eksport TTS telah diubah suai.\n  * Tetapan kelewatan TTS telah digunakan semasa mengekstrak fail txt.\n  * Menambah fungsi untuk menukar imej dan pdf kepada mp3."
+    "devnote": "- Mengubah struktur untuk membenarkan penyesuaian semua ikon pintasan.\n- Menambah fungsi jam, bateri dan tatal automatik untuk ikon pintasan.\n- Menambah fungsi ulangan dan langkau TTS A-B.\n- Menambah fungsi main balik TTS penanda buku.\n- Menambah fungsi untuk mengekstrak nama fail dalam Pustaka Saya sebagai json atau csv.\n- Menambah fungsi pemampatan Pustaka Saya.\n- Menambah fungsi imej penutup folder."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "- TTS экспортын MP3 функц өөрчлөгдсөн.\n  * txt файлыг задлах үед TTS саатлын тохиргоог ашигласан.\n  * Зураг болон pdf файлыг mp3 болгон хөрвүүлэх функц нэмэгдсэн."
+    "devnote": "- Бүх товчлолын дүрсийг өөрчлөх боломжийг олгохын тулд бүтцийг өөрчилсөн.\n- Товчлолын дүрсэнд цаг, батарей, автомат гүйлгэх функцийг нэмсэн.\n- TTS A-B давтах, алгасах функцүүдийг нэмсэн.\n- Хавчуурга TTS тоглуулах функцийг нэмсэн.\n- Миний номын сан дахь файлын нэрийг json эсвэл csv хэлбэрээр задлах функц нэмэгдсэн.\n- Миний номын сангийн шахалтын функцийг нэмсэн.\n- Хавтасны хавтасны зургийн функцийг нэмсэн."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "- TTS esportazio MP3 funtzioa aldatu da.\n  * TTS atzerapen ezarpenak aplikatu dira txt fitxategiak erauztean.\n  * Irudiak eta pdfak mp3 bihurtzeko funtzio bat gehitu da."
+    "devnote": "- Egitura aldatu da lasterbideen ikono guztiak pertsonalizatzeko.\n- Lasterbideen ikonoetarako erloju, bateria eta korritze automatikoko funtzioak gehitu dira.\n- TTS A-B errepikatu eta saltatzeko funtzioak gehitu dira.\n- Laster-markak TTS erreproduzitzeko funtzioa gehitu da.\n- Nire liburutegian fitxategi-izenak json edo csv gisa ateratzeko funtzio bat gehitu da.\n- Nire liburutegia konpresio funtzioa gehitu da.\n- Karpetaren azaleko irudiaren funtzioa gehitu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "- TTS ပို့ကုန် MP3 လုပ်ဆောင်ချက်ကို ပြင်ဆင်ပြီးဖြစ်သည်။\n  * txt ဖိုင်များကို ထုတ်ယူသည့်အခါ TTS နှောင့်နှေးမှု ဆက်တင်များကို အသုံးပြုထားသည်။\n  * ပုံများနှင့် pdf ကို mp3 သို့ပြောင်းရန် လုပ်ဆောင်ချက်တစ်ခု ထပ်ထည့်ထားသည်။"
+    "devnote": "- ဖြတ်လမ်းအိုင်ကွန်အားလုံးကို စိတ်ကြိုက်ပြင်ဆင်ခွင့်ပြုရန် ဖွဲ့စည်းပုံကို ပြောင်းလဲခဲ့သည်။\n- ဖြတ်လမ်းအိုင်ကွန်များအတွက် နာရီ၊ ဘက်ထရီနှင့် အလိုအလျောက် scroll လုပ်ဆောင်ချက်များကို ထည့်သွင်းထားသည်။\n- TTS A-B ကိုထပ်ထည့်ပြီး လုပ်ဆောင်ချက်များကို ကျော်ပါ။\n- စာညှပ် TTS ဖွင့်ခြင်း လုပ်ဆောင်ချက်ကို ထည့်သွင်းထားသည်။\n- ကျွန်ုပ်၏စာကြည့်တိုက်ရှိ ဖိုင်အမည်များကို json သို့မဟုတ် csv အဖြစ် ထုတ်ယူရန် လုပ်ဆောင်ချက်ကို ထည့်သွင်းထားသည်။\n- ကျွန်ုပ်၏စာကြည့်တိုက်ချုံ့ခြင်းလုပ်ဆောင်ချက်ကို ထည့်သွင်းခဲ့သည်။\n- ဖိုင်တွဲအဖုံးရုပ်ပုံလုပ်ဆောင်ချက်ကိုထည့်သွင်းထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "- Chức năng xuất MP3 TTS đã được sửa đổi.\n  * Cài đặt độ trễ TTS đã được áp dụng khi giải nén tệp txt.\n  * Đã thêm chức năng chuyển đổi hình ảnh và pdf sang mp3."
+    "devnote": "- Thay đổi cấu trúc cho phép tùy chỉnh tất cả các biểu tượng phím tắt.\n- Đã thêm chức năng đồng hồ, pin và tự động cuộn cho các biểu tượng phím tắt.\n- Đã thêm chức năng lặp lại và bỏ qua TTS A-B.\n- Đã thêm chức năng phát lại dấu trang TTS.\n- Đã thêm chức năng trích xuất tên tệp trong Thư viện của tôi dưới dạng json hoặc csv.\n- Đã thêm chức năng nén Thư viện của tôi.\n- Thêm chức năng ảnh bìa thư mục."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "- Функцыя TTS экспарт MP3 была зменена.\n  * Налады затрымкі TTS былі ўжытыя пры распакаванні файлаў txt.\n  * Дададзена функцыя пераўтварэння малюнкаў і pdf ў mp3."
+    "devnote": "- Зменена структура, каб дазволіць наладзіць усе значкі хуткага доступу.\n- Дададзены гадзіны, батарэя і функцыі аўтаматычнай пракруткі для значкоў хуткага доступу.\n- Дададзены функцыі паўтору і пропуску TTS A-B.\n- Дададзена функцыя прайгравання TTS з закладкамі.\n- Дададзена функцыя для здабывання імёнаў файлаў у Маёй бібліятэцы ў выглядзе json або csv.\n- Дададзена функцыя сціску My Library.\n- Дададзена функцыя выявы вокладкі папкі."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "- TTS রপ্তানি MP3 ফাংশন পরিবর্তন করা হয়েছে.\n  * txt ফাইলগুলি বের করার সময় TTS বিলম্ব সেটিংস প্রয়োগ করা হয়েছে।\n  * ইমেজ এবং পিডিএফকে mp3 তে রূপান্তর করতে একটি ফাংশন যোগ করা হয়েছে।"
+    "devnote": "- সমস্ত শর্টকাট আইকন কাস্টমাইজ করার অনুমতি দেওয়ার জন্য কাঠামো পরিবর্তন করা হয়েছে।\n- শর্টকাট আইকনগুলির জন্য ঘড়ি, ব্যাটারি এবং অটো-স্ক্রোল ফাংশন যোগ করা হয়েছে।\n- যোগ করা হয়েছে TTS A-B পুনরাবৃত্তি এবং ফাংশন বাদ দিন।\n- বুকমার্ক TTS প্লেব্যাক ফাংশন যোগ করা হয়েছে.\n- আমার লাইব্রেরিতে json বা csv হিসাবে ফাইলের নাম বের করার জন্য একটি ফাংশন যোগ করা হয়েছে।\n- আমার লাইব্রেরি কম্প্রেশন ফাংশন যোগ করা হয়েছে।\n- ফোল্ডার কভার ইমেজ ফাংশন যোগ করা হয়েছে."
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "- TTS експортиране на MP3 функция е променена.\n  * Настройките за забавяне на TTS са приложени при извличане на txt файлове.\n  * Добавена е функция за конвертиране на изображения и pdf в mp3."
+    "devnote": "- Променена е структурата, за да позволи персонализиране на всички икони за бърз достъп.\n- Добавени функции за часовник, батерия и автоматично превъртане за икони за бърз достъп.\n- Добавени функции за повторение и пропускане на TTS A-B.\n- Добавена функция за възпроизвеждане на TTS отметка.\n- Добавена е функция за извличане на имена на файлове в My Library като json или csv.\n- Добавена функция за компресиране на My Library.\n- Добавена функция за изображение на корицата на папката."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "- ТТС експорт МП3 функција је измењена.\n  * Подешавања одлагања ТТС-а су примењена приликом издвајања ткт датотека.\n  * Додата функција за претварање слика и пдф-а у мп3."
+    "devnote": "- Промењена структура да би се омогућило прилагођавање свих икона пречица.\n- Додате функције сата, батерије и аутоматског померања за иконе пречица.\n- Додате функције понављања и прескакања ТТС А-Б.\n- Додата функција ТТС репродукције обележивача.\n- Додата је функција за издвајање имена датотека у Моју библиотеку као јсон или цсв.\n- Додата функција компресије Моје библиотеке.\n- Додата функција слике насловнице фасцикле."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "- Chaguo za kukokotoa za MP3 za TTS zimebadilishwa.\n  * Mipangilio ya kuchelewa kwa TTS imetumika wakati wa kutoa faili za txt.\n  * Aliongeza kazi ya kubadilisha picha na pdf kwa mp3."
+    "devnote": "- Ilibadilisha muundo ili kuruhusu ubinafsishaji wa ikoni zote za njia za mkato.\n- Saa iliyoongezwa, betri, na vitendaji vya kusogeza kiotomatiki kwa ikoni za njia za mkato.\n- Imeongeza TTS A-B kurudia na kuruka kazi.\n- Imeongeza kazi ya uchezaji ya alamisho ya TTS.\n- Imeongeza kazi ya kutoa majina ya faili kwenye Maktaba Yangu kama json au csv.\n- Aliongeza Maktaba yangu compression kazi.\n- Aliongeza folda cover picha kazi."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "- TTS export MP3-funktionen har ändrats.\n  * TTS-fördröjningsinställningar har tillämpats vid extrahering av txt-filer.\n  * Lade till en funktion för att konvertera bilder och pdf till mp3."
+    "devnote": "- Ändrade strukturen för att tillåta anpassning av alla genvägsikoner.\n- Lade till klocka, batteri och automatisk rullning för genvägsikoner.\n- Lade till TTS A-B repetition och hoppa över funktioner.\n- Lagt till bokmärkes-TTS-uppspelningsfunktion.\n- Lade till en funktion för att extrahera filnamn i Mitt bibliotek som json eller csv.\n- Lagt till My Library-komprimeringsfunktion.\n- Tillagd mappomslagsbildsfunktion."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "- Se ha modificado la función de exportación TTS de MP3.\n  * Se han aplicado configuraciones de retraso TTS al extraer archivos txt.\n  * Se agregó una función para convertir imágenes y pdf a mp3."
+    "devnote": "- Se cambió la estructura para permitir la personalización de todos los íconos de acceso directo.\n- Se agregaron funciones de reloj, batería y desplazamiento automático para íconos de acceso directo.\n- Se agregaron funciones de repetición y salto TTS A-B.\n- Se agregó la función de reproducción TTS de marcadores.\n- Se agregó una función para extraer nombres de archivos en Mi biblioteca como json o csv.\n- Se agregó la función de compresión Mi biblioteca.\n- Se agregó la función de imagen de portada de carpeta."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "- Funkcia exportu TTS do MP3 bola upravená.\n  * Nastavenia oneskorenia TTS boli použité pri extrakcii súborov txt.\n  * Pridaná funkcia na prevod obrázkov a pdf do mp3."
+    "devnote": "- Zmenená štruktúra, ktorá umožňuje prispôsobenie všetkých ikon skratiek.\n- Pridané funkcie hodín, batérie a automatického posúvania pre ikony skratiek.\n- Pridané funkcie opakovania a preskočenia TTS A-B.\n- Pridaná funkcia prehrávania TTS záložiek.\n- Pridaná funkcia na extrahovanie názvov súborov v Mojej knižnici ako json alebo csv.\n- Pridaná funkcia kompresie My Library.\n- Pridaná funkcia obrázka obalu priečinka."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "- Funkcija izvoza TTS MP3 je bila spremenjena.\n  * Nastavitve zakasnitve TTS so bile uporabljene pri ekstrahiranju txt datotek.\n  * Dodana funkcija za pretvorbo slik in pdf v mp3."
+    "devnote": "- Spremenjena struktura, ki omogoča prilagajanje vseh ikon bližnjic.\n- Dodana ura, baterija in funkcije samodejnega pomikanja za ikone bližnjic.\n- Dodane funkcije ponovitve in preskoka TTS A-B.\n- Dodana funkcija predvajanja TTS zaznamka.\n- Dodana funkcija za ekstrahiranje imen datotek v Moji knjižnici kot json ali csv.\n- Dodana funkcija stiskanja My Library.\n- Dodana funkcija slike naslovnice mape."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "- TTS අපනයන MP3 කාර්යය වෙනස් කර ඇත.\n  * txt ගොනු උපුටා ගැනීමේදී TTS ප්‍රමාද සැකසුම් යොදවා ඇත.\n  * පින්තූර සහ pdf mp3 බවට පරිවර්තනය කිරීමට ශ්‍රිතයක් එක් කරන ලදී."
+    "devnote": "- සියලුම කෙටිමං අයිකන අභිරුචිකරණය කිරීමට ඉඩ දීම සඳහා ව්‍යුහය වෙනස් කරන ලදී.\n- කෙටිමං අයිකන සඳහා ඔරලෝසුව, බැටරිය සහ ස්වයංක්‍රීය අනුචලන කාර්යයන් එකතු කරන ලදී.\n- TTS A-B පුනරාවර්තනය සහ මඟ හැරීමේ කාර්යයන් එකතු කරන ලදි.\n- පිටු සලකුණු TTS නැවත ධාවනය කිරීමේ කාර්යය එක් කරන ලදී.\n- මගේ පුස්තකාලයේ ගොනු නාම json හෝ csv ලෙස උපුටා ගැනීමට ශ්‍රිතයක් එක් කරන ලදී.\n- My Library සම්පීඩන කාර්යය එක් කරන ලදී.\n- ෆෝල්ඩර ආවරණ රූප ශ්‍රිතය එක් කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "- تم تعديل وظيفة تصدير MP3 لتحويل النص إلى كلام.\n  * تم تطبيق إعدادات تأخير TTS عند استخراج ملفات txt.\n  * أضيفت وظيفة لتحويل الصور وملف pdf إلى mp3."
+    "devnote": "- تم تغيير البنية للسماح بتخصيص جميع أيقونات الاختصارات.\n- تمت إضافة وظائف الساعة والبطارية والتمرير التلقائي لأيقونات الاختصارات.\n- تمت إضافة وظائف تكرار وتخطي TTS AB.\n- تمت إضافة وظيفة تشغيل TTS للإشارة المرجعية.\n- تمت إضافة وظيفة لاستخراج أسماء الملفات في مكتبتي مثل json أو csv.\n- تمت إضافة وظيفة ضغط مكتبتي.\n- أضيفت وظيفة صورة غلاف المجلد."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "- TTS արտահանման MP3 գործառույթը փոփոխվել է:\n  * TTS-ի հետաձգման կարգավորումները կիրառվել են txt ֆայլեր հանելիս:\n  * Ավելացրել է գործառույթ՝ պատկերները և pdf-ը mp3-ի փոխարկելու համար:"
+    "devnote": "- Փոխեց կառուցվածքը, որպեսզի թույլ տա հարմարեցնել բոլոր դյուրանցումների պատկերակները:\n- Ավելացվեց ժամացույցի, մարտկոցի և ավտոմատ ոլորման գործառույթներ դյուրանցումների պատկերակների համար:\n- Ավելացվեց TTS A-B կրկնելու և բաց թողնելու գործառույթները:\n- Ավելացվեց էջանիշ TTS նվագարկման գործառույթ:\n- Ավելացրել է ֆունկցիա իմ գրադարանում ֆայլերի անունները json կամ csv հանելու համար:\n- Ավելացվեց Իմ գրադարանի սեղմման գործառույթը:\n- Ավելացվեց թղթապանակի կափարիչի պատկերի գործառույթը:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "- TTS útflutnings MP3 aðgerð hefur verið breytt.\n  * TTS seinkun stillingum hefur verið beitt þegar txt skrár eru teknar út.\n  * Bætti við aðgerð til að umbreyta myndum og pdf í mp3."
+    "devnote": "- Breytti uppbyggingu til að leyfa aðlögun allra flýtileiðatákna.\n- Bætt við klukku, rafhlöðu og sjálfvirka skrunaðgerð fyrir flýtileiðartákn.\n- Bætt við TTS A-B endurtekningar- og sleppaaðgerðum.\n- Bætt við bókamerki TTS spilunaraðgerð.\n- Bætti við aðgerð til að draga út skráarnöfn í bókasafninu mínu sem json eða csv.\n- Bætti við My Library þjöppunaraðgerðinni.\n- Bætt við myndaðgerð fyrir möppuhlíf."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "- TTS ixrac MP3 funksiyası dəyişdirildi.\n  * Txt faylları çıxararkən TTS gecikmə parametrləri tətbiq edilmişdir.\n  * Şəkilləri və pdf formatını mp3 formatına çevirmək funksiyası əlavə edilib."
+    "devnote": "- Bütün qısayol nişanlarının fərdiləşdirilməsinə imkan vermək üçün struktur dəyişdi.\n- Qısayol nişanları üçün saat, batareya və avtomatik sürüşdürmə funksiyaları əlavə edildi.\n- TTS A-B təkrar və atlama funksiyaları əlavə edildi.\n- Əlfəcin TTS oxutma funksiyası əlavə edildi.\n- Kitabxanamdakı fayl adlarını json və ya csv kimi çıxarmaq funksiyası əlavə edildi.\n- Kitabxanamın sıxılma funksiyası əlavə edildi.\n- Qovluq qapağı şəkli funksiyası əlavə edildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "- TTS uitvoer MP3 funksie is gewysig.\n  * TTS-vertraginginstellings is toegepas wanneer txt-lêers onttrek word.\n  * Bygevoeg 'n funksie om beelde en pdf om te skakel na mp3."
+    "devnote": "- Verander die struktuur om aanpassing van alle kortpad-ikone moontlik te maak.\n- Bygevoeg horlosie-, battery- en outomatiese blaai-funksies vir kortpad-ikone.\n- Bygevoeg TTS A-B herhaal en slaan funksies.\n- Bygevoeg boekmerk TTS afspeel funksie.\n- Het 'n funksie bygevoeg om lêername in My Biblioteek te onttrek as json of csv.\n- Bygevoeg My Biblioteek kompressie funksie.\n- Bygevoeg vouer omslag beeld funksie."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "- Funksioni MP3 i eksportit TTS është modifikuar.\n  * Cilësimet e vonesës së TTS janë aplikuar gjatë nxjerrjes së skedarëve txt.\n  * U shtua një funksion për të kthyer imazhet dhe pdf në mp3."
+    "devnote": "- Ndryshoi strukturën për të lejuar personalizimin e të gjitha ikonave të shkurtoreve.\n- U shtuan funksionet e orës, baterisë dhe lëvizjes automatike për ikonat e shkurtoreve.\n- U shtuan funksionet e përsëritjes dhe kapërcimit TTS A-B.\n- U shtua funksioni i riprodhimit të faqerojtësve TTS.\n- Shtoi një funksion për nxjerrjen e emrave të skedarëve në Biblioteka ime si json ose csv.\n- U shtua funksioni i kompresimit të Bibliotekës ime.\n- U shtua funksioni i imazhit të kapakut të dosjes."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "- TTS ወደ ውጪ መላክ MP3 ተግባር ተስተካክሏል.\n  txt ፋይሎችን በሚወጣበት ጊዜ የTTS መዘግየት ቅንጅቶች ተተግብረዋል።\n  * ምስሎችን እና ፒዲኤፍ ወደ mp3 ለመቀየር ተግባር ታክሏል።"
+    "devnote": "- የሁሉንም አቋራጭ አዶዎች ማበጀት ለመፍቀድ አወቃቀሩን ለውጧል።\n- ለአቋራጭ አዶዎች የተጨመረ ሰዓት፣ ባትሪ እና ራስ-ማሸብለል ተግባራት።\n- ታክሏል TTS A-B ድገም እና ተግባራትን ዝለል።\n- ታክሏል ዕልባት TTS መልሶ ማጫወት ተግባር.\n- በእኔ ቤተ-መጽሐፍት ውስጥ የፋይል ስሞችን እንደ json ወይም csv ለማውጣት ተግባር ታክሏል።\n- ታክሏል የእኔ ላይብረሪ መጭመቂያ ተግባር.\n- የታከለ የአቃፊ ሽፋን ምስል ተግባር።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "- TTS ekspordi MP3 funktsiooni on muudetud.\n  * TTS-i viivituse sätteid on rakendatud txt-failide ekstraktimisel.\n  * Lisatud funktsioon piltide ja pdf-i teisendamiseks mp3-ks."
+    "devnote": "- Muutis struktuuri, et võimaldada kohandada kõiki otseteeikoone.\n- Lisatud kella, aku ja automaatse kerimise funktsioonid otseteeikoonidele.\n- Lisatud TTS A-B kordus- ja vahelejätmise funktsioonid.\n- Lisatud järjehoidja TTS taasesitusfunktsioon.\n- Lisatud on funktsioon failinimede ekstraktimiseks jaotisest Minu raamatukogu JSON- või csv-vormingus.\n- Lisatud Minu raamatukogu tihendamise funktsioon.\n- Lisatud kausta kaanepildi funktsioon."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "- TTS ایکسپورٹ MP3 فنکشن میں ترمیم کی گئی ہے۔\n  * txt فائلوں کو نکالتے وقت TTS تاخیر کی ترتیبات کو لاگو کیا گیا ہے۔\n  * تصاویر اور پی ڈی ایف کو mp3 میں تبدیل کرنے کے لیے ایک فنکشن شامل کیا گیا۔"
+    "devnote": "- تمام شارٹ کٹ شبیہیں کی تخصیص کی اجازت دینے کے لیے ڈھانچہ تبدیل کر دیا گیا۔\n- شارٹ کٹ آئیکنز کے لیے گھڑی، بیٹری، اور آٹو اسکرول فنکشنز شامل کیے گئے۔\n- TTS A-B کو دہرائیں اور فنکشنز کو چھوڑ دیں۔\n- بک مارک ٹی ٹی ایس پلے بیک فنکشن شامل کیا گیا۔\n- میری لائبریری میں json یا csv کے بطور فائل نام نکالنے کے لیے ایک فنکشن شامل کیا گیا۔\n- میری لائبریری کمپریشن فنکشن کو شامل کیا گیا۔\n- فولڈر کور امیج فنکشن شامل کیا گیا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "— Змінено функцію експорту TTS MP3.\n  * Параметри затримки TTS були застосовані під час видобування текстових файлів.\n  * Додано функцію конвертації зображень і pdf в mp3."
+    "devnote": "— Змінено структуру, щоб дозволити налаштування всіх піктограм швидкого доступу.\n— Додано функції годинника, акумулятора та автоматичного прокручування для піктограм швидкого доступу.\n— Додано функції повторення та пропуску TTS A-B.\n— Додана функція відтворення TTS із закладками.\n— Додано функцію видобування імен файлів у «Моїй бібліотеці» як json або csv.\n— Додано функцію стиснення My Library.\n— Додано функцію зображення обкладинки папки."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "- La funzione di esportazione MP3 TTS è stata modificata.\n  * Le impostazioni di ritardo TTS sono state applicate durante l'estrazione di file txt.\n  * Aggiunta una funzione per convertire immagini e pdf in mp3."
+    "devnote": "- Modificata la struttura per consentire la personalizzazione di tutte le icone di collegamento.\n- Aggiunte funzioni orologio, batteria e scorrimento automatico per le icone di scelta rapida.\n- Aggiunte funzioni di ripetizione e salto TTS A-B.\n- Aggiunta la funzione di riproduzione TTS dei segnalibri.\n- Aggiunta una funzione per estrarre i nomi dei file nella Mia Libreria come json o csv.\n- Aggiunta la funzione di compressione La mia libreria.\n- Aggiunta la funzione immagine di copertina della cartella."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "- Fungsi TTS ekspor MP3 telah dimodifikasi.\n  * Pengaturan penundaan TTS telah diterapkan saat mengekstrak file txt.\n  * Menambahkan fungsi untuk mengkonversi gambar dan pdf ke mp3."
+    "devnote": "- Mengubah struktur untuk memungkinkan penyesuaian semua ikon pintasan.\n- Menambahkan fungsi jam, baterai, dan gulir otomatis untuk ikon pintasan.\n- Menambahkan fungsi ulangi dan lewati TTS A-B.\n- Menambahkan fungsi pemutaran TTS bookmark.\n- Menambahkan fungsi untuk mengekstrak nama file di Perpustakaan Saya sebagai json atau csv.\n- Menambahkan fungsi kompresi Perpustakaan Saya.\n- Menambahkan fungsi gambar sampul folder."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "- TTS エクスポート MP3 機能が修正されました。\n  ※txtファイル抽出時にTTS遅延設定が適用されています。\n  ※画像とpdfをmp3に変換する機能を追加しました。"
+    "devnote": "- すべてのショートカット アイコンをカスタマイズできるように構造を変更しました。\n- ショートカットアイコンに時計、バッテリー、自動スクロール機能を追加しました。\n- TTS A-Bリピートおよびスキップ機能を追加しました。\n- ブックマークTTS再生機能を追加しました。\n- マイライブラリ内のファイル名をjsonまたはcsvとして抽出する機能を追加しました。\n- マイライブラリ圧縮機能を追加しました。\n- フォルダーの表紙画像機能を追加しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "- TTS ექსპორტის MP3 ფუნქცია შეიცვალა.\n  * TTS დაყოვნების პარამეტრები გამოყენებულია txt ფაილების ამოღებისას.\n  * დამატებულია ფუნქცია სურათების და pdf-ის mp3-ში გადასაყვანად."
+    "devnote": "- შეცვალა სტრუქტურა, რათა დაუშვას ყველა მალსახმობის ხატის პერსონალიზაცია.\n- დაემატა საათის, ბატარეის და ავტომატური გადახვევის ფუნქციები მალსახმობების ხატებისთვის.\n- დამატებულია TTS A-B გამეორების და გამოტოვების ფუნქციები.\n- დამატებულია სანიშნე TTS დაკვრის ფუნქცია.\n- დაემატა ფუნქცია ფაილების სახელების ამოსაღებად My Library როგორც json ან csv.\n- დაემატა ჩემი ბიბლიოთეკის შეკუმშვის ფუნქცია.\n- დამატებულია საქაღალდის საფარის გამოსახულების ფუნქცია."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "- Umsebenzi we-TTS wokuthekelisa we-MP3 ushintshiwe.\n  * Izilungiselelo zokulibaziseka ze-TTS zisetshenzisiwe lapho kukhishwa amafayela e-txt.\n  * Kwengezwe umsebenzi wokuguqula izithombe ne-pdf zibe mp3."
+    "devnote": "- Kushintshwe isakhiwo ukuze kuvunyelwe ukwenza ngokwezifiso zonke izithonjana zezinqamuleli.\n- Iwashi elingeziwe, ibhethri, nemisebenzi yokuskrola ngokuzenzakalelayo yezithonjana zezinqamuleli.\n- Kungezwe i-TTS A-B phinda futhi weqa imisebenzi.\n- Kwengezwe umsebenzi wokudlala we-TTS webhukhimakhi.\n- Kwengezwe umsebenzi wokukhipha amagama wefayela kuMtapo Wami njenge-json noma i-csv.\n- Kwengezwe umsebenzi wami wokucindezela weLabhulali Yami.\n- Umsebenzi wesithombe sekhava yefolda engeziwe."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "- TTS导出MP3功能已修改。\n  * 提取 txt 文件时已应用 TTS 延迟设置。\n  * 添加了将图像和pdf转换为mp3的功能。"
+    "devnote": "- 更改了结构以允许自定义所有快捷方式图标。\n- 为快捷方式图标添加了时钟、电池和自动滚动功能。\n- 添加了 TTS A-B 重复和跳过功能。\n- 新增书签TTS播放功能。\n- 添加了将“我的库”中的文件名提取为 json 或 csv 的功能。\n- 添加了我的图书馆压缩功能。\n- 新增文件夹封面图片功能。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "- TTS匯出MP3功能已修改。\n  * 提取 txt 檔案時已套用 TTS 延遲設定。\n  * 新增了將影像和pdf轉換為mp3的功能。"
+    "devnote": "- 更改了結構以允許自訂所有快捷方式圖示。\n- 為快捷方式圖示新增了時鐘、電池和自動捲動功能。\n- 新增了 TTS A-B 重複和跳過功能。\n- 新增書籤TTS播放功能。\n- 新增了將「我的庫」中的檔案名稱提取為 json 或 csv 的功能。\n- 新增了我的圖書館壓縮功能。\n- 新增資料夾封面圖片功能。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "- TTS匯出MP3功能已修改。\n  * 提取 txt 檔案時已套用 TTS 延遲設定。\n  * 新增了將影像和pdf轉換為mp3的功能。"
+    "devnote": "- 更改了結構以允許自訂所有快捷方式圖示。\n- 為快捷方式圖示新增了時鐘、電池和自動捲動功能。\n- 新增了 TTS A-B 重複和跳過功能。\n- 新增書籤TTS播放功能。\n- 新增了將「我的庫」中的檔案名稱提取為 json 或 csv 的功能。\n- 新增了我的圖書館壓縮功能。\n- 新增資料夾封面圖片功能。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "- Funkce exportu TTS MP3 byla upravena.\n  * Nastavení zpoždění TTS bylo použito při extrahování souborů txt.\n  * Přidána funkce pro převod obrázků a pdf do mp3."
+    "devnote": "- Změněna struktura umožňující přizpůsobení všech ikon zástupců.\n- Přidány funkce hodin, baterie a automatického posouvání pro ikony zástupců.\n- Přidány funkce opakování a přeskakování TTS A-B.\n- Přidána funkce přehrávání záložek TTS.\n- Přidána funkce pro extrahování názvů souborů v Moje knihovna jako json nebo csv.\n- Přidána funkce komprese Moje knihovna.\n- Přidána funkce obálky složky."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "- TTS MP3 экспорттау функциясы өзгертілді.\n  * txt файлдарын шығару кезінде TTS кідірту параметрлері қолданылды.\n  * Суреттер мен pdf форматын mp3 форматына түрлендіру функциясы қосылды."
+    "devnote": "- Барлық таңбаша белгішелерін теңшеуге мүмкіндік беру үшін құрылым өзгертілді.\n- Таңбаша белгішелері үшін сағат, батарея және автоматты айналдыру функциялары қосылды.\n- TTS A-B қайталау және өткізіп жіберу функциялары қосылды.\n- Бетбелгі TTS ойнату функциясы қосылды.\n- Менің кітапханамдағы файл атауларын json немесе csv ретінде шығару функциясы қосылды.\n- Менің кітапханамды қысу функциясы қосылды.\n- Қалта мұқабасының кескіні функциясы қосылды."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "- S'ha modificat la funció d'exportació MP3 TTS.\n  * S'ha aplicat la configuració del retard TTS en extreure fitxers txt.\n  * S'ha afegit una funció per convertir imatges i pdf a mp3."
+    "devnote": "- S'ha canviat l'estructura per permetre la personalització de totes les icones de drecera.\n- S'han afegit funcions de rellotge, bateria i desplaçament automàtic per a les icones de drecera.\n- S'han afegit funcions de repetició i salt TTS AB.\n- S'ha afegit la funció de reproducció TTS d'adreces d'interès.\n- S'ha afegit una funció per extreure noms de fitxers a La meva biblioteca com a json o csv.\n- S'ha afegit la funció de compressió La meva biblioteca.\n- S'ha afegit la funció d'imatge de la portada de la carpeta."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "- TTS ರಫ್ತು MP3 ಕಾರ್ಯವನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n  * txt ಫೈಲ್‌ಗಳನ್ನು ಹೊರತೆಗೆಯುವಾಗ TTS ವಿಳಂಬ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಅನ್ವಯಿಸಲಾಗಿದೆ.\n  * ಚಿತ್ರಗಳನ್ನು ಮತ್ತು ಪಿಡಿಎಫ್ ಅನ್ನು ಎಂಪಿ 3 ಗೆ ಪರಿವರ್ತಿಸಲು ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ."
+    "devnote": "- ಎಲ್ಲಾ ಶಾರ್ಟ್‌ಕಟ್ ಐಕಾನ್‌ಗಳ ಗ್ರಾಹಕೀಕರಣವನ್ನು ಅನುಮತಿಸಲು ರಚನೆಯನ್ನು ಬದಲಾಯಿಸಲಾಗಿದೆ.\n- ಶಾರ್ಟ್‌ಕಟ್ ಐಕಾನ್‌ಗಳಿಗಾಗಿ ಗಡಿಯಾರ, ಬ್ಯಾಟರಿ ಮತ್ತು ಸ್ವಯಂ-ಸ್ಕ್ರಾಲ್ ಕಾರ್ಯಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- TTS A-B ಪುನರಾವರ್ತನೆ ಮತ್ತು ಸ್ಕಿಪ್ ಕಾರ್ಯಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಬುಕ್ಮಾರ್ಕ್ TTS ಪ್ಲೇಬ್ಯಾಕ್ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ನನ್ನ ಲೈಬ್ರರಿಯಲ್ಲಿ ಫೈಲ್ ಹೆಸರುಗಳನ್ನು json ಅಥವಾ csv ಎಂದು ಹೊರತೆಗೆಯಲು ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ನನ್ನ ಲೈಬ್ರರಿ ಕಂಪ್ರೆಷನ್ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಫೋಲ್ಡರ್ ಕವರ್ ಇಮೇಜ್ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "- TTS eksport MP3 funkcija je modificirana.\n  * Postavke odgode TTS-a primijenjene su prilikom izdvajanja txt datoteka.\n  * Dodana funkcija za pretvaranje slika i pdf-a u mp3."
+    "devnote": "- Promijenjena je struktura kako bi se omogućila prilagodba svih ikona prečaca.\n- Dodane funkcije sata, baterije i automatskog pomicanja za ikone prečaca.\n- Dodane funkcije ponavljanja i preskakanja TTS A-B.\n- Dodana funkcija reprodukcije knjižne oznake TTS.\n- Dodana funkcija za izdvajanje naziva datoteka u My Library kao json ili csv.\n- Dodana funkcija kompresije My Library.\n- Dodana funkcija slike naslovnice mape."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "- មុខងារ MP3 នាំចេញ TTS ត្រូវបានកែប្រែ។\n  * ការកំណត់ការពន្យាពេល TTS ត្រូវបានអនុវត្តនៅពេលទាញយកឯកសារ txt ។\n  * បានបន្ថែមមុខងារមួយដើម្បីបំលែងរូបភាព និង pdf ទៅជា mp3 ។"
+    "devnote": "- បានផ្លាស់ប្តូររចនាសម្ព័ន្ធដើម្បីអនុញ្ញាតឱ្យប្ដូរតាមបំណងនៃរូបតំណាងផ្លូវកាត់ទាំងអស់។\n- បានបន្ថែមនាឡិកា ថ្ម និងមុខងាររមូរដោយស្វ័យប្រវត្តិសម្រាប់រូបតំណាងផ្លូវកាត់។\n- បានបន្ថែម TTS A-B ធ្វើម្តងទៀត និងរំលងមុខងារ។\n- បន្ថែមមុខងារចាក់សារថ្មី TTS ចំណាំ។\n- បានបន្ថែមមុខងារមួយដើម្បីស្រង់ឈ្មោះឯកសារនៅក្នុងបណ្ណាល័យរបស់ខ្ញុំជា json ឬ csv ។\n- បានបន្ថែមមុខងារបង្ហាប់បណ្ណាល័យរបស់ខ្ញុំ។\n- បានបន្ថែមមុខងាររូបភាពគម្របថត។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "- TTS экспорттук MP3 функциясы өзгөртүлдү.\n  * txt файлдарын чыгарып жатканда TTS кечиктирүү жөндөөлөрү колдонулду.\n  * Сүрөттөрдү жана pdf форматын mp3ке айландыруу функциясы кошулду."
+    "devnote": "- Бардык жарлык сөлөкөттөрүн ыңгайлаштырууга мүмкүндүк берүү үчүн структура өзгөртүлдү.\n- Жарлыктын сөлөкөттөрү үчүн саат, батарея жана автоматтык сыдыруу функциялары кошулду.\n- TTS A-B кайталоо жана өткөрүп жиберүү функциялары кошулду.\n- Кошулган кыстарма TTS ойнотуу функциясы.\n- Менин китепканамдагы файл аталыштарын json же csv катары чыгаруу функциясы кошулду.\n- Менин китепканамды кысуу функциясы кошулду.\n- Папканын мукабасынын сүрөтү функциясы кошулду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "- TTS ஏற்றுமதி MP3 செயல்பாடு மாற்றப்பட்டது.\n  * txt கோப்புகளைப் பிரித்தெடுக்கும் போது TTS தாமத அமைப்புகள் பயன்படுத்தப்பட்டன.\n  * படங்கள் மற்றும் pdf ஐ mp3 ஆக மாற்ற ஒரு செயல்பாடு சேர்க்கப்பட்டது."
+    "devnote": "- அனைத்து குறுக்குவழி ஐகான்களையும் தனிப்பயனாக்க அனுமதிக்க கட்டமைப்பை மாற்றியது.\n- குறுக்குவழி ஐகான்களுக்கான கடிகாரம், பேட்டரி மற்றும் தானாக உருட்டும் செயல்பாடுகள் சேர்க்கப்பட்டது.\n- TTS A-B ரிப்பீட் மற்றும் ஸ்கிப் செயல்பாடுகளைச் சேர்த்தது.\n- புக்மார்க் TTS பிளேபேக் செயல்பாடு சேர்க்கப்பட்டது.\n- எனது நூலகத்தில் உள்ள கோப்பு பெயர்களை json அல்லது csv என பிரித்தெடுக்க ஒரு செயல்பாடு சேர்க்கப்பட்டது.\n- எனது நூலக சுருக்க செயல்பாடு சேர்க்கப்பட்டது.\n- கோப்புறை கவர் பட செயல்பாடு சேர்க்கப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "- ฟังก์ชั่นการส่งออก MP3 TTS ได้รับการแก้ไข\n  * การตั้งค่าการหน่วงเวลา TTS ถูกนำมาใช้เมื่อแตกไฟล์ txt\n  * เพิ่มฟังก์ชั่นแปลงรูปภาพและ pdf เป็น mp3"
+    "devnote": "- เปลี่ยนโครงสร้างเพื่อให้สามารถปรับแต่งไอคอนทางลัดทั้งหมดได้\n- เพิ่มฟังก์ชั่นนาฬิกา แบตเตอรี่ และเลื่อนอัตโนมัติสำหรับไอคอนทางลัด\n- เพิ่มฟังก์ชันการทำซ้ำและข้าม TTS A-B\n- เพิ่มฟังก์ชั่นการเล่นบุ๊กมาร์ก TTS\n- เพิ่มฟังก์ชันแยกชื่อไฟล์ใน My Library เป็น json หรือ csv\n- เพิ่มฟังก์ชันการบีบอัดไลบรารีของฉัน\n- เพิ่มฟังก์ชั่นภาพปกโฟลเดอร์"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "- TTS MP3 dışa aktarma işlevi değiştirildi.\n  * Txt dosyaları çıkartılırken TTS gecikme ayarları uygulandı.\n  * Görüntüleri ve pdf'yi mp3'e dönüştürmek için bir işlev eklendi."
+    "devnote": "- Tüm kısayol simgelerinin özelleştirilmesine izin verecek şekilde yapı değiştirildi.\n- Kısayol simgeleri için saat, pil ve otomatik kaydırma işlevleri eklendi.\n- TTS A-B tekrarlama ve atlama işlevleri eklendi.\n- Yer imi TTS oynatma işlevi eklendi.\n- Kitaplığım'daki dosya adlarını json veya csv olarak çıkarmaya yönelik bir işlev eklendi.\n- Kitaplığım sıkıştırma işlevi eklendi.\n- Klasör kapak resmi işlevi eklendi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "- TTS ఎగుమతి MP3 ఫంక్షన్ సవరించబడింది.\n  * txt ఫైల్‌లను సంగ్రహిస్తున్నప్పుడు TTS ఆలస్యం సెట్టింగ్‌లు వర్తింపజేయబడ్డాయి.\n  * చిత్రాలను మరియు pdfని mp3కి మార్చడానికి ఒక ఫంక్షన్ జోడించబడింది."
+    "devnote": "- అన్ని షార్ట్‌కట్ చిహ్నాల అనుకూలీకరణను అనుమతించడానికి నిర్మాణం మార్చబడింది.\n- షార్ట్‌కట్ చిహ్నాల కోసం గడియారం, బ్యాటరీ మరియు ఆటో-స్క్రోల్ ఫంక్షన్‌లు జోడించబడ్డాయి.\n- TTS A-B రిపీట్ మరియు స్కిప్ ఫంక్షన్‌లు జోడించబడ్డాయి.\n- బుక్‌మార్క్ TTS ప్లేబ్యాక్ ఫంక్షన్ జోడించబడింది.\n- నా లైబ్రరీలో json లేదా csv వలె ఫైల్ పేర్లను సంగ్రహించడానికి ఒక ఫంక్షన్ జోడించబడింది.\n- నా లైబ్రరీ కంప్రెషన్ ఫంక్షన్ జోడించబడింది.\n- ఫోల్డర్ కవర్ ఇమేజ్ ఫంక్షన్ జోడించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "- TTS ਨਿਰਯਾਤ MP3 ਫੰਕਸ਼ਨ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ।\n  * txt ਫਾਈਲਾਂ ਨੂੰ ਐਕਸਟਰੈਕਟ ਕਰਨ ਵੇਲੇ TTS ਦੇਰੀ ਸੈਟਿੰਗਾਂ ਲਾਗੂ ਕੀਤੀਆਂ ਗਈਆਂ ਹਨ।\n  * ਚਿੱਤਰਾਂ ਅਤੇ ਪੀਡੀਐਫ ਨੂੰ mp3 ਵਿੱਚ ਬਦਲਣ ਲਈ ਇੱਕ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।"
+    "devnote": "- ਸਾਰੇ ਸ਼ਾਰਟਕੱਟ ਆਈਕਨਾਂ ਨੂੰ ਅਨੁਕੂਲਿਤ ਕਰਨ ਲਈ ਢਾਂਚਾ ਬਦਲਿਆ ਗਿਆ ਹੈ।\n- ਸ਼ਾਰਟਕੱਟ ਆਈਕਨਾਂ ਲਈ ਘੜੀ, ਬੈਟਰੀ ਅਤੇ ਆਟੋ-ਸਕ੍ਰੌਲ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤੇ ਗਏ।\n- ਜੋੜਿਆ ਗਿਆ TTS A-B ਦੁਹਰਾਓ ਅਤੇ ਫੰਕਸ਼ਨ ਛੱਡੋ।\n- ਬੁੱਕਮਾਰਕ ਟੀਟੀਐਸ ਪਲੇਬੈਕ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।\n- ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ json ਜਾਂ csv ਦੇ ਰੂਪ ਵਿੱਚ ਫਾਈਲ ਨਾਮਾਂ ਨੂੰ ਐਕਸਟਰੈਕਟ ਕਰਨ ਲਈ ਇੱਕ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।\n- ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ ਕੰਪਰੈਸ਼ਨ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।\n- ਫੋਲਡਰ ਕਵਰ ਚਿੱਤਰ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "- عملکرد MP3 صادرات TTS اصلاح شده است.\n  * تنظیمات تاخیر TTS هنگام استخراج فایل های txt اعمال شده است.\n  * اضافه شدن یک تابع برای تبدیل تصاویر و pdf به mp3."
+    "devnote": "- ساختار را تغییر داد تا امکان سفارشی سازی تمام آیکون های میانبر فراهم شود.\n- اضافه شدن ساعت، باتری و عملکردهای اسکرول خودکار برای نمادهای میانبر.\n- اضافه شدن توابع تکرار و پرش TTS A-B.\n- عملکرد پخش TTS نشانک اضافه شده است.\n- اضافه شدن یک تابع برای استخراج نام فایل ها در My Library به صورت json یا csv.\n- اضافه شدن تابع فشرده سازی کتابخانه من.\n- اضافه شدن عملکرد تصویر پوشش پوشه."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "- A função de exportação MP3 TTS foi modificada.\n  * As configurações de atraso TTS foram aplicadas ao extrair arquivos txt.\n  * Adicionada função para converter imagens e PDF para mp3."
+    "devnote": "- Alterada a estrutura para permitir a personalização de todos os ícones de atalho.\n- Adicionadas funções de relógio, bateria e rolagem automática para ícones de atalho.\n- Adicionadas funções de repetição e salto TTS AB.\n- Adicionada função de reprodução TTS de marcador.\n- Adicionada função para extrair nomes de arquivos em Minha Biblioteca como json ou csv.\n- Adicionada função de compactação Minha Biblioteca.\n- Adicionada função de imagem de capa de pasta."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "- Zmodyfikowano funkcję eksportu TTS do formatu MP3.\n  * Podczas wyodrębniania plików txt zastosowano ustawienia opóźnienia TTS.\n  * Dodano funkcję konwersji obrazów i plików PDF do formatu mp3."
+    "devnote": "- Zmieniono strukturę, aby umożliwić dostosowanie wszystkich ikon skrótów.\n- Dodano funkcje zegara, baterii i automatycznego przewijania ikon skrótów.\n- Dodano funkcje powtarzania i pomijania TTS A-B.\n- Dodano funkcję odtwarzania zakładek TTS.\n- Dodano funkcję wyodrębniania nazw plików w Mojej bibliotece jako json lub csv.\n- Dodano funkcję kompresji Mojej Biblioteki.\n- Dodano funkcję obrazu okładki folderu."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "- La fonction d'exportation MP3 TTS a été modifiée.\n  * Les paramètres de délai TTS ont été appliqués lors de l'extraction des fichiers txt.\n  * Ajout d'une fonction pour convertir des images et des pdf en mp3."
+    "devnote": "- Modification de la structure pour permettre la personnalisation de toutes les icônes de raccourci.\n- Ajout de fonctions d'horloge, de batterie et de défilement automatique pour les icônes de raccourci.\n- Ajout des fonctions de répétition et de saut TTS AB.\n- Ajout de la fonction de lecture TTS de signet.\n- Ajout d'une fonction pour extraire les noms de fichiers dans Ma bibliothèque au format json ou csv.\n- Ajout de la fonction de compression Ma bibliothèque.\n- Ajout de la fonction d'image de couverture de dossier."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "- TTS-vienti MP3 -toimintoa on muutettu.\n  * TTS-viiveasetuksia on käytetty txt-tiedostoja purettaessa.\n  * Lisätty toiminto kuvien ja pdf-tiedostojen muuntamiseksi mp3-muotoon."
+    "devnote": "- Muutettiin rakennetta, jotta kaikki pikakuvakkeet voidaan mukauttaa.\n- Lisätty kello, akku ja automaattinen vieritystoiminto pikakuvakeille.\n- Lisätty TTS A-B toisto- ja ohitustoiminnot.\n- Lisätty kirjanmerkki TTS-toistotoiminto.\n- Lisätty toiminto tiedostonimien purkamiseksi Omasta kirjastosta json- tai csv-muodossa.\n- Lisätty My Library -pakkaustoiminto.\n- Lisätty kansion kansikuvatoiminto."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "- Ang TTS export MP3 function ay binago.\n  * Nailapat ang mga setting ng pagkaantala ng TTS kapag kumukuha ng mga txt file.\n  * Nagdagdag ng isang function upang i-convert ang mga imahe at pdf sa mp3."
+    "devnote": "- Binago ang istraktura upang payagan ang pag-customize ng lahat ng mga icon ng shortcut.\n- Nagdagdag ng mga function ng orasan, baterya, at auto-scroll para sa mga icon ng shortcut.\n- Nagdagdag ng TTS A-B repeat at laktawan ang mga function.\n- Idinagdag bookmark TTS playback function.\n- Nagdagdag ng function upang kunin ang mga pangalan ng file sa My Library bilang json o csv.\n- Idinagdag ang function ng compression ng Aking Library.\n- Idinagdag ang function ng imahe ng pabalat ng folder."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "- A TTS export MP3 funkció módosult.\n  * A TTS késleltetési beállításokat alkalmazták a txt fájlok kicsomagolásakor.\n  * Hozzáadott egy funkciót a képek és a pdf mp3 formátumba konvertálásához."
+    "devnote": "- Megváltozott a szerkezet, hogy lehetővé tegye az összes parancsikon testreszabását.\n- Hozzáadott óra, akkumulátor és automatikus görgetés funkció a parancsikonokhoz.\n- Hozzáadott TTS A-B ismétlési és kihagyási funkciók.\n- Hozzáadott könyvjelző TTS lejátszási funkció.\n- Egy funkció hozzáadva a Saját könyvtár fájlneveinek json vagy csv formátumban történő kibontásához.\n- Hozzáadott My Library tömörítési funkció.\n- Mappaborító kép funkció hozzáadva."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "- פונקציית ייצוא MP3 של TTS שונתה.\n  * הגדרות השהיית TTS הוחלו בעת חילוץ קבצי txt.\n  * נוספה פונקציה להמרת תמונות ו-pdf ל-mp3."
+    "devnote": "- שינה את המבנה כדי לאפשר התאמה אישית של כל סמלי הקיצור.\n- נוספו פונקציות שעון, סוללה וגלילה אוטומטית עבור סמלי קיצור.\n- נוספו פונקציות חזרה ודילוג על TTS A-B.\n- הוספת פונקציית השמעת TTS לסימניות.\n- נוספה פונקציה לחילוץ שמות קבצים בספרייה שלי בתור json או csv.\n- נוספה פונקציית דחיסת הספרייה שלי.\n- נוספה פונקציית תמונת כיסוי תיקייה."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "- टीटीएस निर्यात एमपी3 फ़ंक्शन को संशोधित किया गया है।\n  * txt फ़ाइलें निकालते समय TTS विलंब सेटिंग्स लागू की गई हैं।\n  * छवियों और पीडीएफ को एमपी3 में बदलने के लिए एक फ़ंक्शन जोड़ा गया।"
+    "devnote": "- सभी शॉर्टकट आइकनों के अनुकूलन की अनुमति देने के लिए संरचना को बदल दिया गया।\n- शॉर्टकट आइकन के लिए घड़ी, बैटरी और ऑटो-स्क्रॉल फ़ंक्शन जोड़े गए।\n- टीटीएस ए-बी रिपीट और स्किप फ़ंक्शन जोड़े गए।\n- बुकमार्क टीटीएस प्लेबैक फ़ंक्शन जोड़ा गया।\n- मेरी लाइब्रेरी में json या csv के रूप में फ़ाइल नाम निकालने के लिए एक फ़ंक्शन जोड़ा गया।\n- मेरी लाइब्रेरी संपीड़न फ़ंक्शन जोड़ा गया।\n- फ़ोल्डर कवर छवि फ़ंक्शन जोड़ा गया।"
   }
 }
