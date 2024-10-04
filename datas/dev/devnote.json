@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "- Added blank space function for left and right arrangement of top bar.\n- Modified open source license to match latest version.\n- Fixed bug where blank button was displayed above play button when playing TTS."
+    "devnote": "- Fixed a bug where the viewer content was obscured by the notch.\n- Added an option to set the top notch margin."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "- 상단바 좌우 배치를 위한 공백 기능을 추가 하였습니다. \n- 오픈소스 라이선스 를 최신 버전에 맞게 수정 하였습니다. \n- TTS 재생시 재생버튼 위에 빈 버튼이 표시되던 버그 를 수정 하였습니다."
+    "devnote": "- 뷰어 내용이 노치에 가려지던 버그를 수정 하였습니다. \n- 상단 노치 여백을 설정 할 수 있도록 옵션을 추가 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "- Engadiuse a función de espazo en branco para a disposición esquerda e dereita da barra superior.\n- Licenza de código aberto modificada para que coincida coa última versión.\n- Corrixiuse un erro no que se mostraba o botón en branco encima do botón de reprodución ao xogar a TTS."
+    "devnote": "- Corrixiuse un erro no que o contido do visor estaba escurecido pola muesca.\n- Engadiuse unha opción para establecer a marxe superior."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "- ટોપ બારની ડાબી અને જમણી ગોઠવણી માટે ખાલી જગ્યા ફંક્શન ઉમેર્યું.\n- નવીનતમ સંસ્કરણ સાથે મેળ કરવા માટે સંશોધિત ઓપન સોર્સ લાઇસન્સ.\n- TTS વગાડતી વખતે જ્યાં પ્લે બટન ઉપર ખાલી બટન પ્રદર્શિત થતું હતું ત્યાં બગ સુધારેલ."
+    "devnote": "- એક બગને ઠીક કર્યો જ્યાં દર્શકની સામગ્રી ઉત્તમ દ્વારા અસ્પષ્ટ હતી.\n- ટોપ નોચ માર્જિન સેટ કરવા માટે એક વિકલ્પ ઉમેર્યો."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "- Προστέθηκε λειτουργία κενού χώρου για αριστερή και δεξιά διάταξη της επάνω γραμμής.\n- Τροποποιημένη άδεια ανοιχτού κώδικα για να ταιριάζει με την τελευταία έκδοση.\n- Διορθώθηκε το σφάλμα όπου το κενό κουμπί εμφανίστηκε πάνω από το κουμπί αναπαραγωγής κατά την αναπαραγωγή TTS."
+    "devnote": "- Διορθώθηκε ένα σφάλμα όπου το περιεχόμενο του θεατή ήταν κρυμμένο από την εγκοπή.\n- Προστέθηκε μια επιλογή για να ορίσετε το ανώτερο περιθώριο."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "- Functie voor lege ruimte toegevoegd voor de linker- en rechterrangschikking van de bovenste balk.\n- Gewijzigde open source-licentie zodat deze overeenkomt met de nieuwste versie.\n- Probleem opgelost waarbij een lege knop boven de afspeelknop werd weergegeven tijdens het spelen van TTS."
+    "devnote": "- Een bug opgelost waarbij de kijkersinhoud werd verborgen door de inkeping.\n- Een optie toegevoegd om de topmarge in te stellen."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "- शीर्ष पट्टीको बायाँ र दायाँ व्यवस्थाको लागि खाली ठाउँ प्रकार्य थपियो।\n- नयाँ संस्करणसँग मेल खाने खुला स्रोत इजाजतपत्र परिमार्जन गरियो।\n- TTS खेल्दा प्ले बटन माथि खाली बटन देखाइएको बग फिक्स गरियो।"
+    "devnote": "- एक बग फिक्स गरियो जहाँ दर्शक सामग्री निशान द्वारा अस्पष्ट थियो।\n- शीर्ष खाच मार्जिन सेट गर्न विकल्प थपियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "- Lagt til tomromsfunksjon for venstre og høyre arrangement av toppstangen.\n- Endret åpen kildekode-lisens for å matche siste versjon.\n- Rettet feil der blank knapp ble vist over avspillingsknappen når du spiller TTS."
+    "devnote": "- Rettet en feil der seerinnholdet ble skjult av hakket.\n- Lagt til et alternativ for å angi toppmargen."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "- Tilføjet tomrumsfunktion til venstre og højre arrangement af topbjælken.\n- Ændret open source-licens til at matche seneste version.\n- Rettet fejl, hvor den tomme knap blev vist over afspilningsknappen under afspilning af TTS."
+    "devnote": "- Rettede en fejl, hvor seerindholdet var skjult af hakket.\n- Tilføjet en mulighed for at indstille topmargenen."
   },
   "독일어": {
     "key": "de",
-    "devnote": "- Leerzeichenfunktion für die linke und rechte Anordnung der oberen Leiste hinzugefügt.\n- Die Open-Source-Lizenz wurde an die neueste Version angepasst.\n- Fehler behoben, bei dem beim Spielen von TTS eine leere Schaltfläche über der Wiedergabeschaltfläche angezeigt wurde."
+    "devnote": "- Es wurde ein Fehler behoben, bei dem der Viewer-Inhalt durch die Kerbe verdeckt wurde.\n- Option zum Festlegen des oberen Kerbrands hinzugefügt."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "- ເພີ່ມ​ການ​ທໍາ​ງານ​ຊ່ອງ​ຫວ່າງ​ສໍາ​ລັບ​ການ​ຈັດ​ຊ້າຍ​ແລະ​ຂວາ​ຂອງ​ແຖບ​ເທິງ​.\n- ດັດແກ້ໃບອະນຸຍາດແຫຼ່ງເປີດໃຫ້ກົງກັບສະບັບຫລ້າສຸດ.\n- ແກ້​ໄຂ​ບັນ​ຫາ​ທີ່​ປຸ່ມ​ເປົ່າ​ສະ​ແດງ​ຢູ່​ຂ້າງ​ເທິງ​ປຸ່ມ​ຫຼິ້ນ​ໃນ​ເວ​ລາ​ທີ່​ຫຼິ້ນ TTS​."
+    "devnote": "- ແກ້​ໄຂ​ບັນ​ຫາ​ທີ່​ເນື້ອ​ໃນ viewer ໄດ້​ຖືກ​ obscured ໂດຍ notch ໄດ້​.\n- ເພີ່ມທາງເລືອກໃນການກໍານົດຂອບເທິງ notch."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "- Pievienota tukšas vietas funkcija augšējās joslas izkārtojumam pa kreisi un pa labi.\n- Modificēta atvērtā pirmkoda licence, lai tā atbilstu jaunākajai versijai.\n- Izlabota kļūda, kad, spēlējot TTS, virs atskaņošanas pogas tika parādīta tukša poga."
+    "devnote": "- Novērsta kļūda, kuras dēļ skatītāja saturu aizklāja iecirtums.\n- Pievienota iespēja iestatīt augšējās iecirtuma malu."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "- Добавлена ​​функция пустого пространства для левого и правого расположения верхней панели.\n- Изменена лицензия с открытым исходным кодом в соответствии с последней версией.\n- Исправлена ​​ошибка, из-за которой пустая кнопка отображалась над кнопкой воспроизведения при воспроизведении TTS."
+    "devnote": "- Исправлена ​​ошибка, из-за которой контент средства просмотра закрывался выемкой.\n- Добавлена ​​возможность установить верхний предел."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "- S-a adăugat funcție de spațiu liber pentru aranjarea din stânga și din dreapta a barei de sus.\n- Licență open source modificată pentru a se potrivi cu cea mai recentă versiune.\n- S-a remediat o eroare în care butonul gol era afișat deasupra butonului de redare când jucați TTS."
+    "devnote": "- S-a remediat o eroare în care conținutul vizualizatorului era ascuns de crestătură.\n- S-a adăugat o opțiune pentru a seta marginea superioară."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "- Pridėta tuščios vietos funkcija, skirta viršutinės juostos išdėstymui kairėje ir dešinėje.\n- Pakeista atvirojo kodo licencija, atitinkanti naujausią versiją.\n- Ištaisyta klaida, kai žaidžiant TTS virš paleidimo mygtuko buvo rodomas tuščias mygtukas."
+    "devnote": "– Ištaisyta klaida, kai žiūrinčiojo turinį uždengė įpjova.\n- Pridėta parinktis nustatyti viršutinės pakopos paraštę."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "- शीर्ष पट्टीच्या डाव्या आणि उजव्या व्यवस्थेसाठी रिक्त स्थान कार्य जोडले.\n- नवीनतम आवृत्तीशी जुळण्यासाठी सुधारित मुक्त स्रोत परवाना.\n- टीटीएस खेळताना प्ले बटणाच्या वर रिक्त बटण प्रदर्शित केलेले बग निराकरण केले."
+    "devnote": "- जेथे दर्शक सामग्री नॉचद्वारे अस्पष्ट होती तेथे बगचे निराकरण केले.\n- टॉप नॉच मार्जिन सेट करण्यासाठी पर्याय जोडला."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "- Додадена е функција за празен простор за лево и десно распоредување на горната лента.\n- Изменета лиценца со отворен код за да одговара на најновата верзија.\n- Поправена грешка каде што празното копче беше прикажано над копчето за репродукција при репродукција на TTS."
+    "devnote": "- Поправена грешка каде што содржината на гледачот беше заматена со засекот.\n- Додадена е опција за поставување на горната маргина."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "- മുകളിലെ ബാറിൻ്റെ ഇടത്, വലത് ക്രമീകരണത്തിനായി ബ്ലാങ്ക് സ്പേസ് ഫംഗ്‌ഷൻ ചേർത്തു.\n- ഏറ്റവും പുതിയ പതിപ്പുമായി പൊരുത്തപ്പെടുന്നതിന് ഓപ്പൺ സോഴ്‌സ് ലൈസൻസ് പരിഷ്‌ക്കരിച്ചു.\n- TTS പ്ലേ ചെയ്യുമ്പോൾ പ്ലേ ബട്ടണിനു മുകളിൽ ശൂന്യമായ ബട്ടൺ പ്രദർശിപ്പിച്ചിരിക്കുന്ന ബഗ് പരിഹരിച്ചു."
+    "devnote": "- വ്യൂവർ ഉള്ളടക്കം നോച്ച് കൊണ്ട് മറഞ്ഞിരിക്കുന്ന ഒരു ബഗ് പരിഹരിച്ചു.\n- ടോപ്പ് നോച്ച് മാർജിൻ സജ്ജീകരിക്കാൻ ഒരു ഓപ്ഷൻ ചേർത്തു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "- Menambah fungsi ruang kosong untuk susunan kiri dan kanan bar atas.\n- Lesen sumber terbuka diubah suai untuk dipadankan dengan versi terkini.\n- Membetulkan pepijat apabila butang kosong dipaparkan di atas butang main semasa memainkan TTS."
+    "devnote": "- Memperbaiki pepijat di mana kandungan penonton dikaburkan oleh takuk.\n- Menambah pilihan untuk menetapkan margin kedudukan teratas."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "- Дээд талын баарны зүүн ба баруун байрлалд зориулсан хоосон зайны функцийг нэмсэн.\n- Нээлттэй эхийн лицензийг хамгийн сүүлийн хувилбарт тохируулан өөрчилсөн.\n- TTS тоглож байх үед тоглуулах товчлуур дээр хоосон товчлуур гарч ирсэн алдаа зассан."
+    "devnote": "- Үзэгчийн агуулгыг ховилоор далдалсан алдааг зассан.\n- Дээд зэргийн ирмэгийг тохируулах сонголтыг нэмсэн."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "- Goiko barraren ezkerreko eta eskuineko antolamendurako espazio hutsaren funtzioa gehitu da.\n- Kode irekiko lizentzia aldatu da azken bertsioarekin bat etortzeko.\n- TTS erreproduzitzean erreproduzitzeko botoiaren gainean botoi hutsa bistaratzen zen akatsa konpondu da."
+    "devnote": "- Ikuslearen edukia koskak iluntzen zuen akats bat konpondu zen.\n- Goiko marjina ezartzeko aukera bat gehitu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "- အပေါ်ဘား၏ဘယ်နှင့်ညာဘက်အစီအစဉ်အတွက်နေရာလွတ်များထည့်ထားသည်။\n- နောက်ဆုံးဗားရှင်းနှင့်ကိုက်ညီရန် open source လိုင်စင်ကို ပြင်ဆင်ထားသည်။\n- TTS ကစားသောအခါတွင် ခလုတ်ဗလာကို ပြသထားသည့် ချို့ယွင်းချက်ကို ပြင်ဆင်ပါ။"
+    "devnote": "- ကြည့်ရှုသူအကြောင်းအရာကို notch ဖြင့် ဖုံးကွယ်ထားသည့် bug ကို ပြင်ဆင်ပါ။\n- ထိပ်တန်း notch အနားသတ်ကို သတ်မှတ်ရန် ရွေးချယ်မှုတစ်ခု ထပ်ထည့်ထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "- Đã thêm chức năng khoảng trống để sắp xếp thanh trên cùng bên trái và bên phải.\n- Giấy phép nguồn mở được sửa đổi để phù hợp với phiên bản mới nhất.\n- Đã sửa lỗi nút trống hiển thị phía trên nút phát khi phát TTS."
+    "devnote": "- Đã sửa lỗi nội dung của người xem bị che khuất bởi phần notch.\n- Đã thêm tùy chọn để đặt lề cao nhất."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "- Дададзена функцыя пустога месца для левага і правага размяшчэння верхняй панэлі.\n- Змененая ліцэнзія з адкрытым зыходным кодам у адпаведнасці з апошняй версіяй.\n- Выпраўлена памылка, з-за якой пустая кнопка адлюстроўвалася над кнопкай прайгравання пры прайграванні TTS."
+    "devnote": "- Выпраўлена памылка, з-за якой змесціва праграмы прагляду закрывалася надрэзам.\n- Дададзена магчымасць усталяваць верхняе поле надрэзу."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "- উপরের বারের বাম এবং ডান বিন্যাসের জন্য ফাঁকা স্থান ফাংশন যোগ করা হয়েছে।\n- সর্বশেষ সংস্করণ মেলানোর জন্য পরিবর্তিত ওপেন সোর্স লাইসেন্স।\n- টিটিএস খেলার সময় প্লে বোতামের উপরে ফাঁকা বোতামটি প্রদর্শিত হয়েছিল এমন বাগ সংশোধন করা হয়েছে।"
+    "devnote": "- একটি বাগ সংশোধন করা হয়েছে যেখানে দর্শকের বিষয়বস্তু খাঁজ দ্বারা অস্পষ্ট ছিল।\n- শীর্ষ খাঁজ মার্জিন সেট করার জন্য একটি বিকল্প যোগ করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "- Добавена функция за празно пространство за ляво и дясно подреждане на горната лента.\n- Модифициран лиценз с отворен код, за да съответства на най-новата версия.\n- Коригирана грешка, при която празният бутон се показваше над бутона за възпроизвеждане при възпроизвеждане на TTS."
+    "devnote": "- Коригирана грешка, при която съдържанието на зрителя беше скрито от прореза.\n- Добавена е опция за задаване на полето на горния вдлъбнатина."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "- Додата функција празног простора за леви и десни распоред горње траке.\n- Модификована лиценца отвореног кода да одговара најновијој верзији.\n- Исправљена грешка где је празно дугме било приказано изнад дугмета за репродукцију када се игра ТТС."
+    "devnote": "- Исправљена грешка где је садржај гледаоца био заклоњен урезом.\n- Додата је опција за постављање маргине највишег зареза."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "- Imeongeza kazi ya nafasi tupu kwa mpangilio wa kushoto na kulia wa upau wa juu.\n- Leseni ya chanzo huria iliyorekebishwa ili ilingane na toleo jipya zaidi.\n- Mdudu zisizohamishika ambapo kifungo tupu kilionyeshwa juu ya kitufe cha kucheza wakati wa kucheza TTS."
+    "devnote": "- Kurekebisha hitilafu ambapo maudhui ya mtazamaji yalifichwa na alama.\n- Imeongeza chaguo ili kuweka ukingo wa kiwango cha juu."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "- Tillagd tomrumsfunktion för vänster och höger arrangemang av topplisten.\n- Ändrad öppen källkodslicens för att matcha senaste versionen.\n- Fixat bugg där tom knapp visades ovanför uppspelningsknappen när man spelade TTS."
+    "devnote": "- Fixade en bugg där tittarinnehållet skymdes av skåran.\n- Lade till ett alternativ för att ställa in toppmarginalen."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "- Se agregó la función de espacio en blanco para la disposición izquierda y derecha de la barra superior.\n- Licencia de código abierto modificada para que coincida con la última versión.\n- Se corrigió el error por el cual se mostraba un botón en blanco encima del botón de reproducción al reproducir TTS."
+    "devnote": "- Se corrigió un error por el cual la muesca ocultaba el contenido del visor.\n- Se agregó una opción para establecer el margen de nivel superior."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "- Pridaná funkcia prázdneho miesta pre ľavé a pravé usporiadanie hornej lišty.\n- Upravená licencia open source tak, aby zodpovedala najnovšej verzii.\n- Opravená chyba, kedy sa pri hraní TTS nad tlačidlom prehrávania zobrazovalo prázdne tlačidlo."
+    "devnote": "- Opravená chyba, pri ktorej bol obsah diváka zakrytý zárezom.\n- Pridaná možnosť nastavenia horného okraja."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "- Dodana funkcija praznega prostora za levo in desno razporeditev zgornje vrstice.\n- Spremenjena odprtokodna licenca, da ustreza najnovejši različici.\n- Popravljena napaka, kjer je bil prazen gumb prikazan nad gumbom za predvajanje med predvajanjem TTS."
+    "devnote": "- Odpravljena je napaka, pri kateri je bila vsebina pregledovalnika zakrita z zarezo.\n- Dodana možnost za nastavitev roba zgornje zareze."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "- ඉහළ තීරුවේ වම් සහ දකුණු සැකැස්ම සඳහා හිස් අවකාශ ශ්‍රිතය එක් කරන ලදී.\n- නවතම අනුවාදයට ගැලපෙන පරිදි විවෘත මූලාශ්‍ර බලපත්‍රය වෙනස් කර ඇත.\n- TTS වාදනය කිරීමේදී ප්ලේ බොත්තමට ඉහලින් හිස් බොත්තම දර්ශනය වූ දෝෂය නිරාකරණය කර ඇත."
+    "devnote": "- නරඹන්නන්ගේ අන්තර්ගතය නොච් එක මගින් අපැහැදිලි වූ දෝෂයක් නිරාකරණය කරන ලදී.\n- ඉහළ මට්ටමේ ආන්තිකය සැකසීමට විකල්පයක් එක් කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "- تمت إضافة وظيفة المساحة الفارغة للترتيب الأيسر والأيمن للشريط العلوي.\n- تعديل ترخيص مفتوح المصدر ليتناسب مع الإصدار الأحدث.\n- تم إصلاح الخلل حيث تم عرض الزر الفارغ فوق زر التشغيل عند تشغيل تحويل النص إلى كلام (TTS)."
+    "devnote": "- تم إصلاح الخلل حيث كان محتوى المشاهد محجوبًا بالشق.\n- تمت إضافة خيار لتعيين هامش الدرجة الأولى."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "- Ավելացվել է դատարկ տարածության ֆունկցիա վերին գծի ձախ և աջ դասավորության համար:\n- Փոփոխված բաց կոդով լիցենզիա՝ վերջին տարբերակին համապատասխանելու համար:\n- Ուղղվել է սխալ, որտեղ դատարկ կոճակը ցուցադրվել է խաղալ կոճակի վերևում TTS խաղալիս:"
+    "devnote": "- Ուղղվել է վրիպակ, որտեղ դիտողի բովանդակությունը մթագնված էր խազով:\n- Ավելացվեց վերին խազի լուսանցքը սահմանելու տարբերակ:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "- Bætt við eyðurýmisaðgerð fyrir vinstri og hægri uppröðun efstu stikunnar.\n- Breytt leyfi fyrir opinn uppspretta til að passa við nýjustu útgáfuna.\n- Lagaði villu þar sem auður hnappur var sýndur fyrir ofan spilunarhnappinn þegar spilað var TTS."
+    "devnote": "- Lagaði villu þar sem innihald áhorfandans var hulið af hakinu.\n- Bætti við valmöguleika til að stilla efstu framlegð."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "- Üst çubuğun sol və sağ düzülüşü üçün boş yer funksiyası əlavə edildi.\n- Son versiyaya uyğun olaraq dəyişdirilmiş açıq mənbə lisenziyası.\n- TTS oynayarkən boş düymənin oynatma düyməsinin üstündə göstərildiyi səhv düzəldildi."
+    "devnote": "- İzləyici məzmununun çentik ilə örtüldüyü bir səhv düzəldildi.\n- Üst çentik marjasını təyin etmək üçün bir seçim əlavə edildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "- Bygevoeg leë spasie funksie vir links en regs rangskikking van boonste balk.\n- Gewysigde oopbronlisensie om by die nuutste weergawe te pas.\n- Fout opgelos waar leë knoppie bo die speelknoppie vertoon is tydens die speel van TTS."
+    "devnote": "- Het 'n fout reggestel waar die kykerinhoud deur die kerf verduister is.\n- Bygevoeg 'n opsie om die boonste kantlyn te stel."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "- Funksioni i hapësirës bosh të shtuar për rregullimin majtas dhe djathtas të shiritit të sipërm.\n- Licenca e modifikuar me burim të hapur që të përputhet me versionin e fundit.\n- Rregulluar defektin ku butoni bosh u shfaq mbi butonin e luajtjes kur luani TTS."
+    "devnote": "- Rregulloi një defekt ku përmbajtja e shikuesit ishte errësuar nga niveli.\n- U shtua një opsion për të vendosur kufirin e nivelit të lartë."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "- ለላይኛው አሞሌ ግራ እና ቀኝ ዝግጅት የታከለ ባዶ ቦታ ተግባር።\n- የቅርብ ጊዜውን ስሪት ለማዛመድ የተሻሻለ የክፍት ምንጭ ፈቃድ።\n- TTS በሚጫወትበት ጊዜ ባዶ ቁልፍ ከጨዋታ ቁልፍ በላይ የታየበት ቋሚ ሳንካ።"
+    "devnote": "- የተመልካቹ ይዘት በኖች የተደበቀበት ሳንካ ተስተካክሏል።\n- ከፍተኛውን የደረጃ ህዳግ ለማዘጋጀት አማራጭ ታክሏል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "- Lisatud tühja ruumi funktsioon ülemise riba vasaku ja parema paigutuse jaoks.\n- Muudetud avatud lähtekoodiga litsents, et see vastaks uusimale versioonile.\n- Parandatud viga, kus TTS-i mängimisel kuvati esitusnupu kohal tühi nupp."
+    "devnote": "- Parandatud viga, mille korral sälk varjas vaataja sisu.\n- Lisatud on ülemise piirjoone määramise võimalus."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "- ٹاپ بار کے بائیں اور دائیں انتظام کے لیے خالی جگہ کا فنکشن شامل کیا گیا۔\n- تازہ ترین ورژن سے ملنے کے لیے ترمیم شدہ اوپن سورس لائسنس۔\n- طے شدہ بگ جہاں ٹی ٹی ایس چلاتے وقت پلے بٹن کے اوپر خالی بٹن ظاہر ہوتا تھا۔"
+    "devnote": "- ایک بگ کو ٹھیک کیا جہاں ناظرین کے مواد کو نشان کے ذریعہ غیر واضح کیا گیا تھا۔\n- ٹاپ نوچ مارجن سیٹ کرنے کے لیے ایک آپشن شامل کیا گیا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "— Додано функцію порожнього місця для розташування верхньої панелі зліва та справа.\n— Змінена ліцензія з відкритим кодом відповідно до останньої версії.\n— Виправлена ​​помилка, через яку порожня кнопка відображалася над кнопкою відтворення під час відтворення TTS."
+    "devnote": "- Виправлено помилку, через яку вміст програми перегляду був закритий виїмкою.\n— Додано опцію встановлення верхнього поля надрізу."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "- Aggiunta la funzione di spazio vuoto per la disposizione sinistra e destra della barra superiore.\n- Licenza open source modificata per corrispondere alla versione più recente.\n- Risolto bug per cui il pulsante vuoto veniva visualizzato sopra il pulsante di riproduzione durante la riproduzione di TTS."
+    "devnote": "- Risolto un bug per cui il contenuto del visualizzatore veniva oscurato dalla tacca.\n- Aggiunta un'opzione per impostare il margine di tacca superiore."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "- Menambahkan fungsi ruang kosong untuk susunan bilah atas kiri dan kanan.\n- Lisensi sumber terbuka yang dimodifikasi agar sesuai dengan versi terbaru.\n- Memperbaiki bug di mana tombol kosong ditampilkan di atas tombol putar saat memainkan TTS."
+    "devnote": "- Memperbaiki bug ketika konten pemirsa dikaburkan oleh takik.\n- Menambahkan opsi untuk mengatur margin kedudukan tertinggi."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "- トップバーの左右配置に空白機能を追加しました。\n- 最新バージョンに一致するようにオープン ソース ライセンスを変更しました。\n- TTS を再生するときに、再生ボタンの上に空白のボタンが表示されるバグを修正しました。"
+    "devnote": "- ビューアのコンテンツがノッチによって隠れるバグを修正しました。\n- 上ノッチマージンを設定するオプションを追加しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "- დამატებულია ცარიელი სივრცის ფუნქცია ზედა ზოლის მარცხენა და მარჯვენა მოწყობისთვის.\n- შეცვლილია ღია კოდის ლიცენზია უახლესი ვერსიის შესატყვისად.\n- დაფიქსირდა ხარვეზი, სადაც ცარიელი ღილაკი იყო ნაჩვენები დაკვრის ღილაკის ზემოთ TTS თამაშისას."
+    "devnote": "- დაფიქსირდა ხარვეზი, სადაც მაყურებლის კონტენტი დაჩრდილული იყო ჭრილით.\n- დამატებულია ვარიანტი ზედა დონის ზღვრის დასაყენებლად."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "- Kwengezwe umsebenzi wesikhala esingenalutho sokuhlelwa kwesobunxele nesokudla kwebha ephezulu.\n- Ilayisensi yomthombo ovulekile eshintshiwe ukuze ifane nenguqulo yakamuva.\n- Isiphazamisi esilungisiwe lapho inkinobho engenalutho iboniswe ngenhla kwenkinobho yokudlala lapho udlala i-TTS."
+    "devnote": "- Kulungiswe iphutha lapho okuqukethwe kwesibukeli kusithwe inothi.\n- Kwengezwe inketho yokusetha i-notch ephezulu."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "- 顶栏左右排列新增留白功能。\n- 修改了开源许可证以匹配最新版本。\n- 修复了播放 TTS 时播放按钮上方显示空白按钮的错误。"
+    "devnote": "- 修复了查看器内容被凹口遮挡的错误。\n- 添加了设置顶部缺口边距的选项。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "- 頂欄左右排列新增留白功能。\n- 修改了開源許可證以匹配最新版本。\n- 修正了播放 TTS 時播放按鈕上方顯示空白按鈕的錯誤。"
+    "devnote": "- 修正了檢視器內容被凹口遮擋的錯誤。\n- 新增了設定頂部缺口邊距的選項。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "- 頂欄左右排列新增留白功能。\n- 修改了開源許可證以匹配最新版本。\n- 修正了播放 TTS 時播放按鈕上方顯示空白按鈕的錯誤。"
+    "devnote": "- 修正了檢視器內容被凹口遮擋的錯誤。\n- 新增了設定頂部缺口邊距的選項。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "- Přidána funkce prázdného místa pro levé a pravé uspořádání horní lišty.\n- Upravená licence open source tak, aby odpovídala nejnovější verzi.\n- Opravena chyba, kdy se při přehrávání TTS nad tlačítkem přehrávání zobrazovalo prázdné tlačítko."
+    "devnote": "- Opravena chyba, kdy byl obsah prohlížeče zakryt zářezem.\n- Přidána možnost nastavení horního okraje."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "- Жоғарғы жолақтың сол және оң орналасуы үшін бос орын функциясы қосылды.\n- Соңғы нұсқаға сәйкестендірілген ашық бастапқы лицензия.\n- TTS ойнату кезінде ойнату түймесінің үстінде бос түйме көрсетілген қате түзетілді."
+    "devnote": "- Көрермен мазмұны ойықпен жасырылған қате түзетілді.\n- Жоғарғы жиекті орнату опциясы қосылды."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "- S'ha afegit la funció d'espai en blanc per a la disposició esquerra i dreta de la barra superior.\n- Llicència de codi obert modificada perquè coincideixi amb l'última versió.\n- S'ha corregit un error en què es mostrava un botó en blanc a sobre del botó de reproducció quan es jugava a TTS."
+    "devnote": "- S'ha corregit un error en què el contingut del visor estava enfosquit per l'osca.\n- S'ha afegit una opció per establir el marge superior."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "- ಮೇಲಿನ ಪಟ್ಟಿಯ ಎಡ ಮತ್ತು ಬಲ ವ್ಯವಸ್ಥೆಗಾಗಿ ಖಾಲಿ ಜಾಗದ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯನ್ನು ಹೊಂದಿಸಲು ಮುಕ್ತ ಮೂಲ ಪರವಾನಗಿಯನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಟಿಟಿಎಸ್ ಆಡುವಾಗ ಪ್ಲೇ ಬಟನ್ ಮೇಲೆ ಖಾಲಿ ಬಟನ್ ಪ್ರದರ್ಶಿಸಲಾದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "- ವೀಕ್ಷಕರ ವಿಷಯವು ದರ್ಜೆಯಿಂದ ಅಸ್ಪಷ್ಟವಾಗಿರುವ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ಉನ್ನತ ದರ್ಜೆಯ ಅಂಚು ಹೊಂದಿಸಲು ಒಂದು ಆಯ್ಕೆಯನ್ನು ಸೇರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "- Dodana funkcija praznog prostora za lijevi i desni raspored gornje trake.\n- Izmijenjena licenca otvorenog koda kako bi odgovarala najnovijoj verziji.\n- Ispravljena pogreška gdje se prazan gumb prikazivao iznad gumba za reprodukciju prilikom igranja TTS-a."
+    "devnote": "- Ispravljena je greška gdje je sadržaj preglednika bio zaklonjen urezom.\n- Dodana opcija za postavljanje gornje margine."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "- បានបន្ថែមមុខងារចន្លោះទទេសម្រាប់ការរៀបចំខាងឆ្វេង និងស្តាំនៃរបារខាងលើ។\n- បានកែប្រែអាជ្ញាប័ណ្ណប្រភពបើកចំហដើម្បីផ្គូផ្គងកំណែចុងក្រោយបំផុត។\n- ជួសជុលកំហុសដែលប៊ូតុងទទេត្រូវបានបង្ហាញខាងលើប៊ូតុងលេងនៅពេលលេង TTS ។"
+    "devnote": "- ជួសជុលកំហុសដែលមាតិកាអ្នកមើលត្រូវបានបិទបាំងដោយស្នាមរន្ធ។\n- បានបន្ថែមជម្រើសមួយដើម្បីកំណត់រឹមស្នាមរន្ធកំពូល។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "- Жогорку тилкени сол жана оң жагында жайгаштыруу үчүн бош орун функциясы кошулду.\n- Акыркы версияга дал келүү үчүн өзгөртүлгөн ачык булак лицензиясы.\n- TTS ойноп жатканда ойнотуу баскычынын үстүндө бош баскыч көрсөтүлгөн ката оңдолду."
+    "devnote": "- Көрүүчүнүн мазмуну оюк менен жаап калган мүчүлүштүк оңдолду.\n- Жогорку чекти орнотуу үчүн опция кошулду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "- மேல் பட்டையின் இடது மற்றும் வலது ஏற்பாட்டிற்கு வெற்று இட செயல்பாடு சேர்க்கப்பட்டது.\n- சமீபத்திய பதிப்பைப் பொருத்த திறந்த மூல உரிமம் மாற்றப்பட்டது.\n- TTS விளையாடும் போது பிளே பட்டனுக்கு மேலே வெற்று பொத்தான் காட்டப்பட்ட பிழை சரி செய்யப்பட்டது."
+    "devnote": "- பார்வையாளரின் உள்ளடக்கம் உச்சநிலையால் மறைக்கப்பட்ட ஒரு பிழை சரி செய்யப்பட்டது.\n- மேல் உச்சநிலை விளிம்பை அமைக்க ஒரு விருப்பம் சேர்க்கப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "- เพิ่มฟังก์ชันช่องว่างสำหรับการจัดเรียงแถบด้านบนด้านซ้ายและขวา\n- แก้ไขใบอนุญาตโอเพ่นซอร์สให้ตรงกับเวอร์ชันล่าสุด\n- แก้ไขข้อผิดพลาดที่ปุ่มว่างแสดงเหนือปุ่มเล่นเมื่อเล่น TTS"
+    "devnote": "- แก้ไขข้อผิดพลาดที่เนื้อหาของผู้ดูถูกบดบังด้วยรอยบาก\n- เพิ่มตัวเลือกในการตั้งค่าระยะขอบด้านบน"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "- Üst çubuğun sol ve sağ düzeni için boş alan işlevi eklendi.\n- En son sürümle eşleşecek şekilde değiştirilmiş açık kaynak lisansı.\n- TTS oynatılırken oynat düğmesinin üzerinde boş düğmenin görüntülenmesine neden olan hata düzeltildi."
+    "devnote": "- Görüntüleyici içeriğinin çentik tarafından gizlenmesine neden olan bir hata düzeltildi.\n- Üst çentik kenar boşluğunu ayarlama seçeneği eklendi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "- ఎగువ బార్ యొక్క ఎడమ మరియు కుడి అమరిక కోసం ఖాళీ స్థలం ఫంక్షన్ జోడించబడింది.\n- తాజా వెర్షన్‌తో సరిపోలడానికి ఓపెన్ సోర్స్ లైసెన్స్ సవరించబడింది.\n- TTS ప్లే చేస్తున్నప్పుడు ప్లే బటన్ పైన ఖాళీ బటన్ ప్రదర్శించబడే బగ్ పరిష్కరించబడింది."
+    "devnote": "- వీక్షకుడి కంటెంట్ నాచ్ ద్వారా అస్పష్టంగా ఉన్న బగ్ పరిష్కరించబడింది.\n- టాప్ గీత మార్జిన్‌ని సెట్ చేయడానికి ఒక ఎంపికను జోడించారు."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "- ਸਿਖਰ ਪੱਟੀ ਦੇ ਖੱਬੇ ਅਤੇ ਸੱਜੇ ਪ੍ਰਬੰਧ ਲਈ ਖਾਲੀ ਥਾਂ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।\n- ਨਵੀਨਤਮ ਸੰਸਕਰਣ ਨਾਲ ਮੇਲ ਕਰਨ ਲਈ ਸੰਸ਼ੋਧਿਤ ਓਪਨ ਸੋਰਸ ਲਾਇਸੈਂਸ।\n- ਫਿਕਸਡ ਬੱਗ ਜਿੱਥੇ ਟੀਟੀਐਸ ਚਲਾਉਣ ਵੇਲੇ ਪਲੇ ਬਟਨ ਦੇ ਉੱਪਰ ਖਾਲੀ ਬਟਨ ਪ੍ਰਦਰਸ਼ਿਤ ਹੁੰਦਾ ਸੀ।"
+    "devnote": "- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਹੈ ਜਿੱਥੇ ਦਰਸ਼ਕ ਸਮੱਗਰੀ ਨੂੰ ਨਿਸ਼ਾਨ ਦੁਆਰਾ ਅਸਪਸ਼ਟ ਕੀਤਾ ਗਿਆ ਸੀ।\n- ਚੋਟੀ ਦੇ ਦਰਜੇ ਦੇ ਹਾਸ਼ੀਏ ਨੂੰ ਸੈਟ ਕਰਨ ਲਈ ਇੱਕ ਵਿਕਲਪ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "- اضافه شدن عملکرد فضای خالی برای چیدمان چپ و راست نوار بالا.\n- مجوز منبع باز اصلاح شده برای مطابقت با آخرین نسخه.\n- رفع اشکال که در آن دکمه خالی در بالای دکمه پخش هنگام بازی TTS نمایش داده می شد."
+    "devnote": "- رفع اشکالی که در آن محتوای بیننده توسط شکاف پنهان شده بود.\n- اضافه شدن گزینه ای برای تنظیم حاشیه بریدگی بالا."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "- Adicionada função de espaço em branco para disposição esquerda e direita da barra superior.\n- Licença de código aberto modificada para corresponder à versão mais recente.\n- Corrigido bug onde o botão em branco era exibido acima do botão play ao jogar TTS."
+    "devnote": "- Corrigido um bug onde o conteúdo do visualizador era obscurecido pelo entalhe.\n- Adicionada uma opção para definir a margem superior."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "- Dodano funkcję pustej przestrzeni dla lewego i prawego układu górnego paska.\n- Zmodyfikowana licencja open source w celu dopasowania do najnowszej wersji.\n- Naprawiono błąd powodujący wyświetlanie pustego przycisku nad przyciskiem odtwarzania podczas gry w TTS."
+    "devnote": "- Naprawiono błąd, w wyniku którego zawartość przeglądarki była zasłonięta przez wycięcie.\n- Dodano opcję ustawienia górnego marginesu."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "- Ajout d'une fonction d'espace vide pour la disposition gauche et droite de la barre supérieure.\n- Licence open source modifiée pour correspondre à la dernière version.\n- Correction d'un bug où un bouton vide était affiché au-dessus du bouton de lecture lors de la lecture de TTS."
+    "devnote": "- Correction d'un bug où le contenu du visualiseur était masqué par l'encoche.\n- Ajout d'une option pour définir la marge supérieure."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "- Lisätty tyhjä tilatoiminto yläpalkin vasemmalle ja oikealle järjestelylle.\n- Muokattu avoimen lähdekoodin lisenssi vastaamaan viimeisintä versiota.\n- Korjattu virhe, jossa tyhjä painike näkyi toistopainikkeen yläpuolella, kun pelattiin TTS:ää."
+    "devnote": "- Korjattu virhe, jossa lovi peitti katsojan sisällön.\n- Lisätty mahdollisuus asettaa ylälovin marginaali."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "- Nagdagdag ng blangko na function ng espasyo para sa kaliwa at kanang pag-aayos ng tuktok na bar.\n- Binagong open source na lisensya upang tumugma sa pinakabagong bersyon.\n- Inayos ang bug kung saan ipinapakita ang blangkong button sa itaas ng play button kapag naglalaro ng TTS."
+    "devnote": "- Inayos ang isang bug kung saan ang nilalaman ng manonood ay natatakpan ng bingaw.\n- Nagdagdag ng opsyon para itakda ang pinakamataas na margin."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "- Hozzáadott üres hely funkció a felső sáv bal és jobb elrendezéséhez.\n- Módosított nyílt forráskódú licenc, hogy megfeleljen a legújabb verziónak.\n- Javítva a hiba, ahol a lejátszás gomb felett üres gomb jelent meg a TTS lejátszása közben."
+    "devnote": "- Kijavítottunk egy hibát, ahol a nézői tartalmat eltakarta a bevágás.\n- Lehetőséget adtunk a felső margó beállítására."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "- נוספה פונקציית שטח ריק לסידור שמאל וימין של הבר העליון.\n- רישיון קוד פתוח שונה כך שיתאים לגרסה האחרונה.\n- תוקן באג שבו כפתור ריק הוצג מעל לחצן ההפעלה בעת הפעלת TTS."
+    "devnote": "- תיקן באג שבו תוכן הצופה היה מוסתר על ידי החריץ.\n- נוספה אפשרות להגדיר את השוליים העליון."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "- शीर्ष बार के बाएँ और दाएँ व्यवस्था के लिए रिक्त स्थान फ़ंक्शन जोड़ा गया।\n- नवीनतम संस्करण से मेल खाने के लिए संशोधित ओपन सोर्स लाइसेंस।\n- उस बग को ठीक किया गया जहां टीटीएस खेलते समय प्ले बटन के ऊपर खाली बटन प्रदर्शित होता था।"
+    "devnote": "- उस बग को ठीक किया गया जहां दर्शक सामग्री नॉच द्वारा अस्पष्ट हो गई थी।\n- शीर्ष पायदान मार्जिन सेट करने के लिए एक विकल्प जोड़ा गया।"
   }
 }
