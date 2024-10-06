@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "- Fixed a bug where the viewer content was obscured by the notch.\n- Added an option to set the top notch margin."
+    "devnote": "- Urgently fixed a bug where the ad removal time would occasionally reset.\n- Added color to the battery level icon."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "- 뷰어 내용이 노치에 가려지던 버그를 수정 하였습니다. \n- 상단 노치 여백을 설정 할 수 있도록 옵션을 추가 하였습니다."
+    "devnote": "- 광고 제거 시간이 간헐적으로 초기화 되는 버그를 긴급 수정 하였습니다. \n- 배터리 잔량 아이콘에 색상을 추가 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "- Corrixiuse un erro no que o contido do visor estaba escurecido pola muesca.\n- Engadiuse unha opción para establecer a marxe superior."
+    "devnote": "- Solucionouse de forma urxente un erro no que o tempo de eliminación de anuncios se restablecía ocasionalmente.\n- Engadiuse cor á icona do nivel da batería."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "- એક બગને ઠીક કર્યો જ્યાં દર્શકની સામગ્રી ઉત્તમ દ્વારા અસ્પષ્ટ હતી.\n- ટોપ નોચ માર્જિન સેટ કરવા માટે એક વિકલ્પ ઉમેર્યો."
+    "devnote": "- તાકીદે એક બગને ઠીક કર્યો જ્યાં જાહેરાત દૂર કરવાનો સમય પ્રસંગોપાત રીસેટ થશે.\n- બેટરી લેવલ આઇકોનમાં રંગ ઉમેર્યો."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "- Διορθώθηκε ένα σφάλμα όπου το περιεχόμενο του θεατή ήταν κρυμμένο από την εγκοπή.\n- Προστέθηκε μια επιλογή για να ορίσετε το ανώτερο περιθώριο."
+    "devnote": "- Διορθώθηκε επειγόντως ένα σφάλμα όπου ο χρόνος κατάργησης της διαφήμισης επαναφερόταν περιστασιακά.\n- Προστέθηκε χρώμα στο εικονίδιο στάθμης μπαταρίας."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "- Een bug opgelost waarbij de kijkersinhoud werd verborgen door de inkeping.\n- Een optie toegevoegd om de topmarge in te stellen."
+    "devnote": "- Er is dringend een bug opgelost waarbij de tijd voor het verwijderen van advertenties af en toe werd gereset.\n- Kleur toegevoegd aan het batterijniveaupictogram."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "- एक बग फिक्स गरियो जहाँ दर्शक सामग्री निशान द्वारा अस्पष्ट थियो।\n- शीर्ष खाच मार्जिन सेट गर्न विकल्प थपियो।"
+    "devnote": "- तुरुन्तै एउटा बग फिक्स गरियो जहाँ विज्ञापन हटाउने समय कहिलेकाहीं रिसेट हुनेछ।\n- ब्याट्री स्तर आइकनमा रंग थपियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "- Rettet en feil der seerinnholdet ble skjult av hakket.\n- Lagt til et alternativ for å angi toppmargen."
+    "devnote": "- Rettet raskt en feil der tiden for annonsefjerning av og til ble tilbakestilt.\n- Lagt til farge på batterinivåikonet."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "- Rettede en fejl, hvor seerindholdet var skjult af hakket.\n- Tilføjet en mulighed for at indstille topmargenen."
+    "devnote": "- Umiddelbart rettet en fejl, hvor annoncefjernelsestiden lejlighedsvis blev nulstillet.\n- Tilføjet farve til batteriniveauikonet."
   },
   "독일어": {
     "key": "de",
-    "devnote": "- Es wurde ein Fehler behoben, bei dem der Viewer-Inhalt durch die Kerbe verdeckt wurde.\n- Option zum Festlegen des oberen Kerbrands hinzugefügt."
+    "devnote": "- Es wurde dringend ein Fehler behoben, bei dem die Zeit zum Entfernen von Werbung gelegentlich zurückgesetzt wurde.\n- Dem Symbol für den Batteriestand wurde eine Farbe hinzugefügt."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "- ແກ້​ໄຂ​ບັນ​ຫາ​ທີ່​ເນື້ອ​ໃນ viewer ໄດ້​ຖືກ​ obscured ໂດຍ notch ໄດ້​.\n- ເພີ່ມທາງເລືອກໃນການກໍານົດຂອບເທິງ notch."
+    "devnote": "- ແກ້ໄຂຂໍ້ບົກພ່ອງຢ່າງຮີບດ່ວນທີ່ເວລາລຶບໂຄສະນາຈະຣີເຊັດເປັນບາງໂອກາດ.\n- ເພີ່ມສີໃສ່ໄອຄອນລະດັບແບັດເຕີຣີ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "- Novērsta kļūda, kuras dēļ skatītāja saturu aizklāja iecirtums.\n- Pievienota iespēja iestatīt augšējās iecirtuma malu."
+    "devnote": "- Steidzami novērsta kļūda, kuras dēļ reklāmu noņemšanas laiks laiku pa laikam tika atiestatīts.\n- Akumulatora līmeņa ikonai pievienota krāsa."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "- Исправлена ​​ошибка, из-за которой контент средства просмотра закрывался выемкой.\n- Добавлена ​​возможность установить верхний предел."
+    "devnote": "- Срочно исправлена ​​ошибка, из-за которой время удаления рекламы иногда сбрасывалось.\n- Добавлен цвет значку уровня заряда батареи."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "- S-a remediat o eroare în care conținutul vizualizatorului era ascuns de crestătură.\n- S-a adăugat o opțiune pentru a seta marginea superioară."
+    "devnote": "- S-a remediat urgent o eroare în care timpul de eliminare a anunțurilor se resetează ocazional.\n- S-a adăugat culoare la pictograma nivelului bateriei."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "– Ištaisyta klaida, kai žiūrinčiojo turinį uždengė įpjova.\n- Pridėta parinktis nustatyti viršutinės pakopos paraštę."
+    "devnote": "– Skubiai ištaisyta klaida, dėl kurios skelbimo pašalinimo laikas retkarčiais buvo nustatomas iš naujo.\n- Akumuliatoriaus lygio piktograma pridėta spalva."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "- जेथे दर्शक सामग्री नॉचद्वारे अस्पष्ट होती तेथे बगचे निराकरण केले.\n- टॉप नॉच मार्जिन सेट करण्यासाठी पर्याय जोडला."
+    "devnote": "- जाहिरात काढण्याची वेळ अधूनमधून रीसेट होईल अशा बगचे तातडीने निराकरण केले.\n- बॅटरी लेव्हल आयकॉनमध्ये रंग जोडला."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "- Поправена грешка каде што содржината на гледачот беше заматена со засекот.\n- Додадена е опција за поставување на горната маргина."
+    "devnote": "- Итно поправена грешка каде што времето за отстранување на рекламите повремено се ресетираше.\n- Додадена е боја на иконата за нивото на батеријата."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "- വ്യൂവർ ഉള്ളടക്കം നോച്ച് കൊണ്ട് മറഞ്ഞിരിക്കുന്ന ഒരു ബഗ് പരിഹരിച്ചു.\n- ടോപ്പ് നോച്ച് മാർജിൻ സജ്ജീകരിക്കാൻ ഒരു ഓപ്ഷൻ ചേർത്തു."
+    "devnote": "- പരസ്യം നീക്കംചെയ്യൽ സമയം ഇടയ്ക്കിടെ പുനഃസജ്ജമാക്കുന്ന ഒരു ബഗ് അടിയന്തിരമായി പരിഹരിച്ചു.\n- ബാറ്ററി ലെവൽ ഐക്കണിലേക്ക് നിറം ചേർത്തു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "- Memperbaiki pepijat di mana kandungan penonton dikaburkan oleh takuk.\n- Menambah pilihan untuk menetapkan margin kedudukan teratas."
+    "devnote": "- Membetulkan pepijat dengan segera di mana masa pengalihan keluar iklan sekali-sekala akan ditetapkan semula.\n- Menambah warna pada ikon tahap bateri."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "- Үзэгчийн агуулгыг ховилоор далдалсан алдааг зассан.\n- Дээд зэргийн ирмэгийг тохируулах сонголтыг нэмсэн."
+    "devnote": "- Зар сурталчилгаа устгах хугацааг хааяа дахин тохируулдаг алдааг яаралтай зассан.\n- Зайны түвшний дүрсэнд өнгө нэмсэн."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "- Ikuslearen edukia koskak iluntzen zuen akats bat konpondu zen.\n- Goiko marjina ezartzeko aukera bat gehitu da."
+    "devnote": "- Premiazkoa konpondu da iragarkiak kentzeko denbora noizean behin berrezartzen zen akats bat.\n- Kolorea gehitu zaio bateriaren mailaren ikonoari."
   },
   "버마어": {
     "key": "my",
-    "devnote": "- ကြည့်ရှုသူအကြောင်းအရာကို notch ဖြင့် ဖုံးကွယ်ထားသည့် bug ကို ပြင်ဆင်ပါ။\n- ထိပ်တန်း notch အနားသတ်ကို သတ်မှတ်ရန် ရွေးချယ်မှုတစ်ခု ထပ်ထည့်ထားသည်။"
+    "devnote": "- ကြော်ငြာဖယ်ရှားသည့်အချိန်ကို အခါအားလျော်စွာ ပြန်လည်သတ်မှတ်ပေးမည့် ချွတ်ယွင်းချက်တစ်ခုကို အမြန်ပြင်ဆင်ပါ။\n- ဘက်ထရီအဆင့်အိုင်ကွန်သို့ အရောင်ထည့်ထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "- Đã sửa lỗi nội dung của người xem bị che khuất bởi phần notch.\n- Đã thêm tùy chọn để đặt lề cao nhất."
+    "devnote": "- Đã sửa khẩn cấp lỗi khiến thời gian xóa quảng cáo thỉnh thoảng bị đặt lại.\n- Thêm màu vào biểu tượng mức pin."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "- Выпраўлена памылка, з-за якой змесціва праграмы прагляду закрывалася надрэзам.\n- Дададзена магчымасць усталяваць верхняе поле надрэзу."
+    "devnote": "- Тэрмінова выпраўлена памылка, з-за якой час выдалення рэкламы час ад часу скідаўся.\n- Дададзены колер да значка ўзроўню зарада батарэі."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "- একটি বাগ সংশোধন করা হয়েছে যেখানে দর্শকের বিষয়বস্তু খাঁজ দ্বারা অস্পষ্ট ছিল।\n- শীর্ষ খাঁজ মার্জিন সেট করার জন্য একটি বিকল্প যোগ করা হয়েছে।"
+    "devnote": "- জরুরীভাবে একটি বাগ সংশোধন করা হয়েছে যেখানে বিজ্ঞাপন অপসারণের সময় মাঝে মাঝে রিসেট হবে৷\n- ব্যাটারি স্তরের আইকনে রঙ যোগ করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "- Коригирана грешка, при която съдържанието на зрителя беше скрито от прореза.\n- Добавена е опция за задаване на полето на горния вдлъбнатина."
+    "devnote": "- Спешно коригирана грешка, при която времето за премахване на реклама понякога се нулира.\n- Добавен цвят към иконата за нивото на батерията."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "- Исправљена грешка где је садржај гледаоца био заклоњен урезом.\n- Додата је опција за постављање маргине највишег зареза."
+    "devnote": "- Хитно је исправљена грешка где би се време уклањања огласа повремено ресетовало.\n- Додата боја икони нивоа батерије."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "- Kurekebisha hitilafu ambapo maudhui ya mtazamaji yalifichwa na alama.\n- Imeongeza chaguo ili kuweka ukingo wa kiwango cha juu."
+    "devnote": "- Rekebisha hitilafu kwa haraka ambapo muda wa kuondoa tangazo ungewekwa upya mara kwa mara.\n- Imeongeza rangi kwenye ikoni ya kiwango cha betri."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "- Fixade en bugg där tittarinnehållet skymdes av skåran.\n- Lade till ett alternativ för att ställa in toppmarginalen."
+    "devnote": "- Brådskande fixade ett fel där tiden för borttagning av annonser ibland återställdes.\n- Lagt till färg på batterinivåikonen."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "- Se corrigió un error por el cual la muesca ocultaba el contenido del visor.\n- Se agregó una opción para establecer el margen de nivel superior."
+    "devnote": "- Se corrigió urgentemente un error por el cual el tiempo de eliminación de anuncios ocasionalmente se reiniciaba.\n- Se agregó color al ícono de nivel de batería."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "- Opravená chyba, pri ktorej bol obsah diváka zakrytý zárezom.\n- Pridaná možnosť nastavenia horného okraja."
+    "devnote": "- Naliehavo bola opravená chyba, pri ktorej sa čas odstránenia reklamy občas vynuloval.\n- Pridaná farba k ikone úrovne batérie."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "- Odpravljena je napaka, pri kateri je bila vsebina pregledovalnika zakrita z zarezo.\n- Dodana možnost za nastavitev roba zgornje zareze."
+    "devnote": "- Nujno odpravljena napaka, pri kateri se je čas odstranitve oglasa občasno ponastavil.\n- Dodana barva ikoni nivoja baterije."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "- නරඹන්නන්ගේ අන්තර්ගතය නොච් එක මගින් අපැහැදිලි වූ දෝෂයක් නිරාකරණය කරන ලදී.\n- ඉහළ මට්ටමේ ආන්තිකය සැකසීමට විකල්පයක් එක් කරන ලදී."
+    "devnote": "- දැන්වීම් ඉවත් කිරීමේ කාලය ඉඳහිට යළි සකසන දෝෂයක් හදිසියේ විසඳා ඇත.\n- බැටරි මට්ටමේ නිරූපකයට වර්ණය එක් කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "- تم إصلاح الخلل حيث كان محتوى المشاهد محجوبًا بالشق.\n- تمت إضافة خيار لتعيين هامش الدرجة الأولى."
+    "devnote": "- تم إصلاح الخلل بشكل عاجل حيث يتم إعادة ضبط وقت إزالة الإعلان من حين لآخر.\n- تمت إضافة اللون إلى أيقونة مستوى البطارية."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "- Ուղղվել է վրիպակ, որտեղ դիտողի բովանդակությունը մթագնված էր խազով:\n- Ավելացվեց վերին խազի լուսանցքը սահմանելու տարբերակ:"
+    "devnote": "- Շտապ շտկվել է վրիպակ, որտեղ գովազդի հեռացման ժամանակը երբեմն վերականգնվում է:\n- Գույն է ավելացվել մարտկոցի մակարդակի պատկերակին:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "- Lagaði villu þar sem innihald áhorfandans var hulið af hakinu.\n- Bætti við valmöguleika til að stilla efstu framlegð."
+    "devnote": "- Brýnt lagfærði villu þar sem tíminn til að fjarlægja auglýsingar endurstilltist stundum.\n- Bætti lit við rafhlöðutáknið."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "- İzləyici məzmununun çentik ilə örtüldüyü bir səhv düzəldildi.\n- Üst çentik marjasını təyin etmək üçün bir seçim əlavə edildi."
+    "devnote": "- Reklamın silinmə vaxtının vaxtaşırı sıfırlanacağı bir səhv təcili olaraq düzəldildi.\n- Batareya səviyyəsi işarəsinə rəng əlavə edildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "- Het 'n fout reggestel waar die kykerinhoud deur die kerf verduister is.\n- Bygevoeg 'n opsie om die boonste kantlyn te stel."
+    "devnote": "- Dringend 'n fout reggestel waar die tyd vir advertensieverwydering af en toe teruggestel word.\n- Kleur by die batteryvlakikoon gevoeg."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "- Rregulloi një defekt ku përmbajtja e shikuesit ishte errësuar nga niveli.\n- U shtua një opsion për të vendosur kufirin e nivelit të lartë."
+    "devnote": "- Rregullohet urgjentisht një defekt ku koha e heqjes së reklamave rivendosej herë pas here.\n- U shtua ngjyra në ikonën e nivelit të baterisë."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "- የተመልካቹ ይዘት በኖች የተደበቀበት ሳንካ ተስተካክሏል።\n- ከፍተኛውን የደረጃ ህዳግ ለማዘጋጀት አማራጭ ታክሏል።"
+    "devnote": "- የማስታወቂያ ማስወገጃ ጊዜ አልፎ አልፎ ዳግም የሚጀምርበትን ሳንካ በአስቸኳይ አስተካክል።\n- በባትሪ ደረጃ አዶ ላይ ቀለም ታክሏል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "- Parandatud viga, mille korral sälk varjas vaataja sisu.\n- Lisatud on ülemise piirjoone määramise võimalus."
+    "devnote": "- Kiiresti parandatud viga, mille puhul reklaami eemaldamise aeg aeg-ajalt lähtestati.\n- Aku taseme ikoonile on lisatud värv."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "- ایک بگ کو ٹھیک کیا جہاں ناظرین کے مواد کو نشان کے ذریعہ غیر واضح کیا گیا تھا۔\n- ٹاپ نوچ مارجن سیٹ کرنے کے لیے ایک آپشن شامل کیا گیا۔"
+    "devnote": "- فوری طور پر ایک بگ کو ٹھیک کیا جہاں اشتہار ہٹانے کا وقت کبھی کبھار دوبارہ ترتیب دیا جائے گا۔\n- بیٹری لیول آئیکن میں رنگ شامل کیا گیا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "- Виправлено помилку, через яку вміст програми перегляду був закритий виїмкою.\n— Додано опцію встановлення верхнього поля надрізу."
+    "devnote": "- Терміново виправлено помилку, через яку час видалення реклами час від часу скидався.\n— Додано колір піктограми рівня заряду батареї."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "- Risolto un bug per cui il contenuto del visualizzatore veniva oscurato dalla tacca.\n- Aggiunta un'opzione per impostare il margine di tacca superiore."
+    "devnote": "- Risolto urgentemente un bug per cui il tempo di rimozione degli annunci veniva occasionalmente reimpostato.\n- Aggiunto colore all'icona del livello della batteria."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "- Memperbaiki bug ketika konten pemirsa dikaburkan oleh takik.\n- Menambahkan opsi untuk mengatur margin kedudukan tertinggi."
+    "devnote": "- Segera memperbaiki bug di mana waktu penghapusan iklan kadang-kadang diatur ulang.\n- Menambahkan warna pada ikon level baterai."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "- ビューアのコンテンツがノッチによって隠れるバグを修正しました。\n- 上ノッチマージンを設定するオプションを追加しました。"
+    "devnote": "- 広告の削除時間が時々リセットされるバグを緊急修正しました。\n- バッテリー残量アイコンに色を追加しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "- დაფიქსირდა ხარვეზი, სადაც მაყურებლის კონტენტი დაჩრდილული იყო ჭრილით.\n- დამატებულია ვარიანტი ზედა დონის ზღვრის დასაყენებლად."
+    "devnote": "- სასწრაფოდ გამოსწორდა ხარვეზი, რომლის დროსაც რეკლამის ამოღების დრო პერიოდულად აღდგება.\n- დაემატა ფერი ბატარეის დონის ხატულას."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "- Kulungiswe iphutha lapho okuqukethwe kwesibukeli kusithwe inothi.\n- Kwengezwe inketho yokusetha i-notch ephezulu."
+    "devnote": "- Kulungiswe isiphazamisi ngokushesha lapho isikhathi sokususwa kwesikhangiso sizosethwa kabusha ngezikhathi ezithile.\n- Umbala ongeziwe kusithonjana sezinga lebhethri."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "- 修复了查看器内容被凹口遮挡的错误。\n- 添加了设置顶部缺口边距的选项。"
+    "devnote": "- 紧急修复了广告移除时间偶尔会重置的错误。\n- 为电池电量图标添加了颜色。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "- 修正了檢視器內容被凹口遮擋的錯誤。\n- 新增了設定頂部缺口邊距的選項。"
+    "devnote": "- 緊急修復了廣告移除時間偶爾會重置的錯誤。\n- 為電池電量圖示添加了顏色。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "- 修正了檢視器內容被凹口遮擋的錯誤。\n- 新增了設定頂部缺口邊距的選項。"
+    "devnote": "- 緊急修復了廣告移除時間偶爾會重置的錯誤。\n- 為電池電量圖示添加了顏色。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "- Opravena chyba, kdy byl obsah prohlížeče zakryt zářezem.\n- Přidána možnost nastavení horního okraje."
+    "devnote": "- Naléhavě opravena chyba, kdy se čas odstranění reklamy občas resetoval.\n- Přidána barva k ikoně úrovně baterie."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "- Көрермен мазмұны ойықпен жасырылған қате түзетілді.\n- Жоғарғы жиекті орнату опциясы қосылды."
+    "devnote": "- Жарнаманы жою уақыты кейде қалпына келтірілетін қате шұғыл түзетілді.\n- Батарея деңгейі белгішесіне түс қосылды."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "- S'ha corregit un error en què el contingut del visor estava enfosquit per l'osca.\n- S'ha afegit una opció per establir el marge superior."
+    "devnote": "- S'ha corregit urgentment un error en què el temps d'eliminació d'anuncis es restablia ocasionalment.\n- S'ha afegit color a la icona del nivell de bateria."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "- ವೀಕ್ಷಕರ ವಿಷಯವು ದರ್ಜೆಯಿಂದ ಅಸ್ಪಷ್ಟವಾಗಿರುವ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ಉನ್ನತ ದರ್ಜೆಯ ಅಂಚು ಹೊಂದಿಸಲು ಒಂದು ಆಯ್ಕೆಯನ್ನು ಸೇರಿಸಲಾಗಿದೆ."
+    "devnote": "- ಜಾಹೀರಾತು ತೆಗೆಯುವ ಸಮಯವನ್ನು ಸಾಂದರ್ಭಿಕವಾಗಿ ಮರುಹೊಂದಿಸುವ ದೋಷವನ್ನು ತುರ್ತಾಗಿ ಸರಿಪಡಿಸಲಾಗಿದೆ.\n- ಬ್ಯಾಟರಿ ಮಟ್ಟದ ಐಕಾನ್‌ಗೆ ಬಣ್ಣವನ್ನು ಸೇರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "- Ispravljena je greška gdje je sadržaj preglednika bio zaklonjen urezom.\n- Dodana opcija za postavljanje gornje margine."
+    "devnote": "- Hitno je ispravljena greška zbog koje se vrijeme uklanjanja oglasa povremeno poništavalo.\n- Dodana boja ikoni razine baterije."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "- ជួសជុលកំហុសដែលមាតិកាអ្នកមើលត្រូវបានបិទបាំងដោយស្នាមរន្ធ។\n- បានបន្ថែមជម្រើសមួយដើម្បីកំណត់រឹមស្នាមរន្ធកំពូល។"
+    "devnote": "- ជួសជុលបញ្ហាជាបន្ទាន់ ដែលពេលវេលាដកចេញការផ្សាយពាណិជ្ជកម្មនឹងកំណត់ឡើងវិញម្តងម្កាល។\n- បានបន្ថែមពណ៌ទៅរូបតំណាងកម្រិតថ្ម។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "- Көрүүчүнүн мазмуну оюк менен жаап калган мүчүлүштүк оңдолду.\n- Жогорку чекти орнотуу үчүн опция кошулду."
+    "devnote": "- Жарнаманы алып салуу убактысы маал-маалы менен баштапкы абалга келтирилип турган мүчүлүштүк тез арада оңдолду.\n- Батарея деңгээлинин сөлөкөтүнө түс кошулду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "- பார்வையாளரின் உள்ளடக்கம் உச்சநிலையால் மறைக்கப்பட்ட ஒரு பிழை சரி செய்யப்பட்டது.\n- மேல் உச்சநிலை விளிம்பை அமைக்க ஒரு விருப்பம் சேர்க்கப்பட்டது."
+    "devnote": "- விளம்பரம் அகற்றும் நேரத்தை எப்போதாவது மீட்டமைக்கும் ஒரு பிழை அவசரமாக சரி செய்யப்பட்டது.\n- பேட்டரி நிலை ஐகானில் வண்ணம் சேர்க்கப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "- แก้ไขข้อผิดพลาดที่เนื้อหาของผู้ดูถูกบดบังด้วยรอยบาก\n- เพิ่มตัวเลือกในการตั้งค่าระยะขอบด้านบน"
+    "devnote": "- แก้ไขข้อบกพร่องอย่างเร่งด่วนซึ่งบางครั้งเวลาลบโฆษณาจะถูกรีเซ็ต\n- เพิ่มสีให้กับไอคอนระดับแบตเตอรี่"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "- Görüntüleyici içeriğinin çentik tarafından gizlenmesine neden olan bir hata düzeltildi.\n- Üst çentik kenar boşluğunu ayarlama seçeneği eklendi."
+    "devnote": "- Reklam kaldırma süresinin ara sıra sıfırlanmasına neden olan bir hata acilen düzeltildi.\n- Pil seviyesi simgesine renk eklendi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "- వీక్షకుడి కంటెంట్ నాచ్ ద్వారా అస్పష్టంగా ఉన్న బగ్ పరిష్కరించబడింది.\n- టాప్ గీత మార్జిన్‌ని సెట్ చేయడానికి ఒక ఎంపికను జోడించారు."
+    "devnote": "- ప్రకటన తీసివేత సమయం అప్పుడప్పుడు రీసెట్ అయ్యే బగ్‌ని అత్యవసరంగా పరిష్కరించబడింది.\n- బ్యాటరీ స్థాయి చిహ్నానికి రంగు జోడించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਹੈ ਜਿੱਥੇ ਦਰਸ਼ਕ ਸਮੱਗਰੀ ਨੂੰ ਨਿਸ਼ਾਨ ਦੁਆਰਾ ਅਸਪਸ਼ਟ ਕੀਤਾ ਗਿਆ ਸੀ।\n- ਚੋਟੀ ਦੇ ਦਰਜੇ ਦੇ ਹਾਸ਼ੀਏ ਨੂੰ ਸੈਟ ਕਰਨ ਲਈ ਇੱਕ ਵਿਕਲਪ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।"
+    "devnote": "- ਤੁਰੰਤ ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਹੈ ਜਿੱਥੇ ਵਿਗਿਆਪਨ ਹਟਾਉਣ ਦਾ ਸਮਾਂ ਕਦੇ-ਕਦਾਈਂ ਰੀਸੈਟ ਹੋਵੇਗਾ।\n- ਬੈਟਰੀ ਪੱਧਰ ਦੇ ਆਈਕਨ ਵਿੱਚ ਰੰਗ ਜੋੜਿਆ ਗਿਆ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "- رفع اشکالی که در آن محتوای بیننده توسط شکاف پنهان شده بود.\n- اضافه شدن گزینه ای برای تنظیم حاشیه بریدگی بالا."
+    "devnote": "- فوراً اشکالی را که در آن زمان حذف آگهی گهگاهی بازنشانی می شد برطرف شد.\n- اضافه شدن رنگ به نماد سطح باتری."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "- Corrigido um bug onde o conteúdo do visualizador era obscurecido pelo entalhe.\n- Adicionada uma opção para definir a margem superior."
+    "devnote": "- Corrigido urgentemente um bug em que o tempo de remoção do anúncio era redefinido ocasionalmente.\n- Adicionada cor ao ícone do nível da bateria."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "- Naprawiono błąd, w wyniku którego zawartość przeglądarki była zasłonięta przez wycięcie.\n- Dodano opcję ustawienia górnego marginesu."
+    "devnote": "- Pilnie naprawiono błąd, w wyniku którego czas usuwania reklam czasami resetował się.\n- Dodano kolor do ikony poziomu naładowania baterii."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "- Correction d'un bug où le contenu du visualiseur était masqué par l'encoche.\n- Ajout d'une option pour définir la marge supérieure."
+    "devnote": "- Correction d'urgence d'un bug où le délai de suppression des publicités était parfois réinitialisé.\n- Ajout de couleur à l'icône du niveau de batterie."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "- Korjattu virhe, jossa lovi peitti katsojan sisällön.\n- Lisätty mahdollisuus asettaa ylälovin marginaali."
+    "devnote": "- Korjattu kiireesti virhe, jossa mainoksen poistoaika nollautui toisinaan.\n- Lisätty väri akun varaustason kuvakkeeseen."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "- Inayos ang isang bug kung saan ang nilalaman ng manonood ay natatakpan ng bingaw.\n- Nagdagdag ng opsyon para itakda ang pinakamataas na margin."
+    "devnote": "- Agad na inayos ang isang bug kung saan ang oras ng pag-alis ng ad ay paminsan-minsang magre-reset.\n- Nagdagdag ng kulay sa icon ng antas ng baterya."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "- Kijavítottunk egy hibát, ahol a nézői tartalmat eltakarta a bevágás.\n- Lehetőséget adtunk a felső margó beállítására."
+    "devnote": "- Sürgősen kijavítottunk egy hibát, amely miatt a hirdetéseltávolítási idő időnként visszaállt.\n- Az akkumulátor töltöttségi szintjét jelző ikon színt kapott."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "- תיקן באג שבו תוכן הצופה היה מוסתר על ידי החריץ.\n- נוספה אפשרות להגדיר את השוליים העליון."
+    "devnote": "- תיקן בדחיפות באג שבו זמן הסרת המודעה התאפס מדי פעם.\n- נוסף צבע לסמל רמת הסוללה."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "- उस बग को ठीक किया गया जहां दर्शक सामग्री नॉच द्वारा अस्पष्ट हो गई थी।\n- शीर्ष पायदान मार्जिन सेट करने के लिए एक विकल्प जोड़ा गया।"
+    "devnote": "- उस बग को तत्काल ठीक कर दिया गया जहां विज्ञापन हटाने का समय कभी-कभी रीसेट हो जाता था।\n- बैटरी लेवल आइकन में रंग जोड़ा गया।"
   }
 }
