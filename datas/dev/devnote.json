@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "- Urgently fixed a bug where the ad removal time would occasionally reset.\n- Added color to the battery level icon."
+    "devnote": "- The auto-shutdown icon has been changed to a clock icon.\n- The icons before and after the auto-shutdown setting have been applied differently.\n- We found a banner ad that moves without clicking, so we excluded the company.\n- We renewed the open source license.\n- We added the TTS advanced settings function.\n- We fixed other bugs."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "- 광고 제거 시간이 간헐적으로 초기화 되는 버그를 긴급 수정 하였습니다. \n- 배터리 잔량 아이콘에 색상을 추가 하였습니다."
+    "devnote": "- 자동종료 아이콘 시계아이콘 으로 수정 하였습니다. \n- 자동종료 설정 전후 아이콘 을 다르게 적용 하였습니다.\n- 클릭하지 않아도 이동되는 배너 광고를 발견하여 해당 업체를 제외했습니다.\n- 오픈소스 라이선스를 갱신하였습니다.\n- TTS 고급 설정 기능 을 추가 하였습니다. \n- 기타 버그를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "- Solucionouse de forma urxente un erro no que o tempo de eliminación de anuncios se restablecía ocasionalmente.\n- Engadiuse cor á icona do nivel da batería."
+    "devnote": "- A icona de apagado automático cambiouse a unha icona de reloxo.\n- As iconas anteriores e posteriores á configuración de apagado automático aplicáronse de forma diferente.\n- Atopamos un banner publicitario que se move sen facer clic, polo que excluímos á empresa.\n- Renovamos a licenza de código aberto.\n- Engadimos a función de configuración avanzada TTS.\n- Arranxamos outros erros."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "- તાકીદે એક બગને ઠીક કર્યો જ્યાં જાહેરાત દૂર કરવાનો સમય પ્રસંગોપાત રીસેટ થશે.\n- બેટરી લેવલ આઇકોનમાં રંગ ઉમેર્યો."
+    "devnote": "- ઓટો-શટડાઉન આયકનને ઘડિયાળના ચિહ્નમાં બદલવામાં આવ્યું છે.\n- ઓટો-શટડાઉન સેટિંગ પહેલા અને પછીના ચિહ્નો અલગ રીતે લાગુ કરવામાં આવ્યા છે.\n- અમને એક બેનર જાહેરાત મળી જે ક્લિક કર્યા વિના આગળ વધે છે, તેથી અમે કંપનીને બાકાત રાખી.\n- અમે ઓપન સોર્સ લાયસન્સ રિન્યુ કર્યું.\n- અમે TTS એડવાન્સ સેટિંગ્સ ફંક્શન ઉમેર્યું છે.\n- અમે અન્ય ભૂલો સુધારી છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "- Διορθώθηκε επειγόντως ένα σφάλμα όπου ο χρόνος κατάργησης της διαφήμισης επαναφερόταν περιστασιακά.\n- Προστέθηκε χρώμα στο εικονίδιο στάθμης μπαταρίας."
+    "devnote": "- Το εικονίδιο αυτόματου τερματισμού έχει αλλάξει σε εικονίδιο ρολογιού.\n- Τα εικονίδια πριν και μετά τη ρύθμιση αυτόματου τερματισμού έχουν εφαρμοστεί διαφορετικά.\n- Βρήκαμε ένα διαφημιστικό banner που κινείται χωρίς κλικ, οπότε αποκλείσαμε την εταιρεία.\n- Ανανεώσαμε την άδεια ανοιχτού κώδικα.\n- Προσθέσαμε τη λειτουργία σύνθετων ρυθμίσεων TTS.\n- Διορθώσαμε άλλα σφάλματα."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "- Er is dringend een bug opgelost waarbij de tijd voor het verwijderen van advertenties af en toe werd gereset.\n- Kleur toegevoegd aan het batterijniveaupictogram."
+    "devnote": "- Het pictogram voor automatisch afsluiten is gewijzigd in een klokpictogram.\n- De pictogrammen voor en na de instelling voor automatisch afsluiten zijn anders toegepast.\n- We hebben een banneradvertentie gevonden die beweegt zonder te klikken, dus hebben we het bedrijf uitgesloten.\n- We hebben de open source-licentie verlengd.\n- We hebben de functie voor geavanceerde TTS-instellingen toegevoegd.\n- We hebben andere bugs opgelost."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "- तुरुन्तै एउटा बग फिक्स गरियो जहाँ विज्ञापन हटाउने समय कहिलेकाहीं रिसेट हुनेछ।\n- ब्याट्री स्तर आइकनमा रंग थपियो।"
+    "devnote": "- स्वत: बन्द आइकन घडी आइकनमा परिवर्तन गरिएको छ।\n- स्वत: बन्द सेटिङ अघि र पछि आइकनहरू फरक रूपमा लागू गरिएको छ।\n- हामीले एउटा ब्यानर विज्ञापन फेला पार्‍यौं जुन क्लिक नगरी सर्छ, त्यसैले हामीले कम्पनीलाई बहिष्कार गर्यौं।\n- हामीले खुला स्रोत इजाजतपत्र नवीकरण गर्यौं।\n- हामीले TTS उन्नत सेटिङ प्रकार्य थप्यौं।\n- हामीले अन्य बगहरू फिक्स गर्यौं।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "- Rettet raskt en feil der tiden for annonsefjerning av og til ble tilbakestilt.\n- Lagt til farge på batterinivåikonet."
+    "devnote": "- Ikonet for automatisk avslutning er endret til et klokkeikon.\n- Ikonene før og etter innstillingen for automatisk avslutning har blitt brukt forskjellig.\n– Vi fant en bannerannonse som beveger seg uten å klikke, så vi ekskluderte selskapet.\n– Vi fornyet åpen kildekode-lisensen.\n- Vi la til funksjonen for avanserte innstillinger for TTS.\n- Vi fikset andre feil."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "- Umiddelbart rettet en fejl, hvor annoncefjernelsestiden lejlighedsvis blev nulstillet.\n- Tilføjet farve til batteriniveauikonet."
+    "devnote": "- Ikonet for automatisk nedlukning er blevet ændret til et urikon.\n- Ikonerne før og efter indstillingen for automatisk nedlukning er blevet anvendt forskelligt.\n- Vi fandt en bannerannonce, der bevæger sig uden at klikke, så vi udelukkede virksomheden.\n- Vi fornyede open source-licensen.\n- Vi tilføjede funktionen TTS avancerede indstillinger.\n- Vi har rettet andre fejl."
   },
   "독일어": {
     "key": "de",
-    "devnote": "- Es wurde dringend ein Fehler behoben, bei dem die Zeit zum Entfernen von Werbung gelegentlich zurückgesetzt wurde.\n- Dem Symbol für den Batteriestand wurde eine Farbe hinzugefügt."
+    "devnote": "- Das Symbol für die automatische Abschaltung wurde in ein Uhrensymbol geändert.\n- Die Symbole vor und nach der automatischen Abschalteinstellung wurden unterschiedlich angewendet.\n- Wir haben ein Werbebanner gefunden, das sich ohne Klicken bewegt, also haben wir das Unternehmen ausgeschlossen.\n- Wir haben die Open-Source-Lizenz erneuert.\n- Wir haben die erweiterte TTS-Einstellungsfunktion hinzugefügt.\n- Wir haben andere Fehler behoben."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "- ແກ້ໄຂຂໍ້ບົກພ່ອງຢ່າງຮີບດ່ວນທີ່ເວລາລຶບໂຄສະນາຈະຣີເຊັດເປັນບາງໂອກາດ.\n- ເພີ່ມສີໃສ່ໄອຄອນລະດັບແບັດເຕີຣີ."
+    "devnote": "- ໄອຄອນປິດອັດຕະໂນມັດຖືກປ່ຽນເປັນໄອຄອນໂມງ.\n- ຮູບ​ສັນ​ຍາ​ລັກ​ກ່ອນ​ແລະ​ຫຼັງ​ຈາກ​ການ​ຕັ້ງ​ຄ່າ​ປິດ​ອັດ​ຕະ​ໂນ​ມັດ​ໄດ້​ຖືກ​ນໍາ​ໃຊ້​ທີ່​ແຕກ​ຕ່າງ​ກັນ​.\n- ພວກເຮົາພົບເຫັນປ້າຍໂຄສະນາທີ່ເຄື່ອນຍ້າຍໂດຍບໍ່ມີການຄລິກ, ດັ່ງນັ້ນພວກເຮົາຈຶ່ງຍົກເວັ້ນບໍລິສັດ.\n- ພວກເຮົາຕໍ່ອາຍຸໃບອະນຸຍາດແຫຼ່ງເປີດ.\n- ພວກເຮົາໄດ້ເພີ່ມການທໍາງານຂອງການຕັ້ງຄ່າຂັ້ນສູງ TTS.\n- ພວກເຮົາແກ້ໄຂຂໍ້ບົກພ່ອງອື່ນໆ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "- Steidzami novērsta kļūda, kuras dēļ reklāmu noņemšanas laiks laiku pa laikam tika atiestatīts.\n- Akumulatora līmeņa ikonai pievienota krāsa."
+    "devnote": "- Automātiskās izslēgšanās ikona ir mainīta uz pulksteņa ikonu.\n- Ikonas pirms un pēc automātiskās izslēgšanās iestatījuma ir lietotas atšķirīgi.\n- Mēs atradām banera reklāmu, kas pārvietojas bez klikšķiem, tāpēc izslēdzām uzņēmumu.\n- Mēs atjaunojām atvērtā pirmkoda licenci.\n- Mēs pievienojām TTS papildu iestatījumu funkciju.\n- Mēs izlabojām citas kļūdas."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "- Срочно исправлена ​​ошибка, из-за которой время удаления рекламы иногда сбрасывалось.\n- Добавлен цвет значку уровня заряда батареи."
+    "devnote": "- Значок автовыключения заменен на значок часов.\n- Значки до и после настройки автовыключения применены по-разному.\n– Мы обнаружили рекламный баннер, который перемещается без нажатия, поэтому исключили компанию.\n- Мы продлили лицензию открытого исходного кода.\n- Мы добавили функцию расширенных настроек TTS.\n- Мы исправили другие ошибки."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "- S-a remediat urgent o eroare în care timpul de eliminare a anunțurilor se resetează ocazional.\n- S-a adăugat culoare la pictograma nivelului bateriei."
+    "devnote": "- Pictograma de oprire automată a fost schimbată într-o pictogramă ceas.\n- Pictogramele înainte și după setarea de oprire automată au fost aplicate diferit.\n- Am gasit un banner publicitar care se misca fara click, asa ca am exclus compania.\n- Am reînnoit licența open source.\n- Am adăugat funcția de setări avansate TTS.\n- Am remediat alte erori."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "– Skubiai ištaisyta klaida, dėl kurios skelbimo pašalinimo laikas retkarčiais buvo nustatomas iš naujo.\n- Akumuliatoriaus lygio piktograma pridėta spalva."
+    "devnote": "- Automatinio išjungimo piktograma pakeista į laikrodžio piktogramą.\n- Piktogramos prieš ir po automatinio išjungimo nustatymo buvo pritaikytos skirtingai.\n– Radome reklaminį skydelį, kuris juda nespustelėjus, todėl įmonę išskyrėme.\n– Atnaujinome atvirojo kodo licenciją.\n- Pridėjome išplėstinių TTS nustatymų funkciją.\n– Ištaisėme kitas klaidas."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "- जाहिरात काढण्याची वेळ अधूनमधून रीसेट होईल अशा बगचे तातडीने निराकरण केले.\n- बॅटरी लेव्हल आयकॉनमध्ये रंग जोडला."
+    "devnote": "- ऑटो-शटडाउन चिन्ह घड्याळ चिन्हात बदलले आहे.\n- ऑटो-शटडाउन सेटिंग आधी आणि नंतरचे चिन्ह वेगळ्या पद्धतीने लागू केले गेले आहेत.\n- आम्हाला एक बॅनर जाहिरात सापडली जी क्लिक न करता हलते, म्हणून आम्ही कंपनीला वगळले.\n- आम्ही ओपन सोर्स परवान्याचे नूतनीकरण केले.\n- आम्ही TTS प्रगत सेटिंग्ज फंक्शन जोडले.\n- आम्ही इतर बगचे निराकरण केले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "- Итно поправена грешка каде што времето за отстранување на рекламите повремено се ресетираше.\n- Додадена е боја на иконата за нивото на батеријата."
+    "devnote": "- Иконата за автоматско исклучување е сменета во икона за часовник.\n- Иконите пред и по поставката за автоматско исклучување се применети поинаку.\n- Најдовме банер реклама што се движи без кликнување, па ја исклучивме компанијата.\n- Ја обновивме лиценцата со отворен код.\n- Ја додадовме функцијата за напредни поставки TTS.\n- Поправивме други грешки."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "- പരസ്യം നീക്കംചെയ്യൽ സമയം ഇടയ്ക്കിടെ പുനഃസജ്ജമാക്കുന്ന ഒരു ബഗ് അടിയന്തിരമായി പരിഹരിച്ചു.\n- ബാറ്ററി ലെവൽ ഐക്കണിലേക്ക് നിറം ചേർത്തു."
+    "devnote": "- ഓട്ടോ-ഷട്ട്ഡൗൺ ഐക്കൺ ഒരു ക്ലോക്ക് ഐക്കണിലേക്ക് മാറ്റി.\n- സ്വയമേവ ഷട്ട്ഡൗൺ ക്രമീകരണത്തിന് മുമ്പും ശേഷവുമുള്ള ഐക്കണുകൾ വ്യത്യസ്തമായി പ്രയോഗിച്ചു.\n- ക്ലിക്കുചെയ്യാതെ നീങ്ങുന്ന ഒരു ബാനർ പരസ്യം ഞങ്ങൾ കണ്ടെത്തി, അതിനാൽ ഞങ്ങൾ കമ്പനിയെ ഒഴിവാക്കി.\n- ഞങ്ങൾ ഓപ്പൺ സോഴ്സ് ലൈസൻസ് പുതുക്കി.\n- ഞങ്ങൾ TTS വിപുലമായ ക്രമീകരണ പ്രവർത്തനം ചേർത്തു.\n- ഞങ്ങൾ മറ്റ് ബഗുകൾ പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "- Membetulkan pepijat dengan segera di mana masa pengalihan keluar iklan sekali-sekala akan ditetapkan semula.\n- Menambah warna pada ikon tahap bateri."
+    "devnote": "- Ikon auto-tutup telah ditukar kepada ikon jam.\n- Ikon sebelum dan selepas tetapan auto-tutup telah digunakan secara berbeza.\n- Kami menemui iklan sepanduk yang bergerak tanpa mengklik, jadi kami mengecualikan syarikat itu.\n- Kami memperbaharui lesen sumber terbuka.\n- Kami menambah fungsi tetapan lanjutan TTS.\n- Kami membetulkan pepijat lain."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "- Зар сурталчилгаа устгах хугацааг хааяа дахин тохируулдаг алдааг яаралтай зассан.\n- Зайны түвшний дүрсэнд өнгө нэмсэн."
+    "devnote": "- Автомат унтрах дүрсийг цагийн дүрс болгон өөрчилсөн.\n- Автомат унтрах тохиргооны өмнөх болон дараах дүрсүүдийг өөр өөрөөр ашигласан.\n- Бид дарахгүйгээр хөдөлдөг сурталчилгааны баннер олсон тул компанийг хассан.\n- Бид нээлттэй эхийн лицензийг шинэчилсэн.\n- Бид TTS дэвшилтэт тохиргооны функцийг нэмсэн.\n- Бид бусад алдаануудыг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "- Premiazkoa konpondu da iragarkiak kentzeko denbora noizean behin berrezartzen zen akats bat.\n- Kolorea gehitu zaio bateriaren mailaren ikonoari."
+    "devnote": "- Itzaltze automatikoko ikonoa erlojuaren ikono batera aldatu da.\n- Itzaltze automatikoaren ezarpenaren aurreko eta ondorengo ikonoak modu ezberdinean aplikatu dira.\n- Klik egin gabe mugitzen den banner iragarki bat aurkitu dugu, beraz, enpresa baztertu dugu.\n- Kode irekiko lizentzia berritu dugu.\n- TTS ezarpen aurreratuen funtzioa gehitu dugu.\n- Beste akats batzuk konpondu ditugu."
   },
   "버마어": {
     "key": "my",
-    "devnote": "- ကြော်ငြာဖယ်ရှားသည့်အချိန်ကို အခါအားလျော်စွာ ပြန်လည်သတ်မှတ်ပေးမည့် ချွတ်ယွင်းချက်တစ်ခုကို အမြန်ပြင်ဆင်ပါ။\n- ဘက်ထရီအဆင့်အိုင်ကွန်သို့ အရောင်ထည့်ထားသည်။"
+    "devnote": "- အလိုအလျောက်ပိတ်သည့်အိုင်ကွန်ကို နာရီသင်္ကေတအဖြစ် ပြောင်းလဲထားသည်။\n- အလိုအလျောက်ပိတ်ခြင်းဆက်တင်မတိုင်မီနှင့် ပြီးနောက် အိုင်ကွန်များကို ကွဲပြားစွာအသုံးပြုထားသည်။\n- နှိပ်စရာမလိုဘဲ ရွေ့လျားနေသော နဖူးစည်းကြော်ငြာတစ်ခုကို ကျွန်ုပ်တို့တွေ့ရှိသောကြောင့် ကုမ္ပဏီကို ဖယ်ထုတ်လိုက်ပါသည်။\n- ကျွန်ုပ်တို့သည် open source လိုင်စင်ကို သက်တမ်းတိုးထားပါသည်။\n- ကျွန်ုပ်တို့သည် TTS အဆင့်မြင့် ဆက်တင်များ လုပ်ဆောင်ချက်ကို ထည့်သွင်းခဲ့သည်။\n- အခြား bug များကိုကျွန်ုပ်တို့ပြုပြင်ခဲ့သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "- Đã sửa khẩn cấp lỗi khiến thời gian xóa quảng cáo thỉnh thoảng bị đặt lại.\n- Thêm màu vào biểu tượng mức pin."
+    "devnote": "- Biểu tượng tự động tắt máy đã được thay đổi thành biểu tượng đồng hồ.\n- Các biểu tượng trước và sau cài đặt tự động tắt đã được áp dụng khác nhau.\n- Chúng tôi tìm thấy một quảng cáo biểu ngữ di chuyển mà không cần nhấp vào, vì vậy chúng tôi đã loại trừ công ty đó.\n- Chúng tôi đã gia hạn giấy phép nguồn mở.\n- Chúng tôi đã thêm chức năng cài đặt nâng cao TTS.\n- Chúng tôi đã sửa các lỗi khác."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "- Тэрмінова выпраўлена памылка, з-за якой час выдалення рэкламы час ад часу скідаўся.\n- Дададзены колер да значка ўзроўню зарада батарэі."
+    "devnote": "- Значок аўтаматычнага адключэння быў зменены на значок гадзінніка.\n- Значкі да і пасля наладкі аўтаматычнага адключэння прымяняюцца па-рознаму.\n- Мы знайшлі рэкламны банер, які рухаецца без націску, таму выключылі кампанію.\n— Мы аднавілі ліцэнзію на адкрыты код.\n- Мы дадалі функцыю дадатковых налад TTS.\n- Мы выправілі іншыя памылкі."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "- জরুরীভাবে একটি বাগ সংশোধন করা হয়েছে যেখানে বিজ্ঞাপন অপসারণের সময় মাঝে মাঝে রিসেট হবে৷\n- ব্যাটারি স্তরের আইকনে রঙ যোগ করা হয়েছে।"
+    "devnote": "- অটো-শাটডাউন আইকনটিকে একটি ঘড়ি আইকনে পরিবর্তন করা হয়েছে৷\n- অটো-শাটডাউন সেটিং এর আগে এবং পরে আইকন ভিন্নভাবে প্রয়োগ করা হয়েছে।\n- আমরা একটি ব্যানার বিজ্ঞাপন পেয়েছি যা ক্লিক না করেই চলে, তাই আমরা কোম্পানিটিকে বাদ দিয়েছি।\n- আমরা ওপেন সোর্স লাইসেন্স নবায়ন করেছি।\n- আমরা TTS উন্নত সেটিংস ফাংশন যোগ করেছি।\n- আমরা অন্যান্য বাগ ঠিক করেছি।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "- Спешно коригирана грешка, при която времето за премахване на реклама понякога се нулира.\n- Добавен цвят към иконата за нивото на батерията."
+    "devnote": "- Иконата за автоматично изключване е променена на икона на часовник.\n- Иконите преди и след настройката за автоматично изключване са приложени по различен начин.\n- Намерихме рекламен банер, който се движи без щракване, така че изключихме компанията.\n- Подновихме лиценза за отворен код.\n- Добавихме функцията за разширени настройки на TTS.\n- Поправихме други грешки."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "- Хитно је исправљена грешка где би се време уклањања огласа повремено ресетовало.\n- Додата боја икони нивоа батерије."
+    "devnote": "- Икона аутоматског искључивања је промењена у икону сата.\n- Иконе пре и после подешавања аутоматског искључивања су другачије примењене.\n– Пронашли смо банер оглас који се креће без кликања, па смо фирму искључили.\n- Обновили смо лиценцу отвореног кода.\n- Додали смо функцију ТТС напредних подешавања.\n- Исправили смо друге грешке."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "- Rekebisha hitilafu kwa haraka ambapo muda wa kuondoa tangazo ungewekwa upya mara kwa mara.\n- Imeongeza rangi kwenye ikoni ya kiwango cha betri."
+    "devnote": "- Ikoni ya kuzima kiotomatiki imebadilishwa hadi ikoni ya saa.\n- Aikoni kabla na baada ya mpangilio wa kuzima kiotomatiki zimetumika kwa njia tofauti.\n- Tulipata tangazo la bango ambalo husogea bila kubofya, kwa hivyo tulitenga kampuni.\n- Tulifanya upya leseni ya chanzo huria.\n- Tuliongeza kazi ya mipangilio ya hali ya juu ya TTS.\n- Tulirekebisha makosa mengine."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "- Brådskande fixade ett fel där tiden för borttagning av annonser ibland återställdes.\n- Lagt till färg på batterinivåikonen."
+    "devnote": "- Ikonen för automatisk avstängning har ändrats till en klockikon.\n- Ikonerna före och efter inställningen för automatisk avstängning har tillämpats på olika sätt.\n– Vi hittade en bannerannons som rör sig utan att klicka, så vi uteslöt företaget.\n– Vi förnyade open source-licensen.\n- Vi lade till funktionen TTS avancerade inställningar.\n– Vi fixade andra buggar."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "- Se corrigió urgentemente un error por el cual el tiempo de eliminación de anuncios ocasionalmente se reiniciaba.\n- Se agregó color al ícono de nivel de batería."
+    "devnote": "- El ícono de apagado automático se ha cambiado a un ícono de reloj.\n- Los íconos antes y después de la configuración de apagado automático se han aplicado de manera diferente.\n- Encontramos un banner publicitario que se mueve sin hacer clic, por lo que excluimos a la empresa.\n- Renovamos la licencia de código abierto.\n- Agregamos la función de configuración avanzada TTS.\n- Arreglamos otros errores."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "- Naliehavo bola opravená chyba, pri ktorej sa čas odstránenia reklamy občas vynuloval.\n- Pridaná farba k ikone úrovne batérie."
+    "devnote": "- Ikona automatického vypnutia sa zmenila na ikonu hodín.\n- Ikony pred a po nastavení automatického vypnutia boli použité odlišne.\n- Našli sme bannerovú reklamu, ktorá sa pohybuje bez kliknutia, preto sme spoločnosť vylúčili.\n- Obnovili sme licenciu open source.\n- Pridali sme funkciu rozšírených nastavení TTS.\n- Opravili sme ďalšie chyby."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "- Nujno odpravljena napaka, pri kateri se je čas odstranitve oglasa občasno ponastavil.\n- Dodana barva ikoni nivoja baterije."
+    "devnote": "- Ikona za samodejni izklop je bila spremenjena v ikono ure.\n- Ikone pred in po nastavitvi samodejnega izklopa so bile uporabljene drugače.\n- Našli smo oglasno pasico, ki se premika brez klikanja, zato smo podjetje izključili.\n- Obnovili smo odprtokodno licenco.\n- Dodali smo funkcijo naprednih nastavitev TTS.\n- Popravili smo druge napake."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "- දැන්වීම් ඉවත් කිරීමේ කාලය ඉඳහිට යළි සකසන දෝෂයක් හදිසියේ විසඳා ඇත.\n- බැටරි මට්ටමේ නිරූපකයට වර්ණය එක් කරන ලදී."
+    "devnote": "- ස්වයංක්‍රීයව වසා දැමීමේ නිරූපකය ඔරලෝසු නිරූපකයකට වෙනස් කර ඇත.\n- ස්වයංක්‍රීය වසා දැමීමේ සැකසීමට පෙර සහ පසු අයිකන වෙනස් ලෙස යොදවා ඇත.\n- ක්ලික් කිරීමකින් තොරව චලනය වන බැනර් දැන්වීමක් අපට හමු විය, එබැවින් අපි සමාගම බැහැර කළෙමු.\n- අපි විවෘත මූලාශ්‍ර බලපත්‍රය අලුත් කළා.\n- අපි TTS උසස් සැකසුම් කාර්යය එකතු කළා.\n- අපි වෙනත් දෝෂ නිවැරදි කළා."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "- تم إصلاح الخلل بشكل عاجل حيث يتم إعادة ضبط وقت إزالة الإعلان من حين لآخر.\n- تمت إضافة اللون إلى أيقونة مستوى البطارية."
+    "devnote": "- تم تغيير أيقونة الإغلاق التلقائي إلى أيقونة الساعة.\n- تم تطبيق الرموز قبل وبعد إعداد إيقاف التشغيل التلقائي بشكل مختلف.\n- وجدنا لافتة إعلانية تتحرك دون النقر، لذلك قمنا باستبعاد الشركة.\n- قمنا بتجديد ترخيص المصدر المفتوح.\n- أضفنا وظيفة الإعدادات المتقدمة لتحويل النص إلى كلام (TTS).\n- قمنا بإصلاح الأخطاء الأخرى."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "- Շտապ շտկվել է վրիպակ, որտեղ գովազդի հեռացման ժամանակը երբեմն վերականգնվում է:\n- Գույն է ավելացվել մարտկոցի մակարդակի պատկերակին:"
+    "devnote": "- Ավտոմատ անջատման պատկերակը փոխվել է ժամացույցի պատկերակի:\n- Ավտոմատ անջատման կարգավորումից առաջ և հետո պատկերակները տարբեր կերպ են կիրառվել:\n- Մենք գտանք բաններային գովազդ, որը շարժվում է առանց սեղմելու, ուստի մենք բացառեցինք ընկերությունը:\n- Մենք թարմացրել ենք բաց կոդով լիցենզիան։\n- Մենք ավելացրել ենք TTS առաջադեմ պարամետրերի գործառույթը:\n- Մենք ուղղեցինք այլ սխալներ:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "- Brýnt lagfærði villu þar sem tíminn til að fjarlægja auglýsingar endurstilltist stundum.\n- Bætti lit við rafhlöðutáknið."
+    "devnote": "- Táknið fyrir sjálfvirka lokun hefur verið breytt í klukkutákn.\n- Táknin fyrir og eftir sjálfvirka lokunarstillingu hafa verið notuð á annan hátt.\n- Við fundum borðaauglýsingu sem hreyfist án þess að smella, svo við útilokuðum fyrirtækið.\n- Við endurnýjuðum opna leyfið.\n- Við bættum við TTS háþróuðum stillingum.\n- Við laguðum aðrar villur."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "- Reklamın silinmə vaxtının vaxtaşırı sıfırlanacağı bir səhv təcili olaraq düzəldildi.\n- Batareya səviyyəsi işarəsinə rəng əlavə edildi."
+    "devnote": "- Avtomatik sönmə işarəsi saat işarəsinə dəyişdirildi.\n- Avtomatik söndürmə parametrindən əvvəl və sonrakı nişanlar fərqli şəkildə tətbiq edilmişdir.\n- Klikləmədən hərəkət edən banner reklamı tapdıq, ona görə də şirkəti xaric etdik.\n- Açıq mənbə lisenziyasını yenilədik.\n- Biz TTS qabaqcıl parametrlər funksiyasını əlavə etdik.\n- Digər səhvləri düzəltdik."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "- Dringend 'n fout reggestel waar die tyd vir advertensieverwydering af en toe teruggestel word.\n- Kleur by die batteryvlakikoon gevoeg."
+    "devnote": "- Die outo-afskakelikoon is verander na 'n klokikoon.\n- Die ikone voor en na die outo-afskakelinstelling is verskillend toegepas.\n- Ons het 'n banieradvertensie gevind wat beweeg sonder om te klik, so ons het die maatskappy uitgesluit.\n- Ons het die oopbronlisensie hernu.\n- Ons het die TTS-gevorderde instellingsfunksie bygevoeg.\n- Ons het ander foute reggemaak."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "- Rregullohet urgjentisht një defekt ku koha e heqjes së reklamave rivendosej herë pas here.\n- U shtua ngjyra në ikonën e nivelit të baterisë."
+    "devnote": "- Ikona e mbylljes automatike është ndryshuar në një ikonë të orës.\n- Ikonat para dhe pas cilësimit të mbylljes automatike janë aplikuar ndryshe.\n- Ne gjetëm një reklamë baner që lëviz pa klikuar, kështu që e përjashtuam kompaninë.\n- Ne rinovuam licencën me kod të hapur.\n- Ne shtuam funksionin e cilësimeve të avancuara TTS.\n- Ne rregulluam defekte të tjera."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "- የማስታወቂያ ማስወገጃ ጊዜ አልፎ አልፎ ዳግም የሚጀምርበትን ሳንካ በአስቸኳይ አስተካክል።\n- በባትሪ ደረጃ አዶ ላይ ቀለም ታክሏል።"
+    "devnote": "- የራስ-ማጥፋት አዶ ወደ ሰዓት አዶ ተለውጧል።\n- ከራስ-ሰር መዝጊያ ቅንብር በፊት እና በኋላ ያሉት አዶዎች በተለያየ መንገድ ተተግብረዋል.\n- ጠቅ ሳያደርጉ የሚንቀሳቀስ ባነር ማስታወቂያ አግኝተናል፣ ስለዚህ ኩባንያውን አገለልን።\n- ክፍት ምንጭ ፈቃዱን አድሰናል።\n- የ TTS የላቀ ቅንጅቶችን ተግባር ጨምረናል።\n- ሌሎች ስህተቶችን አስተካክለናል."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "- Kiiresti parandatud viga, mille puhul reklaami eemaldamise aeg aeg-ajalt lähtestati.\n- Aku taseme ikoonile on lisatud värv."
+    "devnote": "- Automaatse väljalülitamise ikoon on muudetud kellaikooniks.\n- Ikoonid enne ja pärast automaatse väljalülitamise seadistust on rakendatud erinevalt.\n- Leidsime bännerreklaami, mis liigub klõpsamata, seega välistasime ettevõtte.\n- Uuendasime avatud lähtekoodiga litsentsi.\n- Lisasime TTS-i täpsemate sätete funktsiooni.\n- Parandasime muid vigu."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "- فوری طور پر ایک بگ کو ٹھیک کیا جہاں اشتہار ہٹانے کا وقت کبھی کبھار دوبارہ ترتیب دیا جائے گا۔\n- بیٹری لیول آئیکن میں رنگ شامل کیا گیا۔"
+    "devnote": "- آٹو شٹ ڈاؤن آئیکن کو گھڑی کے آئیکن میں تبدیل کر دیا گیا ہے۔\n- آٹو شٹ ڈاؤن سیٹنگ سے پہلے اور بعد کے آئیکنز کو مختلف طریقے سے لاگو کیا گیا ہے۔\n- ہمیں ایک بینر اشتہار ملا جو کلک کیے بغیر حرکت کرتا ہے، اس لیے ہم نے کمپنی کو خارج کر دیا۔\n- ہم نے اوپن سورس لائسنس کی تجدید کی۔\n- ہم نے TTS ایڈوانس سیٹنگز فنکشن کو شامل کیا۔\n- ہم نے دوسرے کیڑے ٹھیک کردیئے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "- Терміново виправлено помилку, через яку час видалення реклами час від часу скидався.\n— Додано колір піктограми рівня заряду батареї."
+    "devnote": "— Значок автоматичного вимкнення змінено на значок годинника.\n- Піктограми до та після налаштування автоматичного вимкнення застосовано по-різному.\n– Ми знайшли рекламний банер, який рухається без натискання, тому ми виключили компанію.\n– Ми продовжили ліцензію на відкритий код.\n— Ми додали функцію розширених налаштувань TTS.\n- Ми виправили інші помилки."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "- Risolto urgentemente un bug per cui il tempo di rimozione degli annunci veniva occasionalmente reimpostato.\n- Aggiunto colore all'icona del livello della batteria."
+    "devnote": "- L'icona di spegnimento automatico è stata cambiata in un'icona di orologio.\n- Le icone prima e dopo l'impostazione di spegnimento automatico sono state applicate in modo diverso.\n- Abbiamo trovato un banner pubblicitario che si muove senza cliccare, quindi abbiamo escluso l'azienda.\n- Abbiamo rinnovato la licenza open source.\n- Abbiamo aggiunto la funzione di impostazioni avanzate TTS.\n- Abbiamo corretto altri bug."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "- Segera memperbaiki bug di mana waktu penghapusan iklan kadang-kadang diatur ulang.\n- Menambahkan warna pada ikon level baterai."
+    "devnote": "- Ikon mati otomatis telah diubah menjadi ikon jam.\n- Ikon sebelum dan sesudah pengaturan mati otomatis diterapkan secara berbeda.\n- Kami menemukan iklan banner yang bergerak tanpa klik, jadi kami mengecualikan perusahaan tersebut.\n- Kami memperbarui lisensi open source.\n- Kami menambahkan fungsi pengaturan lanjutan TTS.\n- Kami memperbaiki bug lainnya."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "- 広告の削除時間が時々リセットされるバグを緊急修正しました。\n- バッテリー残量アイコンに色を追加しました。"
+    "devnote": "- 自動シャットダウンアイコンが時計アイコンに変更されました。\n- 自動シャットダウン設定の前後でアイコンの適用が異なります。\n・クリックせずに移動するバナー広告を発見したため対象外とさせていただきました。\n- オープンソースライセンスを更新しました。\n・TTS詳細設定機能を追加しました。\n- その他のバグを修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "- სასწრაფოდ გამოსწორდა ხარვეზი, რომლის დროსაც რეკლამის ამოღების დრო პერიოდულად აღდგება.\n- დაემატა ფერი ბატარეის დონის ხატულას."
+    "devnote": "- ავტომატური გამორთვის ხატულა შეიცვალა საათის ხატულაზე.\n- ხატები ავტომატური გამორთვის პარამეტრამდე და შემდეგ განსხვავებულად იქნა გამოყენებული.\n- ვიპოვეთ ბანერი, რომელიც მოძრაობს დაწკაპუნების გარეშე, ამიტომ გამოვრიცხეთ კომპანია.\n- ჩვენ განვაახლეთ ღია კოდის ლიცენზია.\n- ჩვენ დავამატეთ TTS გაფართოებული პარამეტრების ფუნქცია.\n- სხვა შეცდომები გამოვასწორეთ."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "- Kulungiswe isiphazamisi ngokushesha lapho isikhathi sokususwa kwesikhangiso sizosethwa kabusha ngezikhathi ezithile.\n- Umbala ongeziwe kusithonjana sezinga lebhethri."
+    "devnote": "- Isithonjana sokuvala ngokuzenzakalela sishintshiwe saba yisithonjana sewashi.\n- Izithonjana ngaphambi nangemuva kwesilungiselelo sokuvala ngokuzenzakalelayo sisetshenziswe ngendlela ehlukile.\n- Sithole isikhangiso sesibhengezo esihamba ngaphandle kokuchofoza, ngakho asiyifaki ngaphandle inkampani.\n- Sivuselele ilayisensi yomthombo ovulekile.\n- Sengeze umsebenzi wezilungiselelo ezithuthukisiwe ze-TTS.\n- Silungise ezinye iziphazamisi."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "- 紧急修复了广告移除时间偶尔会重置的错误。\n- 为电池电量图标添加了颜色。"
+    "devnote": "- 自动关机图标已更改为时钟图标。\n- 自动关机设置前后的图标应用不同。\n- 我们发现一个横幅广告无需点击即可移动，因此我们排除了该公司。\n- 我们更新了开源许可证。\n- 我们添加了TTS高级设置功能。\n- 我们修复了其他错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "- 緊急修復了廣告移除時間偶爾會重置的錯誤。\n- 為電池電量圖示添加了顏色。"
+    "devnote": "- 自動關機圖示已變更為時鐘圖示。\n- 自動關機設定前後的圖示應用不同。\n- 我們發現一個橫幅廣告無需點擊即可移動，因此我們排除了該公司。\n- 我們更新了開源許可證。\n- 我們新增了TTS進階設定功能。\n- 我們修復了其他錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "- 緊急修復了廣告移除時間偶爾會重置的錯誤。\n- 為電池電量圖示添加了顏色。"
+    "devnote": "- 自動關機圖示已變更為時鐘圖示。\n- 自動關機設定前後的圖示應用不同。\n- 我們發現一個橫幅廣告無需點擊即可移動，因此我們排除了該公司。\n- 我們更新了開源許可證。\n- 我們新增了TTS進階設定功能。\n- 我們修復了其他錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "- Naléhavě opravena chyba, kdy se čas odstranění reklamy občas resetoval.\n- Přidána barva k ikoně úrovně baterie."
+    "devnote": "- Ikona automatického vypnutí byla změněna na ikonu hodin.\n- Ikony před a po nastavení automatického vypnutí byly použity odlišně.\n- Našli jsme bannerovou reklamu, která se pohybuje bez kliknutí, takže jsme společnost vyloučili.\n- Obnovili jsme licenci open source.\n- Přidali jsme funkci pokročilého nastavení TTS.\n- Opravili jsme další chyby."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "- Жарнаманы жою уақыты кейде қалпына келтірілетін қате шұғыл түзетілді.\n- Батарея деңгейі белгішесіне түс қосылды."
+    "devnote": "- Автоматты түрде өшіру белгішесі сағат белгішесіне өзгертілді.\n- Автоматты түрде өшіру параметріне дейінгі және кейінгі белгішелер басқаша қолданылған.\n- Біз баннерді баспай жылжытатын жарнаманы таптық, сондықтан компанияны шығарып тастадық.\n- Біз ашық бастапқы код лицензиясын жаңарттық.\n- Біз TTS кеңейтілген параметрлер функциясын қостық.\n- Біз басқа қателерді түзеттік."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "- S'ha corregit urgentment un error en què el temps d'eliminació d'anuncis es restablia ocasionalment.\n- S'ha afegit color a la icona del nivell de bateria."
+    "devnote": "- La icona d'apagada automàtica s'ha canviat a una icona de rellotge.\n- Les icones abans i després de la configuració d'apagat automàtic s'han aplicat de manera diferent.\n- Hem trobat un bàner publicitari que es mou sense fer clic, així que hem exclòs l'empresa.\n- Hem renovat la llicència de codi obert.\n- Hem afegit la funció de configuració avançada TTS.\n- Hem corregit altres errors."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "- ಜಾಹೀರಾತು ತೆಗೆಯುವ ಸಮಯವನ್ನು ಸಾಂದರ್ಭಿಕವಾಗಿ ಮರುಹೊಂದಿಸುವ ದೋಷವನ್ನು ತುರ್ತಾಗಿ ಸರಿಪಡಿಸಲಾಗಿದೆ.\n- ಬ್ಯಾಟರಿ ಮಟ್ಟದ ಐಕಾನ್‌ಗೆ ಬಣ್ಣವನ್ನು ಸೇರಿಸಲಾಗಿದೆ."
+    "devnote": "- ಸ್ವಯಂ ಸ್ಥಗಿತಗೊಳಿಸುವ ಐಕಾನ್ ಅನ್ನು ಗಡಿಯಾರ ಐಕಾನ್‌ಗೆ ಬದಲಾಯಿಸಲಾಗಿದೆ.\n- ಸ್ವಯಂ ಸ್ಥಗಿತಗೊಳಿಸುವ ಮೊದಲು ಮತ್ತು ನಂತರದ ಐಕಾನ್‌ಗಳನ್ನು ವಿಭಿನ್ನವಾಗಿ ಅನ್ವಯಿಸಲಾಗಿದೆ.\n- ಕ್ಲಿಕ್ ಮಾಡದೆಯೇ ಚಲಿಸುವ ಬ್ಯಾನರ್ ಜಾಹೀರಾತನ್ನು ನಾವು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ, ಆದ್ದರಿಂದ ನಾವು ಕಂಪನಿಯನ್ನು ಹೊರಗಿಟ್ಟಿದ್ದೇವೆ.\n- ನಾವು ತೆರೆದ ಮೂಲ ಪರವಾನಗಿಯನ್ನು ನವೀಕರಿಸಿದ್ದೇವೆ.\n- ನಾವು TTS ಸುಧಾರಿತ ಸೆಟ್ಟಿಂಗ್‌ಗಳ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಿದ್ದೇವೆ.\n- ನಾವು ಇತರ ದೋಷಗಳನ್ನು ಸರಿಪಡಿಸಿದ್ದೇವೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "- Hitno je ispravljena greška zbog koje se vrijeme uklanjanja oglasa povremeno poništavalo.\n- Dodana boja ikoni razine baterije."
+    "devnote": "- Ikona automatskog isključivanja promijenjena je u ikonu sata.\n- Ikone prije i poslije postavke automatskog isključivanja drugačije su primijenjene.\n- Pronašli smo reklamni banner koji se pomiče bez klika pa smo tvrtku isključili.\n- Obnovili smo open source licencu.\n- Dodali smo funkciju naprednih postavki TTS-a.\n- Ispravili smo druge greške."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "- ជួសជុលបញ្ហាជាបន្ទាន់ ដែលពេលវេលាដកចេញការផ្សាយពាណិជ្ជកម្មនឹងកំណត់ឡើងវិញម្តងម្កាល។\n- បានបន្ថែមពណ៌ទៅរូបតំណាងកម្រិតថ្ម។"
+    "devnote": "- រូបតំណាងបិទដោយស្វ័យប្រវត្តិត្រូវបានប្តូរទៅជារូបតំណាងនាឡិកា។\n- រូបតំណាងមុន និងក្រោយការកំណត់បិទដោយស្វ័យប្រវត្តិត្រូវបានអនុវត្តខុសគ្នា។\n- យើងបានរកឃើញផ្ទាំងផ្សាយពាណិជ្ជកម្មដែលផ្លាស់ទីដោយមិនចាំបាច់ចុច ដូច្នេះយើងដកក្រុមហ៊ុនចេញ។\n- យើងបានបន្តអាជ្ញាប័ណ្ណប្រភពបើកចំហ។\n- យើងបានបន្ថែមមុខងារការកំណត់កម្រិតខ្ពស់ TTS ។\n- យើងបានជួសជុលកំហុសផ្សេងទៀត។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "- Жарнаманы алып салуу убактысы маал-маалы менен баштапкы абалга келтирилип турган мүчүлүштүк тез арада оңдолду.\n- Батарея деңгээлинин сөлөкөтүнө түс кошулду."
+    "devnote": "- Автоматтык өчүрүү сөлөкөтү саат белгисине өзгөртүлдү.\n- Автоматтык өчүрүү орнотуусуна чейинки жана андан кийинки иконалар башкача колдонулду.\n- Биз басылбастан жылып турган баннердик жарнаманы таптык, ошондуктан компанияны киргизбей койдук.\n- Биз ачык булак лицензиясын жаңыртканбыз.\n- Биз TTS өркүндөтүлгөн орнотуулар функциясын коштук.\n- Биз башка мүчүлүштүктөрдү оңдодук."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "- விளம்பரம் அகற்றும் நேரத்தை எப்போதாவது மீட்டமைக்கும் ஒரு பிழை அவசரமாக சரி செய்யப்பட்டது.\n- பேட்டரி நிலை ஐகானில் வண்ணம் சேர்க்கப்பட்டது."
+    "devnote": "- தானாக பணிநிறுத்தம் ஐகான் கடிகார ஐகானாக மாற்றப்பட்டது.\n- தானாக பணிநிறுத்தம் அமைப்பதற்கு முன்னும் பின்னும் உள்ள ஐகான்கள் வித்தியாசமாகப் பயன்படுத்தப்பட்டன.\n- கிளிக் செய்யாமலேயே நகரும் பேனர் விளம்பரத்தைக் கண்டறிந்தோம், எனவே நிறுவனத்தைத் தவிர்த்துவிட்டோம்.\n- திறந்த மூல உரிமத்தை புதுப்பித்துள்ளோம்.\n- நாங்கள் TTS மேம்பட்ட அமைப்புகள் செயல்பாட்டைச் சேர்த்துள்ளோம்.\n- நாங்கள் மற்ற பிழைகளை சரிசெய்தோம்."
   },
   "태국어": {
     "key": "th",
-    "devnote": "- แก้ไขข้อบกพร่องอย่างเร่งด่วนซึ่งบางครั้งเวลาลบโฆษณาจะถูกรีเซ็ต\n- เพิ่มสีให้กับไอคอนระดับแบตเตอรี่"
+    "devnote": "- เปลี่ยนไอคอนปิดเครื่องอัตโนมัติเป็นไอคอนนาฬิกา\n- ไอคอนก่อนและหลังการตั้งค่าปิดเครื่องอัตโนมัติถูกนำไปใช้แตกต่างออกไป\n- เราพบโฆษณาแบนเนอร์ที่เคลื่อนไหวได้โดยไม่ต้องคลิก ดังนั้นเราจึงยกเว้นบริษัท\n- เราต่ออายุใบอนุญาตโอเพ่นซอร์ส\n- เราได้เพิ่มฟังก์ชันการตั้งค่าขั้นสูงของ TTS\n- เราแก้ไขข้อบกพร่องอื่น ๆ"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "- Reklam kaldırma süresinin ara sıra sıfırlanmasına neden olan bir hata acilen düzeltildi.\n- Pil seviyesi simgesine renk eklendi."
+    "devnote": "- Otomatik kapanma simgesi saat simgesine dönüştürüldü.\n- Otomatik kapanma ayarından önceki ve sonraki simgeler farklı şekilde uygulandı.\n- Tıklamadan hareket eden bir banner reklam bulduk, bu yüzden şirketi hariç tuttuk.\n- Açık kaynak lisansını yeniledik.\n- TTS gelişmiş ayarlar fonksiyonunu ekledik.\n- Diğer hataları düzelttik."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "- ప్రకటన తీసివేత సమయం అప్పుడప్పుడు రీసెట్ అయ్యే బగ్‌ని అత్యవసరంగా పరిష్కరించబడింది.\n- బ్యాటరీ స్థాయి చిహ్నానికి రంగు జోడించబడింది."
+    "devnote": "- ఆటో-షట్‌డౌన్ చిహ్నం గడియార చిహ్నంగా మార్చబడింది.\n- ఆటో-షట్‌డౌన్ సెట్టింగ్‌కు ముందు మరియు తర్వాత చిహ్నాలు విభిన్నంగా వర్తింపజేయబడ్డాయి.\n- మేము క్లిక్ చేయకుండా కదిలే బ్యానర్ ప్రకటనను కనుగొన్నాము, కాబట్టి మేము కంపెనీని మినహాయించాము.\n- మేము ఓపెన్ సోర్స్ లైసెన్స్‌ని పునరుద్ధరించాము.\n- మేము TTS అధునాతన సెట్టింగ్‌ల ఫంక్షన్‌ని జోడించాము.\n- మేము ఇతర బగ్‌లను పరిష్కరించాము."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "- ਤੁਰੰਤ ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਹੈ ਜਿੱਥੇ ਵਿਗਿਆਪਨ ਹਟਾਉਣ ਦਾ ਸਮਾਂ ਕਦੇ-ਕਦਾਈਂ ਰੀਸੈਟ ਹੋਵੇਗਾ।\n- ਬੈਟਰੀ ਪੱਧਰ ਦੇ ਆਈਕਨ ਵਿੱਚ ਰੰਗ ਜੋੜਿਆ ਗਿਆ।"
+    "devnote": "- ਆਟੋ-ਸ਼ਟਡਾਊਨ ਆਈਕਨ ਨੂੰ ਇੱਕ ਘੜੀ ਆਈਕਨ ਵਿੱਚ ਬਦਲ ਦਿੱਤਾ ਗਿਆ ਹੈ।\n- ਆਟੋ-ਸ਼ਟਡਾਊਨ ਸੈਟਿੰਗ ਤੋਂ ਪਹਿਲਾਂ ਅਤੇ ਬਾਅਦ ਦੇ ਆਈਕਨ ਵੱਖਰੇ ਤਰੀਕੇ ਨਾਲ ਲਾਗੂ ਕੀਤੇ ਗਏ ਹਨ।\n- ਸਾਨੂੰ ਇੱਕ ਬੈਨਰ ਵਿਗਿਆਪਨ ਮਿਲਿਆ ਜੋ ਬਿਨਾਂ ਕਲਿੱਕ ਕੀਤੇ ਅੱਗੇ ਵਧਦਾ ਹੈ, ਇਸਲਈ ਅਸੀਂ ਕੰਪਨੀ ਨੂੰ ਬਾਹਰ ਕਰ ਦਿੱਤਾ।\n- ਅਸੀਂ ਓਪਨ ਸੋਰਸ ਲਾਇਸੈਂਸ ਦਾ ਨਵੀਨੀਕਰਨ ਕੀਤਾ ਹੈ।\n- ਅਸੀਂ TTS ਐਡਵਾਂਸਡ ਸੈਟਿੰਗਜ਼ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਹੈ।\n- ਅਸੀਂ ਹੋਰ ਬੱਗ ਠੀਕ ਕੀਤੇ ਹਨ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "- فوراً اشکالی را که در آن زمان حذف آگهی گهگاهی بازنشانی می شد برطرف شد.\n- اضافه شدن رنگ به نماد سطح باتری."
+    "devnote": "- نماد خاموش شدن خودکار به نماد ساعت تغییر کرده است.\n- آیکون های قبل و بعد از تنظیم خاموش شدن خودکار متفاوت اعمال شده اند.\n- ما یک بنر تبلیغاتی پیدا کردیم که بدون کلیک حرکت می کند، بنابراین شرکت را حذف کردیم.\n- مجوز منبع باز را تمدید کردیم.\n- ما عملکرد تنظیمات پیشرفته TTS را اضافه کردیم.\n- ما اشکالات دیگر را رفع کردیم."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "- Corrigido urgentemente um bug em que o tempo de remoção do anúncio era redefinido ocasionalmente.\n- Adicionada cor ao ícone do nível da bateria."
+    "devnote": "- O ícone de desligamento automático foi alterado para um ícone de relógio.\n- Os ícones antes e depois da configuração de desligamento automático foram aplicados de forma diferente.\n- Encontramos um banner que se move sem clicar, então excluímos a empresa.\n- Renovamos a licença de código aberto.\n- Adicionamos a função de configurações avançadas TTS.\n- Corrigimos outros bugs."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "- Pilnie naprawiono błąd, w wyniku którego czas usuwania reklam czasami resetował się.\n- Dodano kolor do ikony poziomu naładowania baterii."
+    "devnote": "- Ikona automatycznego wyłączania została zmieniona na ikonę zegara.\n- Ikony przed i po ustawieniu automatycznego wyłączania zostały zastosowane w różny sposób.\n- Znaleźliśmy baner reklamowy, który porusza się bez klikania, więc wykluczyliśmy firmę.\n- Odnowiliśmy licencję open source.\n- Dodaliśmy funkcję zaawansowanych ustawień TTS.\n- Naprawiliśmy inne błędy."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "- Correction d'urgence d'un bug où le délai de suppression des publicités était parfois réinitialisé.\n- Ajout de couleur à l'icône du niveau de batterie."
+    "devnote": "- L'icône d'arrêt automatique a été remplacée par une icône d'horloge.\n- Les icônes avant et après le paramètre d'arrêt automatique ont été appliquées différemment.\n- Nous avons trouvé une bannière publicitaire qui bouge sans cliquer, nous avons donc exclu l'entreprise.\n- Nous avons renouvelé la licence open source.\n- Nous avons ajouté la fonction de paramètres avancés TTS.\n- Nous avons corrigé d'autres bugs."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "- Korjattu kiireesti virhe, jossa mainoksen poistoaika nollautui toisinaan.\n- Lisätty väri akun varaustason kuvakkeeseen."
+    "devnote": "- Automaattisen sammutuksen kuvake on muutettu kellokuvakkeeksi.\n- Kuvakkeet ennen ja jälkeen automaattisen sammutuksen asetuksen on käytetty eri tavalla.\n- Löysimme bannerimainoksen, joka liikkuu napsauttamatta, joten sulkimme yrityksen pois.\n- Uusisimme avoimen lähdekoodin lisenssin.\n- Lisäsimme TTS-lisäasetukset-toiminnon.\n- Korjasimme muita bugeja."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "- Agad na inayos ang isang bug kung saan ang oras ng pag-alis ng ad ay paminsan-minsang magre-reset.\n- Nagdagdag ng kulay sa icon ng antas ng baterya."
+    "devnote": "- Ang icon ng auto-shutdown ay napalitan ng icon ng orasan.\n- Ang mga icon bago at pagkatapos ng setting ng auto-shutdown ay nailapat sa ibang paraan.\n- Nakakita kami ng banner ad na gumagalaw nang hindi nagki-click, kaya hindi namin isinama ang kumpanya.\n- Ni-renew namin ang open source na lisensya.\n- Idinagdag namin ang function ng advanced na setting ng TTS.\n- Inayos namin ang iba pang mga bug."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "- Sürgősen kijavítottunk egy hibát, amely miatt a hirdetéseltávolítási idő időnként visszaállt.\n- Az akkumulátor töltöttségi szintjét jelző ikon színt kapott."
+    "devnote": "- Az automatikus leállítás ikonja óra ikonra változott.\n- Az automatikus leállítás előtti és utáni ikonok eltérően lettek alkalmazva.\n- Találtunk egy kattintás nélkül mozgó banner hirdetést, ezért kizártuk a céget.\n- Megújítottuk a nyílt forráskódú licencet.\n- Hozzáadtuk a TTS speciális beállítások funkciót.\n- Kijavítottunk más hibákat."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "- תיקן בדחיפות באג שבו זמן הסרת המודעה התאפס מדי פעם.\n- נוסף צבע לסמל רמת הסוללה."
+    "devnote": "- סמל הכיבוי האוטומטי שונה לסמל שעון.\n- הסמלים לפני ואחרי הגדרת הכיבוי האוטומטי הוחלו באופן שונה.\n- מצאנו מודעת באנר שזזה בלי לחיצה, אז החרגנו את החברה.\n- חידשנו את רישיון הקוד הפתוח.\n- הוספנו את פונקציית ההגדרות המתקדמות של TTS.\n- תיקנו באגים אחרים."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "- उस बग को तत्काल ठीक कर दिया गया जहां विज्ञापन हटाने का समय कभी-कभी रीसेट हो जाता था।\n- बैटरी लेवल आइकन में रंग जोड़ा गया।"
+    "devnote": "- ऑटो-शटडाउन आइकन को घड़ी आइकन में बदल दिया गया है।\n- ऑटो-शटडाउन सेटिंग से पहले और बाद के आइकन अलग-अलग लागू किए गए हैं।\n- हमें एक बैनर विज्ञापन मिला जो बिना क्लिक किए चलता है, इसलिए हमने कंपनी को बाहर कर दिया।\n- हमने ओपन सोर्स लाइसेंस का नवीनीकरण किया।\n- हमने टीटीएस उन्नत सेटिंग्स फ़ंक्शन जोड़ा है।\n- हमने अन्य बग ठीक कर दिए हैं।"
   }
 }
