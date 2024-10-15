@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "- The auto-shutdown icon has been changed to a clock icon.\n- The icons before and after the auto-shutdown setting have been applied differently.\n- We found a banner ad that moves without clicking, so we excluded the company.\n- We renewed the open source license.\n- We added the TTS advanced settings function.\n- We fixed other bugs."
+    "devnote": "- An emergency fix has been made to a bug that prevented synchronization due to a circular reference error."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "- 자동종료 아이콘 시계아이콘 으로 수정 하였습니다. \n- 자동종료 설정 전후 아이콘 을 다르게 적용 하였습니다.\n- 클릭하지 않아도 이동되는 배너 광고를 발견하여 해당 업체를 제외했습니다.\n- 오픈소스 라이선스를 갱신하였습니다.\n- TTS 고급 설정 기능 을 추가 하였습니다. \n- 기타 버그를 수정 하였습니다."
+    "devnote": "- 순환 참조 오류로 동기화가 안되던 버그를 긴급 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "- A icona de apagado automático cambiouse a unha icona de reloxo.\n- As iconas anteriores e posteriores á configuración de apagado automático aplicáronse de forma diferente.\n- Atopamos un banner publicitario que se move sen facer clic, polo que excluímos á empresa.\n- Renovamos a licenza de código aberto.\n- Engadimos a función de configuración avanzada TTS.\n- Arranxamos outros erros."
+    "devnote": "- Fixouse unha corrección de emerxencia nun erro que impedía a sincronización debido a un erro de referencia circular."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "- ઓટો-શટડાઉન આયકનને ઘડિયાળના ચિહ્નમાં બદલવામાં આવ્યું છે.\n- ઓટો-શટડાઉન સેટિંગ પહેલા અને પછીના ચિહ્નો અલગ રીતે લાગુ કરવામાં આવ્યા છે.\n- અમને એક બેનર જાહેરાત મળી જે ક્લિક કર્યા વિના આગળ વધે છે, તેથી અમે કંપનીને બાકાત રાખી.\n- અમે ઓપન સોર્સ લાયસન્સ રિન્યુ કર્યું.\n- અમે TTS એડવાન્સ સેટિંગ્સ ફંક્શન ઉમેર્યું છે.\n- અમે અન્ય ભૂલો સુધારી છે."
+    "devnote": "- પરિપત્ર સંદર્ભ ભૂલને કારણે સિંક્રનાઇઝેશનને અટકાવતા બગ માટે કટોકટી સુધારણા કરવામાં આવી છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "- Το εικονίδιο αυτόματου τερματισμού έχει αλλάξει σε εικονίδιο ρολογιού.\n- Τα εικονίδια πριν και μετά τη ρύθμιση αυτόματου τερματισμού έχουν εφαρμοστεί διαφορετικά.\n- Βρήκαμε ένα διαφημιστικό banner που κινείται χωρίς κλικ, οπότε αποκλείσαμε την εταιρεία.\n- Ανανεώσαμε την άδεια ανοιχτού κώδικα.\n- Προσθέσαμε τη λειτουργία σύνθετων ρυθμίσεων TTS.\n- Διορθώσαμε άλλα σφάλματα."
+    "devnote": "- Έγινε επείγουσα επιδιόρθωση ενός σφάλματος που εμπόδισε τον συγχρονισμό λόγω κυκλικού σφάλματος αναφοράς."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "- Het pictogram voor automatisch afsluiten is gewijzigd in een klokpictogram.\n- De pictogrammen voor en na de instelling voor automatisch afsluiten zijn anders toegepast.\n- We hebben een banneradvertentie gevonden die beweegt zonder te klikken, dus hebben we het bedrijf uitgesloten.\n- We hebben de open source-licentie verlengd.\n- We hebben de functie voor geavanceerde TTS-instellingen toegevoegd.\n- We hebben andere bugs opgelost."
+    "devnote": "- Er is een noodoplossing gemaakt voor een bug die synchronisatie verhinderde vanwege een kringverwijzingsfout."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "- स्वत: बन्द आइकन घडी आइकनमा परिवर्तन गरिएको छ।\n- स्वत: बन्द सेटिङ अघि र पछि आइकनहरू फरक रूपमा लागू गरिएको छ।\n- हामीले एउटा ब्यानर विज्ञापन फेला पार्‍यौं जुन क्लिक नगरी सर्छ, त्यसैले हामीले कम्पनीलाई बहिष्कार गर्यौं।\n- हामीले खुला स्रोत इजाजतपत्र नवीकरण गर्यौं।\n- हामीले TTS उन्नत सेटिङ प्रकार्य थप्यौं।\n- हामीले अन्य बगहरू फिक्स गर्यौं।"
+    "devnote": "- सर्कुलर सन्दर्भ त्रुटिको कारण सिङ्क्रोनाइजेसन रोकेको बगमा आपतकालीन समाधान गरिएको छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "- Ikonet for automatisk avslutning er endret til et klokkeikon.\n- Ikonene før og etter innstillingen for automatisk avslutning har blitt brukt forskjellig.\n– Vi fant en bannerannonse som beveger seg uten å klikke, så vi ekskluderte selskapet.\n– Vi fornyet åpen kildekode-lisensen.\n- Vi la til funksjonen for avanserte innstillinger for TTS.\n- Vi fikset andre feil."
+    "devnote": "- Det er gjort en nødretting på en feil som forhindret synkronisering på grunn av en sirkulær referansefeil."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "- Ikonet for automatisk nedlukning er blevet ændret til et urikon.\n- Ikonerne før og efter indstillingen for automatisk nedlukning er blevet anvendt forskelligt.\n- Vi fandt en bannerannonce, der bevæger sig uden at klikke, så vi udelukkede virksomheden.\n- Vi fornyede open source-licensen.\n- Vi tilføjede funktionen TTS avancerede indstillinger.\n- Vi har rettet andre fejl."
+    "devnote": "- Der er lavet en nødløsning til en fejl, der forhindrede synkronisering på grund af en cirkulær referencefejl."
   },
   "독일어": {
     "key": "de",
-    "devnote": "- Das Symbol für die automatische Abschaltung wurde in ein Uhrensymbol geändert.\n- Die Symbole vor und nach der automatischen Abschalteinstellung wurden unterschiedlich angewendet.\n- Wir haben ein Werbebanner gefunden, das sich ohne Klicken bewegt, also haben wir das Unternehmen ausgeschlossen.\n- Wir haben die Open-Source-Lizenz erneuert.\n- Wir haben die erweiterte TTS-Einstellungsfunktion hinzugefügt.\n- Wir haben andere Fehler behoben."
+    "devnote": "– Es wurde eine Notfallbehebung für einen Fehler vorgenommen, der die Synchronisierung aufgrund eines Zirkelverweisfehlers verhinderte."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "- ໄອຄອນປິດອັດຕະໂນມັດຖືກປ່ຽນເປັນໄອຄອນໂມງ.\n- ຮູບ​ສັນ​ຍາ​ລັກ​ກ່ອນ​ແລະ​ຫຼັງ​ຈາກ​ການ​ຕັ້ງ​ຄ່າ​ປິດ​ອັດ​ຕະ​ໂນ​ມັດ​ໄດ້​ຖືກ​ນໍາ​ໃຊ້​ທີ່​ແຕກ​ຕ່າງ​ກັນ​.\n- ພວກເຮົາພົບເຫັນປ້າຍໂຄສະນາທີ່ເຄື່ອນຍ້າຍໂດຍບໍ່ມີການຄລິກ, ດັ່ງນັ້ນພວກເຮົາຈຶ່ງຍົກເວັ້ນບໍລິສັດ.\n- ພວກເຮົາຕໍ່ອາຍຸໃບອະນຸຍາດແຫຼ່ງເປີດ.\n- ພວກເຮົາໄດ້ເພີ່ມການທໍາງານຂອງການຕັ້ງຄ່າຂັ້ນສູງ TTS.\n- ພວກເຮົາແກ້ໄຂຂໍ້ບົກພ່ອງອື່ນໆ."
+    "devnote": "- ໄດ້ມີການແກ້ໄຂສຸກເສີນຕໍ່ກັບຂໍ້ຜິດພາດທີ່ປ້ອງກັນການຊິ້ງຂໍ້ມູນເນື່ອງຈາກຄວາມຜິດພາດການອ້າງອີງວົງວຽນ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "- Automātiskās izslēgšanās ikona ir mainīta uz pulksteņa ikonu.\n- Ikonas pirms un pēc automātiskās izslēgšanās iestatījuma ir lietotas atšķirīgi.\n- Mēs atradām banera reklāmu, kas pārvietojas bez klikšķiem, tāpēc izslēdzām uzņēmumu.\n- Mēs atjaunojām atvērtā pirmkoda licenci.\n- Mēs pievienojām TTS papildu iestatījumu funkciju.\n- Mēs izlabojām citas kļūdas."
+    "devnote": "- Ir veikts ārkārtas labojums kļūdai, kas neļāva sinhronizēt cirkulāras atsauces kļūdas dēļ."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "- Значок автовыключения заменен на значок часов.\n- Значки до и после настройки автовыключения применены по-разному.\n– Мы обнаружили рекламный баннер, который перемещается без нажатия, поэтому исключили компанию.\n- Мы продлили лицензию открытого исходного кода.\n- Мы добавили функцию расширенных настроек TTS.\n- Мы исправили другие ошибки."
+    "devnote": "- Внесено экстренное исправление ошибки, препятствовавшей синхронизации из-за ошибки циклической ссылки."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "- Pictograma de oprire automată a fost schimbată într-o pictogramă ceas.\n- Pictogramele înainte și după setarea de oprire automată au fost aplicate diferit.\n- Am gasit un banner publicitar care se misca fara click, asa ca am exclus compania.\n- Am reînnoit licența open source.\n- Am adăugat funcția de setări avansate TTS.\n- Am remediat alte erori."
+    "devnote": "- A fost făcută o remediere de urgență a unei erori care a împiedicat sincronizarea din cauza unei erori de referință circulară."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "- Automatinio išjungimo piktograma pakeista į laikrodžio piktogramą.\n- Piktogramos prieš ir po automatinio išjungimo nustatymo buvo pritaikytos skirtingai.\n– Radome reklaminį skydelį, kuris juda nespustelėjus, todėl įmonę išskyrėme.\n– Atnaujinome atvirojo kodo licenciją.\n- Pridėjome išplėstinių TTS nustatymų funkciją.\n– Ištaisėme kitas klaidas."
+    "devnote": "– Ištaisyta klaida, kuri neleido sinchronizuoti dėl žiedinės nuorodos klaidos."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "- ऑटो-शटडाउन चिन्ह घड्याळ चिन्हात बदलले आहे.\n- ऑटो-शटडाउन सेटिंग आधी आणि नंतरचे चिन्ह वेगळ्या पद्धतीने लागू केले गेले आहेत.\n- आम्हाला एक बॅनर जाहिरात सापडली जी क्लिक न करता हलते, म्हणून आम्ही कंपनीला वगळले.\n- आम्ही ओपन सोर्स परवान्याचे नूतनीकरण केले.\n- आम्ही TTS प्रगत सेटिंग्ज फंक्शन जोडले.\n- आम्ही इतर बगचे निराकरण केले."
+    "devnote": "- एका बगचे आणीबाणीचे निराकरण केले गेले आहे ज्याने परिपत्रक संदर्भ त्रुटीमुळे सिंक्रोनाइझेशन प्रतिबंधित केले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "- Иконата за автоматско исклучување е сменета во икона за часовник.\n- Иконите пред и по поставката за автоматско исклучување се применети поинаку.\n- Најдовме банер реклама што се движи без кликнување, па ја исклучивме компанијата.\n- Ја обновивме лиценцата со отворен код.\n- Ја додадовме функцијата за напредни поставки TTS.\n- Поправивме други грешки."
+    "devnote": "- Направена е итна поправка на грешка што ја спречи синхронизацијата поради кружна референтна грешка."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "- ഓട്ടോ-ഷട്ട്ഡൗൺ ഐക്കൺ ഒരു ക്ലോക്ക് ഐക്കണിലേക്ക് മാറ്റി.\n- സ്വയമേവ ഷട്ട്ഡൗൺ ക്രമീകരണത്തിന് മുമ്പും ശേഷവുമുള്ള ഐക്കണുകൾ വ്യത്യസ്തമായി പ്രയോഗിച്ചു.\n- ക്ലിക്കുചെയ്യാതെ നീങ്ങുന്ന ഒരു ബാനർ പരസ്യം ഞങ്ങൾ കണ്ടെത്തി, അതിനാൽ ഞങ്ങൾ കമ്പനിയെ ഒഴിവാക്കി.\n- ഞങ്ങൾ ഓപ്പൺ സോഴ്സ് ലൈസൻസ് പുതുക്കി.\n- ഞങ്ങൾ TTS വിപുലമായ ക്രമീകരണ പ്രവർത്തനം ചേർത്തു.\n- ഞങ്ങൾ മറ്റ് ബഗുകൾ പരിഹരിച്ചു."
+    "devnote": "- ഒരു വൃത്താകൃതിയിലുള്ള റഫറൻസ് പിശക് കാരണം സമന്വയം തടയുന്ന ഒരു ബഗിന് അടിയന്തര പരിഹാരം വരുത്തി."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "- Ikon auto-tutup telah ditukar kepada ikon jam.\n- Ikon sebelum dan selepas tetapan auto-tutup telah digunakan secara berbeza.\n- Kami menemui iklan sepanduk yang bergerak tanpa mengklik, jadi kami mengecualikan syarikat itu.\n- Kami memperbaharui lesen sumber terbuka.\n- Kami menambah fungsi tetapan lanjutan TTS.\n- Kami membetulkan pepijat lain."
+    "devnote": "- Pembetulan kecemasan telah dibuat pada pepijat yang menghalang penyegerakan disebabkan oleh ralat rujukan bulat."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "- Автомат унтрах дүрсийг цагийн дүрс болгон өөрчилсөн.\n- Автомат унтрах тохиргооны өмнөх болон дараах дүрсүүдийг өөр өөрөөр ашигласан.\n- Бид дарахгүйгээр хөдөлдөг сурталчилгааны баннер олсон тул компанийг хассан.\n- Бид нээлттэй эхийн лицензийг шинэчилсэн.\n- Бид TTS дэвшилтэт тохиргооны функцийг нэмсэн.\n- Бид бусад алдаануудыг зассан."
+    "devnote": "- Дугуй лавлагааны алдааны улмаас синхрончлолд саад болж байсан алдааг яаралтай зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "- Itzaltze automatikoko ikonoa erlojuaren ikono batera aldatu da.\n- Itzaltze automatikoaren ezarpenaren aurreko eta ondorengo ikonoak modu ezberdinean aplikatu dira.\n- Klik egin gabe mugitzen den banner iragarki bat aurkitu dugu, beraz, enpresa baztertu dugu.\n- Kode irekiko lizentzia berritu dugu.\n- TTS ezarpen aurreratuen funtzioa gehitu dugu.\n- Beste akats batzuk konpondu ditugu."
+    "devnote": "- Erreferentzia zirkular errore baten ondorioz sinkronizazioa eragozten zuen akats bati larrialdi-konponketa egin zaio."
   },
   "버마어": {
     "key": "my",
-    "devnote": "- အလိုအလျောက်ပိတ်သည့်အိုင်ကွန်ကို နာရီသင်္ကေတအဖြစ် ပြောင်းလဲထားသည်။\n- အလိုအလျောက်ပိတ်ခြင်းဆက်တင်မတိုင်မီနှင့် ပြီးနောက် အိုင်ကွန်များကို ကွဲပြားစွာအသုံးပြုထားသည်။\n- နှိပ်စရာမလိုဘဲ ရွေ့လျားနေသော နဖူးစည်းကြော်ငြာတစ်ခုကို ကျွန်ုပ်တို့တွေ့ရှိသောကြောင့် ကုမ္ပဏီကို ဖယ်ထုတ်လိုက်ပါသည်။\n- ကျွန်ုပ်တို့သည် open source လိုင်စင်ကို သက်တမ်းတိုးထားပါသည်။\n- ကျွန်ုပ်တို့သည် TTS အဆင့်မြင့် ဆက်တင်များ လုပ်ဆောင်ချက်ကို ထည့်သွင်းခဲ့သည်။\n- အခြား bug များကိုကျွန်ုပ်တို့ပြုပြင်ခဲ့သည်။"
+    "devnote": "- စက်ဝိုင်းအကိုးအကားအမှားကြောင့် ထပ်တူပြုခြင်းကို တားဆီးထားသည့် bug တစ်ခုအတွက် အရေးပေါ်ပြင်ဆင်မှုကို ပြုလုပ်ထားပါသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "- Biểu tượng tự động tắt máy đã được thay đổi thành biểu tượng đồng hồ.\n- Các biểu tượng trước và sau cài đặt tự động tắt đã được áp dụng khác nhau.\n- Chúng tôi tìm thấy một quảng cáo biểu ngữ di chuyển mà không cần nhấp vào, vì vậy chúng tôi đã loại trừ công ty đó.\n- Chúng tôi đã gia hạn giấy phép nguồn mở.\n- Chúng tôi đã thêm chức năng cài đặt nâng cao TTS.\n- Chúng tôi đã sửa các lỗi khác."
+    "devnote": "- Một bản sửa lỗi khẩn cấp đã được thực hiện đối với lỗi ngăn cản việc đồng bộ hóa do lỗi tham chiếu vòng tròn."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "- Значок аўтаматычнага адключэння быў зменены на значок гадзінніка.\n- Значкі да і пасля наладкі аўтаматычнага адключэння прымяняюцца па-рознаму.\n- Мы знайшлі рэкламны банер, які рухаецца без націску, таму выключылі кампанію.\n— Мы аднавілі ліцэнзію на адкрыты код.\n- Мы дадалі функцыю дадатковых налад TTS.\n- Мы выправілі іншыя памылкі."
+    "devnote": "- Было зроблена экстраннае выпраўленне памылкі, якая перашкаджала сінхранізацыі з-за памылкі цыклічнай спасылкі."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "- অটো-শাটডাউন আইকনটিকে একটি ঘড়ি আইকনে পরিবর্তন করা হয়েছে৷\n- অটো-শাটডাউন সেটিং এর আগে এবং পরে আইকন ভিন্নভাবে প্রয়োগ করা হয়েছে।\n- আমরা একটি ব্যানার বিজ্ঞাপন পেয়েছি যা ক্লিক না করেই চলে, তাই আমরা কোম্পানিটিকে বাদ দিয়েছি।\n- আমরা ওপেন সোর্স লাইসেন্স নবায়ন করেছি।\n- আমরা TTS উন্নত সেটিংস ফাংশন যোগ করেছি।\n- আমরা অন্যান্য বাগ ঠিক করেছি।"
+    "devnote": "- বৃত্তাকার রেফারেন্স ত্রুটির কারণে সিঙ্ক্রোনাইজেশনকে বাধা দেয় এমন একটি বাগতে একটি জরুরি সমাধান করা হয়েছে৷"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "- Иконата за автоматично изключване е променена на икона на часовник.\n- Иконите преди и след настройката за автоматично изключване са приложени по различен начин.\n- Намерихме рекламен банер, който се движи без щракване, така че изключихме компанията.\n- Подновихме лиценза за отворен код.\n- Добавихме функцията за разширени настройки на TTS.\n- Поправихме други грешки."
+    "devnote": "- Беше направена спешна корекция на грешка, която възпрепятстваше синхронизирането поради кръгова референтна грешка."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "- Икона аутоматског искључивања је промењена у икону сата.\n- Иконе пре и после подешавања аутоматског искључивања су другачије примењене.\n– Пронашли смо банер оглас који се креће без кликања, па смо фирму искључили.\n- Обновили смо лиценцу отвореног кода.\n- Додали смо функцију ТТС напредних подешавања.\n- Исправили смо друге грешке."
+    "devnote": "- Направљена је хитна исправка грешке која је спречила синхронизацију због грешке кружне референце."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "- Ikoni ya kuzima kiotomatiki imebadilishwa hadi ikoni ya saa.\n- Aikoni kabla na baada ya mpangilio wa kuzima kiotomatiki zimetumika kwa njia tofauti.\n- Tulipata tangazo la bango ambalo husogea bila kubofya, kwa hivyo tulitenga kampuni.\n- Tulifanya upya leseni ya chanzo huria.\n- Tuliongeza kazi ya mipangilio ya hali ya juu ya TTS.\n- Tulirekebisha makosa mengine."
+    "devnote": "- Urekebishaji wa dharura umefanywa kwa hitilafu iliyozuia ulandanishi kwa sababu ya hitilafu ya marejeleo ya mduara."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "- Ikonen för automatisk avstängning har ändrats till en klockikon.\n- Ikonerna före och efter inställningen för automatisk avstängning har tillämpats på olika sätt.\n– Vi hittade en bannerannons som rör sig utan att klicka, så vi uteslöt företaget.\n– Vi förnyade open source-licensen.\n- Vi lade till funktionen TTS avancerade inställningar.\n– Vi fixade andra buggar."
+    "devnote": "- En nödkorrigering har gjorts på en bugg som förhindrade synkronisering på grund av ett cirkulärt referensfel."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "- El ícono de apagado automático se ha cambiado a un ícono de reloj.\n- Los íconos antes y después de la configuración de apagado automático se han aplicado de manera diferente.\n- Encontramos un banner publicitario que se mueve sin hacer clic, por lo que excluimos a la empresa.\n- Renovamos la licencia de código abierto.\n- Agregamos la función de configuración avanzada TTS.\n- Arreglamos otros errores."
+    "devnote": "- Se realizó una solución de emergencia a un error que impedía la sincronización debido a un error de referencia circular."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "- Ikona automatického vypnutia sa zmenila na ikonu hodín.\n- Ikony pred a po nastavení automatického vypnutia boli použité odlišne.\n- Našli sme bannerovú reklamu, ktorá sa pohybuje bez kliknutia, preto sme spoločnosť vylúčili.\n- Obnovili sme licenciu open source.\n- Pridali sme funkciu rozšírených nastavení TTS.\n- Opravili sme ďalšie chyby."
+    "devnote": "- Bola vykonaná núdzová oprava chyby, ktorá bránila synchronizácii kvôli chybe kruhového odkazu."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "- Ikona za samodejni izklop je bila spremenjena v ikono ure.\n- Ikone pred in po nastavitvi samodejnega izklopa so bile uporabljene drugače.\n- Našli smo oglasno pasico, ki se premika brez klikanja, zato smo podjetje izključili.\n- Obnovili smo odprtokodno licenco.\n- Dodali smo funkcijo naprednih nastavitev TTS.\n- Popravili smo druge napake."
+    "devnote": "- Izveden je bil zasilni popravek za napako, ki je preprečevala sinhronizacijo zaradi krožne referenčne napake."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "- ස්වයංක්‍රීයව වසා දැමීමේ නිරූපකය ඔරලෝසු නිරූපකයකට වෙනස් කර ඇත.\n- ස්වයංක්‍රීය වසා දැමීමේ සැකසීමට පෙර සහ පසු අයිකන වෙනස් ලෙස යොදවා ඇත.\n- ක්ලික් කිරීමකින් තොරව චලනය වන බැනර් දැන්වීමක් අපට හමු විය, එබැවින් අපි සමාගම බැහැර කළෙමු.\n- අපි විවෘත මූලාශ්‍ර බලපත්‍රය අලුත් කළා.\n- අපි TTS උසස් සැකසුම් කාර්යය එකතු කළා.\n- අපි වෙනත් දෝෂ නිවැරදි කළා."
+    "devnote": "- රවුම් යොමු දෝෂයක් හේතුවෙන් සමමුහුර්ත වීම වළක්වන දෝෂයකට හදිසි විසඳුමක් සිදු කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "- تم تغيير أيقونة الإغلاق التلقائي إلى أيقونة الساعة.\n- تم تطبيق الرموز قبل وبعد إعداد إيقاف التشغيل التلقائي بشكل مختلف.\n- وجدنا لافتة إعلانية تتحرك دون النقر، لذلك قمنا باستبعاد الشركة.\n- قمنا بتجديد ترخيص المصدر المفتوح.\n- أضفنا وظيفة الإعدادات المتقدمة لتحويل النص إلى كلام (TTS).\n- قمنا بإصلاح الأخطاء الأخرى."
+    "devnote": "- تم إجراء إصلاح طارئ لخلل كان يمنع المزامنة بسبب خطأ مرجعي دائري."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "- Ավտոմատ անջատման պատկերակը փոխվել է ժամացույցի պատկերակի:\n- Ավտոմատ անջատման կարգավորումից առաջ և հետո պատկերակները տարբեր կերպ են կիրառվել:\n- Մենք գտանք բաններային գովազդ, որը շարժվում է առանց սեղմելու, ուստի մենք բացառեցինք ընկերությունը:\n- Մենք թարմացրել ենք բաց կոդով լիցենզիան։\n- Մենք ավելացրել ենք TTS առաջադեմ պարամետրերի գործառույթը:\n- Մենք ուղղեցինք այլ սխալներ:"
+    "devnote": "- Շտապ շտկվել է վրիպակը, որը կանխել է համաժամացումը շրջանաձև հղման սխալի պատճառով:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "- Táknið fyrir sjálfvirka lokun hefur verið breytt í klukkutákn.\n- Táknin fyrir og eftir sjálfvirka lokunarstillingu hafa verið notuð á annan hátt.\n- Við fundum borðaauglýsingu sem hreyfist án þess að smella, svo við útilokuðum fyrirtækið.\n- Við endurnýjuðum opna leyfið.\n- Við bættum við TTS háþróuðum stillingum.\n- Við laguðum aðrar villur."
+    "devnote": "- Neyðarleiðrétting hefur verið gerð á villu sem kom í veg fyrir samstillingu vegna hringlaga tilvísunarvillu."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "- Avtomatik sönmə işarəsi saat işarəsinə dəyişdirildi.\n- Avtomatik söndürmə parametrindən əvvəl və sonrakı nişanlar fərqli şəkildə tətbiq edilmişdir.\n- Klikləmədən hərəkət edən banner reklamı tapdıq, ona görə də şirkəti xaric etdik.\n- Açıq mənbə lisenziyasını yenilədik.\n- Biz TTS qabaqcıl parametrlər funksiyasını əlavə etdik.\n- Digər səhvləri düzəltdik."
+    "devnote": "- Dairəvi istinad xətası səbəbindən sinxronizasiyanın qarşısını alan səhvə təcili düzəliş edildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "- Die outo-afskakelikoon is verander na 'n klokikoon.\n- Die ikone voor en na die outo-afskakelinstelling is verskillend toegepas.\n- Ons het 'n banieradvertensie gevind wat beweeg sonder om te klik, so ons het die maatskappy uitgesluit.\n- Ons het die oopbronlisensie hernu.\n- Ons het die TTS-gevorderde instellingsfunksie bygevoeg.\n- Ons het ander foute reggemaak."
+    "devnote": "- 'n Noodoplossing is gemaak aan 'n fout wat sinchronisasie verhoed het weens 'n omsendbriefverwysingsfout."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "- Ikona e mbylljes automatike është ndryshuar në një ikonë të orës.\n- Ikonat para dhe pas cilësimit të mbylljes automatike janë aplikuar ndryshe.\n- Ne gjetëm një reklamë baner që lëviz pa klikuar, kështu që e përjashtuam kompaninë.\n- Ne rinovuam licencën me kod të hapur.\n- Ne shtuam funksionin e cilësimeve të avancuara TTS.\n- Ne rregulluam defekte të tjera."
+    "devnote": "- Është bërë një rregullim urgjent për një defekt që pengoi sinkronizimin për shkak të një gabimi referimi rrethor."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "- የራስ-ማጥፋት አዶ ወደ ሰዓት አዶ ተለውጧል።\n- ከራስ-ሰር መዝጊያ ቅንብር በፊት እና በኋላ ያሉት አዶዎች በተለያየ መንገድ ተተግብረዋል.\n- ጠቅ ሳያደርጉ የሚንቀሳቀስ ባነር ማስታወቂያ አግኝተናል፣ ስለዚህ ኩባንያውን አገለልን።\n- ክፍት ምንጭ ፈቃዱን አድሰናል።\n- የ TTS የላቀ ቅንጅቶችን ተግባር ጨምረናል።\n- ሌሎች ስህተቶችን አስተካክለናል."
+    "devnote": "- በክብ ማመሳከሪያ ስህተት ምክንያት ማመሳሰልን በከለከለው ስህተት ላይ የአደጋ ጊዜ ማስተካከያ ተደርጓል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "- Automaatse väljalülitamise ikoon on muudetud kellaikooniks.\n- Ikoonid enne ja pärast automaatse väljalülitamise seadistust on rakendatud erinevalt.\n- Leidsime bännerreklaami, mis liigub klõpsamata, seega välistasime ettevõtte.\n- Uuendasime avatud lähtekoodiga litsentsi.\n- Lisasime TTS-i täpsemate sätete funktsiooni.\n- Parandasime muid vigu."
+    "devnote": "- Ringliku viitevea tõttu sünkroonimist takistanud veale on tehtud hädaparandus."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "- آٹو شٹ ڈاؤن آئیکن کو گھڑی کے آئیکن میں تبدیل کر دیا گیا ہے۔\n- آٹو شٹ ڈاؤن سیٹنگ سے پہلے اور بعد کے آئیکنز کو مختلف طریقے سے لاگو کیا گیا ہے۔\n- ہمیں ایک بینر اشتہار ملا جو کلک کیے بغیر حرکت کرتا ہے، اس لیے ہم نے کمپنی کو خارج کر دیا۔\n- ہم نے اوپن سورس لائسنس کی تجدید کی۔\n- ہم نے TTS ایڈوانس سیٹنگز فنکشن کو شامل کیا۔\n- ہم نے دوسرے کیڑے ٹھیک کردیئے۔"
+    "devnote": "- ایک بگ کو ہنگامی طور پر ٹھیک کیا گیا ہے جس نے سرکلر حوالہ کی خرابی کی وجہ سے ہم آہنگی کو روکا تھا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "— Значок автоматичного вимкнення змінено на значок годинника.\n- Піктограми до та після налаштування автоматичного вимкнення застосовано по-різному.\n– Ми знайшли рекламний банер, який рухається без натискання, тому ми виключили компанію.\n– Ми продовжили ліцензію на відкритий код.\n— Ми додали функцію розширених налаштувань TTS.\n- Ми виправили інші помилки."
+    "devnote": "— Екстрено виправлено помилку, яка перешкоджала синхронізації через помилку циклічного посилання."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "- L'icona di spegnimento automatico è stata cambiata in un'icona di orologio.\n- Le icone prima e dopo l'impostazione di spegnimento automatico sono state applicate in modo diverso.\n- Abbiamo trovato un banner pubblicitario che si muove senza cliccare, quindi abbiamo escluso l'azienda.\n- Abbiamo rinnovato la licenza open source.\n- Abbiamo aggiunto la funzione di impostazioni avanzate TTS.\n- Abbiamo corretto altri bug."
+    "devnote": "- È stata apportata una correzione di emergenza a un bug che impediva la sincronizzazione a causa di un errore di riferimento circolare."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "- Ikon mati otomatis telah diubah menjadi ikon jam.\n- Ikon sebelum dan sesudah pengaturan mati otomatis diterapkan secara berbeda.\n- Kami menemukan iklan banner yang bergerak tanpa klik, jadi kami mengecualikan perusahaan tersebut.\n- Kami memperbarui lisensi open source.\n- Kami menambahkan fungsi pengaturan lanjutan TTS.\n- Kami memperbaiki bug lainnya."
+    "devnote": "- Perbaikan darurat telah dilakukan pada bug yang mencegah sinkronisasi karena kesalahan referensi melingkar."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "- 自動シャットダウンアイコンが時計アイコンに変更されました。\n- 自動シャットダウン設定の前後でアイコンの適用が異なります。\n・クリックせずに移動するバナー広告を発見したため対象外とさせていただきました。\n- オープンソースライセンスを更新しました。\n・TTS詳細設定機能を追加しました。\n- その他のバグを修正しました。"
+    "devnote": "- 循環参照エラーにより同期できないバグを緊急修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "- ავტომატური გამორთვის ხატულა შეიცვალა საათის ხატულაზე.\n- ხატები ავტომატური გამორთვის პარამეტრამდე და შემდეგ განსხვავებულად იქნა გამოყენებული.\n- ვიპოვეთ ბანერი, რომელიც მოძრაობს დაწკაპუნების გარეშე, ამიტომ გამოვრიცხეთ კომპანია.\n- ჩვენ განვაახლეთ ღია კოდის ლიცენზია.\n- ჩვენ დავამატეთ TTS გაფართოებული პარამეტრების ფუნქცია.\n- სხვა შეცდომები გამოვასწორეთ."
+    "devnote": "- გადაუდებელი გამოსწორება გაკეთდა შეცდომაზე, რომელმაც ხელი შეუშალა სინქრონიზაციას წრიული მითითების შეცდომის გამო."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "- Isithonjana sokuvala ngokuzenzakalela sishintshiwe saba yisithonjana sewashi.\n- Izithonjana ngaphambi nangemuva kwesilungiselelo sokuvala ngokuzenzakalelayo sisetshenziswe ngendlela ehlukile.\n- Sithole isikhangiso sesibhengezo esihamba ngaphandle kokuchofoza, ngakho asiyifaki ngaphandle inkampani.\n- Sivuselele ilayisensi yomthombo ovulekile.\n- Sengeze umsebenzi wezilungiselelo ezithuthukisiwe ze-TTS.\n- Silungise ezinye iziphazamisi."
+    "devnote": "- Ukulungiswa kwezimo eziphuthumayo kwenziwe kusiphazamisi esivimbele ukuvumelanisa ngenxa yephutha lesithenjwa esiyindilinga."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "- 自动关机图标已更改为时钟图标。\n- 自动关机设置前后的图标应用不同。\n- 我们发现一个横幅广告无需点击即可移动，因此我们排除了该公司。\n- 我们更新了开源许可证。\n- 我们添加了TTS高级设置功能。\n- 我们修复了其他错误。"
+    "devnote": "- 已紧急修复了由于循环引用错误而导致无法同步的错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "- 自動關機圖示已變更為時鐘圖示。\n- 自動關機設定前後的圖示應用不同。\n- 我們發現一個橫幅廣告無需點擊即可移動，因此我們排除了該公司。\n- 我們更新了開源許可證。\n- 我們新增了TTS進階設定功能。\n- 我們修復了其他錯誤。"
+    "devnote": "- 已緊急修復了由於循環引用錯誤而導致無法同步的錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "- 自動關機圖示已變更為時鐘圖示。\n- 自動關機設定前後的圖示應用不同。\n- 我們發現一個橫幅廣告無需點擊即可移動，因此我們排除了該公司。\n- 我們更新了開源許可證。\n- 我們新增了TTS進階設定功能。\n- 我們修復了其他錯誤。"
+    "devnote": "- 已緊急修復了由於循環引用錯誤而導致無法同步的錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "- Ikona automatického vypnutí byla změněna na ikonu hodin.\n- Ikony před a po nastavení automatického vypnutí byly použity odlišně.\n- Našli jsme bannerovou reklamu, která se pohybuje bez kliknutí, takže jsme společnost vyloučili.\n- Obnovili jsme licenci open source.\n- Přidali jsme funkci pokročilého nastavení TTS.\n- Opravili jsme další chyby."
+    "devnote": "- Byla provedena nouzová oprava chyby, která bránila synchronizaci kvůli cyklické chybě odkazu."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "- Автоматты түрде өшіру белгішесі сағат белгішесіне өзгертілді.\n- Автоматты түрде өшіру параметріне дейінгі және кейінгі белгішелер басқаша қолданылған.\n- Біз баннерді баспай жылжытатын жарнаманы таптық, сондықтан компанияны шығарып тастадық.\n- Біз ашық бастапқы код лицензиясын жаңарттық.\n- Біз TTS кеңейтілген параметрлер функциясын қостық.\n- Біз басқа қателерді түзеттік."
+    "devnote": "- Дөңгелек анықтамалық қатеге байланысты синхрондауға кедергі келтірген қатеге төтенше жағдай түзетілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "- La icona d'apagada automàtica s'ha canviat a una icona de rellotge.\n- Les icones abans i després de la configuració d'apagat automàtic s'han aplicat de manera diferent.\n- Hem trobat un bàner publicitari que es mou sense fer clic, així que hem exclòs l'empresa.\n- Hem renovat la llicència de codi obert.\n- Hem afegit la funció de configuració avançada TTS.\n- Hem corregit altres errors."
+    "devnote": "- S'ha corregit d'emergència un error que impedia la sincronització a causa d'un error de referència circular."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "- ಸ್ವಯಂ ಸ್ಥಗಿತಗೊಳಿಸುವ ಐಕಾನ್ ಅನ್ನು ಗಡಿಯಾರ ಐಕಾನ್‌ಗೆ ಬದಲಾಯಿಸಲಾಗಿದೆ.\n- ಸ್ವಯಂ ಸ್ಥಗಿತಗೊಳಿಸುವ ಮೊದಲು ಮತ್ತು ನಂತರದ ಐಕಾನ್‌ಗಳನ್ನು ವಿಭಿನ್ನವಾಗಿ ಅನ್ವಯಿಸಲಾಗಿದೆ.\n- ಕ್ಲಿಕ್ ಮಾಡದೆಯೇ ಚಲಿಸುವ ಬ್ಯಾನರ್ ಜಾಹೀರಾತನ್ನು ನಾವು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ, ಆದ್ದರಿಂದ ನಾವು ಕಂಪನಿಯನ್ನು ಹೊರಗಿಟ್ಟಿದ್ದೇವೆ.\n- ನಾವು ತೆರೆದ ಮೂಲ ಪರವಾನಗಿಯನ್ನು ನವೀಕರಿಸಿದ್ದೇವೆ.\n- ನಾವು TTS ಸುಧಾರಿತ ಸೆಟ್ಟಿಂಗ್‌ಗಳ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಿದ್ದೇವೆ.\n- ನಾವು ಇತರ ದೋಷಗಳನ್ನು ಸರಿಪಡಿಸಿದ್ದೇವೆ."
+    "devnote": "- ವೃತ್ತಾಕಾರದ ಉಲ್ಲೇಖ ದೋಷದಿಂದಾಗಿ ಸಿಂಕ್ರೊನೈಸೇಶನ್ ಅನ್ನು ತಡೆಯುವ ದೋಷಕ್ಕೆ ತುರ್ತು ಪರಿಹಾರವನ್ನು ಮಾಡಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "- Ikona automatskog isključivanja promijenjena je u ikonu sata.\n- Ikone prije i poslije postavke automatskog isključivanja drugačije su primijenjene.\n- Pronašli smo reklamni banner koji se pomiče bez klika pa smo tvrtku isključili.\n- Obnovili smo open source licencu.\n- Dodali smo funkciju naprednih postavki TTS-a.\n- Ispravili smo druge greške."
+    "devnote": "- Hitno je ispravljena greška koja je sprječavala sinkronizaciju zbog pogreške kružne reference."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "- រូបតំណាងបិទដោយស្វ័យប្រវត្តិត្រូវបានប្តូរទៅជារូបតំណាងនាឡិកា។\n- រូបតំណាងមុន និងក្រោយការកំណត់បិទដោយស្វ័យប្រវត្តិត្រូវបានអនុវត្តខុសគ្នា។\n- យើងបានរកឃើញផ្ទាំងផ្សាយពាណិជ្ជកម្មដែលផ្លាស់ទីដោយមិនចាំបាច់ចុច ដូច្នេះយើងដកក្រុមហ៊ុនចេញ។\n- យើងបានបន្តអាជ្ញាប័ណ្ណប្រភពបើកចំហ។\n- យើងបានបន្ថែមមុខងារការកំណត់កម្រិតខ្ពស់ TTS ។\n- យើងបានជួសជុលកំហុសផ្សេងទៀត។"
+    "devnote": "- ការ​ជួសជុល​បន្ទាន់​ត្រូវ​បាន​ធ្វើ​ឡើង​ចំពោះ​កំហុស​ដែល​រារាំង​ការ​ធ្វើ​សមកាលកម្ម​ដោយសារ​កំហុស​យោង​រាងជារង្វង់។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "- Автоматтык өчүрүү сөлөкөтү саат белгисине өзгөртүлдү.\n- Автоматтык өчүрүү орнотуусуна чейинки жана андан кийинки иконалар башкача колдонулду.\n- Биз басылбастан жылып турган баннердик жарнаманы таптык, ошондуктан компанияны киргизбей койдук.\n- Биз ачык булак лицензиясын жаңыртканбыз.\n- Биз TTS өркүндөтүлгөн орнотуулар функциясын коштук.\n- Биз башка мүчүлүштүктөрдү оңдодук."
+    "devnote": "- Тегерек маалымдама катасынан улам синхрондоштурууга тоскоол болгон мүчүлүштүктөрдү авариялык оңдоо жасалды."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "- தானாக பணிநிறுத்தம் ஐகான் கடிகார ஐகானாக மாற்றப்பட்டது.\n- தானாக பணிநிறுத்தம் அமைப்பதற்கு முன்னும் பின்னும் உள்ள ஐகான்கள் வித்தியாசமாகப் பயன்படுத்தப்பட்டன.\n- கிளிக் செய்யாமலேயே நகரும் பேனர் விளம்பரத்தைக் கண்டறிந்தோம், எனவே நிறுவனத்தைத் தவிர்த்துவிட்டோம்.\n- திறந்த மூல உரிமத்தை புதுப்பித்துள்ளோம்.\n- நாங்கள் TTS மேம்பட்ட அமைப்புகள் செயல்பாட்டைச் சேர்த்துள்ளோம்.\n- நாங்கள் மற்ற பிழைகளை சரிசெய்தோம்."
+    "devnote": "- வட்டக் குறிப்புப் பிழையின் காரணமாக ஒத்திசைவைத் தடுக்கும் பிழைக்கு அவசரத் திருத்தம் செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "- เปลี่ยนไอคอนปิดเครื่องอัตโนมัติเป็นไอคอนนาฬิกา\n- ไอคอนก่อนและหลังการตั้งค่าปิดเครื่องอัตโนมัติถูกนำไปใช้แตกต่างออกไป\n- เราพบโฆษณาแบนเนอร์ที่เคลื่อนไหวได้โดยไม่ต้องคลิก ดังนั้นเราจึงยกเว้นบริษัท\n- เราต่ออายุใบอนุญาตโอเพ่นซอร์ส\n- เราได้เพิ่มฟังก์ชันการตั้งค่าขั้นสูงของ TTS\n- เราแก้ไขข้อบกพร่องอื่น ๆ"
+    "devnote": "- มีการแก้ไขฉุกเฉินกับข้อบกพร่องที่ทำให้ไม่สามารถซิงโครไนซ์ได้เนื่องจากข้อผิดพลาดในการอ้างอิงแบบวงกลม"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "- Otomatik kapanma simgesi saat simgesine dönüştürüldü.\n- Otomatik kapanma ayarından önceki ve sonraki simgeler farklı şekilde uygulandı.\n- Tıklamadan hareket eden bir banner reklam bulduk, bu yüzden şirketi hariç tuttuk.\n- Açık kaynak lisansını yeniledik.\n- TTS gelişmiş ayarlar fonksiyonunu ekledik.\n- Diğer hataları düzelttik."
+    "devnote": "- Döngüsel referans hatası nedeniyle senkronizasyonu engelleyen hataya acil düzeltme yapıldı."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "- ఆటో-షట్‌డౌన్ చిహ్నం గడియార చిహ్నంగా మార్చబడింది.\n- ఆటో-షట్‌డౌన్ సెట్టింగ్‌కు ముందు మరియు తర్వాత చిహ్నాలు విభిన్నంగా వర్తింపజేయబడ్డాయి.\n- మేము క్లిక్ చేయకుండా కదిలే బ్యానర్ ప్రకటనను కనుగొన్నాము, కాబట్టి మేము కంపెనీని మినహాయించాము.\n- మేము ఓపెన్ సోర్స్ లైసెన్స్‌ని పునరుద్ధరించాము.\n- మేము TTS అధునాతన సెట్టింగ్‌ల ఫంక్షన్‌ని జోడించాము.\n- మేము ఇతర బగ్‌లను పరిష్కరించాము."
+    "devnote": "- వృత్తాకార సూచన లోపం కారణంగా సమకాలీకరణను నిరోధించిన బగ్‌కు అత్యవసర పరిష్కారం చేయబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "- ਆਟੋ-ਸ਼ਟਡਾਊਨ ਆਈਕਨ ਨੂੰ ਇੱਕ ਘੜੀ ਆਈਕਨ ਵਿੱਚ ਬਦਲ ਦਿੱਤਾ ਗਿਆ ਹੈ।\n- ਆਟੋ-ਸ਼ਟਡਾਊਨ ਸੈਟਿੰਗ ਤੋਂ ਪਹਿਲਾਂ ਅਤੇ ਬਾਅਦ ਦੇ ਆਈਕਨ ਵੱਖਰੇ ਤਰੀਕੇ ਨਾਲ ਲਾਗੂ ਕੀਤੇ ਗਏ ਹਨ।\n- ਸਾਨੂੰ ਇੱਕ ਬੈਨਰ ਵਿਗਿਆਪਨ ਮਿਲਿਆ ਜੋ ਬਿਨਾਂ ਕਲਿੱਕ ਕੀਤੇ ਅੱਗੇ ਵਧਦਾ ਹੈ, ਇਸਲਈ ਅਸੀਂ ਕੰਪਨੀ ਨੂੰ ਬਾਹਰ ਕਰ ਦਿੱਤਾ।\n- ਅਸੀਂ ਓਪਨ ਸੋਰਸ ਲਾਇਸੈਂਸ ਦਾ ਨਵੀਨੀਕਰਨ ਕੀਤਾ ਹੈ।\n- ਅਸੀਂ TTS ਐਡਵਾਂਸਡ ਸੈਟਿੰਗਜ਼ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਹੈ।\n- ਅਸੀਂ ਹੋਰ ਬੱਗ ਠੀਕ ਕੀਤੇ ਹਨ।"
+    "devnote": "- ਇੱਕ ਬੱਗ ਲਈ ਇੱਕ ਐਮਰਜੈਂਸੀ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਹੈ ਜੋ ਇੱਕ ਸਰਕੂਲਰ ਹਵਾਲਾ ਗਲਤੀ ਦੇ ਕਾਰਨ ਸਮਕਾਲੀਕਰਨ ਨੂੰ ਰੋਕਦਾ ਹੈ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "- نماد خاموش شدن خودکار به نماد ساعت تغییر کرده است.\n- آیکون های قبل و بعد از تنظیم خاموش شدن خودکار متفاوت اعمال شده اند.\n- ما یک بنر تبلیغاتی پیدا کردیم که بدون کلیک حرکت می کند، بنابراین شرکت را حذف کردیم.\n- مجوز منبع باز را تمدید کردیم.\n- ما عملکرد تنظیمات پیشرفته TTS را اضافه کردیم.\n- ما اشکالات دیگر را رفع کردیم."
+    "devnote": "- یک رفع اضطراری برای یک اشکال انجام شده است که به دلیل یک خطای مرجع دایره ای از همگام سازی جلوگیری می کند."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "- O ícone de desligamento automático foi alterado para um ícone de relógio.\n- Os ícones antes e depois da configuração de desligamento automático foram aplicados de forma diferente.\n- Encontramos um banner que se move sem clicar, então excluímos a empresa.\n- Renovamos a licença de código aberto.\n- Adicionamos a função de configurações avançadas TTS.\n- Corrigimos outros bugs."
+    "devnote": "- Foi feita uma correção emergencial para um bug que impedia a sincronização devido a um erro de referência circular."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "- Ikona automatycznego wyłączania została zmieniona na ikonę zegara.\n- Ikony przed i po ustawieniu automatycznego wyłączania zostały zastosowane w różny sposób.\n- Znaleźliśmy baner reklamowy, który porusza się bez klikania, więc wykluczyliśmy firmę.\n- Odnowiliśmy licencję open source.\n- Dodaliśmy funkcję zaawansowanych ustawień TTS.\n- Naprawiliśmy inne błędy."
+    "devnote": "- Wprowadzono awaryjną poprawkę błędu, który uniemożliwiał synchronizację z powodu błędu odwołania cyklicznego."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "- L'icône d'arrêt automatique a été remplacée par une icône d'horloge.\n- Les icônes avant et après le paramètre d'arrêt automatique ont été appliquées différemment.\n- Nous avons trouvé une bannière publicitaire qui bouge sans cliquer, nous avons donc exclu l'entreprise.\n- Nous avons renouvelé la licence open source.\n- Nous avons ajouté la fonction de paramètres avancés TTS.\n- Nous avons corrigé d'autres bugs."
+    "devnote": "- Un correctif d'urgence a été apporté à un bug qui empêchait la synchronisation en raison d'une erreur de référence circulaire."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "- Automaattisen sammutuksen kuvake on muutettu kellokuvakkeeksi.\n- Kuvakkeet ennen ja jälkeen automaattisen sammutuksen asetuksen on käytetty eri tavalla.\n- Löysimme bannerimainoksen, joka liikkuu napsauttamatta, joten sulkimme yrityksen pois.\n- Uusisimme avoimen lähdekoodin lisenssin.\n- Lisäsimme TTS-lisäasetukset-toiminnon.\n- Korjasimme muita bugeja."
+    "devnote": "- Vikaan, joka esti synkronoinnin pyöreän referenssivirheen vuoksi, on tehty hätäkorjaus."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "- Ang icon ng auto-shutdown ay napalitan ng icon ng orasan.\n- Ang mga icon bago at pagkatapos ng setting ng auto-shutdown ay nailapat sa ibang paraan.\n- Nakakita kami ng banner ad na gumagalaw nang hindi nagki-click, kaya hindi namin isinama ang kumpanya.\n- Ni-renew namin ang open source na lisensya.\n- Idinagdag namin ang function ng advanced na setting ng TTS.\n- Inayos namin ang iba pang mga bug."
+    "devnote": "- Isang emergency na pag-aayos ang ginawa sa isang bug na pumigil sa pag-synchronize dahil sa isang circular reference error."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "- Az automatikus leállítás ikonja óra ikonra változott.\n- Az automatikus leállítás előtti és utáni ikonok eltérően lettek alkalmazva.\n- Találtunk egy kattintás nélkül mozgó banner hirdetést, ezért kizártuk a céget.\n- Megújítottuk a nyílt forráskódú licencet.\n- Hozzáadtuk a TTS speciális beállítások funkciót.\n- Kijavítottunk más hibákat."
+    "devnote": "- Vészhelyzeti javítás történt egy hibán, amely egy körkörös hivatkozási hiba miatt megakadályozta a szinkronizálást."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "- סמל הכיבוי האוטומטי שונה לסמל שעון.\n- הסמלים לפני ואחרי הגדרת הכיבוי האוטומטי הוחלו באופן שונה.\n- מצאנו מודעת באנר שזזה בלי לחיצה, אז החרגנו את החברה.\n- חידשנו את רישיון הקוד הפתוח.\n- הוספנו את פונקציית ההגדרות המתקדמות של TTS.\n- תיקנו באגים אחרים."
+    "devnote": "- בוצע תיקון חירום לבאג שמנע סנכרון עקב שגיאת הפניה מעגלית."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "- ऑटो-शटडाउन आइकन को घड़ी आइकन में बदल दिया गया है।\n- ऑटो-शटडाउन सेटिंग से पहले और बाद के आइकन अलग-अलग लागू किए गए हैं।\n- हमें एक बैनर विज्ञापन मिला जो बिना क्लिक किए चलता है, इसलिए हमने कंपनी को बाहर कर दिया।\n- हमने ओपन सोर्स लाइसेंस का नवीनीकरण किया।\n- हमने टीटीएस उन्नत सेटिंग्स फ़ंक्शन जोड़ा है।\n- हमने अन्य बग ठीक कर दिए हैं।"
+    "devnote": "- एक बग का आपातकालीन समाधान किया गया है जो एक परिपत्र संदर्भ त्रुटि के कारण सिंक्रनाइज़ेशन को रोकता है।"
   }
 }
