@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "- An emergency fix has been made to a bug that prevented synchronization due to a circular reference error."
+    "devnote": "- Fixed backup/restore errors for some options due to typos.\n- Added [Settings - TTS Settings - Initialize TTS Engine When Playing] function as an option.\n* If TTS does not play again after pausing, try activating this."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "- 순환 참조 오류로 동기화가 안되던 버그를 긴급 수정 하였습니다."
+    "devnote": "- 오타로 인한 일부 옵션의 백업/복구 오류를 수정했습니다.\n- [설정 - TTS 설정 - 재생시 TTS엔진 초기화] 기능을 옵션으로 추가 하였습니다.\n * TTS 일시 정지후 다시 재생이 안될경우 이를 활성화 해보시기 바랍니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "- Fixouse unha corrección de emerxencia nun erro que impedía a sincronización debido a un erro de referencia circular."
+    "devnote": "- Corrixíronse os erros de copia de seguridade/restauración dalgunhas opcións debido a erros tipográficos.\n- Engadiuse a función [Configuración - Configuración TTS - Iniciar o motor TTS ao xogar] como opción.\n* Se TTS non se reproduce de novo despois de facer unha pausa, tenta activalo."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "- પરિપત્ર સંદર્ભ ભૂલને કારણે સિંક્રનાઇઝેશનને અટકાવતા બગ માટે કટોકટી સુધારણા કરવામાં આવી છે."
+    "devnote": "- ટાઇપોસને કારણે કેટલાક વિકલ્પો માટે નિશ્ચિત બેકઅપ/રીસ્ટોર ભૂલો.\n- વિકલ્પ તરીકે ઉમેરાયેલ [સેટિંગ્સ - TTS સેટિંગ્સ - TTS એન્જિન શરૂ કરો જ્યારે વગાડવું] ફંક્શન.\n* જો ટીટીએસ થોભાવ્યા પછી ફરીથી ચાલતું નથી, તો આને સક્રિય કરવાનો પ્રયાસ કરો."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "- Έγινε επείγουσα επιδιόρθωση ενός σφάλματος που εμπόδισε τον συγχρονισμό λόγω κυκλικού σφάλματος αναφοράς."
+    "devnote": "- Διορθώθηκαν σφάλματα δημιουργίας αντιγράφων ασφαλείας/επαναφοράς για ορισμένες επιλογές λόγω τυπογραφικών σφαλμάτων.\n- Προστέθηκε η λειτουργία [Settings - TTS Settings - Initialize TTS Engine When Playing] ως επιλογή.\n* Εάν το TTS δεν παίζει ξανά μετά την παύση, δοκιμάστε να το ενεργοποιήσετε."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "- Er is een noodoplossing gemaakt voor een bug die synchronisatie verhinderde vanwege een kringverwijzingsfout."
+    "devnote": "- Vaste back-up-/herstelfouten voor sommige opties als gevolg van typefouten.\n- Functie [Instellingen - TTS-instellingen - Initialiseer TTS Engine tijdens afspelen] toegevoegd als optie.\n*Als TTS na het pauzeren niet meer speelt, probeer dit dan te activeren."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "- सर्कुलर सन्दर्भ त्रुटिको कारण सिङ्क्रोनाइजेसन रोकेको बगमा आपतकालीन समाधान गरिएको छ।"
+    "devnote": "- टाईपोसको कारणले केहि विकल्पहरूको लागि निश्चित ब्याकअप / रिस्टोर त्रुटिहरू।\n- थपियो [सेटिङ्हरू - TTS सेटिङहरू - TTS इन्जिन बजाउँदा सुरु गर्नुहोस्] विकल्पको रूपमा प्रकार्य।\n* यदि TTS पज पछि फेरि खेल्दैन भने, यसलाई सक्रिय गर्ने प्रयास गर्नुहोस्।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "- Det er gjort en nødretting på en feil som forhindret synkronisering på grunn av en sirkulær referansefeil."
+    "devnote": "- Rettet sikkerhetskopierings-/gjenopprettingsfeil for noen alternativer på grunn av skrivefeil.\n- Lagt til funksjonen [Settings - TTS Settings - Initialize TTS Engine When Playing] som et alternativ.\n* Hvis TTS ikke spilles av igjen etter pause, prøv å aktivere dette."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "- Der er lavet en nødløsning til en fejl, der forhindrede synkronisering på grund af en cirkulær referencefejl."
+    "devnote": "- Rettet sikkerhedskopierings-/gendannelsesfejl for nogle muligheder på grund af tastefejl.\n- Tilføjet [Settings - TTS Settings - Initialize TTS Engine When Playing] funktion som en mulighed.\n* Hvis TTS ikke afspilles igen efter pause, kan du prøve at aktivere dette."
   },
   "독일어": {
     "key": "de",
-    "devnote": "– Es wurde eine Notfallbehebung für einen Fehler vorgenommen, der die Synchronisierung aufgrund eines Zirkelverweisfehlers verhinderte."
+    "devnote": "- Fehler beim Sichern/Wiederherstellen einiger Optionen aufgrund von Tippfehlern behoben.\n- Funktion [Einstellungen – TTS-Einstellungen – TTS-Engine beim Spielen initialisieren] als Option hinzugefügt.\n* Wenn TTS nach dem Anhalten nicht wieder abspielt, versuchen Sie, dies zu aktivieren."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "- ໄດ້ມີການແກ້ໄຂສຸກເສີນຕໍ່ກັບຂໍ້ຜິດພາດທີ່ປ້ອງກັນການຊິ້ງຂໍ້ມູນເນື່ອງຈາກຄວາມຜິດພາດການອ້າງອີງວົງວຽນ."
+    "devnote": "- ແກ້​ໄຂ​ຄວາມ​ຜິດ​ພາດ​ສໍາ​ຮອງ​ຂໍ້​ມູນ / ການ​ຟື້ນ​ຟູ​ສໍາ​ລັບ​ທາງ​ເລືອກ​ບາງ​ອັນ​ເນື່ອງ​ມາ​ຈາກ​ການ​ພິມ​ຜິດ​ພາດ​.\n- ເພີ່ມ [ການ​ຕັ້ງ​ຄ່າ - ການ​ຕັ້ງ​ຄ່າ TTS - ເລີ່ມ​ຕົ້ນ TTS Engine ໃນ​ເວ​ລາ​ທີ່​ຫຼິ້ນ​] ການ​ທໍາ​ງານ​ເປັນ​ທາງ​ເລືອກ​.\n* ຖ້າ TTS ບໍ່ຫຼິ້ນອີກຫຼັງຈາກຢຸດຊົ່ວຄາວ, ໃຫ້ລອງເປີດໃຊ້ອັນນີ້."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "- Ir veikts ārkārtas labojums kļūdai, kas neļāva sinhronizēt cirkulāras atsauces kļūdas dēļ."
+    "devnote": "- Izlabotas dublēšanas/atkopšanas kļūdas dažām opcijām drukas kļūdu dēļ.\n- Kā opcija ir pievienota funkcija [Iestatījumi - TTS iestatījumi - TTS dzinēja inicializācija atskaņošanas laikā].\n* Ja pēc pauzes TTS vairs netiek atskaņots, mēģiniet to aktivizēt."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "- Внесено экстренное исправление ошибки, препятствовавшей синхронизации из-за ошибки циклической ссылки."
+    "devnote": "- Исправлены ошибки резервного копирования/восстановления некоторых опций из-за опечаток.\n- Добавлена ​​функция [Настройки - Настройки TTS - Инициализация механизма TTS при игре] в качестве опции.\n* Если TTS не воспроизводится снова после паузы, попробуйте активировать ее."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "- A fost făcută o remediere de urgență a unei erori care a împiedicat sincronizarea din cauza unei erori de referință circulară."
+    "devnote": "- S-au remediat erorile de backup/restaurare pentru unele opțiuni din cauza greșelilor de scriere.\n- S-a adăugat funcția [Setări - Setări TTS - Inițializare motor TTS la redare] ca opțiune.\n* Dacă TTS nu se redă din nou după pauză, încercați să activați aceasta."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "– Ištaisyta klaida, kuri neleido sinchronizuoti dėl žiedinės nuorodos klaidos."
+    "devnote": "- Ištaisytos kai kurių parinkčių atsarginės kopijos / atkūrimo klaidos dėl rašybos klaidų.\n- Pridėta funkcija [Nustatymai - TTS nustatymai - Inicijuoti TTS variklį žaidžiant] kaip parinktis.\n* Jei po pristabdymo TTS nebepaleidžiamas, pabandykite tai suaktyvinti."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "- एका बगचे आणीबाणीचे निराकरण केले गेले आहे ज्याने परिपत्रक संदर्भ त्रुटीमुळे सिंक्रोनाइझेशन प्रतिबंधित केले."
+    "devnote": "- टायपोजमुळे काही पर्यायांसाठी निश्चित बॅकअप/पुनर्संचयित त्रुटी.\n- पर्याय म्हणून [सेटिंग्ज - टीटीएस सेटिंग्ज - प्ले करताना टीटीएस इंजिन सुरू करा] फंक्शन जोडले.\n* विराम दिल्यानंतर TTS पुन्हा प्ले होत नसल्यास, हे सक्रिय करण्याचा प्रयत्न करा."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "- Направена е итна поправка на грешка што ја спречи синхронизацијата поради кружна референтна грешка."
+    "devnote": "- Поправени грешки за резервна копија/обновување на некои опции поради печатни грешки.\n- Додадена е функцијата [Settings - TTS Settings - Initialize TTS Engine When Playing] како опција.\n* Ако TTS не се репродуцира повторно по пауза, обидете се да го активирате ова."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "- ഒരു വൃത്താകൃതിയിലുള്ള റഫറൻസ് പിശക് കാരണം സമന്വയം തടയുന്ന ഒരു ബഗിന് അടിയന്തര പരിഹാരം വരുത്തി."
+    "devnote": "- അക്ഷരത്തെറ്റുകൾ കാരണം ചില ഓപ്ഷനുകൾക്കുള്ള ബാക്കപ്പ്/പുനഃസ്ഥാപിക്കൽ പിശകുകൾ പരിഹരിച്ചു.\n- ഒരു ഓപ്ഷനായി [ക്രമീകരണങ്ങൾ - ടിടിഎസ് ക്രമീകരണങ്ങൾ - പ്ലേ ചെയ്യുമ്പോൾ ടിടിഎസ് എഞ്ചിൻ ആരംഭിക്കുക] പ്രവർത്തനം ചേർത്തു.\n* താൽക്കാലികമായി നിർത്തിയതിന് ശേഷം ടിടിഎസ് വീണ്ടും പ്ലേ ചെയ്യുന്നില്ലെങ്കിൽ, ഇത് സജീവമാക്കാൻ ശ്രമിക്കുക."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "- Pembetulan kecemasan telah dibuat pada pepijat yang menghalang penyegerakan disebabkan oleh ralat rujukan bulat."
+    "devnote": "- Ralat sandaran/pulihkan tetap untuk beberapa pilihan kerana kesilapan menaip.\n- Ditambah [Tetapan - Tetapan TTS - Mulakan Enjin TTS Semasa Bermain] sebagai pilihan.\n* Jika TTS tidak dimainkan semula selepas berhenti seketika, cuba aktifkan ini."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "- Дугуй лавлагааны алдааны улмаас синхрончлолд саад болж байсан алдааг яаралтай зассан."
+    "devnote": "- Үг үсгийн алдаанаас болж зарим сонголтуудын нөөцлөлт/сэргээх алдааг зассан.\n- [Тохиргоо - TTS тохиргоо - Тоглож байх үед TTS хөдөлгүүрийг эхлүүлэх] функцийг сонголт болгон нэмсэн.\n* Хэрэв түр зогсоосны дараа TTS дахин тоглуулахгүй бол үүнийг идэвхжүүлж үзнэ үү."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "- Erreferentzia zirkular errore baten ondorioz sinkronizazioa eragozten zuen akats bati larrialdi-konponketa egin zaio."
+    "devnote": "- Aukera batzuen babeskopia/berreskuratze akatsak konpondu dira, akatsen ondorioz.\n- [Ezarpenak - TTS ezarpenak - Hasieratu TTS motorra erreproduzitzean] funtzioa gehitu da aukera gisa.\n* Pausatu ondoren TTS-k ez badu berriro erreproduzitzen, saiatu hau aktibatzen."
   },
   "버마어": {
     "key": "my",
-    "devnote": "- စက်ဝိုင်းအကိုးအကားအမှားကြောင့် ထပ်တူပြုခြင်းကို တားဆီးထားသည့် bug တစ်ခုအတွက် အရေးပေါ်ပြင်ဆင်မှုကို ပြုလုပ်ထားပါသည်။"
+    "devnote": "- စာလုံးအမှားကြောင့် အချို့ရွေးချယ်စရာများအတွက် အရန်/ပြန်လည်ရယူသည့် အမှားများကို ပြင်ဆင်ပါ။\n- ထည့်ထားသော [ဆက်တင်များ - TTS ဆက်တင်များ - TTS အင်ဂျင်ကို ဖွင့်သည့်အခါ] လုပ်ဆောင်ချက်ကို ရွေးချယ်မှုတစ်ခုအဖြစ် စတင်ပါ။\n* ခေတ္တရပ်ပြီးနောက် TTS ပြန်မဖွင့်ပါက၊ ၎င်းကို အသက်သွင်းကြည့်ပါ။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "- Một bản sửa lỗi khẩn cấp đã được thực hiện đối với lỗi ngăn cản việc đồng bộ hóa do lỗi tham chiếu vòng tròn."
+    "devnote": "- Đã sửa lỗi sao lưu/khôi phục một số tùy chọn do lỗi chính tả.\n- Đã thêm chức năng [Cài đặt - Cài đặt TTS - Khởi tạo công cụ TTS khi phát] dưới dạng tùy chọn.\n* Nếu TTS không phát lại sau khi tạm dừng, hãy thử kích hoạt tính năng này."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "- Было зроблена экстраннае выпраўленне памылкі, якая перашкаджала сінхранізацыі з-за памылкі цыклічнай спасылкі."
+    "devnote": "- Выпраўлены памылкі рэзервовага капіявання/аднаўлення для некаторых параметраў з-за памылак друку.\n- У якасці опцыі дададзена функцыя [Настройкі - Налады TTS - Ініцыялізаваць рухавік TTS падчас гульні].\n* Калі TTS не прайграваецца зноў пасля паўзы, паспрабуйце актываваць гэта."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "- বৃত্তাকার রেফারেন্স ত্রুটির কারণে সিঙ্ক্রোনাইজেশনকে বাধা দেয় এমন একটি বাগতে একটি জরুরি সমাধান করা হয়েছে৷"
+    "devnote": "- টাইপোর কারণে কিছু বিকল্পের জন্য স্থির ব্যাকআপ/রিস্টোর ত্রুটি।\n- একটি বিকল্প হিসাবে [সেটিংস - টিটিএস সেটিংস - টিটিএস ইঞ্জিন শুরু করার সময় বাজানো] ফাংশন যোগ করা হয়েছে৷\n* যদি বিরতির পরে টিটিএস আবার খেলা না হয় তবে এটি সক্রিয় করার চেষ্টা করুন।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "- Беше направена спешна корекция на грешка, която възпрепятстваше синхронизирането поради кръгова референтна грешка."
+    "devnote": "- Коригирани грешки при архивиране/възстановяване за някои опции поради правописни грешки.\n- Добавена е функция [Настройки - TTS настройки - Инициализиране на TTS двигателя при игра] като опция.\n* Ако TTS не се възпроизвежда отново след пауза, опитайте да активирате това."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "- Направљена је хитна исправка грешке која је спречила синхронизацију због грешке кружне референце."
+    "devnote": "- Исправљене грешке приликом прављења резервних копија/враћања неких опција због грешака у куцању.\n- Додата функција [Подешавања - ТТС подешавања - Покрени ТТС Енгине приликом репродукције] као опција.\n* Ако се ТТС не репродукује поново након паузе, покушајте да активирате ово."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "- Urekebishaji wa dharura umefanywa kwa hitilafu iliyozuia ulandanishi kwa sababu ya hitilafu ya marejeleo ya mduara."
+    "devnote": "- Imerekebisha hitilafu za chelezo/rejesha kwa baadhi ya chaguo kutokana na makosa ya kuchapa.\n- Imeongezwa [Mipangilio - Mipangilio ya TTS - Anzisha Injini ya TTS Inapocheza] kama chaguo.\n* Ikiwa TTS haichezi tena baada ya kusitisha, jaribu kuwezesha hii."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "- En nödkorrigering har gjorts på en bugg som förhindrade synkronisering på grund av ett cirkulärt referensfel."
+    "devnote": "- Fixade säkerhetskopierings-/återställningsfel för vissa alternativ på grund av stavfel.\n- Lade till [Settings - TTS Settings - Initialize TTS Engine When Playing] funktion som ett alternativ.\n* Om TTS inte spelas upp igen efter paus, försök att aktivera detta."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "- Se realizó una solución de emergencia a un error que impedía la sincronización debido a un error de referencia circular."
+    "devnote": "- Se corrigieron errores de copia de seguridad/restauración para algunas opciones debido a errores tipográficos.\n- Se agregó la función [Configuración - Configuración TTS - Inicializar motor TTS al reproducir] como opción.\n* Si TTS no se vuelve a reproducir después de una pausa, intente activarlo."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "- Bola vykonaná núdzová oprava chyby, ktorá bránila synchronizácii kvôli chybe kruhového odkazu."
+    "devnote": "- Opravené chyby zálohovania/obnovenia pre niektoré možnosti spôsobené preklepmi.\n- Pridaná funkcia [Nastavenia - Nastavenia TTS - Inicializácia nástroja TTS pri prehrávaní] ako možnosť.\n* Ak sa TTS po pozastavení znova neprehrá, skúste to aktivovať."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "- Izveden je bil zasilni popravek za napako, ki je preprečevala sinhronizacijo zaradi krožne referenčne napake."
+    "devnote": "- Popravljene napake varnostnega kopiranja/obnavljanja za nekatere možnosti zaradi tipkarskih napak.\n- Kot možnost je bila dodana funkcija [Nastavitve - Nastavitve TTS - Inicializacija mehanizma TTS ob predvajanju].\n* Če se TTS po prekinitvi ne predvaja več, poskusite to aktivirati."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "- රවුම් යොමු දෝෂයක් හේතුවෙන් සමමුහුර්ත වීම වළක්වන දෝෂයකට හදිසි විසඳුමක් සිදු කර ඇත."
+    "devnote": "- යතුරු ලියන දෝෂ හේතුවෙන් සමහර විකල්ප සඳහා ස්ථාවර උපස්ථ/ප්‍රතිසාධන දෝෂ.\n- විකල්පයක් ලෙස [සැකසීම් - TTS සැකසුම් - ක්‍රීඩා කරන විට TTS එන්ජිම ආරම්භ කරන්න] ක්‍රියාකාරීත්වය එකතු කරන ලදී.\n* විරාමයෙන් පසුව නැවත TTS ක්‍රීඩා නොකරන්නේ නම්, මෙය සක්‍රිය කර බලන්න."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "- تم إجراء إصلاح طارئ لخلل كان يمنع المزامنة بسبب خطأ مرجعي دائري."
+    "devnote": "- إصلاح أخطاء النسخ الاحتياطي/الاستعادة لبعض الخيارات بسبب الأخطاء المطبعية.\n- تمت إضافة وظيفة [الإعدادات - إعدادات TTS - تهيئة محرك TTS عند التشغيل] كخيار.\n* إذا لم يتم تشغيل تحويل النص إلى كلام مرة أخرى بعد الإيقاف المؤقت، فحاول تنشيط هذا."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "- Շտապ շտկվել է վրիպակը, որը կանխել է համաժամացումը շրջանաձև հղման սխալի պատճառով:"
+    "devnote": "- Տառասխալների պատճառով որոշ տարբերակների կրկնօրինակման/վերականգնման սխալները շտկվել են:\n- Ավելացվեց [Settings - TTS Settings - Initialize TTS Engine Երբ խաղում] գործառույթը որպես տարբերակ:\n* Եթե դադարից հետո TTS-ը նորից չի խաղում, փորձեք ակտիվացնել սա:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "- Neyðarleiðrétting hefur verið gerð á villu sem kom í veg fyrir samstillingu vegna hringlaga tilvísunarvillu."
+    "devnote": "- Lagaðar villur í öryggisafritun/endurheimtu fyrir suma valkosti vegna innsláttarvillna.\n- Bætt við [Stillingar - TTS Stillingar - Frumstilla TTS vél þegar þú spilar] virka sem valkostur.\n* Ef TTS spilar ekki aftur eftir hlé, reyndu að virkja þetta."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "- Dairəvi istinad xətası səbəbindən sinxronizasiyanın qarşısını alan səhvə təcili düzəliş edildi."
+    "devnote": "- Yazı səhvlərinə görə bəzi seçimlər üçün ehtiyat nüsxə/bərpa xətaları düzəldildi.\n- Seçim kimi [Parametrlər - TTS Parametrləri - Oynayan zaman TTS Mühərrikini işə salın] funksiyası əlavə edilib.\n* Əgər TTS fasilədən sonra yenidən çalmazsa, bunu aktivləşdirməyə cəhd edin."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "- 'n Noodoplossing is gemaak aan 'n fout wat sinchronisasie verhoed het weens 'n omsendbriefverwysingsfout."
+    "devnote": "- Rugsteun-/herstelfoute reggestel vir sommige opsies as gevolg van tikfoute.\n- Bygevoeg [Instellings - TTS-instellings - Inisialiseer TTS-enjin tydens speel] funksie as 'n opsie.\n* As TTS nie weer speel na onderbreking nie, probeer om dit te aktiveer."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "- Është bërë një rregullim urgjent për një defekt që pengoi sinkronizimin për shkak të një gabimi referimi rrethor."
+    "devnote": "- Rregulloi gabimet e kopjimit/rivendosjes për disa opsione për shkak të gabimeve shkrimore.\n- U shtua funksioni [Cilësimet - Cilësimet TTS - Initialize TTS Engine When Playing] si opsion.\n* Nëse TTS nuk luan përsëri pas ndalimit, provo ta aktivizosh këtë."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "- በክብ ማመሳከሪያ ስህተት ምክንያት ማመሳሰልን በከለከለው ስህተት ላይ የአደጋ ጊዜ ማስተካከያ ተደርጓል።"
+    "devnote": "- በመተየብ ምክንያት ለአንዳንድ አማራጮች ቋሚ ምትኬ/ስህተቶችን ወደነበረበት መመለስ።\n- ታክሏል [ቅንጅቶች - TTS መቼቶች - ሲጫወቱ TTS ሞተርን ያስጀምሩ] ተግባር እንደ አማራጭ።\n* TTS ለአፍታ ካቆመ በኋላ እንደገና የማይጫወት ከሆነ ይህንን ለማግበር ይሞክሩ።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "- Ringliku viitevea tõttu sünkroonimist takistanud veale on tehtud hädaparandus."
+    "devnote": "- Parandatud mõnede suvandite varundamise/taastamise vead, mis on tingitud kirjavigadest.\n- Lisatud valikuna funktsioon [Seaded - TTS-i sätted - TTS-mootori käivitamine esitamisel].\n* Kui TTS ei mängi pärast peatamist uuesti, proovige see aktiveerida."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "- ایک بگ کو ہنگامی طور پر ٹھیک کیا گیا ہے جس نے سرکلر حوالہ کی خرابی کی وجہ سے ہم آہنگی کو روکا تھا۔"
+    "devnote": "- ٹائپنگ کی غلطیوں کی وجہ سے کچھ اختیارات کے لیے درست بیک اپ/بحالی کی خرابیاں۔\n- ایک اختیار کے طور پر شامل کیا گیا [سیٹنگز - ٹی ٹی ایس سیٹنگز - ٹی ٹی ایس انجن کو چلتے وقت شروع کریں] فنکشن۔\n* اگر ٹی ٹی ایس روکنے کے بعد دوبارہ نہیں چلتا ہے تو اسے چالو کرنے کی کوشش کریں۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "— Екстрено виправлено помилку, яка перешкоджала синхронізації через помилку циклічного посилання."
+    "devnote": "- Виправлено помилки резервного копіювання/відновлення для деяких параметрів через друкарські помилки.\n— Додано функцію [Налаштування — Налаштування TTS — Ініціалізувати TTS Engine під час відтворення] як опцію.\n* Якщо TTS не відтворюється знову після паузи, спробуйте активувати це."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "- È stata apportata una correzione di emergenza a un bug che impediva la sincronizzazione a causa di un errore di riferimento circolare."
+    "devnote": "- Risolti errori di backup/ripristino per alcune opzioni dovuti a errori di battitura.\n- Aggiunta la funzione [Impostazioni - Impostazioni TTS - Inizializza motore TTS durante la riproduzione] come opzione.\n* Se la sintesi vocale non viene riprodotta dopo la pausa, provare ad attivarla."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "- Perbaikan darurat telah dilakukan pada bug yang mencegah sinkronisasi karena kesalahan referensi melingkar."
+    "devnote": "- Memperbaiki kesalahan pencadangan/pemulihan untuk beberapa opsi karena kesalahan ketik.\n- Menambahkan fungsi [Pengaturan - Pengaturan TTS - Inisialisasi Mesin TTS Saat Memutar] sebagai opsi.\n* Jika TTS tidak diputar lagi setelah dijeda, coba aktifkan ini."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "- 循環参照エラーにより同期できないバグを緊急修正しました。"
+    "devnote": "- タイプミスによる一部のオプションのバックアップ/復元エラーを修正しました。\n- [設定 - TTS設定 - 再生時にTTSエンジンを初期化する]機能をオプションとして追加しました。\n※一時停止してもTTSが再度再生されない場合は、これを有効にしてみてください。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "- გადაუდებელი გამოსწორება გაკეთდა შეცდომაზე, რომელმაც ხელი შეუშალა სინქრონიზაციას წრიული მითითების შეცდომის გამო."
+    "devnote": "- დაფიქსირდა სარეზერვო/აღდგენის შეცდომები ზოგიერთი ვარიანტისთვის ბეჭდვითი შეცდომების გამო.\n- დამატებულია [პარამეტრები - TTS პარამეტრები - ინიციალიზაცია TTS ძრავის დაკვრისას] ფუნქცია, როგორც ვარიანტი.\n* თუ შეჩერების შემდეგ TTS აღარ ითამაშებს, სცადეთ ამის გააქტიურება."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "- Ukulungiswa kwezimo eziphuthumayo kwenziwe kusiphazamisi esivimbele ukuvumelanisa ngenxa yephutha lesithenjwa esiyindilinga."
+    "devnote": "- Kulungiswe isipele/ukubuyisela amaphutha kwezinye izinketho ngenxa yokuthayipha.\n- Kwengeziwe [Izilungiselelo - Izilungiselelo ze-TTS - Qalisa Injini ye-TTS Lapho Idlala] njengenketho.\n* Uma i-TTS ingadlali futhi ngemva kokumisa isikhashana, zama ukwenza lokhu kusebenze."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "- 已紧急修复了由于循环引用错误而导致无法同步的错误。"
+    "devnote": "- 修复了由于拼写错误导致的某些选项的备份/恢复错误。\n- 新增【设置-TTS设置-播放时初始化TTS引擎】功能选项。\n* 如果 TTS 暂停后未再次播放，请尝试激活此功能。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "- 已緊急修復了由於循環引用錯誤而導致無法同步的錯誤。"
+    "devnote": "- 修正了由於拼字錯誤而導致的某些選項的備份/還原錯誤。\n- 新增【設定-TTS設定-播放時初始化TTS引擎】功能選項。\n* 如果 TTS 暫停後未再次播放，請嘗試啟動此功能。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "- 已緊急修復了由於循環引用錯誤而導致無法同步的錯誤。"
+    "devnote": "- 修正了由於拼字錯誤而導致的某些選項的備份/還原錯誤。\n- 新增【設定-TTS設定-播放時初始化TTS引擎】功能選項。\n* 如果 TTS 暫停後未再次播放，請嘗試啟動此功能。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "- Byla provedena nouzová oprava chyby, která bránila synchronizaci kvůli cyklické chybě odkazu."
+    "devnote": "- Opraveny chyby zálohování/obnovy u některých možností způsobené překlepy.\n- Přidána funkce [Settings - TTS Settings - Initialize TTS Engine When Playing] jako možnost.\n* Pokud se TTS po pozastavení znovu nepřehraje, zkuste to aktivovat."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "- Дөңгелек анықтамалық қатеге байланысты синхрондауға кедергі келтірген қатеге төтенше жағдай түзетілді."
+    "devnote": "- Теру қателеріне байланысты кейбір опциялардың сақтық көшірмесін жасау/қалпына келтіру қателері түзетілді.\n- Опция ретінде [Параметрлер - TTS параметрлері - Ойнату кезінде TTS механизмін инициализациялау] функциясы қосылды.\n* Егер кідіртуден кейін TTS қайта ойнатылмаса, оны іске қосып көріңіз."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "- S'ha corregit d'emergència un error que impedia la sincronització a causa d'un error de referència circular."
+    "devnote": "- S'han corregit errors de còpia de seguretat/restauració d'algunes opcions a causa d'errors d'ortografia.\n- S'ha afegit la funció [Configuració - Configuració TTS - Inicialitzar el motor TTS quan es juga] com a opció.\n* Si TTS no es torna a reproduir després de fer una pausa, prova d'activar-ho."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "- ವೃತ್ತಾಕಾರದ ಉಲ್ಲೇಖ ದೋಷದಿಂದಾಗಿ ಸಿಂಕ್ರೊನೈಸೇಶನ್ ಅನ್ನು ತಡೆಯುವ ದೋಷಕ್ಕೆ ತುರ್ತು ಪರಿಹಾರವನ್ನು ಮಾಡಲಾಗಿದೆ."
+    "devnote": "- ಮುದ್ರಣದೋಷಗಳಿಂದಾಗಿ ಕೆಲವು ಆಯ್ಕೆಗಳಿಗಾಗಿ ಸ್ಥಿರ ಬ್ಯಾಕಪ್/ಪುನಃಸ್ಥಾಪನೆ ದೋಷಗಳು.\n- ಆಯ್ಕೆಯಾಗಿ [ಸೆಟ್ಟಿಂಗ್‌ಗಳು - ಟಿಟಿಎಸ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು - ಟಿಟಿಎಸ್ ಎಂಜಿನ್ ಅನ್ನು ಪ್ಲೇ ಮಾಡುವಾಗ ಪ್ರಾರಂಭಿಸಿ] ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n* ವಿರಾಮಗೊಳಿಸಿದ ನಂತರ TTS ಮತ್ತೆ ಪ್ಲೇ ಆಗದಿದ್ದರೆ, ಇದನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಪ್ರಯತ್ನಿಸಿ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "- Hitno je ispravljena greška koja je sprječavala sinkronizaciju zbog pogreške kružne reference."
+    "devnote": "- Ispravljene pogreške sigurnosnog kopiranja/vraćanja za neke opcije zbog pogrešaka pri upisu.\n- Dodana [Postavke - TTS postavke - Inicijaliziraj TTS mehanizam prilikom reprodukcije] funkcija kao opcija.\n* Ako se TTS ponovno ne reproducira nakon pauziranja, pokušajte ovo aktivirati."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "- ការ​ជួសជុល​បន្ទាន់​ត្រូវ​បាន​ធ្វើ​ឡើង​ចំពោះ​កំហុស​ដែល​រារាំង​ការ​ធ្វើ​សមកាលកម្ម​ដោយសារ​កំហុស​យោង​រាងជារង្វង់។"
+    "devnote": "- ជួសជុលកំហុសបម្រុងទុក / ស្តារឡើងវិញសម្រាប់ជម្រើសមួយចំនួនដោយសារតែការវាយអក្សរ។\n- បានបន្ថែម [ការកំណត់ - ការកំណត់ TTS - ចាប់ផ្ដើមម៉ាស៊ីន TTS ពេលកំពុងលេង] មុខងារជាជម្រើសមួយ។\n* ប្រសិនបើ TTS មិនលេងម្តងទៀតបន្ទាប់ពីការផ្អាក សូមព្យាយាមធ្វើឱ្យសកម្មនេះ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "- Тегерек маалымдама катасынан улам синхрондоштурууга тоскоол болгон мүчүлүштүктөрдү авариялык оңдоо жасалды."
+    "devnote": "- Жазылган каталардан улам кээ бир варианттардын камдык көчүрмөсүн сактоо/калыбына келтирүү каталары.\n- Опция катары [Орнотуулар - TTS Орнотуулары - Ойноп жатканда TTS Engine Initialize] функциясы кошулду.\n* Эгерде тыныгуудан кийин TTS кайра ойнотулбаса, аны иштетип көрүңүз."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "- வட்டக் குறிப்புப் பிழையின் காரணமாக ஒத்திசைவைத் தடுக்கும் பிழைக்கு அவசரத் திருத்தம் செய்யப்பட்டது."
+    "devnote": "- எழுத்துப் பிழைகள் காரணமாக சில விருப்பங்களுக்கான நிலையான காப்பு/மீட்டமைப்பு பிழைகள்.\n- ஒரு விருப்பமாக [அமைப்புகள் - TTS அமைப்புகள் - விளையாடும் போது TTS இன்ஜினை துவக்கவும்] செயல்பாடு சேர்க்கப்பட்டது.\n* இடைநிறுத்தப்பட்ட பிறகு TTS மீண்டும் இயங்கவில்லை என்றால், இதை செயல்படுத்த முயற்சிக்கவும்."
   },
   "태국어": {
     "key": "th",
-    "devnote": "- มีการแก้ไขฉุกเฉินกับข้อบกพร่องที่ทำให้ไม่สามารถซิงโครไนซ์ได้เนื่องจากข้อผิดพลาดในการอ้างอิงแบบวงกลม"
+    "devnote": "- แก้ไขข้อผิดพลาดในการสำรองข้อมูล/กู้คืนสำหรับบางตัวเลือกเนื่องจากการพิมพ์ผิด\n- เพิ่มฟังก์ชั่น [การตั้งค่า - การตั้งค่า TTS - เริ่มต้น TTS Engine เมื่อเล่น] เป็นตัวเลือก\n* หาก TTS ไม่เล่นอีกหลังจากหยุดชั่วคราว ให้ลองเปิดใช้งานสิ่งนี้"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "- Döngüsel referans hatası nedeniyle senkronizasyonu engelleyen hataya acil düzeltme yapıldı."
+    "devnote": "- Yazım hatalarından dolayı bazı seçeneklerdeki yedekleme/geri yükleme hataları düzeltildi.\n- Bir seçenek olarak [Ayarlar - TTS Ayarları - Oynarken TTS Motorunu Başlat] işlevi eklendi.\n* Duraklatma sonrasında TTS tekrar oynatılmazsa, bunu etkinleştirmeyi deneyin."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "- వృత్తాకార సూచన లోపం కారణంగా సమకాలీకరణను నిరోధించిన బగ్‌కు అత్యవసర పరిష్కారం చేయబడింది."
+    "devnote": "- అక్షరదోషాల కారణంగా కొన్ని ఎంపికల కోసం స్థిర బ్యాకప్/పునరుద్ధరణ లోపాలు.\n- ఎంపికగా [సెట్టింగ్‌లు - TTS సెట్టింగ్‌లు - TTS ఇంజిన్‌ని ప్లే చేస్తున్నప్పుడు ప్రారంభించండి] ఫంక్షన్ జోడించబడింది.\n* పాజ్ చేసిన తర్వాత TTS మళ్లీ ప్లే కాకపోతే, దీన్ని యాక్టివేట్ చేయడానికి ప్రయత్నించండి."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "- ਇੱਕ ਬੱਗ ਲਈ ਇੱਕ ਐਮਰਜੈਂਸੀ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਹੈ ਜੋ ਇੱਕ ਸਰਕੂਲਰ ਹਵਾਲਾ ਗਲਤੀ ਦੇ ਕਾਰਨ ਸਮਕਾਲੀਕਰਨ ਨੂੰ ਰੋਕਦਾ ਹੈ।"
+    "devnote": "- ਗਲਤੀਆਂ ਦੇ ਕਾਰਨ ਕੁਝ ਵਿਕਲਪਾਂ ਲਈ ਸਥਿਰ ਬੈਕਅੱਪ/ਰੀਸਟੋਰ ਗਲਤੀਆਂ।\n- ਇੱਕ ਵਿਕਲਪ ਵਜੋਂ [ਸੈਟਿੰਗਜ਼ - TTS ਸੈਟਿੰਗਾਂ - TTS ਇੰਜਣ ਨੂੰ ਚਲਾਉਣ ਵੇਲੇ ਸ਼ੁਰੂ ਕਰੋ] ਫੰਕਸ਼ਨ ਨੂੰ ਜੋੜਿਆ ਗਿਆ।\n* ਜੇਕਰ TTS ਰੁਕਣ ਤੋਂ ਬਾਅਦ ਦੁਬਾਰਾ ਨਹੀਂ ਚੱਲਦਾ ਹੈ, ਤਾਂ ਇਸਨੂੰ ਕਿਰਿਆਸ਼ੀਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "- یک رفع اضطراری برای یک اشکال انجام شده است که به دلیل یک خطای مرجع دایره ای از همگام سازی جلوگیری می کند."
+    "devnote": "- رفع خطاهای پشتیبان‌گیری/بازیابی برخی از گزینه‌ها به دلیل اشتباهات تایپی.\n- عملکرد [تنظیمات - تنظیمات TTS - Initialize TTS Engine هنگام پخش] به عنوان یک گزینه اضافه شده است.\n* اگر TTS بعد از مکث دوباره پخش نشد، این را فعال کنید."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "- Foi feita uma correção emergencial para um bug que impedia a sincronização devido a um erro de referência circular."
+    "devnote": "- Corrigidos erros de backup/restauração para algumas opções devido a erros de digitação.\n- Adicionada a função [Configurações - Configurações TTS - Inicializar o mecanismo TTS ao jogar] como uma opção.\n* Se o TTS não for reproduzido novamente após a pausa, tente ativar isto."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "- Wprowadzono awaryjną poprawkę błędu, który uniemożliwiał synchronizację z powodu błędu odwołania cyklicznego."
+    "devnote": "- Naprawiono błędy tworzenia kopii zapasowych/przywracania niektórych opcji spowodowane literówkami.\n- Dodano funkcję [Ustawienia - Ustawienia TTS - Inicjuj silnik TTS podczas odtwarzania] jako opcję.\n* Jeśli TTS nie odtwarza ponownie po pauzie, spróbuj włączyć tę opcję."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "- Un correctif d'urgence a été apporté à un bug qui empêchait la synchronisation en raison d'une erreur de référence circulaire."
+    "devnote": "- Correction d'erreurs de sauvegarde/restauration pour certaines options en raison de fautes de frappe.\n- Ajout de la fonction [Paramètres - Paramètres TTS - Initialiser le moteur TTS lors de la lecture] en option.\n* Si TTS ne joue pas à nouveau après une pause, essayez de l'activer."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "- Vikaan, joka esti synkronoinnin pyöreän referenssivirheen vuoksi, on tehty hätäkorjaus."
+    "devnote": "- Korjattu kirjoitusvirheistä johtuvia varmuuskopiointi-/palautusvirheitä joissain vaihtoehdoissa.\n- Lisätty vaihtoehtona [Asetukset - TTS-asetukset - TTS-moottorin alustaminen toistettaessa].\n* Jos TTS ei toista uudelleen tauon jälkeen, yritä aktivoida tämä."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "- Isang emergency na pag-aayos ang ginawa sa isang bug na pumigil sa pag-synchronize dahil sa isang circular reference error."
+    "devnote": "- Inayos ang backup/restore na mga error para sa ilang mga opsyon dahil sa mga typo.\n- Idinagdag [Mga Setting - Mga Setting ng TTS - I-initialize ang TTS Engine Kapag Nagpe-play] function bilang isang opsyon.\n* Kung hindi muling tumugtog ang TTS pagkatapos mag-pause, subukang i-activate ito."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "- Vészhelyzeti javítás történt egy hibán, amely egy körkörös hivatkozási hiba miatt megakadályozta a szinkronizálást."
+    "devnote": "- Javítva az elírások miatti biztonsági mentési/visszaállítási hibák egyes opcióknál.\n- Opcióként hozzáadva a [Beállítások - TTS beállítások - TTS Engine inicializálása lejátszáskor] funkció.\n* Ha a TTS nem játszik le újra a szünet után, próbálja meg aktiválni."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "- בוצע תיקון חירום לבאג שמנע סנכרון עקב שגיאת הפניה מעגלית."
+    "devnote": "- תיקנו שגיאות גיבוי/שחזור עבור כמה אפשרויות עקב שגיאות הקלדה.\n- נוספה פונקציית [הגדרות - הגדרות TTS - אתחול מנוע TTS בעת משחק] כאופציה.\n* אם TTS לא מופעל שוב לאחר ההשהיה, נסה להפעיל זאת."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "- एक बग का आपातकालीन समाधान किया गया है जो एक परिपत्र संदर्भ त्रुटि के कारण सिंक्रनाइज़ेशन को रोकता है।"
+    "devnote": "- टाइपो के कारण कुछ विकल्पों के लिए बैकअप/पुनर्स्थापना त्रुटियों को ठीक किया गया।\n- एक विकल्प के रूप में [सेटिंग्स - टीटीएस सेटिंग्स - खेलते समय टीटीएस इंजन प्रारंभ करें] फ़ंक्शन जोड़ा गया।\n* यदि टीटीएस रुकने के बाद दोबारा नहीं चलता है, तो इसे सक्रिय करने का प्रयास करें।"
   }
 }
