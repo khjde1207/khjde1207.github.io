@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "- Added a margin between the top ad and the content to prevent accidental ad clicks.\n- Modified the viewer's top right menu button to be displayed in the same color as the text.\n- Fixed a bug where the TTS location would start from the original file location when opening another file while paused.\n- We've recently seen a lot of users. As a token of our appreciation, we've removed all the short ads that appear for 5-7 seconds when converting. We'll continue to work hard to make this app even more convenient."
+    "devnote": "Bug fixes."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "- 실수로 광고 클릭을 방지 하기 위해, 상단 광고와 컨텐츠 사이에 여백을 추가 하였습니다. \n- 뷰어 우상단 메뉴 버튼을 글자색과 동일하게 표시되도록 수정 하였습니다. \n- 일시 정지 상태에서 다른 파일을 열 경우 TTS 위치가 기존 파일위치로 에서 시작하던 버그 를 수정 하였습니다. \n- 최근 사용자가 많아 졌습니다. 감사의 의미로 변환시 5~7 초간 보여지는 짧은 광고를 전부 제거 하였습니다. 앞으로도 더욱더 편리한 어플이 되도록 노력 하겠습니다."
+    "devnote": "버그 수정."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "- Engadiuse unha marxe entre o anuncio superior e o contido para evitar clics accidentais no anuncio.\n- Modificouse o botón do menú superior dereito do visor para que se mostrase na mesma cor que o texto.\n- Corrixiuse un erro no que a localización TTS comezaba desde a localización orixinal do ficheiro ao abrir outro ficheiro mentres estaba en pausa.\n- Recentemente vimos moitos usuarios. Como mostra do noso aprecio, eliminamos todos os anuncios curtos que aparecen durante 5-7 segundos ao realizar a conversión. Seguiremos traballando duro para que esta aplicación sexa aínda máis cómoda."
+    "devnote": "Correccións de erros."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "- આકસ્મિક જાહેરાત ક્લિક્સને રોકવા માટે ટોચની જાહેરાત અને સામગ્રી વચ્ચે માર્જિન ઉમેર્યું.\n- ટેક્સ્ટ જેવા જ રંગમાં પ્રદર્શિત કરવા માટે વ્યુઅરના ઉપરના જમણા મેનૂ બટનને સંશોધિત કરો.\n- થોભાવેલી વખતે બીજી ફાઇલ ખોલતી વખતે જ્યાં TTS સ્થાન મૂળ ફાઇલ સ્થાનથી શરૂ થશે તે બગને ઠીક કર્યો.\n- અમે તાજેતરમાં ઘણા વપરાશકર્તાઓ જોયા છે. અમારી પ્રશંસાના સંકેત તરીકે, અમે રૂપાંતર કરતી વખતે 5-7 સેકન્ડ માટે દેખાતી તમામ ટૂંકી જાહેરાતો દૂર કરી છે. અમે આ એપ્લિકેશનને વધુ અનુકૂળ બનાવવા માટે સખત મહેનત કરવાનું ચાલુ રાખીશું."
+    "devnote": "બગ ફિક્સ."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "- Προστέθηκε ένα περιθώριο μεταξύ της κορυφαίας διαφήμισης και του περιεχομένου για την αποφυγή τυχαίων κλικ σε διαφήμιση.\n- Τροποποιήθηκε το επάνω δεξιό κουμπί μενού του θεατή ώστε να εμφανίζεται στο ίδιο χρώμα με το κείμενο.\n- Διορθώθηκε ένα σφάλμα όπου η θέση TTS θα ξεκινούσε από την αρχική θέση του αρχείου κατά το άνοιγμα ενός άλλου αρχείου σε παύση.\n- Είδαμε πρόσφατα πολλούς χρήστες. Ως ένδειξη της εκτίμησής μας, καταργήσαμε όλες τις σύντομες διαφημίσεις που εμφανίζονται για 5-7 δευτερόλεπτα κατά τη μετατροπή. Θα συνεχίσουμε να εργαζόμαστε σκληρά για να κάνουμε αυτήν την εφαρμογή ακόμα πιο βολική."
+    "devnote": "Διορθώσεις σφαλμάτων."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "- Een marge toegevoegd tussen de bovenste advertentie en de inhoud om onbedoelde advertentieklikken te voorkomen.\n- De menuknop rechtsboven van de kijker is aangepast zodat deze in dezelfde kleur als de tekst wordt weergegeven.\n- Een bug opgelost waarbij de TTS-locatie zou starten vanaf de oorspronkelijke bestandslocatie bij het openen van een ander bestand terwijl het was gepauzeerd.\n- We hebben de laatste tijd veel gebruikers gezien. Als blijk van onze waardering hebben we alle korte advertenties verwijderd die gedurende 5-7 seconden verschijnen tijdens het converteren. We zullen hard blijven werken om deze app nog handiger te maken."
+    "devnote": "Bugfixes."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "- आकस्मिक विज्ञापन क्लिकहरू रोक्न शीर्ष विज्ञापन र सामग्री बीचको मार्जिन थपियो।\n- पाठको रूपमा उही रङमा प्रदर्शन गर्न दर्शकको शीर्ष दायाँ मेनु बटन परिमार्जन गरियो।\n- पज हुँदा अर्को फाइल खोल्दा TTS स्थान मूल फाइल स्थानबाट सुरु हुने बग फिक्स गरियो।\n- हामीले भर्खरै धेरै प्रयोगकर्ताहरू देखेका छौं। हाम्रो प्रशंसाको प्रतीकको रूपमा, हामीले रूपान्तरण गर्दा 5-7 सेकेन्डका लागि देखा पर्ने सबै छोटो विज्ञापनहरू हटाएका छौं। हामी यस एपलाई अझ सुविधाजनक बनाउन कडा परिश्रम गरिरहने छौँ।"
+    "devnote": "बग समाधानहरू।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "– Lagt til en margin mellom den øverste annonsen og innholdet for å forhindre utilsiktede annonseklikk.\n- Endret seerens menyknapp øverst til høyre for å vises i samme farge som teksten.\n- Rettet en feil der TTS-plasseringen startet fra den opprinnelige filplasseringen når du åpnet en annen fil mens den ble satt på pause.\n– Vi har sett mange brukere i det siste. Som et tegn på vår takknemlighet har vi fjernet alle de korte annonsene som vises i 5–7 sekunder ved konvertering. Vi vil fortsette å jobbe hardt for å gjøre denne appen enda mer praktisk."
+    "devnote": "Feilrettinger."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "- Tilføjet en margen mellem den øverste annonce og indholdet for at forhindre utilsigtede annonceklik.\n- Ændrede seerens øverste højre menuknap til at blive vist i samme farve som teksten.\n- Rettede en fejl, hvor TTS-placeringen ville starte fra den originale filplacering, når en anden fil blev åbnet, mens den var sat på pause.\n- Vi har på det seneste set mange brugere. Som et tegn på vores påskønnelse har vi fjernet alle de korte annoncer, der vises i 5-7 sekunder ved konvertering. Vi vil fortsætte med at arbejde hårdt for at gøre denne app endnu mere praktisk."
+    "devnote": "Fejlrettelser."
   },
   "독일어": {
     "key": "de",
-    "devnote": "– Zwischen der obersten Anzeige und dem Inhalt wurde ein Abstand hinzugefügt, um versehentliche Klicks auf die Anzeige zu verhindern.\n- Die Menüschaltfläche oben rechts im Viewer wurde so geändert, dass sie in derselben Farbe wie der Text angezeigt wird.\n– Es wurde ein Fehler behoben, bei dem der TTS-Speicherort beim Öffnen einer anderen Datei im angehaltenen Zustand am ursprünglichen Dateispeicherort begann.\n- Wir haben in letzter Zeit viele Benutzer gesehen. Als Zeichen unserer Wertschätzung haben wir alle kurzen Anzeigen entfernt, die bei der Konvertierung 5–7 Sekunden lang erscheinen. Wir werden weiterhin hart daran arbeiten, diese App noch komfortabler zu machen."
+    "devnote": "Fehlerbehebungen."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "- ເພີ່ມຂອບລະຫວ່າງໂຄສະນາເທິງສຸດແລະເນື້ອຫາເພື່ອປ້ອງກັນການຄລິກໂຄສະນາໂດຍບັງເອີນ.\n- ດັດ​ແກ້​ປຸ່ມ​ເມ​ນູ​ດ້ານ​ຂວາ​ເທິງ​ຂອງ​ຜູ້​ຊົມ​ເພື່ອ​ໃຫ້​ໄດ້​ຮັບ​ການ​ສະ​ແດງ​ເປັນ​ສີ​ດຽວ​ກັນ​ກັບ​ຂໍ້​ຄວາມ​.\n- ແກ້ໄຂຂໍ້ຜິດພາດທີ່ສະຖານທີ່ TTS ຈະເລີ່ມຈາກສະຖານທີ່ໄຟລ໌ຕົ້ນສະບັບເມື່ອເປີດໄຟລ໌ອື່ນໃນຂະນະທີ່ຢຸດຊົ່ວຄາວ.\n- ບໍ່ດົນມານີ້ພວກເຮົາໄດ້ເຫັນຜູ້ໃຊ້ຈໍານວນຫລາຍ. ເປັນສັນຍາລັກຂອງຄວາມຊື່ນຊົມຂອງພວກເຮົາ, ພວກເຮົາໄດ້ເອົາໂຄສະນາສັ້ນທັງຫມົດທີ່ປາກົດສໍາລັບ 5-7 ວິນາທີໃນເວລາທີ່ແປງ. ພວກເຮົາຈະສືບຕໍ່ເຮັດວຽກຢ່າງໜັກເພື່ອເຮັດໃຫ້ແອັບນີ້ສະດວກຍິ່ງຂຶ້ນ."
+    "devnote": "ແກ້ໄຂຂໍ້ຜິດພາດ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "- Pievienota piemale starp augšējo reklāmu un saturu, lai novērstu nejaušus reklāmu klikšķus.\n- Pārveidota skatītāja augšējā labās puses izvēlnes poga, lai tā tiktu parādīta tādā pašā krāsā kā teksts.\n- Novērsta kļūda, kad TTS atrašanās vieta sākas no sākotnējās faila atrašanās vietas, atverot citu failu, kamēr tas ir apturēts.\n- Pēdējā laikā esam redzējuši daudz lietotāju. Apliecinot savu pateicību, esam noņēmuši visas īsās reklāmas, kas tiek rādītas 5–7 sekundes pēc reklāmguvuma. Mēs turpināsim smagi strādāt, lai padarītu šo lietotni vēl ērtāku."
+    "devnote": "Kļūdu labojumi."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "– Добавлено поле между верхним объявлением и содержимым, чтобы предотвратить случайные клики по объявлению.\n— Изменена верхняя правая кнопка меню средства просмотра, чтобы она отображалась того же цвета, что и текст.\n- Исправлена ​​ошибка, из-за которой местоположение TTS начиналось с исходного местоположения файла при открытии другого файла во время паузы.\n- В последнее время мы видели много пользователей. В знак нашей признательности мы удалили все короткие рекламные объявления, которые появляются на 5–7 секунд при конверсии. Мы продолжим усердно работать, чтобы сделать это приложение еще более удобным."
+    "devnote": "Исправления ошибок."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "- S-a adăugat o marjă între anunțul de sus și conținut pentru a preveni clicurile accidentale pe anunțuri.\n- S-a modificat butonul de meniu din dreapta sus al vizualizatorului pentru a fi afișat în aceeași culoare cu textul.\n- S-a remediat o eroare în care locația TTS începea de la locația originală a fișierului la deschiderea unui alt fișier în pauză.\n- Am văzut recent o mulțime de utilizatori. Ca semn al aprecierii noastre, am eliminat toate reclamele scurte care apar timp de 5-7 secunde la conversie. Vom continua să muncim din greu pentru a face această aplicație și mai convenabilă."
+    "devnote": "Remedieri de erori."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "– Pridėta paraštė tarp viršutinio skelbimo ir turinio, kad būtų išvengta atsitiktinių skelbimų paspaudimų.\n– Pakeistas viršutinis dešinysis peržiūros programos meniu mygtukas, kad jis būtų rodomas ta pačia spalva kaip ir tekstas.\n- Ištaisyta klaida, kai atidarant kitą failą, kai pristabdyta, TTS vieta prasidėtų nuo pradinės failo vietos.\n– Pastaruoju metu matėme daug vartotojų. Atsidėkodami pašalinome visus trumpus skelbimus, kurie konversijos metu rodomi 5–7 sekundes. Mes ir toliau sunkiai dirbsime, kad ši programa būtų dar patogesnė."
+    "devnote": "Klaidų pataisymai."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "- आकस्मिक जाहिरात क्लिक टाळण्यासाठी शीर्ष जाहिरात आणि सामग्री दरम्यान एक मार्जिन जोडला.\n- मजकूर सारख्याच रंगात प्रदर्शित होण्यासाठी दर्शकाच्या वरच्या उजव्या मेनू बटणामध्ये बदल केले.\n- विराम देताना दुसरी फाइल उघडताना मूळ फाइल स्थानापासून TTS स्थान सुरू होईल अशा बगचे निराकरण केले.\n- आम्ही अलीकडे बरेच वापरकर्ते पाहिले आहेत. आमच्या कौतुकाचे प्रतीक म्हणून, आम्ही रूपांतरित करताना 5-7 सेकंदांसाठी दिसणाऱ्या सर्व छोट्या जाहिराती काढून टाकल्या आहेत. आम्ही हे ॲप आणखी सोयीस्कर बनवण्यासाठी कठोर परिश्रम करत राहू."
+    "devnote": "दोष निराकरणे."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "- Додадена е маржа помеѓу горната реклама и содржината за да се спречат случајни кликови на реклами.\n- Изменето копче од горното десно мени на гледачот да се прикажува во иста боја како и текстот.\n- Поправена грешка каде што локацијата на TTS започнува од оригиналната локација на датотеката кога се отвора друга датотека додека е паузирана.\n- Неодамна видовме многу корисници. Како знак на нашата благодарност, ги отстранивме сите кратки реклами што се појавуваат 5-7 секунди при конвертирање. Ќе продолжиме да работиме напорно за да ја направиме оваа апликација уште поудобна."
+    "devnote": "Поправени грешки."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "- ആകസ്മികമായ പരസ്യ ക്ലിക്കുകൾ തടയാൻ മുൻനിര പരസ്യത്തിനും ഉള്ളടക്കത്തിനും ഇടയിൽ ഒരു മാർജിൻ ചേർത്തു.\n- ടെക്‌സ്‌റ്റിൻ്റെ അതേ നിറത്തിൽ പ്രദർശിപ്പിക്കുന്നതിന് കാഴ്ചക്കാരൻ്റെ മുകളിൽ വലത് മെനു ബട്ടൺ പരിഷ്‌ക്കരിച്ചു.\n- താൽക്കാലികമായി നിർത്തിയിരിക്കുമ്പോൾ മറ്റൊരു ഫയൽ തുറക്കുമ്പോൾ യഥാർത്ഥ ഫയൽ ലൊക്കേഷനിൽ നിന്ന് TTS ലൊക്കേഷൻ ആരംഭിക്കുന്ന ഒരു ബഗ് പരിഹരിച്ചു.\n- ഞങ്ങൾ അടുത്തിടെ ധാരാളം ഉപയോക്താക്കളെ കണ്ടു. ഞങ്ങളുടെ അഭിനന്ദനത്തിൻ്റെ അടയാളമെന്ന നിലയിൽ, പരിവർത്തനം ചെയ്യുമ്പോൾ 5-7 സെക്കൻഡ് നേരത്തേക്ക് ദൃശ്യമാകുന്ന എല്ലാ ഹ്രസ്വ പരസ്യങ്ങളും ഞങ്ങൾ നീക്കംചെയ്തു. ഈ ആപ്പ് കൂടുതൽ സൗകര്യപ്രദമാക്കാൻ ഞങ്ങൾ കഠിനാധ്വാനം ചെയ്യുന്നത് തുടരും."
+    "devnote": "ബഗ് പരിഹരിക്കുന്നു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "- Menambah margin antara iklan teratas dan kandungan untuk mengelakkan klik iklan yang tidak disengajakan.\n- Mengubah suai butang menu atas sebelah kanan penonton untuk dipaparkan dalam warna yang sama dengan teks.\n- Memperbaiki pepijat di mana lokasi TTS akan bermula dari lokasi fail asal apabila membuka fail lain semasa dijeda.\n- Baru-baru ini kami telah melihat ramai pengguna. Sebagai tanda penghargaan kami, kami telah mengalih keluar semua iklan pendek yang muncul selama 5-7 saat apabila menukar. Kami akan terus bekerja keras untuk menjadikan apl ini lebih mudah."
+    "devnote": "Pembetulan pepijat."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "- Зар сурталчилгаа санамсаргүй товшихоос сэргийлэхийн тулд дээд зар болон контентын хооронд зай нэмсэн.\n- Үзэгчийн баруун дээд цэсний товчлуурыг тексттэй ижил өнгөөр ​​харуулахаар өөрчилсөн.\n- Түр зогсоох үед өөр файл нээх үед TTS-ийн байршил анхны файлын байршлаас эхэлдэг алдааг зассан.\n- Сүүлийн үед бид маш олон хэрэглэгчтэй болсон. Бид талархал илэрхийлж, хөрвүүлэхэд 5-7 секундын турш гарч ирдэг бүх богино зарыг устгасан. Бид энэ програмыг илүү тохиромжтой болгохын тулд үргэлжлүүлэн шаргуу ажиллах болно."
+    "devnote": "Алдаа зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "- Goiko iragarkiaren eta edukiaren arteko marjina bat gehitu da ustekabeko iragarki-klikak saihesteko.\n- Ikuslearen goiko eskuineko menuko botoia aldatu da testuaren kolore berean bistaratzeko.\n- Pausatuta dagoen bitartean beste fitxategi bat irekitzean TTS kokapena jatorrizko fitxategiaren kokapenetik hasiko zen akats bat konpondu da.\n- Azkenaldian erabiltzaile asko ikusi ditugu. Gure estimuaren adierazgarri, bihurtzean 5-7 segundoz agertzen diren iragarki labur guztiak kendu ditugu. Lanean jarraituko dugu aplikazio hau are erosoagoa izan dadin."
+    "devnote": "Akatsen konponketak."
   },
   "버마어": {
     "key": "my",
-    "devnote": "- မတော်တဆကြော်ငြာကလစ်များကိုကာကွယ်ရန် ထိပ်တန်းကြော်ငြာနှင့် အကြောင်းအရာကြားအနားသတ်ကို ထည့်ထားသည်။\n- စာသားနှင့်တူညီသောအရောင်ဖြင့်ပြသရန်ကြည့်ရှုသူ၏ညာဘက်အပေါ်ဆုံးမီနူးခလုတ်ကိုမွမ်းမံထားသည်။\n- ခေတ္တရပ်ထားစဉ် အခြားဖိုင်ကိုဖွင့်သည့်အခါ TTS တည်နေရာသည် မူရင်းဖိုင်တည်နေရာမှ စတင်မည့် ချို့ယွင်းချက်တစ်ခုကို ပြင်ဆင်ပါ။\n- ကျွန်ုပ်တို့သည် မကြာသေးမီက အသုံးပြုသူများစွာကို တွေ့ခဲ့ရသည်။ ကျွန်ုပ်တို့၏တန်ဖိုးထားလေးမြတ်မှုအမှတ်အသားအနေဖြင့် ကျွန်ုပ်တို့သည် ပြောင်းလဲသည့်အခါ 5-7 စက္ကန့်ကြာပေါ်လာသည့် ကြော်ငြာတိုအားလုံးကို ဖယ်ရှားလိုက်ပါသည်။ ဤအက်ပ်ကို ပိုမိုအဆင်ပြေစေရန် ကျွန်ုပ်တို့ ဆက်လက်ကြိုးစားသွားပါမည်။"
+    "devnote": "ချွတ်ယွင်းချက်ပြင်ဆင်မှုများ။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "- Đã thêm lề giữa quảng cáo trên cùng và nội dung để ngăn các nhấp chuột vô tình vào quảng cáo.\n- Đã sửa đổi nút menu trên cùng bên phải của người xem để hiển thị cùng màu với văn bản.\n- Đã sửa lỗi vị trí TTS bắt đầu từ vị trí tệp gốc khi mở tệp khác trong khi tạm dừng.\n- Gần đây chúng tôi đã thấy rất nhiều người dùng. Để thể hiện sự đánh giá cao của chúng tôi, chúng tôi đã xóa tất cả các quảng cáo ngắn xuất hiện trong 5-7 giây khi chuyển đổi. Chúng tôi sẽ tiếp tục làm việc chăm chỉ để làm cho ứng dụng này trở nên thuận tiện hơn nữa."
+    "devnote": "Sửa lỗi."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "- Дададзены запас паміж верхняй рэкламай і змесцівам, каб прадухіліць выпадковыя клікі па рэкламе.\n- Зменена правая верхняя кнопка меню праграмы прагляду, каб яна адлюстроўвалася ў тым жа колеры, што і тэкст.\n- Выпраўлена памылка, з-за якой размяшчэнне TTS пачыналася з зыходнага месцазнаходжання файла пры адкрыцці іншага файла падчас паўзы.\n— Апошнім часам мы бачылі шмат карыстальнікаў. У знак нашай удзячнасці мы выдалілі ўсю кароткую рэкламу, якая з'яўляецца на працягу 5-7 секунд пры пераўтварэнні. Мы працягнем шмат працаваць, каб зрабіць гэта дадатак яшчэ больш зручным."
+    "devnote": "Выпраўленні памылак."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "- আকস্মিক বিজ্ঞাপন ক্লিক প্রতিরোধ করতে শীর্ষ বিজ্ঞাপন এবং বিষয়বস্তুর মধ্যে একটি মার্জিন যোগ করা হয়েছে৷\n- পাঠ্যের মতো একই রঙে প্রদর্শিত হওয়ার জন্য দর্শকের উপরের ডানদিকের মেনু বোতামটি পরিবর্তন করা হয়েছে।\n- একটি বাগ সংশোধন করা হয়েছে যেখানে বিরাম থাকা অবস্থায় অন্য ফাইল খোলার সময় TTS অবস্থান মূল ফাইলের অবস্থান থেকে শুরু হবে।\n- আমরা সম্প্রতি অনেক ব্যবহারকারী দেখেছি। আমাদের প্রশংসার চিহ্ন হিসাবে, আমরা রূপান্তর করার সময় 5-7 সেকেন্ডের জন্য প্রদর্শিত সমস্ত ছোট বিজ্ঞাপন সরিয়ে দিয়েছি। এই অ্যাপটিকে আরও সুবিধাজনক করতে আমরা কঠোর পরিশ্রম চালিয়ে যাব।"
+    "devnote": "বাগ ফিক্স।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "- Добавено е поле между горната реклама и съдържанието, за да се предотврати случайно кликване върху рекламата.\n- Променен горният десен бутон на менюто на зрителя, за да се показва в същия цвят като текста.\n- Коригирана грешка, при която местоположението на TTS започва от първоначалното местоположение на файла при отваряне на друг файл, докато е на пауза.\n- Наскоро видяхме много потребители. В знак на нашата благодарност премахнахме всички кратки реклами, които се показват за 5-7 секунди при конвертиране. Ще продължим да работим усилено, за да направим това приложение още по-удобно."
+    "devnote": "Поправки на грешки."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "– Додата је маргина између горњег огласа и садржаја да би се спречили случајни кликови на оглас.\n- Измењено је горње десно дугме менија гледаоца да буде приказано у истој боји као и текст.\n- Исправљена је грешка где би ТТС локација почињала са оригиналне локације датотеке приликом отварања друге датотеке док је паузирана.\n- Недавно смо видели доста корисника. У знак наше захвалности, уклонили смо све кратке огласе који се појављују на 5-7 секунди приликом конверзије. Наставићемо да напорно радимо како бисмо ову апликацију учинили још практичнијом."
+    "devnote": "Исправке грешака."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "- Imeongeza ukingo kati ya tangazo la juu na maudhui ili kuzuia kubofya tangazo kwa bahati mbaya.\n- Ilibadilishwa kitufe cha menyu cha juu cha kulia cha mtazamaji ili kuonyeshwa kwa rangi sawa na maandishi.\n- Imerekebisha hitilafu ambapo eneo la TTS lingeanzia kutoka eneo la faili asili wakati wa kufungua faili nyingine huku kumesitishwa.\n- Tumeona watumiaji wengi hivi majuzi. Kama ishara ya shukrani zetu, tumeondoa matangazo yote mafupi yanayoonekana kwa sekunde 5-7 wakati wa kubadilisha. Tutaendelea kufanya kazi kwa bidii ili kufanya programu hii iwe rahisi zaidi."
+    "devnote": "Marekebisho ya hitilafu."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "- Lade till en marginal mellan den översta annonsen och innehållet för att förhindra oavsiktliga annonsklick.\n- Ändrade tittarens övre högra menyknapp så att den visas i samma färg som texten.\n- Fixade en bugg där TTS-platsen började från den ursprungliga filplatsen när en annan fil öppnades medan den var pausad.\n– Vi har nyligen sett många användare. Som ett tecken på vår uppskattning har vi tagit bort alla korta annonser som visas i 5-7 sekunder vid konvertering. Vi kommer att fortsätta arbeta hårt för att göra den här appen ännu bekvämare."
+    "devnote": "Bugfixar."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "- Se agregó un margen entre el anuncio superior y el contenido para evitar clics accidentales en los anuncios.\n- Se modificó el botón de menú superior derecho del visor para que se muestre en el mismo color que el texto.\n- Se corrigió un error por el cual la ubicación TTS comenzaba desde la ubicación del archivo original al abrir otro archivo mientras estaba en pausa.\n- Recientemente hemos visto muchos usuarios. Como muestra de nuestro agradecimiento, hemos eliminado todos los anuncios cortos que aparecen durante 5 a 7 segundos durante la conversión. Continuaremos trabajando duro para que esta aplicación sea aún más conveniente."
+    "devnote": "Corrección de errores."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "- Pridaný okraj medzi hornú reklamu a obsah, aby sa zabránilo náhodným kliknutiam na reklamu.\n- Upravené pravé horné tlačidlo ponuky prehliadača, aby sa zobrazovalo v rovnakej farbe ako text.\n- Opravená chyba, kedy umiestnenie TTS začínalo od pôvodného umiestnenia súboru pri otváraní iného súboru počas pozastavenia.\n- Nedávno sme videli veľa používateľov. Na znak nášho uznania sme odstránili všetky krátke reklamy, ktoré sa pri konverzii zobrazujú na 5 až 7 sekúnd. Naďalej budeme tvrdo pracovať, aby bola táto aplikácia ešte pohodlnejšia."
+    "devnote": "Opravy chýb."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "- Dodan rob med zgornjim oglasom in vsebino, da preprečite nenamerne klike oglasa.\n- Spremenjen zgornji desni menijski gumb pregledovalnika, da je prikazan v isti barvi kot besedilo.\n- Odpravljena je napaka, pri kateri se je lokacija TTS začela od prvotne lokacije datoteke, ko je bila med začasno ustavljeno odprta druga datoteka.\n- Nedavno smo videli veliko uporabnikov. V znak naše hvaležnosti smo odstranili vse kratke oglase, ki se med pretvorbo prikažejo 5-7 sekund. Še naprej se bomo trudili, da bo ta aplikacija še bolj priročna."
+    "devnote": "Popravki napak."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "- අහම්බෙන් සිදුවන දැන්වීම් ක්ලික් කිරීම් වැලැක්වීම සඳහා ඉහළම දැන්වීම සහ අන්තර්ගතය අතර ආන්තිකයක් එක් කරන ලදී.\n- නරඹන්නාගේ ඉහළ දකුණු මෙනු බොත්තම අකුරු ලෙස එකම වර්ණයෙන් පෙන්වීමට වෙනස් කරන ලදී.\n- නවතා ඇති විට වෙනත් ගොනුවක් විවෘත කරන විට TTS ස්ථානය මුල් ගොනු ස්ථානයේ සිට ආරම්භ වන දෝෂයක් නිරාකරණය කර ඇත.\n- අපි මෑතකදී බොහෝ පරිශීලකයින් දුටුවෙමු. අපගේ අගය කිරීමේ සංකේතයක් ලෙස, පරිවර්තනය කිරීමේදී තත්පර 5-7ක් සඳහා දිස්වන සියලුම කෙටි දැන්වීම් අපි ඉවත් කර ඇත. මෙම යෙදුම වඩාත් පහසු කිරීමට අපි දිගටම වෙහෙස මහන්සි වී වැඩ කරන්නෙමු."
+    "devnote": "දෝෂ නිවැරදි කිරීම්."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "- تمت إضافة هامش بين أعلى الإعلان والمحتوى لمنع النقرات غير المقصودة على الإعلان.\n- تم تعديل زر القائمة الأيمن العلوي للمشاهد ليتم عرضه بنفس لون النص.\n- تم إصلاح الخلل حيث يبدأ موقع TTS من موقع الملف الأصلي عند فتح ملف آخر أثناء الإيقاف المؤقت.\n- لقد رأينا مؤخرًا الكثير من المستخدمين. وكتعبير عن تقديرنا، قمنا بإزالة جميع الإعلانات القصيرة التي تظهر لمدة تتراوح بين 5 و7 ثوانٍ عند التحويل. سنواصل العمل الجاد لجعل هذا التطبيق أكثر ملاءمة."
+    "devnote": "إصلاحات الشوائب."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "- Ավելացրել է լուսանցք վերևի գովազդի և բովանդակության միջև՝ կանխելու գովազդի պատահական սեղմումները:\n- Փոփոխել է դիտողի վերին աջ ընտրացանկի կոճակը, որպեսզի այն ցուցադրվի նույն գույնով, ինչ տեքստը:\n- Ուղղվել է վրիպակ, որտեղ TTS-ի գտնվելու վայրը կսկսվի սկզբնական ֆայլի գտնվելու վայրից, երբ դադարում է մեկ այլ ֆայլ բացել:\n- Մենք վերջերս շատ օգտատերեր ենք տեսել: Որպես մեր երախտագիտության նշան՝ մենք հեռացրել ենք բոլոր այն կարճ գովազդները, որոնք փոխակերպման ժամանակ հայտնվում են 5-7 վայրկյան: Մենք կշարունակենք քրտնաջան աշխատել այս հավելվածն էլ ավելի հարմար դարձնելու համար:"
+    "devnote": "Սխալների շտկում:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "- Bætt við spássíu á milli efstu auglýsingarinnar og innihaldsins til að koma í veg fyrir að smelli á auglýsingar fyrir slysni.\n- Breytti valmyndarhnappi áhorfandans efst til hægri þannig að hann birtist í sama lit og textinn.\n- Lagaði villu þar sem TTS staðsetningin byrjaði frá upprunalegu skráarstaðnum þegar önnur skrá var opnuð í hlé.\n- Við höfum nýlega séð marga notendur. Sem þakklætisvottur höfum við fjarlægt allar stuttu auglýsingarnar sem birtast í 5-7 sekúndur við umbreytingu. Við munum halda áfram að vinna hörðum höndum að því að gera þetta forrit enn þægilegra."
+    "devnote": "Villuleiðréttingar."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "- Təsadüfi reklam kliklərinin qarşısını almaq üçün üst reklam və məzmun arasında bir kənar əlavə edildi.\n- Mətnlə eyni rəngdə göstərilmək üçün izləyicinin yuxarı sağ menyu düyməsi dəyişdirildi.\n- Pauza zamanı başqa faylı açarkən TTS yerinin orijinal fayl yerindən başlaması ilə bağlı bir səhv düzəldildi.\n- Son vaxtlar çoxlu istifadəçi gördük. Təşəkkürümüzün əlaməti olaraq, konvertasiya zamanı 5-7 saniyə ərzində görünən bütün qısa reklamları sildik. Biz bu proqramı daha da rahat etmək üçün çox çalışmaqda davam edəcəyik."
+    "devnote": "Baq düzəlişləri."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "- Het 'n marge tussen die boonste advertensie en die inhoud bygevoeg om toevallige advertensieklikke te voorkom.\n- Verander die kyker se boonste regterkantste kieslysknoppie om in dieselfde kleur as die teks vertoon te word.\n- Het 'n fout opgelos waar die TTS-ligging vanaf die oorspronklike lêerligging sou begin wanneer 'n ander lêer oopgemaak word terwyl dit onderbreek is.\n- Ons het onlangs baie gebruikers gesien. As 'n blyk van ons waardering, het ons al die kort advertensies wat vir 5-7 sekondes verskyn tydens omskakeling verwyder. Ons sal voortgaan om hard te werk om hierdie toepassing selfs geriefliker te maak."
+    "devnote": "Foutoplossings."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "- Shtoi një diferencë midis reklamës kryesore dhe përmbajtjes për të parandaluar klikimet aksidentale të reklamave.\n- Modifikoi butonin e menysë lart djathtas të shikuesit për t'u shfaqur në të njëjtën ngjyrë si teksti.\n- Rregulloi një gabim ku vendndodhja e TTS do të fillonte nga vendndodhja e skedarit origjinal kur hapej një skedar tjetër ndërsa ishte në pauzë.\n- Kohët e fundit kemi parë shumë përdorues. Si shenjë e vlerësimit tonë, ne kemi hequr të gjitha reklamat e shkurtra që shfaqen për 5-7 sekonda gjatë konvertimit. Ne do të vazhdojmë të punojmë shumë për ta bërë këtë aplikacion edhe më të përshtatshëm."
+    "devnote": "Rregullime të gabimeve."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "- በአጋጣሚ የማስታወቂያ ጠቅታዎችን ለመከላከል በከፍተኛ ማስታወቂያ እና በይዘቱ መካከል ህዳግ ታክሏል።\n- የተመልካቹን የላይኛው ቀኝ ሜኑ ቁልፍ ከጽሑፉ ጋር በተመሳሳይ ቀለም እንዲታይ አስተካክሏል።\n- በቆመበት ጊዜ ሌላ ፋይል ሲከፍት የTTS መገኛ ከዋናው የፋይል ቦታ የሚጀምርበት ሳንካ ተስተካክሏል።\n- በቅርቡ ብዙ ተጠቃሚዎችን አይተናል። ለአድናቆታችን ምልክት፣ ስንቀይር ለ5-7 ሰከንድ ያህል የሚታዩትን ሁሉንም አጫጭር ማስታወቂያዎች አስወግደናል። ይህን መተግበሪያ የበለጠ ምቹ ለማድረግ ጠንክረን መስራታችንን እንቀጥላለን።"
+    "devnote": "የሳንካ ጥገናዎች።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "- Juhuslike reklaamiklõpsude vältimiseks lisati veeris ülemise reklaami ja sisu vahele.\n- Muudetud vaataja ülemist paremat menüünuppu, et see kuvatakse tekstiga sama värviga.\n- Parandatud viga, mille korral TTS-i asukoht algas teise faili avamisel peatatud faili algsest asukohast.\n- Oleme hiljuti näinud palju kasutajaid. Tänuavalduseks oleme eemaldanud kõik lühikesed reklaamid, mis kuvatakse teisendamisel 5–7 sekundit. Jätkame kõvasti tööd, et muuta see rakendus veelgi mugavamaks."
+    "devnote": "Veaparandused."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "- حادثاتی اشتھاراتی کلکس کو روکنے کے لیے سرفہرست اشتہار اور مواد کے درمیان ایک مارجن شامل کر دیا گیا۔\n- ناظرین کے اوپری دائیں مینو کے بٹن میں ترمیم کی گئی تاکہ متن کے رنگ میں دکھایا جائے۔\n- ایک بگ کو ٹھیک کیا جہاں TTS لوکیشن اصل فائل لوکیشن سے شروع ہو جائے گا جب توقف کے دوران دوسری فائل کھولی جائے گی۔\n- ہم نے حال ہی میں بہت سارے صارفین کو دیکھا ہے۔ اپنی تعریف کے نشان کے طور پر، ہم نے ان تمام چھوٹے اشتہارات کو ہٹا دیا ہے جو تبدیل کرتے وقت 5-7 سیکنڈ تک ظاہر ہوتے ہیں۔ ہم اس ایپ کو مزید آسان بنانے کے لیے سخت محنت کرتے رہیں گے۔"
+    "devnote": "بگ کی اصلاحات۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "- Додано межу між верхнім оголошенням і вмістом, щоб запобігти випадковому натисканню оголошення.\n— Змінено праву верхню кнопку меню програми перегляду, щоб вона відображалася тим самим кольором, що й текст.\n— Виправлено помилку, через яку розташування TTS починалося з вихідного розташування файлу під час відкриття іншого файлу під час паузи.\n— Останнім часом ми бачили багато користувачів. На знак подяки ми видалили всю коротку рекламу, яка з’являється протягом 5-7 секунд під час конвертації. Ми продовжуватимемо наполегливо працювати, щоб зробити цю програму ще зручнішою."
+    "devnote": "Виправлення помилок."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "- Aggiunto un margine tra l'annuncio principale e il contenuto per evitare clic accidentali sull'annuncio.\n- Modificato il pulsante del menu in alto a destra del visualizzatore affinché venga visualizzato nello stesso colore del testo.\n- Risolto un bug per cui la posizione TTS iniziava dalla posizione del file originale quando si apriva un altro file durante la pausa.\n- Recentemente abbiamo visto molti utenti. In segno di apprezzamento, abbiamo rimosso tutti gli annunci brevi che appaiono per 5-7 secondi durante la conversione. Continueremo a lavorare sodo per rendere questa app ancora più conveniente."
+    "devnote": "Correzioni di bug."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "- Menambahkan margin antara iklan teratas dan konten untuk mencegah klik iklan yang tidak disengaja.\n- Memodifikasi tombol menu kanan atas pemirsa agar ditampilkan dalam warna yang sama dengan teks.\n- Memperbaiki bug di mana lokasi TTS akan dimulai dari lokasi file asli saat membuka file lain saat dijeda.\n- Kami baru-baru ini melihat banyak pengguna. Sebagai bentuk apresiasi kami, kami telah menghapus semua iklan pendek yang muncul selama 5-7 detik saat melakukan konversi. Kami akan terus bekerja keras untuk menjadikan aplikasi ini lebih nyaman."
+    "devnote": "Perbaikan bug."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "- 誤って広告がクリックされるのを防ぐために、上部の広告とコンテンツの間に余白を追加しました。\n・ビューア右上のメニューボタンを文字と同色で表示するように修正しました。\n- 一時停止中に別のファイルを開くと、TTS の場所が元のファイルの場所から始まるバグを修正しました。\n- 最近、多くのユーザーを見かけます。感謝の気持ちを込めて、コンバージョン時に 5 ～ 7 秒間表示される短い広告をすべて削除しました。今後もより便利なアプリとなるよう努めてまいります。"
+    "devnote": "バグ修正。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "- დამატებულია ზღვარი ტოპ რეკლამასა და შინაარსს შორის, რათა თავიდან აიცილოს შემთხვევითი დაწკაპუნებები.\n- შეცვლილია მაყურებლის ზედა მარჯვენა მენიუს ღილაკი, რათა გამოჩნდეს ტექსტის იმავე ფერში.\n- დაფიქსირდა შეცდომა, როდესაც TTS მდებარეობა იწყებოდა ფაილის თავდაპირველი მდებარეობიდან სხვა ფაილის გახსნისას პაუზის დროს.\n- ბოლო დროს ბევრი მომხმარებელი ვნახეთ. ჩვენი მადლიერების ნიშნად, ჩვენ წავშალეთ ყველა მოკლე რეკლამა, რომელიც კონვერტაციისას ჩნდება 5-7 წამის განმავლობაში. ჩვენ გავაგრძელებთ ბევრ მუშაობას, რომ ეს აპლიკაცია კიდევ უფრო მოსახერხებელი გავხადოთ."
+    "devnote": "შეცდომების გამოსწორება."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "- Kwengezwe umkhawulo phakathi kwesikhangiso esiphezulu nokuqukethwe ukuze kunqandwe ukuchofoza ngephutha kwezikhangiso.\n- Kushintshwe inkinobho yemenyu ephezulu kwesokudla yesibukeli ukuze iboniswe ngombala ofanayo nowombhalo.\n- Kulungiswe isiphazamisi lapho indawo ye-TTS izoqala khona endaweni yefayela yasekuqaleni lapho uvula elinye ifayela ngenkathi imisiwe.\n- Sisanda kubona abasebenzisi abaningi. Njengophawu lokubonga kwethu, sisuse zonke izikhangiso ezimfushane ezivela imizuzwana emi-5-7 uma siguqulwa. Sizoqhubeka nokusebenza kanzima ukwenza lolu hlelo lokusebenza lube lula nakakhulu."
+    "devnote": "Ukulungiswa kweziphazamisi."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "- 在顶部广告和内容之间添加了边距，以防止意外的广告点击。\n- 修改了查看器右上角的菜单按钮，使其以与文本相同的颜色显示。\n- 修复了暂停时打开另一个文件时 TTS 位置将从原始文件位置开始的错误。\n- 我们最近看到了很多用户。为了表示感谢，我们删除了所有在转化时出现 5-7 秒的短广告。我们将继续努力，让这个应用程序变得更加方便。"
+    "devnote": "错误修复。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "- 在頂部廣告和內容之間添加了邊距，以防止意外的廣告點擊。\n- 修改了檢視器右上角的選單按鈕，使其以與文字相同的顏色顯示。\n- 修正了暫停時開啟另一個檔案時 TTS 位置將從原始檔案位置開始的錯誤。\n- 我們最近看到了很多用戶。為了表示感謝，我們刪除了所有在轉換時出現 5-7 秒的短廣告。我們將繼續努力，讓這個應用程式變得更加方便。"
+    "devnote": "錯誤修復。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "- 在頂部廣告和內容之間添加了邊距，以防止意外的廣告點擊。\n- 修改了檢視器右上角的選單按鈕，使其以與文字相同的顏色顯示。\n- 修正了暫停時開啟另一個檔案時 TTS 位置將從原始檔案位置開始的錯誤。\n- 我們最近看到了很多用戶。為了表示感謝，我們刪除了所有在轉換時出現 5-7 秒的短廣告。我們將繼續努力，讓這個應用程式變得更加方便。"
+    "devnote": "錯誤修復。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "- Přidán okraj mezi horní reklamu a obsah, aby se zabránilo náhodným kliknutím na reklamu.\n- Upraveno pravé horní tlačítko nabídky prohlížeče, aby se zobrazovalo ve stejné barvě jako text.\n- Opravena chyba, kdy umístění TTS začínalo od původního umístění souboru při otevírání jiného souboru při pozastavení.\n- Nedávno jsme viděli mnoho uživatelů. Jako projev našeho uznání jsme odstranili všechny krátké reklamy, které se při konverzi zobrazují po dobu 5–7 sekund. Budeme i nadále tvrdě pracovat, aby byla tato aplikace ještě pohodlnější."
+    "devnote": "Opravy chyb."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "- Жарнаманың кездейсоқ басылуын болдырмау үшін жоғарғы жарнама мен мазмұн арасында маржа қосылды.\n- Көрерменнің жоғарғы оң жақ мәзір түймесі мәтінмен бірдей түсте көрсетілетін етіп өзгертілді.\n- Кідірту кезінде басқа файлды ашқан кезде TTS орны бастапқы файл орнынан басталатын қате түзетілді.\n- Біз соңғы уақытта көптеген пайдаланушыларды көрдік. Алғысымыздың белгісі ретінде біз түрлендіру кезінде 5-7 секундта көрсетілетін барлық қысқа жарнамаларды алып тастадық. Біз бұл қолданбаны одан да ыңғайлы ету үшін көп жұмыс жасаймыз."
+    "devnote": "Қателерді түзету."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "- S'ha afegit un marge entre l'anunci superior i el contingut per evitar clics accidentals a l'anunci.\n- S'ha modificat el botó de menú superior dret del visor perquè es mostri amb el mateix color que el text.\n- S'ha solucionat un error en què la ubicació TTS començava des de la ubicació original del fitxer en obrir un altre fitxer mentre estava en pausa.\n- Recentment hem vist molts usuaris. Com a mostra del nostre agraïment, hem eliminat tots els anuncis curts que apareixen durant 5-7 segons en fer la conversió. Continuarem treballant dur perquè aquesta aplicació sigui encara més convenient."
+    "devnote": "Correccions d'errors."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "- ಆಕಸ್ಮಿಕ ಜಾಹೀರಾತು ಕ್ಲಿಕ್‌ಗಳನ್ನು ತಡೆಯಲು ಉನ್ನತ ಜಾಹೀರಾತು ಮತ್ತು ವಿಷಯದ ನಡುವೆ ಅಂಚನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಪಠ್ಯದಂತೆಯೇ ಅದೇ ಬಣ್ಣದಲ್ಲಿ ಪ್ರದರ್ಶಿಸಲು ವೀಕ್ಷಕರ ಮೇಲಿನ ಬಲ ಮೆನು ಬಟನ್ ಅನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ವಿರಾಮಗೊಳಿಸಿದಾಗ ಮತ್ತೊಂದು ಫೈಲ್ ಅನ್ನು ತೆರೆಯುವಾಗ TTS ಸ್ಥಳವು ಮೂಲ ಫೈಲ್ ಸ್ಥಳದಿಂದ ಪ್ರಾರಂಭವಾಗುವ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ನಾವು ಇತ್ತೀಚೆಗೆ ಬಹಳಷ್ಟು ಬಳಕೆದಾರರನ್ನು ನೋಡಿದ್ದೇವೆ. ನಮ್ಮ ಮೆಚ್ಚುಗೆಯ ಸಂಕೇತವಾಗಿ, ಪರಿವರ್ತಿಸುವಾಗ 5-7 ಸೆಕೆಂಡುಗಳ ಕಾಲ ಗೋಚರಿಸುವ ಎಲ್ಲಾ ಕಿರು ಜಾಹೀರಾತುಗಳನ್ನು ನಾವು ತೆಗೆದುಹಾಕಿದ್ದೇವೆ. ಈ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಇನ್ನಷ್ಟು ಅನುಕೂಲಕರವಾಗಿಸಲು ನಾವು ಶ್ರಮಿಸುವುದನ್ನು ಮುಂದುವರಿಸುತ್ತೇವೆ."
+    "devnote": "ದೋಷ ಪರಿಹಾರಗಳು."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "- Dodana margina između gornjeg oglasa i sadržaja kako bi se spriječili slučajni klikovi na oglas.\n- Izmijenjen je gornji desni gumb izbornika preglednika tako da se prikazuje u istoj boji kao i tekst.\n- Ispravljena je pogreška u kojoj bi lokacija TTS-a počinjala od izvorne lokacije datoteke prilikom otvaranja druge datoteke dok je pauzirana.\n- Nedavno smo vidjeli puno korisnika. U znak naše zahvalnosti, uklonili smo sve kratke oglase koji se pojavljuju 5-7 sekundi prilikom pretvorbe. Nastavit ćemo naporno raditi kako bismo ovu aplikaciju učinili još praktičnijom."
+    "devnote": "Ispravci grešaka."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "- បានបន្ថែមរឹមរវាងការផ្សាយពាណិជ្ជកម្មកំពូល និងមាតិកាដើម្បីការពារការចុចផ្សាយពាណិជ្ជកម្មដោយចៃដន្យ។\n- កែប្រែប៊ូតុងមឺនុយខាងស្តាំខាងលើរបស់អ្នកមើល ដើម្បីបង្ហាញជាពណ៌ដូចគ្នានឹងអត្ថបទ។\n- ជួសជុលកំហុសដែលទីតាំង TTS នឹងចាប់ផ្តើមពីទីតាំងឯកសារដើមនៅពេលបើកឯកសារផ្សេងទៀតខណៈពេលផ្អាក។\n- ថ្មីៗនេះយើងបានឃើញអ្នកប្រើប្រាស់ជាច្រើន។ ក្នុងនាមជានិមិត្តសញ្ញានៃការកោតសរសើររបស់យើង យើងបានលុបការផ្សាយពាណិជ្ជកម្មខ្លីៗទាំងអស់ដែលលេចឡើងក្នុងរយៈពេល 5-7 វិនាទីនៅពេលបម្លែង។ យើងនឹងបន្តខិតខំប្រឹងប្រែងដើម្បីធ្វើឱ្យកម្មវិធីនេះកាន់តែងាយស្រួល។"
+    "devnote": "កែកំហុស។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "- Кокус жарнакты чыкылдатуунун алдын алуу үчүн жогорку жарнама менен мазмундун ортосуна чек кошулду.\n- Көрүүчүнүн жогорку оң жагындагы меню баскычы текст менен бирдей түстө көрсөтүлүшү үчүн өзгөртүлдү.\n- Тыныгуу учурунда башка файлды ачууда TTS жайгашкан жери баштапкы файл жайгашкан жерден башталчу мүчүлүштүк оңдолду.\n- Биз акыркы убакта көп колдонуучуларды көрдүк. Ыраазычылыгыбыздын белгиси катары биз конвертациялоодо 5-7 секунда ичинде пайда болгон бардык кыска жарнамаларды алып салдык. Биз бул колдонмону ого бетер ыңгайлуу кылуу үчүн талыкпай иштөөнү улантабыз."
+    "devnote": "Мүчүлүштүктөрдү оңдоо."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "- தற்செயலான விளம்பரக் கிளிக்குகளைத் தடுக்க, மேல் விளம்பரத்திற்கும் உள்ளடக்கத்திற்கும் இடையே ஓரம் சேர்க்கப்பட்டது.\n- பார்வையாளரின் மேல் வலது மெனு பொத்தான் உரையின் அதே நிறத்தில் காட்டப்படும்.\n- இடைநிறுத்தப்பட்ட நிலையில் மற்றொரு கோப்பைத் திறக்கும் போது, ​​அசல் கோப்பு இடத்திலிருந்து TTS இருப்பிடம் தொடங்கும் ஒரு பிழை சரி செய்யப்பட்டது.\n- சமீபத்தில் நிறைய பயனர்களைப் பார்த்தோம். எங்களின் பாராட்டுக்கு அடையாளமாக, மாற்றும் போது 5-7 வினாடிகளுக்கு தோன்றும் அனைத்து குறுகிய விளம்பரங்களையும் அகற்றியுள்ளோம். இந்த பயன்பாட்டை இன்னும் வசதியாக மாற்ற நாங்கள் தொடர்ந்து கடினமாக உழைப்போம்."
+    "devnote": "பிழை திருத்தங்கள்."
   },
   "태국어": {
     "key": "th",
-    "devnote": "- เพิ่มระยะขอบระหว่างโฆษณาด้านบนและเนื้อหาเพื่อป้องกันการคลิกโฆษณาโดยไม่ตั้งใจ\n- แก้ไขปุ่มเมนูด้านบนขวาของผู้ดูให้แสดงเป็นสีเดียวกับข้อความ\n- แก้ไขข้อผิดพลาดที่ตำแหน่ง TTS จะเริ่มต้นจากตำแหน่งไฟล์ต้นฉบับเมื่อเปิดไฟล์อื่นในขณะที่หยุดชั่วคราว\n- เมื่อเร็วๆ นี้เราได้เห็นผู้ใช้จำนวนมาก เพื่อเป็นการแสดงความขอบคุณ เราได้ลบโฆษณาขนาดสั้นทั้งหมดที่ปรากฏเป็นเวลา 5-7 วินาทีเมื่อทำ Conversion เราจะทำงานอย่างหนักต่อไปเพื่อทำให้แอปนี้สะดวกยิ่งขึ้น"
+    "devnote": "แก้ไขข้อบกพร่อง"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "- Yanlışlıkla reklam tıklamalarını önlemek için üstteki reklam ile içerik arasına bir kenar boşluğu eklendi.\n- Görüntüleyicinin sağ üst menü düğmesi metinle aynı renkte görüntülenecek şekilde değiştirildi.\n- Duraklatılmış durumdayken başka bir dosya açıldığında TTS konumunun orijinal dosya konumundan başlamasına neden olan bir hata düzeltildi.\n- Son zamanlarda çok sayıda kullanıcı gördük. Takdirimizin bir göstergesi olarak, dönüşüm sırasında 5-7 saniye boyunca görünen tüm kısa reklamları kaldırdık. Bu uygulamayı daha da kullanışlı hale getirmek için çok çalışmaya devam edeceğiz."
+    "devnote": "Hata düzeltmeleri."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "- ప్రమాదవశాత్తు ప్రకటన క్లిక్‌లను నిరోధించడానికి అగ్ర ప్రకటన మరియు కంటెంట్ మధ్య మార్జిన్ జోడించబడింది.\n- వచనం వలె అదే రంగులో ప్రదర్శించబడేలా వీక్షకుల కుడి ఎగువ మెను బటన్ సవరించబడింది.\n- పాజ్ చేయబడినప్పుడు మరొక ఫైల్‌ను తెరిచేటప్పుడు TTS స్థానం అసలు ఫైల్ స్థానం నుండి ప్రారంభమయ్యే బగ్ పరిష్కరించబడింది.\n- మేము ఇటీవల చాలా మంది వినియోగదారులను చూశాము. మా ప్రశంసలకు టోకెన్‌గా, మార్చేటప్పుడు 5-7 సెకన్ల పాటు కనిపించే అన్ని చిన్న ప్రకటనలను మేము తీసివేసాము. ఈ యాప్‌ను మరింత సౌకర్యవంతంగా చేయడానికి మేము కష్టపడి పని చేస్తూనే ఉంటాము."
+    "devnote": "బగ్ పరిష్కారాలు."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "- ਅਚਾਨਕ ਵਿਗਿਆਪਨ ਕਲਿੱਕਾਂ ਨੂੰ ਰੋਕਣ ਲਈ ਚੋਟੀ ਦੇ ਵਿਗਿਆਪਨ ਅਤੇ ਸਮੱਗਰੀ ਦੇ ਵਿਚਕਾਰ ਇੱਕ ਹਾਸ਼ੀਆ ਜੋੜਿਆ ਗਿਆ।\n- ਪਾਠ ਦੇ ਰੂਪ ਵਿੱਚ ਉਸੇ ਰੰਗ ਵਿੱਚ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਲਈ ਦਰਸ਼ਕ ਦੇ ਉੱਪਰੀ ਸੱਜੇ ਮੀਨੂ ਬਟਨ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ।\n- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਹੈ ਜਿੱਥੇ ਇੱਕ ਹੋਰ ਫਾਈਲ ਖੋਲ੍ਹਣ ਵੇਲੇ TTS ਟਿਕਾਣਾ ਅਸਲ ਫਾਈਲ ਟਿਕਾਣੇ ਤੋਂ ਸ਼ੁਰੂ ਹੋ ਜਾਵੇਗਾ.\n- ਅਸੀਂ ਹਾਲ ਹੀ ਵਿੱਚ ਬਹੁਤ ਸਾਰੇ ਉਪਭੋਗਤਾਵਾਂ ਨੂੰ ਦੇਖਿਆ ਹੈ. ਸਾਡੀ ਪ੍ਰਸ਼ੰਸਾ ਦੇ ਟੋਕਨ ਵਜੋਂ, ਅਸੀਂ ਉਹਨਾਂ ਸਾਰੇ ਛੋਟੇ ਵਿਗਿਆਪਨਾਂ ਨੂੰ ਹਟਾ ਦਿੱਤਾ ਹੈ ਜੋ ਕਨਵਰਟ ਕਰਨ ਵੇਲੇ 5-7 ਸਕਿੰਟਾਂ ਲਈ ਦਿਖਾਈ ਦਿੰਦੇ ਹਨ। ਅਸੀਂ ਇਸ ਐਪ ਨੂੰ ਹੋਰ ਵੀ ਸੁਵਿਧਾਜਨਕ ਬਣਾਉਣ ਲਈ ਸਖ਼ਤ ਮਿਹਨਤ ਕਰਨਾ ਜਾਰੀ ਰੱਖਾਂਗੇ।"
+    "devnote": "ਬੱਗ ਠੀਕ ਕੀਤੇ ਗਏ ਹਨ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "- اضافه شدن حاشیه بین آگهی برتر و محتوا برای جلوگیری از کلیک های تصادفی آگهی.\n- دکمه منوی بالای سمت راست بیننده را تغییر داد تا به همان رنگ متن نمایش داده شود.\n- رفع اشکالی که در آن مکان TTS از محل فایل اصلی در هنگام باز کردن یک فایل دیگر در حالت توقف شروع می شد.\n- اخیراً کاربران زیادی دیده ایم. به نشانه قدردانی ما، همه تبلیغات کوتاهی که هنگام تبدیل به مدت 5 تا 7 ثانیه ظاهر می شوند را حذف کرده ایم. ما به کار سخت خود ادامه خواهیم داد تا این برنامه را حتی راحت تر کنیم."
+    "devnote": "رفع اشکال."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "- Adicionada uma margem entre o anúncio superior e o conteúdo para evitar cliques acidentais nos anúncios.\n- Modificado o botão de menu superior direito do visualizador para ser exibido na mesma cor do texto.\n- Corrigido um bug onde a localização do TTS começava a partir da localização original do arquivo ao abrir outro arquivo durante uma pausa.\n- Recentemente vimos muitos usuários. Como forma de agradecimento, removemos todos os anúncios curtos que aparecem por 5 a 7 segundos durante a conversão. Continuaremos trabalhando duro para tornar este aplicativo ainda mais conveniente."
+    "devnote": "Correções de bugs."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "- Dodano margines pomiędzy górną reklamą a treścią, aby zapobiec przypadkowym kliknięciom reklam.\n- Zmodyfikowano prawy górny przycisk menu przeglądarki, aby był wyświetlany w tym samym kolorze co tekst.\n- Naprawiono błąd, w wyniku którego lokalizacja TTS zaczynała się od oryginalnej lokalizacji pliku podczas otwierania innego pliku w trybie pauzy.\n- Ostatnio widzieliśmy wielu użytkowników. W dowód naszego uznania usunęliśmy wszystkie krótkie reklamy, które pojawiają się przez 5–7 sekund podczas konwersji. Będziemy nadal ciężko pracować, aby uczynić tę aplikację jeszcze wygodniejszą."
+    "devnote": "Poprawki błędów."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "- Ajout d'une marge entre l'annonce supérieure et le contenu pour éviter les clics accidentels sur l'annonce.\n- Modification du bouton de menu en haut à droite du visualiseur pour qu'il s'affiche dans la même couleur que le texte.\n- Correction d'un bug où l'emplacement TTS commençait à partir de l'emplacement du fichier d'origine lors de l'ouverture d'un autre fichier en pause.\n- Nous avons récemment vu beaucoup d'utilisateurs. En guise de remerciement, nous avons supprimé toutes les courtes annonces qui apparaissent pendant 5 à 7 secondes lors de la conversion. Nous continuerons à travailler dur pour rendre cette application encore plus pratique."
+    "devnote": "Corrections de bugs."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "- Lisätty marginaali ylimmän mainoksen ja sisällön väliin tahattomien mainosten napsautusten estämiseksi.\n- Muokattu katseluohjelman oikean yläkulman valikkopainiketta näkyväksi tekstin kanssa samanvärisenä.\n- Korjattu virhe, jossa TTS-sijainti alkaisi alkuperäisestä tiedoston sijainnista, kun toinen tiedosto avattiin keskeytettynä.\n- Olemme viime aikoina nähneet paljon käyttäjiä. Kiitoksemme osoituksena olemme poistaneet kaikki lyhyet mainokset, jotka näkyvät 5–7 sekunnin ajan muunnettaessa. Jatkamme kovasti työtä tehdäksemme tästä sovelluksesta entistä kätevämmän."
+    "devnote": "Virheenkorjauksia."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "- Nagdagdag ng margin sa pagitan ng nangungunang ad at ng nilalaman upang maiwasan ang mga hindi sinasadyang pag-click sa ad.\n- Binago ang tuktok na kanang pindutan ng menu ng viewer upang maipakita sa parehong kulay ng teksto.\n- Inayos ang isang bug kung saan magsisimula ang lokasyon ng TTS mula sa orihinal na lokasyon ng file kapag nagbubukas ng isa pang file habang naka-pause.\n- Kamakailan ay nakakita kami ng maraming mga gumagamit. Bilang tanda ng aming pasasalamat, inalis namin ang lahat ng maiikling ad na lumalabas sa loob ng 5-7 segundo kapag nagko-convert. Patuloy kaming magsisikap na gawing mas maginhawa ang app na ito."
+    "devnote": "Mga pag-aayos ng bug."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "- Margó hozzáadása a felső hirdetés és a tartalom közé, hogy elkerülje a véletlen hirdetéskattintásokat.\n- Módosítottuk a megtekintő jobb felső menügombját, hogy a szöveg színével megegyező színben jelenjen meg.\n- Kijavítottuk azt a hibát, amely miatt a TTS helye az eredeti fájl helyéről indult, amikor egy másik fájlt megnyitott szüneteltetés közben.\n- Mostanában nagyon sok felhasználót láttunk. Nagyrabecsülésünk jeléül eltávolítottuk az összes olyan rövid hirdetést, amelyek 5-7 másodpercig jelennek meg konverziókor. Továbbra is keményen dolgozunk, hogy még kényelmesebbé tegyük ezt az alkalmazást."
+    "devnote": "Hibajavítások."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "- הוספת מרווח בין המודעה העליונה לתוכן כדי למנוע קליקים מקריים על מודעה.\n- שינה את כפתור התפריט הימני העליון של הצופה כך שיוצג באותו צבע כמו הטקסט.\n- תיקן באג שבו מיקום ה-TTS יתחיל ממיקום הקובץ המקורי בעת פתיחת קובץ אחר בזמן השהייה.\n- ראינו לאחרונה הרבה משתמשים. כאות להערכתנו, הסרנו את כל המודעות הקצרות שמופיעות במשך 5-7 שניות בעת ההמרה. נמשיך לעבוד קשה כדי להפוך את האפליקציה הזו לנוחה עוד יותר."
+    "devnote": "תיקוני באגים."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "- आकस्मिक विज्ञापन क्लिक को रोकने के लिए शीर्ष विज्ञापन और सामग्री के बीच एक मार्जिन जोड़ा गया।\n- व्यूअर के शीर्ष दाएं मेनू बटन को पाठ के समान रंग में प्रदर्शित करने के लिए संशोधित किया गया।\n- एक बग को ठीक किया गया जहां रुकने पर दूसरी फ़ाइल खोलने पर टीटीएस स्थान मूल फ़ाइल स्थान से शुरू होता था।\n- हमने हाल ही में बहुत सारे उपयोगकर्ता देखे हैं। अपनी सराहना के प्रतीक के रूप में, हमने उन सभी छोटे विज्ञापनों को हटा दिया है जो कनवर्ट करते समय 5-7 सेकंड के लिए दिखाई देते हैं। हम इस ऐप को और भी सुविधाजनक बनाने के लिए कड़ी मेहनत करना जारी रखेंगे।"
+    "devnote": "कंप्यूटर प्रोग्राम या प्रणाली में बग को दूर करना।"
   }
 }
