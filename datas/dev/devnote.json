@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "Bug fixes."
+    "devnote": "- Added bookmark and TTS highlight transparency setting functions."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "버그 수정."
+    "devnote": "- 북마크, TTS 하이라이트 투명도 설정 기능 을 추가 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "Correccións de erros."
+    "devnote": "- Engadíronse funcións de configuración de transparencia de marcador e resaltado TTS."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "બગ ફિક્સ."
+    "devnote": "- ઉમેરાયેલ બુકમાર્ક અને TTS હાઇલાઇટ પારદર્શિતા સેટિંગ કાર્યો."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "Διορθώσεις σφαλμάτων."
+    "devnote": "- Προστέθηκαν λειτουργίες ρύθμισης διαφάνειας σελιδοδείκτη και επισήμανσης TTS."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "Bugfixes."
+    "devnote": "- Functies voor het instellen van bladwijzers en TTS-markeringen voor transparantie toegevoegd."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "बग समाधानहरू।"
+    "devnote": "- थपिएको बुकमार्क र TTS हाइलाइट पारदर्शिता सेटिङ प्रकार्यहरू।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "Feilrettinger."
+    "devnote": "- Lagt til bokmerke og TTS fremhever funksjoner for gjennomsiktighetsinnstilling."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "Fejlrettelser."
+    "devnote": "- Tilføjet bogmærke og TTS fremhæver gennemsigtighedsindstillingsfunktioner."
   },
   "독일어": {
     "key": "de",
-    "devnote": "Fehlerbehebungen."
+    "devnote": "- Funktionen zur Einstellung der Lesezeichen- und TTS-Hervorhebungstransparenz hinzugefügt."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "ແກ້ໄຂຂໍ້ຜິດພາດ."
+    "devnote": "- ເພີ່ມ bookmark ແລະ TTS ເນັ້ນຟັງຊັນການຕັ້ງຄ່າຄວາມໂປ່ງໃສ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "Kļūdu labojumi."
+    "devnote": "- Pievienotas grāmatzīmju un TTS izcelšanas caurspīdīguma iestatīšanas funkcijas."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "Исправления ошибок."
+    "devnote": "- Добавлены функции настройки прозрачности закладок и выделения TTS."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "Remedieri de erori."
+    "devnote": "- S-au adăugat funcții de setare a transparenței pentru marcaj și evidențiere TTS."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "Klaidų pataisymai."
+    "devnote": "- Pridėtos žymės ir TTS paryškinimo skaidrumo nustatymo funkcijos."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "दोष निराकरणे."
+    "devnote": "- बुकमार्क आणि TTS हायलाइट पारदर्शकता सेटिंग कार्ये जोडली."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "Поправени грешки."
+    "devnote": "- Додадени се обележувачи и функции за поставување на транспарентност за нагласување на TTS."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "ബഗ് പരിഹരിക്കുന്നു."
+    "devnote": "- ബുക്ക്‌മാർക്കും TTS ഹൈലൈറ്റ് സുതാര്യത ക്രമീകരണ പ്രവർത്തനങ്ങളും ചേർത്തു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "Pembetulan pepijat."
+    "devnote": "- Penanda halaman ditambah dan TTS menyerlahkan fungsi tetapan ketelusan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "Алдаа зассан."
+    "devnote": "- Хавчуурга болон TTS онцлох ил тод байдлыг тохируулах функцийг нэмсэн."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "Akatsen konponketak."
+    "devnote": "- Laster-marka eta TTS nabarmendu gardentasun ezarpen funtzioak gehitu dira."
   },
   "버마어": {
     "key": "my",
-    "devnote": "ချွတ်ယွင်းချက်ပြင်ဆင်မှုများ။"
+    "devnote": "- လိပ်စာနှင့် TTS သည် ပွင့်လင်းမြင်သာမှု ဆက်တင်လုပ်ဆောင်ချက်များကို ထည့်သွင်းထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "Sửa lỗi."
+    "devnote": "- Đã thêm chức năng cài đặt độ trong suốt của dấu trang và TTS."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "Выпраўленні памылак."
+    "devnote": "- Дададзены функцыі налады празрыстасці закладкі і вылучэння TTS."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "বাগ ফিক্স।"
+    "devnote": "- বুকমার্ক এবং TTS হাইলাইট স্বচ্ছতা সেটিং ফাংশন যোগ করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "Поправки на грешки."
+    "devnote": "- Добавени функции за настройка на прозрачност на маркер и TTS подчертаване."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "Исправке грешака."
+    "devnote": "- Додате функције за подешавање транспарентности и ТТС истакнутих обележивача."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "Marekebisho ya hitilafu."
+    "devnote": "- Alamisho iliyoongezwa na TTS inaangazia kazi za kuweka uwazi."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "Bugfixar."
+    "devnote": "- Lagt till bokmärke och TTS markerar funktioner för inställning av transparens."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "Corrección de errores."
+    "devnote": "- Se agregaron funciones de configuración de transparencia de resaltado de marcadores y TTS."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "Opravy chýb."
+    "devnote": "- Pridané funkcie nastavenia priehľadnosti záložky a zvýraznenia TTS."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "Popravki napak."
+    "devnote": "- Dodane funkcije za nastavitev prosojnosti osvetlitve zaznamka in TTS."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "දෝෂ නිවැරදි කිරීම්."
+    "devnote": "- පිටු සලකුණ සහ TTS උද්දීපනය කිරීමේ විනිවිදභාවය සැකසීමේ කාර්යයන් එකතු කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "إصلاحات الشوائب."
+    "devnote": "- تمت إضافة إشارة مرجعية و TTS لتسليط الضوء على وظائف إعداد الشفافية."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "Սխալների շտկում:"
+    "devnote": "- Ավելացվեց էջանիշ և TTS-ի ընդգծված թափանցիկության կարգավորումների գործառույթները:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "Villuleiðréttingar."
+    "devnote": "- Bætt við bókamerki og TTS varpa ljósi á gagnsæisstillingaraðgerðir."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "Baq düzəlişləri."
+    "devnote": "- Əlavə edilmiş əlfəcin və TTS şəffaflığın təyini funksiyalarını vurğulayır."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "Foutoplossings."
+    "devnote": "- Bygevoeg boekmerk en TTS beklemtoon deursigtigheid instelling funksies."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "Rregullime të gabimeve."
+    "devnote": "- Funksionet e përcaktimit të transparencës janë shtuar faqeshënuesi dhe TTS."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "የሳንካ ጥገናዎች።"
+    "devnote": "- ታክሏል ዕልባት እና TTS ግልጽነት ቅንብር ተግባራት ጎላ."
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "Veaparandused."
+    "devnote": "- Lisatud järjehoidja ja TTS-i esiletõstmise läbipaistvuse seadistusfunktsioonid."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "بگ کی اصلاحات۔"
+    "devnote": "- بُک مارک اور ٹی ٹی ایس کو نمایاں کیا گیا شفافیت کی ترتیب کے افعال۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "Виправлення помилок."
+    "devnote": "— Додано функції налаштування прозорості підсвічування закладок і TTS."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "Correzioni di bug."
+    "devnote": "- Aggiunti segnalibri e funzioni di impostazione della trasparenza evidenziata da TTS."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "Perbaikan bug."
+    "devnote": "- Menambahkan fungsi pengaturan transparansi highlight TTS dan bookmark."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "バグ修正。"
+    "devnote": "- ブックマークとTTSハイライトの透明度設定機能を追加しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "შეცდომების გამოსწორება."
+    "devnote": "- დამატებულია სანიშნე და TTS ხაზს უსვამს გამჭვირვალობის დაყენების ფუნქციებს."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "Ukulungiswa kweziphazamisi."
+    "devnote": "- Ibhukhimakhi engeziwe futhi i-TTS igqamisa imisebenzi yokusetha obala."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "错误修复。"
+    "devnote": "- 新增书签和TTS高亮透明度设置功能。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "錯誤修復。"
+    "devnote": "- 新增書籤和TTS高亮透明度設定功能。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "錯誤修復。"
+    "devnote": "- 新增書籤和TTS高亮透明度設定功能。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "Opravy chyb."
+    "devnote": "- Přidána funkce nastavení průhlednosti záložky a zvýraznění TTS."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "Қателерді түзету."
+    "devnote": "- Бетбелгі және TTS бөлектеу мөлдірлікті орнату функциялары қосылды."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "Correccions d'errors."
+    "devnote": "- S'han afegit funcions de configuració de transparència de ressaltat TTS i marcador."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "ದೋಷ ಪರಿಹಾರಗಳು."
+    "devnote": "- ಬುಕ್ಮಾರ್ಕ್ ಮತ್ತು TTS ಹೈಲೈಟ್ ಪಾರದರ್ಶಕತೆ ಸೆಟ್ಟಿಂಗ್ ಕಾರ್ಯಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "Ispravci grešaka."
+    "devnote": "- Dodane funkcije podešavanja transparentnosti oznaka i TTS isticanja."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "កែកំហុស។"
+    "devnote": "- បន្ថែមចំណាំ និងមុខងារកំណត់តម្លាភាព TTS បន្លិច។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "Мүчүлүштүктөрдү оңдоо."
+    "devnote": "- Кошулган кыстарма жана TTS ачыктык орнотуу функцияларын баса белгилейт."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "பிழை திருத்தங்கள்."
+    "devnote": "- புக்மார்க் மற்றும் TTS ஹைலைட் வெளிப்படைத்தன்மை அமைப்பு செயல்பாடுகளைச் சேர்த்தது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "แก้ไขข้อบกพร่อง"
+    "devnote": "- เพิ่มฟังก์ชั่นการตั้งค่าบุ๊กมาร์กและไฮไลท์ TTS"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "Hata düzeltmeleri."
+    "devnote": "- Yer imi ve TTS vurgulama şeffaflığı ayar işlevleri eklendi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "బగ్ పరిష్కారాలు."
+    "devnote": "- బుక్‌మార్క్ మరియు TTS హైలైట్ పారదర్శకత సెట్టింగ్ ఫంక్షన్‌లు జోడించబడ్డాయి."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "ਬੱਗ ਠੀਕ ਕੀਤੇ ਗਏ ਹਨ।"
+    "devnote": "- ਜੋੜਿਆ ਗਿਆ ਬੁੱਕਮਾਰਕ ਅਤੇ TTS ਹਾਈਲਾਈਟ ਪਾਰਦਰਸ਼ਤਾ ਸੈਟਿੰਗ ਫੰਕਸ਼ਨ."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "رفع اشکال."
+    "devnote": "- اضافه شدن نشانک و عملکردهای تنظیم شفافیت برجسته TTS."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "Correções de bugs."
+    "devnote": "- Adicionados marcadores e TTS destacam funções de configuração de transparência."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "Poprawki błędów."
+    "devnote": "- Dodano funkcje ustawiania przezroczystości zakładek i podświetlenia TTS."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "Corrections de bugs."
+    "devnote": "- Ajout des fonctions de réglage de la transparence des signets et de la mise en évidence TTS."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "Virheenkorjauksia."
+    "devnote": "- Lisätty kirjanmerkki ja TTS korostaa läpinäkyvyyden asetustoimintoja."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "Mga pag-aayos ng bug."
+    "devnote": "- Nagdagdag ng bookmark at TTS highlight transparency setting function."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "Hibajavítások."
+    "devnote": "- Hozzáadott könyvjelző és TTS kiemelés átlátszóság beállítási funkciók."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "תיקוני באגים."
+    "devnote": "- הוספת סימנייה ו-TTS מדגישים את פונקציות הגדרות השקיפות."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "कंप्यूटर प्रोग्राम या प्रणाली में बग को दूर करना।"
+    "devnote": "- जोड़ा गया बुकमार्क और टीटीएस पारदर्शिता सेटिंग फ़ंक्शन को उजागर करता है।"
   }
 }
