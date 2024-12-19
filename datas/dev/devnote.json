@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "- An emergency fix has been made to a bug that prevented fonts from being applied."
+    "devnote": "Fixed a bug that prevented editing of TTS filters when using zip and pdf."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "- 폰트 적용 안되는 버그를 긴급 수정 하였습니다."
+    "devnote": "zip, pdf 사용시 TTS 필터 편집이 안되던 버그를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "- Fixouse unha corrección de emerxencia para un erro que impedía que se aplicasen fontes."
+    "devnote": "Corrixiuse un erro que impedía a edición de filtros TTS ao usar zip e pdf."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "- ફોન્ટ્સ લાગુ થવાથી અટકાવતા બગને ઇમરજન્સી ફિક્સ કરવામાં આવ્યું છે."
+    "devnote": "ઝિપ અને પીડીએફનો ઉપયોગ કરતી વખતે TTS ફિલ્ટર્સના સંપાદનને અટકાવતી ભૂલને ઠીક કરી."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "- Έγινε επείγουσα διόρθωση σε ένα σφάλμα που εμπόδισε την εφαρμογή γραμματοσειρών."
+    "devnote": "Διορθώθηκε ένα σφάλμα που εμπόδιζε την επεξεργασία των φίλτρων TTS κατά τη χρήση zip και pdf."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "- Er is een noodoplossing gemaakt voor een bug waardoor lettertypen niet konden worden toegepast."
+    "devnote": "Een bug opgelost die het bewerken van TTS-filters verhinderde bij gebruik van zip en pdf."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "- फन्टहरू लागू हुनबाट रोक्ने बगमा आपतकालीन समाधान गरिएको छ।"
+    "devnote": "zip र pdf प्रयोग गर्दा TTS फिल्टरहरू सम्पादन गर्न रोक्ने बग फिक्स गरियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "- Det er gjort en nødretting på en feil som hindret fonter i å bli brukt."
+    "devnote": "Rettet en feil som forhindret redigering av TTS-filtre ved bruk av zip og pdf."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "- Der er lavet en nødløsning til en fejl, der forhindrede skrifttyper i at blive anvendt."
+    "devnote": "Rettede en fejl, der forhindrede redigering af TTS-filtre ved brug af zip og pdf."
   },
   "독일어": {
     "key": "de",
-    "devnote": "- Es wurde eine Notfallbehebung für einen Fehler vorgenommen, der die Anwendung von Schriftarten verhinderte."
+    "devnote": "Es wurde ein Fehler behoben, der die Bearbeitung von TTS-Filtern bei Verwendung von zip und pdf verhinderte."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "- ໄດ້ມີການແກ້ໄຂສຸກເສີນຕໍ່ກັບຂໍ້ບົກຜ່ອງທີ່ປ້ອງກັນບໍ່ໃຫ້ໃຊ້ຕົວອັກສອນ."
+    "devnote": "ແກ້ໄຂຂໍ້ຜິດພາດທີ່ປ້ອງກັນການແກ້ໄຂຕົວກອງ TTS ເມື່ອໃຊ້ zip ແລະ pdf."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "- Ir veikts ārkārtas labojums kļūdai, kas neļāva lietot fontus."
+    "devnote": "Izlabota kļūda, kas neļāva rediģēt TTS filtrus, izmantojot zip un pdf."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "- Экстренно исправлена ​​ошибка, не позволявшая применять шрифты."
+    "devnote": "Исправлена ​​ошибка, не позволявшая редактировать фильтры TTS при использовании zip и pdf."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "- A fost făcută o remediere de urgență a unei erori care a împiedicat aplicarea fonturilor."
+    "devnote": "S-a remediat o eroare care împiedica editarea filtrelor TTS atunci când utilizați zip și pdf."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "– Ištaisyta klaida, kuri neleido taikyti šriftų."
+    "devnote": "Ištaisyta klaida, kuri neleido redaguoti TTS filtrų naudojant zip ir pdf."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "- फॉन्ट लागू होण्यापासून प्रतिबंधित करणाऱ्या बगचे आपत्कालीन निराकरण केले गेले आहे."
+    "devnote": "zip आणि pdf वापरताना TTS फिल्टरचे संपादन प्रतिबंधित करणाऱ्या बगचे निराकरण केले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "- Направена е итна поправка на грешка што спречи примена на фонтови."
+    "devnote": "Поправена грешка што го спречи уредувањето на TTS филтрите при користење zip и pdf."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "- ഫോണ്ടുകൾ പ്രയോഗിക്കുന്നതിൽ നിന്ന് തടയുന്ന ഒരു ബഗിന് അടിയന്തര പരിഹാരം വരുത്തി."
+    "devnote": "zip, pdf എന്നിവ ഉപയോഗിക്കുമ്പോൾ TTS ഫിൽട്ടറുകൾ എഡിറ്റുചെയ്യുന്നത് തടയുന്ന ഒരു ബഗ് പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "- Pembetulan kecemasan telah dibuat pada pepijat yang menghalang fon daripada digunakan."
+    "devnote": "Memperbaiki pepijat yang menghalang pengeditan penapis TTS apabila menggunakan zip dan pdf."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "- Фонт хэрэглэхээс сэргийлсэн алдааг яаралтай зассан."
+    "devnote": "Zip болон pdf ашиглах үед TTS шүүлтүүрийг засварлахад саад болж байсан алдааг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "- Larrialdi-konponketa bat egin da letra-tipoak aplikatzea eragozten zuen akats bati."
+    "devnote": "Zip eta pdf erabiltzean TTS iragazkiak editatzea eragozten zuen akats bat konpondu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "- ဖောင့်များအသုံးပြုခြင်းကို ဟန့်တားသည့် bug တစ်ခုအတွက် အရေးပေါ်ပြင်ဆင်မှုကို ပြုလုပ်ထားပါသည်။"
+    "devnote": "zip နှင့် pdf ကိုအသုံးပြုသောအခါ TTS စစ်ထုတ်မှုများကို တည်းဖြတ်ခြင်းအား တားဆီးထားသည့် ချွတ်ယွင်းချက်ကို ပြင်ဆင်ခဲ့သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "- Đã thực hiện một bản sửa lỗi khẩn cấp đối với lỗi khiến không thể áp dụng phông chữ."
+    "devnote": "Đã sửa lỗi ngăn chỉnh sửa bộ lọc TTS khi sử dụng zip và pdf."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "- Было зроблена экстраннае выпраўленне памылкі, якая перашкаджала прымяненню шрыфтоў."
+    "devnote": "Выпраўлена памылка, якая перашкаджала рэдагаванню фільтраў TTS пры выкарыстанні zip і pdf."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "- একটি জরুরী সমাধান করা হয়েছে একটি বাগ যা ফন্টগুলিকে প্রয়োগ করা থেকে বাধা দেয়৷"
+    "devnote": "একটি বাগ সংশোধন করা হয়েছে যা জিপ এবং পিডিএফ ব্যবহার করার সময় TTS ফিল্টার সম্পাদনাকে বাধা দেয়।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "- Беше направена спешна корекция на грешка, която не позволяваше прилагането на шрифтове."
+    "devnote": "Поправена е грешка, която предотвратява редактирането на TTS филтри при използване на zip и pdf."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "- Направљена је хитна исправка грешке која је спречила примену фонтова."
+    "devnote": "Исправљена грешка која је спречавала уређивање ТТС филтера када се користи зип и пдф."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "- Urekebishaji wa dharura umefanywa kwa hitilafu iliyozuia fonti kutumika."
+    "devnote": "Ilirekebisha hitilafu iliyozuia uhariri wa vichujio vya TTS wakati wa kutumia zip na pdf."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "– En nödfix har gjorts på en bugg som hindrade typsnitt från att appliceras."
+    "devnote": "Fixade en bugg som förhindrade redigering av TTS-filter vid användning av zip och pdf."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "- Se realizó una corrección de emergencia a un error que impedía la aplicación de fuentes."
+    "devnote": "Se corrigió un error que impedía la edición de filtros TTS al usar zip y pdf."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "- Bola vykonaná núdzová oprava chyby, ktorá bránila použitiu fontov."
+    "devnote": "Opravená chyba, ktorá bránila úpravám filtrov TTS pri používaní zip a pdf."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "- Izveden je bil zasilni popravek za napako, ki je preprečevala uporabo pisav."
+    "devnote": "Odpravljena je napaka, ki je preprečevala urejanje filtrov TTS pri uporabi zip in pdf."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "- අකුරු යෙදීමෙන් වළක්වන දෝෂයකට හදිසි විසඳුමක් සිදු කර ඇත."
+    "devnote": "zip සහ pdf භාවිතා කරන විට TTS පෙරහන් සංස්කරණය කිරීම වලක්වන දෝෂයක් නිරාකරණය කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "- تم إجراء إصلاح طارئ لخلل كان يمنع تطبيق الخطوط."
+    "devnote": "تم إصلاح الخلل الذي كان يمنع تحرير مرشحات تحويل النص إلى كلام (TTS) عند استخدام ملفات zip وpdf."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "- Շտապ շտկվել է վրիպակը, որը խանգարել է տառատեսակների կիրառմանը:"
+    "devnote": "Շտկվել է սխալ, որը խանգարում էր TTS ֆիլտրերի խմբագրմանը zip և pdf-ից օգտվելիս:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "- Neyðarleiðrétting hefur verið gerð á villu sem kom í veg fyrir að leturgerð væri notuð."
+    "devnote": "Lagaði villu sem kom í veg fyrir breytingar á TTS síum við notkun zip og pdf."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "- Şriftlərin tətbiqinə mane olan səhvə təcili düzəliş edildi."
+    "devnote": "Zip və pdf istifadə edərkən TTS filtrlərinin redaktə edilməsinə mane olan bir səhv düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "- 'n Noodoplossing is gemaak aan 'n fout wat verhoed het dat lettertipes toegepas word."
+    "devnote": "Het 'n fout reggestel wat die wysiging van TTS-filters verhoed het wanneer zip en pdf gebruik word."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "- Është bërë një rregullim urgjent për një defekt që pengoi aplikimin e shkronjave."
+    "devnote": "Rregulloi një gabim që pengonte redaktimin e filtrave TTS kur përdorni zip dhe pdf."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "- ቅርጸ-ቁምፊዎችን ከመተግበሩ የሚከለክለው ስህተት ላይ የአደጋ ጊዜ ማስተካከያ ተደርጓል።"
+    "devnote": "ዚፕ እና ፒዲኤፍ ሲጠቀሙ የTTS ማጣሪያዎችን ማስተካከል የሚከለክል ስህተት ተስተካክሏል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "- Veale, mis takistas fontide rakendamist, on tehtud hädaparandus."
+    "devnote": "Parandatud viga, mis takistas TTS-filtrite redigeerimist ZIP- ja pdf-faili kasutamisel."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "- ایک ایسے بگ کو ہنگامی طور پر ٹھیک کر دیا گیا ہے جو فونٹس کو لاگو ہونے سے روکتا ہے۔"
+    "devnote": "زپ اور پی ڈی ایف کا استعمال کرتے وقت ٹی ٹی ایس فلٹرز میں ترمیم کرنے سے روکنے والے بگ کو ٹھیک کیا گیا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "— Екстрено виправлено помилку, яка перешкоджала застосуванню шрифтів."
+    "devnote": "Виправлено помилку, яка не дозволяла редагувати фільтри TTS під час використання zip і pdf."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "- È stata apportata una correzione di emergenza a un bug che impediva l'applicazione dei caratteri."
+    "devnote": "Risolto un bug che impediva la modifica dei filtri TTS quando si utilizzavano zip e pdf."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "- Perbaikan darurat telah dilakukan pada bug yang mencegah penerapan font."
+    "devnote": "Memperbaiki bug yang mencegah pengeditan filter TTS saat menggunakan zip dan pdf."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "- フォントが適用されないバグが緊急修正されました。"
+    "devnote": "zip および pdf を使用するときに TTS フィルターの編集を妨げるバグを修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "- გადაუდებელი გამოსწორება გაკეთდა შეცდომაზე, რომელიც ხელს უშლიდა შრიფტების გამოყენებას."
+    "devnote": "დაფიქსირდა შეცდომა, რომელიც ხელს უშლიდა TTS ფილტრების რედაქტირებას zip-ისა და pdf-ის გამოყენებისას."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "- Ukulungiswa kwezimo eziphuthumayo kwenziwe kusiphazamisi esivimbele ukusetshenziswa kwamafonti."
+    "devnote": "Kulungiswe isiphazamisi esivimbele ukuhlelwa kwezihlungi ze-TTS lapho kusetshenziswa i-zip ne-pdf."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "- 已紧急修复了阻止应用字体的错误。"
+    "devnote": "修复了使用 zip 和 pdf 时无法编辑 TTS 过滤器的错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "- 已緊急修復了阻止應用程式字體的錯誤。"
+    "devnote": "修正了使用 zip 和 pdf 時無法編輯 TTS 過濾器的錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "- 已緊急修復了阻止應用程式字體的錯誤。"
+    "devnote": "修正了使用 zip 和 pdf 時無法編輯 TTS 過濾器的錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "- Byla provedena nouzová oprava chyby, která bránila použití písem."
+    "devnote": "Opravena chyba, která bránila úpravám filtrů TTS při použití zip a pdf."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "- Қаріптерді қолдануға жол бермейтін қатеге төтенше жағдай түзетілді."
+    "devnote": "Zip және pdf пайдалану кезінде TTS сүзгілерін өңдеуге кедергі келтіретін қате түзетілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "- S'ha corregit d'emergència un error que impedia que s'apliquin tipus de lletra."
+    "devnote": "S'ha corregit un error que impedia l'edició dels filtres TTS quan s'utilitzava zip i pdf."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "- ಫಾಂಟ್‌ಗಳನ್ನು ಅನ್ವಯಿಸುವುದನ್ನು ತಡೆಯುವ ದೋಷಕ್ಕೆ ತುರ್ತು ಪರಿಹಾರವನ್ನು ಮಾಡಲಾಗಿದೆ."
+    "devnote": "ಜಿಪ್ ಮತ್ತು ಪಿಡಿಎಫ್ ಬಳಸುವಾಗ ಟಿಟಿಎಸ್ ಫಿಲ್ಟರ್‌ಗಳ ಸಂಪಾದನೆಯನ್ನು ತಡೆಯುವ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "- Hitno je ispravljena greška koja je sprječavala primjenu fontova."
+    "devnote": "Ispravljena je pogreška koja je sprječavala uređivanje TTS filtara pri korištenju zip i pdf."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "- ការជួសជុលបន្ទាន់មួយត្រូវបានធ្វើឡើងចំពោះកំហុសដែលរារាំងពុម្ពអក្សរមិនឱ្យត្រូវបានអនុវត្ត។"
+    "devnote": "ជួសជុលកំហុសដែលរារាំងការកែសម្រួលតម្រង TTS នៅពេលប្រើ zip និង pdf ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "- Ариптерди колдонууга тоскоол болгон мүчүлүштүктөрдү тез арада оңдоо жасалды."
+    "devnote": "Zip жана pdf колдонууда TTS чыпкаларын түзөтүүгө тоскоолдук кылган мүчүлүштүк оңдолду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "- எழுத்துருக்கள் பயன்படுத்தப்படுவதைத் தடுக்கும் பிழைக்கு அவசரத் திருத்தம் செய்யப்பட்டது."
+    "devnote": "ஜிப் மற்றும் pdf ஐப் பயன்படுத்தும் போது TTS வடிப்பான்களைத் திருத்துவதைத் தடுக்கும் பிழை சரி செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "- มีการแก้ไขข้อบกพร่องฉุกเฉินที่ทำให้ไม่สามารถใช้แบบอักษรได้"
+    "devnote": "แก้ไขข้อบกพร่องที่ทำให้ไม่สามารถแก้ไขตัวกรอง TTS เมื่อใช้ zip และ pdf"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "- Yazı tiplerinin uygulanmasını engelleyen bir hataya acil durum düzeltmesi yapıldı."
+    "devnote": "Zip ve pdf kullanırken TTS filtrelerinin düzenlenmesini engelleyen bir hata düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "- ఫాంట్‌లు వర్తించకుండా నిరోధించే బగ్‌కు అత్యవసర పరిష్కారం చేయబడింది."
+    "devnote": "జిప్ మరియు పిడిఎఫ్ ఉపయోగిస్తున్నప్పుడు TTS ఫిల్టర్‌ల సవరణను నిరోధించే బగ్ పరిష్కరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "- ਇੱਕ ਬੱਗ ਲਈ ਇੱਕ ਐਮਰਜੈਂਸੀ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਹੈ ਜੋ ਫੌਂਟਾਂ ਨੂੰ ਲਾਗੂ ਹੋਣ ਤੋਂ ਰੋਕਦਾ ਹੈ।"
+    "devnote": "ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਹੈ ਜੋ ਜ਼ਿਪ ਅਤੇ ਪੀਡੀਐਫ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਸਮੇਂ TTS ਫਿਲਟਰਾਂ ਦੇ ਸੰਪਾਦਨ ਨੂੰ ਰੋਕਦਾ ਹੈ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "- یک رفع اضطراری برای یک اشکال انجام شده است که از اعمال فونت ها جلوگیری می کند."
+    "devnote": "رفع اشکالی که مانع از ویرایش فیلترهای TTS در هنگام استفاده از zip و pdf می‌شد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "- Uma correção de emergência foi feita para um bug que impedia a aplicação de fontes."
+    "devnote": "Corrigido um bug que impedia a edição de filtros TTS ao usar zip e pdf."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "- Wprowadzono awaryjną poprawkę błędu, który uniemożliwiał stosowanie czcionek."
+    "devnote": "Naprawiono błąd uniemożliwiający edycję filtrów TTS podczas korzystania z plików zip i pdf."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "- Un correctif d'urgence a été apporté à un bug qui empêchait l'application des polices."
+    "devnote": "Correction d'un bug qui empêchait la modification des filtres TTS lors de l'utilisation de zip et pdf."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "- Virheeseen, joka esti kirjasimien käyttämisen, on tehty hätäkorjaus."
+    "devnote": "Korjattu virhe, joka esti TTS-suodattimien muokkaamisen zip- ja pdf-tiedostoja käytettäessä."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "- Isang emergency na pag-aayos ang ginawa sa isang bug na pumigil sa mga font na mailapat."
+    "devnote": "Inayos ang isang bug na pumigil sa pag-edit ng mga filter ng TTS kapag gumagamit ng zip at pdf."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "- Sürgősségi javítás történt egy hibán, amely megakadályozta a betűtípusok alkalmazását."
+    "devnote": "Kijavítottunk egy hibát, amely megakadályozta a TTS-szűrők szerkesztését zip és pdf használatakor."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "- בוצע תיקון חירום לבאג שמנע את יישום הגופנים."
+    "devnote": "תיקן באג שמנע עריכה של מסנני TTS בעת שימוש ב-zip ו-pdf."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "- उस बग का आपातकालीन समाधान किया गया है जो फ़ॉन्ट को लागू होने से रोकता है।"
+    "devnote": "उस बग को ठीक किया गया जो ज़िप और पीडीएफ का उपयोग करते समय टीटीएस फिल्टर के संपादन को रोकता था।"
   }
 }
