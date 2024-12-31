@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "Fixed a bug that prevented editing of TTS filters when using zip and pdf."
+    "devnote": "Fixed TTS speed bug."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "zip, pdf 사용시 TTS 필터 편집이 안되던 버그를 수정 하였습니다."
+    "devnote": "TTS 속도 버그를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "Corrixiuse un erro que impedía a edición de filtros TTS ao usar zip e pdf."
+    "devnote": "Corrixiuse un erro de velocidade TTS."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "ઝિપ અને પીડીએફનો ઉપયોગ કરતી વખતે TTS ફિલ્ટર્સના સંપાદનને અટકાવતી ભૂલને ઠીક કરી."
+    "devnote": "સ્થિર TTS સ્પીડ બગ."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "Διορθώθηκε ένα σφάλμα που εμπόδιζε την επεξεργασία των φίλτρων TTS κατά τη χρήση zip και pdf."
+    "devnote": "Διορθώθηκε το σφάλμα ταχύτητας TTS."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "Een bug opgelost die het bewerken van TTS-filters verhinderde bij gebruik van zip en pdf."
+    "devnote": "Probleem met TTS-snelheid opgelost."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "zip र pdf प्रयोग गर्दा TTS फिल्टरहरू सम्पादन गर्न रोक्ने बग फिक्स गरियो।"
+    "devnote": "फिक्स्ड TTS गति बग।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "Rettet en feil som forhindret redigering av TTS-filtre ved bruk av zip og pdf."
+    "devnote": "Rettet TTS-hastighetsfeil."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "Rettede en fejl, der forhindrede redigering af TTS-filtre ved brug af zip og pdf."
+    "devnote": "Rettet TTS-hastighedsfejl."
   },
   "독일어": {
     "key": "de",
-    "devnote": "Es wurde ein Fehler behoben, der die Bearbeitung von TTS-Filtern bei Verwendung von zip und pdf verhinderte."
+    "devnote": "TTS-Geschwindigkeitsfehler behoben."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "ແກ້ໄຂຂໍ້ຜິດພາດທີ່ປ້ອງກັນການແກ້ໄຂຕົວກອງ TTS ເມື່ອໃຊ້ zip ແລະ pdf."
+    "devnote": "ແກ້ໄຂຂໍ້ຜິດພາດຄວາມໄວ TTS."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "Izlabota kļūda, kas neļāva rediģēt TTS filtrus, izmantojot zip un pdf."
+    "devnote": "Izlabota TTS ātruma kļūda."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "Исправлена ​​ошибка, не позволявшая редактировать фильтры TTS при использовании zip и pdf."
+    "devnote": "Исправлена ​​ошибка скорости TTS."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "S-a remediat o eroare care împiedica editarea filtrelor TTS atunci când utilizați zip și pdf."
+    "devnote": "S-a remediat eroarea vitezei TTS."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "Ištaisyta klaida, kuri neleido redaguoti TTS filtrų naudojant zip ir pdf."
+    "devnote": "Ištaisyta TTS greičio klaida."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "zip आणि pdf वापरताना TTS फिल्टरचे संपादन प्रतिबंधित करणाऱ्या बगचे निराकरण केले."
+    "devnote": "TTS स्पीड बग निश्चित केला."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "Поправена грешка што го спречи уредувањето на TTS филтрите при користење zip и pdf."
+    "devnote": "Поправена грешка во брзината на TTS."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "zip, pdf എന്നിവ ഉപയോഗിക്കുമ്പോൾ TTS ഫിൽട്ടറുകൾ എഡിറ്റുചെയ്യുന്നത് തടയുന്ന ഒരു ബഗ് പരിഹരിച്ചു."
+    "devnote": "TTS സ്പീഡ് ബഗ് പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "Memperbaiki pepijat yang menghalang pengeditan penapis TTS apabila menggunakan zip dan pdf."
+    "devnote": "Pepijat kelajuan TTS telah diperbaiki."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "Zip болон pdf ашиглах үед TTS шүүлтүүрийг засварлахад саад болж байсан алдааг зассан."
+    "devnote": "TTS хурдны алдааг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "Zip eta pdf erabiltzean TTS iragazkiak editatzea eragozten zuen akats bat konpondu da."
+    "devnote": "TTS abiadura akatsa konpondu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "zip နှင့် pdf ကိုအသုံးပြုသောအခါ TTS စစ်ထုတ်မှုများကို တည်းဖြတ်ခြင်းအား တားဆီးထားသည့် ချွတ်ယွင်းချက်ကို ပြင်ဆင်ခဲ့သည်။"
+    "devnote": "TTS မြန်နှုန်း ချို့ယွင်းချက်ကို ပြင်ဆင်သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "Đã sửa lỗi ngăn chỉnh sửa bộ lọc TTS khi sử dụng zip và pdf."
+    "devnote": "Đã sửa lỗi tốc độ TTS."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "Выпраўлена памылка, якая перашкаджала рэдагаванню фільтраў TTS пры выкарыстанні zip і pdf."
+    "devnote": "Выпраўлена памылка хуткасці TTS."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "একটি বাগ সংশোধন করা হয়েছে যা জিপ এবং পিডিএফ ব্যবহার করার সময় TTS ফিল্টার সম্পাদনাকে বাধা দেয়।"
+    "devnote": "ফিক্সড TTS স্পিড বাগ।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "Поправена е грешка, която предотвратява редактирането на TTS филтри при използване на zip и pdf."
+    "devnote": "Коригирана грешка в скоростта на TTS."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "Исправљена грешка која је спречавала уређивање ТТС филтера када се користи зип и пдф."
+    "devnote": "Исправљена грешка у ТТС брзини."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "Ilirekebisha hitilafu iliyozuia uhariri wa vichujio vya TTS wakati wa kutumia zip na pdf."
+    "devnote": "Imerekebisha hitilafu ya kasi ya TTS."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "Fixade en bugg som förhindrade redigering av TTS-filter vid användning av zip och pdf."
+    "devnote": "Fixat TTS-hastighetsbugg."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "Se corrigió un error que impedía la edición de filtros TTS al usar zip y pdf."
+    "devnote": "Se corrigió el error de velocidad TTS."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "Opravená chyba, ktorá bránila úpravám filtrov TTS pri používaní zip a pdf."
+    "devnote": "Opravená chyba rýchlosti TTS."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "Odpravljena je napaka, ki je preprečevala urejanje filtrov TTS pri uporabi zip in pdf."
+    "devnote": "Popravljena napaka hitrosti TTS."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "zip සහ pdf භාවිතා කරන විට TTS පෙරහන් සංස්කරණය කිරීම වලක්වන දෝෂයක් නිරාකරණය කරන ලදී."
+    "devnote": "ස්ථාවර TTS වේග දෝෂය."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "تم إصلاح الخلل الذي كان يمنع تحرير مرشحات تحويل النص إلى كلام (TTS) عند استخدام ملفات zip وpdf."
+    "devnote": "إصلاح الخلل في سرعة تحويل النص إلى كلام (TTS)."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "Շտկվել է սխալ, որը խանգարում էր TTS ֆիլտրերի խմբագրմանը zip և pdf-ից օգտվելիս:"
+    "devnote": "Ուղղվել է TTS արագության սխալը:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "Lagaði villu sem kom í veg fyrir breytingar á TTS síum við notkun zip og pdf."
+    "devnote": "Lagaði TTS hraða villu."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "Zip və pdf istifadə edərkən TTS filtrlərinin redaktə edilməsinə mane olan bir səhv düzəldildi."
+    "devnote": "Sabit TTS sürət səhvi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "Het 'n fout reggestel wat die wysiging van TTS-filters verhoed het wanneer zip en pdf gebruik word."
+    "devnote": "Vaste TTS spoed fout."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "Rregulloi një gabim që pengonte redaktimin e filtrave TTS kur përdorni zip dhe pdf."
+    "devnote": "Rregulloi gabimin e shpejtësisë TTS."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "ዚፕ እና ፒዲኤፍ ሲጠቀሙ የTTS ማጣሪያዎችን ማስተካከል የሚከለክል ስህተት ተስተካክሏል።"
+    "devnote": "ቋሚ TTS የፍጥነት ስህተት።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "Parandatud viga, mis takistas TTS-filtrite redigeerimist ZIP- ja pdf-faili kasutamisel."
+    "devnote": "Parandatud TTS-i kiiruse viga."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "زپ اور پی ڈی ایف کا استعمال کرتے وقت ٹی ٹی ایس فلٹرز میں ترمیم کرنے سے روکنے والے بگ کو ٹھیک کیا گیا۔"
+    "devnote": "طے شدہ ٹی ٹی ایس اسپیڈ بگ۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "Виправлено помилку, яка не дозволяла редагувати фільтри TTS під час використання zip і pdf."
+    "devnote": "Виправлена ​​помилка швидкості TTS."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "Risolto un bug che impediva la modifica dei filtri TTS quando si utilizzavano zip e pdf."
+    "devnote": "Risolto bug di velocità TTS."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "Memperbaiki bug yang mencegah pengeditan filter TTS saat menggunakan zip dan pdf."
+    "devnote": "Memperbaiki bug kecepatan TTS."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "zip および pdf を使用するときに TTS フィルターの編集を妨げるバグを修正しました。"
+    "devnote": "TTS速度のバグを修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "დაფიქსირდა შეცდომა, რომელიც ხელს უშლიდა TTS ფილტრების რედაქტირებას zip-ისა და pdf-ის გამოყენებისას."
+    "devnote": "დაფიქსირდა TTS სიჩქარის შეცდომა."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "Kulungiswe isiphazamisi esivimbele ukuhlelwa kwezihlungi ze-TTS lapho kusetshenziswa i-zip ne-pdf."
+    "devnote": "Kulungiswe iphutha lejubane le-TTS."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "修复了使用 zip 和 pdf 时无法编辑 TTS 过滤器的错误。"
+    "devnote": "修复了 TTS 速度错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "修正了使用 zip 和 pdf 時無法編輯 TTS 過濾器的錯誤。"
+    "devnote": "修復了 TTS 速度錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "修正了使用 zip 和 pdf 時無法編輯 TTS 過濾器的錯誤。"
+    "devnote": "修復了 TTS 速度錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "Opravena chyba, která bránila úpravám filtrů TTS při použití zip a pdf."
+    "devnote": "Opravena chyba rychlosti TTS."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "Zip және pdf пайдалану кезінде TTS сүзгілерін өңдеуге кедергі келтіретін қате түзетілді."
+    "devnote": "TTS жылдамдығы қатесі түзетілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "S'ha corregit un error que impedia l'edició dels filtres TTS quan s'utilitzava zip i pdf."
+    "devnote": "S'ha corregit l'error de velocitat TTS."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "ಜಿಪ್ ಮತ್ತು ಪಿಡಿಎಫ್ ಬಳಸುವಾಗ ಟಿಟಿಎಸ್ ಫಿಲ್ಟರ್‌ಗಳ ಸಂಪಾದನೆಯನ್ನು ತಡೆಯುವ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "TTS ವೇಗದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "Ispravljena je pogreška koja je sprječavala uređivanje TTS filtara pri korištenju zip i pdf."
+    "devnote": "Ispravljena pogreška brzine TTS-a."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "ជួសជុលកំហុសដែលរារាំងការកែសម្រួលតម្រង TTS នៅពេលប្រើ zip និង pdf ។"
+    "devnote": "ជួសជុលកំហុសល្បឿន TTS ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "Zip жана pdf колдонууда TTS чыпкаларын түзөтүүгө тоскоолдук кылган мүчүлүштүк оңдолду."
+    "devnote": "Оңдолгон TTS ылдамдыгы катасы."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "ஜிப் மற்றும் pdf ஐப் பயன்படுத்தும் போது TTS வடிப்பான்களைத் திருத்துவதைத் தடுக்கும் பிழை சரி செய்யப்பட்டது."
+    "devnote": "TTS வேக பிழை சரி செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "แก้ไขข้อบกพร่องที่ทำให้ไม่สามารถแก้ไขตัวกรอง TTS เมื่อใช้ zip และ pdf"
+    "devnote": "แก้ไขข้อผิดพลาดความเร็ว TTS"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "Zip ve pdf kullanırken TTS filtrelerinin düzenlenmesini engelleyen bir hata düzeltildi."
+    "devnote": "TTS hız hatası düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "జిప్ మరియు పిడిఎఫ్ ఉపయోగిస్తున్నప్పుడు TTS ఫిల్టర్‌ల సవరణను నిరోధించే బగ్ పరిష్కరించబడింది."
+    "devnote": "TTS స్పీడ్ బగ్ పరిష్కరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਹੈ ਜੋ ਜ਼ਿਪ ਅਤੇ ਪੀਡੀਐਫ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਸਮੇਂ TTS ਫਿਲਟਰਾਂ ਦੇ ਸੰਪਾਦਨ ਨੂੰ ਰੋਕਦਾ ਹੈ।"
+    "devnote": "ਸਥਿਰ TTS ਸਪੀਡ ਬੱਗ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "رفع اشکالی که مانع از ویرایش فیلترهای TTS در هنگام استفاده از zip و pdf می‌شد."
+    "devnote": "رفع اشکال سرعت TTS."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "Corrigido um bug que impedia a edição de filtros TTS ao usar zip e pdf."
+    "devnote": "Bug de velocidade TTS corrigido."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "Naprawiono błąd uniemożliwiający edycję filtrów TTS podczas korzystania z plików zip i pdf."
+    "devnote": "Naprawiono błąd prędkości TTS."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "Correction d'un bug qui empêchait la modification des filtres TTS lors de l'utilisation de zip et pdf."
+    "devnote": "Correction d'un bug de vitesse TTS."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "Korjattu virhe, joka esti TTS-suodattimien muokkaamisen zip- ja pdf-tiedostoja käytettäessä."
+    "devnote": "Korjattu TTS-nopeusvirhe."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "Inayos ang isang bug na pumigil sa pag-edit ng mga filter ng TTS kapag gumagamit ng zip at pdf."
+    "devnote": "Inayos ang bug ng bilis ng TTS."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "Kijavítottunk egy hibát, amely megakadályozta a TTS-szűrők szerkesztését zip és pdf használatakor."
+    "devnote": "Javítva a TTS sebességi hibája."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "תיקן באג שמנע עריכה של מסנני TTS בעת שימוש ב-zip ו-pdf."
+    "devnote": "תיקן באג מהירות TTS."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "उस बग को ठीक किया गया जो ज़िप और पीडीएफ का उपयोग करते समय टीटीएस फिल्टर के संपादन को रोकता था।"
+    "devnote": "टीटीएस स्पीड बग को ठीक किया गया।"
   }
 }
