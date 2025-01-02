@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "Fixed TTS speed bug."
+    "devnote": "We have urgently fixed a bug that prevented TTS options from being set."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "TTS 속도 버그를 수정 하였습니다."
+    "devnote": "TTS 옵션 설정 안되던 버그를 긴급 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "Corrixiuse un erro de velocidade TTS."
+    "devnote": "Arranxamos urxentemente un erro que impedía que se estableceran as opcións TTS."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "સ્થિર TTS સ્પીડ બગ."
+    "devnote": "અમે તાકીદે એક ભૂલ સુધારી છે જે TTS વિકલ્પોને સેટ થવાથી અટકાવે છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "Διορθώθηκε το σφάλμα ταχύτητας TTS."
+    "devnote": "Διορθώσαμε επειγόντως ένα σφάλμα που εμπόδιζε τον ορισμό επιλογών TTS."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "Probleem met TTS-snelheid opgelost."
+    "devnote": "We hebben met spoed een bug opgelost waardoor TTS-opties niet konden worden ingesteld."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "फिक्स्ड TTS गति बग।"
+    "devnote": "हामीले तुरुन्तै एउटा बग फिक्स गरेका छौं जसले TTS विकल्पहरूलाई सेट हुनबाट रोक्छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "Rettet TTS-hastighetsfeil."
+    "devnote": "Vi har raskt fikset en feil som forhindret TTS-alternativer fra å bli satt."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "Rettet TTS-hastighedsfejl."
+    "devnote": "Vi har omgående rettet en fejl, der forhindrede TTS-indstillinger i at blive indstillet."
   },
   "독일어": {
     "key": "de",
-    "devnote": "TTS-Geschwindigkeitsfehler behoben."
+    "devnote": "Wir haben dringend einen Fehler behoben, der das Festlegen von TTS-Optionen verhinderte."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "ແກ້ໄຂຂໍ້ຜິດພາດຄວາມໄວ TTS."
+    "devnote": "ພວກ​ເຮົາ​ໄດ້​ແກ້​ໄຂ​ອັນ​ຮີບ​ດ່ວນ​ທີ່​ປ້ອງ​ກັນ​ຕົວ​ເລືອກ TTS ຈາກ​ການ​ຕັ້ງ​ຄ່າ​."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "Izlabota TTS ātruma kļūda."
+    "devnote": "Esam steidzami novērsuši kļūdu, kas neļāva iestatīt TTS opcijas."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "Исправлена ​​ошибка скорости TTS."
+    "devnote": "Мы срочно исправили ошибку, из-за которой не удавалось установить параметры TTS."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "S-a remediat eroarea vitezei TTS."
+    "devnote": "Am remediat urgent o eroare care a împiedicat setarea opțiunilor TTS."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "Ištaisyta TTS greičio klaida."
+    "devnote": "Skubiai ištaisėme klaidą, kuri neleido nustatyti TTS parinkčių."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "TTS स्पीड बग निश्चित केला."
+    "devnote": "TTS पर्याय सेट होण्यापासून प्रतिबंधित करणाऱ्या बगचे आम्ही तातडीने निराकरण केले आहे."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "Поправена грешка во брзината на TTS."
+    "devnote": "Итно поправивме грешка што спречи да се постават опциите за TTS."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "TTS സ്പീഡ് ബഗ് പരിഹരിച്ചു."
+    "devnote": "TTS ഓപ്ഷനുകൾ സജ്ജീകരിക്കുന്നതിൽ നിന്ന് തടയുന്ന ഒരു ബഗ് ഞങ്ങൾ അടിയന്തിരമായി പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "Pepijat kelajuan TTS telah diperbaiki."
+    "devnote": "Kami telah membetulkan pepijat dengan segera yang menghalang pilihan TTS daripada ditetapkan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "TTS хурдны алдааг зассан."
+    "devnote": "Бид TTS тохируулгуудыг тохируулахаас сэргийлсэн алдааг яаралтай зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "TTS abiadura akatsa konpondu da."
+    "devnote": "Premiazkoa konpondu dugu TTS aukerak ezartzea eragozten zuen akats bat."
   },
   "버마어": {
     "key": "my",
-    "devnote": "TTS မြန်နှုန်း ချို့ယွင်းချက်ကို ပြင်ဆင်သည်။"
+    "devnote": "ကျွန်ုပ်တို့သည် TTS ရွေးချယ်မှုများကို သတ်မှတ်ခြင်းမှ တားဆီးထားသည့် ချွတ်ယွင်းချက်တစ်ခုအား အရေးပေါ်ပြင်ဆင်ထားပါသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "Đã sửa lỗi tốc độ TTS."
+    "devnote": "Chúng tôi đã khẩn trương khắc phục lỗi khiến tùy chọn TTS không thể được đặt."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "Выпраўлена памылка хуткасці TTS."
+    "devnote": "Мы тэрмінова выправілі памылку, якая не дазваляла ўсталяваць параметры TTS."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "ফিক্সড TTS স্পিড বাগ।"
+    "devnote": "আমরা জরুরীভাবে একটি বাগ সংশোধন করেছি যা TTS বিকল্পগুলিকে সেট করা থেকে বাধা দেয়।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "Коригирана грешка в скоростта на TTS."
+    "devnote": "Спешно поправихме грешка, която не позволяваше да се задават опциите за TTS."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "Исправљена грешка у ТТС брзини."
+    "devnote": "Хитно смо исправили грешку која је спречила подешавање ТТС опција."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "Imerekebisha hitilafu ya kasi ya TTS."
+    "devnote": "Tumerekebisha hitilafu ambayo ilizuia chaguo za TTS kuwekwa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "Fixat TTS-hastighetsbugg."
+    "devnote": "Vi har snabbt fixat en bugg som hindrade TTS-alternativ från att ställas in."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "Se corrigió el error de velocidad TTS."
+    "devnote": "Hemos solucionado urgentemente un error que impedía configurar las opciones TTS."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "Opravená chyba rýchlosti TTS."
+    "devnote": "Naliehavo sme opravili chybu, ktorá bránila nastaveniu možností TTS."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "Popravljena napaka hitrosti TTS."
+    "devnote": "Nujno smo odpravili napako, ki je preprečevala nastavitev možnosti TTS."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "ස්ථාවර TTS වේග දෝෂය."
+    "devnote": "අපි TTS විකල්ප සැකසීමෙන් වලක්වන දෝෂයක් හදිසියේ නිවැරදි කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "إصلاح الخلل في سرعة تحويل النص إلى كلام (TTS)."
+    "devnote": "لقد قمنا بشكل عاجل بإصلاح الخلل الذي كان يمنع تعيين خيارات تحويل النص إلى كلام (TTS)."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "Ուղղվել է TTS արագության սխալը:"
+    "devnote": "Մենք շտապ շտկել ենք մի վրիպակ, որը թույլ չի տվել TTS ընտրանքների կարգավորումը:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "Lagaði TTS hraða villu."
+    "devnote": "Við höfum þegar í stað lagað villu sem kom í veg fyrir að TTS valkostir væru stilltir."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "Sabit TTS sürət səhvi."
+    "devnote": "Biz təcili olaraq TTS seçimlərinin qurulmasına mane olan səhvi düzəltdik."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "Vaste TTS spoed fout."
+    "devnote": "Ons het dringend 'n fout reggemaak wat verhoed het dat TTS-opsies ingestel word."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "Rregulloi gabimin e shpejtësisë TTS."
+    "devnote": "Ne kemi rregulluar urgjentisht një defekt që parandaloi vendosjen e opsioneve TTS."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "ቋሚ TTS የፍጥነት ስህተት።"
+    "devnote": "የTTS አማራጮች እንዳይዘጋጁ የሚከለክል ስህተት በአስቸኳይ አስተካክለናል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "Parandatud TTS-i kiiruse viga."
+    "devnote": "Parandasime kiiresti vea, mis takistas TTS-i valikute määramist."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "طے شدہ ٹی ٹی ایس اسپیڈ بگ۔"
+    "devnote": "ہم نے فوری طور پر ایک بگ کو ٹھیک کیا ہے جو TTS کے اختیارات کو سیٹ ہونے سے روکتا ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "Виправлена ​​помилка швидкості TTS."
+    "devnote": "Ми терміново виправили помилку, через яку не можна було встановити параметри TTS."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "Risolto bug di velocità TTS."
+    "devnote": "Abbiamo risolto urgentemente un bug che impediva l'impostazione delle opzioni TTS."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "Memperbaiki bug kecepatan TTS."
+    "devnote": "Kami telah segera memperbaiki bug yang mencegah pengaturan opsi TTS."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "TTS速度のバグを修正しました。"
+    "devnote": "TTS オプションを設定できないバグを緊急に修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "დაფიქსირდა TTS სიჩქარის შეცდომა."
+    "devnote": "ჩვენ სასწრაფოდ გამოვასწორეთ შეცდომა, რომელიც ხელს უშლიდა TTS პარამეტრების დაყენებას."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "Kulungiswe iphutha lejubane le-TTS."
+    "devnote": "Silungise ngokushesha iphutha elivimbele izinketho ze-TTS ukuthi zingasethwa."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "修复了 TTS 速度错误。"
+    "devnote": "我们紧急修复了一个导致 TTS 选项无法设置的错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "修復了 TTS 速度錯誤。"
+    "devnote": "我們緊急修復了一個導致 TTS 選項無法設定的錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "修復了 TTS 速度錯誤。"
+    "devnote": "我們緊急修復了一個導致 TTS 選項無法設定的錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "Opravena chyba rychlosti TTS."
+    "devnote": "Naléhavě jsme opravili chybu, která bránila nastavení možností TTS."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "TTS жылдамдығы қатесі түзетілді."
+    "devnote": "Біз TTS опцияларын орнатуға кедергі келтірген қатені шұғыл түзеттік."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "S'ha corregit l'error de velocitat TTS."
+    "devnote": "Hem corregit urgentment un error que impedia establir les opcions TTS."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "TTS ವೇಗದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "TTS ಆಯ್ಕೆಗಳನ್ನು ಹೊಂದಿಸುವುದನ್ನು ತಡೆಯುವ ದೋಷವನ್ನು ನಾವು ತುರ್ತಾಗಿ ಸರಿಪಡಿಸಿದ್ದೇವೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "Ispravljena pogreška brzine TTS-a."
+    "devnote": "Hitno smo popravili grešku koja je sprječavala postavljanje TTS opcija."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "ជួសជុលកំហុសល្បឿន TTS ។"
+    "devnote": "យើងបានជួសជុលជាបន្ទាន់នូវកំហុសដែលរារាំងជម្រើស TTS ពីការកំណត់។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "Оңдолгон TTS ылдамдыгы катасы."
+    "devnote": "TTS параметрлерин коюуга тоскоол болгон мүчүлүштүктөрдү тез арада оңдодук."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "TTS வேக பிழை சரி செய்யப்பட்டது."
+    "devnote": "TTS விருப்பங்கள் அமைக்கப்படுவதைத் தடுக்கும் ஒரு பிழையை அவசரமாகச் சரிசெய்துள்ளோம்."
   },
   "태국어": {
     "key": "th",
-    "devnote": "แก้ไขข้อผิดพลาดความเร็ว TTS"
+    "devnote": "เราได้แก้ไขข้อบกพร่องอย่างเร่งด่วนที่ทำให้ไม่สามารถตั้งค่าตัวเลือก TTS ได้"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "TTS hız hatası düzeltildi."
+    "devnote": "TTS seçeneklerinin ayarlanmasını engelleyen bir hatayı acilen düzelttik."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "TTS స్పీడ్ బగ్ పరిష్కరించబడింది."
+    "devnote": "మేము TTS ఎంపికలను సెట్ చేయకుండా నిరోధించే బగ్‌ను అత్యవసరంగా పరిష్కరించాము."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "ਸਥਿਰ TTS ਸਪੀਡ ਬੱਗ।"
+    "devnote": "ਅਸੀਂ ਇੱਕ ਬੱਗ ਨੂੰ ਤੁਰੰਤ ਠੀਕ ਕੀਤਾ ਹੈ ਜੋ TTS ਵਿਕਲਪਾਂ ਨੂੰ ਸੈੱਟ ਹੋਣ ਤੋਂ ਰੋਕਦਾ ਹੈ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "رفع اشکال سرعت TTS."
+    "devnote": "ما فوراً اشکالی را که از تنظیم گزینه‌های TTS جلوگیری می‌کرد، رفع کرده‌ایم."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "Bug de velocidade TTS corrigido."
+    "devnote": "Corrigimos urgentemente um bug que impedia a definição das opções de TTS."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "Naprawiono błąd prędkości TTS."
+    "devnote": "Pilnie naprawiliśmy błąd, który uniemożliwiał ustawienie opcji TTS."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "Correction d'un bug de vitesse TTS."
+    "devnote": "Nous avons corrigé en urgence un bug qui empêchait la définition des options TTS."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "Korjattu TTS-nopeusvirhe."
+    "devnote": "Olemme kiireesti korjanneet virheen, joka esti TTS-vaihtoehtojen asettamisen."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "Inayos ang bug ng bilis ng TTS."
+    "devnote": "Agad naming inayos ang isang bug na pumigil sa mga opsyon sa TTS na maitakda."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "Javítva a TTS sebességi hibája."
+    "devnote": "Sürgősen kijavítottunk egy hibát, amely megakadályozta a TTS-beállítások beállítását."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "תיקן באג מהירות TTS."
+    "devnote": "תיקנו בדחיפות באג שמנע את הגדרת אפשרויות ה-TTS."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "टीटीएस स्पीड बग को ठीक किया गया।"
+    "devnote": "हमने उस बग को तत्काल ठीक कर दिया है जो टीटीएस विकल्पों को सेट होने से रोकता था।"
   }
 }
