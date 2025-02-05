@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "We have urgently fixed a bug that prevented TTS options from being set."
+    "devnote": "Improved PDF viewer and PDF image conversion functions.\nChanged bookmark sorting criteria to location instead of added date."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "TTS 옵션 설정 안되던 버그를 긴급 수정 하였습니다."
+    "devnote": "PDF 뷰어 및 PDF 이미지 변환 기능 을 개선 하였습니다.\n북마크 정렬기준을 추가된 날자가 아닌 위치 로 변경 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "Arranxamos urxentemente un erro que impedía que se estableceran as opcións TTS."
+    "devnote": "Visor de PDF mellorado e funcións de conversión de imaxes PDF.\nCambiaron os criterios de clasificación dos marcadores pola localización en lugar da data engadida."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "અમે તાકીદે એક ભૂલ સુધારી છે જે TTS વિકલ્પોને સેટ થવાથી અટકાવે છે."
+    "devnote": "સુધારેલ પીડીએફ વ્યુઅર અને પીડીએફ ઇમેજ કન્વર્ઝન ફંક્શન.\nબુકમાર્ક સૉર્ટિંગ માપદંડ ઉમેરેલી તારીખને બદલે સ્થાન પર બદલ્યો."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "Διορθώσαμε επειγόντως ένα σφάλμα που εμπόδιζε τον ορισμό επιλογών TTS."
+    "devnote": "Βελτιωμένες λειτουργίες προβολής PDF και μετατροπής εικόνας PDF.\nΆλλαξε τα κριτήρια ταξινόμησης σελιδοδεικτών σε τοποθεσία αντί για ημερομηνία προσθήκης."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "We hebben met spoed een bug opgelost waardoor TTS-opties niet konden worden ingesteld."
+    "devnote": "Verbeterde PDF-viewer en conversiefuncties voor PDF-afbeeldingen.\nSorteercriteria voor bladwijzers gewijzigd in locatie in plaats van toegevoegde datum."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "हामीले तुरुन्तै एउटा बग फिक्स गरेका छौं जसले TTS विकल्पहरूलाई सेट हुनबाट रोक्छ।"
+    "devnote": "सुधारिएको PDF दर्शक र PDF छवि रूपान्तरण कार्यहरू।\nथपिएको मितिको सट्टा स्थानमा बुकमार्क क्रमबद्ध मापदण्ड परिवर्तन गरियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "Vi har raskt fikset en feil som forhindret TTS-alternativer fra å bli satt."
+    "devnote": "Forbedrede funksjoner for PDF-visning og PDF-bildekonvertering.\nEndret bokmerkesorteringskriterier til plassering i stedet for lagt til dato."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "Vi har omgående rettet en fejl, der forhindrede TTS-indstillinger i at blive indstillet."
+    "devnote": "Forbedrede funktioner til PDF-fremviser og PDF-billedkonvertering.\nÆndrede bogmærkesorteringskriterier til placering i stedet for tilføjet dato."
   },
   "독일어": {
     "key": "de",
-    "devnote": "Wir haben dringend einen Fehler behoben, der das Festlegen von TTS-Optionen verhinderte."
+    "devnote": "Verbesserte PDF-Viewer- und PDF-Bildkonvertierungsfunktionen.\nDie Sortierkriterien für Lesezeichen wurden auf „Standort“ statt auf „Hinzugefügtes Datum“ geändert."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "ພວກ​ເຮົາ​ໄດ້​ແກ້​ໄຂ​ອັນ​ຮີບ​ດ່ວນ​ທີ່​ປ້ອງ​ກັນ​ຕົວ​ເລືອກ TTS ຈາກ​ການ​ຕັ້ງ​ຄ່າ​."
+    "devnote": "ປັບປຸງຕົວເບິ່ງ PDF ແລະຫນ້າທີ່ປ່ຽນຮູບພາບ PDF.\nປ່ຽນເງື່ອນໄຂການຈັດຮຽງ bookmark ເປັນສະຖານທີ່ແທນທີ່ຈະເພີ່ມວັນທີ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "Esam steidzami novērsuši kļūdu, kas neļāva iestatīt TTS opcijas."
+    "devnote": "Uzlabotas PDF skatītāja un PDF attēlu konvertēšanas funkcijas.\nGrāmatzīmju kārtošanas kritēriji ir mainīti uz atrašanās vietu, nevis pievienošanas datumu."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "Мы срочно исправили ошибку, из-за которой не удавалось установить параметры TTS."
+    "devnote": "Улучшены функции просмотра PDF-файлов и преобразования изображений PDF.\nКритерий сортировки закладок изменен на местоположение вместо добавленной даты."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "Am remediat urgent o eroare care a împiedicat setarea opțiunilor TTS."
+    "devnote": "Vizualizator PDF îmbunătățit și funcții de conversie a imaginilor PDF.\nS-au schimbat criteriile de sortare a marcajelor la locație în loc de data adăugată."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "Skubiai ištaisėme klaidą, kuri neleido nustatyti TTS parinkčių."
+    "devnote": "Patobulintos PDF peržiūros ir PDF vaizdų konvertavimo funkcijos.\nŽymių rūšiavimo kriterijai pakeisti į vietą, o ne į pridėtą datą."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "TTS पर्याय सेट होण्यापासून प्रतिबंधित करणाऱ्या बगचे आम्ही तातडीने निराकरण केले आहे."
+    "devnote": "सुधारित PDF दर्शक आणि PDF प्रतिमा रूपांतरण कार्ये.\nबुकमार्क क्रमवारीचे मापदंड जोडलेल्या तारखेऐवजी स्थानावर बदलले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "Итно поправивме грешка што спречи да се постават опциите за TTS."
+    "devnote": "Подобрени функции за прегледувач на PDF и конверзија на слики во PDF.\nКритериумите за сортирање на обележувачи ги смени во локација наместо додаден датум."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "TTS ഓപ്ഷനുകൾ സജ്ജീകരിക്കുന്നതിൽ നിന്ന് തടയുന്ന ഒരു ബഗ് ഞങ്ങൾ അടിയന്തിരമായി പരിഹരിച്ചു."
+    "devnote": "മെച്ചപ്പെട്ട PDF വ്യൂവറും PDF ഇമേജ് പരിവർത്തന പ്രവർത്തനങ്ങളും.\nചേർത്ത തീയതിക്ക് പകരം ലൊക്കേഷനിലേക്ക് ബുക്ക്മാർക്ക് അടുക്കുന്നതിനുള്ള മാനദണ്ഡം മാറ്റി."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "Kami telah membetulkan pepijat dengan segera yang menghalang pilihan TTS daripada ditetapkan."
+    "devnote": "Pemapar PDF yang dipertingkatkan dan fungsi penukaran imej PDF.\nKriteria pengisihan penanda halaman telah ditukar kepada lokasi dan bukannya tarikh tambahan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "Бид TTS тохируулгуудыг тохируулахаас сэргийлсэн алдааг яаралтай зассан."
+    "devnote": "Сайжруулсан PDF үзэх болон PDF зураг хөрвүүлэх функцууд.\nХавчуурга эрэмбэлэх шалгуурыг нэмсэн огнооны оронд байршил болгон өөрчилсөн."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "Premiazkoa konpondu dugu TTS aukerak ezartzea eragozten zuen akats bat."
+    "devnote": "Hobetua PDF ikuslea eta PDF irudiak bihurtzeko funtzioak.\nLaster-markak ordenatzeko irizpideak kokapenera aldatu dira, data gehitu beharrean."
   },
   "버마어": {
     "key": "my",
-    "devnote": "ကျွန်ုပ်တို့သည် TTS ရွေးချယ်မှုများကို သတ်မှတ်ခြင်းမှ တားဆီးထားသည့် ချွတ်ယွင်းချက်တစ်ခုအား အရေးပေါ်ပြင်ဆင်ထားပါသည်။"
+    "devnote": "ပိုမိုကောင်းမွန်သော PDF ကြည့်ရှုခြင်းနှင့် PDF ပုံပြောင်းခြင်းလုပ်ဆောင်ချက်များ။\nထည့်ထားသောရက်စွဲအစား လိပ်စာသတ်မှတ်ခြင်းစံနှုန်းများကို တည်နေရာသို့ ပြောင်းထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "Chúng tôi đã khẩn trương khắc phục lỗi khiến tùy chọn TTS không thể được đặt."
+    "devnote": "Cải thiện chức năng xem PDF và chuyển đổi hình ảnh PDF.\nĐã thay đổi tiêu chí sắp xếp dấu trang thành vị trí thay vì ngày đã thêm."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "Мы тэрмінова выправілі памылку, якая не дазваляла ўсталяваць параметры TTS."
+    "devnote": "Палепшаны праглядальнік PDF і функцыі пераўтварэння малюнкаў PDF.\nКрытэрыі сартавання закладак зменены на месцазнаходжанне замест дададзенай даты."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "আমরা জরুরীভাবে একটি বাগ সংশোধন করেছি যা TTS বিকল্পগুলিকে সেট করা থেকে বাধা দেয়।"
+    "devnote": "উন্নত পিডিএফ ভিউয়ার এবং পিডিএফ ইমেজ রূপান্তর ফাংশন।\nবুকমার্ক সাজানোর মানদণ্ড যোগ করা তারিখের পরিবর্তে অবস্থানে পরিবর্তন করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "Спешно поправихме грешка, която не позволяваше да се задават опциите за TTS."
+    "devnote": "Подобрен PDF преглед и функции за конвертиране на PDF изображения.\nКритериите за сортиране на отметки са променени на местоположение вместо добавена дата."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "Хитно смо исправили грешку која је спречила подешавање ТТС опција."
+    "devnote": "Побољшани ПДФ прегледач и функције конверзије ПДФ слика.\nПромењен критеријум сортирања обележивача на локацију уместо доданог датума."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "Tumerekebisha hitilafu ambayo ilizuia chaguo za TTS kuwekwa."
+    "devnote": "Kitazamaji cha PDF kilichoboreshwa na vitendaji vya ubadilishaji wa picha za PDF.\nUmebadilisha vigezo vya kupanga alamisho kuwa eneo badala ya tarehe iliyoongezwa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "Vi har snabbt fixat en bugg som hindrade TTS-alternativ från att ställas in."
+    "devnote": "Förbättrad PDF-visare och PDF-bildkonverteringsfunktioner.\nÄndrade sorteringskriterier för bokmärken till plats istället för tillagt datum."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "Hemos solucionado urgentemente un error que impedía configurar las opciones TTS."
+    "devnote": "Funciones mejoradas de visor de PDF y conversión de imágenes PDF.\nSe cambiaron los criterios de clasificación de marcadores a ubicación en lugar de fecha agregada."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "Naliehavo sme opravili chybu, ktorá bránila nastaveniu možností TTS."
+    "devnote": "Vylepšený prehliadač PDF a funkcie konverzie obrázkov PDF.\nZmenili sa kritériá triedenia záložiek na miesto namiesto pridania dátumu."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "Nujno smo odpravili napako, ki je preprečevala nastavitev možnosti TTS."
+    "devnote": "Izboljšan pregledovalnik PDF in funkcije za pretvorbo slik PDF.\nKriteriji za razvrščanje zaznamkov so bili spremenjeni na lokacijo namesto dodanega datuma."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "අපි TTS විකල්ප සැකසීමෙන් වලක්වන දෝෂයක් හදිසියේ නිවැරදි කර ඇත."
+    "devnote": "වැඩිදියුණු කළ PDF නරඹන්නා සහ PDF රූප පරිවර්තන කාර්යයන්.\nඑකතු කරන ලද දිනය වෙනුවට ස්ථානයට පිටු සලකුණු වර්ග කිරීමේ නිර්ණායක වෙනස් කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "لقد قمنا بشكل عاجل بإصلاح الخلل الذي كان يمنع تعيين خيارات تحويل النص إلى كلام (TTS)."
+    "devnote": "تحسين عارض PDF ووظائف تحويل صور PDF.\nتم تغيير معايير فرز الإشارات المرجعية إلى الموقع بدلاً من تاريخ الإضافة."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "Մենք շտապ շտկել ենք մի վրիպակ, որը թույլ չի տվել TTS ընտրանքների կարգավորումը:"
+    "devnote": "Բարելավված PDF դիտող և PDF պատկերների փոխակերպման գործառույթներ:\nԱվելացված ամսաթվի փոխարեն էջանիշների տեսակավորման չափանիշները փոխվել են ըստ գտնվելու վայրի:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "Við höfum þegar í stað lagað villu sem kom í veg fyrir að TTS valkostir væru stilltir."
+    "devnote": "Bætt PDF skoðara og PDF myndumbreytingaraðgerðir.\nBreytti flokkunarskilyrðum bókamerkja í staðsetningu í stað þess að bæta við dagsetningu."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "Biz təcili olaraq TTS seçimlərinin qurulmasına mane olan səhvi düzəltdik."
+    "devnote": "Təkmilləşdirilmiş PDF görüntüləyicisi və PDF şəklini çevirmə funksiyaları.\nƏlfəcin çeşidləmə meyarları əlavə edilmiş tarix əvəzinə məkana dəyişdirildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "Ons het dringend 'n fout reggemaak wat verhoed het dat TTS-opsies ingestel word."
+    "devnote": "Verbeterde PDF-kyker en PDF-beeldomskakelingsfunksies.\nVerander boekmerksorteringkriteria na ligging in plaas van bygevoegde datum."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "Ne kemi rregulluar urgjentisht një defekt që parandaloi vendosjen e opsioneve TTS."
+    "devnote": "Funksionet e përmirësuara të shikuesit PDF dhe konvertimit të imazheve PDF.\nKriteret e renditjes së faqeshënuesve u ndryshuan në vendndodhje në vend të datës së shtuar."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "የTTS አማራጮች እንዳይዘጋጁ የሚከለክል ስህተት በአስቸኳይ አስተካክለናል።"
+    "devnote": "የተሻሻለ ፒዲኤፍ መመልከቻ እና ፒዲኤፍ ምስል የመቀየር ተግባራት።\nየዕልባት መደርደር መስፈርት ከታከለበት ቀን ይልቅ ወደ ቦታ ተለውጧል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "Parandasime kiiresti vea, mis takistas TTS-i valikute määramist."
+    "devnote": "Täiustatud PDF-vaaturi ja PDF-pildi teisendamise funktsioonid.\nJärjehoidjate sortimise kriteeriumiks muudeti lisamise kuupäeva asemel asukoht."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "ہم نے فوری طور پر ایک بگ کو ٹھیک کیا ہے جو TTS کے اختیارات کو سیٹ ہونے سے روکتا ہے۔"
+    "devnote": "بہتر پی ڈی ایف ویور اور پی ڈی ایف امیج کنورژن فنکشنز۔\nبک مارک کی چھانٹی کے معیار کو شامل کی گئی تاریخ کے بجائے مقام میں تبدیل کر دیا گیا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "Ми терміново виправили помилку, через яку не можна було встановити параметри TTS."
+    "devnote": "Покращено функцію перегляду PDF-файлів і перетворення зображень PDF.\nКритерії сортування закладок змінено на місце розташування замість доданої дати."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "Abbiamo risolto urgentemente un bug che impediva l'impostazione delle opzioni TTS."
+    "devnote": "Visualizzatore PDF migliorato e funzioni di conversione di immagini PDF.\nCriteri di ordinamento dei segnalibri modificati in posizione anziché data aggiunta."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "Kami telah segera memperbaiki bug yang mencegah pengaturan opsi TTS."
+    "devnote": "Peningkatan fungsi penampil PDF dan konversi gambar PDF.\nMengubah kriteria penyortiran bookmark menjadi lokasi, bukan tanggal tambahan."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "TTS オプションを設定できないバグを緊急に修正しました。"
+    "devnote": "PDFビューアおよびPDF画像変換機能を強化しました。\nブックマークの並べ替え基準を追加日ではなく場所に変更しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "ჩვენ სასწრაფოდ გამოვასწორეთ შეცდომა, რომელიც ხელს უშლიდა TTS პარამეტრების დაყენებას."
+    "devnote": "გაუმჯობესებული PDF მაყურებლის და PDF სურათის კონვერტაციის ფუნქციები.\nსანიშნეების დახარისხების კრიტერიუმები შეიცვალა ადგილმდებარეობის ნაცვლად დამატებული თარიღის ნაცვლად."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "Silungise ngokushesha iphutha elivimbele izinketho ze-TTS ukuthi zingasethwa."
+    "devnote": "Isibukeli se-PDF esithuthukisiwe nemisebenzi yokuguqula isithombe se-PDF.\nKushintshwe indlela yokuhlunga yebhukhimakhi yaba indawo esikhundleni sosuku olungeziwe."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "我们紧急修复了一个导致 TTS 选项无法设置的错误。"
+    "devnote": "改进了 PDF 查看器和 PDF 图像转换功能。\n将书签排序标准更改为位置而不是添加日期。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "我們緊急修復了一個導致 TTS 選項無法設定的錯誤。"
+    "devnote": "改進了 PDF 檢視器和 PDF 影像轉換功能。\n將書籤排序標準變更為位置而不是新增日期。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "我們緊急修復了一個導致 TTS 選項無法設定的錯誤。"
+    "devnote": "改進了 PDF 檢視器和 PDF 影像轉換功能。\n將書籤排序標準變更為位置而不是新增日期。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "Naléhavě jsme opravili chybu, která bránila nastavení možností TTS."
+    "devnote": "Vylepšený prohlížeč PDF a funkce konverze obrázků PDF.\nZměněna kritéria řazení záložek na umístění namísto přidání data."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "Біз TTS опцияларын орнатуға кедергі келтірген қатені шұғыл түзеттік."
+    "devnote": "Жақсартылған PDF қарау құралы және PDF кескінін түрлендіру функциялары.\nБетбелгі сұрыптау шарты қосылған күннің орнына орынға өзгертілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "Hem corregit urgentment un error que impedia establir les opcions TTS."
+    "devnote": "Visor de PDF millorat i funcions de conversió d'imatges PDF.\nS'han canviat els criteris d'ordenació de les adreces d'interès a la ubicació en lloc de la data afegida."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "TTS ಆಯ್ಕೆಗಳನ್ನು ಹೊಂದಿಸುವುದನ್ನು ತಡೆಯುವ ದೋಷವನ್ನು ನಾವು ತುರ್ತಾಗಿ ಸರಿಪಡಿಸಿದ್ದೇವೆ."
+    "devnote": "ಸುಧಾರಿತ PDF ವೀಕ್ಷಕ ಮತ್ತು PDF ಚಿತ್ರ ಪರಿವರ್ತನೆ ಕಾರ್ಯಗಳು.\nಸೇರಿಸಿದ ದಿನಾಂಕದ ಬದಲಿಗೆ ಬುಕ್‌ಮಾರ್ಕ್ ವಿಂಗಡಣೆಯ ಮಾನದಂಡವನ್ನು ಸ್ಥಳಕ್ಕೆ ಬದಲಾಯಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "Hitno smo popravili grešku koja je sprječavala postavljanje TTS opcija."
+    "devnote": "Poboljšani PDF preglednik i funkcije pretvorbe PDF slika.\nKriteriji sortiranja oznaka promijenjeni su na lokaciju umjesto dodanog datuma."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "យើងបានជួសជុលជាបន្ទាន់នូវកំហុសដែលរារាំងជម្រើស TTS ពីការកំណត់។"
+    "devnote": "កម្មវិធីមើល PDF ប្រសើរឡើង និងមុខងារបំប្លែងរូបភាព PDF ។\nបានផ្លាស់ប្តូរលក្ខណៈវិនិច្ឆ័យតម្រៀបចំណាំទៅទីតាំងជំនួសឱ្យកាលបរិច្ឆេទដែលបានបន្ថែម។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "TTS параметрлерин коюуга тоскоол болгон мүчүлүштүктөрдү тез арада оңдодук."
+    "devnote": "Жакшыртылган PDF көрүүчү жана PDF сүрөтүн өзгөртүү функциялары.\nКыстармаларды сорттоо критерийлери кошулган күндүн ордуна жайгашкан жерге өзгөртүлдү."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "TTS விருப்பங்கள் அமைக்கப்படுவதைத் தடுக்கும் ஒரு பிழையை அவசரமாகச் சரிசெய்துள்ளோம்."
+    "devnote": "மேம்படுத்தப்பட்ட PDF பார்வையாளர் மற்றும் PDF பட மாற்ற செயல்பாடுகள்.\nபுக்மார்க் வரிசையாக்க அளவுகோல் சேர்க்கப்பட்ட தேதிக்கு பதிலாக இருப்பிடத்திற்கு மாற்றப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "เราได้แก้ไขข้อบกพร่องอย่างเร่งด่วนที่ทำให้ไม่สามารถตั้งค่าตัวเลือก TTS ได้"
+    "devnote": "ปรับปรุงฟังก์ชันโปรแกรมดู PDF และการแปลงรูปภาพ PDF\nเปลี่ยนเกณฑ์การเรียงลำดับบุ๊กมาร์กเป็นตำแหน่งแทนวันที่เพิ่ม"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "TTS seçeneklerinin ayarlanmasını engelleyen bir hatayı acilen düzelttik."
+    "devnote": "Geliştirilmiş PDF görüntüleyici ve PDF görüntü dönüştürme işlevleri.\nYer işareti sıralama kriterleri, eklenen tarih yerine konum olarak değiştirildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "మేము TTS ఎంపికలను సెట్ చేయకుండా నిరోధించే బగ్‌ను అత్యవసరంగా పరిష్కరించాము."
+    "devnote": "మెరుగైన PDF వ్యూయర్ మరియు PDF ఇమేజ్ కన్వర్షన్ ఫంక్షన్‌లు.\nజోడించిన తేదీకి బదులుగా బుక్‌మార్క్ సార్టింగ్ ప్రమాణాలు స్థానానికి మార్చబడ్డాయి."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "ਅਸੀਂ ਇੱਕ ਬੱਗ ਨੂੰ ਤੁਰੰਤ ਠੀਕ ਕੀਤਾ ਹੈ ਜੋ TTS ਵਿਕਲਪਾਂ ਨੂੰ ਸੈੱਟ ਹੋਣ ਤੋਂ ਰੋਕਦਾ ਹੈ।"
+    "devnote": "ਪੀਡੀਐਫ ਦਰਸ਼ਕ ਅਤੇ ਪੀਡੀਐਫ ਚਿੱਤਰ ਪਰਿਵਰਤਨ ਫੰਕਸ਼ਨਾਂ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ।\nਬੁੱਕਮਾਰਕ ਛਾਂਟਣ ਦੇ ਮਾਪਦੰਡ ਨੂੰ ਜੋੜੀ ਗਈ ਮਿਤੀ ਦੀ ਬਜਾਏ ਸਥਾਨ ਵਿੱਚ ਬਦਲਿਆ ਗਿਆ ਹੈ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "ما فوراً اشکالی را که از تنظیم گزینه‌های TTS جلوگیری می‌کرد، رفع کرده‌ایم."
+    "devnote": "نمایشگر PDF و عملکردهای تبدیل تصویر PDF بهبود یافته است.\nمعیارهای مرتب‌سازی نشانک به مکان به جای تاریخ اضافه شده تغییر کرد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "Corrigimos urgentemente um bug que impedia a definição das opções de TTS."
+    "devnote": "Visualizador de PDF aprimorado e funções de conversão de imagem em PDF.\nCritérios de classificação de favoritos alterados para local em vez de data adicionada."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "Pilnie naprawiliśmy błąd, który uniemożliwiał ustawienie opcji TTS."
+    "devnote": "Ulepszona przeglądarka plików PDF i funkcje konwersji obrazów PDF.\nZmieniono kryteria sortowania zakładek na lokalizację zamiast daty dodania."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "Nous avons corrigé en urgence un bug qui empêchait la définition des options TTS."
+    "devnote": "Fonctions améliorées de visionneuse PDF et de conversion d’images PDF.\nModification des critères de tri des signets en emplacement au lieu de date ajoutée."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "Olemme kiireesti korjanneet virheen, joka esti TTS-vaihtoehtojen asettamisen."
+    "devnote": "Parannetut PDF-katseluohjelma ja PDF-kuvan muunnostoiminnot.\nKirjanmerkkien lajittelukriteerit muutettiin sijainniksi lisäyspäivämäärän sijaan."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "Agad naming inayos ang isang bug na pumigil sa mga opsyon sa TTS na maitakda."
+    "devnote": "Pinahusay na PDF viewer at PDF image conversion function.\nBinago ang pamantayan sa pag-uuri ng bookmark sa lokasyon sa halip na idinagdag na petsa."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "Sürgősen kijavítottunk egy hibát, amely megakadályozta a TTS-beállítások beállítását."
+    "devnote": "Továbbfejlesztett PDF-nézegető és PDF-képkonverziós funkciók.\nA könyvjelzők rendezési feltételeit a hozzáadási dátum helyett helyre módosítottuk."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "תיקנו בדחיפות באג שמנע את הגדרת אפשרויות ה-TTS."
+    "devnote": "פונקציות משופרות של מציג PDF והמרת תמונות PDF.\nהקריטריונים למיון סימניות שינו למיקום במקום תאריך נוסף."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "हमने उस बग को तत्काल ठीक कर दिया है जो टीटीएस विकल्पों को सेट होने से रोकता था।"
+    "devnote": "बेहतर पीडीएफ व्यूअर और पीडीएफ छवि रूपांतरण कार्य।\nजोड़ी गई तारीख के बजाय बुकमार्क सॉर्टिंग मानदंड को स्थान के अनुसार बदल दिया गया।"
   }
 }
