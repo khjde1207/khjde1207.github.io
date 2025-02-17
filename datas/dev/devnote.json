@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "Improved PDF viewer and PDF image conversion functions.\nChanged bookmark sorting criteria to location instead of added date."
+    "devnote": "Speed ​​has been improved."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "PDF 뷰어 및 PDF 이미지 변환 기능 을 개선 하였습니다.\n북마크 정렬기준을 추가된 날자가 아닌 위치 로 변경 하였습니다."
+    "devnote": "속도를 개선 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "Visor de PDF mellorado e funcións de conversión de imaxes PDF.\nCambiaron os criterios de clasificación dos marcadores pola localización en lugar da data engadida."
+    "devnote": "Mellorouse a velocidade."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "સુધારેલ પીડીએફ વ્યુઅર અને પીડીએફ ઇમેજ કન્વર્ઝન ફંક્શન.\nબુકમાર્ક સૉર્ટિંગ માપદંડ ઉમેરેલી તારીખને બદલે સ્થાન પર બદલ્યો."
+    "devnote": "ઝડપમાં સુધારો કરવામાં આવ્યો છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "Βελτιωμένες λειτουργίες προβολής PDF και μετατροπής εικόνας PDF.\nΆλλαξε τα κριτήρια ταξινόμησης σελιδοδεικτών σε τοποθεσία αντί για ημερομηνία προσθήκης."
+    "devnote": "Η ταχύτητα έχει βελτιωθεί."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "Verbeterde PDF-viewer en conversiefuncties voor PDF-afbeeldingen.\nSorteercriteria voor bladwijzers gewijzigd in locatie in plaats van toegevoegde datum."
+    "devnote": "De snelheid is verbeterd."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "सुधारिएको PDF दर्शक र PDF छवि रूपान्तरण कार्यहरू।\nथपिएको मितिको सट्टा स्थानमा बुकमार्क क्रमबद्ध मापदण्ड परिवर्तन गरियो।"
+    "devnote": "गति सुधार गरिएको छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "Forbedrede funksjoner for PDF-visning og PDF-bildekonvertering.\nEndret bokmerkesorteringskriterier til plassering i stedet for lagt til dato."
+    "devnote": "Hastigheten er forbedret."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "Forbedrede funktioner til PDF-fremviser og PDF-billedkonvertering.\nÆndrede bogmærkesorteringskriterier til placering i stedet for tilføjet dato."
+    "devnote": "Hastigheden er blevet forbedret."
   },
   "독일어": {
     "key": "de",
-    "devnote": "Verbesserte PDF-Viewer- und PDF-Bildkonvertierungsfunktionen.\nDie Sortierkriterien für Lesezeichen wurden auf „Standort“ statt auf „Hinzugefügtes Datum“ geändert."
+    "devnote": "Die Geschwindigkeit wurde verbessert."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "ປັບປຸງຕົວເບິ່ງ PDF ແລະຫນ້າທີ່ປ່ຽນຮູບພາບ PDF.\nປ່ຽນເງື່ອນໄຂການຈັດຮຽງ bookmark ເປັນສະຖານທີ່ແທນທີ່ຈະເພີ່ມວັນທີ."
+    "devnote": "ຄວາມໄວໄດ້ຖືກປັບປຸງ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "Uzlabotas PDF skatītāja un PDF attēlu konvertēšanas funkcijas.\nGrāmatzīmju kārtošanas kritēriji ir mainīti uz atrašanās vietu, nevis pievienošanas datumu."
+    "devnote": "Ātrums ir uzlabots."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "Улучшены функции просмотра PDF-файлов и преобразования изображений PDF.\nКритерий сортировки закладок изменен на местоположение вместо добавленной даты."
+    "devnote": "Скорость была улучшена."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "Vizualizator PDF îmbunătățit și funcții de conversie a imaginilor PDF.\nS-au schimbat criteriile de sortare a marcajelor la locație în loc de data adăugată."
+    "devnote": "Viteza a fost îmbunătățită."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "Patobulintos PDF peržiūros ir PDF vaizdų konvertavimo funkcijos.\nŽymių rūšiavimo kriterijai pakeisti į vietą, o ne į pridėtą datą."
+    "devnote": "Greitis buvo pagerintas."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "सुधारित PDF दर्शक आणि PDF प्रतिमा रूपांतरण कार्ये.\nबुकमार्क क्रमवारीचे मापदंड जोडलेल्या तारखेऐवजी स्थानावर बदलले."
+    "devnote": "गती सुधारली आहे."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "Подобрени функции за прегледувач на PDF и конверзија на слики во PDF.\nКритериумите за сортирање на обележувачи ги смени во локација наместо додаден датум."
+    "devnote": "Брзината е подобрена."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "മെച്ചപ്പെട്ട PDF വ്യൂവറും PDF ഇമേജ് പരിവർത്തന പ്രവർത്തനങ്ങളും.\nചേർത്ത തീയതിക്ക് പകരം ലൊക്കേഷനിലേക്ക് ബുക്ക്മാർക്ക് അടുക്കുന്നതിനുള്ള മാനദണ്ഡം മാറ്റി."
+    "devnote": "വേഗത മെച്ചപ്പെട്ടു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "Pemapar PDF yang dipertingkatkan dan fungsi penukaran imej PDF.\nKriteria pengisihan penanda halaman telah ditukar kepada lokasi dan bukannya tarikh tambahan."
+    "devnote": "Kelajuan telah dipertingkatkan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "Сайжруулсан PDF үзэх болон PDF зураг хөрвүүлэх функцууд.\nХавчуурга эрэмбэлэх шалгуурыг нэмсэн огнооны оронд байршил болгон өөрчилсөн."
+    "devnote": "Хурд сайжирсан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "Hobetua PDF ikuslea eta PDF irudiak bihurtzeko funtzioak.\nLaster-markak ordenatzeko irizpideak kokapenera aldatu dira, data gehitu beharrean."
+    "devnote": "Abiadura hobetu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "ပိုမိုကောင်းမွန်သော PDF ကြည့်ရှုခြင်းနှင့် PDF ပုံပြောင်းခြင်းလုပ်ဆောင်ချက်များ။\nထည့်ထားသောရက်စွဲအစား လိပ်စာသတ်မှတ်ခြင်းစံနှုန်းများကို တည်နေရာသို့ ပြောင်းထားသည်။"
+    "devnote": "အရှိန်မြှင့်လိုက်သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "Cải thiện chức năng xem PDF và chuyển đổi hình ảnh PDF.\nĐã thay đổi tiêu chí sắp xếp dấu trang thành vị trí thay vì ngày đã thêm."
+    "devnote": "Tốc độ đã được cải thiện."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "Палепшаны праглядальнік PDF і функцыі пераўтварэння малюнкаў PDF.\nКрытэрыі сартавання закладак зменены на месцазнаходжанне замест дададзенай даты."
+    "devnote": "Хуткасць была палепшана."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "উন্নত পিডিএফ ভিউয়ার এবং পিডিএফ ইমেজ রূপান্তর ফাংশন।\nবুকমার্ক সাজানোর মানদণ্ড যোগ করা তারিখের পরিবর্তে অবস্থানে পরিবর্তন করা হয়েছে।"
+    "devnote": "গতি উন্নত করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "Подобрен PDF преглед и функции за конвертиране на PDF изображения.\nКритериите за сортиране на отметки са променени на местоположение вместо добавена дата."
+    "devnote": "Скоростта е подобрена."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "Побољшани ПДФ прегледач и функције конверзије ПДФ слика.\nПромењен критеријум сортирања обележивача на локацију уместо доданог датума."
+    "devnote": "Брзина је побољшана."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "Kitazamaji cha PDF kilichoboreshwa na vitendaji vya ubadilishaji wa picha za PDF.\nUmebadilisha vigezo vya kupanga alamisho kuwa eneo badala ya tarehe iliyoongezwa."
+    "devnote": "Kasi imeboreshwa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "Förbättrad PDF-visare och PDF-bildkonverteringsfunktioner.\nÄndrade sorteringskriterier för bokmärken till plats istället för tillagt datum."
+    "devnote": "Hastigheten har förbättrats."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "Funciones mejoradas de visor de PDF y conversión de imágenes PDF.\nSe cambiaron los criterios de clasificación de marcadores a ubicación en lugar de fecha agregada."
+    "devnote": "Se ha mejorado la velocidad."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "Vylepšený prehliadač PDF a funkcie konverzie obrázkov PDF.\nZmenili sa kritériá triedenia záložiek na miesto namiesto pridania dátumu."
+    "devnote": "Rýchlosť sa zlepšila."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "Izboljšan pregledovalnik PDF in funkcije za pretvorbo slik PDF.\nKriteriji za razvrščanje zaznamkov so bili spremenjeni na lokacijo namesto dodanega datuma."
+    "devnote": "Hitrost je izboljšana."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "වැඩිදියුණු කළ PDF නරඹන්නා සහ PDF රූප පරිවර්තන කාර්යයන්.\nඑකතු කරන ලද දිනය වෙනුවට ස්ථානයට පිටු සලකුණු වර්ග කිරීමේ නිර්ණායක වෙනස් කරන ලදී."
+    "devnote": "වේගය වැඩි දියුණු කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "تحسين عارض PDF ووظائف تحويل صور PDF.\nتم تغيير معايير فرز الإشارات المرجعية إلى الموقع بدلاً من تاريخ الإضافة."
+    "devnote": "تم تحسين السرعة."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "Բարելավված PDF դիտող և PDF պատկերների փոխակերպման գործառույթներ:\nԱվելացված ամսաթվի փոխարեն էջանիշների տեսակավորման չափանիշները փոխվել են ըստ գտնվելու վայրի:"
+    "devnote": "Արագությունը բարելավվել է."
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "Bætt PDF skoðara og PDF myndumbreytingaraðgerðir.\nBreytti flokkunarskilyrðum bókamerkja í staðsetningu í stað þess að bæta við dagsetningu."
+    "devnote": "Hraðinn hefur verið bættur."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "Təkmilləşdirilmiş PDF görüntüləyicisi və PDF şəklini çevirmə funksiyaları.\nƏlfəcin çeşidləmə meyarları əlavə edilmiş tarix əvəzinə məkana dəyişdirildi."
+    "devnote": "Sürət yaxşılaşdırılıb."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "Verbeterde PDF-kyker en PDF-beeldomskakelingsfunksies.\nVerander boekmerksorteringkriteria na ligging in plaas van bygevoegde datum."
+    "devnote": "Spoed is verbeter."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "Funksionet e përmirësuara të shikuesit PDF dhe konvertimit të imazheve PDF.\nKriteret e renditjes së faqeshënuesve u ndryshuan në vendndodhje në vend të datës së shtuar."
+    "devnote": "Shpejtësia është përmirësuar."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "የተሻሻለ ፒዲኤፍ መመልከቻ እና ፒዲኤፍ ምስል የመቀየር ተግባራት።\nየዕልባት መደርደር መስፈርት ከታከለበት ቀን ይልቅ ወደ ቦታ ተለውጧል።"
+    "devnote": "ፍጥነት ተሻሽሏል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "Täiustatud PDF-vaaturi ja PDF-pildi teisendamise funktsioonid.\nJärjehoidjate sortimise kriteeriumiks muudeti lisamise kuupäeva asemel asukoht."
+    "devnote": "Kiirus on paranenud."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "بہتر پی ڈی ایف ویور اور پی ڈی ایف امیج کنورژن فنکشنز۔\nبک مارک کی چھانٹی کے معیار کو شامل کی گئی تاریخ کے بجائے مقام میں تبدیل کر دیا گیا۔"
+    "devnote": "رفتار کو بہتر بنایا گیا ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "Покращено функцію перегляду PDF-файлів і перетворення зображень PDF.\nКритерії сортування закладок змінено на місце розташування замість доданої дати."
+    "devnote": "Швидкість була покращена."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "Visualizzatore PDF migliorato e funzioni di conversione di immagini PDF.\nCriteri di ordinamento dei segnalibri modificati in posizione anziché data aggiunta."
+    "devnote": "La velocità è stata migliorata."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "Peningkatan fungsi penampil PDF dan konversi gambar PDF.\nMengubah kriteria penyortiran bookmark menjadi lokasi, bukan tanggal tambahan."
+    "devnote": "Kecepatan telah ditingkatkan."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "PDFビューアおよびPDF画像変換機能を強化しました。\nブックマークの並べ替え基準を追加日ではなく場所に変更しました。"
+    "devnote": "速度が向上しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "გაუმჯობესებული PDF მაყურებლის და PDF სურათის კონვერტაციის ფუნქციები.\nსანიშნეების დახარისხების კრიტერიუმები შეიცვალა ადგილმდებარეობის ნაცვლად დამატებული თარიღის ნაცვლად."
+    "devnote": "სიჩქარე გაუმჯობესებულია."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "Isibukeli se-PDF esithuthukisiwe nemisebenzi yokuguqula isithombe se-PDF.\nKushintshwe indlela yokuhlunga yebhukhimakhi yaba indawo esikhundleni sosuku olungeziwe."
+    "devnote": "Isivinini sithuthukisiwe."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "改进了 PDF 查看器和 PDF 图像转换功能。\n将书签排序标准更改为位置而不是添加日期。"
+    "devnote": "速度得到了提高。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "改進了 PDF 檢視器和 PDF 影像轉換功能。\n將書籤排序標準變更為位置而不是新增日期。"
+    "devnote": "速度得到了提高。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "改進了 PDF 檢視器和 PDF 影像轉換功能。\n將書籤排序標準變更為位置而不是新增日期。"
+    "devnote": "速度得到了提高。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "Vylepšený prohlížeč PDF a funkce konverze obrázků PDF.\nZměněna kritéria řazení záložek na umístění namísto přidání data."
+    "devnote": "Rychlost byla vylepšena."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "Жақсартылған PDF қарау құралы және PDF кескінін түрлендіру функциялары.\nБетбелгі сұрыптау шарты қосылған күннің орнына орынға өзгертілді."
+    "devnote": "Жылдамдық жақсарды."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "Visor de PDF millorat i funcions de conversió d'imatges PDF.\nS'han canviat els criteris d'ordenació de les adreces d'interès a la ubicació en lloc de la data afegida."
+    "devnote": "S'ha millorat la velocitat."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "ಸುಧಾರಿತ PDF ವೀಕ್ಷಕ ಮತ್ತು PDF ಚಿತ್ರ ಪರಿವರ್ತನೆ ಕಾರ್ಯಗಳು.\nಸೇರಿಸಿದ ದಿನಾಂಕದ ಬದಲಿಗೆ ಬುಕ್‌ಮಾರ್ಕ್ ವಿಂಗಡಣೆಯ ಮಾನದಂಡವನ್ನು ಸ್ಥಳಕ್ಕೆ ಬದಲಾಯಿಸಲಾಗಿದೆ."
+    "devnote": "ವೇಗವನ್ನು ಸುಧಾರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "Poboljšani PDF preglednik i funkcije pretvorbe PDF slika.\nKriteriji sortiranja oznaka promijenjeni su na lokaciju umjesto dodanog datuma."
+    "devnote": "Brzina je poboljšana."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "កម្មវិធីមើល PDF ប្រសើរឡើង និងមុខងារបំប្លែងរូបភាព PDF ។\nបានផ្លាស់ប្តូរលក្ខណៈវិនិច្ឆ័យតម្រៀបចំណាំទៅទីតាំងជំនួសឱ្យកាលបរិច្ឆេទដែលបានបន្ថែម។"
+    "devnote": "ល្បឿនត្រូវបានធ្វើឱ្យប្រសើរឡើង។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "Жакшыртылган PDF көрүүчү жана PDF сүрөтүн өзгөртүү функциялары.\nКыстармаларды сорттоо критерийлери кошулган күндүн ордуна жайгашкан жерге өзгөртүлдү."
+    "devnote": "Ылдамдыгы жакшырды."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "மேம்படுத்தப்பட்ட PDF பார்வையாளர் மற்றும் PDF பட மாற்ற செயல்பாடுகள்.\nபுக்மார்க் வரிசையாக்க அளவுகோல் சேர்க்கப்பட்ட தேதிக்கு பதிலாக இருப்பிடத்திற்கு மாற்றப்பட்டது."
+    "devnote": "வேகம் மேம்படுத்தப்பட்டுள்ளது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "ปรับปรุงฟังก์ชันโปรแกรมดู PDF และการแปลงรูปภาพ PDF\nเปลี่ยนเกณฑ์การเรียงลำดับบุ๊กมาร์กเป็นตำแหน่งแทนวันที่เพิ่ม"
+    "devnote": "ความเร็วได้รับการปรับปรุงแล้ว"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "Geliştirilmiş PDF görüntüleyici ve PDF görüntü dönüştürme işlevleri.\nYer işareti sıralama kriterleri, eklenen tarih yerine konum olarak değiştirildi."
+    "devnote": "Hız iyileştirildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "మెరుగైన PDF వ్యూయర్ మరియు PDF ఇమేజ్ కన్వర్షన్ ఫంక్షన్‌లు.\nజోడించిన తేదీకి బదులుగా బుక్‌మార్క్ సార్టింగ్ ప్రమాణాలు స్థానానికి మార్చబడ్డాయి."
+    "devnote": "వేగం మెరుగుపడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "ਪੀਡੀਐਫ ਦਰਸ਼ਕ ਅਤੇ ਪੀਡੀਐਫ ਚਿੱਤਰ ਪਰਿਵਰਤਨ ਫੰਕਸ਼ਨਾਂ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ।\nਬੁੱਕਮਾਰਕ ਛਾਂਟਣ ਦੇ ਮਾਪਦੰਡ ਨੂੰ ਜੋੜੀ ਗਈ ਮਿਤੀ ਦੀ ਬਜਾਏ ਸਥਾਨ ਵਿੱਚ ਬਦਲਿਆ ਗਿਆ ਹੈ।"
+    "devnote": "ਸਪੀਡ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "نمایشگر PDF و عملکردهای تبدیل تصویر PDF بهبود یافته است.\nمعیارهای مرتب‌سازی نشانک به مکان به جای تاریخ اضافه شده تغییر کرد."
+    "devnote": "سرعت بهبود یافته است."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "Visualizador de PDF aprimorado e funções de conversão de imagem em PDF.\nCritérios de classificação de favoritos alterados para local em vez de data adicionada."
+    "devnote": "A velocidade foi melhorada."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "Ulepszona przeglądarka plików PDF i funkcje konwersji obrazów PDF.\nZmieniono kryteria sortowania zakładek na lokalizację zamiast daty dodania."
+    "devnote": "Poprawiono prędkość."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "Fonctions améliorées de visionneuse PDF et de conversion d’images PDF.\nModification des critères de tri des signets en emplacement au lieu de date ajoutée."
+    "devnote": "La vitesse a été améliorée."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "Parannetut PDF-katseluohjelma ja PDF-kuvan muunnostoiminnot.\nKirjanmerkkien lajittelukriteerit muutettiin sijainniksi lisäyspäivämäärän sijaan."
+    "devnote": "Nopeutta on parannettu."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "Pinahusay na PDF viewer at PDF image conversion function.\nBinago ang pamantayan sa pag-uuri ng bookmark sa lokasyon sa halip na idinagdag na petsa."
+    "devnote": "Ang bilis ay napabuti."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "Továbbfejlesztett PDF-nézegető és PDF-képkonverziós funkciók.\nA könyvjelzők rendezési feltételeit a hozzáadási dátum helyett helyre módosítottuk."
+    "devnote": "A sebesség javult."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "פונקציות משופרות של מציג PDF והמרת תמונות PDF.\nהקריטריונים למיון סימניות שינו למיקום במקום תאריך נוסף."
+    "devnote": "המהירות שופרה."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "बेहतर पीडीएफ व्यूअर और पीडीएफ छवि रूपांतरण कार्य।\nजोड़ी गई तारीख के बजाय बुकमार्क सॉर्टिंग मानदंड को स्थान के अनुसार बदल दिया गया।"
+    "devnote": "गति में सुधार किया गया है."
   }
 }
