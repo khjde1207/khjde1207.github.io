@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "Speed ​​has been improved."
+    "devnote": "Speed ​​has been improved by improving the viewer algorithm."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "속도를 개선 하였습니다."
+    "devnote": "뷰어 알고리즘을 개선하여 속도를 개선 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "Mellorouse a velocidade."
+    "devnote": "Mellorouse a velocidade mellorando o algoritmo do visor."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "ઝડપમાં સુધારો કરવામાં આવ્યો છે."
+    "devnote": "દર્શક અલ્ગોરિધમમાં સુધારો કરીને ઝડપમાં સુધારો કરવામાં આવ્યો છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "Η ταχύτητα έχει βελτιωθεί."
+    "devnote": "Η ταχύτητα έχει βελτιωθεί με τη βελτίωση του αλγόριθμου προβολής."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "De snelheid is verbeterd."
+    "devnote": "De snelheid is verbeterd door het vieweralgoritme te verbeteren."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "गति सुधार गरिएको छ।"
+    "devnote": "दर्शक एल्गोरिथ्म सुधार गरेर गति सुधार गरिएको छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "Hastigheten er forbedret."
+    "devnote": "Hastigheten har blitt forbedret ved å forbedre seeralgoritmen."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "Hastigheden er blevet forbedret."
+    "devnote": "Hastigheden er blevet forbedret ved at forbedre seeralgoritmen."
   },
   "독일어": {
     "key": "de",
-    "devnote": "Die Geschwindigkeit wurde verbessert."
+    "devnote": "Die Geschwindigkeit wurde durch die Verbesserung des Viewer-Algorithmus verbessert."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "ຄວາມໄວໄດ້ຖືກປັບປຸງ."
+    "devnote": "ຄວາມ​ໄວ​ໄດ້​ຮັບ​ການ​ປັບ​ປຸງ​ໂດຍ​ການ​ປັບ​ປຸງ​ວິ​ທີ​ການ viewer​."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "Ātrums ir uzlabots."
+    "devnote": "Ātrums ir uzlabots, uzlabojot skatītāja algoritmu."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "Скорость была улучшена."
+    "devnote": "Скорость была улучшена за счет улучшения алгоритма просмотра."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "Viteza a fost îmbunătățită."
+    "devnote": "Viteza a fost îmbunătățită prin îmbunătățirea algoritmului de vizualizare."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "Greitis buvo pagerintas."
+    "devnote": "Greitis buvo pagerintas patobulinus žiūrovo algoritmą."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "गती सुधारली आहे."
+    "devnote": "दर्शक अल्गोरिदम सुधारून गती सुधारली आहे."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "Брзината е подобрена."
+    "devnote": "Брзината е подобрена со подобрување на алгоритмот за гледање."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "വേഗത മെച്ചപ്പെട്ടു."
+    "devnote": "വ്യൂവർ അൽഗോരിതം മെച്ചപ്പെടുത്തി സ്പീഡ് മെച്ചപ്പെടുത്തി."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "Kelajuan telah dipertingkatkan."
+    "devnote": "Kelajuan telah dipertingkatkan dengan menambah baik algoritma penonton."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "Хурд сайжирсан."
+    "devnote": "Үзэгчийн алгоритмыг сайжруулснаар хурд сайжирсан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "Abiadura hobetu da."
+    "devnote": "Abiadura hobetu da ikuslearen algoritmoa hobetuz."
   },
   "버마어": {
     "key": "my",
-    "devnote": "အရှိန်မြှင့်လိုက်သည်။"
+    "devnote": "ကြည့်ရှုသူ အယ်လဂိုရီသမ်ကို မြှင့်တင်ခြင်းဖြင့် မြန်နှုန်းကို မြှင့်တင်ထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "Tốc độ đã được cải thiện."
+    "devnote": "Tốc độ đã được cải thiện bằng cách cải thiện thuật toán của người xem."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "Хуткасць была палепшана."
+    "devnote": "Хуткасць была палепшана за кошт паляпшэння алгарытму прагляду."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "গতি উন্নত করা হয়েছে।"
+    "devnote": "ভিউয়ার অ্যালগরিদম উন্নত করে গতি উন্নত করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "Скоростта е подобрена."
+    "devnote": "Скоростта е подобрена чрез подобряване на алгоритъма за преглед."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "Брзина је побољшана."
+    "devnote": "Брзина је побољшана побољшањем алгоритма за гледање."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "Kasi imeboreshwa."
+    "devnote": "Kasi imeboreshwa kwa kuboresha algoriti ya mtazamaji."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "Hastigheten har förbättrats."
+    "devnote": "Hastigheten har förbättrats genom att förbättra tittaralgoritmen."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "Se ha mejorado la velocidad."
+    "devnote": "Se ha mejorado la velocidad mejorando el algoritmo del visor."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "Rýchlosť sa zlepšila."
+    "devnote": "Rýchlosť sa zlepšila vylepšením algoritmu prehliadača."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "Hitrost je izboljšana."
+    "devnote": "Hitrost je bila izboljšana z izboljšanjem algoritma pregledovalnika."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "වේගය වැඩි දියුණු කර ඇත."
+    "devnote": "නරඹන්නන්ගේ ඇල්ගොරිතම වැඩිදියුණු කිරීමෙන් වේගය වැඩි දියුණු කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "تم تحسين السرعة."
+    "devnote": "تم تحسين السرعة من خلال تحسين خوارزمية المشاهد."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "Արագությունը բարելավվել է."
+    "devnote": "Արագությունը բարելավվել է՝ բարելավելով դիտողի ալգորիթմը:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "Hraðinn hefur verið bættur."
+    "devnote": "Hraði hefur verið bættur með því að bæta reiknirit áhorfenda."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "Sürət yaxşılaşdırılıb."
+    "devnote": "Sürət tamaşaçı alqoritmini təkmilləşdirməklə yaxşılaşdırılıb."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "Spoed is verbeter."
+    "devnote": "Spoed is verbeter deur die kykeralgoritme te verbeter."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "Shpejtësia është përmirësuar."
+    "devnote": "Shpejtësia është përmirësuar duke përmirësuar algoritmin e shikuesit."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "ፍጥነት ተሻሽሏል።"
+    "devnote": "የተመልካች ስልተ ቀመር በማሻሻል ፍጥነት ተሻሽሏል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "Kiirus on paranenud."
+    "devnote": "Kiirust on parandatud vaataja algoritmi täiustamisega."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "رفتار کو بہتر بنایا گیا ہے۔"
+    "devnote": "ناظرین کے الگورتھم کو بہتر بنا کر رفتار کو بہتر بنایا گیا ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "Швидкість була покращена."
+    "devnote": "Швидкість була покращена завдяки вдосконаленню алгоритму перегляду."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "La velocità è stata migliorata."
+    "devnote": "La velocità è stata migliorata migliorando l'algoritmo del visualizzatore."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "Kecepatan telah ditingkatkan."
+    "devnote": "Kecepatan telah ditingkatkan dengan meningkatkan algoritma penampil."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "速度が向上しました。"
+    "devnote": "ビューアアルゴリズムの改善により速度が向上しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "სიჩქარე გაუმჯობესებულია."
+    "devnote": "სიჩქარე გაუმჯობესდა მაყურებლის ალგორითმის გაუმჯობესებით."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "Isivinini sithuthukisiwe."
+    "devnote": "Isivinini sithuthukisiwe ngokuthuthukisa i-algorithm yesibukeli."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "速度得到了提高。"
+    "devnote": "通过改进查看器算法提高了速度。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "速度得到了提高。"
+    "devnote": "透過改進檢視器演算法提高了速度。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "速度得到了提高。"
+    "devnote": "透過改進檢視器演算法提高了速度。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "Rychlost byla vylepšena."
+    "devnote": "Rychlost byla zlepšena vylepšením algoritmu prohlížeče."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "Жылдамдық жақсарды."
+    "devnote": "Көру алгоритмін жақсарту арқылы жылдамдық жақсарды."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "S'ha millorat la velocitat."
+    "devnote": "S'ha millorat la velocitat millorant l'algoritme del visor."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "ವೇಗವನ್ನು ಸುಧಾರಿಸಲಾಗಿದೆ."
+    "devnote": "ವೀಕ್ಷಕರ ಅಲ್ಗಾರಿದಮ್ ಅನ್ನು ಸುಧಾರಿಸುವ ಮೂಲಕ ವೇಗವನ್ನು ಸುಧಾರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "Brzina je poboljšana."
+    "devnote": "Brzina je poboljšana poboljšanjem algoritma preglednika."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "ល្បឿនត្រូវបានធ្វើឱ្យប្រសើរឡើង។"
+    "devnote": "ល្បឿនត្រូវបានធ្វើឱ្យប្រសើរឡើងដោយការកែលម្អក្បួនដោះស្រាយកម្មវិធីមើល។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "Ылдамдыгы жакшырды."
+    "devnote": "Көрүүчү алгоритмин жакшыртуу менен ылдамдык жакшыртылды."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "வேகம் மேம்படுத்தப்பட்டுள்ளது."
+    "devnote": "பார்வையாளர் அல்காரிதத்தை மேம்படுத்துவதன் மூலம் வேகம் மேம்படுத்தப்பட்டுள்ளது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "ความเร็วได้รับการปรับปรุงแล้ว"
+    "devnote": "ความเร็วได้รับการปรับปรุงโดยการปรับปรุงอัลกอริทึมของผู้ชม"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "Hız iyileştirildi."
+    "devnote": "Görüntüleyici algoritması geliştirilerek hız artırıldı."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "వేగం మెరుగుపడింది."
+    "devnote": "వీక్షకుల అల్గోరిథం మెరుగుపరచడం ద్వారా వేగం మెరుగుపరచబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "ਸਪੀਡ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ।"
+    "devnote": "ਦਰਸ਼ਕ ਐਲਗੋਰਿਦਮ ਵਿੱਚ ਸੁਧਾਰ ਕਰਕੇ ਸਪੀਡ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "سرعت بهبود یافته است."
+    "devnote": "سرعت با بهبود الگوریتم بیننده بهبود یافته است."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "A velocidade foi melhorada."
+    "devnote": "A velocidade foi melhorada melhorando o algoritmo do visualizador."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "Poprawiono prędkość."
+    "devnote": "Szybkość została poprawiona poprzez ulepszenie algorytmu przeglądarki."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "La vitesse a été améliorée."
+    "devnote": "La vitesse a été améliorée en améliorant l'algorithme de visualisation."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "Nopeutta on parannettu."
+    "devnote": "Nopeutta on parannettu parantamalla katselualgoritmia."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "Ang bilis ay napabuti."
+    "devnote": "Ang bilis ay napabuti sa pamamagitan ng pagpapabuti ng algorithm ng viewer."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "A sebesség javult."
+    "devnote": "A sebesség javult a néző algoritmusának javításával."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "המהירות שופרה."
+    "devnote": "המהירות שופרה על ידי שיפור אלגוריתם הצופה."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "गति में सुधार किया गया है."
+    "devnote": "व्यूअर एल्गोरिथम में सुधार करके गति में सुधार किया गया है।"
   }
 }
