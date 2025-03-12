@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "Speed ​​has been improved by improving the viewer algorithm."
+    "devnote": "- Fixed a bug where it would sometimes not move to the next file even after reaching the last page.\n- When selecting all files in My Library, they are now selected based on the sorted order.\n- Added the [Range Selection] function to My Library.\n- Added the [Sort by Name] function to the file merge function."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "뷰어 알고리즘을 개선하여 속도를 개선 하였습니다."
+    "devnote": "- 간혹 끝페이지 도달해도 다음 파일로 안넘어가던 버그를 수정 하였습니다.   \n- 내서재 파일 전체 선택시 정렬된 순서 기준으로 선택 되도록 하였습니다. \n- 내서재 [범위 선택] 기능을 추가 하였습니다. \n- 파일 합치기 기능에 [이름순 정렬] 기능을 추가 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "Mellorouse a velocidade mellorando o algoritmo do visor."
+    "devnote": "- Corrixiuse un erro polo que ás veces non se movía ao seguinte ficheiro mesmo despois de chegar á última páxina.\n- Ao seleccionar todos os ficheiros en A miña biblioteca, agora se seleccionan en función da orde ordenada.\n- Engadiuse a función [Selección de intervalo] a A miña biblioteca.\n- Engadiuse a función [Ordenar por nome] á función de combinación de ficheiros."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "દર્શક અલ્ગોરિધમમાં સુધારો કરીને ઝડપમાં સુધારો કરવામાં આવ્યો છે."
+    "devnote": "- એક બગને ઠીક કર્યો જ્યાં તે કેટલીકવાર છેલ્લા પૃષ્ઠ પર પહોંચ્યા પછી પણ આગલી ફાઇલ પર ન જાય.\n- માય લાઇબ્રેરીમાં બધી ફાઇલો પસંદ કરતી વખતે, તે હવે સૉર્ટ કરેલા ક્રમના આધારે પસંદ કરવામાં આવે છે.\n- મારી લાઇબ્રેરીમાં [રેન્જ સિલેક્શન] ફંક્શન ઉમેર્યું.\n- ફાઇલ મર્જ ફંક્શનમાં [સોર્ટ બાય નેમ] ફંક્શન ઉમેર્યું."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "Η ταχύτητα έχει βελτιωθεί με τη βελτίωση του αλγόριθμου προβολής."
+    "devnote": "- Διορθώθηκε ένα σφάλμα όπου μερικές φορές δεν μετακινούνταν στο επόμενο αρχείο ακόμα και μετά την άφιξη στην τελευταία σελίδα.\n- Κατά την επιλογή όλων των αρχείων στο My Library, επιλέγονται πλέον με βάση τη σειρά ταξινόμησης.\n- Προστέθηκε η λειτουργία [Επιλογή εύρους] στη Βιβλιοθήκη μου.\n- Προστέθηκε η λειτουργία [Ταξινόμηση κατά Όνομα] στη λειτουργία συγχώνευσης αρχείων."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "De snelheid is verbeterd door het vieweralgoritme te verbeteren."
+    "devnote": "- Een bug opgelost waarbij het soms niet naar het volgende bestand ging, zelfs niet nadat het de laatste pagina had bereikt.\n- Wanneer u alle bestanden in Mijn bibliotheek selecteert, worden ze nu geselecteerd op basis van de gesorteerde volgorde.\n- De functie [Bereikselectie] toegevoegd aan Mijn bibliotheek.\n- De functie [Sorteren op naam] toegevoegd aan de functie voor het samenvoegen van bestanden."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "दर्शक एल्गोरिथ्म सुधार गरेर गति सुधार गरिएको छ।"
+    "devnote": "- बग फिक्स गरियो जहाँ यो कहिलेकाहीँ अन्तिम पृष्ठमा पुग्दा पनि अर्को फाइलमा सर्दैन।\n- मेरो पुस्तकालयमा सबै फाइलहरू चयन गर्दा, तिनीहरू अब क्रमबद्ध क्रमको आधारमा चयन गरिएका छन्।\n- मेरो पुस्तकालयमा [दायरा चयन] प्रकार्य थपियो।\n- फाइल मर्ज प्रकार्यमा [Sort by Name] प्रकार्य थपियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "Hastigheten har blitt forbedret ved å forbedre seeralgoritmen."
+    "devnote": "- Rettet en feil der den noen ganger ikke flyttet til neste fil selv etter å ha nådd siste side.\n- Når du velger alle filer i Mitt bibliotek, velges de nå basert på sortert rekkefølge.\n- Lagt til funksjonen [Range Selection] i Mitt bibliotek.\n- Lagt til funksjonen [Sorter etter navn] i filsammenslåingsfunksjonen."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "Hastigheden er blevet forbedret ved at forbedre seeralgoritmen."
+    "devnote": "- Rettede en fejl, hvor den nogle gange ikke ville flytte til den næste fil, selv efter at have nået den sidste side.\n- Når du vælger alle filer i Mit bibliotek, vælges de nu ud fra den sorterede rækkefølge.\n- Føjede funktionen [Range Selection] til Mit bibliotek.\n- Tilføjet funktionen [Sortér efter navn] til filfletningsfunktionen."
   },
   "독일어": {
     "key": "de",
-    "devnote": "Die Geschwindigkeit wurde durch die Verbesserung des Viewer-Algorithmus verbessert."
+    "devnote": "- Es wurde ein Fehler behoben, bei dem manchmal nicht zur nächsten Datei gewechselt wurde, selbst wenn die letzte Seite erreicht war.\n- Bei der Auswahl aller Dateien in „Meine Bibliothek“ werden diese jetzt basierend auf der sortierten Reihenfolge ausgewählt.\n- Die Funktion [Bereichsauswahl] wurde zu „Meine Bibliothek“ hinzugefügt.\n- Die Funktion [Nach Namen sortieren] wurde zur Funktion zum Zusammenführen von Dateien hinzugefügt."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "ຄວາມ​ໄວ​ໄດ້​ຮັບ​ການ​ປັບ​ປຸງ​ໂດຍ​ການ​ປັບ​ປຸງ​ວິ​ທີ​ການ viewer​."
+    "devnote": "- ແກ້ໄຂຂໍ້ຜິດພາດທີ່ບາງຄັ້ງມັນຈະບໍ່ຍ້າຍໄປໄຟລ໌ຕໍ່ໄປເຖິງແມ່ນວ່າຫຼັງຈາກເຖິງຫນ້າສຸດທ້າຍ.\n- ໃນ​ເວ​ລາ​ທີ່​ເລືອກ​ໄຟລ​໌​ທັງ​ຫມົດ​ໃນ​ຫໍ​ສະ​ຫມຸດ​ຂອງ​ຂ້າ​ພະ​ເຈົ້າ​, ພວກ​ເຂົາ​ເຈົ້າ​ໄດ້​ຖືກ​ຄັດ​ເລືອກ​ໃນ​ປັດ​ຈຸ​ບັນ​ໂດຍ​ອີງ​ໃສ່​ການ​ຈັດ​ລຽງ​ລໍາ​ດັບ​.\n- ເພີ່ມ​ການ​ທໍາ​ງານ [ການ​ຄັດ​ເລືອກ​ໄລ​ຍະ​] ກັບ​ຫໍ​ສະ​ຫມຸດ​ຂອງ​ຂ້າ​ພະ​ເຈົ້າ​.\n- ໄດ້​ເພີ່ມ​ການ​ທໍາ​ງານ [ຄັດ​ໂດຍ​ຊື່​] ການ​ທໍາ​ງານ​ການ​ລວມ​ໄຟລ​໌​."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "Ātrums ir uzlabots, uzlabojot skatītāja algoritmu."
+    "devnote": "- Novērsta kļūda, kuras dēļ tas dažreiz netika pārvietots uz nākamo failu pat pēc pēdējās lapas sasniegšanas.\n- Atlasot visus failus sadaļā Mana bibliotēka, tie tagad tiek atlasīti, pamatojoties uz sakārtoto secību.\n- Manai bibliotēkai ir pievienota funkcija [Range Selection].\n- Failu sapludināšanas funkcijai ir pievienota funkcija [Sort by Name]."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "Скорость была улучшена за счет улучшения алгоритма просмотра."
+    "devnote": "- Исправлена ​​ошибка, из-за которой иногда не переходил к следующему файлу даже после достижения последней страницы.\n— При выборе всех файлов в «Моей библиотеке» они теперь выбираются в отсортированном порядке.\n- В «Мою библиотеку» добавлена ​​функция [Выбор диапазона].\n- В функцию объединения файлов добавлена ​​функция [Сортировать по имени]."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "Viteza a fost îmbunătățită prin îmbunătățirea algoritmului de vizualizare."
+    "devnote": "- S-a remediat o eroare în care uneori nu se trecea la următorul fișier chiar și după ce ajungea la ultima pagină.\n- Când selectați toate fișierele din Biblioteca mea, acestea sunt acum selectate în funcție de ordinea sortată.\n- S-a adăugat funcția [Selectare interval] la Biblioteca mea.\n- S-a adăugat funcția [Sort by Name] la funcția de îmbinare a fișierelor."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "Greitis buvo pagerintas patobulinus žiūrovo algoritmą."
+    "devnote": "- Ištaisyta klaida, dėl kurios ji kartais neperkeliama į kitą failą net pasiekus paskutinį puslapį.\n– Pasirinkus visus failus Mano bibliotekoje, jie dabar pasirenkami pagal rūšiavimo tvarką.\n- Prie Mano bibliotekos pridėta funkcija [Range Selection].\n- Prie failų sujungimo funkcijos pridėta funkcija [Rūšiuoti pagal pavadinimą]."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "दर्शक अल्गोरिदम सुधारून गती सुधारली आहे."
+    "devnote": "- बगचे निराकरण केले आहे जेथे ते काहीवेळा शेवटच्या पानावर पोहोचल्यानंतरही पुढील फाइलवर हलणार नाही.\n- माय लायब्ररीमधील सर्व फायली निवडताना, त्या आता क्रमवारीनुसार निवडल्या जातात.\n- माय लायब्ररीमध्ये [श्रेणी निवड] फंक्शन जोडले.\n- फाइल मर्ज फंक्शनमध्ये [नामानुसार क्रमवारी लावा] फंक्शन जोडले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "Брзината е подобрена со подобрување на алгоритмот за гледање."
+    "devnote": "- Поправена грешка каде што понекогаш не се префрла на следната датотека дури и откако ќе стигне до последната страница.\n- При изборот на сите датотеки во Моја библиотека, тие сега се избираат врз основа на подредениот редослед.\n- Додадена е функцијата [Избор на опсег] во Моја библиотека.\n- Додадена е функцијата [Sort by Name] во функцијата за спојување датотеки."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "വ്യൂവർ അൽഗോരിതം മെച്ചപ്പെടുത്തി സ്പീഡ് മെച്ചപ്പെടുത്തി."
+    "devnote": "- അവസാന പേജിൽ എത്തിയിട്ടും ചിലപ്പോൾ അടുത്ത ഫയലിലേക്ക് നീങ്ങാത്ത ഒരു ബഗ് പരിഹരിച്ചു.\n- എൻ്റെ ലൈബ്രറിയിലെ എല്ലാ ഫയലുകളും തിരഞ്ഞെടുക്കുമ്പോൾ, അടുക്കിയ ക്രമത്തെ അടിസ്ഥാനമാക്കിയാണ് അവ ഇപ്പോൾ തിരഞ്ഞെടുക്കുന്നത്.\n- എൻ്റെ ലൈബ്രറിയിലേക്ക് [റേഞ്ച് സെലക്ഷൻ] ഫംഗ്‌ഷൻ ചേർത്തു.\n- ഫയൽ മെർജ് ഫംഗ്‌ഷനിലേക്ക് [പേര് പ്രകാരം അടുക്കുക] ഫംഗ്‌ഷൻ ചേർത്തു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "Kelajuan telah dipertingkatkan dengan menambah baik algoritma penonton."
+    "devnote": "- Memperbaiki pepijat yang kadangkala tidak akan berpindah ke fail seterusnya walaupun selepas mencapai halaman terakhir.\n- Apabila memilih semua fail dalam Pustaka Saya, ia kini dipilih berdasarkan susunan yang diisih.\n- Menambah fungsi [Pilihan Julat] pada Pustaka Saya.\n- Menambah fungsi [Isih mengikut Nama] pada fungsi gabungan fail."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "Үзэгчийн алгоритмыг сайжруулснаар хурд сайжирсан."
+    "devnote": "- Сүүлийн хуудсанд хүрсэн ч гэсэн заримдаа дараагийн файл руу шилжихгүй байсан алдааг зассан.\n- Миний номын сан дахь бүх файлыг сонгохдоо тэдгээрийг эрэмбэлэгдсэн дарааллаар нь сонгоно.\n- Миний номын санд [Range Selection] функцийг нэмсэн.\n- Файл нэгтгэх функцэд [Нэрээр эрэмбэлэх] функцийг нэмсэн."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "Abiadura hobetu da ikuslearen algoritmoa hobetuz."
+    "devnote": "- Akats bat konpondu da, non batzuetan ez baitzen hurrengo fitxategira mugitzen azken orrialdera iritsi arren.\n- Nire liburutegiko fitxategi guztiak hautatzen dituzunean, orain ordenatutako ordenaren arabera hautatzen dira.\n- [Barrutiaren hautaketa] funtzioa gehitu da Nire liburutegian.\n- [Izenaren arabera ordenatu] funtzioa gehitu da fitxategi batuketa funtzioari."
   },
   "버마어": {
     "key": "my",
-    "devnote": "ကြည့်ရှုသူ အယ်လဂိုရီသမ်ကို မြှင့်တင်ခြင်းဖြင့် မြန်နှုန်းကို မြှင့်တင်ထားသည်။"
+    "devnote": "- နောက်ဆုံးစာမျက်နှာသို့ရောက်သည်နှင့်ပင် တစ်ခါတစ်ရံတွင် နောက်ဖိုင်သို့မရွှေ့နိုင်သည့် bug ကို ပြင်ဆင်ပါ။\n- ကျွန်ုပ်၏စာကြည့်တိုက်ရှိ ဖိုင်အားလုံးကို ရွေးသောအခါ၊ ၎င်းတို့ကို စီထားသည့်အစီအစဥ်အပေါ် အခြေခံ၍ ရွေးချယ်လိုက်ပါသည်။\n- My Library သို့ [Range Selection] လုပ်ဆောင်ချက်ကို ထည့်သွင်းခဲ့သည်။\n- ဖိုင်ပေါင်းစည်းခြင်းလုပ်ဆောင်ချက်တွင် [Sort by Name] လုပ်ဆောင်ချက်ကို ထည့်သွင်းခဲ့သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "Tốc độ đã được cải thiện bằng cách cải thiện thuật toán của người xem."
+    "devnote": "- Đã sửa lỗi đôi khi không chuyển sang tệp tiếp theo ngay cả khi đã đến trang cuối cùng.\n- Khi chọn tất cả các tệp trong Thư viện của tôi, chúng hiện được chọn dựa trên thứ tự sắp xếp.\n- Đã thêm chức năng [Lựa chọn phạm vi] vào Thư viện của tôi.\n- Đã thêm chức năng [Sắp xếp theo tên] vào chức năng hợp nhất tệp."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "Хуткасць была палепшана за кошт паляпшэння алгарытму прагляду."
+    "devnote": "- Выпраўлена памылка, з-за якой часам не пераходзіў да наступнага файла нават пасля дасягнення апошняй старонкі.\n- Пры выбары ўсіх файлаў у маёй бібліятэцы яны цяпер выбіраюцца ў парадку сартавання.\n- Дададзена функцыя [Выбар дыяпазону] у Маю бібліятэку.\n- Дададзена функцыя [Сартаваць па імені] да функцыі аб'яднання файлаў."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "ভিউয়ার অ্যালগরিদম উন্নত করে গতি উন্নত করা হয়েছে।"
+    "devnote": "- একটি বাগ সংশোধন করা হয়েছে যেখানে এটি কখনও কখনও শেষ পৃষ্ঠায় পৌঁছানোর পরেও পরবর্তী ফাইলে যেতে পারে না।\n- আমার লাইব্রেরিতে সমস্ত ফাইল নির্বাচন করার সময়, সেগুলি এখন সাজানো ক্রম অনুসারে নির্বাচন করা হয়।\n- আমার লাইব্রেরিতে [রেঞ্জ সিলেকশন] ফাংশন যোগ করা হয়েছে।\n- ফাইল মার্জ ফাংশনে [Sort by Name] ফাংশন যোগ করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "Скоростта е подобрена чрез подобряване на алгоритъма за преглед."
+    "devnote": "- Поправена е грешка, при която понякога не се премества към следващия файл дори след достигане на последната страница.\n- Когато избирате всички файлове в Моята библиотека, те вече се избират въз основа на сортирания ред.\n- Добавена е функцията [Избор на диапазон] към Моята библиотека.\n- Добавена е функцията [Сортиране по име] към функцията за обединяване на файлове."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "Брзина је побољшана побољшањем алгоритма за гледање."
+    "devnote": "- Исправљена грешка у којој се понекад не би померио на следећу датотеку чак ни након што дође до последње странице.\n- Када изаберете све датотеке у Ми Либрари, оне се сада бирају на основу сортираног редоследа.\n- Додата функција [Избор опсега] у Моју библиотеку.\n- Додата функција [Сорт би Наме] у функцију спајања датотека."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "Kasi imeboreshwa kwa kuboresha algoriti ya mtazamaji."
+    "devnote": "- Imerekebisha hitilafu ambapo wakati mwingine haingehamia kwenye faili inayofuata hata baada ya kufikia ukurasa wa mwisho.\n- Wakati wa kuchagua faili zote kwenye Maktaba Yangu, sasa zimechaguliwa kulingana na mpangilio uliopangwa.\n- Aliongeza [Uteuzi wa Masafa] kwenye Maktaba Yangu.\n- Imeongeza kitendakazi cha [Panga kwa Jina] kwenye kitendakazi cha kuunganisha faili."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "Hastigheten har förbättrats genom att förbättra tittaralgoritmen."
+    "devnote": "- Fixade en bugg där den ibland inte flyttade till nästa fil även efter att ha nått sista sidan.\n- När du väljer alla filer i Mitt bibliotek väljs de nu utifrån den sorterade ordningen.\n- Lade till funktionen [Range Selection] i Mitt bibliotek.\n- Lade till funktionen [Sortera efter namn] i filsammanfogningsfunktionen."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "Se ha mejorado la velocidad mejorando el algoritmo del visor."
+    "devnote": "- Se corrigió un error por el cual a veces no pasaba al siguiente archivo incluso después de llegar a la última página.\n- Al seleccionar todos los archivos en Mi biblioteca, ahora se seleccionan según el orden de clasificación.\n- Se agregó la función [Selección de rango] a Mi biblioteca.\n- Se agregó la función [Ordenar por nombre] a la función de combinación de archivos."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "Rýchlosť sa zlepšila vylepšením algoritmu prehliadača."
+    "devnote": "- Opravená chyba, kedy sa niekedy neposunul na ďalší súbor ani po dosiahnutí poslednej strany.\n- Pri výbere všetkých súborov v Mojej knižnici sa teraz vyberú na základe zoradeného poradia.\n- Pridaná funkcia [Výber rozsahu] do Mojej knižnice.\n- Pridaná funkcia [Sort by Name] do funkcie zlúčenia súborov."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "Hitrost je bila izboljšana z izboljšanjem algoritma pregledovalnika."
+    "devnote": "- Odpravljena je napaka, pri kateri se včasih ne premakne na naslednjo datoteko, tudi ko doseže zadnjo stran.\n- Ko izberete vse datoteke v Moji knjižnici, so zdaj izbrane glede na razvrščeni vrstni red.\n- V mojo knjižnico je dodana funkcija [Range Selection].\n- Dodana funkcija [Razvrsti po imenu] funkciji spajanja datotek."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "නරඹන්නන්ගේ ඇල්ගොරිතම වැඩිදියුණු කිරීමෙන් වේගය වැඩි දියුණු කර ඇත."
+    "devnote": "- අවසාන පිටුවට ළඟා වූ පසුව පවා එය සමහර විට ඊළඟ ගොනුව වෙත ගෙන නොයන දෝෂයක් නිරාකරණය කර ඇත.\n- My Library හි සියලුම ගොනු තෝරාගැනීමේදී, ඒවා වර්ග කළ අනුපිළිවෙල අනුව දැන් තෝරා ගනු ලැබේ.\n- මගේ පුස්තකාලයට [පරාස තේරීම] ශ්‍රිතය එක් කරන ලදී.\n- ගොනු ඒකාබද්ධ කිරීමේ කාර්යයට [නම අනුව වර්ග කරන්න] ශ්‍රිතය එක් කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "تم تحسين السرعة من خلال تحسين خوارزمية المشاهد."
+    "devnote": "- تم إصلاح الخلل حيث لا ينتقل في بعض الأحيان إلى الملف التالي حتى بعد الوصول إلى الصفحة الأخيرة.\n- عند تحديد جميع الملفات في مكتبتي، يتم تحديدها الآن بناءً على الترتيب الذي تم فرزه.\n- تمت إضافة وظيفة [اختيار النطاق] إلى مكتبتي.\n- تمت إضافة وظيفة [الفرز حسب الاسم] إلى وظيفة دمج الملفات."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "Արագությունը բարելավվել է՝ բարելավելով դիտողի ալգորիթմը:"
+    "devnote": "- Շտկվել է սխալ, որտեղ այն երբեմն չէր տեղափոխվում հաջորդ ֆայլ նույնիսկ վերջին էջին հասնելուց հետո:\n- Իմ գրադարանի բոլոր ֆայլերը ընտրելիս այժմ դրանք ընտրվում են ըստ տեսակավորված հերթականության:\n- Ավելացրել է [Range Selection] ֆունկցիան Իմ գրադարանում:\n- Ավելացրել է [Sort by Name] ֆունկցիան ֆայլերի միաձուլման գործառույթին:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "Hraði hefur verið bættur með því að bæta reiknirit áhorfenda."
+    "devnote": "- Lagaði villu þar sem hún færðist stundum ekki í næstu skrá jafnvel eftir að hún var komin á síðustu síðu.\n- Þegar allar skrár eru valdar í bókasafninu mínu eru þær nú valdar út frá röðinni.\n- Bætti aðgerðinni [Range Selection] við bókasafnið mitt.\n- Bætti [Raða eftir nafni] aðgerðinni við skráarsamrunaaðgerðina."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "Sürət tamaşaçı alqoritmini təkmilləşdirməklə yaxşılaşdırılıb."
+    "devnote": "- Son səhifəyə çatdıqdan sonra belə bəzən növbəti fayla keçməməsi ilə bağlı bir səhv düzəldildi.\n- Kitabxanamdakı bütün faylları seçərkən, onlar indi çeşidlənmiş sıraya əsasən seçilirlər.\n- Kitabxanama [Range Selection] funksiyası əlavə edildi.\n- Fayl birləşmə funksiyasına [Ad görə çeşidlə] funksiyası əlavə edildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "Spoed is verbeter deur die kykeralgoritme te verbeter."
+    "devnote": "- Het 'n fout reggestel waar dit soms nie na die volgende lêer sou beweeg nie, selfs nadat dit die laaste bladsy bereik het.\n- Wanneer alle lêers in My Biblioteek gekies word, word hulle nou gekies op grond van die gesorteerde volgorde.\n- Het die [Reekseleksie]-funksie by My Biblioteek gevoeg.\n- Het die [Sorteer volgens Naam]-funksie by die lêersamevoegingsfunksie gevoeg."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "Shpejtësia është përmirësuar duke përmirësuar algoritmin e shikuesit."
+    "devnote": "- Rregulloi një gabim ku ndonjëherë nuk kalonte në skedarin tjetër edhe pasi të arrinte në faqen e fundit.\n- Kur zgjidhni të gjithë skedarët në Biblioteka ime, ata tani zgjidhen në bazë të renditjes së renditur.\n- U shtua funksioni [Zgjedhja e diapazonit] te Biblioteka ime.\n- Shtoi funksionin [Sort by Name] në funksionin e bashkimit të skedarëve."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "የተመልካች ስልተ ቀመር በማሻሻል ፍጥነት ተሻሽሏል።"
+    "devnote": "- አንዳንድ ጊዜ የመጨረሻው ገጽ ላይ ከደረሰ በኋላ ወደሚቀጥለው ፋይል የማይንቀሳቀስበት ሳንካ ተስተካክሏል።\n- በእኔ ቤተ-መጽሐፍት ውስጥ ያሉትን ሁሉንም ፋይሎች በሚመርጡበት ጊዜ አሁን በተደረደሩት ቅደም ተከተል ተመርጠዋል ።\n- [የክልል ምርጫ] ተግባሩን ወደ የእኔ ቤተ-መጽሐፍት ታክሏል።\n- [በስም ደርድር] ተግባር ወደ ፋይል ውህደት ተግባር ታክሏል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "Kiirust on parandatud vaataja algoritmi täiustamisega."
+    "devnote": "- Parandatud viga, mille korral see mõnikord ei liikunud järgmisele failile isegi pärast viimasele lehele jõudmist.\n- Valides kõik failid jaotises Minu teek, valitakse need nüüd sorteeritud järjekorra alusel.\n- Minu raamatukogusse lisati funktsioon [Range Selection].\n- Failide ühendamise funktsioonile lisati funktsioon [Sort by Name]."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "ناظرین کے الگورتھم کو بہتر بنا کر رفتار کو بہتر بنایا گیا ہے۔"
+    "devnote": "- ایک بگ کو ٹھیک کیا جہاں یہ بعض اوقات آخری صفحہ تک پہنچنے کے بعد بھی اگلی فائل میں نہیں جاتا۔\n- میری لائبریری میں تمام فائلوں کو منتخب کرتے وقت، اب ان کا انتخاب ترتیب شدہ ترتیب کی بنیاد پر کیا جاتا ہے۔\n- میری لائبریری میں [رینج سلیکشن] فنکشن شامل کیا۔\n- فائل مرج فنکشن میں [Sort by Name] فنکشن کو شامل کیا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "Швидкість була покращена завдяки вдосконаленню алгоритму перегляду."
+    "devnote": "— Виправлено помилку, через яку іноді не переходив до наступного файлу навіть після досягнення останньої сторінки.\n— Під час вибору всіх файлів у «Моїй бібліотеці» вони тепер вибираються відповідно до порядку сортування.\n— Додано функцію [Вибір діапазону] в Мою бібліотеку.\n— До функції злиття файлів додано функцію [Сортувати за назвою]."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "La velocità è stata migliorata migliorando l'algoritmo del visualizzatore."
+    "devnote": "- Risolto un bug per il quale a volte non si passava al file successivo anche dopo aver raggiunto l'ultima pagina.\n- Quando si selezionano tutti i file in La mia libreria, ora vengono selezionati in base all'ordine ordinato.\n- Aggiunta la funzione [Selezione intervallo] a La mia libreria.\n- Aggiunta la funzione [Ordina per nome] alla funzione di unione dei file."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "Kecepatan telah ditingkatkan dengan meningkatkan algoritma penampil."
+    "devnote": "- Memperbaiki bug yang terkadang tidak berpindah ke file berikutnya bahkan setelah mencapai halaman terakhir.\n- Saat memilih semua file di Perpustakaanku, file tersebut sekarang dipilih berdasarkan urutan yang diurutkan.\n- Menambahkan fungsi [Pilihan Rentang] ke Perpustakaanku.\n- Menambahkan fungsi [Urutkan berdasarkan Nama] ke fungsi penggabungan file."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "ビューアアルゴリズムの改善により速度が向上しました。"
+    "devnote": "・最終ページまで到達しても次のファイルに移動できない場合がある不具合を修正しました。\n- マイ ライブラリ内のすべてのファイルを選択する場合、ソートされた順序に基づいて選択されるようになりました。\n・マイライブラリに「範囲選択」機能を追加しました。\n・ファイル結合機能に[名前順並べ替え]機能を追加しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "სიჩქარე გაუმჯობესდა მაყურებლის ალგორითმის გაუმჯობესებით."
+    "devnote": "- დაფიქსირდა შეცდომა, სადაც ის ზოგჯერ არ გადადიოდა შემდეგ ფაილზე ბოლო გვერდის მიღწევის შემდეგაც კი.\n- ჩემი ბიბლიოთეკის ყველა ფაილის არჩევისას, ისინი ახლა შეირჩევა დალაგებული თანმიმდევრობის მიხედვით.\n- დაამატა ფუნქცია [Range Selection] ჩემს ბიბლიოთეკაში.\n- დაამატა [Sort by Name] ფუნქცია ფაილების შერწყმის ფუნქციას."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "Isivinini sithuthukisiwe ngokuthuthukisa i-algorithm yesibukeli."
+    "devnote": "- Kulungiswe isiphazamisi lapho ngezinye izikhathi sasingeke siye efayeleni elilandelayo ngisho nangemva kokufinyelela ekhasini lokugcina.\n- Uma ukhetha wonke amafayela kuMtapo Wami, manje asekhethiwe ngokusekelwe kuhlelo oluhleliwe.\n- Kwengezwe umsebenzi we-[Ukukhetha Ububanzi] kuMtapo Wami.\n- Kwengezwe umsebenzi othi [Hlunga Ngegama] kumsebenzi wokuhlanganisa ifayela."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "通过改进查看器算法提高了速度。"
+    "devnote": "- 修复了即使到达最后一页有时也不会移动到下一个文件的错误。\n- 当选择“我的库”中的所有文件时，现在将根据排序顺序选择它们。\n- 我的图书馆添加了[范围选择]功能。\n- 文件合并功能中添加了[按名称排序]功能。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "透過改進檢視器演算法提高了速度。"
+    "devnote": "- 修正了即使到達最後一頁有時也不會移動到下一個檔案的錯誤。\n- 當選擇「我的庫」中的所有檔案時，現在將根據排序順序選擇它們。\n- 我的圖書館新增了[範圍選擇]功能。\n- 檔案合併功能中新增了[按名稱排序]功能。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "透過改進檢視器演算法提高了速度。"
+    "devnote": "- 修正了即使到達最後一頁有時也不會移動到下一個檔案的錯誤。\n- 當選擇「我的庫」中的所有檔案時，現在將根據排序順序選擇它們。\n- 我的圖書館新增了[範圍選擇]功能。\n- 檔案合併功能中新增了[按名稱排序]功能。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "Rychlost byla zlepšena vylepšením algoritmu prohlížeče."
+    "devnote": "- Opravena chyba, kdy se občas nepřesunulo na další soubor ani po dosažení poslední stránky.\n- Při výběru všech souborů v Moje knihovna jsou nyní vybírány na základě seřazeného pořadí.\n- Přidána funkce [Výběr rozsahu] do Moje knihovny.\n- Přidána funkce [Sort by Name] do funkce sloučení souborů."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "Көру алгоритмін жақсарту арқылы жылдамдық жақсарды."
+    "devnote": "- Кейде соңғы бетке жеткеннен кейін де келесі файлға өтпейтін қате түзетілді.\n- Менің кітапханамдағы барлық файлдарды таңдағанда, олар енді сұрыпталған ретке қарай таңдалады.\n- [Ауқым таңдау] функциясы Менің кітапханамға қосылды.\n- Файлды біріктіру функциясына [Аты бойынша сұрыптау] функциясы қосылды."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "S'ha millorat la velocitat millorant l'algoritme del visor."
+    "devnote": "- S'ha corregit un error que de vegades no es mouva al següent fitxer fins i tot després d'arribar a l'última pàgina.\n- Quan seleccioneu tots els fitxers a La meva biblioteca, ara es seleccionen segons l'ordre ordenat.\n- S'ha afegit la funció [Selecció de rang] a La meva biblioteca.\n- S'ha afegit la funció [Ordenar per nom] a la funció de combinació de fitxers."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "ವೀಕ್ಷಕರ ಅಲ್ಗಾರಿದಮ್ ಅನ್ನು ಸುಧಾರಿಸುವ ಮೂಲಕ ವೇಗವನ್ನು ಸುಧಾರಿಸಲಾಗಿದೆ."
+    "devnote": "- ಕೊನೆಯ ಪುಟವನ್ನು ತಲುಪಿದ ನಂತರವೂ ಅದು ಕೆಲವೊಮ್ಮೆ ಮುಂದಿನ ಫೈಲ್‌ಗೆ ಚಲಿಸದಿರುವ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n- ನನ್ನ ಲೈಬ್ರರಿಯಲ್ಲಿ ಎಲ್ಲಾ ಫೈಲ್‌ಗಳನ್ನು ಆಯ್ಕೆಮಾಡುವಾಗ, ಅವುಗಳನ್ನು ಈಗ ವಿಂಗಡಿಸಲಾದ ಕ್ರಮದ ಆಧಾರದ ಮೇಲೆ ಆಯ್ಕೆ ಮಾಡಲಾಗುತ್ತದೆ.\n- ನನ್ನ ಲೈಬ್ರರಿಗೆ [ರೇಂಜ್ ಆಯ್ಕೆ] ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಫೈಲ್ ವಿಲೀನ ಕಾರ್ಯಕ್ಕೆ [ಹೆಸರಿನಿಂದ ವಿಂಗಡಿಸಿ] ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "Brzina je poboljšana poboljšanjem algoritma preglednika."
+    "devnote": "- Ispravljena je greška gdje se ponekad ne bi pomaknulo na sljedeću datoteku čak ni nakon što bi se stigla do zadnje stranice.\n- Prilikom odabira svih datoteka u My Library, one su sada odabrane na temelju poredanog redoslijeda.\n- Dodana funkcija [Range Selection] u My Library.\n- Dodana je funkcija [Sort by Name] funkciji spajanja datoteka."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "ល្បឿនត្រូវបានធ្វើឱ្យប្រសើរឡើងដោយការកែលម្អក្បួនដោះស្រាយកម្មវិធីមើល។"
+    "devnote": "- ជួសជុលកំហុសដែលពេលខ្លះវាមិនផ្លាស់ទីទៅឯកសារបន្ទាប់ សូម្បីតែបន្ទាប់ពីបានទៅដល់ទំព័រចុងក្រោយក៏ដោយ។\n- នៅពេលជ្រើសរើសឯកសារទាំងអស់នៅក្នុងបណ្ណាល័យរបស់ខ្ញុំ ឥឡូវនេះពួកគេត្រូវបានជ្រើសរើសដោយផ្អែកលើលំដាប់ដែលបានតម្រៀប។\n- បានបន្ថែមមុខងារ [ការជ្រើសរើសជួរ] ទៅបណ្ណាល័យរបស់ខ្ញុំ។\n- បានបន្ថែមមុខងារ [តម្រៀបតាមឈ្មោះ] ទៅមុខងារបញ្ចូលឯកសារ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "Көрүүчү алгоритмин жакшыртуу менен ылдамдык жакшыртылды."
+    "devnote": "- Кээде акыркы баракка жеткенден кийин да кийинки файлга жылбай турган мүчүлүштүк оңдолду.\n- Менин китепканамдагы бардык файлдарды тандоодо, алар азыр иреттелген тартипте тандалат.\n- Менин китепканама [Раметрди тандоо] функциясы кошулду.\n- Файлды бириктирүү функциясына [Аты боюнча сорттоо] функциясы кошулду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "பார்வையாளர் அல்காரிதத்தை மேம்படுத்துவதன் மூலம் வேகம் மேம்படுத்தப்பட்டுள்ளது."
+    "devnote": "- கடைசிப் பக்கத்தை அடைந்த பிறகும் சில சமயங்களில் அடுத்த கோப்பிற்கு நகராத பிழை சரி செய்யப்பட்டது.\n- எனது நூலகத்தில் உள்ள அனைத்து கோப்புகளையும் தேர்ந்தெடுக்கும்போது, ​​வரிசைப்படுத்தப்பட்ட வரிசையின் அடிப்படையில் அவை இப்போது தேர்ந்தெடுக்கப்படுகின்றன.\n- எனது நூலகத்தில் [வரம்பு தேர்வு] செயல்பாடு சேர்க்கப்பட்டது.\n- கோப்பு ஒன்றிணைப்பு செயல்பாட்டில் [பெயர் மூலம் வரிசைப்படுத்து] செயல்பாடு சேர்க்கப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "ความเร็วได้รับการปรับปรุงโดยการปรับปรุงอัลกอริทึมของผู้ชม"
+    "devnote": "- แก้ไขข้อผิดพลาดที่บางครั้งไม่สามารถย้ายไปยังไฟล์ถัดไปแม้ว่าจะไปถึงหน้าสุดท้ายแล้วก็ตาม\n- เมื่อเลือกไฟล์ทั้งหมดในห้องสมุดของฉัน ตอนนี้ไฟล์เหล่านั้นจะถูกเลือกตามลำดับการจัดเรียง\n- เพิ่มฟังก์ชัน [การเลือกช่วง] ในห้องสมุดของฉัน\n- เพิ่มฟังก์ชัน [จัดเรียงตามชื่อ] ให้กับฟังก์ชันรวมไฟล์"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "Görüntüleyici algoritması geliştirilerek hız artırıldı."
+    "devnote": "- Bazen son sayfaya ulaşıldıktan sonra bile bir sonraki dosyaya geçilmemesi hatası düzeltildi.\n- Kitaplığım'daki tüm dosyalar artık sıralama düzenine göre seçiliyor.\n- Kitaplığım'a [Aralık Seçimi] işlevi eklendi.\n- Dosya birleştirme işlevine [İsme Göre Sırala] işlevi eklendi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "వీక్షకుల అల్గోరిథం మెరుగుపరచడం ద్వారా వేగం మెరుగుపరచబడింది."
+    "devnote": "- చివరి పేజీకి చేరుకున్న తర్వాత కూడా కొన్నిసార్లు తదుపరి ఫైల్‌కి తరలించబడని బగ్ పరిష్కరించబడింది.\n- నా లైబ్రరీలోని అన్ని ఫైల్‌లను ఎంచుకున్నప్పుడు, అవి ఇప్పుడు క్రమబద్ధీకరించబడిన క్రమం ఆధారంగా ఎంపిక చేయబడతాయి.\n- నా లైబ్రరీకి [పరిధి ఎంపిక] ఫంక్షన్ జోడించబడింది.\n- ఫైల్ విలీన ఫంక్షన్‌కు [పేరు ద్వారా క్రమబద్ధీకరించు] ఫంక్షన్ జోడించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "ਦਰਸ਼ਕ ਐਲਗੋਰਿਦਮ ਵਿੱਚ ਸੁਧਾਰ ਕਰਕੇ ਸਪੀਡ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ।"
+    "devnote": "- ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਹੈ ਜਿੱਥੇ ਇਹ ਕਈ ਵਾਰ ਆਖਰੀ ਪੰਨੇ 'ਤੇ ਪਹੁੰਚਣ ਤੋਂ ਬਾਅਦ ਵੀ ਅਗਲੀ ਫਾਈਲ 'ਤੇ ਨਹੀਂ ਜਾਂਦਾ ਹੈ।\n- ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਸਾਰੀਆਂ ਫਾਈਲਾਂ ਦੀ ਚੋਣ ਕਰਦੇ ਸਮੇਂ, ਉਹਨਾਂ ਨੂੰ ਹੁਣ ਕ੍ਰਮਬੱਧ ਕ੍ਰਮ ਦੇ ਅਧਾਰ ਤੇ ਚੁਣਿਆ ਜਾਂਦਾ ਹੈ।\n- ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ [ਰੇਂਜ ਚੋਣ] ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।\n- ਫਾਈਲ ਮਰਜ ਫੰਕਸ਼ਨ ਵਿੱਚ [Sort by Name] ਫੰਕਸ਼ਨ ਨੂੰ ਜੋੜਿਆ ਗਿਆ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "سرعت با بهبود الگوریتم بیننده بهبود یافته است."
+    "devnote": "- رفع اشکالی که گاهی اوقات حتی پس از رسیدن به صفحه آخر به فایل بعدی منتقل نمی شد.\n- هنگام انتخاب همه فایل‌ها در My Library، اکنون بر اساس ترتیب مرتب شده انتخاب می‌شوند.\n- عملکرد [Range Selection] را به My Library اضافه کرد.\n- تابع [مرتب سازی بر اساس نام] را به تابع ادغام فایل اضافه کرد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "A velocidade foi melhorada melhorando o algoritmo do visualizador."
+    "devnote": "- Corrigido um bug onde às vezes não passava para o próximo arquivo mesmo depois de chegar à última página.\n- Ao selecionar todos os arquivos em Minha Biblioteca, eles agora são selecionados com base na ordem de classificação.\n- Adicionada a função [Seleção de intervalo] à Minha Biblioteca.\n- Adicionada a função [Classificar por nome] à função de mesclagem de arquivos."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "Szybkość została poprawiona poprzez ulepszenie algorytmu przeglądarki."
+    "devnote": "- Naprawiono błąd, w wyniku którego czasami nie można było przejść do następnego pliku nawet po dotarciu do ostatniej strony.\n- Podczas wybierania wszystkich plików w Mojej bibliotece są one teraz wybierane na podstawie kolejności posortowania.\n- Dodano funkcję [Wybór zakresu] do Mojej biblioteki.\n- Dodano funkcję [Sortuj według nazwy] do funkcji łączenia plików."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "La vitesse a été améliorée en améliorant l'algorithme de visualisation."
+    "devnote": "- Correction d'un bug qui empêchait parfois de passer au fichier suivant même après avoir atteint la dernière page.\n- Lors de la sélection de tous les fichiers dans Ma bibliothèque, ils sont désormais sélectionnés en fonction de l'ordre de tri.\n- Ajout de la fonction [Sélection de plage] à Ma bibliothèque.\n- Ajout de la fonction [Trier par nom] à la fonction de fusion de fichiers."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "Nopeutta on parannettu parantamalla katselualgoritmia."
+    "devnote": "- Korjattu virhe, jossa se ei joskus siirtynyt seuraavaan tiedostoon edes viimeisen sivun saavuttamisen jälkeen.\n- Kun valitset kaikki tiedostot Omassa kirjastossa, ne valitaan nyt lajittelujärjestyksen perusteella.\n- [Range Selection] -toiminto lisätty Omaan kirjastoon.\n- Lisätty [Lajittele nimen mukaan] -toiminto tiedostojen yhdistämistoimintoon."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "Ang bilis ay napabuti sa pamamagitan ng pagpapabuti ng algorithm ng viewer."
+    "devnote": "- Inayos ang isang bug kung saan minsan ay hindi ito lilipat sa susunod na file kahit na maabot ang huling pahina.\n- Kapag pinipili ang lahat ng mga file sa Aking Library, pinili na ang mga ito batay sa pinagsunod-sunod na pagkakasunud-sunod.\n- Idinagdag ang function na [Range Selection] sa Aking Library.\n- Idinagdag ang [Pagbukud-bukurin ayon sa Pangalan] function sa file merge function."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "A sebesség javult a néző algoritmusának javításával."
+    "devnote": "- Javítottunk egy hibát, amely miatt néha még az utolsó oldal elérése után sem ment át a következő fájlba.\n- Ha az összes fájlt kijelöli a Saját könyvtárban, a rendszer a rendezési sorrend alapján választja ki azokat.\n- A [Range Selection] funkció hozzáadása a Saját könyvtárhoz.\n- A [Rendezés név szerint] funkció hozzáadása a fájlegyesítés funkcióhoz."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "המהירות שופרה על ידי שיפור אלגוריתם הצופה."
+    "devnote": "- תיקן באג שלפעמים הוא לא היה עובר לקובץ הבא גם לאחר שהגיע לעמוד האחרון.\n- בעת בחירת כל הקבצים בספרייה שלי, הם נבחרים כעת על סמך הסדר הממוין.\n- נוספה את הפונקציה [בחירת טווח] לספרייה שלי.\n- נוספה את הפונקציה [מיין לפי שם] לפונקציית מיזוג הקבצים."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "व्यूअर एल्गोरिथम में सुधार करके गति में सुधार किया गया है।"
+    "devnote": "- उस बग को ठीक किया गया जहां कभी-कभी अंतिम पृष्ठ पर पहुंचने के बाद भी यह अगली फ़ाइल पर नहीं जाती थी।\n- मेरी लाइब्रेरी में सभी फ़ाइलों का चयन करते समय, उन्हें अब क्रमबद्ध क्रम के आधार पर चुना जाता है।\n- मेरी लाइब्रेरी में [रेंज चयन] फ़ंक्शन जोड़ा गया।\n- फ़ाइल मर्ज फ़ंक्शन में [नाम के अनुसार क्रमबद्ध करें] फ़ंक्शन जोड़ा गया।"
   }
 }
