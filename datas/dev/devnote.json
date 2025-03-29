@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "- Improved viewer performance.\n- Added grid view/list view function to My Library."
+    "devnote": "Fixed a bug that added files to My Library.\nFixed a bug that caused the current status to be displayed incorrectly when TTS was stopped."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "- 뷰어 성능을 개선하였습니다. \n- 내서재 격자보기/리스트보기 기능을 추가하였습니다."
+    "devnote": "내서재 파일 추가 버그를 수정 하였습니다. \nTTS 정지시 현재 상태가 상태가 잘못 표현되는 버그를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "- Melloro do rendemento do espectador.\n- Engadiuse a función de vista de cuadrícula/lista a A miña biblioteca."
+    "devnote": "Corrixiuse un erro que engadía ficheiros a A miña biblioteca.\nCorrixiuse un erro que facía que o estado actual se mostrase incorrectamente cando se detivo o TTS."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "- સુધારેલ દર્શક પ્રદર્શન.\n- મારી લાઇબ્રેરીમાં ગ્રીડ વ્યૂ/સૂચિ વ્યૂ ફંક્શન ઉમેર્યું."
+    "devnote": "મારી લાઇબ્રેરીમાં ફાઇલો ઉમેરતી ભૂલને ઠીક કરી.\nTTS બંધ કરવામાં આવ્યું ત્યારે વર્તમાન સ્થિતિ ખોટી રીતે પ્રદર્શિત થવાનું કારણ બનેલી બગને ઠીક કરી."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "- Βελτιωμένη απόδοση θεατή.\n- Προστέθηκε η λειτουργία προβολής πλέγματος/προβολής λίστας στη Βιβλιοθήκη μου."
+    "devnote": "Διορθώθηκε ένα σφάλμα που πρόσθεσε αρχεία στη βιβλιοθήκη μου.\nΔιορθώθηκε ένα σφάλμα που προκάλεσε την εσφαλμένη εμφάνιση της τρέχουσας κατάστασης όταν διακόπηκε το TTS."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "- Verbeterde kijkerprestaties.\n- Functie voor rasterweergave/lijstweergave toegevoegd aan Mijn bibliotheek."
+    "devnote": "Een bug opgelost die bestanden aan Mijn bibliotheek toevoegde.\nEen bug opgelost die ervoor zorgde dat de huidige status onjuist werd weergegeven toen TTS werd gestopt."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "- सुधारिएको दर्शक प्रदर्शन।\n- मेरो पुस्तकालयमा ग्रिड दृश्य/सूची दृश्य प्रकार्य थपियो।"
+    "devnote": "मेरो पुस्तकालयमा फाइलहरू थप्ने बग फिक्स गरियो।\nTTS रोकिएको बेलामा हालको स्थिति गलत रूपमा प्रदर्शित हुने बग फिक्स गरियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "- Forbedret seerytelse.\n- Lagt til rutenettvisning/listevisningsfunksjon til Mitt bibliotek."
+    "devnote": "Rettet en feil som la filer til Mitt bibliotek.\nRettet en feil som førte til at gjeldende status ble vist feil når TTS ble stoppet."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "- Forbedret seerydelse.\n- Tilføjet gittervisning/listevisningsfunktion til Mit bibliotek."
+    "devnote": "Rettede en fejl, der føjede filer til Mit bibliotek.\nRettede en fejl, der fik den aktuelle status til at blive vist forkert, da TTS blev stoppet."
   },
   "독일어": {
     "key": "de",
-    "devnote": "- Verbesserte Zuschauerleistung.\n- Rasteransicht/Listenansichtsfunktion zu „Meine Bibliothek“ hinzugefügt."
+    "devnote": "Es wurde ein Fehler behoben, durch den Dateien zu „Meine Bibliothek“ hinzugefügt wurden.\nEs wurde ein Fehler behoben, der dazu führte, dass der aktuelle Status falsch angezeigt wurde, wenn TTS gestoppt wurde."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "- ການ​ປັບ​ປຸງ​ການ​ປະ​ຕິ​ບັດ viewer​.\n- ເພີ່ມ​ການ​ເບິ່ງ​ຕາ​ຂ່າຍ​ໄຟ​ຟ້າ / ການ​ທໍາ​ງານ​ເບິ່ງ​ລາຍ​ການ​ກັບ​ຫໍ​ສະ​ຫມຸດ​ຂອງ​ຂ້າ​ພະ​ເຈົ້າ​."
+    "devnote": "ແກ້ໄຂຂໍ້ຜິດພາດທີ່ເພີ່ມໄຟລ໌ໃສ່ຫ້ອງສະໝຸດຂອງຂ້ອຍ.\nແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ເຮັດໃຫ້ສະຖານະປັດຈຸບັນສະແດງບໍ່ຖືກຕ້ອງເມື່ອ TTS ຖືກຢຸດ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "- Uzlabota skatītāju veiktspēja.\n- Manai bibliotēkai ir pievienota režģa skata/saraksta skata funkcija."
+    "devnote": "Izlabota kļūda, kas pievienoja failus mapei Mana bibliotēka.\nNovērsta kļūda, kuras dēļ pašreizējais statuss tika parādīts nepareizi, kad TTS tika apturēts."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "- Улучшена производительность просмотра.\n— В «Мою библиотеку» добавлена ​​функция просмотра сетки/списка."
+    "devnote": "Исправлена ​​ошибка, из-за которой файлы добавлялись в «Мою библиотеку».\nИсправлена ​​ошибка, из-за которой текущий статус отображался некорректно при остановке TTS."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "- Performanță îmbunătățită a spectatorului.\n- S-a adăugat funcția de vizualizare grilă/listă la Biblioteca mea."
+    "devnote": "S-a remediat o eroare care adăuga fișiere în Biblioteca mea.\nS-a remediat o eroare care a făcut ca starea curentă să fie afișată incorect atunci când TTS a fost oprit."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "- Patobulintas žiūrovo našumas.\n- Prie Mano bibliotekos pridėta tinklelio rodinio / sąrašo rodinio funkcija."
+    "devnote": "Ištaisyta klaida, dėl kurios failai buvo įtraukti į Mano biblioteką.\nIštaisyta klaida, dėl kurios dabartinė būsena buvo rodoma neteisingai, kai TTS buvo sustabdytas."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "- सुधारित दर्शक कार्यप्रदर्शन.\n- माय लायब्ररीमध्ये ग्रिड व्ह्यू/लिस्ट व्ह्यू फंक्शन जोडले."
+    "devnote": "माझ्या लायब्ररीमध्ये फायली जोडलेल्या बगचे निराकरण केले.\nTTS थांबवल्यावर वर्तमान स्थिती चुकीच्या पद्धतीने प्रदर्शित होण्यास कारणीभूत असलेल्या बगचे निराकरण केले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "- Подобрени перформанси на гледачот.\n- Додадена е функцијата за преглед на мрежа/листа во Моја библиотека."
+    "devnote": "Поправена грешка што додаде датотеки во Мојата библиотека.\nПоправена грешка што предизвика погрешно прикажување на моменталниот статус кога TTS беше прекинат."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "- മെച്ചപ്പെട്ട കാഴ്ചക്കാരുടെ പ്രകടനം.\n- എൻ്റെ ലൈബ്രറിയിലേക്ക് ഗ്രിഡ് വ്യൂ/ലിസ്റ്റ് വ്യൂ ഫംഗ്‌ഷൻ ചേർത്തു."
+    "devnote": "എൻ്റെ ലൈബ്രറിയിലേക്ക് ഫയലുകൾ ചേർത്ത ഒരു ബഗ് പരിഹരിച്ചു.\nTTS നിർത്തിയപ്പോൾ നിലവിലെ സ്റ്റാറ്റസ് തെറ്റായി പ്രദർശിപ്പിക്കുന്നതിന് കാരണമായ ഒരു ബഗ് പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "- Prestasi penonton yang dipertingkatkan.\n- Menambahkan fungsi paparan grid/pandangan senarai ke Perpustakaan Saya."
+    "devnote": "Memperbaiki pepijat yang menambahkan fail pada Pustaka Saya.\nMemperbaiki pepijat yang menyebabkan status semasa dipaparkan secara tidak betul apabila TTS dihentikan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "- Үзэгчдийн гүйцэтгэл сайжирсан.\n- Миний номын санд сүлжээ харах/жагсаалт харах функцийг нэмсэн."
+    "devnote": "Миний номын санд файл нэмсэн алдааг зассан.\nTTS-г зогсоох үед одоогийн төлөвийг буруу харуулахад хүргэсэн алдааг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "- Ikusleen errendimendua hobetu.\n- Sare-ikuspegi/zerrenda-ikuspegi funtzioa gehitu da Nire liburutegian."
+    "devnote": "Nire liburutegian fitxategiak gehitzen zituen akats bat konpondu da.\nTTS gelditzen zenean uneko egoera gaizki bistaratzea eragiten zuen akats bat konpondu zen."
   },
   "버마어": {
     "key": "my",
-    "devnote": "- ကြည့်ရှုသူ၏စွမ်းဆောင်ရည်ကိုတိုးတက်စေသည်။\n- My Library သို့ ဇယားကွက်ကြည့်ခြင်း/စာရင်း မြင်ကွင်းလုပ်ဆောင်ချက်ကို ပေါင်းထည့်ထားသည်။"
+    "devnote": "ကျွန်ုပ်၏ ဒစ်ဂျစ်တိုက်သို့ ဖိုင်များကို ပေါင်းထည့်သည့် ချို့ယွင်းချက်တစ်ခုကို ပြင်ဆင်ခဲ့သည်။\nTTS ကို ရပ်တန့်လိုက်သောအခါ လက်ရှိအခြေအနေအား မှားယွင်းစွာပြသသွားသော ချို့ယွင်းချက်တစ်ခုကို ပြင်ဆင်ခဲ့သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "- Cải thiện hiệu suất của người xem.\n- Đã thêm chức năng xem dạng lưới/xem danh sách vào Thư viện của tôi."
+    "devnote": "Đã sửa lỗi thêm tệp vào Thư viện của tôi.\nĐã sửa lỗi khiến trạng thái hiện tại hiển thị không chính xác khi TTS bị dừng."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "- Палепшаная прадукцыйнасць прагляду.\n- Дададзена функцыя прагляду сеткі/спісу ў Маю бібліятэку."
+    "devnote": "Выпраўлена памылка, якая дадавала файлы ў Маю бібліятэку.\nВыпраўлена памылка, з-за якой бягучы статус адлюстроўваўся няправільна пры спыненні TTS."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "- উন্নত দর্শক কর্মক্ষমতা.\n- আমার লাইব্রেরিতে গ্রিড ভিউ/লিস্ট ভিউ ফাংশন যোগ করা হয়েছে।"
+    "devnote": "আমার লাইব্রেরিতে ফাইল যোগ করে এমন একটি বাগ সংশোধন করা হয়েছে।\nএকটি বাগ সংশোধন করা হয়েছে যার কারণে বর্তমান স্থিতি ভুলভাবে প্রদর্শিত হয় যখন TTS বন্ধ করা হয়েছিল।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "- Подобрена производителност на зрителя.\n- Добавена функция за изглед на мрежа/списък към Моята библиотека."
+    "devnote": "Поправена е грешка, която добавя файлове към Моята библиотека.\nКоригирана грешка, която причиняваше неправилно показване на текущото състояние, когато TTS беше спрян."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "- Побољшане перформансе гледалаца.\n- Додата функција приказа мреже/приказа листе у Моју библиотеку."
+    "devnote": "Исправљена грешка која је додавала датотеке у Моју библиотеку.\nИсправљена је грешка која је узроковала да се тренутни статус нетачно приказује када је ТТС заустављен."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "- Utendaji ulioboreshwa wa mtazamaji.\n- Aliongeza mwonekano wa gridi / kazi ya kuona orodha kwenye Maktaba Yangu."
+    "devnote": "Imerekebisha hitilafu iliyoongeza faili kwenye Maktaba Yangu.\nIlirekebisha hitilafu iliyosababisha hali ya sasa kuonyeshwa vibaya wakati TTS iliposimamishwa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "- Förbättrad tittarprestanda.\n- Lade till rutnätsvy/listvyfunktion till Mitt bibliotek."
+    "devnote": "Fixade en bugg som lade till filer i Mitt bibliotek.\nFixade en bugg som gjorde att den aktuella statusen visades felaktigt när TTS stoppades."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "- Rendimiento del espectador mejorado.\n- Se agregó la función de vista de cuadrícula/vista de lista a Mi biblioteca."
+    "devnote": "Se corrigió un error que agregaba archivos a Mi biblioteca.\nSe corrigió un error que causaba que el estado actual se mostrara incorrectamente cuando se detenía TTS."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "- Vylepšený výkon diváka.\n- Pridaná funkcia zobrazenia mriežky/zobrazenia zoznamu do Mojej knižnice."
+    "devnote": "Opravená chyba, ktorá pridávala súbory do Mojej knižnice.\nOpravená chyba, ktorá spôsobovala nesprávne zobrazenie aktuálneho stavu pri zastavení TTS."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "- Izboljšana zmogljivost gledalca.\n- Dodana funkcija mrežnega pogleda/pogleda seznama v mojo knjižnico."
+    "devnote": "Odpravljena napaka, ki je dodala datoteke v mojo knjižnico.\nOdpravljena je napaka, ki je povzročila nepravilen prikaz trenutnega stanja, ko je bil TTS ustavljen."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "- වැඩි දියුණු නරඹන්නන්ගේ කාර්ය සාධනය.\n- මගේ පුස්තකාලයට ජාල දර්ශනය/ලැයිස්තු දර්ශන ශ්‍රිතය එක් කරන ලදී."
+    "devnote": "මගේ පුස්තකාලයට ගොනු එකතු කළ දෝෂයක් විසඳා ඇත.\nTTS නැවැත්වූ විට වත්මන් තත්ත්වය වැරදි ලෙස පෙන්වීමට හේතු වූ දෝෂයක් විසඳා ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "- تحسين أداء المشاهد.\n- تمت إضافة وظيفة عرض الشبكة/عرض القائمة إلى مكتبتي."
+    "devnote": "تم إصلاح الخلل الذي أدى إلى إضافة ملفات إلى مكتبتي.\nتم إصلاح الخلل الذي تسبب في عرض الحالة الحالية بشكل غير صحيح عند إيقاف تحويل النص إلى كلام (TTS)."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "- Բարելավված հեռուստադիտողի կատարումը:\n- Իմ գրադարանում ավելացվել է ցանցի դիտման/ցուցակի դիտման գործառույթը:"
+    "devnote": "Շտկվել է վրիպակ, որը ֆայլեր է ավելացրել Իմ գրադարանում:\nՇտկվել է վրիպակ, որի պատճառով ընթացիկ կարգավիճակը սխալ է ցուցադրվել TTS-ի դադարեցման ժամանակ:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "- Bætt frammistaða áhorfenda.\n- Bætti við töfluskoðun/listaskoðunaraðgerð við bókasafnið mitt."
+    "devnote": "Lagaði villu sem bætti skrám við bókasafnið mitt.\nLagaði villu sem olli því að núverandi staða birtist rangt þegar TTS var stöðvað."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "- Təkmilləşdirilmiş tamaşaçı performansı.\n- Kitabxanama şəbəkə görünüşü/siyahı görünüşü funksiyası əlavə edildi."
+    "devnote": "Faylları Kitabxanama əlavə edən səhv düzəldildi.\nTTS dayandırıldıqda cari statusun səhv göstərilməsinə səbəb olan bir səhv düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "- Verbeterde kykerprestasie.\n- Bygevoeg roosteraansig/lysaansigfunksie by My Biblioteek."
+    "devnote": "Het 'n fout reggestel wat lêers by My Biblioteek gevoeg het.\nHet 'n fout reggestel wat veroorsaak het dat die huidige status verkeerd vertoon word toe TTS gestop is."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "- Performanca e përmirësuar e shikuesit.\n- U shtua funksioni i pamjes së rrjetit/shikimit të listës në Biblioteka ime."
+    "devnote": "Rregulloi një defekt që shtoi skedarë te Biblioteka ime.\nRregulloi një gabim që bëri që statusi aktual të shfaqej gabimisht kur TTS u ndal."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "- የተሻሻለ የተመልካች አፈጻጸም።\n- ወደ የእኔ ቤተ-መጽሐፍት የፍርግርግ እይታ/የዝርዝር እይታ ተግባር ታክሏል።"
+    "devnote": "ወደ የእኔ ቤተ-መጽሐፍት ፋይሎችን የጨመረ ሳንካ ተጠግኗል።\nTTS ሲቆም የአሁኑ ሁኔታ በስህተት እንዲታይ ያደረገ ሳንካ ተስተካክሏል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "- Parem vaataja jõudlus.\n- Minu kogusse on lisatud ruudustikuvaate/loendivaate funktsioon."
+    "devnote": "Parandatud viga, mis lisas failid jaotisesse Minu kogu.\nParandatud viga, mille tõttu kuvati TTS-i peatamisel praegune olek valesti."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "- ناظرین کی کارکردگی میں بہتری۔\n- میری لائبریری میں گرڈ ویو / لسٹ ویو فنکشن شامل کیا گیا۔"
+    "devnote": "میری لائبریری میں فائلوں کو شامل کرنے والے ایک مسئلے کو ٹھیک کیا۔\nایک بگ کو ٹھیک کیا جس کی وجہ سے ٹی ٹی ایس کو روکے جانے پر موجودہ حیثیت غلط طریقے سے ظاہر ہوئی۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "— Покращена продуктивність перегляду.\n— Додано функцію перегляду сітки/списку в Мою бібліотеку."
+    "devnote": "Виправлено помилку, яка додавала файли в Мою бібліотеку.\nВиправлено помилку, яка спричиняла неправильне відображення поточного статусу під час зупинки TTS."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "- Prestazioni dello spettatore migliorate.\n- Aggiunta la funzione di visualizzazione griglia/visualizzazione elenco a La mia libreria."
+    "devnote": "Risolto un bug che aggiungeva file a La mia libreria.\nRisolto un bug che causava la visualizzazione errata dello stato corrente quando TTS veniva interrotto."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "- Peningkatan kinerja pemirsa.\n- Menambahkan fungsi tampilan grid/tampilan daftar ke Perpustakaanku."
+    "devnote": "Memperbaiki bug yang menambahkan file ke Perpustakaanku.\nMemperbaiki bug yang menyebabkan status saat ini tidak ditampilkan dengan benar ketika TTS dihentikan."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "- ビューアのパフォーマンスが向上しました。\n- マイライブラリにグリッドビュー/リストビュー機能を追加しました。"
+    "devnote": "マイライブラリにファイルが追加されるバグを修正しました。\nTTS 停止時に現在のステータスが正しく表示されないバグを修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "- გაუმჯობესებული მაყურებლის შესრულება.\n- დაემატა ბადის ნახვის/სიის ნახვის ფუნქცია ჩემს ბიბლიოთეკას."
+    "devnote": "გამოსწორდა ხარვეზი, რომელმაც დაამატა ფაილები ჩემს ბიბლიოთეკაში.\nგამოსწორდა შეცდომა, რამაც გამოიწვია მიმდინარე სტატუსის არასწორად ჩვენება TTS-ის შეჩერებისას."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "- Ukusebenza kwesibukeli okuthuthukisiwe.\n- Umsebenzi wokubuka wegridi/uhlu ongeziwe kuMtapo Wami."
+    "devnote": "Kulungiswe iphutha elengeze amafayela kulabhulali yami.\nKulungiswe iphutha elibangele ukuthi isimo samanje siboniswe ngokungalungile ngenkathi i-TTS imiswa."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "- 改进了查看器性能。\n- 我的图书馆添加了网格视图/列表视图功能。"
+    "devnote": "修复了将文件添加到“我的库”的错误。\n修复了 TTS 停止时导致当前状态显示不正确的错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "- 改進了檢視器性能。\n- 我的圖書館新增了網格視圖/清單視圖功能。"
+    "devnote": "修復了將文件添加到“我的庫”的錯誤。\n修正了 TTS 停止時導致目前狀態顯示不正確的錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "- 改進了檢視器性能。\n- 我的圖書館新增了網格視圖/清單視圖功能。"
+    "devnote": "修復了將文件添加到“我的庫”的錯誤。\n修正了 TTS 停止時導致目前狀態顯示不正確的錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "- Vylepšený výkon diváka.\n- Do Moje knihovna byla přidána funkce zobrazení mřížky/zobrazení seznamu."
+    "devnote": "Opravena chyba, která přidávala soubory do Moje knihovny.\nOpravena chyba, která způsobovala, že se při zastavení TTS nesprávně zobrazoval aktuální stav."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "- Көрермендер өнімділігі жақсарды.\n- Менің кітапханамға тор көрінісі/тізім көрінісі функциясы қосылды."
+    "devnote": "Менің кітапханама файлдарды қосқан қате түзетілді.\nTTS тоқтатылған кезде ағымдағы күйдің дұрыс көрсетілмеуін тудырған қате түзетілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "- Millora del rendiment de l'espectador.\n- S'ha afegit la funció de vista de la quadrícula/de la llista a La meva biblioteca."
+    "devnote": "S'ha solucionat un error que afegeix fitxers a La meva biblioteca.\nS'ha corregit un error que provocava que l'estat actual es mostrés incorrectament quan s'aturava el TTS."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "- ಸುಧಾರಿತ ವೀಕ್ಷಕರ ಕಾರ್ಯಕ್ಷಮತೆ.\n- ನನ್ನ ಲೈಬ್ರರಿಗೆ ಗ್ರಿಡ್ ವೀಕ್ಷಣೆ/ಪಟ್ಟಿ ವೀಕ್ಷಣೆ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ."
+    "devnote": "ನನ್ನ ಲೈಬ್ರರಿಗೆ ಫೈಲ್‌ಗಳನ್ನು ಸೇರಿಸಿದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\nTTS ಅನ್ನು ನಿಲ್ಲಿಸಿದಾಗ ಪ್ರಸ್ತುತ ಸ್ಥಿತಿಯನ್ನು ತಪ್ಪಾಗಿ ಪ್ರದರ್ಶಿಸಲು ಕಾರಣವಾದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "- Poboljšana izvedba gledatelja.\n- Dodana funkcija prikaza mreže/popisa u My Library."
+    "devnote": "Ispravljena je pogreška koja je dodavala datoteke u Moju knjižnicu.\nIspravljena je pogreška koja je uzrokovala neispravan prikaz trenutnog statusa kada je TTS zaustavljen."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "- ធ្វើឱ្យប្រសើរឡើងនូវការអនុវត្តកម្មវិធីមើល។\n- បានបន្ថែមមុខងារទិដ្ឋភាពក្រឡាចត្រង្គ / បញ្ជីទៅបណ្ណាល័យរបស់ខ្ញុំ។"
+    "devnote": "ជួសជុលកំហុសដែលបន្ថែមឯកសារទៅបណ្ណាល័យរបស់ខ្ញុំ។\nបានជួសជុលកំហុសដែលបណ្តាលឱ្យស្ថានភាពបច្ចុប្បន្នត្រូវបានបង្ហាញមិនត្រឹមត្រូវនៅពេលដែល TTS ត្រូវបានបញ្ឈប់។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "- Көрүүчүнүн иштеши жакшырды.\n- Менин китепканама тор көрүү/тизме көрүү функциясы кошулду."
+    "devnote": "Менин китепканама файлдарды кошкон ката оңдолду.\nTTS токтотулган учурда учурдагы статустун туура эмес көрсөтүлүшүнө алып келген мүчүлүштүк оңдолду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "- மேம்படுத்தப்பட்ட பார்வையாளர் செயல்திறன்.\n- எனது நூலகத்தில் கட்டக் காட்சி/பட்டியல் பார்வை செயல்பாடு சேர்க்கப்பட்டது."
+    "devnote": "எனது நூலகத்தில் கோப்புகளைச் சேர்த்த பிழை சரி செய்யப்பட்டது.\nTTS நிறுத்தப்பட்டபோது தற்போதைய நிலை தவறாகக் காட்டப்படும் பிழை சரி செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "- ปรับปรุงประสิทธิภาพของผู้ชม\n- เพิ่มฟังก์ชันมุมมองตาราง/มุมมองรายการในห้องสมุดของฉัน"
+    "devnote": "แก้ไขข้อผิดพลาดที่เพิ่มไฟล์ลงในห้องสมุดของฉัน\nแก้ไขข้อบกพร่องที่ทำให้สถานะปัจจุบันแสดงไม่ถูกต้องเมื่อ TTS ถูกหยุด"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "- Geliştirilmiş izleyici performansı.\n- Kitaplığım'a tablo görünümü/liste görünümü işlevi eklendi."
+    "devnote": "Kitaplığım'a dosya ekleyen bir hata düzeltildi.\nTTS durdurulduğunda mevcut durumun yanlış görüntülenmesine neden olan bir hata düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "- మెరుగైన వీక్షకుల పనితీరు.\n- నా లైబ్రరీకి గ్రిడ్ వీక్షణ/జాబితా వీక్షణ ఫంక్షన్ జోడించబడింది."
+    "devnote": "నా లైబ్రరీకి ఫైల్‌లను జోడించిన బగ్ పరిష్కరించబడింది.\nTTS నిలిపివేయబడినప్పుడు ప్రస్తుత స్థితిని తప్పుగా ప్రదర్శించడానికి కారణమైన బగ్ పరిష్కరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "- ਦਰਸ਼ਕ ਪ੍ਰਦਰਸ਼ਨ ਵਿੱਚ ਸੁਧਾਰ.\n- ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਗਰਿੱਡ ਵਿਊ/ਲਿਸਟ ਵਿਊ ਫੰਕਸ਼ਨ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।"
+    "devnote": "ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਫਾਈਲਾਂ ਜੋੜਨ ਵਾਲੇ ਇੱਕ ਬੱਗ ਨੂੰ ਠੀਕ ਕੀਤਾ।\nਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਜਿਸ ਕਾਰਨ ਮੌਜੂਦਾ ਸਥਿਤੀ ਨੂੰ ਗਲਤ ਢੰਗ ਨਾਲ ਪ੍ਰਦਰਸ਼ਿਤ ਕੀਤਾ ਗਿਆ ਜਦੋਂ TTS ਨੂੰ ਰੋਕਿਆ ਗਿਆ ਸੀ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "- بهبود عملکرد بیننده\n- عملکرد نمای شبکه/نمای فهرست به کتابخانه من اضافه شد."
+    "devnote": "رفع اشکالی که فایل‌ها را به My Library اضافه می‌کرد.\nرفع اشکالی که باعث می شد هنگام توقف TTS وضعیت فعلی به اشتباه نمایش داده شود."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "- Melhor desempenho do visualizador.\n- Adicionada função de visualização em grade/visualização em lista à Minha Biblioteca."
+    "devnote": "Corrigido um bug que adicionava arquivos à Minha Biblioteca.\nCorrigido um bug que fazia com que o status atual fosse exibido incorretamente quando o TTS era interrompido."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "- Poprawiona wydajność przeglądarki.\n- Dodano funkcję widoku siatki/listy do Mojej biblioteki."
+    "devnote": "Naprawiono błąd, który powodował dodanie plików do Mojej biblioteki.\nNaprawiono błąd, który powodował nieprawidłowe wyświetlanie bieżącego stanu po zatrzymaniu TTS."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "- Amélioration des performances du spectateur.\n- Ajout de la fonction d'affichage en grille/affichage en liste à Ma bibliothèque."
+    "devnote": "Correction d'un bug qui ajoutait des fichiers à Ma bibliothèque.\nCorrection d'un bug qui provoquait un affichage incorrect de l'état actuel lorsque TTS était arrêté."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "- Parempi katsojan suorituskyky.\n- Lisätty ruudukkonäkymä/luettelonäkymätoiminto Omaan kirjastoon."
+    "devnote": "Korjattu virhe, joka lisäsi tiedostoja Omaan kirjastoon.\nKorjattu virhe, joka aiheutti nykyisen tilan näyttämisen väärin, kun TTS pysäytettiin."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "- Pinahusay na pagganap ng manonood.\n- Idinagdag ang grid view/list view function sa Aking Library."
+    "devnote": "Inayos ang isang bug na nagdagdag ng mga file sa Aking Library.\nInayos ang isang bug na naging sanhi ng hindi tamang pagpapakita ng kasalukuyang katayuan noong itinigil ang TTS."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "- Jobb nézői teljesítmény.\n- Rácsnézet/listanézet funkció hozzáadva a Saját könyvtárhoz."
+    "devnote": "Kijavítottunk egy hibát, amely fájlokat adott a Saját könyvtárhoz.\nKijavítottunk egy hibát, amely miatt a TTS leállításakor az aktuális állapot helytelenül jelent meg."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "- שיפור ביצועי הצופים.\n- הוספת תצוגת רשת/תצוגת רשימה לספרייה שלי."
+    "devnote": "תיקן באג שהוסיף קבצים לספרייה שלי.\nתיקן באג שגרם להצגת המצב הנוכחי באופן שגוי כאשר ה-TTS הופסק."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "- बेहतर दर्शक प्रदर्शन.\n- मेरी लाइब्रेरी में ग्रिड व्यू/लिस्ट व्यू फ़ंक्शन जोड़ा गया।"
+    "devnote": "मेरी लाइब्रेरी में फ़ाइलें जोड़ने वाले बग को ठीक किया गया।\nउस बग को ठीक किया गया जिसके कारण टीटीएस बंद होने पर वर्तमान स्थिति गलत तरीके से प्रदर्शित होती थी।"
   }
 }
