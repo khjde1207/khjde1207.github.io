@@ -1,290 +1,362 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "Fixed a bug that added files to My Library.\nFixed a bug that caused the current status to be displayed incorrectly when TTS was stopped."
+    "devnote":
+        "I made it possible to back up using the My Library multi-select mode.\nI modified the My Library recovery UI.\nI added a folder image when using the image display function.\nI modified some of the text in the settings section."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "내서재 파일 추가 버그를 수정 하였습니다. \nTTS 정지시 현재 상태가 상태가 잘못 표현되는 버그를 수정 하였습니다."
+    "devnote":
+        "내서재 다중선택 모드를 이용하여 백업 할수 있게 하였습니다. \n내서재 복구 UI 를 수정 하였습니다. \n이미지 표시기능 사용시 폴더 이미지를 추가하였습니다. . \n설정쪽 문구를 일부 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "Corrixiuse un erro que engadía ficheiros a A miña biblioteca.\nCorrixiuse un erro que facía que o estado actual se mostrase incorrectamente cando se detivo o TTS."
+    "devnote":
+        "Fixen posible facer unha copia de seguranza mediante o modo de selección múltiple A miña biblioteca.\nModifiquei a IU de recuperación da miña biblioteca.\nEngadín unha imaxe de cartafol cando utilizaba a función de visualización de imaxes.\nModifiquei parte do texto na sección de configuración."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "મારી લાઇબ્રેરીમાં ફાઇલો ઉમેરતી ભૂલને ઠીક કરી.\nTTS બંધ કરવામાં આવ્યું ત્યારે વર્તમાન સ્થિતિ ખોટી રીતે પ્રદર્શિત થવાનું કારણ બનેલી બગને ઠીક કરી."
+    "devnote":
+        "મેં મારી લાઇબ્રેરી મલ્ટિ-સિલેક્ટ મોડનો ઉપયોગ કરીને બેકઅપ લેવાનું શક્ય બનાવ્યું છે.\nમેં મારી લાઇબ્રેરી પુનઃપ્રાપ્તિ UI માં ફેરફાર કર્યો છે.\nઇમેજ ડિસ્પ્લે ફંક્શનનો ઉપયોગ કરતી વખતે મેં ફોલ્ડર ઇમેજ ઉમેરી.\nમેં સેટિંગ્સ વિભાગમાં કેટલાક ટેક્સ્ટને સંશોધિત કર્યા છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "Διορθώθηκε ένα σφάλμα που πρόσθεσε αρχεία στη βιβλιοθήκη μου.\nΔιορθώθηκε ένα σφάλμα που προκάλεσε την εσφαλμένη εμφάνιση της τρέχουσας κατάστασης όταν διακόπηκε το TTS."
+    "devnote":
+        "Κατέστησα δυνατή τη δημιουργία αντιγράφων ασφαλείας χρησιμοποιώντας τη λειτουργία πολλαπλής επιλογής Η βιβλιοθήκη μου.\nΤροποποίησα τη διεπαφή χρήστη ανάκτησης της βιβλιοθήκης μου.\nΠρόσθεσα μια εικόνα φακέλου όταν χρησιμοποιούσα τη λειτουργία εμφάνισης εικόνας.\nΤροποποίησα μέρος του κειμένου στην ενότητα ρυθμίσεων."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "Een bug opgelost die bestanden aan Mijn bibliotheek toevoegde.\nEen bug opgelost die ervoor zorgde dat de huidige status onjuist werd weergegeven toen TTS werd gestopt."
+    "devnote":
+        "Ik heb het mogelijk gemaakt om een ​​back-up te maken met behulp van de multi-selectiemodus van Mijn bibliotheek.\nIk heb de herstelinterface van Mijn bibliotheek aangepast.\nIk heb een mapafbeelding toegevoegd toen ik de beeldweergavefunctie gebruikte.\nIk heb een deel van de tekst in het instellingengedeelte aangepast."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "मेरो पुस्तकालयमा फाइलहरू थप्ने बग फिक्स गरियो।\nTTS रोकिएको बेलामा हालको स्थिति गलत रूपमा प्रदर्शित हुने बग फिक्स गरियो।"
+    "devnote":
+        "मैले मेरो लाइब्रेरी बहु-चयन मोड प्रयोग गरेर ब्याकअप गर्न सम्भव बनाएको छु।\nमैले मेरो पुस्तकालय रिकभरी UI परिमार्जन गरें।\nछवि प्रदर्शन प्रकार्य प्रयोग गर्दा मैले फोल्डर छवि थपे।\nमैले सेटिङ खण्डमा केही पाठ परिमार्जन गरें।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "Rettet en feil som la filer til Mitt bibliotek.\nRettet en feil som førte til at gjeldende status ble vist feil når TTS ble stoppet."
+    "devnote":
+        "Jeg gjorde det mulig å sikkerhetskopiere ved å bruke My Library multi-select-modus.\nJeg endret gjenopprettingsgrensesnittet for Mitt bibliotek.\nJeg la til et mappebilde når jeg brukte bildevisningsfunksjonen.\nJeg endret noe av teksten i innstillingsdelen."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "Rettede en fejl, der føjede filer til Mit bibliotek.\nRettede en fejl, der fik den aktuelle status til at blive vist forkert, da TTS blev stoppet."
+    "devnote":
+        "Jeg gjorde det muligt at sikkerhedskopiere ved hjælp af My Library multi-select-tilstand.\nJeg ændrede Mit biblioteks gendannelses-UI.\nJeg tilføjede et mappebillede, når jeg brugte billedvisningsfunktionen.\nJeg har ændret noget af teksten i indstillingssektionen."
   },
   "독일어": {
     "key": "de",
-    "devnote": "Es wurde ein Fehler behoben, durch den Dateien zu „Meine Bibliothek“ hinzugefügt wurden.\nEs wurde ein Fehler behoben, der dazu führte, dass der aktuelle Status falsch angezeigt wurde, wenn TTS gestoppt wurde."
+    "devnote":
+        "Ich habe es möglich gemacht, mithilfe des Mehrfachauswahlmodus „Meine Bibliothek“ ein Backup zu erstellen.\nIch habe die Benutzeroberfläche zur Wiederherstellung von „Meine Bibliothek“ geändert.\nIch habe bei Verwendung der Bildanzeigefunktion ein Ordnerbild hinzugefügt.\nIch habe einen Teil des Textes im Abschnitt „Einstellungen“ geändert."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "ແກ້ໄຂຂໍ້ຜິດພາດທີ່ເພີ່ມໄຟລ໌ໃສ່ຫ້ອງສະໝຸດຂອງຂ້ອຍ.\nແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ເຮັດໃຫ້ສະຖານະປັດຈຸບັນສະແດງບໍ່ຖືກຕ້ອງເມື່ອ TTS ຖືກຢຸດ."
+    "devnote":
+        "ຂ້ອຍເຮັດໃຫ້ມັນເປັນໄປໄດ້ໃນການສຳຮອງຂໍ້ມູນໂດຍໃຊ້ໂໝດເລືອກຫຼາຍຫ້ອງສະໝຸດຂອງຂ້ອຍ.\nຂ້ອຍໄດ້ແກ້ໄຂ UI ການກູ້ຂໍ້ມູນຫ້ອງສະໝຸດຂອງຂ້ອຍ.\nຂ້ອຍໄດ້ເພີ່ມຮູບພາບໂຟນເດີເມື່ອໃຊ້ຟັງຊັນການສະແດງຮູບພາບ.\nຂ້າພະເຈົ້າໄດ້ແກ້ໄຂບາງຂໍ້ຄວາມໃນສ່ວນການຕັ້ງຄ່າ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "Izlabota kļūda, kas pievienoja failus mapei Mana bibliotēka.\nNovērsta kļūda, kuras dēļ pašreizējais statuss tika parādīts nepareizi, kad TTS tika apturēts."
+    "devnote":
+        "Es padarīju iespējamu dublēšanu, izmantojot vairāku atlases režīmu Mana bibliotēka.\nEs mainīju Manas bibliotēkas atkopšanas lietotāja saskarni.\nEs pievienoju mapes attēlu, izmantojot attēla parādīšanas funkciju.\nEs pārveidoju daļu teksta iestatījumu sadaļā."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "Исправлена ​​ошибка, из-за которой файлы добавлялись в «Мою библиотеку».\nИсправлена ​​ошибка, из-за которой текущий статус отображался некорректно при остановке TTS."
+    "devnote":
+        "Я сделал возможным резервное копирование с помощью режима множественного выбора «Моя библиотека».\nЯ изменил пользовательский интерфейс восстановления моей библиотеки.\nЯ добавил изображение папки при использовании функции отображения изображений.\nЯ изменил часть текста в разделе настроек."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "S-a remediat o eroare care adăuga fișiere în Biblioteca mea.\nS-a remediat o eroare care a făcut ca starea curentă să fie afișată incorect atunci când TTS a fost oprit."
+    "devnote":
+        "Am făcut posibilă realizarea de copii de rezervă folosind modul My Library multi-select.\nAm modificat interfața de utilizare de recuperare a Bibliotecii mele.\nAm adăugat o imagine de folder când am folosit funcția de afișare a imaginii.\nAm modificat o parte din text în secțiunea de setări."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "Ištaisyta klaida, dėl kurios failai buvo įtraukti į Mano biblioteką.\nIštaisyta klaida, dėl kurios dabartinė būsena buvo rodoma neteisingai, kai TTS buvo sustabdytas."
+    "devnote":
+        "Sudariau galimybę kurti atsargines kopijas naudojant Mano bibliotekos kelių pasirinkimo režimą.\nPakeičiau Mano bibliotekos atkūrimo vartotojo sąsają.\nNaudodamas vaizdo rodymo funkciją pridėjau aplanko vaizdą.\nDalį teksto pakeičiau nustatymų skiltyje."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "माझ्या लायब्ररीमध्ये फायली जोडलेल्या बगचे निराकरण केले.\nTTS थांबवल्यावर वर्तमान स्थिती चुकीच्या पद्धतीने प्रदर्शित होण्यास कारणीभूत असलेल्या बगचे निराकरण केले."
+    "devnote":
+        "मी माझी लायब्ररी मल्टी-सिलेक्ट मोड वापरून बॅकअप घेणे शक्य केले.\nमी माझे लायब्ररी पुनर्प्राप्ती UI सुधारित केले.\nइमेज डिस्प्ले फंक्शन वापरताना मी फोल्डर इमेज जोडली.\nमी सेटिंग्ज विभागात काही मजकूर सुधारित केला आहे."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "Поправена грешка што додаде датотеки во Мојата библиотека.\nПоправена грешка што предизвика погрешно прикажување на моменталниот статус кога TTS беше прекинат."
+    "devnote":
+        "Овозможив правење резервни копии со помош на режимот за повеќе избирање Моја библиотека.\nГо изменив интерфејсот за враќање на „Моја библиотека“.\nДодадов слика од папка кога ја користев функцијата за прикажување слики.\nИзменив дел од текстот во делот за поставки."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "എൻ്റെ ലൈബ്രറിയിലേക്ക് ഫയലുകൾ ചേർത്ത ഒരു ബഗ് പരിഹരിച്ചു.\nTTS നിർത്തിയപ്പോൾ നിലവിലെ സ്റ്റാറ്റസ് തെറ്റായി പ്രദർശിപ്പിക്കുന്നതിന് കാരണമായ ഒരു ബഗ് പരിഹരിച്ചു."
+    "devnote":
+        "എൻ്റെ ലൈബ്രറി മൾട്ടി-സെലക്ട് മോഡ് ഉപയോഗിച്ച് ബാക്കപ്പ് ചെയ്യുന്നത് ഞാൻ സാധ്യമാക്കി.\nഞാൻ എൻ്റെ ലൈബ്രറി വീണ്ടെടുക്കൽ UI പരിഷ്കരിച്ചു.\nഇമേജ് ഡിസ്പ്ലേ ഫംഗ്ഷൻ ഉപയോഗിക്കുമ്പോൾ ഞാൻ ഒരു ഫോൾഡർ ഇമേജ് ചേർത്തു.\nക്രമീകരണ വിഭാഗത്തിലെ ചില വാചകങ്ങൾ ഞാൻ പരിഷ്‌ക്കരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "Memperbaiki pepijat yang menambahkan fail pada Pustaka Saya.\nMemperbaiki pepijat yang menyebabkan status semasa dipaparkan secara tidak betul apabila TTS dihentikan."
+    "devnote":
+        "Saya memungkinkan untuk membuat sandaran menggunakan mod berbilang pilihan Pustaka Saya.\nSaya mengubah suai UI pemulihan Pustaka Saya.\nSaya menambah imej folder apabila menggunakan fungsi paparan imej.\nSaya mengubah suai beberapa teks dalam bahagian tetapan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "Миний номын санд файл нэмсэн алдааг зассан.\nTTS-г зогсоох үед одоогийн төлөвийг буруу харуулахад хүргэсэн алдааг зассан."
+    "devnote":
+        "Би My Library олон сонголттой горимыг ашиглан нөөцлөх боломжтой болгосон.\nБи Миний номын сангийн сэргээх UI-г өөрчилсөн.\nБи зураг харуулах функцийг ашиглахдаа хавтас дүрс нэмсэн.\nБи тохиргооны хэсэг дэх зарим текстийг өөрчилсөн."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "Nire liburutegian fitxategiak gehitzen zituen akats bat konpondu da.\nTTS gelditzen zenean uneko egoera gaizki bistaratzea eragiten zuen akats bat konpondu zen."
+    "devnote":
+        "Nire liburutegia aukera anitzeko modua erabiliz babeskopiak egitea posible egin nuen.\nNire liburutegia berreskuratzeko interfazea aldatu dut.\nKarpeta irudi bat gehitu dut irudiak bistaratzeko funtzioa erabiltzean.\nEzarpenen atalean testu batzuk aldatu ditut."
   },
   "버마어": {
     "key": "my",
-    "devnote": "ကျွန်ုပ်၏ ဒစ်ဂျစ်တိုက်သို့ ဖိုင်များကို ပေါင်းထည့်သည့် ချို့ယွင်းချက်တစ်ခုကို ပြင်ဆင်ခဲ့သည်။\nTTS ကို ရပ်တန့်လိုက်သောအခါ လက်ရှိအခြေအနေအား မှားယွင်းစွာပြသသွားသော ချို့ယွင်းချက်တစ်ခုကို ပြင်ဆင်ခဲ့သည်။"
+    "devnote":
+        "My Library Multi-select မုဒ်ကို အသုံးပြု၍ အရန်ကူးနိုင်စေရန် ပြုလုပ်ထားပါသည်။\nကျွန်ုပ်၏စာကြည့်တိုက် ပြန်လည်ရယူရေး UI ကို ပြင်ဆင်ထားပါသည်။\nရုပ်ပုံပြသမှုလုပ်ဆောင်ချက်ကို အသုံးပြုသောအခါတွင် ဖိုင်တွဲပုံတစ်ပုံကို ကျွန်ုပ်ထည့်သွင်းခဲ့သည်။\nဆက်တင်များကဏ္ဍရှိ စာသားအချို့ကို ကျွန်ုပ်ပြင်ဆင်ခဲ့သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "Đã sửa lỗi thêm tệp vào Thư viện của tôi.\nĐã sửa lỗi khiến trạng thái hiện tại hiển thị không chính xác khi TTS bị dừng."
+    "devnote":
+        "Tôi đã có thể sao lưu bằng chế độ chọn nhiều thư mục trong Thư viện của tôi.\nTôi đã sửa đổi giao diện người dùng khôi phục Thư viện của tôi.\nTôi đã thêm hình ảnh thư mục khi sử dụng chức năng hiển thị hình ảnh.\nTôi đã sửa đổi một số văn bản trong phần cài đặt."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "Выпраўлена памылка, якая дадавала файлы ў Маю бібліятэку.\nВыпраўлена памылка, з-за якой бягучы статус адлюстроўваўся няправільна пры спыненні TTS."
+    "devnote":
+        "Я зрабіў магчымым рэзервовае капіраванне з дапамогай рэжыму множнага выбару Маёй бібліятэкі.\nЯ змяніў інтэрфейс аднаўлення Маёй бібліятэкі.\nЯ дадаў выяву папкі пры выкарыстанні функцыі адлюстравання выявы.\nЯ змяніў частку тэксту ў раздзеле налад."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "আমার লাইব্রেরিতে ফাইল যোগ করে এমন একটি বাগ সংশোধন করা হয়েছে।\nএকটি বাগ সংশোধন করা হয়েছে যার কারণে বর্তমান স্থিতি ভুলভাবে প্রদর্শিত হয় যখন TTS বন্ধ করা হয়েছিল।"
+    "devnote":
+        "আমি আমার লাইব্রেরি মাল্টি-সিলেক্ট মোড ব্যবহার করে ব্যাক আপ করা সম্ভব করেছি।\nআমি আমার লাইব্রেরি পুনরুদ্ধার UI সংশোধন করেছি।\nইমেজ ডিসপ্লে ফাংশন ব্যবহার করার সময় আমি একটি ফোল্ডার ইমেজ যোগ করেছি।\nআমি সেটিংস বিভাগে কিছু পাঠ্য সংশোধন করেছি।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "Поправена е грешка, която добавя файлове към Моята библиотека.\nКоригирана грешка, която причиняваше неправилно показване на текущото състояние, когато TTS беше спрян."
+    "devnote":
+        "Направих възможно архивирането с помощта на режима за многократен избор на My Library.\nПромених потребителския интерфейс за възстановяване на My Library.\nДобавих изображение на папка, когато използвах функцията за показване на изображение.\nПромених част от текста в секцията с настройки."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "Исправљена грешка која је додавала датотеке у Моју библиотеку.\nИсправљена је грешка која је узроковала да се тренутни статус нетачно приказује када је ТТС заустављен."
+    "devnote":
+        "Омогућио сам прављење резервне копије користећи режим вишеструког избора Моја библиотека.\nИзменио сам кориснички интерфејс за опоравак моје библиотеке.\nДодао сам слику фасцикле када користим функцију приказа слике.\nИзменио сам део текста у одељку подешавања."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "Imerekebisha hitilafu iliyoongeza faili kwenye Maktaba Yangu.\nIlirekebisha hitilafu iliyosababisha hali ya sasa kuonyeshwa vibaya wakati TTS iliposimamishwa."
+    "devnote":
+        "Nilifanya iwezekane kuweka nakala rudufu kwa kutumia modi ya chaguo nyingi za Maktaba Yangu.\nNilirekebisha UI ya urejeshaji wa Maktaba Yangu.\nNiliongeza picha ya folda wakati wa kutumia kazi ya kuonyesha picha.\nNilirekebisha baadhi ya maandishi katika sehemu ya mipangilio."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "Fixade en bugg som lade till filer i Mitt bibliotek.\nFixade en bugg som gjorde att den aktuella statusen visades felaktigt när TTS stoppades."
+    "devnote":
+        "Jag gjorde det möjligt att säkerhetskopiera med flervalsläget Mitt bibliotek.\nJag ändrade återställningsgränssnittet för Mitt bibliotek.\nJag lade till en mappbild när jag använde bildvisningsfunktionen.\nJag ändrade en del av texten i avsnittet Inställningar."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "Se corrigió un error que agregaba archivos a Mi biblioteca.\nSe corrigió un error que causaba que el estado actual se mostrara incorrectamente cuando se detenía TTS."
+    "devnote":
+        "Hice posible realizar una copia de seguridad usando el modo de selección múltiple Mi biblioteca.\nModifiqué la interfaz de usuario de recuperación de Mi biblioteca.\nAgregué una imagen de carpeta cuando usé la función de visualización de imágenes.\nModifiqué parte del texto en la sección de configuración."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "Opravená chyba, ktorá pridávala súbory do Mojej knižnice.\nOpravená chyba, ktorá spôsobovala nesprávne zobrazenie aktuálneho stavu pri zastavení TTS."
+    "devnote":
+        "Zálohovanie som umožnil pomocou režimu s viacerými možnosťami výberu Moja knižnica.\nUpravil som používateľské rozhranie na obnovenie My Library.\nPridal som obrázok priečinka pri použití funkcie zobrazenia obrázkov.\nUpravil som časť textu v sekcii nastavení."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "Odpravljena napaka, ki je dodala datoteke v mojo knjižnico.\nOdpravljena je napaka, ki je povzročila nepravilen prikaz trenutnega stanja, ko je bil TTS ustavljen."
+    "devnote":
+        "Omogočil sem varnostno kopiranje z uporabo večizbirnega načina Moje knjižnice.\nSpremenil sem uporabniški vmesnik za obnovitev Moje knjižnice.\nPri uporabi funkcije prikaza slike sem dodal sliko mape.\nSpremenil sem nekaj besedila v razdelku z nastavitvami."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "මගේ පුස්තකාලයට ගොනු එකතු කළ දෝෂයක් විසඳා ඇත.\nTTS නැවැත්වූ විට වත්මන් තත්ත්වය වැරදි ලෙස පෙන්වීමට හේතු වූ දෝෂයක් විසඳා ඇත."
+    "devnote":
+        "මම My Library බහු-තේරුම් මාදිලිය භාවිතයෙන් උපස්ථ කිරීමට හැකි විය.\nමම මගේ පුස්තකාල ප්‍රතිසාධන UI වෙනස් කළෙමි.\nරූප සංදර්ශක ශ්‍රිතය භාවිතා කරන විට මම ෆෝල්ඩර රූපයක් එක් කළෙමි.\nමම සැකසුම් කොටසේ සමහර පෙළ වෙනස් කළෙමි."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "تم إصلاح الخلل الذي أدى إلى إضافة ملفات إلى مكتبتي.\nتم إصلاح الخلل الذي تسبب في عرض الحالة الحالية بشكل غير صحيح عند إيقاف تحويل النص إلى كلام (TTS)."
+    "devnote":
+        "لقد جعلت من الممكن إجراء النسخ الاحتياطي باستخدام وضع التحديد المتعدد لمكتبتي.\nلقد قمت بتعديل واجهة مستخدم استرداد مكتبتي.\nلقد أضفت صورة مجلد عند استخدام وظيفة عرض الصور.\nلقد قمت بتعديل بعض النص في قسم الإعدادات."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "Շտկվել է վրիպակ, որը ֆայլեր է ավելացրել Իմ գրադարանում:\nՇտկվել է վրիպակ, որի պատճառով ընթացիկ կարգավիճակը սխալ է ցուցադրվել TTS-ի դադարեցման ժամանակ:"
+    "devnote":
+        "Ես հնարավորություն տվեցի կրկնօրինակել՝ օգտագործելով «Իմ գրադարանը» բազմակի ընտրության ռեժիմը:\nԵս փոփոխել եմ Իմ գրադարանի վերականգնման միջերեսը:\nՊատկերների ցուցադրման գործառույթն օգտագործելիս ես թղթապանակի պատկեր եմ ավելացրել:\nԵս փոփոխել եմ տեքստի մի մասը կարգավորումների բաժնում:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "Lagaði villu sem bætti skrám við bókasafnið mitt.\nLagaði villu sem olli því að núverandi staða birtist rangt þegar TTS var stöðvað."
+    "devnote":
+        "Ég gerði það mögulegt að taka öryggisafrit með því að nota My Library fjölvalsstillinguna.\nÉg breytti endurheimtarviðmóti bókasafnsins míns.\nÉg bætti við möppumynd þegar ég notaði myndaskjáaðgerðina.\nÉg breytti hluta af textanum í stillingahlutanum."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "Faylları Kitabxanama əlavə edən səhv düzəldildi.\nTTS dayandırıldıqda cari statusun səhv göstərilməsinə səbəb olan bir səhv düzəldildi."
+    "devnote":
+        "Kitabxanam çox seçim rejimindən istifadə edərək ehtiyat nüsxəsini çıxarmağı mümkün etdim.\nKitabxanamın bərpa istifadəçi interfeysinə dəyişiklik etdim.\nŞəkil göstərmə funksiyasından istifadə edərkən qovluq şəklini əlavə etdim.\nParametrlər bölməsində bəzi mətnləri dəyişdirdim."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "Het 'n fout reggestel wat lêers by My Biblioteek gevoeg het.\nHet 'n fout reggestel wat veroorsaak het dat die huidige status verkeerd vertoon word toe TTS gestop is."
+    "devnote":
+        "Ek het dit moontlik gemaak om te rugsteun met behulp van die My Biblioteek multi-kiesmodus.\nEk het die My Biblioteek-herstel-UI verander.\nEk het 'n vouerprent bygevoeg toe ek die beeldvertoonfunksie gebruik het.\nEk het van die teks in die instellingsafdeling gewysig."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "Rregulloi një defekt që shtoi skedarë te Biblioteka ime.\nRregulloi një gabim që bëri që statusi aktual të shfaqej gabimisht kur TTS u ndal."
+    "devnote":
+        "Bëra të mundur krijimin e kopjeve rezervë duke përdorur modalitetin e shumëzgjedhjeve të Biblioteka ime.\nKam modifikuar ndërfaqen e rikuperimit të \"Biblioteka ime\".\nKam shtuar një imazh të dosjes kur përdor funksionin e shfaqjes së imazhit.\nKam modifikuar disa nga teksti në seksionin e cilësimeve."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "ወደ የእኔ ቤተ-መጽሐፍት ፋይሎችን የጨመረ ሳንካ ተጠግኗል።\nTTS ሲቆም የአሁኑ ሁኔታ በስህተት እንዲታይ ያደረገ ሳንካ ተስተካክሏል።"
+    "devnote":
+        "የእኔ ላይብረሪ ባለብዙ ምርጫ ሁነታን በመጠቀም ምትኬን ማስቀመጥ አስችሎኛል።\nየእኔን ቤተ-መጽሐፍት መልሶ ማግኛ UI አሻሽያለሁ።\nየምስል ማሳያ ተግባርን ስጠቀም የአቃፊ ምስል አክያለሁ።\nበቅንብሮች ክፍል ውስጥ ያለውን የተወሰነ ጽሑፍ አሻሽያለሁ።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "Parandatud viga, mis lisas failid jaotisesse Minu kogu.\nParandatud viga, mille tõttu kuvati TTS-i peatamisel praegune olek valesti."
+    "devnote":
+        "Tegin varundamise võimalikuks, kasutades režiimi Minu teek mitmikvaliku režiimi.\nMuutsin Minu raamatukogu taastamise kasutajaliidest.\nLisasin pildi kuvamise funktsiooni kasutamisel kaustapildi.\nMuutsin seadete jaotises osa tekstist."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "میری لائبریری میں فائلوں کو شامل کرنے والے ایک مسئلے کو ٹھیک کیا۔\nایک بگ کو ٹھیک کیا جس کی وجہ سے ٹی ٹی ایس کو روکے جانے پر موجودہ حیثیت غلط طریقے سے ظاہر ہوئی۔"
+    "devnote":
+        "میں نے مائی لائبریری ملٹی سلیکٹ موڈ کا استعمال کرتے ہوئے بیک اپ کرنا ممکن بنایا۔\nمیں نے My Library Recovery UI میں ترمیم کی۔\nامیج ڈسپلے فنکشن استعمال کرتے وقت میں نے فولڈر امیج شامل کیا۔\nمیں نے ترتیبات کے سیکشن میں کچھ متن میں ترمیم کی ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "Виправлено помилку, яка додавала файли в Мою бібліотеку.\nВиправлено помилку, яка спричиняла неправильне відображення поточного статусу під час зупинки TTS."
+    "devnote":
+        "Я створив резервну копію за допомогою режиму багаторазового вибору «Моя бібліотека».\nЯ змінив інтерфейс відновлення My Library.\nЯ додав зображення папки під час використання функції відображення зображення.\nЯ змінив частину тексту в розділі налаштувань."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "Risolto un bug che aggiungeva file a La mia libreria.\nRisolto un bug che causava la visualizzazione errata dello stato corrente quando TTS veniva interrotto."
+    "devnote":
+        "Ho reso possibile il backup utilizzando la modalità di selezione multipla della mia libreria.\nHo modificato l'interfaccia utente di ripristino della mia libreria.\nHo aggiunto un'immagine alla cartella quando utilizzo la funzione di visualizzazione delle immagini.\nHo modificato parte del testo nella sezione delle impostazioni."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "Memperbaiki bug yang menambahkan file ke Perpustakaanku.\nMemperbaiki bug yang menyebabkan status saat ini tidak ditampilkan dengan benar ketika TTS dihentikan."
+    "devnote":
+        "Saya memungkinkan untuk membuat cadangan menggunakan mode multi-pilih Perpustakaan Saya.\nSaya memodifikasi UI pemulihan Perpustakaan Saya.\nSaya menambahkan gambar folder saat menggunakan fungsi tampilan gambar.\nSaya memodifikasi beberapa teks di bagian pengaturan."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "マイライブラリにファイルが追加されるバグを修正しました。\nTTS 停止時に現在のステータスが正しく表示されないバグを修正しました。"
+    "devnote":
+        "マイライブラリ複数選択モードでバックアップできるようにしました。\nマイライブラリの回復UIを変更しました。\n画像表示機能使用時にフォルダ画像を追加しました。\n設定セクションのテキストの一部を修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "გამოსწორდა ხარვეზი, რომელმაც დაამატა ფაილები ჩემს ბიბლიოთეკაში.\nგამოსწორდა შეცდომა, რამაც გამოიწვია მიმდინარე სტატუსის არასწორად ჩვენება TTS-ის შეჩერებისას."
+    "devnote":
+        "მე შევძელი სარეზერვო ასლის შექმნა ჩემი ბიბლიოთეკის მრავალჯერადი შერჩევის რეჟიმის გამოყენებით.\nმე შევცვალე ჩემი ბიბლიოთეკის აღდგენის ინტერფეისი.\nსურათის ჩვენების ფუნქციის გამოყენებისას საქაღალდის სურათი დავამატე.\nმე შევცვალე ტექსტის ნაწილი პარამეტრების განყოფილებაში."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "Kulungiswe iphutha elengeze amafayela kulabhulali yami.\nKulungiswe iphutha elibangele ukuthi isimo samanje siboniswe ngokungalungile ngenkathi i-TTS imiswa."
+    "devnote":
+        "Ngenze ngakwazi ukwenza ikhophi yasenqolobaneni ngisebenzisa imodi yokukhetha okuningi kweLabhulali Yami.\nNgilungise i-UI yokutakula ilabhulali yami.\nNgengeze isithombe sefolda lapho ngisebenzisa umsebenzi wokubonisa isithombe.\nNgilungise omunye umbhalo esigabeni samasethingi."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "修复了将文件添加到“我的库”的错误。\n修复了 TTS 停止时导致当前状态显示不正确的错误。"
+    "devnote":
+        "我可以使用“我的图书馆”多选模式进行备份。\n我修改了“我的图书馆”恢复 UI。\n我在使用图像显示功能时添加了文件夹图像。\n我修改了设置部分中的一些文本。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "修復了將文件添加到“我的庫”的錯誤。\n修正了 TTS 停止時導致目前狀態顯示不正確的錯誤。"
+    "devnote":
+        "我可以使用「我的圖書館」多選模式進行備份。\n我修改了“我的圖書館”恢復 UI。\n我在使用圖像顯示功能時添加了資料夾圖像。\n我修改了設定部分中的一些文字。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "修復了將文件添加到“我的庫”的錯誤。\n修正了 TTS 停止時導致目前狀態顯示不正確的錯誤。"
+    "devnote":
+        "我可以使用「我的圖書館」多選模式進行備份。\n我修改了“我的圖書館”恢復 UI。\n我在使用圖像顯示功能時添加了資料夾圖像。\n我修改了設定部分中的一些文字。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "Opravena chyba, která přidávala soubory do Moje knihovny.\nOpravena chyba, která způsobovala, že se při zastavení TTS nesprávně zobrazoval aktuální stav."
+    "devnote":
+        "Umožnil jsem zálohování pomocí režimu vícenásobného výběru Moje knihovna.\nUpravil jsem uživatelské rozhraní pro obnovu Moje knihovna.\nPři použití funkce zobrazení obrázku jsem přidal obrázek složky.\nUpravil jsem část textu v sekci nastavení."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "Менің кітапханама файлдарды қосқан қате түзетілді.\nTTS тоқтатылған кезде ағымдағы күйдің дұрыс көрсетілмеуін тудырған қате түзетілді."
+    "devnote":
+        "Менің кітапханам көп таңдау режимі арқылы сақтық көшірме жасауға мүмкіндік бердім.\nМенің кітапханамды қалпына келтіру интерфейсін өзгерттім.\nКескінді көрсету функциясын пайдаланған кезде қалта кескінін қостым.\nПараметрлер бөліміндегі кейбір мәтінді өзгерттім."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "S'ha solucionat un error que afegeix fitxers a La meva biblioteca.\nS'ha corregit un error que provocava que l'estat actual es mostrés incorrectament quan s'aturava el TTS."
+    "devnote":
+        "Vaig fer possible fer una còpia de seguretat mitjançant el mode de selecció múltiple de La meva biblioteca.\nHe modificat la interfície d'usuari de recuperació de La meva biblioteca.\nHe afegit una imatge de carpeta quan feia servir la funció de visualització d'imatges.\nHe modificat part del text a la secció de configuració."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "ನನ್ನ ಲೈಬ್ರರಿಗೆ ಫೈಲ್‌ಗಳನ್ನು ಸೇರಿಸಿದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\nTTS ಅನ್ನು ನಿಲ್ಲಿಸಿದಾಗ ಪ್ರಸ್ತುತ ಸ್ಥಿತಿಯನ್ನು ತಪ್ಪಾಗಿ ಪ್ರದರ್ಶಿಸಲು ಕಾರಣವಾದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote":
+        "ನನ್ನ ಲೈಬ್ರರಿ ಬಹು-ಆಯ್ಕೆ ಮೋಡ್ ಅನ್ನು ಬಳಸಿಕೊಂಡು ಬ್ಯಾಕಪ್ ಮಾಡಲು ನಾನು ಸಾಧ್ಯವಾಗಿಸಿದೆ.\nನಾನು ನನ್ನ ಲೈಬ್ರರಿ ಮರುಪ್ರಾಪ್ತಿ UI ಅನ್ನು ಮಾರ್ಪಡಿಸಿದ್ದೇನೆ.\nಚಿತ್ರ ಪ್ರದರ್ಶನ ಕಾರ್ಯವನ್ನು ಬಳಸುವಾಗ ನಾನು ಫೋಲ್ಡರ್ ಚಿತ್ರವನ್ನು ಸೇರಿಸಿದೆ.\nನಾನು ಸೆಟ್ಟಿಂಗ್‌ಗಳ ವಿಭಾಗದಲ್ಲಿ ಕೆಲವು ಪಠ್ಯವನ್ನು ಮಾರ್ಪಡಿಸಿದ್ದೇನೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "Ispravljena je pogreška koja je dodavala datoteke u Moju knjižnicu.\nIspravljena je pogreška koja je uzrokovala neispravan prikaz trenutnog statusa kada je TTS zaustavljen."
+    "devnote":
+        "Omogućio sam sigurnosno kopiranje pomoću načina višestrukog odabira Moje knjižnice.\nPromijenio sam korisničko sučelje za oporavak My Library.\nDodao sam sliku mape prilikom korištenja funkcije prikaza slike.\nIzmijenio sam dio teksta u odjeljku postavki."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "ជួសជុលកំហុសដែលបន្ថែមឯកសារទៅបណ្ណាល័យរបស់ខ្ញុំ។\nបានជួសជុលកំហុសដែលបណ្តាលឱ្យស្ថានភាពបច្ចុប្បន្នត្រូវបានបង្ហាញមិនត្រឹមត្រូវនៅពេលដែល TTS ត្រូវបានបញ្ឈប់។"
+    "devnote":
+        "ខ្ញុំ​បាន​ធ្វើ​ឱ្យ​វា​អាច​បម្រុង​ទុក​ដោយ​ប្រើ​របៀប​ជ្រើសរើស​ច្រើន​បណ្ណាល័យ​របស់​ខ្ញុំ។\nខ្ញុំបានកែប្រែ UI ការសង្គ្រោះបណ្ណាល័យរបស់ខ្ញុំ។\nខ្ញុំបានបន្ថែមរូបភាពថតនៅពេលប្រើមុខងារបង្ហាញរូបភាព។\nខ្ញុំបានកែប្រែអត្ថបទមួយចំនួននៅក្នុងផ្នែកការកំណត់។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "Менин китепканама файлдарды кошкон ката оңдолду.\nTTS токтотулган учурда учурдагы статустун туура эмес көрсөтүлүшүнө алып келген мүчүлүштүк оңдолду."
+    "devnote":
+        "Мен Менин китепканам көп тандоо режимин колдонуу менен камдык көчүрмөнү сактоого мүмкүндүк бердим.\nМен Китепканамды калыбына келтирүү интерфейсин өзгөрттүм.\nСүрөттү көрсөтүү функциясын колдонууда папканын сүрөтүн коштум.\nМен жөндөөлөр бөлүмүндөгү тексттин айрымдарын өзгөрттүм."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "எனது நூலகத்தில் கோப்புகளைச் சேர்த்த பிழை சரி செய்யப்பட்டது.\nTTS நிறுத்தப்பட்டபோது தற்போதைய நிலை தவறாகக் காட்டப்படும் பிழை சரி செய்யப்பட்டது."
+    "devnote":
+        "எனது லைப்ரரி மல்டி-செலக்ட் பயன்முறையைப் பயன்படுத்தி காப்புப் பிரதி எடுப்பதை சாத்தியமாக்கினேன்.\nஎனது நூலக மீட்பு UI ஐ மாற்றியுள்ளேன்.\nபடக் காட்சி செயல்பாட்டைப் பயன்படுத்தும் போது கோப்புறை படத்தைச் சேர்த்தேன்.\nஅமைப்புகள் பிரிவில் உள்ள சில உரைகளை மாற்றியமைத்தேன்."
   },
   "태국어": {
     "key": "th",
-    "devnote": "แก้ไขข้อผิดพลาดที่เพิ่มไฟล์ลงในห้องสมุดของฉัน\nแก้ไขข้อบกพร่องที่ทำให้สถานะปัจจุบันแสดงไม่ถูกต้องเมื่อ TTS ถูกหยุด"
+    "devnote":
+        "ฉันทำให้สามารถสำรองข้อมูลได้โดยใช้โหมดเลือกหลายรายการของห้องสมุดของฉัน\nฉันแก้ไข UI การกู้คืนห้องสมุดของฉัน\nฉันเพิ่มรูปภาพของโฟลเดอร์เมื่อใช้ฟังก์ชันแสดงรูปภาพ\nฉันแก้ไขข้อความบางส่วนในส่วนการตั้งค่า"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "Kitaplığım'a dosya ekleyen bir hata düzeltildi.\nTTS durdurulduğunda mevcut durumun yanlış görüntülenmesine neden olan bir hata düzeltildi."
+    "devnote":
+        "Kitaplığım çoklu seçim modunu kullanarak yedeklemeyi mümkün kıldım.\nKitaplığım kurtarma kullanıcı arayüzünü değiştirdim.\nResim görüntüleme fonksiyonunu kullanırken bir klasör resmi ekledim.\nAyarlar bölümündeki metnin bir kısmını değiştirdim."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "నా లైబ్రరీకి ఫైల్‌లను జోడించిన బగ్ పరిష్కరించబడింది.\nTTS నిలిపివేయబడినప్పుడు ప్రస్తుత స్థితిని తప్పుగా ప్రదర్శించడానికి కారణమైన బగ్ పరిష్కరించబడింది."
+    "devnote":
+        "నేను నా లైబ్రరీ బహుళ-ఎంపిక మోడ్‌ని ఉపయోగించి బ్యాకప్ చేయడాన్ని సాధ్యం చేసాను.\nనేను నా లైబ్రరీ రికవరీ UIని సవరించాను.\nఇమేజ్ డిస్‌ప్లే ఫంక్షన్‌ని ఉపయోగిస్తున్నప్పుడు నేను ఫోల్డర్ చిత్రాన్ని జోడించాను.\nనేను సెట్టింగ్‌ల విభాగంలో కొన్ని వచనాన్ని సవరించాను."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਫਾਈਲਾਂ ਜੋੜਨ ਵਾਲੇ ਇੱਕ ਬੱਗ ਨੂੰ ਠੀਕ ਕੀਤਾ।\nਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਜਿਸ ਕਾਰਨ ਮੌਜੂਦਾ ਸਥਿਤੀ ਨੂੰ ਗਲਤ ਢੰਗ ਨਾਲ ਪ੍ਰਦਰਸ਼ਿਤ ਕੀਤਾ ਗਿਆ ਜਦੋਂ TTS ਨੂੰ ਰੋਕਿਆ ਗਿਆ ਸੀ।"
+    "devnote":
+        "ਮੈਂ ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ ਮਲਟੀ-ਸਿਲੈਕਟ ਮੋਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਬੈਕਅੱਪ ਲੈਣਾ ਸੰਭਵ ਬਣਾਇਆ ਹੈ।\nਮੈਂ ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ ਰਿਕਵਰੀ UI ਨੂੰ ਸੋਧਿਆ ਹੈ।\nਚਿੱਤਰ ਡਿਸਪਲੇ ਫੰਕਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਸਮੇਂ ਮੈਂ ਇੱਕ ਫੋਲਡਰ ਚਿੱਤਰ ਜੋੜਿਆ ਹੈ।\nਮੈਂ ਸੈਟਿੰਗਾਂ ਸੈਕਸ਼ਨ ਵਿੱਚ ਕੁਝ ਟੈਕਸਟ ਨੂੰ ਸੋਧਿਆ ਹੈ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "رفع اشکالی که فایل‌ها را به My Library اضافه می‌کرد.\nرفع اشکالی که باعث می شد هنگام توقف TTS وضعیت فعلی به اشتباه نمایش داده شود."
+    "devnote":
+        "من امکان تهیه نسخه پشتیبان با استفاده از حالت چند انتخابی My Library را فراهم کردم.\nمن رابط کاربری بازیابی My Library را تغییر دادم.\nهنگام استفاده از عملکرد نمایش تصویر، یک تصویر پوشه اضافه کردم.\nمن بخشی از متن را در قسمت تنظیمات اصلاح کردم."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "Corrigido um bug que adicionava arquivos à Minha Biblioteca.\nCorrigido um bug que fazia com que o status atual fosse exibido incorretamente quando o TTS era interrompido."
+    "devnote":
+        "Tornei possível fazer backup usando o modo de seleção múltipla da Minha Biblioteca.\nModifiquei a IU de recuperação da Minha Biblioteca.\nAdicionei uma imagem de pasta ao usar a função de exibição de imagem.\nModifiquei parte do texto na seção de configurações."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "Naprawiono błąd, który powodował dodanie plików do Mojej biblioteki.\nNaprawiono błąd, który powodował nieprawidłowe wyświetlanie bieżącego stanu po zatrzymaniu TTS."
+    "devnote":
+        "Umożliwiłem tworzenie kopii zapasowych przy użyciu trybu wielokrotnego wyboru Moja biblioteka.\nZmodyfikowałem interfejs odzyskiwania Mojej biblioteki.\nDodałem obraz folderu podczas korzystania z funkcji wyświetlania obrazów.\nZmodyfikowałem część tekstu w sekcji ustawień."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "Correction d'un bug qui ajoutait des fichiers à Ma bibliothèque.\nCorrection d'un bug qui provoquait un affichage incorrect de l'état actuel lorsque TTS était arrêté."
+    "devnote":
+        "J'ai rendu possible la sauvegarde en utilisant le mode de sélection multiple Ma bibliothèque.\nJ'ai modifié l'interface utilisateur de récupération de Ma bibliothèque.\nJ'ai ajouté une image de dossier lors de l'utilisation de la fonction d'affichage d'image.\nJ'ai modifié une partie du texte dans la section des paramètres."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "Korjattu virhe, joka lisäsi tiedostoja Omaan kirjastoon.\nKorjattu virhe, joka aiheutti nykyisen tilan näyttämisen väärin, kun TTS pysäytettiin."
+    "devnote":
+        "Tein mahdolliseksi varmuuskopioinnin käyttämällä Oma kirjasto -monivalintatilaa.\nMuokkasin Oma kirjasto -palautuskäyttöliittymää.\nLisäsin kansiokuvan, kun käytin kuvan näyttötoimintoa.\nMuokkasin osaa asetusten tekstistä."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "Inayos ang isang bug na nagdagdag ng mga file sa Aking Library.\nInayos ang isang bug na naging sanhi ng hindi tamang pagpapakita ng kasalukuyang katayuan noong itinigil ang TTS."
+    "devnote":
+        "Ginawa kong posible na mag-back up gamit ang My Library multi-select mode.\nBinago ko ang My Library recovery UI.\nNagdagdag ako ng imahe ng folder kapag ginagamit ang function ng pagpapakita ng imahe.\nBinago ko ang ilan sa mga teksto sa seksyon ng mga setting."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "Kijavítottunk egy hibát, amely fájlokat adott a Saját könyvtárhoz.\nKijavítottunk egy hibát, amely miatt a TTS leállításakor az aktuális állapot helytelenül jelent meg."
+    "devnote":
+        "Lehetővé tettem a biztonsági mentést a Saját könyvtár többszörös kiválasztás mód használatával.\nMódosítottam a Saját könyvtár helyreállítási felületét.\nA képmegjelenítés funkció használatakor hozzáadtam egy mappaképet.\nMódosítottam néhány szöveget a beállítások részben."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "תיקן באג שהוסיף קבצים לספרייה שלי.\nתיקן באג שגרם להצגת המצב הנוכחי באופן שגוי כאשר ה-TTS הופסק."
+    "devnote":
+        "אפשרתי לגבות באמצעות מצב הבחירה הרב של הספרייה שלי.\nשיניתי את ממשק המשתמש לשחזור הספרייה שלי.\nהוספתי תמונת תיקיה בעת שימוש בפונקציית הצגת התמונות.\nשיניתי חלק מהטקסט בקטע ההגדרות."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "मेरी लाइब्रेरी में फ़ाइलें जोड़ने वाले बग को ठीक किया गया।\nउस बग को ठीक किया गया जिसके कारण टीटीएस बंद होने पर वर्तमान स्थिति गलत तरीके से प्रदर्शित होती थी।"
+    "devnote":
+        "मैंने माई लाइब्रेरी बहु-चयन मोड का उपयोग करके बैकअप लेना संभव बना दिया है।\nमैंने अपनी लाइब्रेरी पुनर्प्राप्ति यूआई को संशोधित किया।\nछवि प्रदर्शन फ़ंक्शन का उपयोग करते समय मैंने एक फ़ोल्डर छवि जोड़ी।\nमैंने सेटिंग अनुभाग में कुछ पाठ को संशोधित किया है।"
   }
 }
