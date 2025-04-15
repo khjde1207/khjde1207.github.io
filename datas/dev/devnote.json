@@ -1,362 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote":
-        "I made it possible to back up using the My Library multi-select mode.\nI modified the My Library recovery UI.\nI added a folder image when using the image display function.\nI modified some of the text in the settings section."
+    "devnote": "Added a feature to delete history in bulk.\nChanged the rendering engine to legacy due to reports of stuttering.\nAdded a subscription plan to remove ads.\n- You can see it in Settings - Payment."
   },
   "한국어": {
     "key": "ko",
-    "devnote":
-        "내서재 다중선택 모드를 이용하여 백업 할수 있게 하였습니다. \n내서재 복구 UI 를 수정 하였습니다. \n이미지 표시기능 사용시 폴더 이미지를 추가하였습니다. . \n설정쪽 문구를 일부 수정 하였습니다."
+    "devnote": "히스토리 일괄 삭제 기능을 추가하였습니다. \n버벅인다는 제보가 있어서 렌더링 엔진을 레거시로 변경하였습니다.\n광고 제거를 위한 구독요금제를 추가하였습니다. \n  - 설정 - 결제 에서 볼 수 있습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote":
-        "Fixen posible facer unha copia de seguranza mediante o modo de selección múltiple A miña biblioteca.\nModifiquei a IU de recuperación da miña biblioteca.\nEngadín unha imaxe de cartafol cando utilizaba a función de visualización de imaxes.\nModifiquei parte do texto na sección de configuración."
+    "devnote": "Engadiuse unha función para eliminar o historial en masa.\nCambiouse o motor de renderizado ao legado debido aos informes de tartamudeo.\nEngadiuse un plan de subscrición para eliminar anuncios.\n- Podes velo en Configuración - Pago."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote":
-        "મેં મારી લાઇબ્રેરી મલ્ટિ-સિલેક્ટ મોડનો ઉપયોગ કરીને બેકઅપ લેવાનું શક્ય બનાવ્યું છે.\nમેં મારી લાઇબ્રેરી પુનઃપ્રાપ્તિ UI માં ફેરફાર કર્યો છે.\nઇમેજ ડિસ્પ્લે ફંક્શનનો ઉપયોગ કરતી વખતે મેં ફોલ્ડર ઇમેજ ઉમેરી.\nમેં સેટિંગ્સ વિભાગમાં કેટલાક ટેક્સ્ટને સંશોધિત કર્યા છે."
+    "devnote": "બલ્કમાં ઈતિહાસ ડિલીટ કરવા માટે ફીચર ઉમેર્યું.\nસ્ટટરિંગના અહેવાલોને કારણે રેન્ડરિંગ એન્જિનને વારસામાં બદલ્યું.\nજાહેરાતો દૂર કરવા માટે સબ્સ્ક્રિપ્શન પ્લાન ઉમેર્યો.\n- તમે તેને સેટિંગ્સ - ચુકવણીમાં જોઈ શકો છો."
   },
   "그리스어": {
     "key": "el",
-    "devnote":
-        "Κατέστησα δυνατή τη δημιουργία αντιγράφων ασφαλείας χρησιμοποιώντας τη λειτουργία πολλαπλής επιλογής Η βιβλιοθήκη μου.\nΤροποποίησα τη διεπαφή χρήστη ανάκτησης της βιβλιοθήκης μου.\nΠρόσθεσα μια εικόνα φακέλου όταν χρησιμοποιούσα τη λειτουργία εμφάνισης εικόνας.\nΤροποποίησα μέρος του κειμένου στην ενότητα ρυθμίσεων."
+    "devnote": "Προστέθηκε μια δυνατότητα για μαζική διαγραφή ιστορικού.\nΆλλαξε τη μηχανή απόδοσης σε παλαιού τύπου λόγω αναφορών για τραυλισμό.\nΠροστέθηκε ένα σχέδιο συνδρομής για την κατάργηση διαφημίσεων.\n- Μπορείτε να το δείτε στις Ρυθμίσεις - Πληρωμή."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote":
-        "Ik heb het mogelijk gemaakt om een ​​back-up te maken met behulp van de multi-selectiemodus van Mijn bibliotheek.\nIk heb de herstelinterface van Mijn bibliotheek aangepast.\nIk heb een mapafbeelding toegevoegd toen ik de beeldweergavefunctie gebruikte.\nIk heb een deel van de tekst in het instellingengedeelte aangepast."
+    "devnote": "Een functie toegevoegd om de geschiedenis bulksgewijs te verwijderen.\nDe rendering-engine is gewijzigd naar verouderd vanwege meldingen van stotteren.\nEen abonnementsplan toegevoegd om advertenties te verwijderen.\n- Je kunt het zien in Instellingen - Betaling."
   },
   "네팔어": {
     "key": "ne",
-    "devnote":
-        "मैले मेरो लाइब्रेरी बहु-चयन मोड प्रयोग गरेर ब्याकअप गर्न सम्भव बनाएको छु।\nमैले मेरो पुस्तकालय रिकभरी UI परिमार्जन गरें।\nछवि प्रदर्शन प्रकार्य प्रयोग गर्दा मैले फोल्डर छवि थपे।\nमैले सेटिङ खण्डमा केही पाठ परिमार्जन गरें।"
+    "devnote": "बल्कमा इतिहास मेटाउनको लागि एक सुविधा थपियो।\nस्टटरिङको रिपोर्टको कारणले रेन्डरिङ इन्जिनलाई लिगेसीमा परिवर्तन गरियो।\nविज्ञापनहरू हटाउन सदस्यता योजना थपियो।\n- तपाइँ यसलाई सेटिङहरूमा देख्न सक्नुहुन्छ - भुक्तानी।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote":
-        "Jeg gjorde det mulig å sikkerhetskopiere ved å bruke My Library multi-select-modus.\nJeg endret gjenopprettingsgrensesnittet for Mitt bibliotek.\nJeg la til et mappebilde når jeg brukte bildevisningsfunksjonen.\nJeg endret noe av teksten i innstillingsdelen."
+    "devnote": "Lagt til en funksjon for å slette historikk i bulk.\nEndret gjengivelsesmotoren til eldre på grunn av rapporter om stamming.\nLagt til en abonnementsplan for å fjerne annonser.\n- Du kan se det i Innstillinger - Betaling."
   },
   "덴마크어": {
     "key": "da",
-    "devnote":
-        "Jeg gjorde det muligt at sikkerhedskopiere ved hjælp af My Library multi-select-tilstand.\nJeg ændrede Mit biblioteks gendannelses-UI.\nJeg tilføjede et mappebillede, når jeg brugte billedvisningsfunktionen.\nJeg har ændret noget af teksten i indstillingssektionen."
+    "devnote": "Tilføjet en funktion til at slette historie i bulk.\nÆndrede gengivelsesmotoren til legacy på grund af rapporter om hakken.\nTilføjet en abonnementsplan for at fjerne annoncer.\n- Du kan se det i Indstillinger - Betaling."
   },
   "독일어": {
     "key": "de",
-    "devnote":
-        "Ich habe es möglich gemacht, mithilfe des Mehrfachauswahlmodus „Meine Bibliothek“ ein Backup zu erstellen.\nIch habe die Benutzeroberfläche zur Wiederherstellung von „Meine Bibliothek“ geändert.\nIch habe bei Verwendung der Bildanzeigefunktion ein Ordnerbild hinzugefügt.\nIch habe einen Teil des Textes im Abschnitt „Einstellungen“ geändert."
+    "devnote": "Es wurde eine Funktion zum Massenlöschen des Verlaufs hinzugefügt.\nAufgrund von Berichten über Stottern wurde die Rendering-Engine auf Legacy umgestellt.\nEin Abonnement zum Entfernen von Anzeigen wurde hinzugefügt.\n- Sie können es unter Einstellungen - Zahlung sehen."
   },
   "라오어": {
     "key": "lo",
-    "devnote":
-        "ຂ້ອຍເຮັດໃຫ້ມັນເປັນໄປໄດ້ໃນການສຳຮອງຂໍ້ມູນໂດຍໃຊ້ໂໝດເລືອກຫຼາຍຫ້ອງສະໝຸດຂອງຂ້ອຍ.\nຂ້ອຍໄດ້ແກ້ໄຂ UI ການກູ້ຂໍ້ມູນຫ້ອງສະໝຸດຂອງຂ້ອຍ.\nຂ້ອຍໄດ້ເພີ່ມຮູບພາບໂຟນເດີເມື່ອໃຊ້ຟັງຊັນການສະແດງຮູບພາບ.\nຂ້າພະເຈົ້າໄດ້ແກ້ໄຂບາງຂໍ້ຄວາມໃນສ່ວນການຕັ້ງຄ່າ."
+    "devnote": "ເພີ່ມຄຸນສົມບັດເພື່ອລຶບປະຫວັດເປັນຈຳນວນຫຼາຍ.\nປ່ຽນເຄື່ອງຈັກການສະແດງຜົນເປັນມໍລະດົກເນື່ອງຈາກມີລາຍງານການເວົ້າສະດຸ້ງ.\nເພີ່ມແຜນການສະໝັກໃຊ້ເພື່ອລຶບໂຄສະນາອອກ.\n- ທ່ານສາມາດເບິ່ງມັນໄດ້ໃນການຕັ້ງຄ່າ - ການຈ່າຍເງິນ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote":
-        "Es padarīju iespējamu dublēšanu, izmantojot vairāku atlases režīmu Mana bibliotēka.\nEs mainīju Manas bibliotēkas atkopšanas lietotāja saskarni.\nEs pievienoju mapes attēlu, izmantojot attēla parādīšanas funkciju.\nEs pārveidoju daļu teksta iestatījumu sadaļā."
+    "devnote": "Pievienota vēstures lielapjoma dzēšanas funkcija.\nRenderēšanas programma tika mainīta uz mantoto, jo tika ziņots par stostīšanos.\nPievienots abonēšanas plāns reklāmu noņemšanai.\n- To var redzēt sadaļā Iestatījumi - Maksājums."
   },
   "러시아어": {
     "key": "ru",
-    "devnote":
-        "Я сделал возможным резервное копирование с помощью режима множественного выбора «Моя библиотека».\nЯ изменил пользовательский интерфейс восстановления моей библиотеки.\nЯ добавил изображение папки при использовании функции отображения изображений.\nЯ изменил часть текста в разделе настроек."
+    "devnote": "Добавлена ​​возможность массового удаления истории.\nМеханизм рендеринга изменен на устаревший из-за сообщений о зависаниях.\nДобавлен план подписки для удаления рекламы.\n- Посмотреть это можно в Настройках - Оплата."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote":
-        "Am făcut posibilă realizarea de copii de rezervă folosind modul My Library multi-select.\nAm modificat interfața de utilizare de recuperare a Bibliotecii mele.\nAm adăugat o imagine de folder când am folosit funcția de afișare a imaginii.\nAm modificat o parte din text în secțiunea de setări."
+    "devnote": "S-a adăugat o funcție pentru a șterge istoricul în bloc.\nS-a schimbat motorul de randare la moștenire din cauza rapoartelor de bâlbâială.\nS-a adăugat un plan de abonament pentru a elimina reclamele.\n- Îl puteți vedea în Setări - Plată."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote":
-        "Sudariau galimybę kurti atsargines kopijas naudojant Mano bibliotekos kelių pasirinkimo režimą.\nPakeičiau Mano bibliotekos atkūrimo vartotojo sąsają.\nNaudodamas vaizdo rodymo funkciją pridėjau aplanko vaizdą.\nDalį teksto pakeičiau nustatymų skiltyje."
+    "devnote": "Pridėta funkcija, leidžianti masiškai ištrinti istoriją.\nPateikimo variklis pakeistas į seną dėl pranešimų apie mikčiojimą.\nPridėtas prenumeratos planas, skirtas pašalinti skelbimus.\n– Jį galite pamatyti skiltyje „Nustatymai“ – „Mokėjimas“."
   },
   "마라티어": {
     "key": "mr",
-    "devnote":
-        "मी माझी लायब्ररी मल्टी-सिलेक्ट मोड वापरून बॅकअप घेणे शक्य केले.\nमी माझे लायब्ररी पुनर्प्राप्ती UI सुधारित केले.\nइमेज डिस्प्ले फंक्शन वापरताना मी फोल्डर इमेज जोडली.\nमी सेटिंग्ज विभागात काही मजकूर सुधारित केला आहे."
+    "devnote": "मोठ्या प्रमाणात इतिहास हटविण्यासाठी वैशिष्ट्य जोडले.\nतोतरेपणाच्या अहवालांमुळे प्रस्तुतीकरण इंजिनला लेगेसीमध्ये बदलले.\nजाहिराती काढण्यासाठी सदस्यता योजना जोडली.\n- तुम्ही ते सेटिंग्ज - पेमेंटमध्ये पाहू शकता."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote":
-        "Овозможив правење резервни копии со помош на режимот за повеќе избирање Моја библиотека.\nГо изменив интерфејсот за враќање на „Моја библиотека“.\nДодадов слика од папка кога ја користев функцијата за прикажување слики.\nИзменив дел од текстот во делот за поставки."
+    "devnote": "Додадена е функција за бришење на историјата на големо.\nГо смени моторот за рендерирање во наследен поради извештаи за пелтечење.\nДодаден план за претплата за отстранување на реклами.\n- Можете да го видите во Поставки - Плаќање."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote":
-        "എൻ്റെ ലൈബ്രറി മൾട്ടി-സെലക്ട് മോഡ് ഉപയോഗിച്ച് ബാക്കപ്പ് ചെയ്യുന്നത് ഞാൻ സാധ്യമാക്കി.\nഞാൻ എൻ്റെ ലൈബ്രറി വീണ്ടെടുക്കൽ UI പരിഷ്കരിച്ചു.\nഇമേജ് ഡിസ്പ്ലേ ഫംഗ്ഷൻ ഉപയോഗിക്കുമ്പോൾ ഞാൻ ഒരു ഫോൾഡർ ഇമേജ് ചേർത്തു.\nക്രമീകരണ വിഭാഗത്തിലെ ചില വാചകങ്ങൾ ഞാൻ പരിഷ്‌ക്കരിച്ചു."
+    "devnote": "ചരിത്രം മൊത്തത്തിൽ ഇല്ലാതാക്കാൻ ഒരു ഫീച്ചർ ചേർത്തു.\nഇടർച്ചയെക്കുറിച്ചുള്ള റിപ്പോർട്ടുകൾ കാരണം റെൻഡറിംഗ് എഞ്ചിൻ ലെഗസിയിലേക്ക് മാറ്റി.\nപരസ്യങ്ങൾ നീക്കം ചെയ്യാൻ ഒരു സബ്‌സ്‌ക്രിപ്‌ഷൻ പ്ലാൻ ചേർത്തു.\n- നിങ്ങൾക്ക് ഇത് ക്രമീകരണങ്ങൾ - പേയ്‌മെൻ്റ് എന്നതിൽ കാണാൻ കഴിയും."
   },
   "말레이어": {
     "key": "ms",
-    "devnote":
-        "Saya memungkinkan untuk membuat sandaran menggunakan mod berbilang pilihan Pustaka Saya.\nSaya mengubah suai UI pemulihan Pustaka Saya.\nSaya menambah imej folder apabila menggunakan fungsi paparan imej.\nSaya mengubah suai beberapa teks dalam bahagian tetapan."
+    "devnote": "Menambahkan ciri untuk memadamkan sejarah secara pukal.\nMenukar enjin rendering kepada legasi kerana laporan tentang kegagapan.\nMenambahkan pelan langganan untuk mengalih keluar iklan.\n- Anda boleh melihatnya dalam Tetapan - Pembayaran."
   },
   "몽골어": {
     "key": "mn",
-    "devnote":
-        "Би My Library олон сонголттой горимыг ашиглан нөөцлөх боломжтой болгосон.\nБи Миний номын сангийн сэргээх UI-г өөрчилсөн.\nБи зураг харуулах функцийг ашиглахдаа хавтас дүрс нэмсэн.\nБи тохиргооны хэсэг дэх зарим текстийг өөрчилсөн."
+    "devnote": "Түүхийг бөөнөөр нь устгах функцийг нэмсэн.\nГацах тухай мэдээллүүдийн улмаас дүрслэх хөдөлгүүрийг хуучин болгож өөрчилсөн.\nЗарыг устгах захиалгын төлөвлөгөөг нэмсэн.\n- Та үүнийг Тохиргоо - Төлбөр хэсгээс харж болно."
   },
   "바스크어": {
     "key": "eu",
-    "devnote":
-        "Nire liburutegia aukera anitzeko modua erabiliz babeskopiak egitea posible egin nuen.\nNire liburutegia berreskuratzeko interfazea aldatu dut.\nKarpeta irudi bat gehitu dut irudiak bistaratzeko funtzioa erabiltzean.\nEzarpenen atalean testu batzuk aldatu ditut."
+    "devnote": "Historia masiboki ezabatzeko eginbide bat gehitu da.\nErrendatze-motorra ondarea aldatu da, toteltze-txostenen ondorioz.\nIragarkiak kentzeko harpidetza-plan bat gehitu da.\n- Ezarpenak - Ordainketa atalean ikus dezakezu."
   },
   "버마어": {
     "key": "my",
-    "devnote":
-        "My Library Multi-select မုဒ်ကို အသုံးပြု၍ အရန်ကူးနိုင်စေရန် ပြုလုပ်ထားပါသည်။\nကျွန်ုပ်၏စာကြည့်တိုက် ပြန်လည်ရယူရေး UI ကို ပြင်ဆင်ထားပါသည်။\nရုပ်ပုံပြသမှုလုပ်ဆောင်ချက်ကို အသုံးပြုသောအခါတွင် ဖိုင်တွဲပုံတစ်ပုံကို ကျွန်ုပ်ထည့်သွင်းခဲ့သည်။\nဆက်တင်များကဏ္ဍရှိ စာသားအချို့ကို ကျွန်ုပ်ပြင်ဆင်ခဲ့သည်။"
+    "devnote": "အစုလိုက်မှတ်တမ်းကို ဖျက်ရန် အင်္ဂါရပ်ကို ထည့်သွင်းထားသည်။\nစကားထစ်နေသည့် သတင်းများကြောင့် တင်ဆက်သည့်အင်ဂျင်ကို အမွေအနှစ်အဖြစ် ပြောင်းလဲခဲ့သည်။\nကြော်ငြာများကို ဖယ်ရှားရန် စာရင်းသွင်းမှု အစီအစဉ်ကို ထည့်သွင်းခဲ့သည်။\n- ဆက်တင်များ - ငွေပေးချေမှုတွင် ၎င်းကို သင်တွေ့နိုင်ပါသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote":
-        "Tôi đã có thể sao lưu bằng chế độ chọn nhiều thư mục trong Thư viện của tôi.\nTôi đã sửa đổi giao diện người dùng khôi phục Thư viện của tôi.\nTôi đã thêm hình ảnh thư mục khi sử dụng chức năng hiển thị hình ảnh.\nTôi đã sửa đổi một số văn bản trong phần cài đặt."
+    "devnote": "Đã thêm tính năng xóa lịch sử hàng loạt.\nĐã thay đổi công cụ kết xuất thành cũ do có báo cáo về tình trạng giật hình.\nĐã thêm gói đăng ký để loại bỏ quảng cáo.\n- Bạn có thể thấy nó trong Cài đặt - Thanh toán."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote":
-        "Я зрабіў магчымым рэзервовае капіраванне з дапамогай рэжыму множнага выбару Маёй бібліятэкі.\nЯ змяніў інтэрфейс аднаўлення Маёй бібліятэкі.\nЯ дадаў выяву папкі пры выкарыстанні функцыі адлюстравання выявы.\nЯ змяніў частку тэксту ў раздзеле налад."
+    "devnote": "Дададзена функцыя масавага выдалення гісторыі.\nМеханізм рэндэрынгу зменены на састарэлы з-за паведамленняў аб затрымцы.\nДададзены план падпіскі для выдалення рэкламы.\n- Вы можаце ўбачыць гэта ў Наладах - Аплата."
   },
   "벵골어": {
     "key": "bn",
-    "devnote":
-        "আমি আমার লাইব্রেরি মাল্টি-সিলেক্ট মোড ব্যবহার করে ব্যাক আপ করা সম্ভব করেছি।\nআমি আমার লাইব্রেরি পুনরুদ্ধার UI সংশোধন করেছি।\nইমেজ ডিসপ্লে ফাংশন ব্যবহার করার সময় আমি একটি ফোল্ডার ইমেজ যোগ করেছি।\nআমি সেটিংস বিভাগে কিছু পাঠ্য সংশোধন করেছি।"
+    "devnote": "বাল্ক ইতিহাস মুছে ফেলার জন্য একটি বৈশিষ্ট্য যোগ করা হয়েছে.\nতোতলামির রিপোর্টের কারণে রেন্ডারিং ইঞ্জিনকে উত্তরাধিকারে পরিবর্তন করা হয়েছে৷\nবিজ্ঞাপন সরাতে একটি সদস্যতা পরিকল্পনা যোগ করা হয়েছে.\n- আপনি সেটিংস - পেমেন্টে এটি দেখতে পারেন।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote":
-        "Направих възможно архивирането с помощта на режима за многократен избор на My Library.\nПромених потребителския интерфейс за възстановяване на My Library.\nДобавих изображение на папка, когато използвах функцията за показване на изображение.\nПромених част от текста в секцията с настройки."
+    "devnote": "Добавена е функция за групово изтриване на историята.\nПроменена е машината за изобразяване на наследена поради съобщения за заекване.\nДобавен е абонаментен план за премахване на реклами.\n- Можете да го видите в Настройки - Плащане."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote":
-        "Омогућио сам прављење резервне копије користећи режим вишеструког избора Моја библиотека.\nИзменио сам кориснички интерфејс за опоравак моје библиотеке.\nДодао сам слику фасцикле када користим функцију приказа слике.\nИзменио сам део текста у одељку подешавања."
+    "devnote": "Додата је функција за групно брисање историје.\nПромењен механизам за рендеровање у застарели због извештаја о муцању.\nДодан је план претплате за уклањање огласа.\n- Можете га видети у Подешавања - Плаћање."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote":
-        "Nilifanya iwezekane kuweka nakala rudufu kwa kutumia modi ya chaguo nyingi za Maktaba Yangu.\nNilirekebisha UI ya urejeshaji wa Maktaba Yangu.\nNiliongeza picha ya folda wakati wa kutumia kazi ya kuonyesha picha.\nNilirekebisha baadhi ya maandishi katika sehemu ya mipangilio."
+    "devnote": "Imeongeza kipengele ili kufuta historia kwa wingi.\nIlibadilisha injini ya uwasilishaji kuwa urithi kwa sababu ya ripoti za kudumaa.\nUmeongeza mpango wa usajili ili kuondoa matangazo.\n- Unaweza kuiona katika Mipangilio - Malipo."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote":
-        "Jag gjorde det möjligt att säkerhetskopiera med flervalsläget Mitt bibliotek.\nJag ändrade återställningsgränssnittet för Mitt bibliotek.\nJag lade till en mappbild när jag använde bildvisningsfunktionen.\nJag ändrade en del av texten i avsnittet Inställningar."
+    "devnote": "Lade till en funktion för att radera historik i bulk.\nÄndrade renderingsmotorn till äldre på grund av rapporter om stamning.\nLade till en prenumerationsplan för att ta bort annonser.\n- Du kan se det i Inställningar - Betalning."
   },
   "스페인어": {
     "key": "es",
-    "devnote":
-        "Hice posible realizar una copia de seguridad usando el modo de selección múltiple Mi biblioteca.\nModifiqué la interfaz de usuario de recuperación de Mi biblioteca.\nAgregué una imagen de carpeta cuando usé la función de visualización de imágenes.\nModifiqué parte del texto en la sección de configuración."
+    "devnote": "Se agregó una función para eliminar el historial de forma masiva.\nSe cambió el motor de renderizado a heredado debido a informes de tartamudeo.\nSe agregó un plan de suscripción para eliminar anuncios.\n- Puedes verlo en Configuración - Pago."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote":
-        "Zálohovanie som umožnil pomocou režimu s viacerými možnosťami výberu Moja knižnica.\nUpravil som používateľské rozhranie na obnovenie My Library.\nPridal som obrázok priečinka pri použití funkcie zobrazenia obrázkov.\nUpravil som časť textu v sekcii nastavení."
+    "devnote": "Pridaná funkcia na hromadné vymazanie histórie.\nZmenil vykresľovací mechanizmus na starý kvôli správam o koktaní.\nPridaný plán odberu na odstránenie reklám.\n- Vidíte to v Nastaveniach - Platba."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote":
-        "Omogočil sem varnostno kopiranje z uporabo večizbirnega načina Moje knjižnice.\nSpremenil sem uporabniški vmesnik za obnovitev Moje knjižnice.\nPri uporabi funkcije prikaza slike sem dodal sliko mape.\nSpremenil sem nekaj besedila v razdelku z nastavitvami."
+    "devnote": "Dodana funkcija za brisanje zgodovine v velikem obsegu.\nMehanizem za upodabljanje je spremenjen v podedovanega zaradi poročil o zatikanju.\nDodan naročniški načrt za odstranitev oglasov.\n- Ogledate si ga lahko v Nastavitve - Plačilo."
   },
   "싱할라어": {
     "key": "si",
-    "devnote":
-        "මම My Library බහු-තේරුම් මාදිලිය භාවිතයෙන් උපස්ථ කිරීමට හැකි විය.\nමම මගේ පුස්තකාල ප්‍රතිසාධන UI වෙනස් කළෙමි.\nරූප සංදර්ශක ශ්‍රිතය භාවිතා කරන විට මම ෆෝල්ඩර රූපයක් එක් කළෙමි.\nමම සැකසුම් කොටසේ සමහර පෙළ වෙනස් කළෙමි."
+    "devnote": "ඉතිහාසය තොග වශයෙන් මකා දැමීමට විශේෂාංගයක් එක් කරන ලදී.\nපැකිලී යාමේ වාර්තා හේතුවෙන් විදැහුම්කරණ එන්ජිම උරුමයට වෙනස් කරන ලදී.\nදැන්වීම් ඉවත් කිරීමට දායක සැලැස්මක් එක් කරන ලදී.\n- ඔබට එය සැකසීම් - ගෙවීම් තුළ දැකිය හැක."
   },
   "아랍어": {
     "key": "ar",
-    "devnote":
-        "لقد جعلت من الممكن إجراء النسخ الاحتياطي باستخدام وضع التحديد المتعدد لمكتبتي.\nلقد قمت بتعديل واجهة مستخدم استرداد مكتبتي.\nلقد أضفت صورة مجلد عند استخدام وظيفة عرض الصور.\nلقد قمت بتعديل بعض النص في قسم الإعدادات."
+    "devnote": "تمت إضافة ميزة لحذف السجل بكميات كبيرة.\nتم تغيير محرك العرض إلى محرك قديم بسبب تقارير التأتأة.\nتمت إضافة خطة اشتراك لإزالة الإعلانات.\n- يمكنك رؤيته في الإعدادات - الدفع."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote":
-        "Ես հնարավորություն տվեցի կրկնօրինակել՝ օգտագործելով «Իմ գրադարանը» բազմակի ընտրության ռեժիմը:\nԵս փոփոխել եմ Իմ գրադարանի վերականգնման միջերեսը:\nՊատկերների ցուցադրման գործառույթն օգտագործելիս ես թղթապանակի պատկեր եմ ավելացրել:\nԵս փոփոխել եմ տեքստի մի մասը կարգավորումների բաժնում:"
+    "devnote": "Ավելացվեց պատմությունը զանգվածաբար ջնջելու գործառույթ:\nԿակազության մասին հաղորդումների պատճառով վերածվել է ռենդերային շարժիչի ժառանգության:\nԱվելացրել է բաժանորդագրության պլան՝ գովազդը հեռացնելու համար:\n- Դուք կարող եք տեսնել այն Կարգավորումներ - Վճարում:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote":
-        "Ég gerði það mögulegt að taka öryggisafrit með því að nota My Library fjölvalsstillinguna.\nÉg breytti endurheimtarviðmóti bókasafnsins míns.\nÉg bætti við möppumynd þegar ég notaði myndaskjáaðgerðina.\nÉg breytti hluta af textanum í stillingahlutanum."
+    "devnote": "Bætti við eiginleika til að eyða sögu í einu.\nBreytti flutningsvélinni í arfleifð vegna tilkynninga um stam.\nBætti við áskriftaráætlun til að fjarlægja auglýsingar.\n- Þú getur séð það í Stillingar - Greiðsla."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote":
-        "Kitabxanam çox seçim rejimindən istifadə edərək ehtiyat nüsxəsini çıxarmağı mümkün etdim.\nKitabxanamın bərpa istifadəçi interfeysinə dəyişiklik etdim.\nŞəkil göstərmə funksiyasından istifadə edərkən qovluq şəklini əlavə etdim.\nParametrlər bölməsində bəzi mətnləri dəyişdirdim."
+    "devnote": "Tarixi toplu şəkildə silmək funksiyası əlavə edildi.\nKəkələmə xəbərlərinə görə render mühərriki köhnəyə dəyişdirildi.\nReklamları silmək üçün abunə planı əlavə edildi.\n- Siz bunu Parametrlər - Ödəniş bölməsində görə bilərsiniz."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote":
-        "Ek het dit moontlik gemaak om te rugsteun met behulp van die My Biblioteek multi-kiesmodus.\nEk het die My Biblioteek-herstel-UI verander.\nEk het 'n vouerprent bygevoeg toe ek die beeldvertoonfunksie gebruik het.\nEk het van die teks in die instellingsafdeling gewysig."
+    "devnote": "Het 'n kenmerk bygevoeg om geskiedenis in grootmaat uit te vee.\nVerander die weergawe-enjin na nalatenskap as gevolg van verslae van hakkel.\nHet 'n intekeningplan bygevoeg om advertensies te verwyder.\n- Jy kan dit sien in Instellings - Betaling."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote":
-        "Bëra të mundur krijimin e kopjeve rezervë duke përdorur modalitetin e shumëzgjedhjeve të Biblioteka ime.\nKam modifikuar ndërfaqen e rikuperimit të \"Biblioteka ime\".\nKam shtuar një imazh të dosjes kur përdor funksionin e shfaqjes së imazhit.\nKam modifikuar disa nga teksti në seksionin e cilësimeve."
+    "devnote": "U shtua një veçori për të fshirë historikun në masë.\nNdryshoi motorin e interpretimit në të vjetër për shkak të raporteve për belbëzimin.\nShtoi një plan abonimi për të hequr reklamat.\n- Mund ta shihni te Cilësimet - Pagesa."
   },
   "암하라어": {
     "key": "am",
-    "devnote":
-        "የእኔ ላይብረሪ ባለብዙ ምርጫ ሁነታን በመጠቀም ምትኬን ማስቀመጥ አስችሎኛል።\nየእኔን ቤተ-መጽሐፍት መልሶ ማግኛ UI አሻሽያለሁ።\nየምስል ማሳያ ተግባርን ስጠቀም የአቃፊ ምስል አክያለሁ።\nበቅንብሮች ክፍል ውስጥ ያለውን የተወሰነ ጽሑፍ አሻሽያለሁ።"
+    "devnote": "ታሪክን በጅምላ የሚሰርዝ ባህሪ ታክሏል።\nየመንተባተብ ሪፖርቶች ምክንያት የማሳያ ሞተሩን ወደ ውርስ ለውጧል።\nማስታወቂያዎችን ለማስወገድ የደንበኝነት ምዝገባ እቅድ ታክሏል።\n- በቅንብሮች - ክፍያ ውስጥ ሊያዩት ይችላሉ።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote":
-        "Tegin varundamise võimalikuks, kasutades režiimi Minu teek mitmikvaliku režiimi.\nMuutsin Minu raamatukogu taastamise kasutajaliidest.\nLisasin pildi kuvamise funktsiooni kasutamisel kaustapildi.\nMuutsin seadete jaotises osa tekstist."
+    "devnote": "Lisatud on funktsioon ajaloo hulgi kustutamiseks.\nRenderdusmootor muudeti kogelemise teadete tõttu pärandiks.\nReklaamide eemaldamiseks on lisatud liitumisplaan.\n- Näete seda jaotises Seaded - Makse."
   },
   "우르두어": {
     "key": "ur",
-    "devnote":
-        "میں نے مائی لائبریری ملٹی سلیکٹ موڈ کا استعمال کرتے ہوئے بیک اپ کرنا ممکن بنایا۔\nمیں نے My Library Recovery UI میں ترمیم کی۔\nامیج ڈسپلے فنکشن استعمال کرتے وقت میں نے فولڈر امیج شامل کیا۔\nمیں نے ترتیبات کے سیکشن میں کچھ متن میں ترمیم کی ہے۔"
+    "devnote": "بڑی تعداد میں تاریخ کو حذف کرنے کے لیے ایک خصوصیت شامل کی گئی۔\nہکلانے کی اطلاعات کی وجہ سے رینڈرنگ انجن کو میراث میں تبدیل کر دیا گیا۔\nاشتہارات کو ہٹانے کے لیے سبسکرپشن پلان شامل کیا گیا۔\n- آپ اسے ترتیبات - ادائیگی میں دیکھ سکتے ہیں۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote":
-        "Я створив резервну копію за допомогою режиму багаторазового вибору «Моя бібліотека».\nЯ змінив інтерфейс відновлення My Library.\nЯ додав зображення папки під час використання функції відображення зображення.\nЯ змінив частину тексту в розділі налаштувань."
+    "devnote": "Додано функцію масового видалення історії.\nЗмінено механізм візуалізації на застарілий через повідомлення про затримки.\nДодано тарифний план для видалення реклами.\n- Ви можете побачити це в Налаштуваннях - Оплата."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote":
-        "Ho reso possibile il backup utilizzando la modalità di selezione multipla della mia libreria.\nHo modificato l'interfaccia utente di ripristino della mia libreria.\nHo aggiunto un'immagine alla cartella quando utilizzo la funzione di visualizzazione delle immagini.\nHo modificato parte del testo nella sezione delle impostazioni."
+    "devnote": "Aggiunta una funzionalità per eliminare la cronologia in blocco.\nModificato il motore di rendering in legacy a causa di segnalazioni di stuttering.\nAggiunto un piano di abbonamento per rimuovere gli annunci.\n- Puoi vederlo in Impostazioni - Pagamento."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote":
-        "Saya memungkinkan untuk membuat cadangan menggunakan mode multi-pilih Perpustakaan Saya.\nSaya memodifikasi UI pemulihan Perpustakaan Saya.\nSaya menambahkan gambar folder saat menggunakan fungsi tampilan gambar.\nSaya memodifikasi beberapa teks di bagian pengaturan."
+    "devnote": "Menambahkan fitur untuk menghapus riwayat secara massal.\nMengubah mesin rendering menjadi lama karena laporan kegagapan.\nMenambahkan paket berlangganan untuk menghapus iklan.\n- Anda dapat melihatnya di Pengaturan - Pembayaran."
   },
   "일본어": {
     "key": "ja",
-    "devnote":
-        "マイライブラリ複数選択モードでバックアップできるようにしました。\nマイライブラリの回復UIを変更しました。\n画像表示機能使用時にフォルダ画像を追加しました。\n設定セクションのテキストの一部を修正しました。"
+    "devnote": "履歴を一括削除する機能を追加しました。\n途切れが報告されているため、レンダリング エンジンをレガシーに変更しました。\n広告を削除するサブスクリプション プランを追加しました。\n- [設定] - [支払い] で確認できます。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote":
-        "მე შევძელი სარეზერვო ასლის შექმნა ჩემი ბიბლიოთეკის მრავალჯერადი შერჩევის რეჟიმის გამოყენებით.\nმე შევცვალე ჩემი ბიბლიოთეკის აღდგენის ინტერფეისი.\nსურათის ჩვენების ფუნქციის გამოყენებისას საქაღალდის სურათი დავამატე.\nმე შევცვალე ტექსტის ნაწილი პარამეტრების განყოფილებაში."
+    "devnote": "დამატებულია ფუნქცია ისტორიის ნაყარი წაშლისთვის.\nრენდერინგის ძრავა შეიცვალა ძველებურად, ჭუჭყის შესახებ ცნობების გამო.\nდამატებულია გამოწერის გეგმა რეკლამების წასაშლელად.\n- ამის ნახვა შეგიძლიათ პარამეტრებში - გადახდა."
   },
   "줄루어": {
     "key": "zu",
-    "devnote":
-        "Ngenze ngakwazi ukwenza ikhophi yasenqolobaneni ngisebenzisa imodi yokukhetha okuningi kweLabhulali Yami.\nNgilungise i-UI yokutakula ilabhulali yami.\nNgengeze isithombe sefolda lapho ngisebenzisa umsebenzi wokubonisa isithombe.\nNgilungise omunye umbhalo esigabeni samasethingi."
+    "devnote": "Kwengezwe isici ukususa umlando ngobuningi.\nIshintshe injini enikezelayo yaba yifa ngenxa yemibiko yokungingiza.\nKwengezwe uhlelo lokubhalisa ukuze kususwe izikhangiso.\n- Ungayibona kokuthi Izilungiselelo - Inkokhelo."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote":
-        "我可以使用“我的图书馆”多选模式进行备份。\n我修改了“我的图书馆”恢复 UI。\n我在使用图像显示功能时添加了文件夹图像。\n我修改了设置部分中的一些文本。"
+    "devnote": "新增批量删除历史记录的功能。\n由于卡顿的报告，将渲染引擎更改为旧版。\n添加了去除广告的订阅计划。\n- 您可以在“设置”-“支付”中查看。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote":
-        "我可以使用「我的圖書館」多選模式進行備份。\n我修改了“我的圖書館”恢復 UI。\n我在使用圖像顯示功能時添加了資料夾圖像。\n我修改了設定部分中的一些文字。"
+    "devnote": "新增批次刪除歷史記錄的功能。\n由於卡頓的報告，將渲染引擎更改為舊版。\n新增了去除廣告的訂閱方案。\n- 您可以在「設定」-「付款」中查看。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote":
-        "我可以使用「我的圖書館」多選模式進行備份。\n我修改了“我的圖書館”恢復 UI。\n我在使用圖像顯示功能時添加了資料夾圖像。\n我修改了設定部分中的一些文字。"
+    "devnote": "新增批次刪除歷史記錄的功能。\n由於卡頓的報告，將渲染引擎更改為舊版。\n新增了去除廣告的訂閱方案。\n- 您可以在「設定」-「付款」中查看。"
   },
   "체코어": {
     "key": "cs",
-    "devnote":
-        "Umožnil jsem zálohování pomocí režimu vícenásobného výběru Moje knihovna.\nUpravil jsem uživatelské rozhraní pro obnovu Moje knihovna.\nPři použití funkce zobrazení obrázku jsem přidal obrázek složky.\nUpravil jsem část textu v sekci nastavení."
+    "devnote": "Přidána funkce pro hromadné mazání historie.\nZměněno vykreslovací jádro na starší kvůli zprávám o zadrhávání.\nPřidán plán předplatného k odstranění reklam.\n- Vidíte to v Nastavení - Platba."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote":
-        "Менің кітапханам көп таңдау режимі арқылы сақтық көшірме жасауға мүмкіндік бердім.\nМенің кітапханамды қалпына келтіру интерфейсін өзгерттім.\nКескінді көрсету функциясын пайдаланған кезде қалта кескінін қостым.\nПараметрлер бөліміндегі кейбір мәтінді өзгерттім."
+    "devnote": "Тарихты жаппай жою мүмкіндігі қосылды.\nКекіру туралы хабарларға байланысты көрсету қозғалтқышы бұрынғыға өзгертілді.\nЖарнаманы жою үшін жазылым жоспары қосылды.\n- Сіз оны \"Параметрлер\" - \"Төлем\" бөлімінен көре аласыз."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote":
-        "Vaig fer possible fer una còpia de seguretat mitjançant el mode de selecció múltiple de La meva biblioteca.\nHe modificat la interfície d'usuari de recuperació de La meva biblioteca.\nHe afegit una imatge de carpeta quan feia servir la funció de visualització d'imatges.\nHe modificat part del text a la secció de configuració."
+    "devnote": "S'ha afegit una funció per eliminar l'historial de manera massiva.\nS'ha canviat el motor de renderització a heretat a causa dels informes de tartamudeig.\nS'ha afegit un pla de subscripció per eliminar anuncis.\n- Ho podeu veure a Configuració - Pagament."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote":
-        "ನನ್ನ ಲೈಬ್ರರಿ ಬಹು-ಆಯ್ಕೆ ಮೋಡ್ ಅನ್ನು ಬಳಸಿಕೊಂಡು ಬ್ಯಾಕಪ್ ಮಾಡಲು ನಾನು ಸಾಧ್ಯವಾಗಿಸಿದೆ.\nನಾನು ನನ್ನ ಲೈಬ್ರರಿ ಮರುಪ್ರಾಪ್ತಿ UI ಅನ್ನು ಮಾರ್ಪಡಿಸಿದ್ದೇನೆ.\nಚಿತ್ರ ಪ್ರದರ್ಶನ ಕಾರ್ಯವನ್ನು ಬಳಸುವಾಗ ನಾನು ಫೋಲ್ಡರ್ ಚಿತ್ರವನ್ನು ಸೇರಿಸಿದೆ.\nನಾನು ಸೆಟ್ಟಿಂಗ್‌ಗಳ ವಿಭಾಗದಲ್ಲಿ ಕೆಲವು ಪಠ್ಯವನ್ನು ಮಾರ್ಪಡಿಸಿದ್ದೇನೆ."
+    "devnote": "ಇತಿಹಾಸವನ್ನು ದೊಡ್ಡ ಪ್ರಮಾಣದಲ್ಲಿ ಅಳಿಸಲು ವೈಶಿಷ್ಟ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\nತೊದಲುವಿಕೆಯ ವರದಿಗಳಿಂದಾಗಿ ರೆಂಡರಿಂಗ್ ಎಂಜಿನ್ ಅನ್ನು ಪರಂಪರೆಗೆ ಬದಲಾಯಿಸಲಾಗಿದೆ.\nಜಾಹೀರಾತುಗಳನ್ನು ತೆಗೆದುಹಾಕಲು ಚಂದಾದಾರಿಕೆ ಯೋಜನೆಯನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ನೀವು ಅದನ್ನು ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ನೋಡಬಹುದು - ಪಾವತಿ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote":
-        "Omogućio sam sigurnosno kopiranje pomoću načina višestrukog odabira Moje knjižnice.\nPromijenio sam korisničko sučelje za oporavak My Library.\nDodao sam sliku mape prilikom korištenja funkcije prikaza slike.\nIzmijenio sam dio teksta u odjeljku postavki."
+    "devnote": "Dodana značajka za skupno brisanje povijesti.\nPromijenio je mehanizam za renderiranje u naslijeđeni zbog izvješća o zastajkivanju.\nDodan je plan pretplate za uklanjanje oglasa.\n- Možete vidjeti u Postavkama - Plaćanje."
   },
   "크메르어": {
     "key": "km",
-    "devnote":
-        "ខ្ញុំ​បាន​ធ្វើ​ឱ្យ​វា​អាច​បម្រុង​ទុក​ដោយ​ប្រើ​របៀប​ជ្រើសរើស​ច្រើន​បណ្ណាល័យ​របស់​ខ្ញុំ។\nខ្ញុំបានកែប្រែ UI ការសង្គ្រោះបណ្ណាល័យរបស់ខ្ញុំ។\nខ្ញុំបានបន្ថែមរូបភាពថតនៅពេលប្រើមុខងារបង្ហាញរូបភាព។\nខ្ញុំបានកែប្រែអត្ថបទមួយចំនួននៅក្នុងផ្នែកការកំណត់។"
+    "devnote": "បានបន្ថែមមុខងារមួយដើម្បីលុបប្រវត្តិជាដុំ។\nបាន​ប្តូរ​ម៉ាស៊ីន​បង្ហាញ​ទៅ​ជា​កេរដំណែល​ដោយសារ​មាន​របាយការណ៍​ថា​មាន​ការ​រអាក់រអួល។\nបានបន្ថែមគម្រោងការជាវដើម្បីលុបការផ្សាយពាណិជ្ជកម្ម។\n- អ្នកអាចឃើញវានៅក្នុងការកំណត់ - ការទូទាត់។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote":
-        "Мен Менин китепканам көп тандоо режимин колдонуу менен камдык көчүрмөнү сактоого мүмкүндүк бердим.\nМен Китепканамды калыбына келтирүү интерфейсин өзгөрттүм.\nСүрөттү көрсөтүү функциясын колдонууда папканын сүрөтүн коштум.\nМен жөндөөлөр бөлүмүндөгү тексттин айрымдарын өзгөрттүм."
+    "devnote": "Таржымалды жапырт жок кылуу мүмкүнчүлүгү кошулду.\nКекечтенүү тууралуу билдирүүлөрдөн улам рендеринг кыймылдаткычы мурункуга өзгөртүлдү.\nЖарнамаларды алып салуу үчүн жазылуу планы кошулду.\n- Сиз аны Жөндөөлөрдөн көрө аласыз - Төлөм."
   },
   "타밀어": {
     "key": "ta",
-    "devnote":
-        "எனது லைப்ரரி மல்டி-செலக்ட் பயன்முறையைப் பயன்படுத்தி காப்புப் பிரதி எடுப்பதை சாத்தியமாக்கினேன்.\nஎனது நூலக மீட்பு UI ஐ மாற்றியுள்ளேன்.\nபடக் காட்சி செயல்பாட்டைப் பயன்படுத்தும் போது கோப்புறை படத்தைச் சேர்த்தேன்.\nஅமைப்புகள் பிரிவில் உள்ள சில உரைகளை மாற்றியமைத்தேன்."
+    "devnote": "வரலாற்றை மொத்தமாக நீக்கும் அம்சம் சேர்க்கப்பட்டது.\nதிணறல் பற்றிய அறிக்கைகள் காரணமாக ரெண்டரிங் இன்ஜின் மரபுக்கு மாற்றப்பட்டது.\nவிளம்பரங்களை அகற்ற சந்தா திட்டம் சேர்க்கப்பட்டது.\n- நீங்கள் அதை அமைப்புகளில் பார்க்க முடியும் - கட்டணம்."
   },
   "태국어": {
     "key": "th",
-    "devnote":
-        "ฉันทำให้สามารถสำรองข้อมูลได้โดยใช้โหมดเลือกหลายรายการของห้องสมุดของฉัน\nฉันแก้ไข UI การกู้คืนห้องสมุดของฉัน\nฉันเพิ่มรูปภาพของโฟลเดอร์เมื่อใช้ฟังก์ชันแสดงรูปภาพ\nฉันแก้ไขข้อความบางส่วนในส่วนการตั้งค่า"
+    "devnote": "เพิ่มคุณสมบัติในการลบประวัติจำนวนมาก\nเปลี่ยนเอ็นจิ้นการเรนเดอร์เป็นแบบเดิมเนื่องจากรายงานการพูดติดอ่าง\nเพิ่มแผนการสมัครสมาชิกเพื่อลบโฆษณา\n- คุณสามารถดูได้ในการตั้งค่า - การชำระเงิน"
   },
   "터키어": {
     "key": "tr",
-    "devnote":
-        "Kitaplığım çoklu seçim modunu kullanarak yedeklemeyi mümkün kıldım.\nKitaplığım kurtarma kullanıcı arayüzünü değiştirdim.\nResim görüntüleme fonksiyonunu kullanırken bir klasör resmi ekledim.\nAyarlar bölümündeki metnin bir kısmını değiştirdim."
+    "devnote": "Geçmişi toplu olarak silme özelliği eklendi.\nKekemelik raporları nedeniyle işleme motoru eski olarak değiştirildi.\nReklamları kaldırmak için bir abonelik planı eklendi.\n- Bunu Ayarlar - Ödeme bölümünde görebilirsiniz."
   },
   "텔루구어": {
     "key": "te",
-    "devnote":
-        "నేను నా లైబ్రరీ బహుళ-ఎంపిక మోడ్‌ని ఉపయోగించి బ్యాకప్ చేయడాన్ని సాధ్యం చేసాను.\nనేను నా లైబ్రరీ రికవరీ UIని సవరించాను.\nఇమేజ్ డిస్‌ప్లే ఫంక్షన్‌ని ఉపయోగిస్తున్నప్పుడు నేను ఫోల్డర్ చిత్రాన్ని జోడించాను.\nనేను సెట్టింగ్‌ల విభాగంలో కొన్ని వచనాన్ని సవరించాను."
+    "devnote": "చరిత్రను పెద్దమొత్తంలో తొలగించడానికి ఒక ఫీచర్ జోడించబడింది.\nనత్తిగా మాట్లాడటం యొక్క నివేదికల కారణంగా రెండరింగ్ ఇంజిన్‌ను లెగసీకి మార్చారు.\nప్రకటనలను తీసివేయడానికి సబ్‌స్క్రిప్షన్ ప్లాన్ జోడించబడింది.\n- మీరు దీన్ని సెట్టింగ్‌లు - చెల్లింపులో చూడవచ్చు."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote":
-        "ਮੈਂ ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ ਮਲਟੀ-ਸਿਲੈਕਟ ਮੋਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਬੈਕਅੱਪ ਲੈਣਾ ਸੰਭਵ ਬਣਾਇਆ ਹੈ।\nਮੈਂ ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ ਰਿਕਵਰੀ UI ਨੂੰ ਸੋਧਿਆ ਹੈ।\nਚਿੱਤਰ ਡਿਸਪਲੇ ਫੰਕਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਸਮੇਂ ਮੈਂ ਇੱਕ ਫੋਲਡਰ ਚਿੱਤਰ ਜੋੜਿਆ ਹੈ।\nਮੈਂ ਸੈਟਿੰਗਾਂ ਸੈਕਸ਼ਨ ਵਿੱਚ ਕੁਝ ਟੈਕਸਟ ਨੂੰ ਸੋਧਿਆ ਹੈ।"
+    "devnote": "ਬਲਕ ਵਿੱਚ ਇਤਿਹਾਸ ਨੂੰ ਮਿਟਾਉਣ ਲਈ ਇੱਕ ਵਿਸ਼ੇਸ਼ਤਾ ਸ਼ਾਮਲ ਕੀਤੀ ਗਈ।\nਅੜਚਣ ਦੀਆਂ ਰਿਪੋਰਟਾਂ ਦੇ ਕਾਰਨ ਰੈਂਡਰਿੰਗ ਇੰਜਣ ਨੂੰ ਵਿਰਾਸਤ ਵਿੱਚ ਬਦਲ ਦਿੱਤਾ ਗਿਆ।\nਇਸ਼ਤਿਹਾਰਾਂ ਨੂੰ ਹਟਾਉਣ ਲਈ ਇੱਕ ਗਾਹਕੀ ਯੋਜਨਾ ਸ਼ਾਮਲ ਕੀਤੀ ਗਈ।\n- ਤੁਸੀਂ ਇਸਨੂੰ ਸੈਟਿੰਗਾਂ - ਭੁਗਤਾਨ ਵਿੱਚ ਦੇਖ ਸਕਦੇ ਹੋ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote":
-        "من امکان تهیه نسخه پشتیبان با استفاده از حالت چند انتخابی My Library را فراهم کردم.\nمن رابط کاربری بازیابی My Library را تغییر دادم.\nهنگام استفاده از عملکرد نمایش تصویر، یک تصویر پوشه اضافه کردم.\nمن بخشی از متن را در قسمت تنظیمات اصلاح کردم."
+    "devnote": "یک ویژگی برای حذف تاریخچه به صورت انبوه اضافه شده است.\nبه دلیل گزارش‌هایی مبنی بر لکنت، موتور رندر را به نسخه قدیمی تغییر داد.\nیک طرح اشتراک برای حذف تبلیغات اضافه شده است.\n- می توانید آن را در تنظیمات - پرداخت مشاهده کنید."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote":
-        "Tornei possível fazer backup usando o modo de seleção múltipla da Minha Biblioteca.\nModifiquei a IU de recuperação da Minha Biblioteca.\nAdicionei uma imagem de pasta ao usar a função de exibição de imagem.\nModifiquei parte do texto na seção de configurações."
+    "devnote": "Adicionado um recurso para excluir o histórico em massa.\nAlterado o mecanismo de renderização para legado devido a relatos de gagueira.\nAdicionado um plano de assinatura para remover anúncios.\n- Você pode ver em Configurações - Pagamento."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote":
-        "Umożliwiłem tworzenie kopii zapasowych przy użyciu trybu wielokrotnego wyboru Moja biblioteka.\nZmodyfikowałem interfejs odzyskiwania Mojej biblioteki.\nDodałem obraz folderu podczas korzystania z funkcji wyświetlania obrazów.\nZmodyfikowałem część tekstu w sekcji ustawień."
+    "devnote": "Dodano funkcję zbiorczego usuwania historii.\nZmieniono silnik renderujący na starszy ze względu na raporty o zacinaniu się.\nDodano plan subskrypcji, aby usunąć reklamy.\n- Możesz to zobaczyć w Ustawieniach - Płatność."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote":
-        "J'ai rendu possible la sauvegarde en utilisant le mode de sélection multiple Ma bibliothèque.\nJ'ai modifié l'interface utilisateur de récupération de Ma bibliothèque.\nJ'ai ajouté une image de dossier lors de l'utilisation de la fonction d'affichage d'image.\nJ'ai modifié une partie du texte dans la section des paramètres."
+    "devnote": "Ajout d'une fonctionnalité pour supprimer l'historique en masse.\nModification du moteur de rendu en mode hérité en raison de rapports de bégaiement.\nAjout d'un plan d'abonnement pour supprimer les publicités.\n- Vous pouvez le voir dans Paramètres - Paiement."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote":
-        "Tein mahdolliseksi varmuuskopioinnin käyttämällä Oma kirjasto -monivalintatilaa.\nMuokkasin Oma kirjasto -palautuskäyttöliittymää.\nLisäsin kansiokuvan, kun käytin kuvan näyttötoimintoa.\nMuokkasin osaa asetusten tekstistä."
+    "devnote": "Lisätty ominaisuus, jolla voit poistaa historian kerralla.\nRenderöintimoottori vaihdettiin vanhaksi änkytysraporttien vuoksi.\nLisätty tilaussuunnitelma mainosten poistamiseksi.\n- Näet sen kohdasta Asetukset - Maksu."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote":
-        "Ginawa kong posible na mag-back up gamit ang My Library multi-select mode.\nBinago ko ang My Library recovery UI.\nNagdagdag ako ng imahe ng folder kapag ginagamit ang function ng pagpapakita ng imahe.\nBinago ko ang ilan sa mga teksto sa seksyon ng mga setting."
+    "devnote": "Nagdagdag ng feature para tanggalin ang history nang maramihan.\nGinawang legacy ang rendering engine dahil sa mga ulat ng pagkautal.\nNagdagdag ng plano ng subscription para mag-alis ng mga ad.\n- Makikita mo ito sa Mga Setting - Pagbabayad."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote":
-        "Lehetővé tettem a biztonsági mentést a Saját könyvtár többszörös kiválasztás mód használatával.\nMódosítottam a Saját könyvtár helyreállítási felületét.\nA képmegjelenítés funkció használatakor hozzáadtam egy mappaképet.\nMódosítottam néhány szöveget a beállítások részben."
+    "devnote": "Egy funkció hozzáadva az előzmények tömeges törléséhez.\nA renderelő motort örököltre cserélték a dadogásról szóló jelentések miatt.\nElőfizetési csomag hozzáadva a hirdetések eltávolításához.\n- Megtekintheti a Beállítások - Fizetés menüpontban."
   },
   "히브리어": {
     "key": "iw",
-    "devnote":
-        "אפשרתי לגבות באמצעות מצב הבחירה הרב של הספרייה שלי.\nשיניתי את ממשק המשתמש לשחזור הספרייה שלי.\nהוספתי תמונת תיקיה בעת שימוש בפונקציית הצגת התמונות.\nשיניתי חלק מהטקסט בקטע ההגדרות."
+    "devnote": "נוספה תכונה למחיקת היסטוריה בכמות גדולה.\nשינה את מנוע העיבוד למדור קודם עקב דיווחים על גמגום.\nנוספה תוכנית מנוי להסרת מודעות.\n- אתה יכול לראות את זה בהגדרות - תשלום."
   },
   "힌디어": {
     "key": "hi",
-    "devnote":
-        "मैंने माई लाइब्रेरी बहु-चयन मोड का उपयोग करके बैकअप लेना संभव बना दिया है।\nमैंने अपनी लाइब्रेरी पुनर्प्राप्ति यूआई को संशोधित किया।\nछवि प्रदर्शन फ़ंक्शन का उपयोग करते समय मैंने एक फ़ोल्डर छवि जोड़ी।\nमैंने सेटिंग अनुभाग में कुछ पाठ को संशोधित किया है।"
+    "devnote": "इतिहास को थोक में हटाने की सुविधा जोड़ी गई।\nहकलाने की रिपोर्ट के कारण रेंडरिंग इंजन को लीगेसी में बदल दिया गया।\nविज्ञापनों को हटाने के लिए एक सदस्यता योजना जोड़ी गई।\n- आप इसे सेटिंग्स - पेमेंट में देख सकते हैं।"
   }
 }
