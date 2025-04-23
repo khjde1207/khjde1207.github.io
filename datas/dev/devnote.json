@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "Added a feature to delete history in bulk.\nChanged the rendering engine to legacy due to reports of stuttering.\nAdded a subscription plan to remove ads.\n- You can see it in Settings - Payment."
+    "devnote": "Fixed a bug that occasionally caused the screen to go blank."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "히스토리 일괄 삭제 기능을 추가하였습니다. \n버벅인다는 제보가 있어서 렌더링 엔진을 레거시로 변경하였습니다.\n광고 제거를 위한 구독요금제를 추가하였습니다. \n  - 설정 - 결제 에서 볼 수 있습니다."
+    "devnote": "간혹 화면이 먹통이 되는 버그를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "Engadiuse unha función para eliminar o historial en masa.\nCambiouse o motor de renderizado ao legado debido aos informes de tartamudeo.\nEngadiuse un plan de subscrición para eliminar anuncios.\n- Podes velo en Configuración - Pago."
+    "devnote": "Corrixiuse un erro que ocasionalmente facía que a pantalla quedase en branco."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "બલ્કમાં ઈતિહાસ ડિલીટ કરવા માટે ફીચર ઉમેર્યું.\nસ્ટટરિંગના અહેવાલોને કારણે રેન્ડરિંગ એન્જિનને વારસામાં બદલ્યું.\nજાહેરાતો દૂર કરવા માટે સબ્સ્ક્રિપ્શન પ્લાન ઉમેર્યો.\n- તમે તેને સેટિંગ્સ - ચુકવણીમાં જોઈ શકો છો."
+    "devnote": "એક ભૂલને ઠીક કરી જે પ્રસંગોપાત સ્ક્રીનને ખાલી થવાનું કારણ બને છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "Προστέθηκε μια δυνατότητα για μαζική διαγραφή ιστορικού.\nΆλλαξε τη μηχανή απόδοσης σε παλαιού τύπου λόγω αναφορών για τραυλισμό.\nΠροστέθηκε ένα σχέδιο συνδρομής για την κατάργηση διαφημίσεων.\n- Μπορείτε να το δείτε στις Ρυθμίσεις - Πληρωμή."
+    "devnote": "Διορθώθηκε ένα σφάλμα που περιστασιακά έκανε την οθόνη κενή."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "Een functie toegevoegd om de geschiedenis bulksgewijs te verwijderen.\nDe rendering-engine is gewijzigd naar verouderd vanwege meldingen van stotteren.\nEen abonnementsplan toegevoegd om advertenties te verwijderen.\n- Je kunt het zien in Instellingen - Betaling."
+    "devnote": "Een bug opgelost die er af en toe voor zorgde dat het scherm leeg werd."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "बल्कमा इतिहास मेटाउनको लागि एक सुविधा थपियो।\nस्टटरिङको रिपोर्टको कारणले रेन्डरिङ इन्जिनलाई लिगेसीमा परिवर्तन गरियो।\nविज्ञापनहरू हटाउन सदस्यता योजना थपियो।\n- तपाइँ यसलाई सेटिङहरूमा देख्न सक्नुहुन्छ - भुक्तानी।"
+    "devnote": "कहिलेकाहीँ स्क्रिन खाली हुने कारणले गर्दा बग फिक्स गरियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "Lagt til en funksjon for å slette historikk i bulk.\nEndret gjengivelsesmotoren til eldre på grunn av rapporter om stamming.\nLagt til en abonnementsplan for å fjerne annonser.\n- Du kan se det i Innstillinger - Betaling."
+    "devnote": "Rettet en feil som av og til førte til at skjermen ble blank."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "Tilføjet en funktion til at slette historie i bulk.\nÆndrede gengivelsesmotoren til legacy på grund af rapporter om hakken.\nTilføjet en abonnementsplan for at fjerne annoncer.\n- Du kan se det i Indstillinger - Betaling."
+    "devnote": "Rettede en fejl, der lejlighedsvis fik skærmen til at blive tom."
   },
   "독일어": {
     "key": "de",
-    "devnote": "Es wurde eine Funktion zum Massenlöschen des Verlaufs hinzugefügt.\nAufgrund von Berichten über Stottern wurde die Rendering-Engine auf Legacy umgestellt.\nEin Abonnement zum Entfernen von Anzeigen wurde hinzugefügt.\n- Sie können es unter Einstellungen - Zahlung sehen."
+    "devnote": "Es wurde ein Fehler behoben, der gelegentlich dazu führte, dass der Bildschirm leer wurde."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "ເພີ່ມຄຸນສົມບັດເພື່ອລຶບປະຫວັດເປັນຈຳນວນຫຼາຍ.\nປ່ຽນເຄື່ອງຈັກການສະແດງຜົນເປັນມໍລະດົກເນື່ອງຈາກມີລາຍງານການເວົ້າສະດຸ້ງ.\nເພີ່ມແຜນການສະໝັກໃຊ້ເພື່ອລຶບໂຄສະນາອອກ.\n- ທ່ານສາມາດເບິ່ງມັນໄດ້ໃນການຕັ້ງຄ່າ - ການຈ່າຍເງິນ."
+    "devnote": "ແກ້ໄຂຂໍ້ຜິດພາດທີ່ເຮັດໃຫ້ໜ້າຈໍຫວ່າງເປົ່າເປັນບາງໂອກາດ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "Pievienota vēstures lielapjoma dzēšanas funkcija.\nRenderēšanas programma tika mainīta uz mantoto, jo tika ziņots par stostīšanos.\nPievienots abonēšanas plāns reklāmu noņemšanai.\n- To var redzēt sadaļā Iestatījumi - Maksājums."
+    "devnote": "Izlabota kļūda, kuras dēļ ekrāns laiku pa laikam kļuva tukšs."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "Добавлена ​​возможность массового удаления истории.\nМеханизм рендеринга изменен на устаревший из-за сообщений о зависаниях.\nДобавлен план подписки для удаления рекламы.\n- Посмотреть это можно в Настройках - Оплата."
+    "devnote": "Исправлена ​​ошибка, из-за которой иногда экран становился пустым."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "S-a adăugat o funcție pentru a șterge istoricul în bloc.\nS-a schimbat motorul de randare la moștenire din cauza rapoartelor de bâlbâială.\nS-a adăugat un plan de abonament pentru a elimina reclamele.\n- Îl puteți vedea în Setări - Plată."
+    "devnote": "S-a remediat o eroare care facea ocazional ecranul gol."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "Pridėta funkcija, leidžianti masiškai ištrinti istoriją.\nPateikimo variklis pakeistas į seną dėl pranešimų apie mikčiojimą.\nPridėtas prenumeratos planas, skirtas pašalinti skelbimus.\n– Jį galite pamatyti skiltyje „Nustatymai“ – „Mokėjimas“."
+    "devnote": "Ištaisyta klaida, dėl kurios ekranas retkarčiais užgesdavo."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "मोठ्या प्रमाणात इतिहास हटविण्यासाठी वैशिष्ट्य जोडले.\nतोतरेपणाच्या अहवालांमुळे प्रस्तुतीकरण इंजिनला लेगेसीमध्ये बदलले.\nजाहिराती काढण्यासाठी सदस्यता योजना जोडली.\n- तुम्ही ते सेटिंग्ज - पेमेंटमध्ये पाहू शकता."
+    "devnote": "अधूनमधून स्क्रीन रिक्त होण्यास कारणीभूत असलेल्या बगचे निराकरण केले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "Додадена е функција за бришење на историјата на големо.\nГо смени моторот за рендерирање во наследен поради извештаи за пелтечење.\nДодаден план за претплата за отстранување на реклами.\n- Можете да го видите во Поставки - Плаќање."
+    "devnote": "Поправена грешка што повремено предизвикуваше да се испразни екранот."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "ചരിത്രം മൊത്തത്തിൽ ഇല്ലാതാക്കാൻ ഒരു ഫീച്ചർ ചേർത്തു.\nഇടർച്ചയെക്കുറിച്ചുള്ള റിപ്പോർട്ടുകൾ കാരണം റെൻഡറിംഗ് എഞ്ചിൻ ലെഗസിയിലേക്ക് മാറ്റി.\nപരസ്യങ്ങൾ നീക്കം ചെയ്യാൻ ഒരു സബ്‌സ്‌ക്രിപ്‌ഷൻ പ്ലാൻ ചേർത്തു.\n- നിങ്ങൾക്ക് ഇത് ക്രമീകരണങ്ങൾ - പേയ്‌മെൻ്റ് എന്നതിൽ കാണാൻ കഴിയും."
+    "devnote": "ഇടയ്‌ക്കിടെ സ്‌ക്രീൻ ശൂന്യമാകുന്നതിന് കാരണമായ ഒരു ബഗ് പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "Menambahkan ciri untuk memadamkan sejarah secara pukal.\nMenukar enjin rendering kepada legasi kerana laporan tentang kegagapan.\nMenambahkan pelan langganan untuk mengalih keluar iklan.\n- Anda boleh melihatnya dalam Tetapan - Pembayaran."
+    "devnote": "Memperbaiki pepijat yang kadangkala menyebabkan skrin menjadi kosong."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "Түүхийг бөөнөөр нь устгах функцийг нэмсэн.\nГацах тухай мэдээллүүдийн улмаас дүрслэх хөдөлгүүрийг хуучин болгож өөрчилсөн.\nЗарыг устгах захиалгын төлөвлөгөөг нэмсэн.\n- Та үүнийг Тохиргоо - Төлбөр хэсгээс харж болно."
+    "devnote": "Дэлгэц хааяа хаагдахад хүргэдэг алдааг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "Historia masiboki ezabatzeko eginbide bat gehitu da.\nErrendatze-motorra ondarea aldatu da, toteltze-txostenen ondorioz.\nIragarkiak kentzeko harpidetza-plan bat gehitu da.\n- Ezarpenak - Ordainketa atalean ikus dezakezu."
+    "devnote": "Noizean behin pantaila hutsik gelditzea eragiten zuen akats bat konpondu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "အစုလိုက်မှတ်တမ်းကို ဖျက်ရန် အင်္ဂါရပ်ကို ထည့်သွင်းထားသည်။\nစကားထစ်နေသည့် သတင်းများကြောင့် တင်ဆက်သည့်အင်ဂျင်ကို အမွေအနှစ်အဖြစ် ပြောင်းလဲခဲ့သည်။\nကြော်ငြာများကို ဖယ်ရှားရန် စာရင်းသွင်းမှု အစီအစဉ်ကို ထည့်သွင်းခဲ့သည်။\n- ဆက်တင်များ - ငွေပေးချေမှုတွင် ၎င်းကို သင်တွေ့နိုင်ပါသည်။"
+    "devnote": "ဖန်သားပြင်ကို အခါအားလျော်စွာ ကွက်လပ်ဖြစ်စေသော ချို့ယွင်းချက်တစ်ခုကို ပြုပြင်ခဲ့သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "Đã thêm tính năng xóa lịch sử hàng loạt.\nĐã thay đổi công cụ kết xuất thành cũ do có báo cáo về tình trạng giật hình.\nĐã thêm gói đăng ký để loại bỏ quảng cáo.\n- Bạn có thể thấy nó trong Cài đặt - Thanh toán."
+    "devnote": "Đã sửa lỗi đôi khi khiến màn hình bị trống."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "Дададзена функцыя масавага выдалення гісторыі.\nМеханізм рэндэрынгу зменены на састарэлы з-за паведамленняў аб затрымцы.\nДададзены план падпіскі для выдалення рэкламы.\n- Вы можаце ўбачыць гэта ў Наладах - Аплата."
+    "devnote": "Выпраўлена памылка, з-за якой экран час ад часу згасаў."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "বাল্ক ইতিহাস মুছে ফেলার জন্য একটি বৈশিষ্ট্য যোগ করা হয়েছে.\nতোতলামির রিপোর্টের কারণে রেন্ডারিং ইঞ্জিনকে উত্তরাধিকারে পরিবর্তন করা হয়েছে৷\nবিজ্ঞাপন সরাতে একটি সদস্যতা পরিকল্পনা যোগ করা হয়েছে.\n- আপনি সেটিংস - পেমেন্টে এটি দেখতে পারেন।"
+    "devnote": "একটি বাগ সংশোধন করা হয়েছে যা মাঝে মাঝে স্ক্রীন ফাঁকা হয়ে যায়।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "Добавена е функция за групово изтриване на историята.\nПроменена е машината за изобразяване на наследена поради съобщения за заекване.\nДобавен е абонаментен план за премахване на реклами.\n- Можете да го видите в Настройки - Плащане."
+    "devnote": "Коригирана грешка, която от време на време караше екрана да става празен."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "Додата је функција за групно брисање историје.\nПромењен механизам за рендеровање у застарели због извештаја о муцању.\nДодан је план претплате за уклањање огласа.\n- Можете га видети у Подешавања - Плаћање."
+    "devnote": "Исправљена грешка која је повремено доводила до тога да екран буде празан."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "Imeongeza kipengele ili kufuta historia kwa wingi.\nIlibadilisha injini ya uwasilishaji kuwa urithi kwa sababu ya ripoti za kudumaa.\nUmeongeza mpango wa usajili ili kuondoa matangazo.\n- Unaweza kuiona katika Mipangilio - Malipo."
+    "devnote": "Ilirekebisha hitilafu ambayo mara kwa mara ilisababisha skrini kuwa tupu."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "Lade till en funktion för att radera historik i bulk.\nÄndrade renderingsmotorn till äldre på grund av rapporter om stamning.\nLade till en prenumerationsplan för att ta bort annonser.\n- Du kan se det i Inställningar - Betalning."
+    "devnote": "Fixade en bugg som ibland gjorde att skärmen blev tom."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "Se agregó una función para eliminar el historial de forma masiva.\nSe cambió el motor de renderizado a heredado debido a informes de tartamudeo.\nSe agregó un plan de suscripción para eliminar anuncios.\n- Puedes verlo en Configuración - Pago."
+    "devnote": "Se corrigió un error que ocasionalmente causaba que la pantalla se quedara en blanco."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "Pridaná funkcia na hromadné vymazanie histórie.\nZmenil vykresľovací mechanizmus na starý kvôli správam o koktaní.\nPridaný plán odberu na odstránenie reklám.\n- Vidíte to v Nastaveniach - Platba."
+    "devnote": "Opravená chyba, ktorá občas spôsobovala zhasnutie obrazovky."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "Dodana funkcija za brisanje zgodovine v velikem obsegu.\nMehanizem za upodabljanje je spremenjen v podedovanega zaradi poročil o zatikanju.\nDodan naročniški načrt za odstranitev oglasov.\n- Ogledate si ga lahko v Nastavitve - Plačilo."
+    "devnote": "Odpravljena je napaka, zaradi katere je zaslon občasno postal prazen."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "ඉතිහාසය තොග වශයෙන් මකා දැමීමට විශේෂාංගයක් එක් කරන ලදී.\nපැකිලී යාමේ වාර්තා හේතුවෙන් විදැහුම්කරණ එන්ජිම උරුමයට වෙනස් කරන ලදී.\nදැන්වීම් ඉවත් කිරීමට දායක සැලැස්මක් එක් කරන ලදී.\n- ඔබට එය සැකසීම් - ගෙවීම් තුළ දැකිය හැක."
+    "devnote": "වරින් වර තිරය හිස් වීමට හේතු වූ දෝෂයක් නිරාකරණය කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "تمت إضافة ميزة لحذف السجل بكميات كبيرة.\nتم تغيير محرك العرض إلى محرك قديم بسبب تقارير التأتأة.\nتمت إضافة خطة اشتراك لإزالة الإعلانات.\n- يمكنك رؤيته في الإعدادات - الدفع."
+    "devnote": "تم إصلاح الخلل الذي كان يتسبب أحيانًا في أن تصبح الشاشة فارغة."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "Ավելացվեց պատմությունը զանգվածաբար ջնջելու գործառույթ:\nԿակազության մասին հաղորդումների պատճառով վերածվել է ռենդերային շարժիչի ժառանգության:\nԱվելացրել է բաժանորդագրության պլան՝ գովազդը հեռացնելու համար:\n- Դուք կարող եք տեսնել այն Կարգավորումներ - Վճարում:"
+    "devnote": "Շտկվել է վրիպակ, որը երբեմն ստիպում էր էկրանը դատարկվել:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "Bætti við eiginleika til að eyða sögu í einu.\nBreytti flutningsvélinni í arfleifð vegna tilkynninga um stam.\nBætti við áskriftaráætlun til að fjarlægja auglýsingar.\n- Þú getur séð það í Stillingar - Greiðsla."
+    "devnote": "Lagaði villu sem olli því að skjárinn varð auður af og til."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "Tarixi toplu şəkildə silmək funksiyası əlavə edildi.\nKəkələmə xəbərlərinə görə render mühərriki köhnəyə dəyişdirildi.\nReklamları silmək üçün abunə planı əlavə edildi.\n- Siz bunu Parametrlər - Ödəniş bölməsində görə bilərsiniz."
+    "devnote": "Bəzən ekranın boş qalmasına səbəb olan bir səhv düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "Het 'n kenmerk bygevoeg om geskiedenis in grootmaat uit te vee.\nVerander die weergawe-enjin na nalatenskap as gevolg van verslae van hakkel.\nHet 'n intekeningplan bygevoeg om advertensies te verwyder.\n- Jy kan dit sien in Instellings - Betaling."
+    "devnote": "Het 'n fout reggestel wat die skerm soms laat leeg raak."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "U shtua një veçori për të fshirë historikun në masë.\nNdryshoi motorin e interpretimit në të vjetër për shkak të raporteve për belbëzimin.\nShtoi një plan abonimi për të hequr reklamat.\n- Mund ta shihni te Cilësimet - Pagesa."
+    "devnote": "Rregulloi një gabim që herë pas here bënte që ekrani të dilte bosh."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "ታሪክን በጅምላ የሚሰርዝ ባህሪ ታክሏል።\nየመንተባተብ ሪፖርቶች ምክንያት የማሳያ ሞተሩን ወደ ውርስ ለውጧል።\nማስታወቂያዎችን ለማስወገድ የደንበኝነት ምዝገባ እቅድ ታክሏል።\n- በቅንብሮች - ክፍያ ውስጥ ሊያዩት ይችላሉ።"
+    "devnote": "አልፎ አልፎ ማያ ገጹ ባዶ እንዲሄድ የሚያደርግ ስህተት ተስተካክሏል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "Lisatud on funktsioon ajaloo hulgi kustutamiseks.\nRenderdusmootor muudeti kogelemise teadete tõttu pärandiks.\nReklaamide eemaldamiseks on lisatud liitumisplaan.\n- Näete seda jaotises Seaded - Makse."
+    "devnote": "Parandatud viga, mille tõttu ekraan aeg-ajalt tühjaks läks."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "بڑی تعداد میں تاریخ کو حذف کرنے کے لیے ایک خصوصیت شامل کی گئی۔\nہکلانے کی اطلاعات کی وجہ سے رینڈرنگ انجن کو میراث میں تبدیل کر دیا گیا۔\nاشتہارات کو ہٹانے کے لیے سبسکرپشن پلان شامل کیا گیا۔\n- آپ اسے ترتیبات - ادائیگی میں دیکھ سکتے ہیں۔"
+    "devnote": "ایک بگ کو ٹھیک کیا جس کی وجہ سے کبھی کبھار اسکرین خالی ہوجاتی ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "Додано функцію масового видалення історії.\nЗмінено механізм візуалізації на застарілий через повідомлення про затримки.\nДодано тарифний план для видалення реклами.\n- Ви можете побачити це в Налаштуваннях - Оплата."
+    "devnote": "Виправлено помилку, через яку час від часу екран гаснув."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "Aggiunta una funzionalità per eliminare la cronologia in blocco.\nModificato il motore di rendering in legacy a causa di segnalazioni di stuttering.\nAggiunto un piano di abbonamento per rimuovere gli annunci.\n- Puoi vederlo in Impostazioni - Pagamento."
+    "devnote": "Risolto un bug che occasionalmente faceva oscurare lo schermo."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "Menambahkan fitur untuk menghapus riwayat secara massal.\nMengubah mesin rendering menjadi lama karena laporan kegagapan.\nMenambahkan paket berlangganan untuk menghapus iklan.\n- Anda dapat melihatnya di Pengaturan - Pembayaran."
+    "devnote": "Memperbaiki bug yang terkadang menyebabkan layar menjadi kosong."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "履歴を一括削除する機能を追加しました。\n途切れが報告されているため、レンダリング エンジンをレガシーに変更しました。\n広告を削除するサブスクリプション プランを追加しました。\n- [設定] - [支払い] で確認できます。"
+    "devnote": "画面が空白になることがあるバグを修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "დამატებულია ფუნქცია ისტორიის ნაყარი წაშლისთვის.\nრენდერინგის ძრავა შეიცვალა ძველებურად, ჭუჭყის შესახებ ცნობების გამო.\nდამატებულია გამოწერის გეგმა რეკლამების წასაშლელად.\n- ამის ნახვა შეგიძლიათ პარამეტრებში - გადახდა."
+    "devnote": "გამოსწორდა ხარვეზი, რომელიც ხანდახან ეკრანის დაცლას იწვევდა."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "Kwengezwe isici ukususa umlando ngobuningi.\nIshintshe injini enikezelayo yaba yifa ngenxa yemibiko yokungingiza.\nKwengezwe uhlelo lokubhalisa ukuze kususwe izikhangiso.\n- Ungayibona kokuthi Izilungiselelo - Inkokhelo."
+    "devnote": "Kulungiswe iphutha elibangele ukuthi isikrini singabi nalutho ngezikhathi ezithile."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "新增批量删除历史记录的功能。\n由于卡顿的报告，将渲染引擎更改为旧版。\n添加了去除广告的订阅计划。\n- 您可以在“设置”-“支付”中查看。"
+    "devnote": "修复了偶尔导致屏幕空白的错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "新增批次刪除歷史記錄的功能。\n由於卡頓的報告，將渲染引擎更改為舊版。\n新增了去除廣告的訂閱方案。\n- 您可以在「設定」-「付款」中查看。"
+    "devnote": "修復了偶爾導致螢幕空白的錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "新增批次刪除歷史記錄的功能。\n由於卡頓的報告，將渲染引擎更改為舊版。\n新增了去除廣告的訂閱方案。\n- 您可以在「設定」-「付款」中查看。"
+    "devnote": "修復了偶爾導致螢幕空白的錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "Přidána funkce pro hromadné mazání historie.\nZměněno vykreslovací jádro na starší kvůli zprávám o zadrhávání.\nPřidán plán předplatného k odstranění reklam.\n- Vidíte to v Nastavení - Platba."
+    "devnote": "Opravena chyba, která občas způsobovala, že obrazovka zhasla."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "Тарихты жаппай жою мүмкіндігі қосылды.\nКекіру туралы хабарларға байланысты көрсету қозғалтқышы бұрынғыға өзгертілді.\nЖарнаманы жою үшін жазылым жоспары қосылды.\n- Сіз оны \"Параметрлер\" - \"Төлем\" бөлімінен көре аласыз."
+    "devnote": "Кейде экранның бос болуына әкелетін қате түзетілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "S'ha afegit una funció per eliminar l'historial de manera massiva.\nS'ha canviat el motor de renderització a heretat a causa dels informes de tartamudeig.\nS'ha afegit un pla de subscripció per eliminar anuncis.\n- Ho podeu veure a Configuració - Pagament."
+    "devnote": "S'ha solucionat un error que ocasionalment feia que la pantalla es quedés en blanc."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "ಇತಿಹಾಸವನ್ನು ದೊಡ್ಡ ಪ್ರಮಾಣದಲ್ಲಿ ಅಳಿಸಲು ವೈಶಿಷ್ಟ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\nತೊದಲುವಿಕೆಯ ವರದಿಗಳಿಂದಾಗಿ ರೆಂಡರಿಂಗ್ ಎಂಜಿನ್ ಅನ್ನು ಪರಂಪರೆಗೆ ಬದಲಾಯಿಸಲಾಗಿದೆ.\nಜಾಹೀರಾತುಗಳನ್ನು ತೆಗೆದುಹಾಕಲು ಚಂದಾದಾರಿಕೆ ಯೋಜನೆಯನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ನೀವು ಅದನ್ನು ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ನೋಡಬಹುದು - ಪಾವತಿ."
+    "devnote": "ಸಾಂದರ್ಭಿಕವಾಗಿ ಪರದೆಯು ಖಾಲಿಯಾಗಲು ಕಾರಣವಾದ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "Dodana značajka za skupno brisanje povijesti.\nPromijenio je mehanizam za renderiranje u naslijeđeni zbog izvješća o zastajkivanju.\nDodan je plan pretplate za uklanjanje oglasa.\n- Možete vidjeti u Postavkama - Plaćanje."
+    "devnote": "Ispravljena je pogreška koja je povremeno uzrokovala prazan zaslon."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "បានបន្ថែមមុខងារមួយដើម្បីលុបប្រវត្តិជាដុំ។\nបាន​ប្តូរ​ម៉ាស៊ីន​បង្ហាញ​ទៅ​ជា​កេរដំណែល​ដោយសារ​មាន​របាយការណ៍​ថា​មាន​ការ​រអាក់រអួល។\nបានបន្ថែមគម្រោងការជាវដើម្បីលុបការផ្សាយពាណិជ្ជកម្ម។\n- អ្នកអាចឃើញវានៅក្នុងការកំណត់ - ការទូទាត់។"
+    "devnote": "ជួសជុលកំហុសដែលពេលខ្លះធ្វើឱ្យអេក្រង់ទទេ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "Таржымалды жапырт жок кылуу мүмкүнчүлүгү кошулду.\nКекечтенүү тууралуу билдирүүлөрдөн улам рендеринг кыймылдаткычы мурункуга өзгөртүлдү.\nЖарнамаларды алып салуу үчүн жазылуу планы кошулду.\n- Сиз аны Жөндөөлөрдөн көрө аласыз - Төлөм."
+    "devnote": "Кээде экрандын бош калышына себеп болгон мүчүлүштүктөрдү оңдоо."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "வரலாற்றை மொத்தமாக நீக்கும் அம்சம் சேர்க்கப்பட்டது.\nதிணறல் பற்றிய அறிக்கைகள் காரணமாக ரெண்டரிங் இன்ஜின் மரபுக்கு மாற்றப்பட்டது.\nவிளம்பரங்களை அகற்ற சந்தா திட்டம் சேர்க்கப்பட்டது.\n- நீங்கள் அதை அமைப்புகளில் பார்க்க முடியும் - கட்டணம்."
+    "devnote": "எப்போதாவது திரையை காலியாக்கும் பிழை சரி செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "เพิ่มคุณสมบัติในการลบประวัติจำนวนมาก\nเปลี่ยนเอ็นจิ้นการเรนเดอร์เป็นแบบเดิมเนื่องจากรายงานการพูดติดอ่าง\nเพิ่มแผนการสมัครสมาชิกเพื่อลบโฆษณา\n- คุณสามารถดูได้ในการตั้งค่า - การชำระเงิน"
+    "devnote": "แก้ไขข้อผิดพลาดที่ทำให้หน้าจอว่างเปล่าในบางครั้ง"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "Geçmişi toplu olarak silme özelliği eklendi.\nKekemelik raporları nedeniyle işleme motoru eski olarak değiştirildi.\nReklamları kaldırmak için bir abonelik planı eklendi.\n- Bunu Ayarlar - Ödeme bölümünde görebilirsiniz."
+    "devnote": "Bazen ekranın kararmasına neden olan bir hata düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "చరిత్రను పెద్దమొత్తంలో తొలగించడానికి ఒక ఫీచర్ జోడించబడింది.\nనత్తిగా మాట్లాడటం యొక్క నివేదికల కారణంగా రెండరింగ్ ఇంజిన్‌ను లెగసీకి మార్చారు.\nప్రకటనలను తీసివేయడానికి సబ్‌స్క్రిప్షన్ ప్లాన్ జోడించబడింది.\n- మీరు దీన్ని సెట్టింగ్‌లు - చెల్లింపులో చూడవచ్చు."
+    "devnote": "అప్పుడప్పుడు స్క్రీన్ ఖాళీగా ఉండటానికి కారణమయ్యే బగ్ పరిష్కరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "ਬਲਕ ਵਿੱਚ ਇਤਿਹਾਸ ਨੂੰ ਮਿਟਾਉਣ ਲਈ ਇੱਕ ਵਿਸ਼ੇਸ਼ਤਾ ਸ਼ਾਮਲ ਕੀਤੀ ਗਈ।\nਅੜਚਣ ਦੀਆਂ ਰਿਪੋਰਟਾਂ ਦੇ ਕਾਰਨ ਰੈਂਡਰਿੰਗ ਇੰਜਣ ਨੂੰ ਵਿਰਾਸਤ ਵਿੱਚ ਬਦਲ ਦਿੱਤਾ ਗਿਆ।\nਇਸ਼ਤਿਹਾਰਾਂ ਨੂੰ ਹਟਾਉਣ ਲਈ ਇੱਕ ਗਾਹਕੀ ਯੋਜਨਾ ਸ਼ਾਮਲ ਕੀਤੀ ਗਈ।\n- ਤੁਸੀਂ ਇਸਨੂੰ ਸੈਟਿੰਗਾਂ - ਭੁਗਤਾਨ ਵਿੱਚ ਦੇਖ ਸਕਦੇ ਹੋ।"
+    "devnote": "ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਹੈ ਜਿਸ ਕਾਰਨ ਕਦੇ-ਕਦਾਈਂ ਸਕ੍ਰੀਨ ਖਾਲੀ ਹੋ ਜਾਂਦੀ ਹੈ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "یک ویژگی برای حذف تاریخچه به صورت انبوه اضافه شده است.\nبه دلیل گزارش‌هایی مبنی بر لکنت، موتور رندر را به نسخه قدیمی تغییر داد.\nیک طرح اشتراک برای حذف تبلیغات اضافه شده است.\n- می توانید آن را در تنظیمات - پرداخت مشاهده کنید."
+    "devnote": "رفع اشکالی که گهگاه باعث خالی شدن صفحه نمایش می شد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "Adicionado um recurso para excluir o histórico em massa.\nAlterado o mecanismo de renderização para legado devido a relatos de gagueira.\nAdicionado um plano de assinatura para remover anúncios.\n- Você pode ver em Configurações - Pagamento."
+    "devnote": "Corrigido um bug que ocasionalmente fazia a tela ficar em branco."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "Dodano funkcję zbiorczego usuwania historii.\nZmieniono silnik renderujący na starszy ze względu na raporty o zacinaniu się.\nDodano plan subskrypcji, aby usunąć reklamy.\n- Możesz to zobaczyć w Ustawieniach - Płatność."
+    "devnote": "Naprawiono błąd, który czasami powodował wygaszenie ekranu."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "Ajout d'une fonctionnalité pour supprimer l'historique en masse.\nModification du moteur de rendu en mode hérité en raison de rapports de bégaiement.\nAjout d'un plan d'abonnement pour supprimer les publicités.\n- Vous pouvez le voir dans Paramètres - Paiement."
+    "devnote": "Correction d'un bug qui provoquait parfois un affichage vide de l'écran."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "Lisätty ominaisuus, jolla voit poistaa historian kerralla.\nRenderöintimoottori vaihdettiin vanhaksi änkytysraporttien vuoksi.\nLisätty tilaussuunnitelma mainosten poistamiseksi.\n- Näet sen kohdasta Asetukset - Maksu."
+    "devnote": "Korjattu virhe, joka ajoittain aiheutti näytön pimennyksen."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "Nagdagdag ng feature para tanggalin ang history nang maramihan.\nGinawang legacy ang rendering engine dahil sa mga ulat ng pagkautal.\nNagdagdag ng plano ng subscription para mag-alis ng mga ad.\n- Makikita mo ito sa Mga Setting - Pagbabayad."
+    "devnote": "Inayos ang isang bug na paminsan-minsan ay naging sanhi ng pagiging blangko ng screen."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "Egy funkció hozzáadva az előzmények tömeges törléséhez.\nA renderelő motort örököltre cserélték a dadogásról szóló jelentések miatt.\nElőfizetési csomag hozzáadva a hirdetések eltávolításához.\n- Megtekintheti a Beállítások - Fizetés menüpontban."
+    "devnote": "Kijavítottunk egy hibát, amely miatt a képernyő időnként elsötétült."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "נוספה תכונה למחיקת היסטוריה בכמות גדולה.\nשינה את מנוע העיבוד למדור קודם עקב דיווחים על גמגום.\nנוספה תוכנית מנוי להסרת מודעות.\n- אתה יכול לראות את זה בהגדרות - תשלום."
+    "devnote": "תיקן באג שגרם מדי פעם למסך להתרוקן."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "इतिहास को थोक में हटाने की सुविधा जोड़ी गई।\nहकलाने की रिपोर्ट के कारण रेंडरिंग इंजन को लीगेसी में बदल दिया गया।\nविज्ञापनों को हटाने के लिए एक सदस्यता योजना जोड़ी गई।\n- आप इसे सेटिंग्स - पेमेंट में देख सकते हैं।"
+    "devnote": "उस बग को ठीक किया गया जिसके कारण कभी-कभी स्क्रीन खाली हो जाती थी।"
   }
 }
