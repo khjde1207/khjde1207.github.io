@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "Text processing speed has been improved overall.\n\nThe function to convert existing TTS to mp3 has been modified to convert to wav."
+    "devnote": "Bug fixes and performance improvements"
   },
   "한국어": {
     "key": "ko",
-    "devnote": "텍스트 처리 속도가 전반적으로 향상 되었습니다. \n\n기존 TTS 를 mp3 로 변환하는 기능을 wav 로 변환 되도록 수정 하였습니다."
+    "devnote": "버그수정 및 성능개선"
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "Mellorouse a velocidade de procesamento de texto en xeral.\n\nA función para converter TTS existentes a mp3 foi modificada para converter a wav."
+    "devnote": "Corrección de erros e melloras de rendemento"
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "ટેક્સ્ટ પ્રોસેસિંગ સ્પીડ એકંદરે બહેતર બનાવવામાં આવી છે.\n\nહાલના TTS ને mp3 માં કન્વર્ટ કરવાના ફંક્શનને wav માં કન્વર્ટ કરવા માટે સંશોધિત કરવામાં આવ્યું છે."
+    "devnote": "બગ ફિક્સેસ અને પ્રદર્શન સુધારણાઓ"
   },
   "그리스어": {
     "key": "el",
-    "devnote": "Η ταχύτητα επεξεργασίας κειμένου έχει βελτιωθεί συνολικά.\n\nΗ λειτουργία μετατροπής του υπάρχοντος TTS σε mp3 έχει τροποποιηθεί για μετατροπή σε wav."
+    "devnote": "Διορθώσεις σφαλμάτων και βελτιώσεις απόδοσης"
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "De tekstverwerkingssnelheid is over het algemeen verbeterd.\n\nDe functie om bestaande TTS-bestanden naar mp3 te converteren is aangepast om naar wav te converteren."
+    "devnote": "Bugfixes en prestatieverbeteringen"
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "पाठ प्रशोधन गति समग्र सुधार गरिएको छ।\n\nअवस्थित TTS लाई mp3 मा रूपान्तरण गर्ने प्रकार्य wav मा रूपान्तरण गर्न परिमार्जन गरिएको छ।"
+    "devnote": "बग समाधान र कार्यसम्पादन सुधारहरू"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "Tekstbehandlingshastigheten er totalt sett forbedret.\n\nFunksjonen for å konvertere eksisterende TTS til mp3 har blitt endret til å konvertere til wav."
+    "devnote": "Feilrettinger og ytelsesforbedringer"
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "Tekstbehandlingshastigheden er generelt blevet forbedret.\n\nFunktionen til at konvertere eksisterende TTS til mp3 er blevet ændret til at konvertere til wav."
+    "devnote": "Fejlrettelser og ydeevneforbedringer"
   },
   "독일어": {
     "key": "de",
-    "devnote": "Die Textverarbeitungsgeschwindigkeit wurde insgesamt verbessert.\n\nDie Funktion zum Konvertieren vorhandener TTS-Dateien in MP3 wurde für die Konvertierung in WAV angepasst."
+    "devnote": "Fehlerbehebungen und Leistungsverbesserungen"
   },
   "라오어": {
     "key": "lo",
-    "devnote": "ຄວາມໄວການປະມວນຜົນຂໍ້ຄວາມໄດ້ຮັບການປັບປຸງໂດຍລວມ.\n\nຟັງຊັນເພື່ອປ່ຽນ TTS ທີ່ມີຢູ່ແລ້ວເປັນ mp3 ໄດ້ຖືກດັດແປງເພື່ອປ່ຽນເປັນ wav."
+    "devnote": "ແກ້ໄຂຂໍ້ຜິດພາດ ແລະປັບປຸງປະສິດທິພາບ"
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "Teksta apstrādes ātrums kopumā ir uzlabots.\n\nFunkcija esošo TTS konvertēšanai uz mp3 ir pārveidota, lai pārveidotu par wav."
+    "devnote": "Kļūdu labojumi un veiktspējas uzlabojumi"
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "Скорость обработки текста в целом улучшена.\n\nФункция преобразования существующего TTS в mp3 была изменена для преобразования в wav."
+    "devnote": "Исправления ошибок и улучшения производительности"
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "Viteza de procesare a textului a fost îmbunătățită în general.\n\nFuncția de conversie a TTS existente în mp3 a fost modificată pentru a converti în wav."
+    "devnote": "Remedieri de erori și îmbunătățiri ale performanței"
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "Apskritai pagerėjo teksto apdorojimo greitis.\n\nFunkcija konvertuoti esamą TTS į mp3 buvo pakeista, kad būtų galima konvertuoti į wav."
+    "devnote": "Riktų pataisymai ir našumo patobulinimai"
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "मजकूर प्रक्रिया गती एकूणच सुधारली गेली आहे.\n\nविद्यमान TTS ला mp3 मध्ये रूपांतरित करण्याचे कार्य wav मध्ये रूपांतरित करण्यासाठी सुधारित केले आहे."
+    "devnote": "दोष निराकरणे आणि कार्यप्रदर्शन सुधारणा"
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "Брзината на обработка на текст е целосно подобрена.\n\nФункцијата за конвертирање на постоечки TTS во mp3 е изменета за да се претвори во wav."
+    "devnote": "Поправени грешки и подобрувања на перформансите"
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "ടെക്സ്റ്റ് പ്രോസസ്സിംഗ് വേഗത മൊത്തത്തിൽ മെച്ചപ്പെടുത്തിയിട്ടുണ്ട്.\n\nനിലവിലുള്ള TTS-നെ mp3-ലേക്ക് പരിവർത്തനം ചെയ്യുന്നതിനുള്ള പ്രവർത്തനം wav-ലേക്ക് പരിവർത്തനം ചെയ്യുന്നതിനായി പരിഷ്‌ക്കരിച്ചിരിക്കുന്നു."
+    "devnote": "ബഗ് പരിഹരിക്കലുകളും പ്രകടന മെച്ചപ്പെടുത്തലുകളും"
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "Kelajuan pemprosesan teks telah dipertingkatkan secara keseluruhan.\n\nFungsi untuk menukar TTS sedia ada kepada mp3 telah diubah suai untuk menukar kepada wav."
+    "devnote": "Pembetulan pepijat dan peningkatan prestasi"
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "Текст боловсруулах хурд ерөнхийдөө сайжирсан.\n\nОдоо байгаа TTS-ийг mp3 болгон хөрвүүлэх функцийг wav болгон хөрвүүлэхээр өөрчилсөн."
+    "devnote": "Алдаа засч, гүйцэтгэлийг сайжруулсан"
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "Testua prozesatzeko abiadura orokorrean hobetu da.\n\nLehendik dagoen TTS mp3 bihurtzeko funtzioa aldatu egin da wav bihurtzeko."
+    "devnote": "Akatsen konponketa eta errendimenduaren hobekuntzak"
   },
   "버마어": {
     "key": "my",
-    "devnote": "စာသားလုပ်ဆောင်မှုအမြန်နှုန်းကို အလုံးစုံ မြှင့်တင်ထားသည်။\n\nလက်ရှိ TTS ကို mp3 သို့ ပြောင်းရန် လုပ်ဆောင်ချက်ကို wav သို့ပြောင်းရန် ပြုပြင်မွမ်းမံထားသည်။"
+    "devnote": "ချွတ်ယွင်းချက်ပြင်ဆင်မှုများနှင့် စွမ်းဆောင်ရည်မြှင့်တင်မှုများ"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "Tốc độ xử lý văn bản đã được cải thiện tổng thể.\n\nChức năng chuyển đổi TTS hiện có sang mp3 đã được sửa đổi để chuyển đổi sang wav."
+    "devnote": "Sửa lỗi và cải thiện hiệu suất"
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "Хуткасць апрацоўкі тэксту была палепшана ў цэлым.\n\nФункцыя пераўтварэння існуючага TTS у mp3 была зменена для пераўтварэння ў wav."
+    "devnote": "Выпраўленне памылак і паляпшэнне прадукцыйнасці"
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "টেক্সট প্রসেসিং গতি সামগ্রিকভাবে উন্নত করা হয়েছে।\n\nবিদ্যমান টিটিএসকে mp3 তে রূপান্তর করার ফাংশনটি wav-এ রূপান্তর করতে পরিবর্তন করা হয়েছে।"
+    "devnote": "ত্রুটি সমাধান এবং কর্মক্ষমতা উন্নতি"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "Скоростта на обработка на текст е подобрена като цяло.\n\nФункцията за конвертиране на съществуващ TTS в mp3 е модифицирана за конвертиране в wav."
+    "devnote": "Поправки на грешки и подобрения в производителността"
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "Брзина обраде текста је генерално побољшана.\n\nФункција за претварање постојећег ТТС-а у мп3 је модификована тако да се претвара у вав."
+    "devnote": "Исправке грешака и побољшања перформанси"
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "Kasi ya kuchakata maandishi imeboreshwa kwa jumla.\n\nChaguo la kukokotoa la kubadilisha TTS iliyopo hadi mp3 imebadilishwa ili kubadilisha kuwa wav."
+    "devnote": "Marekebisho ya hitilafu na utendakazi kuboreshwa"
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "Textbehandlingshastigheten har förbättrats totalt sett.\n\nFunktionen för att konvertera befintlig TTS till mp3 har modifierats för att konvertera till wav."
+    "devnote": "Buggfixar och prestandaförbättringar"
   },
   "스페인어": {
     "key": "es",
-    "devnote": "Se ha mejorado la velocidad de procesamiento de texto en general.\n\nLa función para convertir TTS a MP3 se ha modificado para convertir a WAV."
+    "devnote": "Corrección de errores y mejoras de rendimiento"
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "Celkovo sa zlepšila rýchlosť spracovania textu.\n\nFunkcia na konverziu existujúcich TTS na mp3 bola upravená na konverziu na wav."
+    "devnote": "Opravy chýb a vylepšenia výkonu"
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "Hitrost obdelave besedila je bila na splošno izboljšana.\n\nFunkcija za pretvorbo obstoječega TTS v mp3 je bila spremenjena za pretvorbo v wav."
+    "devnote": "Popravki napak in izboljšave delovanja"
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "පෙළ සැකසීමේ වේගය සමස්තයක් ලෙස වැඩිදියුණු කර ඇත.\n\nපවතින TTS mp3 බවට පරිවර්තනය කිරීමේ කාර්යය wav බවට පරිවර්තනය කිරීම සඳහා වෙනස් කර ඇත."
+    "devnote": "දෝෂ නිවැරදි කිරීම් සහ කාර්ය සාධන වැඩිදියුණු කිරීම්"
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "تم تحسين سرعة معالجة النصوص بشكل عام.\n\nتم تعديل وظيفة تحويل ملفات TTS الحالية إلى mp3 لتحويلها إلى wav."
+    "devnote": "إصلاح الأخطاء وتحسينات الأداء"
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "Տեքստի մշակման արագությունն ընդհանուր առմամբ բարելավվել է:\n\nԳոյություն ունեցող TTS-ը mp3-ի փոխարկելու գործառույթը փոփոխվել է wav-ի փոխարկելու համար:"
+    "devnote": "Սխալների շտկում և կատարողականի բարելավում"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "Textavinnsluhraði hefur verið bættur í heildina.\n\nAðgerðinni til að breyta núverandi TTS í mp3 hefur verið breytt til að breyta í wav."
+    "devnote": "Villuleiðréttingar og frammistöðubætur"
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "Mətnin emal sürəti ümumilikdə yaxşılaşdırılıb.\n\nMövcud TTS-i mp3-ə çevirmək funksiyası wav-a çevirmək üçün dəyişdirilib."
+    "devnote": "Baq həlləri və performans təkmilləşdirmələri"
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "Teksverwerkingspoed is oor die algemeen verbeter.\n\nDie funksie om bestaande TTS na mp3 om te skakel is gewysig om na wav om te skakel."
+    "devnote": "Foutoplossings en prestasieverbeterings"
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "Shpejtësia e përpunimit të tekstit është përmirësuar në përgjithësi.\n\nFunksioni për konvertimin e TTS ekzistuese në mp3 është modifikuar për ta kthyer në wav."
+    "devnote": "Rregullime të gabimeve dhe përmirësime të performancës"
   },
   "암하라어": {
     "key": "am",
-    "devnote": "የጽሑፍ ማቀናበሪያ ፍጥነት በአጠቃላይ ተሻሽሏል።\n\nያለውን TTS ወደ mp3 የመቀየር ተግባር ወደ wav ለመቀየር ተስተካክሏል።"
+    "devnote": "የሳንካ ጥገናዎች እና የአፈጻጸም ማሻሻያዎች"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "Tekstitöötluse kiirus on üldiselt paranenud.\n\nFunktsiooni olemasoleva TTS-i teisendamiseks mp3-ks on muudetud wav-vormingus teisendamiseks."
+    "devnote": "Veaparandused ja jõudluse täiustused"
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "ٹیکسٹ پروسیسنگ کی رفتار کو مجموعی طور پر بہتر بنایا گیا ہے۔\n\nموجودہ TTS کو mp3 میں تبدیل کرنے کے فنکشن کو ویو میں تبدیل کرنے کے لیے تبدیل کر دیا گیا ہے۔"
+    "devnote": "بگ کی اصلاحات اور کارکردگی میں بہتری"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "Загалом покращено швидкість обробки тексту.\n\nФункцію для перетворення існуючого TTS у mp3 було змінено для перетворення у wav."
+    "devnote": "Виправлення помилок і підвищення продуктивності"
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "La velocità di elaborazione del testo è stata complessivamente migliorata.\n\nLa funzione per convertire i TTS esistenti in mp3 è stata modificata per convertirli in wav."
+    "devnote": "Correzioni di bug e miglioramenti delle prestazioni"
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "Kecepatan pemrosesan teks telah ditingkatkan secara keseluruhan.\n\nFungsi untuk mengonversi TTS yang ada ke mp3 telah dimodifikasi untuk mengonversi ke wav."
+    "devnote": "Perbaikan bug dan peningkatan kinerja"
   },
   "일본어": {
     "key": "ja",
-    "devnote": "テキスト処理速度が全体的に向上しました。\n\n既存のTTSをmp3に変換する機能が、wavに変換するように変更されました。"
+    "devnote": "バグ修正とパフォーマンスの改善"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "ტექსტის დამუშავების სიჩქარე მთლიანობაში გაუმჯობესდა.\n\nარსებული TTS mp3-ად გარდაქმნის ფუნქცია შეიცვალა wav-ად გადასაყვანად."
+    "devnote": "შეცდომების გამოსწორება და მუშაობის გაუმჯობესება"
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "Isivinini sokucubungula umbhalo sithuthukiswe ngokuphelele.\n\nUmsebenzi wokuguqula i-TTS ekhona ibe yi-mp3 ushintshiwe ukuze uguqulelwe ku-wav."
+    "devnote": "Ukulungiswa kweziphazamisi kwathuthukiswa nokusebenza"
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "文本处理速度已全面提升。\n\n将现有 TTS 转换为 mp3 的功能已修改为转换为 wav。"
+    "devnote": "错误修复和性能改进"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "文字處理速度整體得到了提升。\n\n將現有的TTS轉換為mp3的功能已修改為轉換為wav。"
+    "devnote": "錯誤修復和效能改進"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "文字處理速度整體得到了提升。\n\n將現有的TTS轉換為mp3的功能已修改為轉換為wav。"
+    "devnote": "錯誤修復和效能改進"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "Celkově se zlepšila rychlost zpracování textu.\n\nFunkce pro převod stávajících TTS na mp3 byla upravena pro převod na wav."
+    "devnote": "Opravy chyb a vylepšení výkonu"
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "Мәтінді өңдеу жылдамдығы жалпы жақсартылды.\n\nБар TTS-ті mp3-ге түрлендіру функциясы wav-ке түрлендіру үшін өзгертілді."
+    "devnote": "Қателерді түзету және өнімділікті жақсарту"
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "La velocitat de processament de text s'ha millorat en general.\n\nLa funció per convertir TTS existent a mp3 s'ha modificat per convertir-la a wav."
+    "devnote": "Correccions d'errors i millores de rendiment"
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "ಪಠ್ಯ ಪ್ರಕ್ರಿಯೆಯ ವೇಗವನ್ನು ಒಟ್ಟಾರೆಯಾಗಿ ಸುಧಾರಿಸಲಾಗಿದೆ.\n\nಅಸ್ತಿತ್ವದಲ್ಲಿರುವ TTS ಅನ್ನು mp3 ಗೆ ಪರಿವರ್ತಿಸುವ ಕಾರ್ಯವನ್ನು wav ಗೆ ಪರಿವರ್ತಿಸಲು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
+    "devnote": "ದೋಷ ಪರಿಹಾರಗಳು ಮತ್ತು ಕಾರ್ಯಕ್ಷಮತೆ ಸುಧಾರಣೆಗಳು"
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "Brzina obrade teksta općenito je poboljšana.\n\nFunkcija za pretvaranje postojećeg TTS-a u mp3 je modificirana za pretvaranje u wav."
+    "devnote": "Ispravci programskih pogrešaka i poboljšanja performansi"
   },
   "크메르어": {
     "key": "km",
-    "devnote": "ល្បឿនដំណើរការអត្ថបទត្រូវបានធ្វើឱ្យប្រសើរឡើងជារួម។\n\nមុខងារបំប្លែង TTS ដែលមានស្រាប់ទៅជា mp3 ត្រូវបានកែប្រែដើម្បីបំប្លែងទៅជា wav។"
+    "devnote": "ការកែកំហុស និងការកែលម្អការអនុវត្ត"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "Текстти иштетүү ылдамдыгы жалпысынан жакшыртылды.\n\nУчурдагы TTSти mp3ке айландыруу функциясы wavге айландыруу үчүн өзгөртүлгөн."
+    "devnote": "Мүчүлүштүктөр оңдолуп, майнаптуулугу жакшыртылды"
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "உரை செயலாக்க வேகம் ஒட்டுமொத்தமாக மேம்படுத்தப்பட்டுள்ளது.\n\nஏற்கனவே உள்ள TTS ஐ mp3 க்கு மாற்றும் செயல்பாடு wav ஆக மாற்ற மாற்றப்பட்டுள்ளது."
+    "devnote": "பிழை திருத்தங்கள் மற்றும் செயல்திறன் மேம்பாடுகள்"
   },
   "태국어": {
     "key": "th",
-    "devnote": "ความเร็วในการประมวลผลข้อความโดยรวมได้รับการปรับปรุงแล้ว\n\nฟังก์ชันการแปลง TTS ที่มีอยู่เป็น mp3 ได้รับการปรับเปลี่ยนให้แปลงเป็น wav"
+    "devnote": "การแก้ไขข้อบกพร่องและการปรับปรุงประสิทธิภาพ"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "Metin işleme hızı genel olarak iyileştirildi.\n\nMevcut TTS'yi mp3'e dönüştürme işlevi wav'a dönüştürülecek şekilde değiştirildi."
+    "devnote": "Hata düzeltmeleri ve performans iyileştirmeleri"
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "టెక్స్ట్ ప్రాసెసింగ్ వేగం మొత్తంగా మెరుగుపరచబడింది.\n\nఇప్పటికే ఉన్న TTSని mp3కి మార్చే ఫంక్షన్ wavకి మార్చడానికి సవరించబడింది."
+    "devnote": "బగ్ పరిష్కారాలు మరియు పనితీరు మెరుగుదలలు"
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "ਟੈਕਸਟ ਪ੍ਰੋਸੈਸਿੰਗ ਦੀ ਗਤੀ ਨੂੰ ਸਮੁੱਚੇ ਤੌਰ 'ਤੇ ਸੁਧਾਰਿਆ ਗਿਆ ਹੈ।\n\nਮੌਜੂਦਾ TTS ਨੂੰ mp3 ਵਿੱਚ ਬਦਲਣ ਲਈ ਫੰਕਸ਼ਨ ਨੂੰ wav ਵਿੱਚ ਬਦਲਣ ਲਈ ਸੋਧਿਆ ਗਿਆ ਹੈ।"
+    "devnote": "ਬੱਗ ਫਿਕਸ ਅਤੇ ਪ੍ਰਦਰਸ਼ਨ ਸੁਧਾਰ"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "سرعت پردازش متن به طور کلی بهبود یافته است.\n\nعملکرد تبدیل TTS موجود به mp3 برای تبدیل به wav اصلاح شده است."
+    "devnote": "رفع اشکال و بهبود عملکرد"
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "A velocidade de processamento de texto foi melhorada em geral.\n\nA função para converter TTS existentes para mp3 foi modificada para converter para wav."
+    "devnote": "Correções de bugs e melhorias de desempenho"
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "Prędkość przetwarzania tekstu została ogólnie poprawiona.\n\nFunkcja konwersji istniejących TTS do mp3 została zmodyfikowana w celu konwersji do wav."
+    "devnote": "Naprawiono błędy i poprawiono wydajność"
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "La vitesse de traitement de texte a été globalement améliorée.\n\nLa fonction de conversion des textes TTS existants en MP3 a été modifiée pour convertir au format WAV."
+    "devnote": "Corrections de bugs et améliorations des performances"
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "Tekstinkäsittelyn nopeus on yleisesti parantunut.\n\nToimintoa olemassa olevan TTS:n muuntamiseksi mp3-muotoon on muutettu muuttamaan wav-muotoon."
+    "devnote": "Virheenkorjauksia ja suorituskyvyn parannuksia"
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "Ang bilis ng pagproseso ng teksto ay napabuti sa pangkalahatan.\n\nAng function upang i-convert ang umiiral na TTS sa mp3 ay binago upang i-convert sa wav."
+    "devnote": "Mga pag-aayos ng bug at pagpapahusay sa pagganap"
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "A szövegfeldolgozás sebessége összességében javult.\n\nA meglévő TTS-t mp3-ba konvertáló funkció módosult, hogy wav formátumba konvertálja."
+    "devnote": "Hibajavítások és teljesítménybeli fejlesztések"
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "מהירות עיבוד הטקסט שופרה בסך הכל.\n\nהפונקציה להמרת TTS קיים ל-mp3 שונתה להמרה ל-wav."
+    "devnote": "תיקוני באגים ושיפורי ביצועים"
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "टेक्स्ट प्रोसेसिंग की गति में समग्र रूप से सुधार किया गया है।\n\nमौजूदा TTS को mp3 में बदलने के फ़ंक्शन को wav में बदलने के लिए संशोधित किया गया है।"
+    "devnote": "बग फिक्स और प्रदर्शन सुधार"
   }
 }
