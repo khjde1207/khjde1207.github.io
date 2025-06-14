@@ -1,155 +1,176 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "Bug fixes and performance improvements"
+    "devnote": "My Library Image Cover Bug Fixes and Performance Improvements"
   },
-  "한국어": {
-    "key": "ko",
-    "devnote": "버그수정 및 성능개선"
-  },
+  "한국어": {"key": "ko", "devnote": "내서재 이미지 커버 버그수정 및 성능개선"},
   "갈리시아어": {
     "key": "gl",
-    "devnote": "Corrección de erros e melloras de rendemento"
+    "devnote":
+        "Corrección de erros da portada da imaxe da miña biblioteca e melloras de rendemento"
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "બગ ફિક્સેસ અને પ્રદર્શન સુધારણાઓ"
+    "devnote": "મારી લાઇબ્રેરી ઇમેજ કવર બગ ફિક્સેસ અને પ્રદર્શન સુધારણા"
   },
   "그리스어": {
     "key": "el",
-    "devnote": "Διορθώσεις σφαλμάτων και βελτιώσεις απόδοσης"
+    "devnote":
+        "Διορθώσεις σφαλμάτων και βελτιώσεις απόδοσης για το εξώφυλλο της εικόνας της βιβλιοθήκης μου"
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "Bugfixes en prestatieverbeteringen"
+    "devnote":
+        "Bugfixes en prestatieverbeteringen voor Mijn Bibliotheek-afbeeldingen"
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "बग समाधान र कार्यसम्पादन सुधारहरू"
+    "devnote": "मेरो पुस्तकालय छवि कभर बग समाधान र प्रदर्शन सुधारहरू"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "Feilrettinger og ytelsesforbedringer"
+    "devnote": "My Library Image Cover-feilrettinger og ytelsesforbedringer"
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "Fejlrettelser og ydeevneforbedringer"
+    "devnote": "My Library Image Cover-fejlrettelser og ydeevneforbedringer"
   },
   "독일어": {
     "key": "de",
-    "devnote": "Fehlerbehebungen und Leistungsverbesserungen"
+    "devnote":
+        "Fehlerbehebungen und Leistungsverbesserungen für „Meine Bibliotheksbild-Cover“"
   },
   "라오어": {
     "key": "lo",
-    "devnote": "ແກ້ໄຂຂໍ້ຜິດພາດ ແລະປັບປຸງປະສິດທິພາບ"
+    "devnote": "ຫ້ອງສະໝຸດຮູບພາບປົກປິດຂອງຂ້ອຍແກ້ໄຂຂໍ້ຜິດພາດ ແລະປັບປຸງປະສິດທິພາບ"
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "Kļūdu labojumi un veiktspējas uzlabojumi"
+    "devnote":
+        "Manas bibliotēkas attēla vāka kļūdu labojumi un veiktspējas uzlabojumi"
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "Исправления ошибок и улучшения производительности"
+    "devnote":
+        "Исправления ошибок и улучшения производительности обложки изображения моей библиотеки"
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "Remedieri de erori și îmbunătățiri ale performanței"
+    "devnote":
+        "Remedieri de erori de acoperire a imaginii bibliotecii mele și îmbunătățiri ale performanței"
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "Riktų pataisymai ir našumo patobulinimai"
+    "devnote":
+        "Mano bibliotekos vaizdo viršelio klaidų pataisymai ir našumo patobulinimai"
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "दोष निराकरणे आणि कार्यप्रदर्शन सुधारणा"
+    "devnote":
+        "माझी लायब्ररी प्रतिमा कव्हर बग निराकरणे आणि कार्यप्रदर्शन सुधारणा"
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "Поправени грешки и подобрувања на перформансите"
+    "devnote": "Поправени грешки и подобрувања во изведбата"
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "ബഗ് പരിഹരിക്കലുകളും പ്രകടന മെച്ചപ്പെടുത്തലുകളും"
+    "devnote":
+        "എൻ്റെ ലൈബ്രറി ഇമേജ് കവർ ബഗ് പരിഹാരങ്ങളും പ്രകടന മെച്ചപ്പെടുത്തലുകളും"
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "Pembetulan pepijat dan peningkatan prestasi"
+    "devnote":
+        "Pembetulan Pepijat dan Penambahbaikan Prestasi Kulit Perpustakaan Saya"
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "Алдаа засч, гүйцэтгэлийг сайжруулсан"
+    "devnote":
+        "Миний номын сангийн зургийн хавтасны алдаа засвар, гүйцэтгэлийн сайжруулалт"
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "Akatsen konponketa eta errendimenduaren hobekuntzak"
+    "devnote":
+        "Nire liburutegiko irudiaren azaleko akatsen konponketak eta errendimenduaren hobekuntzak"
   },
   "버마어": {
     "key": "my",
-    "devnote": "ချွတ်ယွင်းချက်ပြင်ဆင်မှုများနှင့် စွမ်းဆောင်ရည်မြှင့်တင်မှုများ"
+    "devnote":
+        "ကျွန်ုပ်၏ ဒစ်ဂျစ်တိုက် ရုပ်ပုံကာဗာ ချွတ်ယွင်းချက် ပြင်ဆင်မှုများနှင့် စွမ်းဆောင်ရည် မြှင့်တင်မှုများ"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "Sửa lỗi và cải thiện hiệu suất"
+    "devnote": "Sửa lỗi ảnh bìa thư viện của tôi và cải thiện hiệu suất"
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "Выпраўленне памылак і паляпшэнне прадукцыйнасці"
+    "devnote":
+        "Выпраўленне памылак і паляпшэнне прадукцыйнасці вокладкі выявы маёй бібліятэкі"
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "ত্রুটি সমাধান এবং কর্মক্ষমতা উন্নতি"
+    "devnote": "আমার লাইব্রেরি ইমেজ কভার বাগ ফিক্স এবং কর্মক্ষমতা উন্নতি"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "Поправки на грешки и подобрения в производителността"
+    "devnote":
+        "Поправки на грешки и подобрения в производителността на корицата на изображението на моята библиотека"
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "Исправке грешака и побољшања перформанси"
+    "devnote":
+        "Исправке грешака на омоту слике моје библиотеке и побољшања перформанси"
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "Marekebisho ya hitilafu na utendakazi kuboreshwa"
+    "devnote":
+        "Marekebisho ya Hitilafu za Jalada la Picha ya Maktaba na Maboresho ya Utendaji"
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "Buggfixar och prestandaförbättringar"
+    "devnote": "My Library Image Cover Bugfixar och prestandaförbättringar"
   },
   "스페인어": {
     "key": "es",
-    "devnote": "Corrección de errores y mejoras de rendimiento"
+    "devnote":
+        "Corrección de errores y mejoras de rendimiento en la portada de imágenes de Mi biblioteca"
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "Opravy chýb a vylepšenia výkonu"
+    "devnote": "Opravy chýb obálky mojej knižnice a vylepšenia výkonu"
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "Popravki napak in izboljšave delovanja"
+    "devnote":
+        "Popravki napak in izboljšave zmogljivosti naslovnice slike moje knjižnice"
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "දෝෂ නිවැරදි කිරීම් සහ කාර්ය සාධන වැඩිදියුණු කිරීම්"
+    "devnote":
+        "මගේ පුස්තකාල රූප ආවරණ දෝෂ නිවැරදි කිරීම් සහ කාර්ය සාධනය වැඩිදියුණු කිරීම්"
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "إصلاح الأخطاء وتحسينات الأداء"
+    "devnote": "إصلاحات أخطاء غلاف صور مكتبتي وتحسينات الأداء"
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "Սխալների շտկում և կատարողականի բարելավում"
+    "devnote":
+        "Իմ գրադարանի պատկերի շապիկի վրիպակների շտկում և կատարողականի բարելավում"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "Villuleiðréttingar og frammistöðubætur"
+    "devnote":
+        "Villuleiðréttingar og endurbætur á afköstum bókasafnsmyndaforsíðunnar"
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "Baq həlləri və performans təkmilləşdirmələri"
+    "devnote":
+        "Kitabxanamın Şəkli Qapağı Baq Düzəlişləri və Performans Təkmilləşdirmələri"
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "Foutoplossings en prestasieverbeterings"
+    "devnote": "My Library Image Cover Foutoplossings en prestasieverbeterings"
   },
   "알바니아어": {
     "key": "sq",
@@ -157,134 +178,138 @@
   },
   "암하라어": {
     "key": "am",
-    "devnote": "የሳንካ ጥገናዎች እና የአፈጻጸም ማሻሻያዎች"
+    "devnote": "የእኔ ቤተ-መጽሐፍት ምስል ሽፋን የሳንካ ጥገናዎች እና የአፈጻጸም ማሻሻያዎች"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "Veaparandused ja jõudluse täiustused"
+    "devnote":
+        "Minu raamatukogu pildikaane veaparandused ja jõudluse täiustused"
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "بگ کی اصلاحات اور کارکردگی میں بہتری"
+    "devnote": "میری لائبریری امیج کور بگ فکسز اور کارکردگی میں بہتری"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "Виправлення помилок і підвищення продуктивності"
+    "devnote":
+        "Виправлення помилок обкладинки зображення моєї бібліотеки та покращення продуктивності"
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "Correzioni di bug e miglioramenti delle prestazioni"
+    "devnote":
+        "Correzioni di bug e miglioramenti delle prestazioni per la copertina dell'immagine della mia libreria"
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "Perbaikan bug dan peningkatan kinerja"
+    "devnote":
+        "Sampul Gambar Perpustakaan Saya Perbaikan Bug dan Peningkatan Performa"
   },
-  "일본어": {
-    "key": "ja",
-    "devnote": "バグ修正とパフォーマンスの改善"
-  },
+  "일본어": {"key": "ja", "devnote": "マイライブラリ画像カバーのバグ修正とパフォーマンスの改善"},
   "조지아어": {
     "key": "ka",
-    "devnote": "შეცდომების გამოსწორება და მუშაობის გაუმჯობესება"
+    "devnote":
+        "ჩემი ბიბლიოთეკის სურათის ყდის ხარვეზების შესწორებები და მუშაობის გაუმჯობესება"
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "Ukulungiswa kweziphazamisi kwathuthukiswa nokusebenza"
+    "devnote":
+        "Ukulungiswa Kweziphazamisi Zekhava Yesithombe Sami Selabhulali kanye Nokuthuthukiswa Kokusebenza"
   },
-  "중국어(간체)": {
-    "key": "zh-CN",
-    "devnote": "错误修复和性能改进"
-  },
-  "중국어(번체)": {
-    "key": "zh-TW",
-    "devnote": "錯誤修復和效能改進"
-  },
-  "중국어(홍콩)": {
-    "key": "zh-HK",
-    "devnote": "錯誤修復和效能改進"
-  },
+  "중국어(간체)": {"key": "zh-CN", "devnote": "我的图书馆图片封面错误修复和性能改进"},
+  "중국어(번체)": {"key": "zh-TW", "devnote": "我的圖書館圖片封面錯誤修復和效能改進"},
+  "중국어(홍콩)": {"key": "zh-HK", "devnote": "我的圖書館圖片封面錯誤修復和效能改進"},
   "체코어": {
     "key": "cs",
-    "devnote": "Opravy chyb a vylepšení výkonu"
+    "devnote": "Opravy chyb a vylepšení výkonu obálky obrázku Moje knihovna"
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "Қателерді түзету және өнімділікті жақсарту"
+    "devnote":
+        "Менің кітапханамның суреті мұқабадағы қателерді түзету және өнімділікті жақсарту"
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "Correccions d'errors i millores de rendiment"
+    "devnote":
+        "Correcció d'errors de la portada de la imatge de la meva biblioteca i millores de rendiment"
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "ದೋಷ ಪರಿಹಾರಗಳು ಮತ್ತು ಕಾರ್ಯಕ್ಷಮತೆ ಸುಧಾರಣೆಗಳು"
+    "devnote":
+        "ನನ್ನ ಲೈಬ್ರರಿ ಇಮೇಜ್ ಕವರ್ ದೋಷ ಪರಿಹಾರಗಳು ಮತ್ತು ಕಾರ್ಯಕ್ಷಮತೆ ಸುಧಾರಣೆಗಳು"
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "Ispravci programskih pogrešaka i poboljšanja performansi"
+    "devnote":
+        "Ispravci grešaka i poboljšanja performansi naslovnice slike moje knjižnice"
   },
   "크메르어": {
     "key": "km",
-    "devnote": "ការកែកំហុស និងការកែលម្អការអនុវត្ត"
+    "devnote": "បណ្ណាល័យរបស់ខ្ញុំ កែកំហុសគម្របរូបភាព និងការកែលម្អការអនុវត្ត"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "Мүчүлүштүктөр оңдолуп, майнаптуулугу жакшыртылды"
+    "devnote":
+        "Менин китепканамдын сүрөтүнүн мукабасындагы мүчүлүштүктөрдү оңдоо жана иштин жакшыртуулары"
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "பிழை திருத்தங்கள் மற்றும் செயல்திறன் மேம்பாடுகள்"
+    "devnote":
+        "எனது நூலகப் பட அட்டைப் பிழை திருத்தங்கள் மற்றும் செயல்திறன் மேம்பாடுகள்"
   },
   "태국어": {
     "key": "th",
-    "devnote": "การแก้ไขข้อบกพร่องและการปรับปรุงประสิทธิภาพ"
+    "devnote": "แก้ไขข้อบกพร่องและปรับปรุงประสิทธิภาพภาพปกห้องสมุดของฉัน"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "Hata düzeltmeleri ve performans iyileştirmeleri"
+    "devnote":
+        "Kütüphanem Resim Kapağı Hata Düzeltmeleri ve Performans İyileştirmeleri"
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "బగ్ పరిష్కారాలు మరియు పనితీరు మెరుగుదలలు"
+    "devnote": "నా లైబ్రరీ ఇమేజ్ కవర్ బగ్ పరిష్కారాలు మరియు పనితీరు మెరుగుదలలు"
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "ਬੱਗ ਫਿਕਸ ਅਤੇ ਪ੍ਰਦਰਸ਼ਨ ਸੁਧਾਰ"
+    "devnote": "ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ ਚਿੱਤਰ ਕਵਰ ਬੱਗ ਫਿਕਸ ਅਤੇ ਪ੍ਰਦਰਸ਼ਨ ਸੁਧਾਰ"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "رفع اشکال و بهبود عملکرد"
+    "devnote": "رفع اشکال و بهبود عملکرد جلد عکس کتابخانه من"
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "Correções de bugs e melhorias de desempenho"
+    "devnote":
+        "Correções de bugs e melhorias de desempenho na capa da imagem da minha biblioteca"
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "Naprawiono błędy i poprawiono wydajność"
+    "devnote":
+        "Poprawki błędów i ulepszenia wydajności okładki My Library Image"
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "Corrections de bugs et améliorations des performances"
+    "devnote":
+        "Corrections de bugs et améliorations des performances de la couverture d'image de ma bibliothèque"
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "Virheenkorjauksia ja suorituskyvyn parannuksia"
+    "devnote":
+        "My Library Image Cover -virheenkorjauksia ja suorituskyvyn parannuksia"
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "Mga pag-aayos ng bug at pagpapahusay sa pagganap"
+    "devnote":
+        "Mga Pag-aayos ng Bug sa Cover ng Larawan ng Aking Aklatan at Mga Pagpapahusay sa Performance"
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "Hibajavítások és teljesítménybeli fejlesztések"
+    "devnote":
+        "Saját könyvtár képborítója Hibajavítások és teljesítményjavítások"
   },
-  "히브리어": {
-    "key": "iw",
-    "devnote": "תיקוני באגים ושיפורי ביצועים"
-  },
+  "히브리어": {"key": "iw", "devnote": "תיקוני באגים ושיפורי ביצועים"},
   "힌디어": {
     "key": "hi",
-    "devnote": "बग फिक्स और प्रदर्शन सुधार"
+    "devnote": "मेरी लाइब्रेरी छवि कवर बग फिक्स और प्रदर्शन सुधार"
   }
 }
