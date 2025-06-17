@@ -1,0 +1,12 @@
+출처 링크 : https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13302265&menuNo=200023
+
+<img id="wrtImg" src="https://t1.kakaocdn.net/kakaocorp/kakaocorp/admin/mediakit/1a4eef95019700001.png">
+<p style="font-size: 0.9rem;font-style: italic;">
+<span>
+title : <a href="https://www.kakaocorp.com/page/detail/11570">카카오작은글씨</a>
+authr : <a href="https://www.kakaocorp.com/page/detail/11570">카카오</a>by
+site : <a href="https://www.kakaocorp.com/page/detail/11594">카카오</a></span> <br>
+is licensed under
+<img src="https://www.kakaocorp.com/page/detail/11594" alt="오픈 폰트 라이선스(OFL)" class="img_cc">
+
+</p>
