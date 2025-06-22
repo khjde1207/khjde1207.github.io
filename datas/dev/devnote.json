@@ -1,359 +1,315 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote":
-        "Fixed bugs and improved performance of cover image in My Library.\nFixed bug where epub conversion logic sometimes did not work."
+    "devnote": "Fixed a bug where the keypad would pop up in some environments."
   },
-  "한국어": {
-    "key": "ko",
-    "devnote":
-        "내서재 커버 이미지 버그수정 및 성능을 개선하였습니다. \n간혹 epub 변환로직 이 작동하지 않던 버그를 수정 하였습니다."
-  },
+  "한국어": {"key": "ko", "devnote": "일부 환경에서 키패드가 올라오던 버그를 수정 하였습니다."},
   "갈리시아어": {
     "key": "gl",
     "devnote":
-        "Solucionáronse erros e mellorou o rendemento da imaxe de portada en A miña biblioteca.\nCorrixiuse un erro onde a lóxica de conversión epub ás veces non funcionaba."
+        "Corrixiuse un erro no que o teclado aparecería nalgúns ambientes."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote":
-        "મારી લાઇબ્રેરીમાં સુધારેલ બગ્સ અને કવર ઇમેજનું બહેતર પ્રદર્શન.\nસુધારેલ બગ જ્યાં epub કન્વર્ઝન લોજિક ક્યારેક કામ કરતું નથી."
+    "devnote": "કેટલાક વાતાવરણમાં કીપેડ પોપ અપ થશે ત્યાં બગને ઠીક કર્યો."
   },
   "그리스어": {
     "key": "el",
     "devnote":
-        "Διορθώθηκαν σφάλματα και βελτιώθηκε η απόδοση της εικόνας εξωφύλλου στο My Library.\nΔιορθώθηκε το σφάλμα όπου η λογική μετατροπής epub μερικές φορές δεν λειτουργούσε."
+        "Διορθώθηκε ένα σφάλμα όπου το πληκτρολόγιο εμφανιζόταν σε ορισμένα περιβάλλοντα."
   },
   "네덜란드어": {
     "key": "nl",
     "devnote":
-        "Bugs opgelost en de prestaties van de omslagafbeelding in Mijn Bibliotheek verbeterd.\nBug opgelost waarbij de epub-conversielogica soms niet werkte."
+        "Er is een bug opgelost waarbij het toetsenbord in sommige omgevingen verscheen."
   },
   "네팔어": {
     "key": "ne",
-    "devnote":
-        "फिक्स बगहरू र मेरो पुस्तकालयमा कभर छविको सुधारिएको प्रदर्शन।\nफिक्स बग जहाँ epub रूपान्तरण तर्क कहिलेकाहीं काम गर्दैन।"
+    "devnote": "केही वातावरणमा कीप्याड पप अप हुने बग फिक्स गरियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote":
-        "Rettet feil og forbedret ytelse for omslagsbilde i Mitt bibliotek.\nRettet feil der epub-konverteringslogikken noen ganger ikke fungerte."
+    "devnote": "Rettet en feil der tastaturet dukket opp i enkelte miljøer."
   },
   "덴마크어": {
     "key": "da",
     "devnote":
-        "Rettede fejl og forbedret ydeevne af forsidebilledet i Mit bibliotek.\nRettet fejl, hvor epub-konverteringslogik nogle gange ikke virkede."
+        "Rettede en fejl, hvor tastaturet ville dukke op i nogle miljøer."
   },
   "독일어": {
     "key": "de",
     "devnote":
-        "Fehler behoben und die Leistung des Coverbilds in „Meine Bibliothek“ verbessert.\nFehler behoben, bei dem die EPUB-Konvertierungslogik manchmal nicht funktionierte."
+        "Ein Fehler wurde behoben, bei dem die Tastatur in einigen Umgebungen auftauchte."
   },
   "라오어": {
     "key": "lo",
-    "devnote":
-        "ແກ້ໄຂຂໍ້ຜິດພາດ ແລະປັບປຸງປະສິດທິພາບຂອງຮູບພາບໜ້າປົກໃນຫ້ອງສະໝຸດຂອງຂ້ອຍ.\nແກ້ໄຂຂໍ້ຜິດພາດທີ່ບາງຄັ້ງການປ່ຽນເຫດຜົນຂອງ epub ບໍ່ເຮັດວຽກ."
+    "devnote": "ແກ້ໄຂຂໍ້ຜິດພາດທີ່ປຸ່ມກົດຈະປາກົດຂຶ້ນໃນບາງສະພາບແວດລ້ອມ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote":
-        "Izlabotas kļūdas un uzlabota vāka attēla veiktspēja sadaļā Mana bibliotēka.\nIzlabota kļūda, kuras dēļ epub konvertēšanas loģika dažkārt nedarbojās."
+    "devnote": "Novērsta kļūda, kuras dēļ dažās vidēs tika parādīta tastatūra."
   },
   "러시아어": {
     "key": "ru",
     "devnote":
-        "Исправлены ошибки и улучшена производительность изображения обложки в «Моей библиотеке».\nИсправлена ​​ошибка, при которой логика преобразования epub иногда не работала."
+        "Исправлена ​​ошибка, из-за которой в некоторых средах всплывала клавиатура."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote":
-        "S-au remediat erori și a îmbunătățit performanța imaginii de copertă din Biblioteca mea.\nS-a remediat o eroare în care logica de conversie epub uneori nu funcționa."
+    "devnote": "S-a remediat o eroare în care tastatura apărea în unele medii."
   },
   "리투아니아어": {
     "key": "lt",
     "devnote":
-        "Ištaisytos klaidos ir pagerintas viršelio vaizdo našumas Mano bibliotekoje.\nIštaisyta klaida, dėl kurios epub konvertavimo logika kartais neveikė."
+        "Ištaisyta klaida, kai klaviatūra pasirodydavo kai kuriose aplinkose."
   },
   "마라티어": {
     "key": "mr",
-    "devnote":
-        "माय लायब्ररी मधील कव्हर इमेजचे निराकरण केलेले बग आणि सुधारित कार्यप्रदर्शन.\nepub रूपांतरण तर्क काही वेळा कार्य करत नसलेल्या बगचे निराकरण केले."
+    "devnote": "काही वातावरणात कीपॅड पॉप अप होईल अशा बगचे निराकरण केले."
   },
   "마케도니아어": {
     "key": "mk",
     "devnote":
-        "Поправени грешки и подобрени перформанси на насловната слика во Моја библиотека.\nПоправена грешка каде што логиката за конверзија на epub понекогаш не функционираше."
+        "Поправен е бубачка каде што тастатурата се појавуваше во некои средини."
   },
   "말라얄람어": {
     "key": "ml",
     "devnote":
-        "പരിഹരിച്ച ബഗുകളും എൻ്റെ ലൈബ്രറിയിലെ കവർ ചിത്രത്തിൻ്റെ മെച്ചപ്പെട്ട പ്രകടനവും.\nഎപ്പബ് കൺവേർഷൻ ലോജിക് ചിലപ്പോൾ പ്രവർത്തിക്കാത്ത ബഗ് പരിഹരിച്ചു."
+        "ചില പരിതസ്ഥിതികളിൽ കീപാഡ് പോപ്പ് അപ്പ് ചെയ്യുന്ന ഒരു ബഗ് പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
     "devnote":
-        "Membetulkan pepijat dan meningkatkan prestasi imej muka depan dalam Pustaka Saya.\nMembetulkan pepijat di mana logik penukaran epub kadangkala tidak berfungsi."
+        "Memperbaiki pepijat di mana pad kekunci akan muncul dalam sesetengah persekitaran."
   },
   "몽골어": {
     "key": "mn",
-    "devnote":
-        "Миний номын сангийн хавтасны зургийн гүйцэтгэл, алдааг зассан.\nЗаримдаа epub хөрвүүлэх логик ажиллахгүй байсан алдаа зассан."
+    "devnote": "Зарим орчинд товчлуур гарч ирдэг алдааг зассан."
   },
   "바스크어": {
     "key": "eu",
     "devnote":
-        "Akatsak konpondu dira eta azaleko irudiaren errendimendua hobetu da Nire liburutegian.\nEpub bihurtzeko logika batzuetan funtzionatzen ez zuen akatsa konpondu da."
+        "Zenbait ingurunetan teklatua agertuko zen akats bat konpondu da."
   },
   "버마어": {
     "key": "my",
     "devnote":
-        "ချွတ်ယွင်းချက်များကို ပြင်ဆင်ပြီး ကျွန်ုပ်၏ ဒစ်ဂျစ်တိုက်ရှိ မျက်နှာဖုံးပုံ၏ စွမ်းဆောင်ရည်ကို တိုးတက်စေသည်။\nတစ်ခါတစ်ရံတွင် epub ပြောင်းလဲခြင်း ယုတ္တိဗေဒသည် အလုပ်မလုပ်သော ချို့ယွင်းချက်ကို ပြင်ဆင်သည်။"
+        "အချို့သောပတ်ဝန်းကျင်များတွင် ကီးဘုတ်ပေါ်လာမည့် အမှားတစ်ခုကို ပြင်ဆင်ပါ။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote":
-        "Đã sửa lỗi và cải thiện hiệu suất của ảnh bìa trong Thư viện của tôi.\nĐã sửa lỗi logic chuyển đổi epub đôi khi không hoạt động."
+    "devnote": "Đã sửa lỗi bàn phím số bật lên trong một số môi trường."
   },
   "벨라루스어": {
     "key": "be",
     "devnote":
-        "Выпраўлены памылкі і палепшана прадукцыйнасць выявы вокладкі ў Маёй бібліятэцы.\nВыпраўленая памылка, з-за якой логіка пераўтварэння epub часам не працавала."
+        "Выпраўлена памылка, з-за якой клавіятура ўсплывала ў некаторых асяроддзях."
   },
   "벵골어": {
     "key": "bn",
     "devnote":
-        "আমার লাইব্রেরিতে বাগ সংশোধন করা এবং কভার ইমেজের উন্নত কর্মক্ষমতা।\nবাগ সংশোধন করা হয়েছে যেখানে epub রূপান্তর যুক্তি কখনও কখনও কাজ করে না।"
+        "একটি বাগ সংশোধন করা হয়েছে যেখানে কিছু পরিবেশে কীপ্যাড পপ আপ হবে৷"
   },
   "불가리아어": {
     "key": "bg",
     "devnote":
-        "Поправени грешки и подобрена производителност на изображението на корицата в Моята библиотека.\nКоригирана грешка, при която логиката за преобразуване на epub понякога не работеше."
+        "Коригирана грешка, при която клавиатурата изскачаше в някои среди."
   },
   "세르비아어": {
     "key": "sr",
     "devnote":
-        "Исправљене грешке и побољшане перформансе насловне слике у Мојој библиотеци.\nИсправљена грешка где логика конверзије епуб понекад није радила."
+        "Исправљена грешка у којој би се тастатура појавила у неким окружењима."
   },
   "스와힐리어": {
     "key": "sw",
     "devnote":
-        "Tumerekebisha hitilafu na utendakazi ulioboreshwa wa picha ya jalada katika Maktaba Yangu.\nHitilafu iliyorekebishwa ambapo mantiki ya ubadilishaji wa epub wakati mwingine haikufanya kazi."
+        "Imerekebisha hitilafu ambapo vitufe vitatokea katika baadhi ya mazingira."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote":
-        "Fixade buggar och förbättrad prestanda för omslagsbilden i Mitt bibliotek.\nFixat bugg där epub-konverteringslogik ibland inte fungerade."
+    "devnote": "Fixade en bugg där knappsatsen skulle dyka upp i vissa miljöer."
   },
   "스페인어": {
     "key": "es",
     "devnote":
-        "Se corrigieron errores y se mejoró el rendimiento de la imagen de portada en Mi Biblioteca.\nSe corrigió un error que a veces impedía la conversión de archivos epub."
+        "Se corrigió un error donde el teclado aparecía en algunos entornos."
   },
   "슬로바키아어": {
     "key": "sk",
     "devnote":
-        "Opravené chyby a vylepšený výkon obrázka na obale v Mojej knižnici.\nOpravená chyba, kedy logika konverzie epub niekedy nefungovala."
+        "Opravená chyba, pri ktorej v niektorých prostrediach vyskakovala klávesnica."
   },
   "슬로베니아어": {
     "key": "sl",
     "devnote":
-        "Odpravljene napake in izboljšano delovanje naslovne slike v Moji knjižnici.\nOdpravljena napaka, pri kateri logika pretvorbe epub včasih ni delovala."
+        "Odpravljena napaka, zaradi katere se je v nekaterih okoljih pojavila tipkovnica."
   },
   "싱할라어": {
     "key": "si",
-    "devnote":
-        "ස්ථාවර දෝෂ සහ මගේ පුස්තකාලයේ ආවරණ රූපයේ කාර්ය සාධනය වැඩි දියුණු කිරීම.\nepub පරිවර්තන තර්කනය සමහර විට ක්‍රියා නොකළ ස්ථාවර දෝෂයකි."
+    "devnote": "සමහර පරිසරයන් තුළ යතුරු පුවරුව උත්පතන වන දෝෂයක් විසඳා ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote":
-        "تم إصلاح بعض الأخطاء وتحسين أداء صورة الغلاف في مكتبتي.\nتم إصلاح مشكلة عدم عمل تحويل epub أحيانًا."
+    "devnote": "تم إصلاح خطأ حيث كانت لوحة المفاتيح تظهر في بعض البيئات."
   },
   "아르메니아어": {
     "key": "hy",
     "devnote":
-        "Շտկվել են սխալներ և բարելավվել է շապիկի պատկերի կատարումը Իմ գրադարանում:\nՇտկվել է սխալ, որտեղ epub-ի փոխակերպման տրամաբանությունը երբեմն չէր աշխատում:"
+        "Շտկվել է սխալ, որտեղ ստեղնաշարը հայտնվում էր որոշ միջավայրերում:"
   },
   "아이슬란드어": {
     "key": "is",
     "devnote":
-        "Lagaði villur og bætti árangur forsíðumyndar í bókasafninu mínu.\nLagaði villu þar sem rökfræði epub umbreytingar virkaði stundum ekki."
+        "Lagaði villu þar sem takkaborðið myndi skjóta upp kollinum í sumum umhverfi."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote":
-        "Sabit səhvlər və Kitabxanamdakı örtük şəklinin təkmilləşdirilmiş performansı.\nEpub çevirmə məntiqinin bəzən işləmədiyi bir səhv düzəldildi."
+    "devnote": "Klaviaturanın bəzi mühitlərdə göründüyü bir səhv düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
     "devnote":
-        "Foute reggestel en verbeterde werkverrigting van omslagprent in My Biblioteek.\nFout opgelos waar epub-omskakelingslogika soms nie gewerk het nie."
+        "Het 'n fout opgelos waar die sleutelbord in sommige omgewings sou verskyn."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote":
-        "Rregulloi defektet dhe performancën e përmirësuar të imazhit të kopertinës në Biblioteka ime.\nRregulluar defektin ku logjika e konvertimit epub ndonjëherë nuk funksiononte."
+    "devnote": "Rregulloi një defekt ku tastiera do të shfaqej në disa mjedise."
   },
   "암하라어": {
     "key": "am",
-    "devnote":
-        "በእኔ ቤተ-መጽሐፍት ውስጥ ቋሚ ስህተቶች እና የሽፋን ምስል የተሻሻለ አፈጻጸም።\nየ epub ልወጣ አመክንዮ አንዳንድ ጊዜ የማይሰራበት ቋሚ ሳንካ።"
+    "devnote": "የቁልፍ ሰሌዳው በአንዳንድ አካባቢዎች ብቅ የሚልበት ስህተት ተስተካክሏል።"
   },
   "에스토니아어": {
     "key": "et",
     "devnote":
-        "Parandatud vead ja kaanepildi parem jõudlus jaotises Minu kogu.\nParandatud viga, mille puhul epub-i teisendusloogika mõnikord ei töötanud."
+        "Parandatud on viga, mille tõttu klahvistik mõnes keskkonnas ilmus."
   },
   "우르두어": {
     "key": "ur",
-    "devnote":
-        "میری لائبریری میں درست کیڑے اور کور امیج کی بہتر کارکردگی۔\nطے شدہ بگ جہاں epub کی تبدیلی کی منطق کبھی کبھی کام نہیں کرتی تھی۔"
+    "devnote": "ایک بگ کو ٹھیک کیا جہاں کی پیڈ کچھ ماحول میں پاپ اپ ہوگا۔"
   },
   "우크라이나어": {
     "key": "uk",
     "devnote":
-        "Виправлено помилки та покращено роботу зображення обкладинки в Моїй бібліотеці.\nВиправлено помилку, через яку іноді не працювала логіка перетворення epub."
+        "Виправлено помилку, через яку клавіатура з’являлася в деяких середовищах."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote":
-        "Risolti bug e migliorate le prestazioni dell'immagine di copertina in La mia biblioteca.\nRisolto bug che a volte impediva il funzionamento della logica di conversione epub."
+    "devnote": "Risolto un bug per cui la tastiera appariva in alcuni ambienti."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote":
-        "Memperbaiki bug dan meningkatkan kinerja gambar sampul di My Library.\nMemperbaiki bug yang menyebabkan logika konversi epub terkadang tidak berfungsi."
+    "devnote": "Memperbaiki bug di mana keypad muncul di beberapa lingkungan."
   },
-  "일본어": {
-    "key": "ja",
-    "devnote":
-        "マイライブラリのカバー画像に関するバグを修正し、パフォーマンスを向上しました。\nEPUB 変換ロジックが時々機能しないバグを修正しました。"
-  },
+  "일본어": {"key": "ja", "devnote": "一部の環境でキーパッドがポップアップ表示されるバグを修正しました。"},
   "조지아어": {
     "key": "ka",
     "devnote":
-        "გამოსწორდა შეცდომები და გაუმჯობესდა ყდის სურათის შესრულება ჩემს ბიბლიოთეკაში.\nდაფიქსირდა შეცდომა, სადაც epub-ის კონვერტაციის ლოგიკა ზოგჯერ არ მუშაობდა."
+        "გამოსწორდა შეცდომა, რომლის დროსაც კლავიატურა გამოჩნდებოდა ზოგიერთ გარემოში."
   },
   "줄루어": {
     "key": "zu",
     "devnote":
-        "Kulungiswe iziphazamisi nokusebenza okuthuthukisiwe kwesithombe sekhava kokuthi Ilabhulali Yami.\nKulungiswe iphutha lapho ingqondo yokuguqulwa kwe-epub ngezinye izikhathi ingasebenzi."
+        "Kulungiswe iphutha lapho ikhiphedi izovela khona kwezinye izindawo."
   },
-  "중국어(간체)": {
-    "key": "zh-CN",
-    "devnote": "修复了“我的图书馆”中封面图片的错误并提升了其性能。\n修复了 epub 转换逻辑有时不起作用的错误。"
-  },
-  "중국어(번체)": {
-    "key": "zh-TW",
-    "devnote": "修正了「我的圖書館」中封面圖片的錯誤並提升了其效能。\n修正了 epub 轉換邏輯有時不起作用的錯誤。"
-  },
-  "중국어(홍콩)": {
-    "key": "zh-HK",
-    "devnote": "修正了「我的圖書館」中封面圖片的錯誤並提升了其效能。\n修正了 epub 轉換邏輯有時不起作用的錯誤。"
-  },
+  "중국어(간체)": {"key": "zh-CN", "devnote": "修复了在某些环境下键盘会弹出的错误。"},
+  "중국어(번체)": {"key": "zh-TW", "devnote": "修正了在某些環境下鍵盤會彈出的錯誤。"},
+  "중국어(홍콩)": {"key": "zh-HK", "devnote": "修正了在某些環境下鍵盤會彈出的錯誤。"},
   "체코어": {
     "key": "cs",
     "devnote":
-        "Opravené chyby a vylepšený výkon obrázku obálky v Moje knihovna.\nOpravena chyba, kdy logika konverze epub někdy nefungovala."
+        "Opravena chyba, kdy v některých prostředích vyskakovala klávesnice."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote":
-        "Түзетілген қателер және Менің кітапханамдағы мұқаба кескінінің жақсартылған өнімділігі.\nEpub түрлендіру логикасы кейде жұмыс істемейтін қате түзетілді."
+    "devnote": "Кейбір орталарда пернетақта пайда болатын қате түзетілді."
   },
   "카탈로니아어": {
     "key": "ca",
     "devnote":
-        "S'han corregit errors i s'ha millorat el rendiment de la imatge de portada a La meva biblioteca.\nS'ha corregit un error en què la lògica de conversió epub de vegades no funcionava."
+        "S'ha solucionat un error en què el teclat apareixia en alguns entorns."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote":
-        "ನನ್ನ ಲೈಬ್ರರಿಯಲ್ಲಿ ಕವರ್ ಇಮೇಜ್‌ನ ಸ್ಥಿರ ದೋಷಗಳು ಮತ್ತು ಸುಧಾರಿತ ಕಾರ್ಯಕ್ಷಮತೆ.\nಎಪಬ್ ಪರಿವರ್ತನೆ ತರ್ಕವು ಕೆಲವೊಮ್ಮೆ ಕೆಲಸ ಮಾಡದಿರುವ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "ಕೆಲವು ಪರಿಸರದಲ್ಲಿ ಕೀಪ್ಯಾಡ್ ಪಾಪ್ ಅಪ್ ಆಗುವ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
     "devnote":
-        "Ispravljene greške i poboljšana izvedba naslovne slike u Mojoj knjižnici.\nIspravljena pogreška gdje logika konverzije epub-a ponekad nije radila."
+        "Ispravljena je greška zbog koje bi se tipkovnica pojavljivala u nekim okruženjima."
   },
   "크메르어": {
     "key": "km",
-    "devnote":
-        "ជួសជុលកំហុស និងធ្វើឱ្យប្រសើរឡើងនូវការអនុវត្តរូបភាពគម្របនៅក្នុងបណ្ណាល័យរបស់ខ្ញុំ។\nបានជួសជុលកំហុសដែលជួនកាលតក្កវិជ្ជាបំប្លែង epub មិនដំណើរការ។"
+    "devnote": "ជួសជុលកំហុសដែលបន្ទះក្ដារចុចនឹងលេចឡើងនៅក្នុងបរិស្ថានមួយចំនួន។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote":
-        "Мүчүлүштүктөр оңдолду жана Менин китепканамдагы мукаба сүрөтүнүн иштеши жакшырды.\nepub конвертациялоо логикасы кээде иштебей калган ката оңдолду."
+    "devnote": "Кээ бир чөйрөлөрдө клавиатура ачыла турган ката оңдолду."
   },
   "타밀어": {
     "key": "ta",
     "devnote":
-        "எனது லைப்ரரியில் பிழைகள் சரி செய்யப்பட்டு அட்டைப் படத்தின் மேம்படுத்தப்பட்ட செயல்திறன்.\nஎபப் கன்வெர்ஷன் லாஜிக் சில நேரங்களில் வேலை செய்யாத பிழை சரி செய்யப்பட்டது."
+        "சில சூழல்களில் விசைப்பலகை பாப் அப் செய்யும் ஒரு பிழை சரி செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote":
-        "แก้ไขข้อบกพร่องและปรับปรุงประสิทธิภาพของภาพปกใน My Library\nแก้ไขข้อบกพร่องที่ตรรกะการแปลง epub บางครั้งไม่ทำงาน"
+    "devnote": "แก้ไขข้อบกพร่องที่แป้นพิมพ์จะปรากฏขึ้นในบางสภาพแวดล้อม"
   },
   "터키어": {
     "key": "tr",
     "devnote":
-        "Kitaplığım'daki kapak resminin hataları düzeltildi ve performansı iyileştirildi.\nEpub dönüştürme mantığının bazen çalışmadığı hata düzeltildi."
+        "Bazı ortamlarda tuş takımının açılmasına neden olan hata düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote":
-        "నా లైబ్రరీలో కవర్ ఇమేజ్ యొక్క స్థిర బగ్‌లు మరియు మెరుగైన పనితీరు.\nఎపబ్ కన్వర్షన్ లాజిక్ కొన్నిసార్లు పని చేయని బగ్ పరిష్కరించబడింది."
+    "devnote": "కొన్ని పరిసరాలలో కీప్యాడ్ పాపప్ అయ్యే బగ్ పరిష్కరించబడింది."
   },
   "펀잡어": {
     "key": "pa",
     "devnote":
-        "ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਫਿਕਸਡ ਬੱਗ ਅਤੇ ਕਵਰ ਚਿੱਤਰ ਦੀ ਬਿਹਤਰ ਕਾਰਗੁਜ਼ਾਰੀ।\nਫਿਕਸਡ ਬੱਗ ਜਿੱਥੇ epub ਪਰਿਵਰਤਨ ਤਰਕ ਕਈ ਵਾਰ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਸੀ।"
+        "ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਹੈ ਜਿੱਥੇ ਕੀਪੈਡ ਕੁਝ ਵਾਤਾਵਰਣ ਵਿੱਚ ਦਿਖਾਈ ਦੇਵੇਗਾ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote":
-        "رفع اشکالات و بهبود عملکرد تصویر جلد در My Library.\nرفع اشکال که در آن منطق تبدیل epub گاهی اوقات کار نمی کند."
+    "devnote": "رفع اشکالی که در آن صفحه کلید در برخی از محیط‌ها ظاهر می‌شد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
     "devnote":
-        "Corrigimos bugs e melhoramos o desempenho da imagem da capa na Minha Biblioteca.\nCorrigimos o bug em que a lógica de conversão para ePub às vezes não funcionava."
+        "Corrigido um bug em que o teclado numérico aparecia em alguns ambientes."
   },
   "폴란드어": {
     "key": "pl",
     "devnote":
-        "Naprawiono błędy i poprawiono wydajność obrazu okładki w Mojej Bibliotece.\nNaprawiono błąd, w którym logika konwersji epub czasami nie działała."
+        "Naprawiono błąd, który powodował pojawianie się klawiatury w niektórych środowiskach."
   },
   "프랑스어": {
     "key": "fr",
     "devnote":
-        "Correction de bugs et amélioration des performances de l'image de couverture dans Ma Bibliothèque.\nCorrection d'un bug empêchant parfois la logique de conversion ePub."
+        "Correction d'un bug où le clavier apparaissait dans certains environnements."
   },
   "핀란드어": {
     "key": "fi",
     "devnote":
-        "Korjattu virheitä ja parannettu kansikuvan suorituskykyä Omassa kirjastossa.\nKorjattu bugi, jossa epub-muunnoslogiikka ei joskus toiminut."
+        "Korjattu virhe, jossa näppäimistö ponnahti esiin joissakin ympäristöissä."
   },
   "필리핀어": {
     "key": "fil",
     "devnote":
-        "Inayos ang mga bug at pinahusay na performance ng cover image sa My Library.\nInayos ang bug kung saan minsan hindi gumana ang epub conversion logic."
+        "Inayos ang isang bug kung saan lalabas ang keypad sa ilang kapaligiran."
   },
   "헝가리어": {
     "key": "hu",
     "devnote":
-        "Javítva a hibákat, és javított a borítókép teljesítménye a Saját könyvtárban.\nJavítva a hiba, ahol az epub konverziós logika néha nem működött."
+        "Javítottunk egy hibát, amely miatt a billentyűzet bizonyos környezetben felbukkant."
   },
   "히브리어": {
     "key": "iw",
-    "devnote":
-        "תיקנו באגים וביצועים משופרים של תמונת הכריכה בספרייה שלי.\nתוקן באג שבו לוגיקה של המרת epub לפעמים לא עבדה."
+    "devnote": "תיקן באג שבו לוח המקשים צץ בסביבות מסוימות."
   },
   "힌디어": {
     "key": "hi",
     "devnote":
-        "मेरी लाइब्रेरी में कवर छवि की बग्स को ठीक किया गया और उसका प्रदर्शन बेहतर किया गया।\nबग को ठीक किया गया जहां epub रूपांतरण तर्क कभी-कभी काम नहीं करता था।"
+        "एक बग को ठीक किया गया जहां कुछ वातावरणों में कीपैड पॉप अप हो जाता था।"
   }
 }
