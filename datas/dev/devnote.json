@@ -1,315 +1,92 @@
 {
-  "영어(미국)": {
-    "key": "en",
-    "devnote": "Fixed a bug where the keypad would pop up in some environments."
-  },
-  "한국어": {"key": "ko", "devnote": "일부 환경에서 키패드가 올라오던 버그를 수정 하였습니다."},
-  "갈리시아어": {
-    "key": "gl",
-    "devnote":
-        "Corrixiuse un erro no que o teclado aparecería nalgúns ambientes."
-  },
-  "구자라트어": {
-    "key": "gu",
-    "devnote": "કેટલાક વાતાવરણમાં કીપેડ પોપ અપ થશે ત્યાં બગને ઠીક કર્યો."
-  },
-  "그리스어": {
-    "key": "el",
-    "devnote":
-        "Διορθώθηκε ένα σφάλμα όπου το πληκτρολόγιο εμφανιζόταν σε ορισμένα περιβάλλοντα."
-  },
-  "네덜란드어": {
-    "key": "nl",
-    "devnote":
-        "Er is een bug opgelost waarbij het toetsenbord in sommige omgevingen verscheen."
-  },
-  "네팔어": {
-    "key": "ne",
-    "devnote": "केही वातावरणमा कीप्याड पप अप हुने बग फिक्स गरियो।"
-  },
-  "노르웨이어": {
-    "key": "no",
-    "devnote": "Rettet en feil der tastaturet dukket opp i enkelte miljøer."
-  },
+  "영어(미국)": {"key": "en", "devnote": "Overall speed has been improved."},
+  "한국어": {"key": "ko", "devnote": "전체적으로 속도를 개선 하였습니다."},
+  "갈리시아어": {"key": "gl", "devnote": "Mellorouse a velocidade xeral."},
+  "구자라트어": {"key": "gu", "devnote": "એકંદર ઝડપમાં સુધારો કરવામાં આવ્યો છે."},
+  "그리스어": {"key": "el", "devnote": "Η συνολική ταχύτητα έχει βελτιωθεί."},
+  "네덜란드어": {"key": "nl", "devnote": "De algehele snelheid is verbeterd."},
+  "네팔어": {"key": "ne", "devnote": "समग्र गति सुधार गरिएको छ।"},
+  "노르웨이어": {"key": "no", "devnote": "Den generelle hastigheten er forbedret."},
   "덴마크어": {
     "key": "da",
-    "devnote":
-        "Rettede en fejl, hvor tastaturet ville dukke op i nogle miljøer."
+    "devnote": "Den samlede hastighed er blevet forbedret."
   },
   "독일어": {
     "key": "de",
-    "devnote":
-        "Ein Fehler wurde behoben, bei dem die Tastatur in einigen Umgebungen auftauchte."
+    "devnote": "Die Gesamtgeschwindigkeit wurde verbessert."
   },
-  "라오어": {
-    "key": "lo",
-    "devnote": "ແກ້ໄຂຂໍ້ຜິດພາດທີ່ປຸ່ມກົດຈະປາກົດຂຶ້ນໃນບາງສະພາບແວດລ້ອມ."
-  },
-  "라트비아어": {
-    "key": "lv",
-    "devnote": "Novērsta kļūda, kuras dēļ dažās vidēs tika parādīta tastatūra."
-  },
-  "러시아어": {
-    "key": "ru",
-    "devnote":
-        "Исправлена ​​ошибка, из-за которой в некоторых средах всплывала клавиатура."
-  },
-  "루마니아어": {
-    "key": "ro",
-    "devnote": "S-a remediat o eroare în care tastatura apărea în unele medii."
-  },
-  "리투아니아어": {
-    "key": "lt",
-    "devnote":
-        "Ištaisyta klaida, kai klaviatūra pasirodydavo kai kuriose aplinkose."
-  },
-  "마라티어": {
-    "key": "mr",
-    "devnote": "काही वातावरणात कीपॅड पॉप अप होईल अशा बगचे निराकरण केले."
-  },
-  "마케도니아어": {
-    "key": "mk",
-    "devnote":
-        "Поправен е бубачка каде што тастатурата се појавуваше во некои средини."
-  },
-  "말라얄람어": {
-    "key": "ml",
-    "devnote":
-        "ചില പരിതസ്ഥിതികളിൽ കീപാഡ് പോപ്പ് അപ്പ് ചെയ്യുന്ന ഒരു ബഗ് പരിഹരിച്ചു."
-  },
+  "라오어": {"key": "lo", "devnote": "ຄວາມໄວໂດຍລວມໄດ້ຖືກປັບປຸງ."},
+  "라트비아어": {"key": "lv", "devnote": "Kopējais ātrums ir uzlabots."},
+  "러시아어": {"key": "ru", "devnote": "Общая скорость была улучшена."},
+  "루마니아어": {"key": "ro", "devnote": "Viteza generală a fost îmbunătățită."},
+  "리투아니아어": {"key": "lt", "devnote": "Bendras greitis buvo pagerintas."},
+  "마라티어": {"key": "mr", "devnote": "एकूण गती सुधारली आहे."},
+  "마케도니아어": {"key": "mk", "devnote": "Целокупната брзина е подобрена."},
+  "말라얄람어": {"key": "ml", "devnote": "മൊത്തത്തിലുള്ള വേഗത മെച്ചപ്പെട്ടു."},
   "말레이어": {
     "key": "ms",
-    "devnote":
-        "Memperbaiki pepijat di mana pad kekunci akan muncul dalam sesetengah persekitaran."
+    "devnote": "Kelajuan keseluruhan telah dipertingkatkan."
   },
-  "몽골어": {
-    "key": "mn",
-    "devnote": "Зарим орчинд товчлуур гарч ирдэг алдааг зассан."
-  },
-  "바스크어": {
-    "key": "eu",
-    "devnote":
-        "Zenbait ingurunetan teklatua agertuko zen akats bat konpondu da."
-  },
-  "버마어": {
-    "key": "my",
-    "devnote":
-        "အချို့သောပတ်ဝန်းကျင်များတွင် ကီးဘုတ်ပေါ်လာမည့် အမှားတစ်ခုကို ပြင်ဆင်ပါ။"
-  },
-  "베트남어": {
-    "key": "vi",
-    "devnote": "Đã sửa lỗi bàn phím số bật lên trong một số môi trường."
-  },
-  "벨라루스어": {
-    "key": "be",
-    "devnote":
-        "Выпраўлена памылка, з-за якой клавіятура ўсплывала ў некаторых асяроддзях."
-  },
-  "벵골어": {
-    "key": "bn",
-    "devnote":
-        "একটি বাগ সংশোধন করা হয়েছে যেখানে কিছু পরিবেশে কীপ্যাড পপ আপ হবে৷"
-  },
-  "불가리아어": {
-    "key": "bg",
-    "devnote":
-        "Коригирана грешка, при която клавиатурата изскачаше в някои среди."
-  },
-  "세르비아어": {
-    "key": "sr",
-    "devnote":
-        "Исправљена грешка у којој би се тастатура појавила у неким окружењима."
-  },
-  "스와힐리어": {
-    "key": "sw",
-    "devnote":
-        "Imerekebisha hitilafu ambapo vitufe vitatokea katika baadhi ya mazingira."
-  },
-  "스웨덴어": {
-    "key": "sv",
-    "devnote": "Fixade en bugg där knappsatsen skulle dyka upp i vissa miljöer."
-  },
-  "스페인어": {
-    "key": "es",
-    "devnote":
-        "Se corrigió un error donde el teclado aparecía en algunos entornos."
-  },
-  "슬로바키아어": {
-    "key": "sk",
-    "devnote":
-        "Opravená chyba, pri ktorej v niektorých prostrediach vyskakovala klávesnica."
-  },
-  "슬로베니아어": {
-    "key": "sl",
-    "devnote":
-        "Odpravljena napaka, zaradi katere se je v nekaterih okoljih pojavila tipkovnica."
-  },
-  "싱할라어": {
-    "key": "si",
-    "devnote": "සමහර පරිසරයන් තුළ යතුරු පුවරුව උත්පතන වන දෝෂයක් විසඳා ඇත."
-  },
-  "아랍어": {
-    "key": "ar",
-    "devnote": "تم إصلاح خطأ حيث كانت لوحة المفاتيح تظهر في بعض البيئات."
-  },
-  "아르메니아어": {
-    "key": "hy",
-    "devnote":
-        "Շտկվել է սխալ, որտեղ ստեղնաշարը հայտնվում էր որոշ միջավայրերում:"
-  },
-  "아이슬란드어": {
-    "key": "is",
-    "devnote":
-        "Lagaði villu þar sem takkaborðið myndi skjóta upp kollinum í sumum umhverfi."
-  },
-  "아제르바이잔어": {
-    "key": "az",
-    "devnote": "Klaviaturanın bəzi mühitlərdə göründüyü bir səhv düzəldildi."
-  },
-  "아프리칸스어": {
-    "key": "af",
-    "devnote":
-        "Het 'n fout opgelos waar die sleutelbord in sommige omgewings sou verskyn."
-  },
+  "몽골어": {"key": "mn", "devnote": "Нийт хурд сайжирсан."},
+  "바스크어": {"key": "eu", "devnote": "Abiadura orokorra hobetu da."},
+  "버마어": {"key": "my", "devnote": "အလုံးစုံမြန်နှုန်းကို မြှင့်တင်ထားသည်။"},
+  "베트남어": {"key": "vi", "devnote": "Tốc độ tổng thể đã được cải thiện."},
+  "벨라루스어": {"key": "be", "devnote": "Агульная хуткасць была палепшана."},
+  "벵골어": {"key": "bn", "devnote": "সামগ্রিক গতি উন্নত করা হয়েছে."},
+  "불가리아어": {"key": "bg", "devnote": "Общата скорост е подобрена."},
+  "세르비아어": {"key": "sr", "devnote": "Укупна брзина је побољшана."},
+  "스와힐리어": {"key": "sw", "devnote": "Kasi ya jumla imeboreshwa."},
+  "스웨덴어": {"key": "sv", "devnote": "Den totala hastigheten har förbättrats."},
+  "스페인어": {"key": "es", "devnote": "Se ha mejorado la velocidad general."},
+  "슬로바키아어": {"key": "sk", "devnote": "Celková rýchlosť sa zlepšila."},
+  "슬로베니아어": {"key": "sl", "devnote": "Splošna hitrost je bila izboljšana."},
+  "싱할라어": {"key": "si", "devnote": "සමස්ත වේගය වැඩි දියුණු කර ඇත."},
+  "아랍어": {"key": "ar", "devnote": "تم تحسين السرعة الإجمالية."},
+  "아르메니아어": {"key": "hy", "devnote": "Ընդհանուր արագությունը բարելավվել է:"},
+  "아이슬란드어": {"key": "is", "devnote": "Heildarhraði hefur verið bættur."},
+  "아제르바이잔어": {"key": "az", "devnote": "Ümumi sürət yaxşılaşdırıldı."},
+  "아프리칸스어": {"key": "af", "devnote": "Algehele spoed is verbeter."},
   "알바니아어": {
     "key": "sq",
-    "devnote": "Rregulloi një defekt ku tastiera do të shfaqej në disa mjedise."
+    "devnote": "Shpejtësia e përgjithshme është përmirësuar."
   },
-  "암하라어": {
-    "key": "am",
-    "devnote": "የቁልፍ ሰሌዳው በአንዳንድ አካባቢዎች ብቅ የሚልበት ስህተት ተስተካክሏል።"
-  },
-  "에스토니아어": {
-    "key": "et",
-    "devnote":
-        "Parandatud on viga, mille tõttu klahvistik mõnes keskkonnas ilmus."
-  },
-  "우르두어": {
-    "key": "ur",
-    "devnote": "ایک بگ کو ٹھیک کیا جہاں کی پیڈ کچھ ماحول میں پاپ اپ ہوگا۔"
-  },
-  "우크라이나어": {
-    "key": "uk",
-    "devnote":
-        "Виправлено помилку, через яку клавіатура з’являлася в деяких середовищах."
-  },
+  "암하라어": {"key": "am", "devnote": "አጠቃላይ ፍጥነት ተሻሽሏል።"},
+  "에스토니아어": {"key": "et", "devnote": "Üldine kiirus on paranenud."},
+  "우르두어": {"key": "ur", "devnote": "مجموعی رفتار کو بہتر بنایا گیا ہے۔"},
+  "우크라이나어": {"key": "uk", "devnote": "Загальну швидкість було покращено."},
   "이탈리아어": {
     "key": "it",
-    "devnote": "Risolto un bug per cui la tastiera appariva in alcuni ambienti."
+    "devnote": "La velocità complessiva è stata migliorata."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "Memperbaiki bug di mana keypad muncul di beberapa lingkungan."
+    "devnote": "Kecepatan keseluruhan telah ditingkatkan."
   },
-  "일본어": {"key": "ja", "devnote": "一部の環境でキーパッドがポップアップ表示されるバグを修正しました。"},
-  "조지아어": {
-    "key": "ka",
-    "devnote":
-        "გამოსწორდა შეცდომა, რომლის დროსაც კლავიატურა გამოჩნდებოდა ზოგიერთ გარემოში."
-  },
-  "줄루어": {
-    "key": "zu",
-    "devnote":
-        "Kulungiswe iphutha lapho ikhiphedi izovela khona kwezinye izindawo."
-  },
-  "중국어(간체)": {"key": "zh-CN", "devnote": "修复了在某些环境下键盘会弹出的错误。"},
-  "중국어(번체)": {"key": "zh-TW", "devnote": "修正了在某些環境下鍵盤會彈出的錯誤。"},
-  "중국어(홍콩)": {"key": "zh-HK", "devnote": "修正了在某些環境下鍵盤會彈出的錯誤。"},
-  "체코어": {
-    "key": "cs",
-    "devnote":
-        "Opravena chyba, kdy v některých prostředích vyskakovala klávesnice."
-  },
-  "카자흐어": {
-    "key": "kk",
-    "devnote": "Кейбір орталарда пернетақта пайда болатын қате түзетілді."
-  },
-  "카탈로니아어": {
-    "key": "ca",
-    "devnote":
-        "S'ha solucionat un error en què el teclat apareixia en alguns entorns."
-  },
-  "칸나다어": {
-    "key": "kn",
-    "devnote": "ಕೆಲವು ಪರಿಸರದಲ್ಲಿ ಕೀಪ್ಯಾಡ್ ಪಾಪ್ ಅಪ್ ಆಗುವ ದೋಷವನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
-  },
-  "크로아티아어 –": {
-    "key": "hr",
-    "devnote":
-        "Ispravljena je greška zbog koje bi se tipkovnica pojavljivala u nekim okruženjima."
-  },
-  "크메르어": {
-    "key": "km",
-    "devnote": "ជួសជុលកំហុសដែលបន្ទះក្ដារចុចនឹងលេចឡើងនៅក្នុងបរិស្ថានមួយចំនួន។"
-  },
-  "키르기스어": {
-    "key": "ky",
-    "devnote": "Кээ бир чөйрөлөрдө клавиатура ачыла турган ката оңдолду."
-  },
-  "타밀어": {
-    "key": "ta",
-    "devnote":
-        "சில சூழல்களில் விசைப்பலகை பாப் அப் செய்யும் ஒரு பிழை சரி செய்யப்பட்டது."
-  },
-  "태국어": {
-    "key": "th",
-    "devnote": "แก้ไขข้อบกพร่องที่แป้นพิมพ์จะปรากฏขึ้นในบางสภาพแวดล้อม"
-  },
-  "터키어": {
-    "key": "tr",
-    "devnote":
-        "Bazı ortamlarda tuş takımının açılmasına neden olan hata düzeltildi."
-  },
-  "텔루구어": {
-    "key": "te",
-    "devnote": "కొన్ని పరిసరాలలో కీప్యాడ్ పాపప్ అయ్యే బగ్ పరిష్కరించబడింది."
-  },
-  "펀잡어": {
-    "key": "pa",
-    "devnote":
-        "ਇੱਕ ਬੱਗ ਫਿਕਸ ਕੀਤਾ ਗਿਆ ਹੈ ਜਿੱਥੇ ਕੀਪੈਡ ਕੁਝ ਵਾਤਾਵਰਣ ਵਿੱਚ ਦਿਖਾਈ ਦੇਵੇਗਾ।"
-  },
-  "페르시아어": {
-    "key": "fa",
-    "devnote": "رفع اشکالی که در آن صفحه کلید در برخی از محیط‌ها ظاهر می‌شد."
-  },
-  "포르투갈어(브라질)": {
-    "key": "pt",
-    "devnote":
-        "Corrigido um bug em que o teclado numérico aparecia em alguns ambientes."
-  },
-  "폴란드어": {
-    "key": "pl",
-    "devnote":
-        "Naprawiono błąd, który powodował pojawianie się klawiatury w niektórych środowiskach."
-  },
-  "프랑스어": {
-    "key": "fr",
-    "devnote":
-        "Correction d'un bug où le clavier apparaissait dans certains environnements."
-  },
-  "핀란드어": {
-    "key": "fi",
-    "devnote":
-        "Korjattu virhe, jossa näppäimistö ponnahti esiin joissakin ympäristöissä."
-  },
-  "필리핀어": {
-    "key": "fil",
-    "devnote":
-        "Inayos ang isang bug kung saan lalabas ang keypad sa ilang kapaligiran."
-  },
-  "헝가리어": {
-    "key": "hu",
-    "devnote":
-        "Javítottunk egy hibát, amely miatt a billentyűzet bizonyos környezetben felbukkant."
-  },
-  "히브리어": {
-    "key": "iw",
-    "devnote": "תיקן באג שבו לוח המקשים צץ בסביבות מסוימות."
-  },
-  "힌디어": {
-    "key": "hi",
-    "devnote":
-        "एक बग को ठीक किया गया जहां कुछ वातावरणों में कीपैड पॉप अप हो जाता था।"
-  }
+  "일본어": {"key": "ja", "devnote": "全体的な速度が向上しました。"},
+  "조지아어": {"key": "ka", "devnote": "საერთო სიჩქარე გაუმჯობესდა."},
+  "줄루어": {"key": "zu", "devnote": "Isivinini sisonke sithuthukisiwe."},
+  "중국어(간체)": {"key": "zh-CN", "devnote": "总体速度得到了提高。"},
+  "중국어(번체)": {"key": "zh-TW", "devnote": "整體速度得到了提高。"},
+  "중국어(홍콩)": {"key": "zh-HK", "devnote": "整體速度得到了提高。"},
+  "체코어": {"key": "cs", "devnote": "Celková rychlost se zlepšila."},
+  "카자흐어": {"key": "kk", "devnote": "Жалпы жылдамдық жақсарды."},
+  "카탈로니아어": {"key": "ca", "devnote": "S'ha millorat la velocitat general."},
+  "칸나다어": {"key": "kn", "devnote": "ಒಟ್ಟಾರೆ ವೇಗವನ್ನು ಸುಧಾರಿಸಲಾಗಿದೆ."},
+  "크로아티아어 –": {"key": "hr", "devnote": "Ukupna brzina je poboljšana."},
+  "크메르어": {"key": "km", "devnote": "ល្បឿនសរុបត្រូវបានធ្វើឱ្យប្រសើរឡើង។"},
+  "키르기스어": {"key": "ky", "devnote": "Жалпы ылдамдык жакшыртылды."},
+  "타밀어": {"key": "ta", "devnote": "ஒட்டுமொத்த வேகம் மேம்படுத்தப்பட்டுள்ளது."},
+  "태국어": {"key": "th", "devnote": "ความเร็วโดยรวมได้รับการปรับปรุงดีขึ้น"},
+  "터키어": {"key": "tr", "devnote": "Genel hız iyileştirildi."},
+  "텔루구어": {"key": "te", "devnote": "మొత్తం వేగం మెరుగుపడింది."},
+  "펀잡어": {"key": "pa", "devnote": "ਸਮੁੱਚੀ ਗਤੀ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ।"},
+  "페르시아어": {"key": "fa", "devnote": "سرعت کلی بهبود یافته است."},
+  "포르투갈어(브라질)": {"key": "pt", "devnote": "A velocidade geral foi melhorada."},
+  "폴란드어": {"key": "pl", "devnote": "Ogólna prędkość została poprawiona."},
+  "프랑스어": {"key": "fr", "devnote": "La vitesse globale a été améliorée."},
+  "핀란드어": {"key": "fi", "devnote": "Kokonaisnopeus on parantunut."},
+  "필리핀어": {"key": "fil", "devnote": "Ang pangkalahatang bilis ay napabuti."},
+  "헝가리어": {"key": "hu", "devnote": "Az általános sebesség javult."},
+  "히브리어": {"key": "iw", "devnote": "המהירות הכוללת שופרה."},
+  "힌디어": {"key": "hi", "devnote": "समग्र गति में सुधार किया गया है।"}
 }
