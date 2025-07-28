@@ -1,77 +1,290 @@
 {
-  "영어(미국)": {"key": "en", "devnote": "Bug fixes."},
-  "한국어": {"key": "ko", "devnote": "버그수정."},
-  "갈리시아어": {"key": "gl", "devnote": "Correccións de erros."},
-  "구자라트어": {"key": "gu", "devnote": "બગ ફિક્સ."},
-  "그리스어": {"key": "el", "devnote": "Διορθώσεις σφαλμάτων."},
-  "네덜란드어": {"key": "nl", "devnote": "Bugfixes."},
-  "네팔어": {"key": "ne", "devnote": "बग समाधानहरू।"},
-  "노르웨이어": {"key": "no", "devnote": "Feilrettinger."},
-  "덴마크어": {"key": "da", "devnote": "Fejlrettelser."},
-  "독일어": {"key": "de", "devnote": "Fehlerbehebungen."},
-  "라오어": {"key": "lo", "devnote": "ແກ້ໄຂຂໍ້ຜິດພາດ."},
-  "라트비아어": {"key": "lv", "devnote": "Kļūdu labojumi."},
-  "러시아어": {"key": "ru", "devnote": "Исправления ошибок."},
-  "루마니아어": {"key": "ro", "devnote": "Remedieri de erori."},
-  "리투아니아어": {"key": "lt", "devnote": "Klaidų pataisymai."},
-  "마라티어": {"key": "mr", "devnote": "दोष निराकरणे."},
-  "마케도니아어": {"key": "mk", "devnote": "Поправени грешки."},
-  "말라얄람어": {"key": "ml", "devnote": "ബഗ് പരിഹരിക്കുന്നു."},
-  "말레이어": {"key": "ms", "devnote": "Pembetulan pepijat."},
-  "몽골어": {"key": "mn", "devnote": "Алдаа зассан."},
-  "바스크어": {"key": "eu", "devnote": "Akatsen konponketak."},
-  "버마어": {"key": "my", "devnote": "ချွတ်ယွင်းချက်ပြင်ဆင်မှုများ။"},
-  "베트남어": {"key": "vi", "devnote": "Sửa lỗi."},
-  "벨라루스어": {"key": "be", "devnote": "Выпраўленні памылак."},
-  "벵골어": {"key": "bn", "devnote": "বাগ ফিক্স।"},
-  "불가리아어": {"key": "bg", "devnote": "Поправки на грешки."},
-  "세르비아어": {"key": "sr", "devnote": "Исправке грешака."},
-  "스와힐리어": {"key": "sw", "devnote": "Marekebisho ya hitilafu."},
-  "스웨덴어": {"key": "sv", "devnote": "Buggfixar."},
-  "스페인어": {"key": "es", "devnote": "Corrección de errores."},
-  "슬로바키아어": {"key": "sk", "devnote": "Opravy chýb."},
-  "슬로베니아어": {"key": "sl", "devnote": "Popravki napak."},
-  "싱할라어": {"key": "si", "devnote": "දෝෂ නිවැරදි කිරීම්."},
-  "아랍어": {"key": "ar", "devnote": "إصلاح الأخطاء."},
-  "아르메니아어": {"key": "hy", "devnote": "Սխալների շտկում:"},
-  "아이슬란드어": {"key": "is", "devnote": "Villuleiðréttingar."},
-  "아제르바이잔어": {"key": "az", "devnote": "Baq düzəlişləri."},
-  "아프리칸스어": {"key": "af", "devnote": "Foutoplossings."},
-  "알바니아어": {"key": "sq", "devnote": "Rregullime të gabimeve."},
-  "암하라어": {"key": "am", "devnote": "የሳንካ ጥገናዎች።"},
-  "에스토니아어": {"key": "et", "devnote": "Veaparandused."},
-  "우르두어": {"key": "ur", "devnote": "بگ کی اصلاحات۔"},
-  "우크라이나어": {"key": "uk", "devnote": "Виправлення помилок."},
-  "이탈리아어": {"key": "it", "devnote": "Correzioni di bug."},
-  "인도네시아어": {"key": "id", "devnote": "Perbaikan bug."},
-  "일본어": {"key": "ja", "devnote": "バグ修正。"},
-  "조지아어": {"key": "ka", "devnote": "შეცდომების გამოსწორება."},
-  "줄루어": {"key": "zu", "devnote": "Ukulungiswa kweziphazamisi."},
-  "중국어(간체)": {"key": "zh-CN", "devnote": "错误修复。"},
-  "중국어(번체)": {"key": "zh-TW", "devnote": "錯誤修復。"},
-  "중국어(홍콩)": {"key": "zh-HK", "devnote": "錯誤修復。"},
-  "체코어": {"key": "cs", "devnote": "Opravy chyb."},
-  "카자흐어": {"key": "kk", "devnote": "Қателерді түзету."},
-  "카탈로니아어": {"key": "ca", "devnote": "Correccions d'errors."},
-  "칸나다어": {"key": "kn", "devnote": "ದೋಷ ಪರಿಹಾರಗಳು."},
-  "크로아티아어 –": {"key": "hr", "devnote": "Ispravci grešaka."},
-  "크메르어": {"key": "km", "devnote": "កែកំហុស។"},
-  "키르기스어": {"key": "ky", "devnote": "Мүчүлүштүктөрдү оңдоо."},
-  "타밀어": {"key": "ta", "devnote": "பிழை திருத்தங்கள்."},
-  "태국어": {"key": "th", "devnote": "การแก้ไขข้อบกพร่อง"},
-  "터키어": {"key": "tr", "devnote": "Hata düzeltmeleri."},
-  "텔루구어": {"key": "te", "devnote": "బగ్ పరిష్కారాలు."},
-  "펀잡어": {"key": "pa", "devnote": "ਬੱਗ ਠੀਕ ਕੀਤੇ ਗਏ ਹਨ।"},
-  "페르시아어": {"key": "fa", "devnote": "رفع اشکال."},
-  "포르투갈어(브라질)": {"key": "pt", "devnote": "Correções de bugs."},
-  "폴란드어": {"key": "pl", "devnote": "Naprawiono błędy."},
-  "프랑스어": {"key": "fr", "devnote": "Corrections de bugs."},
-  "핀란드어": {"key": "fi", "devnote": "Virheenkorjauksia."},
-  "필리핀어": {"key": "fil", "devnote": "Mga pag-aayos ng bug."},
-  "헝가리어": {"key": "hu", "devnote": "Hibajavítások."},
-  "히브리어": {"key": "iw", "devnote": "תיקוני באגים."},
+  "영어(미국)": {
+    "key": "en",
+    "devnote": "Improved initial loading speed."
+  },
+  "한국어": {
+    "key": "ko",
+    "devnote": "초기 로딩 속도를 개선 하였습니다."
+  },
+  "갈리시아어": {
+    "key": "gl",
+    "devnote": "Velocidade de carga inicial mellorada."
+  },
+  "구자라트어": {
+    "key": "gu",
+    "devnote": "સુધારેલ પ્રારંભિક લોડિંગ ઝડપ."
+  },
+  "그리스어": {
+    "key": "el",
+    "devnote": "Βελτιωμένη αρχική ταχύτητα φόρτωσης."
+  },
+  "네덜란드어": {
+    "key": "nl",
+    "devnote": "Verbeterde initiële laadsnelheid."
+  },
+  "네팔어": {
+    "key": "ne",
+    "devnote": "सुधारिएको प्रारम्भिक लोडिङ गति।"
+  },
+  "노르웨이어": {
+    "key": "no",
+    "devnote": "Forbedret innledende lastehastighet."
+  },
+  "덴마크어": {
+    "key": "da",
+    "devnote": "Forbedret indledende læssehastighed."
+  },
+  "독일어": {
+    "key": "de",
+    "devnote": "Verbesserte anfängliche Ladegeschwindigkeit."
+  },
+  "라오어": {
+    "key": "lo",
+    "devnote": "ປັບປຸງຄວາມໄວໃນການໂຫຼດເບື້ອງຕົ້ນ."
+  },
+  "라트비아어": {
+    "key": "lv",
+    "devnote": "Uzlabots sākotnējais ielādes ātrums."
+  },
+  "러시아어": {
+    "key": "ru",
+    "devnote": "Улучшена начальная скорость загрузки."
+  },
+  "루마니아어": {
+    "key": "ro",
+    "devnote": "Viteza de încărcare inițială îmbunătățită."
+  },
+  "리투아니아어": {
+    "key": "lt",
+    "devnote": "Pagerintas pradinis pakrovimo greitis."
+  },
+  "마라티어": {
+    "key": "mr",
+    "devnote": "सुधारित प्रारंभिक लोडिंग गती."
+  },
+  "마케도니아어": {
+    "key": "mk",
+    "devnote": "Подобрена почетна брзина на вчитување."
+  },
+  "말라얄람어": {
+    "key": "ml",
+    "devnote": "പ്രാരംഭ ലോഡിംഗ് വേഗത മെച്ചപ്പെടുത്തി."
+  },
+  "말레이어": {
+    "key": "ms",
+    "devnote": "Kelajuan pemuatan awal dipertingkatkan."
+  },
+  "몽골어": {
+    "key": "mn",
+    "devnote": "Эхний ачаалах хурд сайжирсан."
+  },
+  "바스크어": {
+    "key": "eu",
+    "devnote": "Hasierako karga-abiadura hobetu da."
+  },
+  "버마어": {
+    "key": "my",
+    "devnote": "ကနဦး တင်သည့် မြန်နှုန်းကို မြှင့်တင်ထားသည်။"
+  },
+  "베트남어": {
+    "key": "vi",
+    "devnote": "Cải thiện tốc độ tải ban đầu."
+  },
+  "벨라루스어": {
+    "key": "be",
+    "devnote": "Палепшаная пачатковая хуткасць загрузкі."
+  },
+  "벵골어": {
+    "key": "bn",
+    "devnote": "উন্নত প্রাথমিক লোডিং গতি।"
+  },
+  "불가리아어": {
+    "key": "bg",
+    "devnote": "Подобрена първоначална скорост на зареждане."
+  },
+  "세르비아어": {
+    "key": "sr",
+    "devnote": "Побољшана почетна брзина учитавања."
+  },
+  "스와힐리어": {
+    "key": "sw",
+    "devnote": "Imeboresha kasi ya upakiaji wa awali."
+  },
+  "스웨덴어": {
+    "key": "sv",
+    "devnote": "Förbättrad initial laddningshastighet."
+  },
+  "스페인어": {
+    "key": "es",
+    "devnote": "Velocidad de carga inicial mejorada."
+  },
+  "슬로바키아어": {
+    "key": "sk",
+    "devnote": "Vylepšená počiatočná rýchlosť načítania."
+  },
+  "슬로베니아어": {
+    "key": "sl",
+    "devnote": "Izboljšana začetna hitrost nalaganja."
+  },
+  "싱할라어": {
+    "key": "si",
+    "devnote": "වැඩි දියුණු කළ ආරම්භක පැටවීමේ වේගය."
+  },
+  "아랍어": {
+    "key": "ar",
+    "devnote": "تم تحسين سرعة التحميل الأولية."
+  },
+  "아르메니아어": {
+    "key": "hy",
+    "devnote": "Բարելավված նախնական բեռնման արագություն:"
+  },
+  "아이슬란드어": {
+    "key": "is",
+    "devnote": "Bættur upphafshleðsluhraði."
+  },
+  "아제르바이잔어": {
+    "key": "az",
+    "devnote": "Təkmilləşdirilmiş ilkin yükləmə sürəti."
+  },
+  "아프리칸스어": {
+    "key": "af",
+    "devnote": "Verbeterde aanvanklike laaispoed."
+  },
+  "알바니아어": {
+    "key": "sq",
+    "devnote": "Përmirësimi i shpejtësisë fillestare të ngarkimit."
+  },
+  "암하라어": {
+    "key": "am",
+    "devnote": "የተሻሻለ የመጀመሪያ ጭነት ፍጥነት።"
+  },
+  "에스토니아어": {
+    "key": "et",
+    "devnote": "Parem laadimise algkiirus."
+  },
+  "우르두어": {
+    "key": "ur",
+    "devnote": "ابتدائی لوڈنگ کی رفتار میں بہتری۔"
+  },
+  "우크라이나어": {
+    "key": "uk",
+    "devnote": "Покращена початкова швидкість завантаження."
+  },
+  "이탈리아어": {
+    "key": "it",
+    "devnote": "Velocità di caricamento iniziale migliorata."
+  },
+  "인도네시아어": {
+    "key": "id",
+    "devnote": "Peningkatan kecepatan pemuatan awal."
+  },
+  "일본어": {
+    "key": "ja",
+    "devnote": "初期読み込み速度が向上しました。"
+  },
+  "조지아어": {
+    "key": "ka",
+    "devnote": "გაუმჯობესებული საწყისი დატვირთვის სიჩქარე."
+  },
+  "줄루어": {
+    "key": "zu",
+    "devnote": "Isivinini sokulayisha sokuqala esithuthukisiwe."
+  },
+  "중국어(간체)": {
+    "key": "zh-CN",
+    "devnote": "提高了初始加载速度。"
+  },
+  "중국어(번체)": {
+    "key": "zh-TW",
+    "devnote": "提高了初始載入速度。"
+  },
+  "중국어(홍콩)": {
+    "key": "zh-HK",
+    "devnote": "提高了初始載入速度。"
+  },
+  "체코어": {
+    "key": "cs",
+    "devnote": "Vylepšená počáteční rychlost načítání."
+  },
+  "카자흐어": {
+    "key": "kk",
+    "devnote": "Жақсартылған бастапқы жүктеу жылдамдығы."
+  },
+  "카탈로니아어": {
+    "key": "ca",
+    "devnote": "Velocitat de càrrega inicial millorada."
+  },
+  "칸나다어": {
+    "key": "kn",
+    "devnote": "ಸುಧಾರಿತ ಆರಂಭಿಕ ಲೋಡಿಂಗ್ ವೇಗ."
+  },
+  "크로아티아어 –": {
+    "key": "hr",
+    "devnote": "Poboljšana početna brzina učitavanja."
+  },
+  "크메르어": {
+    "key": "km",
+    "devnote": "ធ្វើឱ្យប្រសើរឡើងនូវល្បឿនផ្ទុកដំបូង។"
+  },
+  "키르기스어": {
+    "key": "ky",
+    "devnote": "Жакшыртылган баштапкы жүктөө ылдамдыгы."
+  },
+  "타밀어": {
+    "key": "ta",
+    "devnote": "மேம்படுத்தப்பட்ட ஆரம்ப ஏற்றுதல் வேகம்."
+  },
+  "태국어": {
+    "key": "th",
+    "devnote": "ปรับปรุงความเร็วในการโหลดเริ่มต้น"
+  },
+  "터키어": {
+    "key": "tr",
+    "devnote": "İlk yükleme hızı iyileştirildi."
+  },
+  "텔루구어": {
+    "key": "te",
+    "devnote": "మెరుగైన ప్రారంభ లోడ్ వేగం."
+  },
+  "펀잡어": {
+    "key": "pa",
+    "devnote": "ਸ਼ੁਰੂਆਤੀ ਲੋਡਿੰਗ ਸਪੀਡ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ।"
+  },
+  "페르시아어": {
+    "key": "fa",
+    "devnote": "سرعت بارگذاری اولیه بهبود یافته است."
+  },
+  "포르투갈어(브라질)": {
+    "key": "pt",
+    "devnote": "Velocidade de carregamento inicial melhorada."
+  },
+  "폴란드어": {
+    "key": "pl",
+    "devnote": "Poprawiona początkowa prędkość ładowania."
+  },
+  "프랑스어": {
+    "key": "fr",
+    "devnote": "Vitesse de chargement initiale améliorée."
+  },
+  "핀란드어": {
+    "key": "fi",
+    "devnote": "Parannettu alkulatausnopeus."
+  },
+  "필리핀어": {
+    "key": "fil",
+    "devnote": "Pinahusay na paunang bilis ng paglo-load."
+  },
+  "헝가리어": {
+    "key": "hu",
+    "devnote": "Javított kezdeti töltési sebesség."
+  },
+  "히브리어": {
+    "key": "iw",
+    "devnote": "מהירות טעינה ראשונית משופרת."
+  },
   "힌디어": {
     "key": "hi",
-    "devnote": "कंप्यूटर प्रोग्राम या प्रणाली में बग को दूर करना।"
+    "devnote": "प्रारंभिक लोडिंग गति में सुधार."
   }
 }
