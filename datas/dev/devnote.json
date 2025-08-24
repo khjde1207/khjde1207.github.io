@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "Improved initial loading speed."
+    "devnote": "We've added a background music playback feature.\nYou can configure this in Settings - TTS Settings - Play Background Music During TTS Playback."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "초기 로딩 속도를 개선 하였습니다."
+    "devnote": "배경음 재생 기능을 추가 하였습니다. \n설정 - TTS 설정 -  TTS 재생중 배경음 재생 에서 설정 할 수있습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "Velocidade de carga inicial mellorada."
+    "devnote": "Engadimos unha función de reprodución de música de fondo.\nPodes configuralo en Configuración - Configuración TTS - Reproducir música de fondo durante a reprodución TTS."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "સુધારેલ પ્રારંભિક લોડિંગ ઝડપ."
+    "devnote": "અમે બેકગ્રાઉન્ડ મ્યુઝિક પ્લેબેક ફીચર ઉમેર્યું છે.\nતમે આને સેટિંગ્સમાં ગોઠવી શકો છો - TTS સેટિંગ્સ - TTS પ્લેબેક દરમિયાન પૃષ્ઠભૂમિ સંગીત ચલાવો."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "Βελτιωμένη αρχική ταχύτητα φόρτωσης."
+    "devnote": "Προσθέσαμε μια δυνατότητα αναπαραγωγής μουσικής στο παρασκήνιο.\nΜπορείτε να το διαμορφώσετε στις Ρυθμίσεις - Ρυθμίσεις TTS - Αναπαραγωγή μουσικής στο παρασκήνιο κατά την αναπαραγωγή TTS."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "Verbeterde initiële laadsnelheid."
+    "devnote": "We hebben een functie voor het afspelen van achtergrondmuziek toegevoegd.\nJe kunt dit configureren via Instellingen - TTS-instellingen - Achtergrondmuziek afspelen tijdens TTS-weergave."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "सुधारिएको प्रारम्भिक लोडिङ गति।"
+    "devnote": "हामीले पृष्ठभूमि संगीत प्लेब्याक सुविधा थपेका छौं।\nतपाइँ यसलाई सेटिङहरूमा कन्फिगर गर्न सक्नुहुन्छ - TTS सेटिङहरू - TTS प्लेब्याकको समयमा पृष्ठभूमि संगीत प्ले गर्नुहोस्।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "Forbedret innledende lastehastighet."
+    "devnote": "Vi har lagt til en funksjon for avspilling av bakgrunnsmusikk.\nDu kan konfigurere dette i Innstillinger - TTS-innstillinger - Spill av bakgrunnsmusikk under TTS-avspilling."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "Forbedret indledende læssehastighed."
+    "devnote": "Vi har tilføjet en funktion til afspilning af baggrundsmusik.\nDu kan konfigurere dette i Indstillinger - TTS-indstillinger - Afspil baggrundsmusik under TTS-afspilning."
   },
   "독일어": {
     "key": "de",
-    "devnote": "Verbesserte anfängliche Ladegeschwindigkeit."
+    "devnote": "Wir haben eine Funktion zur Wiedergabe von Hintergrundmusik hinzugefügt.\nSie können diese unter „Einstellungen“ – „TTS-Einstellungen“ – „Hintergrundmusik während der TTS-Wiedergabe abspielen“ konfigurieren."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "ປັບປຸງຄວາມໄວໃນການໂຫຼດເບື້ອງຕົ້ນ."
+    "devnote": "ພວກເຮົາໄດ້ເພີ່ມຄຸນສົມບັດການຫຼິ້ນເພງໃນພື້ນຫຼັງ.\nທ່ານ​ສາ​ມາດ​ກໍາ​ນົດ​ຄ່າ​ນີ້​ໃນ​ການ​ຕັ້ງ​ຄ່າ - ການ​ຕັ້ງ​ຄ່າ TTS - ຫຼິ້ນ​ດົນ​ຕີ​ພື້ນ​ຖານ​ໃນ​ລະ​ຫວ່າງ​ການ​ຫຼິ້ນ TTS​."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "Uzlabots sākotnējais ielādes ātrums."
+    "devnote": "Esam pievienojuši fona mūzikas atskaņošanas funkciju.\nTo var konfigurēt sadaļā Iestatījumi - TTS iestatījumi - Atskaņot fona mūziku TTS atskaņošanas laikā."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "Улучшена начальная скорость загрузки."
+    "devnote": "Мы добавили функцию воспроизведения фоновой музыки.\nВы можете настроить её в разделе «Настройки» — «Настройки TTS» — «Воспроизведение фоновой музыки во время воспроизведения TTS»."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "Viteza de încărcare inițială îmbunătățită."
+    "devnote": "Am adăugat o funcție de redare a muzicii de fundal.\nPuteți configura acest lucru în Setări - Setări TTS - Redați muzică de fundal în timpul redării TTS."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "Pagerintas pradinis pakrovimo greitis."
+    "devnote": "Pridėjome foninės muzikos atkūrimo funkciją.\nTai galite konfigūruoti skiltyje „Nustatymai“ – „TTS nustatymai“ – „Groti foninę muziką TTS atkūrimo metu“."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "सुधारित प्रारंभिक लोडिंग गती."
+    "devnote": "आम्ही पार्श्वभूमी संगीत प्लेबॅक वैशिष्ट्य जोडले आहे.\nतुम्ही हे सेटिंग्जमध्ये कॉन्फिगर करू शकता - TTS सेटिंग्ज - TTS प्लेबॅक दरम्यान पार्श्वभूमी संगीत प्ले करा."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "Подобрена почетна брзина на вчитување."
+    "devnote": "Додадовме функција за репродукција на музика во заднина.\nМожете да го конфигурирате ова во Поставки - Поставки за TTS - Репродукција на музика во заднина за време на репродукција на TTS."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "പ്രാരംഭ ലോഡിംഗ് വേഗത മെച്ചപ്പെടുത്തി."
+    "devnote": "ഞങ്ങൾ ഒരു പശ്ചാത്തല സംഗീത പ്ലേബാക്ക് ഫീച്ചർ ചേർത്തിട്ടുണ്ട്.\nനിങ്ങൾക്ക് ഇത് ക്രമീകരണങ്ങളിൽ കോൺഫിഗർ ചെയ്യാം - TTS ക്രമീകരണങ്ങൾ - TTS പ്ലേബാക്ക് സമയത്ത് പശ്ചാത്തല സംഗീതം പ്ലേ ചെയ്യുക."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "Kelajuan pemuatan awal dipertingkatkan."
+    "devnote": "Kami telah menambah ciri main balik muzik latar belakang.\nAnda boleh mengkonfigurasi ini dalam Tetapan - Tetapan TTS - Mainkan Muzik Latar Belakang Semasa Main Balik TTS."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "Эхний ачаалах хурд сайжирсан."
+    "devnote": "Бид арын хөгжим тоглуулах функцийг нэмсэн.\nТа үүнийг Тохиргоо - TTS тохиргоо - TTS тоглуулах үед арын хөгжим тоглуулах хэсэгт тохируулж болно."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "Hasierako karga-abiadura hobetu da."
+    "devnote": "Atzeko planoko musika erreproduzitzeko eginbide bat gehitu dugu.\nHau konfigura dezakezu Ezarpenak - TTS Ezarpenak - Erreproduzitu atzeko planoko musika TTS erreprodukzioan."
   },
   "버마어": {
     "key": "my",
-    "devnote": "ကနဦး တင်သည့် မြန်နှုန်းကို မြှင့်တင်ထားသည်။"
+    "devnote": "ကျွန်ုပ်တို့သည် နောက်ခံတေးဂီတဖွင့်ခြင်း အင်္ဂါရပ်ကို ထည့်သွင်းထားပါသည်။\n၎င်းကို ဆက်တင်များ - TTS ဆက်တင်များ - TTS ဖွင့်နေစဉ်အတွင်း နောက်ခံတေးဂီတကို ဖွင့်ပါ။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "Cải thiện tốc độ tải ban đầu."
+    "devnote": "Chúng tôi đã thêm tính năng phát nhạc nền.\nBạn có thể cấu hình tính năng này trong Cài đặt - Cài đặt TTS - Phát nhạc nền trong khi phát TTS."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "Палепшаная пачатковая хуткасць загрузкі."
+    "devnote": "Мы дадалі функцыю прайгравання фонавай музыкі.\nВы можаце наладзіць гэта ў меню Налады - Налады TTS - Прайграванне фонавай музыкі падчас прайгравання TTS."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "উন্নত প্রাথমিক লোডিং গতি।"
+    "devnote": "আমরা একটি ব্যাকগ্রাউন্ড মিউজিক প্লেব্যাক ফিচার যোগ করেছি।\nআপনি সেটিংসে এটি কনফিগার করতে পারেন - TTS সেটিংস - TTS প্লেব্যাকের সময় ব্যাকগ্রাউন্ড মিউজিক চালান৷"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "Подобрена първоначална скорост на зареждане."
+    "devnote": "Добавихме функция за възпроизвеждане на фонова музика.\nМожете да конфигурирате това в Настройки - Настройки на TTS - Възпроизвеждане на фонова музика по време на възпроизвеждане на TTS."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "Побољшана почетна брзина учитавања."
+    "devnote": "Додали смо функцију репродукције музике у позадини.\nОво можете да конфигуришете у Подешавања - ТТС подешавања - Пусти музику у позадини током ТТС репродукције."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "Imeboresha kasi ya upakiaji wa awali."
+    "devnote": "Tumeongeza kipengele cha kucheza muziki wa usuli.\nUnaweza kusanidi hii katika Mipangilio - Mipangilio ya TTS - Cheza Muziki wa Chinichini Wakati wa Uchezaji wa TTS."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "Förbättrad initial laddningshastighet."
+    "devnote": "Vi har lagt till en funktion för uppspelning av bakgrundsmusik.\nDu kan konfigurera detta i Inställningar - TTS-inställningar - Spela upp bakgrundsmusik under TTS-uppspelning."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "Velocidad de carga inicial mejorada."
+    "devnote": "Hemos añadido la función de reproducción de música de fondo. Puedes configurarla en Ajustes > Ajustes de TTS > Reproducir música de fondo durante la reproducción de TTS."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "Vylepšená počiatočná rýchlosť načítania."
+    "devnote": "Pridali sme funkciu prehrávania hudby na pozadí.\nMôžete to nakonfigurovať v časti Nastavenia - Nastavenia TTS - Prehrávať hudbu na pozadí počas prehrávania TTS."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "Izboljšana začetna hitrost nalaganja."
+    "devnote": "Dodali smo funkcijo predvajanja glasbe v ozadju.\nTo lahko konfigurirate v Nastavitve – Nastavitve TTS – Predvajaj glasbo v ozadju med predvajanjem TTS."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "වැඩි දියුණු කළ ආරම්භක පැටවීමේ වේගය."
+    "devnote": "අපි පසුබිම් සංගීත ප්ලේබැක් විශේෂාංගයක් එක් කර ඇත.\nඔබට මෙය සැකසීම් - TTS සැකසීම් - TTS Playback අතරතුර පසුබිම් සංගීතය වාදනය කළ හැක."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "تم تحسين سرعة التحميل الأولية."
+    "devnote": "أضفنا ميزة تشغيل موسيقى خلفية. يمكنك تفعيلها من الإعدادات - إعدادات TTS - تشغيل موسيقى خلفية أثناء تشغيل TTS."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "Բարելավված նախնական բեռնման արագություն:"
+    "devnote": "Մենք ավելացրել ենք ֆոնային երաժշտության նվագարկման գործառույթ:\nԴուք կարող եք դա կարգավորել Կարգավորումներում - TTS Settings - Play Background Music-ում TTS նվագարկման ժամանակ:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "Bættur upphafshleðsluhraði."
+    "devnote": "Við höfum bætt við spilunareiginleika í bakgrunnstónlist.\nÞú getur stillt þetta í Stillingar - TTS Stillingar - Spila bakgrunnstónlist meðan á TTS spilun stendur."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "Təkmilləşdirilmiş ilkin yükləmə sürəti."
+    "devnote": "Biz fon musiqisinin səsləndirilməsi funksiyasını əlavə etdik.\nSiz bunu Parametrlər - TTS Parametrləri - TTS Oynatma zamanı Fon Musiqisini Oynat bölməsində konfiqurasiya edə bilərsiniz."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "Verbeterde aanvanklike laaispoed."
+    "devnote": "Ons het 'n agtergrondmusiekspeelfunksie bygevoeg.\nJy kan dit opstel in Instellings - TTS-instellings - Speel agtergrondmusiek tydens TTS-afspeel."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "Përmirësimi i shpejtësisë fillestare të ngarkimit."
+    "devnote": "Ne kemi shtuar një veçori të riprodhimit të muzikës në sfond.\nKëtë mund ta konfiguroni te Cilësimet - Cilësimet TTS - Luaj muzikë në sfond gjatë riprodhimit TTS."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "የተሻሻለ የመጀመሪያ ጭነት ፍጥነት።"
+    "devnote": "የጀርባ ሙዚቃ መልሶ ማጫወት ባህሪ አክለናል።\nይህንን በቅንብሮች - TTS መቼቶች - በTTS መልሶ ማጫወት ጊዜ የጀርባ ሙዚቃን ያጫውቱ።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "Parem laadimise algkiirus."
+    "devnote": "Lisasime taustamuusika taasesituse funktsiooni.\nSaate seda konfigureerida jaotises Seaded - TTS-i sätted - TTS-i taasesituse ajal taustamuusika esitamine."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "ابتدائی لوڈنگ کی رفتار میں بہتری۔"
+    "devnote": "ہم نے بیک گراؤنڈ میوزک پلے بیک فیچر شامل کیا ہے۔\nآپ اسے سیٹنگز میں کنفیگر کر سکتے ہیں - TTS سیٹنگز - TTS پلے بیک کے دوران بیک گراؤنڈ میوزک چلائیں۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "Покращена початкова швидкість завантаження."
+    "devnote": "Ми додали функцію відтворення фонової музики.\nВи можете налаштувати це в меню Налаштування - Налаштування TTS - Відтворення фонової музики під час відтворення TTS."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "Velocità di caricamento iniziale migliorata."
+    "devnote": "Abbiamo aggiunto una funzione di riproduzione di musica di sottofondo.\nPuoi configurarla in Impostazioni - Impostazioni TTS - Riproduci musica di sottofondo durante la riproduzione TTS."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "Peningkatan kecepatan pemuatan awal."
+    "devnote": "Kami telah menambahkan fitur pemutaran musik latar.\nAnda dapat mengonfigurasinya di Pengaturan - Pengaturan TTS - Putar Musik Latar Selama Pemutaran TTS."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "初期読み込み速度が向上しました。"
+    "devnote": "バックグラウンドミュージック再生機能を追加しました。\n設定 > TTS設定 > TTS再生中にバックグラウンドミュージックを再生するで設定できます。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "გაუმჯობესებული საწყისი დატვირთვის სიჩქარე."
+    "devnote": "ჩვენ დავამატეთ ფონური მუსიკის დაკვრის ფუნქცია.\nამის კონფიგურაცია შეგიძლიათ პარამეტრებში - TTS პარამეტრები - ფონური მუსიკის დაკვრა TTS დაკვრის დროს."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "Isivinini sokulayisha sokuqala esithuthukisiwe."
+    "devnote": "Sengeze isici sokudlala umculo wangemuva.\nUngakwazi ukumisa lokhu kokuthi Izilungiselelo - Izilungiselelo ze-TTS - Dlala Umculo Ongemuva Ngesikhathi sokudlala kwe-TTS."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "提高了初始加载速度。"
+    "devnote": "我们添加了背景音乐播放功能。\n您可以在“设置”-“TTS 设置”-“TTS 播放期间播放背景音乐”中进行配置。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "提高了初始載入速度。"
+    "devnote": "我們新增了背景音樂播放功能。\n您可以在「設定」-「TTS 設定」-「TTS 播放期間播放背景音樂」中進行設定。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "提高了初始載入速度。"
+    "devnote": "我們新增了背景音樂播放功能。\n您可以在「設定」-「TTS 設定」-「TTS 播放期間播放背景音樂」中進行設定。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "Vylepšená počáteční rychlost načítání."
+    "devnote": "Přidali jsme funkci přehrávání hudby na pozadí.\nMůžete to nakonfigurovat v Nastavení - Nastavení TTS - Přehrát hudbu na pozadí během přehrávání TTS."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "Жақсартылған бастапқы жүктеу жылдамдығы."
+    "devnote": "Біз фондық музыканы ойнату мүмкіндігін қостық.\nМұны Параметрлер - TTS параметрлері - TTS ойнату кезінде фондық музыканы ойнату тармағында конфигурациялауға болады."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "Velocitat de càrrega inicial millorada."
+    "devnote": "Hem afegit una funció de reproducció de música de fons.\nPodeu configurar-ho a Configuració - Configuració TTS - Reproduir música de fons durant la reproducció TTS."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "ಸುಧಾರಿತ ಆರಂಭಿಕ ಲೋಡಿಂಗ್ ವೇಗ."
+    "devnote": "ನಾವು ಹಿನ್ನೆಲೆ ಸಂಗೀತ ಪ್ಲೇಬ್ಯಾಕ್ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಸೇರಿಸಿದ್ದೇವೆ.\nನೀವು ಇದನ್ನು ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಕಾನ್ಫಿಗರ್ ಮಾಡಬಹುದು - TTS ಸೆಟ್ಟಿಂಗ್‌ಗಳು - TTS ಪ್ಲೇಬ್ಯಾಕ್ ಸಮಯದಲ್ಲಿ ಹಿನ್ನೆಲೆ ಸಂಗೀತವನ್ನು ಪ್ಲೇ ಮಾಡಿ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "Poboljšana početna brzina učitavanja."
+    "devnote": "Dodali smo značajku reprodukcije pozadinske glazbe.\nOvo možete konfigurirati u Postavke - TTS postavke - Reprodukcija pozadinske glazbe tijekom TTS reprodukcije."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "ធ្វើឱ្យប្រសើរឡើងនូវល្បឿនផ្ទុកដំបូង។"
+    "devnote": "យើងបានបន្ថែមមុខងារចាក់តន្ត្រីផ្ទៃខាងក្រោយ។\nអ្នកអាចកំណត់រចនាសម្ព័ន្ធវានៅក្នុងការកំណត់ - ការកំណត់ TTS - ចាក់តន្ត្រីផ្ទៃខាងក្រោយកំឡុងពេលចាក់សារឡើងវិញ TTS ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "Жакшыртылган баштапкы жүктөө ылдамдыгы."
+    "devnote": "Фондук музыканы ойнотуу функциясын коштук.\nСиз муну Орнотуулар - TTS Орнотуулары - TTS ойнотуу учурунда Фондук музыканы ойнотуу бөлүмүнөн конфигурациялай аласыз."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "மேம்படுத்தப்பட்ட ஆரம்ப ஏற்றுதல் வேகம்."
+    "devnote": "பின்னணி இசை பிளேபேக் அம்சத்தைச் சேர்த்துள்ளோம்.\nநீங்கள் இதை அமைப்புகள் - TTS அமைப்புகள் - TTS பிளேபேக்கின் போது பின்னணி இசையை இயக்கலாம்."
   },
   "태국어": {
     "key": "th",
-    "devnote": "ปรับปรุงความเร็วในการโหลดเริ่มต้น"
+    "devnote": "เราได้เพิ่มฟีเจอร์เล่นเพลงพื้นหลังแล้ว\nคุณสามารถกำหนดค่านี้ได้ในการตั้งค่า - การตั้งค่า TTS - เล่นเพลงพื้นหลังระหว่างการเล่น TTS"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "İlk yükleme hızı iyileştirildi."
+    "devnote": "Arka plan müziği çalma özelliği ekledik.\n\nBunu Ayarlar - TTS Ayarları - TTS Oynatma Sırasında Arka Plan Müziği Çal bölümünden yapılandırabilirsiniz."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "మెరుగైన ప్రారంభ లోడ్ వేగం."
+    "devnote": "మేము నేపథ్య సంగీత ప్లేబ్యాక్ ఫీచర్‌ని జోడించాము.\nమీరు దీన్ని సెట్టింగ్‌లలో కాన్ఫిగర్ చేయవచ్చు - TTS సెట్టింగ్‌లు - TTS ప్లేబ్యాక్ సమయంలో బ్యాక్‌గ్రౌండ్ మ్యూజిక్ ప్లే చేయండి."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "ਸ਼ੁਰੂਆਤੀ ਲੋਡਿੰਗ ਸਪੀਡ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ।"
+    "devnote": "ਅਸੀਂ ਇੱਕ ਬੈਕਗ੍ਰਾਉਂਡ ਸੰਗੀਤ ਪਲੇਬੈਕ ਵਿਸ਼ੇਸ਼ਤਾ ਸ਼ਾਮਲ ਕੀਤੀ ਹੈ।\nਤੁਸੀਂ ਇਸਨੂੰ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਕੌਂਫਿਗਰ ਕਰ ਸਕਦੇ ਹੋ - TTS ਸੈਟਿੰਗਾਂ - TTS ਪਲੇਬੈਕ ਦੌਰਾਨ ਬੈਕਗ੍ਰਾਉਂਡ ਸੰਗੀਤ ਚਲਾਓ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "سرعت بارگذاری اولیه بهبود یافته است."
+    "devnote": "ما یک ویژگی پخش موسیقی پس‌زمینه اضافه کرده‌ایم.\nمی‌توانید این را در تنظیمات - تنظیمات TTS - پخش موسیقی پس‌زمینه در حین پخش TTS پیکربندی کنید."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "Velocidade de carregamento inicial melhorada."
+    "devnote": "Adicionamos um recurso de reprodução de música de fundo.\nVocê pode configurá-lo em Configurações - Configurações de TTS - Reproduzir música de fundo durante a reprodução de TTS."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "Poprawiona początkowa prędkość ładowania."
+    "devnote": "Dodaliśmy funkcję odtwarzania muzyki w tle. Możesz ją skonfigurować w Ustawieniach – Ustawienia TTS – Odtwarzaj muzykę w tle podczas odtwarzania TTS."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "Vitesse de chargement initiale améliorée."
+    "devnote": "Nous avons ajouté une fonctionnalité de lecture de musique de fond. Vous pouvez la configurer dans Paramètres > Paramètres TTS > Lire la musique de fond pendant la lecture TTS."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "Parannettu alkulatausnopeus."
+    "devnote": "Olemme lisänneet taustamusiikin toistoominaisuuden.\nVoit määrittää tämän kohdassa Asetukset - TTS-asetukset - Toista taustamusiikkia TTS-toiston aikana."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "Pinahusay na paunang bilis ng paglo-load."
+    "devnote": "Nagdagdag kami ng tampok na pag-playback sa background ng musika.\nMaaari mong i-configure ito sa Mga Setting - Mga Setting ng TTS - I-play ang Background Music Habang Nag-playback ng TTS."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "Javított kezdeti töltési sebesség."
+    "devnote": "Hozzáadtunk egy háttérzene lejátszási funkciót.\nEzt a Beállítások - TTS beállítások - Háttérzene lejátszása TTS lejátszás közben menüpontban konfigurálhatja."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "מהירות טעינה ראשונית משופרת."
+    "devnote": "הוספנו תכונת השמעת מוזיקת ​​רקע.\nאתה יכול להגדיר זאת בהגדרות - הגדרות TTS - השמעת מוזיקת ​​רקע במהלך השמעת TTS."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "प्रारंभिक लोडिंग गति में सुधार."
+    "devnote": "हमने बैकग्राउंड म्यूज़िक प्लेबैक सुविधा जोड़ी है।\nआप इसे सेटिंग्स - टीटीएस सेटिंग्स - टीटीएस प्लेबैक के दौरान बैकग्राउंड म्यूज़िक चलाएँ में कॉन्फ़िगर कर सकते हैं।"
   }
 }
