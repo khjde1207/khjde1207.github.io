@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "Some libraries have been modified."
+    "devnote": "Fixed TTS related bugs and history data bugs."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "일부 라이브러리 를 수정 하였습니다."
+    "devnote": "TTS 관련 버그 와 히스토리 데이터 버그를 수정하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "Algunhas bibliotecas foron modificadas."
+    "devnote": "Corrixíronse erros relacionados con TTS e erros de datos do historial."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "કેટલીક પુસ્તકાલયોમાં ફેરફાર કરવામાં આવ્યો છે."
+    "devnote": "સ્થિર TTS સંબંધિત ભૂલો અને ઇતિહાસ ડેટા બગ્સ."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "Ορισμένες βιβλιοθήκες έχουν τροποποιηθεί."
+    "devnote": "Διορθώθηκαν σφάλματα που σχετίζονται με το TTS και σφάλματα δεδομένων ιστορικού."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "Sommige bibliotheken zijn aangepast."
+    "devnote": "TTS-gerelateerde bugs en bugs met historische gegevens zijn opgelost."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "केही पुस्तकालयहरू परिमार्जन गरिएका छन्।"
+    "devnote": "निश्चित TTS सम्बन्धित बगहरू र इतिहास डाटा बगहरू।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "Noen biblioteker er endret."
+    "devnote": "Rettet TTS-relaterte feil og historikkdatafeil."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "Nogle biblioteker er blevet ændret."
+    "devnote": "Rettede TTS-relaterede fejl og historikdatafejl."
   },
   "독일어": {
     "key": "de",
-    "devnote": "Einige Bibliotheken wurden geändert."
+    "devnote": "TTS-bezogene Fehler und Fehler in Verlaufsdaten behoben."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "ບາງຫ້ອງສະຫມຸດໄດ້ຖືກດັດແກ້."
+    "devnote": "ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ກ່ຽວຂ້ອງກັບ TTS ແລະຂໍ້ບົກພ່ອງຂໍ້ມູນປະຫວັດສາດ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "Dažas bibliotēkas ir pārveidotas."
+    "devnote": "Izlabotas ar TTS saistītas kļūdas un vēstures datu kļūdas."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "Некоторые библиотеки были изменены."
+    "devnote": "Исправлены ошибки, связанные с TTS, и ошибки в данных истории."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "Unele biblioteci au fost modificate."
+    "devnote": "S-au remediat erori legate de TTS și erori legate de datele istorice."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "Kai kurios bibliotekos buvo pakeistos."
+    "devnote": "Ištaisytos su TTS susijusios klaidos ir istorijos duomenų klaidos."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "काही ग्रंथालयांमध्ये बदल करण्यात आले आहेत."
+    "devnote": "TTS संबंधित बग आणि इतिहास डेटा बग निश्चित केले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "Некои библиотеки се изменети."
+    "devnote": "Поправени грешки поврзани со TTS и грешки во податоците од историјата."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "ചില ലൈബ്രറികൾ പരിഷ്കരിച്ചിട്ടുണ്ട്."
+    "devnote": "TTS ബന്ധപ്പെട്ട ബഗുകളും ചരിത്ര ഡാറ്റ ബഗുകളും പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "Beberapa perpustakaan telah diubah suai."
+    "devnote": "Membetulkan pepijat berkaitan TTS dan pepijat data sejarah."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "Зарим номын санг өөрчилсөн."
+    "devnote": "TTS-тэй холбоотой алдаа болон түүхийн өгөгдлийн алдааг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "Liburutegi batzuk aldatu egin dira."
+    "devnote": "TTS erlazionatutako akatsak eta historiako datuen akatsak konpondu dira."
   },
   "버마어": {
     "key": "my",
-    "devnote": "အချို့သော စာကြည့်တိုက်များကို ပြုပြင်ထားပါသည်။"
+    "devnote": "TTS ဆိုင်ရာ ချို့ယွင်းချက်များနှင့် မှတ်တမ်းဒေတာ ချို့ယွင်းချက်များကို ပြင်ဆင်ထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "Một số thư viện đã được sửa đổi."
+    "devnote": "Đã sửa lỗi liên quan đến TTS và lỗi dữ liệu lịch sử."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "Некаторыя бібліятэкі былі зменены."
+    "devnote": "Выпраўлены памылкі, звязаныя з TTS, і памылкі дадзеных гісторыі."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "কিছু লাইব্রেরি পরিবর্তন করা হয়েছে."
+    "devnote": "TTS সম্পর্কিত বাগ এবং ইতিহাস ডেটা বাগ সংশোধন করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "Някои библиотеки са променени."
+    "devnote": "Коригирани грешки, свързани с TTS, и грешки в данните за историята."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "Неке библиотеке су измењене."
+    "devnote": "Исправљене грешке везане за ТТС и грешке у подацима о историји."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "Baadhi ya maktaba zimerekebishwa."
+    "devnote": "Tumerekebisha hitilafu zinazohusiana na TTS na hitilafu za data za historia."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "Vissa bibliotek har modifierats."
+    "devnote": "Fixade TTS-relaterade buggar och historikdatabuggar."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "Se han modificado algunas bibliotecas."
+    "devnote": "Se corrigieron errores relacionados con TTS y errores en los datos del historial."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "Niektoré knižnice boli upravené."
+    "devnote": "Opravené chyby súvisiace s TTS a historické chyby údajov."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "Nekatere knjižnice so bile spremenjene."
+    "devnote": "Odpravljene napake, povezane s TTS, in napake v zgodovinskih podatkih."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "සමහර පුස්තකාල වෙනස් කර ඇත."
+    "devnote": "ස්ථාවර TTS සම්බන්ධ දෝෂ සහ ඉතිහාස දත්ත දෝෂ."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "لقد تم تعديل بعض المكتبات."
+    "devnote": "تم إصلاح الأخطاء المتعلقة بـ TTS وأخطاء بيانات التاريخ."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "Որոշ գրադարաններ փոփոխվել են:"
+    "devnote": "Ուղղվել են TTS-ի հետ կապված սխալները և պատմության տվյալների սխալները:"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "Sumum bókasöfnum hefur verið breytt."
+    "devnote": "Lagaði TTS tengdar villur og sögugagnavillur."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "Bəzi kitabxanalar dəyişdirilib."
+    "devnote": "TTS ilə əlaqəli səhvlər və tarix məlumatı səhvləri düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "Sommige biblioteke is gewysig."
+    "devnote": "Vaste TTS verwante foute en geskiedenis data foute."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "Disa biblioteka janë modifikuar."
+    "devnote": "Rregulloi defektet e lidhura me TTS dhe defektet e të dhënave të historisë."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "አንዳንድ ቤተ መጻሕፍት ተስተካክለዋል።"
+    "devnote": "ቋሚ ከTTS ጋር የተያያዙ ስህተቶች እና የታሪክ ውሂብ ስህተቶች።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "Mõned raamatukogud on muudetud."
+    "devnote": "Parandatud TTS-iga seotud vead ja ajalooandmete vead."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "کچھ لائبریریوں میں ترمیم کی گئی ہے۔"
+    "devnote": "طے شدہ TTS متعلقہ کیڑے اور تاریخ کے ڈیٹا کیڑے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "Деякі бібліотеки були змінені."
+    "devnote": "Виправлено помилки, пов’язані з TTS, і помилки даних історії."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "Alcune librerie sono state modificate."
+    "devnote": "Corretti bug relativi al TTS e ai dati storici."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "Beberapa pustaka telah dimodifikasi."
+    "devnote": "Memperbaiki bug terkait TTS dan bug data riwayat."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "いくつかのライブラリが変更されました。"
+    "devnote": "TTS 関連のバグと履歴データのバグを修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "ზოგიერთი ბიბლიოთეკა შეიცვალა."
+    "devnote": "დაფიქსირდა TTS დაკავშირებული შეცდომები და ისტორიის მონაცემების შეცდომები."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "Eminye imitapo yolwazi ishintshiwe."
+    "devnote": "Kulungiswe iziphazamisi ezihlobene ne-TTS kanye neziphazamisi zedatha yomlando."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "一些库已被修改。"
+    "devnote": "修复了TTS相关的错误和历史数据错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "一些庫已被修改。"
+    "devnote": "修復了TTS相關的錯誤和歷史資料錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "一些庫已被修改。"
+    "devnote": "修復了TTS相關的錯誤和歷史資料錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "Některé knihovny byly upraveny."
+    "devnote": "Opraveny chyby související s TTS a chyby v historii dat."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "Кейбір кітапханалар өзгертілді."
+    "devnote": "TTS қатысты қателер мен тарих деректерінің қателері түзетілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "Algunes biblioteques han estat modificades."
+    "devnote": "S'han corregit errors relacionats amb TTS i errors de dades de l'historial."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "ಕೆಲವು ಗ್ರಂಥಾಲಯಗಳನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
+    "devnote": "TTS ಸಂಬಂಧಿತ ದೋಷಗಳು ಮತ್ತು ಇತಿಹಾಸ ಡೇಟಾ ದೋಷಗಳನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "Neke biblioteke su izmijenjene."
+    "devnote": "Ispravljene pogreške povezane s TTS-om i pogreške s podacima o povijesti."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "បណ្ណាល័យខ្លះត្រូវបានកែប្រែ។"
+    "devnote": "ជួសជុលកំហុសដែលទាក់ទងនឹង TTS និងកំហុសទិន្នន័យប្រវត្តិ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "Кээ бир китепканалар өзгөртүлгөн."
+    "devnote": "TTS менен байланышкан мүчүлүштүктөр жана тарых маалыматтарынын мүчүлүштүктөрү оңдолду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "சில நூலகங்கள் மாற்றியமைக்கப்பட்டுள்ளன."
+    "devnote": "TTS தொடர்பான பிழைகள் மற்றும் வரலாற்று தரவு பிழைகள் சரி செய்யப்பட்டன."
   },
   "태국어": {
     "key": "th",
-    "devnote": "มีการปรับเปลี่ยนห้องสมุดบางแห่ง"
+    "devnote": "แก้ไขข้อบกพร่องที่เกี่ยวข้องกับ TTS และข้อบกพร่องข้อมูลประวัติ"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "Bazı kütüphaneler değiştirildi."
+    "devnote": "TTS ile ilgili hatalar ve geçmiş veri hataları düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "కొన్ని గ్రంథాలయాలు సవరించబడ్డాయి."
+    "devnote": "TTS సంబంధిత బగ్‌లు మరియు చరిత్ర డేటా బగ్‌లు పరిష్కరించబడ్డాయి."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "ਕੁਝ ਲਾਇਬ੍ਰੇਰੀਆਂ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ।"
+    "devnote": "ਫਿਕਸਡ TTS ਸੰਬੰਧਿਤ ਬੱਗ ਅਤੇ ਇਤਿਹਾਸ ਡਾਟਾ ਬੱਗ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "برخی از کتابخانه ها اصلاح شده اند."
+    "devnote": "رفع اشکالات مربوط به TTS و باگ های داده های سابقه."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "Algumas bibliotecas foram modificadas."
+    "devnote": "Corrigidos bugs relacionados ao TTS e bugs de dados históricos."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "Niektóre biblioteki zostały zmodyfikowane."
+    "devnote": "Naprawiono błędy związane z TTS i danymi historycznymi."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "Certaines bibliothèques ont été modifiées."
+    "devnote": "Correction de bugs liés au TTS et aux données d'historique."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "Joitakin kirjastoja on muutettu."
+    "devnote": "Korjattu TTS:ään liittyvät virheet ja historiatietovirheet."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "Ang ilang mga aklatan ay binago."
+    "devnote": "Inayos ang mga kaugnay na bug sa TTS at mga bug ng data ng kasaysayan."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "Néhány könyvtár módosult."
+    "devnote": "Javítva a TTS-hez kapcsolódó hibák és az előzmények adathibái."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "חלק מהספריות שונו."
+    "devnote": "תיקנו באגים הקשורים ל-TTS ובאגים בנתוני היסטוריה."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "कुछ पुस्तकालयों को संशोधित किया गया है।"
+    "devnote": "टीटीएस से संबंधित बग और इतिहास डेटा बग को ठीक किया गया।"
   }
 }
