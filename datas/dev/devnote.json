@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "Fixed TTS related bugs and history data bugs."
+    "devnote": "Fixed a bug in the Add My Library file feature."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "TTS 관련 버그 와 히스토리 데이터 버그를 수정하였습니다."
+    "devnote": "내서재 파일 추가 기능 버그를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "Corrixíronse erros relacionados con TTS e erros de datos do historial."
+    "devnote": "Corrixiuse un erro na funcionalidade Engadir ficheiro da miña biblioteca."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "સ્થિર TTS સંબંધિત ભૂલો અને ઇતિહાસ ડેટા બગ્સ."
+    "devnote": "મારી લાઇબ્રેરી ફાઇલ ઉમેરો સુવિધામાં બગ સુધારેલ છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "Διορθώθηκαν σφάλματα που σχετίζονται με το TTS και σφάλματα δεδομένων ιστορικού."
+    "devnote": "Διορθώθηκε ένα σφάλμα στη λειτουργία Προσθήκη αρχείου στη βιβλιοθήκη μου."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "TTS-gerelateerde bugs en bugs met historische gegevens zijn opgelost."
+    "devnote": "Er is een bug opgelost in de functie 'Mijn bibliotheek toevoegen'."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "निश्चित TTS सम्बन्धित बगहरू र इतिहास डाटा बगहरू।"
+    "devnote": "मेरो पुस्तकालय फाइल थप्नुहोस् सुविधामा भएको बग समाधान गरियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "Rettet TTS-relaterte feil og historikkdatafeil."
+    "devnote": "Fikset en feil i funksjonen Legg til fil i biblioteket mitt."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "Rettede TTS-relaterede fejl og historikdatafejl."
+    "devnote": "Rettede en fejl i funktionen \"Tilføj fil i mit bibliotek\"."
   },
   "독일어": {
     "key": "de",
-    "devnote": "TTS-bezogene Fehler und Fehler in Verlaufsdaten behoben."
+    "devnote": "Ein Fehler in der Funktion „Meine Bibliotheksdatei hinzufügen“ wurde behoben."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "ແກ້ໄຂຂໍ້ບົກພ່ອງທີ່ກ່ຽວຂ້ອງກັບ TTS ແລະຂໍ້ບົກພ່ອງຂໍ້ມູນປະຫວັດສາດ."
+    "devnote": "ແກ້ໄຂຂໍ້ບົກພ່ອງໃນຄຸນສົມບັດໄຟລ໌ Add My Library."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "Izlabotas ar TTS saistītas kļūdas un vēstures datu kļūdas."
+    "devnote": "Novērsta kļūda funkcijā Pievienot failu manai bibliotēkai."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "Исправлены ошибки, связанные с TTS, и ошибки в данных истории."
+    "devnote": "Исправлена ​​ошибка в функции добавления файла моей библиотеки."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "S-au remediat erori legate de TTS și erori legate de datele istorice."
+    "devnote": "S-a remediat o eroare în funcția Adăugare fișier din biblioteca mea."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "Ištaisytos su TTS susijusios klaidos ir istorijos duomenų klaidos."
+    "devnote": "Ištaisyta klaida funkcijoje „Pridėti mano bibliotekos failą“."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "TTS संबंधित बग आणि इतिहास डेटा बग निश्चित केले."
+    "devnote": "माझी लायब्ररी फाइल जोडा वैशिष्ट्यातील बग दुरुस्त केला."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "Поправени грешки поврзани со TTS и грешки во податоците од историјата."
+    "devnote": "Исправена е грешка во функцијата „Додај датотека во мојата библиотека“."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "TTS ബന്ധപ്പെട്ട ബഗുകളും ചരിത്ര ഡാറ്റ ബഗുകളും പരിഹരിച്ചു."
+    "devnote": "എന്റെ ലൈബ്രറി ഫയൽ ചേർക്കുക എന്ന സവിശേഷതയിലെ ഒരു ബഗ് പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "Membetulkan pepijat berkaitan TTS dan pepijat data sejarah."
+    "devnote": "Memperbaiki pepijat dalam ciri fail Tambah Pustaka Saya."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "TTS-тэй холбоотой алдаа болон түүхийн өгөгдлийн алдааг зассан."
+    "devnote": "Миний номын сан нэмэх\" функцийн алдааг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "TTS erlazionatutako akatsak eta historiako datuen akatsak konpondu dira."
+    "devnote": "Nire liburutegiko fitxategia gehitu funtzioko akats bat konpondu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "TTS ဆိုင်ရာ ချို့ယွင်းချက်များနှင့် မှတ်တမ်းဒေတာ ချို့ယွင်းချက်များကို ပြင်ဆင်ထားသည်။"
+    "devnote": "Add My Library ဖိုင်ဝန်ဆောင်မှုတွင် ချို့ယွင်းချက်တစ်ခုကို ပြင်ဆင်ထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "Đã sửa lỗi liên quan đến TTS và lỗi dữ liệu lịch sử."
+    "devnote": "Đã sửa lỗi trong tính năng Thêm tệp thư viện của tôi."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "Выпраўлены памылкі, звязаныя з TTS, і памылкі дадзеных гісторыі."
+    "devnote": "Выпраўлена памылка ў функцыі «Дадаць файл у маю бібліятэку»."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "TTS সম্পর্কিত বাগ এবং ইতিহাস ডেটা বাগ সংশোধন করা হয়েছে।"
+    "devnote": "আমার লাইব্রেরি যোগ করুন\" ফাইল বৈশিষ্ট্যটিতে একটি বাগ সংশোধন করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "Коригирани грешки, свързани с TTS, и грешки в данните за историята."
+    "devnote": "Отстранена е грешка във функцията „Добавяне на файл от моята библиотека“."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "Исправљене грешке везане за ТТС и грешке у подацима о историји."
+    "devnote": "Исправљена је грешка у функцији Додај датотеку у моју библиотеку."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "Tumerekebisha hitilafu zinazohusiana na TTS na hitilafu za data za historia."
+    "devnote": "Imerekebisha hitilafu katika kipengee cha faili ya Ongeza Maktaba Yangu."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "Fixade TTS-relaterade buggar och historikdatabuggar."
+    "devnote": "Åtgärdade ett fel i funktionen Lägg till fil i mitt bibliotek."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "Se corrigieron errores relacionados con TTS y errores en los datos del historial."
+    "devnote": "Se corrigió un error en la función Agregar archivo a mi biblioteca."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "Opravené chyby súvisiace s TTS a historické chyby údajov."
+    "devnote": "Opravená chyba vo funkcii Pridať súbor do mojej knižnice."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "Odpravljene napake, povezane s TTS, in napake v zgodovinskih podatkih."
+    "devnote": "Odpravljena je bila napaka v funkciji Dodaj datoteko v mojo knjižnico."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "ස්ථාවර TTS සම්බන්ධ දෝෂ සහ ඉතිහාස දත්ත දෝෂ."
+    "devnote": "මගේ පුස්තකාල ගොනු එකතු කිරීමේ විශේෂාංගයේ දෝෂයක් නිරාකරණය කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "تم إصلاح الأخطاء المتعلقة بـ TTS وأخطاء بيانات التاريخ."
+    "devnote": "تم إصلاح خطأ في ميزة إضافة ملف مكتبتي."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "Ուղղվել են TTS-ի հետ կապված սխալները և պատմության տվյալների սխալները:"
+    "devnote": "Ուղղվել է «Ավելացնել իմ գրադարանի ֆայլը» գործառույթի սխալը։"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "Lagaði TTS tengdar villur og sögugagnavillur."
+    "devnote": "Lagfærði villu í eiginleikanum „Bæta við skrám í safninu mínu“."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "TTS ilə əlaqəli səhvlər və tarix məlumatı səhvləri düzəldildi."
+    "devnote": "Kitabxanama fayl əlavə et funksiyasındakı səhv düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "Vaste TTS verwante foute en geskiedenis data foute."
+    "devnote": "Het 'n fout in die Voeg My Biblioteek-lêer-funksie by reggestel."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "Rregulloi defektet e lidhura me TTS dhe defektet e të dhënave të historisë."
+    "devnote": "U rregullua një gabim në veçorinë Shto skedarin e Bibliotekës Sime."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "ቋሚ ከTTS ጋር የተያያዙ ስህተቶች እና የታሪክ ውሂብ ስህተቶች።"
+    "devnote": "የእኔ ቤተ-መጽሐፍት አክል ፋይል ባህሪ ውስጥ አንድ ሳንካ ተስተካክሏል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "Parandatud TTS-iga seotud vead ja ajalooandmete vead."
+    "devnote": "Parandatud viga funktsioonis „Lisa minu teeki fail”."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "طے شدہ TTS متعلقہ کیڑے اور تاریخ کے ڈیٹا کیڑے۔"
+    "devnote": "ایڈ میری لائبریری فائل فیچر میں ایک بگ کو ٹھیک کر دیا گیا۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "Виправлено помилки, пов’язані з TTS, і помилки даних історії."
+    "devnote": "Виправлено помилку у функції додавання файлу до моєї бібліотеки."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "Corretti bug relativi al TTS e ai dati storici."
+    "devnote": "Risolto un bug nella funzionalità Aggiungi file alla mia libreria."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "Memperbaiki bug terkait TTS dan bug data riwayat."
+    "devnote": "Memperbaiki bug pada fitur file Tambahkan Perpustakaan Saya."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "TTS 関連のバグと履歴データのバグを修正しました。"
+    "devnote": "「マイライブラリファイルの追加」機能のバグを修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "დაფიქსირდა TTS დაკავშირებული შეცდომები და ისტორიის მონაცემების შეცდომები."
+    "devnote": "გამოსწორდა შეცდომა „ჩემი ბიბლიოთეკის ფაილის დამატების“ ფუნქციაში."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "Kulungiswe iziphazamisi ezihlobene ne-TTS kanye neziphazamisi zedatha yomlando."
+    "devnote": "Kulungiswe iphutha kusici sefayela elithi Engeza Ilabhulali Yami."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "修复了TTS相关的错误和历史数据错误。"
+    "devnote": "修复了“添加我的库文件”功能中的一个错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "修復了TTS相關的錯誤和歷史資料錯誤。"
+    "devnote": "修復了“添加我的庫文件”功能中的一個錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "修復了TTS相關的錯誤和歷史資料錯誤。"
+    "devnote": "修復了“添加我的庫文件”功能中的一個錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "Opraveny chyby související s TTS a chyby v historii dat."
+    "devnote": "Opravena chyba ve funkci Přidat soubor do mé knihovny."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "TTS қатысты қателер мен тарих деректерінің қателері түзетілді."
+    "devnote": "Менің кітапханамды қосу файл мүмкіндігіндегі қате түзетілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "S'han corregit errors relacionats amb TTS i errors de dades de l'historial."
+    "devnote": "S'ha corregit un error a la funció Afegeix fitxers de la meva biblioteca."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "TTS ಸಂಬಂಧಿತ ದೋಷಗಳು ಮತ್ತು ಇತಿಹಾಸ ಡೇಟಾ ದೋಷಗಳನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ."
+    "devnote": "ನನ್ನ ಲೈಬ್ರರಿ ಫೈಲ್ ಸೇರಿಸಿ ವೈಶಿಷ್ಟ್ಯದಲ್ಲಿನ ದೋಷವನ್ನು ಸರಿಪಡಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "Ispravljene pogreške povezane s TTS-om i pogreške s podacima o povijesti."
+    "devnote": "Ispravljena je greška u funkciji Dodaj datoteku u moju biblioteku."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "ជួសជុលកំហុសដែលទាក់ទងនឹង TTS និងកំហុសទិន្នន័យប្រវត្តិ។"
+    "devnote": "បានជួសជុលកំហុសនៅក្នុងមុខងារបន្ថែមឯកសារបណ្ណាល័យរបស់ខ្ញុំ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "TTS менен байланышкан мүчүлүштүктөр жана тарых маалыматтарынын мүчүлүштүктөрү оңдолду."
+    "devnote": "Менин китепканамды кошуу файл өзгөчөлүгүндөгү мүчүлүштүк оңдолду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "TTS தொடர்பான பிழைகள் மற்றும் வரலாற்று தரவு பிழைகள் சரி செய்யப்பட்டன."
+    "devnote": "எனது நூலகக் கோப்பைச் சேர் அம்சத்தில் ஒரு பிழை சரி செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "แก้ไขข้อบกพร่องที่เกี่ยวข้องกับ TTS และข้อบกพร่องข้อมูลประวัติ"
+    "devnote": "แก้ไขจุดบกพร่องในคุณลักษณะเพิ่มไฟล์ไลบรารีของฉัน"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "TTS ile ilgili hatalar ve geçmiş veri hataları düzeltildi."
+    "devnote": "Kütüphanemi Ekle dosya özelliğindeki bir hata düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "TTS సంబంధిత బగ్‌లు మరియు చరిత్ర డేటా బగ్‌లు పరిష్కరించబడ్డాయి."
+    "devnote": "నా లైబ్రరీ ఫైల్‌ను జోడించు ఫీచర్‌లోని బగ్‌ను పరిష్కరించారు."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "ਫਿਕਸਡ TTS ਸੰਬੰਧਿਤ ਬੱਗ ਅਤੇ ਇਤਿਹਾਸ ਡਾਟਾ ਬੱਗ।"
+    "devnote": "ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ ਫਾਈਲ ਵਿਸ਼ੇਸ਼ਤਾ ਸ਼ਾਮਲ ਕਰੋ ਵਿੱਚ ਇੱਕ ਬੱਗ ਠੀਕ ਕੀਤਾ ਗਿਆ ਹੈ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "رفع اشکالات مربوط به TTS و باگ های داده های سابقه."
+    "devnote": "اشکالی در ویژگی افزودن فایل به کتابخانه من برطرف شد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "Corrigidos bugs relacionados ao TTS e bugs de dados históricos."
+    "devnote": "Corrigido um bug no recurso Adicionar meu arquivo de biblioteca."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "Naprawiono błędy związane z TTS i danymi historycznymi."
+    "devnote": "Naprawiono błąd w funkcji Dodaj moją bibliotekę."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "Correction de bugs liés au TTS et aux données d'historique."
+    "devnote": "Correction d'un bug dans la fonctionnalité Ajouter mon fichier de bibliothèque."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "Korjattu TTS:ään liittyvät virheet ja historiatietovirheet."
+    "devnote": "Korjattu Lisää kirjastoni tiedosto -toiminnon virhe."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "Inayos ang mga kaugnay na bug sa TTS at mga bug ng data ng kasaysayan."
+    "devnote": "Inayos ang isang bug sa feature na Add My Library file."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "Javítva a TTS-hez kapcsolódó hibák és az előzmények adathibái."
+    "devnote": "Kijavítottunk egy hibát a Saját könyvtár fájl hozzáadása funkcióban."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "תיקנו באגים הקשורים ל-TTS ובאגים בנתוני היסטוריה."
+    "devnote": "תוקן באג בתכונה 'הוסף קובץ לספרייה שלי'."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "टीटीएस से संबंधित बग और इतिहास डेटा बग को ठीक किया गया।"
+    "devnote": "मेरी लाइब्रेरी फ़ाइल जोड़ें सुविधा में एक बग को ठीक किया गया।"
   }
 }
