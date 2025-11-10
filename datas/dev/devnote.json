@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "Fixed a bug in the Add My Library file feature."
+    "devnote": "Scrollbars have been added to the My Library, TTS Filter, Batch Edit, and Viewer shortcut menus.\nSearch functions have been added to TTS Filter and Batch Edit.\nPoint acquisition amounts have been adjusted."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "내서재 파일 추가 기능 버그를 수정 하였습니다."
+    "devnote": "내서재, TTS필터, 일괄수정, 뷰어 단축메뉴 에 스크롤바를 추가 하였습니다. \nTTS 필터, 일괄 수정 에 검색 기능을 추가 하였습니다. \n포인트 획득수량을 조정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "Corrixiuse un erro na funcionalidade Engadir ficheiro da miña biblioteca."
+    "devnote": "Engadíronse barras de desprazamento aos menús de acceso directo A miña biblioteca, Filtro TTS, Edición por lotes e Visor.\nEngadíronse funcións de busca a Filtro TTS e Edición por lotes.\nAxustáronse as cantidades de adquisición de puntos."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "મારી લાઇબ્રેરી ફાઇલ ઉમેરો સુવિધામાં બગ સુધારેલ છે."
+    "devnote": "માય લાઇબ્રેરી, TTS ફિલ્ટર, બેચ એડિટ અને વ્યૂઅર શોર્ટકટ મેનૂમાં સ્ક્રોલબાર ઉમેરવામાં આવ્યા છે.\n\nTTS ફિલ્ટર અને બેચ એડિટમાં શોધ કાર્યો ઉમેરવામાં આવ્યા છે.\n\nપોઇન્ટ સંપાદન રકમ ગોઠવવામાં આવી છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "Διορθώθηκε ένα σφάλμα στη λειτουργία Προσθήκη αρχείου στη βιβλιοθήκη μου."
+    "devnote": "Έχουν προστεθεί γραμμές κύλισης στα μενού συντομεύσεων \"Η βιβλιοθήκη μου\", \"Φίλτρο TTS\", \"Μαζική επεξεργασία\" και \"Προβολή\".\n\nΈχουν προστεθεί λειτουργίες αναζήτησης στο \"Φίλτρο TTS\" και στην \"Μαζική επεξεργασία\".\n\nΟι ποσότητες απόκτησης πόντων έχουν προσαρμοστεί."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "Er is een bug opgelost in de functie 'Mijn bibliotheek toevoegen'."
+    "devnote": "Er zijn schuifbalken toegevoegd aan de snelmenu's Mijn Bibliotheek, TTS-filter, Batchbewerking en Viewer.\nZoekfuncties zijn toegevoegd aan TTS-filter en Batchbewerking.\nDe hoeveelheid verworven punten is aangepast."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "मेरो पुस्तकालय फाइल थप्नुहोस् सुविधामा भएको बग समाधान गरियो।"
+    "devnote": "मेरो पुस्तकालय, TTS फिल्टर, ब्याच सम्पादन, र दर्शक सर्टकट मेनुहरूमा स्क्रोलबारहरू थपिएका छन्।\nखोज प्रकार्यहरू TTS फिल्टर र ब्याच सम्पादनमा थपिएका छन्।\nअंक प्राप्ति रकमहरू समायोजन गरिएको छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "Fikset en feil i funksjonen Legg til fil i biblioteket mitt."
+    "devnote": "Rullefelt er lagt til i snarveimenyene Mitt bibliotek, TTS-filter, Grupperedigering og Viser.\nSøkefunksjoner er lagt til i TTS-filter og Grupperedigering.\nAntall poenginnhentings er justert."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "Rettede en fejl i funktionen \"Tilføj fil i mit bibliotek\"."
+    "devnote": "Der er tilføjet rullepaneler til genvejsmenuerne Mit bibliotek, TTS-filter, Batchredigering og Viewer.\n\nSøgefunktioner er tilføjet til TTS-filter og Batchredigering.\n\nMængden af ​​punktoptagelser er blevet justeret."
   },
   "독일어": {
     "key": "de",
-    "devnote": "Ein Fehler in der Funktion „Meine Bibliotheksdatei hinzufügen“ wurde behoben."
+    "devnote": "Scrollleisten wurden den Kontextmenüs „Meine Bibliothek“, „TTS-Filter“, „Stapelbearbeitung“ und „Viewer“ hinzugefügt. Suchfunktionen wurden dem „TTS-Filter“ und der Stapelbearbeitung hinzugefügt. Die Anzahl der zu erwerbenden Punkte wurde angepasst."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "ແກ້ໄຂຂໍ້ບົກພ່ອງໃນຄຸນສົມບັດໄຟລ໌ Add My Library."
+    "devnote": "ແຖບເລື່ອນໄດ້ຖືກເພີ່ມໃສ່ຫ້ອງສະໝຸດຂອງຂ້ອຍ, ການກັ່ນຕອງ TTS, ແກ້ໄຂຊຸດ, ແລະເມນູທາງລັດຂອງຜູ້ຊົມ.\nຟັງຊັນຄົ້ນຫາໄດ້ຖືກເພີ່ມເຂົ້າໃນການກັ່ນຕອງ TTS ແລະແກ້ໄຂຊຸດ.\nຈຳນວນຈຸດທີ່ໄດ້ມາໄດ້ຖືກປັບ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "Novērsta kļūda funkcijā Pievienot failu manai bibliotēkai."
+    "devnote": "Ritjoslas ir pievienotas īsinājumizvēlnēm “Mana bibliotēka”, “TTS filtrs”, “Pakešu rediģēšana” un “Skatītājs”.\nMeklēšanas funkcijas ir pievienotas “TTS filtrs” un “Pakešu rediģēšana”.\nIr pielāgots punktu iegūšanas apjoms."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "Исправлена ​​ошибка в функции добавления файла моей библиотеки."
+    "devnote": "В контекстные меню «Моя библиотека», «Фильтр TTS», «Пакетное редактирование» и «Просмотрщик» добавлены полосы прокрутки.\nВ «Фильтр TTS» и «Пакетное редактирование» добавлены функции поиска.\nСкорректировано количество получаемых баллов."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "S-a remediat o eroare în funcția Adăugare fișier din biblioteca mea."
+    "devnote": "Barele de derulare au fost adăugate în meniurile rapide Biblioteca mea, Filtru TTS, Editare în lot și Vizualizator.\nFuncțiile de căutare au fost adăugate în Filtru TTS și Editare în lot.\nNumărul de puncte achiziționate a fost ajustat."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "Ištaisyta klaida funkcijoje „Pridėti mano bibliotekos failą“."
+    "devnote": "Slinkties juostos buvo pridėtos prie „Mano biblioteka“, „TTS filtras“, „Paketinis redagavimas“ ir „Peržiūros programa“ nuorodų meniu.\nPaieškos funkcijos buvo pridėtos prie „TTS filtras“ ir „Paketinis redagavimas“.\nPakoreguoti taškų gavimo kiekiai."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "माझी लायब्ररी फाइल जोडा वैशिष्ट्यातील बग दुरुस्त केला."
+    "devnote": "माय लायब्ररी, टीटीएस फिल्टर, बॅच एडिट आणि व्ह्यूअर शॉर्टकट मेनूमध्ये स्क्रोलबार जोडले गेले आहेत.\nटीटीएस फिल्टर आणि बॅच एडिटमध्ये सर्च फंक्शन्स जोडले गेले आहेत.\nपॉइंट अ‍ॅक्विझिशन रक्कम समायोजित केली गेली आहे."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "Исправена е грешка во функцијата „Додај датотека во мојата библиотека“."
+    "devnote": "Додадени се лизгачи во менијата за кратенки „Моја библиотека“, „TTS филтер“, „Групно уредување“ и „Прегледувач“.\nФункциите за пребарување се додадени во „TTS филтер“ и „Групно уредување“.\nКоличините на добивање поени се прилагодени."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "എന്റെ ലൈബ്രറി ഫയൽ ചേർക്കുക എന്ന സവിശേഷതയിലെ ഒരു ബഗ് പരിഹരിച്ചു."
+    "devnote": "മൈ ലൈബ്രറി, ടിടിഎസ് ഫിൽറ്റർ, ബാച്ച് എഡിറ്റ്, വ്യൂവർ ഷോർട്ട്കട്ട് മെനുകളിലേക്ക് സ്ക്രോൾബാറുകൾ ചേർത്തിട്ടുണ്ട്.\n\nടിടിഎസ് ഫിൽറ്റർ, ബാച്ച് എഡിറ്റ് എന്നിവയിൽ തിരയൽ ഫംഗ്ഷനുകൾ ചേർത്തിട്ടുണ്ട്.\n\nപോയിന്റ് അക്വിസിഷൻ തുകകൾ ക്രമീകരിച്ചിട്ടുണ്ട്."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "Memperbaiki pepijat dalam ciri fail Tambah Pustaka Saya."
+    "devnote": "Bar skrol telah ditambahkan pada menu pintasan Pustaka Saya, Penapis TTS, Edit Kelompok dan Pemapar.\nFungsi carian telah ditambahkan pada Penapis TTS dan Edit Kelompok.\nJumlah perolehan mata telah diselaraskan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "Миний номын сан нэмэх\" функцийн алдааг зассан."
+    "devnote": "Миний номын сан, TTS шүүлтүүр, Багц засварлах, Үзэгч товчлолын цэсэнд гүйлгэх мөрүүдийг нэмсэн.\nХайлтын функцуудыг TTS шүүлтүүр болон багц засварт нэмсэн.\nОноо цуглуулах дүнг тохируулсан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "Nire liburutegiko fitxategia gehitu funtzioko akats bat konpondu da."
+    "devnote": "Korritze-barrak gehitu dira Nire Liburutegia, TTS Iragazkia, Multzoka Editatu eta Ikuslea lasterbide-menuetan.\nBilaketa-funtzioak gehitu dira TTS Iragazkian eta Multzoka Editatuan.\nPuntu-eskuratze kopuruak egokitu dira."
   },
   "버마어": {
     "key": "my",
-    "devnote": "Add My Library ဖိုင်ဝန်ဆောင်မှုတွင် ချို့ယွင်းချက်တစ်ခုကို ပြင်ဆင်ထားသည်။"
+    "devnote": "Scrollbars များကို My Library၊ TTS Filter၊ Batch Edit နှင့် Viewer shortcut menus များသို့ ပေါင်းထည့်ထားပါသည်။\nရှာဖွေမှုလုပ်ဆောင်ချက်များကို TTS Filter နှင့် Batch တည်းဖြတ်မှုတွင် ထည့်သွင်းထားသည်။\nပွိုင့်ဝယ်ယူမှုပမာဏကို ချိန်ညှိပြီးပါပြီ။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "Đã sửa lỗi trong tính năng Thêm tệp thư viện của tôi."
+    "devnote": "Thanh cuộn đã được thêm vào menu tắt Thư viện của tôi, Bộ lọc TTS, Chỉnh sửa hàng loạt và Trình xem.\nChức năng tìm kiếm đã được thêm vào Bộ lọc TTS và Chỉnh sửa hàng loạt.\nSố lượng điểm thu thập đã được điều chỉnh."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "Выпраўлена памылка ў функцыі «Дадаць файл у маю бібліятэку»."
+    "devnote": "Паласы пракруткі былі дададзены ў кантэкстныя меню «Мая бібліятэка», «Фільтр TTS», «Пакетнае рэдагаванне» і «Прагляд».\n\nФункцыі пошуку былі дададзены ў «Фільтр TTS» і «Пакетнае рэдагаванне».\n\nСкарэкціравана колькасць набраных балаў."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "আমার লাইব্রেরি যোগ করুন\" ফাইল বৈশিষ্ট্যটিতে একটি বাগ সংশোধন করা হয়েছে।"
+    "devnote": "আমার লাইব্রেরি, টিটিএস ফিল্টার, ব্যাচ এডিট এবং ভিউয়ার শর্টকাট মেনুতে স্ক্রলবার যোগ করা হয়েছে।\n\nটিটিএস ফিল্টার এবং ব্যাচ এডিট-এ অনুসন্ধান ফাংশন যোগ করা হয়েছে।\n\nপয়েন্ট অর্জনের পরিমাণ সমন্বয় করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "Отстранена е грешка във функцията „Добавяне на файл от моята библиотека“."
+    "devnote": "Добавени са ленти за превъртане към контекстните менюта „Моята библиотека“, „Филтър за синтез на реч“, „Пакетно редактиране“ и „Преглед“.\nДобавени са функции за търсене към „Филтър за синтез на реч“ и „Пакетно редактиране“.\nКоригирани са количествата придобити точки."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "Исправљена је грешка у функцији Додај датотеку у моју библиотеку."
+    "devnote": "Траке за померање су додате у меније пречица Моја библиотека, Филтер за говор у тексту, Групно уређивање и Прегледач.\nФункције претраживања су додате у Филтер за говор у тексту и Групно уређивање.\nКоличина аквизиције поена је прилагођена."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "Imerekebisha hitilafu katika kipengee cha faili ya Ongeza Maktaba Yangu."
+    "devnote": "Pau za kusogeza zimeongezwa kwenye menyu ya Maktaba Yangu, Kichujio cha TTS, Hariri Kundi, na menyu za njia za mkato za Kitazamaji.\nVitendaji vya utafutaji vimeongezwa kwenye Kichujio cha TTS na Kuhariri Kundi.\nKiasi cha kupata pointi kimerekebishwa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "Åtgärdade ett fel i funktionen Lägg till fil i mitt bibliotek."
+    "devnote": "Rullningslister har lagts till i genvägsmenyerna Mitt bibliotek, TTS-filter, Batchredigering och Visning.\nSökfunktioner har lagts till i TTS-filter och Batchredigering.\nMängden punktförvärv har justerats."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "Se corrigió un error en la función Agregar archivo a mi biblioteca."
+    "devnote": "Se han añadido barras de desplazamiento a los menús contextuales de Mi biblioteca, Filtro de texto a voz, Edición por lotes y Visor.\n\nSe han añadido funciones de búsqueda al Filtro de texto a voz y a la Edición por lotes.\n\nSe han ajustado las cantidades de puntos adquiridos."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "Opravená chyba vo funkcii Pridať súbor do mojej knižnice."
+    "devnote": "Do kontextových ponúk Moja knižnica, Filter TTS, Dávková úprava a Prehliadač boli pridané posuvníky.\nDo Filtra TTS a Dávkovej úpravy boli pridané funkcie vyhľadávania.\nBoli upravené počty získaných bodov."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "Odpravljena je bila napaka v funkciji Dodaj datoteko v mojo knjižnico."
+    "devnote": "V priročne menije Moja knjižnica, Filter za besedilo v besedilu, Skupinsko urejanje in Pregledovalnik so bili dodani drsniki.\nV Filter za besedilo v besedilu in Skupinsko urejanje so bile dodane funkcije iskanja.\nPrilagojene so bile količine pridobivanja točk."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "මගේ පුස්තකාල ගොනු එකතු කිරීමේ විශේෂාංගයේ දෝෂයක් නිරාකරණය කරන ලදී."
+    "devnote": "මගේ පුස්තකාලය, TTS පෙරහන, කාණ්ඩ සංස්කරණය සහ නරඹන්නාගේ කෙටිමං මෙනු වලට අනුචලන තීරු එකතු කර ඇත.\n\nTTS පෙරහන සහ කාණ්ඩ සංස්කරණයට සෙවුම් කාර්යයන් එකතු කර ඇත.\n\nලක්ෂ්‍ය අත්පත් කර ගැනීමේ ප්‍රමාණයන් සකස් කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "تم إصلاح خطأ في ميزة إضافة ملف مكتبتي."
+    "devnote": "أُضيفت أشرطة التمرير إلى قوائم الاختصارات \"مكتبتي\"، و\"فلتر تحويل النص إلى كلام\"، و\"التحرير الدفعي\"، و\"العارض\".\n\nأُضيفت وظائف البحث إلى \"فلتر تحويل النص إلى كلام\" و\"التحرير الدفعي\".\n\nعُدِّلت قيمة النقاط المكتسبة."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "Ուղղվել է «Ավելացնել իմ գրադարանի ֆայլը» գործառույթի սխալը։"
+    "devnote": "«Իմ գրադարան», «TTS ֆիլտր», «Խմբային խմբագրում» և «Դիտողի» կարճ ընտրացանկերում ավելացվել են սահող սանդղակներ։\n«TTS ֆիլտր» և «Խմբային խմբագրում» բաժիններում ավելացվել են որոնման գործառույթներ։\nՄիավորների ձեռքբերման քանակը ճշգրտվել է։"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "Lagfærði villu í eiginleikanum „Bæta við skrám í safninu mínu“."
+    "devnote": "Skrunstika hefur verið bætt við flýtivalmyndirnar Mitt safn, TTS síu, hópbreytingu og skoðara.\nLeitarvirkni hefur verið bætt við TTS síu og hópbreytingu.\nFjöldi punkta hefur verið leiðréttur."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "Kitabxanama fayl əlavə et funksiyasındakı səhv düzəldildi."
+    "devnote": "Sürüşdürmə çubuqları Kitabxanam, TTS Filtri, Toplu Redaktə və Baxıcı qısayol menyularına əlavə edilmişdir.\nAxtarış funksiyaları TTS Filtrinə və Toplu Redaktəyə əlavə edildi.\nXal toplama məbləğlərinə düzəlişlər edilib."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "Het 'n fout in die Voeg My Biblioteek-lêer-funksie by reggestel."
+    "devnote": "Rolbalke is bygevoeg by die My Biblioteek, TTS-filter, Groepwysiging en Kyker-kortpadkieslyste.\nSoekfunksies is bygevoeg by TTS-filter en Groepwysiging.\nPuntverkrygingshoeveelhede is aangepas."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "U rregullua një gabim në veçorinë Shto skedarin e Bibliotekës Sime."
+    "devnote": "Shiritat e lëvizjes janë shtuar në menytë e shkurtra Biblioteka Ime, Filtri TTS, Redaktimi i Grumbullimit dhe Shikuesi.\nFunksionet e kërkimit janë shtuar në Filtrin TTS dhe Redaktimin e Grumbullimit.\nSasitë e marrjes së pikëve janë rregulluar."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "የእኔ ቤተ-መጽሐፍት አክል ፋይል ባህሪ ውስጥ አንድ ሳንካ ተስተካክሏል።"
+    "devnote": "የማሸብለያ አሞሌዎች ወደ የእኔ ቤተ-መጽሐፍት፣ TTS ማጣሪያ፣ ባች አርትዕ እና ተመልካች አቋራጭ ምናሌዎች ላይ ተጨምረዋል።\nየፍለጋ ተግባራት ወደ TTS ማጣሪያ እና ባች አርትዕ ታክለዋል።\nየነጥብ ማግኛ መጠኖች ተስተካክለዋል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "Parandatud viga funktsioonis „Lisa minu teeki fail”."
+    "devnote": "Kerimisribad on lisatud otseteemenüüdesse Minu teek, TTS-filter, Pakettredigeerimine ja Vaatur.\nOtsingufunktsioonid on lisatud TTS-filtrile ja Pakettredigeerimisele.\nPunktide hankimise hulmi on kohandatud."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "ایڈ میری لائبریری فائل فیچر میں ایک بگ کو ٹھیک کر دیا گیا۔"
+    "devnote": "اسکرول بار کو مائی لائبریری، ٹی ٹی ایس فلٹر، بیچ ایڈیٹ، اور ویور شارٹ کٹ مینو میں شامل کیا گیا ہے۔\nٹی ٹی ایس فلٹر اور بیچ ایڈیٹ میں سرچ فنکشنز شامل کیے گئے ہیں۔\nپوائنٹ کے حصول کی رقم کو ایڈجسٹ کر دیا گیا ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "Виправлено помилку у функції додавання файлу до моєї бібліотеки."
+    "devnote": "До контекстних меню «Моя бібліотека», «Фільтр синтезу мовлення», «Пакетне редагування» та «Переглядач» додано смуги прокручування.\nДо «Фільтра синтезу мовлення» та «Пакетного редагування» додано функції пошуку.\nСкориговано кількість точок отримання."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "Risolto un bug nella funzionalità Aggiungi file alla mia libreria."
+    "devnote": "Sono state aggiunte barre di scorrimento ai menu di scelta rapida \"La mia libreria\", \"Filtro TTS\", \"Modifica batch\" e \"Visualizzatore\".\nSono state aggiunte funzioni di ricerca a \"Filtro TTS\" e \"Modifica batch\".\nSono stati modificati i valori di acquisizione dei punti."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "Memperbaiki bug pada fitur file Tambahkan Perpustakaan Saya."
+    "devnote": "Bilah gulir telah ditambahkan ke menu pintasan Perpustakaan Saya, Filter TTS, Edit Batch, dan Penampil.\nFungsi pencarian telah ditambahkan ke Filter TTS dan Edit Batch.\nJumlah perolehan poin telah disesuaikan."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "「マイライブラリファイルの追加」機能のバグを修正しました。"
+    "devnote": "マイライブラリ、TTSフィルター、一括編集、ビューアのショートカットメニューにスクロールバーが追加されました。\nTTSフィルターと一括編集に検索機能が追加されました。\nポイント獲得量を調整しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "გამოსწორდა შეცდომა „ჩემი ბიბლიოთეკის ფაილის დამატების“ ფუნქციაში."
+    "devnote": "გადახვევის ზოლები დაემატა „ჩემი ბიბლიოთეკის“, „TTS ფილტრის“, „ჯგუფური რედაქტირების“ და „მნახველის“ მალსახმობების მენიუებს.\nძიების ფუნქციები დაემატა „TTS ფილტრს“ და „ჯგუფურ რედაქტირებას“.\nქულების მოპოვების რაოდენობა დაკორექტირდა."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "Kulungiswe iphutha kusici sefayela elithi Engeza Ilabhulali Yami."
+    "devnote": "Amabha wokuskrola engeziwe kuMtapo Wami, Isihlungi se-TTS, Hlela iqoqo, kanye namamenyu ezinqamuleli zokubuka.\nImisebenzi yosesho yengezwe kusihlungi se-TTS kanye ne-Batch Edit.\nAmanani okutholwa kwamaphoyinti alungisiwe."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "修复了“添加我的库文件”功能中的一个错误。"
+    "devnote": "“我的库”、“TTS 筛选器”、“批量编辑”和“查看器”快捷菜单中已添加滚动条。\n\n“TTS 筛选器”和“批量编辑”菜单中已添加搜索功能。\n\n点数获取量已调整。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "修復了“添加我的庫文件”功能中的一個錯誤。"
+    "devnote": "在「我的庫」、「TTS 篩選器」、「批次編輯」和「檢視器」快速選單中已新增捲軸。\n\n在“TTS 篩選器”和“批次編輯”選單中已新增搜尋功能。\n\n點數獲取量已調整。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "修復了“添加我的庫文件”功能中的一個錯誤。"
+    "devnote": "在「我的庫」、「TTS 篩選器」、「批次編輯」和「檢視器」快速選單中已新增捲軸。\n\n在“TTS 篩選器”和“批次編輯”選單中已新增搜尋功能。\n\n點數獲取量已調整。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "Opravena chyba ve funkci Přidat soubor do mé knihovny."
+    "devnote": "Do kontextových nabídek Moje knihovna, Filtr TTS, Dávková úprava a Prohlížeč byly přidány posuvníky.\nDo Filtru TTS a Dávkové úpravy byly přidány vyhledávací funkce.\nBylo upraveno množství bodů, které byly získány."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "Менің кітапханамды қосу файл мүмкіндігіндегі қате түзетілді."
+    "devnote": "Менің кітапханам, TTS сүзгісі, Пакеттік өңдеу және Қарау құралының таңбаша мәзірлеріне айналдыру жолақтары қосылды.\nІздеу функциялары TTS сүзгісіне және пакеттік өңдеуге қосылды.\nҰпайларды алу сомасы түзетілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "S'ha corregit un error a la funció Afegeix fitxers de la meva biblioteca."
+    "devnote": "S'han afegit barres de desplaçament als menús contextuals La meva biblioteca, Filtre TTS, Edició per lots i Visualitzador.\nS'han afegit funcions de cerca al Filtre TTS i a l'Edició per lots.\nS'han ajustat les quantitats d'adquisició de punts."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "ನನ್ನ ಲೈಬ್ರರಿ ಫೈಲ್ ಸೇರಿಸಿ ವೈಶಿಷ್ಟ್ಯದಲ್ಲಿನ ದೋಷವನ್ನು ಸರಿಪಡಿಸಲಾಗಿದೆ."
+    "devnote": "ನನ್ನ ಲೈಬ್ರರಿ, ಟಿಟಿಎಸ್ ಫಿಲ್ಟರ್, ಬ್ಯಾಚ್ ಎಡಿಟ್ ಮತ್ತು ವೀಕ್ಷಕ ಶಾರ್ಟ್‌ಕಟ್ ಮೆನುಗಳಿಗೆ ಸ್ಕ್ರಾಲ್‌ಬಾರ್‌ಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n\nಟಿಟಿಎಸ್ ಫಿಲ್ಟರ್ ಮತ್ತು ಬ್ಯಾಚ್ ಎಡಿಟ್‌ಗೆ ಹುಡುಕಾಟ ಕಾರ್ಯಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n\nಪಾಯಿಂಟ್ ಸ್ವಾಧೀನ ಮೊತ್ತವನ್ನು ಸರಿಹೊಂದಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "Ispravljena je greška u funkciji Dodaj datoteku u moju biblioteku."
+    "devnote": "Trake za pomicanje dodane su u izbornike prečaca Moja knjižnica, TTS filtar, Skupno uređivanje i Preglednik.\nFunkcije pretraživanja dodane su u TTS filtar i Skupno uređivanje.\nPrilagođene su količine akvizicije bodova."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "បានជួសជុលកំហុសនៅក្នុងមុខងារបន្ថែមឯកសារបណ្ណាល័យរបស់ខ្ញុំ។"
+    "devnote": "របាររមូរត្រូវបានបន្ថែមទៅបណ្ណាល័យរបស់ខ្ញុំ តម្រង TTS ការកែសម្រួលជាបាច់ និងម៉ឺនុយផ្លូវកាត់អ្នកមើល។\nមុខងារស្វែងរកត្រូវបានបន្ថែមទៅ TTS Filter និង Batch Edit។\nចំនួនទឹកប្រាក់នៃការទទួលបានពិន្ទុត្រូវបានកែតម្រូវ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "Менин китепканамды кошуу файл өзгөчөлүгүндөгү мүчүлүштүк оңдолду."
+    "devnote": "Жылдыруу тилкелери Менин китепканам, TTS чыпкасы, пакеттик түзөтүү жана көрүүчүнүн жарлык менюларына кошулду.\nИздөө функциялары TTS чыпкасына жана пакеттик түзөтүүгө кошулду.\nУпайларды алуу суммалары оңдолду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "எனது நூலகக் கோப்பைச் சேர் அம்சத்தில் ஒரு பிழை சரி செய்யப்பட்டது."
+    "devnote": "எனது நூலகம், TTS வடிகட்டி, தொகுதித் திருத்தம் மற்றும் பார்வையாளர் குறுக்குவழி மெனுக்களில் உருள்பட்டிகள் சேர்க்கப்பட்டுள்ளன.\n\nTTS வடிகட்டி மற்றும் தொகுதித் திருத்தத்தில் தேடல் செயல்பாடுகள் சேர்க்கப்பட்டுள்ளன.\n\nபுள்ளி கையகப்படுத்தல் தொகைகள் சரிசெய்யப்பட்டுள்ளன."
   },
   "태국어": {
     "key": "th",
-    "devnote": "แก้ไขจุดบกพร่องในคุณลักษณะเพิ่มไฟล์ไลบรารีของฉัน"
+    "devnote": "เพิ่มแถบเลื่อนในเมนูลัด \"คลังของฉัน\", \"ตัวกรอง TTS\", \"การแก้ไขแบบกลุ่ม\" และ \"ตัวแสดง\"\nเพิ่มฟังก์ชันการค้นหาใน \"ตัวกรอง TTS\" และ \"การแก้ไขแบบกลุ่ม\"\nปรับจำนวนแต้มที่ได้รับ"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "Kütüphanemi Ekle dosya özelliğindeki bir hata düzeltildi."
+    "devnote": "Kütüphanem, TTS Filtresi, Toplu Düzenleme ve Görüntüleyici kısayol menülerine kaydırma çubukları eklendi.\nTTS Filtresi ve Toplu Düzenleme'ye arama işlevleri eklendi.\nPuan toplama miktarları ayarlandı."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "నా లైబ్రరీ ఫైల్‌ను జోడించు ఫీచర్‌లోని బగ్‌ను పరిష్కరించారు."
+    "devnote": "నా లైబ్రరీ, TTS ఫిల్టర్, బ్యాచ్ ఎడిట్ మరియు వ్యూయర్ షార్ట్‌కట్ మెనూలకు స్క్రోల్‌బార్‌లు జోడించబడ్డాయి.\n\nTTS ఫిల్టర్ మరియు బ్యాచ్ ఎడిట్‌కు శోధన విధులు జోడించబడ్డాయి.\n\nపాయింట్ అక్విజిషన్ మొత్తాలు సర్దుబాటు చేయబడ్డాయి."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ ਫਾਈਲ ਵਿਸ਼ੇਸ਼ਤਾ ਸ਼ਾਮਲ ਕਰੋ ਵਿੱਚ ਇੱਕ ਬੱਗ ਠੀਕ ਕੀਤਾ ਗਿਆ ਹੈ।"
+    "devnote": "ਸਕ੍ਰੌਲਬਾਰ ਨੂੰ ਮਾਈ ਲਾਇਬ੍ਰੇਰੀ, ਟੀਟੀਐਸ ਫਿਲਟਰ, ਬੈਚ ਐਡਿਟ, ਅਤੇ ਵਿਊਅਰ ਸ਼ਾਰਟਕੱਟ ਮੀਨੂ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ ਹੈ।\nਖੋਜ ਫੰਕਸ਼ਨ ਟੀਟੀਐਸ ਫਿਲਟਰ ਅਤੇ ਬੈਚ ਐਡਿਟ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤੇ ਗਏ ਹਨ।\nਪੁਆਇੰਟ ਪ੍ਰਾਪਤੀ ਰਕਮਾਂ ਨੂੰ ਐਡਜਸਟ ਕੀਤਾ ਗਿਆ ਹੈ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "اشکالی در ویژگی افزودن فایل به کتابخانه من برطرف شد."
+    "devnote": "نوارهای پیمایش به منوی میانبرهای کتابخانه من، فیلتر TTS، ویرایش دسته‌ای و نمایشگر اضافه شده‌اند.\n\nعملکردهای جستجو به فیلتر TTS و ویرایش دسته‌ای اضافه شده‌اند.\n\nمقادیر کسب امتیاز تنظیم شده‌اند."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "Corrigido um bug no recurso Adicionar meu arquivo de biblioteca."
+    "devnote": "Foram adicionadas barras de rolagem aos menus de atalho Minha Biblioteca, Filtro de TTS, Edição em Lote e Visualizador.\n\nForam adicionadas funções de busca ao Filtro de TTS e à Edição em Lote.\n\nOs valores de aquisição de pontos foram ajustados."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "Naprawiono błąd w funkcji Dodaj moją bibliotekę."
+    "devnote": "Dodano paski przewijania do menu skrótów Moja biblioteka, Filtr TTS, Edycja wsadowa i Przeglądarka.\nDodano funkcje wyszukiwania do Filtr TTS i Edycja wsadowa.\nDostosowano wartości punktów."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "Correction d'un bug dans la fonctionnalité Ajouter mon fichier de bibliothèque."
+    "devnote": "Des barres de défilement ont été ajoutées aux menus contextuels de Ma bibliothèque, du filtre TTS, de l'édition par lots et de la visionneuse.\n\nDes fonctions de recherche ont été ajoutées au filtre TTS et à l'édition par lots.\n\nLes valeurs d'acquisition des points ont été ajustées."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "Korjattu Lisää kirjastoni tiedosto -toiminnon virhe."
+    "devnote": "Vierityspalkit on lisätty Oma kirjasto -, TTS-suodatin-, Erämuokkaus- ja Katseluohjelma-pikavalikoihin.\nHakutoiminnot on lisätty TTS-suodattimeen ja Erämuokkaus-valikkoon.\nPisteiden hankintamääriä on muutettu."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "Inayos ang isang bug sa feature na Add My Library file."
+    "devnote": "Naidagdag ang mga scrollbar sa My Library, TTS Filter, Batch Edit, at Viewer shortcut menu.\nAng mga function ng paghahanap ay naidagdag sa TTS Filter at Batch Edit.\nAng mga halaga ng pagkuha ng puntos ay naayos na."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "Kijavítottunk egy hibát a Saját könyvtár fájl hozzáadása funkcióban."
+    "devnote": "Görgetősávok kerültek a Saját könyvtár, TTS szűrő, Kötegelt szerkesztés és Megjelenítő helyi menükbe.\n\nKeresési funkciók kerültek a TTS szűrőhöz és a Kötegelt szerkesztéshez.\nA pontgyűjtési mennyiségek módosultak."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "תוקן באג בתכונה 'הוסף קובץ לספרייה שלי'."
+    "devnote": "סרגלי גלילה נוספו לתפריטי הקיצור של הספרייה שלי, מסנן TTS, עריכה קבוצתית ומציג.\nפונקציות חיפוש נוספו למסנן TTS ולעריכה קבוצתית.\nכמויות רכישת נקודות הותאמו."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "मेरी लाइब्रेरी फ़ाइल जोड़ें सुविधा में एक बग को ठीक किया गया।"
+    "devnote": "मेरी लाइब्रेरी, टीटीएस फ़िल्टर, बैच एडिट और व्यूअर शॉर्टकट मेनू में स्क्रॉलबार जोड़े गए हैं।\nटीटीएस फ़िल्टर और बैच एडिट में खोज फ़ंक्शन जोड़े गए हैं।\nपॉइंट प्राप्ति राशि को समायोजित किया गया है।"
   }
 }
