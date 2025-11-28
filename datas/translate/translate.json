@@ -8,11 +8,9 @@
         "engine": "google",
         "urls": [
             "https://simplytranslate.org/",
+            "https://simplytranslate.leemoon.network/",
             "https://simplytranslate.pussthecat.org/",
-            "https://translate.slipfox.xyz/",
-            "https://st.privacydev.net/",
-            "https://simplytranslate.vern.cc/",
-            "https://tl.slipfox.xyz/"
+            "https://st.privacydev.net/"
         ],
         "scroll": 0,
         "lang": [
