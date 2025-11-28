@@ -7,16 +7,12 @@
         "type": "simplytranslate",
         "engine": "google",
         "urls": [
+            "https://simplytranslate.org/",
             "https://simplytranslate.pussthecat.org/",
-            "https://translate.northboot.xyz/",
-            "https://simplytranslate.esmailelbob.xyz/",
-            "https://tl.vern.cc/",
             "https://translate.slipfox.xyz/",
             "https://st.privacydev.net/",
             "https://simplytranslate.vern.cc/",
-            "https://tl.slipfox.xyz/",
-            "https://trap.her.st/",
-            "https://translate.lurkmore.com/"
+            "https://tl.slipfox.xyz/"
         ],
         "scroll": 0,
         "lang": [
