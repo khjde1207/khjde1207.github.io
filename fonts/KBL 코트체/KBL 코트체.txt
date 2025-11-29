@@ -5,7 +5,7 @@
 <span>
 title : <a href="https://www.kbl.or.kr/intro/font">KBL 코트체</a>
 authr : <a href="https://www.kbl.or.kr/intro/font">kbl</a>by
-site : <a href="https://www.kbl.or.kr/intro/font">KBL 전용서체의 지식재산권은 KBL에 있습니다.</a></span> <br>
+site : <a href="https://www.kbl.or.kr/intro/font">KBL</a></span> <br>
 is licensed under
 <img src="https://www.kbl.or.kr/assets/img/logo/logo-header.svg" alt="KBL 전용서체의 지식재산권은 KBL에 있습니다. 개인 및 기업 사용자를 포함한 모든 사용자에게 자유롭게 배포할 수 있고 상업적 이용이 가능합니다." class="img_cc">
 
