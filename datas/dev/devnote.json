@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "Scrollbars have been added to the My Library, TTS Filter, Batch Edit, and Viewer shortcut menus.\nSearch functions have been added to TTS Filter and Batch Edit.\nPoint acquisition amounts have been adjusted."
+    "devnote": "- Added a search function to the pop-up that appears when you long-press the viewer.\n- Fixed some OCR logic bugs.\n- Revised the PDF text extraction logic."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "내서재, TTS필터, 일괄수정, 뷰어 단축메뉴 에 스크롤바를 추가 하였습니다. \nTTS 필터, 일괄 수정 에 검색 기능을 추가 하였습니다. \n포인트 획득수량을 조정 하였습니다."
+    "devnote": "- 뷰어를 길게 눌러 나오는 팝업에 검색 기능을 추가하였습니다.\n- ocr 로직 버그를 일부 수정하였습니다. \n- PDF 텍스트 추출 로직을 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "Engadíronse barras de desprazamento aos menús de acceso directo A miña biblioteca, Filtro TTS, Edición por lotes e Visor.\nEngadíronse funcións de busca a Filtro TTS e Edición por lotes.\nAxustáronse as cantidades de adquisición de puntos."
+    "devnote": "- Engadiuse unha función de busca á xanela emerxente que aparece ao premer de xeito prolongado o visor.\n\nCorrixiuse algúns erros da lóxica OCR.\n\nRevisouse a lóxica de extracción de texto en PDF."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "માય લાઇબ્રેરી, TTS ફિલ્ટર, બેચ એડિટ અને વ્યૂઅર શોર્ટકટ મેનૂમાં સ્ક્રોલબાર ઉમેરવામાં આવ્યા છે.\n\nTTS ફિલ્ટર અને બેચ એડિટમાં શોધ કાર્યો ઉમેરવામાં આવ્યા છે.\n\nપોઇન્ટ સંપાદન રકમ ગોઠવવામાં આવી છે."
+    "devnote": "- પોપ-અપમાં એક શોધ ફંક્શન ઉમેર્યું જે વ્યૂઅરને લાંબા સમય સુધી દબાવવાથી દેખાય છે.\n- કેટલીક OCR લોજિક ભૂલો સુધારી.\n- PDF ટેક્સ્ટ એક્સટ્રેક્શન લોજિક સુધારેલ."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "Έχουν προστεθεί γραμμές κύλισης στα μενού συντομεύσεων \"Η βιβλιοθήκη μου\", \"Φίλτρο TTS\", \"Μαζική επεξεργασία\" και \"Προβολή\".\n\nΈχουν προστεθεί λειτουργίες αναζήτησης στο \"Φίλτρο TTS\" και στην \"Μαζική επεξεργασία\".\n\nΟι ποσότητες απόκτησης πόντων έχουν προσαρμοστεί."
+    "devnote": "- Προστέθηκε μια λειτουργία αναζήτησης στο αναδυόμενο παράθυρο που εμφανίζεται όταν πατάτε παρατεταμένα το πρόγραμμα προβολής.\n- Διορθώθηκαν ορισμένα σφάλματα λογικής OCR.\n- Αναθεωρήθηκε η λογική εξαγωγής κειμένου PDF."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "Er zijn schuifbalken toegevoegd aan de snelmenu's Mijn Bibliotheek, TTS-filter, Batchbewerking en Viewer.\nZoekfuncties zijn toegevoegd aan TTS-filter en Batchbewerking.\nDe hoeveelheid verworven punten is aangepast."
+    "devnote": "- Er is een zoekfunctie toegevoegd aan het pop-upvenster dat verschijnt wanneer u de viewer lang ingedrukt houdt.\n\n- Enkele bugs in de OCR-logica zijn verholpen.\n\n- De logica voor het extraheren van tekst uit PDF-bestanden is herzien."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "मेरो पुस्तकालय, TTS फिल्टर, ब्याच सम्पादन, र दर्शक सर्टकट मेनुहरूमा स्क्रोलबारहरू थपिएका छन्।\nखोज प्रकार्यहरू TTS फिल्टर र ब्याच सम्पादनमा थपिएका छन्।\nअंक प्राप्ति रकमहरू समायोजन गरिएको छ।"
+    "devnote": "- तपाईंले दर्शकलाई लामो समयसम्म थिच्दा देखा पर्ने पप-अपमा खोज प्रकार्य थपियो।\n- केही OCR तर्क बगहरू समाधान गरियो।\n- PDF पाठ निकासी तर्क परिमार्जन गरियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "Rullefelt er lagt til i snarveimenyene Mitt bibliotek, TTS-filter, Grupperedigering og Viser.\nSøkefunksjoner er lagt til i TTS-filter og Grupperedigering.\nAntall poenginnhentings er justert."
+    "devnote": "- La til en søkefunksjon i popup-vinduet som vises når du trykker lenge på visningsprogrammet.\n- Fikset noen feil i OCR-logikken.\n- Reviderte logikken for uttrekking av PDF-tekst."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "Der er tilføjet rullepaneler til genvejsmenuerne Mit bibliotek, TTS-filter, Batchredigering og Viewer.\n\nSøgefunktioner er tilføjet til TTS-filter og Batchredigering.\n\nMængden af ​​punktoptagelser er blevet justeret."
+    "devnote": "- Tilføjet en søgefunktion til den pop op-vindue, der vises, når du trykker længe på fremviseren.\n- Rettet nogle OCR-logikfejl.\n- Revideret logikken for udtrækning af PDF-tekst."
   },
   "독일어": {
     "key": "de",
-    "devnote": "Scrollleisten wurden den Kontextmenüs „Meine Bibliothek“, „TTS-Filter“, „Stapelbearbeitung“ und „Viewer“ hinzugefügt. Suchfunktionen wurden dem „TTS-Filter“ und der Stapelbearbeitung hinzugefügt. Die Anzahl der zu erwerbenden Punkte wurde angepasst."
+    "devnote": "– Dem Pop-up-Fenster, das beim längeren Drücken auf den Viewer erscheint, wurde eine Suchfunktion hinzugefügt.\n\n– Einige Fehler in der OCR-Logik wurden behoben.\n\n– Die Logik zur PDF-Textextraktion wurde überarbeitet."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "ແຖບເລື່ອນໄດ້ຖືກເພີ່ມໃສ່ຫ້ອງສະໝຸດຂອງຂ້ອຍ, ການກັ່ນຕອງ TTS, ແກ້ໄຂຊຸດ, ແລະເມນູທາງລັດຂອງຜູ້ຊົມ.\nຟັງຊັນຄົ້ນຫາໄດ້ຖືກເພີ່ມເຂົ້າໃນການກັ່ນຕອງ TTS ແລະແກ້ໄຂຊຸດ.\nຈຳນວນຈຸດທີ່ໄດ້ມາໄດ້ຖືກປັບ."
+    "devnote": "- ເພີ່ມຟັງຊັນຄົ້ນຫາໃສ່ປັອບອັບທີ່ປາກົດຂຶ້ນເມື່ອທ່ານກົດຄ້າງໄວ້ທີ່ໂປຣແກຣມເບິ່ງ.\n- ແກ້ໄຂຂໍ້ຜິດພາດບາງຢ່າງກ່ຽວກັບເຫດຜົນຂອງ OCR.\n- ປັບປຸງເຫດຜົນຂອງການສະກັດຂໍ້ຄວາມ PDF."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "Ritjoslas ir pievienotas īsinājumizvēlnēm “Mana bibliotēka”, “TTS filtrs”, “Pakešu rediģēšana” un “Skatītājs”.\nMeklēšanas funkcijas ir pievienotas “TTS filtrs” un “Pakešu rediģēšana”.\nIr pielāgots punktu iegūšanas apjoms."
+    "devnote": "- Pievienota meklēšanas funkcija uznirstošajam logam, kas parādās, ja ilgstoši nospiežat skatītāju.\n- Novērstas dažas OCR loģikas kļūdas.\n- Pārskatīta PDF teksta izvilkšanas loģika."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "В контекстные меню «Моя библиотека», «Фильтр TTS», «Пакетное редактирование» и «Просмотрщик» добавлены полосы прокрутки.\nВ «Фильтр TTS» и «Пакетное редактирование» добавлены функции поиска.\nСкорректировано количество получаемых баллов."
+    "devnote": "- Добавлена ​​функция поиска во всплывающее окно, появляющееся при длительном нажатии на окно просмотра.\n\n- Исправлены некоторые ошибки в логике распознавания текста.\n\n- Переработана логика извлечения текста из PDF-файлов."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "Barele de derulare au fost adăugate în meniurile rapide Biblioteca mea, Filtru TTS, Editare în lot și Vizualizator.\nFuncțiile de căutare au fost adăugate în Filtru TTS și Editare în lot.\nNumărul de puncte achiziționate a fost ajustat."
+    "devnote": "- Am adăugat o funcție de căutare la fereastra pop-up care apare atunci când apăsați lung pe vizualizator.\n\n- Am remediat unele erori ale logicii OCR.\n\n- Am revizuit logica de extragere a textului PDF."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "Slinkties juostos buvo pridėtos prie „Mano biblioteka“, „TTS filtras“, „Paketinis redagavimas“ ir „Peržiūros programa“ nuorodų meniu.\nPaieškos funkcijos buvo pridėtos prie „TTS filtras“ ir „Paketinis redagavimas“.\nPakoreguoti taškų gavimo kiekiai."
+    "devnote": "- Pridėta paieškos funkcija iššokančiajame lange, kuris pasirodo ilgai paspaudus peržiūros programą.\n- Ištaisytos kai kurios OCR logikos klaidos.\n- Peržiūrėta PDF teksto ištraukimo logika."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "माय लायब्ररी, टीटीएस फिल्टर, बॅच एडिट आणि व्ह्यूअर शॉर्टकट मेनूमध्ये स्क्रोलबार जोडले गेले आहेत.\nटीटीएस फिल्टर आणि बॅच एडिटमध्ये सर्च फंक्शन्स जोडले गेले आहेत.\nपॉइंट अ‍ॅक्विझिशन रक्कम समायोजित केली गेली आहे."
+    "devnote": "- व्ह्यूअरवर जास्त वेळ दाबल्यावर दिसणाऱ्या पॉप-अप विंडोमध्ये सर्च फंक्शन जोडले आहे.\n- काही ओसीआर लॉजिक बग्स दुरुस्त केले आहेत.\n- पीडीएफ टेक्स्ट एक्सट्रॅक्शन लॉजिकमध्ये सुधारणा केली आहे."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "Додадени се лизгачи во менијата за кратенки „Моја библиотека“, „TTS филтер“, „Групно уредување“ и „Прегледувач“.\nФункциите за пребарување се додадени во „TTS филтер“ и „Групно уредување“.\nКоличините на добивање поени се прилагодени."
+    "devnote": "- Додадена е функција за пребарување во скокачкиот прозорец што се појавува кога долго ќе го притиснете прегледувачот.\n- Поправени се некои грешки во логиката на OCR.\n- Ревидирана е логиката за извлекување на PDF текст."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "മൈ ലൈബ്രറി, ടിടിഎസ് ഫിൽറ്റർ, ബാച്ച് എഡിറ്റ്, വ്യൂവർ ഷോർട്ട്കട്ട് മെനുകളിലേക്ക് സ്ക്രോൾബാറുകൾ ചേർത്തിട്ടുണ്ട്.\n\nടിടിഎസ് ഫിൽറ്റർ, ബാച്ച് എഡിറ്റ് എന്നിവയിൽ തിരയൽ ഫംഗ്ഷനുകൾ ചേർത്തിട്ടുണ്ട്.\n\nപോയിന്റ് അക്വിസിഷൻ തുകകൾ ക്രമീകരിച്ചിട്ടുണ്ട്."
+    "devnote": "- വ്യൂവറിൽ ദീർഘനേരം അമർത്തുമ്പോൾ ദൃശ്യമാകുന്ന പോപ്പ്-അപ്പിൽ ഒരു തിരയൽ ഫംഗ്ഷൻ ചേർത്തു.\n- ചില OCR ലോജിക് ബഗുകൾ പരിഹരിച്ചു.\n- PDF ടെക്സ്റ്റ് എക്സ്ട്രാക്ഷൻ ലോജിക് പരിഷ്കരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "Bar skrol telah ditambahkan pada menu pintasan Pustaka Saya, Penapis TTS, Edit Kelompok dan Pemapar.\nFungsi carian telah ditambahkan pada Penapis TTS dan Edit Kelompok.\nJumlah perolehan mata telah diselaraskan."
+    "devnote": "- Menambah fungsi carian pada tetingkap timbul yang muncul apabila anda menekan lama paparan.\n- Memperbaiki beberapa pepijat logik OCR.\n- Menyemak semula logik pengekstrakan teks PDF."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "Миний номын сан, TTS шүүлтүүр, Багц засварлах, Үзэгч товчлолын цэсэнд гүйлгэх мөрүүдийг нэмсэн.\nХайлтын функцуудыг TTS шүүлтүүр болон багц засварт нэмсэн.\nОноо цуглуулах дүнг тохируулсан."
+    "devnote": "- Үзэгчийг удаан дарахад гарч ирэх попап цонхонд хайлтын функцийг нэмсэн.\n- OCR логикийн зарим алдааг зассан.\n- PDF текстийг гаргаж авах логикийг шинэчилсэн."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "Korritze-barrak gehitu dira Nire Liburutegia, TTS Iragazkia, Multzoka Editatu eta Ikuslea lasterbide-menuetan.\nBilaketa-funtzioak gehitu dira TTS Iragazkian eta Multzoka Editatuan.\nPuntu-eskuratze kopuruak egokitu dira."
+    "devnote": "- Bilaketa funtzio bat gehitu da ikusgailuan sakatuta agertzen den leihoari.\n\n- OCR logikaren akats batzuk konpondu dira.\n\n- PDF testua ateratzeko logika berrikusi da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "Scrollbars များကို My Library၊ TTS Filter၊ Batch Edit နှင့် Viewer shortcut menus များသို့ ပေါင်းထည့်ထားပါသည်။\nရှာဖွေမှုလုပ်ဆောင်ချက်များကို TTS Filter နှင့် Batch တည်းဖြတ်မှုတွင် ထည့်သွင်းထားသည်။\nပွိုင့်ဝယ်ယူမှုပမာဏကို ချိန်ညှိပြီးပါပြီ။"
+    "devnote": "- ကြည့်ရှုသူကို ကြာရှည်စွာ နှိပ်လိုက်သောအခါ ပေါ်လာသည့် pop-up တွင် ရှာဖွေရေး လုပ်ဆောင်ချက် ထည့်သွင်းထားသည်။\n- OCR logic bug အချို့ကို ပြင်ဆင်ပြီးဖြစ်သည်။\n- PDF စာသားထုတ်ယူခြင်း logic ကို ပြင်ဆင်ထားသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "Thanh cuộn đã được thêm vào menu tắt Thư viện của tôi, Bộ lọc TTS, Chỉnh sửa hàng loạt và Trình xem.\nChức năng tìm kiếm đã được thêm vào Bộ lọc TTS và Chỉnh sửa hàng loạt.\nSố lượng điểm thu thập đã được điều chỉnh."
+    "devnote": "- Thêm chức năng tìm kiếm vào cửa sổ bật lên khi bạn nhấn giữ trình xem.\n\n- Sửa một số lỗi logic nhận dạng ký tự quang học (OCR).\n\n- Cải tiến logic trích xuất văn bản PDF."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "Паласы пракруткі былі дададзены ў кантэкстныя меню «Мая бібліятэка», «Фільтр TTS», «Пакетнае рэдагаванне» і «Прагляд».\n\nФункцыі пошуку былі дададзены ў «Фільтр TTS» і «Пакетнае рэдагаванне».\n\nСкарэкціравана колькасць набраных балаў."
+    "devnote": "- Дададзена функцыя пошуку ў ўсплывальнае акно, якое з'яўляецца пры доўгім націсканні на праглядальнік.\n- Выпраўлены некаторыя памылкі логікі аптычнага распазнавання сімвалаў.\n- Перагледжана логіка здабывання тэксту з PDF."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "আমার লাইব্রেরি, টিটিএস ফিল্টার, ব্যাচ এডিট এবং ভিউয়ার শর্টকাট মেনুতে স্ক্রলবার যোগ করা হয়েছে।\n\nটিটিএস ফিল্টার এবং ব্যাচ এডিট-এ অনুসন্ধান ফাংশন যোগ করা হয়েছে।\n\nপয়েন্ট অর্জনের পরিমাণ সমন্বয় করা হয়েছে।"
+    "devnote": "- পপ-আপে একটি অনুসন্ধান ফাংশন যোগ করা হয়েছে যা ভিউয়ারটি দীর্ঘক্ষণ টিপলে প্রদর্শিত হয়।\n- কিছু OCR লজিক বাগ সংশোধন করা হয়েছে।\n- PDF টেক্সট এক্সট্রাকশন লজিক সংশোধিত হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "Добавени са ленти за превъртане към контекстните менюта „Моята библиотека“, „Филтър за синтез на реч“, „Пакетно редактиране“ и „Преглед“.\nДобавени са функции за търсене към „Филтър за синтез на реч“ и „Пакетно редактиране“.\nКоригирани са количествата придобити точки."
+    "devnote": "- Добавена е функция за търсене към изскачащия прозорец, който се появява при продължително натискане на визьор.\n- Поправени са някои грешки в OCR логиката.\n- Ревизирана е логиката за извличане на PDF текст."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "Траке за померање су додате у меније пречица Моја библиотека, Филтер за говор у тексту, Групно уређивање и Прегледач.\nФункције претраживања су додате у Филтер за говор у тексту и Групно уређивање.\nКоличина аквизиције поена је прилагођена."
+    "devnote": "- Додата је функција претраге у искачући прозор који се појављује када дуго притиснете прегледач.\n- Исправљене су неке грешке у OCR логици.\n- Ревидирана је логика издвајања PDF текста."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "Pau za kusogeza zimeongezwa kwenye menyu ya Maktaba Yangu, Kichujio cha TTS, Hariri Kundi, na menyu za njia za mkato za Kitazamaji.\nVitendaji vya utafutaji vimeongezwa kwenye Kichujio cha TTS na Kuhariri Kundi.\nKiasi cha kupata pointi kimerekebishwa."
+    "devnote": "- Imeongeza kitendakazi cha utafutaji kwenye dirisha ibukizi linaloonekana unapobonyeza kitazamaji kwa muda mrefu.\n- Imerekebisha hitilafu kadhaa za kimantiki za OCR.\n- Imerekebisha kimantiki cha kutoa maandishi ya PDF."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "Rullningslister har lagts till i genvägsmenyerna Mitt bibliotek, TTS-filter, Batchredigering och Visning.\nSökfunktioner har lagts till i TTS-filter och Batchredigering.\nMängden punktförvärv har justerats."
+    "devnote": "- Lade till en sökfunktion i popup-fönstret som visas när du trycker länge på visningsprogrammet.\n- Åtgärdade vissa OCR-logikfel.\n- Reviderade logiken för PDF-textextrahering."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "Se han añadido barras de desplazamiento a los menús contextuales de Mi biblioteca, Filtro de texto a voz, Edición por lotes y Visor.\n\nSe han añadido funciones de búsqueda al Filtro de texto a voz y a la Edición por lotes.\n\nSe han ajustado las cantidades de puntos adquiridos."
+    "devnote": "- Se añadió una función de búsqueda a la ventana emergente que aparece al mantener presionado el visor.\n- Se corrigieron algunos errores en la lógica de OCR.\n- Se revisó la lógica de extracción de texto en PDF."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "Do kontextových ponúk Moja knižnica, Filter TTS, Dávková úprava a Prehliadač boli pridané posuvníky.\nDo Filtra TTS a Dávkovej úpravy boli pridané funkcie vyhľadávania.\nBoli upravené počty získaných bodov."
+    "devnote": "- Do kontextového okna, ktoré sa zobrazí po dlhom stlačení prehliadača, bola pridaná funkcia vyhľadávania.\n- Opravené niektoré chyby v logike OCR.\n- Upravená logika extrakcie textu PDF."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "V priročne menije Moja knjižnica, Filter za besedilo v besedilu, Skupinsko urejanje in Pregledovalnik so bili dodani drsniki.\nV Filter za besedilo v besedilu in Skupinsko urejanje so bile dodane funkcije iskanja.\nPrilagojene so bile količine pridobivanja točk."
+    "devnote": "- V pojavno okno, ki se prikaže ob dolgem pritisku na pregledovalnik, je bila dodana funkcija iskanja.\n- Odpravljene so bile nekatere napake v logiki optičnega prepoznavanja znakov (OCR).\n- Spremenjena je bila logika ekstrakcije besedila v PDF-ju."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "මගේ පුස්තකාලය, TTS පෙරහන, කාණ්ඩ සංස්කරණය සහ නරඹන්නාගේ කෙටිමං මෙනු වලට අනුචලන තීරු එකතු කර ඇත.\n\nTTS පෙරහන සහ කාණ්ඩ සංස්කරණයට සෙවුම් කාර්යයන් එකතු කර ඇත.\n\nලක්ෂ්‍ය අත්පත් කර ගැනීමේ ප්‍රමාණයන් සකස් කර ඇත."
+    "devnote": "- ඔබ නරඹන්නා දිගු වේලාවක් ඔබන විට දිස්වන උත්පතනයට සෙවුම් ශ්‍රිතයක් එක් කරන ලදී.\n- සමහර OCR තර්ක දෝෂ නිවැරදි කරන ලදී.\n- PDF පෙළ නිස්සාරණ තර්කනය සංශෝධනය කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "أُضيفت أشرطة التمرير إلى قوائم الاختصارات \"مكتبتي\"، و\"فلتر تحويل النص إلى كلام\"، و\"التحرير الدفعي\"، و\"العارض\".\n\nأُضيفت وظائف البحث إلى \"فلتر تحويل النص إلى كلام\" و\"التحرير الدفعي\".\n\nعُدِّلت قيمة النقاط المكتسبة."
+    "devnote": "- أُضيفت خاصية البحث إلى النافذة المنبثقة التي تظهر عند الضغط المطوّل على نافذة العرض.\n\n- تم إصلاح بعض الأخطاء في منطق التعرف الضوئي على الحروف (OCR).\n\n- تم تعديل منطق استخراج النصوص من ملفات PDF."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "«Իմ գրադարան», «TTS ֆիլտր», «Խմբային խմբագրում» և «Դիտողի» կարճ ընտրացանկերում ավելացվել են սահող սանդղակներ։\n«TTS ֆիլտր» և «Խմբային խմբագրում» բաժիններում ավելացվել են որոնման գործառույթներ։\nՄիավորների ձեռքբերման քանակը ճշգրտվել է։"
+    "devnote": "- Ավելացվել է որոնման գործառույթ այն ելնող պատուհանում, որը հայտնվում է դիտման կոճակը երկար սեղմելիս։\n- Ուղղվել են OCR տրամաբանության որոշ սխալներ։\n- Վերանայվել է PDF տեքստի արդյունահանման տրամաբանությունը։"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "Skrunstika hefur verið bætt við flýtivalmyndirnar Mitt safn, TTS síu, hópbreytingu og skoðara.\nLeitarvirkni hefur verið bætt við TTS síu og hópbreytingu.\nFjöldi punkta hefur verið leiðréttur."
+    "devnote": "- Leitarmöguleiki bætt við sprettigluggann sem birtist þegar þú heldur inni leitarhnappinum.\n- Nokkrar villur í OCR-rökfræði lagfærðar.\n- Rökfræði fyrir útdrátt PDF-texta endurskoðuð."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "Sürüşdürmə çubuqları Kitabxanam, TTS Filtri, Toplu Redaktə və Baxıcı qısayol menyularına əlavə edilmişdir.\nAxtarış funksiyaları TTS Filtrinə və Toplu Redaktəyə əlavə edildi.\nXal toplama məbləğlərinə düzəlişlər edilib."
+    "devnote": "- İzləyicini uzun müddət basdığınız zaman görünən açılan pəncərəyə axtarış funksiyası əlavə edildi.\n- Bəzi OCR məntiqi səhvləri düzəldildi.\n- PDF mətn çıxarma məntiqi yenidən işləndi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "Rolbalke is bygevoeg by die My Biblioteek, TTS-filter, Groepwysiging en Kyker-kortpadkieslyste.\nSoekfunksies is bygevoeg by TTS-filter en Groepwysiging.\nPuntverkrygingshoeveelhede is aangepas."
+    "devnote": "- 'n Soekfunksie is bygevoeg tot die opspringvenster wat verskyn wanneer jy die kyker lank druk.\n- 'n Paar OCR-logikafoute is reggestel.\n- Die PDF-teksonttrekkinglogika is hersien."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "Shiritat e lëvizjes janë shtuar në menytë e shkurtra Biblioteka Ime, Filtri TTS, Redaktimi i Grumbullimit dhe Shikuesi.\nFunksionet e kërkimit janë shtuar në Filtrin TTS dhe Redaktimin e Grumbullimit.\nSasitë e marrjes së pikëve janë rregulluar."
+    "devnote": "- U shtua një funksion kërkimi në dritaren që shfaqet kur shtypni gjatë mbi shikuesin.\n- U rregulluan disa gabime në logjikën e OCR-së.\n- U rishikua logjika e nxjerrjes së tekstit PDF."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "የማሸብለያ አሞሌዎች ወደ የእኔ ቤተ-መጽሐፍት፣ TTS ማጣሪያ፣ ባች አርትዕ እና ተመልካች አቋራጭ ምናሌዎች ላይ ተጨምረዋል።\nየፍለጋ ተግባራት ወደ TTS ማጣሪያ እና ባች አርትዕ ታክለዋል።\nየነጥብ ማግኛ መጠኖች ተስተካክለዋል።"
+    "devnote": "- ተመልካቹን ለረጅም ጊዜ ሲጫኑ በሚታየው ብቅ-ባይ ላይ የፍለጋ ተግባር ተጨምሯል።\n- አንዳንድ የOCR ሎጂክ ስህተቶችን አስተካክለዋል።\n- የፒዲኤፍ ጽሑፍ ማውጣት ሎጂክን አሻሽሏል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "Kerimisribad on lisatud otseteemenüüdesse Minu teek, TTS-filter, Pakettredigeerimine ja Vaatur.\nOtsingufunktsioonid on lisatud TTS-filtrile ja Pakettredigeerimisele.\nPunktide hankimise hulmi on kohandatud."
+    "devnote": "- Vaaturi pikal vajutamisel ilmuvale hüpikaknale on lisatud otsingufunktsioon.\n- Parandatud mõned OCR-loogikavead.\n- PDF-teksti ekstraheerimise loogikat on muudetud."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "اسکرول بار کو مائی لائبریری، ٹی ٹی ایس فلٹر، بیچ ایڈیٹ، اور ویور شارٹ کٹ مینو میں شامل کیا گیا ہے۔\nٹی ٹی ایس فلٹر اور بیچ ایڈیٹ میں سرچ فنکشنز شامل کیے گئے ہیں۔\nپوائنٹ کے حصول کی رقم کو ایڈجسٹ کر دیا گیا ہے۔"
+    "devnote": "- پاپ اپ میں ایک سرچ فنکشن شامل کیا گیا جو ظاہر ہوتا ہے جب آپ ناظرین کو دیر تک دبائیں گے۔\n- کچھ OCR منطق کیڑے طے کیے۔\n- پی ڈی ایف ٹیکسٹ نکالنے کی منطق پر نظر ثانی کی گئی۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "До контекстних меню «Моя бібліотека», «Фільтр синтезу мовлення», «Пакетне редагування» та «Переглядач» додано смуги прокручування.\nДо «Фільтра синтезу мовлення» та «Пакетного редагування» додано функції пошуку.\nСкориговано кількість точок отримання."
+    "devnote": "- Додано функцію пошуку до спливаючого вікна, яке з'являється при довгому натисканні на програму переглядача.\n- Виправлено деякі помилки логіки оптичного розпізнавання символів (OCR).\n- Переглянуто логіку вилучення тексту з PDF."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "Sono state aggiunte barre di scorrimento ai menu di scelta rapida \"La mia libreria\", \"Filtro TTS\", \"Modifica batch\" e \"Visualizzatore\".\nSono state aggiunte funzioni di ricerca a \"Filtro TTS\" e \"Modifica batch\".\nSono stati modificati i valori di acquisizione dei punti."
+    "devnote": "- Aggiunta una funzione di ricerca al pop-up che appare tenendo premuto a lungo il visualizzatore.\n- Corretti alcuni bug nella logica OCR.\n- Revisionata la logica di estrazione del testo PDF."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "Bilah gulir telah ditambahkan ke menu pintasan Perpustakaan Saya, Filter TTS, Edit Batch, dan Penampil.\nFungsi pencarian telah ditambahkan ke Filter TTS dan Edit Batch.\nJumlah perolehan poin telah disesuaikan."
+    "devnote": "- Menambahkan fungsi pencarian ke jendela pop-up yang muncul saat Anda menekan lama penampil.\n\n- Memperbaiki beberapa bug logika OCR.\n\n- Merevisi logika ekstraksi teks PDF."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "マイライブラリ、TTSフィルター、一括編集、ビューアのショートカットメニューにスクロールバーが追加されました。\nTTSフィルターと一括編集に検索機能が追加されました。\nポイント獲得量を調整しました。"
+    "devnote": "- ビューアを長押ししたときに表示されるポップアップに検索機能を追加しました。\n- OCRロジックのバグをいくつか修正しました。\n- PDFテキスト抽出ロジックを改訂しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "გადახვევის ზოლები დაემატა „ჩემი ბიბლიოთეკის“, „TTS ფილტრის“, „ჯგუფური რედაქტირების“ და „მნახველის“ მალსახმობების მენიუებს.\nძიების ფუნქციები დაემატა „TTS ფილტრს“ და „ჯგუფურ რედაქტირებას“.\nქულების მოპოვების რაოდენობა დაკორექტირდა."
+    "devnote": "- დაემატა ძიების ფუნქცია ამომხტარ ფანჯარაში, რომელიც გამოჩნდება მაყურებელზე ხანგრძლივი დაჭერისას.\n- გამოსწორდა OCR ლოგიკის ზოგიერთი შეცდომა.\n- გადამუშავდა PDF ტექსტის ამოღების ლოგიკა."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "Amabha wokuskrola engeziwe kuMtapo Wami, Isihlungi se-TTS, Hlela iqoqo, kanye namamenyu ezinqamuleli zokubuka.\nImisebenzi yosesho yengezwe kusihlungi se-TTS kanye ne-Batch Edit.\nAmanani okutholwa kwamaphoyinti alungisiwe."
+    "devnote": "- Kungezwe umsebenzi wokusesha ku-pop-up ebonakala uma ucindezela isikhathi eside umbukeli.\n- Kulungiswe ezinye iziphazamiso ze-logic ze-OCR.\n- Kubuyekezwe i-logic yokukhipha umbhalo we-PDF."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "“我的库”、“TTS 筛选器”、“批量编辑”和“查看器”快捷菜单中已添加滚动条。\n\n“TTS 筛选器”和“批量编辑”菜单中已添加搜索功能。\n\n点数获取量已调整。"
+    "devnote": "- 在长按查看器弹出的窗口中添加了搜索功能。\n\n- 修复了一些 OCR 逻辑错误。\n\n- 修改了 PDF 文本提取逻辑。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "在「我的庫」、「TTS 篩選器」、「批次編輯」和「檢視器」快速選單中已新增捲軸。\n\n在“TTS 篩選器”和“批次編輯”選單中已新增搜尋功能。\n\n點數獲取量已調整。"
+    "devnote": "- 在長按檢視器彈出的視窗中新增了搜尋功能。\n\n- 修正了一些 OCR 邏輯錯誤。\n\n- 修改了 PDF 文字擷取邏輯。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "在「我的庫」、「TTS 篩選器」、「批次編輯」和「檢視器」快速選單中已新增捲軸。\n\n在“TTS 篩選器”和“批次編輯”選單中已新增搜尋功能。\n\n點數獲取量已調整。"
+    "devnote": "- 在長按檢視器彈出的視窗中新增了搜尋功能。\n\n- 修正了一些 OCR 邏輯錯誤。\n\n- 修改了 PDF 文字擷取邏輯。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "Do kontextových nabídek Moje knihovna, Filtr TTS, Dávková úprava a Prohlížeč byly přidány posuvníky.\nDo Filtru TTS a Dávkové úpravy byly přidány vyhledávací funkce.\nBylo upraveno množství bodů, které byly získány."
+    "devnote": "- Do vyskakovacího okna, které se zobrazí po dlouhém stisknutí prohlížeče, byla přidána funkce vyhledávání.\n- Opraveny některé chyby v logice OCR.\n- Upravena logika extrakce textu PDF."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "Менің кітапханам, TTS сүзгісі, Пакеттік өңдеу және Қарау құралының таңбаша мәзірлеріне айналдыру жолақтары қосылды.\nІздеу функциялары TTS сүзгісіне және пакеттік өңдеуге қосылды.\nҰпайларды алу сомасы түзетілді."
+    "devnote": "- Көру құралын ұзақ басқан кезде пайда болатын қалқымалы терезеге іздеу функциясы қосылды.\n- OCR логикасының кейбір қателері түзетілді.\n- PDF мәтінін алу логикасы қайта қаралды."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "S'han afegit barres de desplaçament als menús contextuals La meva biblioteca, Filtre TTS, Edició per lots i Visualitzador.\nS'han afegit funcions de cerca al Filtre TTS i a l'Edició per lots.\nS'han ajustat les quantitats d'adquisició de punts."
+    "devnote": "- S'ha afegit una funció de cerca a la finestra emergent que apareix quan es manté premut el visor.\n- S'han corregit alguns errors de la lògica OCR.\n- S'ha revisat la lògica d'extracció de text dels PDF."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "ನನ್ನ ಲೈಬ್ರರಿ, ಟಿಟಿಎಸ್ ಫಿಲ್ಟರ್, ಬ್ಯಾಚ್ ಎಡಿಟ್ ಮತ್ತು ವೀಕ್ಷಕ ಶಾರ್ಟ್‌ಕಟ್ ಮೆನುಗಳಿಗೆ ಸ್ಕ್ರಾಲ್‌ಬಾರ್‌ಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n\nಟಿಟಿಎಸ್ ಫಿಲ್ಟರ್ ಮತ್ತು ಬ್ಯಾಚ್ ಎಡಿಟ್‌ಗೆ ಹುಡುಕಾಟ ಕಾರ್ಯಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n\nಪಾಯಿಂಟ್ ಸ್ವಾಧೀನ ಮೊತ್ತವನ್ನು ಸರಿಹೊಂದಿಸಲಾಗಿದೆ."
+    "devnote": "- ನೀವು ವೀಕ್ಷಕವನ್ನು ದೀರ್ಘವಾಗಿ ಒತ್ತಿದಾಗ ಕಾಣಿಸಿಕೊಳ್ಳುವ ಪಾಪ್-ಅಪ್‌ಗೆ ಹುಡುಕಾಟ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಕೆಲವು OCR ತರ್ಕ ದೋಷಗಳನ್ನು ಸರಿಪಡಿಸಲಾಗಿದೆ.\n- PDF ಪಠ್ಯ ಹೊರತೆಗೆಯುವ ತರ್ಕವನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "Trake za pomicanje dodane su u izbornike prečaca Moja knjižnica, TTS filtar, Skupno uređivanje i Preglednik.\nFunkcije pretraživanja dodane su u TTS filtar i Skupno uređivanje.\nPrilagođene su količine akvizicije bodova."
+    "devnote": "- Dodana je funkcija pretraživanja u skočni prozor koji se pojavljuje kada dugo pritisnete preglednik.\n- Ispravljene su neke greške u OCR logici.\n- Revidirana je logika izdvajanja PDF teksta."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "របាររមូរត្រូវបានបន្ថែមទៅបណ្ណាល័យរបស់ខ្ញុំ តម្រង TTS ការកែសម្រួលជាបាច់ និងម៉ឺនុយផ្លូវកាត់អ្នកមើល។\nមុខងារស្វែងរកត្រូវបានបន្ថែមទៅ TTS Filter និង Batch Edit។\nចំនួនទឹកប្រាក់នៃការទទួលបានពិន្ទុត្រូវបានកែតម្រូវ។"
+    "devnote": "- បានបន្ថែមមុខងារស្វែងរកទៅក្នុងបង្អួចលេចឡើងដែលលេចឡើងនៅពេលអ្នកចុចឱ្យជាប់លើកម្មវិធីមើល។\n- ជួសជុលកំហុសតក្កវិជ្ជា OCR មួយចំនួន។\n- កែសម្រួលតក្កវិជ្ជាទាញយកអត្ថបទ PDF។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "Жылдыруу тилкелери Менин китепканам, TTS чыпкасы, пакеттик түзөтүү жана көрүүчүнүн жарлык менюларына кошулду.\nИздөө функциялары TTS чыпкасына жана пакеттик түзөтүүгө кошулду.\nУпайларды алуу суммалары оңдолду."
+    "devnote": "- Көрүүчүнү көпкө басканда пайда болгон калкып чыгуучу терезеге издөө функциясы кошулду.\n- OCR логикасындагы айрым каталар оңдолду.\n- PDF текстин бөлүп алуу логикасы кайра каралды."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "எனது நூலகம், TTS வடிகட்டி, தொகுதித் திருத்தம் மற்றும் பார்வையாளர் குறுக்குவழி மெனுக்களில் உருள்பட்டிகள் சேர்க்கப்பட்டுள்ளன.\n\nTTS வடிகட்டி மற்றும் தொகுதித் திருத்தத்தில் தேடல் செயல்பாடுகள் சேர்க்கப்பட்டுள்ளன.\n\nபுள்ளி கையகப்படுத்தல் தொகைகள் சரிசெய்யப்பட்டுள்ளன."
+    "devnote": "- பார்வையாளரை நீண்ட நேரம் அழுத்தும்போது தோன்றும் பாப்-அப்பில் ஒரு தேடல் செயல்பாடு சேர்க்கப்பட்டது.\n- சில OCR லாஜிக் பிழைகள் சரி செய்யப்பட்டன.\n- PDF உரை பிரித்தெடுக்கும் லாஜிக் திருத்தப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "เพิ่มแถบเลื่อนในเมนูลัด \"คลังของฉัน\", \"ตัวกรอง TTS\", \"การแก้ไขแบบกลุ่ม\" และ \"ตัวแสดง\"\nเพิ่มฟังก์ชันการค้นหาใน \"ตัวกรอง TTS\" และ \"การแก้ไขแบบกลุ่ม\"\nปรับจำนวนแต้มที่ได้รับ"
+    "devnote": "- เพิ่มฟังก์ชันการค้นหาในหน้าต่างป๊อปอัพที่ปรากฏขึ้นเมื่อกดค้างที่โปรแกรมดูเอกสาร\n\n- แก้ไขข้อผิดพลาดบางอย่างในตรรกะ OCR\n- ปรับปรุงตรรกะการดึงข้อความจากไฟล์ PDF"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "Kütüphanem, TTS Filtresi, Toplu Düzenleme ve Görüntüleyici kısayol menülerine kaydırma çubukları eklendi.\nTTS Filtresi ve Toplu Düzenleme'ye arama işlevleri eklendi.\nPuan toplama miktarları ayarlandı."
+    "devnote": "- Görüntüleyiciye uzun basıldığında açılan açılır pencereye arama işlevi eklendi.\n\n- Bazı OCR mantık hataları düzeltildi.\n\n- PDF metin çıkarma mantığı gözden geçirildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "నా లైబ్రరీ, TTS ఫిల్టర్, బ్యాచ్ ఎడిట్ మరియు వ్యూయర్ షార్ట్‌కట్ మెనూలకు స్క్రోల్‌బార్‌లు జోడించబడ్డాయి.\n\nTTS ఫిల్టర్ మరియు బ్యాచ్ ఎడిట్‌కు శోధన విధులు జోడించబడ్డాయి.\n\nపాయింట్ అక్విజిషన్ మొత్తాలు సర్దుబాటు చేయబడ్డాయి."
+    "devnote": "- మీరు వ్యూయర్‌ని ఎక్కువసేపు నొక్కినప్పుడు కనిపించే పాప్-అప్‌కి శోధన ఫంక్షన్ జోడించబడింది.\n- కొన్ని OCR లాజిక్ బగ్‌లు పరిష్కరించబడ్డాయి.\n- PDF టెక్స్ట్ ఎక్స్‌ట్రాక్షన్ లాజిక్‌ను సవరించారు."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "ਸਕ੍ਰੌਲਬਾਰ ਨੂੰ ਮਾਈ ਲਾਇਬ੍ਰੇਰੀ, ਟੀਟੀਐਸ ਫਿਲਟਰ, ਬੈਚ ਐਡਿਟ, ਅਤੇ ਵਿਊਅਰ ਸ਼ਾਰਟਕੱਟ ਮੀਨੂ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ ਹੈ।\nਖੋਜ ਫੰਕਸ਼ਨ ਟੀਟੀਐਸ ਫਿਲਟਰ ਅਤੇ ਬੈਚ ਐਡਿਟ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤੇ ਗਏ ਹਨ।\nਪੁਆਇੰਟ ਪ੍ਰਾਪਤੀ ਰਕਮਾਂ ਨੂੰ ਐਡਜਸਟ ਕੀਤਾ ਗਿਆ ਹੈ।"
+    "devnote": "- ਪੌਪ-ਅੱਪ ਵਿੱਚ ਇੱਕ ਖੋਜ ਫੰਕਸ਼ਨ ਜੋੜਿਆ ਗਿਆ ਹੈ ਜੋ ਉਦੋਂ ਦਿਖਾਈ ਦਿੰਦਾ ਹੈ ਜਦੋਂ ਤੁਸੀਂ ਦਰਸ਼ਕ ਨੂੰ ਦੇਰ ਤੱਕ ਦਬਾਉਂਦੇ ਹੋ।\n- ਕੁਝ OCR ਲਾਜਿਕ ਬੱਗ ਠੀਕ ਕੀਤੇ ਗਏ ਹਨ।\n- PDF ਟੈਕਸਟ ਐਕਸਟਰੈਕਸ਼ਨ ਲਾਜਿਕ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "نوارهای پیمایش به منوی میانبرهای کتابخانه من، فیلتر TTS، ویرایش دسته‌ای و نمایشگر اضافه شده‌اند.\n\nعملکردهای جستجو به فیلتر TTS و ویرایش دسته‌ای اضافه شده‌اند.\n\nمقادیر کسب امتیاز تنظیم شده‌اند."
+    "devnote": "- یک تابع جستجو به پنجره‌ی پاپ‌آپ اضافه شد که با لمس طولانی نمایشگر ظاهر می‌شود.\n- برخی از اشکالات منطقی OCR برطرف شد.\n- منطق استخراج متن PDF اصلاح شد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "Foram adicionadas barras de rolagem aos menus de atalho Minha Biblioteca, Filtro de TTS, Edição em Lote e Visualizador.\n\nForam adicionadas funções de busca ao Filtro de TTS e à Edição em Lote.\n\nOs valores de aquisição de pontos foram ajustados."
+    "devnote": "- Adicionada uma função de busca à janela pop-up que aparece ao pressionar e segurar o visualizador.\n- Corrigidos alguns erros na lógica de OCR.\n- Revisada a lógica de extração de texto em PDF."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "Dodano paski przewijania do menu skrótów Moja biblioteka, Filtr TTS, Edycja wsadowa i Przeglądarka.\nDodano funkcje wyszukiwania do Filtr TTS i Edycja wsadowa.\nDostosowano wartości punktów."
+    "devnote": "- Dodano funkcję wyszukiwania do wyskakującego okienka, które pojawia się po długim naciśnięciu przeglądarki.\n- Naprawiono kilka błędów logiki OCR.\n- Zmieniono logikę wyodrębniania tekstu z pliku PDF."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "Des barres de défilement ont été ajoutées aux menus contextuels de Ma bibliothèque, du filtre TTS, de l'édition par lots et de la visionneuse.\n\nDes fonctions de recherche ont été ajoutées au filtre TTS et à l'édition par lots.\n\nLes valeurs d'acquisition des points ont été ajustées."
+    "devnote": "- Ajout d'une fonction de recherche à la fenêtre contextuelle qui s'affiche lors d'un appui long sur la visionneuse.\n\n- Correction de certains bugs liés à la reconnaissance optique de caractères (OCR).\n\n- Révision de la logique d'extraction de texte des PDF."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "Vierityspalkit on lisätty Oma kirjasto -, TTS-suodatin-, Erämuokkaus- ja Katseluohjelma-pikavalikoihin.\nHakutoiminnot on lisätty TTS-suodattimeen ja Erämuokkaus-valikkoon.\nPisteiden hankintamääriä on muutettu."
+    "devnote": "- Lisätty hakutoiminto ponnahdusikkunaan, joka tulee näkyviin, kun painat pitkään katseluohjelmaa.\n\n- Korjattu joitakin OCR-logiikan virheitä.\n\n- PDF-tekstin poiminnan logiikkaa tarkistettu."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "Naidagdag ang mga scrollbar sa My Library, TTS Filter, Batch Edit, at Viewer shortcut menu.\nAng mga function ng paghahanap ay naidagdag sa TTS Filter at Batch Edit.\nAng mga halaga ng pagkuha ng puntos ay naayos na."
+    "devnote": "- Nagdagdag ng search function sa pop-up na lumalabas kapag pinindot mo nang matagal ang viewer.\n- Inayos ang ilang bug sa OCR logic.\n- Binago ang PDF text extraction logic."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "Görgetősávok kerültek a Saját könyvtár, TTS szűrő, Kötegelt szerkesztés és Megjelenítő helyi menükbe.\n\nKeresési funkciók kerültek a TTS szűrőhöz és a Kötegelt szerkesztéshez.\nA pontgyűjtési mennyiségek módosultak."
+    "devnote": "- Hozzáadtunk egy keresési funkciót a felugró ablakhoz, amely a megtekintő hosszan történő lenyomása esetén jelenik meg.\n\n- Kijavítottunk néhány OCR logikai hibát.\n\n- Felülvizsgáltuk a PDF szövegkiemelési logikáját."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "סרגלי גלילה נוספו לתפריטי הקיצור של הספרייה שלי, מסנן TTS, עריכה קבוצתית ומציג.\nפונקציות חיפוש נוספו למסנן TTS ולעריכה קבוצתית.\nכמויות רכישת נקודות הותאמו."
+    "devnote": "- נוספה פונקציית חיפוש לחלון הקופץ שמופיע בעת לחיצה ארוכה על המציג.\n- תוקנו כמה באגים בלוגיקת OCR.\n- תוקן לוגיקת חילוץ טקסט ב-PDF."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "मेरी लाइब्रेरी, टीटीएस फ़िल्टर, बैच एडिट और व्यूअर शॉर्टकट मेनू में स्क्रॉलबार जोड़े गए हैं।\nटीटीएस फ़िल्टर और बैच एडिट में खोज फ़ंक्शन जोड़े गए हैं।\nपॉइंट प्राप्ति राशि को समायोजित किया गया है।"
+    "devnote": "- व्यूअर को देर तक दबाने पर दिखाई देने वाले पॉप-अप में सर्च फ़ंक्शन जोड़ा गया है।\n\n- OCR लॉजिक से संबंधित कुछ बग ठीक किए गए हैं।\n\n- PDF टेक्स्ट एक्सट्रैक्शन लॉजिक में संशोधन किया गया है।"
   }
 }
