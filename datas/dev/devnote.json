@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "- Added a search function to the pop-up that appears when you long-press the viewer.\n- Fixed some OCR logic bugs.\n- Revised the PDF text extraction logic."
+    "devnote": "Fixed a bug where the next file would not open automatically on the last page."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "- 뷰어를 길게 눌러 나오는 팝업에 검색 기능을 추가하였습니다.\n- ocr 로직 버그를 일부 수정하였습니다. \n- PDF 텍스트 추출 로직을 수정 하였습니다."
+    "devnote": "끝페이지에서 다음 파일이 자동으로 열리지 않던 버그를 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "- Engadiuse unha función de busca á xanela emerxente que aparece ao premer de xeito prolongado o visor.\n\nCorrixiuse algúns erros da lóxica OCR.\n\nRevisouse a lóxica de extracción de texto en PDF."
+    "devnote": "Corrixiuse un erro que impedía que o seguinte ficheiro non se abrise automaticamente na última páxina."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "- પોપ-અપમાં એક શોધ ફંક્શન ઉમેર્યું જે વ્યૂઅરને લાંબા સમય સુધી દબાવવાથી દેખાય છે.\n- કેટલીક OCR લોજિક ભૂલો સુધારી.\n- PDF ટેક્સ્ટ એક્સટ્રેક્શન લોજિક સુધારેલ."
+    "devnote": "છેલ્લા પાના પર આગલી ફાઇલ આપમેળે ન ખુલે તેવી બગ સુધારી."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "- Προστέθηκε μια λειτουργία αναζήτησης στο αναδυόμενο παράθυρο που εμφανίζεται όταν πατάτε παρατεταμένα το πρόγραμμα προβολής.\n- Διορθώθηκαν ορισμένα σφάλματα λογικής OCR.\n- Αναθεωρήθηκε η λογική εξαγωγής κειμένου PDF."
+    "devnote": "Διορθώθηκε ένα σφάλμα όπου το επόμενο αρχείο δεν άνοιγε αυτόματα στην τελευταία σελίδα."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "- Er is een zoekfunctie toegevoegd aan het pop-upvenster dat verschijnt wanneer u de viewer lang ingedrukt houdt.\n\n- Enkele bugs in de OCR-logica zijn verholpen.\n\n- De logica voor het extraheren van tekst uit PDF-bestanden is herzien."
+    "devnote": "Er is een bug verholpen waardoor het volgende bestand niet automatisch op de laatste pagina werd geopend."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "- तपाईंले दर्शकलाई लामो समयसम्म थिच्दा देखा पर्ने पप-अपमा खोज प्रकार्य थपियो।\n- केही OCR तर्क बगहरू समाधान गरियो।\n- PDF पाठ निकासी तर्क परिमार्जन गरियो।"
+    "devnote": "अन्तिम पृष्ठमा अर्को फाइल स्वतः नखुल्ने बग समाधान गरियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "- La til en søkefunksjon i popup-vinduet som vises når du trykker lenge på visningsprogrammet.\n- Fikset noen feil i OCR-logikken.\n- Reviderte logikken for uttrekking av PDF-tekst."
+    "devnote": "Fikset en feil der neste fil ikke åpnet seg automatisk på siste side."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "- Tilføjet en søgefunktion til den pop op-vindue, der vises, når du trykker længe på fremviseren.\n- Rettet nogle OCR-logikfejl.\n- Revideret logikken for udtrækning af PDF-tekst."
+    "devnote": "Rettede en fejl, hvor den næste fil ikke åbnede automatisk på den sidste side."
   },
   "독일어": {
     "key": "de",
-    "devnote": "– Dem Pop-up-Fenster, das beim längeren Drücken auf den Viewer erscheint, wurde eine Suchfunktion hinzugefügt.\n\n– Einige Fehler in der OCR-Logik wurden behoben.\n\n– Die Logik zur PDF-Textextraktion wurde überarbeitet."
+    "devnote": "Es wurde ein Fehler behoben, der dazu führte, dass die nächste Datei auf der letzten Seite nicht automatisch geöffnet wurde."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "- ເພີ່ມຟັງຊັນຄົ້ນຫາໃສ່ປັອບອັບທີ່ປາກົດຂຶ້ນເມື່ອທ່ານກົດຄ້າງໄວ້ທີ່ໂປຣແກຣມເບິ່ງ.\n- ແກ້ໄຂຂໍ້ຜິດພາດບາງຢ່າງກ່ຽວກັບເຫດຜົນຂອງ OCR.\n- ປັບປຸງເຫດຜົນຂອງການສະກັດຂໍ້ຄວາມ PDF."
+    "devnote": "ແກ້ໄຂຂໍ້ຜິດພາດທີ່ໄຟລ໌ຕໍ່ໄປບໍ່ເປີດໂດຍອັດຕະໂນມັດໃນໜ້າສຸດທ້າຍ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "- Pievienota meklēšanas funkcija uznirstošajam logam, kas parādās, ja ilgstoši nospiežat skatītāju.\n- Novērstas dažas OCR loģikas kļūdas.\n- Pārskatīta PDF teksta izvilkšanas loģika."
+    "devnote": "Novērsta kļūda, kuras dēļ nākamais fails netika automātiski atvērts pēdējā lapā."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "- Добавлена ​​функция поиска во всплывающее окно, появляющееся при длительном нажатии на окно просмотра.\n\n- Исправлены некоторые ошибки в логике распознавания текста.\n\n- Переработана логика извлечения текста из PDF-файлов."
+    "devnote": "Исправлена ​​ошибка, из-за которой следующий файл не открывался автоматически на последней странице."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "- Am adăugat o funcție de căutare la fereastra pop-up care apare atunci când apăsați lung pe vizualizator.\n\n- Am remediat unele erori ale logicii OCR.\n\n- Am revizuit logica de extragere a textului PDF."
+    "devnote": "S-a remediat o eroare din cauza căreia următorul fișier nu se deschidea automat pe ultima pagină."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "- Pridėta paieškos funkcija iššokančiajame lange, kuris pasirodo ilgai paspaudus peržiūros programą.\n- Ištaisytos kai kurios OCR logikos klaidos.\n- Peržiūrėta PDF teksto ištraukimo logika."
+    "devnote": "Ištaisyta klaida, dėl kurios kitas failas neatsidarydavo automatiškai paskutiniame puslapyje."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "- व्ह्यूअरवर जास्त वेळ दाबल्यावर दिसणाऱ्या पॉप-अप विंडोमध्ये सर्च फंक्शन जोडले आहे.\n- काही ओसीआर लॉजिक बग्स दुरुस्त केले आहेत.\n- पीडीएफ टेक्स्ट एक्सट्रॅक्शन लॉजिकमध्ये सुधारणा केली आहे."
+    "devnote": "शेवटच्या पानावर पुढची फाइल आपोआप उघडणार नाही अशा बगचे निराकरण केले."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "- Додадена е функција за пребарување во скокачкиот прозорец што се појавува кога долго ќе го притиснете прегледувачот.\n- Поправени се некои грешки во логиката на OCR.\n- Ревидирана е логиката за извлекување на PDF текст."
+    "devnote": "Исправена е грешка поради која следната датотека не се отвораше автоматски на последната страница."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "- വ്യൂവറിൽ ദീർഘനേരം അമർത്തുമ്പോൾ ദൃശ്യമാകുന്ന പോപ്പ്-അപ്പിൽ ഒരു തിരയൽ ഫംഗ്ഷൻ ചേർത്തു.\n- ചില OCR ലോജിക് ബഗുകൾ പരിഹരിച്ചു.\n- PDF ടെക്സ്റ്റ് എക്സ്ട്രാക്ഷൻ ലോജിക് പരിഷ്കരിച്ചു."
+    "devnote": "അടുത്ത ഫയൽ അവസാന പേജിൽ യാന്ത്രികമായി തുറക്കാത്ത ഒരു ബഗ് പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "- Menambah fungsi carian pada tetingkap timbul yang muncul apabila anda menekan lama paparan.\n- Memperbaiki beberapa pepijat logik OCR.\n- Menyemak semula logik pengekstrakan teks PDF."
+    "devnote": "Telah membetulkan pepijat di mana fail seterusnya tidak dapat dibuka secara automatik pada halaman terakhir."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "- Үзэгчийг удаан дарахад гарч ирэх попап цонхонд хайлтын функцийг нэмсэн.\n- OCR логикийн зарим алдааг зассан.\n- PDF текстийг гаргаж авах логикийг шинэчилсэн."
+    "devnote": "Дараагийн файл сүүлийн хуудсан дээр автоматаар нээгдэхгүй байсан алдааг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "- Bilaketa funtzio bat gehitu da ikusgailuan sakatuta agertzen den leihoari.\n\n- OCR logikaren akats batzuk konpondu dira.\n\n- PDF testua ateratzeko logika berrikusi da."
+    "devnote": "Hurrengo fitxategia azken orrialdean automatikoki irekitzen ez zen akatsa konpondu da."
   },
   "버마어": {
     "key": "my",
-    "devnote": "- ကြည့်ရှုသူကို ကြာရှည်စွာ နှိပ်လိုက်သောအခါ ပေါ်လာသည့် pop-up တွင် ရှာဖွေရေး လုပ်ဆောင်ချက် ထည့်သွင်းထားသည်။\n- OCR logic bug အချို့ကို ပြင်ဆင်ပြီးဖြစ်သည်။\n- PDF စာသားထုတ်ယူခြင်း logic ကို ပြင်ဆင်ထားသည်။"
+    "devnote": "နောက်ဆုံးစာမျက်နှာတွင် နောက်ဖိုင်ကို အလိုအလျောက်မဖွင့်သည့် ချို့ယွင်းချက်ကို ပြင်ဆင်ပြီးပါပြီ။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "- Thêm chức năng tìm kiếm vào cửa sổ bật lên khi bạn nhấn giữ trình xem.\n\n- Sửa một số lỗi logic nhận dạng ký tự quang học (OCR).\n\n- Cải tiến logic trích xuất văn bản PDF."
+    "devnote": "Đã sửa lỗi khiến tập tin tiếp theo không tự động mở ở trang cuối cùng."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "- Дададзена функцыя пошуку ў ўсплывальнае акно, якое з'яўляецца пры доўгім націсканні на праглядальнік.\n- Выпраўлены некаторыя памылкі логікі аптычнага распазнавання сімвалаў.\n- Перагледжана логіка здабывання тэксту з PDF."
+    "devnote": "Выпраўлена памылка, з-за якой наступны файл не адкрываўся аўтаматычна на апошняй старонцы."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "- পপ-আপে একটি অনুসন্ধান ফাংশন যোগ করা হয়েছে যা ভিউয়ারটি দীর্ঘক্ষণ টিপলে প্রদর্শিত হয়।\n- কিছু OCR লজিক বাগ সংশোধন করা হয়েছে।\n- PDF টেক্সট এক্সট্রাকশন লজিক সংশোধিত হয়েছে।"
+    "devnote": "একটি বাগ ঠিক করা হয়েছে যেখানে পরবর্তী ফাইলটি শেষ পৃষ্ঠায় স্বয়ংক্রিয়ভাবে খুলবে না।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "- Добавена е функция за търсене към изскачащия прозорец, който се появява при продължително натискане на визьор.\n- Поправени са някои грешки в OCR логиката.\n- Ревизирана е логиката за извличане на PDF текст."
+    "devnote": "Отстранена е грешка, при която следващият файл не се отваряше автоматично на последната страница."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "- Додата је функција претраге у искачући прозор који се појављује када дуго притиснете прегледач.\n- Исправљене су неке грешке у OCR логици.\n- Ревидирана је логика издвајања PDF текста."
+    "devnote": "Исправљена је грешка где се следећа датотека није аутоматски отварала на последњој страници."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "- Imeongeza kitendakazi cha utafutaji kwenye dirisha ibukizi linaloonekana unapobonyeza kitazamaji kwa muda mrefu.\n- Imerekebisha hitilafu kadhaa za kimantiki za OCR.\n- Imerekebisha kimantiki cha kutoa maandishi ya PDF."
+    "devnote": "Imerekebisha hitilafu ambapo faili inayofuata haingefunguka kiotomatiki kwenye ukurasa wa mwisho."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "- Lade till en sökfunktion i popup-fönstret som visas när du trycker länge på visningsprogrammet.\n- Åtgärdade vissa OCR-logikfel.\n- Reviderade logiken för PDF-textextrahering."
+    "devnote": "Åtgärdade ett fel som gjorde att nästa fil inte öppnades automatiskt på sista sidan."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "- Se añadió una función de búsqueda a la ventana emergente que aparece al mantener presionado el visor.\n- Se corrigieron algunos errores en la lógica de OCR.\n- Se revisó la lógica de extracción de texto en PDF."
+    "devnote": "Se corrigió un error por el cual el siguiente archivo no se abría automáticamente en la última página."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "- Do kontextového okna, ktoré sa zobrazí po dlhom stlačení prehliadača, bola pridaná funkcia vyhľadávania.\n- Opravené niektoré chyby v logike OCR.\n- Upravená logika extrakcie textu PDF."
+    "devnote": "Opravená chyba, kvôli ktorej sa ďalší súbor neotváral automaticky na poslednej strane."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "- V pojavno okno, ki se prikaže ob dolgem pritisku na pregledovalnik, je bila dodana funkcija iskanja.\n- Odpravljene so bile nekatere napake v logiki optičnega prepoznavanja znakov (OCR).\n- Spremenjena je bila logika ekstrakcije besedila v PDF-ju."
+    "devnote": "Odpravljena je bila napaka, pri kateri se naslednja datoteka ni samodejno odprla na zadnji strani."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "- ඔබ නරඹන්නා දිගු වේලාවක් ඔබන විට දිස්වන උත්පතනයට සෙවුම් ශ්‍රිතයක් එක් කරන ලදී.\n- සමහර OCR තර්ක දෝෂ නිවැරදි කරන ලදී.\n- PDF පෙළ නිස්සාරණ තර්කනය සංශෝධනය කරන ලදී."
+    "devnote": "ඊළඟ ගොනුව අවසාන පිටුවේ ස්වයංක්‍රීයව විවෘත නොවන දෝෂයක් නිරාකරණය කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "- أُضيفت خاصية البحث إلى النافذة المنبثقة التي تظهر عند الضغط المطوّل على نافذة العرض.\n\n- تم إصلاح بعض الأخطاء في منطق التعرف الضوئي على الحروف (OCR).\n\n- تم تعديل منطق استخراج النصوص من ملفات PDF."
+    "devnote": "تم إصلاح خطأ كان يتسبب في عدم فتح الملف التالي تلقائيًا في الصفحة الأخيرة."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "- Ավելացվել է որոնման գործառույթ այն ելնող պատուհանում, որը հայտնվում է դիտման կոճակը երկար սեղմելիս։\n- Ուղղվել են OCR տրամաբանության որոշ սխալներ։\n- Վերանայվել է PDF տեքստի արդյունահանման տրամաբանությունը։"
+    "devnote": "Ուղղվել է սխալը, որի պատճառով հաջորդ ֆայլը չէր բացվում ավտոմատ կերպով վերջին էջում։"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "- Leitarmöguleiki bætt við sprettigluggann sem birtist þegar þú heldur inni leitarhnappinum.\n- Nokkrar villur í OCR-rökfræði lagfærðar.\n- Rökfræði fyrir útdrátt PDF-texta endurskoðuð."
+    "devnote": "Lagfærði villu þar sem næsta skrá opnaðist ekki sjálfkrafa á síðustu síðu."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "- İzləyicini uzun müddət basdığınız zaman görünən açılan pəncərəyə axtarış funksiyası əlavə edildi.\n- Bəzi OCR məntiqi səhvləri düzəldildi.\n- PDF mətn çıxarma məntiqi yenidən işləndi."
+    "devnote": "Növbəti faylın son səhifədə avtomatik olaraq açılmaması ilə bağlı xəta düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "- 'n Soekfunksie is bygevoeg tot die opspringvenster wat verskyn wanneer jy die kyker lank druk.\n- 'n Paar OCR-logikafoute is reggestel.\n- Die PDF-teksonttrekkinglogika is hersien."
+    "devnote": "Het 'n fout reggestel waar die volgende lêer nie outomaties op die laaste bladsy sou oopmaak nie."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "- U shtua një funksion kërkimi në dritaren që shfaqet kur shtypni gjatë mbi shikuesin.\n- U rregulluan disa gabime në logjikën e OCR-së.\n- U rishikua logjika e nxjerrjes së tekstit PDF."
+    "devnote": "U rregullua një gabim ku skedari tjetër nuk hapej automatikisht në faqen e fundit."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "- ተመልካቹን ለረጅም ጊዜ ሲጫኑ በሚታየው ብቅ-ባይ ላይ የፍለጋ ተግባር ተጨምሯል።\n- አንዳንድ የOCR ሎጂክ ስህተቶችን አስተካክለዋል።\n- የፒዲኤፍ ጽሑፍ ማውጣት ሎጂክን አሻሽሏል።"
+    "devnote": "የሚቀጥለው ፋይል በመጨረሻው ገጽ ላይ በራስ-ሰር የማይከፈትበት ሳንካ ተስተካክሏል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "- Vaaturi pikal vajutamisel ilmuvale hüpikaknale on lisatud otsingufunktsioon.\n- Parandatud mõned OCR-loogikavead.\n- PDF-teksti ekstraheerimise loogikat on muudetud."
+    "devnote": "Parandatud viga, mille tõttu järgmine fail ei avanenud viimasel lehel automaatselt."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "- پاپ اپ میں ایک سرچ فنکشن شامل کیا گیا جو ظاہر ہوتا ہے جب آپ ناظرین کو دیر تک دبائیں گے۔\n- کچھ OCR منطق کیڑے طے کیے۔\n- پی ڈی ایف ٹیکسٹ نکالنے کی منطق پر نظر ثانی کی گئی۔"
+    "devnote": "ایک بگ کو ٹھیک کیا جہاں اگلی فائل آخری صفحہ پر خود بخود نہیں کھلے گی۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "- Додано функцію пошуку до спливаючого вікна, яке з'являється при довгому натисканні на програму переглядача.\n- Виправлено деякі помилки логіки оптичного розпізнавання символів (OCR).\n- Переглянуто логіку вилучення тексту з PDF."
+    "devnote": "Виправлено помилку, через яку наступний файл не відкривався автоматично на останній сторінці."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "- Aggiunta una funzione di ricerca al pop-up che appare tenendo premuto a lungo il visualizzatore.\n- Corretti alcuni bug nella logica OCR.\n- Revisionata la logica di estrazione del testo PDF."
+    "devnote": "Risolto un bug per cui il file successivo non si apriva automaticamente nell'ultima pagina."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "- Menambahkan fungsi pencarian ke jendela pop-up yang muncul saat Anda menekan lama penampil.\n\n- Memperbaiki beberapa bug logika OCR.\n\n- Merevisi logika ekstraksi teks PDF."
+    "devnote": "Memperbaiki bug di mana file berikutnya tidak terbuka secara otomatis di halaman terakhir."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "- ビューアを長押ししたときに表示されるポップアップに検索機能を追加しました。\n- OCRロジックのバグをいくつか修正しました。\n- PDFテキスト抽出ロジックを改訂しました。"
+    "devnote": "最後のページで次のファイルが自動的に開かないバグを修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "- დაემატა ძიების ფუნქცია ამომხტარ ფანჯარაში, რომელიც გამოჩნდება მაყურებელზე ხანგრძლივი დაჭერისას.\n- გამოსწორდა OCR ლოგიკის ზოგიერთი შეცდომა.\n- გადამუშავდა PDF ტექსტის ამოღების ლოგიკა."
+    "devnote": "გამოსწორდა შეცდომა, რის გამოც შემდეგი ფაილი ავტომატურად არ იხსნებოდა ბოლო გვერდზე."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "- Kungezwe umsebenzi wokusesha ku-pop-up ebonakala uma ucindezela isikhathi eside umbukeli.\n- Kulungiswe ezinye iziphazamiso ze-logic ze-OCR.\n- Kubuyekezwe i-logic yokukhipha umbhalo we-PDF."
+    "devnote": "Kulungiswe iphutha lapho ifayela elilandelayo lingeke livuleke ngokuzenzakalelayo ekhasini lokugcina."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "- 在长按查看器弹出的窗口中添加了搜索功能。\n\n- 修复了一些 OCR 逻辑错误。\n\n- 修改了 PDF 文本提取逻辑。"
+    "devnote": "修复了最后一页无法自动打开下一个文件的错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "- 在長按檢視器彈出的視窗中新增了搜尋功能。\n\n- 修正了一些 OCR 邏輯錯誤。\n\n- 修改了 PDF 文字擷取邏輯。"
+    "devnote": "修正了最後一頁無法自動開啟下一個檔案的錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "- 在長按檢視器彈出的視窗中新增了搜尋功能。\n\n- 修正了一些 OCR 邏輯錯誤。\n\n- 修改了 PDF 文字擷取邏輯。"
+    "devnote": "修正了最後一頁無法自動開啟下一個檔案的錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "- Do vyskakovacího okna, které se zobrazí po dlouhém stisknutí prohlížeče, byla přidána funkce vyhledávání.\n- Opraveny některé chyby v logice OCR.\n- Upravena logika extrakce textu PDF."
+    "devnote": "Opravena chyba, kdy se další soubor neotevřel automaticky na poslední stránce."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "- Көру құралын ұзақ басқан кезде пайда болатын қалқымалы терезеге іздеу функциясы қосылды.\n- OCR логикасының кейбір қателері түзетілді.\n- PDF мәтінін алу логикасы қайта қаралды."
+    "devnote": "Келесі файл соңғы бетте автоматты түрде ашылмайтын қате түзетілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "- S'ha afegit una funció de cerca a la finestra emergent que apareix quan es manté premut el visor.\n- S'han corregit alguns errors de la lògica OCR.\n- S'ha revisat la lògica d'extracció de text dels PDF."
+    "devnote": "S'ha corregit un error que feia que el següent fitxer no s'obrís automàticament a l'última pàgina."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "- ನೀವು ವೀಕ್ಷಕವನ್ನು ದೀರ್ಘವಾಗಿ ಒತ್ತಿದಾಗ ಕಾಣಿಸಿಕೊಳ್ಳುವ ಪಾಪ್-ಅಪ್‌ಗೆ ಹುಡುಕಾಟ ಕಾರ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ.\n- ಕೆಲವು OCR ತರ್ಕ ದೋಷಗಳನ್ನು ಸರಿಪಡಿಸಲಾಗಿದೆ.\n- PDF ಪಠ್ಯ ಹೊರತೆಗೆಯುವ ತರ್ಕವನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗಿದೆ."
+    "devnote": "ಕೊನೆಯ ಪುಟದಲ್ಲಿ ಮುಂದಿನ ಫೈಲ್ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ತೆರೆಯದಿರುವ ದೋಷವನ್ನು ಸರಿಪಡಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "- Dodana je funkcija pretraživanja u skočni prozor koji se pojavljuje kada dugo pritisnete preglednik.\n- Ispravljene su neke greške u OCR logici.\n- Revidirana je logika izdvajanja PDF teksta."
+    "devnote": "Ispravljena je greška gdje se sljedeća datoteka nije automatski otvarala na posljednjoj stranici."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "- បានបន្ថែមមុខងារស្វែងរកទៅក្នុងបង្អួចលេចឡើងដែលលេចឡើងនៅពេលអ្នកចុចឱ្យជាប់លើកម្មវិធីមើល។\n- ជួសជុលកំហុសតក្កវិជ្ជា OCR មួយចំនួន។\n- កែសម្រួលតក្កវិជ្ជាទាញយកអត្ថបទ PDF។"
+    "devnote": "បានជួសជុលកំហុសដែលឯកសារបន្ទាប់មិនបើកដោយស្វ័យប្រវត្តិនៅលើទំព័រចុងក្រោយ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "- Көрүүчүнү көпкө басканда пайда болгон калкып чыгуучу терезеге издөө функциясы кошулду.\n- OCR логикасындагы айрым каталар оңдолду.\n- PDF текстин бөлүп алуу логикасы кайра каралды."
+    "devnote": "Кийинки файл акыркы баракта автоматтык түрдө ачылбай калган ката оңдолду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "- பார்வையாளரை நீண்ட நேரம் அழுத்தும்போது தோன்றும் பாப்-அப்பில் ஒரு தேடல் செயல்பாடு சேர்க்கப்பட்டது.\n- சில OCR லாஜிக் பிழைகள் சரி செய்யப்பட்டன.\n- PDF உரை பிரித்தெடுக்கும் லாஜிக் திருத்தப்பட்டது."
+    "devnote": "அடுத்த கோப்பு கடைசி பக்கத்தில் தானாக திறக்க முடியாத ஒரு பிழை சரி செய்யப்பட்டது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "- เพิ่มฟังก์ชันการค้นหาในหน้าต่างป๊อปอัพที่ปรากฏขึ้นเมื่อกดค้างที่โปรแกรมดูเอกสาร\n\n- แก้ไขข้อผิดพลาดบางอย่างในตรรกะ OCR\n- ปรับปรุงตรรกะการดึงข้อความจากไฟล์ PDF"
+    "devnote": "แก้ไขข้อผิดพลาดที่ทำให้ไฟล์ถัดไปไม่เปิดโดยอัตโนมัติในหน้าสุดท้าย"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "- Görüntüleyiciye uzun basıldığında açılan açılır pencereye arama işlevi eklendi.\n\n- Bazı OCR mantık hataları düzeltildi.\n\n- PDF metin çıkarma mantığı gözden geçirildi."
+    "devnote": "Son sayfada bir sonraki dosyanın otomatik olarak açılmamasına neden olan bir hata düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "- మీరు వ్యూయర్‌ని ఎక్కువసేపు నొక్కినప్పుడు కనిపించే పాప్-అప్‌కి శోధన ఫంక్షన్ జోడించబడింది.\n- కొన్ని OCR లాజిక్ బగ్‌లు పరిష్కరించబడ్డాయి.\n- PDF టెక్స్ట్ ఎక్స్‌ట్రాక్షన్ లాజిక్‌ను సవరించారు."
+    "devnote": "తదుపరి ఫైల్ చివరి పేజీలో స్వయంచాలకంగా తెరుచుకోని బగ్‌ను పరిష్కరించాము."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "- ਪੌਪ-ਅੱਪ ਵਿੱਚ ਇੱਕ ਖੋਜ ਫੰਕਸ਼ਨ ਜੋੜਿਆ ਗਿਆ ਹੈ ਜੋ ਉਦੋਂ ਦਿਖਾਈ ਦਿੰਦਾ ਹੈ ਜਦੋਂ ਤੁਸੀਂ ਦਰਸ਼ਕ ਨੂੰ ਦੇਰ ਤੱਕ ਦਬਾਉਂਦੇ ਹੋ।\n- ਕੁਝ OCR ਲਾਜਿਕ ਬੱਗ ਠੀਕ ਕੀਤੇ ਗਏ ਹਨ।\n- PDF ਟੈਕਸਟ ਐਕਸਟਰੈਕਸ਼ਨ ਲਾਜਿਕ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ।"
+    "devnote": "ਇੱਕ ਬੱਗ ਠੀਕ ਕੀਤਾ ਗਿਆ ਹੈ ਜਿੱਥੇ ਅਗਲੀ ਫਾਈਲ ਆਖਰੀ ਪੰਨੇ 'ਤੇ ਆਪਣੇ ਆਪ ਨਹੀਂ ਖੁੱਲ੍ਹਦੀ ਸੀ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "- یک تابع جستجو به پنجره‌ی پاپ‌آپ اضافه شد که با لمس طولانی نمایشگر ظاهر می‌شود.\n- برخی از اشکالات منطقی OCR برطرف شد.\n- منطق استخراج متن PDF اصلاح شد."
+    "devnote": "اشکالی که باعث می‌شد فایل بعدی به طور خودکار در صفحه آخر باز نشود، برطرف شد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "- Adicionada uma função de busca à janela pop-up que aparece ao pressionar e segurar o visualizador.\n- Corrigidos alguns erros na lógica de OCR.\n- Revisada a lógica de extração de texto em PDF."
+    "devnote": "Corrigido um erro que impedia a abertura automática do próximo arquivo na última página."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "- Dodano funkcję wyszukiwania do wyskakującego okienka, które pojawia się po długim naciśnięciu przeglądarki.\n- Naprawiono kilka błędów logiki OCR.\n- Zmieniono logikę wyodrębniania tekstu z pliku PDF."
+    "devnote": "Naprawiono błąd, przez który następny plik nie otwierał się automatycznie na ostatniej stronie."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "- Ajout d'une fonction de recherche à la fenêtre contextuelle qui s'affiche lors d'un appui long sur la visionneuse.\n\n- Correction de certains bugs liés à la reconnaissance optique de caractères (OCR).\n\n- Révision de la logique d'extraction de texte des PDF."
+    "devnote": "Correction d'un bug qui empêchait l'ouverture automatique du fichier suivant sur la dernière page."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "- Lisätty hakutoiminto ponnahdusikkunaan, joka tulee näkyviin, kun painat pitkään katseluohjelmaa.\n\n- Korjattu joitakin OCR-logiikan virheitä.\n\n- PDF-tekstin poiminnan logiikkaa tarkistettu."
+    "devnote": "Korjattu virhe, jossa seuraava tiedosto ei avautunut automaattisesti viimeisellä sivulla."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "- Nagdagdag ng search function sa pop-up na lumalabas kapag pinindot mo nang matagal ang viewer.\n- Inayos ang ilang bug sa OCR logic.\n- Binago ang PDF text extraction logic."
+    "devnote": "Naayos ang isang bug kung saan hindi awtomatikong magbubukas ang susunod na file sa huling pahina."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "- Hozzáadtunk egy keresési funkciót a felugró ablakhoz, amely a megtekintő hosszan történő lenyomása esetén jelenik meg.\n\n- Kijavítottunk néhány OCR logikai hibát.\n\n- Felülvizsgáltuk a PDF szövegkiemelési logikáját."
+    "devnote": "Kijavítottunk egy hibát, amely miatt a következő fájl nem nyílt meg automatikusan az utolsó oldalon."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "- נוספה פונקציית חיפוש לחלון הקופץ שמופיע בעת לחיצה ארוכה על המציג.\n- תוקנו כמה באגים בלוגיקת OCR.\n- תוקן לוגיקת חילוץ טקסט ב-PDF."
+    "devnote": "תוקן באג שבו הקובץ הבא לא נפתח אוטומטית בעמוד האחרון."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "- व्यूअर को देर तक दबाने पर दिखाई देने वाले पॉप-अप में सर्च फ़ंक्शन जोड़ा गया है।\n\n- OCR लॉजिक से संबंधित कुछ बग ठीक किए गए हैं।\n\n- PDF टेक्स्ट एक्सट्रैक्शन लॉजिक में संशोधन किया गया है।"
+    "devnote": "उस बग को ठीक कर दिया गया है जिसके कारण अंतिम पृष्ठ पर अगली फ़ाइल स्वचालित रूप से नहीं खुलती थी।"
   }
 }
