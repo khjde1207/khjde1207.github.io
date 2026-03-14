@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "Fixed a bug where the next file would not open automatically on the last page."
+    "devnote": "1. Modified to allow scroll speed to be set in decimal units.\n- Setting it to 1 or less allows for slower speeds.\n- Due to the difference between integers and floating-point numbers, setting information backed up in the latest version cannot be loaded in previous versions.\n\n2. Fixed bugs in the TTS filter and batch edit list sorting.\n\n3. Added a feature that saves current setting information as a profile, allowing it to automatically switch to that setting at a specified time.\n- Only font-related, margin, and background information is applied.\n- If no time setting is specified, it can be applied manually."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "끝페이지에서 다음 파일이 자동으로 열리지 않던 버그를 수정 하였습니다."
+    "devnote": "1. 스크롤 속도를 소숫점 단위 로 설정 할 수 있도록 수정 하였습니다. \n  - 1 이하로 설정시 느리게 할 수도 있습니다. \n  - 정수와 실수 차이 때문에 최신 버전에서 백업한 설정 정보는 과거버전에서 불러 올 수 없습니다. \n2. tts필터 및 일괄수정 리스트 정렬 버그를 수정 하였습니다. \n3. 현재 설정 정보를 프로필 형태로 저장해서 지정된 시각에 해당 설정으로 자동 전환 되도록 하는 기능을 추가 하였습니다. \n  - 설정은 폰트 관련 정보, 여백 , 배경 관련 정보만 적용됩니다.\n  - 시간 설정을 하지 않을경우 수동으로 적용 할 수 있습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "Corrixiuse un erro que impedía que o seguinte ficheiro non se abrise automaticamente na última páxina."
+    "devnote": "1. Modificouse para permitir que a velocidade de desprazamento se axuste en unidades decimais.\n- Axustala a 1 ou menos permite velocidades máis lentas.\n- Debido á diferenza entre os números enteiros e os números de coma flotante, a información de configuración da que se fixo unha copia de seguridade na última versión non se pode cargar en versións anteriores.\n\n2. Corrixíronse erros no filtro TTS e na ordenación da lista de edición por lotes.\n\n3. Engadiuse unha función que garda a información de configuración actual como un perfil, o que permite cambiar automaticamente a esa configuración nun momento específico.\n- Só se aplica a información relacionada coa fonte, a marxe e o fondo.\n- Se non se especifica ningunha configuración de tempo, pódese aplicar manualmente."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "છેલ્લા પાના પર આગલી ફાઇલ આપમેળે ન ખુલે તેવી બગ સુધારી."
+    "devnote": "૧. સ્ક્રોલ સ્પીડને દશાંશ એકમોમાં સેટ કરવાની મંજૂરી આપવા માટે ફેરફાર કરવામાં આવ્યો છે.\n- તેને ૧ અથવા તેનાથી ઓછા પર સેટ કરવાથી ધીમી ગતિ મળે છે.\n- પૂર્ણાંકો અને ફ્લોટિંગ-પોઇન્ટ નંબરો વચ્ચેના તફાવતને કારણે, નવીનતમ સંસ્કરણમાં બેકઅપ લેવાયેલી સેટિંગ માહિતીને પાછલા સંસ્કરણોમાં લોડ કરી શકાતી નથી.\n\n૨. TTS ફિલ્ટર અને બેચ એડિટ લિસ્ટ સોર્ટિંગમાં ભૂલો સુધારી.\n\n૩. એક સુવિધા ઉમેરી જે વર્તમાન સેટિંગ માહિતીને પ્રોફાઇલ તરીકે સાચવે છે, જે તેને ચોક્કસ સમયે તે સેટિંગ પર આપમેળે સ્વિચ કરવાની મંજૂરી આપે છે.\n- ફક્ત ફોન્ટ-સંબંધિત, માર્જિન અને પૃષ્ઠભૂમિ માહિતી લાગુ કરવામાં આવે છે.\n- જો કોઈ સમય સેટિંગ ઉલ્લેખિત ન હોય, તો તે મેન્યુઅલી લાગુ કરી શકાય છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "Διορθώθηκε ένα σφάλμα όπου το επόμενο αρχείο δεν άνοιγε αυτόματα στην τελευταία σελίδα."
+    "devnote": "1. Τροποποιήθηκε ώστε να επιτρέπεται η ρύθμιση της ταχύτητας κύλισης σε δεκαδικές μονάδες.\n- Η ρύθμιση σε 1 ή λιγότερο επιτρέπει χαμηλότερες ταχύτητες.\n- Λόγω της διαφοράς μεταξύ ακεραίων και αριθμών κινητής υποδιαστολής, οι πληροφορίες ρυθμίσεων που έχουν δημιουργηθεί αντίγραφα ασφαλείας στην τελευταία έκδοση δεν μπορούν να φορτωθούν σε προηγούμενες εκδόσεις.\n\n2. Διορθώθηκαν σφάλματα στο φίλτρο TTS και στην ταξινόμηση λίστας επεξεργασίας παρτίδας.\n\n3. Προστέθηκε μια λειτουργία που αποθηκεύει τις τρέχουσες πληροφορίες ρυθμίσεων ως προφίλ, επιτρέποντάς της να μεταβαίνει αυτόματα σε αυτήν τη ρύθμιση σε καθορισμένη ώρα.\n- Εφαρμόζονται μόνο πληροφορίες που σχετίζονται με τη γραμματοσειρά, το περιθώριο και το φόντο.\n- Εάν δεν καθοριστεί ρύθμιση ώρας, μπορεί να εφαρμοστεί χειροκίνητα."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "Er is een bug verholpen waardoor het volgende bestand niet automatisch op de laatste pagina werd geopend."
+    "devnote": "1. Aangepast zodat de scrollsnelheid nu in decimale eenheden kan worden ingesteld.\n\n- Door de waarde op 1 of lager in te stellen, worden lagere snelheden mogelijk.\n\n- Vanwege het verschil tussen gehele getallen en drijvende-kommagetallen kunnen instellingen die in de nieuwste versie zijn opgeslagen, niet in eerdere versies worden geladen.\n\n2. Bugs in het TTS-filter en de sortering van batchbewerkingslijsten zijn verholpen.\n\n3. Een functie toegevoegd waarmee de huidige instellingen als profiel kunnen worden opgeslagen, zodat er op een bepaald tijdstip automatisch naar die instellingen wordt overgeschakeld.\n\n- Alleen lettertype-, marge- en achtergrondinformatie wordt toegepast.\n\n- Als er geen tijdsinstelling is opgegeven, kan deze handmatig worden toegepast."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "अन्तिम पृष्ठमा अर्को फाइल स्वतः नखुल्ने बग समाधान गरियो।"
+    "devnote": "१. दशमलव एकाइहरूमा स्क्रोल गति सेट गर्न अनुमति दिन परिमार्जन गरिएको।\n- यसलाई १ वा कममा सेट गर्नाले ढिलो गतिको लागि अनुमति दिन्छ।\n- पूर्णांक र फ्लोटिंग-पोइन्ट संख्याहरू बीचको भिन्नताको कारण, पछिल्लो संस्करणमा ब्याकअप गरिएको सेटिङ जानकारी अघिल्लो संस्करणहरूमा लोड गर्न सकिँदैन।\n\n२. TTS फिल्टर र ब्याच सम्पादन सूची क्रमबद्धमा बगहरू समाधान गरियो।\n\n३. हालको सेटिङ जानकारीलाई प्रोफाइलको रूपमा बचत गर्ने सुविधा थपियो, जसले यसलाई तोकिएको समयमा स्वचालित रूपमा त्यो सेटिङमा स्विच गर्न अनुमति दिन्छ।\n- फन्ट-सम्बन्धित, मार्जिन, र पृष्ठभूमि जानकारी मात्र लागू गरिन्छ।\n- यदि कुनै समय सेटिङ निर्दिष्ट गरिएको छैन भने, यो म्यानुअल रूपमा लागू गर्न सकिन्छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "Fikset en feil der neste fil ikke åpnet seg automatisk på siste side."
+    "devnote": "1. Endret for å tillate at rullehastigheten kan angis i desimalenheter.\n- Å sette den til 1 eller mindre gir lavere hastigheter.\n- På grunn av forskjellen mellom heltall og flyttall, kan ikke innstillingsinformasjon som er sikkerhetskopiert i den nyeste versjonen lastes inn i tidligere versjoner.\n\n2. Rettet feil i TTS-filteret og sorteringen av batchredigeringslister.\n\n3. Lagt til en funksjon som lagrer gjeldende innstillingsinformasjon som en profil, slik at den automatisk bytter til den innstillingen på et angitt tidspunkt.\n- Kun fontrelatert informasjon, marg- og bakgrunnsinformasjon brukes.\n- Hvis ingen tidsinnstilling er angitt, kan den brukes manuelt."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "Rettede en fejl, hvor den næste fil ikke åbnede automatisk på den sidste side."
+    "devnote": "1. Ændret for at tillade, at rullehastigheden kan indstilles i decimaler.\n- Indstilling til 1 eller mindre giver mulighed for lavere hastigheder.\n- På grund af forskellen mellem heltal og flydende tal kan indstillingsoplysninger, der er sikkerhedskopieret i den seneste version, ikke indlæses i tidligere versioner.\n\n2. Rettede fejl i TTS-filteret og sorteringen af ​​batchredigeringslister.\n\n3. Tilføjet en funktion, der gemmer aktuelle indstillingsoplysninger som en profil, så den automatisk skifter til den pågældende indstilling på et bestemt tidspunkt.\n- Kun skrifttyperelaterede oplysninger, margenoplysninger og baggrundsoplysninger anvendes.\n- Hvis der ikke er angivet nogen tidsindstilling, kan den anvendes manuelt."
   },
   "독일어": {
     "key": "de",
-    "devnote": "Es wurde ein Fehler behoben, der dazu führte, dass die nächste Datei auf der letzten Seite nicht automatisch geöffnet wurde."
+    "devnote": "1. Die Scrollgeschwindigkeit kann nun in Dezimaleinheiten eingestellt werden.\n\n– Werte unter 1 ermöglichen langsamere Scrollgeschwindigkeiten.\n\n– Aufgrund des Unterschieds zwischen Ganzzahlen und Gleitkommazahlen können in der neuesten Version gespeicherte Einstellungen nicht in älteren Versionen geladen werden.\n\n2. Fehler im TTS-Filter und bei der Stapelverarbeitungs-Listensortierung wurden behoben.\n\n3. Eine Funktion zum Speichern der aktuellen Einstellungen als Profil wurde hinzugefügt. Dadurch kann zu einem festgelegten Zeitpunkt automatisch auf diese Einstellungen umgeschaltet werden.\n\n– Nur Informationen zu Schriftart, Rändern und Hintergrund werden angewendet.\n\n– Falls kein Zeitpunkt angegeben ist, kann die Einstellung manuell angewendet werden."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "ແກ້ໄຂຂໍ້ຜິດພາດທີ່ໄຟລ໌ຕໍ່ໄປບໍ່ເປີດໂດຍອັດຕະໂນມັດໃນໜ້າສຸດທ້າຍ."
+    "devnote": "1. ດັດແປງເພື່ອໃຫ້ສາມາດຕັ້ງຄວາມໄວໃນການເລື່ອນເປັນຫົວໜ່ວຍທົດສະນິຍົມໄດ້.\n- ການຕັ້ງຄ່າມັນເປັນ 1 ຫຼືໜ້ອຍກວ່າຊ່ວຍໃຫ້ຄວາມໄວຊ້າລົງ.\n- ເນື່ອງຈາກຄວາມແຕກຕ່າງລະຫວ່າງຈຳນວນເຕັມ ແລະ ຕົວເລກຈຸດລອຍ, ຂໍ້ມູນການຕັ້ງຄ່າທີ່ສຳຮອງຂໍ້ມູນໄວ້ໃນເວີຊັນລ່າສຸດບໍ່ສາມາດໂຫຼດໄດ້ໃນເວີຊັນກ່ອນໜ້ານີ້.\n\n2. ແກ້ໄຂຂໍ້ຜິດພາດໃນຕົວກອງ TTS ແລະ ການຈັດຮຽງລາຍຊື່ແກ້ໄຂເປັນຊຸດ.\n\n3. ເພີ່ມຄຸນສົມບັດທີ່ບັນທຶກຂໍ້ມູນການຕັ້ງຄ່າປັດຈຸບັນເປັນໂປຣໄຟລ໌, ຊ່ວຍໃຫ້ມັນສາມາດປ່ຽນໄປໃຊ້ການຕັ້ງຄ່ານັ້ນໂດຍອັດຕະໂນມັດໃນເວລາທີ່ກຳນົດ.\n- ນຳໃຊ້ພຽງແຕ່ຂໍ້ມູນທີ່ກ່ຽວຂ້ອງກັບຕົວອັກສອນ, ຂອບ, ແລະ ພື້ນຫຼັງເທົ່ານັ້ນ.\n- ຖ້າບໍ່ໄດ້ລະບຸການຕັ້ງຄ່າເວລາ, ມັນສາມາດນຳໃຊ້ດ້ວຍຕົນເອງໄດ້."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "Novērsta kļūda, kuras dēļ nākamais fails netika automātiski atvērts pēdējā lapā."
+    "devnote": "1. Izmainīts, lai ritināšanas ātrumu varētu iestatīt decimāldaļās.\n- Iestatot to uz 1 vai mazāk, ātrums ir lēnāks.\n- Atšķirības starp veseliem skaitļiem un peldošā komata skaitļiem dēļ iestatījumu informāciju, kas ir dublēta jaunākajā versijā, nevar ielādēt iepriekšējās versijās.\n\n2. Novērstas kļūdas TTS filtrā un partijas rediģēšanas saraksta kārtošanā.\n\n3. Pievienota funkcija, kas saglabā pašreizējo iestatījumu informāciju kā profilu, ļaujot automātiski pārslēgties uz šo iestatījumu noteiktā laikā.\n- Tiek lietota tikai ar fontu saistītā informācija, malu un fona informācija.\n- Ja nav norādīts laika iestatījums, to var lietot manuāli."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "Исправлена ​​ошибка, из-за которой следующий файл не открывался автоматически на последней странице."
+    "devnote": "1. Изменено, чтобы можно было устанавливать скорость прокрутки в десятичных единицах.\n\n- Установка значения 1 или меньше позволяет использовать более низкую скорость.\n\n- Из-за различия между целыми и числами с плавающей запятой, информация о настройках, сохраненная в последней версии, не может быть загружена в предыдущие версии.\n\n2. Исправлены ошибки в фильтре TTS и сортировке списка при пакетном редактировании.\n\n3. Добавлена ​​функция сохранения текущей информации о настройках в виде профиля, позволяющая автоматически переключаться на эти настройки в указанное время.\n\n- Применяется только информация, связанная со шрифтом, полями и фоном.\n\n- Если время не указано, его можно применить вручную."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "S-a remediat o eroare din cauza căreia următorul fișier nu se deschidea automat pe ultima pagină."
+    "devnote": "1. Modificat pentru a permite setarea vitezei de derulare în unități zecimale.\n- Setarea la 1 sau mai puțin permite viteze mai mici.\n- Din cauza diferenței dintre numerele întregi și numerele cu virgulă mobilă, informațiile de setări create în copie de rezervă în cea mai recentă versiune nu pot fi încărcate în versiunile anterioare.\n\n2. S-au remediat erori în filtrul TTS și sortarea listei de editare în lot.\n\n3. S-a adăugat o funcție care salvează informațiile de setări curente ca profil, permițând comutarea automată la setarea respectivă la un moment specificat.\n- Se aplică doar informațiile legate de font, margini și fundal.\n- Dacă nu este specificată nicio setare de timp, aceasta poate fi aplicată manual."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "Ištaisyta klaida, dėl kurios kitas failas neatsidarydavo automatiškai paskutiniame puslapyje."
+    "devnote": "1. Pakeista, kad slinkties greitį būtų galima nustatyti dešimtainiais vienetais.\n- Nustačius 1 arba mažiau, greitis bus mažesnis.\n- Dėl skirtumo tarp sveikųjų skaičių ir slankiojo kablelio skaičių, nustatymų informacija, išsaugota naujausioje versijoje, negali būti įkelta į ankstesnes versijas.\n\n2. Ištaisytos TTS filtro ir paketinio redagavimo sąrašo rūšiavimo klaidos.\n\n3. Pridėta funkcija, kuri išsaugo dabartinę nustatymų informaciją kaip profilį, leidžiančią automatiškai persijungti į tą nustatymą nurodytu laiku.\n- Taikoma tik su šriftu susijusi informacija, paraštės ir fono informacija.\n- Jei laiko nustatymas nenurodytas, jį galima pritaikyti rankiniu būdu."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "शेवटच्या पानावर पुढची फाइल आपोआप उघडणार नाही अशा बगचे निराकरण केले."
+    "devnote": "१. स्क्रोल गती दशांश युनिटमध्ये सेट करण्याची परवानगी देण्यासाठी सुधारित केले आहे.\n- ते १ किंवा त्यापेक्षा कमी वर सेट केल्याने गती कमी होते.\n- पूर्णांक आणि फ्लोटिंग-पॉइंट संख्यांमधील फरकामुळे, नवीनतम आवृत्तीमध्ये बॅकअप घेतलेली सेटिंग माहिती मागील आवृत्त्यांमध्ये लोड केली जाऊ शकत नाही.\n\n२. TTS फिल्टर आणि बॅच एडिट लिस्ट सॉर्टिंगमधील बग दुरुस्त केले आहेत.\n\n३. एक वैशिष्ट्य जोडले आहे जे वर्तमान सेटिंग माहिती प्रोफाइल म्हणून जतन करते, ज्यामुळे ते निर्दिष्ट वेळी स्वयंचलितपणे त्या सेटिंगवर स्विच करण्यास अनुमती देते.\n- फक्त फॉन्ट-संबंधित, मार्जिन आणि पार्श्वभूमी माहिती लागू केली जाते.\n- जर वेळ सेटिंग निर्दिष्ट केली नसेल, तर ती व्यक्तिचलितपणे लागू केली जाऊ शकते."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "Исправена е грешка поради која следната датотека не се отвораше автоматски на последната страница."
+    "devnote": "1. Изменето за да се овозможи брзината на скролување да се постави во децимални единици.\n- Поставувањето на 1 или помалку овозможува помали брзини.\n- Поради разликата помеѓу целите броеви и броевите со подвижна запирка, информациите за поставките што се резервни копии во најновата верзија не можат да се вчитаат во претходните верзии.\n\n2. Поправени се грешки во TTS филтерот и сортирањето на листата за групно уредување.\n\n3. Додадена е функција што ги зачувува информациите за тековните поставки како профил, дозволувајќи автоматски да се префрли на таа поставка во одредено време.\n- Се применуваат само информации поврзани со фонтот, маргината и позадината.\n- Ако не е наведено временско подесување, може да се примени рачно."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "അടുത്ത ഫയൽ അവസാന പേജിൽ യാന്ത്രികമായി തുറക്കാത്ത ഒരു ബഗ് പരിഹരിച്ചു."
+    "devnote": "1. സ്ക്രോൾ വേഗത ദശാംശ യൂണിറ്റുകളിൽ സജ്ജീകരിക്കാൻ അനുവദിക്കുന്ന തരത്തിൽ പരിഷ്കരിച്ചിരിക്കുന്നു.\n- 1 അല്ലെങ്കിൽ അതിൽ കുറവായി സജ്ജീകരിക്കുന്നത് വേഗത കുറയ്ക്കാൻ അനുവദിക്കുന്നു.\n- പൂർണ്ണസംഖ്യകളും ഫ്ലോട്ടിംഗ്-പോയിന്റ് നമ്പറുകളും തമ്മിലുള്ള വ്യത്യാസം കാരണം, ഏറ്റവും പുതിയ പതിപ്പിൽ ബാക്കപ്പ് ചെയ്ത സജ്ജീകരണ വിവരങ്ങൾ മുൻ പതിപ്പുകളിൽ ലോഡ് ചെയ്യാൻ കഴിയില്ല.\n\n2. TTS ഫിൽട്ടറിലും ബാച്ച് എഡിറ്റ് ലിസ്റ്റ് സോർട്ടിംഗിലും പരിഹരിച്ച ബഗുകൾ.\n\n3. നിലവിലെ സജ്ജീകരണ വിവരങ്ങൾ ഒരു പ്രൊഫൈലായി സംരക്ഷിക്കുന്ന ഒരു സവിശേഷത ചേർത്തു, അത് ഒരു നിർദ്ദിഷ്ട സമയത്ത് ആ സജ്ജീകരണത്തിലേക്ക് സ്വയമേവ മാറാൻ അനുവദിക്കുന്നു.\n- ഫോണ്ട്-സംബന്ധിയായ, മാർജിൻ, പശ്ചാത്തല വിവരങ്ങൾ എന്നിവ മാത്രമേ പ്രയോഗിക്കൂ.\n- സമയ ക്രമീകരണം വ്യക്തമാക്കിയിട്ടില്ലെങ്കിൽ, അത് സ്വമേധയാ പ്രയോഗിക്കാൻ കഴിയും."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "Telah membetulkan pepijat di mana fail seterusnya tidak dapat dibuka secara automatik pada halaman terakhir."
+    "devnote": "1. Diubah suai untuk membolehkan kelajuan skrol ditetapkan dalam unit perpuluhan.\n- Menetapkannya kepada 1 atau kurang membolehkan kelajuan yang lebih perlahan.\n- Disebabkan perbezaan antara integer dan nombor titik apungan, maklumat tetapan yang disandarkan dalam versi terkini tidak boleh dimuatkan dalam versi sebelumnya.\n\n2. Membetulkan pepijat dalam penapis TTS dan penyusunan senarai edit kelompok.\n\n3. Menambah ciri yang menyimpan maklumat tetapan semasa sebagai profil, membolehkannya bertukar secara automatik kepada tetapan tersebut pada masa yang ditentukan.\n- Hanya maklumat berkaitan fon, margin dan latar belakang digunakan.\n- Jika tiada tetapan masa ditentukan, ia boleh digunakan secara manual."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "Дараагийн файл сүүлийн хуудсан дээр автоматаар нээгдэхгүй байсан алдааг зассан."
+    "devnote": "1. Гүйлгэх хурдыг аравтын бутархай нэгжээр тохируулах боломжтой болгон өөрчилсөн.\n- Үүнийг 1 эсвэл түүнээс бага болгож тохируулах нь удаашрах хурдыг зөвшөөрдөг.\n- Бүхэл тоо болон хөвөгч цэгтэй тоонуудын хоорондох зөрүүнээс шалтгаалан хамгийн сүүлийн хувилбарт нөөцлөгдсөн тохиргооны мэдээллийг өмнөх хувилбаруудад ачаалах боломжгүй.\n\n2. TTS шүүлтүүр болон багц засварлах жагсаалтын эрэмбэлэлтийн алдааг зассан.\n\n3. Одоогийн тохиргооны мэдээллийг профайл болгон хадгалах функцийг нэмсэн бөгөөд энэ нь тодорхой цагт тухайн тохиргоо руу автоматаар шилжих боломжийг олгоно.\n\n- Зөвхөн фонттой холбоотой, захын болон дэвсгэр мэдээллийг хэрэглэнэ.\n- Хэрэв цагийн тохиргоог заагаагүй бол гараар ашиглаж болно."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "Hurrengo fitxategia azken orrialdean automatikoki irekitzen ez zen akatsa konpondu da."
+    "devnote": "1. Aldatu da korritze-abiadura hamartar unitateetan ezartzeko aukera emateko.\n- 1 edo gutxiagora ezartzeak abiadura motelagoak ahalbidetzen ditu.\n- Zenbaki osoen eta koma mugikorreko zenbakien arteko aldea dela eta, azken bertsioan babestutako ezarpen-informazioa ezin da aurreko bertsioetan kargatu.\n\n2. TTS iragazkian eta multzoka editatzeko zerrenden ordenazioan akatsak konpondu dira.\n\n3. Uneko ezarpen-informazioa profil gisa gordetzen duen funtzio bat gehitu da, zehaztutako unean ezarpen horretara automatikoki aldatzeko aukera emanez.\n- Letra-tipoari, marjinari eta atzeko planoari buruzko informazioa soilik aplikatzen da.\n- Ordu-ezarpenik zehazten ez bada, eskuz aplika daiteke."
   },
   "버마어": {
     "key": "my",
-    "devnote": "နောက်ဆုံးစာမျက်နှာတွင် နောက်ဖိုင်ကို အလိုအလျောက်မဖွင့်သည့် ချို့ယွင်းချက်ကို ပြင်ဆင်ပြီးပါပြီ။"
+    "devnote": "၁။ scroll speed ကို ဒဿမယူနစ်ဖြင့် သတ်မှတ်နိုင်စေရန် ပြုပြင်ထားသည်။\n- ၁ သို့မဟုတ် ၁ ထက်နည်းသော ပမာဏသို့ သတ်မှတ်ခြင်းဖြင့် မြန်နှုန်းနှေးကွေးစေသည်။\n- ကိန်းပြည့်များနှင့် floating-point နံပါတ်များကြား ကွာခြားချက်ကြောင့် နောက်ဆုံးထွက်ဗားရှင်းတွင် backup လုပ်ထားသော setting အချက်အလက်များကို ယခင်ဗားရှင်းများတွင် တင်၍မရပါ။\n\n၂။ TTS filter နှင့် batch edit list sorting တွင် bug များကို ပြင်ဆင်ပြီးဖြစ်သည်။\n\n၃။ လက်ရှိ setting အချက်အလက်များကို profile အဖြစ် သိမ်းဆည်းသည့် feature တစ်ခု ထည့်သွင်းထားပြီး သတ်မှတ်ထားသောအချိန်တွင် ထို setting သို့ အလိုအလျောက်ပြောင်းနိုင်သည်။\n- ဖောင့်နှင့်သက်ဆိုင်သော၊ margin နှင့် background အချက်အလက်များကိုသာ အသုံးပြုသည်။\n- အချိန် setting ကို သတ်မှတ်ထားခြင်းမရှိပါက ကိုယ်တိုင်အသုံးပြုနိုင်သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "Đã sửa lỗi khiến tập tin tiếp theo không tự động mở ở trang cuối cùng."
+    "devnote": "1. Đã sửa đổi để cho phép thiết lập tốc độ cuộn bằng đơn vị thập phân.\n\n- Thiết lập thành 1 hoặc nhỏ hơn cho phép tốc độ chậm hơn.\n\n- Do sự khác biệt giữa số nguyên và số thập phân, thông tin cài đặt được sao lưu trong phiên bản mới nhất không thể được tải trong các phiên bản trước đó.\n\n2. Đã sửa lỗi trong bộ lọc TTS và sắp xếp danh sách chỉnh sửa hàng loạt.\n\n3. Đã thêm tính năng lưu thông tin cài đặt hiện tại dưới dạng hồ sơ, cho phép tự động chuyển sang cài đặt đó vào thời gian được chỉ định.\n\n- Chỉ áp dụng thông tin liên quan đến phông chữ, lề và nền.\n\n- Nếu không chỉ định thời gian, có thể áp dụng thủ công."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "Выпраўлена памылка, з-за якой наступны файл не адкрываўся аўтаматычна на апошняй старонцы."
+    "devnote": "1. Зменена, каб дазволіць усталёўваць хуткасць пракруткі ў дзесятковых адзінках.\n- Устаноўка значэння на 1 або менш дазваляе знізіць хуткасць.\n- З-за розніцы паміж цэлымі лікамі і лікамі з плаваючай коскай, інфармацыя аб наладах, рэзервовая копія якой была зроблена ў апошняй версіі, не можа быць загружана ў папярэднія версіі.\n\n2. Выпраўлены памылкі ў фільтры TTS і сартоўцы спісу пакетнага рэдагавання.\n\n3. Дададзена функцыя, якая захоўвае бягучую інфармацыю аб наладах у выглядзе профілю, што дазваляе аўтаматычна пераключацца на гэту наладу ў зададзены час.\n- Ужываецца толькі інфармацыя, звязаная са шрыфтам, палямі і фонам.\n- Калі налада часу не пазначана, яе можна ўжыць уручную."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "একটি বাগ ঠিক করা হয়েছে যেখানে পরবর্তী ফাইলটি শেষ পৃষ্ঠায় স্বয়ংক্রিয়ভাবে খুলবে না।"
+    "devnote": "১. দশমিক এককের মধ্যে স্ক্রোল গতি সেট করার জন্য পরিবর্তন করা হয়েছে।\n\n- এটি ১ বা তার কম সেট করলে ধীর গতির সুযোগ তৈরি হয়।\n\n- পূর্ণসংখ্যা এবং ভাসমান-পয়েন্ট সংখ্যার মধ্যে পার্থক্যের কারণে, সর্বশেষ সংস্করণে ব্যাকআপ নেওয়া সেটিং তথ্য পূর্ববর্তী সংস্করণগুলিতে লোড করা যাবে না।\n\n২. টিটিএস ফিল্টার এবং ব্যাচ সম্পাদনা তালিকা বাছাইয়ের ত্রুটিগুলি সংশোধন করা হয়েছে।\n\n৩. একটি বৈশিষ্ট্য যুক্ত করা হয়েছে যা বর্তমান সেটিং তথ্যকে প্রোফাইল হিসাবে সংরক্ষণ করে, এটি একটি নির্দিষ্ট সময়ে স্বয়ংক্রিয়ভাবে সেই সেটিংয়ে স্যুইচ করার অনুমতি দেয়।\n\n- শুধুমাত্র ফন্ট-সম্পর্কিত, মার্জিন এবং পটভূমি তথ্য প্রয়োগ করা হয়।\n\nযদি কোনও সময় সেটিং নির্দিষ্ট না থাকে, তবে এটি ম্যানুয়ালি প্রয়োগ করা যেতে পারে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "Отстранена е грешка, при която следващият файл не се отваряше автоматично на последната страница."
+    "devnote": "1. Променено е, за да се позволи задаване на скоростта на превъртане в десетични единици.\n- Задаването на 1 или по-малко позволява по-ниски скорости.\n- Поради разликата между цели числа и числа с плаваща запетая, информацията за настройките, архивирана в последната версия, не може да бъде заредена в предишни версии.\n\n2. Поправени са грешки във филтъра за синтез на говор и сортирането на списъка за групово редактиране.\n\n3. Добавена е функция, която запазва текущата информация за настройките като профил, което позволява автоматично превключване към тази настройка в определен час.\n- Прилага се само информация, свързана с шрифта, полетата и фона.\n- Ако не е зададена настройка за време, тя може да се приложи ръчно."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "Исправљена је грешка где се следећа датотека није аутоматски отварала на последњој страници."
+    "devnote": "1. Измењено је да би се омогућило подешавање брзине скроловања у децималним јединицама.\n- Постављање на 1 или мање омогућава мање брзине.\n- Због разлике између целих бројева и бројева са покретним зарезом, информације о подешавањима направљене резервне копије у најновијој верзији не могу се учитати у претходним верзијама.\n\n2. Исправљене су грешке у TTS филтеру и сортирању листе групних измена.\n\n3. Додата је функција која чува тренутне информације о подешавању као профил, омогућавајући аутоматско пребацивање на то подешавање у одређено време.\n- Примењују се само информације везане за фонт, маргине и позадину.\n- Ако није наведено подешавање времена, може се применити ручно."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "Imerekebisha hitilafu ambapo faili inayofuata haingefunguka kiotomatiki kwenye ukurasa wa mwisho."
+    "devnote": "1. Imebadilishwa ili kuruhusu kasi ya kusogeza kuwekwa katika vitengo vya desimali.\n- Kuiweka kwa 1 au chini huruhusu kasi ya chini.\n- Kutokana na tofauti kati ya nambari kamili na nambari za nukta zinazoelea, taarifa za usanidi zilizohifadhiwa nakala rudufu katika toleo jipya haziwezi kupakiwa katika matoleo ya awali.\n\n2. Imerekebisha hitilafu katika kichujio cha TTS na upangaji wa orodha ya kuhariri ya kundi.\n\n3. Imeongeza kipengele kinachohifadhi taarifa za usanidi wa sasa kama wasifu, na kuiruhusu kubadili kiotomatiki hadi kwenye mpangilio huo kwa wakati maalum.\n- Taarifa zinazohusiana na fonti, pambizo, na usuli pekee ndizo zinazotumika.\n- Ikiwa hakuna mpangilio wa muda ulioainishwa, unaweza kutumika kwa mikono."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "Åtgärdade ett fel som gjorde att nästa fil inte öppnades automatiskt på sista sidan."
+    "devnote": "1. Modifierad för att tillåta att rullningshastigheten ställs in i decimalenheter.\n- Att ställa in den på 1 eller mindre möjliggör lägre hastigheter.\n- På grund av skillnaden mellan heltal och flyttal kan inställningsinformation som säkerhetskopierats i den senaste versionen inte läsas in i tidigare versioner.\n\n2. Åtgärdade buggar i TTS-filtret och sorteringen av batchredigeringslistor.\n\n3. Lade till en funktion som sparar aktuell inställningsinformation som en profil, vilket gör att den automatiskt växlar till den inställningen vid en angiven tidpunkt.\n- Endast teckensnittsrelaterad information, marginalinformation och bakgrundsinformation tillämpas.\n- Om ingen tidsinställning anges kan den tillämpas manuellt."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "Se corrigió un error por el cual el siguiente archivo no se abría automáticamente en la última página."
+    "devnote": "1. Se modificó para permitir configurar la velocidad de desplazamiento en unidades decimales.\n\n- Al establecerla en 1 o menos, se obtienen velocidades más lentas.\n\n- Debido a la diferencia entre números enteros y de coma flotante, la información de configuración guardada en la última versión no se puede cargar en versiones anteriores.\n\n2. Se corrigieron errores en el filtro de texto a voz y en la ordenación de la lista de edición por lotes.\n\n3. Se agregó una función que guarda la información de configuración actual como un perfil, lo que permite cambiar automáticamente a esa configuración a una hora específica.\n\n- Solo se aplica la información relacionada con la fuente, los márgenes y el fondo.\n\n- Si no se especifica una configuración de tiempo, se puede aplicar manualmente."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "Opravená chyba, kvôli ktorej sa ďalší súbor neotváral automaticky na poslednej strane."
+    "devnote": "1. Upravené tak, aby umožňovalo nastavenie rýchlosti rolovania v desatinných jednotkách.\n- Nastavenie na 1 alebo menej umožňuje nižšiu rýchlosť.\n- Kvôli rozdielu medzi celými číslami a číslami s pohyblivou desatinnou čiarkou nie je možné načítať informácie o nastaveniach zálohované v najnovšej verzii v predchádzajúcich verziách.\n\n2. Opravené chyby vo filtri TTS a triedení zoznamu dávkových úprav.\n\n3. Pridaná funkcia, ktorá ukladá aktuálne informácie o nastavení ako profil, čo umožňuje automatické prepnutie na toto nastavenie v určenom čase.\n- Použijú sa iba informácie týkajúce sa písma, okrajov a pozadia.\n- Ak nie je zadané žiadne nastavenie času, je možné ho použiť manuálne."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "Odpravljena je bila napaka, pri kateri se naslednja datoteka ni samodejno odprla na zadnji strani."
+    "devnote": "1. Spremenjeno, da se hitrost pomikanja lahko nastavi v decimalnih enotah.\n- Nastavitev na 1 ali manj omogoča nižje hitrosti.\n- Zaradi razlike med celimi števili in števili s plavajočo vejico informacij o nastavitvah, varnostno kopiranih v najnovejši različici, ni mogoče naložiti v prejšnjih različicah.\n\n2. Odpravljene so napake v filtru za pretvorbo besedila v govor in razvrščanju seznama za paketno urejanje.\n\n3. Dodana je funkcija, ki shrani trenutne informacije o nastavitvah kot profil, kar omogoča samodejni preklop na to nastavitev ob določenem času.\n- Uporabijo se samo informacije, povezane s pisavo, robovi in ​​ozadjem.\n- Če ni določena nobena časovna nastavitev, jo je mogoče uporabiti ročno."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "ඊළඟ ගොනුව අවසාන පිටුවේ ස්වයංක්‍රීයව විවෘත නොවන දෝෂයක් නිරාකරණය කරන ලදී."
+    "devnote": "1. අනුචලන වේගය දශම ඒකක වලින් සැකසීමට ඉඩ සලසන පරිදි වෙනස් කර ඇත.\n- එය 1 හෝ ඊට අඩු ලෙස සැකසීම මන්දගාමී වේගයන් සඳහා ඉඩ සලසයි.\n- පූර්ණ සංඛ්‍යා සහ පාවෙන ලක්ෂ්‍ය සංඛ්‍යා අතර වෙනස නිසා, නවතම අනුවාදයේ උපස්ථ කරන ලද සැකසුම් තොරතුරු පෙර අනුවාදවල පූරණය කළ නොහැක.\n\n2. TTS පෙරහන සහ කණ්ඩායම් සංස්කරණ ලැයිස්තු වර්ග කිරීමේ දෝෂ නිවැරදි කරන ලදී.\n\n3. වත්මන් සැකසුම් තොරතුරු පැතිකඩක් ලෙස සුරකින විශේෂාංගයක් එක් කරන ලද අතර, එය නිශ්චිත වේලාවක එම සැකසුම වෙත ස්වයංක්‍රීයව මාරු වීමට ඉඩ සලසයි.\n- අකුරු ආශ්‍රිත, ආන්තිකය සහ පසුබිම් තොරතුරු පමණක් යොදනු ලැබේ.\n- කාල සැකසුමක් නිශ්චිතව දක්වා නොමැති නම්, එය අතින් යෙදිය හැක."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "تم إصلاح خطأ كان يتسبب في عدم فتح الملف التالي تلقائيًا في الصفحة الأخيرة."
+    "devnote": "١. تم تعديل البرنامج للسماح بتحديد سرعة التمرير بالوحدات العشرية.\n\n- ضبطها على ١ أو أقل يسمح بسرعات أبطأ.\n\n- نظرًا للاختلاف بين الأعداد الصحيحة والأعداد العشرية، لا يمكن تحميل معلومات الإعدادات المحفوظة في أحدث إصدار في الإصدارات السابقة.\n\n٢. تم إصلاح الأخطاء في مُرشِّح تحويل النص إلى كلام وفرز قائمة التحرير المجمّع.\n\n٣. تمت إضافة ميزة لحفظ معلومات الإعدادات الحالية كملف تعريف، مما يسمح بالتبديل تلقائيًا إلى هذا الإعداد في وقت محدد.\n\n- يتم تطبيق معلومات الخط والهوامش والخلفية فقط.\n\n- في حال عدم تحديد وقت، يمكن تطبيقه يدويًا."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "Ուղղվել է սխալը, որի պատճառով հաջորդ ֆայլը չէր բացվում ավտոմատ կերպով վերջին էջում։"
+    "devnote": "1. Փոփոխվել է՝ թույլ տալով սահմանել ոլորման արագությունը տասնորդական միավորներով։\n- 1 կամ ավելի քիչ սահմանելը թույլ է տալիս ավելի դանդաղ արագություններ։\n- Ամբողջ և լողացող կետային թվերի միջև տարբերության պատճառով, վերջին տարբերակում պահուստավորված կարգավորումների տեղեկատվությունը չի կարող բեռնվել նախորդ տարբերակներում։\n\n2. Ուղղվել են TTS ֆիլտրի և խմբային խմբագրման ցուցակի տեսակավորման սխալները։\n\n3. Ավելացվել է գործառույթ, որը պահպանում է ընթացիկ կարգավորումների տեղեկատվությունը որպես պրոֆիլ, թույլ տալով ավտոմատ կերպով անցնել այդ կարգավորմանը նշված ժամին։\n- Կիրառվում է միայն տառատեսակի, լուսանցքի և ֆոնային տեղեկատվությունը։\n- Եթե ժամանակի կարգավորում նշված չէ, այն կարող է կիրառվել ձեռքով։"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "Lagfærði villu þar sem næsta skrá opnaðist ekki sjálfkrafa á síðustu síðu."
+    "devnote": "1. Breytt til að leyfa að skrunhraða sé stilltur í tugabrotum.\n- Að stilla hann á 1 eða minna gerir kleift að hægja á hraðanum.\n- Vegna munar á heiltölum og fleytitölum er ekki hægt að hlaða stillingarupplýsingum sem voru afritaðar í nýjustu útgáfunni í fyrri útgáfum.\n\n2. Lagfærðar villur í TTS-síu og röðun hópbreytingalista.\n\n3. Bætt við eiginleiki sem vistar núverandi stillingarupplýsingar sem prófíl, sem gerir kleift að skipta sjálfkrafa yfir í þá stillingu á tilteknum tíma.\n- Aðeins upplýsingar um leturgerð, spássíu og bakgrunn eru notaðar.\n- Ef engin tímastilling er tilgreind er hægt að beita henni handvirkt."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "Növbəti faylın son səhifədə avtomatik olaraq açılmaması ilə bağlı xəta düzəldildi."
+    "devnote": "1. Sürüşdürmə sürətinin onluq vahidlərdə təyin olunmasına icazə vermək üçün dəyişdirilib.\n- Onu 1 və ya daha az olaraq təyin etmək daha yavaş sürətlərə imkan verir.\n- Tam ədədlər və üzən nöqtəli ədədlər arasındakı fərqə görə, ən son versiyada ehtiyat nüsxələnmiş parametr məlumatları əvvəlki versiyalarda yüklənə bilməz.\n\n2. TTS filtrindəki və toplu redaktə siyahısının çeşidlənməsindəki xətalar düzəldilib.\n\n3. Cari parametr məlumatlarını profil kimi saxlayan və müəyyən bir vaxtda avtomatik olaraq həmin parametrə keçməsinə imkan verən bir xüsusiyyət əlavə edilib.\n- Yalnız şriftlə əlaqəli, kənar və arxa plan məlumatları tətbiq olunur.\n- Vaxt parametri göstərilməyibsə, əl ilə tətbiq edilə bilər."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "Het 'n fout reggestel waar die volgende lêer nie outomaties op die laaste bladsy sou oopmaak nie."
+    "devnote": "1. Gewysig om toe te laat dat blaaispoed in desimale eenhede gestel word.\n- As dit op 1 of minder gestel word, word stadiger snelhede toegelaat.\n- As gevolg van die verskil tussen heelgetalle en drywende kommagetalle, kan instellingsinligting wat in die nuutste weergawe gerugsteun is, nie in vorige weergawes gelaai word nie.\n\n2. Foute in die TTS-filter en groepwysigingslyssortering reggestel.\n\n3. 'n Funksie bygevoeg wat huidige instellingsinligting as 'n profiel stoor, wat dit toelaat om outomaties na daardie instelling oor te skakel op 'n spesifieke tyd.\n- Slegs lettertipe-verwante, marge- en agtergrondinligting word toegepas.\n- Indien geen tydinstelling gespesifiseer is nie, kan dit handmatig toegepas word."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "U rregullua një gabim ku skedari tjetër nuk hapej automatikisht në faqen e fundit."
+    "devnote": "1. Modifikuar për të lejuar që shpejtësia e lëvizjes të vendoset në njësi dhjetore.\n- Vendosja e saj në 1 ose më pak lejon shpejtësi më të ngadalta.\n- Për shkak të ndryshimit midis numrave të plotë dhe numrave me pikë lundruese, informacioni i cilësimeve i rezervuar në versionin më të fundit nuk mund të ngarkohet në versionet e mëparshme.\n\n2. U rregulluan gabimet në filtrin TTS dhe renditjen e listës së redaktimit në grup.\n\n3. U shtua një veçori që ruan informacionin aktual të cilësimeve si profil, duke e lejuar atë të kalojë automatikisht në atë cilësim në një kohë të caktuar.\n- Zbatohet vetëm informacioni që lidhet me fontin, margjinën dhe sfondin.\n- Nëse nuk specifikohet asnjë cilësim kohor, ai mund të zbatohet manualisht."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "የሚቀጥለው ፋይል በመጨረሻው ገጽ ላይ በራስ-ሰር የማይከፈትበት ሳንካ ተስተካክሏል።"
+    "devnote": "1. የማሸብለል ፍጥነት በአስርዮሽ አሃዶች እንዲዘጋጅ ለማስቻል የተሻሻለ።\n- ወደ 1 ወይም ከዚያ በታች ማቀናበር ቀርፋፋ ፍጥነቶችን ያስችላል።\n- በኢንቲጀሮች እና በተንሳፋፊ ነጥብ ቁጥሮች መካከል ባለው ልዩነት ምክንያት፣ በአዲሱ ስሪት ውስጥ ምትኬ የተቀመጠ መረጃ በቀደሙት ስሪቶች ላይ ሊጫን አይችልም።\n\n2. በTTS ማጣሪያ እና በቡድን አርትዖት ዝርዝር ድርደራ ላይ ያሉ ስህተቶች ተስተካክለዋል።\n\n3. የአሁኑን የቅንብር መረጃ እንደ መገለጫ የሚያስቀምጥ ባህሪ ታክሏል፣ ይህም በተወሰነ ጊዜ በራስ-ሰር ወደዚያ ቅንብር እንዲቀይር ያስችለዋል።\n- ከቅርጸ-ቁምፊ ጋር የተያያዘ፣ ህዳግ እና የጀርባ መረጃ ብቻ ይተገበራል።\n- የጊዜ ቅንብር ካልተገለጸ፣ በእጅ ሊተገበር ይችላል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "Parandatud viga, mille tõttu järgmine fail ei avanenud viimasel lehel automaatselt."
+    "devnote": "1. Muudetud nii, et kerimiskiirust saab kümnendmurru süsteemis seadistada.\n- 1 või vähema seadistamine võimaldab aeglasemat kiirust.\n- Täisarvude ja ujukomaarvude erinevuse tõttu ei saa uusimas versioonis varundatud sätete teavet eelmistes versioonides laadida.\n\n2. Parandatud vead TTS-filtris ja partiiviisilise redigeerimise loendi sortimises.\n\n3. Lisatud funktsioon, mis salvestab praeguse sätete teabe profiilina, võimaldades sellel automaatselt sellele sättele lülituda määratud ajal.\n- Rakendatakse ainult fondi, veeriste ja taustaga seotud teavet.\n- Kui ajasätet pole määratud, saab seda käsitsi rakendada."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "ایک بگ کو ٹھیک کیا جہاں اگلی فائل آخری صفحہ پر خود بخود نہیں کھلے گی۔"
+    "devnote": "1. اسکرول کی رفتار کو اعشاریہ اکائیوں میں سیٹ کرنے کے لیے ترمیم کی گئی۔\n- اسے 1 یا اس سے کم پر سیٹ کرنا سست رفتار کی اجازت دیتا ہے۔\n- انٹیجرز اور فلوٹنگ پوائنٹ نمبرز کے درمیان فرق کی وجہ سے، تازہ ترین ورژن میں بیک اپ کی گئی معلومات کو پچھلے ورژن میں لوڈ نہیں کیا جا سکتا۔\n\n2. ٹی ٹی ایس فلٹر اور بیچ ایڈٹ لسٹ کی چھانٹی میں کیڑے درست کیے گئے۔\n\n3. ایک ایسی خصوصیت شامل کی گئی جو موجودہ ترتیب کی معلومات کو بطور پروفائل محفوظ کرتی ہے، جس سے اسے ایک مخصوص وقت پر خود بخود اس ترتیب پر سوئچ کرنے کی اجازت ملتی ہے۔\n- صرف فونٹ سے متعلق، مارجن، اور پس منظر کی معلومات کا اطلاق ہوتا ہے۔\n- اگر وقت کی کوئی ترتیب متعین نہیں ہے، تو اسے دستی طور پر لاگو کیا جا سکتا ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "Виправлено помилку, через яку наступний файл не відкривався автоматично на останній сторінці."
+    "devnote": "1. Змінено, щоб дозволити встановлення швидкості прокручування в десяткових одиницях.\n- Встановлення значення 1 або менше дозволяє зменшити швидкість.\n- Через різницю між цілими числами та числами з плаваючою комою, інформацію про налаштування, резервну копію якої було збережено в останній версії, неможливо завантажити в попередні версії.\n\n2. Виправлено помилки у фільтрі TTS та сортуванні списку пакетного редагування.\n\n3. Додано функцію, яка зберігає поточну інформацію про налаштування як профіль, що дозволяє автоматично перемикатися на це налаштування у вказаний час.\n- Застосовується лише інформація, пов'язана зі шрифтом, полями та фоном.\n- Якщо налаштування часу не вказано, його можна застосувати вручну."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "Risolto un bug per cui il file successivo non si apriva automaticamente nell'ultima pagina."
+    "devnote": "1. Modificato per consentire l'impostazione della velocità di scorrimento in unità decimali.\n\nImpostandola su 1 o inferiore si ottengono velocità inferiori.\n\nA causa della differenza tra numeri interi e numeri in virgola mobile, le informazioni di impostazione salvate nell'ultima versione non possono essere caricate nelle versioni precedenti.\n\n2. Corretti bug nel filtro TTS e nell'ordinamento dell'elenco di modifica in batch.\n\n3. Aggiunta una funzione che salva le informazioni di impostazione correnti come profilo, consentendo il passaggio automatico a tale impostazione a un orario specificato.\n\nVengono applicate solo le informazioni relative a font, margini e sfondo.\n\nSe non viene specificato alcun orario, è possibile impostarlo manualmente."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "Memperbaiki bug di mana file berikutnya tidak terbuka secara otomatis di halaman terakhir."
+    "devnote": "1. Dimodifikasi untuk memungkinkan pengaturan kecepatan gulir dalam satuan desimal.\n\n- Mengaturnya ke 1 atau kurang memungkinkan kecepatan yang lebih lambat.\n\n- Karena perbedaan antara bilangan bulat dan bilangan floating-point, informasi pengaturan yang dicadangkan dalam versi terbaru tidak dapat dimuat di versi sebelumnya.\n\n2. Memperbaiki bug pada filter TTS dan pengurutan daftar pengeditan massal.\n\n3. Menambahkan fitur yang menyimpan informasi pengaturan saat ini sebagai profil, memungkinkan untuk secara otomatis beralih ke pengaturan tersebut pada waktu yang ditentukan.\n\n- Hanya informasi terkait font, margin, dan latar belakang yang diterapkan.\n\n- Jika tidak ada pengaturan waktu yang ditentukan, pengaturan dapat diterapkan secara manual."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "最後のページで次のファイルが自動的に開かないバグを修正しました。"
+    "devnote": "1. スクロール速度を小数点で設定できるように変更しました。\n\n- 1以下に設定すると、スクロール速度が遅くなります。\n\n- 整数と浮動小数点数の違いにより、最新バージョンでバックアップされた設定情報は以前のバージョンでは読み込めません。\n\n2. TTSフィルターと一括編集リストの並べ替えに関するバグを修正しました。\n\n3. 現在の設定情報をプロファイルとして保存し、指定した時間に自動的にその設定に切り替える機能を追加しました。\n\n- フォント、余白、背景情報のみが適用されます。\n\n- 時間設定が指定されていない場合は、手動で設定できます。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "გამოსწორდა შეცდომა, რის გამოც შემდეგი ფაილი ავტომატურად არ იხსნებოდა ბოლო გვერდზე."
+    "devnote": "1. შეიცვალა გადახვევის სიჩქარის ათობით ერთეულებში დაყენების შესაძლებლობა.\n- 1-ზე ან ნაკლებზე დაყენება უფრო ნელ სიჩქარეს იძლევა.\n- მთელ და მცურავ წერტილოვან რიცხვებს შორის განსხვავების გამო, უახლეს ვერსიაში სარეზერვო ასლის შექმნისას პარამეტრების ინფორმაციის ჩატვირთვა წინა ვერსიებში შეუძლებელია.\n\n2. გამოსწორდა შეცდომები TTS ფილტრსა და ჯგუფური რედაქტირების სიის დახარისხებაში.\n\n3. დაემატა ფუნქცია, რომელიც მიმდინარე პარამეტრების ინფორმაციას პროფილის სახით ინახავს, ​​რაც საშუალებას აძლევს მას ავტომატურად გადავიდეს ამ პარამეტრზე მითითებულ დროს.\n- გამოიყენება მხოლოდ შრიფტთან, ზღვრებთან და ფონის ინფორმაცია.\n- თუ დროის პარამეტრი არ არის მითითებული, მისი გამოყენება შესაძლებელია ხელით."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "Kulungiswe iphutha lapho ifayela elilandelayo lingeke livuleke ngokuzenzakalelayo ekhasini lokugcina."
+    "devnote": "1. Kushintshwe ukuze kuvunyelwe isivinini sokuskrola ukuthi sisethwe kumayunithi wedesimali.\n\n- Ukusibeka ku-1 noma ngaphansi kuvumela isivinini esisheshayo.\n- Ngenxa yomehluko phakathi kwezinombolo eziphelele nezinombolo ze-floating-point, ulwazi lokusetha olugcinwe enguqulweni yakamuva alukwazi ukulayishwa ezinguqulweni zangaphambilini.\n\n2. Kulungiswe amaphutha kusihlungi se-TTS kanye nokuhlunga uhlu lokuhlela lwe-batch.\n\n3. Kwengezwe isici esigcina ulwazi lwamanje lokusetha njengephrofayili, esivumela ukuthi sishintshele ngokuzenzakalelayo kulolo lungiselelo ngesikhathi esithile.\n- Kusetshenziswa ulwazi oluhlobene nefonti, imajini, kanye nesizinda kuphela.\n\n- Uma kungekho lungiselelo lwesikhathi olucacisiwe, lungasetshenziswa ngesandla."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "修复了最后一页无法自动打开下一个文件的错误。"
+    "devnote": "1. 修改了滚动速度的设置，允许以十进制单位设置。\n\n- 设置为 1 或更小的值可以降低滚动速度。\n\n- 由于整数和浮点数的差异，最新版本中备份的设置信息无法在之前的版本中加载。\n\n2. 修复了 TTS 过滤器和批量编辑列表排序中的错误。\n\n3. 新增了将当前设置信息保存为配置文件的功能，允许在指定时间自动切换到该设置。\n\n- 仅应用字体、边距和背景信息。\n\n- 如果未指定时间设置，则可以手动应用。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "修正了最後一頁無法自動開啟下一個檔案的錯誤。"
+    "devnote": "1. 修改了滾動速度的設置，允許以十進制單位設定。\n\n- 設定為 1 或更小的值可以降低滾動速度。\n\n- 由於整數和浮點數的差異，最新版本中備份的設定資訊無法在先前的版本中載入。\n\n2. 修正了 TTS 過濾器和批次編輯清單排序中的錯誤。\n\n3. 新增了將目前設定資訊儲存為設定檔的功能，允許在指定時間自動切換到該設定。\n\n- 僅套用字體、邊距和背景資訊。\n\n- 如果未指定時間設置，則可以手動套用。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "修正了最後一頁無法自動開啟下一個檔案的錯誤。"
+    "devnote": "1. 修改了滾動速度的設置，允許以十進制單位設定。\n\n- 設定為 1 或更小的值可以降低滾動速度。\n\n- 由於整數和浮點數的差異，最新版本中備份的設定資訊無法在先前的版本中載入。\n\n2. 修正了 TTS 過濾器和批次編輯清單排序中的錯誤。\n\n3. 新增了將目前設定資訊儲存為設定檔的功能，允許在指定時間自動切換到該設定。\n\n- 僅套用字體、邊距和背景資訊。\n\n- 如果未指定時間設置，則可以手動套用。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "Opravena chyba, kdy se další soubor neotevřel automaticky na poslední stránce."
+    "devnote": "1. Upraveno tak, aby umožňovalo nastavení rychlosti posouvání v desetinných jednotkách.\n- Nastavení na 1 nebo méně umožňuje nižší rychlosti.\n- Vzhledem k rozdílu mezi celými čísly a čísly s plovoucí desetinnou čárkou nelze informace o nastavení zálohované v nejnovější verzi načíst v předchozích verzích.\n\n2. Opraveny chyby ve filtru TTS a třídění seznamu dávkových úprav.\n\n3. Přidána funkce, která ukládá aktuální informace o nastavení jako profil, což umožňuje automatické přepnutí na toto nastavení v zadaný čas.\n- Použijí se pouze informace týkající se písma, okrajů a pozadí.\n- Pokud není zadáno žádné nastavení času, lze jej použít ručně."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "Келесі файл соңғы бетте автоматты түрде ашылмайтын қате түзетілді."
+    "devnote": "1. Айналдыру жылдамдығын ондық бірліктермен орнатуға мүмкіндік беретіндей етіп өзгертілді.\n- Оны 1 немесе одан азға орнату жылдамдықтың баяулауына мүмкіндік береді.\n- Бүтін сандар мен қалқымалы нүктелі сандар арасындағы айырмашылыққа байланысты, соңғы нұсқада сақтық көшірмесі жасалған параметр ақпаратын алдыңғы нұсқаларда жүктеу мүмкін емес.\n\n2. TTS сүзгісіндегі және топтық өңдеу тізімін сұрыптаудағы қателер түзетілді.\n\n3. Ағымдағы параметр ақпаратын профиль ретінде сақтайтын мүмкіндік қосылды, бұл оған белгілі бір уақытта автоматты түрде сол параметрге ауысуға мүмкіндік береді.\n\n- Тек қаріпке қатысты, жиек және фондық ақпарат қолданылады.\n- Егер уақыт параметрі көрсетілмесе, оны қолмен қолдануға болады."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "S'ha corregit un error que feia que el següent fitxer no s'obrís automàticament a l'última pàgina."
+    "devnote": "1. Modificat per permetre que la velocitat de desplaçament es configure en unitats decimals.\n- Si es configura a 1 o menys, es poden obtenir velocitats més lentes.\n- A causa de la diferència entre els nombres enters i els nombres de coma flotant, la informació de configuració de la qual es guardava una còpia de seguretat a la darrera versió no es pot carregar a les versions anteriors.\n\n2. Corregits errors al filtre TTS i a l'ordenació de la llista d'edició per lots.\n\n3. Afegida una funció que desa la informació de configuració actual com a perfil, cosa que permet canviar automàticament a aquesta configuració en un moment especificat.\n- Només s'aplica la informació relacionada amb la font, els marges i el fons.\n- Si no s'especifica cap configuració de temps, es pot aplicar manualment."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "ಕೊನೆಯ ಪುಟದಲ್ಲಿ ಮುಂದಿನ ಫೈಲ್ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ತೆರೆಯದಿರುವ ದೋಷವನ್ನು ಸರಿಪಡಿಸಲಾಗಿದೆ."
+    "devnote": "1. ಸ್ಕ್ರಾಲ್ ವೇಗವನ್ನು ದಶಮಾಂಶ ಘಟಕಗಳಲ್ಲಿ ಹೊಂದಿಸಲು ಅನುಮತಿಸುವಂತೆ ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಇದನ್ನು 1 ಅಥವಾ ಅದಕ್ಕಿಂತ ಕಡಿಮೆಗೆ ಹೊಂದಿಸುವುದರಿಂದ ನಿಧಾನವಾದ ವೇಗವನ್ನು ಅನುಮತಿಸುತ್ತದೆ.\n- ಪೂರ್ಣಾಂಕಗಳು ಮತ್ತು ಫ್ಲೋಟಿಂಗ್-ಪಾಯಿಂಟ್ ಸಂಖ್ಯೆಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸದಿಂದಾಗಿ, ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯಲ್ಲಿ ಬ್ಯಾಕಪ್ ಮಾಡಲಾದ ಸೆಟ್ಟಿಂಗ್ ಮಾಹಿತಿಯನ್ನು ಹಿಂದಿನ ಆವೃತ್ತಿಗಳಲ್ಲಿ ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ.\n\n2. TTS ಫಿಲ್ಟರ್ ಮತ್ತು ಬ್ಯಾಚ್ ಎಡಿಟ್ ಪಟ್ಟಿ ವಿಂಗಡಣೆಯಲ್ಲಿ ದೋಷಗಳನ್ನು ಸರಿಪಡಿಸಲಾಗಿದೆ.\n\n3. ಪ್ರಸ್ತುತ ಸೆಟ್ಟಿಂಗ್ ಮಾಹಿತಿಯನ್ನು ಪ್ರೊಫೈಲ್ ಆಗಿ ಉಳಿಸುವ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಸೇರಿಸಲಾಗಿದೆ, ನಿರ್ದಿಷ್ಟ ಸಮಯದಲ್ಲಿ ಆ ಸೆಟ್ಟಿಂಗ್‌ಗೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಬದಲಾಯಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ.\n- ಫಾಂಟ್-ಸಂಬಂಧಿತ, ಅಂಚು ಮತ್ತು ಹಿನ್ನೆಲೆ ಮಾಹಿತಿಯನ್ನು ಮಾತ್ರ ಅನ್ವಯಿಸಲಾಗುತ್ತದೆ.\n- ಯಾವುದೇ ಸಮಯದ ಸೆಟ್ಟಿಂಗ್ ಅನ್ನು ನಿರ್ದಿಷ್ಟಪಡಿಸದಿದ್ದರೆ, ಅದನ್ನು ಹಸ್ತಚಾಲಿತವಾಗಿ ಅನ್ವಯಿಸಬಹುದು."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "Ispravljena je greška gdje se sljedeća datoteka nije automatski otvarala na posljednjoj stranici."
+    "devnote": "1. Izmijenjeno kako bi se omogućilo postavljanje brzine pomicanja u decimalnim jedinicama.\n- Postavljanje na 1 ili manje omogućuje sporije brzine.\n- Zbog razlike između cijelih brojeva i brojeva s pomičnim zarezom, informacije o postavkama sigurnosno kopirane u najnovijoj verziji ne mogu se učitati u prethodnim verzijama.\n\n2. Ispravljene su greške u TTS filtru i sortiranju popisa za skupno uređivanje.\n\n3. Dodana je značajka koja sprema trenutne informacije o postavkama kao profil, omogućujući automatsko prebacivanje na tu postavku u određeno vrijeme.\n- Primjenjuju se samo informacije vezane uz font, margine i pozadinu.\n- Ako nije navedena postavka vremena, može se primijeniti ručno."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "បានជួសជុលកំហុសដែលឯកសារបន្ទាប់មិនបើកដោយស្វ័យប្រវត្តិនៅលើទំព័រចុងក្រោយ។"
+    "devnote": "១. បានកែប្រែដើម្បីអនុញ្ញាតឱ្យល្បឿនរមូរត្រូវបានកំណត់ជាឯកតាទសភាគ។\n- ការកំណត់វាទៅ 1 ឬតិចជាងនេះអនុញ្ញាតឱ្យមានល្បឿនយឺតជាង។\n- ដោយសារតែភាពខុសគ្នារវាងចំនួនគត់ និងលេខអណ្តែត ព័ត៌មានការកំណត់ដែលបានបម្រុងទុកនៅក្នុងកំណែចុងក្រោយបំផុតមិនអាចផ្ទុកនៅក្នុងកំណែមុនៗបានទេ។\n\n២. ជួសជុលកំហុសនៅក្នុងតម្រង TTS និងការតម្រៀបបញ្ជីកែសម្រួលជាបាច់។\n\n៣. បានបន្ថែមមុខងារដែលរក្សាទុកព័ត៌មានការកំណត់បច្ចុប្បន្នជាទម្រង់ ដែលអនុញ្ញាតឱ្យវាប្តូរទៅការកំណត់នោះដោយស្វ័យប្រវត្តិនៅពេលវេលាជាក់លាក់មួយ។\n- មានតែព័ត៌មានទាក់ទងនឹងពុម្ពអក្សរ រឹម និងផ្ទៃខាងក្រោយប៉ុណ្ណោះដែលត្រូវបានអនុវត្ត។\n- ប្រសិនបើមិនមានការកំណត់ពេលវេលាត្រូវបានបញ្ជាក់ទេ វាអាចត្រូវបានអនុវត្តដោយដៃ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "Кийинки файл акыркы баракта автоматтык түрдө ачылбай калган ката оңдолду."
+    "devnote": "1. Жылдыруу ылдамдыгын ондук бирдиктер менен коюуга мүмкүндүк берүү үчүн өзгөртүлдү.\n- Аны 1 же андан азга коюу ылдамдыкты жайлатууга мүмкүндүк берет.\n- Бүтүн сандар менен калкыма чекиттүү сандардын ортосундагы айырмачылыктан улам, акыркы версияда камдалган орнотуу маалыматын мурунку версияларда жүктөөгө болбойт.\n\n2. TTS чыпкасындагы жана топтук түзөтүү тизмесин иреттөөдөгү каталар оңдолду.\n\n3. Учурдагы орнотуу маалыматын профиль катары сактоочу функция кошулду, бул ага белгиленген убакта автоматтык түрдө ошол орнотууга өтүүгө мүмкүндүк берет.\n- Шрифтке байланыштуу, четки жана фондук маалымат гана колдонулат.\n- Эгерде убакыт жөндөөсү көрсөтүлбөсө, аны кол менен колдонсо болот."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "அடுத்த கோப்பு கடைசி பக்கத்தில் தானாக திறக்க முடியாத ஒரு பிழை சரி செய்யப்பட்டது."
+    "devnote": "1. உருள் வேகத்தை தசம அலகுகளில் அமைக்க அனுமதிக்கும் வகையில் மாற்றியமைக்கப்பட்டுள்ளது.\n- இதை 1 அல்லது அதற்கும் குறைவாக அமைப்பது மெதுவான வேகத்தை அனுமதிக்கிறது.\n- முழு எண்களுக்கும் மிதக்கும் புள்ளி எண்களுக்கும் இடையிலான வேறுபாடு காரணமாக, சமீபத்திய பதிப்பில் காப்புப் பிரதி எடுக்கப்பட்ட தகவலை முந்தைய பதிப்புகளில் ஏற்ற முடியாது.\n\n2. TTS வடிகட்டி மற்றும் தொகுதி திருத்த பட்டியல் வரிசைப்படுத்தலில் பிழைகள் சரி செய்யப்பட்டன.\n\n3. தற்போதைய அமைப்புத் தகவலை ஒரு சுயவிவரமாகச் சேமிக்கும் ஒரு அம்சம் சேர்க்கப்பட்டது, இது ஒரு குறிப்பிட்ட நேரத்தில் தானாகவே அந்த அமைப்பிற்கு மாற அனுமதிக்கிறது.\n- எழுத்துரு தொடர்பான, விளிம்பு மற்றும் பின்னணித் தகவல்கள் மட்டுமே பயன்படுத்தப்படும்.\n- நேர அமைப்பு எதுவும் குறிப்பிடப்படவில்லை என்றால், அதை கைமுறையாகப் பயன்படுத்தலாம்."
   },
   "태국어": {
     "key": "th",
-    "devnote": "แก้ไขข้อผิดพลาดที่ทำให้ไฟล์ถัดไปไม่เปิดโดยอัตโนมัติในหน้าสุดท้าย"
+    "devnote": "1. ปรับปรุงเพื่อให้สามารถตั้งค่าความเร็วในการเลื่อนในหน่วยทศนิยมได้\n- การตั้งค่าเป็น 1 หรือน้อยกว่า จะทำให้ความเร็วในการเลื่อนช้าลง\n\n- เนื่องจากความแตกต่างระหว่างจำนวนเต็มและจำนวนทศนิยม ข้อมูลการตั้งค่าที่สำรองไว้ในเวอร์ชันล่าสุดจึงไม่สามารถโหลดในเวอร์ชันก่อนหน้าได้\n\n2. แก้ไขข้อบกพร่องในตัวกรอง TTS และการเรียงลำดับรายการแก้ไขแบบกลุ่ม\n\n3. เพิ่มคุณสมบัติที่บันทึกข้อมูลการตั้งค่าปัจจุบันเป็นโปรไฟล์ ทำให้สามารถเปลี่ยนไปใช้การตั้งค่าดังกล่าวโดยอัตโนมัติเมื่อถึงเวลาที่กำหนด\n\n- เฉพาะข้อมูลที่เกี่ยวข้องกับแบบอักษร ระยะขอบ และพื้นหลังเท่านั้นที่จะถูกนำไปใช้\n\n- หากไม่ได้ระบุการตั้งค่าเวลา สามารถนำไปใช้ด้วยตนเองได้"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "Son sayfada bir sonraki dosyanın otomatik olarak açılmamasına neden olan bir hata düzeltildi."
+    "devnote": "1. Kaydırma hızının ondalık birimlerle ayarlanabilmesi için değişiklik yapıldı.\n\n- 1 veya daha düşük bir değere ayarlanması daha yavaş hızlara olanak tanır.\n\n- Tamsayılar ve ondalık sayılar arasındaki fark nedeniyle, en son sürümde yedeklenen ayar bilgileri önceki sürümlere yüklenemez.\n\n2. TTS filtresi ve toplu düzenleme listesi sıralamasındaki hatalar düzeltildi.\n\n3. Geçerli ayar bilgilerini bir profil olarak kaydeden ve belirtilen bir zamanda otomatik olarak bu ayara geçişi sağlayan bir özellik eklendi.\n\n- Yalnızca yazı tipi, kenar boşluğu ve arka plan bilgileri uygulanır.\n\n- Zaman ayarı belirtilmezse, manuel olarak uygulanabilir."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "తదుపరి ఫైల్ చివరి పేజీలో స్వయంచాలకంగా తెరుచుకోని బగ్‌ను పరిష్కరించాము."
+    "devnote": "1. స్క్రోల్ వేగాన్ని దశాంశ యూనిట్లలో సెట్ చేయడానికి వీలుగా సవరించబడింది.\n- దీన్ని 1 లేదా అంతకంటే తక్కువకు సెట్ చేయడం వలన నెమ్మదిగా వేగం లభిస్తుంది.\n- పూర్ణాంకాలు మరియు ఫ్లోటింగ్-పాయింట్ సంఖ్యల మధ్య వ్యత్యాసం కారణంగా, తాజా వెర్షన్‌లో బ్యాకప్ చేయబడిన సెట్టింగ్ సమాచారాన్ని మునుపటి వెర్షన్‌లలో లోడ్ చేయడం సాధ్యం కాదు.\n\n2. TTS ఫిల్టర్ మరియు బ్యాచ్ ఎడిట్ జాబితా క్రమబద్ధీకరణలో బగ్‌లు పరిష్కరించబడ్డాయి.\n\n3. ప్రస్తుత సెట్టింగ్ సమాచారాన్ని ప్రొఫైల్‌గా సేవ్ చేసే ఫీచర్ జోడించబడింది, ఇది పేర్కొన్న సమయంలో ఆ సెట్టింగ్‌కు స్వయంచాలకంగా మారడానికి అనుమతిస్తుంది.\n- ఫాంట్-సంబంధిత, మార్జిన్ మరియు నేపథ్య సమాచారం మాత్రమే వర్తించబడుతుంది.\n- సమయ సెట్టింగ్ పేర్కొనబడకపోతే, దానిని మాన్యువల్‌గా వర్తింపజేయవచ్చు."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "ਇੱਕ ਬੱਗ ਠੀਕ ਕੀਤਾ ਗਿਆ ਹੈ ਜਿੱਥੇ ਅਗਲੀ ਫਾਈਲ ਆਖਰੀ ਪੰਨੇ 'ਤੇ ਆਪਣੇ ਆਪ ਨਹੀਂ ਖੁੱਲ੍ਹਦੀ ਸੀ।"
+    "devnote": "1. ਸਕ੍ਰੌਲ ਸਪੀਡ ਨੂੰ ਦਸ਼ਮਲਵ ਇਕਾਈਆਂ ਵਿੱਚ ਸੈੱਟ ਕਰਨ ਦੀ ਆਗਿਆ ਦੇਣ ਲਈ ਸੋਧਿਆ ਗਿਆ ਹੈ।\n- ਇਸਨੂੰ 1 ਜਾਂ ਘੱਟ 'ਤੇ ਸੈੱਟ ਕਰਨ ਨਾਲ ਹੌਲੀ ਗਤੀ ਮਿਲਦੀ ਹੈ।\n- ਪੂਰਨ ਅੰਕਾਂ ਅਤੇ ਫਲੋਟਿੰਗ-ਪੁਆਇੰਟ ਨੰਬਰਾਂ ਵਿੱਚ ਅੰਤਰ ਦੇ ਕਾਰਨ, ਨਵੀਨਤਮ ਸੰਸਕਰਣ ਵਿੱਚ ਬੈਕਅੱਪ ਕੀਤੀ ਗਈ ਸੈਟਿੰਗ ਜਾਣਕਾਰੀ ਨੂੰ ਪਿਛਲੇ ਸੰਸਕਰਣਾਂ ਵਿੱਚ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।\n\n2. TTS ਫਿਲਟਰ ਅਤੇ ਬੈਚ ਐਡਿਟ ਸੂਚੀ ਛਾਂਟੀ ਵਿੱਚ ਬੱਗ ਠੀਕ ਕੀਤੇ ਗਏ ਹਨ।\n\n3. ਇੱਕ ਵਿਸ਼ੇਸ਼ਤਾ ਸ਼ਾਮਲ ਕੀਤੀ ਗਈ ਹੈ ਜੋ ਮੌਜੂਦਾ ਸੈਟਿੰਗ ਜਾਣਕਾਰੀ ਨੂੰ ਇੱਕ ਪ੍ਰੋਫਾਈਲ ਦੇ ਰੂਪ ਵਿੱਚ ਸੁਰੱਖਿਅਤ ਕਰਦੀ ਹੈ, ਜਿਸ ਨਾਲ ਇਹ ਇੱਕ ਨਿਸ਼ਚਿਤ ਸਮੇਂ 'ਤੇ ਆਪਣੇ ਆਪ ਉਸ ਸੈਟਿੰਗ ਵਿੱਚ ਸਵਿਚ ਕਰ ਸਕਦੀ ਹੈ।\n- ਸਿਰਫ਼ ਫੌਂਟ-ਸੰਬੰਧੀ, ਹਾਸ਼ੀਏ ਅਤੇ ਪਿਛੋਕੜ ਜਾਣਕਾਰੀ ਲਾਗੂ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।\n- ਜੇਕਰ ਕੋਈ ਸਮਾਂ ਸੈਟਿੰਗ ਨਿਰਧਾਰਤ ਨਹੀਂ ਕੀਤੀ ਗਈ ਹੈ, ਤਾਂ ਇਸਨੂੰ ਹੱਥੀਂ ਲਾਗੂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "اشکالی که باعث می‌شد فایل بعدی به طور خودکار در صفحه آخر باز نشود، برطرف شد."
+    "devnote": "۱. اصلاح شد تا امکان تنظیم سرعت اسکرول بر اساس واحدهای اعشاری فراهم شود.\n\n- تنظیم آن روی ۱ یا کمتر، سرعت‌های پایین‌تر را امکان‌پذیر می‌کند.\n\n- به دلیل تفاوت بین اعداد صحیح و اعداد اعشاری، اطلاعات تنظیمات پشتیبان‌گیری شده در آخرین نسخه، در نسخه‌های قبلی قابل بارگیری نیستند.\n\n\n۲. اشکالات موجود در فیلتر TTS و مرتب‌سازی دسته‌ای لیست ویرایش برطرف شد.\n\n\n۳. قابلیتی اضافه شد که اطلاعات تنظیمات فعلی را به عنوان یک پروفایل ذخیره می‌کند و به آن اجازه می‌دهد تا در زمان مشخص شده به طور خودکار به آن تنظیمات تغییر کند.\n\n- فقط اطلاعات مربوط به فونت، حاشیه و پس‌زمینه اعمال می‌شود.\n\n\nاگر هیچ تنظیم زمانی مشخص نشده باشد، می‌توان آن را به صورت دستی اعمال کرد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "Corrigido um erro que impedia a abertura automática do próximo arquivo na última página."
+    "devnote": "1. Modificado para permitir que a velocidade de rolagem seja definida em unidades decimais.\n- Definir para 1 ou menos permite velocidades mais lentas.\n- Devido à diferença entre números inteiros e de ponto flutuante, as informações de configuração salvas na versão mais recente não podem ser carregadas em versões anteriores.\n\n2. Corrigidos erros no filtro de TTS e na classificação da lista de edição em lote.\n\n3. Adicionada uma funcionalidade que salva as informações de configuração atuais como um perfil, permitindo que a configuração seja alterada automaticamente em um horário especificado.\n\n- Apenas as informações relacionadas à fonte, margem e plano de fundo são aplicadas.\n\n- Se nenhuma configuração de tempo for especificada, ela poderá ser aplicada manualmente."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "Naprawiono błąd, przez który następny plik nie otwierał się automatycznie na ostatniej stronie."
+    "devnote": "1. Zmodyfikowano, aby umożliwić ustawienie szybkości przewijania w jednostkach dziesiętnych.\n- Ustawienie wartości 1 lub mniejszej pozwala na zmniejszenie prędkości.\n- Ze względu na różnicę między liczbami całkowitymi a zmiennoprzecinkowymi, informacje o ustawieniach zapisane w najnowszej wersji nie mogą zostać wczytane w poprzednich wersjach.\n\n2. Naprawiono błędy w filtrze TTS i sortowaniu listy edycji wsadowej.\n\n3. Dodano funkcję zapisywania bieżących informacji o ustawieniach jako profilu, umożliwiając automatyczne przełączenie się na to ustawienie o określonej godzinie.\n- Stosowane są tylko informacje dotyczące czcionek, marginesów i tła.\n- Jeśli nie określono ustawienia czasu, można je wprowadzić ręcznie."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "Correction d'un bug qui empêchait l'ouverture automatique du fichier suivant sur la dernière page."
+    "devnote": "1. Modification permettant de régler la vitesse de défilement en unités décimales.\n\n- Une valeur inférieure ou égale à 1 permet un défilement plus lent.\n\n- En raison de la différence entre les nombres entiers et les nombres à virgule flottante, les paramètres sauvegardés dans la dernière version ne peuvent pas être chargés dans les versions précédentes.\n\n2. Correction de bugs dans le filtre TTS et le tri de la liste d'édition par lots.\n\n3. Ajout d'une fonctionnalité permettant d'enregistrer les paramètres actuels dans un profil, pour un basculement automatique vers ce profil à une heure précise.\n\n- Seuls les paramètres relatifs à la police, aux marges et à l'arrière-plan sont appliqués.\n\n- Si aucune heure n'est spécifiée, le profil peut être appliqué manuellement."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "Korjattu virhe, jossa seuraava tiedosto ei avautunut automaattisesti viimeisellä sivulla."
+    "devnote": "1. Muokattu siten, että vieritysnopeutta voi asettaa desimaaliyksiköissä.\n\n- Arvolla 1 tai vähemmän voidaan käyttää hitaampia nopeuksia.\n\n- Kokonaislukujen ja liukulukujen välisen eron vuoksi uusimmassa versiossa varmuuskopioituja asetustietoja ei voida ladata aiempiin versioihin.\n\n2. Korjattu TTS-suodattimen ja erämuokkauslistan lajittelun virheitä.\n\n3. Lisätty ominaisuus, joka tallentaa nykyiset asetustiedot profiilina, jolloin se voi automaattisesti vaihtaa kyseiseen asetukseen tiettynä ajankohtana.\n\n- Vain fonttiin, reunuksiin ja taustaan ​​liittyviä tietoja käytetään.\n- Jos aika-asetusta ei ole määritetty, se voidaan ottaa käyttöön manuaalisesti."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "Naayos ang isang bug kung saan hindi awtomatikong magbubukas ang susunod na file sa huling pahina."
+    "devnote": "1. Binago upang payagan ang pagtakda ng bilis ng pag-scroll sa mga decimal unit.\n- Ang pagtatakda nito sa 1 o mas mababa ay nagbibigay-daan para sa mas mabagal na bilis.\n- Dahil sa pagkakaiba sa pagitan ng mga integer at floating-point na numero, ang impormasyon ng setting na naka-backup sa pinakabagong bersyon ay hindi maaaring i-load sa mga nakaraang bersyon.\n\n2. Inayos ang mga bug sa TTS filter at pag-uuri ng batch edit list.\n\n3. Nagdagdag ng feature na nagse-save ng kasalukuyang impormasyon ng setting bilang isang profile, na nagbibigay-daan dito na awtomatikong lumipat sa setting na iyon sa isang tinukoy na oras.\n- Tanging ang impormasyon na may kaugnayan sa font, margin, at background ang inilalapat.\n- Kung walang tinukoy na setting ng oras, maaari itong ilapat nang manu-mano."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "Kijavítottunk egy hibát, amely miatt a következő fájl nem nyílt meg automatikusan az utolsó oldalon."
+    "devnote": "1. Módosítva, hogy a görgetési sebesség decimális egységekben is beállítható legyen.\n\n- 1-re vagy kisebb értékre állítva lassabb sebesség érhető el.\n\n- Az egész számok és a lebegőpontos számok közötti különbség miatt a legújabb verzióban mentett beállítási információk nem tölthetők be a korábbi verziókba.\n\n2. Kijavított hibákat a TTS szűrőben és a kötegelt szerkesztési lista rendezésében.\n\n3. Hozzáadott egy funkciót, amely profilként menti az aktuális beállítási információkat, lehetővé téve, hogy a megadott időpontban automatikusan erre a beállításra váltson.\n\n- Csak a betűtípussal, a margóval és a háttérrel kapcsolatos információk kerülnek alkalmazásra.\n\n- Ha nincs megadva időbeállítás, manuálisan is alkalmazható."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "תוקן באג שבו הקובץ הבא לא נפתח אוטומטית בעמוד האחרון."
+    "devnote": "1. שונה כדי לאפשר הגדרת מהירות גלילה ביחידות עשרוניות.\n- הגדרה ל-1 או פחות מאפשרת מהירויות נמוכות יותר.\n- עקב ההבדל בין מספרים שלמים למספרים צפה, לא ניתן לטעון מידע על הגדרות שגובה בגרסה האחרונה בגרסאות קודמות.\n\n2. תוקנו באגים במסנן TTS ובמיון רשימת עריכה קבוצתית.\n\n3. נוספה תכונה ששומרת מידע על הגדרות נוכחיות כפרופיל, ומאפשרת לעבור אוטומטית להגדרה זו בזמן מוגדר.\n- מוחל רק מידע הקשור לגופן, שוליים ורקע.\n- אם לא צוינה הגדרת זמן, ניתן להחיל אותה באופן ידני."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "उस बग को ठीक कर दिया गया है जिसके कारण अंतिम पृष्ठ पर अगली फ़ाइल स्वचालित रूप से नहीं खुलती थी।"
+    "devnote": "1. स्क्रॉल गति को दशमलव इकाइयों में सेट करने की सुविधा के लिए संशोधित किया गया है।\n\n- इसे 1 या उससे कम पर सेट करने से गति धीमी हो जाती है।\n\n- पूर्णांक और फ्लोटिंग-पॉइंट संख्याओं में अंतर के कारण, नवीनतम संस्करण में सहेजी गई सेटिंग जानकारी पिछले संस्करणों में लोड नहीं की जा सकती।\n\n2. TTS फ़िल्टर और बैच एडिट सूची सॉर्टिंग में मौजूद बग्स को ठीक किया गया है।\n\n3. एक ऐसी सुविधा जोड़ी गई है जो वर्तमान सेटिंग जानकारी को प्रोफ़ाइल के रूप में सहेजती है, जिससे यह निर्दिष्ट समय पर स्वचालित रूप से उस सेटिंग पर स्विच हो जाती है।\n\n- केवल फ़ॉन्ट, मार्जिन और पृष्ठभूमि संबंधी जानकारी ही लागू होती है।\n\n- यदि कोई समय सेटिंग निर्दिष्ट नहीं है, तो इसे मैन्युअल रूप से लागू किया जा सकता है।"
   }
 }
