@@ -1,290 +1,362 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "1. Fixed an issue where the keypad obscured the input window when using the viewer bookmark function.\n\n2. Fixed a bug where history memos could not be edited during TTS playback.\n\n3. The Reward Ad Removal now removes all banner ads within the app for 12 hours.\n\n- You can remove ads for 12 hours per use, up to a maximum of 48 hours.\n\n4. The 1500 Point Ad Removal removes all banner ads within the app for 24 hours.\n\n- You can consume 1500 points per use, and removal is possible up to 3 times for a total of 72 hours.\n\n5. Modified the point acquisition amount for watching ads.\n\n- Changed from 1000 points to 600 points for watching ads.\n\n- Changed from 200 points to 100 points for attendance checks."
+    "devnote":
+        "1. Changed the bookmark sorting order.\n\n2. Changed the loading animation.\n\n3. Ad removal now removes all banner ads within the app.\n\n- The ad removal time is now accumulated up to a certain amount."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "1. 뷰어 북마크 기능 사용시 키패드가 입력 창을 가리던 문제를 수정 하였습니다. \n\n2. tts 재생중 히스토리 메모 수정 안되던 버그를 수정 하였습니다. \n\n3. 리워드 광고제거는 이제 어플내 모든 배너광고를 12시간 동안 제거 합니다. \n  - 1회당 12 시간씩 최대 48 시간동안 광고를 제거 할 수 있습니다. \n\n4. 1500 포인트 광고 제거는 어플내 모든 배너광고를 24시간 동안 제거 합니다.\n  - 1회당 1500 포인트 소모 할 수 있으며 최대 3회 72 시간 동안 제거 가 가능합니다. \n\n5. 광고 시청 포인트 획득량을 수정 하였습니다. \n  - 광고 시청 1000 포인트에서 -> 600 포인트로 변경하였습니다. \n  - 출석 체크는 200 -> 100 포인트로 변경 하였습니다."
+    "devnote":
+        "1. 북마크 정렬 순서를 변경 하였습니다. \n\n2. 로딩 애니메이션을 바꿔보았습니다. \n\n3. 이제 광고제거는 어플내 모든 배너광고를 제거 합니다. \n - 광고제거 시간은 일정 시간 까지 누적 되도록 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "1. Corrixiuse un problema que impedía que o teclado ocultase a xanela de entrada ao usar a función de marcador do visor.\n\n2. Corrixiuse un erro que impedía editar as notas do historial durante a reprodución de TTS.\n\n3. A eliminación de anuncios de recompensa agora elimina todos os anuncios de banner dentro da aplicación durante 12 horas.\n\n- Podes eliminar anuncios durante 12 horas por uso, ata un máximo de 48 horas.\n\n4. A eliminación de anuncios de 1500 puntos elimina todos os anuncios de banner dentro da aplicación durante 24 horas.\n\n- Podes consumir 1500 puntos por uso e a eliminación é posible ata 3 veces por un total de 72 horas.\n\n5. Modificouse a cantidade de adquisición de puntos para ver anuncios.\n\n- Cambiouse de 1000 puntos a 600 puntos para ver anuncios.\n\n- Cambiouse de 200 puntos a 100 puntos para as comprobacións de asistencia."
+    "devnote":
+        "1. Cambiouse a orde de clasificación dos marcadores.\n\n2. Cambiouse a animación de carga.\n\n3. A eliminación de anuncios agora elimina todos os anuncios de banner dentro da aplicación.\n\n- O tempo de eliminación de anuncios agora acumúlase ata unha determinada cantidade."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "૧. વ્યૂઅર બુકમાર્ક ફંક્શનનો ઉપયોગ કરતી વખતે કીપેડ ઇનપુટ વિન્ડોને અસ્પષ્ટ કરતી સમસ્યાને ઠીક કરી.\n\n૨. TTS પ્લેબેક દરમિયાન ઇતિહાસ મેમો સંપાદિત કરી શકાતા ન હોય તેવી સમસ્યાને સુધારી.\n\n૩. રિવોર્ડ એડ રિમૂવલ હવે એપ્લિકેશનમાં બધી બેનર જાહેરાતોને ૧૨ કલાક માટે દૂર કરે છે.\n\n- તમે પ્રતિ ઉપયોગ ૧૨ કલાક માટે, મહત્તમ ૪૮ કલાક સુધી જાહેરાતો દૂર કરી શકો છો.\n\n૪. ૧૫૦૦ પોઈન્ટ એડ રિમૂવલ એપ્લિકેશનમાં બધી બેનર જાહેરાતોને ૨૪ કલાક માટે દૂર કરે છે.\n\n- તમે પ્રતિ ઉપયોગ ૧૫૦૦ પોઈન્ટનો ઉપયોગ કરી શકો છો, અને કુલ ૭૨ કલાક માટે ૩ વખત દૂર કરવાનું શક્ય છે.\n\n૫. જાહેરાતો જોવા માટે પોઈન્ટ સંપાદન રકમમાં ફેરફાર કર્યો.\n\n- જાહેરાતો જોવા માટે ૧૦૦૦ પોઈન્ટથી ૬૦૦ પોઈન્ટ સુધી બદલાઈ ગયો.\n\n- હાજરી તપાસ માટે ૨૦૦ પોઈન્ટથી ૧૦૦ પોઈન્ટ સુધી બદલાઈ ગયો."
+    "devnote":
+        "૧. બુકમાર્ક સૉર્ટિંગ ક્રમ બદલ્યો.\n\n૨. લોડિંગ એનિમેશન બદલ્યું.\n\n૩. જાહેરાત દૂર કરવાથી હવે એપ્લિકેશનમાંની બધી બેનર જાહેરાતો દૂર થઈ જાય છે.\n\n- જાહેરાત દૂર કરવાનો સમય હવે ચોક્કસ રકમ સુધી સંચિત થઈ જાય છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "1. Διορθώθηκε ένα πρόβλημα όπου το πληκτρολόγιο έκρυβε το παράθυρο εισαγωγής κατά τη χρήση της λειτουργίας σελιδοδείκτη προβολής.\n\n2. Διορθώθηκε ένα σφάλμα όπου τα ιστορικά σημειώματα δεν μπορούσαν να υποστούν επεξεργασία κατά την αναπαραγωγή TTS.\n\n3. Η Αφαίρεση Διαφήμισης Ανταμοιβής πλέον καταργεί όλες τις διαφημίσεις banner εντός της εφαρμογής για 12 ώρες.\n\n- Μπορείτε να καταργήσετε διαφημίσεις για 12 ώρες ανά χρήση, έως και 48 ώρες.\n\n4. Η Αφαίρεση Διαφήμισης 1500 Πόντων καταργεί όλες τις διαφημίσεις banner εντός της εφαρμογής για 24 ώρες.\n\n- Μπορείτε να καταναλώσετε 1500 πόντους ανά χρήση και η αφαίρεση είναι δυνατή έως και 3 φορές για συνολικά 72 ώρες.\n\n5. Τροποποιήθηκε το ποσό απόκτησης πόντων για την παρακολούθηση διαφημίσεων.\n\n- Άλλαξε από 1000 πόντους σε 600 πόντους για την παρακολούθηση διαφημίσεων.\n\n- Άλλαξε από 200 πόντους σε 100 πόντους για τους ελέγχους παρουσίας."
+    "devnote":
+        "1. Άλλαξε η σειρά ταξινόμησης των σελιδοδεικτών.\n\n2. Άλλαξε η κινούμενη εικόνα φόρτωσης.\n\n3. Η αφαίρεση διαφημίσεων πλέον καταργεί όλες τις διαφημίσεις banner εντός της εφαρμογής.\n\n- Ο χρόνος αφαίρεσης διαφημίσεων πλέον συσσωρεύεται έως ένα συγκεκριμένο χρονικό διάστημα."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "1. Er is een probleem opgelost waarbij het toetsenbord het invoervenster bedekte bij gebruik van de bladwijzerfunctie van de viewer.\n\n2. Er is een bug opgelost waarbij geschiedenisnotities niet konden worden bewerkt tijdens het afspelen van TTS.\n\n3. De functie 'Advertenties verwijderen met beloning' verwijdert nu alle banneradvertenties in de app gedurende 12 uur.\n\n- Je kunt advertenties 12 uur per keer verwijderen, tot een maximum van 48 uur.\n\n4. De functie 'Advertenties verwijderen met 1500 punten' verwijdert alle banneradvertenties in de app gedurende 24 uur.\n\n- Je kunt 1500 punten per keer gebruiken en de verwijdering is maximaal 3 keer mogelijk, voor een totaal van 72 uur.\n\n5. Het aantal punten dat je verdient met het bekijken van advertenties is aangepast.\n\n- Het aantal punten dat je verdient met het bekijken van advertenties is verhoogd van 1000 naar 600 punten.\n\n- Het aantal punten dat je verdient met aanwezigheidscontroles is verhoogd van 200 naar 100 punten."
+    "devnote":
+        "1. De sorteervolgorde van bladwijzers is gewijzigd.\n\n2. De laadanimatie is gewijzigd.\n\n3. Advertenties verwijderen verwijdert nu alle banneradvertenties in de app.\n\n- De tijd die is besteed aan het verwijderen van advertenties wordt nu tot een bepaald maximum opgeteld."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "१. दर्शक बुकमार्क प्रकार्य प्रयोग गर्दा किप्याडले इनपुट विन्डोलाई अस्पष्ट पार्ने समस्या समाधान गरियो।\n\n२. TTS प्लेब्याकको समयमा इतिहास मेमोहरू सम्पादन गर्न नसकिने बग समाधान गरियो।\n\n३. पुरस्कार विज्ञापन हटाउने सुविधाले अब १२ घण्टाको लागि एप भित्रका सबै ब्यानर विज्ञापनहरू हटाउँछ।\n\n- तपाईंले प्रति प्रयोग १२ घण्टाको लागि, अधिकतम ४८ घण्टासम्म विज्ञापनहरू हटाउन सक्नुहुन्छ।\n\n४. १५०० पोइन्ट विज्ञापन हटाउने सुविधाले २४ घण्टाको लागि एप भित्रका सबै ब्यानर विज्ञापनहरू हटाउँछ।\n\n- तपाईंले प्रति प्रयोग १५०० पोइन्ट उपभोग गर्न सक्नुहुन्छ, र कुल ७२ घण्टाको लागि ३ पटकसम्म हटाउन सम्भव छ।\n\n५. विज्ञापनहरू हेर्नको लागि अंक प्राप्ति रकम परिमार्जन गरियो।\n\n- विज्ञापनहरू हेर्नको लागि १००० पोइन्टबाट ६०० पोइन्टमा परिवर्तन गरियो।\n\n- उपस्थिति जाँचको लागि २०० पोइन्टबाट १०० पोइन्टमा परिवर्तन गरियो।"
+    "devnote":
+        "१. बुकमार्क क्रमबद्ध गर्ने क्रम परिवर्तन गरियो।\n\n२. लोडिङ एनिमेसन परिवर्तन गरियो।\n\n३. विज्ञापन हटाउनाले अब एप भित्रका सबै ब्यानर विज्ञापनहरू हटाउँछ।\n\n- विज्ञापन हटाउने समय अब ​​निश्चित मात्रामा जम्मा हुन्छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "1. Rettet et problem der tastaturet skjulte inndatavinduet når man brukte bokmerkefunksjonen i visningsprogrammet.\n\n2. Rettet en feil der historikknotater ikke kunne redigeres under TTS-avspilling.\n\n3. Fjerning av belønningsannonser fjerner nå alle bannerannonser i appen i 12 timer.\n\n- Du kan fjerne annonser i 12 timer per bruk, opptil maksimalt 48 timer.\n\n4. Fjerning av 1500 poeng for annonser fjerner alle bannerannonser i appen i 24 timer.\n\n- Du kan bruke 1500 poeng per bruk, og fjerning er mulig opptil 3 ganger i totalt 72 timer.\n\n5. Endret poengopptjeningsbeløpet for å se på annonser.\n\n- Endret fra 1000 poeng til 600 poeng for å se på annonser.\n\n- Endret fra 200 poeng til 100 poeng for oppmøtesjekk."
+    "devnote":
+        "1. Endret sorteringsrekkefølgen for bokmerkene.\n\n2. Endret lasteanimasjonen.\n\n3. Fjerning av annonser fjerner nå alle bannerannonser i appen.\n\n- Tiden for fjerning av annonser akkumuleres nå opp til en viss tid."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "1. Rettede et problem, hvor tastaturet skjulte inputvinduet, når man brugte bogmærkefunktionen i fremviseren.\n\n2. Rettede en fejl, hvor historiknotater ikke kunne redigeres under TTS-afspilning.\n\n3. Fjernelse af belønningsannoncer fjerner nu alle bannerannoncer i appen i 12 timer.\n\n- Du kan fjerne annoncer i 12 timer pr. brug, op til maksimalt 48 timer.\n\n4. Fjernelse af 1500 point i annoncer fjerner alle bannerannoncer i appen i 24 timer.\n\n- Du kan bruge 1500 point pr. brug, og fjernelse er mulig op til 3 gange i alt 72 timer.\n\n5. Ændrede pointoptjeningsmængden for at se annoncer.\n\n- Ændret fra 1000 point til 600 point for at se annoncer.\n\n- Ændret fra 200 point til 100 point for fremmødekontrol."
+    "devnote":
+        "1. Ændret sorteringsrækkefølgen for bogmærker.\n\n2. Ændret indlæsningsanimationen.\n\n3. Fjernelse af annoncer fjerner nu alle bannerannoncer i appen.\n\n- Tiden for fjernelse af annoncer akkumuleres nu op til et vist tidsrum."
   },
   "독일어": {
     "key": "de",
-    "devnote": "1. Ein Fehler wurde behoben, durch den die Tastatur das Eingabefenster bei Verwendung der Lesezeichenfunktion verdeckte.\n\n2. Ein Fehler wurde behoben, der die Bearbeitung von Verlaufsnotizen während der TTS-Wiedergabe verhinderte.\n\n3. Die Belohnungs-Werbeentfernung entfernt nun alle Banneranzeigen in der App für 12 Stunden.\n\n– Sie können die Werbung pro Nutzung für 12 Stunden entfernen, maximal jedoch für 48 Stunden.\n\n4. Die 1500-Punkte-Werbeentfernung entfernt alle Banneranzeigen in der App für 24 Stunden.\n\n– Sie können pro Nutzung 1500 Punkte einlösen. Die Entfernung ist bis zu dreimal möglich, insgesamt für 72 Stunden.\n\n5. Die Punktevergabe für das Ansehen von Werbung wurde angepasst.\n\n– Die Punktevergabe für das Ansehen von Werbung wurde von 1000 auf 600 Punkte reduziert.\n\n– Die Punktevergabe für Anwesenheitskontrollen wurde von 200 auf 100 Punkte reduziert."
+    "devnote":
+        "1. Die Sortierreihenfolge der Lesezeichen wurde geändert.\n\n2. Die Ladeanimation wurde geändert.\n\n3. Die Werbeentfernung entfernt nun alle Banneranzeigen innerhalb der App.\n\n– Die Zeit für die Werbeentfernung wird nun bis zu einem bestimmten Zeitpunkt summiert."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "1. ແກ້ໄຂບັນຫາທີ່ແປ້ນພິມປິດບັງໜ້າຕ່າງປ້ອນຂໍ້ມູນເມື່ອໃຊ້ຟັງຊັນບຸກມາກຂອງຕົວເບິ່ງ.\n\n2. ແກ້ໄຂຂໍ້ຜິດພາດທີ່ບໍ່ສາມາດແກ້ໄຂບັນທຶກປະຫວັດໃນລະຫວ່າງການຫຼິ້ນ TTS.\n\n3. ການລຶບໂຄສະນາລາງວັນໃນປັດຈຸບັນຈະລຶບໂຄສະນາປ້າຍໂຄສະນາທັງໝົດພາຍໃນແອັບເປັນເວລາ 12 ຊົ່ວໂມງ.\n\n- ທ່ານສາມາດລຶບໂຄສະນາໄດ້ເປັນເວລາ 12 ຊົ່ວໂມງຕໍ່ຄັ້ງ, ສູງສຸດ 48 ຊົ່ວໂມງ.\n\n4. ການລຶບໂຄສະນາ 1500 ຄະແນນຈະລຶບໂຄສະນາປ້າຍໂຄສະນາທັງໝົດພາຍໃນແອັບເປັນເວລາ 24 ຊົ່ວໂມງ.\n\n- ທ່ານສາມາດໃຊ້ 1500 ຄະແນນຕໍ່ຄັ້ງ, ແລະ ການລຶບອອກສາມາດເຮັດໄດ້ສູງສຸດ 3 ຄັ້ງ ລວມທັງໝົດ 72 ຊົ່ວໂມງ.\n\n5. ດັດແປງຈຳນວນຄະແນນສຳລັບການເບິ່ງໂຄສະນາ.\n\n- ປ່ຽນຈາກ 1000 ຄະແນນເປັນ 600 ຄະແນນສຳລັບການເບິ່ງໂຄສະນາ.\n\n- ປ່ຽນຈາກ 200 ຄະແນນເປັນ 100 ຄະແນນສຳລັບການກວດສອບການເຂົ້າຮ່ວມ."
+    "devnote":
+        "1. ປ່ຽນລຳດັບການຈັດຮຽງບຸກມາກ.\n\n2. ປ່ຽນພາບເຄື່ອນໄຫວການໂຫຼດ.\n\n3. ການລຶບໂຄສະນາໃນປັດຈຸບັນຈະລຶບໂຄສະນາປ້າຍໂຄສະນາທັງໝົດພາຍໃນແອັບ.\n\n- ເວລາການລຶບໂຄສະນາໃນປັດຈຸບັນຈະຖືກສະສົມໄວ້ເຖິງຈຳນວນທີ່ກຳນົດໄວ້."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "1. Novērsta problēma, kuras dēļ, izmantojot skatītāja grāmatzīmju funkciju, tastatūra aizsedza ievades logu.\n\n2. Novērsta kļūda, kuras dēļ vēstures piezīmes nevarēja rediģēt TTS atskaņošanas laikā.\n\n3. Atalgojuma reklāmu noņemšana tagad noņem visus reklāmkarogu reklāmas lietotnē uz 12 stundām.\n\n- Reklāmas var noņemt uz 12 stundām katrā lietošanas reizē, maksimāli līdz 48 stundām.\n\n4. 1500 punktu reklāmas noņemšana noņem visus reklāmkarogu reklāmas lietotnē uz 24 stundām.\n\n- Vienā lietošanas reizē var patērēt 1500 punktus, un noņemšana ir iespējama līdz 3 reizēm, kopā 72 stundas.\n\n5. Mainīts punktu iegūšanas apjoms par reklāmu skatīšanos.\n\n- Mainīts no 1000 punktiem uz 600 punktiem par reklāmu skatīšanos.\n\n- Mainīts no 200 punktiem uz 100 punktiem par apmeklējuma pārbaudēm."
+    "devnote":
+        "1. Mainīta grāmatzīmju kārtošanas secība.\n\n2. Mainīta ielādes animācija.\n\n3. Reklāmu noņemšana tagad noņem visas reklāmkarogu reklāmas lietotnē.\n\n- Reklāmu noņemšanas laiks tagad tiek uzkrāts līdz noteiktam laikam."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "1. Исправлена ​​ошибка, из-за которой клавиатура закрывала окно ввода при использовании функции закладок просмотра.\n\n2. Исправлена ​​ошибка, из-за которой нельзя было редактировать заметки истории во время воспроизведения TTS.\n\n3. Функция «Удаление рекламы за награду» теперь удаляет всю баннерную рекламу в приложении на 12 часов.\n\n- Вы можете удалять рекламу в течение 12 часов за одно использование, максимум до 48 часов.\n\n4. Функция «Удаление рекламы за 1500 баллов» удаляет всю баннерную рекламу в приложении на 24 часа.\n\n- Вы можете потратить 1500 баллов за одно использование, и удаление возможно до 3 раз, всего на 72 часа.\n\n5. Изменено количество баллов, получаемых за просмотр рекламы.\n\n- Изменено с 1000 до 600 баллов за просмотр рекламы.\n\n- Изменено с 200 до 100 баллов за проверку посещаемости."
+    "devnote":
+        "1. Изменен порядок сортировки закладок.\n\n2. Изменена анимация загрузки.\n\n3. Удаление рекламы теперь удаляет все баннерные объявления внутри приложения.\n\n- Время удаления рекламы теперь суммируется до определенного значения."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "1. S-a remediat o problemă din cauza căreia tastatura ascundea fereastra de introducere a datelor atunci când se utiliza funcția de marcare a vizualizatorului.\n\n2. S-a remediat o eroare din cauza căreia notițele istorice nu puteau fi editate în timpul redării TTS.\n\n3. Funcția de eliminare a reclamelor cu recompensă elimină acum toate bannerele publicitare din aplicație timp de 12 ore.\n\n- Puteți elimina reclamele timp de 12 ore per utilizare, până la maximum 48 de ore.\n\n4. Funcția de eliminare a reclamelor cu 1500 de puncte elimină toate bannerele publicitare din aplicație timp de 24 de ore.\n\n- Puteți consuma 1500 de puncte per utilizare, iar eliminarea este posibilă de până la 3 ori, pentru un total de 72 de ore.\n\n5. S-a modificat numărul de puncte acumulate pentru vizionarea reclamelor.\n\n- S-a modificat de la 1000 de puncte la 600 de puncte pentru vizionarea reclamelor.\n\n- S-a modificat de la 200 de puncte la 100 de puncte pentru verificarea prezenței."
+    "devnote":
+        "1. Am modificat ordinea de sortare a marcajelor.\n\n2. Am modificat animația de încărcare.\n\n3. Eliminarea reclamelor elimină acum toate bannerele publicitare din aplicație.\n\n- Timpul de eliminare a reclamelor este acum acumulat până la o anumită perioadă."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "1. Ištaisyta problema, kai naudojant peržiūros priemonės žymių funkciją klaviatūra uždengdavo įvesties langą.\n\n2. Ištaisyta klaida, kai istorijos priminimų nebuvo galima redaguoti TTS atkūrimo metu.\n\n3. Atlygio skelbimų pašalinimo funkcija dabar pašalina visas reklamines juostas programoje 12 valandų.\n\n- Reklamas galite pašalinti 12 valandų per vieną naudojimą, bet ne ilgiau kaip 48 valandas.\n\n4. 1500 taškų reklamos pašalinimo funkcija pašalina visas reklamines juostas programoje 24 valandoms.\n\n- Galite sunaudoti 1500 taškų per vieną naudojimą, o pašalinti galima iki 3 kartų, iš viso 72 valandas.\n\n5. Pakeistas taškų kiekis, gaunamas žiūrint reklamas.\n\n- Už žiūrint reklamas taškų skaičius pakeistas iš 1000 į 600.\n\n- Už lankomumo patikrinimus taškų skaičius pakeistas iš 200 į 100."
+    "devnote":
+        "1. Pakeista žymių rūšiavimo tvarka.\n\n2. Pakeista įkėlimo animacija.\n\n3. Pašalinus skelbimą, dabar pašalinamos visos reklaminės juostos programoje.\n\n- Skelbimų pašalinimo laikas dabar kaupiamas iki tam tikros sumos."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "१. व्ह्यूअर बुकमार्क फंक्शन वापरताना कीपॅडमुळे इनपुट विंडो झाकली जाण्याची समस्या दुरुस्त केली आहे.\n\n२. TTS प्लेबॅक दरम्यान हिस्ट्री मेमो एडिट करता येत नसण्याचा बग दुरुस्त केला आहे.\n\n३. रिवॉर्ड ॲड रिमूव्हल आता ॲपमधील सर्व बॅनर जाहिराती १२ तासांसाठी काढून टाकते.\n\n- तुम्ही प्रत्येक वापरासाठी १२ तासांपर्यंत, जास्तीत जास्त ४८ तासांपर्यंत जाहिराती काढू शकता.\n\n४. १५०० पॉईंट ॲड रिमूव्हल ॲपमधील सर्व बॅनर जाहिराती २४ तासांसाठी काढून टाकते.\n\n- तुम्ही प्रत्येक वापरासाठी १५०० पॉईंट्स वापरू शकता, आणि एकूण ७२ तासांसाठी ३ वेळा जाहिराती काढणे शक्य आहे.\n\n५. जाहिराती पाहण्यासाठी मिळणाऱ्या पॉईंट्सच्या संख्येत बदल केला आहे.\n\n- जाहिराती पाहण्यासाठी १००० पॉईंट्सवरून ६०० पॉईंट्स केले आहेत.\n\n- हजेरी तपासणीसाठी २०० पॉईंट्सवरून १०० पॉईंट्स केले आहेत."
+    "devnote":
+        "१. बुकमार्कची क्रमवारी बदलली.\n\n२. लोडिंग ॲनिमेशन बदलले.\n\n३. जाहिरात काढल्यावर आता ॲपमधील सर्व बॅनर जाहिराती काढून टाकल्या जातात.\n\n- जाहिरात काढण्याची वेळ आता एका विशिष्ट मर्यादेपर्यंत जमा होते."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "1. Поправен е проблем каде што тастатурата го замаглуваше прозорецот за внесување при користење на функцијата за обележувачи на прегледувачот.\n\n2. Поправен е баг каде што белешките од историјата не можеа да се уредуваат за време на репродукција на TTS.\n\n3. Отстранувањето на реклами за награди сега ги отстранува сите банер реклами во апликацијата во траење од 12 часа.\n\n- Можете да отстранувате реклами во траење од 12 часа по употреба, до максимум 48 часа.\n\n4. Отстранувањето на реклами од 1500 поени ги отстранува сите банер реклами во апликацијата во траење од 24 часа.\n\n- Можете да потрошите 1500 поени по употреба, а отстранувањето е можно до 3 пати за вкупно 72 часа.\n\n5. Изменет е износот на собирање поени за гледање реклами.\n\n- Променето од 1000 поени на 600 поени за гледање реклами.\n\n- Променето од 200 поени на 100 поени за проверки на присуство."
+    "devnote":
+        "1. Променет е редоследот на сортирање на обележувачите.\n\n2. Променета е анимацијата за вчитување.\n\n3. Отстранувањето на реклами сега ги отстранува сите банер реклами во апликацијата.\n\n- Времето за отстранување на реклами сега се акумулира до одреден износ."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "1. വ്യൂവർ ബുക്ക്മാർക്ക് ഫംഗ്ഷൻ ഉപയോഗിക്കുമ്പോൾ കീപാഡ് ഇൻപുട്ട് വിൻഡോയെ മറയ്ക്കുന്ന ഒരു പ്രശ്നം പരിഹരിച്ചു.\n\n2. ടിടിഎസ് പ്ലേബാക്ക് സമയത്ത് ചരിത്ര മെമ്മോകൾ എഡിറ്റ് ചെയ്യാൻ കഴിയാത്ത ഒരു പ്രശ്നം പരിഹരിച്ചു.\n\n3. റിവാർഡ് പരസ്യ നീക്കംചെയ്യൽ ഇപ്പോൾ ആപ്പിനുള്ളിലെ എല്ലാ ബാനർ പരസ്യങ്ങളെയും 12 മണിക്കൂർ നേരത്തേക്ക് നീക്കം ചെയ്യുന്നു.\n\n- നിങ്ങൾക്ക് ഒരു ഉപയോഗത്തിന് 12 മണിക്കൂർ നേരത്തേക്ക് പരസ്യങ്ങൾ നീക്കം ചെയ്യാൻ കഴിയും, പരമാവധി 48 മണിക്കൂർ വരെ.\n\n4. 1500 പോയിന്റ് പരസ്യ നീക്കംചെയ്യൽ ആപ്പിനുള്ളിലെ എല്ലാ ബാനർ പരസ്യങ്ങളെയും 24 മണിക്കൂർ നേരത്തേക്ക് നീക്കം ചെയ്യുന്നു.\n\n- നിങ്ങൾക്ക് ഒരു ഉപയോഗത്തിന് 1500 പോയിന്റുകൾ ഉപയോഗിക്കാം, കൂടാതെ മൊത്തം 72 മണിക്കൂർ നേരത്തേക്ക് 3 തവണ വരെ നീക്കം ചെയ്യാൻ കഴിയും.\n\n5. പരസ്യങ്ങൾ കാണുന്നതിനുള്ള പോയിന്റ് അക്വിസിഷൻ തുക പരിഷ്കരിച്ചു.\n\n- പരസ്യങ്ങൾ കാണുന്നതിന് 1000 പോയിന്റുകളിൽ നിന്ന് 600 പോയിന്റുകളായി മാറ്റി.\n\n- ഹാജർ പരിശോധനകൾക്ക് 200 പോയിന്റുകളിൽ നിന്ന് 100 പോയിന്റുകളായി മാറ്റി."
+    "devnote":
+        "1. ബുക്ക്മാർക്ക് സോർട്ടിംഗ് ഓർഡർ മാറ്റി.\n\n2. ലോഡിംഗ് ആനിമേഷൻ മാറ്റി.\n\n3. പരസ്യം നീക്കം ചെയ്യൽ ഇപ്പോൾ ആപ്പിനുള്ളിലെ എല്ലാ ബാനർ പരസ്യങ്ങളെയും നീക്കം ചെയ്യുന്നു.\n\n- പരസ്യം നീക്കം ചെയ്യുന്നതിനുള്ള സമയം ഇപ്പോൾ ഒരു നിശ്ചിത തുക വരെ ശേഖരിക്കപ്പെടുന്നു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "1. Memperbaiki masalah di mana papan kekunci mengaburkan tetingkap input semasa menggunakan fungsi penanda buku pemapar.\n\n2. Memperbaiki pepijat di mana memo sejarah tidak dapat diedit semasa main balik TTS.\n\n3. Penyingkiran Iklan Ganjaran kini mengalih keluar semua iklan sepanduk dalam aplikasi selama 12 jam.\n\n- Anda boleh mengalih keluar iklan selama 12 jam setiap penggunaan, sehingga maksimum 48 jam.\n\n4. Penyingkiran Iklan 1500 Mata mengalih keluar semua iklan sepanduk dalam aplikasi selama 24 jam.\n\n- Anda boleh menggunakan 1500 mata setiap penggunaan, dan penyingkiran boleh dilakukan sehingga 3 kali untuk sejumlah 72 jam.\n\n5. Mengubah suai jumlah pemerolehan mata untuk menonton iklan.\n\n- Diubah daripada 1000 mata kepada 600 mata untuk menonton iklan.\n\n- Diubah daripada 200 mata kepada 100 mata untuk semakan kehadiran."
+    "devnote":
+        "1. Menukar susunan penyusunan penanda buku.\n\n2. Menukar animasi pemuatan.\n\n3. Penyingkiran iklan kini mengalih keluar semua iklan sepanduk dalam aplikasi.\n\n- Masa penyingkiran iklan kini terkumpul sehingga jumlah tertentu."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "1. Үзэгчийн хавчуургын функцийг ашиглах үед товчлуур нь оролтын цонхыг хаасан асуудлыг зассан.\n\n2. TTS тоглуулах үед түүхийн тэмдэглэлийг засварлах боломжгүй алдааг зассан.\n\n3. Шагналын зар устгах функц нь одоо апп доторх бүх баннер зарыг 12 цагийн турш устгана.\n\n- Та нэг удаагийн хэрэглээнд 12 цагийн турш, дээд тал нь 48 цаг хүртэл зарыг устгах боломжтой.\n\n4. 1500 оноотой зар устгах функц нь апп доторх бүх баннер зарыг 24 цагийн турш устгана.\n\n- Та нэг удаагийн хэрэглээнд 1500 оноо цуглуулж болох бөгөөд нийт 72 цагийн турш 3 удаа устгах боломжтой.\n\n5. Зар үзэх оноо цуглуулах хэмжээг өөрчилсөн.\n\n- Зар үзэх 1000 онооноос 600 оноо болгон өөрчилсөн.\n\n- Ирцийн шалгалтын 200 онооноос 100 оноо болгон өөрчилсөн."
+    "devnote":
+        "1. Хавчуургын эрэмбэлэх дарааллыг өөрчилсөн.\n\n2. Ачаалах анимацийг өөрчилсөн.\n\n3. Зар устгах функц нь одоо апп доторх бүх баннер зарыг устгана.\n\n- Зар устгах хугацаа одоо тодорхой хэмжээнд хуримтлагдсан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "1. Ikuslearen laster-marken funtzioa erabiltzean teklatuak sarrera-leihoa estaltzen zuen arazoa konpondu da.\n\n2. TTS erreprodukzioan historia-oharrak editatu ezin zitezkeen akatsa konpondu da.\n\n3. Sari-iragarkien kentzeak aplikazioko banner-iragarki guztiak kentzen ditu orain 12 orduz.\n\n- Iragarkiak 12 orduz ken ditzakezu erabilera bakoitzeko, gehienez 48 orduz.\n\n4. 1500 puntuko iragarkien kentzeak aplikazioko banner-iragarki guztiak kentzen ditu 24 orduz.\n\n- 1500 puntu kontsumi ditzakezu erabilera bakoitzeko, eta gehienez 3 aldiz kentzea posible da, guztira 72 orduz.\n\n5. Iragarkiak ikusteagatik puntuak eskuratzeko kopurua aldatu da.\n\n- Iragarkiak ikusteagatik 1000 puntutik 600 puntura aldatu da.\n\n- Bertaratze-egiaztapenetarako 200 puntutik 100 puntura aldatu da."
+    "devnote":
+        "1. Laster-marken ordena aldatu da.\n\n2. Kargatzeko animazioa aldatu da.\n\n3. Iragarkiak kentzeak aplikazioko banner iragarki guztiak kentzen ditu orain.\n\n- Iragarkiak kentzeko denbora metatzen da orain zenbateko jakin bateraino."
   },
   "버마어": {
     "key": "my",
-    "devnote": "၁။ viewer bookmark function ကိုသုံးတဲ့အခါ keypad က input window ကို မှုန်ဝါးစေတဲ့ ပြဿနာကို ပြင်ဆင်ပြီးပါပြီ။\n\n၂။ TTS playback လုပ်နေစဉ် history memo တွေကို တည်းဖြတ်လို့မရတဲ့ bug ကို ပြင်ဆင်ပြီးပါပြီ။\n\n၃။ Reward Ad Removal က app ထဲက banner ကြော်ငြာအားလုံးကို ၁၂ နာရီကြာ ဖယ်ရှားပေးပါတယ်။\n\n- တစ်ကြိမ်သုံးတိုင်း ၁၂ နာရီကြာ ကြော်ငြာတွေကို ဖယ်ရှားနိုင်ပါတယ်၊ အများဆုံး ၄၈ နာရီအထိပါ။\n\n၄။ 1500 Point Ad Removal က app ထဲက banner ကြော်ငြာအားလုံးကို ၂၄ နာရီကြာ ဖယ်ရှားပေးပါတယ်။\n\n- တစ်ကြိမ်သုံးတိုင်း ၁၅၀၀ points ရယူနိုင်ပြီး စုစုပေါင်း ၇၂ နာရီကြာ ၃ ကြိမ်အထိ ဖယ်ရှားနိုင်ပါတယ်။\n\n၅။ ကြော်ငြာတွေကြည့်ဖို့အတွက် point ရယူတဲ့ပမာဏကို ပြင်ဆင်ထားပါတယ်။\n\n- ကြော်ငြာတွေကြည့်ဖို့အတွက် point ၁၀၀၀ ကနေ ၆၀၀ အထိ ပြောင်းလဲထားပါတယ်။\n\n- attendance check တွေအတွက် point ၂၀၀ ကနေ ၁၀၀ အထိ ပြောင်းလဲထားပါတယ်။"
+    "devnote":
+        "၁။ bookmark စီခြင်းအစီအစဉ်ကို ပြောင်းလဲလိုက်ပါပြီ။\n\n၂။ loading animation ကို ပြောင်းလဲလိုက်ပါပြီ။\n\n၃။ ကြော်ငြာဖယ်ရှားခြင်းသည် အက်ပ်အတွင်းရှိ banner ကြော်ငြာအားလုံးကို ဖယ်ရှားလိုက်ပါပြီ။\n\n- ကြော်ငြာဖယ်ရှားချိန်ကို ယခုအခါ အတိုင်းအတာတစ်ခုအထိ စုဆောင်းထားပါသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "1. Đã khắc phục sự cố bàn phím che khuất cửa sổ nhập liệu khi sử dụng chức năng đánh dấu trang của trình xem.\n\n2. Đã sửa lỗi không thể chỉnh sửa ghi chú lịch sử trong khi phát lại văn bản chuyển văn bản thành giọng nói (TTS).\n\n3. Chức năng Xóa Quảng Cáo Thưởng giờ đây sẽ xóa tất cả quảng cáo biểu ngữ trong ứng dụng trong 12 giờ.\n\n- Bạn có thể xóa quảng cáo trong 12 giờ mỗi lần sử dụng, tối đa 48 giờ.\n\n4. Chức năng Xóa Quảng Cáo 1500 Điểm sẽ xóa tất cả quảng cáo biểu ngữ trong ứng dụng trong 24 giờ.\n\n- Bạn có thể sử dụng 1500 điểm mỗi lần và có thể xóa tối đa 3 lần, tổng cộng 72 giờ.\n\n5. Đã điều chỉnh số điểm nhận được khi xem quảng cáo.\n\n- Thay đổi từ 1000 điểm thành 600 điểm khi xem quảng cáo.\n\n- Thay đổi từ 200 điểm thành 100 điểm khi điểm danh."
+    "devnote":
+        "1. Thay đổi thứ tự sắp xếp dấu trang.\n\n2. Thay đổi hiệu ứng hoạt ảnh khi tải trang.\n\n3. Chức năng xóa quảng cáo giờ đây sẽ xóa tất cả quảng cáo biểu ngữ trong ứng dụng.\n\n- Thời gian xóa quảng cáo giờ được cộng dồn đến một lượng nhất định."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "1. Выпраўлена праблема, з-за якой клавіятура закрывала акно ўводу пры выкарыстанні функцыі закладак прагляду.\n\n2. Выпраўлена памылка, з-за якой немагчыма было рэдагаваць нататкі гісторыі падчас прайгравання TTS.\n\n3. Функцыя \"Выдаленне рэкламы ўзнагароды\" цяпер выдаляе ўсю рэкламу-банеры ў дадатку на 12 гадзін.\n\n- Вы можаце выдаляць рэкламу на 12 гадзін за выкарыстанне, максімум на 48 гадзін.\n\n4. Функцыя \"Выдаленне рэкламы за 1500 балаў\" выдаляе ўсю рэкламу-банеры ў дадатку на 24 гадзіны.\n\n- Вы можаце выкарыстоўваць 1500 балаў за выкарыстанне, і выдаленне магчыма да 3 разоў на працягу 72 гадзін.\n\n5. Зменена колькасць балаў, якія налічваюцца за прагляд рэкламы.\n\n- Зменена з 1000 балаў на 600 балаў за прагляд рэкламы.\n\n- Зменена з 200 балаў на 100 балаў за праверку наведвальнасці."
+    "devnote":
+        "1. Зменены парадак сартавання закладак.\n\n2. Зменена анімацыя загрузкі.\n\n3. Пры выдаленні рэкламы цяпер выдаляюцца ўсе рэкламныя банеры ў дадатку.\n\n- Час выдалення рэкламы цяпер назапашваецца да пэўнай колькасці."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "১. ভিউয়ার বুকমার্ক ফাংশন ব্যবহার করার সময় কীপ্যাড ইনপুট উইন্ডোকে আড়াল করে দিত, সেই সমস্যাটি সমাধান করা হয়েছে।\n\n২. টিটিএস (TTS) প্লেব্যাকের সময় হিস্ট্রি মেমো সম্পাদনা করা যেত না, এই বাগটি সমাধান করা হয়েছে।\n\n৩. রিওয়ার্ড অ্যাড রিমুভাল এখন অ্যাপের ভেতরের সমস্ত ব্যানার বিজ্ঞাপন ১২ ঘণ্টার জন্য সরিয়ে দেয়।\n\n- আপনি প্রতিবার ব্যবহারে ১২ ঘণ্টা পর্যন্ত বিজ্ঞাপন সরাতে পারবেন, যা সর্বোচ্চ ৪৮ ঘণ্টা পর্যন্ত হতে পারে।\n\n৪. ১৫০০ পয়েন্ট অ্যাড রিমুভাল অ্যাপের ভেতরের সমস্ত ব্যানার বিজ্ঞাপন ২৪ ঘণ্টার জন্য সরিয়ে দেয়।\n\n- আপনি প্রতিবার ব্যবহারে ১৫০০ পয়েন্ট খরচ করতে পারবেন এবং মোট ৭২ ঘণ্টার জন্য সর্বোচ্চ ৩ বার বিজ্ঞাপন সরানো সম্ভব।\n\n৫. বিজ্ঞাপন দেখার জন্য পয়েন্ট অর্জনের পরিমাণ পরিবর্তন করা হয়েছে।\n\n- বিজ্ঞাপন দেখার জন্য পয়েন্ট ১০০০ থেকে কমিয়ে ৬০০ করা হয়েছে।\n\n- অ্যাটেনডেন্স চেকের জন্য পয়েন্ট ২০০ থেকে কমিয়ে ১০০ করা হয়েছে।"
+    "devnote":
+        "১. বুকমার্ক সাজানোর ক্রম পরিবর্তন করা হয়েছে।\n\n২. লোডিং অ্যানিমেশন পরিবর্তন করা হয়েছে।\n\n৩. বিজ্ঞাপন অপসারণ এখন অ্যাপের ভেতরের সমস্ত ব্যানার বিজ্ঞাপন মুছে দেয়।\n\n- বিজ্ঞাপন অপসারণের সময় এখন একটি নির্দিষ্ট পরিমাণ পর্যন্ত জমা হবে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "1. Отстранен е проблем, при който клавиатурата закриваше прозореца за въвеждане при използване на функцията за отметки на зрителя.\n\n2. Отстранен е бъг, при който бележките за историята не можеха да се редактират по време на възпроизвеждане на TTS.\n\n3. Премахването на реклами за награди вече премахва всички банерни реклами в приложението за 12 часа.\n\n- Можете да премахвате реклами за 12 часа на използване, до максимум 48 часа.\n\n4. Премахването на реклами за 1500 точки премахва всички банерни реклами в приложението за 24 часа.\n\n- Можете да изразходвате 1500 точки на използване, като премахването е възможно до 3 пъти за общо 72 часа.\n\n5. Променен е размерът на точките за гледане на реклами.\n\n- Променен е от 1000 точки на 600 точки за гледане на реклами.\n\n- Променен е от 200 точки на 100 точки за проверки на посещаемостта."
+    "devnote":
+        "1. Променен е редът на сортиране на отметките.\n\n2. Променена е анимацията при зареждане.\n\n3. Премахването на реклами вече премахва всички банерни реклами в приложението.\n\n- Времето за премахване на реклами вече се натрупва до определено време."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "1. Исправљен је проблем где је тастатура заклањала прозор за унос приликом коришћења функције обележивача прегледача.\n\n2. Исправљена је грешка где се белешке историје нису могле уређивати током репродукције TTS-а.\n\n3. Уклањање наградних огласа сада уклања све банер огласе у апликацији на 12 сати.\n\n- Можете уклонити огласе на 12 сати по коришћењу, до највише 48 сати.\n\n4. Уклањање огласа од 1500 поена уклања све банер огласе у апликацији на 24 сата.\n\n- Можете потрошити 1500 поена по коришћењу, а уклањање је могуће до 3 пута за укупно 72 сата.\n\n5. Измењен је износ стицања поена за гледање огласа.\n\n- Промењено са 1000 поена на 600 поена за гледање огласа.\n\n- Промењено са 200 поена на 100 поена за провере присуства."
+    "devnote":
+        "1. Промењен је редослед сортирања обележивача.\n\n2. Промењена је анимација учитавања.\n\n3. Уклањање огласа сада уклања све банер огласе у апликацији.\n\n- Време уклањања огласа се сада акумулира до одређеног износа."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "1. Ilitatua tatizo ambapo kitufe kilificha dirisha la kuingiza data wakati wa kutumia kitendakazi cha alamisho cha mtazamaji.\n\n2. Ilitatua hitilafu ambapo kumbukumbu za historia hazikuweza kuhaririwa wakati wa uchezaji wa TTS.\n\n3. Kuondolewa kwa Tangazo la Zawadi sasa huondoa matangazo yote ya mabango ndani ya programu kwa saa 12.\n\n- Unaweza kuondoa matangazo kwa saa 12 kwa kila matumizi, hadi kiwango cha juu cha saa 48.\n\n4. Kuondolewa kwa Tangazo la Pointi 1500 huondoa matangazo yote ya mabango ndani ya programu kwa saa 24.\n\n- Unaweza kutumia pointi 1500 kwa kila matumizi, na kuondolewa kunawezekana hadi mara 3 kwa jumla ya saa 72.\n\n5. Ilibadilisha kiasi cha upatikanaji wa pointi kwa kutazama matangazo.\n\n- Ilibadilishwa kutoka pointi 1000 hadi pointi 600 kwa kutazama matangazo.\n\n- Ilibadilishwa kutoka pointi 200 hadi pointi 100 kwa ukaguzi wa mahudhurio."
+    "devnote":
+        "1. Nilibadilisha mpangilio wa kupanga alamisho.\n\n2. Nilibadilisha uhuishaji wa kupakia.\n\n3. Kuondoa tangazo sasa kunaondoa matangazo yote ya mabango ndani ya programu.\n\n- Muda wa kuondoa tangazo sasa umekusanywa hadi kiasi fulani."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "1. Åtgärdade ett problem där knappsatsen skymde inmatningsfönstret när man använde bokmärkesfunktionen i tittaren.\n\n2. Åtgärdade ett fel där historikmemon inte kunde redigeras under TTS-uppspelning.\n\n3. Borttagning av belöningsannonser tar nu bort alla bannerannonser i appen i 12 timmar.\n\n- Du kan ta bort annonser i 12 timmar per användning, upp till maximalt 48 timmar.\n\n4. Borttagning av 1500 poäng för annonser tar bort alla bannerannonser i appen i 24 timmar.\n\n- Du kan använda 1500 poäng per användning, och borttagning är möjlig upp till 3 gånger i totalt 72 timmar.\n\n5. Ändrade poängmängden för att titta på annonser.\n\n- Ändrade från 1000 poäng till 600 poäng för att titta på annonser.\n\n- Ändrade från 200 poäng till 100 poäng för närvarokontroller."
+    "devnote":
+        "1. Ändrade sorteringsordningen för bokmärken.\n\n2. Ändrade laddningsanimationen.\n\n3. Annonsborttagning tar nu bort alla bannerannonser i appen.\n\n- Tiden för annonsborttagning ackumuleras nu upp till en viss tid."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "1. Se solucionó un problema por el cual el teclado ocultaba la ventana de entrada al usar la función de marcadores del visor.\n\n2. Se corrigió un error que impedía editar las notas del historial durante la reproducción de texto a voz.\n\n3. La opción de eliminación de anuncios con recompensa ahora elimina todos los anuncios de banner dentro de la aplicación durante 12 horas.\n\n- Puedes eliminar anuncios durante 12 horas por uso, hasta un máximo de 48 horas.\n\n4. La opción de eliminación de anuncios de 1500 puntos elimina todos los anuncios de banner dentro de la aplicación durante 24 horas.\n\n- Puedes consumir 1500 puntos por uso, y la eliminación es posible hasta 3 veces, para un total de 72 horas.\n\n5. Se modificó la cantidad de puntos que se obtienen al ver anuncios.\n\n- Se cambió de 1000 a 600 puntos por ver anuncios.\n\n- Se cambió de 200 a 100 puntos por registrar la asistencia."
+    "devnote":
+        "1. Se modificó el orden de clasificación de los marcadores.\n\n2. Se modificó la animación de carga.\n\n3. La opción para eliminar anuncios ahora elimina todos los banners publicitarios dentro de la aplicación.\n\n- El tiempo de eliminación de anuncios ahora se acumula hasta un cierto límite."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "1. Opravený problém, kedy klávesnica zakrývala vstupné okno pri použití funkcie záložiek prehliadača.\n\n2. Opravená chyba, kedy nebolo možné upravovať poznámky histórie počas prehrávania TTS.\n\n3. Odstránenie reklám s odmenami teraz odstráni všetky bannerové reklamy v aplikácii na 12 hodín.\n\n- Reklamy môžete odstrániť na 12 hodín za jedno použitie, maximálne však na 48 hodín.\n\n4. Odstránenie reklamy za 1500 bodov odstráni všetky bannerové reklamy v aplikácii na 24 hodín.\n\n- Za jedno použitie môžete spotrebovať 1500 bodov a odstránenie je možné až 3-krát, celkovo 72 hodín.\n\n5. Upravená suma získaných bodov za sledovanie reklám.\n\n- Zmenené z 1000 bodov na 600 bodov za sledovanie reklám.\n\n- Zmenené z 200 bodov na 100 bodov za kontroly dochádzky."
+    "devnote":
+        "1. Zmenené poradie zoradenia záložiek.\n\n2. Zmenená animácia načítavania.\n\n3. Odstránenie reklám teraz odstráni všetky bannerové reklamy v aplikácii.\n\n- Čas odstránenia reklám sa teraz sčítava do určitého času."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "1. Odpravljena je težava, pri kateri je tipkovnica zakrivala okno za vnos pri uporabi funkcije zaznamkov v pregledovalniku.\n\n2. Odpravljena je napaka, pri kateri zgodovine zapiskov ni bilo mogoče urejati med predvajanjem TTS.\n\n3. Odstranitev nagradnih oglasov zdaj odstrani vse pasice v aplikaciji za 12 ur.\n\n- Oglase lahko odstranite za 12 ur na uporabo, največ za 48 ur.\n\n4. Odstranitev oglasov za 1500 točk odstrani vse pasice v aplikaciji za 24 ur.\n\n- Na uporabo lahko porabite 1500 točk, odstranitev pa je možna do 3-krat, skupno 72 ur.\n\n5. Spremenjen je bil znesek pridobivanja točk za ogled oglasov.\n\n- Spremenjeno iz 1000 točk na 600 točk za ogled oglasov.\n\n- Spremenjeno iz 200 točk na 100 točk za preverjanje prisotnosti."
+    "devnote":
+        "1. Spremenjen vrstni red razvrščanja zaznamkov.\n\n2. Spremenjena animacija nalaganja.\n\n3. Odstranjevanje oglasov zdaj odstrani vse oglasne pasice v aplikaciji.\n\n- Čas odstranitve oglasov se zdaj sešteva do določenega časa."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "1. නරඹන්නාගේ පිටු සලකුණු ශ්‍රිතය භාවිතා කරන විට යතුරු පුවරුව ආදාන කවුළුව අපැහැදිලි කළ ගැටළුවක් නිරාකරණය කරන ලදී.\n\n2. TTS නැවත ධාවනය අතරතුර ඉතිහාස මතක සටහන් සංස්කරණය කළ නොහැකි දෝෂයක් නිරාකරණය කරන ලදී.\n\n3. ත්‍යාග දැන්වීම් ඉවත් කිරීම දැන් යෙදුම තුළ ඇති සියලුම බැනර් දැන්වීම් පැය 12 ක් සඳහා ඉවත් කරයි.\n\n- ඔබට භාවිතයකට පැය 12 ක් සඳහා දැන්වීම් ඉවත් කළ හැකිය, උපරිම පැය 48 ක් දක්වා.\n\n4. 1500 ලකුණු දැන්වීම් ඉවත් කිරීම යෙදුම තුළ ඇති සියලුම බැනර් දැන්වීම් පැය 24 ක් සඳහා ඉවත් කරයි.\n\n- ඔබට භාවිතයකට ලකුණු 1500 ක් පරිභෝජනය කළ හැකි අතර, ඉවත් කිරීම මුළු පැය 72 ක් සඳහා 3 වතාවක් දක්වා කළ හැකිය.\n\n5. දැන්වීම් නැරඹීම සඳහා ලකුණු අත්පත් කර ගැනීමේ මුදල වෙනස් කරන ලදී.\n\n- දැන්වීම් නැරඹීම සඳහා ලකුණු 1000 සිට ලකුණු 600 දක්වා වෙනස් කරන ලදී.\n\n- පැමිණීමේ පරීක්ෂාවන් සඳහා ලකුණු 200 සිට ලකුණු 100 දක්වා වෙනස් කරන ලදී."
+    "devnote":
+        "1. පිටු සලකුණු වර්ග කිරීමේ අනුපිළිවෙල වෙනස් කරන ලදී.\n\n2. පැටවීමේ සජීවිකරණය වෙනස් කරන ලදී.\n\n3. දැන් දැන්වීම් ඉවත් කිරීම යෙදුම තුළ ඇති සියලුම බැනර් දැන්වීම් ඉවත් කරයි.\n\n- දැන් දැන්වීම් ඉවත් කිරීමේ කාලය යම් ප්‍රමාණයක් දක්වා රැස් කර ඇත."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "١. تم إصلاح مشكلة حجب لوحة المفاتيح لنافذة الإدخال عند استخدام وظيفة الإشارات المرجعية للمشاهد.\n\n٢. تم إصلاح خطأ برمجي يمنع تعديل سجلات الملاحظات أثناء تشغيل ميزة تحويل النص إلى كلام.\n\n٣. ميزة إزالة إعلانات المكافآت تزيل الآن جميع إعلانات البانر داخل التطبيق لمدة ١٢ ساعة.\n\n- يمكنك إزالة الإعلانات لمدة ١٢ ساعة لكل استخدام، بحد أقصى ٤٨ ساعة.\n\n٤. ميزة إزالة الإعلانات بـ ١٥٠٠ نقطة تزيل جميع إعلانات البانر داخل التطبيق لمدة ٢٤ ساعة.\n\n- يمكنك استخدام ١٥٠٠ نقطة لكل استخدام، ويمكن الإزالة حتى ٣ مرات لمدة إجمالية قدرها ٧٢ ساعة.\n\n٥. تم تعديل عدد النقاط المكتسبة من مشاهدة الإعلانات.\n\n- تم تغيير عدد النقاط المكتسبة من مشاهدة الإعلانات من ١٠٠٠ نقطة إلى ٦٠٠ نقطة.\n\n- تم تغيير عدد النقاط المكتسبة من تسجيل الحضور من ٢٠٠ نقطة إلى ١٠٠ نقطة."
+    "devnote":
+        "١. تم تغيير ترتيب فرز الإشارات المرجعية.\n\n٢. تم تغيير حركة التحميل.\n\n٣. إزالة الإعلانات الآن تزيل جميع إعلانات البانر داخل التطبيق.\n\n- يتم الآن تجميع وقت إزالة الإعلانات حتى حد معين."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "1. Ուղղվել է խնդիրը, որի պատճառով ստեղնաշարը ծածկում էր մուտքագրման պատուհանը դիտողի էջանիշերի գործառույթն օգտագործելիս։\n\n2. Ուղղվել է սխալը, որի պատճառով պատմության նշումները չէին կարող խմբագրվել TTS վերարտադրման ժամանակ։\n\n3. Պարգևատրման գովազդի հեռացումը այժմ հեռացնում է հավելվածի բոլոր բաններային գովազդները 12 ժամով։\n\n- Դուք կարող եք հեռացնել գովազդները 12 ժամով մեկ օգտագործման համար, առավելագույնը 48 ժամ։\n\n4. 1500 միավորանոց գովազդի հեռացումը հեռացնում է հավելվածի բոլոր բաններային գովազդները 24 ժամով։\n\n- Դուք կարող եք սպառել 1500 միավոր մեկ օգտագործման համար, և հեռացումը հնարավոր է մինչև 3 անգամ՝ ընդհանուր 72 ժամվա ընթացքում։\n\n5. Փոփոխվել է գովազդներ դիտելու համար միավորների ձեռքբերման չափը։\n\n- Փոխվել է 1000 միավորից մինչև 600 միավոր գովազդ դիտելու համար։\n\n- Փոխվել է 200 միավորից մինչև 100 միավոր ներկայության ստուգման համար։"
+    "devnote":
+        "1. Փոխվել է էջանիշների տեսակավորման կարգը։\n\n2. Փոխվել է բեռնման անիմացիան։\n\n3. Գովազդի հեռացումը այժմ հեռացնում է հավելվածի բոլոր բաններային գովազդները։\n\n- Գովազդի հեռացման ժամանակը այժմ կուտակվում է մինչև որոշակի գումար։"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "1. Lagfærði vandamál þar sem takkaborðið huldi innsláttargluggann þegar bókamerkjastillingin var notuð.\n\n2. Lagfærði villu þar sem ekki var hægt að breyta sögu minnispunktum við TTS spilun.\n\n3. Fjarlæging verðlaunaauglýsinga fjarlægir nú allar borðaauglýsingar innan appsins í 12 klukkustundir.\n\n- Þú getur fjarlægt auglýsingar í 12 klukkustundir fyrir hverja notkun, allt að 48 klukkustundir.\n\n4. Fjarlæging 1500 stiga auglýsinga fjarlægir allar borðaauglýsingar innan appsins í 24 klukkustundir.\n\n- Þú getur notað 1500 stig fyrir hverja notkun og fjarlæging er möguleg allt að 3 sinnum í samtals 72 klukkustundir.\n\n5. Breytti stigaöflun fyrir að horfa á auglýsingar.\n\n- Breytt úr 1000 stigum í 600 stig fyrir að horfa á auglýsingar.\n\n- Breytt úr 200 stigum í 100 stig fyrir mætingarathuganir."
+    "devnote":
+        "1. Breytti röðun bókamerkja.\n\n2. Breytti hleðsluhreyfimynd.\n\n3. Fjarlæging auglýsinga fjarlægir nú allar borðaauglýsingar innan appsins.\n\n- Tíminn sem auglýsingar hafa verið fjarlægðar safnast nú upp að ákveðnu marki."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "1. İzləyici əlfəcin funksiyasından istifadə edərkən klaviaturanın giriş pəncərəsini örtməsi ilə bağlı problem həll edildi.\n\n2. TTS oxutma zamanı tarixçə qeydlərinin redaktə edilə bilməməsi ilə bağlı xəta düzəldildi.\n\n3. Mükafat Reklam Silinməsi artıq tətbiqdəki bütün banner reklamlarını 12 saat ərzində silir.\n\n- Reklamları hər istifadə üçün 12 saat, maksimum 48 saata qədər silə bilərsiniz.\n\n4. 1500 Xal Reklam Silinməsi tətbiqdəki bütün banner reklamlarını 24 saat ərzində silir.\n\n- Hər istifadə üçün 1500 xal istifadə edə bilərsiniz və silinmə cəmi 72 saat ərzində 3 dəfəyə qədər mümkündür.\n\n5. Reklam izləmək üçün xal toplama məbləği dəyişdirildi.\n\n- Reklam izləmək üçün 1000 xaldan 600 xala dəyişdirildi.\n\n- Davamiyyət yoxlamaları üçün 200 xaldan 100 xala dəyişdirildi."
+    "devnote":
+        "1. Əlfəcin çeşidləmə sırası dəyişdirildi.\n\n2. Yükləmə animasiyası dəyişdirildi.\n\n3. Reklam silinməsi artıq tətbiqdəki bütün banner reklamlarını silir.\n\n- Reklam silinmə vaxtı artıq müəyyən bir miqdara qədər toplanır."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "1. 'n Probleem opgelos waar die sleutelbord die invoervenster verberg het tydens die gebruik van die kyker se boekmerkfunksie.\n\n2. 'n Fout opgelos waar geskiedenismemo's nie tydens TTS-terugspeel geredigeer kon word nie.\n\n3. Die Verwydering van Beloningsadvertensies verwyder nou alle banieradvertensies binne die toepassing vir 12 uur.\n\n- Jy kan advertensies vir 12 uur per gebruik verwyder, tot 'n maksimum van 48 uur.\n\n4. Die Verwydering van 1500 Punte van Advertensies verwyder alle banieradvertensies binne die toepassing vir 24 uur.\n\n- Jy kan 1500 punte per gebruik verbruik, en verwydering is tot 3 keer moontlik vir 'n totaal van 72 uur.\n\n5. Die punte-verkrygingsbedrag vir die kyk van advertensies gewysig.\n\n- Verander van 1000 punte na 600 punte vir die kyk van advertensies.\n\n- Verander van 200 punte na 100 punte vir bywoningskontroles."
+    "devnote":
+        "1. Die boekmerk-sorteringsvolgorde is verander.\n\n2. Die laai-animasie is verander.\n\n3. Advertensieverwydering verwyder nou alle banieradvertensies binne die toepassing.\n\n- Die advertensieverwyderingstyd word nou tot 'n sekere bedrag opgehoop."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "1. U rregullua një problem ku tastiera errësonte dritaren e hyrjes gjatë përdorimit të funksionit të faqeshënuesit të shikuesit.\n\n2. U rregullua një gabim ku memot e historikut nuk mund të modifikoheshin gjatë luajtjes së TTS.\n\n3. Heqja e reklamave të shpërblimeve tani heq të gjitha reklamat banner brenda aplikacionit për 12 orë.\n\n- Mund të hiqni reklamat për 12 orë për përdorim, deri në një maksimum prej 48 orësh.\n\n4. Heqja e reklamave me 1500 pikë heq të gjitha reklamat banner brenda aplikacionit për 24 orë.\n\n- Mund të konsumoni 1500 pikë për përdorim, dhe heqja është e mundur deri në 3 herë për një total prej 72 orësh.\n\n5. U modifikua sasia e fitimit të pikëve për shikimin e reklamave.\n\n- U ndryshua nga 1000 pikë në 600 pikë për shikimin e reklamave.\n\n- U ndryshua nga 200 pikë në 100 pikë për kontrollet e pjesëmarrjes."
+    "devnote":
+        "1. U ndryshua renditja e faqeshënuesve.\n\n2. U ndryshua animacioni i ngarkimit.\n\n3. Heqja e reklamave tani heq të gjitha reklamat banner brenda aplikacionit.\n\n- Koha e heqjes së reklamave tani akumulohet deri në një sasi të caktuar."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "1. የተመልካች ዕልባት ተግባርን ሲጠቀሙ የቁልፍ ሰሌዳው የግቤት መስኮቱን የደበቀበትን ችግር አስተካክሏል።\n\n2. የታሪክ ማስታወሻዎች በቲቲኤስ መልሶ ማጫወት ወቅት ሊስተካከሉ የማይችሉበትን ሳንካ አስተካክሏል።\n\n3. የሽልማት ማስታወቂያ ማስወገጃ አሁን በመተግበሪያው ውስጥ ያሉትን ሁሉንም የባነር ማስታወቂያዎች ለ12 ሰዓታት ያስወግዳል።\n\n- በአንድ አጠቃቀም ለ12 ሰዓታት ማስታወቂያዎችን ማስወገድ ይችላሉ፣ እስከ ቢበዛ ለ48 ሰዓታት።\n\n4. የ1500 ነጥብ ማስታወቂያ ማስወገጃ በመተግበሪያው ውስጥ ያሉትን ሁሉንም የባነር ማስታወቂያዎች ለ24 ሰዓታት ያስወግዳል።\n\n- በአንድ አጠቃቀም 1500 ነጥቦችን መጠቀም ይችላሉ፣ እና በድምሩ ለ72 ሰዓታት እስከ 3 ጊዜ ማስወገድ ይቻላል።\n\n5. ማስታወቂያዎችን ለመመልከት የነጥብ ማግኛ መጠንን አስተካክሏል።\n\n- ማስታወቂያዎችን ለመመልከት ከ1000 ነጥቦች ወደ 600 ነጥቦች ተቀይሯል።\n\n- ለመገኘት ፍተሻዎች ከ200 ነጥቦች ወደ 100 ነጥቦች ተቀይሯል።"
+    "devnote":
+        "1. የዕልባት ድርደራ ቅደም ተከተል ቀይሯል።\n\n2. የመጫኛ አኒሜሽን ለውጧል።\n\n3. የማስታወቂያ ማስወገድ አሁን በመተግበሪያው ውስጥ ያሉትን ሁሉንም የባነር ማስታወቂያዎች ያስወግዳል።\n\n- የማስታወቂያ ማስወገጃ ጊዜ አሁን እስከ የተወሰነ መጠን ድረስ ተከማችቷል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "1. Parandatud probleem, kus klahvistik varjas vaataja järjehoidja funktsiooni kasutamisel sisestusakent.\n\n2. Parandatud viga, mille tõttu ei saanud ajaloomärkmeid TTS-i taasesituse ajal muuta.\n\n3. Preemiareklaamide eemaldamine eemaldab nüüd kõik rakenduse ribareklaamid 12 tunniks.\n\n- Reklaame saab eemaldada 12 tunniks kasutuskorra kohta, maksimaalselt 48 tunniks.\n\n4. 1500 punkti reklaami eemaldamine eemaldab kõik rakenduse ribareklaamid 24 tunniks.\n\n- Kasutuskorra kohta saab tarbida 1500 punkti ja eemaldamine on võimalik kuni 3 korda kokku 72 tunniks.\n\n5. Muudetud reklaamide vaatamise eest kogutavate punktide arvu.\n\n- Reklaamide vaatamise eest muudeti 1000 punktilt 600 punktile.\n\n- Kohalolekukontrollide eest muudeti 200 punktilt 100 punktile."
+    "devnote":
+        "1. Järjehoidjate sortimisjärjekorda muudeti.\n\n2. Laadimisanimatsiooni muudeti.\n\n3. Reklaamide eemaldamine eemaldab nüüd kõik rakenduse ribareklaamid.\n\n- Reklaamide eemaldamise aega arvestatakse nüüd teatud aja jooksul."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "1. ایک مسئلہ حل کیا جہاں کی پیڈ نے ویور بک مارک فنکشن کا استعمال کرتے وقت ان پٹ ونڈو کو دھندلا دیا تھا۔\n\n2. ایک بگ کو ٹھیک کیا جہاں TTS پلے بیک کے دوران ہسٹری میمو میں ترمیم نہیں کی جا سکتی تھی۔\n\n3. انعامی اشتہار ہٹانا اب ایپ کے اندر سے تمام بینر اشتہارات کو 12 گھنٹے کے لیے ہٹا دیتا ہے۔\n\n- آپ 12 گھنٹے فی استعمال اشتہارات کو ہٹا سکتے ہیں، زیادہ سے زیادہ 48 گھنٹے تک۔\n\n4. 1500 پوائنٹ اشتہار ہٹانا ایپ کے اندر سے 24 گھنٹے کے لیے تمام بینر اشتہارات کو ہٹا دیتا ہے۔\n\n- آپ فی استعمال 1500 پوائنٹس استعمال کر سکتے ہیں، اور کل 72 گھنٹے تک 3 بار ہٹانا ممکن ہے۔\n\n5. اشتہارات دیکھنے کے لیے پوائنٹ کے حصول کی رقم میں ترمیم کی گئی۔\n\n- اشتہارات دیکھنے کے لیے 1000 پوائنٹس سے 600 پوائنٹس میں تبدیل۔\n\n- حاضری کی جانچ کے لیے 200 پوائنٹس سے 100 پوائنٹس میں تبدیل۔"
+    "devnote":
+        "1. بک مارک چھانٹنے کی ترتیب کو تبدیل کر دیا گیا۔\n\n2. لوڈنگ اینیمیشن کو تبدیل کر دیا گیا۔\n\n3. اشتہار ہٹانا اب ایپ کے اندر موجود تمام بینر اشتہارات کو ہٹا دیتا ہے۔\n\n- اشتہار ہٹانے کا وقت اب ایک خاص رقم تک جمع ہو گیا ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "1. Виправлено проблему, через яку клавіатура закривала вікно введення під час використання функції закладок переглядача.\n\n2. Виправлено помилку, через яку неможливо було редагувати нотатки історії під час відтворення TTS.\n\n3. Видалення реклами винагород тепер видаляє всю банерну рекламу в додатку на 12 годин.\n\n- Ви можете видаляти рекламу на 12 годин за використання, максимум на 48 годин.\n\n4. Видалення реклами за 1500 балів видаляє всю банерну рекламу в додатку на 24 години.\n\n- Ви можете витратити 1500 балів за використання, а видалення можливе до 3 разів протягом 72 годин.\n\n5. Змінено суму отримання балів за перегляд реклами.\n\n- Змінено з 1000 балів на 600 балів за перегляд реклами.\n\n- Змінено з 200 балів на 100 балів за перевірку відвідуваності."
+    "devnote":
+        "1. Змінено порядок сортування закладок.\n\n2. Змінено анімацію завантаження.\n\n3. Видалення реклами тепер видаляє всі банерні рекламні оголошення в додатку.\n\n- Час видалення реклами тепер накопичується до певної кількості."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "1. Risolto un problema per cui la tastiera oscurava la finestra di input quando si utilizzava la funzione segnalibro del visualizzatore.\n\n2. Risolto un bug che impediva la modifica delle note della cronologia durante la riproduzione TTS.\n\n3. La rimozione degli annunci con premio ora rimuove tutti i banner pubblicitari all'interno dell'app per 12 ore.\n\n- È possibile rimuovere gli annunci per 12 ore per utilizzo, fino a un massimo di 48 ore.\n\n4. La rimozione degli annunci con 1500 punti rimuove tutti i banner pubblicitari all'interno dell'app per 24 ore.\n\n- È possibile utilizzare 1500 punti per utilizzo e la rimozione è possibile fino a 3 volte, per un totale di 72 ore.\n\n5. Modificato il numero di punti necessari per la visione degli annunci.\n\n- Modificato da 1000 a 600 punti per la visione degli annunci.\n\n- Modificato da 200 a 100 punti per i controlli di presenza."
+    "devnote":
+        "1. Modificato l'ordine di visualizzazione dei segnalibri.\n\n2. Modificata l'animazione di caricamento.\n\n3. La rimozione degli annunci ora elimina tutti i banner pubblicitari all'interno dell'app.\n\n- Il tempo di rimozione degli annunci ora si accumula fino al raggiungimento di un certo limite."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "1. Memperbaiki masalah di mana papan ketik menutupi jendela input saat menggunakan fungsi bookmark penampil.\n\n2. Memperbaiki bug di mana memo riwayat tidak dapat diedit selama pemutaran TTS.\n\n3. Penghapusan Iklan Hadiah sekarang menghapus semua iklan banner di dalam aplikasi selama 12 jam.\n\n- Anda dapat menghapus iklan selama 12 jam per penggunaan, hingga maksimum 48 jam.\n\n4. Penghapusan Iklan 1500 Poin menghapus semua iklan banner di dalam aplikasi selama 24 jam.\n\n- Anda dapat menggunakan 1500 poin per penggunaan, dan penghapusan dimungkinkan hingga 3 kali dengan total 72 jam.\n\n5. Mengubah jumlah perolehan poin untuk menonton iklan.\n\n- Diubah dari 1000 poin menjadi 600 poin untuk menonton iklan.\n\n- Diubah dari 200 poin menjadi 100 poin untuk pengecekan kehadiran."
+    "devnote":
+        "1. Mengubah urutan penyortiran bookmark.\n\n2. Mengubah animasi pemuatan.\n\n3. Penghapusan iklan sekarang menghapus semua iklan banner di dalam aplikasi.\n\n- Waktu penghapusan iklan sekarang diakumulasikan hingga jumlah tertentu."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "1. ビューアのブックマーク機能使用時に、キーパッドが入力ウィンドウを覆い隠してしまう問題を修正しました。\n\n2. TTS再生中に履歴メモを編集できない不具合を修正しました。\n\n3. 報酬広告削除機能により、アプリ内のすべてのバナー広告が12時間非表示になります。\n\n- 1回の使用につき12時間、最大48時間まで広告を非表示にできます。\n\n4. 1500ポイント広告削除機能により、アプリ内のすべてのバナー広告が24時間非表示になります。\n\n- 1回の使用につき1500ポイントを消費し、最大3回まで、合計72時間まで広告を非表示にできます。\n\n5. 広告視聴で獲得できるポイント数を変更しました。\n\n- 広告視聴で獲得できるポイント数を1000ポイントから600ポイントに変更しました。\n\n- 出席確認で獲得できるポイント数を200ポイントから100ポイントに変更しました。"
+    "devnote":
+        "1. ブックマークの並べ替え順序を変更しました。\n\n2. ローディングアニメーションを変更しました。\n\n3. 広告削除機能で、アプリ内のすべてのバナー広告が削除されるようになりました。\n\n- 広告削除回数に上限が設けられました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "1. გამოსწორდა პრობლემა, რომლის გამოც კლავიატურა ფარავდა შეყვანის ფანჯარას მნახველის სანიშნეების ფუნქციის გამოყენებისას.\n\n2. გამოსწორდა შეცდომა, რომლის გამოც ისტორიის მემორანდუმების რედაქტირება შეუძლებელი იყო TTS-ის დაკვრის დროს.\n\n3. ჯილდოს რეკლამის წაშლა ახლა შლის აპლიკაციაში ყველა ბანერს 12 საათის განმავლობაში.\n\n- თქვენ შეგიძლიათ წაშალოთ რეკლამები 12 საათის განმავლობაში თითოეული გამოყენებისთვის, მაქსიმუმ 48 საათამდე.\n\n4. 1500 ქულის რეკლამის წაშლა შლის აპლიკაციაში ყველა ბანერს 24 საათის განმავლობაში.\n\n- თქვენ შეგიძლიათ მოიხმაროთ 1500 ქულა თითოეული გამოყენებისთვის და წაშლა შესაძლებელია მაქსიმუმ 3-ჯერ, სულ 72 საათის განმავლობაში.\n\n5. შეიცვალა ქულების მოპოვების რაოდენობა რეკლამების ყურებისთვის.\n\n- შეიცვალა 1000 ქულიდან 600 ქულამდე რეკლამების ყურებისთვის.\n\n- შეიცვალა 200 ქულიდან 100 ქულამდე დასწრების შემოწმებისთვის."
+    "devnote":
+        "1. შეიცვალა სანიშნეების დახარისხების თანმიმდევრობა.\n\n2. შეიცვალა ჩატვირთვის ანიმაცია.\n\n3. რეკლამის წაშლა ახლა შლის აპლიკაციაში არსებულ ყველა ბანერულ რეკლამას.\n\n- რეკლამის წაშლის დრო ახლა დაგროვილია გარკვეულ ოდენობამდე."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "1. Kulungiswe inkinga lapho ikhiphedi ifihla iwindi lokufaka lapho kusetshenziswa umsebenzi webhukhimakhi yombukeli.\n\n2. Kulungiswe iphutha lapho ama-memo omlando ayengahlelwa khona ngesikhathi sokudlala kwe-TTS.\n\n3. Ukususwa kwesikhangiso somvuzo manje kususa zonke izikhangiso zesibhengezo ngaphakathi kohlelo lokusebenza amahora ayi-12.\n\n- Ungasusa izikhangiso amahora ayi-12 ngokusetshenziswa ngakunye, kuze kufike emahoreni angama-48.\n\n4. Ukususwa kwesikhangiso se-1500 Point kususa zonke izikhangiso zesibhengezo ngaphakathi kohlelo lokusebenza amahora angama-24.\n\n- Ungadla amaphuzu ayi-1500 ngokusetshenziswa ngakunye, futhi ukususwa kungenzeka kuze kube izikhathi ezi-3 amahora angama-72 esewonke.\n\n5. Kushintshwe inani lokutholwa kwamaphuzu lokubuka izikhangiso.\n\n- Kushintshwe kusuka kumaphuzu ayi-1000 kuya kumaphuzu angama-600 ngokubuka izikhangiso.\n\n- Kushintshwe kusuka kumaphuzu angama-200 kuya kumaphuzu ayi-100 ngokuhlolwa kokuba khona."
+    "devnote":
+        "1. Kushintshwe ukuhleleka kokuhlelwa kwebhukhimakhi.\n\n2. Kushintshwe ukugqwayiza kokulayisha.\n\n3. Ukususwa kwesikhangiso manje kususa zonke izikhangiso zamabhena ngaphakathi kohlelo lokusebenza.\n\n- Isikhathi sokususwa kwesikhangiso manje sesiqongelelwe kuze kufike enanini elithile."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "1. 修复了使用查看器书签功能时，键盘会遮挡输入窗口的问题。\n\n2. 修复了在 TTS 播放期间无法编辑历史记录备忘录的问题。\n\n3. 奖励广告移除功能现在可以移除应用内所有横幅广告 12 小时。\n\n- 每次使用可移除广告 12 小时，最多可移除 48 小时。\n\n4. 1500 积分广告移除功能可以移除应用内所有横幅广告 24 小时。\n\n- 每次使用可消耗 1500 积分，最多可移除 3 次，总移除时间可达 72 小时。\n\n5. 调整了观看广告获得的积分数量。\n\n- 观看广告获得的积分由 1000 积分调整为 600 积分。\n\n- 签到获得的积分由 200 积分调整为 100 积分。"
+    "devnote":
+        "1. 更改了书签排序方式。\n\n2. 更改了加载动画。\n\n3. 广告移除功能现在会移除应用内的所有横幅广告。\n\n- 广告移除时间现在会累积到一定时长。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "1. 修正了使用檢視器書籤功能時，鍵盤會遮蔽輸入視窗的問題。\n\n2. 修正了在 TTS 播放期間無法編輯歷史記錄備忘錄的問題。\n\n3. 獎勵廣告移除功能現在可以移除應用程式內所有橫幅廣告 12 小時。\n\n- 每次使用可移除廣告 12 小時，最多可移除 48 小時。\n\n4. 1500 積分廣告​​移除功能可移除應用程式內所有橫幅廣告 24 小時。\n\n- 每次使用可消耗 1500 點，最多可移除 3 次，總移除時間可達 72 小時。\n\n5. 調整了觀看廣告所獲得的積分數。\n\n- 觀看廣告獲得的積分由 1000 點調整為 600 點。\n\n- 簽到獲得的積分由 200 點調整為 100 點。"
+    "devnote":
+        "1. 更改了書籤排序方式。\n\n2. 更改了載入動畫。\n\n3. 廣告移除功能現在會移除應用程式內的所有橫幅廣告。\n\n- 廣告移除時間現在會累積到一定時長。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "1. 修正了使用檢視器書籤功能時，鍵盤會遮蔽輸入視窗的問題。\n\n2. 修正了在 TTS 播放期間無法編輯歷史記錄備忘錄的問題。\n\n3. 獎勵廣告移除功能現在可以移除應用程式內所有橫幅廣告 12 小時。\n\n- 每次使用可移除廣告 12 小時，最多可移除 48 小時。\n\n4. 1500 積分廣告​​移除功能可移除應用程式內所有橫幅廣告 24 小時。\n\n- 每次使用可消耗 1500 點，最多可移除 3 次，總移除時間可達 72 小時。\n\n5. 調整了觀看廣告所獲得的積分數。\n\n- 觀看廣告獲得的積分由 1000 點調整為 600 點。\n\n- 簽到獲得的積分由 200 點調整為 100 點。"
+    "devnote":
+        "1. 更改了書籤排序方式。\n\n2. 更改了載入動畫。\n\n3. 廣告移除功能現在會移除應用程式內的所有橫幅廣告。\n\n- 廣告移除時間現在會累積到一定時長。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "1. Opraven problém, kdy klávesnice zakrývala vstupní okno při použití funkce záložek prohlížeče.\n\n2. Opravena chyba, kdy nebylo možné upravovat historické poznámky během přehrávání TTS.\n\n3. Odstranění reklam za odměnu nyní odstraňuje všechny bannerové reklamy v aplikaci na 12 hodin.\n\n- Reklamy můžete odebrat na 12 hodin za jedno použití, maximálně však na 48 hodin.\n\n4. Odstranění reklamy za 1500 bodů odstraňuje všechny bannerové reklamy v aplikaci na 24 hodin.\n\n- Za jedno použití můžete spotřebovat 1500 bodů a odstranění je možné až 3krát, celkem tedy na 72 hodin.\n\n5. Upraveno množství bodů získaných za sledování reklam.\n\n- Změněno z 1000 bodů na 600 bodů za sledování reklam.\n\n- Změněno z 200 bodů na 100 bodů za kontroly docházky."
+    "devnote":
+        "1. Změněno pořadí řazení záložek.\n\n2. Změněna animace načítání.\n\n3. Odstranění reklam nyní odstraní všechny bannerové reklamy v aplikaci.\n\n- Doba odstranění reklam se nyní sčítá do určité míry."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "1. Көру құралының бетбелгі функциясын пайдаланған кезде пернетақта енгізу терезесін жауып тұрған мәселе шешілді.\n\n2. TTS ойнату кезінде тарих жазбаларын өңдеу мүмкін емес қате түзетілді.\n\n3. Reward жарнамасын жою енді қолданба ішіндегі барлық баннерлік жарнамаларды 12 сағат бойы жояды.\n\n- Сіз жарнамаларды әр пайдалану үшін 12 сағат бойы, ең көбі 48 сағат бойы жоя аласыз.\n\n4. 1500 ұпайлық жарнаманы жою қолданба ішіндегі барлық баннерлік жарнамаларды 24 сағат бойы жояды.\n\n- Сіз әр пайдалану үшін 1500 ұпай жинай аласыз және барлығы 72 сағат ішінде 3 ретке дейін жоюға болады.\n\n5. Жарнамаларды көру үшін ұпай жинау сомасы өзгертілді.\n\n- Жарнамаларды көру үшін 1000 ұпайдан 600 ұпайға дейін өзгертілді.\n\n- Қатысуды тексеру үшін 200 ұпайдан 100 ұпайға дейін өзгертілді."
+    "devnote":
+        "1. Бетбелгілерді сұрыптау реті өзгертілді.\n\n2. Жүктеу анимациясы өзгертілді.\n\n3. Жарнаманы жою енді қолданбадағы барлық баннерлік жарнамаларды жояды.\n\n- Жарнаманы жою уақыты енді белгілі бір мөлшерге дейін жинақталады."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "1. S'ha corregit un problema que feia que el teclat numèric tapés la finestra d'entrada quan s'utilitzava la funció de marcador del visor.\n\n2. S'ha corregit un error que feia que les notes de l'historial no es poguessin editar durant la reproducció de TTS.\n\n3. L'eliminació d'anuncis de recompensa ara elimina tots els bàners publicitaris de l'aplicació durant 12 hores.\n\n- Podeu eliminar anuncis durant 12 hores per ús, fins a un màxim de 48 hores.\n\n4. L'eliminació d'anuncis de 1500 punts elimina tots els bàners publicitaris de l'aplicació durant 24 hores.\n\n- Podeu consumir 1500 punts per ús i es pot eliminar fins a 3 vegades per a un total de 72 hores.\n\n5. S'ha modificat la quantitat d'adquisició de punts per veure anuncis.\n\n- S'ha canviat de 1000 punts a 600 punts per veure anuncis.\n\n- S'ha canviat de 200 punts a 100 punts per a les comprovacions d'assistència."
+    "devnote":
+        "1. S'ha canviat l'ordre de classificació dels marcadors.\n\n2. S'ha canviat l'animació de càrrega.\n\n3. L'eliminació d'anuncis ara elimina tots els bàners publicitaris de l'aplicació.\n\n- El temps d'eliminació d'anuncis ara s'acumula fins a un cert import."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "1. ವೀಕ್ಷಕ ಬುಕ್‌ಮಾರ್ಕ್ ಕಾರ್ಯವನ್ನು ಬಳಸುವಾಗ ಕೀಪ್ಯಾಡ್ ಇನ್‌ಪುಟ್ ವಿಂಡೋವನ್ನು ಅಸ್ಪಷ್ಟಗೊಳಿಸುವ ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸಲಾಗಿದೆ.\n\n2. TTS ಪ್ಲೇಬ್ಯಾಕ್ ಸಮಯದಲ್ಲಿ ಇತಿಹಾಸ ಮೆಮೊಗಳನ್ನು ಸಂಪಾದಿಸಲು ಸಾಧ್ಯವಾಗದ ದೋಷವನ್ನು ಸರಿಪಡಿಸಲಾಗಿದೆ.\n\n3. ರಿವಾರ್ಡ್ ಜಾಹೀರಾತು ತೆಗೆಯುವಿಕೆ ಈಗ ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿರುವ ಎಲ್ಲಾ ಬ್ಯಾನರ್ ಜಾಹೀರಾತುಗಳನ್ನು 12 ಗಂಟೆಗಳ ಕಾಲ ತೆಗೆದುಹಾಕುತ್ತದೆ.\n\n- ನೀವು ಪ್ರತಿ ಬಳಕೆಗೆ 12 ಗಂಟೆಗಳ ಕಾಲ ಜಾಹೀರಾತುಗಳನ್ನು ತೆಗೆದುಹಾಕಬಹುದು, ಗರಿಷ್ಠ 48 ಗಂಟೆಗಳವರೆಗೆ.\n\n4. 1500 ಪಾಯಿಂಟ್ ಜಾಹೀರಾತು ತೆಗೆಯುವಿಕೆ ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿರುವ ಎಲ್ಲಾ ಬ್ಯಾನರ್ ಜಾಹೀರಾತುಗಳನ್ನು 24 ಗಂಟೆಗಳ ಕಾಲ ತೆಗೆದುಹಾಕುತ್ತದೆ.\n\n- ನೀವು ಪ್ರತಿ ಬಳಕೆಗೆ 1500 ಪಾಯಿಂಟ್‌ಗಳನ್ನು ಬಳಸಬಹುದು ಮತ್ತು ತೆಗೆದುಹಾಕುವಿಕೆಯು ಒಟ್ಟು 72 ಗಂಟೆಗಳವರೆಗೆ 3 ಬಾರಿ ಸಾಧ್ಯ.\n\n5. ಜಾಹೀರಾತುಗಳನ್ನು ವೀಕ್ಷಿಸಲು ಪಾಯಿಂಟ್ ಸ್ವಾಧೀನ ಮೊತ್ತವನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n\n- ಜಾಹೀರಾತುಗಳನ್ನು ವೀಕ್ಷಿಸಲು 1000 ಪಾಯಿಂಟ್‌ಗಳಿಂದ 600 ಪಾಯಿಂಟ್‌ಗಳಿಗೆ ಬದಲಾಯಿಸಲಾಗಿದೆ.\n\n- ಹಾಜರಾತಿ ಪರಿಶೀಲನೆಗಳಿಗಾಗಿ 200 ಪಾಯಿಂಟ್‌ಗಳಿಂದ 100 ಪಾಯಿಂಟ್‌ಗಳಿಗೆ ಬದಲಾಯಿಸಲಾಗಿದೆ."
+    "devnote":
+        "1. ಬುಕ್‌ಮಾರ್ಕ್ ವಿಂಗಡಣೆ ಕ್ರಮವನ್ನು ಬದಲಾಯಿಸಲಾಗಿದೆ.\n\n2. ಲೋಡಿಂಗ್ ಅನಿಮೇಷನ್ ಅನ್ನು ಬದಲಾಯಿಸಲಾಗಿದೆ.\n\n3. ಜಾಹೀರಾತು ತೆಗೆದುಹಾಕುವಿಕೆಯು ಈಗ ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿರುವ ಎಲ್ಲಾ ಬ್ಯಾನರ್ ಜಾಹೀರಾತುಗಳನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ.\n\n- ಜಾಹೀರಾತು ತೆಗೆದುಹಾಕುವ ಸಮಯವನ್ನು ಈಗ ಒಂದು ನಿರ್ದಿಷ್ಟ ಮೊತ್ತದವರೆಗೆ ಸಂಗ್ರಹಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "1. Ispravljen je problem gdje je tipkovnica zaklanjala prozor za unos prilikom korištenja funkcije označavanja preglednika.\n\n2. Ispravljena je greška gdje se bilješke povijesti nisu mogle uređivati ​​tijekom reprodukcije TTS-a.\n\n3. Uklanjanje nagradnih oglasa sada uklanja sve banner oglase unutar aplikacije na 12 sati.\n\n- Možete ukloniti oglase na 12 sati po korištenju, do maksimalno 48 sati.\n\n4. Uklanjanje oglasa od 1500 bodova uklanja sve banner oglase unutar aplikacije na 24 sata.\n\n- Možete potrošiti 1500 bodova po korištenju, a uklanjanje je moguće do 3 puta za ukupno 72 sata.\n\n5. Izmijenjen je iznos bodova za stjecanje za gledanje oglasa.\n\n- Promijenjeno s 1000 bodova na 600 bodova za gledanje oglasa.\n\n- Promijenjeno s 200 bodova na 100 bodova za provjere prisutnosti."
+    "devnote":
+        "1. Promijenjen je redoslijed sortiranja oznaka.\n\n2. Promijenjena je animacija učitavanja.\n\n3. Uklanjanje oglasa sada uklanja sve banner oglase unutar aplikacije.\n\n- Vrijeme uklanjanja oglasa sada se akumulira do određenog iznosa."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "១. ជួសជុលបញ្ហាដែលបន្ទះលេខបានបិទបាំងបង្អួចបញ្ចូលនៅពេលប្រើមុខងារចំណាំកម្មវិធីមើល។\n\n២. ជួសជុលកំហុសដែលមិនអាចកែសម្រួលអនុស្សរណៈប្រវត្តិក្នុងអំឡុងពេលចាក់ TTS ។\n\n៣. ការដកការផ្សាយពាណិជ្ជកម្មរង្វាន់ឥឡូវនេះលុបការផ្សាយពាណិជ្ជកម្មបដាទាំងអស់នៅក្នុងកម្មវិធីរយៈពេល ១២ ម៉ោង។\n\n- អ្នកអាចលុបការផ្សាយពាណិជ្ជកម្មរយៈពេល ១២ ម៉ោងក្នុងមួយការប្រើប្រាស់ រហូតដល់អតិបរមា ៤៨ ម៉ោង។\n\n៤. ការដកការផ្សាយពាណិជ្ជកម្ម ១៥០០ ពិន្ទុលុបការផ្សាយពាណិជ្ជកម្មបដាទាំងអស់នៅក្នុងកម្មវិធីរយៈពេល ២៤ ម៉ោង។\n\n- អ្នកអាចប្រើប្រាស់ ១៥០០ ពិន្ទុក្នុងមួយការប្រើប្រាស់ ហើយការដកចេញអាចធ្វើទៅបានរហូតដល់ ៣ ដងសរុប ៧២ ម៉ោង។\n\n៥. កែប្រែចំនួនពិន្ទុសម្រាប់ការមើលការផ្សាយពាណិជ្ជកម្ម។\n\n- បានផ្លាស់ប្តូរពី ១០០០ ពិន្ទុទៅ ៦០០ ពិន្ទុសម្រាប់ការមើលការផ្សាយពាណិជ្ជកម្ម។\n\n- បានផ្លាស់ប្តូរពី ២០០ ពិន្ទុទៅ ១០០ ពិន្ទុសម្រាប់ការត្រួតពិនិត្យការចូលរួម។"
+    "devnote":
+        "១. បានផ្លាស់ប្តូរលំដាប់តម្រៀបចំណាំ។\n\n២. បានផ្លាស់ប្តូរចលនាផ្ទុក។\n\n៣. ការដកការផ្សាយពាណិជ្ជកម្មឥឡូវនេះលុបការផ្សាយពាណិជ្ជកម្មបដាទាំងអស់នៅក្នុងកម្មវិធី។\n\n- ពេលវេលាដកការផ្សាយពាណិជ្ជកម្មឥឡូវនេះត្រូវបានប្រមូលផ្តុំរហូតដល់ចំនួនជាក់លាក់មួយ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "1. Көрүүчүнүн кыстарма функциясын колдонууда баскычтоп киргизүү терезесин жаап калган көйгөй оңдолду.\n\n2. TTS ойнотуу учурунда тарыхый эскертүүлөрдү түзөтүүгө мүмкүн болбогон ката оңдолду.\n\n3. Сыйлык жарнамасын алып салуу эми колдонмодогу бардык баннер жарнамаларын 12 саатка алып салат.\n\n- Жарнамаларды ар бир колдонууда 12 саатка, эң көп дегенде 48 саатка чейин алып сала аласыз.\n\n4. 1500 упайлык жарнаманы алып салуу колдонмодогу бардык баннер жарнамаларын 24 саатка алып салат.\n\n- Ар бир колдонууда 1500 упайга чейин колдоно аласыз жана жалпысынан 72 саат бою 3 жолу алып салууга болот.\n\n5. Жарнамаларды көрүү үчүн упай топтоо суммасы өзгөртүлдү.\n\n- Жарнамаларды көрүү үчүн 1000 упайдан 600 упайга чейин өзгөртүлдү.\n\n- Катышууну текшерүү үчүн 200 упайдан 100 упайга чейин өзгөртүлдү."
+    "devnote":
+        "1. Кыстармаларды иреттөө тартиби өзгөртүлдү.\n\n2. Жүктөө анимациясы өзгөртүлдү.\n\n3. Жарнаманы алып салуу эми колдонмодогу бардык баннер жарнамаларын алып салат.\n\n- Жарнаманы алып салуу убактысы эми белгилүү бир өлчөмгө чейин топтолот."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "1. வியூவர் புக்மார்க் செயல்பாட்டைப் பயன்படுத்தும்போது, ​​கீபேட் உள்ளீட்டு சாளரத்தை மறைத்த சிக்கல் சரிசெய்யப்பட்டது.\n\n2. TTS பிளேபேக்கின் போது ஹிஸ்டரி மெமோக்களைத் திருத்த முடியாத பிழை சரிசெய்யப்பட்டது.\n\n3. ரிவார்டு விளம்பர நீக்கம் இப்போது செயலியில் உள்ள அனைத்து பேனர் விளம்பரங்களையும் 12 மணிநேரத்திற்கு நீக்குகிறது.\n\n- ஒரு பயன்பாட்டிற்கு 12 மணிநேரம், அதிகபட்சமாக 48 மணிநேரம் வரை நீங்கள் விளம்பரங்களை நீக்கலாம்.\n\n4. 1500 புள்ளி விளம்பர நீக்கம் செயலியில் உள்ள அனைத்து பேனர் விளம்பரங்களையும் 24 மணிநேரத்திற்கு நீக்குகிறது.\n\n- ஒரு பயன்பாட்டிற்கு 1500 புள்ளிகளைப் பயன்படுத்தலாம், மேலும் மொத்தம் 72 மணிநேரத்திற்கு 3 முறை வரை நீக்குவது சாத்தியமாகும்.\n\n5. விளம்பரங்களைப் பார்ப்பதற்கான புள்ளி பெறும் அளவு மாற்றியமைக்கப்பட்டது.\n\n- விளம்பரங்களைப் பார்ப்பதற்கு 1000 புள்ளிகளிலிருந்து 600 புள்ளிகளாக மாற்றப்பட்டது.\n\n- வருகைப் பதிவுகளுக்கு 200 புள்ளிகளிலிருந்து 100 புள்ளிகளாக மாற்றப்பட்டது."
+    "devnote":
+        "1. புக்மார்க்குகளின் வரிசை மாற்றப்பட்டுள்ளது.\n\n2. லோடிங் அனிமேஷன் மாற்றப்பட்டுள்ளது.\n\n3. விளம்பர நீக்கம் இப்போது செயலிக்குள் உள்ள அனைத்து பேனர் விளம்பரங்களையும் நீக்குகிறது.\n\n- விளம்பர நீக்க நேரம் இப்போது ஒரு குறிப்பிட்ட அளவு வரை சேமிக்கப்படுகிறது."
   },
   "태국어": {
     "key": "th",
-    "devnote": "1. แก้ไขปัญหาที่แป้นพิมพ์บังหน้าต่างป้อนข้อมูลเมื่อใช้ฟังก์ชันบุ๊กมาร์กของโปรแกรมดูโฆษณา\n\n2. แก้ไขข้อผิดพลาดที่ไม่สามารถแก้ไขบันทึกประวัติระหว่างการเล่น TTS ได้\n\n3. การลบโฆษณาด้วยรางวัลจะลบโฆษณาแบนเนอร์ทั้งหมดภายในแอปเป็นเวลา 12 ชั่วโมง\n\n- คุณสามารถลบโฆษณาได้ครั้งละ 12 ชั่วโมง สูงสุด 48 ชั่วโมง\n\n4. การลบโฆษณาด้วย 1500 คะแนนจะลบโฆษณาแบนเนอร์ทั้งหมดภายในแอปเป็นเวลา 24 ชั่วโมง\n\n- คุณสามารถใช้ 1500 คะแนนต่อครั้ง และสามารถลบได้สูงสุด 3 ครั้ง รวมเป็น 72 ชั่วโมง\n\n5. ปรับเปลี่ยนจำนวนคะแนนที่ได้รับจากการดูโฆษณา\n\n- เปลี่ยนจาก 1000 คะแนนเป็น 600 คะแนนสำหรับการดูโฆษณา\n\n- เปลี่ยนจาก 200 คะแนนเป็น 100 คะแนนสำหรับการเช็คชื่อเข้าเรียน"
+    "devnote":
+        "1. เปลี่ยนลำดับการจัดเรียงบุ๊กมาร์ก\n\n2. เปลี่ยนแอนิเมชั่นการโหลด\n\n3. การลบโฆษณาจะลบแบนเนอร์โฆษณาทั้งหมดภายในแอป\n\n- เวลาในการลบโฆษณาจะถูกสะสมจนถึงจำนวนหนึ่ง"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "1. Görüntüleyici yer imi işlevi kullanılırken tuş takımının giriş penceresini kapatması sorunu düzeltildi.\n\n2. Metin okuma (TTS) oynatımı sırasında geçmiş notlarının düzenlenememesi hatası düzeltildi.\n\n3. Ödüllü Reklam Kaldırma özelliği artık uygulama içindeki tüm banner reklamlarını 12 saatliğine kaldırıyor.\n\n- Her kullanımda 12 saatliğine, en fazla 48 saatliğine reklam kaldırabilirsiniz.\n\n4. 1500 Puanlık Reklam Kaldırma özelliği, uygulama içindeki tüm banner reklamlarını 24 saatliğine kaldırıyor.\n\n- Her kullanımda 1500 puan tüketebilirsiniz ve toplam 72 saat için en fazla 3 kez reklam kaldırabilirsiniz.\n\n5. Reklam izleme için kazanılan puan miktarı değiştirildi.\n\n- Reklam izleme için 1000 puandan 600 puana düşürüldü.\n\n- Katılım kontrolleri için 200 puandan 100 puana düşürüldü."
+    "devnote":
+        "1. Yer imi sıralama düzeni değiştirildi.\n\n2. Yükleme animasyonu değiştirildi.\n\n3. Reklam kaldırma işlemi artık uygulama içindeki tüm banner reklamlarını kaldırıyor.\n\n- Reklam kaldırma süresi artık belirli bir süreye kadar birikiyor."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "1. వ్యూయర్ బుక్‌మార్క్ ఫంక్షన్‌ను ఉపయోగిస్తున్నప్పుడు కీప్యాడ్ ఇన్‌పుట్ విండోను అడ్డుకుంటున్న సమస్యను పరిష్కరించడం జరిగింది.\n\n2. TTS ప్లేబ్యాక్ సమయంలో హిస్టరీ మెమోలను ఎడిట్ చేయలేని బగ్‌ను పరిష్కరించడం జరిగింది.\n\n3. రివార్డ్ యాడ్ రిమూవల్ ఇప్పుడు యాప్‌లోని అన్ని బ్యానర్ యాడ్‌లను 12 గంటల పాటు తొలగిస్తుంది.\n\n- మీరు ఒక్కో వినియోగానికి 12 గంటల చొప్పున, గరిష్టంగా 48 గంటల వరకు యాడ్‌లను తొలగించవచ్చు.\n\n4. 1500 పాయింట్ల యాడ్ రిమూవల్ యాప్‌లోని అన్ని బ్యానర్ యాడ్‌లను 24 గంటల పాటు తొలగిస్తుంది.\n\n- మీరు ఒక్కో వినియోగానికి 1500 పాయింట్లను ఉపయోగించుకోవచ్చు, మరియు మొత్తం 72 గంటల వరకు, గరిష్టంగా 3 సార్లు తొలగింపు సాధ్యమవుతుంది.\n\n5. యాడ్‌లను చూడటం ద్వారా పొందే పాయింట్ల మొత్తాన్ని సవరించడం జరిగింది.\n\n- యాడ్‌లను చూడటానికి ఇచ్చే పాయింట్లను 1000 నుండి 600 పాయింట్లకు మార్చడం జరిగింది.\n\n- హాజరు తనిఖీల కోసం ఇచ్చే పాయింట్లను 200 నుండి 100 పాయింట్లకు మార్చడం జరిగింది."
+    "devnote":
+        "1. బుక్‌మార్క్‌ల క్రమబద్ధీకరణ క్రమాన్ని మార్చడం జరిగింది.\n\n2. లోడింగ్ యానిమేషన్‌ను మార్చడం జరిగింది.\n\n3. యాడ్ రిమూవల్ ఇప్పుడు యాప్‌లోని అన్ని బ్యానర్ యాడ్‌లను తొలగిస్తుంది.\n\n- యాడ్ తొలగింపు సమయం ఇప్పుడు ఒక నిర్దిష్ట మొత్తం వరకు కూడబెట్టబడుతుంది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "1. ਇੱਕ ਸਮੱਸਿਆ ਨੂੰ ਹੱਲ ਕੀਤਾ ਗਿਆ ਹੈ ਜਿੱਥੇ ਕੀਪੈਡ ਨੇ ਦਰਸ਼ਕ ਬੁੱਕਮਾਰਕ ਫੰਕਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਸਮੇਂ ਇਨਪੁਟ ਵਿੰਡੋ ਨੂੰ ਅਸਪਸ਼ਟ ਕਰ ਦਿੱਤਾ ਸੀ।\n\n2. ਇੱਕ ਬੱਗ ਨੂੰ ਠੀਕ ਕੀਤਾ ਗਿਆ ਹੈ ਜਿੱਥੇ TTS ਪਲੇਬੈਕ ਦੌਰਾਨ ਇਤਿਹਾਸ ਮੈਮੋ ਨੂੰ ਸੰਪਾਦਿਤ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਸੀ।\n\n3. ਇਨਾਮ ਵਿਗਿਆਪਨ ਹਟਾਉਣਾ ਹੁਣ ਐਪ ਦੇ ਅੰਦਰ ਸਾਰੇ ਬੈਨਰ ਇਸ਼ਤਿਹਾਰਾਂ ਨੂੰ 12 ਘੰਟਿਆਂ ਲਈ ਹਟਾ ਦਿੰਦਾ ਹੈ।\n\n- ਤੁਸੀਂ ਪ੍ਰਤੀ ਵਰਤੋਂ 12 ਘੰਟਿਆਂ ਲਈ, ਵੱਧ ਤੋਂ ਵੱਧ 48 ਘੰਟਿਆਂ ਤੱਕ ਇਸ਼ਤਿਹਾਰ ਹਟਾ ਸਕਦੇ ਹੋ।\n\n4. 1500 ਪੁਆਇੰਟ ਵਿਗਿਆਪਨ ਹਟਾਉਣਾ ਐਪ ਦੇ ਅੰਦਰ ਸਾਰੇ ਬੈਨਰ ਇਸ਼ਤਿਹਾਰਾਂ ਨੂੰ 24 ਘੰਟਿਆਂ ਲਈ ਹਟਾ ਦਿੰਦਾ ਹੈ।\n\n- ਤੁਸੀਂ ਪ੍ਰਤੀ ਵਰਤੋਂ 1500 ਪੁਆਇੰਟ ਵਰਤ ਸਕਦੇ ਹੋ, ਅਤੇ ਕੁੱਲ 72 ਘੰਟਿਆਂ ਲਈ 3 ਵਾਰ ਹਟਾਉਣਾ ਸੰਭਵ ਹੈ।\n\n5. ਇਸ਼ਤਿਹਾਰ ਦੇਖਣ ਲਈ ਪੁਆਇੰਟ ਪ੍ਰਾਪਤੀ ਰਕਮ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ।\n\n- ਇਸ਼ਤਿਹਾਰ ਦੇਖਣ ਲਈ 1000 ਪੁਆਇੰਟਾਂ ਤੋਂ 600 ਪੁਆਇੰਟਾਂ ਵਿੱਚ ਬਦਲਿਆ ਗਿਆ ਹੈ।\n\n- ਹਾਜ਼ਰੀ ਜਾਂਚ ਲਈ 200 ਪੁਆਇੰਟਾਂ ਤੋਂ 100 ਪੁਆਇੰਟਾਂ ਵਿੱਚ ਬਦਲਿਆ ਗਿਆ ਹੈ।"
+    "devnote":
+        "1. ਬੁੱਕਮਾਰਕ ਛਾਂਟਣ ਦਾ ਕ੍ਰਮ ਬਦਲਿਆ ਗਿਆ ਹੈ।\n\n2. ਲੋਡਿੰਗ ਐਨੀਮੇਸ਼ਨ ਬਦਲਿਆ ਗਿਆ ਹੈ।\n\n3. ਇਸ਼ਤਿਹਾਰ ਹਟਾਉਣ ਨਾਲ ਹੁਣ ਐਪ ਦੇ ਅੰਦਰ ਸਾਰੇ ਬੈਨਰ ਇਸ਼ਤਿਹਾਰ ਹਟਾ ਦਿੱਤੇ ਜਾਂਦੇ ਹਨ।\n\n- ਇਸ਼ਤਿਹਾਰ ਹਟਾਉਣ ਦਾ ਸਮਾਂ ਹੁਣ ਇੱਕ ਨਿਸ਼ਚਿਤ ਮਾਤਰਾ ਤੱਕ ਇਕੱਠਾ ਹੋ ਜਾਂਦਾ ਹੈ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "۱. مشکلی که باعث می‌شد صفحه‌کلید هنگام استفاده از تابع نشانک‌گذاری نمایشگر، پنجره ورودی را مبهم کند، برطرف شد.\n\n\n۲. مشکلی که باعث می‌شد یادداشت‌های تاریخچه در حین پخش TTS قابل ویرایش نباشند، برطرف شد.\n\n\n۳. حذف تبلیغات پاداشی اکنون تمام تبلیغات بنری درون برنامه را به مدت ۱۲ ساعت حذف می‌کند.\n\n\n- می‌توانید تبلیغات را به مدت ۱۲ ساعت در هر بار استفاده، حداکثر تا ۴۸ ساعت، حذف کنید.\n\n\n۴. حذف تبلیغات ۱۵۰۰ امتیازی، تمام تبلیغات بنری درون برنامه را به مدت ۲۴ ساعت حذف می‌کند.\n\n\n- می‌توانید در هر بار استفاده ۱۵۰۰ امتیاز مصرف کنید و حذف تا ۳ بار و در مجموع ۷۲ ساعت امکان‌پذیر است.\n\n\n۵. میزان کسب امتیاز برای تماشای تبلیغات تغییر کرد.\n\n\n- از ۱۰۰۰ امتیاز برای تماشای تبلیغات به ۶۰۰ امتیاز تغییر کرد.\n\n\n- از ۲۰۰ امتیاز به ۱۰۰ امتیاز برای بررسی حضور و غیاب تغییر کرد."
+    "devnote":
+        "۱. ترتیب مرتب‌سازی نشانک‌ها تغییر کرد.\n\n\n۲. انیمیشن بارگذاری تغییر کرد.\n\n\n۳. حذف تبلیغات اکنون تمام تبلیغات بنری درون برنامه را حذف می‌کند.\n\n\n- زمان حذف تبلیغات اکنون تا مقدار مشخصی جمع می‌شود."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "1. Corrigido um problema em que o teclado numérico ocultava a janela de entrada ao usar a função de marcador do visualizador.\n\n2. Corrigido um bug que impedia a edição de notas do histórico durante a reprodução de TTS (Text-to-Speech).\n\n3. A opção \"Remoção de Anúncios por Recompensa\" agora remove todos os banners publicitários do aplicativo por 12 horas.\n\n- Você pode remover anúncios por 12 horas a cada uso, até um máximo de 48 horas.\n\n4. A opção \"Remoção de Anúncios por 1500 Pontos\" remove todos os banners publicitários do aplicativo por 24 horas.\n\n- Você pode usar 1500 pontos a cada uso, e a remoção é possível até 3 vezes, totalizando 72 horas.\n\n5. Modificada a quantidade de pontos ganhos ao assistir a anúncios.\n\n- Alterado de 1000 para 600 pontos por assistir a anúncios.\n\n- Alterado de 200 para 100 pontos por verificar a presença."
+    "devnote":
+        "1. Alteramos a ordem de classificação dos favoritos.\n\n2. Alteramos a animação de carregamento.\n\n3. A remoção de anúncios agora remove todos os banners publicitários do aplicativo.\n\n- O tempo de remoção de anúncios agora é acumulado até um determinado limite."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "1. Naprawiono problem, w wyniku którego klawiatura zasłaniała okno wprowadzania podczas korzystania z funkcji zakładki przeglądarki.\n\n2. Naprawiono błąd, który uniemożliwiał edycję notatek historii podczas odtwarzania tekstu na głos.\n\n3. Funkcja usuwania reklam z nagrodami usuwa teraz wszystkie banery reklamowe w aplikacji na 12 godzin.\n\n- Możesz usunąć reklamy na 12 godzin na jedno użycie, maksymalnie na 48 godzin.\n\n4. Funkcja usuwania reklam za 1500 punktów usuwa wszystkie banery reklamowe w aplikacji na 24 godziny.\n\n- Możesz wykorzystać 1500 punktów na jedno użycie, a usunięcie jest możliwe maksymalnie 3 razy, łącznie na 72 godziny.\n\n5. Zmieniono liczbę punktów zdobywanych za oglądanie reklam.\n\n- Zmieniono z 1000 na 600 punktów za oglądanie reklam.\n\n- Zmieniono z 200 na 100 punktów za sprawdzanie obecności."
+    "devnote":
+        "1. Zmieniono kolejność sortowania zakładek.\n\n2. Zmieniono animację ładowania.\n\n3. Funkcja usuwania reklam usuwa teraz wszystkie banery reklamowe w aplikacji.\n\n- Czas usuwania reklam jest teraz kumulowany do określonego limitu."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "1. Correction d'un problème où le clavier masquait la fenêtre de saisie lors de l'utilisation de la fonction de signet.\n\n2. Correction d'un bug empêchant la modification des mémos d'historique pendant la lecture de la synthèse vocale.\n\n3. La suppression des publicités (avec récompense) supprime désormais toutes les bannières publicitaires de l'application pendant 12 heures.\n\n- Vous pouvez supprimer les publicités pendant 12 heures par utilisation, jusqu'à un maximum de 48 heures.\n\n4. La suppression des publicités (1 500 points) supprime toutes les bannières publicitaires de l'application pendant 24 heures.\n\n- Vous pouvez utiliser 1 500 points par utilisation, et la suppression est possible jusqu'à 3 fois, pour une durée totale de 72 heures.\n\n5. Modification du nombre de points gagnés en regardant des publicités.\n\n- Le visionnage de publicités rapporte désormais 600 points au lieu de 1 000.\n\n- La validation des présences rapporte désormais 100 points au lieu de 200."
+    "devnote":
+        "1. L'ordre de tri des favoris a été modifié.\n\n2. L'animation de chargement a été modifiée.\n\n3. La suppression des publicités supprime désormais toutes les bannières publicitaires de l'application.\n\n- Le temps de suppression des publicités est maintenant cumulable jusqu'à une certaine limite."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "1. Korjattu ongelma, jossa näppäimistö peitti syöttöikkunan katseluohjelman kirjanmerkkitoimintoa käytettäessä.\n\n2. Korjattu virhe, jossa historiamuistioita ei voinut muokata TTS-toiston aikana.\n\n3. Palkintomainosten poisto poistaa nyt kaikki sovelluksen bannerimainokset 12 tunniksi.\n\n- Voit poistaa mainoksia 12 tunniksi käyttökertaa kohden, enintään 48 tunniksi.\n\n4. 1500 pisteen mainosten poisto poistaa kaikki sovelluksen bannerimainokset 24 tunniksi.\n\n- Voit kuluttaa 1500 pistettä käyttökertaa kohden, ja poistaminen on mahdollista enintään 3 kertaa yhteensä 72 tunniksi.\n\n5. Muutettu pisteiden keräämismäärää mainosten katselusta.\n\n- Muutettu 1000 pisteestä 600 pisteeseen mainosten katselusta.\n\n- Muutettu 200 pisteestä 100 pisteeseen läsnäolotarkastuksista."
+    "devnote":
+        "1. Kirjanmerkkien lajittelujärjestystä on muutettu.\n\n2. Latausanimaation kulkua on muutettu.\n\n3. Mainosten poisto poistaa nyt kaikki sovelluksen bannerimainokset.\n\n- Mainosten poistoaikaa kertyy nyt tiettyyn aikaan asti."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "1. Inayos ang isang isyu kung saan natatakpan ng keypad ang input window kapag ginagamit ang viewer bookmark function.\n\n2. Inayos ang isang bug kung saan hindi ma-edit ang mga history memo habang nagpe-playback ng TTS.\n\n3. Inaalis na ngayon ng Reward Ad Removal ang lahat ng banner ad sa loob ng app sa loob ng 12 oras.\n\n- Maaari mong alisin ang mga ad sa loob ng 12 oras bawat paggamit, hanggang sa maximum na 48 oras.\n\n4. Inaalis ng 1500 Point Ad Removal ang lahat ng banner ad sa loob ng app sa loob ng 24 na oras.\n\n- Maaari kang gumamit ng 1500 points bawat paggamit, at posible ang pag-alis nang hanggang 3 beses sa kabuuang 72 oras.\n\n5. Binago ang halaga ng point acquisition para sa panonood ng mga ad.\n\n- Binago mula 1000 points patungong 600 points para sa panonood ng mga ad.\n\n- Binago mula 200 points patungong 100 points para sa attendance checks."
+    "devnote":
+        "1. Binago ang pagkakasunod-sunod ng pag-uuri ng bookmark.\n\n2. Binago ang animation ng paglo-load.\n\n3. Inaalis na ngayon ng pag-alis ng ad ang lahat ng banner ad sa loob ng app.\n\n- Ang oras ng pag-alis ng ad ay naipon na ngayon hanggang sa isang tiyak na halaga."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "1. Kijavítottunk egy hibát, amely miatt a billentyűzet eltakarta a beviteli ablakot a néző könyvjelző funkciójának használatakor.\n\n2. Kijavítottunk egy hibát, amely miatt a TTS lejátszása közben nem lehetett szerkeszteni az előzménymemóriákat.\n\n3. A Jutalomhirdetések Eltávolítása mostantól 12 órára eltávolítja az alkalmazáson belüli összes bannerhirdetést.\n\n- Használatonként 12 órára, de legfeljebb 48 órára eltávolíthatja a hirdetéseket.\n\n4. Az 1500 pontos hirdetéseltávolítás 24 órára eltávolítja az alkalmazáson belüli összes bannerhirdetést.\n\n- Használatonként 1500 pontot fogyaszthat el, és az eltávolítás legfeljebb 3 alkalommal lehetséges, összesen 72 órára.\n\n5. Módosítottuk a hirdetések megtekintéséért járó pontok megszerzésének összegét.\n\n- A hirdetések megtekintéséért 1000 pontról 600 pontra változott.\n\n- A jelenléti ellenőrzésekért 200 pontról 100 pontra változott."
+    "devnote":
+        "1. Módosítottam a könyvjelzők rendezési sorrendjét.\n\n2. Módosítottam a betöltési animációt.\n\n3. A hirdetések eltávolítása mostantól az összes bannerhirdetést eltávolítja az alkalmazáson belül.\n\n- A hirdetések eltávolításának ideje mostantól egy bizonyos ideig összeadódik."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "1. תוקנה בעיה שבה לוח המקשים הסתיר את חלון הקלט בעת שימוש בפונקציית סימניות הצופה.\n\n2. תוקנה באג שבו לא ניתן היה לערוך תזכירי היסטוריה במהלך הפעלת TTS.\n\n3. הסרת פרסומות תגמול מסירה כעת את כל פרסומות הבאנר בתוך האפליקציה למשך 12 שעות.\n\n- ניתן להסיר פרסומות למשך 12 שעות לכל שימוש, עד למקסימום של 48 שעות.\n\n4. הסרת פרסומות של 1500 נקודות מסירה את כל פרסומות הבאנר בתוך האפליקציה למשך 24 שעות.\n\n- ניתן לצרוך 1500 נקודות לכל שימוש, וההסרה אפשרית עד 3 פעמים בסך הכל 72 שעות.\n\n5. שינוי סכום צבירת הנקודות עבור צפייה בפרסומות.\n\n- שינוי מ-1000 נקודות ל-600 נקודות עבור צפייה בפרסומות.\n\n- שינוי מ-200 נקודות ל-100 נקודות עבור בדיקות נוכחות."
+    "devnote":
+        "1. סדר מיון הסימניות שונה.\n\n2. אנימציית הטעינה שונה.\n\n3. הסרת מודעות מסירה כעת את כל באנרי הפרסום בתוך האפליקציה.\n\n- זמן הסרת המודעות מצטבר כעת עד לפרק זמן מסוים."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "1. व्यूअर बुकमार्क फ़ंक्शन का उपयोग करते समय कीपैड द्वारा इनपुट विंडो को ढकने की समस्या को ठीक कर दिया गया है।\n\n2. टीटीएस प्लेबैक के दौरान इतिहास मेमो को संपादित न कर पाने की समस्या को ठीक कर दिया गया है।\n\n3. रिवॉर्ड ऐड रिमूवल अब ऐप के सभी बैनर विज्ञापनों को 12 घंटे के लिए हटा देता है।\n\n- आप प्रति उपयोग 12 घंटे के लिए विज्ञापन हटा सकते हैं, अधिकतम 48 घंटे तक।\n\n4. 1500 पॉइंट ऐड रिमूवल ऐप के सभी बैनर विज्ञापनों को 24 घंटे के लिए हटा देता है।\n\n- आप प्रति उपयोग 1500 पॉइंट खर्च कर सकते हैं, और कुल 72 घंटे के लिए अधिकतम 3 बार विज्ञापन हटा सकते हैं।\n\n5. विज्ञापन देखने के लिए पॉइंट अर्जित करने की राशि में बदलाव किया गया है।\n\n- विज्ञापन देखने के लिए 1000 पॉइंट के बजाय 600 पॉइंट कर दिए गए हैं।\n\n- उपस्थिति जांच के लिए 200 पॉइंट के बजाय 100 पॉइंट कर दिए गए हैं।"
+    "devnote":
+        "1. बुकमार्कों का क्रम बदल दिया गया है।\n\n2. लोडिंग एनिमेशन बदल दिया गया है।\n\n3. अब विज्ञापन हटाने पर ऐप के सभी बैनर विज्ञापन हट जाएंगे।\n\n- विज्ञापन हटाने का समय अब ​​एक निश्चित सीमा तक ही मान्य होगा।"
   }
 }
