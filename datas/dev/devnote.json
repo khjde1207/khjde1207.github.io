@@ -1,362 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote":
-        "1. Changed the bookmark sorting order.\n\n2. Changed the loading animation.\n\n3. Ad removal now removes all banner ads within the app.\n\n- The ad removal time is now accumulated up to a certain amount."
+    "devnote": "1. Modified so that bookmarks are sorted based on location rather than the time they were added.\n\n2. Ad removal now removes all banner ads within the app.\n- Modified the points consumed for ad removal.\n- Modified so that ad removal points accumulate.\n- You can remove ads for a total of 6 days."
   },
   "한국어": {
     "key": "ko",
-    "devnote":
-        "1. 북마크 정렬 순서를 변경 하였습니다. \n\n2. 로딩 애니메이션을 바꿔보았습니다. \n\n3. 이제 광고제거는 어플내 모든 배너광고를 제거 합니다. \n - 광고제거 시간은 일정 시간 까지 누적 되도록 하였습니다."
+    "devnote": "1. 북마크 가 추가된 시간이 아니라, 위치 기반으로 정렬되도록 수정 하였습니다. \n\n2. 이제 광고제거는 어플내 모든 배너광고를 제거 합니다. \n - 광고제거에 사용되는 소모 포인트를 수정 하였습니다. \n - 광고제거는 서로 누적 되도록 수정하였습니다. \n - 총 6일간 제거 할 수 있습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote":
-        "1. Cambiouse a orde de clasificación dos marcadores.\n\n2. Cambiouse a animación de carga.\n\n3. A eliminación de anuncios agora elimina todos os anuncios de banner dentro da aplicación.\n\n- O tempo de eliminación de anuncios agora acumúlase ata unha determinada cantidade."
+    "devnote": "1. Modificouse para que os marcadores se ordenen segundo a localización en lugar da hora en que se engadiron.\n\n2. A eliminación de anuncios agora elimina todos os anuncios de banner dentro da aplicación.\n- Modificáronse os puntos consumidos para a eliminación de anuncios.\n- Modificouse para que os puntos de eliminación de anuncios se acumulen.\n- Podes eliminar anuncios durante un total de 6 días."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote":
-        "૧. બુકમાર્ક સૉર્ટિંગ ક્રમ બદલ્યો.\n\n૨. લોડિંગ એનિમેશન બદલ્યું.\n\n૩. જાહેરાત દૂર કરવાથી હવે એપ્લિકેશનમાંની બધી બેનર જાહેરાતો દૂર થઈ જાય છે.\n\n- જાહેરાત દૂર કરવાનો સમય હવે ચોક્કસ રકમ સુધી સંચિત થઈ જાય છે."
+    "devnote": "૧. બુકમાર્ક્સ ઉમેરવાના સમય કરતાં સ્થાનના આધારે સૉર્ટ થાય તે રીતે ફેરફાર કરવામાં આવ્યો છે.\n\n૨. જાહેરાત દૂર કરવાથી હવે એપ્લિકેશનમાં બધી બેનર જાહેરાતો દૂર થાય છે.\n- જાહેરાત દૂર કરવા માટે વપરાયેલા પોઈન્ટમાં ફેરફાર કરવામાં આવ્યો છે.\n- જાહેરાત દૂર કરવાના પોઈન્ટ એકઠા થાય તે રીતે ફેરફાર કરવામાં આવ્યો છે.\n- તમે કુલ ૬ દિવસ માટે જાહેરાતો દૂર કરી શકો છો."
   },
   "그리스어": {
     "key": "el",
-    "devnote":
-        "1. Άλλαξε η σειρά ταξινόμησης των σελιδοδεικτών.\n\n2. Άλλαξε η κινούμενη εικόνα φόρτωσης.\n\n3. Η αφαίρεση διαφημίσεων πλέον καταργεί όλες τις διαφημίσεις banner εντός της εφαρμογής.\n\n- Ο χρόνος αφαίρεσης διαφημίσεων πλέον συσσωρεύεται έως ένα συγκεκριμένο χρονικό διάστημα."
+    "devnote": "1. Τροποποιήθηκε ώστε οι σελιδοδείκτες να ταξινομούνται με βάση την τοποθεσία και όχι την ώρα που προστέθηκαν.\n\n2. Η κατάργηση διαφημίσεων πλέον καταργεί όλες τις διαφημίσεις banner εντός της εφαρμογής.\n- Τροποποιήθηκαν οι πόντοι που καταναλώνονται για την κατάργηση διαφημίσεων.\n- Τροποποιήθηκε ώστε να συσσωρεύονται πόντοι κατάργησης διαφημίσεων.\n- Μπορείτε να καταργήσετε διαφημίσεις για συνολικά 6 ημέρες."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote":
-        "1. De sorteervolgorde van bladwijzers is gewijzigd.\n\n2. De laadanimatie is gewijzigd.\n\n3. Advertenties verwijderen verwijdert nu alle banneradvertenties in de app.\n\n- De tijd die is besteed aan het verwijderen van advertenties wordt nu tot een bepaald maximum opgeteld."
+    "devnote": "1. Aangepast zodat bladwijzers worden gesorteerd op locatie in plaats van op het tijdstip waarop ze zijn toegevoegd.\n\n2. Advertenties verwijderen verwijdert nu alle banneradvertenties in de app.\n\n- Het aantal punten dat nodig is voor het verwijderen van advertenties is aangepast.\n\n- Aangepast zodat de punten voor het verwijderen van advertenties worden opgeteld.\n\n- Je kunt advertenties in totaal 6 dagen verwijderen."
   },
   "네팔어": {
     "key": "ne",
-    "devnote":
-        "१. बुकमार्क क्रमबद्ध गर्ने क्रम परिवर्तन गरियो।\n\n२. लोडिङ एनिमेसन परिवर्तन गरियो।\n\n३. विज्ञापन हटाउनाले अब एप भित्रका सबै ब्यानर विज्ञापनहरू हटाउँछ।\n\n- विज्ञापन हटाउने समय अब ​​निश्चित मात्रामा जम्मा हुन्छ।"
+    "devnote": "१. बुकमार्कहरू थपिएको समयको सट्टा स्थानको आधारमा क्रमबद्ध गर्न परिमार्जन गरिएको छ।\n\n२. विज्ञापन हटाउनाले अब एप भित्रका सबै ब्यानर विज्ञापनहरू हटाउँछ।\n- विज्ञापन हटाउनको लागि खपत गरिएका अंकहरू परिमार्जन गरिएको छ।\n- विज्ञापन हटाउने अंकहरू जम्मा हुने गरी परिमार्जन गरिएको छ।\n- तपाईं कुल ६ दिनको लागि विज्ञापनहरू हटाउन सक्नुहुन्छ।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote":
-        "1. Endret sorteringsrekkefølgen for bokmerkene.\n\n2. Endret lasteanimasjonen.\n\n3. Fjerning av annonser fjerner nå alle bannerannonser i appen.\n\n- Tiden for fjerning av annonser akkumuleres nå opp til en viss tid."
+    "devnote": "1. Endret slik at bokmerker sorteres basert på plassering i stedet for tidspunktet de ble lagt til.\n\n2. Annonsefjerning fjerner nå alle bannerannonser i appen.\n\n- Poengene som ble brukt for annonsefjerning er endret.\n\n- Poeng for annonsefjerning akkumuleres.\n\n- Du kan fjerne annonser i totalt 6 dager."
   },
   "덴마크어": {
     "key": "da",
-    "devnote":
-        "1. Ændret sorteringsrækkefølgen for bogmærker.\n\n2. Ændret indlæsningsanimationen.\n\n3. Fjernelse af annoncer fjerner nu alle bannerannoncer i appen.\n\n- Tiden for fjernelse af annoncer akkumuleres nu op til et vist tidsrum."
+    "devnote": "1. Ændret, så bogmærker sorteres baseret på placering i stedet for det tidspunkt, de blev tilføjet.\n\n2. Fjernelse af annoncer fjerner nu alle bannerannoncer i appen.\n\n- Ændret de point, der blev brugt til fjernelse af annoncer.\n\n- Ændret, så point for fjernelse af annoncer akkumuleres.\n\n- Du kan fjerne annoncer i i alt 6 dage."
   },
   "독일어": {
     "key": "de",
-    "devnote":
-        "1. Die Sortierreihenfolge der Lesezeichen wurde geändert.\n\n2. Die Ladeanimation wurde geändert.\n\n3. Die Werbeentfernung entfernt nun alle Banneranzeigen innerhalb der App.\n\n– Die Zeit für die Werbeentfernung wird nun bis zu einem bestimmten Zeitpunkt summiert."
+    "devnote": "1. Lesezeichen werden nun nach Standort und nicht mehr nach Hinzufügezeit sortiert.\n\n2. Die Werbeentfernung entfernt jetzt alle Banneranzeigen innerhalb der App.\n\n- Die für die Werbeentfernung benötigten Punkte wurden angepasst.\n\n- Die Punkte für die Werbeentfernung werden nun gesammelt.\n\n- Sie können Werbung für insgesamt 6 Tage entfernen."
   },
   "라오어": {
     "key": "lo",
-    "devnote":
-        "1. ປ່ຽນລຳດັບການຈັດຮຽງບຸກມາກ.\n\n2. ປ່ຽນພາບເຄື່ອນໄຫວການໂຫຼດ.\n\n3. ການລຶບໂຄສະນາໃນປັດຈຸບັນຈະລຶບໂຄສະນາປ້າຍໂຄສະນາທັງໝົດພາຍໃນແອັບ.\n\n- ເວລາການລຶບໂຄສະນາໃນປັດຈຸບັນຈະຖືກສະສົມໄວ້ເຖິງຈຳນວນທີ່ກຳນົດໄວ້."
+    "devnote": "1. ດັດແປງເພື່ອໃຫ້ບຸກມາກຖືກຈັດຮຽງຕາມສະຖານທີ່ແທນທີ່ຈະເປັນເວລາທີ່ເພີ່ມເຂົ້າໄປ.\n\n2. ການລຶບໂຄສະນາໃນປັດຈຸບັນຈະລຶບໂຄສະນາປ້າຍໂຄສະນາທັງໝົດພາຍໃນແອັບ.\n- ດັດແປງຄະແນນທີ່ໃຊ້ສຳລັບການລຶບໂຄສະນາ.\n- ດັດແປງເພື່ອໃຫ້ຄະແນນການລຶບໂຄສະນາສະສົມ.\n- ທ່ານສາມາດລຶບໂຄສະນາໄດ້ທັງໝົດ 6 ມື້."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote":
-        "1. Mainīta grāmatzīmju kārtošanas secība.\n\n2. Mainīta ielādes animācija.\n\n3. Reklāmu noņemšana tagad noņem visas reklāmkarogu reklāmas lietotnē.\n\n- Reklāmu noņemšanas laiks tagad tiek uzkrāts līdz noteiktam laikam."
+    "devnote": "1. Izmainīts, lai grāmatzīmes tiktu kārtotas pēc atrašanās vietas, nevis pēc pievienošanas laika.\n\n2. Reklāmu noņemšana tagad noņem visas reklāmkarogu reklāmas lietotnē.\n- Izmainīts punktu skaits, kas tiek patērēts reklāmu noņemšanai.\n- Izmainīts, lai reklāmu noņemšanas punkti tiktu uzkrāti.\n- Reklāmas var noņemt kopumā 6 dienas."
   },
   "러시아어": {
     "key": "ru",
-    "devnote":
-        "1. Изменен порядок сортировки закладок.\n\n2. Изменена анимация загрузки.\n\n3. Удаление рекламы теперь удаляет все баннерные объявления внутри приложения.\n\n- Время удаления рекламы теперь суммируется до определенного значения."
+    "devnote": "1. Изменено: теперь закладки сортируются по местоположению, а не по времени добавления.\n\n2. Удаление рекламы теперь удаляет все баннерные объявления внутри приложения.\n\n- Изменено количество баллов, затрачиваемых на удаление рекламы.\n\n- Изменено: теперь баллы за удаление рекламы накапливаются.\n\n- Вы можете удалять рекламу в течение 6 дней."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote":
-        "1. Am modificat ordinea de sortare a marcajelor.\n\n2. Am modificat animația de încărcare.\n\n3. Eliminarea reclamelor elimină acum toate bannerele publicitare din aplicație.\n\n- Timpul de eliminare a reclamelor este acum acumulat până la o anumită perioadă."
+    "devnote": "1. Modificat astfel încât marcajele să fie sortate în funcție de locație, nu de momentul adăugării.\n\n2. Eliminarea reclamelor elimină acum toate bannerele publicitare din aplicație.\n\n- S-au modificat punctele consumate pentru eliminarea reclamelor.\n\n- S-a modificat astfel încât punctele de eliminare a reclamelor să se acumuleze.\n\n- Puteți elimina reclamele timp de 6 zile în total."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote":
-        "1. Pakeista žymių rūšiavimo tvarka.\n\n2. Pakeista įkėlimo animacija.\n\n3. Pašalinus skelbimą, dabar pašalinamos visos reklaminės juostos programoje.\n\n- Skelbimų pašalinimo laikas dabar kaupiamas iki tam tikros sumos."
+    "devnote": "1. Pakeista taip, kad žymės būtų rūšiuojamos pagal vietą, o ne pagal jų pridėjimo laiką.\n\n2. Pašalinus skelbimus, dabar pašalinami visi reklaminiai skydeliai programoje.\n\n- Pakeistas taškų skaičius, sunaudojamas už skelbimų pašalinimą.\n\n- Pakeistas taip, kad kaupiami skelbimų pašalinimo taškai.\n\n- Skelbimus galite pašalinti iš viso 6 dienas."
   },
   "마라티어": {
     "key": "mr",
-    "devnote":
-        "१. बुकमार्कची क्रमवारी बदलली.\n\n२. लोडिंग ॲनिमेशन बदलले.\n\n३. जाहिरात काढल्यावर आता ॲपमधील सर्व बॅनर जाहिराती काढून टाकल्या जातात.\n\n- जाहिरात काढण्याची वेळ आता एका विशिष्ट मर्यादेपर्यंत जमा होते."
+    "devnote": "१. बुकमार्क्स जोडल्याच्या वेळेऐवजी स्थानानुसार क्रमवारी लावली जाईल, यासाठी बदल केला आहे.\n\n२. जाहिरात काढल्यावर आता ॲपमधील सर्व बॅनर जाहिराती काढून टाकल्या जातात.\n\n- जाहिरात काढण्यासाठी लागणाऱ्या पॉइंट्समध्ये बदल केला आहे.\n\n- जाहिरात काढण्याचे पॉइंट्स जमा होतील, यासाठी बदल केला आहे.\n\n- तुम्ही एकूण ६ दिवसांसाठी जाहिराती काढू शकता."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote":
-        "1. Променет е редоследот на сортирање на обележувачите.\n\n2. Променета е анимацијата за вчитување.\n\n3. Отстранувањето на реклами сега ги отстранува сите банер реклами во апликацијата.\n\n- Времето за отстранување на реклами сега се акумулира до одреден износ."
+    "devnote": "1. Изменето така што обележувачите се сортирани врз основа на локацијата, а не на времето кога се додадени.\n\n2. Отстранувањето реклами сега ги отстранува сите банер реклами во апликацијата.\n- Изменети се поените потрошени за отстранување реклами.\n- Изменето е така што поените за отстранување реклами се акумулираат.\n- Можете да отстранувате реклами вкупно 6 дена."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote":
-        "1. ബുക്ക്മാർക്ക് സോർട്ടിംഗ് ഓർഡർ മാറ്റി.\n\n2. ലോഡിംഗ് ആനിമേഷൻ മാറ്റി.\n\n3. പരസ്യം നീക്കം ചെയ്യൽ ഇപ്പോൾ ആപ്പിനുള്ളിലെ എല്ലാ ബാനർ പരസ്യങ്ങളെയും നീക്കം ചെയ്യുന്നു.\n\n- പരസ്യം നീക്കം ചെയ്യുന്നതിനുള്ള സമയം ഇപ്പോൾ ഒരു നിശ്ചിത തുക വരെ ശേഖരിക്കപ്പെടുന്നു."
+    "devnote": "1. ബുക്ക്മാർക്കുകൾ ചേർത്ത സമയത്തെ അടിസ്ഥാനമാക്കിയല്ല, ലൊക്കേഷൻ അടിസ്ഥാനമാക്കി അടുക്കുന്ന തരത്തിൽ പരിഷ്‌ക്കരിച്ചു.\n\n2. പരസ്യ നീക്കം ചെയ്യൽ ഇപ്പോൾ ആപ്പിനുള്ളിലെ എല്ലാ ബാനർ പരസ്യങ്ങളെയും നീക്കം ചെയ്യുന്നു.\n- പരസ്യ നീക്കം ചെയ്യലിനായി ഉപയോഗിക്കുന്ന പോയിന്റുകൾ പരിഷ്‌ക്കരിച്ചു.\n- പരസ്യ നീക്കം ചെയ്യൽ പോയിന്റുകൾ ശേഖരിക്കപ്പെടുന്ന തരത്തിൽ പരിഷ്‌ക്കരിച്ചു.\n- നിങ്ങൾക്ക് ആകെ 6 ദിവസത്തേക്ക് പരസ്യങ്ങൾ നീക്കം ചെയ്യാൻ കഴിയും."
   },
   "말레이어": {
     "key": "ms",
-    "devnote":
-        "1. Menukar susunan penyusunan penanda buku.\n\n2. Menukar animasi pemuatan.\n\n3. Penyingkiran iklan kini mengalih keluar semua iklan sepanduk dalam aplikasi.\n\n- Masa penyingkiran iklan kini terkumpul sehingga jumlah tertentu."
+    "devnote": "1. Diubah suai supaya penanda buku disusun berdasarkan lokasi dan bukannya masa ia ditambah.\n\n2. Penyingkiran iklan kini mengalih keluar semua iklan sepanduk dalam aplikasi.\n- Mengubah suai mata yang digunakan untuk penyingkiran iklan.\n- Diubah suai supaya mata penyingkiran iklan terkumpul.\n- Anda boleh mengalih keluar iklan selama 6 hari."
   },
   "몽골어": {
     "key": "mn",
-    "devnote":
-        "1. Хавчуургын эрэмбэлэх дарааллыг өөрчилсөн.\n\n2. Ачаалах анимацийг өөрчилсөн.\n\n3. Зар устгах функц нь одоо апп доторх бүх баннер зарыг устгана.\n\n- Зар устгах хугацаа одоо тодорхой хэмжээнд хуримтлагдсан."
+    "devnote": "1. Хавчуургыг нэмсэн цагаас нь бус байршлаас нь хамааруулан эрэмбэлэхээр өөрчилсөн.\n\n2. Зар устгах функц одоо апп доторх бүх баннер зарыг устгана.\n- Зар устгахад зарцуулсан оноог өөрчилсөн.\n- Зар устгах оноо хуримтлагдахаар өөрчилсөн.\n- Та нийт 6 өдрийн турш зарыг устгах боломжтой."
   },
   "바스크어": {
     "key": "eu",
-    "devnote":
-        "1. Laster-marken ordena aldatu da.\n\n2. Kargatzeko animazioa aldatu da.\n\n3. Iragarkiak kentzeak aplikazioko banner iragarki guztiak kentzen ditu orain.\n\n- Iragarkiak kentzeko denbora metatzen da orain zenbateko jakin bateraino."
+    "devnote": "1. Aldatu da laster-markak gehitu ziren orduaren arabera ordenatzeko, eta ez kokapenaren arabera.\n\n2. Iragarkiak kentzeak aplikazioko banner iragarki guztiak kentzen ditu orain.\n\n- Iragarkiak kentzeko kontsumitutako puntuak aldatu dira.\n\n- Iragarkiak kentzeko puntuak metatu daitezen aldatu da.\n\n- Iragarkiak 6 egunez kendu ditzakezu guztira."
   },
   "버마어": {
     "key": "my",
-    "devnote":
-        "၁။ bookmark စီခြင်းအစီအစဉ်ကို ပြောင်းလဲလိုက်ပါပြီ။\n\n၂။ loading animation ကို ပြောင်းလဲလိုက်ပါပြီ။\n\n၃။ ကြော်ငြာဖယ်ရှားခြင်းသည် အက်ပ်အတွင်းရှိ banner ကြော်ငြာအားလုံးကို ဖယ်ရှားလိုက်ပါပြီ။\n\n- ကြော်ငြာဖယ်ရှားချိန်ကို ယခုအခါ အတိုင်းအတာတစ်ခုအထိ စုဆောင်းထားပါသည်။"
+    "devnote": "၁။ bookmark များကို ထည့်သွင်းခဲ့သည့်အချိန်ထက် တည်နေရာအလိုက် စီထားရန် ပြုပြင်ထားသည်။\n\n၂။ ကြော်ငြာဖယ်ရှားခြင်းသည် အက်ပ်အတွင်းရှိ banner ကြော်ငြာအားလုံးကို ဖယ်ရှားပေးပါသည်။\n- ကြော်ငြာဖယ်ရှားရန်အတွက် အသုံးပြုသောအမှတ်များကို ပြုပြင်ထားသည်။\n- ကြော်ငြာဖယ်ရှားခြင်းအမှတ်များ စုပုံလာစေရန် ပြုပြင်ထားသည်။\n- စုစုပေါင်း ၆ ရက်ကြာ ကြော်ငြာများကို ဖယ်ရှားနိုင်သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote":
-        "1. Thay đổi thứ tự sắp xếp dấu trang.\n\n2. Thay đổi hiệu ứng hoạt ảnh khi tải trang.\n\n3. Chức năng xóa quảng cáo giờ đây sẽ xóa tất cả quảng cáo biểu ngữ trong ứng dụng.\n\n- Thời gian xóa quảng cáo giờ được cộng dồn đến một lượng nhất định."
+    "devnote": "1. Đã sửa đổi để sắp xếp dấu trang dựa trên vị trí thay vì thời gian thêm vào.\n\n2. Chức năng xóa quảng cáo giờ đây sẽ xóa tất cả quảng cáo biểu ngữ trong ứng dụng.\n\n- Đã sửa đổi số điểm cần thiết để xóa quảng cáo.\n\n- Đã sửa đổi để điểm xóa quảng cáo được tích lũy.\n\n- Bạn có thể xóa quảng cáo trong tổng cộng 6 ngày."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote":
-        "1. Зменены парадак сартавання закладак.\n\n2. Зменена анімацыя загрузкі.\n\n3. Пры выдаленні рэкламы цяпер выдаляюцца ўсе рэкламныя банеры ў дадатку.\n\n- Час выдалення рэкламы цяпер назапашваецца да пэўнай колькасці."
+    "devnote": "1. Зменена, каб закладкі сартуваліся па месцазнаходжанні, а не па часе іх дадання.\n\n2. Пры выдаленні рэкламы цяпер выдаляюцца ўсе рэкламныя банеры ў дадатку.\n- Зменена колькасць балаў, якія выкарыстоўваюцца за выдаленне рэкламы.\n- Зменена, каб балы за выдаленне рэкламы назапашваліся.\n- Вы можаце выдаляць рэкламу на працягу 6 дзён."
   },
   "벵골어": {
     "key": "bn",
-    "devnote":
-        "১. বুকমার্ক সাজানোর ক্রম পরিবর্তন করা হয়েছে।\n\n২. লোডিং অ্যানিমেশন পরিবর্তন করা হয়েছে।\n\n৩. বিজ্ঞাপন অপসারণ এখন অ্যাপের ভেতরের সমস্ত ব্যানার বিজ্ঞাপন মুছে দেয়।\n\n- বিজ্ঞাপন অপসারণের সময় এখন একটি নির্দিষ্ট পরিমাণ পর্যন্ত জমা হবে।"
+    "devnote": "১. পরিবর্তন করা হয়েছে যাতে বুকমার্কগুলো যোগ করার সময়ের পরিবর্তে অবস্থানের ভিত্তিতে সাজানো হয়।\n\n২. বিজ্ঞাপন অপসারণ এখন অ্যাপের ভেতরের সমস্ত ব্যানার বিজ্ঞাপন মুছে দেয়।\n\n- বিজ্ঞাপন অপসারণের জন্য ব্যবহৃত পয়েন্টের পরিমাণে পরিবর্তন আনা হয়েছে।\n\n- বিজ্ঞাপন অপসারণের পয়েন্টগুলো যাতে জমা হয়, সেভাবে পরিবর্তন করা হয়েছে।\n\n- আপনি মোট ৬ দিনের জন্য বিজ্ঞাপন অপসারণ করতে পারবেন।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote":
-        "1. Променен е редът на сортиране на отметките.\n\n2. Променена е анимацията при зареждане.\n\n3. Премахването на реклами вече премахва всички банерни реклами в приложението.\n\n- Времето за премахване на реклами вече се натрупва до определено време."
+    "devnote": "1. Променено е, така че отметките да се сортират по местоположение, а не по време на добавянето им.\n\n2. Премахването на реклами вече премахва всички банерни реклами в приложението.\n- Променени са точките, изразходвани за премахване на реклами.\n- Променено е, така че точките за премахване на реклами се натрупват.\n- Можете да премахвате реклами за общо 6 дни."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote":
-        "1. Промењен је редослед сортирања обележивача.\n\n2. Промењена је анимација учитавања.\n\n3. Уклањање огласа сада уклања све банер огласе у апликацији.\n\n- Време уклањања огласа се сада акумулира до одређеног износа."
+    "devnote": "1. Измењено је тако да се обележивачи сортирају на основу локације, а не времена додавања.\n\n2. Уклањање огласа сада уклања све банер огласе у апликацији.\n- Измењени су поени који се троше за уклањање огласа.\n- Измењено је тако да се поени за уклањање огласа акумулирају.\n- Можете уклањати огласе укупно 6 дана."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote":
-        "1. Nilibadilisha mpangilio wa kupanga alamisho.\n\n2. Nilibadilisha uhuishaji wa kupakia.\n\n3. Kuondoa tangazo sasa kunaondoa matangazo yote ya mabango ndani ya programu.\n\n- Muda wa kuondoa tangazo sasa umekusanywa hadi kiasi fulani."
+    "devnote": "1. Imebadilishwa ili alamisho zipangwa kulingana na eneo badala ya wakati zilipoongezwa.\n\n2. Kuondolewa kwa tangazo sasa kunaondoa matangazo yote ya mabango ndani ya programu.\n- Imebadilisha pointi zinazotumiwa kwa ajili ya kuondolewa kwa tangazo.\n- Imebadilishwa ili pointi za kuondolewa kwa tangazo zikusanyike.\n- Unaweza kuondoa matangazo kwa jumla ya siku 6."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote":
-        "1. Ändrade sorteringsordningen för bokmärken.\n\n2. Ändrade laddningsanimationen.\n\n3. Annonsborttagning tar nu bort alla bannerannonser i appen.\n\n- Tiden för annonsborttagning ackumuleras nu upp till en viss tid."
+    "devnote": "1. Ändrad så att bokmärken sorteras baserat på plats snarare än tidpunkten de lades till.\n\n2. Annonsborttagning tar nu bort alla bannerannonser i appen.\n\n- Ändrade poängen som förbrukats för annonsborttagning.\n\n- Ändrade så att poäng för annonsborttagning ackumuleras.\n\n- Du kan ta bort annonser i totalt 6 dagar."
   },
   "스페인어": {
     "key": "es",
-    "devnote":
-        "1. Se modificó el orden de clasificación de los marcadores.\n\n2. Se modificó la animación de carga.\n\n3. La opción para eliminar anuncios ahora elimina todos los banners publicitarios dentro de la aplicación.\n\n- El tiempo de eliminación de anuncios ahora se acumula hasta un cierto límite."
+    "devnote": "1. Se modificó el orden de los marcadores para que se ordenen por ubicación en lugar de por fecha de adición.\n\n2. Al eliminar anuncios, ahora se eliminan todos los banners publicitarios de la aplicación.\n\n- Se modificaron los puntos que se consumen al eliminar anuncios.\n\n- Se modificó el sistema para que los puntos de eliminación de anuncios se acumulen.\n\n- Puedes eliminar anuncios durante un total de 6 días."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote":
-        "1. Zmenené poradie zoradenia záložiek.\n\n2. Zmenená animácia načítavania.\n\n3. Odstránenie reklám teraz odstráni všetky bannerové reklamy v aplikácii.\n\n- Čas odstránenia reklám sa teraz sčítava do určitého času."
+    "devnote": "1. Upravené tak, aby sa záložky zoradili podľa polohy, a nie podľa času ich pridania.\n\n2. Odstránenie reklám teraz odstráni všetky bannerové reklamy v aplikácii.\n- Upravené body spotrebované za odstránenie reklám.\n- Upravené tak, aby sa body za odstránenie reklám hromadili.\n- Reklamy môžete odstrániť celkovo na 6 dní."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote":
-        "1. Spremenjen vrstni red razvrščanja zaznamkov.\n\n2. Spremenjena animacija nalaganja.\n\n3. Odstranjevanje oglasov zdaj odstrani vse oglasne pasice v aplikaciji.\n\n- Čas odstranitve oglasov se zdaj sešteva do določenega časa."
+    "devnote": "1. Spremenjeno tako, da so zaznamki razvrščeni glede na lokacijo in ne glede na čas dodajanja.\n\n2. Odstranjevanje oglasov zdaj odstrani vse oglasne pasice v aplikaciji.\n- Spremenjene so bile točke, porabljene za odstranitev oglasov.\n- Spremenjeno tako, da se točke za odstranitev oglasov kopičijo.\n- Oglase lahko odstranite za skupno 6 dni."
   },
   "싱할라어": {
     "key": "si",
-    "devnote":
-        "1. පිටු සලකුණු වර්ග කිරීමේ අනුපිළිවෙල වෙනස් කරන ලදී.\n\n2. පැටවීමේ සජීවිකරණය වෙනස් කරන ලදී.\n\n3. දැන් දැන්වීම් ඉවත් කිරීම යෙදුම තුළ ඇති සියලුම බැනර් දැන්වීම් ඉවත් කරයි.\n\n- දැන් දැන්වීම් ඉවත් කිරීමේ කාලය යම් ප්‍රමාණයක් දක්වා රැස් කර ඇත."
+    "devnote": "1. පිටු සලකුණු එකතු කළ වේලාවට වඩා ස්ථානය අනුව වර්ග කරන පරිදි වෙනස් කර ඇත.\n\n2. දැන් දැන්වීම් ඉවත් කිරීම යෙදුම තුළ ඇති සියලුම බැනර් දැන්වීම් ඉවත් කරයි.\n- දැන්වීම් ඉවත් කිරීම සඳහා පරිභෝජනය කරන ලකුණු වෙනස් කර ඇත.\n- දැන්වීම් ඉවත් කිරීමේ ලකුණු එකතු වන පරිදි වෙනස් කර ඇත.\n- ඔබට මුළු දින 6 ක් සඳහා දැන්වීම් ඉවත් කළ හැකිය."
   },
   "아랍어": {
     "key": "ar",
-    "devnote":
-        "١. تم تغيير ترتيب فرز الإشارات المرجعية.\n\n٢. تم تغيير حركة التحميل.\n\n٣. إزالة الإعلانات الآن تزيل جميع إعلانات البانر داخل التطبيق.\n\n- يتم الآن تجميع وقت إزالة الإعلانات حتى حد معين."
+    "devnote": "١. تم تعديل نظام فرز الإشارات المرجعية بحيث يتم ترتيبها حسب الموقع بدلاً من وقت إضافتها.\n\n٢. إزالة الإعلانات الآن تزيل جميع إعلانات البانر داخل التطبيق.\n\n- تم تعديل النقاط المستخدمة لإزالة الإعلانات.\n\n- تم تعديل نظام تجميع نقاط إزالة الإعلانات.\n\n- يمكنك إزالة الإعلانات لمدة تصل إلى ٦ أيام."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote":
-        "1. Փոխվել է էջանիշների տեսակավորման կարգը։\n\n2. Փոխվել է բեռնման անիմացիան։\n\n3. Գովազդի հեռացումը այժմ հեռացնում է հավելվածի բոլոր բաններային գովազդները։\n\n- Գովազդի հեռացման ժամանակը այժմ կուտակվում է մինչև որոշակի գումար։"
+    "devnote": "1. Փոփոխվել է այնպես, որ էջանիշները տեսակավորվեն ըստ գտնվելու վայրի, այլ ոչ թե ավելացման ժամանակի։\n\n2. Գովազդի հեռացումը այժմ հեռացնում է հավելվածի բոլոր բաններային գովազդները։\n- Փոփոխվել է գովազդի հեռացման համար ծախսվող միավորների քանակը։\n- Փոփոխվել է այնպես, որ գովազդի հեռացման միավորները կուտակվեն։\n- Դուք կարող եք հեռացնել գովազդները ընդհանուր առմամբ 6 օրվա ընթացքում։"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote":
-        "1. Breytti röðun bókamerkja.\n\n2. Breytti hleðsluhreyfimynd.\n\n3. Fjarlæging auglýsinga fjarlægir nú allar borðaauglýsingar innan appsins.\n\n- Tíminn sem auglýsingar hafa verið fjarlægðar safnast nú upp að ákveðnu marki."
+    "devnote": "1. Breytt þannig að bókamerki eru flokkuð eftir staðsetningu frekar en tímasetningu þeirra.\n\n2. Fjarlæging auglýsinga fjarlægir nú allar borðaauglýsingar innan appsins.\n\n- Stig sem notuð voru fyrir fjarlægingu auglýsinga breytt.\n\n- Breytt þannig að stig fyrir fjarlægingu auglýsinga safnast saman.\n\n- Þú getur fjarlægt auglýsingar í samtals 6 daga."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote":
-        "1. Əlfəcin çeşidləmə sırası dəyişdirildi.\n\n2. Yükləmə animasiyası dəyişdirildi.\n\n3. Reklam silinməsi artıq tətbiqdəki bütün banner reklamlarını silir.\n\n- Reklam silinmə vaxtı artıq müəyyən bir miqdara qədər toplanır."
+    "devnote": "1. Əlfəcinlərin əlavə edilmə vaxtına deyil, yerə görə sıralanması üçün dəyişdirildi.\n\n2. Reklam silinməsi artıq tətbiqdəki bütün banner reklamlarını silir.\n- Reklam silinməsi üçün sərf olunan xalları dəyişdirildi.\n- Reklam silinməsi xallarının toplanmasını təmin etmək üçün dəyişdirildi.\n- Reklamları cəmi 6 gün ərzində silə bilərsiniz."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote":
-        "1. Die boekmerk-sorteringsvolgorde is verander.\n\n2. Die laai-animasie is verander.\n\n3. Advertensieverwydering verwyder nou alle banieradvertensies binne die toepassing.\n\n- Die advertensieverwyderingstyd word nou tot 'n sekere bedrag opgehoop."
+    "devnote": "1. Gewysig sodat boekmerke gesorteer word volgens ligging eerder as die tyd waarop hulle bygevoeg is.\n\n2. Advertensieverwydering verwyder nou alle banieradvertensies binne die toepassing.\n\n- Die punte wat vir advertensieverwydering verbruik is, is gewysig.\n\n- Gewysig sodat advertensieverwyderingspunte ophoop.\n\n- Jy kan advertensies vir 'n totaal van 6 dae verwyder."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote":
-        "1. U ndryshua renditja e faqeshënuesve.\n\n2. U ndryshua animacioni i ngarkimit.\n\n3. Heqja e reklamave tani heq të gjitha reklamat banner brenda aplikacionit.\n\n- Koha e heqjes së reklamave tani akumulohet deri në një sasi të caktuar."
+    "devnote": "1. Modifikuar në mënyrë që faqeshënuesit të renditen në bazë të vendndodhjes dhe jo të kohës kur janë shtuar.\n\n2. Heqja e reklamave tani heq të gjitha reklamat banner brenda aplikacionit.\n- Modifikuar pikët e konsumuara për heqjen e reklamave.\n- Modifikuar në mënyrë që pikët e heqjes së reklamave të grumbullohen.\n- Mund të hiqni reklamat për një total prej 6 ditësh."
   },
   "암하라어": {
     "key": "am",
-    "devnote":
-        "1. የዕልባት ድርደራ ቅደም ተከተል ቀይሯል።\n\n2. የመጫኛ አኒሜሽን ለውጧል።\n\n3. የማስታወቂያ ማስወገድ አሁን በመተግበሪያው ውስጥ ያሉትን ሁሉንም የባነር ማስታወቂያዎች ያስወግዳል።\n\n- የማስታወቂያ ማስወገጃ ጊዜ አሁን እስከ የተወሰነ መጠን ድረስ ተከማችቷል።"
+    "devnote": "1. ዕልባቶች በተጨመሩበት ጊዜ ሳይሆን በቦታው ላይ ተመስርተው እንዲደረደሩ ተሻሽሏል።\n\n2. የማስታወቂያ ማስወገድ አሁን በመተግበሪያው ውስጥ ያሉትን ሁሉንም የባነር ማስታወቂያዎች ያስወግዳል።\n- ለማስታወቂያ ማስወገጃ የተጠቀሙባቸውን ነጥቦች ተስተካክሏል።\n- የማስታወቂያ ማስወገጃ ነጥቦች እንዲከማቹ ተሻሽሏል።\n- ማስታወቂያዎችን በአጠቃላይ ለ6 ቀናት ማስወገድ ይችላሉ።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote":
-        "1. Järjehoidjate sortimisjärjekorda muudeti.\n\n2. Laadimisanimatsiooni muudeti.\n\n3. Reklaamide eemaldamine eemaldab nüüd kõik rakenduse ribareklaamid.\n\n- Reklaamide eemaldamise aega arvestatakse nüüd teatud aja jooksul."
+    "devnote": "1. Muudetud nii, et järjehoidjad sorteeritakse asukoha, mitte lisamise aja järgi.\n\n2. Reklaamide eemaldamine eemaldab nüüd kõik rakenduses olevad ribareklaamid.\n\n- Muudetud reklaamide eemaldamiseks kuluvate punktide arvu.\n- Muudetud nii, et reklaamide eemaldamise punktid kogunevad.\n- Reklaame saab eemaldada kokku 6 päeva jooksul."
   },
   "우르두어": {
     "key": "ur",
-    "devnote":
-        "1. بک مارک چھانٹنے کی ترتیب کو تبدیل کر دیا گیا۔\n\n2. لوڈنگ اینیمیشن کو تبدیل کر دیا گیا۔\n\n3. اشتہار ہٹانا اب ایپ کے اندر موجود تمام بینر اشتہارات کو ہٹا دیتا ہے۔\n\n- اشتہار ہٹانے کا وقت اب ایک خاص رقم تک جمع ہو گیا ہے۔"
+    "devnote": "1. ترمیم کی گئی تاکہ بک مارکس کو شامل کیے جانے کے وقت کی بجائے مقام کی بنیاد پر ترتیب دیا جائے۔\n\n2. اشتہار ہٹانا اب ایپ کے اندر موجود تمام بینر اشتہارات کو ہٹا دیتا ہے۔\n- اشتہار ہٹانے کے لیے استعمال کیے گئے پوائنٹس میں ترمیم کی گئی۔\n- ترمیم کی گئی تاکہ اشتہار ہٹانے کے پوائنٹس جمع ہوں۔\n- آپ کل 6 دنوں کے لیے اشتہارات ہٹا سکتے ہیں۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote":
-        "1. Змінено порядок сортування закладок.\n\n2. Змінено анімацію завантаження.\n\n3. Видалення реклами тепер видаляє всі банерні рекламні оголошення в додатку.\n\n- Час видалення реклами тепер накопичується до певної кількості."
+    "devnote": "1. Змінено таким чином, що закладки сортуються за місцем розташування, а не за часом їх додавання.\n\n2. Видалення реклами тепер видаляє всю банерну рекламу в додатку.\n- Змінено кількість балів, що витрачаються на видалення реклами.\n- Змінено таким чином, що бали за видалення реклами накопичуються.\n- Ви можете видаляти рекламу протягом 6 днів."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote":
-        "1. Modificato l'ordine di visualizzazione dei segnalibri.\n\n2. Modificata l'animazione di caricamento.\n\n3. La rimozione degli annunci ora elimina tutti i banner pubblicitari all'interno dell'app.\n\n- Il tempo di rimozione degli annunci ora si accumula fino al raggiungimento di un certo limite."
+    "devnote": "1. Modificato in modo che i segnalibri vengano ordinati in base alla posizione anziché all'ora in cui sono stati aggiunti.\n\n2. La rimozione degli annunci ora rimuove tutti i banner pubblicitari all'interno dell'app.\n\n- Modificati i punti consumati per la rimozione degli annunci.\n\n- Modificato in modo che i punti per la rimozione degli annunci si accumulino.\n\n- È possibile rimuovere gli annunci per un totale di 6 giorni."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote":
-        "1. Mengubah urutan penyortiran bookmark.\n\n2. Mengubah animasi pemuatan.\n\n3. Penghapusan iklan sekarang menghapus semua iklan banner di dalam aplikasi.\n\n- Waktu penghapusan iklan sekarang diakumulasikan hingga jumlah tertentu."
+    "devnote": "1. Diubah agar bookmark diurutkan berdasarkan lokasi, bukan waktu penambahannya.\n\n2. Penghapusan iklan sekarang menghapus semua iklan banner di dalam aplikasi.\n\n- Poin yang dikonsumsi untuk penghapusan iklan telah diubah.\n\n- Poin penghapusan iklan telah diubah agar terakumulasi.\n\n- Anda dapat menghapus iklan selama total 6 hari."
   },
   "일본어": {
     "key": "ja",
-    "devnote":
-        "1. ブックマークの並べ替え順序を変更しました。\n\n2. ローディングアニメーションを変更しました。\n\n3. 広告削除機能で、アプリ内のすべてのバナー広告が削除されるようになりました。\n\n- 広告削除回数に上限が設けられました。"
+    "devnote": "1. ブックマークの並べ替え順序を、追加日時ではなく場所順に変更しました。\n\n2. 広告削除機能で、アプリ内のすべてのバナー広告が削除されるようになりました。\n\n- 広告削除に必要なポイント数を変更しました。\n\n- 広告削除ポイントが累積されるようになりました。\n\n- 広告削除は最大6日間まで可能です。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote":
-        "1. შეიცვალა სანიშნეების დახარისხების თანმიმდევრობა.\n\n2. შეიცვალა ჩატვირთვის ანიმაცია.\n\n3. რეკლამის წაშლა ახლა შლის აპლიკაციაში არსებულ ყველა ბანერულ რეკლამას.\n\n- რეკლამის წაშლის დრო ახლა დაგროვილია გარკვეულ ოდენობამდე."
+    "devnote": "1. შეიცვალა ისე, რომ სანიშნეები დალაგებულია ადგილმდებარეობის მიხედვით და არა დამატების დროის მიხედვით.\n\n2. რეკლამების წაშლა ახლა შლის აპლიკაციაში არსებულ ყველა ბანერულ რეკლამას.\n- შეიცვალა რეკლამების წაშლისთვის დახარჯული ქულები.\n- შეიცვალა ისე, რომ რეკლამების წაშლის ქულები დაგროვდეს.\n- რეკლამების წაშლა შეგიძლიათ სულ 6 დღის განმავლობაში."
   },
   "줄루어": {
     "key": "zu",
-    "devnote":
-        "1. Kushintshwe ukuhleleka kokuhlelwa kwebhukhimakhi.\n\n2. Kushintshwe ukugqwayiza kokulayisha.\n\n3. Ukususwa kwesikhangiso manje kususa zonke izikhangiso zamabhena ngaphakathi kohlelo lokusebenza.\n\n- Isikhathi sokususwa kwesikhangiso manje sesiqongelelwe kuze kufike enanini elithile."
+    "devnote": "1. Kushintshwe ukuze amabhukumaka ahlelwe ngokususelwa endaweni kunesikhathi afakwe ngaso.\n\n2. Ukususwa kwesikhangiso manje kususa zonke izikhangiso zamabhena ngaphakathi kohlelo lokusebenza.\n- Kushintshwe amaphuzu asetshenziswe ekususweni kwesikhangiso.\n- Kushintshwe ukuze amaphuzu okususwa kwesikhangiso aqoqeke.\n- Ungasusa izikhangiso izinsuku eziyi-6 sezizonke."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote":
-        "1. 更改了书签排序方式。\n\n2. 更改了加载动画。\n\n3. 广告移除功能现在会移除应用内的所有横幅广告。\n\n- 广告移除时间现在会累积到一定时长。"
+    "devnote": "1. 书签排序方式已修改，现在按位置而非添加时间排序。\n\n2. 广告移除功能现已移除应用内所有横幅广告。\n\n- 调整了广告移除所需的积分。\n\n- 广告移除积分可累积。\n\n- 您最多可移除广告 6 天。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote":
-        "1. 更改了書籤排序方式。\n\n2. 更改了載入動畫。\n\n3. 廣告移除功能現在會移除應用程式內的所有橫幅廣告。\n\n- 廣告移除時間現在會累積到一定時長。"
+    "devnote": "1. 書籤排序方式已修改，現在按位置而非新增時間排序。\n\n2. 廣告移除功能現已移除應用程式內所有橫幅廣告。\n\n- 調整了廣告移除所需的積分。\n\n- 廣告移除積分可累積。\n\n- 您最多可移除廣告 6 天。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote":
-        "1. 更改了書籤排序方式。\n\n2. 更改了載入動畫。\n\n3. 廣告移除功能現在會移除應用程式內的所有橫幅廣告。\n\n- 廣告移除時間現在會累積到一定時長。"
+    "devnote": "1. 書籤排序方式已修改，現在按位置而非新增時間排序。\n\n2. 廣告移除功能現已移除應用程式內所有橫幅廣告。\n\n- 調整了廣告移除所需的積分。\n\n- 廣告移除積分可累積。\n\n- 您最多可移除廣告 6 天。"
   },
   "체코어": {
     "key": "cs",
-    "devnote":
-        "1. Změněno pořadí řazení záložek.\n\n2. Změněna animace načítání.\n\n3. Odstranění reklam nyní odstraní všechny bannerové reklamy v aplikaci.\n\n- Doba odstranění reklam se nyní sčítá do určité míry."
+    "devnote": "1. Upraveno tak, aby se záložky řadily podle umístění, nikoli podle času jejich přidání.\n\n2. Odstranění reklam nyní odstraňuje všechny bannerové reklamy v aplikaci.\n- Upraveno množství bodů spotřebovaných za odstranění reklam.\n- Upraveno tak, aby se body za odstranění reklam sčítaly.\n- Reklamy můžete odstraňovat celkem 6 dní."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote":
-        "1. Бетбелгілерді сұрыптау реті өзгертілді.\n\n2. Жүктеу анимациясы өзгертілді.\n\n3. Жарнаманы жою енді қолданбадағы барлық баннерлік жарнамаларды жояды.\n\n- Жарнаманы жою уақыты енді белгілі бір мөлшерге дейін жинақталады."
+    "devnote": "1. Бетбелгілер қосылған уақытына емес, орналасқан жеріне қарай сұрыпталатындай етіп өзгертілді.\n\n2. Жарнаманы жою енді қолданбадағы барлық баннерлік жарнамаларды жояды.\n- Жарнаманы жоюға жұмсалған ұпайлар өзгертілді.\n- Жарнаманы жою ұпайлары жиналатындай етіп өзгертілді.\n- Жарнамаларды барлығы 6 күн бойы жоя аласыз."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote":
-        "1. S'ha canviat l'ordre de classificació dels marcadors.\n\n2. S'ha canviat l'animació de càrrega.\n\n3. L'eliminació d'anuncis ara elimina tots els bàners publicitaris de l'aplicació.\n\n- El temps d'eliminació d'anuncis ara s'acumula fins a un cert import."
+    "devnote": "1. S'ha modificat perquè els marcadors s'ordenin per ubicació en lloc de l'hora en què es van afegir.\n\n2. L'eliminació d'anuncis ara elimina tots els bàners publicitaris de l'aplicació.\n- S'han modificat els punts consumits per l'eliminació d'anuncis.\n- S'ha modificat perquè els punts d'eliminació d'anuncis s'acumulin.\n- Podeu eliminar anuncis durant un total de 6 dies."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote":
-        "1. ಬುಕ್‌ಮಾರ್ಕ್ ವಿಂಗಡಣೆ ಕ್ರಮವನ್ನು ಬದಲಾಯಿಸಲಾಗಿದೆ.\n\n2. ಲೋಡಿಂಗ್ ಅನಿಮೇಷನ್ ಅನ್ನು ಬದಲಾಯಿಸಲಾಗಿದೆ.\n\n3. ಜಾಹೀರಾತು ತೆಗೆದುಹಾಕುವಿಕೆಯು ಈಗ ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿರುವ ಎಲ್ಲಾ ಬ್ಯಾನರ್ ಜಾಹೀರಾತುಗಳನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ.\n\n- ಜಾಹೀರಾತು ತೆಗೆದುಹಾಕುವ ಸಮಯವನ್ನು ಈಗ ಒಂದು ನಿರ್ದಿಷ್ಟ ಮೊತ್ತದವರೆಗೆ ಸಂಗ್ರಹಿಸಲಾಗಿದೆ."
+    "devnote": "1. ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಸೇರಿಸಿದ ಸಮಯಕ್ಕಿಂತ ಸ್ಥಳವನ್ನು ಆಧರಿಸಿ ವಿಂಗಡಿಸಲು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n\n2. ಜಾಹೀರಾತು ತೆಗೆದುಹಾಕುವಿಕೆಯು ಈಗ ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿರುವ ಎಲ್ಲಾ ಬ್ಯಾನರ್ ಜಾಹೀರಾತುಗಳನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ.\n- ಜಾಹೀರಾತು ತೆಗೆದುಹಾಕುವಿಕೆಗೆ ಬಳಸಲಾದ ಪಾಯಿಂಟ್‌ಗಳನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ಜಾಹೀರಾತು ತೆಗೆದುಹಾಕುವ ಪಾಯಿಂಟ್‌ಗಳು ಸಂಗ್ರಹವಾಗುವಂತೆ ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n- ನೀವು ಒಟ್ಟು 6 ದಿನಗಳವರೆಗೆ ಜಾಹೀರಾತುಗಳನ್ನು ತೆಗೆದುಹಾಕಬಹುದು."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote":
-        "1. Promijenjen je redoslijed sortiranja oznaka.\n\n2. Promijenjena je animacija učitavanja.\n\n3. Uklanjanje oglasa sada uklanja sve banner oglase unutar aplikacije.\n\n- Vrijeme uklanjanja oglasa sada se akumulira do određenog iznosa."
+    "devnote": "1. Izmijenjeno tako da se oznake sortiraju prema lokaciji, a ne prema vremenu dodavanja.\n\n2. Uklanjanje oglasa sada uklanja sve banner oglase unutar aplikacije.\n- Izmijenjeni su bodovi potrošeni za uklanjanje oglasa.\n- Izmijenjeno tako da se bodovi za uklanjanje oglasa akumuliraju.\n- Oglase možete uklanjati ukupno 6 dana."
   },
   "크메르어": {
     "key": "km",
-    "devnote":
-        "១. បានផ្លាស់ប្តូរលំដាប់តម្រៀបចំណាំ។\n\n២. បានផ្លាស់ប្តូរចលនាផ្ទុក។\n\n៣. ការដកការផ្សាយពាណិជ្ជកម្មឥឡូវនេះលុបការផ្សាយពាណិជ្ជកម្មបដាទាំងអស់នៅក្នុងកម្មវិធី។\n\n- ពេលវេលាដកការផ្សាយពាណិជ្ជកម្មឥឡូវនេះត្រូវបានប្រមូលផ្តុំរហូតដល់ចំនួនជាក់លាក់មួយ។"
+    "devnote": "១. បានកែប្រែដើម្បីឱ្យចំណាំត្រូវបានតម្រៀបដោយផ្អែកលើទីតាំងជាជាងពេលវេលាដែលពួកវាត្រូវបានបន្ថែម។\n\n២. ការដកការផ្សាយពាណិជ្ជកម្មឥឡូវនេះលុបការផ្សាយពាណិជ្ជកម្មបដាទាំងអស់នៅក្នុងកម្មវិធី។\n- កែប្រែពិន្ទុដែលបានប្រើប្រាស់សម្រាប់ការដកការផ្សាយពាណិជ្ជកម្ម។\n- កែប្រែដើម្បីឱ្យពិន្ទុដកការផ្សាយពាណិជ្ជកម្មប្រមូលផ្តុំ។\n- អ្នកអាចលុបការផ្សាយពាណិជ្ជកម្មចេញសរុបរយៈពេល ៦ ថ្ងៃ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote":
-        "1. Кыстармаларды иреттөө тартиби өзгөртүлдү.\n\n2. Жүктөө анимациясы өзгөртүлдү.\n\n3. Жарнаманы алып салуу эми колдонмодогу бардык баннер жарнамаларын алып салат.\n\n- Жарнаманы алып салуу убактысы эми белгилүү бир өлчөмгө чейин топтолот."
+    "devnote": "1. Кыстармалар кошулган убактысына эмес, жайгашкан жерине жараша иргелип турушу үчүн өзгөртүлдү.\n\n2. Жарнаманы алып салуу эми колдонмодогу бардык баннер жарнамаларын алып салат.\n- Жарнаманы алып салуу үчүн сарпталган упайлар өзгөртүлдү.\n- Жарнаманы алып салуу упайлары топтолушу үчүн өзгөртүлдү.\n- Жарнамаларды жалпысынан 6 күн бою алып сала аласыз."
   },
   "타밀어": {
     "key": "ta",
-    "devnote":
-        "1. புக்மார்க்குகளின் வரிசை மாற்றப்பட்டுள்ளது.\n\n2. லோடிங் அனிமேஷன் மாற்றப்பட்டுள்ளது.\n\n3. விளம்பர நீக்கம் இப்போது செயலிக்குள் உள்ள அனைத்து பேனர் விளம்பரங்களையும் நீக்குகிறது.\n\n- விளம்பர நீக்க நேரம் இப்போது ஒரு குறிப்பிட்ட அளவு வரை சேமிக்கப்படுகிறது."
+    "devnote": "1. புக்மார்க்குகள் சேர்க்கப்பட்ட நேரத்தின் அடிப்படையில் அல்லாமல், இருப்பிடத்தின் அடிப்படையில் வரிசைப்படுத்தப்படும் வகையில் மாற்றியமைக்கப்பட்டுள்ளது.\n\n2. விளம்பர நீக்கம் இப்போது செயலிக்குள் உள்ள அனைத்து பேனர் விளம்பரங்களையும் நீக்குகிறது.\n\n- விளம்பர நீக்கத்திற்காகப் பயன்படுத்தப்படும் புள்ளிகள் மாற்றியமைக்கப்பட்டுள்ளன.\n\n- விளம்பர நீக்கப் புள்ளிகள் குவியும் வகையில் மாற்றியமைக்கப்பட்டுள்ளது.\n\n- நீங்கள் மொத்தம் 6 நாட்களுக்கு விளம்பரங்களை நீக்கலாம்."
   },
   "태국어": {
     "key": "th",
-    "devnote":
-        "1. เปลี่ยนลำดับการจัดเรียงบุ๊กมาร์ก\n\n2. เปลี่ยนแอนิเมชั่นการโหลด\n\n3. การลบโฆษณาจะลบแบนเนอร์โฆษณาทั้งหมดภายในแอป\n\n- เวลาในการลบโฆษณาจะถูกสะสมจนถึงจำนวนหนึ่ง"
+    "devnote": "1. ปรับปรุงการจัดเรียงบุ๊กมาร์กตามตำแหน่งที่ตั้ง แทนที่จะเป็นเวลาที่เพิ่มเข้ามา\n\n2. การลบโฆษณาจะลบแบนเนอร์โฆษณาทั้งหมดภายในแอป\n\n- ปรับปรุงคะแนนที่ใช้ในการลบโฆษณา\n\n- ปรับปรุงให้คะแนนการลบโฆษณาสะสมได้\n\n- คุณสามารถลบโฆษณาได้นานสูงสุด 6 วัน"
   },
   "터키어": {
     "key": "tr",
-    "devnote":
-        "1. Yer imi sıralama düzeni değiştirildi.\n\n2. Yükleme animasyonu değiştirildi.\n\n3. Reklam kaldırma işlemi artık uygulama içindeki tüm banner reklamlarını kaldırıyor.\n\n- Reklam kaldırma süresi artık belirli bir süreye kadar birikiyor."
+    "devnote": "1. Yer işaretlerinin eklenme zamanına göre değil, konuma göre sıralanması sağlandı.\n\n2. Reklam kaldırma işlemi artık uygulama içindeki tüm banner reklamlarını kaldırıyor.\n\n- Reklam kaldırma için harcanan puan miktarı değiştirildi.\n\n- Reklam kaldırma puanlarının birikmesi sağlandı.\n\n- Toplam 6 gün boyunca reklam kaldırabilirsiniz."
   },
   "텔루구어": {
     "key": "te",
-    "devnote":
-        "1. బుక్‌మార్క్‌ల క్రమబద్ధీకరణ క్రమాన్ని మార్చడం జరిగింది.\n\n2. లోడింగ్ యానిమేషన్‌ను మార్చడం జరిగింది.\n\n3. యాడ్ రిమూవల్ ఇప్పుడు యాప్‌లోని అన్ని బ్యానర్ యాడ్‌లను తొలగిస్తుంది.\n\n- యాడ్ తొలగింపు సమయం ఇప్పుడు ఒక నిర్దిష్ట మొత్తం వరకు కూడబెట్టబడుతుంది."
+    "devnote": "1. బుక్‌మార్క్‌లు వాటిని జోడించిన సమయం ఆధారంగా కాకుండా, లొకేషన్ ఆధారంగా క్రమబద్ధీకరించబడేలా సవరించబడింది.\n\n2. యాడ్ రిమూవల్ ఇప్పుడు యాప్‌లోని అన్ని బ్యానర్ యాడ్‌లను తొలగిస్తుంది.\n\n- యాడ్ రిమూవల్ కోసం వినియోగించే పాయింట్లు సవరించబడ్డాయి.\n\n- యాడ్ రిమూవల్ పాయింట్లు జమ అయ్యేలా సవరించబడింది.\n\n- మీరు మొత్తం 6 రోజుల పాటు యాడ్‌లను తొలగించవచ్చు."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote":
-        "1. ਬੁੱਕਮਾਰਕ ਛਾਂਟਣ ਦਾ ਕ੍ਰਮ ਬਦਲਿਆ ਗਿਆ ਹੈ।\n\n2. ਲੋਡਿੰਗ ਐਨੀਮੇਸ਼ਨ ਬਦਲਿਆ ਗਿਆ ਹੈ।\n\n3. ਇਸ਼ਤਿਹਾਰ ਹਟਾਉਣ ਨਾਲ ਹੁਣ ਐਪ ਦੇ ਅੰਦਰ ਸਾਰੇ ਬੈਨਰ ਇਸ਼ਤਿਹਾਰ ਹਟਾ ਦਿੱਤੇ ਜਾਂਦੇ ਹਨ।\n\n- ਇਸ਼ਤਿਹਾਰ ਹਟਾਉਣ ਦਾ ਸਮਾਂ ਹੁਣ ਇੱਕ ਨਿਸ਼ਚਿਤ ਮਾਤਰਾ ਤੱਕ ਇਕੱਠਾ ਹੋ ਜਾਂਦਾ ਹੈ।"
+    "devnote": "1. ਇਸ ਤਰ੍ਹਾਂ ਸੋਧਿਆ ਗਿਆ ਹੈ ਕਿ ਬੁੱਕਮਾਰਕਸ ਨੂੰ ਜੋੜਨ ਦੇ ਸਮੇਂ ਦੀ ਬਜਾਏ ਸਥਾਨ ਦੇ ਆਧਾਰ 'ਤੇ ਕ੍ਰਮਬੱਧ ਕੀਤਾ ਜਾਵੇ।\n\n2. ਇਸ਼ਤਿਹਾਰ ਹਟਾਉਣ ਨਾਲ ਹੁਣ ਐਪ ਦੇ ਅੰਦਰ ਸਾਰੇ ਬੈਨਰ ਇਸ਼ਤਿਹਾਰ ਹਟ ਜਾਂਦੇ ਹਨ।\n- ਇਸ਼ਤਿਹਾਰ ਹਟਾਉਣ ਲਈ ਵਰਤੇ ਗਏ ਅੰਕਾਂ ਨੂੰ ਸੋਧਿਆ ਗਿਆ ਹੈ।\n- ਇਸ ਤਰ੍ਹਾਂ ਸੋਧਿਆ ਗਿਆ ਹੈ ਕਿ ਇਸ਼ਤਿਹਾਰ ਹਟਾਉਣ ਦੇ ਅੰਕ ਇਕੱਠੇ ਹੋ ਜਾਣ।\n- ਤੁਸੀਂ ਕੁੱਲ 6 ਦਿਨਾਂ ਲਈ ਇਸ਼ਤਿਹਾਰ ਹਟਾ ਸਕਦੇ ਹੋ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote":
-        "۱. ترتیب مرتب‌سازی نشانک‌ها تغییر کرد.\n\n\n۲. انیمیشن بارگذاری تغییر کرد.\n\n\n۳. حذف تبلیغات اکنون تمام تبلیغات بنری درون برنامه را حذف می‌کند.\n\n\n- زمان حذف تبلیغات اکنون تا مقدار مشخصی جمع می‌شود."
+    "devnote": "۱. به گونه‌ای تغییر داده شده است که بوک‌مارک‌ها بر اساس مکان مرتب می‌شوند، نه بر اساس زمان اضافه شدن آنها.\n\n\n۲. حذف تبلیغات اکنون تمام تبلیغات بنری درون برنامه را حذف می‌کند.\n\n- امتیازهای مصرف شده برای حذف تبلیغات تغییر داده شده است.\n\n- امتیازهای حذف تبلیغات جمع می‌شوند.\n\n- می‌توانید تبلیغات را به مدت ۶ روز حذف کنید."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote":
-        "1. Alteramos a ordem de classificação dos favoritos.\n\n2. Alteramos a animação de carregamento.\n\n3. A remoção de anúncios agora remove todos os banners publicitários do aplicativo.\n\n- O tempo de remoção de anúncios agora é acumulado até um determinado limite."
+    "devnote": "1. Modificado para que os favoritos sejam classificados por localização, em vez da data em que foram adicionados.\n\n2. A remoção de anúncios agora remove todos os banners publicitários do aplicativo.\n\n- Modificado o número de pontos consumidos para a remoção de anúncios.\n\n- Modificado para que os pontos de remoção de anúncios sejam acumulados.\n\n- Você pode remover os anúncios por um total de 6 dias."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote":
-        "1. Zmieniono kolejność sortowania zakładek.\n\n2. Zmieniono animację ładowania.\n\n3. Funkcja usuwania reklam usuwa teraz wszystkie banery reklamowe w aplikacji.\n\n- Czas usuwania reklam jest teraz kumulowany do określonego limitu."
+    "devnote": "1. Zmodyfikowano, aby zakładki były sortowane według lokalizacji, a nie czasu dodania.\n\n2. Usunięcie reklam usuwa teraz wszystkie banery reklamowe w aplikacji.\n- Zmodyfikowano liczbę punktów zużywanych na usuwanie reklam.\n- Zmodyfikowano, aby punkty za usuwanie reklam były kumulowane.\n- Reklamy można usuwać łącznie przez 6 dni."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote":
-        "1. L'ordre de tri des favoris a été modifié.\n\n2. L'animation de chargement a été modifiée.\n\n3. La suppression des publicités supprime désormais toutes les bannières publicitaires de l'application.\n\n- Le temps de suppression des publicités est maintenant cumulable jusqu'à une certaine limite."
+    "devnote": "1. Les favoris sont désormais triés par emplacement et non plus par date d'ajout.\n\n2. La suppression des publicités supprime maintenant toutes les bannières publicitaires de l'application.\n\n- Le nombre de points nécessaires pour supprimer les publicités a été modifié.\n\n- Les points de suppression de publicités sont désormais cumulables.\n\n- Vous pouvez supprimer les publicités pendant 6 jours maximum."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote":
-        "1. Kirjanmerkkien lajittelujärjestystä on muutettu.\n\n2. Latausanimaation kulkua on muutettu.\n\n3. Mainosten poisto poistaa nyt kaikki sovelluksen bannerimainokset.\n\n- Mainosten poistoaikaa kertyy nyt tiettyyn aikaan asti."
+    "devnote": "1. Muutettu siten, että kirjanmerkit lajitellaan sijainnin eikä lisäysajan mukaan.\n\n2. Mainosten poisto poistaa nyt kaikki bannerimainokset sovelluksesta.\n\n- Muutettu mainosten poistoon kuluvia pisteitä.\n\n- Muutettu siten, että mainosten poistopisteet kertyvät.\n\n- Voit poistaa mainoksia yhteensä 6 päivän ajan."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote":
-        "1. Binago ang pagkakasunod-sunod ng pag-uuri ng bookmark.\n\n2. Binago ang animation ng paglo-load.\n\n3. Inaalis na ngayon ng pag-alis ng ad ang lahat ng banner ad sa loob ng app.\n\n- Ang oras ng pag-alis ng ad ay naipon na ngayon hanggang sa isang tiyak na halaga."
+    "devnote": "1. Binago upang ang mga bookmark ay maiayos batay sa lokasyon sa halip na sa oras na idinagdag ang mga ito.\n\n2. Inaalis na ngayon ng pag-alis ng ad ang lahat ng banner ad sa loob ng app.\n- Binago ang mga puntos na nagamit para sa pag-alis ng ad.\n- Binago upang maipon ang mga puntos sa pag-alis ng ad.\n- Maaari kang mag-alis ng mga ad sa loob ng kabuuang 6 na araw."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote":
-        "1. Módosítottam a könyvjelzők rendezési sorrendjét.\n\n2. Módosítottam a betöltési animációt.\n\n3. A hirdetések eltávolítása mostantól az összes bannerhirdetést eltávolítja az alkalmazáson belül.\n\n- A hirdetések eltávolításának ideje mostantól egy bizonyos ideig összeadódik."
+    "devnote": "1. Módosítva, hogy a könyvjelzők a hozzáadásuk időpontja helyett a helyszín alapján legyenek rendezve.\n\n2. A hirdetések eltávolítása mostantól az összes bannerhirdetést eltávolítja az alkalmazáson belül.\n\n- Módosítva a hirdetések eltávolításáért felhasznált pontok.\n\n- Módosítva, hogy a hirdetés eltávolításáért járó pontok felhalmozódjanak.\n\n- Összesen 6 napig távolíthat el hirdetéseket."
   },
   "히브리어": {
     "key": "iw",
-    "devnote":
-        "1. סדר מיון הסימניות שונה.\n\n2. אנימציית הטעינה שונה.\n\n3. הסרת מודעות מסירה כעת את כל באנרי הפרסום בתוך האפליקציה.\n\n- זמן הסרת המודעות מצטבר כעת עד לפרק זמן מסוים."
+    "devnote": "1. שונה כך שסימניות ממוינות לפי מיקום ולא לפי הזמן בו הוספנו.\n\n2. הסרת מודעות מסירה כעת את כל באנרי הפרסום בתוך האפליקציה.\n\n- שונה מספר הנקודות שנצרכו להסרת מודעות.\n\n- שונה כך שנקודות להסרת מודעות יצטברו.\n\n- ניתן להסיר מודעות למשך 6 ימים בסך הכל."
   },
   "힌디어": {
     "key": "hi",
-    "devnote":
-        "1. बुकमार्कों का क्रम बदल दिया गया है।\n\n2. लोडिंग एनिमेशन बदल दिया गया है।\n\n3. अब विज्ञापन हटाने पर ऐप के सभी बैनर विज्ञापन हट जाएंगे।\n\n- विज्ञापन हटाने का समय अब ​​एक निश्चित सीमा तक ही मान्य होगा।"
+    "devnote": "1. बुकमार्क को जोड़ने के समय के बजाय स्थान के आधार पर क्रमबद्ध करने के लिए संशोधित किया गया है।\n\n2. विज्ञापन हटाने से अब ऐप के सभी बैनर विज्ञापन हट जाते हैं।\n\nविज्ञापन हटाने के लिए उपयोग किए जाने वाले पॉइंट्स में बदलाव किया गया है।\n\nविज्ञापन हटाने के पॉइंट्स जमा होने के लिए संशोधित किए गए हैं।\n\nआप कुल 6 दिनों तक विज्ञापन हटा सकते हैं।"
   }
 }
