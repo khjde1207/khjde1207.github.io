@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "1. Modified the Save File As logic.\n\n2. Modified some of the setting text."
+    "devnote": "1. I have corrected some typos in the settings section."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "1. 파일 다른 이름으로 저장 로직을 수정 하였습니다. \n\n2. 설정 문구를 일부 수정 하였습니다."
+    "devnote": "1. 설정 부분 오타를 일부 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "1. Modificouse a lóxica Gardar ficheiro como.\n\n2. Modificouse parte do texto da configuración."
+    "devnote": "1. Corrixín algunhas erratas na sección de configuración."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "૧. સેવ ફાઇલ એઝ લોજિકમાં ફેરફાર કર્યો.\n\n૨. સેટિંગ ટેક્સ્ટમાં કેટલાક ફેરફાર કર્યા."
+    "devnote": "૧. મેં સેટિંગ્સ વિભાગમાં કેટલીક ટાઇપો સુધારી છે."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "1. Τροποποιήθηκε η λογική Αποθήκευση αρχείου ως.\n\n2. Τροποποιήθηκε μέρος του κειμένου των ρυθμίσεων."
+    "devnote": "1. Διόρθωσα κάποια τυπογραφικά λάθη στην ενότητα ρυθμίσεων."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "1. De logica voor het opslaan van bestanden als is aangepast.\n\n2. Een deel van de instellingstekst is aangepast."
+    "devnote": "1. Ik heb een aantal typefouten in het instellingengedeelte gecorrigeerd."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "१. सेभ फाइल एज लजिक परिमार्जन गरियो।\n\n२. केही सेटिङ पाठ परिमार्जन गरियो।"
+    "devnote": "१. मैले सेटिङ खण्डमा केही टाइपिङ गल्तीहरू सच्याएको छु।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "1. Endret logikken for å lagre fil som.\n\n2. Endret noe av innstillingsteksten."
+    "devnote": "1. Jeg har rettet noen skrivefeil i innstillingsdelen."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "1. Ændret logikken for at gemme fil som.\n\n2. Ændret noget af indstillingsteksten."
+    "devnote": "1. Jeg har rettet nogle stavefejl i indstillingssektionen."
   },
   "독일어": {
     "key": "de",
-    "devnote": "1. Die Logik zum Speichern unter wurde angepasst.\n\n2. Einige Einstellungstexte wurden geändert."
+    "devnote": "1. Ich habe einige Tippfehler im Einstellungsbereich korrigiert."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "1. ດັດແປງເຫດຜົນຂອງການບັນທຶກໄຟລ໌ເປັນ.\n\n2. ດັດແປງຂໍ້ຄວາມການຕັ້ງຄ່າບາງຢ່າງ."
+    "devnote": "1. ຂ້ອຍໄດ້ແກ້ໄຂຂໍ້ຜິດພາດບາງຢ່າງໃນພາກສ່ວນການຕັ້ງຄ່າແລ້ວ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "1. Mainīta faila saglabāšanas kā loģika.\n\n2. Mainīta daļa iestatījumu teksta."
+    "devnote": "1. Esmu izlabojis dažas drukas kļūdas iestatījumu sadaļā."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "1. Изменена логика сохранения файла как.\n\n2. Изменен текст некоторых настроек."
+    "devnote": "1. Я исправил несколько опечаток в разделе настроек."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "1. Am modificat logica „Salvare fișier ca”.\n\n2. Am modificat o parte din textul setărilor."
+    "devnote": "1. Am corectat niște greșeli de scriere în secțiunea de setări."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "1. Pakeista failo išsaugojimo kaip logika.\n\n2. Pakeista dalis nustatymų teksto."
+    "devnote": "1. Ištaisiau keletą rašybos klaidų nustatymų skiltyje."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "१. 'सेव्ह फाईल ॲज'च्या कार्यपद्धतीत बदल केला.\n\n२. काही सेटिंग मजकुरात बदल केला."
+    "devnote": "मी सेटिंग्ज विभागातील काही टंकलेखन चुका दुरुस्त केल्या आहेत."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "1. Изменета е логиката „Зачувај датотека како“.\n\n2. Изменет е дел од текстот на поставките."
+    "devnote": "1. Исправив некои печатни грешки во делот за поставки."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "1. സേവ് ഫയൽ ആസ് ലോജിക് പരിഷ്കരിച്ചു.\n\n2. സെറ്റിംഗ് ടെക്സ്റ്റിൽ ചിലത് പരിഷ്കരിച്ചു."
+    "devnote": "1. സെറ്റിംഗ്സ് വിഭാഗത്തിലെ ചില അക്ഷരത്തെറ്റുകൾ ഞാൻ തിരുത്തിയിട്ടുണ്ട്."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "1. Mengubah suai logik Simpan Fail Sebagai.\n\n2. Mengubah suai beberapa teks tetapan."
+    "devnote": "1. Saya telah membetulkan beberapa kesalahan taip di bahagian tetapan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "1. Файлыг дараах байдлаар хадгалах логикийг өөрчилсөн.\n\n2. Тохиргооны текстийн зарим хэсгийг өөрчилсөн."
+    "devnote": "1. Би тохиргооны хэсэгт зарим үсгийн алдааг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "1. Gorde fitxategia honela logika aldatu da.\n\n2. Ezarpenen testu batzuk aldatu dira."
+    "devnote": "1. Ezarpenen ataleko akats ortografiko batzuk zuzendu ditut."
   },
   "버마어": {
     "key": "my",
-    "devnote": "၁။ Save File As ယုတ္တိဗေဒကို ပြင်ဆင်ခဲ့သည်။\n\n၂။ ဆက်တင်စာသားအချို့ကို ပြင်ဆင်ခဲ့သည်။"
+    "devnote": "၁။ ဆက်တင်ကဏ္ဍတွင် စာလုံးပေါင်းအမှားအချို့ကို ပြင်ထားပါသည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "1. Sửa đổi logic lưu tệp dưới dạng.\n\n2. Sửa đổi một số đoạn văn bản cài đặt."
+    "devnote": "1. Tôi đã sửa một số lỗi chính tả trong phần cài đặt."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "1. Зменена логіка захавання файла як.\n\n2. Зменены некаторыя тэксты налад."
+    "devnote": "1. Я выправіў некаторыя памылкі ў раздзеле налад."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "১. ফাইল সেভ করার পদ্ধতি পরিবর্তন করা হয়েছে।\n\n২. কিছু সেটিং টেক্সট পরিবর্তন করা হয়েছে।"
+    "devnote": "১. আমি সেটিংস বিভাগে কিছু মুদ্রণপ্রমাদ সংশোধন করেছি।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "1. Променена е логиката „Запазване на файла като“.\n\n2. Променен е част от текста на настройката."
+    "devnote": "1. Поправих някои печатни грешки в секцията с настройки."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "1. Измењена је логика чувања датотеке као.\n\n2. Измењен је део текста подешавања."
+    "devnote": "1. Исправио сам неке грешке у куцању у одељку за подешавања."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "1. Nilibadilisha Faili ya Hifadhi Kama mantiki.\n\n2. Nilibadilisha baadhi ya maandishi ya mpangilio."
+    "devnote": "1. Nimerekebisha makosa ya makosa katika sehemu ya mipangilio."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "1. Modifierade logiken för att spara fil som.\n\n2. Modifierade en del av inställningstexten."
+    "devnote": "1. Jag har rättat några stavfel i inställningsavsnittet."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "1. Se modificó la lógica de la opción \"Guardar archivo como\".\n\n2. Se modificó parte del texto de configuración."
+    "devnote": "1. He corregido algunos errores tipográficos en la sección de configuración."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "1. Upravená logika Uložiť súbor ako.\n\n2. Upravený niektorý text nastavenia."
+    "devnote": "1. Opravil som niekoľko preklepov v sekcii nastavení."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "1. Spremenjena logika shranjevanja datoteke kot.\n\n2. Spremenjeno nekaj besedila nastavitev."
+    "devnote": "1. Popravil sem nekaj tipkarskih napak v razdelku z nastavitvami."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "1. Save File As logic වෙනස් කරන ලදී.\n\n2. සැකසුම් පෙළෙහි සමහරක් වෙනස් කරන ලදී."
+    "devnote": "1. මම සැකසුම් කොටසේ සමහර යතුරු ලියන දෝෂ නිවැරදි කර ඇත්තෙමි."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "١. تم تعديل منطق حفظ الملف باسم.\n\n٢. تم تعديل بعض نصوص الإعدادات."
+    "devnote": "1. لقد قمت بتصحيح بعض الأخطاء الإملائية في قسم الإعدادات."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "1. Փոփոխվել է «Պահպանել ֆայլը որպես» տրամաբանությունը։\n\n2. Փոփոխվել է կարգավորումների որոշ տեքստ։"
+    "devnote": "1. Ես ուղղել եմ որոշ վրիպակներ կարգավորումների բաժնում։"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "1. Breytti rökfræðinni fyrir að vista skrá sem.\n\n2. Breytti einhverjum af stillingartextanum."
+    "devnote": "1. Ég hef leiðrétt nokkrar innsláttarvillur í stillingahlutanum."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "1. Faylı Saxla Məntiqini Dəyişdirdim.\n\n2. Bəzi parametr mətnlərini dəyişdirdim."
+    "devnote": "1. Parametrlər bölməsində bəzi səhvləri düzəltdim."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "1. Die \"Stoor Lêer As\"-logika is gewysig.\n\n2. Van die instellingsteks is gewysig."
+    "devnote": "1. Ek het 'n paar tikfoute in die instellingsafdeling reggestel."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "1. U modifikua logjika Ruaj skedarin si.\n\n2. U modifikua një pjesë e tekstit të cilësimeve."
+    "devnote": "1. Kam korrigjuar disa gabime drejtshkrimore në seksionin e cilësimeve."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "1. ፋይሉን እንደ አመክንዮ አስቀምጥ።\n\n2. አንዳንድ የቅንብር ጽሑፉን አሻሽሏል።"
+    "devnote": "1. በቅንብሮች ክፍል ውስጥ አንዳንድ የፊደል ስህተቶችን አስተካክያለሁ።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "1. Muutsin faili salvestamise nimega loogikat.\n\n2. Muutsin osa sätete tekstist."
+    "devnote": "1. Olen parandanud seadete jaotises mõned kirjavead."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "1. سیو فائل کو منطق کے طور پر تبدیل کیا گیا۔\n\n2. ترتیب کے کچھ متن میں ترمیم کی گئی۔"
+    "devnote": "1. میں نے ترتیبات کے سیکشن میں کچھ ٹائپ کی غلطیوں کو درست کیا ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "1. Змінено логіку збереження файлу як.\n\n2. Змінено деякі налаштування тексту."
+    "devnote": "1. Я виправив деякі друкарські помилки в розділі налаштувань."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "1. Modificata la logica della funzione \"Salva file con nome\".\n\n2. Modificato parte del testo delle impostazioni."
+    "devnote": "1. Ho corretto alcuni errori di battitura nella sezione delle impostazioni."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "1. Mengubah logika \"Simpan File Sebagai\".\n\n2. Mengubah beberapa teks pengaturan."
+    "devnote": "1. Saya telah memperbaiki beberapa kesalahan ketik di bagian pengaturan."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "1. ファイルの保存ロジックを修正しました。\n\n2. 設定テキストの一部を修正しました。"
+    "devnote": "1. 設定セクションのいくつかの誤字を修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "1. შეიცვალა „ფაილის შენახვის“ ლოგიკა.\n\n2. შეიცვალა პარამეტრების ტექსტის ნაწილი."
+    "devnote": "1. პარამეტრების განყოფილებაში რამდენიმე შეცდომა გავასწორე."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "1. Kushintshwe i-Save File Njenge-logic.\n\n2. Kushintshwe eminye yemibhalo yezilungiselelo."
+    "devnote": "1. Ngilungise amanye amaphutha esigabeni sezilungiselelo."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "1. 修改了“另存为文件”的逻辑。\n\n2. 修改了一些设置文本。"
+    "devnote": "1. 我已更正设置部分中的一些拼写错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "1. 修改了「另存為文件」的邏輯。\n\n2. 修改了一些設定文字。"
+    "devnote": "1. 我已更正設定部分中的一些拼字錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "1. 修改了「另存為文件」的邏輯。\n\n2. 修改了一些設定文字。"
+    "devnote": "1. 我已更正設定部分中的一些拼字錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "1. Upravena logika ukládání souboru jako.\n\n2. Upraven některý text nastavení."
+    "devnote": "1. Opravil jsem několik překlepů v sekci nastavení."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "1. Файлды басқаша сақтау логикасы өзгертілді.\n\n2. Параметр мәтінінің бір бөлігін өзгертті."
+    "devnote": "1. Параметрлер бөліміндегі кейбір қателерді түзеттім."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "1. He modificat la lògica \"Desa fitxer com a\".\n\n2. He modificat part del text de configuració."
+    "devnote": "1. He corregit algunes errades tipogràfiques a la secció de configuració."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "1. ಸೇವ್ ಫೈಲ್ ಆಸ್ ಲಾಜಿಕ್ ಅನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ.\n\n2. ಕೆಲವು ಸೆಟ್ಟಿಂಗ್ ಪಠ್ಯವನ್ನು ಮಾರ್ಪಡಿಸಲಾಗಿದೆ."
+    "devnote": "1. ಸೆಟ್ಟಿಂಗ್‌ಗಳ ವಿಭಾಗದಲ್ಲಿನ ಕೆಲವು ಮುದ್ರಣದೋಷಗಳನ್ನು ನಾನು ಸರಿಪಡಿಸಿದ್ದೇನೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "1. Izmijenjena je logika Spremi datoteku kao.\n\n2. Izmijenjen je dio teksta postavki."
+    "devnote": "1. Ispravio sam neke tipografske pogreške u odjeljku postavki."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "១. បានកែប្រែតក្កវិជ្ជារក្សាទុកឯកសារជា។\n\n២. បានកែប្រែអត្ថបទកំណត់មួយចំនួន។"
+    "devnote": "១. ខ្ញុំបានកែតម្រូវកំហុសវាយអក្សរមួយចំនួននៅក្នុងផ្នែកការកំណត់។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "1. Файлды төмөнкүдөй сактоо логикасы өзгөртүлдү.\n\n2. Орнотуу текстинин айрымдары өзгөртүлдү."
+    "devnote": "1. Мен жөндөөлөр бөлүмүндөгү айрым каталарды оңдодум."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "1. கோப்பை இவ்வாறு சேமிக்கும் முறை மாற்றியமைக்கப்பட்டது.\n\n2. சில அமைப்பு உரைகள் மாற்றியமைக்கப்பட்டன."
+    "devnote": "1. அமைப்புகள் பிரிவில் இருந்த சில எழுத்துப்பிழைகளை நான் திருத்தியுள்ளேன்."
   },
   "태국어": {
     "key": "th",
-    "devnote": "1. ปรับปรุงตรรกะการบันทึกไฟล์เป็น\n\n2. ปรับปรุงข้อความการตั้งค่าบางส่วน"
+    "devnote": "1. ฉันได้แก้ไขข้อผิดพลาดในการพิมพ์บางส่วนในส่วนการตั้งค่าแล้ว"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "1. \"Dosyayı Farklı Kaydet\" mantığı değiştirildi.\n\n2. Bazı ayar metinleri değiştirildi."
+    "devnote": "1. Ayarlar bölümündeki bazı yazım hatalarını düzelttim."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "1. ఫైల్‌ను ఇలా సేవ్ చేసే విధానాన్ని సవరించడం జరిగింది.\n\n2. సెట్టింగ్ టెక్స్ట్‌లో కొన్నింటిని సవరించడం జరిగింది."
+    "devnote": "1. నేను సెట్టింగ్స్ విభాగంలో కొన్ని అక్షరదోషాలను సరిదిద్దాను."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "1. ਸੇਵ ਫਾਈਲ ਐਜ਼ ਲਾਜਿਕ ਨੂੰ ਸੋਧਿਆ ਗਿਆ।\n\n2. ਕੁਝ ਸੈਟਿੰਗ ਟੈਕਸਟ ਨੂੰ ਸੋਧਿਆ ਗਿਆ।"
+    "devnote": "1. ਮੈਂ ਸੈਟਿੰਗਾਂ ਸੈਕਸ਼ਨ ਵਿੱਚ ਕੁਝ ਗਲਤੀਆਂ ਠੀਕ ਕਰ ਦਿੱਤੀਆਂ ਹਨ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "۱. منطق ذخیره فایل به عنوان (Save File As) اصلاح شد.\n\n۲. برخی از متن تنظیمات اصلاح شد."
+    "devnote": "۱. در بخش تنظیمات، برخی از غلط‌های املایی را اصلاح کرده‌ام."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "1. Modificada a lógica de \"Salvar arquivo como\".\n\n2. Modificados alguns textos das configurações."
+    "devnote": "1. Corrigi alguns erros de digitação na seção de configurações."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "1. Zmodyfikowano logikę opcji „Zapisz plik jako”.\n\n2. Zmodyfikowano część tekstu ustawień."
+    "devnote": "1. Poprawiłem kilka literówek w sekcji ustawień."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "1. Modification du fonctionnement de l'option « Enregistrer sous ».\n\n2. Modification de certains textes de paramètres."
+    "devnote": "1. J'ai corrigé quelques fautes de frappe dans la section des paramètres."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "1. Muokattu tiedoston tallennus nimellä -logiikkaa.\n\n2. Muokattu osaa asetusteksteistä."
+    "devnote": "1. Olen korjannut joitakin kirjoitusvirheitä asetusosiossa."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "1. Binago ang lohika ng Save File As.\n\n2. Binago ang ilan sa teksto ng setting."
+    "devnote": "1. Itinama ko ang ilang typo sa seksyon ng mga setting."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "1. Módosítottam a Fájl mentése másként logikáját.\n\n2. Módosítottam a beállítási szöveg egy részét."
+    "devnote": "1. Kijavítottam néhány elgépelést a beállítások részben."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "1. שינוי הלוגיקה של שמירת קובץ בשם.\n\n2. שינוי חלק מטקסט ההגדרות."
+    "devnote": "1. תיקנתי כמה שגיאות כתיב במקטע ההגדרות."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "1. फ़ाइल को इस रूप में सहेजने की प्रक्रिया में बदलाव किया गया है।\n\n2. कुछ सेटिंग टेक्स्ट में बदलाव किया गया है।"
+    "devnote": "1. मैंने सेटिंग सेक्शन में कुछ टाइपिंग की गलतियाँ ठीक कर दी हैं।"
   }
 }
