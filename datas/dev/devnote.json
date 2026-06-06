@@ -1,290 +1,290 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "1. I have corrected some typos in the settings section."
+    "devnote": "1. Changed the selection method so that when long-pressing, the first selection is word-based, and subsequent selections are character-based.\n2. Fixed some bugs in the page turning animation."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "1. 설정 부분 오타를 일부 수정 하였습니다."
+    "devnote": "1. 길게 눌러 선택시 처음 선택은 단어 단위로, 그이후는 글자 단위로 선택할 수 있게 변경하였습니다. \n2. 페이지 넘김 애니메이션 버그를 일부 수정 하였습니다."
   },
   "갈리시아어": {
     "key": "gl",
-    "devnote": "1. Corrixín algunhas erratas na sección de configuración."
+    "devnote": "1. Modificouse o método de selección para que, ao premer de xeito prolongado, a primeira selección se basee en palabras e as seleccións posteriores se baseen en caracteres.\n\n2. Corrixíronse algúns erros na animación de pasar páxina."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "૧. મેં સેટિંગ્સ વિભાગમાં કેટલીક ટાઇપો સુધારી છે."
+    "devnote": "૧. પસંદગી પદ્ધતિમાં ફેરફાર કર્યો છે જેથી લાંબા સમય સુધી દબાવતી વખતે, પહેલી પસંદગી શબ્દ-આધારિત હોય, અને પછીની પસંદગીઓ અક્ષર-આધારિત હોય.\n૨. પેજ ટર્નિંગ એનિમેશનમાં કેટલીક ભૂલો સુધારી."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "1. Διόρθωσα κάποια τυπογραφικά λάθη στην ενότητα ρυθμίσεων."
+    "devnote": "1. Άλλαξε η μέθοδος επιλογής έτσι ώστε όταν πατάτε παρατεταμένα, η πρώτη επιλογή να βασίζεται σε λέξεις και οι επόμενες επιλογές να βασίζονται σε χαρακτήρες.\n2. Διορθώθηκαν ορισμένα σφάλματα στην κινούμενη εικόνα εναλλαγής σελίδας."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "1. Ik heb een aantal typefouten in het instellingengedeelte gecorrigeerd."
+    "devnote": "1. De selectiemethode is aangepast, zodat bij lang indrukken de eerste selectie op woordbasis is en de daaropvolgende selecties op tekenbasis.\n2. Enkele bugs in de animatie voor het omslaan van pagina's zijn verholpen."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "१. मैले सेटिङ खण्डमा केही टाइपिङ गल्तीहरू सच्याएको छु।"
+    "devnote": "१. चयन विधि परिवर्तन गरियो ताकि लामो समयसम्म थिच्दा, पहिलो चयन शब्द-आधारित होस्, र त्यसपछिका चयनहरू वर्ण-आधारित होस्।\n२. पृष्ठ घुमाउने एनिमेसनमा केही बगहरू समाधान गरियो।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "1. Jeg har rettet noen skrivefeil i innstillingsdelen."
+    "devnote": "1. Endret valgmetoden slik at det første valget er ordbasert når du trykker lenge, og påfølgende valg er tegnbaserte.\n\n2. Fikset noen feil i animasjonen for sidevending."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "1. Jeg har rettet nogle stavefejl i indstillingssektionen."
+    "devnote": "1. Ændret markeringsmetoden, så ved langt tryk er det første valg ordbaseret, og efterfølgende valg er tegnbaserede.\n\n2. Rettede nogle fejl i sidevendingsanimationen."
   },
   "독일어": {
     "key": "de",
-    "devnote": "1. Ich habe einige Tippfehler im Einstellungsbereich korrigiert."
+    "devnote": "1. Die Auswahlmethode wurde geändert: Bei längerem Drücken erfolgt die erste Auswahl wortbasiert, alle weiteren zeichenbasiert.\n\n2. Einige Fehler in der Umblätteranimation wurden behoben."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "1. ຂ້ອຍໄດ້ແກ້ໄຂຂໍ້ຜິດພາດບາງຢ່າງໃນພາກສ່ວນການຕັ້ງຄ່າແລ້ວ."
+    "devnote": "1. ປ່ຽນວິທີການເລືອກເພື່ອໃຫ້ເມື່ອກົດຄ້າງໄວ້, ການເລືອກທຳອິດແມ່ນອີງໃສ່ຄຳສັບ, ແລະການເລືອກຕໍ່ໆມາແມ່ນອີງໃສ່ຕົວອັກສອນ.\n2. ແກ້ໄຂຂໍ້ຜິດພາດບາງຢ່າງໃນພາບເຄື່ອນໄຫວການຫັນໜ້າ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "1. Esmu izlabojis dažas drukas kļūdas iestatījumu sadaļā."
+    "devnote": "1. Mainīta atlases metode, lai, ilgi nospiežot, pirmā atlase būtu balstīta uz vārdiem, bet nākamās atlases — uz rakstzīmēm.\n\n2. Novērstas dažas kļūdas lappušu pāršķiršanas animācijā."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "1. Я исправил несколько опечаток в разделе настроек."
+    "devnote": "1. Изменен метод выделения: при длительном нажатии первое выделение происходит по словам, а последующие — по символам.\n\n2. Исправлены некоторые ошибки в анимации перелистывания страниц."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "1. Am corectat niște greșeli de scriere în secțiunea de setări."
+    "devnote": "1. Am modificat metoda de selecție astfel încât, la apăsarea lungă, prima selecție să fie bazată pe cuvinte, iar selecțiile ulterioare să fie bazate pe caractere.\n\n2. Am remediat unele erori în animația de întoarcere a paginilor."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "1. Ištaisiau keletą rašybos klaidų nustatymų skiltyje."
+    "devnote": "1. Pakeistas pasirinkimo metodas taip, kad ilgai paspaudus pirmas pasirinkimas būtų pagrįstas žodžiu, o kiti pasirinkimai – simboliais.\n\n2. Ištaisytos kelios klaidos puslapių vartymo animacijoje."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "मी सेटिंग्ज विभागातील काही टंकलेखन चुका दुरुस्त केल्या आहेत."
+    "devnote": "१. निवड पद्धत बदलली आहे जेणेकरून जास्त वेळ दाबून ठेवल्यावर, पहिली निवड शब्दावर आधारित असेल आणि त्यानंतरच्या निवडी अक्षरांवर आधारित असतील.\n\n२. पान पलटण्याच्या ॲनिमेशनमधील काही त्रुटी दूर केल्या आहेत."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "1. Исправив некои печатни грешки во делот за поставки."
+    "devnote": "1. Променет е методот на селекција, така што при долго притискање, првата селекција е базирана на зборови, а последователните селекции се базираат на знаци.\n2. Поправени се некои грешки во анимацијата за превртување на страницата."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "1. സെറ്റിംഗ്സ് വിഭാഗത്തിലെ ചില അക്ഷരത്തെറ്റുകൾ ഞാൻ തിരുത്തിയിട്ടുണ്ട്."
+    "devnote": "1. ദീർഘനേരം അമർത്തുമ്പോൾ ആദ്യ തിരഞ്ഞെടുപ്പ് പദാടിസ്ഥാനത്തിലും തുടർന്നുള്ള തിരഞ്ഞെടുപ്പുകൾ പ്രതീകാടിസ്ഥാനത്തിലും ആകുന്ന തരത്തിൽ തിരഞ്ഞെടുക്കൽ രീതി മാറ്റി.\n2. പേജ് ടേണിംഗ് ആനിമേഷനിലെ ചില ബഗുകൾ പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "1. Saya telah membetulkan beberapa kesalahan taip di bahagian tetapan."
+    "devnote": "1. Kaedah pemilihan telah diubah supaya apabila menekan lama, pilihan pertama adalah berasaskan perkataan, dan pilihan seterusnya adalah berasaskan aksara.\n2. Beberapa pepijat telah diperbaiki dalam animasi pembalik halaman."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "1. Би тохиргооны хэсэгт зарим үсгийн алдааг зассан."
+    "devnote": "1. Удаан дарахад эхний сонголт нь үгэн дээр, дараагийн сонголтууд нь тэмдэгт дээр суурилсан байхаар сонголтын аргыг өөрчилсөн.\n2. Хуудас эргүүлэх хөдөлгөөнт дүрс дэх зарим алдааг зассан."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "1. Ezarpenen ataleko akats ortografiko batzuk zuzendu ditut."
+    "devnote": "1. Hautaketa metodoa aldatu da, luze sakatuta, lehenengo hautaketa hitzetan oinarrituta egon dadin eta ondorengo hautaketak karaktereetan oinarrituta.\n\n2. Orrialdeak pasatzeko animazioan akats batzuk konpondu dira."
   },
   "버마어": {
     "key": "my",
-    "devnote": "၁။ ဆက်တင်ကဏ္ဍတွင် စာလုံးပေါင်းအမှားအချို့ကို ပြင်ထားပါသည်။"
+    "devnote": "၁။ ကြာရှည်စွာနှိပ်သောအခါ ပထမဆုံးရွေးချယ်မှုသည် စကားလုံးအခြေခံဖြစ်ပြီး နောက်ဆက်တွဲရွေးချယ်မှုများသည် စာလုံးအခြေခံဖြစ်ရန် ရွေးချယ်သည့်နည်းလမ်းကို ပြောင်းလဲထားသည်။\n၂။ စာမျက်နှာလှန်သည့် အန်နီမေးရှင်းတွင် ချို့ယွင်းချက်အချို့ကို ပြင်ဆင်ပြီးဖြစ်သည်။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "1. Tôi đã sửa một số lỗi chính tả trong phần cài đặt."
+    "devnote": "1. Thay đổi phương thức chọn, khi nhấn giữ lâu, lần chọn đầu tiên sẽ dựa trên từ, và các lần chọn tiếp theo sẽ dựa trên ký tự.\n2. Sửa một số lỗi trong hiệu ứng lật trang."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "1. Я выправіў некаторыя памылкі ў раздзеле налад."
+    "devnote": "1. Зменены метад вылучэння, каб пры доўгім націсканні першае вылучэнне было заснавана на словах, а наступныя — на сімвалах.\n\n2. Выпраўлены некаторыя памылкі ў анімацыі перагортвання старонак."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "১. আমি সেটিংস বিভাগে কিছু মুদ্রণপ্রমাদ সংশোধন করেছি।"
+    "devnote": "১. নির্বাচন পদ্ধতি পরিবর্তন করা হয়েছে, যাতে দীর্ঘক্ষণ চেপে ধরলে প্রথমবার শব্দ-ভিত্তিক এবং পরবর্তী নির্বাচনগুলো অক্ষর-ভিত্তিক হয়।\n\n২. পৃষ্ঠা ওল্টানোর অ্যানিমেশনের কিছু ত্রুটি সংশোধন করা হয়েছে।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "1. Поправих някои печатни грешки в секцията с настройки."
+    "devnote": "1. Променен е методът на селекция, така че при продължително натискане първата селекция да е базирана на думи, а следващите селекции - на символи.\n\n2. Поправени са някои грешки в анимацията за прелистване на страници."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "1. Исправио сам неке грешке у куцању у одељку за подешавања."
+    "devnote": "1. Промењен је начин селекције тако да се приликом дугог притиска први избор заснива на речима, а наредни избори на знаковима.\n\n2. Исправљене су неке грешке у анимацији окретања страница."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "1. Nimerekebisha makosa ya makosa katika sehemu ya mipangilio."
+    "devnote": "1. Nilibadilisha mbinu ya uteuzi ili wakati wa kubonyeza kwa muda mrefu, uteuzi wa kwanza unategemea neno, na uteuzi unaofuata unategemea herufi.\n\n2. Nilirekebisha hitilafu kadhaa katika uhuishaji wa kugeuza ukurasa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "1. Jag har rättat några stavfel i inställningsavsnittet."
+    "devnote": "1. Ändrade markeringsmetoden så att vid lång tryckning är det första valet ordbaserat och efterföljande val teckenbaserade.\n\n2. Åtgärdade några buggar i animationen för sidvändning."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "1. He corregido algunos errores tipográficos en la sección de configuración."
+    "devnote": "1. Se modificó el método de selección para que, al mantener pulsado, la primera selección se base en palabras y las siguientes en caracteres.\n\n2. Se corrigieron algunos errores en la animación de cambio de página."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "1. Opravil som niekoľko preklepov v sekcii nastavení."
+    "devnote": "1. Zmenená metóda výberu tak, aby pri dlhom stlačení bol prvý výber založený na slovách a nasledujúce výbery na znakoch.\n2. Opravené niektoré chyby v animácii otáčania stránok."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "1. Popravil sem nekaj tipkarskih napak v razdelku z nastavitvami."
+    "devnote": "1. Spremenjen način izbiranja, tako da pri dolgem pritisku prva izbira temelji na besedah, naslednje izbire pa na znakih.\n\n2. Odpravljenih je bilo nekaj napak v animaciji obračanja strani."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "1. මම සැකසුම් කොටසේ සමහර යතුරු ලියන දෝෂ නිවැරදි කර ඇත්තෙමි."
+    "devnote": "1. දිගු එබීමේදී පළමු තේරීම වචන මත පදනම් වන පරිදි සහ පසුව තේරීම් අක්ෂර මත පදනම් වන පරිදි තේරීම් ක්‍රමය වෙනස් කරන ලදී.\n2. පිටු හැරවීමේ සජීවිකරණයේ සමහර දෝෂ නිවැරදි කරන ලදී."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "1. لقد قمت بتصحيح بعض الأخطاء الإملائية في قسم الإعدادات."
+    "devnote": "١. تم تغيير طريقة التحديد بحيث يكون التحديد الأول عند الضغط المطوّل قائمًا على الكلمات، بينما تكون التحديدات اللاحقة قائمة على الأحرف.\n\n٢. تم إصلاح بعض الأخطاء في حركة تقليب الصفحات."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "1. Ես ուղղել եմ որոշ վրիպակներ կարգավորումների բաժնում։"
+    "devnote": "1. Փոխվել է ընտրության մեթոդը, որպեսզի երկար սեղմելիս առաջին ընտրությունը լինի բառերի վրա հիմնված, իսկ հաջորդ ընտրությունները՝ նիշերի վրա հիմնված։\n2. Ուղղվել են էջերի շրջման անիմացիայի որոշ սխալներ։"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "1. Ég hef leiðrétt nokkrar innsláttarvillur í stillingahlutanum."
+    "devnote": "1. Breytti valaðferðinni þannig að þegar haldið er inni er fyrsta valið orðabundið og síðari val eru stafabundin.\n2. Lagfærði nokkrar villur í blaðsíðuflettihreyfimyndinni."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "1. Parametrlər bölməsində bəzi səhvləri düzəltdim."
+    "devnote": "1. Seçim metodu dəyişdirildi ki, uzun basıldıqda ilk seçim söz əsaslı, sonrakı seçimlər isə simvol əsaslı olsun.\n\n2. Səhifə çevirmə animasiyasındakı bəzi səhvlər düzəldildi."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "1. Ek het 'n paar tikfoute in die instellingsafdeling reggestel."
+    "devnote": "1. Die seleksiemetode is verander sodat wanneer jy lank druk, die eerste seleksie woordgebaseerd is, en daaropvolgende seleksies karaktergebaseerd is.\n2. 'n Paar foute in die bladsyomslaan-animasie is reggestel."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "1. Kam korrigjuar disa gabime drejtshkrimore në seksionin e cilësimeve."
+    "devnote": "1. U ndryshua metoda e përzgjedhjes në mënyrë që kur shtypet gjatë, përzgjedhja e parë të bazohet në fjalë dhe përzgjedhjet pasuese të bazohen në karaktere.\n2. U rregulluan disa gabime në animacionin e kthimit të faqes."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "1. በቅንብሮች ክፍል ውስጥ አንዳንድ የፊደል ስህተቶችን አስተካክያለሁ።"
+    "devnote": "1. ለረጅም ጊዜ ሲጫኑ የመጀመሪያው ምርጫ በቃላት ላይ የተመሰረተ እንዲሆን የምርጫ ዘዴውን ቀይሮታል፣ እና ተከታይ ምርጫዎች ደግሞ በባህሪ ላይ የተመሰረቱ ይሆናሉ።\n2. በገጽ ማዞሪያ አኒሜሽን ላይ አንዳንድ ስህተቶችን አስተካክሏል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "1. Olen parandanud seadete jaotises mõned kirjavead."
+    "devnote": "1. Valikumeetodit muudeti nii, et pika vajutuse korral on esimene valik sõnapõhine ja järgnevad valikud tähemärgipõhine.\n\n2. Lehe keeramise animatsioonis parandati mõned vead."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "1. میں نے ترتیبات کے سیکشن میں کچھ ٹائپ کی غلطیوں کو درست کیا ہے۔"
+    "devnote": "1. انتخاب کے طریقہ کار کو تبدیل کیا تاکہ طویل دبانے پر، پہلا انتخاب لفظ پر مبنی ہو، اور بعد کے انتخاب کردار پر مبنی ہوں۔\n2. صفحہ ٹرننگ اینیمیشن میں کچھ کیڑے طے کیے گئے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "1. Я виправив деякі друкарські помилки в розділі налаштувань."
+    "devnote": "1. Змінено метод вибору таким чином, що при довгому натисканні перший вибір базується на словах, а наступні – на символах.\n\n2. Виправлено деякі помилки в анімації перегортання сторінок."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "1. Ho corretto alcuni errori di battitura nella sezione delle impostazioni."
+    "devnote": "1. È stato modificato il metodo di selezione in modo che, tenendo premuto a lungo, la prima selezione sia basata sulle parole, mentre le selezioni successive siano basate sui caratteri.\n\n2. Sono stati corretti alcuni bug nell'animazione di cambio pagina."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "1. Saya telah memperbaiki beberapa kesalahan ketik di bagian pengaturan."
+    "devnote": "1. Mengubah metode pemilihan sehingga saat menekan lama, pemilihan pertama berbasis kata, dan pemilihan selanjutnya berbasis karakter.\n2. Memperbaiki beberapa bug pada animasi pergantian halaman."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "1. 設定セクションのいくつかの誤字を修正しました。"
+    "devnote": "1. 長押し時の選択方法を変更し、最初の選択は単語単位、それ以降の選択は文字単位となるようにしました。\n\n2. ページめくりアニメーションの不具合をいくつか修正しました。"
   },
   "조지아어": {
     "key": "ka",
-    "devnote": "1. პარამეტრების განყოფილებაში რამდენიმე შეცდომა გავასწორე."
+    "devnote": "1. შეიცვალა შერჩევის მეთოდი ისე, რომ ხანგრძლივი დაჭერისას პირველი არჩევანი სიტყვებზე დაფუძნებული იყოს, ხოლო შემდგომი არჩევანი - სიმბოლოებზე.\n2. გამოსწორდა გვერდის გადახვევის ანიმაციაში არსებული რამდენიმე შეცდომა."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "1. Ngilungise amanye amaphutha esigabeni sezilungiselelo."
+    "devnote": "1. Ngishintshe indlela yokukhetha ukuze uma ngicindezela isikhathi eside, ukukhetha kokuqala kusekelwe emazwini, kanti ukukhetha okulandelayo kusekelwe ezinhlamvwini.\n\n2. Kulungiswe amaphutha athile ekuguqulweni kwekhasi."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "1. 我已更正设置部分中的一些拼写错误。"
+    "devnote": "1. 更改了选择方式，长按时首次选择以单词为单位，后续选择以字符为单位。\n\n2. 修复了翻页动画中的一些错误。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "1. 我已更正設定部分中的一些拼字錯誤。"
+    "devnote": "1. 更改了選擇方式，長按時首次選擇以單字為單位，後續選擇以字元為單位。\n\n2. 修正了翻頁動畫中的一些錯誤。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "1. 我已更正設定部分中的一些拼字錯誤。"
+    "devnote": "1. 更改了選擇方式，長按時首次選擇以單字為單位，後續選擇以字元為單位。\n\n2. 修正了翻頁動畫中的一些錯誤。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "1. Opravil jsem několik překlepů v sekci nastavení."
+    "devnote": "1. Změněna metoda výběru tak, aby při dlouhém stisknutí byl první výběr založen na slovech a další výběry na znacích.\n\n2. Opraveny některé chyby v animaci otáčení stránek."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "1. Параметрлер бөліміндегі кейбір қателерді түзеттім."
+    "devnote": "1. Ұзақ уақыт басқан кезде бірінші таңдау сөзге, ал кейінгі таңдаулар таңбаға негізделген етіп таңдау әдісі өзгертілді.\n\n2. Бетті аудару анимациясындағы кейбір қателер түзетілді."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "1. He corregit algunes errades tipogràfiques a la secció de configuració."
+    "devnote": "1. S'ha canviat el mètode de selecció de manera que, en prémer de manera prolongada, la primera selecció es basa en paraules i les seleccions posteriors es basen en caràcters.\n\n2. S'han corregit alguns errors en l'animació de passar pàgina."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "1. ಸೆಟ್ಟಿಂಗ್‌ಗಳ ವಿಭಾಗದಲ್ಲಿನ ಕೆಲವು ಮುದ್ರಣದೋಷಗಳನ್ನು ನಾನು ಸರಿಪಡಿಸಿದ್ದೇನೆ."
+    "devnote": "1. ಆಯ್ಕೆ ವಿಧಾನವನ್ನು ಬದಲಾಯಿಸಲಾಗಿದೆ ಆದ್ದರಿಂದ ದೀರ್ಘವಾಗಿ ಒತ್ತಿದಾಗ, ಮೊದಲ ಆಯ್ಕೆಯು ಪದ ​​ಆಧಾರಿತವಾಗಿರುತ್ತದೆ ಮತ್ತು ನಂತರದ ಆಯ್ಕೆಗಳು ಅಕ್ಷರ ಆಧಾರಿತವಾಗಿರುತ್ತವೆ.\n2. ಪುಟ ತಿರುಗಿಸುವ ಅನಿಮೇಷನ್‌ನಲ್ಲಿನ ಕೆಲವು ದೋಷಗಳನ್ನು ಸರಿಪಡಿಸಲಾಗಿದೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "1. Ispravio sam neke tipografske pogreške u odjeljku postavki."
+    "devnote": "1. Promijenjena je metoda odabira tako da se pri dugom pritisku prvi odabir temelji na riječi, a sljedeći odabiri na znakovima.\n2. Ispravljene su neke greške u animaciji okretanja stranica."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "១. ខ្ញុំបានកែតម្រូវកំហុសវាយអក្សរមួយចំនួននៅក្នុងផ្នែកការកំណត់។"
+    "devnote": "១. បានផ្លាស់ប្តូរវិធីសាស្ត្រជ្រើសរើស ដូច្នេះនៅពេលចុចយូរ ការជ្រើសរើសដំបូងគឺផ្អែកលើពាក្យ ហើយការជ្រើសរើសជាបន្តបន្ទាប់គឺផ្អែកលើតួអក្សរ។\n២. ជួសជុលកំហុសមួយចំនួននៅក្នុងចលនាបង្វិលទំព័រ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "1. Мен жөндөөлөр бөлүмүндөгү айрым каталарды оңдодум."
+    "devnote": "1. Узак басканда биринчи тандоо сөзгө, ал эми кийинки тандоолор символго негизделгендей кылып тандоо ыкмасы өзгөртүлдү.\n\n2. Баракты которуу анимациясындагы айрым каталар оңдолду."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "1. அமைப்புகள் பிரிவில் இருந்த சில எழுத்துப்பிழைகளை நான் திருத்தியுள்ளேன்."
+    "devnote": "1. நீண்ட நேரம் அழுத்தும் போது, ​​முதல் தேர்வு சொல் அடிப்படையிலும், அடுத்தடுத்த தேர்வுகள் எழுத்து அடிப்படையிலும் இருக்கும் வகையில் தேர்வு முறை மாற்றப்பட்டுள்ளது.\n\n2. பக்கம் புரட்டும் அசைவூட்டத்தில் இருந்த சில பிழைகள் சரிசெய்யப்பட்டுள்ளன."
   },
   "태국어": {
     "key": "th",
-    "devnote": "1. ฉันได้แก้ไขข้อผิดพลาดในการพิมพ์บางส่วนในส่วนการตั้งค่าแล้ว"
+    "devnote": "1. เปลี่ยนวิธีการเลือก โดยเมื่อกดค้าง การเลือกครั้งแรกจะเป็นการเลือกตามคำ และการเลือกครั้งต่อๆ ไปจะเป็นการเลือกตามตัวอักษร\n2. แก้ไขข้อผิดพลาดบางอย่างในแอนิเมชั่นการเปลี่ยนหน้า"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "1. Ayarlar bölümündeki bazı yazım hatalarını düzelttim."
+    "devnote": "1. Uzun basıldığında ilk seçimin kelime tabanlı, sonraki seçimlerin ise karakter tabanlı olması için seçim yöntemi değiştirildi.\n\n2. Sayfa çevirme animasyonundaki bazı hatalar düzeltildi."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "1. నేను సెట్టింగ్స్ విభాగంలో కొన్ని అక్షరదోషాలను సరిదిద్దాను."
+    "devnote": "1. ఎంపిక పద్ధతిని మార్చడం జరిగింది, దీని ప్రకారం ఎక్కువసేపు నొక్కినప్పుడు, మొదటి ఎంపిక పదం ఆధారంగా మరియు తదుపరి ఎంపికలు అక్షరం ఆధారంగా ఉంటాయి.\n\n2. పేజీ తిప్పే యానిమేషన్‌లోని కొన్ని బగ్‌లను సరిచేయడం జరిగింది."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "1. ਮੈਂ ਸੈਟਿੰਗਾਂ ਸੈਕਸ਼ਨ ਵਿੱਚ ਕੁਝ ਗਲਤੀਆਂ ਠੀਕ ਕਰ ਦਿੱਤੀਆਂ ਹਨ।"
+    "devnote": "1. ਚੋਣ ਵਿਧੀ ਨੂੰ ਬਦਲਿਆ ਗਿਆ ਹੈ ਤਾਂ ਜੋ ਲੰਬੇ ਸਮੇਂ ਤੱਕ ਦਬਾਉਣ 'ਤੇ, ਪਹਿਲੀ ਚੋਣ ਸ਼ਬਦ-ਅਧਾਰਤ ਹੋਵੇ, ਅਤੇ ਬਾਅਦ ਦੀਆਂ ਚੋਣਾਂ ਅੱਖਰ-ਅਧਾਰਤ ਹੋਣ।\n2. ਪੰਨਾ ਮੋੜਨ ਵਾਲੇ ਐਨੀਮੇਸ਼ਨ ਵਿੱਚ ਕੁਝ ਬੱਗ ਠੀਕ ਕੀਤੇ ਗਏ ਹਨ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "۱. در بخش تنظیمات، برخی از غلط‌های املایی را اصلاح کرده‌ام."
+    "devnote": "۱. روش انتخاب تغییر کرد، به طوری که هنگام لمس طولانی، اولین انتخاب مبتنی بر کلمه و انتخاب‌های بعدی مبتنی بر کاراکتر باشند.\n\n۲. برخی از اشکالات در انیمیشن چرخش صفحه برطرف شد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "1. Corrigi alguns erros de digitação na seção de configurações."
+    "devnote": "1. Alteramos o método de seleção para que, ao pressionar e segurar, a primeira seleção seja baseada em palavras e as seleções subsequentes sejam baseadas em caracteres.\n2. Corrigimos alguns erros na animação de virada de página."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "1. Poprawiłem kilka literówek w sekcji ustawień."
+    "devnote": "1. Zmieniono metodę zaznaczania, tak aby po długim naciśnięciu pierwszy wybór był oparty na słowie, a kolejne na znakach.\n2. Naprawiono kilka błędów w animacji przewracania stron."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "1. J'ai corrigé quelques fautes de frappe dans la section des paramètres."
+    "devnote": "1. Modification du mode de sélection : lors d'un appui long, la première sélection se fait par mot, les suivantes par caractère.\n\n2. Correction de bugs dans l'animation de changement de page."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "1. Olen korjannut joitakin kirjoitusvirheitä asetusosiossa."
+    "devnote": "1. Muutettu valintatapaa siten, että pitkään painettaessa ensimmäinen valinta on sanapohjainen ja seuraavat valinnat merkkipohjaisia.\n\n2. Korjattu joitakin virheitä sivunkäännön animaatiossa."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "1. Itinama ko ang ilang typo sa seksyon ng mga setting."
+    "devnote": "1. Binago ang paraan ng pagpili upang kapag pinindot nang matagal, ang unang seleksyon ay batay sa salita, at ang mga kasunod na seleksyon ay batay sa karakter.\n2. Inayos ang ilang bug sa animation ng pag-ikot ng pahina."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "1. Kijavítottam néhány elgépelést a beállítások részben."
+    "devnote": "1. Módosítottuk a kijelölési módszert, így hosszan lenyomva tartva az első kijelölés szóalapú, a továbbiak pedig karakteralapú lesz.\n\n2. Kijavítottunk néhány hibát a lapozási animációban."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "1. תיקנתי כמה שגיאות כתיב במקטע ההגדרות."
+    "devnote": "1. שיטת הבחירה שונתה כך שבלחיצה ארוכה, הבחירה הראשונה מבוססת על מילים, והבחירות הבאות מבוססות על תווים.\n2. תוקנו כמה באגים באנימציית דפדוף הדפים."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "1. मैंने सेटिंग सेक्शन में कुछ टाइपिंग की गलतियाँ ठीक कर दी हैं।"
+    "devnote": "1. चयन विधि में बदलाव किया गया है ताकि देर तक दबाए रखने पर पहला चयन शब्द-आधारित हो और उसके बाद के चयन अक्षर-आधारित हों।\n2. पृष्ठ पलटने के एनिमेशन में कुछ त्रुटियाँ ठीक की गई हैं।"
   }
 }
