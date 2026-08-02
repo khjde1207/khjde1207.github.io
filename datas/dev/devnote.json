@@ -1,290 +1,351 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "1. You can now select whether to create a backup file when making bulk edits."
+    "devnote":
+        "We have urgently fixed a bug that occasionally caused the app to fall into an infinite waiting state when launched."
   },
-  "한국어": {
-    "key": "ko",
-    "devnote": "1. 일괄 수정시 백업 파일 생성여부 선택 할 수 있게 하였습니다."
-  },
+  "한국어": {"key": "ko", "devnote": "간혹 어플실행시 무한 대기 상태에 빠지던 버그를 긴급 수정 하였습니다."},
   "갈리시아어": {
     "key": "gl",
-    "devnote": "1. Agora podes seleccionar se queres crear un ficheiro de copia de seguridade ao facer edicións masivas."
+    "devnote":
+        "Arranxamos urxentemente un erro que ocasionalmente provocaba que a aplicación entrase nun estado de espera infinita ao iniciarse."
   },
   "구자라트어": {
     "key": "gu",
-    "devnote": "1. હવે તમે બલ્ક એડિટ કરતી વખતે બેકઅપ ફાઇલ બનાવવી કે નહીં તે પસંદ કરી શકો છો."
+    "devnote":
+        "અમે તાત્કાલિક એક ભૂલને ઠીક કરી છે જેના કારણે એપ્લિકેશન લોન્ચ થાય ત્યારે ક્યારેક અનંત રાહ જોવાની સ્થિતિમાં પડી જતી હતી."
   },
   "그리스어": {
     "key": "el",
-    "devnote": "1. Μπορείτε πλέον να επιλέξετε εάν θα δημιουργήσετε ένα αρχείο αντιγράφου ασφαλείας όταν κάνετε μαζικές επεξεργασίες."
+    "devnote":
+        "Διορθώσαμε επειγόντως ένα σφάλμα που περιστασιακά προκαλούσε την εμφάνιση απεριόριστης αναμονής στην εφαρμογή κατά την εκκίνηση."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "1. Je kunt nu kiezen of je een back-upbestand wilt maken bij het uitvoeren van批量bewerkingen."
+    "devnote":
+        "We hebben met spoed een bug verholpen die er soms voor zorgde dat de app bij het opstarten in een oneindige wachtstand terechtkwam."
   },
   "네팔어": {
     "key": "ne",
-    "devnote": "१. अब तपाईं बल्क सम्पादन गर्दा ब्याकअप फाइल सिर्जना गर्ने कि नगर्ने भनेर चयन गर्न सक्नुहुन्छ।"
+    "devnote":
+        "हामीले एप सुरु गर्दा कहिलेकाहीं अनन्त प्रतीक्षाको अवस्थामा पर्ने बग तुरुन्तै समाधान गरेका छौं।"
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "1. Du kan nå velge om du vil opprette en sikkerhetskopifil når du foretar masseredigeringer."
+    "devnote":
+        "Vi har raskt fikset en feil som av og til førte til at appen havnet i en uendelig ventetilstand ved oppstart."
   },
   "덴마크어": {
     "key": "da",
-    "devnote": "1. Du kan nu vælge, om du vil oprette en sikkerhedskopifil, når du foretager masseredigeringer."
+    "devnote":
+        "Vi har hurtigst muligt rettet en fejl, der af og til fik appen til at gå i en uendelig ventetilstand, når den blev startet."
   },
   "독일어": {
     "key": "de",
-    "devnote": "1. Sie können nun auswählen, ob beim Bearbeiten mehrerer Dateien eine Sicherungsdatei erstellt werden soll."
+    "devnote":
+        "Wir haben dringend einen Fehler behoben, der gelegentlich dazu führte, dass die App beim Start in einen endlosen Wartezustand geriet."
   },
   "라오어": {
     "key": "lo",
-    "devnote": "1. ດຽວນີ້ທ່ານສາມາດເລືອກໄດ້ວ່າຈະສ້າງໄຟລ໌ສຳຮອງຂໍ້ມູນເມື່ອເຮັດການແກ້ໄຂເປັນຈຳນວນຫຼາຍຫຼືບໍ່."
+    "devnote":
+        "ພວກເຮົາໄດ້ແກ້ໄຂຂໍ້ຜິດພາດຢ່າງຮີບດ່ວນທີ່ເຮັດໃຫ້ແອັບຕົກຢູ່ໃນສະຖານະການລໍຖ້າທີ່ບໍ່ມີຂອບເຂດເມື່ອເປີດຕົວ."
   },
   "라트비아어": {
     "key": "lv",
-    "devnote": "1. Tagad, veicot masveida rediģēšanu, varat izvēlēties, vai izveidot dublējuma failu."
+    "devnote":
+        "Mēs steidzami esam novērsuši kļūdu, kuras dēļ lietotne palaišanas laikā laiku pa laikam nonāca bezgalīgā gaidīšanas stāvoklī."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "1. Теперь вы можете выбрать, следует ли создавать резервную копию файла при внесении массовых изменений."
+    "devnote":
+        "Мы в срочном порядке исправили ошибку, из-за которой приложение иногда переходило в состояние бесконечного ожидания при запуске."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "1. Acum puteți selecta dacă doriți să creați un fișier de rezervă atunci când faceți editări în bloc."
+    "devnote":
+        "Am remediat urgent o eroare care făcea ocazional ca aplicația să intre într-o stare de așteptare infinită la lansare."
   },
   "리투아니아어": {
     "key": "lt",
-    "devnote": "1. Dabar galite pasirinkti, ar kurti atsarginę kopiją atliekant masinį redagavimą."
+    "devnote":
+        "Skubiai ištaisėme klaidą, dėl kurios paleidus programėlę, ji kartais pereidavo į begalinę laukimo būseną."
   },
   "마라티어": {
     "key": "mr",
-    "devnote": "१. आता तुम्ही बल्क एडिट्स करताना बॅकअप फाइल तयार करायची की नाही हे निवडू शकता."
+    "devnote":
+        "आम्ही एक बग तातडीने दुरुस्त केला आहे, ज्यामुळे ॲप सुरू केल्यावर ते अधूनमधून अनंत प्रतीक्षा अवस्थेत जात होते."
   },
   "마케도니아어": {
     "key": "mk",
-    "devnote": "1. Сега можете да изберете дали да креирате резервна датотека кога правите групни уредувања."
+    "devnote":
+        "Итно поправивме грешка што повремено предизвикуваше апликацијата да падне во состојба на бесконечно чекање при стартување."
   },
   "말라얄람어": {
     "key": "ml",
-    "devnote": "1. ബൾക്ക് എഡിറ്റുകൾ നടത്തുമ്പോൾ ഒരു ബാക്കപ്പ് ഫയൽ സൃഷ്ടിക്കണോ വേണ്ടയോ എന്ന് ഇപ്പോൾ നിങ്ങൾക്ക് തിരഞ്ഞെടുക്കാം."
+    "devnote":
+        "ആപ്പ് ലോഞ്ച് ചെയ്യുമ്പോൾ ഇടയ്ക്കിടെ അനന്തമായ കാത്തിരിപ്പ് അവസ്ഥയിലേക്ക് വീഴാൻ കാരണമായ ഒരു ബഗ് ഞങ്ങൾ അടിയന്തിരമായി പരിഹരിച്ചു."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "1. Anda kini boleh memilih sama ada untuk membuat fail sandaran semasa membuat suntingan pukal."
+    "devnote":
+        "Kami telah segera membetulkan pepijat yang kadangkala menyebabkan aplikasi berada dalam keadaan menunggu tanpa henti semasa dilancarkan."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "1. Та одоо бөөнөөр нь засварлахдаа нөөц файл үүсгэх эсэхээ сонгож болно."
+    "devnote":
+        "Аппликейшнийг ажиллуулахад хязгааргүй хүлээлтийн төлөвт оруулдаг алдааг бид яаралтай заслаа."
   },
   "바스크어": {
     "key": "eu",
-    "devnote": "1. Orain, edizio masiboak egiterakoan babeskopia-fitxategi bat sortu nahi duzun ala ez aukeratu dezakezu."
+    "devnote":
+        "Aplikazioa abiaraztean noizean behin itxaronaldi infinituan erortzen zen akats bat premiaz konpondu dugu."
   },
   "버마어": {
     "key": "my",
-    "devnote": "၁။ အစုလိုက်တည်းဖြတ်မှုများပြုလုပ်သည့်အခါ အရန်ဖိုင်တစ်ခု ဖန်တီးရန်၊ မဖန်တီးရန် ယခု ရွေးချယ်နိုင်ပါပြီ။"
+    "devnote":
+        "အက်ပ်ကို စတင်လိုက်တဲ့အခါ အကန့်အသတ်မရှိ စောင့်ဆိုင်းရတဲ့ အခြေအနေမှာ တစ်ခါတစ်ရံ ကျရောက်စေတဲ့ ချို့ယွင်းချက်ကို ကျွန်ုပ်တို့ အရေးတကြီး ပြင်ဆင်ပြီးပါပြီ။"
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "1. Giờ đây, bạn có thể chọn tạo tệp sao lưu khi thực hiện chỉnh sửa hàng loạt."
+    "devnote":
+        "Chúng tôi đã khẩn trương khắc phục một lỗi thỉnh thoảng khiến ứng dụng bị rơi vào trạng thái chờ vô thời hạn khi khởi chạy."
   },
   "벨라루스어": {
     "key": "be",
-    "devnote": "1. Цяпер вы можаце выбраць, ці ствараць рэзервовую копію файла пры масавым рэдагаванні."
+    "devnote":
+        "Мы тэрмінова выправілі памылку, з-за якой праграма часам пераходзіла ў бясконцы стан чакання пры запуску."
   },
   "벵골어": {
     "key": "bn",
-    "devnote": "১. এখন আপনি একসাথে অনেক কিছু সম্পাদনা করার সময় একটি ব্যাকআপ ফাইল তৈরি করবেন কিনা তা নির্বাচন করতে পারবেন।"
+    "devnote":
+        "আমরা জরুরি ভিত্তিতে এমন একটি বাগ সংশোধন করেছি, যার কারণে অ্যাপটি চালু করার পর মাঝে মাঝে অনির্দিষ্টকালের জন্য অপেক্ষারত অবস্থায় চলে যেত।"
   },
   "불가리아어": {
     "key": "bg",
-    "devnote": "1. Вече можете да изберете дали да създадете резервно копие на файл, когато правите групови редакции."
+    "devnote":
+        "Спешно поправихме грешка, която понякога караше приложението да изпада в състояние на безкрайно чакане при стартиране."
   },
   "세르비아어": {
     "key": "sr",
-    "devnote": "1. Сада можете да изаберете да ли желите да направите резервну копију датотеке приликом групних измена."
+    "devnote":
+        "Хитно смо исправили грешку која је повремено узроковала да апликација упадне у стање бесконачног чекања приликом покретања."
   },
   "스와힐리어": {
     "key": "sw",
-    "devnote": "1. Sasa unaweza kuchagua kama utaunda faili mbadala wakati wa kufanya uhariri wa wingi."
+    "devnote":
+        "Tumerekebisha haraka hitilafu ambayo mara kwa mara ilisababisha programu kuanguka katika hali isiyo na kikomo ya kusubiri ilipozinduliwa."
   },
   "스웨덴어": {
     "key": "sv",
-    "devnote": "1. Du kan nu välja om du vill skapa en säkerhetskopia när du gör massredigeringar."
+    "devnote":
+        "Vi har snarast åtgärdat ett fel som ibland orsakade att appen hamnade i ett oändligt vänteläge när den startades."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "1. Ahora puede seleccionar si desea crear un archivo de copia de seguridad al realizar ediciones masivas."
+    "devnote":
+        "Hemos solucionado urgentemente un error que, en ocasiones, provocaba que la aplicación entrara en un estado de espera infinito al iniciarse."
   },
   "슬로바키아어": {
     "key": "sk",
-    "devnote": "1. Teraz si môžete vybrať, či sa má pri hromadných úpravách vytvoriť záložný súbor."
+    "devnote":
+        "Naliehavo sme opravili chybu, ktorá občas spôsobovala, že aplikácia po spustení upadla do stavu nekonečného čakania."
   },
   "슬로베니아어": {
     "key": "sl",
-    "devnote": "1. Zdaj lahko izberete, ali želite ustvariti varnostno kopijo datoteke pri množičnem urejanju."
+    "devnote":
+        "Nujno smo odpravili napako, zaradi katere je aplikacija občasno ob zagonu padla v stanje neskončnega čakanja."
   },
   "싱할라어": {
     "key": "si",
-    "devnote": "1. තොග සංස්කරණ සිදු කරන විට උපස්ථ ගොනුවක් සෑදිය යුතුද යන්න දැන් ඔබට තේරිය හැක."
+    "devnote":
+        "යෙදුම දියත් කරන විට ඉඳහිට අසීමිත රැඳී සිටීමේ තත්ත්වයකට පත්වීමට හේතු වූ දෝෂයක් අපි ඉක්මනින් නිවැරදි කළෙමු."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "1. يمكنك الآن تحديد ما إذا كنت تريد إنشاء ملف احتياطي عند إجراء تعديلات جماعية."
+    "devnote":
+        "لقد قمنا بإصلاح خلل برمجي بشكل عاجل كان يتسبب أحيانًا في دخول التطبيق في حالة انتظار لا نهائية عند تشغيله."
   },
   "아르메니아어": {
     "key": "hy",
-    "devnote": "1. Այժմ կարող եք ընտրել, թե արդյոք ստեղծել պահուստային ֆայլ զանգվածային խմբագրումներ կատարելիս։"
+    "devnote":
+        "Մենք շտապ կերպով շտկել ենք մի սխալ, որի պատճառով հավելվածը գործարկելիս երբեմն հայտնվում էր անվերջ սպասման վիճակում։"
   },
   "아이슬란드어": {
     "key": "is",
-    "devnote": "1. Þú getur nú valið hvort þú viljir búa til afrit af skrá þegar þú gerir margar breytingar."
+    "devnote":
+        "Við höfum tafarlaust lagað villu sem olli því að appið féll stundum í óendanlega biðstöðu þegar það var ræst."
   },
   "아제르바이잔어": {
     "key": "az",
-    "devnote": "1. İndi toplu redaktə edərkən ehtiyat nüsxə faylı yaratmağı seçə bilərsiniz."
+    "devnote":
+        "Tətbiqin işə salınması zamanı bəzən sonsuz gözləmə vəziyyətinə düşməsinə səbəb olan bir xətanı təcili olaraq həll etdik."
   },
   "아프리칸스어": {
     "key": "af",
-    "devnote": "1. Jy kan nou kies of jy 'n rugsteunlêer wil skep wanneer jy grootmaat wysigings maak."
+    "devnote":
+        "Ons het dringend 'n fout reggestel wat soms veroorsaak het dat die toepassing in 'n oneindige wagtoestand verval het toe dit begin is."
   },
   "알바니아어": {
     "key": "sq",
-    "devnote": "1. Tani mund të zgjidhni nëse do të krijoni një skedar rezervë kur bëni ndryshime në masë."
+    "devnote":
+        "Ne kemi rregulluar urgjentisht një gabim që herë pas here shkaktonte që aplikacioni të binte në një gjendje pritjeje të pafundme kur hapej."
   },
   "암하라어": {
     "key": "am",
-    "devnote": "1. አሁን የጅምላ አርትዖቶችን ሲያደርጉ የመጠባበቂያ ፋይል መፍጠር ይፈልጉ እንደሆነ መምረጥ ይችላሉ።"
+    "devnote":
+        "አፕሊኬሽኑ ሲጀመር አልፎ አልፎ ወደ ማለቂያ የሌለው የጥበቃ ሁኔታ እንዲወድቅ የሚያደርግ ሳንካ በአስቸኳይ አስተካክለናል።"
   },
   "에스토니아어": {
     "key": "et",
-    "devnote": "1. Nüüd saate valida, kas luua hulgimuudatuste tegemisel varukoopia."
+    "devnote":
+        "Oleme kiiremas korras parandanud vea, mis aeg-ajalt põhjustas rakenduse käivitamisel lõpmatusse ooteolekusse langemise."
   },
   "우르두어": {
     "key": "ur",
-    "devnote": "1. اب آپ منتخب کر سکتے ہیں کہ آیا بڑی تعداد میں ترمیم کرتے وقت بیک اپ فائل بنانا ہے۔"
+    "devnote":
+        "ہم نے فوری طور پر ایک بگ کو ٹھیک کیا ہے جس کی وجہ سے کبھی کبھار ایپ لانچ ہونے پر لامحدود انتظار کی حالت میں پڑ جاتی ہے۔"
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "1. Тепер ви можете вибрати, чи створювати резервну копію файлу під час масового редагування."
+    "devnote":
+        "Ми терміново виправили помилку, яка іноді призводила до того, що програма переходила в стан нескінченного очікування під час запуску."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "1. Ora è possibile scegliere se creare un file di backup durante le modifiche in blocco."
+    "devnote":
+        "Abbiamo risolto con urgenza un bug che occasionalmente causava il blocco dell'app in uno stato di attesa infinito all'avvio."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "1. Anda sekarang dapat memilih apakah akan membuat file cadangan saat melakukan pengeditan massal."
+    "devnote":
+        "Kami telah segera memperbaiki bug yang terkadang menyebabkan aplikasi memasuki kondisi menunggu tanpa henti saat diluncurkan."
   },
-  "일본어": {
-    "key": "ja",
-    "devnote": "1. 一括編集を行う際に、バックアップファイルを作成するかどうかを選択できるようになりました。"
-  },
+  "일본어": {"key": "ja", "devnote": "アプリ起動時に、まれに無限待機状態に陥る不具合を緊急修正しました。"},
   "조지아어": {
     "key": "ka",
-    "devnote": "1. ახლა შეგიძლიათ აირჩიოთ, გსურთ თუ არა სარეზერვო ფაილის შექმნა მასობრივი რედაქტირებისას."
+    "devnote":
+        "ჩვენ სასწრაფოდ გამოვასწორეთ შეცდომა, რომელიც ზოგჯერ აპლიკაციის გაშვებისას უსასრულო ლოდინის რეჟიმში გადასვლის მიზეზი იყო."
   },
   "줄루어": {
     "key": "zu",
-    "devnote": "1. Manje usungakhetha ukuthi uzodala ifayela eliyisipele yini uma wenza ukuhlela ngobuningi."
+    "devnote":
+        "Silungise ngokushesha iphutha elalibangela ukuthi uhlelo lokusebenza luwele esimweni sokulinda esingenamkhawulo lapho luqaliswa."
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "1. 现在，在进行批量编辑时，您可以选择是否创建备份文件。"
+    "devnote": "我们已紧急修复了一个漏洞，该漏洞会导致应用程序在启动时偶尔陷入无限等待状态。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "1. 現在，在進行批次編輯時，您可以選擇是否要建立備份檔案。"
+    "devnote": "我們已緊急修復了一個漏洞，該漏洞會導致應用程式在啟動時偶爾陷入無限等待狀態。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "1. 現在，在進行批次編輯時，您可以選擇是否要建立備份檔案。"
+    "devnote": "我們已緊急修復了一個漏洞，該漏洞會導致應用程式在啟動時偶爾陷入無限等待狀態。"
   },
   "체코어": {
     "key": "cs",
-    "devnote": "1. Nyní si můžete vybrat, zda se při hromadných úpravách má vytvořit záložní soubor."
+    "devnote":
+        "Naléhavě jsme opravili chybu, která občas způsobovala, že aplikace po spuštění upadla do stavu nekonečného čekání."
   },
   "카자흐어": {
     "key": "kk",
-    "devnote": "1. Енді жаппай өңдеулер жасаған кезде сақтық көшірме файлын жасауды таңдай аласыз."
+    "devnote":
+        "Біз қолданба іске қосылған кезде кейде шексіз күту күйіне түсіп кетуіне себеп болатын қатені шұғыл түрде түзеттік."
   },
   "카탈로니아어": {
     "key": "ca",
-    "devnote": "1. Ara podeu seleccionar si voleu crear un fitxer de còpia de seguretat quan feu edicions massives."
+    "devnote":
+        "Hem corregit urgentment un error que ocasionalment feia que l'aplicació caigués en un estat d'espera infinita en iniciar-se."
   },
   "칸나다어": {
     "key": "kn",
-    "devnote": "1. ಬೃಹತ್ ಸಂಪಾದನೆಗಳನ್ನು ಮಾಡುವಾಗ ಬ್ಯಾಕಪ್ ಫೈಲ್ ಅನ್ನು ರಚಿಸಬೇಕೆ ಎಂದು ನೀವು ಈಗ ಆಯ್ಕೆ ಮಾಡಬಹುದು."
+    "devnote":
+        "ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಪ್ರಾರಂಭಿಸಿದಾಗ ಕೆಲವೊಮ್ಮೆ ಅನಂತ ಕಾಯುವ ಸ್ಥಿತಿಗೆ ಬೀಳಲು ಕಾರಣವಾಗುತ್ತಿದ್ದ ದೋಷವನ್ನು ನಾವು ತುರ್ತಾಗಿ ಸರಿಪಡಿಸಿದ್ದೇವೆ."
   },
   "크로아티아어 –": {
     "key": "hr",
-    "devnote": "1. Sada možete odabrati hoćete li stvoriti sigurnosnu kopiju datoteke prilikom skupnog uređivanja."
+    "devnote":
+        "Hitno smo ispravili grešku koja je povremeno uzrokovala da aplikacija prilikom pokretanja upadne u stanje beskonačnog čekanja."
   },
   "크메르어": {
     "key": "km",
-    "devnote": "១. ឥឡូវនេះ អ្នកអាចជ្រើសរើសថាតើត្រូវបង្កើតឯកសារបម្រុងទុកឬអត់ នៅពេលធ្វើការកែសម្រួលជាបាច់។"
+    "devnote":
+        "យើងបានជួសជុលកំហុសជាបន្ទាន់មួយដែលបណ្តាលឱ្យកម្មវិធីធ្លាក់ចូលទៅក្នុងស្ថានភាពរង់ចាំគ្មានកំណត់នៅពេលដាក់ឱ្យដំណើរការ។"
   },
   "키르기스어": {
     "key": "ky",
-    "devnote": "1. Эми сиз жапырт түзөтүүлөрдү киргизүүдө камдык көчүрмө файлын түзүү керекпи же жокпу, тандай аласыз."
+    "devnote":
+        "Колдонмо ишке киргизилгенде кээде чексиз күтүү абалына түшүп калышына алып келген катаны шашылыш түрдө оңдодубуз."
   },
   "타밀어": {
     "key": "ta",
-    "devnote": "1. மொத்தமாகத் திருத்தங்களைச் செய்யும்போது, ​​காப்புப் பிரதி கோப்பை உருவாக்குவதா இல்லையா என்பதை இப்போது நீங்கள் தேர்ந்தெடுக்கலாம்."
+    "devnote":
+        "செயலியைத் தொடங்கும்போது, ​​அது அவ்வப்போது முடிவில்லாத காத்திருப்பு நிலைக்குச் செல்லக் காரணமாக இருந்த ஒரு பிழையை நாங்கள் அவசரமாகச் சரிசெய்துள்ளோம்."
   },
   "태국어": {
     "key": "th",
-    "devnote": "1. ขณะนี้คุณสามารถเลือกได้ว่าจะสร้างไฟล์สำรองเมื่อทำการแก้ไขจำนวนมากหรือไม่"
+    "devnote":
+        "เราได้แก้ไขข้อผิดพลาดอย่างเร่งด่วนที่บางครั้งทำให้แอปเข้าสู่สถานะรออย่างไม่มีที่สิ้นสุดเมื่อเปิดใช้งาน"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "1. Artık toplu düzenlemeler yaparken yedek dosya oluşturulup oluşturulmayacağını seçebilirsiniz."
+    "devnote":
+        "Uygulamanın başlatıldığında zaman zaman sonsuz bekleme durumuna düşmesine neden olan bir hatayı acilen düzelttik."
   },
   "텔루구어": {
     "key": "te",
-    "devnote": "1. మీరు ఇప్పుడు బల్క్ ఎడిట్‌లు చేసేటప్పుడు బ్యాకప్ ఫైల్‌ను సృష్టించాలా వద్దా అని ఎంచుకోవచ్చు."
+    "devnote":
+        "యాప్‌ను ప్రారంభించినప్పుడు అది అప్పుడప్పుడు అనంతమైన నిరీక్షణ స్థితిలోకి వెళ్ళడానికి కారణమవుతున్న ఒక బగ్‌ను మేము అత్యవసరంగా సరిచేశాము."
   },
   "펀잡어": {
     "key": "pa",
-    "devnote": "1. ਹੁਣ ਤੁਸੀਂ ਇਹ ਚੁਣ ਸਕਦੇ ਹੋ ਕਿ ਥੋਕ ਸੰਪਾਦਨ ਕਰਦੇ ਸਮੇਂ ਬੈਕਅੱਪ ਫਾਈਲ ਬਣਾਉਣੀ ਹੈ ਜਾਂ ਨਹੀਂ।"
+    "devnote":
+        "ਅਸੀਂ ਤੁਰੰਤ ਇੱਕ ਬੱਗ ਨੂੰ ਠੀਕ ਕਰ ਦਿੱਤਾ ਹੈ ਜਿਸ ਕਾਰਨ ਐਪ ਕਦੇ-ਕਦੇ ਲਾਂਚ ਹੋਣ 'ਤੇ ਅਨੰਤ ਉਡੀਕ ਦੀ ਸਥਿਤੀ ਵਿੱਚ ਆ ਜਾਂਦੀ ਸੀ।"
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "۱. اکنون می‌توانید انتخاب کنید که آیا هنگام انجام ویرایش‌های دسته‌ای، فایل پشتیبان ایجاد شود یا خیر."
+    "devnote":
+        "ما فوراً اشکالی را برطرف کردیم که گاهی اوقات باعث می‌شد برنامه هنگام اجرا در حالت انتظار بی‌نهایت قرار بگیرد."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "1. Agora você pode selecionar se deseja criar um arquivo de backup ao fazer edições em massa."
+    "devnote":
+        "Corrigimos com urgência um erro que ocasionalmente fazia com que o aplicativo entrasse em um estado de espera infinita ao ser iniciado."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "1. Teraz możesz wybrać, czy chcesz utworzyć plik kopii zapasowej podczas wprowadzania zbiorczych edycji."
+    "devnote":
+        "Pilnie naprawiliśmy błąd, który czasami powodował, że aplikacja po uruchomieniu przechodziła w stan nieskończonego oczekiwania."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "1. Vous pouvez désormais choisir de créer ou non un fichier de sauvegarde lors de modifications en masse."
+    "devnote":
+        "Nous avons corrigé en urgence un bug qui provoquait parfois le blocage de l'application dans un état d'attente infini lors de son lancement."
   },
   "핀란드어": {
     "key": "fi",
-    "devnote": "1. Voit nyt valita, luodaanko varmuuskopiotiedosto joukkomuokkauksia tehdessäsi."
+    "devnote":
+        "Olemme kiireellisesti korjanneet virheen, joka toisinaan aiheutti sovelluksen ajautumisen loputtomaan odotustilaan käynnistyksen yhteydessä."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "1. Maaari mo na ngayong piliin kung gagawa ng backup file kapag gumagawa ng maramihang pag-edit."
+    "devnote":
+        "Agad naming inayos ang isang bug na paminsan-minsan ay nagiging sanhi ng paghihintay ng app nang walang katapusan kapag inilunsad."
   },
   "헝가리어": {
     "key": "hu",
-    "devnote": "1. Mostantól kiválaszthatja, hogy szeretne-e biztonsági másolatot készíteni tömeges szerkesztések végrehajtásakor."
+    "devnote":
+        "Sürgősen kijavítottunk egy hibát, amely miatt az alkalmazás időnként végtelen várakozó állapotba került indításkor."
   },
   "히브리어": {
     "key": "iw",
-    "devnote": "1. כעת ניתן לבחור האם ליצור קובץ גיבוי בעת ביצוע עריכות בכמות גדולה."
+    "devnote":
+        "תיקנו בדחיפות באג שגרם מדי פעם לאפליקציה להיכנס למצב המתנה אינסופי בעת הפעלתה."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "1. अब आप बल्क एडिट करते समय बैकअप फ़ाइल बनाने का विकल्प चुन सकते हैं।"
+    "devnote":
+        "हमने उस बग को तुरंत ठीक कर दिया है जिसके कारण ऐप लॉन्च होने पर कभी-कभी अनंत प्रतीक्षा स्थिति में चला जाता था।"
   }
 }
