@@ -1525,23 +1525,6 @@
         "volume": 2670716
     },
     {
-        "filepath400": "JejuGothicOTF.otf",
-        "imagepath": [
-            "JejuGothicOTF_universal_en.png",
-            "JejuGothicOTF_universal_ko.png"
-        ],
-        "lang": [
-            "korean"
-        ],
-        "license": "공유마당 저작권 위원회",
-        "name": "JejuGothicOTF",
-        "name_kr": "제주고딕체",
-        "rootPath": "fonts/제주고딕체",
-        "source": " 제주특별자치도",
-        "sourceurl": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=419035&menuNo=200026",
-        "volume": 1975028
-    },
-    {
         "filepath400": "JejuHallasan.otf",
         "imagepath": [
             "JejuHallasan_universal_en.png",
