@@ -10,16 +10,6 @@
         "isLight": false
     },
     {
-        "volume": 664238,
-        "large": "argument-238529_large.jpg",
-        "small": "argument-238529_small.jpg",
-        "rootPath": "background",
-        "source": "",
-        "sourceurl": "https://pixabay.com/ko/illustrations",
-        "license": "Pixabay License",
-        "isLight": true
-    },
-    {
         "volume": 755732,
         "large": "aurora-1190254_large.jpg",
         "small": "aurora-1190254_small.jpg",
@@ -509,46 +499,7 @@
         "license": "Pixabay License",
         "isLight": false
     },
-    {
-        "volume": 265113,
-        "large": "couple-3064048_large.jpg",
-        "small": "couple-3064048_small.jpg",
-        "rootPath": "background",
-        "source": "",
-        "sourceurl": "https://pixabay.com/ko/illustrations",
-        "license": "Pixabay License",
-        "isLight": true
-    },
-    {
-        "volume": 395369,
-        "large": "couple-3798371_large.jpg",
-        "small": "couple-3798371_small.jpg",
-        "rootPath": "background",
-        "source": "",
-        "sourceurl": "https://pixabay.com/ko/illustrations",
-        "license": "Pixabay License",
-        "isLight": false
-    },
-    {
-        "volume": 268968,
-        "large": "couple-437968_large.jpg",
-        "small": "couple-437968_small.jpg",
-        "rootPath": "background",
-        "source": "",
-        "sourceurl": "https://pixabay.com/ko/illustrations",
-        "license": "Pixabay License",
-        "isLight": true
-    },
-    {
-        "volume": 874903,
-        "large": "couple-443600_large.jpg",
-        "small": "couple-443600_small.jpg",
-        "rootPath": "background",
-        "source": "",
-        "sourceurl": "https://pixabay.com/ko/illustrations",
-        "license": "Pixabay License",
-        "isLight": true
-    },
+
     {
         "volume": 936480,
         "large": "crumpled-paper-706511_large.jpg",
