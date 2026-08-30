@@ -1,351 +1,95 @@
-{
-  "영어(미국)": {
-    "key": "en",
-    "devnote":
-        "We have urgently fixed a bug that occasionally caused the app to fall into an infinite waiting state when launched."
-  },
-  "한국어": {"key": "ko", "devnote": "간혹 어플실행시 무한 대기 상태에 빠지던 버그를 긴급 수정 하였습니다."},
-  "갈리시아어": {
-    "key": "gl",
-    "devnote":
-        "Arranxamos urxentemente un erro que ocasionalmente provocaba que a aplicación entrase nun estado de espera infinita ao iniciarse."
-  },
-  "구자라트어": {
-    "key": "gu",
-    "devnote":
-        "અમે તાત્કાલિક એક ભૂલને ઠીક કરી છે જેના કારણે એપ્લિકેશન લોન્ચ થાય ત્યારે ક્યારેક અનંત રાહ જોવાની સ્થિતિમાં પડી જતી હતી."
-  },
-  "그리스어": {
-    "key": "el",
-    "devnote":
-        "Διορθώσαμε επειγόντως ένα σφάλμα που περιστασιακά προκαλούσε την εμφάνιση απεριόριστης αναμονής στην εφαρμογή κατά την εκκίνηση."
-  },
-  "네덜란드어": {
-    "key": "nl",
-    "devnote":
-        "We hebben met spoed een bug verholpen die er soms voor zorgde dat de app bij het opstarten in een oneindige wachtstand terechtkwam."
-  },
-  "네팔어": {
-    "key": "ne",
-    "devnote":
-        "हामीले एप सुरु गर्दा कहिलेकाहीं अनन्त प्रतीक्षाको अवस्थामा पर्ने बग तुरुन्तै समाधान गरेका छौं।"
-  },
-  "노르웨이어": {
-    "key": "no",
-    "devnote":
-        "Vi har raskt fikset en feil som av og til førte til at appen havnet i en uendelig ventetilstand ved oppstart."
-  },
-  "덴마크어": {
-    "key": "da",
-    "devnote":
-        "Vi har hurtigst muligt rettet en fejl, der af og til fik appen til at gå i en uendelig ventetilstand, når den blev startet."
-  },
-  "독일어": {
-    "key": "de",
-    "devnote":
-        "Wir haben dringend einen Fehler behoben, der gelegentlich dazu führte, dass die App beim Start in einen endlosen Wartezustand geriet."
-  },
-  "라오어": {
-    "key": "lo",
-    "devnote":
-        "ພວກເຮົາໄດ້ແກ້ໄຂຂໍ້ຜິດພາດຢ່າງຮີບດ່ວນທີ່ເຮັດໃຫ້ແອັບຕົກຢູ່ໃນສະຖານະການລໍຖ້າທີ່ບໍ່ມີຂອບເຂດເມື່ອເປີດຕົວ."
-  },
-  "라트비아어": {
-    "key": "lv",
-    "devnote":
-        "Mēs steidzami esam novērsuši kļūdu, kuras dēļ lietotne palaišanas laikā laiku pa laikam nonāca bezgalīgā gaidīšanas stāvoklī."
-  },
-  "러시아어": {
-    "key": "ru",
-    "devnote":
-        "Мы в срочном порядке исправили ошибку, из-за которой приложение иногда переходило в состояние бесконечного ожидания при запуске."
-  },
-  "루마니아어": {
-    "key": "ro",
-    "devnote":
-        "Am remediat urgent o eroare care făcea ocazional ca aplicația să intre într-o stare de așteptare infinită la lansare."
-  },
-  "리투아니아어": {
-    "key": "lt",
-    "devnote":
-        "Skubiai ištaisėme klaidą, dėl kurios paleidus programėlę, ji kartais pereidavo į begalinę laukimo būseną."
-  },
-  "마라티어": {
-    "key": "mr",
-    "devnote":
-        "आम्ही एक बग तातडीने दुरुस्त केला आहे, ज्यामुळे ॲप सुरू केल्यावर ते अधूनमधून अनंत प्रतीक्षा अवस्थेत जात होते."
-  },
+ {
+  "영어(미국)": {"key": "en", "devnote": "Fixed a database error."},
+  "한국어": {"key": "ko", "devnote": "데이터베이스 오류를 수정 하였습니다."},
+  "갈리시아어": {"key": "gl", "devnote": "Corrixiuse un erro na base de datos."},
+  "구자라트어": {"key": "gu", "devnote": "ડેટાબેઝ ભૂલ સુધારી."},
+  "그리스어": {"key": "el", "devnote": "Διορθώθηκε ένα σφάλμα βάσης δεδομένων."},
+  "네덜란드어": {"key": "nl", "devnote": "Een databasefout is verholpen."},
+  "네팔어": {"key": "ne", "devnote": "डाटाबेस त्रुटि समाधान गरियो।"},
+  "노르웨이어": {"key": "no", "devnote": "Rettet en databasefeil."},
+  "덴마크어": {"key": "da", "devnote": "Rettede en databasefejl."},
+  "독일어": {"key": "de", "devnote": "Ein Datenbankfehler wurde behoben."},
+  "라오어": {"key": "lo", "devnote": "ແກ້ໄຂຂໍ້ຜິດພາດຂອງຖານຂໍ້ມູນແລ້ວ."},
+  "라트비아어": {"key": "lv", "devnote": "Novērsta datubāzes kļūda."},
+  "러시아어": {"key": "ru", "devnote": "Исправлена ​​ошибка базы данных."},
+  "루마니아어": {"key": "ro", "devnote": "S-a remediat o eroare în baza de date."},
+  "리투아니아어": {"key": "lt", "devnote": "Ištaisyta duomenų bazės klaida."},
+  "마라티어": {"key": "mr", "devnote": "डेटाबेसमधील त्रुटी दुरुस्त केली."},
   "마케도니아어": {
     "key": "mk",
-    "devnote":
-        "Итно поправивме грешка што повремено предизвикуваше апликацијата да падне во состојба на бесконечно чекање при стартување."
+    "devnote": "Поправена е грешка во базата на податоци."
   },
-  "말라얄람어": {
-    "key": "ml",
-    "devnote":
-        "ആപ്പ് ലോഞ്ച് ചെയ്യുമ്പോൾ ഇടയ്ക്കിടെ അനന്തമായ കാത്തിരിപ്പ് അവസ്ഥയിലേക്ക് വീഴാൻ കാരണമായ ഒരു ബഗ് ഞങ്ങൾ അടിയന്തിരമായി പരിഹരിച്ചു."
-  },
-  "말레이어": {
-    "key": "ms",
-    "devnote":
-        "Kami telah segera membetulkan pepijat yang kadangkala menyebabkan aplikasi berada dalam keadaan menunggu tanpa henti semasa dilancarkan."
-  },
-  "몽골어": {
-    "key": "mn",
-    "devnote":
-        "Аппликейшнийг ажиллуулахад хязгааргүй хүлээлтийн төлөвт оруулдаг алдааг бид яаралтай заслаа."
-  },
-  "바스크어": {
-    "key": "eu",
-    "devnote":
-        "Aplikazioa abiaraztean noizean behin itxaronaldi infinituan erortzen zen akats bat premiaz konpondu dugu."
-  },
-  "버마어": {
-    "key": "my",
-    "devnote":
-        "အက်ပ်ကို စတင်လိုက်တဲ့အခါ အကန့်အသတ်မရှိ စောင့်ဆိုင်းရတဲ့ အခြေအနေမှာ တစ်ခါတစ်ရံ ကျရောက်စေတဲ့ ချို့ယွင်းချက်ကို ကျွန်ုပ်တို့ အရေးတကြီး ပြင်ဆင်ပြီးပါပြီ။"
-  },
-  "베트남어": {
-    "key": "vi",
-    "devnote":
-        "Chúng tôi đã khẩn trương khắc phục một lỗi thỉnh thoảng khiến ứng dụng bị rơi vào trạng thái chờ vô thời hạn khi khởi chạy."
-  },
-  "벨라루스어": {
-    "key": "be",
-    "devnote":
-        "Мы тэрмінова выправілі памылку, з-за якой праграма часам пераходзіла ў бясконцы стан чакання пры запуску."
-  },
-  "벵골어": {
-    "key": "bn",
-    "devnote":
-        "আমরা জরুরি ভিত্তিতে এমন একটি বাগ সংশোধন করেছি, যার কারণে অ্যাপটি চালু করার পর মাঝে মাঝে অনির্দিষ্টকালের জন্য অপেক্ষারত অবস্থায় চলে যেত।"
-  },
-  "불가리아어": {
-    "key": "bg",
-    "devnote":
-        "Спешно поправихме грешка, която понякога караше приложението да изпада в състояние на безкрайно чакане при стартиране."
-  },
-  "세르비아어": {
-    "key": "sr",
-    "devnote":
-        "Хитно смо исправили грешку која је повремено узроковала да апликација упадне у стање бесконачног чекања приликом покретања."
-  },
-  "스와힐리어": {
-    "key": "sw",
-    "devnote":
-        "Tumerekebisha haraka hitilafu ambayo mara kwa mara ilisababisha programu kuanguka katika hali isiyo na kikomo ya kusubiri ilipozinduliwa."
-  },
-  "스웨덴어": {
-    "key": "sv",
-    "devnote":
-        "Vi har snarast åtgärdat ett fel som ibland orsakade att appen hamnade i ett oändligt vänteläge när den startades."
-  },
-  "스페인어": {
-    "key": "es",
-    "devnote":
-        "Hemos solucionado urgentemente un error que, en ocasiones, provocaba que la aplicación entrara en un estado de espera infinito al iniciarse."
-  },
-  "슬로바키아어": {
-    "key": "sk",
-    "devnote":
-        "Naliehavo sme opravili chybu, ktorá občas spôsobovala, že aplikácia po spustení upadla do stavu nekonečného čakania."
-  },
-  "슬로베니아어": {
-    "key": "sl",
-    "devnote":
-        "Nujno smo odpravili napako, zaradi katere je aplikacija občasno ob zagonu padla v stanje neskončnega čakanja."
-  },
-  "싱할라어": {
-    "key": "si",
-    "devnote":
-        "යෙදුම දියත් කරන විට ඉඳහිට අසීමිත රැඳී සිටීමේ තත්ත්වයකට පත්වීමට හේතු වූ දෝෂයක් අපි ඉක්මනින් නිවැරදි කළෙමු."
-  },
-  "아랍어": {
-    "key": "ar",
-    "devnote":
-        "لقد قمنا بإصلاح خلل برمجي بشكل عاجل كان يتسبب أحيانًا في دخول التطبيق في حالة انتظار لا نهائية عند تشغيله."
-  },
-  "아르메니아어": {
-    "key": "hy",
-    "devnote":
-        "Մենք շտապ կերպով շտկել ենք մի սխալ, որի պատճառով հավելվածը գործարկելիս երբեմն հայտնվում էր անվերջ սպասման վիճակում։"
-  },
-  "아이슬란드어": {
-    "key": "is",
-    "devnote":
-        "Við höfum tafarlaust lagað villu sem olli því að appið féll stundum í óendanlega biðstöðu þegar það var ræst."
-  },
+  "말라얄람어": {"key": "ml", "devnote": "ഒരു ഡാറ്റാബേസ് പിശക് പരിഹരിച്ചു."},
+  "말레이어": {"key": "ms", "devnote": "Ralat pangkalan data telah dibetulkan."},
+  "몽골어": {"key": "mn", "devnote": "Өгөгдлийн сангийн алдааг зассан."},
+  "바스크어": {"key": "eu", "devnote": "Datu-baseko errore bat konpondu da."},
+  "버마어": {"key": "my", "devnote": "ဒေတာဘေ့စ်အမှားကို ပြင်ပြီးပါပြီ။"},
+  "베트남어": {"key": "vi", "devnote": "Đã sửa lỗi cơ sở dữ liệu."},
+  "벨라루스어": {"key": "be", "devnote": "Выпраўлена памылка ў базе дадзеных."},
+  "벵골어": {"key": "bn", "devnote": "ডাটাবেসের একটি ত্রুটি সংশোধন করা হয়েছে।"},
+  "불가리아어": {"key": "bg", "devnote": "Поправена е грешка в базата данни."},
+  "세르비아어": {"key": "sr", "devnote": "Исправљена је грешка у бази података."},
+  "스와힐리어": {"key": "sw", "devnote": "Imerekebisha hitilafu ya hifadhidata."},
+  "스웨덴어": {"key": "sv", "devnote": "Åtgärdade ett databasfel."},
+  "스페인어": {"key": "es", "devnote": "Se corrigió un error de la base de datos."},
+  "슬로바키아어": {"key": "sk", "devnote": "Opravená chyba v databáze."},
+  "슬로베니아어": {"key": "sl", "devnote": "Odpravljena napaka v bazi podatkov."},
+  "싱할라어": {"key": "si", "devnote": "දත්ත සමුදා දෝෂයක් නිවැරදි කරන ලදී."},
+  "아랍어": {"key": "ar", "devnote": "تم إصلاح خطأ في قاعدة البيانات."},
+  "아르메니아어": {"key": "hy", "devnote": "Ուղղվել է տվյալների բազայի սխալը։"},
+  "아이슬란드어": {"key": "is", "devnote": "Lagfærði villu í gagnagrunni."},
   "아제르바이잔어": {
     "key": "az",
-    "devnote":
-        "Tətbiqin işə salınması zamanı bəzən sonsuz gözləmə vəziyyətinə düşməsinə səbəb olan bir xətanı təcili olaraq həll etdik."
+    "devnote": "Verilənlər bazasında baş verən xəta düzəldildi."
   },
-  "아프리칸스어": {
-    "key": "af",
-    "devnote":
-        "Ons het dringend 'n fout reggestel wat soms veroorsaak het dat die toepassing in 'n oneindige wagtoestand verval het toe dit begin is."
-  },
+  "아프리칸스어": {"key": "af", "devnote": "Het 'n databasisfout reggestel."},
   "알바니아어": {
     "key": "sq",
-    "devnote":
-        "Ne kemi rregulluar urgjentisht një gabim që herë pas here shkaktonte që aplikacioni të binte në një gjendje pritjeje të pafundme kur hapej."
+    "devnote": "U rregullua një gabim në bazën e të dhënave."
   },
-  "암하라어": {
-    "key": "am",
-    "devnote":
-        "አፕሊኬሽኑ ሲጀመር አልፎ አልፎ ወደ ማለቂያ የሌለው የጥበቃ ሁኔታ እንዲወድቅ የሚያደርግ ሳንካ በአስቸኳይ አስተካክለናል።"
-  },
-  "에스토니아어": {
-    "key": "et",
-    "devnote":
-        "Oleme kiiremas korras parandanud vea, mis aeg-ajalt põhjustas rakenduse käivitamisel lõpmatusse ooteolekusse langemise."
-  },
-  "우르두어": {
-    "key": "ur",
-    "devnote":
-        "ہم نے فوری طور پر ایک بگ کو ٹھیک کیا ہے جس کی وجہ سے کبھی کبھار ایپ لانچ ہونے پر لامحدود انتظار کی حالت میں پڑ جاتی ہے۔"
-  },
-  "우크라이나어": {
-    "key": "uk",
-    "devnote":
-        "Ми терміново виправили помилку, яка іноді призводила до того, що програма переходила в стан нескінченного очікування під час запуску."
-  },
-  "이탈리아어": {
-    "key": "it",
-    "devnote":
-        "Abbiamo risolto con urgenza un bug che occasionalmente causava il blocco dell'app in uno stato di attesa infinito all'avvio."
-  },
-  "인도네시아어": {
-    "key": "id",
-    "devnote":
-        "Kami telah segera memperbaiki bug yang terkadang menyebabkan aplikasi memasuki kondisi menunggu tanpa henti saat diluncurkan."
-  },
-  "일본어": {"key": "ja", "devnote": "アプリ起動時に、まれに無限待機状態に陥る不具合を緊急修正しました。"},
-  "조지아어": {
-    "key": "ka",
-    "devnote":
-        "ჩვენ სასწრაფოდ გამოვასწორეთ შეცდომა, რომელიც ზოგჯერ აპლიკაციის გაშვებისას უსასრულო ლოდინის რეჟიმში გადასვლის მიზეზი იყო."
-  },
-  "줄루어": {
-    "key": "zu",
-    "devnote":
-        "Silungise ngokushesha iphutha elalibangela ukuthi uhlelo lokusebenza luwele esimweni sokulinda esingenamkhawulo lapho luqaliswa."
-  },
-  "중국어(간체)": {
-    "key": "zh-CN",
-    "devnote": "我们已紧急修复了一个漏洞，该漏洞会导致应用程序在启动时偶尔陷入无限等待状态。"
-  },
-  "중국어(번체)": {
-    "key": "zh-TW",
-    "devnote": "我們已緊急修復了一個漏洞，該漏洞會導致應用程式在啟動時偶爾陷入無限等待狀態。"
-  },
-  "중국어(홍콩)": {
-    "key": "zh-HK",
-    "devnote": "我們已緊急修復了一個漏洞，該漏洞會導致應用程式在啟動時偶爾陷入無限等待狀態。"
-  },
-  "체코어": {
-    "key": "cs",
-    "devnote":
-        "Naléhavě jsme opravili chybu, která občas způsobovala, že aplikace po spuštění upadla do stavu nekonečného čekání."
-  },
-  "카자흐어": {
-    "key": "kk",
-    "devnote":
-        "Біз қолданба іске қосылған кезде кейде шексіз күту күйіне түсіп кетуіне себеп болатын қатені шұғыл түрде түзеттік."
-  },
+  "암하라어": {"key": "am", "devnote": "የውሂብ ጎታ ስህተት ተስተካክሏል።"},
+  "에스토니아어": {"key": "et", "devnote": "Parandatud andmebaasi viga."},
+  "우르두어": {"key": "ur", "devnote": "ڈیٹا بیس کی خرابی کو ٹھیک کر دیا گیا۔"},
+  "우크라이나어": {"key": "uk", "devnote": "Виправлено помилку бази даних."},
+  "이탈리아어": {"key": "it", "devnote": "Risolto un errore del database."},
+  "인도네시아어": {"key": "id", "devnote": "Kesalahan basis data telah diperbaiki."},
+  "일본어": {"key": "ja", "devnote": "データベースのエラーを修正しました。"},
+  "조지아어": {"key": "ka", "devnote": "გამოსწორდა მონაცემთა ბაზის შეცდომა."},
+  "줄루어": {"key": "zu", "devnote": "Kulungiswe iphutha lesizindalwazi."},
+  "중국어(간체)": {"key": "zh-CN", "devnote": "修复了一个数据库错误。"},
+  "중국어(번체)": {"key": "zh-TW", "devnote": "修復了一個資料庫錯誤。"},
+  "중국어(홍콩)": {"key": "zh-HK", "devnote": "修復了一個資料庫錯誤。"},
+  "체코어": {"key": "cs", "devnote": "Opravena chyba v databázi."},
+  "카자흐어": {"key": "kk", "devnote": "Дерекқор қатесі түзетілді."},
   "카탈로니아어": {
     "key": "ca",
-    "devnote":
-        "Hem corregit urgentment un error que ocasionalment feia que l'aplicació caigués en un estat d'espera infinita en iniciar-se."
+    "devnote": "S'ha corregit un error de la base de dades."
   },
-  "칸나다어": {
-    "key": "kn",
-    "devnote":
-        "ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಪ್ರಾರಂಭಿಸಿದಾಗ ಕೆಲವೊಮ್ಮೆ ಅನಂತ ಕಾಯುವ ಸ್ಥಿತಿಗೆ ಬೀಳಲು ಕಾರಣವಾಗುತ್ತಿದ್ದ ದೋಷವನ್ನು ನಾವು ತುರ್ತಾಗಿ ಸರಿಪಡಿಸಿದ್ದೇವೆ."
-  },
+  "칸나다어": {"key": "kn", "devnote": "ಡೇಟಾಬೇಸ್ ದೋಷವನ್ನು ಸರಿಪಡಿಸಲಾಗಿದೆ."},
   "크로아티아어 –": {
     "key": "hr",
-    "devnote":
-        "Hitno smo ispravili grešku koja je povremeno uzrokovala da aplikacija prilikom pokretanja upadne u stanje beskonačnog čekanja."
+    "devnote": "Ispravljena je greška u bazi podataka."
   },
-  "크메르어": {
-    "key": "km",
-    "devnote":
-        "យើងបានជួសជុលកំហុសជាបន្ទាន់មួយដែលបណ្តាលឱ្យកម្មវិធីធ្លាក់ចូលទៅក្នុងស្ថានភាពរង់ចាំគ្មានកំណត់នៅពេលដាក់ឱ្យដំណើរការ។"
-  },
-  "키르기스어": {
-    "key": "ky",
-    "devnote":
-        "Колдонмо ишке киргизилгенде кээде чексиз күтүү абалына түшүп калышына алып келген катаны шашылыш түрдө оңдодубуз."
-  },
-  "타밀어": {
-    "key": "ta",
-    "devnote":
-        "செயலியைத் தொடங்கும்போது, ​​அது அவ்வப்போது முடிவில்லாத காத்திருப்பு நிலைக்குச் செல்லக் காரணமாக இருந்த ஒரு பிழையை நாங்கள் அவசரமாகச் சரிசெய்துள்ளோம்."
-  },
-  "태국어": {
-    "key": "th",
-    "devnote":
-        "เราได้แก้ไขข้อผิดพลาดอย่างเร่งด่วนที่บางครั้งทำให้แอปเข้าสู่สถานะรออย่างไม่มีที่สิ้นสุดเมื่อเปิดใช้งาน"
-  },
-  "터키어": {
-    "key": "tr",
-    "devnote":
-        "Uygulamanın başlatıldığında zaman zaman sonsuz bekleme durumuna düşmesine neden olan bir hatayı acilen düzelttik."
-  },
-  "텔루구어": {
-    "key": "te",
-    "devnote":
-        "యాప్‌ను ప్రారంభించినప్పుడు అది అప్పుడప్పుడు అనంతమైన నిరీక్షణ స్థితిలోకి వెళ్ళడానికి కారణమవుతున్న ఒక బగ్‌ను మేము అత్యవసరంగా సరిచేశాము."
-  },
-  "펀잡어": {
-    "key": "pa",
-    "devnote":
-        "ਅਸੀਂ ਤੁਰੰਤ ਇੱਕ ਬੱਗ ਨੂੰ ਠੀਕ ਕਰ ਦਿੱਤਾ ਹੈ ਜਿਸ ਕਾਰਨ ਐਪ ਕਦੇ-ਕਦੇ ਲਾਂਚ ਹੋਣ 'ਤੇ ਅਨੰਤ ਉਡੀਕ ਦੀ ਸਥਿਤੀ ਵਿੱਚ ਆ ਜਾਂਦੀ ਸੀ।"
-  },
-  "페르시아어": {
-    "key": "fa",
-    "devnote":
-        "ما فوراً اشکالی را برطرف کردیم که گاهی اوقات باعث می‌شد برنامه هنگام اجرا در حالت انتظار بی‌نهایت قرار بگیرد."
-  },
+  "크메르어": {"key": "km", "devnote": "បានជួសជុលកំហុសមូលដ្ឋានទិន្នន័យ។"},
+  "키르기스어": {"key": "ky", "devnote": "Маалымат базасынын катасы оңдолду."},
+  "타밀어": {"key": "ta", "devnote": "தரவுத்தளப் பிழை சரிசெய்யப்பட்டது."},
+  "태국어": {"key": "th", "devnote": "แก้ไขข้อผิดพลาดของฐานข้อมูลแล้ว"},
+  "터키어": {"key": "tr", "devnote": "Veritabanı hatası düzeltildi."},
+  "텔루구어": {"key": "te", "devnote": "డేటాబేస్ లోపాన్ని సరిదిద్దడం జరిగింది."},
+  "펀잡어": {"key": "pa", "devnote": "ਇੱਕ ਡਾਟਾਬੇਸ ਗਲਤੀ ਠੀਕ ਕੀਤੀ ਗਈ।"},
+  "페르시아어": {"key": "fa", "devnote": "خطای پایگاه داده برطرف شد."},
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote":
-        "Corrigimos com urgência um erro que ocasionalmente fazia com que o aplicativo entrasse em um estado de espera infinita ao ser iniciado."
+    "devnote": "Corrigido um erro no banco de dados."
   },
-  "폴란드어": {
-    "key": "pl",
-    "devnote":
-        "Pilnie naprawiliśmy błąd, który czasami powodował, że aplikacja po uruchomieniu przechodziła w stan nieskończonego oczekiwania."
-  },
+  "폴란드어": {"key": "pl", "devnote": "Naprawiono błąd bazy danych."},
   "프랑스어": {
     "key": "fr",
-    "devnote":
-        "Nous avons corrigé en urgence un bug qui provoquait parfois le blocage de l'application dans un état d'attente infini lors de son lancement."
+    "devnote": "Correction d'une erreur de base de données."
   },
-  "핀란드어": {
-    "key": "fi",
-    "devnote":
-        "Olemme kiireellisesti korjanneet virheen, joka toisinaan aiheutti sovelluksen ajautumisen loputtomaan odotustilaan käynnistyksen yhteydessä."
-  },
-  "필리핀어": {
-    "key": "fil",
-    "devnote":
-        "Agad naming inayos ang isang bug na paminsan-minsan ay nagiging sanhi ng paghihintay ng app nang walang katapusan kapag inilunsad."
-  },
-  "헝가리어": {
-    "key": "hu",
-    "devnote":
-        "Sürgősen kijavítottunk egy hibát, amely miatt az alkalmazás időnként végtelen várakozó állapotba került indításkor."
-  },
-  "히브리어": {
-    "key": "iw",
-    "devnote":
-        "תיקנו בדחיפות באג שגרם מדי פעם לאפליקציה להיכנס למצב המתנה אינסופי בעת הפעלתה."
-  },
-  "힌디어": {
-    "key": "hi",
-    "devnote":
-        "हमने उस बग को तुरंत ठीक कर दिया है जिसके कारण ऐप लॉन्च होने पर कभी-कभी अनंत प्रतीक्षा स्थिति में चला जाता था।"
-  }
+  "핀란드어": {"key": "fi", "devnote": "Korjattu tietokantavirhe."},
+  "필리핀어": {"key": "fil", "devnote": "Naayos ang isang error sa database."},
+  "헝가리어": {"key": "hu", "devnote": "Kijavítottunk egy adatbázis hibát."},
+  "히브리어": {"key": "iw", "devnote": "תוקנה שגיאה במסד הנתונים."},
+  "힌디어": {"key": "hi", "devnote": "डेटाबेस की त्रुटि ठीक कर दी गई है।"}
 }
