@@ -1,0 +1,688 @@
+[
+    {
+        "form": "될 하고",
+        "to": "뭘 하고",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "될 도",
+        "to": "뭘 도",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "마니나",
+        "to": "마나",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "주소 렁크",
+        "to": "주소 링크",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "깜뻑",
+        "to": "깜빡",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "경악에 친",
+        "to": "경악에 찬",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "없않았고",
+        "to": "않았고",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "원 소리",
+        "to": "뭔 소리",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "따히",
+        "to": "딱히",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "렇렇",
+        "to": "렇",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "살펐",
+        "to": "살폈",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "침대말",
+        "to": "침대맡",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "밀 무시",
+        "to": "말 무시",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "밀 그대로 ",
+        "to": "말 그대로",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "김탄",
+        "to": "감탄",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "일겠다",
+        "to": "알겠다",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "간혔",
+        "to": "갇혔",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "부탁드럽",
+        "to": "부탁드립",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "버덮다",
+        "to": "버텼다",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "들어기가려면",
+        "to": "들어가려면",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "들어기려면",
+        "to": "들어가려면",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "할 처자지가",
+        "to": "할 처지가",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "벌럴",
+        "to": "벌릴",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "현터",
+        "to": "헌터",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "저먹다",
+        "to": "처먹다",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "헌텅",
+        "to": "헌팅",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "나 한변만",
+        "to": "나 한번만",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "밀을 말자",
+        "to": "말을 말자",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "조죄다",
+        "to": "죄다",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "거량랑",
+        "to": "거랑",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "따리라 해",
+        "to": "따라 해",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "가절",
+        "to": "기절",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "신제 능력",
+        "to": "신체 능력",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": " 쥐봐",
+        "to": " 줘봐",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "스길",
+        "to": "스킬",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "닮풍",
+        "to": "닭똥",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "했으나까",
+        "to": "했으니까",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "어던지모르게",
+        "to": "어딘지모르게",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "기지고",
+        "to": "가지고",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "똑갈았다",
+        "to": "똑같았다",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "멈줬다",
+        "to": "멈췄다",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "들슘",
+        "to": "들숨",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "날슘",
+        "to": "날숨",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "술슐",
+        "to": "술술",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "있였",
+        "to": "있었",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "피지킬",
+        "to": "피지컬",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": " 포한 ",
+        "to": " 또한 ",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "선엔",
+        "to": "선언",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "학교 동장",
+        "to": "학교 동창",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "되지단",
+        "to": "되지만",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "탈성해야",
+        "to": "달성해야",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "배를 로얄",
+        "to": "배틀 로얄",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "같히고",
+        "to": "갇히고",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "불잠",
+        "to": "붙잡",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "아십지만",
+        "to": "아쉽지만",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": " 족각 ",
+        "to": " 즉각 ",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "급실거립",
+        "to": "굽실거립",
+        "expr": false,
+        "cmd": ""
+    },{
+        "form": "부지 화보",
+        "to": "부지 확보",
+        "expr": false,
+        "cmd": ""
+    },{
+        "form": "나하진말고",
+        "to": "나빠하진말고",
+        "expr": false,
+        "cmd": ""
+    },{
+        "form": "접이 나기",
+        "to": "겁이 나기",
+        "expr": false,
+        "cmd": ""
+    },{
+        "form": "아납니다",
+        "to": "아닙니다",
+        "expr": false,
+        "cmd": ""
+    },{
+        "form": "열어붙어",
+        "to": "얼어붙어",
+        "expr": false,
+        "cmd": ""
+    },{
+        "form": "필 먹고",
+        "to": "뭘 먹고",
+        "expr": false,
+        "cmd": ""
+    },{
+        "form": "화보해서",
+        "to": "확보해서",
+        "expr": false,
+        "cmd": ""
+    },{
+        "form": "젤끔질끔",
+        "to": "찔끔찔끔",
+        "expr": false,
+        "cmd": ""
+    },
+    {
+        "form": "눈치기 느린",
+        "expr": false,
+        "bcustom": false,
+        "cmd": "",
+        "to": "눈치가 느린",
+        "lang": ""
+    },
+    {
+        "form": "못하다기",
+        "expr": false,
+        "bcustom": false,
+        "cmd": "",
+        "to": "못하다가",
+        "lang": ""
+    },
+    {
+        "form": " 것가락",
+        "expr": false,
+        "bcustom": false,
+        "cmd": "",
+        "to": " 젓가락",
+        "lang": ""
+    },
+    {
+        "form": "반아야",
+        "expr": false,
+        "bcustom": false,
+        "to": "받아야",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": " 전다.",
+        "expr": false,
+        "bcustom": false,
+        "cmd": "",
+        "to": " 쩐다.",
+        "lang": ""
+    },
+    {
+        "form": "결끄럽긴",
+        "bcustom": false,
+        "expr": false,
+        "to": "껄끄럽긴",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "인기 전다",
+        "bcustom": false,
+        "expr": false,
+        "cmd": "",
+        "to": "인기 쩐다",
+        "lang": ""
+    },
+    {
+        "form": "그했을",
+        "bcustom": false,
+        "expr": false,
+        "cmd": "",
+        "to": "그랬을",
+        "lang": ""
+    },
+    {
+        "form": "반히 쳐",
+        "bcustom": false,
+        "expr": false,
+        "to": "빤히 쳐",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "베테링랑",
+        "bcustom": false,
+        "expr": false,
+        "to": "베테랑",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "핑장히",
+        "expr": false,
+        "bcustom": false,
+        "cmd": "",
+        "to": "굉장히",
+        "lang": ""
+    },
+    {
+        "form": "밀했다",
+        "bcustom": false,
+        "expr": false,
+        "cmd": "",
+        "to": "말했다",
+        "lang": ""
+    },
+    {
+        "form": "※ \\.+※",
+        "bcustom": false,
+        "expr": true,
+        "cmd": "",
+        "to": "",
+        "lang": ""
+    },
+    {
+        "form": "잡김",
+        "expr": false,
+        "bcustom": false,
+        "to": "잠김",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "당혔했던",
+        "bcustom": false,
+        "expr": false,
+        "to": "당했었던",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "점증",
+        "bcustom": false,
+        "expr": false,
+        "cmd": "",
+        "to": "검증",
+        "lang": ""
+    },
+    {
+        "form": "S00",
+        "expr": false,
+        "bcustom": false,
+        "to": "500",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "멸떨어진",
+        "expr": false,
+        "bcustom": false,
+        "cmd": "",
+        "to": "덜떨어진",
+        "lang": ""
+    },
+    {
+        "form": "보죠좌석",
+        "expr": false,
+        "bcustom": false,
+        "to": "보조좌석",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "뒤었단다",
+        "bcustom": false,
+        "expr": false,
+        "cmd": "",
+        "to": "튀었단다",
+        "lang": ""
+    },
+    {
+        "form": "다을",
+        "expr": false,
+        "bcustom": false,
+        "to": "다음",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "다을",
+        "expr": false,
+        "bcustom": false,
+        "cmd": "",
+        "to": "다음",
+        "lang": ""
+    },
+    {
+        "form": "잡김",
+        "bcustom": false,
+        "expr": false,
+        "to": "잠김",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "듭니까",
+        "expr": false,
+        "bcustom": false,
+        "to": "습니까",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "사랍",
+        "bcustom": false,
+        "expr": false,
+        "to": "사람",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "밀바닥",
+        "expr": false,
+        "bcustom": false,
+        "to": "밑바닥",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "제크인",
+        "bcustom": false,
+        "expr": false,
+        "to": "체크인",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "과견",
+        "bcustom": false,
+        "expr": false,
+        "to": "파견",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "당혔했던",
+        "expr": false,
+        "bcustom": false,
+        "to": "당했었던",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "전두복",
+        "expr": false,
+        "bcustom": false,
+        "to": "전투복",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "있였다",
+        "bcustom": false,
+        "expr": false,
+        "to": "있었다",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "보협",
+        "bcustom": false,
+        "expr": false,
+        "cmd": "",
+        "to": "보험",
+        "lang": ""
+    },
+    {
+        "form": "딸어",
+        "bcustom": false,
+        "expr": false,
+        "to": "말어",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "S백만",
+        "bcustom": false,
+        "expr": false,
+        "to": "5백만",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form": "밀바닥",
+        "bcustom": false,
+        "expr": false,
+        "cmd": "",
+        "to": "밑바닥",
+        "lang": ""
+    },
+    {
+        "form": "너회를",
+        "bcustom": false,
+        "expr": false,
+        "cmd": "",
+        "to": "너희를",
+        "lang": ""
+    },
+    {
+        "form": "점근",
+        "bcustom": false,
+        "expr": false,
+        "to": "접근",
+        "cmd": "",
+        "lang": ""
+    },
+    {
+        "form":"쫏",
+        "bcustom":false,
+        "expr":false,
+        "to":"쫓",
+        "cmd":"",
+        "lang":""
+    }
+]

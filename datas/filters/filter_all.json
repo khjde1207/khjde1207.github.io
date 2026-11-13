@@ -1,0 +1,136 @@
+[
+    {
+        "name": "filter multiple question marks",
+        "expr": true,
+        "filter": "\\?{1,}",
+        "to": "?",
+        "enable": true
+    },
+    {
+        "name": "filter ----",
+        "expr": true,
+        "filter": "-{2,}",
+        "to": "",
+        "enable": true
+    },
+    {
+        "name": "filter ===",
+        "expr": true,
+        "filter": "={2,}",
+        "to": "",
+        "enable": true
+    },
+    {
+        "name": "filter .....",
+        "expr": true,
+        "filter": "\\.{2,}|\\…{1,}",
+        "to": "",
+        "enable": true
+    },
+    {
+        "name": "filter ?!",
+        "expr": true,
+        "filter": "\\?{1,}!{1,}",
+        "to": "!",
+        "enable": true
+    },
+    {
+        "name": "filter !?",
+        "expr": true,
+        "filter": "!{1,}\\?{1,}",
+        "to": "!",
+        "enable": true
+    },
+    {
+        "name": "filter ?,!",
+        "expr": true,
+        "filter": "\"!\"|\"\\.\"|\"\\?\"|'!'|'\\?'|“\\.”|“!”|“\\?”|‘!’|‘\\?|\\[!\\]|\\[\\?\\]|\\[\\.\\]",
+        "to": "",
+        "enable": true
+    },
+    {
+        "name": "apostrophe filter",
+        "expr": true,
+        "filter": "[\\'|\\\"|“|”]",
+        "to": "",
+        "enable": true
+    },
+    {
+        "name": "special character repeat filter",
+        "expr": true,
+        "filter": "\\&{2,}|\\#{2,}|\\@{2,}|\\${2,}|~{2,}|\\*{2,}|\\[\\]|\\(\\)|\\{\\}",
+        "to": "",
+        "enable": true
+    },
+    {
+        "name": "http...",
+        "expr": true,
+        "filter": "h.{0,3}t.{0,3}t.{0,3}p.+",
+        "to": "",
+        "enable": true
+    },
+    {
+        "name": "~",
+        "expr": true,
+        "filter": "(~)[^(\\d+)]",
+        "to": " ",
+        "enable": true
+    },
+    {
+        "name": "Filter <, >",
+        "expr": true,
+        "filter": "\\<(.+)\\>",
+        "to": "$1",
+        "enable": true
+    },
+    {
+        "name": "Filter ....!!!",
+        "expr": true,
+        "filter": "\\.{1,}\\!{1,}",
+        "to": "",
+        "enable": true
+    },
+    {
+        "name": "Filter ----!!!!",
+        "expr": true,
+        "filter": "\\-{1,}\\!{1,}",
+        "to": "",
+        "enable": true
+    },
+    {
+        "name": "filter [ , ]",
+        "expr": true,
+        "filter": "\\[|\\]",
+        "to": "",
+        "enable": true
+    },
+    {
+        "name": "filter (......) Parenthesis",
+        "expr": true,
+        "filter": "\\(.+?\\)",
+        "to": "",
+        "enable": true
+    },
+    {
+        "name": "Special character filter",
+        "expr": true,
+        "filter": "[♥♣♠◀▶♪♫♬○●☆★△▲▽▼→←↑↓↗↖↘↙※◯*]",
+        "to": "",
+        "enable": true
+    },
+    {
+        "name": "semicolon",
+        "expr": false,
+        "filter": ";",
+        "to": "",
+        "enable": true
+    },
+    {
+        "filter": "(lv\\.)|(LV\\.)|(LV {0,}:)|(lv {0,}:)|(Lv\\.)|(Lv {0,}:)",
+        "enable": true,
+        "name": "Level",
+        "expr": true,
+        "to": "Level",
+        "totr": true
+    }
+]
