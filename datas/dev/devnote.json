@@ -1,95 +1,110 @@
- {
-  "영어(미국)": {"key": "en", "devnote": "Fixed a database error."},
-  "한국어": {"key": "ko", "devnote": "데이터베이스 오류를 수정 하였습니다."},
-  "갈리시아어": {"key": "gl", "devnote": "Corrixiuse un erro na base de datos."},
-  "구자라트어": {"key": "gu", "devnote": "ડેટાબેઝ ભૂલ સુધારી."},
-  "그리스어": {"key": "el", "devnote": "Διορθώθηκε ένα σφάλμα βάσης δεδομένων."},
-  "네덜란드어": {"key": "nl", "devnote": "Een databasefout is verholpen."},
-  "네팔어": {"key": "ne", "devnote": "डाटाबेस त्रुटि समाधान गरियो।"},
-  "노르웨이어": {"key": "no", "devnote": "Rettet en databasefeil."},
-  "덴마크어": {"key": "da", "devnote": "Rettede en databasefejl."},
-  "독일어": {"key": "de", "devnote": "Ein Datenbankfehler wurde behoben."},
-  "라오어": {"key": "lo", "devnote": "ແກ້ໄຂຂໍ້ຜິດພາດຂອງຖານຂໍ້ມູນແລ້ວ."},
-  "라트비아어": {"key": "lv", "devnote": "Novērsta datubāzes kļūda."},
-  "러시아어": {"key": "ru", "devnote": "Исправлена ​​ошибка базы данных."},
-  "루마니아어": {"key": "ro", "devnote": "S-a remediat o eroare în baza de date."},
-  "리투아니아어": {"key": "lt", "devnote": "Ištaisyta duomenų bazės klaida."},
-  "마라티어": {"key": "mr", "devnote": "डेटाबेसमधील त्रुटी दुरुस्त केली."},
-  "마케도니아어": {
-    "key": "mk",
-    "devnote": "Поправена е грешка во базата на податоци."
+{
+  "영어(미국)": {
+    "key": "en",
+    "devnote": "- Added widgets.\n- Open and switch between multiple files in tabs.\n- Added storage for easier access to Google Drive files.\n\nSee the user guide automatically added to My Library for details."
   },
-  "말라얄람어": {"key": "ml", "devnote": "ഒരു ഡാറ്റാബേസ് പിശക് പരിഹരിച്ചു."},
-  "말레이어": {"key": "ms", "devnote": "Ralat pangkalan data telah dibetulkan."},
-  "몽골어": {"key": "mn", "devnote": "Өгөгдлийн сангийн алдааг зассан."},
-  "바스크어": {"key": "eu", "devnote": "Datu-baseko errore bat konpondu da."},
-  "버마어": {"key": "my", "devnote": "ဒေတာဘေ့စ်အမှားကို ပြင်ပြီးပါပြီ။"},
-  "베트남어": {"key": "vi", "devnote": "Đã sửa lỗi cơ sở dữ liệu."},
-  "벨라루스어": {"key": "be", "devnote": "Выпраўлена памылка ў базе дадзеных."},
-  "벵골어": {"key": "bn", "devnote": "ডাটাবেসের একটি ত্রুটি সংশোধন করা হয়েছে।"},
-  "불가리아어": {"key": "bg", "devnote": "Поправена е грешка в базата данни."},
-  "세르비아어": {"key": "sr", "devnote": "Исправљена је грешка у бази података."},
-  "스와힐리어": {"key": "sw", "devnote": "Imerekebisha hitilafu ya hifadhidata."},
-  "스웨덴어": {"key": "sv", "devnote": "Åtgärdade ett databasfel."},
-  "스페인어": {"key": "es", "devnote": "Se corrigió un error de la base de datos."},
-  "슬로바키아어": {"key": "sk", "devnote": "Opravená chyba v databáze."},
-  "슬로베니아어": {"key": "sl", "devnote": "Odpravljena napaka v bazi podatkov."},
-  "싱할라어": {"key": "si", "devnote": "දත්ත සමුදා දෝෂයක් නිවැරදි කරන ලදී."},
-  "아랍어": {"key": "ar", "devnote": "تم إصلاح خطأ في قاعدة البيانات."},
-  "아르메니아어": {"key": "hy", "devnote": "Ուղղվել է տվյալների բազայի սխալը։"},
-  "아이슬란드어": {"key": "is", "devnote": "Lagfærði villu í gagnagrunni."},
-  "아제르바이잔어": {
-    "key": "az",
-    "devnote": "Verilənlər bazasında baş verən xəta düzəldildi."
+  "한국어": {
+    "key": "ko",
+    "devnote": "- 위젯 기능을 추가했습니다.\n- 여러 파일을 탭으로 열고 전환할 수 있습니다.\n- 저장소 기능을 추가해 Google Drive의 파일에 더 쉽게 접근할 수 있습니다.\n\n자세한 내용은 ‘내 서재’에 자동으로 추가되는 사용 설명서를 참고해 주세요."
   },
-  "아프리칸스어": {"key": "af", "devnote": "Het 'n databasisfout reggestel."},
-  "알바니아어": {
-    "key": "sq",
-    "devnote": "U rregullua një gabim në bazën e të dhënave."
+  "네덜란드어": {
+    "key": "nl",
+    "devnote": "- Widgets toegevoegd.\n- Open meerdere bestanden in tabbladen en wissel ertussen.\n- Nieuwe opslagfunctie voor eenvoudigere toegang tot Google Drive-bestanden.\n\nZie de gebruikershandleiding die automatisch aan ‘Mijn bibliotheek’ wordt toegevoegd."
   },
-  "암하라어": {"key": "am", "devnote": "የውሂብ ጎታ ስህተት ተስተካክሏል።"},
-  "에스토니아어": {"key": "et", "devnote": "Parandatud andmebaasi viga."},
-  "우르두어": {"key": "ur", "devnote": "ڈیٹا بیس کی خرابی کو ٹھیک کر دیا گیا۔"},
-  "우크라이나어": {"key": "uk", "devnote": "Виправлено помилку бази даних."},
-  "이탈리아어": {"key": "it", "devnote": "Risolto un errore del database."},
-  "인도네시아어": {"key": "id", "devnote": "Kesalahan basis data telah diperbaiki."},
-  "일본어": {"key": "ja", "devnote": "データベースのエラーを修正しました。"},
-  "조지아어": {"key": "ka", "devnote": "გამოსწორდა მონაცემთა ბაზის შეცდომა."},
-  "줄루어": {"key": "zu", "devnote": "Kulungiswe iphutha lesizindalwazi."},
-  "중국어(간체)": {"key": "zh-CN", "devnote": "修复了一个数据库错误。"},
-  "중국어(번체)": {"key": "zh-TW", "devnote": "修復了一個資料庫錯誤。"},
-  "중국어(홍콩)": {"key": "zh-HK", "devnote": "修復了一個資料庫錯誤。"},
-  "체코어": {"key": "cs", "devnote": "Opravena chyba v databázi."},
-  "카자흐어": {"key": "kk", "devnote": "Дерекқор қатесі түзетілді."},
-  "카탈로니아어": {
-    "key": "ca",
-    "devnote": "S'ha corregit un error de la base de dades."
+  "노르웨이어": {
+    "key": "no",
+    "devnote": "- La til widgeter.\n- Åpne flere filer i faner og bytt mellom dem.\n- En ny lagringsfunksjon gir enklere tilgang til filer på Google Disk.\n\nSe brukerveiledningen som automatisk legges til i «Mitt bibliotek»."
   },
-  "칸나다어": {"key": "kn", "devnote": "ಡೇಟಾಬೇಸ್ ದೋಷವನ್ನು ಸರಿಪಡಿಸಲಾಗಿದೆ."},
-  "크로아티아어 –": {
-    "key": "hr",
-    "devnote": "Ispravljena je greška u bazi podataka."
+  "독일어": {
+    "key": "de",
+    "devnote": "- Widgets hinzugefügt.\n- Mehrere Dateien in Tabs öffnen und zwischen ihnen wechseln.\n- Neuer Speicherbereich für leichteren Zugriff auf Google-Drive-Dateien.\n\nWeitere Informationen findest du im Benutzerhandbuch, das automatisch zu „Meine Bibliothek“ hinzugefügt wird."
   },
-  "크메르어": {"key": "km", "devnote": "បានជួសជុលកំហុសមូលដ្ឋានទិន្នន័យ។"},
-  "키르기스어": {"key": "ky", "devnote": "Маалымат базасынын катасы оңдолду."},
-  "타밀어": {"key": "ta", "devnote": "தரவுத்தளப் பிழை சரிசெய்யப்பட்டது."},
-  "태국어": {"key": "th", "devnote": "แก้ไขข้อผิดพลาดของฐานข้อมูลแล้ว"},
-  "터키어": {"key": "tr", "devnote": "Veritabanı hatası düzeltildi."},
-  "텔루구어": {"key": "te", "devnote": "డేటాబేస్ లోపాన్ని సరిదిద్దడం జరిగింది."},
-  "펀잡어": {"key": "pa", "devnote": "ਇੱਕ ਡਾਟਾਬੇਸ ਗਲਤੀ ਠੀਕ ਕੀਤੀ ਗਈ।"},
-  "페르시아어": {"key": "fa", "devnote": "خطای پایگاه داده برطرف شد."},
+  "러시아어": {
+    "key": "ru",
+    "devnote": "- Добавлены виджеты.\n- Открывайте несколько файлов во вкладках и переключайтесь между ними.\n- Новый раздел хранилища упрощает доступ к файлам Google Диска.\n\nПодробнее в руководстве, которое автоматически добавляется в «Мою библиотеку»."
+  },
+  "루마니아어": {
+    "key": "ro",
+    "devnote": "- Am adăugat widgeturi.\n- Deschide mai multe fișiere în file și comută între ele.\n- Noua funcție de stocare facilitează accesul la fișierele Google Drive.\n\nConsultă ghidul adăugat automat la „Biblioteca mea”."
+  },
+  "말레이어": {
+    "key": "ms",
+    "devnote": "- Widget ditambah.\n- Buka beberapa fail dalam tab dan beralih antaranya.\n- Ciri storan baharu memudahkan akses kepada fail Google Drive.\n\nRujuk panduan pengguna yang ditambah secara automatik pada Pustaka Saya."
+  },
+  "몽골어": {
+    "key": "mn",
+    "devnote": "- Виджет нэмлээ.\n- Олон файлыг таб дээр нээж, хооронд нь шилжинэ.\n- Хадгалах сангийн шинэ функц Google Drive дахь файлд хандахад хялбар болгоно.\n\nДэлгэрэнгүйг «Миний сан»-д автоматаар нэмэгдэх хэрэглэгчийн гарын авлагаас үзээрэй."
+  },
+  "베트남어": {
+    "key": "vi",
+    "devnote": "- Đã thêm tiện ích.\n- Mở nhiều tệp trong các thẻ và chuyển đổi giữa chúng.\n- Tính năng lưu trữ mới giúp truy cập tệp Google Drive dễ hơn.\n\nXem hướng dẫn sử dụng được tự động thêm vào Thư viện của tôi."
+  },
+  "스페인어": {
+    "key": "es",
+    "devnote": "- Añadimos widgets.\n- Abre varios archivos en pestañas y cambia entre ellos.\n- Añadimos una función de almacenamiento para acceder más fácilmente a los archivos de Google Drive.\n\nConsulta la guía de usuario que se añade automáticamente a «Mi biblioteca»."
+  },
+  "아랍어": {
+    "key": "ar",
+    "devnote": "- أُضيفت أدوات مصغّرة.\n- افتح عدة ملفات في علامات تبويب وتنقّل بينها.\n- تُسهّل ميزة التخزين الجديدة الوصول إلى ملفات Google Drive.\n\nللمزيد، راجع دليل المستخدم الذي يُضاف تلقائيًا إلى «مكتبتي»."
+  },
+  "우크라이나어": {
+    "key": "uk",
+    "devnote": "- Додано віджети.\n- Відкривайте кілька файлів у вкладках і перемикайтеся між ними.\n- Нова функція сховища полегшує доступ до файлів на Google Диску.\n\nДокладніше в посібнику, який автоматично додається до «Моєї бібліотеки»."
+  },
+  "이탈리아어": {
+    "key": "it",
+    "devnote": "- Aggiunti i widget.\n- Apri più file in schede e passa dall’uno all’altro.\n- Una nuova funzione di archiviazione semplifica l’accesso ai file di Google Drive.\n\nConsulta la guida utente aggiunta automaticamente a «La mia libreria»."
+  },
+  "인도네시아어": {
+    "key": "id",
+    "devnote": "- Menambahkan widget.\n- Buka beberapa berkas dalam tab dan beralih di antaranya.\n- Fitur penyimpanan baru memudahkan akses ke berkas Google Drive.\n\nLihat panduan pengguna yang otomatis ditambahkan ke Perpustakaan Saya."
+  },
+  "일본어": {
+    "key": "ja",
+    "devnote": "- ウィジェットを追加しました。\n- 複数のファイルをタブで開き、切り替えられるようになりました。\n- ストレージ機能を追加し、Google Driveのファイルにアクセスしやすくなりました。\n\n詳しくは「マイライブラリ」に自動で追加されるユーザーガイドをご覧ください。"
+  },
+  "중국어(간체)": {
+    "key": "zh-CN",
+    "devnote": "- 新增小组件。\n- 支持在多个标签页中打开文件并切换。\n- 新增存储功能，更方便地访问 Google 云端硬盘中的文件。\n\n详情请参阅自动添加到“我的书架”的使用说明。"
+  },
+  "중국어(번체)": {
+    "key": "zh-TW",
+    "devnote": "- 新增小工具。\n- 可在多個分頁開啟檔案並切換。\n- 新增儲存空間功能，讓您更容易存取 Google 雲端硬碟檔案。\n\n詳情請參閱自動加入「我的書庫」的使用指南。"
+  },
+  "중국어(홍콩)": {
+    "key": "zh-HK",
+    "devnote": "- 新增小工具。\n- 可在多個分頁開啟檔案並切換。\n- 新增儲存空間功能，方便存取 Google 雲端硬碟檔案。\n\n詳情請參閱自動加入「我的書庫」的使用指南。"
+  },
+  "태국어": {
+    "key": "th",
+    "devnote": "- เพิ่มวิดเจ็ตแล้ว\n- เปิดหลายไฟล์ในแท็บและสลับไปมาได้\n- เพิ่มพื้นที่จัดเก็บเพื่อให้เข้าถึงไฟล์ Google Drive ได้ง่ายขึ้น\n\nดูรายละเอียดในคู่มือที่เพิ่มลงในคลังของฉันโดยอัตโนมัติ"
+  },
+  "터키어": {
+    "key": "tr",
+    "devnote": "- Widget’lar eklendi.\n- Birden çok dosyayı sekmelerde açın ve aralarında geçiş yapın.\n- Yeni depolama özelliği Google Drive dosyalarına erişimi kolaylaştırıyor.\n\nAyrıntılar için Kitaplığım’a otomatik eklenen kullanıcı kılavuzuna bakın."
+  },
+  "페르시아어": {
+    "key": "fa",
+    "devnote": "- ابزارک‌ها اضافه شدند.\n- چند فایل را در زبانه‌ها باز کنید و بین آن‌ها جابه‌جا شوید.\n- قابلیت جدید فضای ذخیره‌سازی دسترسی به فایل‌های Google Drive را آسان‌تر می‌کند.\n\nجزئیات در راهنمای کاربر است که خودکار به «کتابخانهٔ من» اضافه می‌شود."
+  },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "Corrigido um erro no banco de dados."
+    "devnote": "- Adicionamos widgets.\n- Abra vários arquivos em abas e alterne entre eles.\n- O novo recurso de armazenamento facilita o acesso aos arquivos do Google Drive.\n\nConsulte o guia do usuário adicionado automaticamente à Minha Biblioteca."
   },
-  "폴란드어": {"key": "pl", "devnote": "Naprawiono błąd bazy danych."},
+  "폴란드어": {
+    "key": "pl",
+    "devnote": "- Dodano widżety.\n- Otwieraj wiele plików w kartach i przełączaj się między nimi.\n- Nowa funkcja pamięci ułatwia dostęp do plików na Dysku Google.\n\nSzczegóły znajdziesz w instrukcji dodawanej automatycznie do sekcji „Moja biblioteka”."
+  },
   "프랑스어": {
     "key": "fr",
-    "devnote": "Correction d'une erreur de base de données."
+    "devnote": "- Ajout de widgets.\n- Ouvrez plusieurs fichiers dans des onglets et passez de l’un à l’autre.\n- Une fonction de stockage facilite l’accès aux fichiers Google Drive.\n\nConsultez le guide ajouté automatiquement à « Ma bibliothèque »."
   },
-  "핀란드어": {"key": "fi", "devnote": "Korjattu tietokantavirhe."},
-  "필리핀어": {"key": "fil", "devnote": "Naayos ang isang error sa database."},
-  "헝가리어": {"key": "hu", "devnote": "Kijavítottunk egy adatbázis hibát."},
-  "히브리어": {"key": "iw", "devnote": "תוקנה שגיאה במסד הנתונים."},
-  "힌디어": {"key": "hi", "devnote": "डेटाबेस की त्रुटि ठीक कर दी गई है।"}
+  "필리핀어": {
+    "key": "fil",
+    "devnote": "- Nagdagdag ng mga widget.\n- Magbukas ng maraming file sa mga tab at lumipat sa pagitan ng mga ito.\n- Pinadadali ng bagong storage ang pag-access sa mga file sa Google Drive.\n\nTingnan ang gabay na awtomatikong idinaragdag sa Aking Library."
+  },
+  "힌디어": {
+    "key": "hi",
+    "devnote": "- विजेट जोड़े गए।\n- कई फ़ाइलें टैब में खोलें और उनके बीच स्विच करें।\n- नई स्टोरेज सुविधा से Google Drive की फ़ाइलें आसानी से खोलें।\n\nविवरण के लिए मेरी लाइब्रेरी में अपने आप जुड़ने वाली उपयोगकर्ता गाइड देखें।"
+  }
 }
