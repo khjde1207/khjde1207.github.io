@@ -38,25 +38,25 @@ GitHub Pages는 앱을 여는 진입점이다. 앱으로 전달되는 주소는 
 
 `2kg`, `30 mg`처럼 숫자가 붙은 단위도 치환한다. `package`, `img`처럼 영문 단어 안에 포함된 문자열은 유지한다.
 
-```python
-import base64
-import json
-from urllib.parse import parse_qs, urlencode, urlsplit
+   ```python
+   import base64
+   import json
+   from urllib.parse import parse_qs, urlencode, urlsplit
 
-payload = {
-    "t": "f",
-    "d": [
-        {"n": "kg", "e": True, "f": r"(?<![A-Za-z_])kg(?![A-Za-z_0-9])",
-         "t": "킬로그람", "g": ""},
-        {"n": "mg", "e": True, "f": r"(?<![A-Za-z_])mg(?![A-Za-z_0-9])",
-         "t": "밀리 그람", "g": ""},
-    ],
-}
-filter_json = json.dumps(payload, ensure_ascii=False, separators=(",", ":"))
-args = base64.b64encode(filter_json.encode("utf-8")).decode("ascii")
-url = "https://khjde1207.github.io/deeplink/?" + urlencode({"args": args})
+   payload = {
+       "t": "f",
+       "d": [
+           {"n": "kg", "e": True, "f": r"(?<![A-Za-z_])kg(?![A-Za-z_0-9])",
+            "t": "킬로그람", "g": ""},
+           {"n": "mg", "e": True, "f": r"(?<![A-Za-z_])mg(?![A-Za-z_0-9])",
+            "t": "밀리 그람", "g": ""},
+       ],
+   }
+   filter_json = json.dumps(payload, ensure_ascii=False, separators=(",", ":"))
+   args = base64.b64encode(filter_json.encode("utf-8")).decode("ascii")
+   url = "https://khjde1207.github.io/deeplink/?" + urlencode({"args": args})
 
-decoded_args = parse_qs(urlsplit(url).query)["args"][0]
-assert json.loads(base64.b64decode(decoded_args, validate=True)) == payload
-print(url)
-```
+   decoded_args = parse_qs(urlsplit(url).query)["args"][0]
+   assert json.loads(base64.b64decode(decoded_args, validate=True)) == payload
+   print(url)
+   ```
