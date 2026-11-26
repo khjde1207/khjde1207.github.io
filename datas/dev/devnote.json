@@ -1,110 +1,110 @@
 {
   "영어(미국)": {
     "key": "en",
-    "devnote": "- Added widgets.\n- Open and switch between multiple files in tabs.\n- Added storage for easier access to Google Drive files.\n\nSee the user guide automatically added to My Library for details."
+    "devnote": "- Fixed an error in text size calculation.\n- Added a horizontal drag option for turning pages.\n- Added widgets.\n- Open and switch between multiple files in tabs.\n- Added storage for easier access to Google Drive files.\n\nSee the user guide automatically added to My Library for details."
   },
   "한국어": {
     "key": "ko",
-    "devnote": "- 위젯 기능을 추가했습니다.\n- 여러 파일을 탭으로 열고 전환할 수 있습니다.\n- 저장소 기능을 추가해 Google Drive의 파일에 더 쉽게 접근할 수 있습니다.\n\n자세한 내용은 ‘내 서재’에 자동으로 추가되는 사용 설명서를 참고해 주세요."
+    "devnote": "- 글자 크기 계산 오류 수정\n- 페이지 넘김 방식에 수평 드래그 옵션 추가\n- 위젯 기능을 추가했습니다.\n- 여러 파일을 탭으로 열고 전환할 수 있습니다.\n- 저장소 기능을 추가해 Google Drive의 파일에 더 쉽게 접근할 수 있습니다.\n\n자세한 내용은 ‘내 서재’에 자동으로 추가되는 사용 설명서를 참고해 주세요."
   },
   "네덜란드어": {
     "key": "nl",
-    "devnote": "- Widgets toegevoegd.\n- Open meerdere bestanden in tabbladen en wissel ertussen.\n- Nieuwe opslagfunctie voor eenvoudigere toegang tot Google Drive-bestanden.\n\nZie de gebruikershandleiding die automatisch aan ‘Mijn bibliotheek’ wordt toegevoegd."
+    "devnote": "- Een fout bij het berekenen van de tekstgrootte opgelost.\n- Horizontaal slepen toegevoegd als optie om pagina’s om te slaan.\n- Widgets toegevoegd.\n- Open meerdere bestanden in tabbladen en wissel ertussen.\n- Nieuwe opslagfunctie voor eenvoudigere toegang tot Google Drive-bestanden.\n\nZie de gebruikershandleiding die automatisch aan ‘Mijn bibliotheek’ wordt toegevoegd."
   },
   "노르웨이어": {
     "key": "no",
-    "devnote": "- La til widgeter.\n- Åpne flere filer i faner og bytt mellom dem.\n- En ny lagringsfunksjon gir enklere tilgang til filer på Google Disk.\n\nSe brukerveiledningen som automatisk legges til i «Mitt bibliotek»."
+    "devnote": "- Rettet en feil i beregningen av tekststørrelse.\n- La til horisontal draing som alternativ for å bla.\n- La til widgeter.\n- Åpne flere filer i faner og bytt mellom dem.\n- En ny lagringsfunksjon gir enklere tilgang til filer på Google Disk.\n\nSe brukerveiledningen som automatisk legges til i «Mitt bibliotek»."
   },
   "독일어": {
     "key": "de",
-    "devnote": "- Widgets hinzugefügt.\n- Mehrere Dateien in Tabs öffnen und zwischen ihnen wechseln.\n- Neuer Speicherbereich für leichteren Zugriff auf Google-Drive-Dateien.\n\nWeitere Informationen findest du im Benutzerhandbuch, das automatisch zu „Meine Bibliothek“ hinzugefügt wird."
+    "devnote": "- Fehler bei der Berechnung der Textgröße behoben.\n- Horizontales Ziehen als Option zum Umblättern hinzugefügt.\n- Widgets hinzugefügt.\n- Mehrere Dateien in Tabs öffnen und zwischen ihnen wechseln.\n- Neuer Speicherbereich für leichteren Zugriff auf Google-Drive-Dateien.\n\nWeitere Informationen findest du im Benutzerhandbuch, das automatisch zu „Meine Bibliothek“ hinzugefügt wird."
   },
   "러시아어": {
     "key": "ru",
-    "devnote": "- Добавлены виджеты.\n- Открывайте несколько файлов во вкладках и переключайтесь между ними.\n- Новый раздел хранилища упрощает доступ к файлам Google Диска.\n\nПодробнее в руководстве, которое автоматически добавляется в «Мою библиотеку»."
+    "devnote": "- Исправлена ошибка расчёта размера текста.\n- Добавлена возможность перелистывать страницы горизонтальным перетаскиванием.\n- Добавлены виджеты.\n- Открывайте несколько файлов во вкладках и переключайтесь между ними.\n- Новый раздел хранилища упрощает доступ к файлам Google Диска.\n\nПодробнее в руководстве, которое автоматически добавляется в «Мою библиотеку»."
   },
   "루마니아어": {
     "key": "ro",
-    "devnote": "- Am adăugat widgeturi.\n- Deschide mai multe fișiere în file și comută între ele.\n- Noua funcție de stocare facilitează accesul la fișierele Google Drive.\n\nConsultă ghidul adăugat automat la „Biblioteca mea”."
+    "devnote": "- Am corectat o eroare la calcularea dimensiunii textului.\n- Am adăugat opțiunea de glisare orizontală pentru a întoarce paginile.\n- Am adăugat widgeturi.\n- Deschide mai multe fișiere în file și comută între ele.\n- Noua funcție de stocare facilitează accesul la fișierele Google Drive.\n\nConsultă ghidul adăugat automat la „Biblioteca mea”."
   },
   "말레이어": {
     "key": "ms",
-    "devnote": "- Widget ditambah.\n- Buka beberapa fail dalam tab dan beralih antaranya.\n- Ciri storan baharu memudahkan akses kepada fail Google Drive.\n\nRujuk panduan pengguna yang ditambah secara automatik pada Pustaka Saya."
+    "devnote": "- Membetulkan ralat pengiraan saiz teks.\n- Menambah pilihan seret mendatar untuk menukar halaman.\n- Widget ditambah.\n- Buka beberapa fail dalam tab dan beralih antaranya.\n- Ciri storan baharu memudahkan akses kepada fail Google Drive.\n\nRujuk panduan pengguna yang ditambah secara automatik pada Pustaka Saya."
   },
   "몽골어": {
     "key": "mn",
-    "devnote": "- Виджет нэмлээ.\n- Олон файлыг таб дээр нээж, хооронд нь шилжинэ.\n- Хадгалах сангийн шинэ функц Google Drive дахь файлд хандахад хялбар болгоно.\n\nДэлгэрэнгүйг «Миний сан»-д автоматаар нэмэгдэх хэрэглэгчийн гарын авлагаас үзээрэй."
+    "devnote": "- Текстийн хэмжээг тооцоолох алдааг заслаа.\n- Хуудас эргүүлэхэд хөндлөн чирэх сонголт нэмлээ.\n- Виджет нэмлээ.\n- Олон файлыг таб дээр нээж, хооронд нь шилжинэ.\n- Хадгалах сангийн шинэ функц Google Drive дахь файлд хандахад хялбар болгоно.\n\nДэлгэрэнгүйг «Миний сан»-д автоматаар нэмэгдэх хэрэглэгчийн гарын авлагаас үзээрэй."
   },
   "베트남어": {
     "key": "vi",
-    "devnote": "- Đã thêm tiện ích.\n- Mở nhiều tệp trong các thẻ và chuyển đổi giữa chúng.\n- Tính năng lưu trữ mới giúp truy cập tệp Google Drive dễ hơn.\n\nXem hướng dẫn sử dụng được tự động thêm vào Thư viện của tôi."
+    "devnote": "- Đã sửa lỗi tính kích thước chữ.\n- Đã thêm tùy chọn kéo ngang để lật trang.\n- Đã thêm tiện ích.\n- Mở nhiều tệp trong các thẻ và chuyển đổi giữa chúng.\n- Tính năng lưu trữ mới giúp truy cập tệp Google Drive dễ hơn.\n\nXem hướng dẫn sử dụng được tự động thêm vào Thư viện của tôi."
   },
   "스페인어": {
     "key": "es",
-    "devnote": "- Añadimos widgets.\n- Abre varios archivos en pestañas y cambia entre ellos.\n- Añadimos una función de almacenamiento para acceder más fácilmente a los archivos de Google Drive.\n\nConsulta la guía de usuario que se añade automáticamente a «Mi biblioteca»."
+    "devnote": "- Se corrigió un error al calcular el tamaño del texto.\n- Se añadió la opción de arrastrar horizontalmente para pasar de página.\n- Añadimos widgets.\n- Abre varios archivos en pestañas y cambia entre ellos.\n- Añadimos una función de almacenamiento para acceder más fácilmente a los archivos de Google Drive.\n\nConsulta la guía de usuario que se añade automáticamente a «Mi biblioteca»."
   },
   "아랍어": {
     "key": "ar",
-    "devnote": "- أُضيفت أدوات مصغّرة.\n- افتح عدة ملفات في علامات تبويب وتنقّل بينها.\n- تُسهّل ميزة التخزين الجديدة الوصول إلى ملفات Google Drive.\n\nللمزيد، راجع دليل المستخدم الذي يُضاف تلقائيًا إلى «مكتبتي»."
+    "devnote": "- إصلاح خطأ في حساب حجم النص.\n- إضافة خيار السحب الأفقي لتقليب الصفحات.\n- أُضيفت أدوات مصغّرة.\n- افتح عدة ملفات في علامات تبويب وتنقّل بينها.\n- تُسهّل ميزة التخزين الجديدة الوصول إلى ملفات Google Drive.\n\nللمزيد، راجع دليل المستخدم الذي يُضاف تلقائيًا إلى «مكتبتي»."
   },
   "우크라이나어": {
     "key": "uk",
-    "devnote": "- Додано віджети.\n- Відкривайте кілька файлів у вкладках і перемикайтеся між ними.\n- Нова функція сховища полегшує доступ до файлів на Google Диску.\n\nДокладніше в посібнику, який автоматично додається до «Моєї бібліотеки»."
+    "devnote": "- Виправлено помилку розрахунку розміру тексту.\n- Додано можливість гортати сторінки горизонтальним перетягуванням.\n- Додано віджети.\n- Відкривайте кілька файлів у вкладках і перемикайтеся між ними.\n- Нова функція сховища полегшує доступ до файлів на Google Диску.\n\nДокладніше в посібнику, який автоматично додається до «Моєї бібліотеки»."
   },
   "이탈리아어": {
     "key": "it",
-    "devnote": "- Aggiunti i widget.\n- Apri più file in schede e passa dall’uno all’altro.\n- Una nuova funzione di archiviazione semplifica l’accesso ai file di Google Drive.\n\nConsulta la guida utente aggiunta automaticamente a «La mia libreria»."
+    "devnote": "- Corretto un errore nel calcolo delle dimensioni del testo.\n- Aggiunta l’opzione di trascinamento orizzontale per cambiare pagina.\n- Aggiunti i widget.\n- Apri più file in schede e passa dall’uno all’altro.\n- Una nuova funzione di archiviazione semplifica l’accesso ai file di Google Drive.\n\nConsulta la guida utente aggiunta automaticamente a «La mia libreria»."
   },
   "인도네시아어": {
     "key": "id",
-    "devnote": "- Menambahkan widget.\n- Buka beberapa berkas dalam tab dan beralih di antaranya.\n- Fitur penyimpanan baru memudahkan akses ke berkas Google Drive.\n\nLihat panduan pengguna yang otomatis ditambahkan ke Perpustakaan Saya."
+    "devnote": "- Memperbaiki kesalahan penghitungan ukuran teks.\n- Menambahkan opsi seret horizontal untuk berpindah halaman.\n- Menambahkan widget.\n- Buka beberapa berkas dalam tab dan beralih di antaranya.\n- Fitur penyimpanan baru memudahkan akses ke berkas Google Drive.\n\nLihat panduan pengguna yang otomatis ditambahkan ke Perpustakaan Saya."
   },
   "일본어": {
     "key": "ja",
-    "devnote": "- ウィジェットを追加しました。\n- 複数のファイルをタブで開き、切り替えられるようになりました。\n- ストレージ機能を追加し、Google Driveのファイルにアクセスしやすくなりました。\n\n詳しくは「マイライブラリ」に自動で追加されるユーザーガイドをご覧ください。"
+    "devnote": "- 文字サイズの計算エラーを修正しました。\n- ページめくりに横ドラッグのオプションを追加しました。\n- ウィジェットを追加しました。\n- 複数のファイルをタブで開き、切り替えられるようになりました。\n- ストレージ機能を追加し、Google Driveのファイルにアクセスしやすくなりました。\n\n詳しくは「マイライブラリ」に自動で追加されるユーザーガイドをご覧ください。"
   },
   "중국어(간체)": {
     "key": "zh-CN",
-    "devnote": "- 新增小组件。\n- 支持在多个标签页中打开文件并切换。\n- 新增存储功能，更方便地访问 Google 云端硬盘中的文件。\n\n详情请参阅自动添加到“我的书架”的使用说明。"
+    "devnote": "- 修复了文字大小计算错误。\n- 新增横向拖动翻页选项。\n- 新增小组件。\n- 支持在多个标签页中打开文件并切换。\n- 新增存储功能，更方便地访问 Google 云端硬盘中的文件。\n\n详情请参阅自动添加到“我的书架”的使用说明。"
   },
   "중국어(번체)": {
     "key": "zh-TW",
-    "devnote": "- 新增小工具。\n- 可在多個分頁開啟檔案並切換。\n- 新增儲存空間功能，讓您更容易存取 Google 雲端硬碟檔案。\n\n詳情請參閱自動加入「我的書庫」的使用指南。"
+    "devnote": "- 修正文字大小計算錯誤。\n- 新增水平拖曳翻頁選項。\n- 新增小工具。\n- 可在多個分頁開啟檔案並切換。\n- 新增儲存空間功能，讓您更容易存取 Google 雲端硬碟檔案。\n\n詳情請參閱自動加入「我的書庫」的使用指南。"
   },
   "중국어(홍콩)": {
     "key": "zh-HK",
-    "devnote": "- 新增小工具。\n- 可在多個分頁開啟檔案並切換。\n- 新增儲存空間功能，方便存取 Google 雲端硬碟檔案。\n\n詳情請參閱自動加入「我的書庫」的使用指南。"
+    "devnote": "- 修正文字大小計算錯誤。\n- 新增橫向拖曳翻頁選項。\n- 新增小工具。\n- 可在多個分頁開啟檔案並切換。\n- 新增儲存空間功能，方便存取 Google 雲端硬碟檔案。\n\n詳情請參閱自動加入「我的書庫」的使用指南。"
   },
   "태국어": {
     "key": "th",
-    "devnote": "- เพิ่มวิดเจ็ตแล้ว\n- เปิดหลายไฟล์ในแท็บและสลับไปมาได้\n- เพิ่มพื้นที่จัดเก็บเพื่อให้เข้าถึงไฟล์ Google Drive ได้ง่ายขึ้น\n\nดูรายละเอียดในคู่มือที่เพิ่มลงในคลังของฉันโดยอัตโนมัติ"
+    "devnote": "- แก้ไขข้อผิดพลาดในการคำนวณขนาดข้อความ\n- เพิ่มตัวเลือกการลากแนวนอนเพื่อเปลี่ยนหน้า\n- เพิ่มวิดเจ็ตแล้ว\n- เปิดหลายไฟล์ในแท็บและสลับไปมาได้\n- เพิ่มพื้นที่จัดเก็บเพื่อให้เข้าถึงไฟล์ Google Drive ได้ง่ายขึ้น\n\nดูรายละเอียดในคู่มือที่เพิ่มลงในคลังของฉันโดยอัตโนมัติ"
   },
   "터키어": {
     "key": "tr",
-    "devnote": "- Widget’lar eklendi.\n- Birden çok dosyayı sekmelerde açın ve aralarında geçiş yapın.\n- Yeni depolama özelliği Google Drive dosyalarına erişimi kolaylaştırıyor.\n\nAyrıntılar için Kitaplığım’a otomatik eklenen kullanıcı kılavuzuna bakın."
+    "devnote": "- Metin boyutu hesaplama hatası düzeltildi.\n- Sayfa çevirmek için yatay sürükleme seçeneği eklendi.\n- Widget’lar eklendi.\n- Birden çok dosyayı sekmelerde açın ve aralarında geçiş yapın.\n- Yeni depolama özelliği Google Drive dosyalarına erişimi kolaylaştırıyor.\n\nAyrıntılar için Kitaplığım’a otomatik eklenen kullanıcı kılavuzuna bakın."
   },
   "페르시아어": {
     "key": "fa",
-    "devnote": "- ابزارک‌ها اضافه شدند.\n- چند فایل را در زبانه‌ها باز کنید و بین آن‌ها جابه‌جا شوید.\n- قابلیت جدید فضای ذخیره‌سازی دسترسی به فایل‌های Google Drive را آسان‌تر می‌کند.\n\nجزئیات در راهنمای کاربر است که خودکار به «کتابخانهٔ من» اضافه می‌شود."
+    "devnote": "- خطای محاسبهٔ اندازهٔ متن برطرف شد.\n- گزینهٔ کشیدن افقی برای ورق زدن اضافه شد.\n- ابزارک‌ها اضافه شدند.\n- چند فایل را در زبانه‌ها باز کنید و بین آن‌ها جابه‌جا شوید.\n- قابلیت جدید فضای ذخیره‌سازی دسترسی به فایل‌های Google Drive را آسان‌تر می‌کند.\n\nجزئیات در راهنمای کاربر است که خودکار به «کتابخانهٔ من» اضافه می‌شود."
   },
   "포르투갈어(브라질)": {
     "key": "pt",
-    "devnote": "- Adicionamos widgets.\n- Abra vários arquivos em abas e alterne entre eles.\n- O novo recurso de armazenamento facilita o acesso aos arquivos do Google Drive.\n\nConsulte o guia do usuário adicionado automaticamente à Minha Biblioteca."
+    "devnote": "- Corrigido um erro no cálculo do tamanho do texto.\n- Adicionada a opção de arrastar na horizontal para virar páginas.\n- Adicionamos widgets.\n- Abra vários arquivos em abas e alterne entre eles.\n- O novo recurso de armazenamento facilita o acesso aos arquivos do Google Drive.\n\nConsulte o guia do usuário adicionado automaticamente à Minha Biblioteca."
   },
   "폴란드어": {
     "key": "pl",
-    "devnote": "- Dodano widżety.\n- Otwieraj wiele plików w kartach i przełączaj się między nimi.\n- Nowa funkcja pamięci ułatwia dostęp do plików na Dysku Google.\n\nSzczegóły znajdziesz w instrukcji dodawanej automatycznie do sekcji „Moja biblioteka”."
+    "devnote": "- Naprawiono błąd obliczania rozmiaru tekstu.\n- Dodano opcję poziomego przeciągania, aby przewracać strony.\n- Dodano widżety.\n- Otwieraj wiele plików w kartach i przełączaj się między nimi.\n- Nowa funkcja pamięci ułatwia dostęp do plików na Dysku Google.\n\nSzczegóły znajdziesz w instrukcji dodawanej automatycznie do sekcji „Moja biblioteka”."
   },
   "프랑스어": {
     "key": "fr",
-    "devnote": "- Ajout de widgets.\n- Ouvrez plusieurs fichiers dans des onglets et passez de l’un à l’autre.\n- Une fonction de stockage facilite l’accès aux fichiers Google Drive.\n\nConsultez le guide ajouté automatiquement à « Ma bibliothèque »."
+    "devnote": "- Correction d’une erreur de calcul de la taille du texte.\n- Ajout d’une option de glissement horizontal pour tourner les pages.\n- Ajout de widgets.\n- Ouvrez plusieurs fichiers dans des onglets et passez de l’un à l’autre.\n- Une fonction de stockage facilite l’accès aux fichiers Google Drive.\n\nConsultez le guide ajouté automatiquement à « Ma bibliothèque »."
   },
   "필리핀어": {
     "key": "fil",
-    "devnote": "- Nagdagdag ng mga widget.\n- Magbukas ng maraming file sa mga tab at lumipat sa pagitan ng mga ito.\n- Pinadadali ng bagong storage ang pag-access sa mga file sa Google Drive.\n\nTingnan ang gabay na awtomatikong idinaragdag sa Aking Library."
+    "devnote": "- Inayos ang error sa pagkalkula ng laki ng teksto.\n- Idinagdag ang opsyong mag-drag nang pahalang para maglipat ng pahina.\n- Nagdagdag ng mga widget.\n- Magbukas ng maraming file sa mga tab at lumipat sa pagitan ng mga ito.\n- Pinadadali ng bagong storage ang pag-access sa mga file sa Google Drive.\n\nTingnan ang gabay na awtomatikong idinaragdag sa Aking Library."
   },
   "힌디어": {
     "key": "hi",
-    "devnote": "- विजेट जोड़े गए।\n- कई फ़ाइलें टैब में खोलें और उनके बीच स्विच करें।\n- नई स्टोरेज सुविधा से Google Drive की फ़ाइलें आसानी से खोलें।\n\nविवरण के लिए मेरी लाइब्रेरी में अपने आप जुड़ने वाली उपयोगकर्ता गाइड देखें।"
+    "devnote": "- टेक्स्ट का आकार तय करने में होने वाली गड़बड़ी ठीक की।\n- पेज बदलने के लिए क्षैतिज रूप से खींचने का विकल्प जोड़ा।\n- विजेट जोड़े गए।\n- कई फ़ाइलें टैब में खोलें और उनके बीच स्विच करें।\n- नई स्टोरेज सुविधा से Google Drive की फ़ाइलें आसानी से खोलें।\n\nविवरण के लिए मेरी लाइब्रेरी में अपने आप जुड़ने वाली उपयोगकर्ता गाइड देखें।"
   }
 }
