@@ -438,6 +438,7 @@
   "상단 숨김": "Masquer en haut",
   "하단 숨김": "Masquer en bas",
   "재생/일시정지": "Lecture/pause",
+  "재생/정지": "Jouer / Arrêter",
   "동기화": "Synchroniser",
   "밝기 초기화": "Réinitialiser la luminosité",
   "밝기 조절": "Ajuster la luminosité",
@@ -1135,5 +1136,9 @@
   "직접 설정": "Personnalisé",
   "오디오 세션 조합이 잘못될 경우 TTS 재생이 안 되거나 오류가 발생할 수 있습니다.": "Des réglages audio incompatibles peuvent empêcher la lecture vocale ou provoquer des erreurs.",
   "이 플랫폼에서는 오디오 세션 설정을 사용할 수 없습니다.": "Les réglages de session audio sont indisponibles sur cette plateforme.",
-  "초기화": "Réinitialiser"
+  "초기화": "Réinitialiser",
+  "글자·아이콘 크기": "Taille du texte et des icônes",
+  "이전 읽기 위치로 돌아갈까요?": "Revenir à une position de lecture précédente ?",
+  "현재 읽기 위치 {before}를 다른 기기의 읽기 위치 {after}로 덮어쓸까요?": "Remplacer la position de lecture actuelle ({before}) par celle de l’autre appareil ({after}) ?",
+  "덮어쓰기": "Écraser"
 }

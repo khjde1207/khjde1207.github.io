@@ -438,6 +438,7 @@
   "상단 숨김": "Skjul øverst",
   "하단 숨김": "Skjul nederst",
   "재생/일시정지": "Spill av / pause",
+  "재생/정지": "Spill / Stopp",
   "동기화": "Synkroniser",
   "밝기 초기화": "Tilbakestill lysstyrken",
   "밝기 조절": "Juster lysstyrken",
@@ -1135,5 +1136,9 @@
   "직접 설정": "Tilpasset",
   "오디오 세션 조합이 잘못될 경우 TTS 재생이 안 되거나 오류가 발생할 수 있습니다.": "Inkompatible innstillinger for lydøkten kan hindre TTS-avspilling eller føre til feil.",
   "이 플랫폼에서는 오디오 세션 설정을 사용할 수 없습니다.": "Innstillinger for lydøkten er ikke tilgjengelige på denne plattformen.",
-  "초기화": "Tilbakestill"
+  "초기화": "Tilbakestill",
+  "글자·아이콘 크기": "Tekst- og ikonstørrelse",
+  "이전 읽기 위치로 돌아갈까요?": "Gå tilbake til en tidligere leseposisjon?",
+  "현재 읽기 위치 {before}를 다른 기기의 읽기 위치 {after}로 덮어쓸까요?": "Erstatte gjeldende leseposisjon ({before}) med posisjonen fra den andre enheten ({after})?",
+  "덮어쓰기": "Overskriv"
 }

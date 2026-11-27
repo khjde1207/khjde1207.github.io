@@ -438,6 +438,7 @@
   "상단 숨김": "Oben ausblenden",
   "하단 숨김": "Unten ausblenden",
   "재생/일시정지": "Abspielen/Pause",
+  "재생/정지": "Spielen / Stopp",
   "동기화": "Synchronisieren",
   "밝기 초기화": "Helligkeit zurücksetzen",
   "밝기 조절": "Helligkeit anpassen",
@@ -1135,5 +1136,9 @@
   "직접 설정": "Benutzerdefiniert",
   "오디오 세션 조합이 잘못될 경우 TTS 재생이 안 되거나 오류가 발생할 수 있습니다.": "Nicht kompatible Audiositzungseinstellungen können die TTS-Wiedergabe verhindern oder Fehler verursachen.",
   "이 플랫폼에서는 오디오 세션 설정을 사용할 수 없습니다.": "Audiositzungseinstellungen sind auf dieser Plattform nicht verfügbar.",
-  "초기화": "Zurücksetzen"
+  "초기화": "Zurücksetzen",
+  "글자·아이콘 크기": "Text- und Symbolgröße",
+  "이전 읽기 위치로 돌아갈까요?": "Zu einer früheren Leseposition zurückkehren?",
+  "현재 읽기 위치 {before}를 다른 기기의 읽기 위치 {after}로 덮어쓸까요?": "Aktuelle Leseposition ({before}) durch die Leseposition des anderen Geräts ({after}) ersetzen?",
+  "덮어쓰기": "Überschreiben"
 }

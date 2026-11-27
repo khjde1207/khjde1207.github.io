@@ -438,6 +438,7 @@
   "상단 숨김": "Üstü gizle",
   "하단 숨김": "Altı gizle",
   "재생/일시정지": "Oynat / duraklat",
+  "재생/정지": "Oynat / Durdur",
   "동기화": "Senkronizasyon",
   "밝기 초기화": "Parlaklığı sıfırla",
   "밝기 조절": "Parlaklığı ayarla",
@@ -1135,5 +1136,9 @@
   "직접 설정": "Özel",
   "오디오 세션 조합이 잘못될 경우 TTS 재생이 안 되거나 오류가 발생할 수 있습니다.": "Uyumsuz ses oturumu ayarları TTS oynatmayı engelleyebilir veya hatalara yol açabilir.",
   "이 플랫폼에서는 오디오 세션 설정을 사용할 수 없습니다.": "Bu platformda ses oturumu ayarları kullanılamaz.",
-  "초기화": "Sıfırla"
+  "초기화": "Sıfırla",
+  "글자·아이콘 크기": "Metin ve simge boyutu",
+  "이전 읽기 위치로 돌아갈까요?": "Önceki bir okuma konumuna dönülsün mü?",
+  "현재 읽기 위치 {before}를 다른 기기의 읽기 위치 {after}로 덮어쓸까요?": "Mevcut okuma konumu ({before}) diğer cihazdaki konumla ({after}) değiştirilsin mi?",
+  "덮어쓰기": "Üzerine yaz"
 }

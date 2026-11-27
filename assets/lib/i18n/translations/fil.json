@@ -438,6 +438,7 @@
   "상단 숨김": "Itago ang itaas",
   "하단 숨김": "Itago ang ibaba",
   "재생/일시정지": "I-play / i-pause",
+  "재생/정지": "Maglaro / Tumigil ka",
   "동기화": "I-sync",
   "밝기 초기화": "I-reset ang liwanag",
   "밝기 조절": "Ayusin ang liwanag",
@@ -1135,5 +1136,9 @@
   "직접 설정": "Pasadya",
   "오디오 세션 조합이 잘못될 경우 TTS 재생이 안 되거나 오류가 발생할 수 있습니다.": "Maaaring hindi tumugtog ang TTS o magkaroon ng error kung hindi tugma ang mga setting ng audio session.",
   "이 플랫폼에서는 오디오 세션 설정을 사용할 수 없습니다.": "Hindi available ang mga setting ng audio session sa platform na ito.",
-  "초기화": "I-reset"
+  "초기화": "I-reset",
+  "글자·아이콘 크기": "Laki ng teksto at mga icon",
+  "이전 읽기 위치로 돌아갈까요?": "Bumalik sa naunang posisyon sa pagbabasa?",
+  "현재 읽기 위치 {before}를 다른 기기의 읽기 위치 {after}로 덮어쓸까요?": "Palitan ang kasalukuyang posisyon sa pagbabasa ({before}) ng posisyon mula sa kabilang device ({after})?",
+  "덮어쓰기": "Palitan"
 }

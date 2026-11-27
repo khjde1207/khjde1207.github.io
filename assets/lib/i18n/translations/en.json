@@ -1,6 +1,7 @@
 {
   "테마를 동기화하는 다른 기기에서도 삭제됩니다.": "This theme will also be deleted from other devices that sync themes.",
   "현재 테마": "Current theme",
+  "글자·아이콘 크기": "Text and icon size",
   "위젯 설정": "Widget settings",
   "위젯 불투명도": "Widget opacity",
   "아이콘 및 글자색": "Icon and text color",
@@ -312,6 +313,7 @@
   "이미지 타입": "Image type",
   "일반": "Normal",
   "페이지 방향": "Page direction",
+  "터치로 넘기는 방향 반전": "Reverse tap page turns",
   "좌→우": "Left→right",
   "우→좌": "Right→left",
   "이미지 분할 방식": "Image splitting",
@@ -435,6 +437,7 @@
   "상단 숨김": "Hide top",
   "하단 숨김": "Hide bottom",
   "재생/일시정지": "Play / pause",
+  "재생/정지": "Play / Stop",
   "동기화": "Sync",
   "밝기 초기화": "Reset brightness",
   "밝기 조절": "Adjust brightness",
@@ -1135,5 +1138,8 @@
   "직접 설정": "Custom",
   "오디오 세션 조합이 잘못될 경우 TTS 재생이 안 되거나 오류가 발생할 수 있습니다.": "Incompatible audio session settings may prevent TTS playback or cause errors.",
   "이 플랫폼에서는 오디오 세션 설정을 사용할 수 없습니다.": "Audio session settings are unavailable on this platform.",
-  "초기화": "Reset"
+  "초기화": "Reset",
+  "이전 읽기 위치로 돌아갈까요?": "Return to an earlier reading position?",
+  "현재 읽기 위치 {before}를 다른 기기의 읽기 위치 {after}로 덮어쓸까요?": "Replace your current reading position ({before}) with the position from the other device ({after})?",
+  "덮어쓰기": "Overwrite"
 }

@@ -1,0 +1,242 @@
+<ar>
+- أضفنا إمكانية ضبط حجم النص والأيقونات في التطبيق من الإعدادات العامة.
+- أضفنا التشغيل/الإيقاف إلى إعدادات اللمس ووحدة التحكم.
+- أصبح بالإمكان إضافة مخازن بعيدة متنوعة إلى مكتبتي.
+- أصلحنا خطأ بدء TTS من الموضع السابق عند تغيير الموضع بعد إيقافه ثم إعادة تشغيله.
+- عدّلنا حجم أيقونات شريط أدوات القارئ.
+- أصلحنا أخطاء أخرى.
+</ar>
+
+<de-DE>
+- Die Größe von Text und Symbolen in der gesamten App lässt sich jetzt in den allgemeinen Einstellungen anpassen.
+- Wiedergabe/Stopp zu den Touch- und Controller-Einstellungen hinzugefügt.
+- Verschiedene Remote-Speicher können jetzt zu „Meine Bibliothek“ hinzugefügt werden.
+- Fehler behoben, bei dem TTS nach einem Positionswechsel und erneutem Start an der alten Position begann.
+- Symbolgröße in der Viewer-Werkzeugleiste angepasst.
+- Weitere Fehler behoben.
+</de-DE>
+
+<en-US>
+- Adjust text and icon sizes throughout the app in General settings.
+- Added play/stop to touch and controller settings.
+- Add various remote storage services to My Library.
+- Fixed TTS starting at the previous position after stopping, moving to another position, and playing again.
+- Adjusted viewer toolbar icon sizes.
+- Fixed other bugs.
+</en-US>
+
+<es-ES>
+- Ajusta el tamaño del texto y los iconos de toda la aplicación en los ajustes generales.
+- Se añadió reproducir/detener a los ajustes táctiles y del controlador.
+- Añade varios almacenamientos remotos a Mi biblioteca.
+- Se corrigió un error por el que TTS comenzaba en la posición anterior tras detenerse, cambiar de posición y volver a reproducir.
+- Se ajustó el tamaño de los iconos de la barra del visor.
+- Se corrigieron otros errores.
+</es-ES>
+
+<fa>
+- امکان تنظیم اندازه متن و آیکون‌ها در سراسر برنامه به تنظیمات عمومی اضافه شد.
+- پخش/توقف به تنظیمات لمس و کنترلر اضافه شد.
+- اکنون می‌توانید فضای ذخیره‌سازی راه دور مختلف را به کتابخانه من اضافه کنید.
+- خطای شروع TTS از موقعیت قبلی پس از توقف، جابه‌جایی و پخش مجدد برطرف شد.
+- اندازه آیکون‌های نوار ابزار نمایشگر تنظیم شد.
+- خطاهای دیگر برطرف شدند.
+</fa>
+
+<fil>
+- Isaayos ang laki ng teksto at mga icon sa buong app sa Pangkalahatang setting.
+- Idinagdag ang play/stop sa mga setting ng touch at controller.
+- Magdagdag ng iba't ibang remote storage sa Aking Library.
+- Inayos ang pagsisimula ng TTS sa dating posisyon matapos ihinto, lumipat ng posisyon, at mag-play muli.
+- Inayos ang laki ng mga icon sa toolbar ng viewer.
+- Inayos ang iba pang bug.
+</fil>
+
+<fr-FR>
+- Réglez la taille du texte et des icônes dans toute l’application depuis les paramètres généraux.
+- Ajout de lecture/arrêt aux réglages tactiles et de la manette.
+- Ajoutez divers stockages distants à Ma bibliothèque.
+- Correction du démarrage de la synthèse vocale à l’ancienne position après un arrêt, un déplacement et une reprise.
+- Ajustement de la taille des icônes de la barre d’outils du lecteur.
+- Correction d’autres bugs.
+</fr-FR>
+
+<hi-IN>
+- सामान्य सेटिंग में पूरे ऐप के टेक्स्ट और आइकन का आकार बदलें।
+- टच और कंट्रोलर सेटिंग में चलाएँ/रोकें जोड़ा गया।
+- मेरी लाइब्रेरी में विभिन्न रिमोट स्टोरेज जोड़ें।
+- TTS रोकने, स्थिति बदलने और दोबारा चलाने पर पुरानी स्थिति से शुरू होने की समस्या ठीक की गई।
+- व्यूअर टूलबार के आइकन का आकार बदला गया।
+- अन्य समस्याएँ ठीक की गईं।
+</hi-IN>
+
+<id>
+- Atur ukuran teks dan ikon di seluruh aplikasi melalui Pengaturan Umum.
+- Menambahkan putar/berhenti ke pengaturan sentuh dan pengontrol.
+- Tambahkan berbagai penyimpanan jarak jauh ke Perpustakaan Saya.
+- Memperbaiki TTS yang dimulai dari posisi sebelumnya setelah dihentikan, berpindah posisi, lalu diputar kembali.
+- Menyesuaikan ukuran ikon bilah alat pembaca.
+- Memperbaiki bug lainnya.
+</id>
+
+<it-IT>
+- Regola la dimensione di testo e icone in tutta l'app dalle impostazioni generali.
+- Aggiunti riproduzione/arresto alle impostazioni di tocco e controller.
+- Aggiungi diversi archivi remoti a La mia libreria.
+- Corretto l'avvio della sintesi vocale dalla posizione precedente dopo l'arresto, lo spostamento e la ripresa.
+- Modificata la dimensione delle icone della barra del lettore.
+- Corretti altri errori.
+</it-IT>
+
+<ja-JP>
+- 一般設定でアプリ全体の文字とアイコンのサイズを調整できるようにしました。
+- タッチ・コントローラー設定に再生／停止を追加しました。
+- マイライブラリにさまざまなリモートストレージを登録できるようにしました。
+- TTS停止後に位置を移動して再生すると、以前の位置から始まる不具合を修正しました。
+- ビューアのツールバーのアイコンサイズを調整しました。
+- その他の不具合を修正しました。
+</ja-JP>
+
+<ko-KR>
+- 일반 설정에서 앱 전체의 글자와 아이콘 크기를 조절할 수 있도록 했습니다.
+- 터치 및 컨트롤러 설정에 재생/정지 기능을 추가했습니다.
+- 내 서재에 다양한 원격 저장소를 등록할 수 있도록 했습니다.
+- TTS 정지 후 위치를 이동하고 다시 재생하면 이전 위치에서 시작하던 버그를 수정했습니다.
+- 뷰어 툴바의 아이콘 크기를 조절했습니다.
+- 기타 버그를 수정했습니다.
+</ko-KR>
+
+<mn-MN>
+- Ерөнхий тохиргооноос аппын текст болон дүрсийн хэмжээг тохируулна.
+- Мэдрэгч болон удирдлагын тохиргоонд тоглуулах/зогсоох үйлдэл нэмлээ.
+- Миний санд төрөл бүрийн алсын хадгалах сан нэмэх боломжтой боллоо.
+- TTS-ийг зогсоож, байрлал сольж, дахин тоглуулахад өмнөх байрлалаас эхэлдэг алдааг заслаа.
+- Уншигчийн хэрэгслийн мөрийн дүрсийн хэмжээг тохирууллаа.
+- Бусад алдааг заслаа.
+</mn-MN>
+
+<ms-MY>
+- Laraskan saiz teks dan ikon di seluruh aplikasi dalam tetapan Umum.
+- Tambah main/henti pada tetapan sentuhan dan pengawal.
+- Tambah pelbagai storan jauh ke Pustaka Saya.
+- Baiki TTS yang bermula pada kedudukan lama selepas dihentikan, dipindahkan dan dimainkan semula.
+- Laraskan saiz ikon bar alat pembaca.
+- Baiki pepijat lain.
+</ms-MY>
+
+<nl-NL>
+- Pas de tekst- en pictogramgrootte in de hele app aan via Algemene instellingen.
+- Afspelen/stoppen toegevoegd aan de aanraak- en controllerinstellingen.
+- Voeg verschillende externe opslaglocaties toe aan Mijn bibliotheek.
+- Fout opgelost waarbij TTS na stoppen, verplaatsen en opnieuw afspelen op de vorige positie begon.
+- Pictogramgrootte van de werkbalk van de lezer aangepast.
+- Overige fouten opgelost.
+</nl-NL>
+
+<no-NO>
+- Juster størrelsen på tekst og ikoner i hele appen under Generelle innstillinger.
+- Lagt til spill av/stopp i innstillingene for berøring og kontroller.
+- Legg til ulike eksterne lagringssteder i Mitt bibliotek.
+- Rettet en feil der TTS startet på forrige posisjon etter stopp, flytting og ny avspilling.
+- Justert ikonstørrelsen på verktøylinjen i leseren.
+- Rettet andre feil.
+</no-NO>
+
+<pl-PL>
+- Zmieniaj rozmiar tekstu i ikon w całej aplikacji w ustawieniach ogólnych.
+- Dodano odtwarzanie/zatrzymanie do ustawień dotyku i kontrolera.
+- Dodawaj różne magazyny zdalne do Mojej biblioteki.
+- Naprawiono błąd, przez który TTS zaczynał od poprzedniej pozycji po zatrzymaniu, zmianie pozycji i ponownym uruchomieniu.
+- Dostosowano rozmiar ikon na pasku narzędzi czytnika.
+- Naprawiono inne błędy.
+</pl-PL>
+
+<pt-BR>
+- Ajuste o tamanho do texto e dos ícones em todo o aplicativo nas configurações gerais.
+- Adicionamos reproduzir/parar às configurações de toque e controle.
+- Adicione vários armazenamentos remotos à Minha Biblioteca.
+- Corrigimos o TTS que começava na posição anterior após parar, mudar de posição e reproduzir novamente.
+- Ajustamos o tamanho dos ícones da barra de ferramentas do leitor.
+- Corrigimos outros erros.
+</pt-BR>
+
+<ro>
+- Reglează dimensiunea textului și a pictogramelor în întreaga aplicație din setările generale.
+- Am adăugat redare/oprire în setările pentru atingere și controler.
+- Adaugă diverse spații de stocare la distanță în Biblioteca mea.
+- Am corectat pornirea TTS din poziția anterioară după oprire, schimbarea poziției și reluare.
+- Am ajustat dimensiunea pictogramelor din bara cititorului.
+- Am corectat alte erori.
+</ro>
+
+<ru-RU>
+- Настраивайте размер текста и значков во всём приложении в общих настройках.
+- В настройки касаний и контроллера добавлены воспроизведение/остановка.
+- Добавляйте различные удалённые хранилища в «Мою библиотеку».
+- Исправлена ошибка, из-за которой TTS начинал с прежнего места после остановки, перемещения и повторного запуска.
+- Изменён размер значков панели инструментов читалки.
+- Исправлены другие ошибки.
+</ru-RU>
+
+<th>
+- ปรับขนาดตัวอักษรและไอคอนทั่วทั้งแอปได้ในการตั้งค่าทั่วไป
+- เพิ่มเล่น/หยุดในการตั้งค่าการสัมผัสและตัวควบคุม
+- เพิ่มพื้นที่จัดเก็บระยะไกลแบบต่าง ๆ ลงในคลังของฉันได้
+- แก้ไข TTS ที่เริ่มจากตำแหน่งเดิมหลังหยุด ย้ายตำแหน่ง และเล่นอีกครั้ง
+- ปรับขนาดไอคอนแถบเครื่องมือของตัวอ่าน
+- แก้ไขข้อผิดพลาดอื่น ๆ
+</th>
+
+<tr-TR>
+- Genel ayarlardan uygulamanın tamamındaki metin ve simge boyutunu ayarlayın.
+- Dokunma ve kumanda ayarlarına oynat/durdur eklendi.
+- Kitaplığım'a çeşitli uzak depolama alanları ekleyin.
+- TTS durdurulup konum değiştirildikten sonra yeniden başlatıldığında önceki konumdan başlaması düzeltildi.
+- Okuyucu araç çubuğu simgelerinin boyutu ayarlandı.
+- Diğer hatalar düzeltildi.
+</tr-TR>
+
+<uk>
+- Налаштовуйте розмір тексту й значків у всьому застосунку в загальних налаштуваннях.
+- До налаштувань дотику й контролера додано відтворення/зупинку.
+- Додавайте різні віддалені сховища до «Моєї бібліотеки».
+- Виправлено запуск TTS з попереднього місця після зупинки, зміни позиції та повторного відтворення.
+- Змінено розмір значків панелі інструментів читача.
+- Виправлено інші помилки.
+</uk>
+
+<vi>
+- Điều chỉnh kích thước chữ và biểu tượng trong toàn ứng dụng ở phần Cài đặt chung.
+- Thêm phát/dừng vào cài đặt cảm ứng và bộ điều khiển.
+- Thêm nhiều loại lưu trữ từ xa vào Thư viện của tôi.
+- Sửa lỗi TTS bắt đầu ở vị trí cũ sau khi dừng, chuyển vị trí và phát lại.
+- Điều chỉnh kích thước biểu tượng trên thanh công cụ của trình đọc.
+- Sửa các lỗi khác.
+</vi>
+
+<zh-CN>
+- 可在常规设置中调整整个应用的文字和图标大小。
+- 在触摸和控制器设置中添加播放/停止功能。
+- 可在“我的书架”中添加多种远程存储。
+- 修复停止 TTS、移动位置后重新播放时从之前的位置开始的问题。
+- 调整阅读器工具栏的图标大小。
+- 修复其他问题。
+</zh-CN>
+
+<zh-HK>
+- 可在一般設定中調整整個應用程式的文字和圖示大小。
+- 在觸控及控制器設定中加入播放／停止功能。
+- 可在「我的書庫」中新增多種遠端儲存空間。
+- 修正停止 TTS、移動位置後重新播放時從先前位置開始的問題。
+- 調整閱讀器工具列的圖示大小。
+- 修正其他問題。
+</zh-HK>
+
+<zh-TW>
+- 可在一般設定中調整整個應用程式的文字和圖示大小。
+- 在觸控及控制器設定中新增播放／停止功能。
+- 可在「我的書庫」中新增多種遠端儲存空間。
+- 修正停止 TTS、移動位置後重新播放時從先前位置開始的問題。
+- 調整閱讀器工具列的圖示大小。
+- 修正其他問題。
+</zh-TW>

@@ -438,6 +438,7 @@
   "상단 숨김": "Boven verbergen",
   "하단 숨김": "Onder verbergen",
   "재생/일시정지": "Afspelen/pauzeren",
+  "재생/정지": "Spelen / Stoppen",
   "동기화": "Synchroniseren",
   "밝기 초기화": "Helderheid opnieuw instellen",
   "밝기 조절": "Pas de helderheid aan",
@@ -1135,5 +1136,9 @@
   "직접 설정": "Aangepast",
   "오디오 세션 조합이 잘못될 경우 TTS 재생이 안 되거나 오류가 발생할 수 있습니다.": "Onverenigbare audio-instellingen kunnen TTS-weergave verhinderen of fouten veroorzaken.",
   "이 플랫폼에서는 오디오 세션 설정을 사용할 수 없습니다.": "Instellingen voor de audiosessie zijn op dit platform niet beschikbaar.",
-  "초기화": "Opnieuw instellen"
+  "초기화": "Opnieuw instellen",
+  "글자·아이콘 크기": "Tekst- en pictogramgrootte",
+  "이전 읽기 위치로 돌아갈까요?": "Teruggaan naar een eerdere leespositie?",
+  "현재 읽기 위치 {before}를 다른 기기의 읽기 위치 {after}로 덮어쓸까요?": "De huidige leespositie ({before}) vervangen door die van het andere apparaat ({after})?",
+  "덮어쓰기": "Overschrijven"
 }

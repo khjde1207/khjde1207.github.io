@@ -438,6 +438,7 @@
   "상단 숨김": "Ẩn thanh trên",
   "하단 숨김": "Ẩn thanh dưới",
   "재생/일시정지": "Phát/tạm dừng",
+  "재생/정지": "Chơi / Dừng lại",
   "동기화": "Đồng bộ hóa",
   "밝기 초기화": "Đặt lại độ sáng",
   "밝기 조절": "Điều chỉnh độ sáng",
@@ -1135,5 +1136,9 @@
   "직접 설정": "Tùy chỉnh",
   "오디오 세션 조합이 잘못될 경우 TTS 재생이 안 되거나 오류가 발생할 수 있습니다.": "Cài đặt phiên âm thanh không tương thích có thể ngăn TTS phát hoặc gây lỗi.",
   "이 플랫폼에서는 오디오 세션 설정을 사용할 수 없습니다.": "Nền tảng này không hỗ trợ cài đặt phiên âm thanh.",
-  "초기화": "Đặt lại"
+  "초기화": "Đặt lại",
+  "글자·아이콘 크기": "Kích thước chữ và biểu tượng",
+  "이전 읽기 위치로 돌아갈까요?": "Quay lại vị trí đọc trước đó?",
+  "현재 읽기 위치 {before}를 다른 기기의 읽기 위치 {after}로 덮어쓸까요?": "Thay vị trí đọc hiện tại ({before}) bằng vị trí đọc trên thiết bị kia ({after})?",
+  "덮어쓰기": "Ghi đè"
 }
