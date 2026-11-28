@@ -1,242 +1,350 @@
 <ar>
-- أضفنا إمكانية ضبط حجم النص والأيقونات في التطبيق من الإعدادات العامة.
-- أضفنا التشغيل/الإيقاف إلى إعدادات اللمس ووحدة التحكم.
-- أصبح بالإمكان إضافة مخازن بعيدة متنوعة إلى مكتبتي.
-- أصلحنا خطأ بدء TTS من الموضع السابق عند تغيير الموضع بعد إيقافه ثم إعادة تشغيله.
-- عدّلنا حجم أيقونات شريط أدوات القارئ.
+- أضفنا التشغيل والإيقاف إلى إعدادات اللمس ووحدة التحكم.
+- أضفنا خيارًا لإظهار شريط الأدوات أو إخفائه في وضع ملء الشاشة.
+- أصبحت نتائج البحث في القارئ تُحتفظ بها.
+- أصبح البحث في مكتبتي يشمل محتويات المجلدات.
+- أضفنا إمكانية الانتقال إلى موضع آخر في القراءة بالضغط مطولًا على زر التشغيل في تبويب القارئ.
 - أصلحنا أخطاء أخرى.
+
+أعدنا كتابة منطق التطبيق من الصفر. ظهرت بعض الأخطاء الجديدة خلال هذه العملية، ونضيف تباعًا بمساعدة الذكاء الاصطناعي ميزات سبق أن خططنا لها.
+
+سنراجع الأخطاء التي تبلغوننا عنها ونصلحها، وننشر تحديثًا كل يوم أو كل يومين خلال الفترة المقبلة. نعتذر عن الإزعاج الذي تسببه كثرة التحديثات.
 </ar>
 
 <de-DE>
-- Die Größe von Text und Symbolen in der gesamten App lässt sich jetzt in den allgemeinen Einstellungen anpassen.
-- Wiedergabe/Stopp zu den Touch- und Controller-Einstellungen hinzugefügt.
-- Verschiedene Remote-Speicher können jetzt zu „Meine Bibliothek“ hinzugefügt werden.
-- Fehler behoben, bei dem TTS nach einem Positionswechsel und erneutem Start an der alten Position begann.
-- Symbolgröße in der Viewer-Werkzeugleiste angepasst.
+- Wiedergabe und Stopp zu den Touch- und Controller-Einstellungen hinzugefügt.
+- Neue Option zum Ein- oder Ausblenden der Symbolleiste im Vollbildmodus.
+- Suchergebnisse im Reader bleiben erhalten.
+- Die Suche in „Meine Bibliothek“ erfasst jetzt auch Ordnerinhalte.
+- Im Reader-Tab kann man jetzt die Wiedergabetaste gedrückt halten, um zu einer anderen Leseposition zu springen.
 - Weitere Fehler behoben.
+
+Wir haben die App-Logik von Grund auf neu geschrieben. Dabei sind einige neue Fehler aufgetreten. Mit Unterstützung von KI setzen wir nach und nach Funktionen um, die wir bisher nur geplant hatten.
+
+In nächster Zeit prüfen und beheben wir die von euch gemeldeten Fehler und veröffentlichen täglich oder alle zwei Tage ein Update. Wir entschuldigen uns für die Unannehmlichkeiten durch die häufigen Updates.
 </de-DE>
 
 <en-US>
-- Adjust text and icon sizes throughout the app in General settings.
-- Added play/stop to touch and controller settings.
-- Add various remote storage services to My Library.
-- Fixed TTS starting at the previous position after stopping, moving to another position, and playing again.
-- Adjusted viewer toolbar icon sizes.
+- Added play and stop actions to touch and controller settings.
+- Added an option to show or hide the toolbar in full-screen mode.
+- Search results in the viewer are now retained.
+- Search in My Library now includes items inside folders.
+- You can now press and hold the play button in the viewer tab to jump to a different reading position.
 - Fixed other bugs.
+
+We rewrote the app’s logic from scratch. A few new bugs surfaced along the way, and with help from AI, we’re gradually adding features we’d only planned before.
+
+For a while, we’ll release updates every day or two as we review and fix the bugs you report. We’re sorry for the inconvenience caused by the frequent updates.
 </en-US>
 
 <es-ES>
-- Ajusta el tamaño del texto y los iconos de toda la aplicación en los ajustes generales.
-- Se añadió reproducir/detener a los ajustes táctiles y del controlador.
-- Añade varios almacenamientos remotos a Mi biblioteca.
-- Se corrigió un error por el que TTS comenzaba en la posición anterior tras detenerse, cambiar de posición y volver a reproducir.
-- Se ajustó el tamaño de los iconos de la barra del visor.
+- Se añadieron las acciones de reproducir y detener a los ajustes táctiles y del controlador.
+- Nueva opción para mostrar u ocultar la barra de herramientas en pantalla completa.
+- Ahora se conservan los resultados de búsqueda del visor.
+- La búsqueda en Mi biblioteca incluye el contenido de las carpetas.
+- Ahora puedes mantener pulsado el botón de reproducción en la pestaña del visor para saltar a otra posición de lectura.
 - Se corrigieron otros errores.
+
+Hemos reescrito desde cero la lógica de la aplicación. Durante el proceso han aparecido algunos errores nuevos y, con ayuda de la IA, estamos incorporando poco a poco funciones que hasta ahora solo habíamos planeado.
+
+Durante un tiempo publicaremos actualizaciones a diario o cada dos días, a medida que revisemos y corrijamos los errores que nos comuniquéis. Disculpad las molestias causadas por las actualizaciones frecuentes.
 </es-ES>
 
 <fa>
-- امکان تنظیم اندازه متن و آیکون‌ها در سراسر برنامه به تنظیمات عمومی اضافه شد.
-- پخش/توقف به تنظیمات لمس و کنترلر اضافه شد.
-- اکنون می‌توانید فضای ذخیره‌سازی راه دور مختلف را به کتابخانه من اضافه کنید.
-- خطای شروع TTS از موقعیت قبلی پس از توقف، جابه‌جایی و پخش مجدد برطرف شد.
-- اندازه آیکون‌های نوار ابزار نمایشگر تنظیم شد.
-- خطاهای دیگر برطرف شدند.
+- عملکردهای پخش و توقف به تنظیمات لمس و کنترلر اضافه شد.
+- گزینه‌ای برای نمایش یا پنهان کردن نوار ابزار در حالت تمام‌صفحه اضافه شد.
+- نتایج جست‌وجو در نمایشگر حفظ می‌شوند.
+- جست‌وجو در کتابخانه من اکنون محتوای پوشه‌ها را هم شامل می‌شود.
+- اکنون می‌توانید در زبانهٔ نمایشگر، دکمهٔ پخش را نگه دارید و به موقعیت دیگری در متن بروید.
+- خطاهای دیگری برطرف شدند.
+
+منطق برنامه را از ابتدا بازنویسی کردیم. در این فرایند چند خطای جدید پیش آمد و با کمک هوش مصنوعی، قابلیت‌هایی را که قبلاً فقط در نظر داشتیم، به‌تدریج اضافه می‌کنیم.
+
+تا مدتی، هم‌زمان با بررسی و رفع خطاهایی که گزارش می‌کنید، هر روز یا هر دو روز یک‌بار به‌روزرسانی منتشر می‌کنیم. بابت زحمتی که به‌روزرسانی‌های مکرر ایجاد می‌کنند، پوزش می‌خواهیم.
 </fa>
 
 <fil>
-- Isaayos ang laki ng teksto at mga icon sa buong app sa Pangkalahatang setting.
-- Idinagdag ang play/stop sa mga setting ng touch at controller.
-- Magdagdag ng iba't ibang remote storage sa Aking Library.
-- Inayos ang pagsisimula ng TTS sa dating posisyon matapos ihinto, lumipat ng posisyon, at mag-play muli.
-- Inayos ang laki ng mga icon sa toolbar ng viewer.
-- Inayos ang iba pang bug.
+- Idinagdag ang pag-play at paghinto sa mga setting ng touch at controller.
+- May opsyon nang ipakita o itago ang toolbar sa full-screen mode.
+- Nananatili na ang mga resulta ng paghahanap sa viewer.
+- Kasama na sa paghahanap sa Aking Library ang mga item sa loob ng mga folder.
+- Puwede mo nang pindutin nang matagal ang play button sa tab ng viewer para lumipat sa ibang bahagi ng binabasa mo.
+- Inayos ang iba pang mga bug.
+
+Isinulat naming muli mula sa simula ang lohika ng app. May ilang bagong bug na lumitaw, at sa tulong ng AI, unti-unti naming idinaragdag ang mga feature na dati ay nasa plano pa lang.
+
+Sa mga susunod na araw, maglalabas kami ng update araw-araw o kada dalawang araw habang sinusuri at inaayos namin ang mga bug na iniuulat ninyo. Paumanhin sa abalang dulot ng madalas na pag-update.
 </fil>
 
 <fr-FR>
-- Réglez la taille du texte et des icônes dans toute l’application depuis les paramètres généraux.
-- Ajout de lecture/arrêt aux réglages tactiles et de la manette.
-- Ajoutez divers stockages distants à Ma bibliothèque.
-- Correction du démarrage de la synthèse vocale à l’ancienne position après un arrêt, un déplacement et une reprise.
-- Ajustement de la taille des icônes de la barre d’outils du lecteur.
+- Ajout des actions de lecture et d’arrêt aux réglages tactiles et de la manette.
+- Nouvelle option pour afficher ou masquer la barre d’outils en plein écran.
+- Les résultats de recherche sont désormais conservés dans la visionneuse.
+- La recherche dans Ma bibliothèque inclut le contenu des dossiers.
+- Vous pouvez désormais appuyer longuement sur le bouton de lecture dans l’onglet de la visionneuse pour accéder à un autre endroit du texte.
 - Correction d’autres bugs.
+
+Nous avons réécrit la logique de l’application de fond en comble. Quelques nouveaux bugs sont apparus au cours de ce travail. Avec l’aide de l’IA, nous ajoutons aussi progressivement des fonctionnalités que nous avions jusque-là seulement envisagées.
+
+Pendant quelque temps, nous publierons des mises à jour tous les jours ou tous les deux jours, au fur et à mesure que nous examinerons et corrigerons les bugs que vous nous signalez. Nous vous prions de nous excuser pour la gêne occasionnée par ces mises à jour fréquentes.
 </fr-FR>
 
 <hi-IN>
-- सामान्य सेटिंग में पूरे ऐप के टेक्स्ट और आइकन का आकार बदलें।
-- टच और कंट्रोलर सेटिंग में चलाएँ/रोकें जोड़ा गया।
-- मेरी लाइब्रेरी में विभिन्न रिमोट स्टोरेज जोड़ें।
-- TTS रोकने, स्थिति बदलने और दोबारा चलाने पर पुरानी स्थिति से शुरू होने की समस्या ठीक की गई।
-- व्यूअर टूलबार के आइकन का आकार बदला गया।
-- अन्य समस्याएँ ठीक की गईं।
+- टच और कंट्रोलर सेटिंग में चलाने और रोकने की क्रियाएँ जोड़ी गईं।
+- फ़ुल स्क्रीन में टूलबार दिखाने या छिपाने का विकल्प जोड़ा गया।
+- व्यूअर में खोज के नतीजे अब बने रहते हैं।
+- मेरी लाइब्रेरी में खोज अब फ़ोल्डर के अंदर की सामग्री को भी शामिल करती है।
+- अब आप व्यूअर टैब में चलाने वाले बटन को देर तक दबाकर पढ़ने की जगह बदल सकते हैं।
+- अन्य बग ठीक किए गए।
+
+हमने ऐप की कार्यप्रणाली शुरू से फिर लिखी है। इस दौरान कुछ नए बग सामने आए। AI की मदद से हम धीरे-धीरे वे सुविधाएँ भी जोड़ रहे हैं जिनकी अब तक सिर्फ़ योजना बनाई थी।
+
+कुछ समय तक हम आपके बताए बग की जाँच करके उन्हें ठीक करेंगे और रोज़ या हर दो दिन में एक अपडेट जारी करेंगे। बार-बार अपडेट से होने वाली असुविधा के लिए हमें खेद है।
 </hi-IN>
 
 <id>
-- Atur ukuran teks dan ikon di seluruh aplikasi melalui Pengaturan Umum.
-- Menambahkan putar/berhenti ke pengaturan sentuh dan pengontrol.
-- Tambahkan berbagai penyimpanan jarak jauh ke Perpustakaan Saya.
-- Memperbaiki TTS yang dimulai dari posisi sebelumnya setelah dihentikan, berpindah posisi, lalu diputar kembali.
-- Menyesuaikan ukuran ikon bilah alat pembaca.
+- Tindakan putar dan hentikan ditambahkan ke pengaturan sentuh dan pengontrol.
+- Opsi untuk menampilkan atau menyembunyikan bilah alat dalam mode layar penuh ditambahkan.
+- Hasil pencarian di penampil kini dipertahankan.
+- Pencarian di Perpustakaan Saya kini mencakup isi folder.
+- Kini Anda dapat menekan lama tombol putar di tab penampil untuk berpindah ke posisi baca lain.
 - Memperbaiki bug lainnya.
+
+Kami menulis ulang logika aplikasi dari awal. Beberapa bug baru muncul selama proses ini. Dengan bantuan AI, kami juga mulai menambahkan fitur-fitur yang sebelumnya baru sebatas rencana.
+
+Untuk sementara, kami akan merilis pembaruan setiap hari atau dua hari sekali sembari memeriksa dan memperbaiki bug yang Anda laporkan. Mohon maaf atas ketidaknyamanan akibat pembaruan yang sering.
 </id>
 
 <it-IT>
-- Regola la dimensione di testo e icone in tutta l'app dalle impostazioni generali.
-- Aggiunti riproduzione/arresto alle impostazioni di tocco e controller.
-- Aggiungi diversi archivi remoti a La mia libreria.
-- Corretto l'avvio della sintesi vocale dalla posizione precedente dopo l'arresto, lo spostamento e la ripresa.
-- Modificata la dimensione delle icone della barra del lettore.
-- Corretti altri errori.
+- Aggiunte le azioni Riproduci e Interrompi alle impostazioni touch e del controller.
+- Nuova opzione per mostrare o nascondere la barra degli strumenti a schermo intero.
+- I risultati di ricerca nel visualizzatore vengono ora conservati.
+- La ricerca in La mia libreria include ora il contenuto delle cartelle.
+- Ora puoi tenere premuto il pulsante di riproduzione nella scheda del visualizzatore per spostarti in un altro punto del testo.
+- Corretti altri bug.
+
+Abbiamo riscritto da zero la logica dell’app. Durante il lavoro sono emersi alcuni nuovi bug e, con l’aiuto dell’IA, stiamo introducendo gradualmente funzionalità che finora avevamo solo immaginato.
+
+Per un po’ pubblicheremo aggiornamenti ogni giorno o ogni due giorni, man mano che analizzeremo e correggeremo i bug che ci segnalate. Ci scusiamo per il disagio causato dalla frequenza degli aggiornamenti.
 </it-IT>
 
 <ja-JP>
-- 一般設定でアプリ全体の文字とアイコンのサイズを調整できるようにしました。
-- タッチ・コントローラー設定に再生／停止を追加しました。
-- マイライブラリにさまざまなリモートストレージを登録できるようにしました。
-- TTS停止後に位置を移動して再生すると、以前の位置から始まる不具合を修正しました。
-- ビューアのツールバーのアイコンサイズを調整しました。
+- タッチとコントローラーの設定に再生・停止の操作を追加しました。
+- 全画面表示時にツールバーの表示・非表示を選べるようにしました。
+- ビューアーの検索結果が保持されるようにしました。
+- マイライブラリでフォルダー内の項目も検索できるようにしました。
+- ビューアータブの再生ボタンを長押しして、読書位置を移動できるようになりました。
 - その他の不具合を修正しました。
+
+今回、アプリのロジックを一から書き直しました。その過程で新たな不具合が発生することもありましたが、AIの助けを借りて、これまで構想していた機能も少しずつ追加しています。
+
+しばらくの間、皆さまからご報告いただいた不具合を確認・修正しながら、毎日または一日おきにアップデートする予定です。頻繁なアップデートでご不便をおかけし、申し訳ありません。
 </ja-JP>
 
 <ko-KR>
-- 일반 설정에서 앱 전체의 글자와 아이콘 크기를 조절할 수 있도록 했습니다.
 - 터치 및 컨트롤러 설정에 재생/정지 기능을 추가했습니다.
-- 내 서재에 다양한 원격 저장소를 등록할 수 있도록 했습니다.
-- TTS 정지 후 위치를 이동하고 다시 재생하면 이전 위치에서 시작하던 버그를 수정했습니다.
-- 뷰어 툴바의 아이콘 크기를 조절했습니다.
+- 전체 화면에서 툴바를 표시하거나 숨길 수 있는 설정을 추가했습니다.
+- 뷰어에서 검색 결과가 유지되도록 수정했습니다.
+- 내 서재 검색에 폴더 안의 항목도 포함됩니다.
+- 뷰어 탭에서 재생 버튼을 길게 눌러 읽기 위치를 이동할 수 있는 기능을 추가했습니다.
 - 기타 버그를 수정했습니다.
+
+이번에 앱의 로직을 처음부터 다시 작성했습니다. 그 과정에서 이전에는 없던 버그가 생기기도 했고, AI의 도움을 받아 그동안 구상만 했던 기능도 하나씩 추가하고 있습니다.
+
+당분간 제보해 주시는 버그를 확인하고 수정하면서 매일 또는 이틀에 한 번씩 업데이트할 예정입니다. 잦은 업데이트로 불편을 드려 죄송합니다.
 </ko-KR>
 
 <mn-MN>
-- Ерөнхий тохиргооноос аппын текст болон дүрсийн хэмжээг тохируулна.
-- Мэдрэгч болон удирдлагын тохиргоонд тоглуулах/зогсоох үйлдэл нэмлээ.
-- Миний санд төрөл бүрийн алсын хадгалах сан нэмэх боломжтой боллоо.
-- TTS-ийг зогсоож, байрлал сольж, дахин тоглуулахад өмнөх байрлалаас эхэлдэг алдааг заслаа.
-- Уншигчийн хэрэгслийн мөрийн дүрсийн хэмжээг тохирууллаа.
+- Мэдрэгчтэй удирдлага болон контроллерын тохиргоонд тоглуулах, зогсоох үйлдлийг нэмлээ.
+- Бүтэн дэлгэцийн горимд хэрэгслийн мөрийг харуулах эсвэл нуух тохиргоо нэмлээ.
+- Уншигч дахь хайлтын үр дүн одоо хэвээр үлдэнэ.
+- Миний сангийн хайлтад хавтас доторх зүйлсийг хамруулдаг боллоо.
+- Уншигчийн таб дээрх тоглуулах товчийг удаан дарж, уншиж буй хэсгээсээ өөр хэсэг рүү шилжих боломжтой боллоо.
 - Бусад алдааг заслаа.
+
+Аппын ажиллах логикийг эхнээс нь дахин бичлээ. Энэ явцад зарим шинэ алдаа гарсан. Мөн өмнө нь зөвхөн төлөвлөж байсан боломжуудаа хиймэл оюуны тусламжтайгаар бага багаар нэмж байна.
+
+Ойрын хугацаанд та бүхний мэдээлсэн алдааг шалгаж, засахын зэрэгцээ өдөр бүр эсвэл өнжөөд нэг удаа шинэчлэлт гаргана. Ойр ойрхон шинэчилж, төвөг учруулж байгаад хүлцэл өчье.
 </mn-MN>
 
 <ms-MY>
-- Laraskan saiz teks dan ikon di seluruh aplikasi dalam tetapan Umum.
-- Tambah main/henti pada tetapan sentuhan dan pengawal.
-- Tambah pelbagai storan jauh ke Pustaka Saya.
-- Baiki TTS yang bermula pada kedudukan lama selepas dihentikan, dipindahkan dan dimainkan semula.
-- Laraskan saiz ikon bar alat pembaca.
-- Baiki pepijat lain.
+- Tindakan main dan henti ditambahkan pada tetapan sentuhan dan pengawal.
+- Pilihan untuk menunjukkan atau menyembunyikan bar alat dalam mod skrin penuh ditambahkan.
+- Hasil carian dalam pemapar kini dikekalkan.
+- Carian dalam Pustaka Saya kini merangkumi kandungan folder.
+- Kini anda boleh menekan lama butang main pada tab pemapar untuk beralih ke kedudukan bacaan lain.
+- Pepijat lain telah dibetulkan.
+
+Kami menulis semula logik aplikasi dari awal. Beberapa pepijat baharu muncul dalam proses ini. Dengan bantuan AI, kami juga menambah secara berperingkat ciri yang sebelum ini baru dirancang.
+
+Buat sementara waktu, kami akan mengeluarkan kemas kini setiap hari atau setiap dua hari sambil menyemak dan membetulkan pepijat yang anda laporkan. Kami memohon maaf atas kesulitan akibat kemas kini yang kerap.
 </ms-MY>
 
 <nl-NL>
-- Pas de tekst- en pictogramgrootte in de hele app aan via Algemene instellingen.
-- Afspelen/stoppen toegevoegd aan de aanraak- en controllerinstellingen.
-- Voeg verschillende externe opslaglocaties toe aan Mijn bibliotheek.
-- Fout opgelost waarbij TTS na stoppen, verplaatsen en opnieuw afspelen op de vorige positie begon.
-- Pictogramgrootte van de werkbalk van de lezer aangepast.
-- Overige fouten opgelost.
+- Afspelen en stoppen toegevoegd aan de instellingen voor aanraking en controllers.
+- Nieuwe optie om de werkbalk op volledig scherm te tonen of te verbergen.
+- Zoekresultaten in de viewer blijven nu behouden.
+- Zoeken in Mijn bibliotheek doorzoekt nu ook de inhoud van mappen.
+- Je kunt nu de afspeelknop op het tabblad van de viewer ingedrukt houden om naar een andere leespositie te springen.
+- Andere bugs opgelost.
+
+We hebben de logica van de app vanaf nul opnieuw geschreven. Daarbij zijn enkele nieuwe bugs opgedoken. Met hulp van AI voegen we geleidelijk functies toe die tot nu toe alleen op de planning stonden.
+
+De komende tijd brengen we elke dag of om de dag een update uit, terwijl we de bugs die jullie melden onderzoeken en oplossen. Onze excuses voor het ongemak door de frequente updates.
 </nl-NL>
 
 <no-NO>
-- Juster størrelsen på tekst og ikoner i hele appen under Generelle innstillinger.
-- Lagt til spill av/stopp i innstillingene for berøring og kontroller.
-- Legg til ulike eksterne lagringssteder i Mitt bibliotek.
-- Rettet en feil der TTS startet på forrige posisjon etter stopp, flytting og ny avspilling.
-- Justert ikonstørrelsen på verktøylinjen i leseren.
+- La til spill av og stopp i innstillingene for berøring og kontroller.
+- La til et valg for å vise eller skjule verktøylinjen i fullskjermmodus.
+- Søkeresultater i visningen beholdes nå.
+- Søk i Mitt bibliotek omfatter nå innholdet i mapper.
+- Du kan nå holde inne avspillingsknappen på leserfanen for å hoppe til en annen leseposisjon.
 - Rettet andre feil.
+
+Vi har skrevet om appens logikk fra bunnen av. Underveis dukket det opp noen nye feil. Med hjelp fra KI legger vi også gradvis til funksjoner som vi til nå bare har planlagt.
+
+En stund fremover kommer vi til å gi ut oppdateringer hver dag eller annenhver dag mens vi undersøker og retter feilene dere melder inn. Vi beklager ulempene med de hyppige oppdateringene.
 </no-NO>
 
 <pl-PL>
-- Zmieniaj rozmiar tekstu i ikon w całej aplikacji w ustawieniach ogólnych.
-- Dodano odtwarzanie/zatrzymanie do ustawień dotyku i kontrolera.
-- Dodawaj różne magazyny zdalne do Mojej biblioteki.
-- Naprawiono błąd, przez który TTS zaczynał od poprzedniej pozycji po zatrzymaniu, zmianie pozycji i ponownym uruchomieniu.
-- Dostosowano rozmiar ikon na pasku narzędzi czytnika.
+- Dodano odtwarzanie i zatrzymywanie do ustawień dotyku i kontrolera.
+- Dodano opcję wyświetlania lub ukrywania paska narzędzi na pełnym ekranie.
+- Wyniki wyszukiwania w przeglądarce są teraz zachowywane.
+- Wyszukiwanie w Mojej bibliotece obejmuje teraz zawartość folderów.
+- Teraz możesz przytrzymać przycisk odtwarzania na karcie czytnika, aby przejść do innego miejsca w tekście.
 - Naprawiono inne błędy.
+
+Napisaliśmy logikę aplikacji od nowa. W trakcie prac pojawiło się kilka nowych błędów. Z pomocą AI stopniowo dodajemy też funkcje, które dotychczas były tylko w planach.
+
+Przez jakiś czas będziemy wydawać aktualizacje codziennie lub co drugi dzień, w miarę sprawdzania i naprawiania zgłaszanych przez Was błędów. Przepraszamy za niedogodności związane z częstymi aktualizacjami.
 </pl-PL>
 
 <pt-BR>
-- Ajuste o tamanho do texto e dos ícones em todo o aplicativo nas configurações gerais.
-- Adicionamos reproduzir/parar às configurações de toque e controle.
-- Adicione vários armazenamentos remotos à Minha Biblioteca.
-- Corrigimos o TTS que começava na posição anterior após parar, mudar de posição e reproduzir novamente.
-- Ajustamos o tamanho dos ícones da barra de ferramentas do leitor.
-- Corrigimos outros erros.
+- Adicionamos ações de reprodução e parada às configurações de toque e controle.
+- Adicionamos uma opção para mostrar ou ocultar a barra de ferramentas em tela cheia.
+- Os resultados de busca no visualizador agora são mantidos.
+- A busca em Minha biblioteca agora inclui o conteúdo das pastas.
+- Agora você pode pressionar e segurar o botão de reprodução na aba do visualizador para ir a outro ponto da leitura.
+- Corrigimos outros bugs.
+
+Reescrevemos do zero a lógica do aplicativo. Alguns bugs novos surgiram durante esse trabalho. Com a ajuda da IA, também estamos adicionando aos poucos recursos que antes estavam apenas nos planos.
+
+Por um tempo, vamos lançar atualizações todos os dias ou a cada dois dias, enquanto analisamos e corrigimos os bugs que vocês nos relatam. Pedimos desculpas pelo transtorno causado pelas atualizações frequentes.
 </pt-BR>
 
 <ro>
-- Reglează dimensiunea textului și a pictogramelor în întreaga aplicație din setările generale.
-- Am adăugat redare/oprire în setările pentru atingere și controler.
-- Adaugă diverse spații de stocare la distanță în Biblioteca mea.
-- Am corectat pornirea TTS din poziția anterioară după oprire, schimbarea poziției și reluare.
-- Am ajustat dimensiunea pictogramelor din bara cititorului.
-- Am corectat alte erori.
+- Am adăugat acțiunile de redare și oprire la setările pentru atingere și controler.
+- Am adăugat o opțiune pentru afișarea sau ascunderea barei de instrumente în modul ecran complet.
+- Rezultatele căutării din vizualizator sunt acum păstrate.
+- Căutarea în Biblioteca mea include acum conținutul dosarelor.
+- Acum poți ține apăsat butonul de redare din fila vizualizatorului pentru a trece la altă poziție în text.
+- Am remediat alte erori.
+
+Am rescris de la zero logica aplicației. În acest proces au apărut câteva erori noi. Cu ajutorul IA, adăugăm treptat și funcții pe care până acum doar le aveam în plan.
+
+O perioadă, vom publica actualizări zilnic sau o dată la două zile, pe măsură ce verificăm și remediem erorile pe care ni le semnalați. Ne cerem scuze pentru neplăcerile cauzate de actualizările frecvente.
 </ro>
 
 <ru-RU>
-- Настраивайте размер текста и значков во всём приложении в общих настройках.
-- В настройки касаний и контроллера добавлены воспроизведение/остановка.
-- Добавляйте различные удалённые хранилища в «Мою библиотеку».
-- Исправлена ошибка, из-за которой TTS начинал с прежнего места после остановки, перемещения и повторного запуска.
-- Изменён размер значков панели инструментов читалки.
+- В настройки сенсорного управления и контроллера добавлены действия воспроизведения и остановки.
+- Добавлена настройка показа панели инструментов в полноэкранном режиме.
+- Результаты поиска в режиме чтения теперь сохраняются.
+- Поиск в «Моей библиотеке» теперь охватывает содержимое папок.
+- Теперь можно удерживать кнопку воспроизведения на вкладке чтения, чтобы перейти к другому месту в тексте.
 - Исправлены другие ошибки.
+
+Мы переписали логику приложения с нуля. В процессе появилось несколько новых ошибок. С помощью ИИ мы также постепенно добавляем функции, которые до сих пор только планировали.
+
+Некоторое время мы будем выпускать обновления каждый день или через день, проверяя и исправляя ошибки, о которых вы сообщаете. Приносим извинения за неудобства из-за частых обновлений.
 </ru-RU>
 
 <th>
-- ปรับขนาดตัวอักษรและไอคอนทั่วทั้งแอปได้ในการตั้งค่าทั่วไป
-- เพิ่มเล่น/หยุดในการตั้งค่าการสัมผัสและตัวควบคุม
-- เพิ่มพื้นที่จัดเก็บระยะไกลแบบต่าง ๆ ลงในคลังของฉันได้
-- แก้ไข TTS ที่เริ่มจากตำแหน่งเดิมหลังหยุด ย้ายตำแหน่ง และเล่นอีกครั้ง
-- ปรับขนาดไอคอนแถบเครื่องมือของตัวอ่าน
-- แก้ไขข้อผิดพลาดอื่น ๆ
+- เพิ่มคำสั่งเล่นและหยุดในการตั้งค่าการสัมผัสและคอนโทรลเลอร์
+- เพิ่มตัวเลือกแสดงหรือซ่อนแถบเครื่องมือในโหมดเต็มหน้าจอ
+- ระบบจะเก็บผลการค้นหาในหน้าตัวอ่านไว้
+- การค้นหาในคลังของฉันครอบคลุมรายการในโฟลเดอร์แล้ว
+- ตอนนี้คุณสามารถกดปุ่มเล่นในแท็บตัวอ่านค้างไว้เพื่อย้ายไปยังตำแหน่งอื่นในข้อความได้
+- แก้ไขข้อบกพร่องอื่น ๆ
+
+เราเขียนตรรกะการทำงานของแอปขึ้นใหม่ตั้งแต่ต้น ระหว่างนั้นพบข้อบกพร่องใหม่บางอย่าง และกำลังทยอยเพิ่มฟีเจอร์ที่ก่อนหน้านี้มีเพียงแนวคิด โดยใช้ AI ช่วย
+
+ในช่วงนี้เราจะตรวจสอบและแก้ไขข้อบกพร่องที่คุณแจ้งเข้ามา พร้อมปล่อยอัปเดตทุกวันหรือวันเว้นวัน ขออภัยในความไม่สะดวกจากการอัปเดตบ่อยครั้ง
 </th>
 
 <tr-TR>
-- Genel ayarlardan uygulamanın tamamındaki metin ve simge boyutunu ayarlayın.
-- Dokunma ve kumanda ayarlarına oynat/durdur eklendi.
-- Kitaplığım'a çeşitli uzak depolama alanları ekleyin.
-- TTS durdurulup konum değiştirildikten sonra yeniden başlatıldığında önceki konumdan başlaması düzeltildi.
-- Okuyucu araç çubuğu simgelerinin boyutu ayarlandı.
+- Dokunma ve kontrolcü ayarlarına oynatma ve durdurma eylemleri eklendi.
+- Tam ekran modunda araç çubuğunu gösterme veya gizleme seçeneği eklendi.
+- Görüntüleyicideki arama sonuçları artık korunuyor.
+- Kitaplığım bölümündeki arama artık klasör içeriklerini de kapsıyor.
+- Artık görüntüleyici sekmesindeki oynatma düğmesine basılı tutarak başka bir okuma konumuna geçebilirsiniz.
 - Diğer hatalar düzeltildi.
+
+Uygulamanın çalışma mantığını baştan yazdık. Bu süreçte bazı yeni hatalar ortaya çıktı. Yapay zekânın yardımıyla, önceden yalnızca tasarladığımız özellikleri de yavaş yavaş ekliyoruz.
+
+Bir süre, bildirdiğiniz hataları inceleyip düzeltirken her gün veya iki günde bir güncelleme yayımlayacağız. Sık güncellemelerin yol açtığı rahatsızlıktan dolayı özür dileriz.
 </tr-TR>
 
 <uk>
-- Налаштовуйте розмір тексту й значків у всьому застосунку в загальних налаштуваннях.
-- До налаштувань дотику й контролера додано відтворення/зупинку.
-- Додавайте різні віддалені сховища до «Моєї бібліотеки».
-- Виправлено запуск TTS з попереднього місця після зупинки, зміни позиції та повторного відтворення.
-- Змінено розмір значків панелі інструментів читача.
+- До налаштувань дотику й контролера додано дії відтворення та зупинки.
+- Додано параметр показу або приховування панелі інструментів у повноекранному режимі.
+- Результати пошуку в засобі перегляду тепер зберігаються.
+- Пошук у Моїй бібліотеці тепер охоплює вміст папок.
+- Тепер можна натиснути й утримувати кнопку відтворення на вкладці читання, щоб перейти до іншого місця в тексті.
 - Виправлено інші помилки.
+
+Ми переписали логіку застосунку з нуля. У процесі з’явилося кілька нових помилок. За допомогою ШІ ми також поступово додаємо функції, які раніше лише планували.
+
+Певний час ми випускатимемо оновлення щодня або через день, перевіряючи й виправляючи помилки, про які ви повідомляєте. Перепрошуємо за незручності через часті оновлення.
 </uk>
 
 <vi>
-- Điều chỉnh kích thước chữ và biểu tượng trong toàn ứng dụng ở phần Cài đặt chung.
-- Thêm phát/dừng vào cài đặt cảm ứng và bộ điều khiển.
-- Thêm nhiều loại lưu trữ từ xa vào Thư viện của tôi.
-- Sửa lỗi TTS bắt đầu ở vị trí cũ sau khi dừng, chuyển vị trí và phát lại.
-- Điều chỉnh kích thước biểu tượng trên thanh công cụ của trình đọc.
-- Sửa các lỗi khác.
+- Thêm thao tác phát và dừng vào cài đặt cảm ứng và bộ điều khiển.
+- Thêm tùy chọn hiện hoặc ẩn thanh công cụ ở chế độ toàn màn hình.
+- Kết quả tìm kiếm trong trình xem giờ được giữ lại.
+- Tìm kiếm trong Thư viện của tôi giờ bao gồm cả nội dung trong thư mục.
+- Giờ đây, bạn có thể nhấn giữ nút phát trong thẻ trình xem để chuyển đến vị trí đọc khác.
+- Đã sửa các lỗi khác.
+
+Chúng tôi đã viết lại toàn bộ logic của ứng dụng từ đầu. Một số lỗi mới xuất hiện trong quá trình này. Với sự trợ giúp của AI, chúng tôi cũng đang từng bước bổ sung những tính năng trước đây mới chỉ nằm trong kế hoạch.
+
+Trong thời gian tới, chúng tôi sẽ cập nhật hằng ngày hoặc hai ngày một lần trong khi kiểm tra và khắc phục các lỗi mà bạn báo cáo. Chúng tôi xin lỗi vì sự bất tiện do các bản cập nhật thường xuyên gây ra.
 </vi>
 
 <zh-CN>
-- 可在常规设置中调整整个应用的文字和图标大小。
-- 在触摸和控制器设置中添加播放/停止功能。
-- 可在“我的书架”中添加多种远程存储。
-- 修复停止 TTS、移动位置后重新播放时从之前的位置开始的问题。
-- 调整阅读器工具栏的图标大小。
-- 修复其他问题。
+- 在触控和控制器设置中添加了播放和停止操作。
+- 新增全屏模式下显示或隐藏工具栏的选项。
+- 阅读器现在会保留搜索结果。
+- 我的书库现在也能搜索文件夹内的内容。
+- 现在可以长按阅读器标签页中的播放按钮，跳转到其他阅读位置。
+- 修复了其他问题。
+
+这次我们从头重写了应用的逻辑，过程中出现了一些新的问题。借助 AI，我们也在逐步实现过去只停留在构思阶段的功能。
+
+接下来一段时间，我们会检查并修复大家反馈的问题，每天或每隔一天发布一次更新。频繁更新给大家带来了不便，敬请谅解。
 </zh-CN>
 
 <zh-HK>
-- 可在一般設定中調整整個應用程式的文字和圖示大小。
-- 在觸控及控制器設定中加入播放／停止功能。
-- 可在「我的書庫」中新增多種遠端儲存空間。
-- 修正停止 TTS、移動位置後重新播放時從先前位置開始的問題。
-- 調整閱讀器工具列的圖示大小。
+- 在觸控和控制器設定中新增播放及停止操作。
+- 新增全螢幕模式下顯示或隱藏工具列的選項。
+- 閱讀器現會保留搜尋結果。
+- 我的書庫現可搜尋資料夾內的項目。
+- 現在可長按閱讀器分頁中的播放按鈕，跳到其他閱讀位置。
 - 修正其他問題。
+
+這次我們從頭重寫了應用程式的運作邏輯，過程中出現了一些新問題。在 AI 的協助下，我們也正逐步加入以往只停留在構思階段的功能。
+
+接下來一段時間，我們會檢查並修正大家回報的問題，每天或隔天推出一次更新。頻繁更新為大家帶來不便，謹此致歉。
 </zh-HK>
 
 <zh-TW>
-- 可在一般設定中調整整個應用程式的文字和圖示大小。
-- 在觸控及控制器設定中新增播放／停止功能。
-- 可在「我的書庫」中新增多種遠端儲存空間。
-- 修正停止 TTS、移動位置後重新播放時從先前位置開始的問題。
-- 調整閱讀器工具列的圖示大小。
+- 在觸控與控制器設定中新增播放和停止操作。
+- 新增全螢幕模式下顯示或隱藏工具列的選項。
+- 閱讀器現在會保留搜尋結果。
+- 我的書庫現在也能搜尋資料夾內的項目。
+- 現在可以長按閱讀器分頁中的播放按鈕，跳到其他閱讀位置。
 - 修正其他問題。
+
+這次我們從頭重寫了應用程式的運作邏輯，過程中出現了一些新問題。我們也在 AI 的協助下，逐步加入先前還在構想階段的功能。
+
+接下來一段時間，我們會檢查並修正大家回報的問題，每天或隔天發布一次更新。很抱歉，頻繁更新造成了不便。
 </zh-TW>
